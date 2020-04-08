@@ -244,7 +244,7 @@
 - [pspg](https://github.com/okbob/pspg) - Unix pager designed for work with tables. Designed for PostgreSQL, but MySQL is supported too. Now it can be used as CSV or TSV viewer.
 - [VoxelSpace](https://github.com/s-macke/VoxelSpace) - Terrain rendering algorithm in less than 20 lines of code
 - [naive-hashcat](https://github.com/brannondorsey/naive-hashcat) - Crack password hashes without the fuss :cat2:
-- [AliOS-Things](https://github.com/alibaba/AliOS-Things) - AliOS Things latest version: https://github.com/alibaba/AliOS-Things/tree/rel_3.0.0. Please go to  https://aliosthings.iot.aliyun.com to get your minimal code.
+- [AliOS-Things](https://github.com/alibaba/AliOS-Things) - AliOS Things latest version: https://github.com/alibaba/AliOS-Things/tree/rel_3.1.0 Please go to  https://aliosthings.iot.aliyun.com to get your minimal code.
 - [CVE](https://github.com/nongiach/CVE) - 
 - [pg_blkchain](https://github.com/blkchain/pg_blkchain) - PostgreSQL Blockchain Extension
 - [systemd](https://github.com/systemd/systemd) - The systemd System and Service Manager
@@ -1144,7 +1144,6 @@
 - [django-cruds-adminlte](https://github.com/oscarmlage/django-cruds-adminlte) - django-cruds is simple drop-in django app that creates CRUD for faster prototyping
 - [cs228-notes](https://github.com/ermongroup/cs228-notes) - Course notes for CS228: Probabilistic Graphical Models.
 - [workflow](https://github.com/deis/workflow) - The open source PaaS for Kubernetes.
-- [mdpdf](https://github.com/BlueHatbRit/mdpdf) - Markdown to PDF command line app with support for stylesheets
 - [devportfolio](https://github.com/RyanFitzgerald/devportfolio) - A lightweight, customizable single-page personal portfolio website template built with JavaScript and Sass
 - [style](https://github.com/tidyverse/style) - The tidyverse style guide for R code
 - [papers-I-read](https://github.com/shagunsodhani/papers-I-read) - A-Paper-A-Week
@@ -2381,7 +2380,6 @@
 - [Droid-Application-Fuzz-Framework](https://github.com/ajinabraham/Droid-Application-Fuzz-Framework) - Android application fuzzing framework with fuzzers and crash monitor.
 - [AIDL_KB](https://github.com/arthchan2003/AIDL_KB) - A Knowledge Base for the FB Group Artificial Intelligence and Deep Learning (AIDL)
 - [smart-contract-best-practices](https://github.com/ConsenSys/smart-contract-best-practices) - A guide to smart contract security best practices
-- [mkdocs-material](https://github.com/squidfunk/mkdocs-material) - A Material Design theme for MkDocs
 - [fonts](https://github.com/google/fonts) - Font files available from Google Fonts
 - [core](https://github.com/stackblitz/core) - Online IDE powered by Visual Studio Code ⚡️
 - [proposal-optional-chaining](https://github.com/tc39/proposal-optional-chaining) - 
@@ -2960,6 +2958,7 @@
 - [electron-with-server-example](https://github.com/jlongster/electron-with-server-example) - An example Electron app with a backend server all wired up via IPC
 - [git-pending](https://github.com/kamranahmedse/git-pending) - Git plugin to list TODO, FIXME, TESTME, DOCME comments in a repository
 - [carbon](https://github.com/carbon-design-system/carbon) - A design system built by IBM
+- [umi](https://github.com/umijs/umi) - 🌋 Pluggable enterprise-level react application framework.
 - [theme-ui](https://github.com/system-ui/theme-ui) - Build consistent, themeable React apps based on constraint-based design principles
 - [daterangepicker](https://github.com/dangrossman/daterangepicker) - JavaScript Date Range, Date and Time Picker Component
 - [geojson2h3](https://github.com/uber/geojson2h3) - Conversion utilities between H3 indexes and GeoJSON
@@ -3680,7 +3679,7 @@
 - [esm](https://github.com/standard-things/esm) - Tomorrow's ECMAScript modules today!
 - [transform](https://github.com/ritz078/transform) - A polyglot web converter.
 - [docker.github.io](https://github.com/docker/docker.github.io) - Source repo for Docker's Documentation
-- [drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io
+- [drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of diagrams.net
 - [vue-resume](https://github.com/luosijie/vue-resume) - Resume template based on Vue
 - [notifme-sdk](https://github.com/notifme/notifme-sdk) - A Node.js library to send all kinds of transactional notifications.
 - [trust](https://github.com/ncase/trust) - An interactive guide to the game theory of cooperation
@@ -3807,6 +3806,7 @@
 - [passport-vkontakte](https://github.com/stevebest/passport-vkontakte) - VK.com authentication strategy for Passport and Node.js
 - [nightmare](https://github.com/segmentio/nightmare) - A high-level browser automation library.
 - [tippyjs](https://github.com/atomiks/tippyjs) - Tooltip, popover, dropdown, and menu library
+- [mdpdf](https://github.com/BlueHatbRit/mdpdf) - Markdown to PDF command line app with support for stylesheets
 - [simple-chess-ai](https://github.com/lhartikk/simple-chess-ai) - A simple chess AI
 - [loopy](https://github.com/ncase/loopy) - A tool for thinking in systems
 - [ohm](https://github.com/harc/ohm) - A library and language for building parsers, interpreters, compilers, etc.
@@ -5943,7 +5943,7 @@
 - [awesome-react-hooks](https://github.com/rehooks/awesome-react-hooks) - Awesome React Hooks
 - [Powerful-Plugins](https://github.com/Hack-with-Github/Powerful-Plugins) - Powerful plugins and add-ons for hackers
 - [awesome-nodejs-security](https://github.com/lirantal/awesome-nodejs-security) - Awesome Node.js Security resources
-- [Front-End-FAQ](https://github.com/emmabostian/Front-End-FAQ) - A place to anonymously ask questions and receive answers from the dev community
+- [Front-End-FAQ](https://github.com/emmajbostian/Front-End-FAQ) - A place to anonymously ask questions and receive answers from the dev community
 - [bash-guide](https://github.com/omergulen/bash-guide) - Shell Rehberi
 - [image-to-image-papers](https://github.com/lzhbrian/image-to-image-papers) - 🦓&lt;-&gt;🦒 🌃&lt;-&gt;🌆  A collection of image to image papers with code (constantly updating)
 - [Learn_Data_Science_in_3_Months](https://github.com/llSourcell/Learn_Data_Science_in_3_Months) - This is the Curriculum for "Learn Data Science in 3 Months" By Siraj Raval on Youtube
@@ -6676,6 +6676,14 @@
 
 ## Python 
 
+- [pytube](https://github.com/nficano/pytube) - 🎞 A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos.
+- [SPFlow](https://github.com/SPFlow/SPFlow) - Sum Product Flow: An Easy and Extensible Library for Sum-Product Networks
+- [leela-zero-pytorch](https://github.com/yukw777/leela-zero-pytorch) - A simple PyTorch + PyTorch Lightning training pipeline for Leela Zero
+- [PALM](https://github.com/PaddlePaddle/PALM) - a Fast, Flexible, Extensible and Easy-to-use NLP Large-scale Pretraining and Multi-task Learning Framework.
+- [ernie](https://github.com/brunneis/ernie) - Simple State-of-the-Art BERT-Based Sentence Classification with Keras / TensorFlow 2. Built with HuggingFace's Transformers.
+- [Bert-Multi-Label-Text-Classification](https://github.com/lonePatient/Bert-Multi-Label-Text-Classification) - This repo contains a PyTorch implementation of a pretrained BERT model for multi-label text classification.
+- [Complex-YOLO](https://github.com/AI-liu/Complex-YOLO) - Complex-YOLO: Real-time 3D Object Detection on Point Clouds   pytorch  Darknet
+- [Pytorch_Mask_RCNN](https://github.com/soeaver/Pytorch_Mask_RCNN) - Converted from [tf+keras version MASK-RCNN](https://github.com/matterport/Mask_RCNN)
 - [schemathesis](https://github.com/kiwicom/schemathesis) - A tool that generates and runs test cases for Open API / Swagger based apps
 - [doc2vec](https://github.com/ibrahimsharaf/doc2vec) - Text classification using Doc2Vec embeddings
 - [role2vec](https://github.com/benedekrozemberczki/role2vec) - A scalable Gensim implementation of "Learning Role-based Graph Embeddings" (IJCAI 2018).
@@ -7301,7 +7309,7 @@
 - [torchplus](https://github.com/traveller59/torchplus) - additional functions and modules for pytorch. will be a submodule of my deeplearning project.
 - [d6tflow](https://github.com/d6t/d6tflow) - Python library for building highly effective data science workflows
 - [privacyidea](https://github.com/privacyidea/privacyidea) - :closed_lock_with_key: multi factor authentication system (2FA, MFA, OTP Server)
-- [m2cgen](https://github.com/BayesWitnesses/m2cgen) - Transform ML models into a native code (Java, C, Python, Go, JavaScript, Visual Basic, C#, R, PowerShell, PHP) with zero dependencies
+- [m2cgen](https://github.com/BayesWitnesses/m2cgen) - Transform ML models into a native code (Java, C, Python, Go, JavaScript, Visual Basic, C#, R, PowerShell, PHP, Dart) with zero dependencies
 - [databases](https://github.com/encode/databases) - Async database support for Python. 🗄
 - [ptr](https://github.com/facebookincubator/ptr) - Python Test Runner.
 - [pytest-play](https://github.com/pytest-dev/pytest-play) - pytest plugin that let you automate actions and assertions with test metrics reporting executing plain YAML files
@@ -10754,7 +10762,7 @@
 - [pipreqs](https://github.com/bndr/pipreqs) - pipreqs - Generate pip requirements.txt file based on imports of any project. Looking for maintainers to move this project forward.
 - [plyer](https://github.com/kivy/plyer) - Plyer is a platform-independent Python wrapper for platform-dependent APIs
 - [pyvim](https://github.com/prompt-toolkit/pyvim) - Pure Python Vim clone.
-- [bandicoot](https://github.com/yvesalexandre/bandicoot) - an open-source python toolbox to analyze mobile phone metadata
+- [bandicoot](https://github.com/computationalprivacy/bandicoot) - an open-source python toolbox to analyze mobile phone metadata
 - [kmodes](https://github.com/nicodv/kmodes) - Python implementations of the k-modes and k-prototypes clustering algorithms, for clustering categorical data
 - [django-background-task](https://github.com/lilspikey/django-background-task) - A database-backed work queue for Django
 - [pyneural](https://github.com/tburmeister/pyneural) - 
@@ -12407,6 +12415,7 @@
 
 ## Scala 
 
+- [mleap](https://github.com/combust/mleap) - MLeap: Deploy Spark Pipelines to Production
 - [spark-nlp](https://github.com/JohnSnowLabs/spark-nlp) - State of the Art Natural Language Processing
 - [polynote](https://github.com/polynote/polynote) - A better notebook for Scala (and more)
 - [Vegas](https://github.com/vegas-viz/Vegas) - The missing MatPlotLib for Scala + Spark
@@ -12680,7 +12689,6 @@
 - [react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design
 - [harp.gl](https://github.com/heremaps/harp.gl) - harp.gl - web map rendering engine
 - [mds-core](https://github.com/openmobilityfoundation/mds-core) - An implementation of an MDS Agency Server written in Typescript
-- [umi](https://github.com/umijs/umi) - 🌋 Pluggable enterprise-level react application framework.
 - [lightweight-charts](https://github.com/tradingview/lightweight-charts) - Financial lightweight charts built with HTML5 canvas
 - [gh-card](https://github.com/nwtgck/gh-card) - :octocat: GitHub Repository Card for Any Web Site
 - [urql](https://github.com/FormidableLabs/urql) - The highly customizable and versatile GraphQL client.
@@ -12769,6 +12777,7 @@
 - [emma-cli](https://github.com/maticzav/emma-cli) - 📦 Terminal assistant to find and install node packages.
 - [rough](https://github.com/pshihn/rough) - Create graphics with a hand-drawn, sketchy, appearance
 - [xstate](https://github.com/davidkpiano/xstate) - State machines and statecharts for the modern web.
+- [mkdocs-material](https://github.com/squidfunk/mkdocs-material) - A Material Design theme for MkDocs
 - [chrome](https://github.com/browserless/chrome) - Chrome as a service in docker. Run on our cloud, or bring your own
 - [proton-native](https://github.com/kusti8/proton-native) - A React environment for cross platform desktop apps
 - [webamp](https://github.com/captbaritone/webamp) - Winamp 2 reimplemented for the browser
