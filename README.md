@@ -184,7 +184,7 @@
 - [RedisGraph](https://github.com/RedisGraph/RedisGraph) - A graph database as a Redis module
 - [nginx-link-function](https://github.com/Taymindis/nginx-link-function) - It is a NGINX module that provides dynamic linking to your application in server context and call the function of your application in location directive
 - [ttyplot](https://github.com/tenox7/ttyplot) - a realtime plotting utility for terminal/console with data input from stdin
-- [nnn](https://github.com/jarun/nnn) - :dolphin: The missing terminal file manager for X.
+- [nnn](https://github.com/jarun/nnn) - :tangerine: The missing terminal file manager for X.
 - [opengl-framework](https://github.com/jdupuy/opengl-framework) - Cross-platform OpenGL demos
 - [nvtop](https://github.com/Syllo/nvtop) - NVIDIA GPUs htop like monitoring tool
 - [Logan](https://github.com/Meituan-Dianping/Logan) - Logan is a lightweight case logging system based on mobile platform.
@@ -2265,7 +2265,7 @@
 - [watchme](https://github.com/vsoch/watchme) - Reproducible watchers for research
 - [front-end-handbook-2019](https://github.com/FrontendMasters/front-end-handbook-2019) - [Book] 2019 edition of our front-end development handbook
 - [bestofml](https://github.com/RemoteML/bestofml) - The best resources around Machine Learning
-- [foundation](https://github.com/fp-tower/foundation) - Foundation of functional programming course
+- [foundation](https://github.com/fp-tower/foundation) - Foundation of functional programming in Scala
 - [spur-template](https://github.com/HackerThemes/spur-template) - A Bootstrap Admin Template
 - [javascript-tutorial-ru](https://github.com/iliakan/javascript-tutorial-ru) - [Предыдущая редакция] Современный учебник JavaScript
 - [Advanced-R](https://github.com/uc-r/Advanced-R) - Advanced Analytics with R training material delivered in a 2 day format
@@ -2875,7 +2875,7 @@
 - [fingerprintjs2](https://github.com/Valve/fingerprintjs2) - Modern & flexible browser fingerprinting library
 - [Detox](https://github.com/wix/Detox) - Gray box end-to-end testing and automation framework for mobile apps
 - [alpine](https://github.com/alpinejs/alpine) - A rugged, minimal framework for composing JavaScript behavior in your markup.
-- [ai-lab](https://github.com/NVAITC/ai-lab) - All-in-one AI container for rapid prototyping
+- [ai-lab](https://github.com/tlkh/ai-lab) - All-in-one AI container for rapid prototyping
 - [react-redux-realworld-example-app](https://github.com/gothinkster/react-redux-realworld-example-app) - Exemplary real world application built with React + Redux
 - [coreui-free-react-admin-template](https://github.com/coreui/coreui-free-react-admin-template) - CoreUI React is free React admin template based on Bootstrap 4
 - [pipedream](https://github.com/PipedreamHQ/pipedream) - A platform for running hosted, backend components.  Free for developers.
@@ -4596,7 +4596,6 @@
 - [InsightFace_Pytorch](https://github.com/TreB1eN/InsightFace_Pytorch) - Pytorch0.4.1 codes for InsightFace
 - [jupyters_and_slides](https://github.com/HCIT-Computing-Intelligence/jupyters_and_slides) - 
 - [CVPR-2019-Paper-Statistics](https://github.com/hoya012/CVPR-2019-Paper-Statistics) - Statistics and Visualization of acceptance rate, main keyword of CVPR 2019 accepted papers for the main Computer Vision conference (CVPR)
-- [DeepLearningExamples](https://github.com/NVIDIA/DeepLearningExamples) - Deep Learning Examples
 - [h3-py-notebooks](https://github.com/uber/h3-py-notebooks) - Jupyter notebooks for H3, a hierarchical hexagonal geospatial indexing system
 - [materials](https://github.com/realpython/materials) - Bonus materials, exercises, and example projects for our Python tutorials
 - [aws-deepracer-workshops](https://github.com/aws-samples/aws-deepracer-workshops) - DeepRacer workshop content
@@ -6177,7 +6176,7 @@
 - [learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
 - [thejsway](https://github.com/thejsway/thejsway) - The JavaScript Way book
 - [awesome-asyncio](https://github.com/timofurrer/awesome-asyncio) - A curated list of awesome Python asyncio frameworks, libraries, software and resources
-- [EffectiveTensorflow](https://github.com/vahidk/EffectiveTensorflow) - TensorFlow 1.x and 2.x tutorials and best practices.
+- [EffectiveTensorflow](https://github.com/vahidk/EffectiveTensorflow) - TensorFlow tutorials and best practices.
 - [prometheus](https://github.com/vegasbrianc/prometheus) - A docker-compose stack for Prometheus monitoring
 - [ansible-postgis3d](https://github.com/Oslandia/ansible-postgis3d) - Ansible role for postgis 3D enabled
 - [ansible-postgis](https://github.com/antarctica/ansible-postgis) - Installs the PostGIS PostgreSQL extension and optionally enables this within an 'app' db
@@ -6727,6 +6726,7 @@
 - [electra](https://github.com/google-research/electra) - ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators
 - [OpenSeq2Seq](https://github.com/NVIDIA/OpenSeq2Seq) - Toolkit for efficient experimentation with Speech Recognition, Text2Speech and NLP
 - [melgan-neurips](https://github.com/descriptinc/melgan-neurips) - GAN-based Mel-Spectrogram Inversion Network for Text-to-Speech Synthesis
+- [espnet](https://github.com/espnet/espnet) - End-to-End Speech Processing Toolkit
 - [TTS](https://github.com/mozilla/TTS) - :robot: :speech_balloon: Deep learning for Text to Speech  (Discussion forum: https://discourse.mozilla.org/c/tts)
 - [WaveRNN-Pytorch](https://github.com/G-Wang/WaveRNN-Pytorch) - Fatcord's Alternative WaveRNN (Faster training)
 - [Pytorch-Voice-Loop](https://github.com/G-Wang/Pytorch-Voice-Loop) - Implementation of Facebook's voice loop
@@ -6757,7 +6757,7 @@
 - [pytorch-yolo-v3](https://github.com/ayooshkathuria/pytorch-yolo-v3) - A PyTorch implementation of the YOLO v3 object detection algorithm
 - [newscatcher](https://github.com/kotartemiy/newscatcher) - Programmatically collect normalized news from (almost) any website.
 - [Zooming-Slow-Mo-CVPR-2020](https://github.com/Mukosame/Zooming-Slow-Mo-CVPR-2020) - Fast and Accurate One-Stage Space-Time Video Super-Resolution (accepted in CVPR 2020)
-- [selenium-python-helium](https://github.com/mherrmann/selenium-python-helium) - Selenium-python but better: Helium is the best Python library for web automation.
+- [selenium-python-helium](https://github.com/mherrmann/selenium-python-helium) - Selenium-python but lighter: Helium is the best Python library for web automation.
 - [PIFu](https://github.com/shunsukesaito/PIFu) - This repository contains the code for the paper "PIFu: Pixel-Aligned Implicit Function for High-Resolution Clothed Human Digitization"
 - [akshare](https://github.com/jindaxiang/akshare) - AkShare is an elegant and simple financial data interface library for Python, built for human beings! 一款丰富的开源财经数据接口库
 - [tf-gnn-samples](https://github.com/microsoft/tf-gnn-samples) - TensorFlow implementations of Graph Neural Networks
@@ -7160,6 +7160,7 @@
 - [modules.tf-lambda](https://github.com/antonbabenko/modules.tf-lambda) - Infrastructure as code generator - from visual diagrams created with Cloudcraft.co to Terraform
 - [confluent-kafka-python](https://github.com/confluentinc/confluent-kafka-python) - Confluent's Kafka Python Client
 - [professional-services](https://github.com/GoogleCloudPlatform/professional-services) - Common solutions and tools developed by Google Cloud's Professional Services team
+- [DeepLearningExamples](https://github.com/NVIDIA/DeepLearningExamples) - Deep Learning Examples
 - [insightface](https://github.com/deepinsight/insightface) - Face Analysis Project on MXNet
 - [keras-retinanet](https://github.com/fizyr/keras-retinanet) - Keras implementation of RetinaNet object detection.
 - [sacred](https://github.com/IDSIA/sacred) - Sacred is a tool to help you configure, organize, log and reproduce experiments developed at IDSIA.
@@ -7498,7 +7499,6 @@
 - [spinningup](https://github.com/openai/spinningup) - An educational resource to help anyone learn deep reinforcement learning.
 - [transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch.
 - [waveglow](https://github.com/NVIDIA/waveglow) - A Flow-based Generative Network for Speech Synthesis
-- [pipelines](https://github.com/kubeflow/pipelines) - Machine Learning Pipelines for Kubeflow
 - [pampy](https://github.com/santinic/pampy) - Pampy: The Pattern Matching for Python you always dreamed of.
 - [pysaml2](https://github.com/IdentityPython/pysaml2) - Python implementation of SAML2
 - [einops](https://github.com/arogozhnikov/einops) - Deep learning operations reinvented (for pytorch, tensorflow, chainer, gluon and others)
@@ -12446,7 +12446,6 @@
 ## Shell 
 
 - [wireguard-manager](https://github.com/complexorganizations/wireguard-manager) - Self-hosted Wireguard Installer / Manager for CentOS, Debian, Ubuntu, Arch, Fedora, Redhat, Raspbian
-- [espnet](https://github.com/espnet/espnet) - End-to-End Speech Processing Toolkit
 - [shlide](https://github.com/icyphox/shlide) - :framed_picture: a slide deck presentation tool written in pure bash
 - [vulhub](https://github.com/vulhub/vulhub) - Pre-Built Vulnerable Environments Based on Docker-Compose
 - [stargan-v2](https://github.com/clovaai/stargan-v2) - StarGAN v2 - Official PyTorch Implementation (CVPR 2020)
@@ -12727,6 +12726,7 @@
 - [squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
 - [material-angular-dashboard](https://github.com/CreativeIT/material-angular-dashboard) - Material Angular Admin Template
 - [wayne](https://github.com/Qihoo360/wayne) - Kubernetes multi-cluster management and publishing platform
+- [pipelines](https://github.com/kubeflow/pipelines) - Machine Learning Pipelines for Kubeflow
 - [axios-actions](https://github.com/davestewart/axios-actions) - Bundle endpoints as callable, reusable services
 - [eva-icons](https://github.com/akveo/eva-icons) - A pack of more than 480 beautifully crafted Open Source icons. SVG, Sketch, Web Font and Animations support.
 - [graphql-editor](https://github.com/graphql-editor/graphql-editor) - 📺 Visual Editor & GraphQL IDE. Draw GraphQL schemas using visual 🔷 nodes and explore GraphQL API with beautiful UI. Even 🐒 can do that!
