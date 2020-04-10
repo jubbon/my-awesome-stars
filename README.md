@@ -260,7 +260,7 @@
 - [db_tutorial](https://github.com/cstack/db_tutorial) - Writing a sqlite clone from scratch in C
 - [unit](https://github.com/nginx/unit) - An official read-only mirror of http://hg.nginx.org/unit/
 - [gjk.c](https://github.com/kroitor/gjk.c) - Gilbert-Johnson-Keerthi (GJK) collision detection algorithm in 200 lines of clean plain C
-- [openresty](https://github.com/openresty/openresty) - High Performance Web Platform Based on Ngnix and LuaJIT
+- [openresty](https://github.com/openresty/openresty) - High Performance Web Platform Based on Nginx and LuaJIT
 - [zapret](https://github.com/bol-van/zapret) - Обход DPI в linux
 - [MineCraft-One-Week-Challenge](https://github.com/Hopson97/MineCraft-One-Week-Challenge) - I challenged myself to see if I could create a voxel game (Minecraft-like) in just one week using C++ and OpenGL, and here is the result
 - [ncnn](https://github.com/Tencent/ncnn) - ncnn is a high-performance neural network inference framework optimized for the mobile platform
@@ -540,7 +540,7 @@
 - [jetson-inference](https://github.com/dusty-nv/jetson-inference) - Guide to deploying deep-learning inference networks and deep vision primitives with TensorRT and NVIDIA Jetson.
 - [mapbox-gl-native](https://github.com/mapbox/mapbox-gl-native) - Interactive, thoroughly customizable maps in native Android, iOS, macOS, Node.js, and Qt applications, powered by vector tiles and OpenGL
 - [pfaedle](https://github.com/ad-freiburg/pfaedle) - Precise map-matching for public transit feeds. Generates high-quality GTFS shapes from OSM data.
-- [cpp-taskflow](https://github.com/cpp-taskflow/cpp-taskflow) - Modern C++ Parallel Task Programming
+- [cpp-taskflow](https://github.com/cpp-taskflow/cpp-taskflow) - Modern C++ Parallel and Heterogeneous Task Programming
 - [YouTokenToMe](https://github.com/VKCOM/YouTokenToMe) - Unsupervised text tokenizer focused on computational efficiency
 - [griddb_nosql](https://github.com/griddb/griddb_nosql) - high performance, high scalability and high reliability database for IoT & big data
 - [triton-inference-server](https://github.com/NVIDIA/triton-inference-server) - The Triton Inference Server provides a cloud inferencing solution optimized for NVIDIA GPUs.
@@ -927,6 +927,7 @@
 - [veles](https://github.com/Samsung/veles) - Distributed machine learning platform
 - [protobuf](https://github.com/protocolbuffers/protobuf) - Protocol Buffers - Google's data interchange format
 - [caffe](https://github.com/BVLC/caffe) - Caffe: a fast open framework for deep learning.
+- [incubator-mxnet](https://github.com/apache/incubator-mxnet) - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more
 - [rr](https://github.com/mozilla/rr) - Record and Replay Framework
 - [vowpal_wabbit](https://github.com/VowpalWabbit/vowpal_wabbit) - Vowpal Wabbit is a machine learning system which pushes the frontier of machine learning with techniques such as online, hashing, allreduce, reductions, learning2search, active, and interactive learning.
 - [rdkit](https://github.com/rdkit/rdkit) - The official sources for the RDKit library
@@ -1740,7 +1741,7 @@
 - [fathom](https://github.com/usefathom/fathom) - Fathom Lite. Simple, privacy-focused website analytics. Built with Golang & Preact.
 - [ppds](https://github.com/shivamMg/ppds) - Pretty Print Data Structures
 - [tor-controller](https://github.com/kragniz/tor-controller) - Run Tor onion services on Kubernetes
-- [pigo](https://github.com/esimov/pigo) - Pure Go face detection library.
+- [pigo](https://github.com/esimov/pigo) - Pure Go face detection library
 - [revive](https://github.com/mgechev/revive) - 🔥 ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint.
 - [google-ctf](https://github.com/google/google-ctf) - Google CTF
 - [discovery](https://github.com/bilibili/discovery) - A registry for resilient mid-tier load balancing and failover.
@@ -2367,6 +2368,7 @@
 - [crowds](https://github.com/ncase/crowds) - The Wisdom and/or Madness of the Crowds
 - [testing-distributed-systems](https://github.com/asatarin/testing-distributed-systems) - Curated list of resources on testing distributed systems
 - [go101](https://github.com/go101/go101) - An online book focusing on Go syntax/semantics.
+- [proposal-pattern-matching](https://github.com/tc39/proposal-pattern-matching) - Pattern matching syntax for ECMAScript
 - [bitcoincore.org](https://github.com/bitcoin-core/bitcoincore.org) - Bitcoin Core project website
 - [img-2](https://github.com/RevillWeb/img-2) - Replace &lt;img /&gt; elements with &lt;img-2&gt; to automatically pre-cache images and improve page performance.
 - [theme-machine](https://github.com/HackerThemes/theme-machine) - A collection of stylized Bootstrap Themes
@@ -3048,7 +3050,7 @@
 - [osrm-text-instructions](https://github.com/Project-OSRM/osrm-text-instructions) - Text instructions from OSRM route responses
 - [aws-api-gateway-developer-portal](https://github.com/awslabs/aws-api-gateway-developer-portal) - A Serverless Developer Portal for easily publishing and cataloging APIs
 - [serverless-wsgi](https://github.com/logandk/serverless-wsgi) - Serverless plugin to deploy WSGI applications (Flask/Django/Pyramid etc.) and bundle Python packages
-- [aws-appsync-chat](https://github.com/aws-samples/aws-appsync-chat) - Real-Time Offline Ready Chat App written with GraphQL, AWS AppSync, & AWS Amplify
+- [aws-appsync-chat](https://github.com/amazon-archives/aws-appsync-chat) - Real-Time Offline Ready Chat App written with GraphQL, AWS AppSync, & AWS Amplify
 - [vue-router-prefetch](https://github.com/egoist/vue-router-prefetch) - Prefetch links when they are visible in viewport.
 - [sleek-dashboard](https://github.com/tafcoder/sleek-dashboard) - Sleek Dashboard - Free Bootstrap 4 Admin Template and UI Kit
 - [graphqless](https://github.com/tylerbuchea/graphqless) - REST and GraphQL really aren't that different. I'll prove it!
@@ -5942,7 +5944,7 @@
 - [awesome-react-hooks](https://github.com/rehooks/awesome-react-hooks) - Awesome React Hooks
 - [Powerful-Plugins](https://github.com/Hack-with-Github/Powerful-Plugins) - Powerful plugins and add-ons for hackers
 - [awesome-nodejs-security](https://github.com/lirantal/awesome-nodejs-security) - Awesome Node.js Security resources
-- [Front-End-FAQ](https://github.com/emmajbostian/Front-End-FAQ) - A place to anonymously ask questions and receive answers from the dev community
+- [Front-End-FAQ](https://github.com/emmabostian/Front-End-FAQ) - A place to anonymously ask questions and receive answers from the dev community
 - [bash-guide](https://github.com/omergulen/bash-guide) - Shell Rehberi
 - [image-to-image-papers](https://github.com/lzhbrian/image-to-image-papers) - 🦓&lt;-&gt;🦒 🌃&lt;-&gt;🌆  A collection of image to image papers with code (constantly updating)
 - [Learn_Data_Science_in_3_Months](https://github.com/llSourcell/Learn_Data_Science_in_3_Months) - This is the Curriculum for "Learn Data Science in 3 Months" By Siraj Raval on Youtube
@@ -6027,7 +6029,6 @@
 - [awesome-how-to-run-events](https://github.com/redthreadsnet/awesome-how-to-run-events) - A curated list of awesome "how to run events" resources
 - [awesome-live-reloading](https://github.com/hasura/awesome-live-reloading) - A curated collection of live-reloading / hot-reloading / watch-reloading tools for different languages and frameworks.
 - [awesome-text-summarization](https://github.com/mathsyouth/awesome-text-summarization) - A curated list of resources dedicated to text summarization
-- [proposal-pattern-matching](https://github.com/tc39/proposal-pattern-matching) - Pattern matching syntax for ECMAScript
 - [the-math-of-intelligence](https://github.com/LearnMachineLearning/the-math-of-intelligence) - List of resources & possible pathway for the Math of Machine Learning and AI.
 - [xss-payload-list](https://github.com/payloadbox/xss-payload-list) - 🎯 Cross Site Scripting ( XSS ) Vulnerability Payload List
 - [project-based-tutorials-in-c](https://github.com/rby90/project-based-tutorials-in-c) - A curated list of project-based tutorials in C
@@ -6675,6 +6676,7 @@
 
 ## Python 
 
+- [uwsgi-nginx-flask-docker](https://github.com/tiangolo/uwsgi-nginx-flask-docker) - Docker image with uWSGI and Nginx for Flask applications in Python running in a single container. Optionally with Alpine Linux.
 - [pytube](https://github.com/nficano/pytube) - 🎞 A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos.
 - [SPFlow](https://github.com/SPFlow/SPFlow) - Sum Product Flow: An Easy and Extensible Library for Sum-Product Networks
 - [leela-zero-pytorch](https://github.com/yukw777/leela-zero-pytorch) - A simple PyTorch + PyTorch Lightning training pipeline for Leela Zero
@@ -7936,7 +7938,7 @@
 - [deep-person-reid](https://github.com/KaiyangZhou/deep-person-reid) - Torchreid: Deep learning person re-identification in PyTorch.
 - [Powershell-RAT](https://github.com/Viralmaniar/Powershell-RAT) - Python based backdoor that uses Gmail to exfiltrate data through attachment. This RAT will help during red team engagements to backdoor any Windows machines. It tracks the user activity using screen capture and sends it to an attacker as an e-mail attachment.
 - [PyTorch-NLP](https://github.com/PetrochukM/PyTorch-NLP) - Basic Utilities for PyTorch Natural Language Processing (NLP)
-- [tern](https://github.com/vmware/tern) - Open Source compliance for containers
+- [tern](https://github.com/tern-tools/tern) - Open Source compliance for containers
 - [parallel-ssh](https://github.com/ParallelSSH/parallel-ssh) - Asynchronous parallel SSH client library.
 - [requests-xml](https://github.com/erinxocon/requests-xml) - Requests-XML: XML Parsing for Humans
 - [dacite](https://github.com/konradhalas/dacite) - Simple creation of data classes from dictionaries.
@@ -9440,7 +9442,7 @@
 - [open_nsfw](https://github.com/yahoo/open_nsfw) - Not Suitable for Work (NSFW) classification using deep neural network Caffe models.
 - [ubuntu-make](https://github.com/ubuntu/ubuntu-make) - Ubuntu Make
 - [SeqGAN](https://github.com/LantaoYu/SeqGAN) - Implementation of Sequence Generative Adversarial Nets with Policy Gradient
-- [googler](https://github.com/jarun/googler) - :eyes: Google from the terminal
+- [googler](https://github.com/jarun/googler) - :mag: Google from the terminal
 - [pysheeet](https://github.com/crazyguitar/pysheeet) - Python Cheat Sheet
 - [fast-wavenet](https://github.com/tomlepaine/fast-wavenet) - Speedy Wavenet generation using dynamic programming :zap:
 - [noteshrink](https://github.com/mzucker/noteshrink) - Convert scans of handwritten notes to beautiful, compact PDFs
@@ -10243,7 +10245,6 @@
 - [PyMarkovChain](https://github.com/TehMillhouse/PyMarkovChain) - Simple markov chain implementation in python
 - [canvas](https://github.com/canvasnetworks/canvas) - Canv.as backend and frontend
 - [balise](https://github.com/kz26/balise) - A portable, lightweight, locally-hosted IPv4 and IPv6 geolocation API/server
-- [incubator-mxnet](https://github.com/apache/incubator-mxnet) - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more
 - [greenhat](https://github.com/angusshire/greenhat) - :construction_worker: Quick hack for making real work happen.
 - [neural-style](https://github.com/anishathalye/neural-style) - Neural style in TensorFlow! 🎨
 - [dcgan_code](https://github.com/Newmu/dcgan_code) - Deep Convolutional Generative Adversarial Networks
@@ -12928,6 +12929,7 @@
 
 ## Vue 
 
+- [flask-frontend-docker](https://github.com/tiangolo/flask-frontend-docker) - Minimal project generator with a Flask backend, a modern frontend (Vue, React or Angular), a Traefik load balancer with HTTPS, all based on Docker.
 - [vuepress-theme-reco](https://github.com/vuepress-reco/vuepress-theme-reco) - 💥 A simple and beautiful vuepress Blog & Doc theme.
 - [sub-web](https://github.com/CareyWang/sub-web) - 
 - [beauty-vuejs-boilerplate](https://github.com/zmts/beauty-vuejs-boilerplate) - ❤️ Real world base Vue.js app. Access/refresh tokens auth, api services, http client, vuex modules
@@ -13013,7 +13015,7 @@
 - [mysigmail](https://github.com/antonreshetov/mysigmail) - UI Email Signature Generator - Make easy to create your email signature
 - [splayerx](https://github.com/chiflix/splayerx) - SPlayerX@2018
 - [vue2-simplert-plugin](https://github.com/mazipan/vue2-simplert-plugin) - ⚠️🔌  Vue2-Simplert as Vue.js Plugins
-- [vue-cal](https://github.com/antoniandre/vue-cal) - A Vue JS full calendar, no dependency, no BS. :metal:  V3 IS OUT! :tada::rocket:
+- [vue-cal](https://github.com/antoniandre/vue-cal) - A Vue JS full calendar, no dependency, no BS. :metal:
 - [vuepress-theme-yubisaki](https://github.com/Yubisaki/vuepress-theme-yubisaki) - :sparkles: A blog theme for vuepress
 - [vue-pure-lightbox](https://github.com/DCzajkowski/vue-pure-lightbox) - Very simple lightbox plugin (without any dependencies) for Vuejs 🌅
 - [maeve](https://github.com/antrancs/maeve) - Maeve, a PWA Apple Music web player with Last.fm support. Built with Vue & Typescript
