@@ -227,7 +227,6 @@
 - [bitwise](https://github.com/pervognsen/bitwise) - Bitwise is an educational project where we create the software/hardware stack for a computer from scratch.
 - [os-tutorial](https://github.com/cfenollosa/os-tutorial) - How to create an OS from scratch
 - [scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
-- [fst](https://github.com/fstpackage/fst) - Lightning Fast Serialization of Data Frames for R
 - [CTTK](https://github.com/pornin/CTTK) - Constant-Time Toolkit
 - [LCUI](https://github.com/lc-soft/LCUI) - A small C library for building user interfaces with C, XML and CSS.
 - [masscan](https://github.com/robertdavidgraham/masscan) - TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
@@ -440,6 +439,7 @@
 
 ## C# # 
 
+- [acr-tasks](https://github.com/Azure-Samples/acr-tasks) - A collection samples for ACR Tasks, including acr-task.yaml and Dockerfiles.
 - [Microsoft-Rocketbox](https://github.com/microsoft/Microsoft-Rocketbox) - Microsoft Rocketbox is now available for research and academic use! The library of 115 rigged avatars offers flexibility, enabling the easy use of facial animations across characters and the mixing and matching of texture elements.
 - [furniture](https://github.com/clvrai/furniture) - IKEA Furniture Assembly Environment for Long-Horizon Complex Manipulation Tasks
 - [Reinforcement-Learning-Based-Decision-Tree](https://github.com/chriswblake/Reinforcement-Learning-Based-Decision-Tree) - Generation and evaluation of a decision tree using reinforcement learning.
@@ -465,6 +465,11 @@
 
 ## C++ 
 
+- [TRTorch](https://github.com/NVIDIA/TRTorch) - Ahead-of-time compilation of TorchScript / PyTorch JIT for NVIDIA GPUs
+- [benchmark](https://github.com/google/benchmark) - A microbenchmark support library
+- [vosk-api](https://github.com/alphacep/vosk-api) - Kaldi API for Android, Python and Node
+- [rpcs3](https://github.com/RPCS3/rpcs3) - PS3 emulator/debugger
+- [onnx-tensorrt](https://github.com/onnx/onnx-tensorrt) - ONNX-TensorRT: TensorRT backend for ONNX
 - [cuda-samples](https://github.com/NVIDIA/cuda-samples) - Samples for CUDA Developers which demonstrates features in CUDA Toolkit
 - [xbmc](https://github.com/xbmc/xbmc) - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS and Windows.
 - [graph-learn](https://github.com/alibaba/graph-learn) - graph-learn
@@ -972,6 +977,7 @@
 
 ## CSS 
 
+- [DashMachine](https://github.com/rmountjoy92/DashMachine) - Another web application bookmark dashboard, with fun features.
 - [rwi_executive_dashboard](https://github.com/splunk/rwi_executive_dashboard) - Splunk Remote Work Insights - Executive Dashboard
 - [git-workflow-merge-conflicts-lab](https://github.com/learn-co-curriculum/git-workflow-merge-conflicts-lab) - 
 - [vscode-plugin](https://github.com/kiteco/vscode-plugin) - Kite Python Assistant for Visual Studio Code
@@ -1319,6 +1325,7 @@
 
 ## Clojure 
 
+- [FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures
 - [riemann](https://github.com/riemann/riemann) - A network event stream processing system, in Clojure.
 - [oss.io](https://github.com/bcambel/oss.io) - Developers gathering up
 
@@ -1456,7 +1463,6 @@
 
 ## Dockerfile 
 
-- [acr-tasks](https://github.com/Azure-Samples/acr-tasks) - A collection samples for ACR Tasks, including acr-task.yaml and Dockerfiles.
 - [docker_images](https://github.com/osrf/docker_images) - A repository to hold definitions of docker images maintained by OSRF
 - [python](https://github.com/docker-library/python) - Docker Official Image packaging for Python
 - [mssql-docker](https://github.com/microsoft/mssql-docker) - Official Microsoft repository for SQL Server in Docker resources
@@ -1506,7 +1512,7 @@
 
 ## Fortran 
 
-- [pymc](https://github.com/pymc-devs/pymc) - PyMC: Bayesian Stochastic Modelling in Python (DEPRECATED: for PyMC3: https://github.com/pymc-devs/pymc3)
+- [pymc](https://github.com/pymc-devs/pymc) - THIS IS THE **OLD** PYMC PROJECT. PLEASE USE PYMC3 INSTEAD:
 
 ## GLSL 
 
@@ -2183,6 +2189,10 @@
 
 ## HTML 
 
+- [CNN-Architectures](https://github.com/Machine-Learning-Tokyo/CNN-Architectures) - 
+- [docsy](https://github.com/google/docsy) - A set of Hugo doc templates for launching open source content.
+- [node-ytdl-core](https://github.com/fent/node-ytdl-core) - YouTube video downloader in javascript.
+- [forecasting](https://github.com/microsoft/forecasting) - Time Series Forecasting Best Practices & Examples
 - [ml-workshop-3-of-4](https://github.com/amueller/ml-workshop-3-of-4) - Advanced Machine Learning with Scikit-learn part I
 - [nlpbuddy](https://github.com/eellak/nlpbuddy) - A text analysis application for performing common NLP tasks through a web dashboard interface and an API
 - [222-responsive-icon-nav-css](https://github.com/fireship-io/222-responsive-icon-nav-css) - A Simple Responsive Animated CSS Icon Navbar
@@ -2194,7 +2204,7 @@
 - [awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [repo-badges](https://github.com/dwyl/repo-badges) - :star: Use repo badges (build passing, coverage, etc) in your readme/markdown file to signal code quality in a project.
 - [kubelabs](https://github.com/collabnix/kubelabs) - Kubernetes - Beginners | Intermediate | Advanced
-- [tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 400 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 450 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [russe](https://github.com/nlpub/russe) - RUSSE: Russian Semantic Evaluation.
 - [pytorch-for-numpy-users](https://github.com/wkentaro/pytorch-for-numpy-users) - PyTorch for Numpy users. https://pytorch-for-numpy-users.wkentaro.com
 - [github-markdown-css](https://github.com/sindresorhus/github-markdown-css) - The minimal amount of CSS to replicate the GitHub Markdown style
@@ -2861,6 +2871,7 @@
 
 ## JavaScript 
 
+- [web-skills](https://github.com/andreasbm/web-skills) - A visual overview of useful skills to learn as a web developer
 - [headless-cat-n-mouse](https://github.com/paulirish/headless-cat-n-mouse) - Is headless chrome currently detectable? Let's pit the detections and detection evasions against eachother.
 - [label-studio](https://github.com/heartexlabs/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format
 - [webviz](https://github.com/cruise-automation/webviz) - web-based visualization libraries
@@ -3462,7 +3473,7 @@
 - [webpack-demos](https://github.com/ruanyf/webpack-demos) - a collection of simple demos of Webpack
 - [simple_tensorflow_serving](https://github.com/tobegit3hub/simple_tensorflow_serving) - Generic and easy-to-use serving service for machine learning models
 - [cors](https://github.com/expressjs/cors) - Node.js CORS middleware
-- [vue-auth](https://github.com/websanova/vue-auth) - Jwt Auth library for Vue.js.
+- [vue-auth](https://github.com/websanova/vue-auth) - A simple light-weight authentication library for Vue.js
 - [test-cors.org](https://github.com/monsur/test-cors.org) - A tool to help test CORS requests
 - [starhackit](https://github.com/FredericHeem/starhackit) - StarHackIt: React/Native/Node fullstack starter kit with authentication and authorisation, data backed by SQL.
 - [UglifyJS2](https://github.com/mishoo/UglifyJS2) - JavaScript parser / mangler / compressor / beautifier toolkit
@@ -4430,6 +4441,13 @@
 
 ## Jupyter Notebook 
 
+- [Bidirectional-Attention-Flow-for-Machine-Comprehension](https://github.com/Sshanu/Bidirectional-Attention-Flow-for-Machine-Comprehension) - Machine Comprehension using Squad and Triviqa Data sets
+- [squad](https://github.com/AnatoliiPotapov/squad) - 
+- [nlp_ryan](https://github.com/aiscientist/nlp_ryan) - Study for Natural Language Processing & Deep Learning Framework
+- [the-craft-of-selfteaching](https://github.com/selfteaching/the-craft-of-selfteaching) - One has no future if one couldn't teach themself.
+- [scikit-learn-tips](https://github.com/justmarkham/scikit-learn-tips) - :robot::zap: Daily scikit-learn tips
+- [6S083](https://github.com/mitmath/6S083) - Materials for MIT 6.S083 / 18.S190: Computational thinking with Julia + application to the COVID-19 pandemic
+- [geemap](https://github.com/giswqs/geemap) - A Python package for interactive mapping with Google Earth Engine, ipyleaflet, and ipywidgets
 - [compling_nlp_hse_course](https://github.com/mannefedov/compling_nlp_hse_course) - Материалы курса по компьютерной лингвистике Школы Лингвистики НИУ ВШЭ
 - [log-anomaly-detector](https://github.com/AICoE/log-anomaly-detector) - Log Anomaly Detection - Machine learning to detect abnormal events logs
 - [Pandas-Data-Science-Tasks](https://github.com/KeithGalli/Pandas-Data-Science-Tasks) - Set of real world data science tasks completed using the Python Pandas library
@@ -5585,6 +5603,7 @@
 
 ## Lua 
 
+- [Hierarchical-Attention-Model](https://github.com/sunprinceS/Hierarchical-Attention-Model) - :page_facing_up: HierAttModel for Question Answering
 - [docker-jitsi-meet](https://github.com/jitsi/docker-jitsi-meet) - Jitsi Meet on Docker
 - [trashnet](https://github.com/garythung/trashnet) - Dataset of images of trash; Torch-based CNN for garbage image classification
 - [incubator-apisix](https://github.com/apache/incubator-apisix) - Cloud-Native Microservices API Gateway
@@ -5663,6 +5682,7 @@
 
 ## Objective-C 
 
+- [praat](https://github.com/praat/praat) - Praat: Doing Phonetics By Computer
 - [cordova-background-geolocation-lt](https://github.com/transistorsoft/cordova-background-geolocation-lt) - The most sophisticated background location-tracking & geofencing module with battery-conscious motion-detection intelligence for iOS and Android.
 - [detect.location](https://github.com/KrauseFx/detect.location) - An easy way to access the user's iOS location data without actually having access
 - [titanium_mobile](https://github.com/appcelerator/titanium_mobile) - 🚀 Native iOS-, Android- and Windows Apps with JavaScript
@@ -5681,6 +5701,11 @@
 
 ## Others 
 
+- [Awesome-Machine-Comprehension](https://github.com/shagunsodhani/Awesome-Machine-Comprehension) - List of papers, datasets and other resources related to Machine Comprehension
+- [Reading-Comprehension-Question-Answering-Papers](https://github.com/xanhho/Reading-Comprehension-Question-Answering-Papers) - Survey on Machine Reading Comprehension
+- [awesome-qa](https://github.com/seriousran/awesome-qa) - 😎 A curated list of the Question Answering (QA)
+- [statrethinking_winter2019](https://github.com/rmcelreath/statrethinking_winter2019) - Statistical Rethinking course at MPI-EVA from Dec 2018 through Feb 2019
+- [amundsen](https://github.com/lyft/amundsen) - Amundsen is a metadata driven application for improving the productivity of data analysts, data scientists and engineers when interacting with data.
 - [bug-bounty-reference](https://github.com/ngalongc/bug-bounty-reference) - Inspired by https://github.com/djadmin/awesome-bug-bounty, a list of bug bounty write-up that is categorized by the bug nature
 - [learning-bioinformatics-at-home](https://github.com/harvardinformatics/learning-bioinformatics-at-home) - resources for learning bioinformatics
 - [awesome-semantic-segmentation](https://github.com/mrgloom/awesome-semantic-segmentation) - :metal: awesome-semantic-segmentation
@@ -6676,6 +6701,34 @@
 
 ## Python 
 
+- [imgclsmob](https://github.com/osmr/imgclsmob) - Sandbox for training convolutional networks for computer vision
+- [udify](https://github.com/Hyperparticle/udify) - A single model that parses Universal Dependencies across 75 languages. Given a sentence, jointly predicts part-of-speech tags, morphology tags, lemmas, and dependency trees.
+- [camphr](https://github.com/PKSHATechnology-Research/camphr) - spaCy plugin for  Transformers , Udify, ELmo, etc.
+- [rl-baselines-zoo](https://github.com/araffin/rl-baselines-zoo) - A collection of 100+ pre-trained RL agents using Stable Baselines, training and hyperparameter optimization included.
+- [Protobot](https://github.com/SwapneelM/Protobot) - Prototyping a Chatbot using Jack the Reader
+- [GraphFlow](https://github.com/hugochan/GraphFlow) - Code & data accompanying the ICML2019 workshop paper "GraphFlow: Exploiting Conversation Flow with Graph Neural Networks for Conversational Machine Comprehension"
+- [caesar](https://github.com/longhuei/caesar) - Context Awareness-Enabled Summary Attentive Reader (CAESAR)
+- [ReadingComprehension](https://github.com/imraviagrawal/ReadingComprehension) - Bi-Directional Attention Flow for Machine Comprehensions
+- [FlowDelta](https://github.com/MiuLab/FlowDelta) - FlowDelta: Modeling Flow Information Gain in Reasoning for Conversational Machine Comprehension
+- [squad_rasor_nn](https://github.com/hsgodhia/squad_rasor_nn) - Pytorch implementation of the RaSoR paper "Learning Recurrent Span Representations for Extractive Question Answering" (Lee et al. 2016) and experiments with various neural components
+- [TOEFL-QA](https://github.com/iamyuanchung/TOEFL-QA) - A question answering dataset for machine comprehension of spoken content
+- [bidaf-keras](https://github.com/ParikhKadam/bidaf-keras) - Bidirectional Attention Flow for Machine Comprehension implemented in Keras 2
+- [character-mining](https://github.com/emorynlp/character-mining) - Mining individual characters in multiparty dialogue
+- [R-NET-in-Tensorflow](https://github.com/unilight/R-NET-in-Tensorflow) - R-NET implementation in TensorFlow.
+- [Match-LSTM](https://github.com/laddie132/Match-LSTM) - A PyTorch implemention of Match-LSTM, R-NET and M-Reader for Machine Reading Comprehension
+- [FusionNet-NLI](https://github.com/momohuang/FusionNet-NLI) - An example for applying FusionNet to Natural Language Inference
+- [MnemonicReader](https://github.com/HKUST-KnowComp/MnemonicReader) - A PyTorch implementation of Mnemonic Reader for the Machine Comprehension task
+- [ALBERT-TF2.0](https://github.com/kamalkraj/ALBERT-TF2.0) - ALBERT model Pretraining and Fine Tuning using TF2.0
+- [R-Net](https://github.com/HKUST-KnowComp/R-Net) - Tensorflow Implementation of R-Net
+- [QANet](https://github.com/NLPLearn/QANet) - A Tensorflow implementation of QANet for machine reading comprehension
+- [Practical-Ethical-Hacking-Resources](https://github.com/Gr1mmie/Practical-Ethical-Hacking-Resources) - Compilation of Resources from TCM's Udemy Course
+- [SSV](https://github.com/NVlabs/SSV) - Pytorch implementation of SSV: Self-Supervised Viewpoint Learning from Image Collections (CVPR 2020)
+- [alimama-common-performance-platform-acp](https://github.com/alibaba/alimama-common-performance-platform-acp) - alimama-common-performance platform(acp)
+- [simclr](https://github.com/google-research/simclr) - SimCLR - A Simple Framework for Contrastive Learning of Visual Representations
+- [FairMOT](https://github.com/ifzhang/FairMOT) - A simple baseline for one-shot multi-object tracking
+- [kivy](https://github.com/kivy/kivy) - Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS
+- [eat_tensorflow2_in_30_days](https://github.com/lyhue1991/eat_tensorflow2_in_30_days) - Tensorflow2.0 🍎🍊 is delicious, just eat it! 😋😋
+- [avatarify](https://github.com/alievk/avatarify) - Avatars for Zoom and Skype
 - [uwsgi-nginx-flask-docker](https://github.com/tiangolo/uwsgi-nginx-flask-docker) - Docker image with uWSGI and Nginx for Flask applications in Python running in a single container. Optionally with Alpine Linux.
 - [pytube](https://github.com/nficano/pytube) - 🎞 A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos.
 - [SPFlow](https://github.com/SPFlow/SPFlow) - Sum Product Flow: An Easy and Extensible Library for Sum-Product Networks
@@ -9427,7 +9480,7 @@
 - [Clairvoyant](https://github.com/anfederico/Clairvoyant) - Software designed to identify and monitor social/historical cues for short term stock movement
 - [erpnext](https://github.com/frappe/erpnext) - Open Source Alternative to SAP
 - [flask-jwt-extended](https://github.com/vimalloc/flask-jwt-extended) - An open source Flask extension that provides JWT support (with batteries included)!
-- [streamlink](https://github.com/streamlink/streamlink) - CLI for extracting streams from various websites to a video player of your choosing
+- [streamlink](https://github.com/streamlink/streamlink) - Streamlink is a CLI utility which pipes video streams from various services into a video player
 - [ck-crowdtuning](https://github.com/ctuning/ck-crowdtuning) - Collective Knowledge crowd-tuning extension to let users crowdsource their experiments (using portable Collective Knowledge workflows) such as performance benchmarking, auto tuning and machine learning across diverse platforms with Linux, Windows, MacOS and Android provided by volunteers. Demo of DNN crowd-benchmarking and crowd-tuning:
 - [ck-env](https://github.com/ctuning/ck-env) - CK repository with components and automation actions to enable portable workflows across diverse platforms including Linux, Windows, MacOS and Android. It includes software detection plugins and meta packages (code, data sets, models, scripts, etc) with the possibility of multiple versions to co-exist in a user or system environment:
 - [traces](https://github.com/datascopeanalytics/traces) - A Python library for unevenly-spaced time series analysis
@@ -10374,7 +10427,7 @@
 - [python-statsd](https://github.com/WoLpH/python-statsd) - Python Client for the Etsy NodeJS Statsd Server
 - [pyelftools](https://github.com/eliben/pyelftools) - Parsing ELF and DWARF in Python
 - [memory_profiler](https://github.com/pythonprofilers/memory_profiler) - Monitor Memory usage of Python code
-- [line_profiler](https://github.com/rkern/line_profiler) - Line-by-line profiling for Python
+- [line_profiler](https://github.com/rkern/line_profiler) - (OLD REPO) Line-by-line profiling for Python - Current repo -&gt;
 - [django-devserver](https://github.com/dcramer/django-devserver) - A drop-in replacement for Django's runserver.
 - [pylama](https://github.com/klen/pylama) - Code audit tool for python.
 - [dumbo](https://github.com/klbostee/dumbo) - Python module that allows one to easily write and run Hadoop programs.
@@ -12191,6 +12244,7 @@
 - [bidifac](https://github.com/lockEF/bidifac) - Bidimensional matrix factorization
 - [aws.iam](https://github.com/cloudyr/aws.iam) - AWS IAM Client Package
 - [nyc-trips](https://github.com/Quartz/nyc-trips) - Analysis of rideshare trips taken in New York City.
+- [fst](https://github.com/fstpackage/fst) - Lightning Fast Serialization of Data Frames for R
 - [ggpage](https://github.com/EmilHvitfeldt/ggpage) - Creates Page Layout Visualizations in R 📄📄📄
 - [rrtools](https://github.com/benmarwick/rrtools) - rrtools: Tools for Writing Reproducible Research in R
 - [ggfittext](https://github.com/wilkox/ggfittext) - 🔠 ggplot2 geoms to fit text into boxes
@@ -12446,6 +12500,8 @@
 
 ## Shell 
 
+- [Spoken-SQuAD](https://github.com/chiahsuan156/Spoken-SQuAD) - A spoken question answering dataset on SQUAD
+- [ODSQA](https://github.com/chiahsuan156/ODSQA) - ODSQA: OPEN-DOMAIN SPOKEN QUESTION ANSWERING DATASET
 - [wireguard-manager](https://github.com/complexorganizations/wireguard-manager) - Self-hosted Wireguard Installer / Manager for CentOS, Debian, Ubuntu, Arch, Fedora, Redhat, Raspbian
 - [shlide](https://github.com/icyphox/shlide) - :framed_picture: a slide deck presentation tool written in pure bash
 - [vulhub](https://github.com/vulhub/vulhub) - Pre-Built Vulnerable Environments Based on Docker-Compose
@@ -12929,6 +12985,7 @@
 
 ## Vue 
 
+- [MQTTX](https://github.com/emqx/MQTTX) - MQTT X - Cross-platform MQTT desktop client
 - [flask-frontend-docker](https://github.com/tiangolo/flask-frontend-docker) - Minimal project generator with a Flask backend, a modern frontend (Vue, React or Angular), a Traefik load balancer with HTTPS, all based on Docker.
 - [vuepress-theme-reco](https://github.com/vuepress-reco/vuepress-theme-reco) - 💥 A simple and beautiful vuepress Blog & Doc theme.
 - [sub-web](https://github.com/CareyWang/sub-web) - 
