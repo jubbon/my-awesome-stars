@@ -1552,7 +1552,7 @@
 - [godog](https://github.com/cucumber/godog) - Cucumber for golang
 - [aws-vault](https://github.com/99designs/aws-vault) - A vault for securely storing and accessing AWS credentials in development environments
 - [go-gitlab](https://github.com/xanzy/go-gitlab) - A GitLab API client enabling Go programs to interact with GitLab in a simple and uniform way
-- [micro](https://github.com/micro/micro) - Micro is a microservices runtime for the Cloud
+- [micro](https://github.com/micro/micro) - Micro is a distributed service runtime for the Cloud
 - [go-github](https://github.com/google/go-github) - Go library for accessing the GitHub API
 - [nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
 - [migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
@@ -1607,7 +1607,7 @@
 - [cloud-builders-community](https://github.com/GoogleCloudPlatform/cloud-builders-community) - Community-contributed images for Google Cloud Build
 - [geziyor](https://github.com/geziyor/geziyor) - Geziyor, a fast web crawling & scraping framework for Go. Supports JS rendering.
 - [devdash](https://github.com/Phantas0s/devdash) - :bento: Highly Configurable Terminal Dashboard for Developers
-- [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics - fast, cost-effective and scalable time series database, long-term remote storage for Prometheus
+- [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics - fast, cost-effective and scalable time series database
 - [go-docker-compose](https://github.com/callicoder/go-docker-compose) - Golang Docker Compose Example
 - [mr2](https://github.com/txthinking/mr2) - Mr.2 can help you expose local server to external network. Support both TCP/UDP, of course support HTTP.  Zero-Configuration.
 - [trivy](https://github.com/aquasecurity/trivy) - A Simple and Comprehensive Vulnerability Scanner for Containers, Suitable for CI
@@ -2385,7 +2385,7 @@
 - [vue-promise-btn](https://github.com/STUkh/vue-promise-btn) - Vue.js plugin that handles buttons async lock state. Demo: https://stukh.github.io/vue-promise-btn/
 - [webdash](https://github.com/jadjoubran/webdash) - 🔥 Orchestrate your web project with Webdash the customizable web dashboard
 - [tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
-- [djangox](https://github.com/wsvincent/djangox) - A framework for launching new Django projects quickly.
+- [djangox](https://github.com/wsvincent/djangox) - Django starter project with batteries
 - [import-maps](https://github.com/WICG/import-maps) - How to control the behavior of JavaScript imports
 - [frontend-nanodegree-styleguide](https://github.com/udacity/frontend-nanodegree-styleguide) - Official FEND style guides
 - [design-system-components](https://github.com/govau/design-system-components) - 🛠 Component code and tests for the Australian Government design system
@@ -3123,7 +3123,7 @@
 - [aws-serverless-workshops](https://github.com/aws-samples/aws-serverless-workshops) - Code and walkthrough labs to set up serverless applications for Wild Rydes workshops
 - [react-firebase-starter](https://github.com/kriasoft/react-firebase-starter) - Boilerplate (seed) project for creating web apps with React.js, GraphQL.js and Relay
 - [vue-lazy-image-loading](https://github.com/subotkevic/vue-lazy-image-loading) - Vue lazy image and background loading plugin.
-- [statusfy](https://github.com/bazzite/statusfy) - A Marvelous Open Source Status Page System
+- [statusfy](https://github.com/aceforth/statusfy) - A Marvelous Open Source Status Page System
 - [unified](https://github.com/unifiedjs/unified) - ☔️ interface for parsing, inspecting, transforming, and serializing content through syntax trees
 - [tensorspace](https://github.com/tensorspace-team/tensorspace) - Neural network 3D visualization framework, build interactive and intuitive model in browsers, support pre-trained deep learning models from TensorFlow, Keras, TensorFlow.js
 - [FeatureServer](https://github.com/koopjs/FeatureServer) - An open source Geoservices Implementation
@@ -4083,6 +4083,7 @@
 - [speech-to-text-nodejs](https://github.com/watson-developer-cloud/speech-to-text-nodejs) - :microphone: Sample Node.js Application for the IBM Watson Speech to Text Service
 - [ng-material-floating-button](https://github.com/nobitagit/ng-material-floating-button) - Material design floating menu with action buttons implemented as an Angularjs directive.
 - [minidocs](https://github.com/freeman-lab/minidocs) - build a minimalist site for your documentation
+- [ant-design](https://github.com/ant-design/ant-design) - 🌈 A UI Design Language and React UI library
 - [marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [atomic-docs](https://github.com/nickberens360/atomic-docs) - Front end code documentation generator. http://atomicdocs.io/
 - [javascript-journey](https://github.com/bahmutov/javascript-journey) - Source code for blog post Journey from procedural to reactive JavaScript with stops
@@ -4286,7 +4287,7 @@
 - [code2flow](https://github.com/scottrogowski/code2flow) - Turn your Python and Javascript code into DOT flowcharts
 - [moment](https://github.com/moment/moment) - Parse, validate, manipulate, and display dates in javascript.
 - [Dendrite](https://github.com/Lab41/Dendrite) - People. Places. Things. Graphs.
-- [handlebars.js](https://github.com/wycats/handlebars.js) - 
+- [handlebars.js](https://github.com/handlebars-lang/handlebars.js) - 
 - [pure](https://github.com/pure/pure) - PURE Unobtrusive Rendering Engine for HTML
 - [transparency](https://github.com/leonidas/transparency) - Transparency is a semantic template engine for the browser. It maps JSON objects to DOM elements by id, class and data-bind attributes.
 - [NeighborDiff](https://github.com/codeforamerica/NeighborDiff) - NeighborDiff is a simple site for citizens to update and detail their neighborhood map through CartoDB.
@@ -5826,7 +5827,7 @@
 - [DEPRECATED-patrol](https://github.com/mapbox/DEPRECATED-patrol) - DEPRECATED - An AWS Lambda powered monitoring framework for security, compliance, and best practices.
 - [community](https://github.com/tensorflow/community) - Stores documents used by the TensorFlow developer community
 - [slides](https://github.com/mlss-2019/slides) - 
-- [javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (March 2020)
+- [javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (April 2020)
 - [awesome-dataset-tools](https://github.com/jsbroks/awesome-dataset-tools) - 🔧 A curated list of awesome dataset tools
 - [StudyBook](https://github.com/changwookjun/StudyBook) - Study E-Book(ComputerVision DeepLearning MachineLearning Math NLP Python ReinforcementLearning)
 - [Awesome-Cellular-Hacking](https://github.com/W00t3k/Awesome-Cellular-Hacking) - Awesome-Cellular-Hacking
@@ -8415,7 +8416,7 @@
 - [minipos](https://github.com/simon-v/minipos) - A self-hosted, 0-confirmation Bitcoin Cash point-of-sale server (GitHub mirror)
 - [pytorch-pose-hg-3d](https://github.com/xingyizhou/pytorch-pose-hg-3d) - PyTorch implementation for 3D human pose estimation
 - [django-heroku](https://github.com/heroku/django-heroku) - A Django library for Heroku apps.
-- [Anubis](https://github.com/jonluca/Anubis) - Subdomain enumeration and information gathering tool
+- [Anubis](https://github.com/jonluca/Anubis) - 🔓Subdomain enumeration and information gathering tool
 - [HereIsWally](https://github.com/tadejmagajna/HereIsWally) - Deep learning project that solves Where's Wally puzzles by finding Wally in an image
 - [colour-detection](https://github.com/Godley/colour-detection) - python module for doing colour detection
 - [firefox-privacy-restorer](https://github.com/shawnanastasio/firefox-privacy-restorer) - A script to modify your Firefox preferences to disable telemetry, built-in advertisements, and data collection anti-features
@@ -12933,10 +12934,9 @@
 - [flatpickr](https://github.com/flatpickr/flatpickr) - lightweight, powerful javascript datetimepicker with no dependencies
 - [hyper](https://github.com/zeit/hyper) - A terminal built on web technologies
 - [etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
-- [ant-design](https://github.com/ant-design/ant-design) - 🌈 A UI Design Language and React UI library
 - [Leaflet.timeline](https://github.com/skeate/Leaflet.timeline) - Display arbitrary GeoJSON on a map with a timeline slider and play button
 - [ngx-admin](https://github.com/akveo/ngx-admin) - Customizable admin dashboard template based on Angular 8+
-- [blaze](https://github.com/BlazeSoftware/blaze) - Framework-free open source UI toolkit
+- [atoms](https://github.com/BlazeSoftware/atoms) - Atoms for Blaze UI
 - [ionicons](https://github.com/ionic-team/ionicons) - The premium icon font for Ionic Framework and web apps everywhere
 - [playground](https://github.com/tensorflow/playground) - Play with neural networks!
 - [bricklayer](https://github.com/ademilter/bricklayer) - Lightweight and independent Pinterest-like cascading grid layout library
