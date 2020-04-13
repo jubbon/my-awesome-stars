@@ -184,7 +184,7 @@
 - [RedisGraph](https://github.com/RedisGraph/RedisGraph) - A graph database as a Redis module
 - [nginx-link-function](https://github.com/Taymindis/nginx-link-function) - It is a NGINX module that provides dynamic linking to your application in server context and call the function of your application in location directive
 - [ttyplot](https://github.com/tenox7/ttyplot) - a realtime plotting utility for terminal/console with data input from stdin
-- [nnn](https://github.com/jarun/nnn) - :tangerine: The missing terminal file manager for X.
+- [nnn](https://github.com/jarun/nnn) - nnn turns 3! :cake:
 - [opengl-framework](https://github.com/jdupuy/opengl-framework) - Cross-platform OpenGL demos
 - [nvtop](https://github.com/Syllo/nvtop) - NVIDIA GPUs htop like monitoring tool
 - [Logan](https://github.com/Meituan-Dianping/Logan) - Logan is a lightweight case logging system based on mobile platform.
@@ -1479,6 +1479,7 @@
 - [Docker-GitPitch](https://github.com/kns-it/Docker-GitPitch) - 
 - [docker-python-chromedriver](https://github.com/joyzoursky/docker-python-chromedriver) - Dockerfile for running Python Selenium in headless Chrome (Python 2.7 / 3.6 / 3.7 / 3.8 / Alpine based Python / Chromedriver / Selenium / Xvfb included in different versions)
 - [nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
+- [nginx-rtmp-docker](https://github.com/tiangolo/nginx-rtmp-docker) - Docker image with Nginx using the nginx-rtmp-module module for live multimedia (video) streaming.
 - [docker-ansible](https://github.com/William-Yeh/docker-ansible) - Docker images for Ansible software, installed in a selected Linux distributions (Debian/Ubuntu/CentOS/Alpine).
 - [giropops-monitoring](https://github.com/badtuxx/giropops-monitoring) - Full stack tools for monitoring containers and other stuff. ;)
 - [containers](https://github.com/BioContainers/containers) - Bioinformatics containers
@@ -2871,6 +2872,7 @@
 
 ## JavaScript 
 
+- [endpoints-example](https://github.com/endpoints/endpoints-example) - an example api written using endpoints
 - [web-skills](https://github.com/andreasbm/web-skills) - A visual overview of useful skills to learn as a web developer
 - [headless-cat-n-mouse](https://github.com/paulirish/headless-cat-n-mouse) - Is headless chrome currently detectable? Let's pit the detections and detection evasions against eachother.
 - [label-studio](https://github.com/heartexlabs/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format
@@ -3248,7 +3250,7 @@
 - [luma.gl](https://github.com/uber/luma.gl) - High-performance Toolkit for WebGL-based Data Visualization
 - [traffic-simulation-cluj-napoca](https://github.com/MarcusGitAccount/traffic-simulation-cluj-napoca) - Prototyping a traffic simulator for Cluj-Napoca using html5 canvas and a lot of maths and basic AI.
 - [Leaflet.FreeDraw](https://github.com/Wildhoney/Leaflet.FreeDraw) - :earth_asia: FreeDraw allows the free-hand drawing of shapes on your Leaflet.js map layer – providing an intuitive and familiar UX for creating geospatial boundaries similar to Zoopla and others. Included out-of-the-box is the concaving of polygons, polygon merging and simplifying, as well as the ability to add edges and modify existing shapes.
-- [WebODM](https://github.com/OpenDroneMap/WebODM) - 📷 ✈ User-friendly, extendable application and API for processing aerial imagery.
+- [WebODM](https://github.com/OpenDroneMap/WebODM) - User-friendly, commercial grade software for processing aerial imagery. 🛩
 - [supercluster](https://github.com/mapbox/supercluster) - A very fast geospatial point clustering library for browsers and Node.
 - [eon-map](https://github.com/pubnub/eon-map) - Realtime maps with PubNub and MapBox.
 - [simplebar](https://github.com/Grsmto/simplebar) - Custom scrollbars vanilla javascript library with native scroll, done simple, lightweight, easy to use and cross-browser.
@@ -6103,7 +6105,6 @@
 - [android-ktx](https://github.com/android/android-ktx) - A set of Kotlin extensions for Android app development.
 - [yandex-money-joinup](https://github.com/yandex-money/yandex-money-joinup) - 
 - [introducing-ethereum-solidity](https://github.com/Apress/introducing-ethereum-solidity) - Source code for 'Introducing Ethereum and Solidity' by Chris Dannen
-- [nginx-rtmp-docker](https://github.com/tiangolo/nginx-rtmp-docker) - Docker image with Nginx using the nginx-rtmp-module module for live multimedia (video) streaming.
 - [Xiaomi_Kernel_OpenSource](https://github.com/MiCode/Xiaomi_Kernel_OpenSource) - Xiaomi Mobile Phone Kernel OpenSource
 - [FreeML](https://github.com/Shujian2015/FreeML) - A List of Data Science/Machine Learning Resources (Mostly Free)
 - [javascript-knowhow](https://github.com/lidaguang1989/javascript-knowhow) - 
@@ -6362,7 +6363,7 @@
 - [comver](https://github.com/staltz/comver) - MIGRATED TO https://gitlab.com/staltz/comver
 - [material-remixer](https://github.com/material-foundation/material-remixer) - A set of cross-platform libraries and protocols to allow the sharing of design values and live refinement of apps during the development process.
 - [TheRemoteFreelancer](https://github.com/engineerapart/TheRemoteFreelancer) - Listing of community-curated resources to find topical remote freelance & contract work for software developers, web designers, and more!
-- [.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh My Tmux! Pretty & versatile tmux configuration made with ❤️ (imho the best tmux configuration that just works)
+- [.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh My Tmux! Pretty & versatile tmux configuration / customization made with ❤️
 - [games](https://github.com/leereilly/games) - :video_game: A list of popular/awesome videos games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
 - [franz-app-legacy](https://github.com/meetfranz/franz-app-legacy) - 
 - [asyncio](https://github.com/python/asyncio) - asyncio historical repository
@@ -6702,6 +6703,7 @@
 
 ## Python 
 
+- [marshmallow-jsonapi](https://github.com/marshmallow-code/marshmallow-jsonapi) - JSON API 1.0 (https://jsonapi.org/) formatting with marshmallow
 - [imgclsmob](https://github.com/osmr/imgclsmob) - Sandbox for training convolutional networks for computer vision
 - [udify](https://github.com/Hyperparticle/udify) - A single model that parses Universal Dependencies across 75 languages. Given a sentence, jointly predicts part-of-speech tags, morphology tags, lemmas, and dependency trees.
 - [camphr](https://github.com/PKSHATechnology-Research/camphr) - spaCy plugin for  Transformers , Udify, ELmo, etc.
@@ -6815,7 +6817,7 @@
 - [Zooming-Slow-Mo-CVPR-2020](https://github.com/Mukosame/Zooming-Slow-Mo-CVPR-2020) - Fast and Accurate One-Stage Space-Time Video Super-Resolution (accepted in CVPR 2020)
 - [selenium-python-helium](https://github.com/mherrmann/selenium-python-helium) - Selenium-python but lighter: Helium is the best Python library for web automation.
 - [PIFu](https://github.com/shunsukesaito/PIFu) - This repository contains the code for the paper "PIFu: Pixel-Aligned Implicit Function for High-Resolution Clothed Human Digitization"
-- [akshare](https://github.com/jindaxiang/akshare) - AkShare is an elegant and simple financial data interface library for Python, built for human beings! 一款丰富的开源财经数据接口库
+- [akshare](https://github.com/jindaxiang/akshare) - AkShare is an elegant and simple financial data interface library for Python, built for human beings!
 - [tf-gnn-samples](https://github.com/microsoft/tf-gnn-samples) - TensorFlow implementations of Graph Neural Networks
 - [tf2-gnn](https://github.com/microsoft/tf2-gnn) - TensorFlow 2 library implementing Graph Neural Networks
 - [Fast_Sentence_Embeddings](https://github.com/oborchers/Fast_Sentence_Embeddings) - Compute Sentence Embeddings Fast!
@@ -7348,7 +7350,7 @@
 - [beagle](https://github.com/yampelo/beagle) - Beagle is an incident response and digital forensics tool which transforms security logs and data into graphs.
 - [requests-async](https://github.com/encode/requests-async) - async-await support for `requests`. ✨ 🍰 ✨
 - [prefect](https://github.com/PrefectHQ/prefect) - The Prefect workflow platform
-- [BMSG-GAN](https://github.com/akanimax/BMSG-GAN) - [MSG-GAN] Any body can GAN! Highly stable and robust architecture. Requires little to no hyperparameter tuning.
+- [BMSG-GAN](https://github.com/akanimax/BMSG-GAN) - [MSG-GAN] Any body can GAN! Highly stable and robust architecture. Requires little to no hyperparameter tuning. Pytorch Implementation
 - [FeatherNets_Face-Anti-spoofing-Attack-Detection-Challenge-CVPR2019](https://github.com/SoftwareGift/FeatherNets_Face-Anti-spoofing-Attack-Detection-Challenge-CVPR2019) - Code for 3rd Place Solution in Face Anti-spoofing Attack Detection Challenge @ CVPR2019,model only 0.35M!!! 1.88ms(CPU)
 - [cartography](https://github.com/lyft/cartography) - Cartography is a Python tool that consolidates infrastructure assets and the relationships between them in an intuitive graph view powered by a Neo4j database.
 - [automl-gs](https://github.com/minimaxir/automl-gs) - Provide an input CSV and a target field to predict, generate a model + code to run it.
@@ -7513,7 +7515,7 @@
 - [lambda-runtime-pypy3.5](https://github.com/iopipe/lambda-runtime-pypy3.5) - AWS Lambda Runtime for PyPy 3.5
 - [Mumbai-slum-segmentation](https://github.com/cbsudux/Mumbai-slum-segmentation) - Mumbai slum segmentation and change detection on statellite images.
 - [gandissect](https://github.com/CSAILVision/gandissect) - Pytorch-based tools for visualizing and understanding the neurons of a GAN.  https://gandissect.csail.mit.edu/
-- [d2l-en](https://github.com/d2l-ai/d2l-en) - Dive into Deep Learning: an interactive deep learning book on Jupyter notebooks, using the NumPy interface.
+- [d2l-en](https://github.com/d2l-ai/d2l-en) - An interactive deep learning book with code, math, and discussions, based on the NumPy interface.
 - [satpy](https://github.com/pytroll/satpy) - Python package for earth-observing satellite data processing
 - [celluloid](https://github.com/jwkvam/celluloid) - :movie_camera: Matplotlib animations made easy
 - [redis-namespace](https://github.com/guokr/redis-namespace) - namespaced subset of your redis keyspace
@@ -8822,7 +8824,7 @@
 - [transformer](https://github.com/Kyubyong/transformer) - A TensorFlow Implementation of the Transformer: Attention Is All You Need
 - [rtfm](https://github.com/leostat/rtfm) - A database of common, interesting or useful commands, in one handy referable form
 - [goSecure](https://github.com/nsacyber/goSecure) - An easy to use and portable Virtual Private Network (VPN) system built with Linux and a Raspberry Pi. #nsacyber
-- [dash](https://github.com/plotly/dash) - Analytical Web Apps for Python & R. No JavaScript Required.
+- [dash](https://github.com/plotly/dash) - Analytical Web Apps for Python, R, and Julia. No JavaScript Required.
 - [Reinforcement-learning-with-tensorflow](https://github.com/MorvanZhou/Reinforcement-learning-with-tensorflow) - Simple Reinforcement learning tutorials
 - [DocumentClassification](https://github.com/liu-nlper/DocumentClassification) - This code implements a simple CNN model for document classification with tensorflow.
 - [now.httpbin.org](https://github.com/not-kennethreitz/now.httpbin.org) - An API (for Humans) for converting timestamps.
@@ -10439,7 +10441,7 @@
 - [SimpleCV](https://github.com/sightmachine/SimpleCV) - The Open Source Framework for Machine Vision
 - [glumpy](https://github.com/glumpy/glumpy) - Python+Numpy+OpenGL: fast, scalable and beautiful scientific visualization
 - [pyqtgraph](https://github.com/pyqtgraph/pyqtgraph) - Fast data visualization and GUI tools for scientific / engineering applications
-- [plotly.py](https://github.com/plotly/plotly.py) - An open-source, interactive graphing library for Python (includes Plotly Express) :sparkles:
+- [plotly.py](https://github.com/plotly/plotly.py) - The interactive graphing library for Python (includes Plotly Express) :sparkles:
 - [SciPy-CookBook](https://github.com/mpastell/SciPy-CookBook) - Scipy cookbook converted to Sphinx
 - [numba](https://github.com/numba/numba) - NumPy aware dynamic Python compiler using LLVM
 - [bcbb](https://github.com/chapmanb/bcbb) - Incubator for useful bioinformatics code, primarily in Python and R
