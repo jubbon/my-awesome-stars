@@ -184,7 +184,7 @@
 - [RedisGraph](https://github.com/RedisGraph/RedisGraph) - A graph database as a Redis module
 - [nginx-link-function](https://github.com/Taymindis/nginx-link-function) - It is a NGINX module that provides dynamic linking to your application in server context and call the function of your application in location directive
 - [ttyplot](https://github.com/tenox7/ttyplot) - a realtime plotting utility for terminal/console with data input from stdin
-- [nnn](https://github.com/jarun/nnn) - nnn turns 3! :cake:
+- [nnn](https://github.com/jarun/nnn) - :tangerine: The missing terminal file manager for X.
 - [opengl-framework](https://github.com/jdupuy/opengl-framework) - Cross-platform OpenGL demos
 - [nvtop](https://github.com/Syllo/nvtop) - NVIDIA GPUs htop like monitoring tool
 - [Logan](https://github.com/Meituan-Dianping/Logan) - Logan is a lightweight case logging system based on mobile platform.
@@ -465,6 +465,7 @@
 
 ## C++ 
 
+- [mindspore](https://github.com/mindspore-ai/mindspore) - MindSpore is a new open source deep learning training/inference framework that could be used for mobile, edge and cloud scenarios.
 - [TRTorch](https://github.com/NVIDIA/TRTorch) - Ahead-of-time compilation of TorchScript / PyTorch JIT for NVIDIA GPUs
 - [benchmark](https://github.com/google/benchmark) - A microbenchmark support library
 - [vosk-api](https://github.com/alphacep/vosk-api) - Kaldi API for Android, Python and Node
@@ -1413,7 +1414,7 @@
 - [flutter-todos](https://github.com/asjqkkkk/flutter-todos) - 📝 one day list app created by flutter!
 - [flutter_ui_challenges](https://github.com/lohanidamodar/flutter_ui_challenges) - Trying to replicate various app UIs in flutter
 - [flutter-tutorials](https://github.com/FilledStacks/flutter-tutorials) - The repo contains the source code for all the tutorials on the FilledStacks Youtube channel.
-- [flutter_easyrefresh](https://github.com/xuelongqy/flutter_easyrefresh) - A widget provided to the flutter scroll component pull-refresh and push-load.
+- [flutter_easyrefresh](https://github.com/xuelongqy/flutter_easyrefresh) - A flutter widget that provides pull-down refresh and pull-up load.
 - [FlutterWhatsAppClone](https://github.com/iampawan/FlutterWhatsAppClone) - Building a WhatsApp Clone in Flutter.
 - [flutter_blue](https://github.com/pauldemarco/flutter_blue) - Bluetooth plugin for Flutter
 - [Flutter-Story-App-UI](https://github.com/devefy/Flutter-Story-App-UI) - 
@@ -1553,7 +1554,7 @@
 - [godog](https://github.com/cucumber/godog) - Cucumber for golang
 - [aws-vault](https://github.com/99designs/aws-vault) - A vault for securely storing and accessing AWS credentials in development environments
 - [go-gitlab](https://github.com/xanzy/go-gitlab) - A GitLab API client enabling Go programs to interact with GitLab in a simple and uniform way
-- [micro](https://github.com/micro/micro) - Micro is a distributed service runtime for the Cloud
+- [micro](https://github.com/micro/micro) - Micro is a distributed systems runtime for the Cloud
 - [go-github](https://github.com/google/go-github) - Go library for accessing the GitHub API
 - [nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
 - [migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
@@ -2266,6 +2267,7 @@
 - [istio.io](https://github.com/istio/istio.io) - Source for the istio.io site
 - [ml-workshop-2-of-4](https://github.com/amueller/ml-workshop-2-of-4) - Intermediate Machine Learning with Scikit-learn, 4h interactive workshop
 - [My-Learning-Tracker](https://github.com/Syknapse/My-Learning-Tracker) - Keeping track of my web development skills and learning in one place along with resources, highlights, interests, and everything to do with my learning.
+- [ml-workshop-4-of-4](https://github.com/amueller/ml-workshop-4-of-4) - Advanced Machine Learning with Scikit-learn part II
 - [nataliemarleny.github.io](https://github.com/nataliemarleny/nataliemarleny.github.io) - A GitHubbified Resume using Primer CSS, a d3.js customised heatmap and illustrated with Figma
 - [devops-essentials-sample-app](https://github.com/linuxacademy/devops-essentials-sample-app) - 
 - [ctf-wiki](https://github.com/ctf-wiki/ctf-wiki) - CTF Wiki Online. Come and join us, we need you!
@@ -2386,7 +2388,6 @@
 - [vue-promise-btn](https://github.com/STUkh/vue-promise-btn) - Vue.js plugin that handles buttons async lock state. Demo: https://stukh.github.io/vue-promise-btn/
 - [webdash](https://github.com/jadjoubran/webdash) - 🔥 Orchestrate your web project with Webdash the customizable web dashboard
 - [tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
-- [djangox](https://github.com/wsvincent/djangox) - Django starter project with batteries
 - [import-maps](https://github.com/WICG/import-maps) - How to control the behavior of JavaScript imports
 - [frontend-nanodegree-styleguide](https://github.com/udacity/frontend-nanodegree-styleguide) - Official FEND style guides
 - [design-system-components](https://github.com/govau/design-system-components) - 🛠 Component code and tests for the Australian Government design system
@@ -2916,6 +2917,7 @@
 - [serverless-aws-static-file-handler](https://github.com/activescott/serverless-aws-static-file-handler) - Easily serve static files with the Serverless Framework on AWS Lambda.
 - [Leaflet.Control.Layers.Tree](https://github.com/jjimenezshaw/Leaflet.Control.Layers.Tree) - a Tree Layers Control for Leaflet
 - [zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt) - Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨
+- [react-typescript-cheatsheet](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet) - Cheatsheets for experienced React developers getting started with TypeScript
 - [stealing-ur-feelings](https://github.com/noahlevenson/stealing-ur-feelings) - Winner of Mozilla's $50,000 prize for art and advocacy exploring AI
 - [kubernetes-basicLearning](https://github.com/knrt10/kubernetes-basicLearning) - Understand kubernetes step by step. A simple repo for beginners :fire:
 - [joi](https://github.com/hapijs/joi) - The most powerful data validation library for JS
@@ -3467,7 +3469,7 @@
 - [vue-session](https://github.com/victorsferreira/vue-session) - A simplistic session plugin for VueJS backed by SessionStorage and LocalStorage
 - [vue-cordova-demo](https://github.com/kartsims/vue-cordova-demo) - Demo for vue-cordova NPM package
 - [terriajs](https://github.com/TerriaJS/terriajs) - A library for building rich, web-based geospatial data explorers.
-- [leaflet-geosearch](https://github.com/smeijer/leaflet-geosearch) - Leaflet geosearching/geocoding control
+- [leaflet-geosearch](https://github.com/smeijer/leaflet-geosearch) - (Leaflet) GeoSearch / GeoCode provider
 - [tangram](https://github.com/tangrams/tangram) - WebGL map rendering engine for creative cartography
 - [vue-fineuploader](https://github.com/Elhebert/vue-fineuploader) - Easily integrate Fine Uploader into a VueJS 2 app. Drop-in high-level components for a turn-key UI. Use small focused components to build a more custom UI.
 - [sockette](https://github.com/lukeed/sockette) - The cutest little WebSocket wrapper! 🧦
@@ -4629,7 +4631,6 @@
 - [asteroids_atlas_of_space](https://github.com/eleanorlutz/asteroids_atlas_of_space) - Code, data, and instructions for mapping orbits of asteroids in the solar system
 - [Neural_Networks_and_CV](https://github.com/SlinkoIgor/Neural_Networks_and_CV) - 
 - [deeplearning-models](https://github.com/rasbt/deeplearning-models) - A collection of various deep learning architectures, models, and tips
-- [ml-workshop-4-of-4](https://github.com/amueller/ml-workshop-4-of-4) - Advanced Machine Learning with Scikit-learn part II
 - [private-ai](https://github.com/udacity/private-ai) - Repo for Udacity's Secure & Private AI course
 - [SimpleSelfAttention](https://github.com/sdoria/SimpleSelfAttention) - A simpler version of the self-attention layer from SAGAN, and some image classification results.
 - [augmented-neural-odes](https://github.com/EmilienDupont/augmented-neural-odes) - Pytorch implementation of Augmented Neural ODEs :sunflower:
@@ -4859,7 +4860,7 @@
 - [tensorflow-without-a-phd](https://github.com/GoogleCloudPlatform/tensorflow-without-a-phd) - A crash course in six episodes for software developers who want to become machine learning practitioners.
 - [DinoRunTutorial](https://github.com/Paperspace/DinoRunTutorial) - Accompanying code for Paperspace tutorial "Build an AI to play Dino Run"
 - [feature-engineering-book](https://github.com/alicezheng/feature-engineering-book) - Code repo for the book "Feature Engineering for Machine Learning," by Alice Zheng and Amanda Casari, O'Reilly 2018
-- [improved-seam-carving](https://github.com/axu2/improved-seam-carving) - A numpy implementation of forward energy from the paper “Improved Seam Carving for Video Retargeting"
+- [improved-seam-carving](https://github.com/axu2/improved-seam-carving) - A numpy implementation of forward energy from the paper “Improved Seam Carving for Video Retargeting" (2008)
 - [joint-vae](https://github.com/Schlumberger/joint-vae) - Pytorch implementation of JointVAE, a framework for disentangling continuous and discrete factors of variation :star2:
 - [RL-Adventure-2](https://github.com/higgsfield/RL-Adventure-2) - PyTorch0.4 implementation of: actor critic / proximal policy optimization / acer / ddpg / twin dueling ddpg / soft actor critic / generative adversarial imitation learning / hindsight experience replay
 - [kepler.gl](https://github.com/keplergl/kepler.gl) - Kepler.gl is a powerful open source geospatial analysis tool for large-scale data sets.
@@ -5731,7 +5732,6 @@
 - [learn2learn](https://github.com/G-Wang/learn2learn) - PyTorch Meta-learning Framework for Researchers
 - [MelGAN-Pytorch](https://github.com/G-Wang/MelGAN-Pytorch) - A Pytorch Implementation of MelGAN
 - [nlp_paper_summaries](https://github.com/dair-ai/nlp_paper_summaries) - ✍️ A carefully curated list of NLP paper summaries
-- [data-science-interviews](https://github.com/alexeygrigorev/data-science-interviews) - Data science interview questions and answers
 - [modern-typescript-with-examples-cheat-sheet](https://github.com/David-Else/modern-typescript-with-examples-cheat-sheet) - Fully printable summary of modern TypeScript language features with extensive examples to help you learn
 - [DeepLearningEE](https://github.com/RaviVijay/DeepLearningEE) - Collection of Papers and Trials on Deep Learning to aid EE design
 - [MAST](https://github.com/zlai0/MAST) - MAST: A Memory-Augmented Self-supervised Tracker (CVPR 2020)
@@ -5787,7 +5787,6 @@
 - [Production-Level-Deep-Learning](https://github.com/alirezadir/Production-Level-Deep-Learning) - A guideline for building practical production-level deep learning systems to be deployed in real world applications.
 - [tvt](https://github.com/deepmind/tvt) - 
 - [system_design](https://github.com/shashank88/system_design) - Preparation links and resources for system design questions
-- [start-here-guidelines](https://github.com/zero-to-mastery/start-here-guidelines) - Lets Git started in the world of opensource, starting in the Zero To Mastery's opensource playground. Especially designed for education and practical experience purposes.
 - [spec](https://github.com/oam-dev/spec) - The Open Application Model specification
 - [Artificial-Intelligence](https://github.com/Niraj-Lunavat/Artificial-Intelligence) - Awesome AI Learning with +100 AI Cheat-Sheets, Free online Books, Top Courses, Best Videos and Lectures, Papers, Tutorials, +99 Researchers, Premium Websites, +121 Datasets, Conferences, Frameworks, Tools
 - [best-practices-checklist](https://github.com/palash25/best-practices-checklist) - A list of awesome idiomatic code resources. Rust:crab:, Go, Ruby:gem:, Pony :horse:, Ocaml :camel:, Erlang and more
@@ -5798,7 +5797,6 @@
 - [awesome-graph](https://github.com/jbmusso/awesome-graph) - A curated list of resources for graph databases and graph computing tools
 - [For-Data-Science-Beginners](https://github.com/amrrs/For-Data-Science-Beginners) - Set of 📝 with 🔗 to help those who are Data Science beginners 🤖
 - [awesome-libra](https://github.com/reed-hong/awesome-libra) - A Curated List of Awesome Facebook Libra Resources
-- [react-typescript-cheatsheet](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet) - Cheatsheets for experienced React developers getting started with TypeScript
 - [awesome-point-cloud-analysis](https://github.com/Yochengliu/awesome-point-cloud-analysis) - A list of papers and datasets about point cloud analysis (processing)
 - [how-to-exit-vim](https://github.com/hakluke/how-to-exit-vim) - Below are some simple methods for exiting vim.
 - [aws-modern-application-workshop](https://github.com/aws-samples/aws-modern-application-workshop) - A tutorial for developers that want to learn about how to build modern applications on top of AWS. You will build a sample website that leverages infrastructure as code, containers, serverless code functions, CI/CD, and more.
@@ -6703,6 +6701,11 @@
 
 ## Python 
 
+- [marshmallow-oneofschema](https://github.com/marshmallow-code/marshmallow-oneofschema) - Marshmallow library extension that allows schema (de)multiplexing
+- [marshmallow_dataclass](https://github.com/lovasoa/marshmallow_dataclass) - Automatic generation of marshmallow schemas from dataclasses.
+- [aiohttp-apispec](https://github.com/maximdanilchenko/aiohttp-apispec) - Build and document REST APIs with aiohttp and apispec
+- [django-rest-marshmallow](https://github.com/marshmallow-code/django-rest-marshmallow) - Marshmallow schemas for Django REST framework
+- [marshmallow-sqlalchemy](https://github.com/marshmallow-code/marshmallow-sqlalchemy) - SQLAlchemy integration with marshmallow
 - [marshmallow-jsonapi](https://github.com/marshmallow-code/marshmallow-jsonapi) - JSON API 1.0 (https://jsonapi.org/) formatting with marshmallow
 - [imgclsmob](https://github.com/osmr/imgclsmob) - Sandbox for training convolutional networks for computer vision
 - [udify](https://github.com/Hyperparticle/udify) - A single model that parses Universal Dependencies across 75 languages. Given a sentence, jointly predicts part-of-speech tags, morphology tags, lemmas, and dependency trees.
@@ -6726,7 +6729,7 @@
 - [QANet](https://github.com/NLPLearn/QANet) - A Tensorflow implementation of QANet for machine reading comprehension
 - [Practical-Ethical-Hacking-Resources](https://github.com/Gr1mmie/Practical-Ethical-Hacking-Resources) - Compilation of Resources from TCM's Udemy Course
 - [SSV](https://github.com/NVlabs/SSV) - Pytorch implementation of SSV: Self-Supervised Viewpoint Learning from Image Collections (CVPR 2020)
-- [alimama-common-performance-platform-acp](https://github.com/alibaba/alimama-common-performance-platform-acp) - alimama-common-performance platform(acp)
+- [alimama-common-performance-platform-acp](https://github.com/alibaba/alimama-common-performance-platform-acp) - common-performance platform&tools(acp)   c++/python.  分布式性能测试工具
 - [simclr](https://github.com/google-research/simclr) - SimCLR - A Simple Framework for Contrastive Learning of Visual Representations
 - [FairMOT](https://github.com/ifzhang/FairMOT) - A simple baseline for one-shot multi-object tracking
 - [kivy](https://github.com/kivy/kivy) - Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS
@@ -8020,6 +8023,7 @@
 - [brotlipy](https://github.com/python-hyper/brotlipy) - Python bindings to the Brotli compression library
 - [pytorch-template](https://github.com/victoresque/pytorch-template) - PyTorch deep learning projects made easy.
 - [porcupine](https://github.com/Picovoice/porcupine) - On-device wake word detection powered by deep learning.
+- [djangox](https://github.com/wsvincent/djangox) - Django starter project with batteries
 - [GyoiThon](https://github.com/gyoisamurai/GyoiThon) - GyoiThon is a growing penetration test tool using Machine Learning.
 - [livelossplot](https://github.com/stared/livelossplot) - Live training loss plot in Jupyter Notebook for Keras, PyTorch and others
 - [upvote](https://github.com/google/upvote) - A multi-platform binary whitelisting solution
@@ -8351,7 +8355,7 @@
 - [sentiment-discovery](https://github.com/NVIDIA/sentiment-discovery) - Unsupervised Language Modeling at scale for robust sentiment classification
 - [MatchZoo](https://github.com/NTMC-Community/MatchZoo) - Facilitating the design, comparison and sharing of deep text matching models.
 - [pix2pixHD](https://github.com/NVIDIA/pix2pixHD) - Synthesizing and manipulating 2048x1024 images with conditional GANs
-- [skorch](https://github.com/skorch-dev/skorch) - A scikit-learn compatible neural network library that wraps pytorch
+- [skorch](https://github.com/skorch-dev/skorch) - A scikit-learn compatible neural network library that wraps PyTorch
 - [prettyprinter](https://github.com/tommikaikkonen/prettyprinter) - Syntax-highlighting, declarative and composable pretty printer for Python 3.5+
 - [pomodoro](https://github.com/mehdidc/pomodoro) - simple command line pomodoro app with visualization of statistics
 - [chainer-chemistry](https://github.com/chainer/chainer-chemistry) - Chainer Chemistry: A Library for Deep Learning in Biology and Chemistry
@@ -12372,6 +12376,7 @@
 
 ## Ruby 
 
+- [data-science-interviews](https://github.com/alexeygrigorev/data-science-interviews) - Data science interview questions and answers
 - [air_hockey_quine](https://github.com/tompng/air_hockey_quine) - Network Battle Air Hockey Quine
 - [ciao](https://github.com/brotandgames/ciao) - HTTP checks & tests (private & public) monitoring - check the status of your URL
 - [endoflife.date](https://github.com/endoflife-date/endoflife.date) - Informative site with EoL dates of everything
@@ -12503,6 +12508,7 @@
 
 ## Shell 
 
+- [xtreme](https://github.com/google-research/xtreme) - 
 - [Spoken-SQuAD](https://github.com/chiahsuan156/Spoken-SQuAD) - A spoken question answering dataset on SQUAD
 - [ODSQA](https://github.com/chiahsuan156/ODSQA) - ODSQA: OPEN-DOMAIN SPOKEN QUESTION ANSWERING DATASET
 - [wireguard-manager](https://github.com/complexorganizations/wireguard-manager) - Self-hosted Wireguard Installer / Manager for CentOS, Debian, Ubuntu, Arch, Fedora, Redhat, Raspbian
@@ -12511,6 +12517,7 @@
 - [stargan-v2](https://github.com/clovaai/stargan-v2) - StarGAN v2 - Official PyTorch Implementation (CVPR 2020)
 - [fabric-samples](https://github.com/hyperledger/fabric-samples) - 
 - [AcademicContent](https://github.com/microsoft/AcademicContent) - Free tech resources for faculty, students, researchers, life-long learners, and academic community builders for use in tech based courses, workshops, and hackathons.
+- [start-here-guidelines](https://github.com/zero-to-mastery/start-here-guidelines) - Lets Git started in the world of opensource, starting in the Zero To Mastery's opensource playground. Especially designed for education and practical experience purposes.
 - [bitnami-docker-kafka](https://github.com/bitnami/bitnami-docker-kafka) - Bitnami Docker Kafka
 - [docker-odoo-project](https://github.com/camptocamp/docker-odoo-project) - Base images for Odoo projects
 - [tensorflow-build-archived](https://github.com/lakshayg/tensorflow-build-archived) - TensorFlow binaries supporting AVX, FMA, SSE
@@ -13135,7 +13142,7 @@
 - [v-uploader](https://github.com/TerryZ/v-uploader) - A Vue2 plugin make files upload simple and easier, single file upload with image preview, multiple upload with drag and drop
 - [shards-vue](https://github.com/DesignRevision/shards-vue) - 🌟Shards Vue is a free, beautiful and modern Vue.js UI kit based on Shards.
 - [vue-auth-vuex](https://github.com/christiannwamba/vue-auth-vuex) - 
-- [yandex-dialogs-client](https://github.com/popstas/yandex-dialogs-client) - Клиент для тестирования навыков Яндекс.Диалогов Алисы локально
+- [yandex-dialogs-client](https://github.com/popstas/yandex-dialogs-client) - Тестирование навыков Яндекс.Диалогов Алисы с автотестами
 - [SignificantTrades](https://github.com/Tucsky/SignificantTrades) - better than 1 min chart
 - [portfolio-vuepress](https://github.com/forestryio/portfolio-vuepress) - Vuepress portfolio
 - [vue-material-admin](https://github.com/tookit/vue-material-admin) - A vue material design admin template
