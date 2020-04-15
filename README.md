@@ -351,7 +351,7 @@
 - [CarTracker](https://github.com/x893/CarTracker) - CarTracker
 - [radare2](https://github.com/radareorg/radare2) - UNIX-like reverse engineering framework and command-line toolset
 - [patchkit](https://github.com/lunixbochs/patchkit) - binary patching from Python
-- [librevault](https://github.com/Librevault/librevault) - Librevault - Peer-to-peer, decentralized and open source file sync.
+- [librevault](https://github.com/librevault/librevault) - Librevault - Peer-to-peer, decentralized and open source file sync.
 - [write-ups-2016](https://github.com/ctfs/write-ups-2016) - Wiki-like CTF write-ups repository, maintained by the community. 2016
 - [nginx-rtmp-module](https://github.com/arut/nginx-rtmp-module) - NGINX-based Media Streaming Server
 - [vita-toolchain](https://github.com/vitasdk/vita-toolchain) - 
@@ -2907,6 +2907,7 @@
 - [BullshitGenerator](https://github.com/menzi11/BullshitGenerator) - Needs to generate some texts to test if my GUI rendering codes good or not. so I made this.
 - [moment-timezone](https://github.com/moment/moment-timezone) - Timezone support for moment.js
 - [Face-Detection-JavaScript](https://github.com/WebDevSimplified/Face-Detection-JavaScript) - 
+- [AcademicContent](https://github.com/microsoft/AcademicContent) - Free tech resources for faculty, students, researchers, life-long learners, and academic community builders for use in tech based courses, workshops, and hackathons.
 - [pwnagotchi](https://github.com/evilsocket/pwnagotchi) - (⌐■_■) - Deep Reinforcement Learning instrumenting bettercap for WiFi pwning.
 - [ARC](https://github.com/fchollet/ARC) - The Abstraction and Reasoning Corpus
 - [lighthouse](https://github.com/VKCOM/lighthouse) - Lightweight interface for ClickHouse
@@ -3249,7 +3250,7 @@
 - [AiExperiments](https://github.com/ash47/AiExperiments) - Here's a bunch of experimental self learning AIs
 - [h3-js](https://github.com/uber/h3-js) - h3-js provides a JavaScript version of H3, a hexagon-based geospatial indexing system.
 - [vis-academy](https://github.com/uber-common/vis-academy) - A set of tutorials on how our frameworks make effective data visualization applications.
-- [luma.gl](https://github.com/uber/luma.gl) - High-performance Toolkit for WebGL-based Data Visualization
+- [luma.gl](https://github.com/visgl/luma.gl) - High-performance Toolkit for WebGL-based Data Visualization
 - [traffic-simulation-cluj-napoca](https://github.com/MarcusGitAccount/traffic-simulation-cluj-napoca) - Prototyping a traffic simulator for Cluj-Napoca using html5 canvas and a lot of maths and basic AI.
 - [Leaflet.FreeDraw](https://github.com/Wildhoney/Leaflet.FreeDraw) - :earth_asia: FreeDraw allows the free-hand drawing of shapes on your Leaflet.js map layer – providing an intuitive and familiar UX for creating geospatial boundaries similar to Zoopla and others. Included out-of-the-box is the concaving of polygons, polygon merging and simplifying, as well as the ability to add edges and modify existing shapes.
 - [WebODM](https://github.com/OpenDroneMap/WebODM) - User-friendly, commercial grade software for processing aerial imagery. 🛩
@@ -3914,7 +3915,7 @@
 - [gron](https://github.com/FGRibreau/gron) - gron - Make JSON greppable!
 - [whs.js](https://github.com/WhitestormJS/whs.js) - :rocket: 🌪 Super-fast 3D framework for Web Applications 🥇 & Games 🎮. Based on Three.js
 - [DjangoX](https://github.com/JoneXiong/DjangoX) - A web GUI suite for Django ORM data or API data management
-- [deck.gl](https://github.com/uber/deck.gl) - WebGL2 powered geospatial visualization layers
+- [deck.gl](https://github.com/visgl/deck.gl) - WebGL2 powered geospatial visualization layers
 - [FlappyLearning](https://github.com/xviniette/FlappyLearning) - Program learning to play Flappy Bird by machine learning (Neuroevolution)
 - [RTCMultiConnection](https://github.com/muaz-khan/RTCMultiConnection) - RTCMultiConnection is a WebRTC JavaScript library for peer-to-peer applications (screen sharing, audio/video conferencing, file sharing, media streaming etc.)
 - [peerjs-audio-chat](https://github.com/nwah/peerjs-audio-chat) - WebRTC / PeerJS audio chat demo
@@ -4437,7 +4438,7 @@
 
 ## Julia 
 
-- [Turing.jl](https://github.com/TuringLang/Turing.jl) - Bayesian inference with probabilistic programming
+- [Turing.jl](https://github.com/TuringLang/Turing.jl) - Bayesian inference with probabilistic programming.
 - [Faceless.jl](https://github.com/dfdx/Faceless.jl) - Facial emotion recognition from an image
 - [Clustering.jl](https://github.com/JuliaStats/Clustering.jl) - A Julia package for data clustering
 - [pythonidae](https://github.com/svaksha/pythonidae) - Curated decibans of scientific programming resources in Python.
@@ -5607,6 +5608,7 @@
 
 ## Lua 
 
+- [bAbI-tasks](https://github.com/facebookarchive/bAbI-tasks) - Task generation for testing text understanding and reasoning
 - [Hierarchical-Attention-Model](https://github.com/sunprinceS/Hierarchical-Attention-Model) - :page_facing_up: HierAttModel for Question Answering
 - [docker-jitsi-meet](https://github.com/jitsi/docker-jitsi-meet) - Jitsi Meet on Docker
 - [trashnet](https://github.com/garythung/trashnet) - Dataset of images of trash; Torch-based CNN for garbage image classification
@@ -5801,7 +5803,7 @@
 - [how-to-exit-vim](https://github.com/hakluke/how-to-exit-vim) - Below are some simple methods for exiting vim.
 - [aws-modern-application-workshop](https://github.com/aws-samples/aws-modern-application-workshop) - A tutorial for developers that want to learn about how to build modern applications on top of AWS. You will build a sample website that leverages infrastructure as code, containers, serverless code functions, CI/CD, and more.
 - [Kimera](https://github.com/MIT-SPARK/Kimera) - Index repo for Kimera code
-- [deck.gl-data](https://github.com/uber-common/deck.gl-data) - Data for the data visualization library deck.gl examples (https://uber.github.io/deck.gl/#/)
+- [deck.gl-data](https://github.com/visgl/deck.gl-data) - Data for the data visualization library deck.gl examples (https://uber.github.io/deck.gl/#/)
 - [awesome-alice](https://github.com/sameoldmadness/awesome-alice) - Библиотеки и ресурсы для Яндекс.Диалогов
 - [CKAD-exercises](https://github.com/dgkanatsios/CKAD-exercises) - A set of exercises to prepare for Certified Kubernetes Application Developer exam by Cloud Native Computing Foundation
 - [Interview_Question_for_Beginner](https://github.com/JaeYeopHan/Interview_Question_for_Beginner) - :boy: :girl: Technical-Interview guidelines written for those who started studying programming. I wish you all the best. :space_invader:
@@ -8906,7 +8908,7 @@
 - [scikit-garden](https://github.com/scikit-garden/scikit-garden) - A garden for scikit-learn compatible trees
 - [cyphon](https://github.com/controlscanmdr/cyphon) - Open source incident management and response platform.
 - [tox-docker](https://github.com/tox-dev/tox-docker) - A tox plugin to run one or more Docker containers during tests
-- [polyaxon](https://github.com/polyaxon/polyaxon) - A platform for reproducible and scalable machine learning and deep learning on kubernetes
+- [polyaxon](https://github.com/polyaxon/polyaxon) - Cloud native machine learning automation platform
 - [cppdep](https://github.com/rakhimov/cppdep) - C/C++ Dependency Analyzer: a rewrite of John Lakos' dep_utils (adep/cdep/ldep) from "Large-Scale C++ Software Design"
 - [praatIO](https://github.com/timmahrt/praatIO) - A python library for working with praat, textgrids, time aligned audio transcripts, and audio files. It is primarily used for extracting features from and making manipulations on audio files given hierarchical time-aligned transcriptions (utterance &gt; word &gt; syllable &gt; phone, etc).
 - [mycli](https://github.com/dbcli/mycli) - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
@@ -9846,7 +9848,6 @@
 - [dynaconf](https://github.com/rochacbruno/dynaconf) - The dynamic configurator for your Python Project :wrench:
 - [curses-menu](https://github.com/pmbarrett314/curses-menu) - A simple console menu system in python using the curses library
 - [redis-memory-analyzer](https://github.com/gamenet/redis-memory-analyzer) - Redis memory profiler to find the RAM bottlenecks throw scaning key space in real time and aggregate RAM usage statistic by patterns.
-- [olaf](https://github.com/hactar-is/olaf) - Olaf helps you manage multiple requirements.txt files.
 - [pyq](https://github.com/caioariede/pyq) - A CLI tool to search for Python code in a path using jQuery-like selectors.
 - [asciimatics](https://github.com/peterbrittain/asciimatics) - A cross platform package to do curses-like operations, plus higher level APIs and widgets to create text UIs and ASCII art animations
 - [twtxt](https://github.com/buckket/twtxt) - Decentralised, minimalist microblogging service for hackers.
@@ -10540,6 +10541,7 @@
 - [scikit-image](https://github.com/scikit-image/scikit-image) - Image processing in Python
 - [atpy](https://github.com/atpy/atpy) - Astronomical Tables in Python
 - [joblog](https://github.com/ChrisBeaumont/joblog) - Job management for scikit learn classifiers
+- [scipy_proceedings](https://github.com/scipy-conference/scipy_proceedings) - Tools used to generate the SciPy conference proceedings
 - [wcsaxes](https://github.com/astrofrog/wcsaxes) - wcsaxes has been merged into astropy!
 - [mplfacet](https://github.com/ChrisBeaumont/mplfacet) - Faceted plots in matplotlib. Because nature abhors boilerplate code.
 - [astrodendro](https://github.com/dendrograms/astrodendro) - Generate a dendrogram from a dataset
@@ -12508,15 +12510,13 @@
 
 ## Shell 
 
-- [xtreme](https://github.com/google-research/xtreme) - 
+- [xtreme](https://github.com/google-research/xtreme) - XTREME is a benchmark for the evaluation of the cross-lingual generalization ability of pre-trained multilingual models that covers 40 typologically diverse languages and includes nine tasks.
 - [Spoken-SQuAD](https://github.com/chiahsuan156/Spoken-SQuAD) - A spoken question answering dataset on SQUAD
 - [ODSQA](https://github.com/chiahsuan156/ODSQA) - ODSQA: OPEN-DOMAIN SPOKEN QUESTION ANSWERING DATASET
-- [wireguard-manager](https://github.com/complexorganizations/wireguard-manager) - Self-hosted Wireguard Installer / Manager for CentOS, Debian, Ubuntu, Arch, Fedora, Redhat, Raspbian
 - [shlide](https://github.com/icyphox/shlide) - :framed_picture: a slide deck presentation tool written in pure bash
 - [vulhub](https://github.com/vulhub/vulhub) - Pre-Built Vulnerable Environments Based on Docker-Compose
 - [stargan-v2](https://github.com/clovaai/stargan-v2) - StarGAN v2 - Official PyTorch Implementation (CVPR 2020)
 - [fabric-samples](https://github.com/hyperledger/fabric-samples) - 
-- [AcademicContent](https://github.com/microsoft/AcademicContent) - Free tech resources for faculty, students, researchers, life-long learners, and academic community builders for use in tech based courses, workshops, and hackathons.
 - [start-here-guidelines](https://github.com/zero-to-mastery/start-here-guidelines) - Lets Git started in the world of opensource, starting in the Zero To Mastery's opensource playground. Especially designed for education and practical experience purposes.
 - [bitnami-docker-kafka](https://github.com/bitnami/bitnami-docker-kafka) - Bitnami Docker Kafka
 - [docker-odoo-project](https://github.com/camptocamp/docker-odoo-project) - Base images for Odoo projects
@@ -12723,7 +12723,6 @@
 - [efficientR](https://github.com/csgillespie/efficientR) - Efficient R programming: a book
 - [depsy-research](https://github.com/ourresearch/depsy-research) - Documentation and research output for Depsy (see https://github.com/impactstory/depsy for source of Depsy itself)
 - [DataAnalysisRecipes](https://github.com/davidwhogg/DataAnalysisRecipes) - chapters of a book Hogg will never write
-- [scipy_proceedings](https://github.com/scipy-conference/scipy_proceedings) - Tools used to generate the SciPy conference proceedings
 - [MapReduceAlgorithms](https://github.com/lintool/MapReduceAlgorithms) - Data-Intensive Text Processing with MapReduce
 - [preTeX](https://github.com/s9w/preTeX) - LaTeX preprocessor to simplify math typesetting
 - [latex-templates](https://github.com/bamos/latex-templates) - Website for personal collection and previewing of LaTeX templates. Presented with Python/Jinja2.
