@@ -510,7 +510,7 @@
 - [open-builder](https://github.com/Hopson97/open-builder) - Open  "Minecraft-like" game with multiplayer support and Lua scripting support for the both client and server
 - [Hippy](https://github.com/Tencent/Hippy) - A cross platform framework designed for Web developer. Introduction video - https://v.qq.com/x/page/i3038urj2mt.html
 - [plato](https://github.com/Tencent/plato) - 腾讯高性能分布式图计算框架Plato
-- [nebula](https://github.com/vesoft-inc/nebula) - A distributed, fast open-source graph database featuring horizontal scalability and high availability
+- [nebula](https://github.com/vesoft-inc/nebula) - A distributed, scalable, lightning fast graph database.  　　　　　　　　　　Like what we do? ★ us above ⇧
 - [pbrt-v3](https://github.com/mmp/pbrt-v3) - Source code for pbrt, the renderer described in the third edition of "Physically Based Rendering: From Theory To Implementation", by Matt Pharr, Wenzel Jakob, and Greg Humphreys.
 - [oneDNN](https://github.com/oneapi-src/oneDNN) - oneAPI Deep Neural Network Library (oneDNN)
 - [asio](https://github.com/chriskohlhoff/asio) - Asio C++ Library
@@ -2907,7 +2907,6 @@
 - [BullshitGenerator](https://github.com/menzi11/BullshitGenerator) - Needs to generate some texts to test if my GUI rendering codes good or not. so I made this.
 - [moment-timezone](https://github.com/moment/moment-timezone) - Timezone support for moment.js
 - [Face-Detection-JavaScript](https://github.com/WebDevSimplified/Face-Detection-JavaScript) - 
-- [AcademicContent](https://github.com/microsoft/AcademicContent) - Free tech resources for faculty, students, researchers, life-long learners, and academic community builders for use in tech based courses, workshops, and hackathons.
 - [pwnagotchi](https://github.com/evilsocket/pwnagotchi) - (⌐■_■) - Deep Reinforcement Learning instrumenting bettercap for WiFi pwning.
 - [ARC](https://github.com/fchollet/ARC) - The Abstraction and Reasoning Corpus
 - [lighthouse](https://github.com/VKCOM/lighthouse) - Lightweight interface for ClickHouse
@@ -2979,6 +2978,7 @@
 - [umi](https://github.com/umijs/umi) - 🌋 Pluggable enterprise-level react application framework.
 - [theme-ui](https://github.com/system-ui/theme-ui) - Build consistent, themeable React apps based on constraint-based design principles
 - [daterangepicker](https://github.com/dangrossman/daterangepicker) - JavaScript Date Range, Date and Time Picker Component
+- [vue-slideout](https://github.com/hyjiacan/vue-slideout) - A Slide-Out component for Vue.js 2.0
 - [geojson2h3](https://github.com/uber/geojson2h3) - Conversion utilities between H3 indexes and GeoJSON
 - [grafana-dash-gen](https://github.com/uber/grafana-dash-gen) - grafana dash dash dash gen
 - [Never-Blink](https://github.com/ByronHsu/Never-Blink) - 👀Blink and lose.
@@ -4555,6 +4555,7 @@
 - [TensorFlow2.0-Examples](https://github.com/YunYang1994/TensorFlow2.0-Examples) - 🙄 difficult algorithm, simple code.
 - [pytorch-faster-rcnn](https://github.com/ruotianluo/pytorch-faster-rcnn) - pytorch1.0 updated. Support cpu test and demo.
 - [stat479-machine-learning-fs19](https://github.com/rasbt/stat479-machine-learning-fs19) - Course material for STAT 479: Machine Learning (FS 2019) taught by Sebastian Raschka at University Wisconsin-Madison
+- [AcademicContent](https://github.com/microsoft/AcademicContent) - Free tech resources for faculty, students, researchers, life-long learners, and academic community builders for use in tech based courses, workshops, and hackathons.
 - [ICLR2020-OpenReviewData](https://github.com/shaohua0116/ICLR2020-OpenReviewData) - Script that crawls meta data from ICLR OpenReview webpage. Tutorials on installing and using Selenium and ChromeDriver on Ubuntu.
 - [face-detection](https://github.com/vslutov/face-detection) - Face detection task
 - [bert-gen](https://github.com/nyu-dl/bert-gen) - 
@@ -6973,7 +6974,7 @@
 - [awspx](https://github.com/FSecureLABS/awspx) - A graph-based tool for visualizing effective access and resource relationships in AWS environments.
 - [EfficientDet](https://github.com/xuannianz/EfficientDet) - EfficientDet (Scalable and Efficient Object Detection)  implementation in Keras and Tensorflow
 - [30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a sep by step guide to learn Python programming language in 30 days.
-- [simpletransformers](https://github.com/ThilinaRajapakse/simpletransformers) - Transformers made simple with training, evaluation, and prediction possible with one line each. Currently supports Sequence Classification (binary, multiclass, multilabel, sentence pair), Token Classification (NER), Question Answering, Language Modeling, Regression, Conversational AI, and Multi-Modal tasks. Built on top of the Hugging Face Transformer library.
+- [simpletransformers](https://github.com/ThilinaRajapakse/simpletransformers) - Transformers for Classification, NER, QA, Language Modelling, Multi-Modal, and Conversational AI
 - [RDSNet](https://github.com/wangsr126/RDSNet) - implement for paper: "RDSNet: A New Deep Architecture for Reciprocal Object Detection and Instance Segmentation"
 - [batea](https://github.com/delvelabs/batea) - AI-based, context-driven network device ranking
 - [awesome-monte-carlo-tree-search-papers](https://github.com/benedekrozemberczki/awesome-monte-carlo-tree-search-papers) - A curated list of Monte Carlo tree search papers with implementations.
@@ -8665,7 +8666,7 @@
 - [fashion-mnist](https://github.com/zalandoresearch/fashion-mnist) - A MNIST-like fashion product database. Benchmark :point_right:
 - [Awesome-Chatbot](https://github.com/fendouai/Awesome-Chatbot) - Awesome Chatbot Projects,Corpus,Papers,Tutorials.Chinese Chatbot =&gt;:
 - [setup.py](https://github.com/navdeep-G/setup.py) - 📦 A Human's Ultimate Guide to setup.py.
-- [wtfpython](https://github.com/satwikkansal/wtfpython) - Do you think you know Python?
+- [wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python?
 - [jmespath.py](https://github.com/jmespath/jmespath.py) - JMESPath is a query language for JSON.
 - [jasmin](https://github.com/jookies/jasmin) - Jasmin - Open source SMS gateway
 - [tsrc](https://github.com/TankerHQ/tsrc) - Manage several git repositories / review automation
@@ -8918,7 +8919,7 @@
 - [cupy](https://github.com/cupy/cupy) - NumPy-like API accelerated with CUDA
 - [gain](https://github.com/gaojiuli/gain) - Web crawling framework  based on asyncio.
 - [tacotron](https://github.com/Kyubyong/tacotron) - A TensorFlow Implementation of Tacotron: A Fully End-to-End Text-To-Speech Synthesis Model
-- [zhusuan](https://github.com/thu-ml/zhusuan) - A library for Bayesian deep learning, generative models, based on Tensorflow
+- [zhusuan](https://github.com/thu-ml/zhusuan) - A probabilistic programming library for Bayesian deep learning, generative models, based on Tensorflow
 - [xcessiv](https://github.com/reiinakano/xcessiv) - A web-based application for quick, scalable, and automated hyperparameter tuning and stacked ensembling in Python.
 - [plotnine](https://github.com/has2k1/plotnine) - A grammar of graphics for Python
 - [pledger](https://github.com/pcapriotti/pledger) - Command line accounting tool and python library
@@ -9102,7 +9103,7 @@
 - [HyperGAN](https://github.com/HyperGAN/HyperGAN) - Composable GAN framework with api and user interface
 - [modern-django](https://github.com/djstein/modern-django) - Modern Django: A Guide on How to Deploy Django-based Web Applications in 2017
 - [suite](https://github.com/Staffjoy/suite) - Staffjoy V1, aka "Suite" - a scheduling application for hundreds of workers
-- [urh](https://github.com/jopohl/urh) - Universal Radio Hacker: investigate wireless protocols like a boss 📡😎
+- [urh](https://github.com/jopohl/urh) - Universal Radio Hacker: Investigate Wireless Protocols Like A Boss
 - [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch) - Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learning.
 - [python-fire](https://github.com/google/python-fire) - Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
 - [httplib2](https://github.com/httplib2/httplib2) - Small, fast HTTP client library for Python. Features persistent connections, cache, and Google App Engine support. Originally written by Joe Gregorio, now supported by community.
@@ -13028,7 +13029,6 @@
 - [webgems](https://github.com/webgems/webgems) - A curated list of resources for devs and designers. Join me on devcord.com if you are up for a chit chat :)
 - [vue-data-board](https://github.com/dongsuo/vue-data-board) - A Data Analysis Board in Vue.
 - [victor-mono](https://github.com/rubjo/victor-mono) - A free programming font with cursive italics and ligatures. Donations welcome ❤️
-- [vue-slideout](https://github.com/hyjiacan/vue-slideout) - A Slide-Out component for Vue.js 2.0
 - [vue-crud](https://github.com/what-crud/vue-crud) - Vue.js based REST-ful CRUD system
 - [vue-music-webapp](https://github.com/caijinyc/vue-music-webapp) - A Music WebApp based on the Vue.
 - [vant-demo](https://github.com/youzan/vant-demo) - Collection of vant demos.
