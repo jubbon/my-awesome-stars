@@ -605,7 +605,7 @@
 - [confluo](https://github.com/ucbrise/confluo) - Real-time Monitoring and Analysis of Data Streams
 - [PhysX-3.4](https://github.com/NVIDIAGameWorks/PhysX-3.4) - NVIDIA PhysX SDK 3.4
 - [onnxruntime](https://github.com/microsoft/onnxruntime) - ONNX Runtime: cross-platform, high performance scoring engine for ML models
-- [CARMAPlatform](https://github.com/usdot-fhwa-stol/CARMAPlatform) - CARMA Platform is built on robot operating system (ROS) and utilizes open source software (OSS) that enables Cooperative Driving Automation (CDA) features to allow Automated Driving Systems to interact and cooperate with infrastructure and other vehicles through communication.
+- [carma-platform](https://github.com/usdot-fhwa-stol/carma-platform) - CARMA Platform is built on robot operating system (ROS) and utilizes open source software (OSS) that enables Cooperative Driving Automation (CDA) features to allow Automated Driving Systems to interact and cooperate with infrastructure and other vehicles through communication.
 - [GuiLite](https://github.com/idea4good/GuiLite) - ✔️The smallest header-only GUI library(5 KLOC) for all platforms
 - [flutter-desktop-embedding](https://github.com/google/flutter-desktop-embedding) - Examples of using, and testbed for, the in-development Flutter for Desktop
 - [TorchCraftAI](https://github.com/TorchCraft/TorchCraftAI) - A platform that lets you build agents to learn to play StarCraft: Brood War.
@@ -4247,7 +4247,7 @@
 - [angular-local-storage](https://github.com/grevory/angular-local-storage) - An AngularJS module that gives you access to the browsers local storage with cookie fallback
 - [rethinkdb-angular](https://github.com/thejsj/rethinkdb-angular) - A demo using RethinkDB and Angular.js to create a simple chat app
 - [bootstrap](https://github.com/angular-ui/bootstrap) - PLEASE READ THE PROJECT STATUS BELOW.  Native AngularJS (Angular) directives for Bootstrap. Smaller footprint (20kB gzipped), no 3rd party JS dependencies (jQuery, bootstrap JS) required. Please read the README.md file before submitting an issue!
-- [angular-accordion](https://github.com/uxman-sherwani/angular-accordion) - A simple angular directive for adding accordion UI element
+- [angular-accordion](https://github.com/uxxman/angular-accordion) - A simple angular directive for adding accordion UI element
 - [example-app](https://github.com/flightjs/example-app) - An example Flight application
 - [flight](https://github.com/flightjs/flight) - A component-based, event-driven JavaScript framework from Twitter
 - [maki](https://github.com/mapbox/maki) - POI Icon Set
@@ -6802,7 +6802,7 @@
 - [libfacedetection.train](https://github.com/ShiqiYu/libfacedetection.train) - The training program for libfacedetection for face detection and 5-landmark detection.
 - [pymystem3](https://github.com/nlpub/pymystem3) - A Python wrapper of the Yandex Mystem 3.1 morphological analyzer (http://api.yandex.ru/mystem). The original tool is shipped as a binary and this library makes it easy to integrate it in Python projects. Let us know in the issues if you would like to be involved into the developments or maintenance of this project. If you have any fix or suggestion, please make a pull request. We are very open to accepting any contributions.
 - [misc](https://github.com/ruizhaogit/misc) - Mutual Information-based State-Control for Intrinsically Motivated Reinforcement Learning
-- [ganilla](https://github.com/giddyyupp/ganilla) - pytorch implementation of GANILLA
+- [ganilla](https://github.com/giddyyupp/ganilla) - Official Pytorch implementation of GANILLA
 - [UnsupervisedLandmarkLearning](https://github.com/NVIDIA/UnsupervisedLandmarkLearning) - Implementation for the unsupervised latent landmark learning work from NVIDIA Applied Deep Learning Research
 - [RIMs](https://github.com/anirudh9119/RIMs) - Code for "Recurrent Independent Mechanisms"
 - [PathCon](https://github.com/hwwang55/PathCon) - Combining relational context and relational paths for knowledge graph completion
@@ -7014,7 +7014,7 @@
 - [HackingNeuralNetworks](https://github.com/Kayzaks/HackingNeuralNetworks) - A small course on exploiting and defending neural networks
 - [3d-ken-burns](https://github.com/sniklaus/3d-ken-burns) - an implementation of 3D Ken Burns Effect from a Single Image using PyTorch
 - [recsim](https://github.com/google-research/recsim) - A Configurable Recommender Systems Simulation Platform
-- [downloader-cli](https://github.com/deepjyoti30/downloader-cli) - A simple downloader written in Python with an awesome progressbar.
+- [downloader-cli](https://github.com/deepjyoti30/downloader-cli) - A simple downloader written in Python with an awesome customizable progressbar.
 - [quay](https://github.com/quay/quay) - Build, Store, and Distribute your Applications and Containers
 - [exercises](https://github.com/Softwarepark/exercises) - SoftwarePark exercises and dojos
 - [wcw_bot](https://github.com/altsoph/wcw_bot) - WebCamWatcher bot and pipeline
@@ -8707,7 +8707,6 @@
 - [pygorithm](https://github.com/OmkarPathak/pygorithm) - A Python module for learning all major algorithms
 - [incubator-tvm](https://github.com/apache/incubator-tvm) - Open deep learning compiler stack for cpu, gpu and specialized accelerators
 - [rl-teacher](https://github.com/nottombrown/rl-teacher) - Code for Deep RL from Human Preferences [Christiano et al]. Plus a webapp for collecting human feedback
-- [solving-minesweeper-by-tensorflow](https://github.com/staytime/solving-minesweeper-by-tensorflow) - Tensorflow solve minesweeper
 - [pytorch-visdom](https://github.com/alexsax/pytorch-visdom) - Support powerful visual logging in PyTorch.
 - [pionic](https://github.com/tlocke/pionic) - A Python library for the Ion format
 - [python-code](https://github.com/zeeshanhanif/python-code) - Python Code for AI class
@@ -12459,7 +12458,7 @@
 - [navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [PyOxidizer](https://github.com/indygreg/PyOxidizer) - A modern Python application packaging and distribution tool
-- [libra](https://github.com/libra/libra) - Libra’s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.
+- [libra](https://github.com/libra/libra) - Libra’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.
 - [emu](https://github.com/calebwin/emu) - Emu is a modern library for low-level, cross-platform GPGPU enabling on-device, reproducible, privacy-focused compute
 - [mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott!
 - [atlasr](https://github.com/atlasr-org/atlasr) - Atlasr is a truly open-source and free map browser.
@@ -12732,6 +12731,7 @@
 
 ## TypeScript 
 
+- [redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation
 - [BotFramework-Composer](https://github.com/microsoft/BotFramework-Composer) - Dialog creation and management for Microsoft Bot Framework Applications
 - [excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [jupyterlab-prodigy](https://github.com/explosion/jupyterlab-prodigy) - 🧬 A JupyterLab extension for annotating data with Prodigy
@@ -12959,7 +12959,7 @@
 - [vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [highcharts](https://github.com/highcharts/highcharts) - Highcharts JS, the JavaScript charting framework
 - [vega-lite](https://github.com/vega/vega-lite) - A concise grammar of interactive graphics, built on Vega.
-- [bqplot](https://github.com/bloomberg/bqplot) - Plotting library for IPython/Jupyter notebooks
+- [bqplot](https://github.com/bqplot/bqplot) - Plotting library for IPython/Jupyter notebooks
 - [datalab](https://github.com/googledatalab/datalab) - Interactive tools and developer experiences for Big Data on Google Cloud Platform.
 - [kibana](https://github.com/elastic/kibana) - Your window into the Elastic Stack
 - [blockstack.js](https://github.com/blockstack/blockstack.js) - The Blockstack JavaScript library for identity, auth and storage
@@ -13340,7 +13340,7 @@
 - [adminify](https://github.com/topfullstack/adminify) - An Admin Dashboard based on Vuetify material
 - [mavonEditor](https://github.com/hinesboy/mavonEditor) - mavonEditor - A markdown editor based on Vue that supports a variety of personalized features
 - [goldfish](https://github.com/Caiyeon/goldfish) - A HashiCorp Vault UI written with VueJS and Vault native Go API
-- [dashboard](https://github.com/zce/dashboard) - A dashboard scaffolding based on vue.js created by vuejs/vue-cli 4.x.
+- [dashboard](https://github.com/zce/dashboard) - A dashboard scaffolding based on Vue.js created by Vue CLI.
 - [v-autocomplete](https://github.com/paliari/v-autocomplete) - Autocomplete component for Vue.js
 - [vue-ydui](https://github.com/ydcss/vue-ydui) - A mobile components Library with Vue2.js. 一只基于Vue2.x的移动端组件库。
 - [vue-loading](https://github.com/jkchao/vue-loading) - 😄 vue-loading 😊
