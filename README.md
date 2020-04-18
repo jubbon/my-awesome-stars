@@ -2134,7 +2134,7 @@
 - [habitus](https://github.com/cloud66-oss/habitus) - A build flow tool for Docker.
 - [armor](https://github.com/labstack/armor) - Uncomplicated, modern HTTP server
 - [vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container Image, Running Container, WordPress, Programming language libraries, Network devices
-- [teleport](https://github.com/gravitational/teleport) - Privileged access management that doesn’t get in the way.
+- [teleport](https://github.com/gravitational/teleport) - Zero Trust Access to Infrastructure and Applications
 - [gallium](https://github.com/alexflint/gallium) - Build desktop applications in Go and HTML.
 - [eliasdb](https://github.com/krotik/eliasdb) - EliasDB is a graph-based database.
 - [httpstat](https://github.com/davecheney/httpstat) - It's like curl -v, with colours.
@@ -2447,7 +2447,6 @@
 - [CredSniper](https://github.com/ustayready/CredSniper) - CredSniper is a phishing framework written with the Python micro-framework Flask and Jinja2 templating which supports capturing 2FA tokens.
 - [kotlin-guides](https://github.com/android/kotlin-guides) - A set of guides for writing Kotlin for Android.
 - [engrafo](https://github.com/arxiv-vanity/engrafo) - Convert LaTeX documents into beautiful responsive web pages using LaTeXML.
-- [ng-alain](https://github.com/ng-alain/ng-alain) - NG-ZORRO  admin panel front-end framework (netlify mirror https://netlify.ng-alain.com/)
 - [awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
 - [Light-Modal](https://github.com/hunzaboy/Light-Modal) - A new lightweight, powerful and easy to use CSS Modal.
 - [Top10](https://github.com/OWASP/Top10) - Official OWASP Top 10 Document Repository
@@ -2873,6 +2872,8 @@
 
 ## JavaScript 
 
+- [talks](https://github.com/explosion/talks) - 💥 Browser-based slides or PDFs of our talks and presentations
+- [displacy](https://github.com/explosion/displacy) - :boom: displaCy.js: An open-source NLP visualiser for the modern web
 - [endpoints-example](https://github.com/endpoints/endpoints-example) - an example api written using endpoints
 - [web-skills](https://github.com/andreasbm/web-skills) - A visual overview of useful skills to learn as a web developer
 - [headless-cat-n-mouse](https://github.com/paulirish/headless-cat-n-mouse) - Is headless chrome currently detectable? Let's pit the detections and detection evasions against eachother.
@@ -2887,6 +2888,7 @@
 - [omniboard](https://github.com/vivekratnavel/omniboard) - Web-based dashboard for Sacred
 - [Real-Time-Person-Removal](https://github.com/jasonmayes/Real-Time-Person-Removal) - Removing people from complex backgrounds in real time using TensorFlow.js in the web browser
 - [cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
+- [documentation](https://github.com/pterodactyl/documentation) - Pterodactyl's documentation is open source! This repository contains the documentation for installing and updating both the panel and the daemon.
 - [workshop-material](https://github.com/peterj/workshop-material) - Material for Kubernetes and Istio workshop https://learnistio.com
 - [fingerprintjs2](https://github.com/Valve/fingerprintjs2) - Modern & flexible browser fingerprinting library
 - [Detox](https://github.com/wix/Detox) - Gray box end-to-end testing and automation framework for mobile apps
@@ -3383,7 +3385,7 @@
 - [modeify](https://github.com/conveyal/modeify) - Deliver personalized commute information to travelers.
 - [transitive.js](https://github.com/conveyal/transitive.js) - Transit data visualization
 - [kue](https://github.com/Automattic/kue) - Kue is a priority job queue backed by redis, built for node.js.
-- [vue2crm](https://github.com/harryho/vue2crm) - Simple reusable CRM built on Vue 2 PWA template and Vuetify UI
+- [vue-crm](https://github.com/harryho/vue-crm) - Simple reusable CRM built on Vue 2 PWA template and Vuetify UI
 - [cryptocurrency-icons](https://github.com/atomiclabs/cryptocurrency-icons) - A set of icons for all the main cryptocurrencies and altcoins, in a range of styles and sizes.
 - [auto-py-to-exe](https://github.com/brentvollebregt/auto-py-to-exe) - Converts .py to .exe using a simple graphical interface
 - [brain.js](https://github.com/BrainJS/brain.js) - 🤖 Neural networks in JavaScript
@@ -3749,7 +3751,6 @@
 - [inject-loader](https://github.com/plasticine/inject-loader) - 💉📦 A Webpack loader for injecting code into modules via their dependencies.
 - [vueify](https://github.com/vuejs/vueify) - Browserify transform for single-file Vue components
 - [swip](https://github.com/paulsonnentag/swip) - a library to create multi device experiments
-- [squealy](https://github.com/hashedin/squealy) - Develop APIs for Charts and Dashboards by writing SQL Queries
 - [python-example](https://github.com/patrickmoffitt/python-example) - How to Build an Electron GUI for a Python Module
 - [RISE](https://github.com/damianavila/RISE) - RISE: "Live" Reveal.js Jupyter/IPython Slideshow Extension
 - [vue-notification](https://github.com/euvl/vue-notification) - :icecream: Vue.js 2 library for showing notifications
@@ -3805,7 +3806,7 @@
 - [workbox](https://github.com/GoogleChrome/workbox) - 📦 Workbox: JavaScript libraries for Progressive Web Apps
 - [react-pdf](https://github.com/diegomura/react-pdf) - 📄 Create PDF files using React
 - [fair-analytics](https://github.com/vesparny/fair-analytics) - 📊  An analytics server that doesn't undermine user's privacy
-- [britecharts](https://github.com/eventbrite/britecharts) - Client-side reusable Charting Library based on D3.js v5 that allows easy and intuitive use of charts and components that can be composed together creating amazing visualizations.
+- [britecharts](https://github.com/britecharts/britecharts) - Client-side reusable Charting Library based on D3.js v5 that allows easy and intuitive use of charts and components that can be composed together creating amazing visualizations.
 - [insomnia](https://github.com/Kong/insomnia) - Cross-platform HTTP and GraphQL Client
 - [mongorito](https://github.com/vadimdemedes/mongorito) - 🍹 MongoDB ODM for Node.js apps based on Redux
 - [prepack](https://github.com/facebook/prepack) - A JavaScript bundle optimizer.
@@ -4447,6 +4448,12 @@
 
 ## Jupyter Notebook 
 
+- [ipymarkup](https://github.com/natasha/ipymarkup) - NER, syntax markup visualizations
+- [Question-Generation](https://github.com/KristiyanVachev/Question-Generation) - Generating multiple choice questions from text using Machine Learning.
+- [projects](https://github.com/explosion/projects) - 💝 Example projects for various NLP tasks with datasets, scripts and results
+- [nlp-python-deep-learning](https://github.com/NirantK/nlp-python-deep-learning) - NLP in Python with Deep Learning
+- [dsc-python-operators-functions-and-methods-lab-onl01-dtsc-ft-041320](https://github.com/learn-co-students/dsc-python-operators-functions-and-methods-lab-onl01-dtsc-ft-041320) - 
+- [Data-Science-Hacks](https://github.com/kunalj101/Data-Science-Hacks) - Data Science Hacks consists of tips, tricks to help you become a better data scientist. Data science hacks are for all - beginner to advanced. Data science hacks consist of python, jupyter notebook, pandas hacks and so on.
 - [Bidirectional-Attention-Flow-for-Machine-Comprehension](https://github.com/Sshanu/Bidirectional-Attention-Flow-for-Machine-Comprehension) - Machine Comprehension using Squad and Triviqa Data sets
 - [squad](https://github.com/AnatoliiPotapov/squad) - 
 - [nlp_ryan](https://github.com/aiscientist/nlp_ryan) - Study for Natural Language Processing & Deep Learning Framework
@@ -4473,6 +4480,7 @@
 - [Causality](https://github.com/DataForScience/Causality) - 
 - [fastbook](https://github.com/fastai/fastbook) - Draft of the fastai book
 - [gym-trading](https://github.com/hackthemarket/gym-trading) - Environment for reinforcement-learning algorithmic trading models
+- [adaptnlp](https://github.com/Novetta/adaptnlp) - An easy to use Natural Language Processing library and framework for predicting, training, fine-tuning, and serving up state-of-the-art NLP models.
 - [first-order-model](https://github.com/AliaksandrSiarohin/first-order-model) - This repository contains the source code for the paper First Order Motion Model for Image Animation
 - [capsule_net_pytorch](https://github.com/cezannec/capsule_net_pytorch) - Readable implementation of a Capsule Network as described in "Dynamic Routing Between Capsules" [Hinton et. al.]
 - [ABD](https://github.com/malrev/ABD) - Course materials for Advanced Binary Deobfuscation by NTT Secure Platform Laboratories
@@ -5708,11 +5716,16 @@
 
 ## Others 
 
+- [javascript-interview-questions](https://github.com/sudheerj/javascript-interview-questions) - List of 1000 JavaScript Interview Questions
+- [curriculum](https://github.com/TheOdinProject/curriculum) - The open curriculum for learning web development
+- [awesome-self-supervised-learning](https://github.com/jason718/awesome-self-supervised-learning) - A curated list of awesome self-supervised methods
+- [ztm-python-cheat-sheet](https://github.com/aneagoie/ztm-python-cheat-sheet) - 
+- [awesome-papers](https://github.com/huggingface/awesome-papers) - Papers & presentations from Hugging Face's weekly science day
+- [awesome-learning-resources](https://github.com/lauragift21/awesome-learning-resources) - 🔥Awesome list of resources on Web Development.
 - [Awesome-Machine-Comprehension](https://github.com/shagunsodhani/Awesome-Machine-Comprehension) - List of papers, datasets and other resources related to Machine Comprehension
 - [Reading-Comprehension-Question-Answering-Papers](https://github.com/xanhho/Reading-Comprehension-Question-Answering-Papers) - Survey on Machine Reading Comprehension
 - [awesome-qa](https://github.com/seriousran/awesome-qa) - 😎 A curated list of the Question Answering (QA)
 - [statrethinking_winter2019](https://github.com/rmcelreath/statrethinking_winter2019) - Statistical Rethinking course at MPI-EVA from Dec 2018 through Feb 2019
-- [amundsen](https://github.com/lyft/amundsen) - Amundsen is a metadata driven application for improving the productivity of data analysts, data scientists and engineers when interacting with data.
 - [bug-bounty-reference](https://github.com/ngalongc/bug-bounty-reference) - Inspired by https://github.com/djadmin/awesome-bug-bounty, a list of bug bounty write-up that is categorized by the bug nature
 - [learning-bioinformatics-at-home](https://github.com/harvardinformatics/learning-bioinformatics-at-home) - resources for learning bioinformatics
 - [awesome-semantic-segmentation](https://github.com/mrgloom/awesome-semantic-segmentation) - :metal: awesome-semantic-segmentation
@@ -5974,7 +5987,7 @@
 - [Powerful-Plugins](https://github.com/Hack-with-Github/Powerful-Plugins) - Powerful plugins and add-ons for hackers
 - [awesome-nodejs-security](https://github.com/lirantal/awesome-nodejs-security) - Awesome Node.js Security resources
 - [Front-End-FAQ](https://github.com/emmabostian/Front-End-FAQ) - A place to anonymously ask questions and receive answers from the dev community
-- [bash-guide](https://github.com/omergulen/bash-guide) - Shell Rehberi
+- [bash-guide](https://github.com/omergulen/bash-guide) - Shell Rehberi (BASH)
 - [image-to-image-papers](https://github.com/lzhbrian/image-to-image-papers) - 🦓&lt;-&gt;🦒 🌃&lt;-&gt;🌆  A collection of image to image papers with code (constantly updating)
 - [Learn_Data_Science_in_3_Months](https://github.com/llSourcell/Learn_Data_Science_in_3_Months) - This is the Curriculum for "Learn Data Science in 3 Months" By Siraj Raval on Youtube
 - [PlacesToPostYourStartup](https://github.com/mmccaff/PlacesToPostYourStartup) - Compiled list of links from "Ask HN: Where can I post my startup to get beta users?"
@@ -6704,6 +6717,25 @@
 
 ## Python 
 
+- [spacy_api](https://github.com/kootenpv/spacy_api) - Server/Client around Spacy to load spacy only once
+- [negspacy](https://github.com/jenojp/negspacy) - spaCy pipeline object for negating concepts in text
+- [spacy-dev-resources](https://github.com/explosion/spacy-dev-resources) - 💫  Scripts, tools and resources for developing spaCy
+- [spacy-wordnet](https://github.com/recognai/spacy-wordnet) - spacy-wordnet creates annotations that easily allow the use of wordnet and wordnet domains by using the nltk wordnet interface
+- [prodigy-recipes](https://github.com/explosion/prodigy-recipes) - 🍳 Recipes for the Prodigy, our fully scriptable annotation tool
+- [spacy-api-docker](https://github.com/jgontrum/spacy-api-docker) - spaCy REST API, wrapped in a Docker container.
+- [spacy-services](https://github.com/explosion/spacy-services) - 💫 REST microservices for various spaCy-related tasks
+- [spacy-stanza](https://github.com/explosion/spacy-stanza) - 💥 Use the latest Stanza (StanfordNLP) research models directly in spaCy
+- [scispacy](https://github.com/allenai/scispacy) - A full spaCy pipeline and models for scientific/biomedical documents.
+- [spacy-models](https://github.com/explosion/spacy-models) - 💫  Models for the spaCy Natural Language Processing (NLP) library
+- [spacy-transformers](https://github.com/explosion/spacy-transformers) - 🛸 spaCy pipelines for pre-trained BERT, XLNet and GPT-2
+- [thinc](https://github.com/explosion/thinc) - 🔮 A refreshing functional take on deep learning, compatible with your favorite libraries
+- [pytorch-optimizer](https://github.com/jettify/pytorch-optimizer) - torch-optimizer -- collection of optimizers for Pytorch
+- [ckan](https://github.com/ckan/ckan) - CKAN is an open-source DMS (data management system) for powering data hubs and data portals. CKAN makes it easy to publish, share and use data. It powers datahub.io, catalog.data.gov and europeandataportal.eu/data/en/dataset among many other sites.
+- [universal_robot](https://github.com/ros-industrial/universal_robot) - ROS-Industrial Universal Robots support (http://wiki.ros.org/universal_robot)
+- [BERT-BiLSTM-CRF-NER](https://github.com/macanv/BERT-BiLSTM-CRF-NER) - Tensorflow solution of NER task Using BiLSTM-CRF model with Google BERT Fine-tuning And private Server services
+- [spack](https://github.com/spack/spack) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers.
+- [Whole-Foods-Delivery-Slot](https://github.com/pcomputo/Whole-Foods-Delivery-Slot) - Automated script for Whole Foods and Amazon Fresh delivery slot
+- [twint](https://github.com/twintproject/twint) - An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations.
 - [marshmallow-oneofschema](https://github.com/marshmallow-code/marshmallow-oneofschema) - Marshmallow library extension that allows schema (de)multiplexing
 - [marshmallow_dataclass](https://github.com/lovasoa/marshmallow_dataclass) - Automatic generation of marshmallow schemas from dataclasses.
 - [aiohttp-apispec](https://github.com/maximdanilchenko/aiohttp-apispec) - Build and document REST APIs with aiohttp and apispec
@@ -6765,7 +6797,7 @@
 - [CurveFit](https://github.com/ihmeuw-msca/CurveFit) - Generic curve fitting package with nonlinear mixed effects model
 - [aristo-mini](https://github.com/allenai/aristo-mini) - Aristo mini is a light-weight question answering system that can quickly evaluate Aristo science questions with an evaluation web server and the provided baseline solvers.
 - [gym-gridworld](https://github.com/xinleipan/gym-gridworld) - Simple grid-world environment compatible with OpenAI-gym
-- [asteroid](https://github.com/mpariente/asteroid) - Pytorch-based audio source separation toolkit || Current highlight : we got our WHAMR results check it out here !
+- [asteroid](https://github.com/mpariente/asteroid) - The PyTorch-based audio source separation toolkit for researchers || Current highlight : we got our WHAMR results check it out here !
 - [deap](https://github.com/DEAP/deap) - Distributed Evolutionary Algorithms in Python
 - [ESRGAN](https://github.com/xinntao/ESRGAN) - ECCV18 Workshops - Enhanced SRGAN. Champion PIRM Challenge on Perceptual Super-Resolution (Third Region)
 - [minimal-hand](https://github.com/CalciferZh/minimal-hand) - A minimal solution to hand motion capture from a single color camera at over 100fps. Easy to use, plug to run.
@@ -6806,7 +6838,6 @@
 - [UnsupervisedLandmarkLearning](https://github.com/NVIDIA/UnsupervisedLandmarkLearning) - Implementation for the unsupervised latent landmark learning work from NVIDIA Applied Deep Learning Research
 - [RIMs](https://github.com/anirudh9119/RIMs) - Code for "Recurrent Independent Mechanisms"
 - [PathCon](https://github.com/hwwang55/PathCon) - Combining relational context and relational paths for knowledge graph completion
-- [adaptnlp](https://github.com/Novetta/adaptnlp) - An easy to use Natural Language Processing library and framework for predicting, training, fine-tuning, and serving up state-of-the-art NLP models.
 - [self-adaptive-training](https://github.com/LayneH/self-adaptive-training) - Official implementation of the paper 'Self-Adaptive Training: beyond Empirical Risk Minimization'
 - [FreezeD](https://github.com/sangwoomo/FreezeD) - Freeze the Discriminator: a Simple Baseline for Fine-Tuning GANs (arXiv 2020)
 - [centermask2](https://github.com/youngwanLEE/centermask2) - CenterMask2 on top of detectron2, in CVPR 2020
@@ -6831,7 +6862,7 @@
 - [evoman_framework](https://github.com/karinemiras/evoman_framework) - 
 - [dm-haiku](https://github.com/deepmind/dm-haiku) - JAX-based neural network library
 - [updog](https://github.com/sc0tfree/updog) - Updog is a replacement for Python's SimpleHTTPServer. It allows uploading and downloading via HTTP/S, can set ad hoc SSL certificates and use http basic auth.
-- [snoop](https://github.com/snooppr/snoop) - Snoop — инструмент разведки на основе открытых данных
+- [snoop](https://github.com/snooppr/snoop) - Snoop — инструмент разведки на основе открытых данных (OSINT)
 - [gif](https://github.com/maxhumber/gif) - ✨ Better animated Matplotlib gifs
 - [Soft-Actor-Critic-and-Extensions](https://github.com/BY571/Soft-Actor-Critic-and-Extensions) - PyTorch implementation of Soft-Actor-Critic and Prioritized Experience Replay (PER) + Emphasizing Recent Experience (ERE)
 - [rlax](https://github.com/deepmind/rlax) - 
@@ -7211,7 +7242,6 @@
 - [smplify-x](https://github.com/vchoutas/smplify-x) - Expressive Body Capture: 3D Hands, Face, and Body from a Single Image
 - [Faster-RCNN-TensorFlow-Python3](https://github.com/dBeker/Faster-RCNN-TensorFlow-Python3) - Tensorflow Faster R-CNN for Windows/Linux and Python 3 (3.5/3.6/3.7)
 - [pydoro](https://github.com/JaDogg/pydoro) - 🍅 Terminal Pomodoro Timer
-- [instabot.py](https://github.com/instabot-py/instabot.py) - Instagram bot. It works without instagram api, need only login and password. Write on python.
 - [tweepy](https://github.com/tweepy/tweepy) - Twitter for Python!
 - [inversecooking](https://github.com/facebookresearch/inversecooking) - Recipe Generation from Food Images
 - [xlnet](https://github.com/zihangdai/xlnet) - XLNet: Generalized Autoregressive Pretraining for Language Understanding
@@ -8276,7 +8306,7 @@
 - [py2bpf](https://github.com/facebookresearch/py2bpf) - A python to bpf (Berkeley Packet Filter bytecode) converter
 - [authlib](https://github.com/lepture/authlib) - The ultimate Python library in building OAuth, OpenID Connect clients and servers. JWS,JWE,JWK,JWA,JWT included.
 - [qgrid](https://github.com/quantopian/qgrid) - An interactive grid for sorting, filtering, and editing DataFrames in Jupyter notebooks
-- [cronicle](https://github.com/Kraymer/cronicle) - Use cron to rotate backup files!
+- [cronicle](https://github.com/Kraymer/cronicle) - Use cron to rotate files and keep time-spaced copies using symlinks
 - [stereo_ptam](https://github.com/uoip/stereo_ptam) - Python implementation of SLAM algorithm Stereo-PTAM
 - [crontabs](https://github.com/robdmc/crontabs) - :alarm_clock: A cron-like utility for Python
 - [financeager](https://github.com/pylipp/financeager) - Organize your finances easily - from the command line!
@@ -8840,6 +8870,7 @@
 - [Nodz](https://github.com/LeGoffLoic/Nodz) - Nodz : Visualize your data - Free nodes based graph generator.
 - [speedml](https://github.com/Speedml/speedml) - Speedml is a Python package to speed start machine learning projects.
 - [PyTree](https://github.com/PixelwarStudio/PyTree) - Package for generating and drawing (fractal)trees.
+- [squealy](https://github.com/hashedin/squealy) - Develop APIs for Charts and Dashboards by writing SQL Queries
 - [django-migrations-graph](https://github.com/dizballanze/django-migrations-graph) - Django-admin command to display migrations with dependencies.
 - [wscelery](https://github.com/johan-sports/wscelery) - Real time celery monitoring using websockets
 - [JSON-path](https://github.com/jabbalaci/JSON-path) - Find the path of a key / value in a JSON hierarchy easily.
@@ -12249,6 +12280,7 @@
 
 ## R 
 
+- [cleanNLP](https://github.com/statsmaths/cleanNLP) - R package providing annotators and a normalized data model for natural language processing
 - [timetk](https://github.com/business-science/timetk) - A toolkit for working with time series in R
 - [bidifac](https://github.com/lockEF/bidifac) - Bidimensional matrix factorization
 - [aws.iam](https://github.com/cloudyr/aws.iam) - AWS IAM Client Package
@@ -12510,9 +12542,11 @@
 
 ## Shell 
 
+- [Arch-Data-Science](https://github.com/mratsim/Arch-Data-Science) - Archlinux PKGBUILDs for Data Science, Machine Learning, Deep Learning, NLP and Computer Vision
 - [xtreme](https://github.com/google-research/xtreme) - XTREME is a benchmark for the evaluation of the cross-lingual generalization ability of pre-trained multilingual models that covers 40 typologically diverse languages and includes nine tasks.
 - [Spoken-SQuAD](https://github.com/chiahsuan156/Spoken-SQuAD) - A spoken question answering dataset on SQUAD
 - [ODSQA](https://github.com/chiahsuan156/ODSQA) - ODSQA: OPEN-DOMAIN SPOKEN QUESTION ANSWERING DATASET
+- [amundsen](https://github.com/lyft/amundsen) - Amundsen is a metadata driven application for improving the productivity of data analysts, data scientists and engineers when interacting with data.
 - [shlide](https://github.com/icyphox/shlide) - :framed_picture: a slide deck presentation tool written in pure bash
 - [vulhub](https://github.com/vulhub/vulhub) - Pre-Built Vulnerable Environments Based on Docker-Compose
 - [stargan-v2](https://github.com/clovaai/stargan-v2) - StarGAN v2 - Official PyTorch Implementation (CVPR 2020)
@@ -12731,6 +12765,7 @@
 
 ## TypeScript 
 
+- [refined-github](https://github.com/sindresorhus/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation
 - [BotFramework-Composer](https://github.com/microsoft/BotFramework-Composer) - Dialog creation and management for Microsoft Bot Framework Applications
 - [excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
@@ -12879,6 +12914,7 @@
 - [superstruct](https://github.com/ianstormtaylor/superstruct) - A simple and composable way to validate data in JavaScript (or TypeScript).
 - [ant-design-pro](https://github.com/ant-design/ant-design-pro) - 👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!
 - [bottender](https://github.com/Yoctol/bottender) - ⚡️ A framework for building conversational user interfaces.
+- [ng-alain](https://github.com/ng-alain/ng-alain) - NG-ZORRO  admin panel front-end framework (surge mirror https://ng-alain-doc.surge.sh)
 - [hint](https://github.com/webhintio/hint) - 💡 A hinting engine for the web
 - [vue-storefront](https://github.com/DivanteLtd/vue-storefront) - Vue Storefront - PWA for eCommerce. 100% offline, platform agnostic, headless, Magento 2 supported. Always Open Source, MIT license. Join us as contributor (contributors@vuestorefront.io). Check out our new blog: https://blog.vuestorefront.io/
 - [hackernews-react-graphql](https://github.com/clintonwoo/hackernews-react-graphql) - Hacker News clone rewritten with universal JavaScript, using React and GraphQL.
@@ -13001,7 +13037,6 @@
 - [beauty-vuejs-boilerplate](https://github.com/zmts/beauty-vuejs-boilerplate) - ❤️ Real world base Vue.js app. Access/refresh tokens auth, api services, http client, vuex modules
 - [hackathon-app-template](https://github.com/oslokommune/hackathon-app-template) - 
 - [vue-page-designer](https://github.com/fireyy/vue-page-designer) - Vue component for drag-and-drop to design and build mobile website.
-- [documentation](https://github.com/pterodactyl/documentation) - Pterodactyl's documentation is open source! This repository contains the documentation for installing and updating both the panel and the daemon.
 - [ui](https://github.com/staart/ui) - 🏁🌐 Frontend Vue PWA starter for SaaS startups
 - [amazon-api-gateway-url-shortener](https://github.com/aws-samples/amazon-api-gateway-url-shortener) - Creates a serverless URL shortener on AWS without using AWS Lambda or any other compute.
 - [HYMall](https://github.com/coderwhy/HYMall) - A vue.js mall application.
