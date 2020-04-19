@@ -468,7 +468,7 @@
 - [mindspore](https://github.com/mindspore-ai/mindspore) - MindSpore is a new open source deep learning training/inference framework that could be used for mobile, edge and cloud scenarios.
 - [TRTorch](https://github.com/NVIDIA/TRTorch) - Ahead-of-time compilation of TorchScript / PyTorch JIT for NVIDIA GPUs
 - [benchmark](https://github.com/google/benchmark) - A microbenchmark support library
-- [vosk-api](https://github.com/alphacep/vosk-api) - Kaldi API for Android, Python and Node
+- [vosk-api](https://github.com/alphacep/vosk-api) - Kaldi API for offline speech recognition on Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
 - [rpcs3](https://github.com/RPCS3/rpcs3) - PS3 emulator/debugger
 - [onnx-tensorrt](https://github.com/onnx/onnx-tensorrt) - ONNX-TensorRT: TensorRT backend for ONNX
 - [cuda-samples](https://github.com/NVIDIA/cuda-samples) - Samples for CUDA Developers which demonstrates features in CUDA Toolkit
@@ -1790,7 +1790,7 @@
 - [define](https://github.com/Rican7/define) - A command-line dictionary (thesaurus) app, with access to multiple sources, written in Go.
 - [jp](https://github.com/sgreben/jp) - dead simple terminal plots from JSON data. single binary, no dependencies. linux, osx, windows.
 - [annie](https://github.com/iawia002/annie) - 👾 Fast, simple and clean video downloader
-- [qr-filetransfer](https://github.com/claudiodangelis/qr-filetransfer) - :zap: Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
+- [qrcp](https://github.com/claudiodangelis/qrcp) - :zap: Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
 - [crowbar](https://github.com/q3k/crowbar) - Tunnel TCP over a plain HTTP session (warning: mediocre Go code)
 - [emitter](https://github.com/emitter-io/emitter) - High performance, distributed and low latency publish-subscribe platform.
 - [agones](https://github.com/googleforgames/agones) - Dedicated Game Server Hosting and Scaling for Multiplayer Games on Kubernetes
@@ -4448,6 +4448,7 @@
 
 ## Jupyter Notebook 
 
+- [mlmachine](https://github.com/petersontylerd/mlmachine) - mlmachine accelerates machine learning experimentation
 - [ipymarkup](https://github.com/natasha/ipymarkup) - NER, syntax markup visualizations
 - [Question-Generation](https://github.com/KristiyanVachev/Question-Generation) - Generating multiple choice questions from text using Machine Learning.
 - [projects](https://github.com/explosion/projects) - 💝 Example projects for various NLP tasks with datasets, scripts and results
@@ -4460,7 +4461,6 @@
 - [the-craft-of-selfteaching](https://github.com/selfteaching/the-craft-of-selfteaching) - One has no future if one couldn't teach themself.
 - [scikit-learn-tips](https://github.com/justmarkham/scikit-learn-tips) - :robot::zap: Daily scikit-learn tips
 - [6S083](https://github.com/mitmath/6S083) - Materials for MIT 6.S083 / 18.S190: Computational thinking with Julia + application to the COVID-19 pandemic
-- [geemap](https://github.com/giswqs/geemap) - A Python package for interactive mapping with Google Earth Engine, ipyleaflet, and ipywidgets
 - [compling_nlp_hse_course](https://github.com/mannefedov/compling_nlp_hse_course) - Материалы курса по компьютерной лингвистике Школы Лингвистики НИУ ВШЭ
 - [log-anomaly-detector](https://github.com/AICoE/log-anomaly-detector) - Log Anomaly Detection - Machine learning to detect abnormal events logs
 - [Pandas-Data-Science-Tasks](https://github.com/KeithGalli/Pandas-Data-Science-Tasks) - Set of real world data science tasks completed using the Python Pandas library
@@ -6717,6 +6717,14 @@
 
 ## Python 
 
+- [scikit-multilearn](https://github.com/scikit-multilearn/scikit-multilearn) - A scikit-learn based module for multi-label et. al. classification
+- [mimicry](https://github.com/kwotsin/mimicry) - A PyTorch GAN library that reproduces research results.
+- [SpecAugment](https://github.com/DemisEom/SpecAugment) - A Implementation of SpecAugment with Tensorflow & Pytorch, introduced by Google Brain
+- [whynot](https://github.com/zykls/whynot) - A Python sandbox for decision making in dynamics
+- [fiber](https://github.com/uber/fiber) - Distributed Computing for AI Made Simple
+- [bert-tensorflow-pytorch-spacy-conversion](https://github.com/fredriko/bert-tensorflow-pytorch-spacy-conversion) - Instructions for how to convert a BERT Tensorflow model to work with HuggingFace's pytorch-transformers, and spaCy. This walk-through uses DeepPavlov's RuBERT as example.
+- [pegasus](https://github.com/google-research/pegasus) - 
+- [ruTS](https://github.com/SergeyShk/ruTS) - Библиотека для извлечения статистик из текстов на русском языке.
 - [spacy_api](https://github.com/kootenpv/spacy_api) - Server/Client around Spacy to load spacy only once
 - [negspacy](https://github.com/jenojp/negspacy) - spaCy pipeline object for negating concepts in text
 - [spacy-dev-resources](https://github.com/explosion/spacy-dev-resources) - 💫  Scripts, tools and resources for developing spaCy
@@ -6762,6 +6770,7 @@
 - [ALBERT-TF2.0](https://github.com/kamalkraj/ALBERT-TF2.0) - ALBERT model Pretraining and Fine Tuning using TF2.0
 - [R-Net](https://github.com/HKUST-KnowComp/R-Net) - Tensorflow Implementation of R-Net
 - [QANet](https://github.com/NLPLearn/QANet) - A Tensorflow implementation of QANet for machine reading comprehension
+- [geemap](https://github.com/giswqs/geemap) - A Python package for interactive mapping with Google Earth Engine, ipyleaflet, and ipywidgets
 - [Practical-Ethical-Hacking-Resources](https://github.com/Gr1mmie/Practical-Ethical-Hacking-Resources) - Compilation of Resources from TCM's Udemy Course
 - [SSV](https://github.com/NVlabs/SSV) - Pytorch implementation of SSV: Self-Supervised Viewpoint Learning from Image Collections (CVPR 2020)
 - [alimama-common-performance-platform-acp](https://github.com/alibaba/alimama-common-performance-platform-acp) - common-performance platform&tools(acp)   c++/python.  分布式性能测试工具
@@ -8870,7 +8879,7 @@
 - [Nodz](https://github.com/LeGoffLoic/Nodz) - Nodz : Visualize your data - Free nodes based graph generator.
 - [speedml](https://github.com/Speedml/speedml) - Speedml is a Python package to speed start machine learning projects.
 - [PyTree](https://github.com/PixelwarStudio/PyTree) - Package for generating and drawing (fractal)trees.
-- [squealy](https://github.com/hashedin/squealy) - Develop APIs for Charts and Dashboards by writing SQL Queries
+- [squealy](https://github.com/hashedin/squealy) - SQL Based REST API Generator
 - [django-migrations-graph](https://github.com/dizballanze/django-migrations-graph) - Django-admin command to display migrations with dependencies.
 - [wscelery](https://github.com/johan-sports/wscelery) - Real time celery monitoring using websockets
 - [JSON-path](https://github.com/jabbalaci/JSON-path) - Find the path of a key / value in a JSON hierarchy easily.
@@ -9220,7 +9229,6 @@
 - [word_prediction](https://github.com/Kyubyong/word_prediction) - Word Prediction using Convolutional Neural Networks
 - [everett](https://github.com/willkg/everett) - configuration library for python projects
 - [donkeycar](https://github.com/autorope/donkeycar) - Open source hardware and software platform to build a small scale self driving car.
-- [getpassecho](https://github.com/kespindler/getpassecho) - 
 - [exterminate](https://github.com/adtac/exterminate) - Break Python programs with a single import
 - [xlwings](https://github.com/xlwings/xlwings) - xlwings is a BSD-licensed Python library that makes it easy to call Python from Excel and vice versa. It works with Microsoft Excel on Windows and Mac. Sign up for the newsletter or follow us on twitter via
 - [cloud-init](https://github.com/number5/cloud-init) - unofficial mirror of Ubuntu's  cloud-init
@@ -9294,7 +9302,7 @@
 - [deepgraph](https://github.com/deepgraph/deepgraph) - Analyze Data with Pandas-based Networks. Documentation:
 - [gransk](https://github.com/pcbje/gransk) - Document processing for investigations
 - [malboxes](https://github.com/GoSecure/malboxes) - Builds malware analysis Windows VMs so that you don't have to.
-- [oil](https://github.com/oilshell/oil) - Oil shell
+- [oil](https://github.com/oilshell/oil) - A new Unix shell.  Our upgrade path from bash to a better language.
 - [pynamical](https://github.com/gboeing/pynamical) - Pynamical is a Python package for modeling and visualizing discrete nonlinear dynamical systems, chaos, and fractals.
 - [container-images](https://github.com/IntelPython/container-images) - Dockerfiles for building docker images
 - [Wifi-Dumper](https://github.com/Viralmaniar/Wifi-Dumper) - This is an open source tool to dump the wifi profiles and cleartext passwords of the connected access points on the Windows machine. This tool will help you in a Wifi penetration testing. Furthermore, it is useful while performing red team or an internal infrastructure engagements.
@@ -9464,7 +9472,7 @@
 - [Sentiment-Analysis-Twitter](https://github.com/ayushoriginal/Sentiment-Analysis-Twitter) - :mortar_board:RESEARCH [NLP :thought_balloon:] We use different feature sets and machine learning classifiers to determine the best combination for sentiment analysis of twitter.
 - [Deep-Learning-Papers-Reading-Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) - Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!
 - [garden.matplotlib](https://github.com/kivy-garden/garden.matplotlib) - Matplotlib backends using kivy
-- [garden.mapview](https://github.com/kivy-garden/garden.mapview) - Mapview is a Kivy widget for displaying interactive maps.
+- [garden.mapview](https://github.com/kivy-garden/garden.mapview) - Migrated to https://github.com/kivy-garden/mapview
 - [flask-scaffold](https://github.com/realpython/flask-scaffold) - 
 - [mr.bob](https://github.com/domenkozar/mr.bob) - Mister Bob (the builder) is filesystem template renderer
 - [redis-collections](https://github.com/honzajavorek/redis-collections) - Set of basic Python collections backed by Redis
@@ -10066,7 +10074,7 @@
 - [datacleaner](https://github.com/rhiever/datacleaner) - A Python tool that automatically cleans data sets and readies them for analysis.
 - [GitMiner](https://github.com/UnkL4b/GitMiner) - Tool for advanced mining for content on Github
 - [image-analogies](https://github.com/awentzonline/image-analogies) - Generate image analogies using neural matching and blending.
-- [hosts](https://github.com/StevenBlack/hosts) - Extending and consolidating hosts files from several well-curated sources like adaway.org, mvps.org, malwaredomainlist.com, someonewhocares.org, and potentially others.  You can optionally invoke extensions to block additional sites by category.
+- [hosts](https://github.com/StevenBlack/hosts) - Consolidating and Extending hosts files from several well-curated sources. You can optionally pick extensions to block Porn, Social Media, and other categories..
 - [ansible-graphite-events](https://github.com/guerremdq/ansible-graphite-events) - Send events to graphite using ansible
 - [later](https://github.com/qznc/later) - Command-line issue tracker for a lazy developer
 - [generator-angular-flask](https://github.com/rayokota/generator-angular-flask) - Yeoman generator for AngularJS + Flask
@@ -10105,7 +10113,7 @@
 - [TrumpScript](https://github.com/samshadwell/TrumpScript) - Make Python great again
 - [web2attack](https://github.com/santatic/web2attack) - Web hacking framework with tools, exploits by python
 - [ete](https://github.com/etetoolkit/ete) - Python package for building, comparing, annotating, manipulating and visualising trees. It provides a comprehensive API and a collection of command line tools, including utilities to work with the NCBI taxonomy tree.
-- [WiFi-Pumpkin](https://github.com/P0cL4bs/WiFi-Pumpkin) - Framework for Rogue Wi-Fi Access Point Attack
+- [WiFi-Pumpkin-deprecated](https://github.com/P0cL4bs/WiFi-Pumpkin-deprecated) - DEPRECATED, wifipumpkin3 -&gt; https://github.com/P0cL4bs/wifipumpkin3
 - [walrus](https://github.com/coleifer/walrus) - Lightweight Python utilities for working with Redis
 - [PyExPool](https://github.com/eXascaleInfolab/PyExPool) - Python Multi-Process Execution Pool: concurrent asynchronous execution pool with custom resource constraints (memory, timeouts, affinity, CPU cores and caching), load balancing and profiling capabilities of the external apps on NUMA architecture
 - [python-elevator-challenge](https://github.com/mshang/python-elevator-challenge) - So You Think You Can Program An Elevator
@@ -10606,7 +10614,7 @@
 - [tredify](https://github.com/gsalvatori/tredify) - A Python framework to plot 2D and 3D structures from JSON data.
 - [multinetx](https://github.com/nkoub/multinetx) - multiNetX is a python package for the manipulation and visualization of multilayer networks. It is build on NetworkX
 - [ufora](https://github.com/ufora/ufora) - Compiled, automatically parallel Python for data science
-- [pipdeptree](https://github.com/naiquevin/pipdeptree) - A command line utility to display dependency tree of the installed Python packages [NOT ACCEPTING PRs FOR A WHILE BECAUSE OF MAJOR REFACTORING IN ANOTHER BRANCH]
+- [pipdeptree](https://github.com/naiquevin/pipdeptree) - A command line utility to display dependency tree of the installed Python packages [NOT ACCEPTING PRs FOR A WHILE BECAUSE OF MAJOR REFACTORING IN v2beta BRANCH]
 - [summrizer](https://github.com/vipul-sharma20/summrizer) - A script to get summary of text content
 - [paasta](https://github.com/Yelp/paasta) - An open, distributed platform as a service
 - [dateparser](https://github.com/scrapinghub/dateparser) - python parser for human readable dates
