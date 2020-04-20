@@ -546,7 +546,7 @@
 - [jetson-inference](https://github.com/dusty-nv/jetson-inference) - Guide to deploying deep-learning inference networks and deep vision primitives with TensorRT and NVIDIA Jetson.
 - [mapbox-gl-native](https://github.com/mapbox/mapbox-gl-native) - Interactive, thoroughly customizable maps in native Android, iOS, macOS, Node.js, and Qt applications, powered by vector tiles and OpenGL
 - [pfaedle](https://github.com/ad-freiburg/pfaedle) - Precise map-matching for public transit feeds. Generates high-quality GTFS shapes from OSM data.
-- [cpp-taskflow](https://github.com/cpp-taskflow/cpp-taskflow) - Modern C++ Parallel and Heterogeneous Task Programming
+- [cpp-taskflow](https://github.com/cpp-taskflow/cpp-taskflow) - Modern C++ Parallel Task Programming
 - [YouTokenToMe](https://github.com/VKCOM/YouTokenToMe) - Unsupervised text tokenizer focused on computational efficiency
 - [griddb_nosql](https://github.com/griddb/griddb_nosql) - high performance, high scalability and high reliability database for IoT & big data
 - [triton-inference-server](https://github.com/NVIDIA/triton-inference-server) - The Triton Inference Server provides a cloud inferencing solution optimized for NVIDIA GPUs.
@@ -3229,6 +3229,7 @@
 - [umbrella](https://github.com/franciscop/umbrella) - :umbrella: Lightweight javascript library for DOM manipulation and events
 - [svg-3d-builder](https://github.com/captainwz/svg-3d-builder) - an elaborate tool to create 3d model with svg
 - [TheoremJS](https://github.com/arguiot/TheoremJS) - A Math library for computation in JavaScript 📕
+- [SignificantTrades](https://github.com/Tucsky/SignificantTrades) - better than 1 min chart
 - [rnset](https://github.com/suijunqiang/rnset) - rnset is a framework based on the react native & integrated a lot very good RN components to easy for verifying/using/picking in your projects
 - [iguazu](https://github.com/americanexpress/iguazu) - ✨ Iguazu is a simple Redux-powered Async Query engine
 - [algorithms-javascript](https://github.com/IamManchanda/algorithms-javascript) - Algorithms & Data Structures! [WIP] More questions are getting added!
@@ -3630,7 +3631,6 @@
 - [webpackmonitor](https://github.com/webpackmonitor/webpackmonitor) - A tool for monitoring webpack optimization metrics through the development process
 - [engineer-manager](https://github.com/ryanburgess/engineer-manager) - A list of engineering manager resource links.
 - [accessibilityjs](https://github.com/github/accessibilityjs) - Client side accessibility error scanner.
-- [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
 - [data](https://github.com/GoogleTrends/data) - An index of all open-source data
 - [vue-tippy](https://github.com/KABBOUCHI/vue-tippy) - VueJS Tooltip powered by Tippy.js
 - [test-tube](https://github.com/williamFalcon/test-tube) - Python library to easily log experiments and parallelize hyperparameter search for neural networks
@@ -3685,7 +3685,7 @@
 - [vue-vscode-snippets](https://github.com/sdras/vue-vscode-snippets) - These snippets were built to supercharge my workflow in the most seamless manner possible.
 - [nanoid](https://github.com/ai/nanoid) - A tiny (108 bytes), secure, URL-friendly, unique string ID generator for JavaScript
 - [webogram](https://github.com/zhukov/webogram) - Telegram web application, GPL v3
-- [vue-agile](https://github.com/lukaszflorczak/vue-agile) - A carousel component for Vue.js
+- [vue-agile](https://github.com/lukaszflorczak/vue-agile) - 🎠 A carousel component for Vue.js
 - [jest-in-case](https://github.com/atlassian/jest-in-case) - Jest utility for creating variations of the same test
 - [moon](https://github.com/kbrsh/moon) - 🌙 The minimal & fast library for functional user interfaces
 - [three.ar.js](https://github.com/google-ar/three.ar.js) - A helper three.js library for building AR web experiences that run in WebARonARKit and WebARonARCore
@@ -5857,7 +5857,7 @@
 - [The-Hundred-Page-Machine-Learning-Book](https://github.com/ZakiaSalod/The-Hundred-Page-Machine-Learning-Book) - This repository contains the draft PDF copies of the book: The 100 Page Machine Learning Book
 - [technology_books](https://github.com/arpitjindal97/technology_books) - Premium eBook free for Geeks
 - [you-dont-know-js-ru](https://github.com/azat-io/you-dont-know-js-ru) - :books: Russian translation of "You Don't Know JS" book series
-- [PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE) - This repository was created and developed by Ammar Amer @cry__pto Only. Updates to this repository will continue to arrive until the number of links reaches 10000 links & 10000 pdf files .Learn Ethical Hacking and penetration testing .hundreds of ethical hacking & penetration testing & red team & cyber security & computer science resources.
+- [PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE) - This repository was created and developed by All The Community Members Who Shared resources And Wrote Articles And What I ONLY did @cry__pto is Searching And Uploading Files. Updates to this repository will continue to arrive until the number of links reaches 10000 links & 10000 pdf files .Learn Ethical Hacking and penetration testing .hundreds of ethical hacking & penetration testing & red team & cyber security & computer science resources.
 - [git-kata](https://github.com/Slashgear/git-kata) - When you know the bases of git but sometimes you have problemes with it. This "code kata" could help you to deal with git problems
 - [Learn_Computer_Vision](https://github.com/llSourcell/Learn_Computer_Vision) - This is the curriculum for "Learn Computer Vision" by Siraj Raval on Youtube
 - [1x.engineer](https://github.com/cutenode/1x.engineer) - The official website of 1x Engineers around the world
@@ -6171,6 +6171,7 @@
 - [krackinfo](https://github.com/kristate/krackinfo) - Vendor Response Matrix for KRACK WPA2 (Key Reinstallation Attack)
 - [guide](https://github.com/freeCodeCamp/guide) - A collection of easy-to-understand guides to programming tools
 - [Resources-Front-End-Beginner](https://github.com/thedaviddias/Resources-Front-End-Beginner) - 💯 The most essential list of resources for Front-End beginners (🇺🇸 🇬🇧 🇨🇦 & 🇫🇷)
+- [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
 - [awesome-rl](https://github.com/aikorea/awesome-rl) - Reinforcement learning resources curated
 - [awesome-nlp](https://github.com/keon/awesome-nlp) - :book: A curated list of resources dedicated to Natural Language Processing (NLP)
 - [awesome-machine-learning-on-source-code](https://github.com/src-d/awesome-machine-learning-on-source-code) - Cool links & research papers related to Machine Learning applied to source code (MLonCode)
@@ -6717,6 +6718,7 @@
 
 ## Python 
 
+- [mittens](https://github.com/roamanalytics/mittens) - A fast implementation of GloVe, with optional retrofitting
 - [scikit-multilearn](https://github.com/scikit-multilearn/scikit-multilearn) - A scikit-learn based module for multi-label et. al. classification
 - [mimicry](https://github.com/kwotsin/mimicry) - A PyTorch GAN library that reproduces research results.
 - [SpecAugment](https://github.com/DemisEom/SpecAugment) - A Implementation of SpecAugment with Tensorflow & Pytorch, introduced by Google Brain
@@ -7399,7 +7401,7 @@
 - [FeatherNets_Face-Anti-spoofing-Attack-Detection-Challenge-CVPR2019](https://github.com/SoftwareGift/FeatherNets_Face-Anti-spoofing-Attack-Detection-Challenge-CVPR2019) - Code for 3rd Place Solution in Face Anti-spoofing Attack Detection Challenge @ CVPR2019,model only 0.35M!!! 1.88ms(CPU)
 - [cartography](https://github.com/lyft/cartography) - Cartography is a Python tool that consolidates infrastructure assets and the relationships between them in an intuitive graph view powered by a Neo4j database.
 - [automl-gs](https://github.com/minimaxir/automl-gs) - Provide an input CSV and a target field to predict, generate a model + code to run it.
-- [ODM](https://github.com/OpenDroneMap/ODM) - A command line toolkit to generate maps, point clouds, 3D models and DEMs from drone, balloon or kite images.
+- [ODM](https://github.com/OpenDroneMap/ODM) - A command line toolkit to generate maps, point clouds, 3D models and DEMs from drone, balloon or kite images. 📷
 - [pytype](https://github.com/google/pytype) - A static type analyzer for Python code
 - [BigGAN-PyTorch](https://github.com/ajbrock/BigGAN-PyTorch) - The author's officially unofficial PyTorch BigGAN implementation.
 - [pytorch-pretrained-BigGAN](https://github.com/huggingface/pytorch-pretrained-BigGAN) - 🦋A PyTorch implementation of BigGAN with pretrained weights and conversion scripts.
@@ -12495,7 +12497,7 @@
 - [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [tokenizers](https://github.com/huggingface/tokenizers) - 💥Fast State-of-the-Art Tokenizers optimized for Research and Production
 - [raic-2019](https://github.com/MailRuChamps/raic-2019) - Russian AI Cup — artificial intelligence programming contest. Official website: http://russianaicup.ru
-- [navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
+- [navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line and application launchers
 - [RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [PyOxidizer](https://github.com/indygreg/PyOxidizer) - A modern Python application packaging and distribution tool
 - [libra](https://github.com/libra/libra) - Libra’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.
@@ -13185,7 +13187,6 @@
 - [shards-vue](https://github.com/DesignRevision/shards-vue) - 🌟Shards Vue is a free, beautiful and modern Vue.js UI kit based on Shards.
 - [vue-auth-vuex](https://github.com/christiannwamba/vue-auth-vuex) - 
 - [yandex-dialogs-client](https://github.com/popstas/yandex-dialogs-client) - Тестирование навыков Яндекс.Диалогов Алисы с автотестами
-- [SignificantTrades](https://github.com/Tucsky/SignificantTrades) - better than 1 min chart
 - [portfolio-vuepress](https://github.com/forestryio/portfolio-vuepress) - Vuepress portfolio
 - [vue-material-admin](https://github.com/tookit/vue-material-admin) - A vue material design admin template
 - [nuxt-ssr-firebase](https://github.com/davidroyer/nuxt-ssr-firebase) - Nuxt.js Universal App with SSR via Firebase Functions and Firebase Hosting
