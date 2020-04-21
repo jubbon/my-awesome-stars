@@ -475,7 +475,7 @@
 - [xbmc](https://github.com/xbmc/xbmc) - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS and Windows.
 - [graph-learn](https://github.com/alibaba/graph-learn) - graph-learn
 - [snappy](https://github.com/google/snappy) - A fast compressor/decompressor
-- [InsectRobotSimulation](https://github.com/neuroprod/InsectRobotSimulation) - 
+- [InsectRobotSimulation](https://github.com/neuroprod/InsectRobotSimulation) - hexapod
 - [SeetaFace6](https://github.com/seetafaceengine/SeetaFace6) - SeetaFace 6: Newest open and free, full stack face recognization toolkit.
 - [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [domoticz](https://github.com/domoticz/domoticz) - Open source Home Automation System
@@ -616,7 +616,7 @@
 - [grpc-web](https://github.com/grpc/grpc-web) - gRPC for Web Clients
 - [oatpp](https://github.com/oatpp/oatpp) - 🌱Modern Web Framework for C++. High performance, simple API, cross platform, zero dependency.
 - [Algorithms](https://github.com/VAR-solutions/Algorithms) - Efficient Algorithms
-- [dldt](https://github.com/opencv/dldt) - OpenVINO™ Toolkit - Deep Learning Deployment Toolkit repository
+- [dldt](https://github.com/openvinotoolkit/dldt) - OpenVINO™ Toolkit - Deep Learning Deployment Toolkit repository
 - [ACM-ICPC-Algorithms](https://github.com/matthewsamuel95/ACM-ICPC-Algorithms) - Algorithms used in Competitive Programming
 - [DeepMimic](https://github.com/xbpeng/DeepMimic) - Motion imitation with deep reinforcement learning.
 - [hacktoberfest-2018](https://github.com/my-first-pr/hacktoberfest-2018) - 
@@ -2639,7 +2639,6 @@
 - [awesome-cpus](https://github.com/larsbrinkhoff/awesome-cpus) - All CPU and MCU documentation in one place
 - [Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) - A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.
 - [awesome-modern-cpp](https://github.com/rigtorp/awesome-modern-cpp) - A collection of resources on modern C++
-- [real-time-analytics-node-socketio-vuejs](https://github.com/coligo-io/real-time-analytics-node-socketio-vuejs) - Creating a real-time website analytics dashboard with NodeJs, Socket.io, and Vue.js
 - [grd](https://github.com/1000ch/grd) - A CSS grid framework using Flexbox. Only 321 bytes (Gzipped).
 - [ecma262](https://github.com/tc39/ecma262) - Status, process, and documents for ECMA-262
 - [awesome-br.github.io](https://github.com/awesome-br/awesome-br.github.io) - 
@@ -3027,7 +3026,6 @@
 - [cross-platform-node-guide](https://github.com/ehmicky/cross-platform-node-guide) - 📗 How to write cross-platform Node.js code
 - [avoriaz](https://github.com/eddyerburgh/avoriaz) - 🔬 a Vue.js testing utility library
 - [simple-streaming-datasource](https://github.com/seanlaff/simple-streaming-datasource) - End-to-end Grafana streaming datasource example
-- [vue-dev-server](https://github.com/vuejs/vue-dev-server) - A POC dev server that allows you to import `*.vue` files via native ES modules imports.
 - [parcel_vue](https://github.com/chandru89new/parcel_vue) - simple vue+parcel starter pack
 - [frenchkiss.js](https://github.com/koala-interactive/frenchkiss.js) - The blazing fast lightweight internationalization (i18n) module for javascript
 - [Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
@@ -4089,7 +4087,6 @@
 - [speech-to-text-nodejs](https://github.com/watson-developer-cloud/speech-to-text-nodejs) - :microphone: Sample Node.js Application for the IBM Watson Speech to Text Service
 - [ng-material-floating-button](https://github.com/nobitagit/ng-material-floating-button) - Material design floating menu with action buttons implemented as an Angularjs directive.
 - [minidocs](https://github.com/freeman-lab/minidocs) - build a minimalist site for your documentation
-- [ant-design](https://github.com/ant-design/ant-design) - 🌈 A UI Design Language and React UI library
 - [marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [atomic-docs](https://github.com/nickberens360/atomic-docs) - Front end code documentation generator. http://atomicdocs.io/
 - [javascript-journey](https://github.com/bahmutov/javascript-journey) - Source code for blog post Journey from procedural to reactive JavaScript with stops
@@ -4448,6 +4445,7 @@
 
 ## Jupyter Notebook 
 
+- [spacy-ru](https://github.com/buriy/spacy-ru) - Russian language models for spaCy
 - [mlmachine](https://github.com/petersontylerd/mlmachine) - mlmachine accelerates machine learning experimentation
 - [ipymarkup](https://github.com/natasha/ipymarkup) - NER, syntax markup visualizations
 - [Question-Generation](https://github.com/KristiyanVachev/Question-Generation) - Generating multiple choice questions from text using Machine Learning.
@@ -4531,7 +4529,6 @@
 - [reco-gym](https://github.com/criteo-research/reco-gym) - Code for reco-gym: A Reinforcement Learning Environment for the problem of Product Recommendation in Online Advertising
 - [catalyst-examples](https://github.com/Scitator/catalyst-examples) - Examples
 - [fastai2](https://github.com/fastai/fastai2) - Temporary home for fastai v2 while it's being developed
-- [Python](https://github.com/randerson112358/Python) - :snake: Python Programs
 - [python-machine-learning-book-3rd-edition](https://github.com/rasbt/python-machine-learning-book-3rd-edition) - The "Python Machine Learning (3rd edition)" book code repository
 - [textClassifier](https://github.com/jiangxinyang227/textClassifier) - tensorflow implementation
 - [pytorch-3dunet](https://github.com/wolny/pytorch-3dunet) - 3D U-Net model for volumetric semantic segmentation written in pytorch
@@ -6340,7 +6337,6 @@
 - [awesome-p2p](https://github.com/mafintosh/awesome-p2p) - List of great p2p resources
 - [webpack-tricks](https://github.com/rstacruz/webpack-tricks) - Tips and tricks in using Webpack
 - [Face-Resources](https://github.com/betars/Face-Resources) - 
-- [awesome-functional-python](https://github.com/sfermigier/awesome-functional-python) - 
 - [stack-on-a-budget](https://github.com/255kb/stack-on-a-budget) - A collection of services with great free tiers for developers on a budget
 - [awesome-bits](https://github.com/keon/awesome-bits) - :computer: A curated list of awesome bitwise operations and tricks
 - [ganhacks](https://github.com/soumith/ganhacks) - starter from "How to Train a GAN?" at NIPS2016
@@ -6718,9 +6714,10 @@
 
 ## Python 
 
+- [minio-py](https://github.com/minio/minio-py) - MinIO Client SDK for Python
 - [mittens](https://github.com/roamanalytics/mittens) - A fast implementation of GloVe, with optional retrofitting
 - [scikit-multilearn](https://github.com/scikit-multilearn/scikit-multilearn) - A scikit-learn based module for multi-label et. al. classification
-- [mimicry](https://github.com/kwotsin/mimicry) - A PyTorch GAN library that reproduces research results.
+- [mimicry](https://github.com/kwotsin/mimicry) - A PyTorch GAN library that reproduces research results for popular GANs.
 - [SpecAugment](https://github.com/DemisEom/SpecAugment) - A Implementation of SpecAugment with Tensorflow & Pytorch, introduced by Google Brain
 - [whynot](https://github.com/zykls/whynot) - A Python sandbox for decision making in dynamics
 - [fiber](https://github.com/uber/fiber) - Distributed Computing for AI Made Simple
@@ -6757,7 +6754,7 @@
 - [camphr](https://github.com/PKSHATechnology-Research/camphr) - spaCy plugin for  Transformers , Udify, ELmo, etc.
 - [rl-baselines-zoo](https://github.com/araffin/rl-baselines-zoo) - A collection of 100+ pre-trained RL agents using Stable Baselines, training and hyperparameter optimization included.
 - [Protobot](https://github.com/SwapneelM/Protobot) - Prototyping a Chatbot using Jack the Reader
-- [GraphFlow](https://github.com/hugochan/GraphFlow) - Code & data accompanying the ICML2019 workshop paper "GraphFlow: Exploiting Conversation Flow with Graph Neural Networks for Conversational Machine Comprehension"
+- [GraphFlow](https://github.com/hugochan/GraphFlow) - Code & data accompanying the IJCAI 2020 paper "GraphFlow: Exploiting Conversation Flow with Graph Neural Networks for Conversational Machine Comprehension"
 - [caesar](https://github.com/longhuei/caesar) - Context Awareness-Enabled Summary Attentive Reader (CAESAR)
 - [ReadingComprehension](https://github.com/imraviagrawal/ReadingComprehension) - Bi-Directional Attention Flow for Machine Comprehensions
 - [FlowDelta](https://github.com/MiuLab/FlowDelta) - FlowDelta: Modeling Flow Information Gain in Reasoning for Conversational Machine Comprehension
@@ -9308,6 +9305,7 @@
 - [pynamical](https://github.com/gboeing/pynamical) - Pynamical is a Python package for modeling and visualizing discrete nonlinear dynamical systems, chaos, and fractals.
 - [container-images](https://github.com/IntelPython/container-images) - Dockerfiles for building docker images
 - [Wifi-Dumper](https://github.com/Viralmaniar/Wifi-Dumper) - This is an open source tool to dump the wifi profiles and cleartext passwords of the connected access points on the Windows machine. This tool will help you in a Wifi penetration testing. Furthermore, it is useful while performing red team or an internal infrastructure engagements.
+- [awesome-functional-python](https://github.com/sfermigier/awesome-functional-python) - 
 - [harmonicConvolutions](https://github.com/deworrall92/harmonicConvolutions) - Deep Translation and Rotation Equivariance
 - [RogueBot](https://github.com/YogurtTheHorse/RogueBot) - My simple rogue-like game for Telegram
 - [electricitymap-contrib](https://github.com/tmrowco/electricitymap-contrib) - A real-time visualisation of the CO2 emissions of electricity consumption
@@ -9537,7 +9535,7 @@
 - [ck-tensorflow](https://github.com/ctuning/ck-tensorflow) - Collective Knowledge components for TensorFlow (code, data sets, models, packages, workflows):
 - [python-web-pdb](https://github.com/romanvm/python-web-pdb) - Web-based remote UI for Python's PDB debugger
 - [ck-autotuning](https://github.com/ctuning/ck-autotuning) - CK automation actions to let users implement portable, customizable and reusable program workflows for reproducible, collaborative and multi-objective benchmarking, optimization and SW/HW co-design:
-- [ck](https://github.com/ctuning/ck) - A small Python library to help researchers share their artifacts (code, data, models, scripts, experiments) as a human-readable database of portable, reusable and customizable components and workflows with CLI-based actions, Python/REST API  and JSON meta. Our partners use CK to enable DevOps-based ML/AI/systems R&D, crowd-tuning and "live" papers:
+- [ck](https://github.com/ctuning/ck) - Collective Knowledge (CK) is a prototype of a common SDK with an open repository of knowledge to collaboratively design, benchmark and optimize deep tech systems including AI, ML, quantum and IoT:
 - [CommAI-env](https://github.com/facebookresearch/CommAI-env) - A platform for developing AI systems as described in A Roadmap towards Machine Intelligence - http://arxiv.org/abs/1511.08130
 - [deconvfaces](https://github.com/zo7/deconvfaces) - Generating faces with deconvolution networks
 - [whereami](https://github.com/kootenpv/whereami) - Uses WiFi signals :signal_strength: and machine learning to predict where you are
@@ -12819,6 +12817,7 @@
 - [type-fest](https://github.com/sindresorhus/type-fest) - A collection of essential TypeScript types
 - [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
 - [code-server](https://github.com/cdr/code-server) - Run VS Code on a remote server.
+- [vue-dev-server](https://github.com/vuejs/vue-dev-server) - A POC dev server that allows you to import `*.vue` files via native ES modules imports.
 - [nodejs.dev](https://github.com/nodejs/nodejs.dev) - A new Node.js resource built using Gatsby.js with React.js, TypeScript, Emotion, and Remark.
 - [frontend-bootcamp](https://github.com/microsoft/frontend-bootcamp) - Frontend Workshop from HTML/CSS/JS to TypeScript/React/Redux
 - [vscode-leetcode](https://github.com/jdneo/vscode-leetcode) - Solve LeetCode problems in VS Code
@@ -12989,6 +12988,7 @@
 - [flatpickr](https://github.com/flatpickr/flatpickr) - lightweight, powerful javascript datetimepicker with no dependencies
 - [hyper](https://github.com/zeit/hyper) - A terminal built on web technologies
 - [etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
+- [ant-design](https://github.com/ant-design/ant-design) - 🌈 A UI Design Language and React UI library
 - [Leaflet.timeline](https://github.com/skeate/Leaflet.timeline) - Display arbitrary GeoJSON on a map with a timeline slider and play button
 - [ngx-admin](https://github.com/akveo/ngx-admin) - Customizable admin dashboard template based on Angular 8+
 - [atoms](https://github.com/BlazeSoftware/atoms) - Atoms for Blaze UI
