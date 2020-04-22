@@ -2252,7 +2252,6 @@
 - [Phishing-Simulation](https://github.com/jenyraval/Phishing-Simulation) - Phishing Simulation mainly aims to increase phishing awareness by providing an intuitive tutorial and customized assessment
 - [elements-examples](https://github.com/stripe/elements-examples) - Stripe Elements examples.
 - [PowerBI-visuals](https://github.com/microsoft/PowerBI-visuals) - Documentation for creating visuals for Power BI
-- [docs](https://github.com/aws-amplify/docs) - Amplify Framework Documentation
 - [webdevbootcamp](https://github.com/nax3t/webdevbootcamp) - All source code for back-end projects from the Web Developer Bootcamp
 - [Intro-to-Data-APIs-JS](https://github.com/CodingTrain/Intro-to-Data-APIs-JS) - Working with Data and APIs in JavaScript
 - [pcc_2e](https://github.com/ehmatthes/pcc_2e) - Online resources for Python Crash Course (Second Edition), from No Starch Press
@@ -2571,6 +2570,7 @@
 - [noto-source](https://github.com/googlefonts/noto-source) - 
 - [Azure-TDSP-Utilities](https://github.com/Azure/Azure-TDSP-Utilities) - Utilities and scripts  developed as part of Microsoft's Team Data Science Process for productive data science
 - [ai-on.org](https://github.com/AI-ON/ai-on.org) - AI•ON projects repository and website source.
+- [SkylinkJS](https://github.com/Temasys/SkylinkJS) - SkylinkJS Javascript WebRTC SDK
 - [retread](https://github.com/ryanfox/retread) - Detect reused frames in video
 - [computer-science-flash-cards](https://github.com/jwasham/computer-science-flash-cards) - Mini website for testing both general CS knowledge and enforce coding practice and common algorithm/data structure memorization.
 - [ec2instances.info](https://github.com/powdahound/ec2instances.info) - Amazon EC2 instance comparison site
@@ -3961,7 +3961,6 @@
 - [demo-quickconnect](https://github.com/rtc-io/demo-quickconnect) - EXAMPLE: A simple video conferencing example using rtc-quickconnect
 - [SimpleWebRTC](https://github.com/simplewebrtc/SimpleWebRTC) - Simplest WebRTC ever
 - [AdapterJS](https://github.com/Temasys/AdapterJS) - AdapterJS Javascript Polyfill and Tools for WebRTC - Skylink WebRTC
-- [SkylinkJS](https://github.com/Temasys/SkylinkJS) - SkylinkJS Javascript WebRTC SDK
 - [samples](https://github.com/webrtc/samples) - WebRTC Web demos and samples
 - [getaroom](https://github.com/Temasys/getaroom) - Simple WebRTC audio/video conferencing demo using SkylinkJS and React.
 - [Vue2Leaflet](https://github.com/vue-leaflet/Vue2Leaflet) - Vue 2 components for Leaflet maps
@@ -4336,6 +4335,7 @@
 - [VisualAlchemist](https://github.com/prahladyeri/VisualAlchemist) - Open source database diagramming and automation tool
 - [flask-angular-auth](https://github.com/realpython/flask-angular-auth) - Handling User Authentication With Angular and Flask
 - [redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
+- [faraday](https://github.com/infobyte/faraday) - Collaborative Penetration Test and Vulnerability Management Platform
 - [rodeo](https://github.com/yhat/rodeo) - A data science IDE for Python
 - [crossfader](https://github.com/better/crossfader) - Autoencoders to find structure in arbitrary datasets
 - [brackets](https://github.com/adobe/brackets) - An open source code editor for the web, written in JavaScript, HTML and CSS.
@@ -4445,6 +4445,7 @@
 
 ## Jupyter Notebook 
 
+- [compress-fasttext](https://github.com/avidale/compress-fasttext) - Tools for shrinking fastText models (in gensim format)
 - [spacy-ru](https://github.com/buriy/spacy-ru) - Russian language models for spaCy
 - [mlmachine](https://github.com/petersontylerd/mlmachine) - mlmachine accelerates machine learning experimentation
 - [ipymarkup](https://github.com/natasha/ipymarkup) - NER, syntax markup visualizations
@@ -5007,7 +5008,7 @@
 - [LectureNotes](https://github.com/UWSEDS/LectureNotes) - Lecture content for UW Software Engineering for Data Scientists
 - [banti_telugu_ocr](https://github.com/TeluguOCR/banti_telugu_ocr) - End to end OCR system for Telugu. Based on Convolutional Neural Networks.
 - [carputer](https://github.com/otaviogood/carputer) - Toy car that drives itself using neural networks
-- [qiskit-iqx-tutorials](https://github.com/Qiskit/qiskit-iqx-tutorials) - A collection of Jupyter notebooks showing how to use Qiskit that is synced with the IBM Q Experience
+- [qiskit-tutorials](https://github.com/Qiskit/qiskit-tutorials) - A collection of Jupyter notebooks showing how to use Qiskit that is synced with the IBM Q Experience
 - [ethereum_demo](https://github.com/llSourcell/ethereum_demo) - This is the code for "Ethereum Explained" by Siraj Raval on Youtube
 - [pynotes](https://github.com/srigalibe/pynotes) - Python exercises to practice skills
 - [MachineLearning](https://github.com/carefree0910/MachineLearning) - Machine learning algorithms implemented by pure numpy
@@ -6714,6 +6715,8 @@
 
 ## Python 
 
+- [detecto](https://github.com/alankbi/detecto) - Build fully-functioning computer vision models with PyTorch
+- [navec](https://github.com/natasha/navec) - Compact high quality word embeddings for Russian language
 - [minio-py](https://github.com/minio/minio-py) - MinIO Client SDK for Python
 - [mittens](https://github.com/roamanalytics/mittens) - A fast implementation of GloVe, with optional retrofitting
 - [scikit-multilearn](https://github.com/scikit-multilearn/scikit-multilearn) - A scikit-learn based module for multi-label et. al. classification
@@ -9535,7 +9538,7 @@
 - [ck-tensorflow](https://github.com/ctuning/ck-tensorflow) - Collective Knowledge components for TensorFlow (code, data sets, models, packages, workflows):
 - [python-web-pdb](https://github.com/romanvm/python-web-pdb) - Web-based remote UI for Python's PDB debugger
 - [ck-autotuning](https://github.com/ctuning/ck-autotuning) - CK automation actions to let users implement portable, customizable and reusable program workflows for reproducible, collaborative and multi-objective benchmarking, optimization and SW/HW co-design:
-- [ck](https://github.com/ctuning/ck) - Collective Knowledge (CK) is a prototype of a common SDK with an open repository of knowledge to collaboratively design, benchmark and optimize deep tech systems including AI, ML, quantum and IoT:
+- [ck](https://github.com/ctuning/ck) - Collective Knowledge (CK) is a small Python library to share research artifacts (code, data, models, scripts) and workflows as reusable components with a unified API, CLI and JSON meta description:
 - [CommAI-env](https://github.com/facebookresearch/CommAI-env) - A platform for developing AI systems as described in A Roadmap towards Machine Intelligence - http://arxiv.org/abs/1511.08130
 - [deconvfaces](https://github.com/zo7/deconvfaces) - Generating faces with deconvolution networks
 - [whereami](https://github.com/kootenpv/whereami) - Uses WiFi signals :signal_strength: and machine learning to predict where you are
@@ -10873,7 +10876,6 @@
 - [gplearn](https://github.com/trevorstephens/gplearn) - Genetic Programming in Python, with a scikit-learn inspired API
 - [django-hackathon-starter](https://github.com/DrkSephy/django-hackathon-starter) - A boilerplate for Django web applications
 - [neon](https://github.com/NervanaSystems/neon) - Intel® Nervana™ reference deep learning framework committed to best performance on all hardware
-- [faraday](https://github.com/infobyte/faraday) - Collaborative Penetration Test and Vulnerability Management Platform
 - [Apollo](https://github.com/Capgemini/Apollo) - :rocket: An open-source platform for cloud native applications based on Apache Mesos and Docker.
 - [ruhistorydata](https://github.com/infoculture/ruhistorydata) - Russian historical database from different sources / База российских исторических данных
 - [csv2ofx](https://github.com/djmuhlestein/csv2ofx) - Convert CSV files from Yodlee (or other sources) into OFX files for import into other financial software.
@@ -12554,7 +12556,6 @@
 - [xtreme](https://github.com/google-research/xtreme) - XTREME is a benchmark for the evaluation of the cross-lingual generalization ability of pre-trained multilingual models that covers 40 typologically diverse languages and includes nine tasks.
 - [Spoken-SQuAD](https://github.com/chiahsuan156/Spoken-SQuAD) - A spoken question answering dataset on SQUAD
 - [ODSQA](https://github.com/chiahsuan156/ODSQA) - ODSQA: OPEN-DOMAIN SPOKEN QUESTION ANSWERING DATASET
-- [amundsen](https://github.com/lyft/amundsen) - Amundsen is a metadata driven application for improving the productivity of data analysts, data scientists and engineers when interacting with data.
 - [shlide](https://github.com/icyphox/shlide) - :framed_picture: a slide deck presentation tool written in pure bash
 - [vulhub](https://github.com/vulhub/vulhub) - Pre-Built Vulnerable Environments Based on Docker-Compose
 - [stargan-v2](https://github.com/clovaai/stargan-v2) - StarGAN v2 - Official PyTorch Implementation (CVPR 2020)
@@ -12714,6 +12715,7 @@
 
 ## Smarty 
 
+- [amundsen](https://github.com/lyft/amundsen) - Amundsen is a metadata driven application for improving the productivity of data analysts, data scientists and engineers when interacting with data.
 - [temporalpw](https://github.com/tkooda/temporalpw) - Temporary secure password storage for transmission over insecure channels
 - [YaC2014](https://github.com/koldunovn/YaC2014) - Files for Yandex YaC2014 conference talk
 
@@ -12795,6 +12797,7 @@
 - [toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
 - [WebTemplateStudio](https://github.com/microsoft/WebTemplateStudio) - Microsoft Web Template Studio quickly builds web applications using a wizard-based UI to turn your needs into a foundation of best patterns and practices
 - [harp-map-editor](https://github.com/heremaps/harp-map-editor) - Simple map editor for harp.gl map styles
+- [docs](https://github.com/aws-amplify/docs) - Amplify Framework Documentation
 - [react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design
 - [harp.gl](https://github.com/heremaps/harp.gl) - harp.gl - web map rendering engine
 - [mds-core](https://github.com/openmobilityfoundation/mds-core) - An implementation of an MDS Agency Server written in Typescript
