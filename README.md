@@ -28,7 +28,6 @@
   - [Elixir](#elixir)
   - [Emacs Lisp](#emacs-lisp)
   - [Erlang](#erlang)
-  - [F#](#f#)
   - [Fortran](#fortran)
   - [GLSL](#glsl)
   - [Game Maker Language](#game-maker-language)
@@ -122,6 +121,7 @@
 
 ## C 
 
+- [GloVe](https://github.com/stanfordnlp/GloVe) - GloVe model for distributed word representation
 - [IoTGoat](https://github.com/OWASP/IoTGoat) - IoTGoat is a deliberately insecure firmware created to educate software developers and security professionals with testing commonly found vulnerabilities in IoT devices.
 - [concorde](https://github.com/matthelb/concorde) - Concorde is a computer code for the symmetric traveling salesman problem (TSP) and some related network optimization problems. It was created by David Applegate, Robert E. Bixby, Vašek Chvátal, and William J. Cook.
 - [XNNPACK](https://github.com/google/XNNPACK) - High-efficiency floating-point neural network inference operators for mobile, server, and Web
@@ -441,6 +441,7 @@
 
 - [acr-tasks](https://github.com/Azure-Samples/acr-tasks) - A collection samples for ACR Tasks, including acr-task.yaml and Dockerfiles.
 - [Microsoft-Rocketbox](https://github.com/microsoft/Microsoft-Rocketbox) - Microsoft Rocketbox is now available for research and academic use! The library of 115 rigged avatars offers flexibility, enabling the easy use of facial animations across characters and the mixing and matching of texture elements.
+- [v3](https://github.com/exercism/v3) - The work-in-progress project for developing v3 tracks
 - [furniture](https://github.com/clvrai/furniture) - IKEA Furniture Assembly Environment for Long-Horizon Complex Manipulation Tasks
 - [Reinforcement-Learning-Based-Decision-Tree](https://github.com/chriswblake/Reinforcement-Learning-Based-Decision-Tree) - Generation and evaluation of a decision tree using reinforcement learning.
 - [NLP_Datasets](https://github.com/Koziev/NLP_Datasets) - My NLP datasets for Russian language
@@ -551,7 +552,7 @@
 - [griddb_nosql](https://github.com/griddb/griddb_nosql) - high performance, high scalability and high reliability database for IoT & big data
 - [triton-inference-server](https://github.com/NVIDIA/triton-inference-server) - The Triton Inference Server provides a cloud inferencing solution optimized for NVIDIA GPUs.
 - [taichi](https://github.com/taichi-dev/taichi) - Productive programming language for portable, high-performance, sparse & differentiable computing
-- [MarioO_O-flow-curioisty](https://github.com/hellochick/MarioO_O-flow-curioisty) - Playing SuperMario via flow-based curiosity exploration & RL agent.
+- [FICM](https://github.com/hellochick/FICM) - :video_game: [IJCAI'20] [ICLR'19 Workshop] Flow-based Intrinsic Curiosity Module. Playing SuperMario with RL agent and FICM!
 - [cpp-cheat-sheet](https://github.com/gibsjose/cpp-cheat-sheet) - C++ Syntax, Data Structures, and Algorithms Cheat Sheet
 - [earthenterprise](https://github.com/google/earthenterprise) - Google Earth Enterprise - Open Source
 - [mediapipe](https://github.com/google/mediapipe) - MediaPipe is a cross-platform framework for building multimodal applied machine learning pipelines
@@ -616,7 +617,7 @@
 - [grpc-web](https://github.com/grpc/grpc-web) - gRPC for Web Clients
 - [oatpp](https://github.com/oatpp/oatpp) - 🌱Modern Web Framework for C++. High performance, simple API, cross platform, zero dependency.
 - [Algorithms](https://github.com/VAR-solutions/Algorithms) - Efficient Algorithms
-- [dldt](https://github.com/openvinotoolkit/dldt) - OpenVINO™ Toolkit - Deep Learning Deployment Toolkit repository
+- [openvino](https://github.com/openvinotoolkit/openvino) - OpenVINO™ Toolkit - Deep Learning Deployment Toolkit repository
 - [ACM-ICPC-Algorithms](https://github.com/matthewsamuel95/ACM-ICPC-Algorithms) - Algorithms used in Competitive Programming
 - [DeepMimic](https://github.com/xbpeng/DeepMimic) - Motion imitation with deep reinforcement learning.
 - [hacktoberfest-2018](https://github.com/my-first-pr/hacktoberfest-2018) - 
@@ -1456,7 +1457,7 @@
 - [flutter-ui-nice](https://github.com/nb312/flutter-ui-nice) - More than 130+ pages in this beautiful app and more than 45 developers has contributed to it.
 - [HistoryOfEverything](https://github.com/2d-inc/HistoryOfEverything) - Flutter Launch Timeline Demo
 - [awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
-- [flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful mobile apps.
+- [flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond.
 
 ## Dhall 
 
@@ -1507,10 +1508,6 @@
 - [Packages](https://github.com/sublimehq/Packages) - 
 - [disco](https://github.com/discoproject/disco) - a Map/Reduce framework for distributed computing
 - [basiccoin](https://github.com/zack-bitcoin/basiccoin) - The smallest currency I can make
-
-## F# # 
-
-- [v3](https://github.com/exercism/v3) - The work-in-progress project for developing v3 tracks
 
 ## Fortran 
 
@@ -2286,7 +2283,7 @@
 - [stisla](https://github.com/stisla/stisla) - Free Bootstrap Admin Template
 - [personal-website](https://github.com/github/personal-website) - Code that'll help you kickstart a personal website that showcases your work as a software developer.
 - [cocodataset.github.io](https://github.com/cocodataset/cocodataset.github.io) - 
-- [google-pay-heatmap](https://github.com/domi55/google-pay-heatmap) - :pushpin: A heatmap of your Google Pay payments
+- [google-pay-heatmap](https://github.com/dmengelt/google-pay-heatmap) - :pushpin: A heatmap of your Google Pay payments
 - [wpt](https://github.com/web-platform-tests/wpt) - Test suites for Web platform specs — including WHATWG, W3C, and others
 - [isicp](https://github.com/ldct/isicp) - Interactive Structure and Interpretation of Computer Programs
 - [terminal.css](https://github.com/Gioni06/terminal.css) - Modern and minimalistic CSS framework for terminal enthusiasts
@@ -2479,7 +2476,7 @@
 - [angular-material-dashboard](https://github.com/wangdicoder/angular-material-dashboard) - A material-design dashboard by using angular
 - [DeepLearningProject](https://github.com/Spandan-Madan/DeepLearningProject) - An in-depth machine learning tutorial introducing readers to a whole machine learning pipeline from scratch.
 - [drek](https://github.com/chrisallenlane/drek) - A static-code-analysis tool for performing security-focused code reviews. It enables an auditor to swiftly map the attack-surface of a large application, with an emphasis on identifying development anti-patterns and footguns.
-- [ethereum-org](https://github.com/ethereum/ethereum-org) - [ARCHIVED] Ethereum Foundation website from 2016-2019
+- [ethereum-org](https://github.com/ethereum/ethereum-org) - [ARCHIVED] ethereum.org website from 2016-2019. See https://github.com/ethereum/ethereum-org-website for current version.
 - [django-wedding-website](https://github.com/czue/django-wedding-website) - A django-powered wedding website and guest-management system
 - [web-launch-checklist](https://github.com/HarrisJT/web-launch-checklist) - :clipboard: A simple website launch checklist to keep track of the most important enrichment possibilities for a website.
 - [ha-floorplan](https://github.com/pkozul/ha-floorplan) - Floorplan for Home Assistant
@@ -2740,7 +2737,7 @@
 - [piranha](https://github.com/uber/piranha) - A tool for refactoring code related to feature flag APIs
 - [Algorithms](https://github.com/williamfiset/Algorithms) - A collection of algorithms and data structures
 - [tutorials](https://github.com/eugenp/tutorials) - Just Announced - "Learn Spring Security OAuth":
-- [zeppelin](https://github.com/apache/zeppelin) - Mirror of Apache Zeppelin
+- [zeppelin](https://github.com/apache/zeppelin) - Web-based notebook that enables data-driven, interactive data analytics and collaborative documents with SQL, Scala and more.
 - [Pytorch-Keras-ToAndroid](https://github.com/johnolafenwa/Pytorch-Keras-ToAndroid) - 
 - [aws-athena-query-federation](https://github.com/awslabs/aws-athena-query-federation) - The Amazon Athena Query Federation SDK allows you to customize Amazon Athena with your own data sources and code.
 - [morpheus-core](https://github.com/zavtech/morpheus-core) - The foundational library of the Morpheus data science framework
@@ -3227,7 +3224,6 @@
 - [umbrella](https://github.com/franciscop/umbrella) - :umbrella: Lightweight javascript library for DOM manipulation and events
 - [svg-3d-builder](https://github.com/captainwz/svg-3d-builder) - an elaborate tool to create 3d model with svg
 - [TheoremJS](https://github.com/arguiot/TheoremJS) - A Math library for computation in JavaScript 📕
-- [SignificantTrades](https://github.com/Tucsky/SignificantTrades) - better than 1 min chart
 - [rnset](https://github.com/suijunqiang/rnset) - rnset is a framework based on the react native & integrated a lot very good RN components to easy for verifying/using/picking in your projects
 - [iguazu](https://github.com/americanexpress/iguazu) - ✨ Iguazu is a simple Redux-powered Async Query engine
 - [algorithms-javascript](https://github.com/IamManchanda/algorithms-javascript) - Algorithms & Data Structures! [WIP] More questions are getting added!
@@ -4110,7 +4106,6 @@
 - [compromise](https://github.com/spencermountain/compromise) - modest natural-language processing
 - [Js2Py](https://github.com/PiotrDabkowski/Js2Py) - JavaScript to Python Translator & JavaScript interpreter written in 100% pure Python🚀 Try it online:
 - [markmap](https://github.com/dundalek/markmap) - Visualize markdown documents as mindmaps
-- [ipyleaflet](https://github.com/jupyter-widgets/ipyleaflet) - A Jupyter - Leaflet.js bridge
 - [express-print-routes](https://github.com/analog-nico/express-print-routes) - Prints the tree of Express routes and middlewares to a file
 - [You-Dont-Know-JS](https://github.com/cezaraugusto/You-Dont-Know-JS) - :green_book::ledger: (PT-BR translation) JS Book Series.
 - [yakbak](https://github.com/flickr/yakbak) - Record and playback HTTP responses
@@ -5243,7 +5238,6 @@
 - [SOMPY](https://github.com/sevamoo/SOMPY) - A Python Library for Self Organizing Map (SOM)
 - [neon_course](https://github.com/NervanaSystems/neon_course) - neon tutorials
 - [mlpractical](https://github.com/CSTR-Edinburgh/mlpractical) - Machine Learning Practical course repository
-- [ipyvolume](https://github.com/maartenbreddels/ipyvolume) - 3d plotting for Python in the Jupyter notebook based on IPython widgets using WebGL
 - [how_to_do_math_for_deep_learning](https://github.com/llSourcell/how_to_do_math_for_deep_learning) - This is the code for "How to Do Math Easily - Intro to Deep Learning #4' by Siraj Raval on YouTube
 - [Pytorch-Tutorials](https://github.com/alexis-jacq/Pytorch-Tutorials) - Pytorch tutorials for Neural Style transfert
 - [WGAN-tensorflow](https://github.com/Zardinality/WGAN-tensorflow) - a tensorflow implementation of WGAN
@@ -5714,6 +5708,7 @@
 
 ## Others 
 
+- [stopwords-ru](https://github.com/stopwords-iso/stopwords-ru) - Russian stopwords collection
 - [javascript-interview-questions](https://github.com/sudheerj/javascript-interview-questions) - List of 1000 JavaScript Interview Questions
 - [curriculum](https://github.com/TheOdinProject/curriculum) - The open curriculum for learning web development
 - [awesome-self-supervised-learning](https://github.com/jason718/awesome-self-supervised-learning) - A curated list of awesome self-supervised methods
@@ -5755,7 +5750,7 @@
 - [nlp-datasets](https://github.com/niderhoff/nlp-datasets) - Alphabetical list of free/public domain datasets with text data for use in Natural Language Processing (NLP)
 - [Awesome-Imitation-Learning](https://github.com/kristery/Awesome-Imitation-Learning) - A curated list of awesome imitation learning resources and publications
 - [AI_Curriculum](https://github.com/Machine-Learning-Tokyo/AI_Curriculum) - Open Deep Learning and Reinforcement Learning lectures from top Universities like Stanford, MIT, UC Berkeley.
-- [Book_List](https://github.com/mukeshmithrakumar/Book_List) - Python, Machine Learning, Deep Learning and Data Science Books
+- [Book_List](https://github.com/mukesh104/Book_List) - Python, Machine Learning, Deep Learning and Data Science Books
 - [notes](https://github.com/hunterloftis/notes) - Notes about things.
 - [MobileHackingCheatSheet](https://github.com/randorisec/MobileHackingCheatSheet) - Basics on commands/tools/info on how to assess the security of mobile applications
 - [awesome-database-learning](https://github.com/pingcap/awesome-database-learning) - A list of learning materials to understand databases internals
@@ -6715,6 +6710,7 @@
 
 ## Python 
 
+- [python-stop-words](https://github.com/Alir3z4/python-stop-words) - Get list of common stop words in various languages in Python
 - [detecto](https://github.com/alankbi/detecto) - Build fully-functioning computer vision models with PyTorch
 - [navec](https://github.com/natasha/navec) - Compact high quality word embeddings for Russian language
 - [minio-py](https://github.com/minio/minio-py) - MinIO Client SDK for Python
@@ -6925,7 +6921,7 @@
 - [reformer-pytorch](https://github.com/lucidrains/reformer-pytorch) - Reformer, the efficient Transformer, in Pytorch
 - [DAIN](https://github.com/baowenbo/DAIN) - Depth-Aware Video Frame Interpolation (CVPR 2019)
 - [retinanet-examples](https://github.com/aidonchuk/retinanet-examples) - Fast and accurate object detection with end-to-end GPU optimization
-- [DiCE](https://github.com/microsoft/DiCE) - Generate Diverse Counterfactual Explanations for any machine learning model.
+- [DiCE](https://github.com/interpretml/DiCE) - Generate Diverse Counterfactual Explanations for any machine learning model.
 - [pase](https://github.com/santi-pdp/pase) - Problem Agnostic Speech Encoder
 - [pytorch3d](https://github.com/facebookresearch/pytorch3d) - PyTorch3D is FAIR's library of reusable components for deep learning with 3D data
 - [humblebundle-downloader](https://github.com/xtream1101/humblebundle-downloader) - Download you Humble Bundle Library
@@ -9196,6 +9192,7 @@
 - [ergonomica](https://github.com/ergonomica/ergonomica) - 🖥️ a cross-platform modern shell.
 - [TensorFlowOnSpark](https://github.com/yahoo/TensorFlowOnSpark) - TensorFlowOnSpark brings TensorFlow programs to Apache Spark clusters.
 - [cpython](https://github.com/python/cpython) - The Python programming language
+- [ipyvolume](https://github.com/maartenbreddels/ipyvolume) - 3d plotting for Python in the Jupyter notebook based on IPython widgets using WebGL
 - [hyperopt-sklearn](https://github.com/hyperopt/hyperopt-sklearn) - Hyper-parameter optimization for sklearn
 - [typy.io](https://github.com/not-kennethreitz/typy.io) - just type™
 - [Flametree](https://github.com/Edinburgh-Genome-Foundry/Flametree) - :fire: Python file and zip operations made easy
@@ -9538,7 +9535,7 @@
 - [ck-tensorflow](https://github.com/ctuning/ck-tensorflow) - Collective Knowledge components for TensorFlow (code, data sets, models, packages, workflows):
 - [python-web-pdb](https://github.com/romanvm/python-web-pdb) - Web-based remote UI for Python's PDB debugger
 - [ck-autotuning](https://github.com/ctuning/ck-autotuning) - CK automation actions to let users implement portable, customizable and reusable program workflows for reproducible, collaborative and multi-objective benchmarking, optimization and SW/HW co-design:
-- [ck](https://github.com/ctuning/ck) - Collective Knowledge (CK) is a small Python library to share research artifacts (code, data, models, scripts) and workflows as reusable components with a unified API, CLI and JSON meta description:
+- [ck](https://github.com/ctuning/ck) - Collective Knowledge (CK) is an open-source SDK to decompose complex computational systems and research projects (AI, ML, quantum, IoT) into reusable components (code, data, models, results), automation actions and portable workflows. The goal is to enable collaborative and reproducible benchmarking, optimization and co-design of such systems:
 - [CommAI-env](https://github.com/facebookresearch/CommAI-env) - A platform for developing AI systems as described in A Roadmap towards Machine Intelligence - http://arxiv.org/abs/1511.08130
 - [deconvfaces](https://github.com/zo7/deconvfaces) - Generating faces with deconvolution networks
 - [whereami](https://github.com/kootenpv/whereami) - Uses WiFi signals :signal_strength: and machine learning to predict where you are
@@ -9913,6 +9910,7 @@
 - [xgbmagic](https://github.com/mirri66/xgbmagic) - 
 - [closurepr](https://github.com/eugene-eeo/closurepr) - a better repr for closures
 - [gitsome](https://github.com/donnemartin/gitsome) - A supercharged Git/GitHub command line interface (CLI).  An official integration for GitHub and GitHub Enterprise: https://github.com/works-with/category/desktop-tools
+- [ipyleaflet](https://github.com/jupyter-widgets/ipyleaflet) - A Jupyter - Leaflet.js bridge
 - [mxnet-memonger](https://github.com/dmlc/mxnet-memonger) - Sublinear memory optimization for deep learning, reduce GPU memory cost to train deeper nets
 - [cyanide](https://github.com/celery/cyanide) - Celery stress testing and integration test support
 - [databench](https://github.com/svenkreiss/databench) - Data analysis tool.
@@ -11136,7 +11134,7 @@
 - [opster](https://github.com/piranha/opster) - Command line parsing speedster
 - [prospector](https://github.com/PyCQA/prospector) - Inspects Python source files and provides information about type and location of classes, methods etc
 - [depot](https://github.com/amol-/depot) - Toolkit for storing files and attachments in web applications
-- [pockyt](https://github.com/arvindch/pockyt) - Automate & manage your Pocket.com collection.
+- [pockyt](https://github.com/achembarpu/pockyt) - Automate & manage your Pocket.com collection.
 - [digitalocean_to_sshconfig](https://github.com/emre/digitalocean_to_sshconfig) - all your droplets belong to your ssh config™
 - [paramiko-expect](https://github.com/fgimian/paramiko-expect) - A Python expect-like extension for the Paramiko SSH library which also supports tailing logs.
 - [munki](https://github.com/munki/munki) - Managed software installation for macOS —
@@ -13043,7 +13041,7 @@
 
 ## Vue 
 
-- [MQTTX](https://github.com/emqx/MQTTX) - MQTT X - Cross-platform MQTT desktop client
+- [MQTTX](https://github.com/emqx/MQTTX) - MQTT X - Elegant MQTT 5.0 Client Tool of Cross-platform
 - [flask-frontend-docker](https://github.com/tiangolo/flask-frontend-docker) - Minimal project generator with a Flask backend, a modern frontend (Vue, React or Angular), a Traefik load balancer with HTTPS, all based on Docker.
 - [vuepress-theme-reco](https://github.com/vuepress-reco/vuepress-theme-reco) - 💥 A simple and beautiful vuepress Blog & Doc theme.
 - [sub-web](https://github.com/CareyWang/sub-web) - 
@@ -13190,6 +13188,7 @@
 - [shards-vue](https://github.com/DesignRevision/shards-vue) - 🌟Shards Vue is a free, beautiful and modern Vue.js UI kit based on Shards.
 - [vue-auth-vuex](https://github.com/christiannwamba/vue-auth-vuex) - 
 - [yandex-dialogs-client](https://github.com/popstas/yandex-dialogs-client) - Тестирование навыков Яндекс.Диалогов Алисы с автотестами
+- [SignificantTrades](https://github.com/Tucsky/SignificantTrades) - better than 1 min chart
 - [portfolio-vuepress](https://github.com/forestryio/portfolio-vuepress) - Vuepress portfolio
 - [vue-material-admin](https://github.com/tookit/vue-material-admin) - A vue material design admin template
 - [nuxt-ssr-firebase](https://github.com/davidroyer/nuxt-ssr-firebase) - Nuxt.js Universal App with SSR via Firebase Functions and Firebase Hosting
