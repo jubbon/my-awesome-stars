@@ -173,7 +173,7 @@
 - [cJSON](https://github.com/DaveGamble/cJSON) - Ultralightweight JSON parser in ANSI C
 - [flow9](https://github.com/area9innovation/flow9) - Platform for safe, easy and productive programming of complex, multi-platform apps with a modern user interface
 - [Video-Editing-Automation](https://github.com/DevonCrawford/Video-Editing-Automation) - Toolkit of algorithms to automate the video editing process
-- [darknet](https://github.com/AlexeyAB/darknet) - Windows and Linux version of Darknet Yolo v3 & v2 Neural Networks for object detection (Tensor Cores are used)
+- [darknet](https://github.com/AlexeyAB/darknet) - Windows and Linux version of Darknet Yolo v4 (v3/v2) Neural Networks for object detection (Tensor Cores are used)
 - [facil.io](https://github.com/boazsegev/facil.io) - Your high performance web application C framework
 - [element-protocol](https://github.com/element-protocol/element-protocol) - The decentralized, completely anonymous, lightweight, peer-to-peer network communication protocol.
 - [AgentSmith-HIDS](https://github.com/EBWi11/AgentSmith-HIDS) - By Kprobe technology Open Source Host-based Intrusion Detection System(HIDS), from E_Bwill.
@@ -451,6 +451,7 @@
 - [DRL_based_SelfDrivingCarControl](https://github.com/MLJejuCamp2017/DRL_based_SelfDrivingCarControl) - Deep Reinforcement Learning (DQN) based Self Driving Car Control with Vehicle Simulator
 - [UnityWorker](https://github.com/OpenMined/UnityWorker) - DEPRECATED
 - [blockchain](https://github.com/dvf/blockchain) - A simple Blockchain in Python
+- [ml-agents](https://github.com/Unity-Technologies/ml-agents) - Unity Machine Learning Agents Toolkit
 - [sqlnotebook](https://github.com/electroly/sqlnotebook) - Tabular data exploration and manipulation tool powered by SQLite.
 - [TensorFlowSharp](https://github.com/migueldeicaza/TensorFlowSharp) - TensorFlow API for .NET languages
 - [electrino](https://github.com/pojala/electrino) - Desktop runtime for apps built on web technologies, using the system's own web browser engine
@@ -986,7 +987,7 @@
 - [tutorial](https://github.com/DjangoGirls/tutorial) - This is a tutorial we are using for Django Girls workshops
 - [tailwind-starter-kit](https://github.com/creativetimofficial/tailwind-starter-kit) - Tailwind Starter Kit a beautiful extension for TailwindCSS, Free and Open Source
 - [bootstrap-4-github-pages](https://github.com/nicolas-van/bootstrap-4-github-pages) - A Bootstrap 4 start up project for Github Pages and Jekyll
-- [css.gg](https://github.com/astrit/css.gg) - 500+ CSS Icons. Customizable, Retina Ready with API & NPM
+- [css.gg](https://github.com/astrit/css.gg) - 700+ Pure CSS, SVG & Figma UI Icons Available in SVG Sprite, styled-components, NPM & API
 - [LoveIt](https://github.com/dillonzq/LoveIt) - 🚀A clean, elegant but advanced blog theme for Hugo
 - [simplefolio](https://github.com/cobidev/simplefolio) - ⚡️ A minimal portfolio template for Developers
 - [LearnCS8-Resume](https://github.com/JordanSchuetz/LearnCS8-Resume) - Resume template website for the LearnCS8 Lab 4
@@ -1108,6 +1109,7 @@
 - [dist-prog-book](https://github.com/heathermiller/dist-prog-book) - 
 - [handong1587.github.io](https://github.com/handong1587/handong1587.github.io) - 
 - [essential-image-optimization](https://github.com/GoogleChrome/essential-image-optimization) - Essential Image Optimization - an eBook
+- [CSS-Checkbox-Library](https://github.com/hunzaboy/CSS-Checkbox-Library) - A huge library of Pure CSS Checkboxes for every taste.
 - [cobalt2-vscode](https://github.com/wesbos/cobalt2-vscode) - Cobalt2 Theme for VS Code
 - [guides](https://github.com/emberjs/guides) - This repository is DEPRECATED!
 - [vali-admin](https://github.com/pratikborsadiya/vali-admin) - Free Bootstrap 4 admin/dashboard template
@@ -2244,7 +2246,7 @@
 - [BlazorStrap](https://github.com/chanan/BlazorStrap) - Bootstrap 4 Components for Blazor Framework
 - [node-js-getting-started](https://github.com/heroku/node-js-getting-started) - Getting Started with Node on Heroku
 - [markdown-preview-enhanced](https://github.com/shd101wyy/markdown-preview-enhanced) - One of the 'BEST' markdown preview extensions for Atom editor!
-- [postmark-templates](https://github.com/wildbit/postmark-templates) - Rock-solid email templates for applications.
+- [postmark-templates](https://github.com/wildbit/postmark-templates) - Rock-solid transactional email templates for applications.
 - [website](https://github.com/letsencrypt/website) - Let's Encrypt Website and Documentation
 - [Phishing-Simulation](https://github.com/jenyraval/Phishing-Simulation) - Phishing Simulation mainly aims to increase phishing awareness by providing an intuitive tutorial and customized assessment
 - [elements-examples](https://github.com/stripe/elements-examples) - Stripe Elements examples.
@@ -2459,7 +2461,6 @@
 - [url-to-pdf-api](https://github.com/alvarcarto/url-to-pdf-api) - Web page PDF/PNG rendering done right. Self-hosted service for rendering receipts, invoices, or any content.
 - [event-loop](https://github.com/atotic/event-loop) - event loop docs
 - [cupper](https://github.com/ThePacielloGroup/cupper) - An inclusive pattern library builder.
-- [CSS-Checkbox-Library](https://github.com/hunzaboy/CSS-Checkbox-Library) - A huge library of Pure CSS Checkboxes for every taste.
 - [Software-Security-Learning](https://github.com/CHYbeta/Software-Security-Learning) - Software-Security-Learning
 - [vm-markdown](https://github.com/luosijie/vm-markdown) - Example
 - [Web-Security-Learning](https://github.com/CHYbeta/Web-Security-Learning) - Web-Security-Learning
@@ -4661,7 +4662,7 @@
 - [transformer](https://github.com/suyash/transformer) - A Transformer implementation in Keras' Imperative (Subclassing) API for TensorFlow.
 - [introductory_pot_hole_viz](https://github.com/mmonzoor/introductory_pot_hole_viz) - 
 - [Azure-Sentinel](https://github.com/Azure/Azure-Sentinel) - Cloud-native SIEM for intelligent security analytics for your entire enterprise.
-- [jupyter-book](https://github.com/jupyter/jupyter-book) - Create an online book with Jupyter Notebooks and Jekyll
+- [jupyter-book](https://github.com/ExecutableBookProject/jupyter-book) - Create an online book with Jupyter Notebooks and Jekyll
 - [AttentionExplanation](https://github.com/successar/AttentionExplanation) - 
 - [dlcourse_ai](https://github.com/sim0nsays/dlcourse_ai) - Материалы курса Deep Learning на пальцах
 - [Easy_street_parking_with_MASK-RCNN](https://github.com/ankit1khare/Easy_street_parking_with_MASK-RCNN) - A prototype application that can be transformed into a full-fledged real-time parking management app to help people find parking spots near malls, shopping areas, cinema house etc. A text message is sent to let you know whenever there's a vacancy in the nearby street parking or community parking. Park_clever notebook contains the latest code.
@@ -5850,7 +5851,7 @@
 - [The-Hundred-Page-Machine-Learning-Book](https://github.com/ZakiaSalod/The-Hundred-Page-Machine-Learning-Book) - This repository contains the draft PDF copies of the book: The 100 Page Machine Learning Book
 - [technology_books](https://github.com/arpitjindal97/technology_books) - Premium eBook free for Geeks
 - [you-dont-know-js-ru](https://github.com/azat-io/you-dont-know-js-ru) - :books: Russian translation of "You Don't Know JS" book series
-- [PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE) - This repository was created and developed by All The Community Members Who Shared resources And Wrote Articles And What I ONLY did @cry__pto is Searching And Uploading Files. Updates to this repository will continue to arrive until the number of links reaches 10000 links & 10000 pdf files .Learn Ethical Hacking and penetration testing .hundreds of ethical hacking & penetration testing & red team & cyber security & computer science resources.
+- [PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE) - Updates to this repository will continue to arrive until the number of links reaches 10000 links & 10000 pdf files .Learn Ethical Hacking and penetration testing .hundreds of ethical hacking & penetration testing & red team & cyber security & computer science resources.
 - [git-kata](https://github.com/Slashgear/git-kata) - When you know the bases of git but sometimes you have problemes with it. This "code kata" could help you to deal with git problems
 - [Learn_Computer_Vision](https://github.com/llSourcell/Learn_Computer_Vision) - This is the curriculum for "Learn Computer Vision" by Siraj Raval on Youtube
 - [1x.engineer](https://github.com/cutenode/1x.engineer) - The official website of 1x Engineers around the world
@@ -6716,7 +6717,7 @@
 - [minio-py](https://github.com/minio/minio-py) - MinIO Client SDK for Python
 - [mittens](https://github.com/roamanalytics/mittens) - A fast implementation of GloVe, with optional retrofitting
 - [scikit-multilearn](https://github.com/scikit-multilearn/scikit-multilearn) - A scikit-learn based module for multi-label et. al. classification
-- [mimicry](https://github.com/kwotsin/mimicry) - A PyTorch GAN library that reproduces research results for popular GANs.
+- [mimicry](https://github.com/kwotsin/mimicry) - [CVPR 2020 Workshop] A PyTorch GAN library that reproduces research results for popular GANs.
 - [SpecAugment](https://github.com/DemisEom/SpecAugment) - A Implementation of SpecAugment with Tensorflow & Pytorch, introduced by Google Brain
 - [whynot](https://github.com/zykls/whynot) - A Python sandbox for decision making in dynamics
 - [fiber](https://github.com/uber/fiber) - Distributed Computing for AI Made Simple
@@ -6980,7 +6981,7 @@
 - [bananas](https://github.com/naszilla/bananas) - Bayesian Optimization with Neural Architectures for Neural Architecture Search - https://arxiv.org/abs/1910.11858
 - [TorchRay](https://github.com/facebookresearch/TorchRay) - Understanding Deep Networks via Extremal Perturbations and Smooth Masks
 - [YouTube-Report](https://github.com/A3M4/YouTube-Report) - :bar_chart: Generate a personal YouTube report from your Google Takeout data
-- [trax](https://github.com/google/trax) - Trax — your path to advanced deep learning
+- [trax](https://github.com/google/trax) - Trax — Deep Learning with Clear Code and Speed
 - [labelme](https://github.com/wkentaro/labelme) - Image Polygonal Annotation with Python (polygon, rectangle, circle, line, point and image-level flag annotation).
 - [integration](https://github.com/hacs/integration) - Manage (Install, track, upgrade) and discover custom elements for Home Assistant.
 - [ru_transformers](https://github.com/mgrankin/ru_transformers) - 
@@ -7012,7 +7013,7 @@
 - [awspx](https://github.com/FSecureLABS/awspx) - A graph-based tool for visualizing effective access and resource relationships in AWS environments.
 - [EfficientDet](https://github.com/xuannianz/EfficientDet) - EfficientDet (Scalable and Efficient Object Detection)  implementation in Keras and Tensorflow
 - [30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a sep by step guide to learn Python programming language in 30 days.
-- [simpletransformers](https://github.com/ThilinaRajapakse/simpletransformers) - Transformers for Classification, NER, QA, Language Modelling, Multi-Modal, and Conversational AI
+- [simpletransformers](https://github.com/ThilinaRajapakse/simpletransformers) - Transformers for Classification, NER, QA, Language Modelling, Language Generation, Multi-Modal, and Conversational AI
 - [RDSNet](https://github.com/wangsr126/RDSNet) - implement for paper: "RDSNet: A New Deep Architecture for Reciprocal Object Detection and Instance Segmentation"
 - [batea](https://github.com/delvelabs/batea) - AI-based, context-driven network device ranking
 - [awesome-monte-carlo-tree-search-papers](https://github.com/benedekrozemberczki/awesome-monte-carlo-tree-search-papers) - A curated list of Monte Carlo tree search papers with implementations.
@@ -8628,7 +8629,6 @@
 - [gaps](https://github.com/nemanja-m/gaps) - A Genetic Algorithm-Based Solver for Jigsaw Puzzles :cyclone:
 - [fairseq](https://github.com/pytorch/fairseq) - Facebook AI Research Sequence-to-Sequence Toolkit written in Python.
 - [weibospider](https://github.com/SpiderClub/weibospider) - :zap: A distributed crawler for weibo, building with celery and requests.
-- [ml-agents](https://github.com/Unity-Technologies/ml-agents) - Unity Machine Learning Agents Toolkit
 - [onnx-caffe2](https://github.com/onnx/onnx-caffe2) - Caffe2 implementation of Open Neural Network Exchange (ONNX)
 - [fa2l](https://github.com/bosiakov/fa2l) - Force Atlas 2 graph layout
 - [studio](https://github.com/studioml/studio) - Studio: Simplify and expedite model building process
