@@ -121,6 +121,7 @@
 
 ## C 
 
+- [moloch](https://github.com/aol/moloch) - Moloch is an open source, large scale, full packet capturing, indexing, and database system.
 - [GloVe](https://github.com/stanfordnlp/GloVe) - GloVe model for distributed word representation
 - [IoTGoat](https://github.com/OWASP/IoTGoat) - IoTGoat is a deliberately insecure firmware created to educate software developers and security professionals with testing commonly found vulnerabilities in IoT devices.
 - [concorde](https://github.com/matthelb/concorde) - Concorde is a computer code for the symmetric traveling salesman problem (TSP) and some related network optimization problems. It was created by David Applegate, Robert E. Bixby, Vašek Chvátal, and William J. Cook.
@@ -980,6 +981,7 @@
 
 ## CSS 
 
+- [breaking-and-pwning-apps-and-servers-aws-azure-training](https://github.com/appsecco/breaking-and-pwning-apps-and-servers-aws-azure-training) - Course content, lab setup instructions and documentation of our very popular Breaking and Pwning Apps and Servers on AWS and Azure hands on training!
 - [DashMachine](https://github.com/rmountjoy92/DashMachine) - Another web application bookmark dashboard, with fun features.
 - [rwi_executive_dashboard](https://github.com/splunk/rwi_executive_dashboard) - Splunk Remote Work Insights - Executive Dashboard
 - [git-workflow-merge-conflicts-lab](https://github.com/learn-co-curriculum/git-workflow-merge-conflicts-lab) - 
@@ -1534,6 +1536,8 @@
 
 ## Go 
 
+- [client_golang](https://github.com/prometheus/client_golang) - Prometheus instrumentation library for Go applications
+- [cloud-on-k8s](https://github.com/elastic/cloud-on-k8s) - Elastic Cloud on Kubernetes
 - [gardener](https://github.com/gardener/gardener) - Kubernetes-native system managing the full lifecycle of conformant Kubernetes clusters as a service on Alicloud, AWS, Azure, GCP, OpenStack, Packet, MetalStack, and vSphere with minimal TCO.
 - [argo-cd](https://github.com/argoproj/argo-cd) - Declarative continuous deployment for Kubernetes.
 - [rook](https://github.com/rook/rook) - Storage Orchestration for Kubernetes
@@ -2125,7 +2129,7 @@
 - [gorgonia](https://github.com/gorgonia/gorgonia) - Gorgonia is a library that helps facilitate machine learning in Go.
 - [go-patterns](https://github.com/tmrts/go-patterns) - Curated list of Go design patterns, recipes and idioms
 - [borg](https://github.com/ok-borg/borg) - Search and save shell snippets without leaving your terminal
-- [iris](https://github.com/kataras/iris) - 感谢中国开发者 - https://bit.ly/謝謝 | The fastest community-driven web framework for Go. Webassembly, Automatic HTTPS with Public Domain, MVC, Sessions, Caching, Versioning API, Problem API, Websocket, Dependency Injection and more. Fully compatible with the standard library and 3rd-party middleware packages. | https://bit.ly/iriscandothat1 | https://bit.ly/iriscandothat3 |
+- [iris](https://github.com/kataras/iris) - 感谢中国开发者 - https://bit.ly/謝謝 | The fastest community-driven web framework for Go. gRPC, Automatic HTTPS with Public Domain, MVC, Sessions, Caching, Versioning API, Problem API, Websocket, Dependency Injection and more. Fully compatible with the standard library and 3rd-party middleware packages. | https://bit.ly/iriscandothat1 | https://bit.ly/iriscandothat3 |
 - [primitive](https://github.com/fogleman/primitive) - Reproducing images with geometric primitives.
 - [gosl](https://github.com/cpmech/gosl) - Go scientific library for machine learning, linear algebra, FFT, Bessel, elliptic, orthogonal polys, geometry, NURBS, numerical quadrature, 3D transfinite interpolation, random numbers, Mersenne twister, probability distributions, optimisation, graph, plotting, visualisation, tensors, eigenvalues, differential equations, more.
 - [kube-cert-manager](https://github.com/PalmStoneGames/kube-cert-manager) - Manage Lets Encrypt certificates for a Kubernetes cluster.
@@ -2185,6 +2189,7 @@
 
 ## HCL 
 
+- [vault-on-aws](https://github.com/jcolemorrison/vault-on-aws) - A secure Vault for secrets, tokens, keys,  passwords, and more.  Automated deployment with Terraform on AWS.  Configurable options for security and scalability.  Usable with any applications and services hosted anywhere.
 - [terraform-best-practices](https://github.com/antonbabenko/terraform-best-practices) - Terraform best practices (constantly updating)
 - [best-practices](https://github.com/hashicorp/best-practices) - 
 
@@ -2937,7 +2942,6 @@
 - [jsonbox](https://github.com/vasanthv/jsonbox) - A Free HTTP based JSON storage. Now with protected boxes.
 - [notebook](https://github.com/jupyter/notebook) - Jupyter Interactive Notebook
 - [bustag](https://github.com/gxtrobot/bustag) - a tag and recommend system for old bus driver 给老司机用的一个番号推荐系统
-- [goindex](https://github.com/donwa/goindex) - Google Drive Directory Index
 - [flow-typed](https://github.com/flow-typed/flow-typed) - A central repository for Flow library definitions
 - [wperf](https://github.com/jhuckaby/wperf) - A simple HTTP load testing utility with detailed performance metrics.
 - [webhook](https://github.com/webhook/webhook) - Webhook Command Line Interface.
@@ -4441,6 +4445,11 @@
 
 ## Jupyter Notebook 
 
+- [deltapy](https://github.com/firmai/deltapy) - DeltaPy - Tabular Data Augmentation
+- [nerf](https://github.com/bmild/nerf) - Code release for NeRF (Neural Radiance Fields)
+- [pycaret](https://github.com/pycaret/pycaret) - 
+- [micrograd](https://github.com/karpathy/micrograd) - A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API
+- [ktrain](https://github.com/amaiya/ktrain) - ktrain is a Python library that makes deep learning and AI more accessible and easier to apply
 - [compress-fasttext](https://github.com/avidale/compress-fasttext) - Tools for shrinking fastText models (in gensim format)
 - [spacy-ru](https://github.com/buriy/spacy-ru) - Russian language models for spaCy
 - [mlmachine](https://github.com/petersontylerd/mlmachine) - mlmachine accelerates machine learning experimentation
@@ -5316,7 +5325,7 @@
 - [100-pandas-puzzles](https://github.com/ajcr/100-pandas-puzzles) - 100 data puzzles for pandas, ranging from short and simple to super tricky (60% complete)
 - [berkeley](https://github.com/thehackerwithin/berkeley) - The Hacker Within at the University of California - Berkeley
 - [spark-Jupyter-AWS](https://github.com/PiercingDan/spark-Jupyter-AWS) - A guide on how to set up Jupyter with Pyspark painlessly on AWS EC2 clusters, with S3 I/O support
-- [LSTM-Human-Activity-Recognition](https://github.com/guillaume-chevalier/LSTM-Human-Activity-Recognition) - Human Activity Recognition example using TensorFlow on smartphone sensors dataset and an LSTM RNN (Deep Learning algo). Classifying the type of movement amongst six activity categories - Guillaume Chevalier
+- [LSTM-Human-Activity-Recognition](https://github.com/guillaume-chevalier/LSTM-Human-Activity-Recognition) - Human Activity Recognition example using TensorFlow on smartphone sensors dataset and an LSTM RNN. Classifying the type of movement amongst six activity categories - Guillaume Chevalier
 - [circle-line-analytics](https://github.com/datagovsg-blog/circle-line-analytics) - 
 - [notebooks](https://github.com/liviu-/notebooks) - Directory of Jupyter notebooks exploring various topics
 - [ssd_keras](https://github.com/rykov8/ssd_keras) - Port of Single Shot MultiBox Detector to Keras
@@ -5588,6 +5597,7 @@
 
 ## Kotlin 
 
+- [ridesharing-uber-lyft-app](https://github.com/MindorksOpenSource/ridesharing-uber-lyft-app) - Ride-Sharing Uber Lyft Android App - Learn to build a ride-sharing Android Taxi Clone App like Uber, Lyft - Open-Source Project By MindOrks
 - [fenix](https://github.com/mozilla-mobile/fenix) - Firefox Preview
 - [conference-app-2019](https://github.com/DroidKaigi/conference-app-2019) - The Official Conference App for DroidKaigi 2019 Tokyo
 - [iosched](https://github.com/google/iosched) - The Google I/O 2019 Android App
@@ -5709,6 +5719,14 @@
 
 ## Others 
 
+- [awesome-git-addons](https://github.com/stevemao/awesome-git-addons) - :sunglasses: A curated list of add-ons that extend/enhance the git CLI.
+- [EffectivePyTorch](https://github.com/vahidk/EffectivePyTorch) - PyTorch tutorials and best practices.
+- [awesome-maps](https://github.com/simsieg/awesome-maps) - 🗺A collection of great online maps
+- [awesome-baremetal](https://github.com/alexellis/awesome-baremetal) - Bare-metal is awesome. Let's share our favourite tools.
+- [awesome-deepbio](https://github.com/gokceneraslan/awesome-deepbio) - A curated list of awesome deep learning applications in the field of computational biology
+- [ml-system-design-pattern](https://github.com/mercari/ml-system-design-pattern) - System design patterns for machine learning
+- [awesome-django](https://github.com/wsvincent/awesome-django) - A curated list of awesome things related to Django
+- [internship-application-product-management](https://github.com/cloudflare-internship-2020/internship-application-product-management) - 
 - [stopwords-ru](https://github.com/stopwords-iso/stopwords-ru) - Russian stopwords collection
 - [javascript-interview-questions](https://github.com/sudheerj/javascript-interview-questions) - List of 1000 JavaScript Interview Questions
 - [curriculum](https://github.com/TheOdinProject/curriculum) - The open curriculum for learning web development
@@ -6461,7 +6479,6 @@
 - [ES6-for-humans](https://github.com/metagrover/ES6-for-humans) - A kickstarter guide to writing ES6
 - [awesome-gov](https://github.com/govdesign/awesome-gov) - 
 - [es6features](https://github.com/lukehoban/es6features) - Overview of ECMAScript 6 features
-- [js-interview-review](https://github.com/adam-s/js-interview-review) - The JS interview review. As I'm reviewing several resources I've bookmarked on JavaScript development, I'll share them here.
 - [awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) - Use your macOS terminal shell to do awesome things.
 - [posters](https://github.com/UKHomeOffice/posters) - Home Office Digital repository of posters covering different topics - research, access needs, accessibility, design.
 - [startup-checklist](https://github.com/leonar15/startup-checklist) - A checklist for incorporation so you can get back to building your product, fundraising, etc.
@@ -6711,6 +6728,18 @@
 
 ## Python 
 
+- [PCDet](https://github.com/sshaoshuai/PCDet) - PCDet Toolbox in PyTorch for 3D Object Detection from Point Cloud
+- [Tetris-deep-Q-learning-pytorch](https://github.com/uvipen/Tetris-deep-Q-learning-pytorch) - Deep Q-learning for playing tetris game
+- [CenterTrack](https://github.com/xingyizhou/CenterTrack) - Simultaneous object detection and tracking using center points.
+- [nerf-pytorch](https://github.com/yenchenlin/nerf-pytorch) - A PyTorch implementation of NeRF (Neural Radiance Fields) that reproduces the results.
+- [DeepMatch](https://github.com/shenweichen/DeepMatch) - A deep matching model library for recommendations & advertising. It's easy to train models and to export representation vectors for user and item which can be used for ANN search.
+- [ganspace](https://github.com/harskish/ganspace) - Discovering Interpretable GAN Controls
+- [Yet-Another-EfficientDet-Pytorch](https://github.com/zylo117/Yet-Another-EfficientDet-Pytorch) - The pytorch re-implement of the official efficientdet with SOTA performance in real time and pretrained weights.
+- [omegaconf](https://github.com/omry/omegaconf) - Flexible Python configuration system. The last one you will ever need.
+- [fastNLP](https://github.com/fastnlp/fastNLP) - fastNLP: A Modularized and Extensible NLP Framework. Currently still in incubation.
+- [comma10k](https://github.com/commaai/comma10k) - 10k crowdsourced images for training segnets
+- [MONAI](https://github.com/Project-MONAI/MONAI) - AI Toolkit for Healthcare Imaging
+- [ResNeSt](https://github.com/zhanghang1989/ResNeSt) - ResNeSt: Split-Attention Network
 - [python-stop-words](https://github.com/Alir3z4/python-stop-words) - Get list of common stop words in various languages in Python
 - [detecto](https://github.com/alankbi/detecto) - Build fully-functioning computer vision models with PyTorch
 - [navec](https://github.com/natasha/navec) - Compact high quality word embeddings for Russian language
@@ -12111,7 +12140,7 @@
 - [PyExcelerate](https://github.com/kz26/PyExcelerate) - Accelerated Excel XLSX Writing Library for Python 2/3
 - [python-nvd3](https://github.com/areski/python-nvd3) - Python Wrapper for NVD3 - It's time for beautiful charts
 - [copperhead](https://github.com/bryancatanzaro/copperhead) - Data Parallel Python
-- [falcon](https://github.com/falconry/falcon) - The unladen web services and building-block framework for Python developers.
+- [falcon](https://github.com/falconry/falcon) - Minimalist web services and app backend framework for Python developers.
 - [logscan](https://github.com/thomst/logscan) - logscan is a command-line-tool to get time-specific access to logfiles. It can handle rotated and gzipped logfiles or reads from stdin. The log   is automatically checked for different timecodes.
 - [timeparser](https://github.com/thomst/timeparser) - Parse strings to objects of the datetime-module.  This module intends to make string-parsing to objects of the datetime-module as easy as possible while allowing a fine configuration about which kind of formats are supported.
 - [timeparse](https://github.com/thomst/timeparse) - An argparse-extension for parsing command-line arguments as time-, date-, datetime-, or timedelta-objects.
@@ -12491,6 +12520,8 @@
 
 ## Rust 
 
+- [nomino](https://github.com/yaa110/nomino) - Batch rename utility for developers
+- [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [tokenizers](https://github.com/huggingface/tokenizers) - 💥Fast State-of-the-Art Tokenizers optimized for Research and Production
 - [raic-2019](https://github.com/MailRuChamps/raic-2019) - Russian AI Cup — artificial intelligence programming contest. Official website: http://russianaicup.ru
@@ -12549,6 +12580,8 @@
 
 ## Shell 
 
+- [learn_gnuawk](https://github.com/learnbyexample/learn_gnuawk) - Example based guide to mastering GNU awk
+- [bashtop](https://github.com/aristocratos/bashtop) - Linux resource monitor
 - [Arch-Data-Science](https://github.com/mratsim/Arch-Data-Science) - Archlinux PKGBUILDs for Data Science, Machine Learning, Deep Learning, NLP and Computer Vision
 - [xtreme](https://github.com/google-research/xtreme) - XTREME is a benchmark for the evaluation of the cross-lingual generalization ability of pre-trained multilingual models that covers 40 typologically diverse languages and includes nine tasks.
 - [Spoken-SQuAD](https://github.com/chiahsuan156/Spoken-SQuAD) - A spoken question answering dataset on SQUAD
@@ -12772,6 +12805,7 @@
 
 ## TypeScript 
 
+- [vscode-crossnote](https://github.com/0xGG/vscode-crossnote) - (WIP) Turn your VSCode into a decent markdown note taking platform
 - [refined-github](https://github.com/sindresorhus/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation
 - [BotFramework-Composer](https://github.com/microsoft/BotFramework-Composer) - Dialog creation and management for Microsoft Bot Framework Applications
@@ -13089,7 +13123,7 @@
 - [pomotroid](https://github.com/Splode/pomotroid) - :tomato: Simple and visually-pleasing Pomodoro timer
 - [cssfx](https://github.com/jolaleye/cssfx) - ✨ Beautifully simple click-to-copy CSS effects
 - [vue-thanos-snap](https://github.com/yiliang114/vue-thanos-snap) - thanos snap animation by vue
-- [vue](https://github.com/zeit-ui/vue) - Vue implementation for ZEIT design.
+- [vue](https://github.com/zeit-ui/vue) - Vue implementation for Vercel design.
 - [openmicroservices.org](https://github.com/microservices/openmicroservices.org) - NOT MAINTAINED https://medium.com/@iopeak/open-microservices-specification-1abd8262ad0e
 - [AzureTipsAndTricks](https://github.com/microsoft/AzureTipsAndTricks) - Learn some of our favorite Azure tips and tricks—some long-standing, and new ones that have recently been added to become more productive with Azure. Star the repo now to shave hours off your coding tasks tomorrow.
 - [candy](https://github.com/Simonwep/candy) - 🍭 Cross-platform YouTube-downloader with playlist and channel support as well as build-in audio / video converter.
