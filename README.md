@@ -1111,7 +1111,6 @@
 - [dist-prog-book](https://github.com/heathermiller/dist-prog-book) - 
 - [handong1587.github.io](https://github.com/handong1587/handong1587.github.io) - 
 - [essential-image-optimization](https://github.com/GoogleChrome/essential-image-optimization) - Essential Image Optimization - an eBook
-- [CSS-Checkbox-Library](https://github.com/hunzaboy/CSS-Checkbox-Library) - A huge library of Pure CSS Checkboxes for every taste.
 - [cobalt2-vscode](https://github.com/wesbos/cobalt2-vscode) - Cobalt2 Theme for VS Code
 - [guides](https://github.com/emberjs/guides) - This repository is DEPRECATED!
 - [vali-admin](https://github.com/pratikborsadiya/vali-admin) - Free Bootstrap 4 admin/dashboard template
@@ -2467,6 +2466,7 @@
 - [url-to-pdf-api](https://github.com/alvarcarto/url-to-pdf-api) - Web page PDF/PNG rendering done right. Self-hosted service for rendering receipts, invoices, or any content.
 - [event-loop](https://github.com/atotic/event-loop) - event loop docs
 - [cupper](https://github.com/ThePacielloGroup/cupper) - An inclusive pattern library builder.
+- [CSS-Checkbox-Library](https://github.com/hunzaboy/CSS-Checkbox-Library) - A huge library of Pure CSS Checkboxes for every taste.
 - [Software-Security-Learning](https://github.com/CHYbeta/Software-Security-Learning) - Software-Security-Learning
 - [vm-markdown](https://github.com/luosijie/vm-markdown) - Example
 - [Web-Security-Learning](https://github.com/CHYbeta/Web-Security-Learning) - Web-Security-Learning
@@ -2685,7 +2685,6 @@
 - [peterroelants.github.io](https://github.com/peterroelants/peterroelants.github.io) - Blog
 - [PythonWorkshop2015](https://github.com/ben-albrecht/PythonWorkshop2015) - This is the repository for the Simulations and Modeling (SaM) Python Workshop, Spring 2015.
 - [moya](https://github.com/moyaproject/moya) - Web development platform
-- [website_grokit_ca](https://github.com/grokit/website_grokit_ca) - website_grokit_ca
 - [code_py](https://github.com/chrisalbon/code_py) - A collection of well-commented code snippets for data science
 - [ipython-doc](https://github.com/ipython/ipython-doc) - Old builds of all the documentation for IPython's various releases, plus current development tree.
 - [fail2ban-dashboard](https://github.com/oussemos/fail2ban-dashboard) - Fail2ban web dashboard written with Flask framework. (not maintained)
@@ -4273,7 +4272,7 @@
 - [webspecter](https://github.com/jgonera/webspecter) - BDD-style acceptance test framework for web applications based on PhantomJS.
 - [lotte](https://github.com/StanAngeloff/lotte) - Automated, headless browser testing (using PhantomJS).
 - [react-native](https://github.com/facebook/react-native) - A framework for building native apps with React.
-- [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open source codebase and curriculum. Learn to code for free together with millions of people.
+- [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open source codebase and curriculum. Learn to code at home.
 - [polymer-starter-kit](https://github.com/Polymer/polymer-starter-kit) - A starting point for Polymer apps
 - [hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story
 - [vIPer](https://github.com/damianavila/vIPer) - vIPer: a new tool for IPython notebooks.
@@ -4445,6 +4444,7 @@
 
 ## Jupyter Notebook 
 
+- [DQN-Atari-Agents](https://github.com/BY571/DQN-Atari-Agents) - DQN-Atari-Agents:   Modularized PyTorch implementation of several DQN Agents, i.a. DDQN, Dueling DQN, Noisy DQN, C51, Rainbow and DRQN
 - [deltapy](https://github.com/firmai/deltapy) - DeltaPy - Tabular Data Augmentation
 - [nerf](https://github.com/bmild/nerf) - Code release for NeRF (Neural Radiance Fields)
 - [pycaret](https://github.com/pycaret/pycaret) - 
@@ -4501,7 +4501,7 @@
 - [fastpages](https://github.com/fastai/fastpages) - An easy to use blogging platform, with enhanced support for Jupyter Notebooks.
 - [computervision-recipes](https://github.com/microsoft/computervision-recipes) - Best Practices, code samples, and documentation for Computer Vision.
 - [TinderAutomation](https://github.com/jeffmli/TinderAutomation) - 
-- [zero-to-mastery-ml](https://github.com/mrdbourke/zero-to-mastery-ml) - [WORK IN PROGRESS] All course materials for ZTM ML on Udemy
+- [zero-to-mastery-ml](https://github.com/mrdbourke/zero-to-mastery-ml) - All course materials for ZTM ML on Udemy
 - [book_nbs](https://github.com/fastai/book_nbs) - Notebooks for upcoming fastai book (draft / incomplete)
 - [tigertoolbox](https://github.com/microsoft/tigertoolbox) - Toolbox repository for Tiger team
 - [skillsnetwork](https://github.com/IBM/skillsnetwork) - 
@@ -4829,6 +4829,7 @@
 - [Slides-SciPyConf-2018](https://github.com/deniederhut/Slides-SciPyConf-2018) - A repository for public storage of slides given at the 17th Python in Science Conferences (2018)
 - [ML_Learning_In_Action](https://github.com/matrixgardener/ML_Learning_In_Action) - ML study process record
 - [pytorch-Deep-Learning](https://github.com/Atcold/pytorch-Deep-Learning) - Deep Learning (with PyTorch)
+- [AutoEq](https://github.com/jaakkopasanen/AutoEq) - Automatic headphone equalization from frequency responses
 - [tutorials](https://github.com/onnx/tutorials) - Tutorials for creating and using ONNX models
 - [Deep-Learning](https://github.com/priya-dwivedi/Deep-Learning) - 
 - [FIFA-World-Cup-Prediction](https://github.com/mrthlinh/FIFA-World-Cup-Prediction) - Predict who will win the FIFA World Cup 2018
@@ -6728,6 +6729,7 @@
 
 ## Python 
 
+- [symspellpy](https://github.com/mammothb/symspellpy) - Python port of SymSpell
 - [PCDet](https://github.com/sshaoshuai/PCDet) - PCDet Toolbox in PyTorch for 3D Object Detection from Point Cloud
 - [Tetris-deep-Q-learning-pytorch](https://github.com/uvipen/Tetris-deep-Q-learning-pytorch) - Deep Q-learning for playing tetris game
 - [CenterTrack](https://github.com/xingyizhou/CenterTrack) - Simultaneous object detection and tracking using center points.
@@ -7014,6 +7016,7 @@
 - [labelme](https://github.com/wkentaro/labelme) - Image Polygonal Annotation with Python (polygon, rectangle, circle, line, point and image-level flag annotation).
 - [integration](https://github.com/hacs/integration) - Manage (Install, track, upgrade) and discover custom elements for Home Assistant.
 - [ru_transformers](https://github.com/mgrankin/ru_transformers) - 
+- [stargan-v2](https://github.com/clovaai/stargan-v2) - StarGAN v2 - Official PyTorch Implementation (CVPR 2020)
 - [gym-bandits](https://github.com/JKCooper2/gym-bandits) - Bandits Environments for the OpenAI Gym
 - [PrettyErrors](https://github.com/onelivesleft/PrettyErrors) - Prettify Python exception output to make it legible.
 - [faster-than-requests](https://github.com/juancarlospaco/faster-than-requests) - Faster requests on Python 3
@@ -7205,7 +7208,7 @@
 - [bsuite](https://github.com/deepmind/bsuite) - bsuite is a collection of carefully-designed experiments that investigate core capabilities of a reinforcement learning (RL) agent
 - [lvis-api](https://github.com/lvis-dataset/lvis-api) - Python API for LVIS Dataset
 - [mintotp](https://github.com/susam/mintotp) - Minimal TOTP generator in 20 lines of Python
-- [alive-progress](https://github.com/rsalmei/alive-progress) - A new kind of Progress Bar, with real-time throughput, eta and very cool animations!
+- [alive-progress](https://github.com/rsalmei/alive-progress) - A new kind of Progress Bar, with real time throughput, eta and very cool animations!
 - [service-streamer](https://github.com/ShannonAI/service-streamer) - Boosting your Web Services of Deep Learning Applications.
 - [retro-gtfs](https://github.com/SAUSy-Lab/retro-gtfs) - Collect real-time transit data and process it into a retroactive GTFS 'schedule' which can be used for routing/analysis
 - [netmiko](https://github.com/ktbyers/netmiko) - Multi-vendor library to simplify Paramiko SSH connections to network devices
@@ -7260,7 +7263,7 @@
 - [PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI) - Launched in 2018 Actively developed and supported. Supports tkinter, Qt, WxPython, Remi (in browser). Create custom layout GUI's simply.  Python 2.7 & 3 Support. 200+ Demo programs & Cookbook for rapid start. Extensive documentation.  Examples using Machine Learning(GUI, OpenCV Integration,  Chatterbot), Floating Desktop Widgets, Matplotlib + Pyplot integration, add GUI to command line scripts, PDF & Image Viewer. For both beginning and advanced programmers .
 - [DeepLearningTutorials](https://github.com/lisa-lab/DeepLearningTutorials) - Deep Learning Tutorial notes and code. See the wiki for more info.
 - [machine_learning_examples](https://github.com/lazyprogrammer/machine_learning_examples) - A collection of machine learning examples and tutorials.
-- [DeepNude-an-Image-to-Image-technology](https://github.com/yuanxiaosc/DeepNude-an-Image-to-Image-technology) - DeepNude's algorithm and general image generation theory and practice research, including pix2pix, CycleGAN, UGATIT, DCGAN, SinGAN and VAE models (TensorFlow2 implementation). DeepNude的算法以及通用GAN图像生成的理论与实践研究。
+- [DeepNude-an-Image-to-Image-technology](https://github.com/yuanxiaosc/DeepNude-an-Image-to-Image-technology) - DeepNude's algorithm and general image generation theory and practice research, including pix2pix, CycleGAN, UGATIT, DCGAN, SinGAN, ALAE, mGANprior and VAE models (TensorFlow2 implementation). DeepNude的算法以及通用GAN图像生成的理论与实践研究。
 - [DG-Net](https://github.com/NVlabs/DG-Net) - CVPR2019 Joint Discriminative and Generative Learning for Person Re-identification
 - [open-deepnude](https://github.com/open-deepnude/open-deepnude) - Open source reverse-engineered clone of DeepNude
 - [bookshelf](https://github.com/dry-python/bookshelf) - Code examples to learn dry-python with Django at the project scale.
@@ -7900,7 +7903,6 @@
 - [autokeras](https://github.com/keras-team/autokeras) - An AutoML system based on Keras
 - [cnn-graph-classification](https://github.com/giannisnik/cnn-graph-classification) - A convolutional neural network for graph classification in PyTorch
 - [pythia](https://github.com/facebookresearch/pythia) - A modular framework for vision & language multimodal research from Facebook AI Research (FAIR)
-- [AutoEq](https://github.com/jaakkopasanen/AutoEq) - Automatic headphone equalization from frequency responses
 - [GANimation](https://github.com/albertpumarola/GANimation) - GANimation: Anatomically-aware Facial Animation from a Single Image (ECCV'18 Oral) [PyTorch]
 - [IBN-Net](https://github.com/XingangPan/IBN-Net) - Instance-Batch Normalization Networks (ECCV2018)
 - [finetune](https://github.com/IndicoDataSolutions/finetune) - Scikit-learn style model finetuning for NLP
@@ -8833,7 +8835,7 @@
 - [tensorforce](https://github.com/tensorforce/tensorforce) - Tensorforce: a TensorFlow library for applied reinforcement learning
 - [SentEval](https://github.com/facebookresearch/SentEval) - A python tool for evaluating the quality of sentence embeddings.
 - [crocs](https://github.com/iogf/crocs) - Write Python then serialize to Regex. A way to reason about Regex patterns.
-- [crackcoin](https://github.com/DutchGraa/crackcoin) - Very basic blockchain-free cryptocurrency PoC in Python
+- [crackcoin](https://github.com/beurtschipper/crackcoin) - Very basic blockchain-free cryptocurrency PoC in Python
 - [neuralcoref](https://github.com/huggingface/neuralcoref) - ✨Fast Coreference Resolution in spaCy with Neural Networks
 - [pillow-simd](https://github.com/uploadcare/pillow-simd) - The friendly PIL fork
 - [honeyLambda](https://github.com/0x4D31/honeyLambda) - honeyλ - a simple, serverless application designed to create and monitor fake HTTP endpoints (i.e. URL honeytokens) automatically, on top of AWS Lambda and Amazon API Gateway
@@ -10497,7 +10499,7 @@
 - [django-oauth2-provider](https://github.com/caffeinehit/django-oauth2-provider) - Provide OAuth2 access to your app
 - [authomatic](https://github.com/authomatic/authomatic) - Simple yet powerful authorization / authentication client library for Python web applications.
 - [flask-api-utils](https://github.com/marselester/flask-api-utils) - Flask extension that takes care of API representation and authentication.
-- [flask-restless](https://github.com/jfinkels/flask-restless) - A Flask extension for creating simple ReSTful JSON APIs from SQLAlchemy models.
+- [flask-restless](https://github.com/jfinkels/flask-restless) - NO LONGER MAINTAINED - A Flask extension for creating simple ReSTful JSON APIs from SQLAlchemy models.
 - [django-formapi](https://github.com/5monkeys/django-formapi) - Django API creation with signed requests utilizing forms for validation.
 - [django-tastypie](https://github.com/django-tastypie/django-tastypie) - Creating delicious APIs for Django apps since 2010.
 - [python-statsd](https://github.com/WoLpH/python-statsd) - Python Client for the Etsy NodeJS Statsd Server
@@ -12588,7 +12590,6 @@
 - [ODSQA](https://github.com/chiahsuan156/ODSQA) - ODSQA: OPEN-DOMAIN SPOKEN QUESTION ANSWERING DATASET
 - [shlide](https://github.com/icyphox/shlide) - :framed_picture: a slide deck presentation tool written in pure bash
 - [vulhub](https://github.com/vulhub/vulhub) - Pre-Built Vulnerable Environments Based on Docker-Compose
-- [stargan-v2](https://github.com/clovaai/stargan-v2) - StarGAN v2 - Official PyTorch Implementation (CVPR 2020)
 - [fabric-samples](https://github.com/hyperledger/fabric-samples) - 
 - [start-here-guidelines](https://github.com/zero-to-mastery/start-here-guidelines) - Lets Git started in the world of opensource, starting in the Zero To Mastery's opensource playground. Especially designed for education and practical experience purposes.
 - [bitnami-docker-kafka](https://github.com/bitnami/bitnami-docker-kafka) - Bitnami Docker Kafka
@@ -13123,7 +13124,7 @@
 - [pomotroid](https://github.com/Splode/pomotroid) - :tomato: Simple and visually-pleasing Pomodoro timer
 - [cssfx](https://github.com/jolaleye/cssfx) - ✨ Beautifully simple click-to-copy CSS effects
 - [vue-thanos-snap](https://github.com/yiliang114/vue-thanos-snap) - thanos snap animation by vue
-- [vue](https://github.com/zeit-ui/vue) - Vue implementation for Vercel design.
+- [vue](https://github.com/zeit-ui/vue) - Vue implementation of Vercel Design
 - [openmicroservices.org](https://github.com/microservices/openmicroservices.org) - NOT MAINTAINED https://medium.com/@iopeak/open-microservices-specification-1abd8262ad0e
 - [AzureTipsAndTricks](https://github.com/microsoft/AzureTipsAndTricks) - Learn some of our favorite Azure tips and tricks—some long-standing, and new ones that have recently been added to become more productive with Azure. Star the repo now to shave hours off your coding tasks tomorrow.
 - [candy](https://github.com/Simonwep/candy) - 🍭 Cross-platform YouTube-downloader with playlist and channel support as well as build-in audio / video converter.
