@@ -174,7 +174,7 @@
 - [cJSON](https://github.com/DaveGamble/cJSON) - Ultralightweight JSON parser in ANSI C
 - [flow9](https://github.com/area9innovation/flow9) - Platform for safe, easy and productive programming of complex, multi-platform apps with a modern user interface
 - [Video-Editing-Automation](https://github.com/DevonCrawford/Video-Editing-Automation) - Toolkit of algorithms to automate the video editing process
-- [darknet](https://github.com/AlexeyAB/darknet) - Yolo v4 (v3/v2) - Windows and Linux version of Darknet Neural Networks for object detection (Tensor Cores are used)
+- [darknet](https://github.com/AlexeyAB/darknet) - YOLOv4 (v3/v2) - Windows and Linux version of Darknet Neural Networks for object detection (Tensor Cores are used)
 - [facil.io](https://github.com/boazsegev/facil.io) - Your high performance web application C framework
 - [element-protocol](https://github.com/element-protocol/element-protocol) - The decentralized, completely anonymous, lightweight, peer-to-peer network communication protocol.
 - [AgentSmith-HIDS](https://github.com/EBWi11/AgentSmith-HIDS) - By Kprobe technology Open Source Host-based Intrusion Detection System(HIDS), from E_Bwill.
@@ -513,7 +513,7 @@
 - [open-builder](https://github.com/Hopson97/open-builder) - Open  "Minecraft-like" game with multiplayer support and Lua scripting support for the both client and server
 - [Hippy](https://github.com/Tencent/Hippy) - A cross platform framework designed for Web developer. Introduction video - https://v.qq.com/x/page/i3038urj2mt.html
 - [plato](https://github.com/Tencent/plato) - 腾讯高性能分布式图计算框架Plato
-- [nebula](https://github.com/vesoft-inc/nebula) - A distributed, scalable, lightning fast graph database.  　　　　　　　　　　Like what we do? ★ us above ⇧
+- [nebula](https://github.com/vesoft-inc/nebula) - A distributed, fast open-source graph database featuring horizontal scalability and high availability
 - [pbrt-v3](https://github.com/mmp/pbrt-v3) - Source code for pbrt, the renderer described in the third edition of "Physically Based Rendering: From Theory To Implementation", by Matt Pharr, Wenzel Jakob, and Greg Humphreys.
 - [oneDNN](https://github.com/oneapi-src/oneDNN) - oneAPI Deep Neural Network Library (oneDNN)
 - [asio](https://github.com/chriskohlhoff/asio) - Asio C++ Library
@@ -990,7 +990,6 @@
 - [tailwind-starter-kit](https://github.com/creativetimofficial/tailwind-starter-kit) - Tailwind Starter Kit a beautiful extension for TailwindCSS, Free and Open Source
 - [bootstrap-4-github-pages](https://github.com/nicolas-van/bootstrap-4-github-pages) - A Bootstrap 4 start up project for Github Pages and Jekyll
 - [css.gg](https://github.com/astrit/css.gg) - 700+ Pure CSS, SVG & Figma UI Icons Available in SVG Sprite, styled-components, NPM & API
-- [LoveIt](https://github.com/dillonzq/LoveIt) - 🚀A clean, elegant but advanced blog theme for Hugo
 - [simplefolio](https://github.com/cobidev/simplefolio) - ⚡️ A minimal portfolio template for Developers
 - [LearnCS8-Resume](https://github.com/JordanSchuetz/LearnCS8-Resume) - Resume template website for the LearnCS8 Lab 4
 - [docs](https://github.com/RocketChat/docs) - The Rocket.Chat server, desktop, mobile, user, admin & developer documentation.
@@ -1607,7 +1606,7 @@
 - [k3v](https://github.com/ibuildthecloud/k3v) - Virtual Kubernetes
 - [monday](https://github.com/eko/monday) - ⚡️ A dev tool for microservice developers to run local applications and/or forward others from/to Kubernetes SSH or TCP
 - [lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
-- [olivia](https://github.com/olivia-ai/olivia) - 💁‍♀️Your new best friend built with an artificial neural network
+- [olivia](https://github.com/olivia-ai/olivia) - 💁‍♀️your new best friend built with an artificial neural network
 - [cloud-builders-community](https://github.com/GoogleCloudPlatform/cloud-builders-community) - Community-contributed images for Google Cloud Build
 - [geziyor](https://github.com/geziyor/geziyor) - Geziyor, a fast web crawling & scraping framework for Go. Supports JS rendering.
 - [devdash](https://github.com/Phantas0s/devdash) - :bento: Highly Configurable Terminal Dashboard for Developers
@@ -1631,7 +1630,7 @@
 - [space-cloud](https://github.com/spaceuptech/space-cloud) - Open source Firebase + Heroku to develop, scale and secure serverless apps on Kubernetes
 - [amazon-ecs-local-container-endpoints](https://github.com/awslabs/amazon-ecs-local-container-endpoints) - A container that provides local versions of the ECS Task Metadata Endpoint and ECS Task IAM Roles Endpoint.
 - [crfs](https://github.com/google/crfs) - CRFS: Container Registry Filesystem
-- [crawlab](https://github.com/crawlab-team/crawlab) - Distributed web crawler admin platform for spiders management regardless of languages and frameworks.
+- [crawlab](https://github.com/crawlab-team/crawlab) - Distributed web crawler admin platform for spiders management regardless of languages and frameworks. 分布式爬虫管理平台，支持任何语言和框架
 - [docli](https://github.com/celicoo/docli) - Docli - Command-line interfaces made easy
 - [pipe-to-me](https://github.com/jpschroeder/pipe-to-me) - Stream data over http using curl.
 - [kraken](https://github.com/uber/kraken) - P2P Docker registry capable of distributing TBs of data in seconds
@@ -2302,6 +2301,7 @@
 - [kubernetes-failure-stories](https://github.com/hjacobs/kubernetes-failure-stories) - Compilation of public failure/horror stories related to Kubernetes
 - [typedoc](https://github.com/TypeStrong/typedoc) - Documentation generator for TypeScript projects.
 - [build-your-own-mint](https://github.com/yyx990803/build-your-own-mint) - Build your own personal finance analytics using Plaid, Google Sheets and CircleCI.
+- [apidoc](https://github.com/apidoc/apidoc) - RESTful web API Documentation Generator.
 - [opencvjs](https://github.com/haoking/opencvjs) - Complete opencvjs (With the lastest OpenCV 4.0.0+)
 - [flutter-in-action](https://github.com/flutterchina/flutter-in-action) - 《Flutter实战》电子书
 - [proposal-javascript-standard-library](https://github.com/tc39/proposal-javascript-standard-library) - 
@@ -2663,7 +2663,6 @@
 - [snowball](https://github.com/shibukawa/snowball) - Stemming library collection. This copy repository will be an extended version to support other programming languages. Original one is on http://snowball.tartarus.org/index.php.
 - [sphinx-bootstrap-theme](https://github.com/ryan-roemer/sphinx-bootstrap-theme) - Sphinx Bootstrap Theme
 - [alabaster](https://github.com/bitprophet/alabaster) - Lightweight, configurable Sphinx theme. Now the Sphinx default!
-- [pure](https://github.com/pure-css/pure) - A set of small, responsive CSS modules that you can use in every web project.
 - [polymer](https://github.com/Polymer/polymer) - Our original Web Component library.
 - [pandas-ply](https://github.com/coursera/pandas-ply) - functional data manipulation for pandas
 - [dashboards](https://github.com/keen/dashboards) - Responsive dashboard templates 📊✨
@@ -2886,6 +2885,7 @@
 - [express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
 - [lime](https://github.com/marcotcr/lime) - Lime: Explaining the predictions of any machine learning classifier
 - [uuid](https://github.com/lukeed/uuid) - A tiny (230B), fast, and cryptographically secure UUID (V4) generator for Node and the browser
+- [LoveIt](https://github.com/dillonzq/LoveIt) - 🚀A clean, elegant but advanced blog theme for Hugo
 - [tracking.js](https://github.com/eduardolundgren/tracking.js) - A modern approach for Computer Vision on the web
 - [omniboard](https://github.com/vivekratnavel/omniboard) - Web-based dashboard for Sacred
 - [Real-Time-Person-Removal](https://github.com/jasonmayes/Real-Time-Person-Removal) - Removing people from complex backgrounds in real time using TensorFlow.js in the web browser
@@ -3085,7 +3085,6 @@
 - [static-site-boilerplate](https://github.com/ericalli/static-site-boilerplate) - A better workflow for building modern static websites.
 - [trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
 - [little-virtual-computer](https://github.com/jsdf/little-virtual-computer) - Learn how computers work by simulating them in Javascript
-- [apidoc](https://github.com/apidoc/apidoc) - RESTful web API Documentation Generator.
 - [deeptraffic](https://github.com/lexfridman/deeptraffic) - DeepTraffic is a deep reinforcement learning competition, part of the MIT Deep Learning series.
 - [fbt](https://github.com/facebook/fbt) - A JavaScript Internationalization Framework
 - [learn-json-web-tokens](https://github.com/dwyl/learn-json-web-tokens) - :closed_lock_with_key: Learn how to use JSON Web Token (JWT) to secure your next Web App! (Tutorial/Example with Tests!!)
@@ -3316,7 +3315,6 @@
 - [plainbudget](https://github.com/galvez/plainbudget) - Minimalist Plain Text Budgeting
 - [d2-admin](https://github.com/d2-projects/d2-admin) - An elegant dashboard
 - [supervisord](https://github.com/ochinchina/supervisord) - a go-lang supervisor implementation
-- [comlink](https://github.com/GoogleChromeLabs/comlink) - Comlink makes WebWorkers enjoyable.
 - [critters](https://github.com/GoogleChromeLabs/critters) - 🦔 A Webpack plugin to inline your critical CSS and lazy-load the rest.
 - [learntocrypto](https://github.com/sodium-friends/learntocrypto) - Learn to crypto workshop
 - [prerender-loader](https://github.com/GoogleChromeLabs/prerender-loader) - 📰 Painless universal pre-rendering for Webpack.
@@ -3451,7 +3449,7 @@
 - [knex](https://github.com/knex/knex) - A query builder for PostgreSQL, MySQL and SQLite3, designed to be flexible, portable, and fun to use.
 - [sequelize](https://github.com/sequelize/sequelize) - An easy-to-use multi SQL dialect ORM for Node.js
 - [react-app-rewired](https://github.com/timarney/react-app-rewired) - Override create-react-app webpack configs without ejecting
-- [Abricotine](https://github.com/brrd/Abricotine) - Markdown editor with inline preview
+- [abricotine](https://github.com/brrd/abricotine) - Markdown editor with inline preview
 - [gateway](https://github.com/mozilla-iot/gateway) - WebThings Gateway
 - [perspective](https://github.com/finos/perspective) - Streaming pivot visualization via WebAssembly
 - [hygen](https://github.com/jondot/hygen) - The simple, fast, and scalable code generator that lives in your project.
@@ -4274,6 +4272,7 @@
 - [react-native](https://github.com/facebook/react-native) - A framework for building native apps with React.
 - [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open source codebase and curriculum. Learn to code at home.
 - [polymer-starter-kit](https://github.com/Polymer/polymer-starter-kit) - A starting point for Polymer apps
+- [pure](https://github.com/pure-css/pure) - A set of small, responsive CSS modules that you can use in every web project.
 - [hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story
 - [vIPer](https://github.com/damianavila/vIPer) - vIPer: a new tool for IPython notebooks.
 - [hackathon-starter](https://github.com/sahat/hackathon-starter) - A boilerplate for Node.js web applications
@@ -6729,6 +6728,7 @@
 
 ## Python 
 
+- [yargy](https://github.com/natasha/yargy) - Rule-based facts extraction for Russian language
 - [symspellpy](https://github.com/mammothb/symspellpy) - Python port of SymSpell
 - [PCDet](https://github.com/sshaoshuai/PCDet) - PCDet Toolbox in PyTorch for 3D Object Detection from Point Cloud
 - [Tetris-deep-Q-learning-pytorch](https://github.com/uvipen/Tetris-deep-Q-learning-pytorch) - Deep Q-learning for playing tetris game
@@ -6893,7 +6893,7 @@
 - [Zooming-Slow-Mo-CVPR-2020](https://github.com/Mukosame/Zooming-Slow-Mo-CVPR-2020) - Fast and Accurate One-Stage Space-Time Video Super-Resolution (accepted in CVPR 2020)
 - [selenium-python-helium](https://github.com/mherrmann/selenium-python-helium) - Selenium-python but lighter: Helium is the best Python library for web automation.
 - [PIFu](https://github.com/shunsukesaito/PIFu) - This repository contains the code for the paper "PIFu: Pixel-Aligned Implicit Function for High-Resolution Clothed Human Digitization"
-- [akshare](https://github.com/jindaxiang/akshare) - AkShare is an elegant and simple financial data interface library for Python, built for human beings!
+- [akshare](https://github.com/jindaxiang/akshare) - AkShare is an elegant and simple financial data interface library for Python, built for human beings! 开源财经数据接口库
 - [tf-gnn-samples](https://github.com/microsoft/tf-gnn-samples) - TensorFlow implementations of Graph Neural Networks
 - [tf2-gnn](https://github.com/microsoft/tf2-gnn) - TensorFlow 2 library implementing Graph Neural Networks
 - [Fast_Sentence_Embeddings](https://github.com/oborchers/Fast_Sentence_Embeddings) - Compute Sentence Embeddings Fast!
@@ -7174,7 +7174,6 @@
 - [GENTRL](https://github.com/insilicomedicine/GENTRL) - Generative Tensorial Reinforcement Learning (GENTRL) model
 - [wechatpy](https://github.com/wechatpy/wechatpy) - WeChat SDK for Python
 - [rapidtables](https://github.com/alttch/rapidtables) - Super fast list of dicts to pre-formatted tables conversion library for Python 2/3
-- [craftassist](https://github.com/facebookresearch/craftassist) - A virtual assistant bot in Minecraft
 - [snake-gym](https://github.com/Platun0v/snake-gym) - snake-gym is implementation of the classic game snake that is made as an OpenAI gym environment
 - [ale_python_interface](https://github.com/bbitmaster/ale_python_interface) - A Python Interface for the Arcade Learning Environment (Shared Object)
 - [AgentNet](https://github.com/yandexdataschool/AgentNet) - Deep Reinforcement Learning library for humans
@@ -7263,7 +7262,7 @@
 - [PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI) - Launched in 2018 Actively developed and supported. Supports tkinter, Qt, WxPython, Remi (in browser). Create custom layout GUI's simply.  Python 2.7 & 3 Support. 200+ Demo programs & Cookbook for rapid start. Extensive documentation.  Examples using Machine Learning(GUI, OpenCV Integration,  Chatterbot), Floating Desktop Widgets, Matplotlib + Pyplot integration, add GUI to command line scripts, PDF & Image Viewer. For both beginning and advanced programmers .
 - [DeepLearningTutorials](https://github.com/lisa-lab/DeepLearningTutorials) - Deep Learning Tutorial notes and code. See the wiki for more info.
 - [machine_learning_examples](https://github.com/lazyprogrammer/machine_learning_examples) - A collection of machine learning examples and tutorials.
-- [DeepNude-an-Image-to-Image-technology](https://github.com/yuanxiaosc/DeepNude-an-Image-to-Image-technology) - DeepNude's algorithm and general image generation theory and practice research, including pix2pix, CycleGAN, UGATIT, DCGAN, SinGAN, ALAE, mGANprior and VAE models (TensorFlow2 implementation). DeepNude的算法以及通用GAN图像生成的理论与实践研究。
+- [DeepNude-an-Image-to-Image-technology](https://github.com/yuanxiaosc/DeepNude-an-Image-to-Image-technology) - DeepNude's algorithm and general image generation theory and practice research, including pix2pix, CycleGAN, UGATIT, DCGAN, SinGAN, ALAE, mGANprior, StarGAN-v2 and VAE models (TensorFlow2 implementation). DeepNude的算法以及通用GAN图像生成的理论与实践研究。
 - [DG-Net](https://github.com/NVlabs/DG-Net) - CVPR2019 Joint Discriminative and Generative Learning for Person Re-identification
 - [open-deepnude](https://github.com/open-deepnude/open-deepnude) - Open source reverse-engineered clone of DeepNude
 - [bookshelf](https://github.com/dry-python/bookshelf) - Code examples to learn dry-python with Django at the project scale.
@@ -10086,7 +10085,7 @@
 - [awesome-cheatsheet](https://github.com/detailyang/awesome-cheatsheet) - :beers: awesome cheatsheet
 - [tornwamp](https://github.com/ef-ctx/tornwamp) - Python code compatible with WAMP (Web Application Messaging Protocol)
 - [Spider](https://github.com/buckyroberts/Spider) - Python website crawler.
-- [categorical-encoding](https://github.com/scikit-learn-contrib/categorical-encoding) - A library of sklearn compatible categorical variable encoders
+- [category_encoders](https://github.com/scikit-learn-contrib/category_encoders) - A library of sklearn compatible categorical variable encoders
 - [app-turbo](https://github.com/wecatch/app-turbo) - A framework based on tornado for easier development, scaling up and maintenance
 - [octohook](https://github.com/jayfk/octohook) - 
 - [public_drown_scanner](https://github.com/nimia/public_drown_scanner) - 
@@ -12778,6 +12777,7 @@
 ## TeX 
 
 - [Algorithmic-Pseudocode](https://github.com/Just-A-Visitor/Algorithmic-Pseudocode) - This repository contains the pseudocode(pdf) of various algorithms and data structures necessary for Interview Preparation and Competitive Coding
+- [craftassist](https://github.com/facebookresearch/craftassist) - A virtual assistant bot in Minecraft
 - [Data-Science--Cheat-Sheet](https://github.com/abhat222/Data-Science--Cheat-Sheet) - Cheat Sheets
 - [PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet) - Latex code for making neural networks diagrams
 - [MT-Reading-List](https://github.com/THUNLP-MT/MT-Reading-List) - A machine translation reading list maintained by Tsinghua Natural Language Processing Group
@@ -12908,6 +12908,7 @@
 - [flipper](https://github.com/facebook/flipper) - A desktop debugging platform for mobile developers.
 - [vscode-pull-request-github](https://github.com/microsoft/vscode-pull-request-github) - GitHub Pull Requests for Visual Studio Code
 - [G6](https://github.com/antvis/G6) - ♾ A Graph Visualization Framework in JavaScript
+- [comlink](https://github.com/GoogleChromeLabs/comlink) - Comlink makes WebWorkers enjoyable.
 - [deno](https://github.com/denoland/deno) - A secure JavaScript and TypeScript runtime
 - [wired-elements](https://github.com/wiredjs/wired-elements) - Collection of custom elements that appear hand drawn. Great for wireframes or a fun look.
 - [vsc-material-theme](https://github.com/material-theme/vsc-material-theme) - Material Theme, the most epic theme for Visual Studio Code
@@ -13214,7 +13215,7 @@
 - [vue-fullcalendar](https://github.com/CroudTech/vue-fullcalendar) - FullCalendar Wrapper for vue
 - [nuxt](https://github.com/vuetifyjs/nuxt) - Nuxt.js + Vuetify.js starter project template.
 - [baidupcs-web](https://github.com/liuzhuoling2011/baidupcs-web) - 
-- [ant-design-pro-vue](https://github.com/sendya/ant-design-pro-vue) - 👨🏻‍💻👩🏻‍💻 Use Ant Design Vue like a Pro!
+- [ant-design-vue-pro](https://github.com/vueComponent/ant-design-vue-pro) - 👨🏻‍💻👩🏻‍💻 Use Ant Design Vue like a Pro!
 - [vue-antd-admin](https://github.com/iczer/vue-antd-admin) - 🐜 Ant Design Pro's implementation with Vue
 - [monimo](https://github.com/altinselimi/monimo) - Netflix like web app for watching animes
 - [d-tools](https://github.com/geminate/d-tools) - d-tools is a toolbox for developers.Formatter, Base64, Regex test,Host manager and so on.
