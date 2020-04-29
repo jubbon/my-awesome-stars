@@ -185,7 +185,7 @@
 - [RedisGraph](https://github.com/RedisGraph/RedisGraph) - A graph database as a Redis module
 - [nginx-link-function](https://github.com/Taymindis/nginx-link-function) - It is a NGINX module that provides dynamic linking to your application in server context and call the function of your application in location directive
 - [ttyplot](https://github.com/tenox7/ttyplot) - a realtime plotting utility for terminal/console with data input from stdin
-- [nnn](https://github.com/jarun/nnn) - :tangerine: The missing terminal file manager for X.
+- [nnn](https://github.com/jarun/nnn) - n³ The missing terminal file manager for X.
 - [opengl-framework](https://github.com/jdupuy/opengl-framework) - Cross-platform OpenGL demos
 - [nvtop](https://github.com/Syllo/nvtop) - NVIDIA GPUs htop like monitoring tool
 - [Logan](https://github.com/Meituan-Dianping/Logan) - Logan is a lightweight case logging system based on mobile platform.
@@ -554,7 +554,7 @@
 - [griddb_nosql](https://github.com/griddb/griddb_nosql) - high performance, high scalability and high reliability database for IoT & big data
 - [triton-inference-server](https://github.com/NVIDIA/triton-inference-server) - The Triton Inference Server provides a cloud inferencing solution optimized for NVIDIA GPUs.
 - [taichi](https://github.com/taichi-dev/taichi) - Productive programming language for portable, high-performance, sparse & differentiable computing
-- [FICM](https://github.com/hellochick/FICM) - :video_game: [IJCAI'20] [ICLR'19 Workshop] Flow-based Intrinsic Curiosity Module. Playing SuperMario with RL agent and FICM!
+- [FICM](https://github.com/hellochick/FICM) - :video_game: [IJCAI'20][ICLR'19 Workshop] Flow-based Intrinsic Curiosity Module. Playing SuperMario with RL agent and FICM!
 - [cpp-cheat-sheet](https://github.com/gibsjose/cpp-cheat-sheet) - C++ Syntax, Data Structures, and Algorithms Cheat Sheet
 - [earthenterprise](https://github.com/google/earthenterprise) - Google Earth Enterprise - Open Source
 - [mediapipe](https://github.com/google/mediapipe) - MediaPipe is a cross-platform framework for building multimodal applied machine learning pipelines
@@ -1595,7 +1595,7 @@
 - [jocko](https://github.com/travisjeffery/jocko) - Kafka implemented in Golang with built-in coordination (No ZK dep, single binary install, Cloud Native)
 - [terragrunt](https://github.com/gruntwork-io/terragrunt) - Terragrunt is a thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules.
 - [aws-sdk-go](https://github.com/aws/aws-sdk-go) - AWS SDK for the Go programming language.
-- [mapstructure](https://github.com/mitchellh/mapstructure) - Go library for decoding generic map values into native Go structures.
+- [mapstructure](https://github.com/mitchellh/mapstructure) - Go library for decoding generic map values into native Go structures and vice versa.
 - [terraform-provider-aws](https://github.com/terraform-providers/terraform-provider-aws) - Terraform AWS provider
 - [lindb](https://github.com/lindb/lindb) - LinDB is a scalable, high performance, high availability distributed time series database.
 - [buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
@@ -2378,6 +2378,7 @@
 - [hyperHTML](https://github.com/WebReflection/hyperHTML) - A Fast & Light Virtual DOM Alternative
 - [SB-Admin-BS4-Angular-8](https://github.com/start-angular/SB-Admin-BS4-Angular-8) - Simple Dashboard Admin App built using Angular 8 and Bootstrap 4
 - [CLRS](https://github.com/walkccc/CLRS) - 📚 Solutions to Introduction to Algorithms Third Edition
+- [archerysec](https://github.com/archerysec/archerysec) - Centralize Vulnerability Assessment and Management for DevSecOps Team
 - [GTFOBins.github.io](https://github.com/GTFOBins/GTFOBins.github.io) - Curated list of Unix binaries that can be exploited to bypass system security restrictions
 - [Intro_to_ML-FutureLabs](https://github.com/InsightDataScience/Intro_to_ML-FutureLabs) - ML primer workshop @ Future Labs AI Summit
 - [crowds](https://github.com/ncase/crowds) - The Wisdom and/or Madness of the Crowds
@@ -2885,7 +2886,7 @@
 - [express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
 - [lime](https://github.com/marcotcr/lime) - Lime: Explaining the predictions of any machine learning classifier
 - [uuid](https://github.com/lukeed/uuid) - A tiny (230B), fast, and cryptographically secure UUID (V4) generator for Node and the browser
-- [LoveIt](https://github.com/dillonzq/LoveIt) - 🚀A clean, elegant but advanced blog theme for Hugo
+- [LoveIt](https://github.com/dillonzq/LoveIt) - ❤️A clean, elegant but advanced blog theme for Hugo 一个简洁、优雅且高效的 Hugo 主题
 - [tracking.js](https://github.com/eduardolundgren/tracking.js) - A modern approach for Computer Vision on the web
 - [omniboard](https://github.com/vivekratnavel/omniboard) - Web-based dashboard for Sacred
 - [Real-Time-Person-Removal](https://github.com/jasonmayes/Real-Time-Person-Removal) - Removing people from complex backgrounds in real time using TensorFlow.js in the web browser
@@ -3281,12 +3282,12 @@
 - [ndb](https://github.com/GoogleChromeLabs/ndb) - ndb is an improved debugging experience for Node.js, enabled by Chrome DevTools
 - [road-orientation-map](https://github.com/mourner/road-orientation-map) - A visualization of road orientations on an interactive map
 - [kleur](https://github.com/lukeed/kleur) - The fastest Node.js library for formatting terminal text with ANSI colors~!
-- [microstates.js](https://github.com/microstates/microstates.js) - Composable State Primitives for JavaScript
+- [microstates](https://github.com/thefrontside/microstates) - Composable State Primitives for JavaScript
 - [carbon-now-cli](https://github.com/mixn/carbon-now-cli) - 🎨 Beautiful images of your code — from right inside your terminal.
 - [react-developer-roadmap](https://github.com/adam-golab/react-developer-roadmap) - Roadmap to becoming a React developer in 2019
 - [breezy-pdf-lite](https://github.com/danielwestendorf/breezy-pdf-lite) - Simplified, self-hosted, version of breezypdf.com. HTML/CSS/JS in, PDF out, via Chrome
 - [xgplayer](https://github.com/bytedance/xgplayer) - A HTML5 video player with a parser that saves traffic
-- [just-api](https://github.com/kiranz/just-api) - :boom: Easy and Flexible REST, GraphQL API Testing
+- [just-api](https://github.com/kiranz/just-api) - :boom: Test REST, GraphQL APIs
 - [rest-hapi](https://github.com/JKHeadley/rest-hapi) - 🚀 A RESTful API generator for Node.js
 - [minipack](https://github.com/ronami/minipack) - 📦 A simplified example of a modern module bundler written in JavaScript
 - [giojs](https://github.com/syt123450/giojs) - 🌏  A Declarative 3D Globe Data Visualization Library built with Three.js
@@ -3321,7 +3322,6 @@
 - [30-seconds-of-interviews](https://github.com/30-seconds/30-seconds-of-interviews) - A curated collection of common interview questions to help you prepare for your next interview.
 - [maid](https://github.com/egoist/maid) - Markdown driven task runner.
 - [router](https://github.com/reach/router) - 
-- [archerysec](https://github.com/archerysec/archerysec) - Centralize Vulnerability Assessment and Management for DevSecOps Team
 - [github-contributions-chart](https://github.com/sallar/github-contributions-chart) - :octocat: Generate an image of all your Github contributions
 - [core-values-encoder](https://github.com/sym233/core-values-encoder) - Translating text to core values and back
 - [isomorphic-git](https://github.com/isomorphic-git/isomorphic-git) - A pure JavaScript implementation of git for node and browsers!
@@ -4670,7 +4670,6 @@
 - [transformer](https://github.com/suyash/transformer) - A Transformer implementation in Keras' Imperative (Subclassing) API for TensorFlow.
 - [introductory_pot_hole_viz](https://github.com/mmonzoor/introductory_pot_hole_viz) - 
 - [Azure-Sentinel](https://github.com/Azure/Azure-Sentinel) - Cloud-native SIEM for intelligent security analytics for your entire enterprise.
-- [jupyter-book](https://github.com/ExecutableBookProject/jupyter-book) - Create an online book with Jupyter Notebooks and Jekyll
 - [AttentionExplanation](https://github.com/successar/AttentionExplanation) - 
 - [dlcourse_ai](https://github.com/sim0nsays/dlcourse_ai) - Материалы курса Deep Learning на пальцах
 - [Easy_street_parking_with_MASK-RCNN](https://github.com/ankit1khare/Easy_street_parking_with_MASK-RCNN) - A prototype application that can be transformed into a full-fledged real-time parking management app to help people find parking spots near malls, shopping areas, cinema house etc. A text message is sent to let you know whenever there's a vacancy in the nearby street parking or community parking. Park_clever notebook contains the latest code.
@@ -5013,7 +5012,7 @@
 - [LectureNotes](https://github.com/UWSEDS/LectureNotes) - Lecture content for UW Software Engineering for Data Scientists
 - [banti_telugu_ocr](https://github.com/TeluguOCR/banti_telugu_ocr) - End to end OCR system for Telugu. Based on Convolutional Neural Networks.
 - [carputer](https://github.com/otaviogood/carputer) - Toy car that drives itself using neural networks
-- [qiskit-tutorials](https://github.com/Qiskit/qiskit-tutorials) - A collection of Jupyter notebooks showing how to use Qiskit that is synced with the IBM Q Experience
+- [qiskit-tutorials](https://github.com/Qiskit/qiskit-tutorials) - A collection of Jupyter notebooks showing how to use the Qiskit SDK
 - [ethereum_demo](https://github.com/llSourcell/ethereum_demo) - This is the code for "Ethereum Explained" by Siraj Raval on Youtube
 - [pynotes](https://github.com/srigalibe/pynotes) - Python exercises to practice skills
 - [MachineLearning](https://github.com/carefree0910/MachineLearning) - Machine learning algorithms implemented by pure numpy
@@ -6728,6 +6727,7 @@
 
 ## Python 
 
+- [razdel](https://github.com/natasha/razdel) - Rule-based tokenizer, sentenizer for russian language
 - [yargy](https://github.com/natasha/yargy) - Rule-based facts extraction for Russian language
 - [symspellpy](https://github.com/mammothb/symspellpy) - Python port of SymSpell
 - [PCDet](https://github.com/sshaoshuai/PCDet) - PCDet Toolbox in PyTorch for 3D Object Detection from Point Cloud
@@ -6969,7 +6969,7 @@
 - [pytracking](https://github.com/visionml/pytracking) - Visual tracking library based on PyTorch.
 - [fixmatch](https://github.com/google-research/fixmatch) - A simple method to perform semi-supervised learning with limited data.
 - [c9-python-getting-started](https://github.com/microsoft/c9-python-getting-started) - Sample code for Channel 9 Python for Beginners course
-- [protonvpn-cli-ng](https://github.com/ProtonVPN/protonvpn-cli-ng) - Linux command-line client for ProtonVPN. Written in Python.
+- [linux-cli](https://github.com/ProtonVPN/linux-cli) - Linux command-line client for ProtonVPN. Written in Python.
 - [devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization
 - [DeDRM_tools](https://github.com/apprenticeharper/DeDRM_tools) - DeDRM tools for ebooks
 - [ffmpeg-python](https://github.com/kkroening/ffmpeg-python) - Python bindings for FFmpeg - with complex filtering support
@@ -7448,6 +7448,7 @@
 - [ptr](https://github.com/facebookincubator/ptr) - Python Test Runner.
 - [pytest-play](https://github.com/pytest-dev/pytest-play) - pytest plugin that let you automate actions and assertions with test metrics reporting executing plain YAML files
 - [coord-conv-pytorch](https://github.com/Wizaron/coord-conv-pytorch) - An intriguing failing of convolutional neural networks and the CoordConv solution in PyTorch
+- [jupyter-book](https://github.com/ExecutableBookProject/jupyter-book) - Building interactive, publication-quality documents from Jupyter Notebooks
 - [DL-Seq2Seq](https://github.com/GauravBh1010tt/DL-Seq2Seq) - Implementation of papers on Deep Seq2seq learning using Pytorch.
 - [pghoard](https://github.com/aiven/pghoard) - PostgreSQL backup and restore service
 - [subsync](https://github.com/smacke/subsync) - Automagically synchronize subtitles with video. 自动同步字幕与视频。
@@ -8906,7 +8907,7 @@
 - [Nodz](https://github.com/LeGoffLoic/Nodz) - Nodz : Visualize your data - Free nodes based graph generator.
 - [speedml](https://github.com/Speedml/speedml) - Speedml is a Python package to speed start machine learning projects.
 - [PyTree](https://github.com/PixelwarStudio/PyTree) - Package for generating and drawing (fractal)trees.
-- [squealy](https://github.com/hashedin/squealy) - SQL Based REST API Generator
+- [squealy](https://github.com/hashedin/squealy) - Build readonly JSON APIs by writing SQL Queries
 - [django-migrations-graph](https://github.com/dizballanze/django-migrations-graph) - Django-admin command to display migrations with dependencies.
 - [wscelery](https://github.com/johan-sports/wscelery) - Real time celery monitoring using websockets
 - [JSON-path](https://github.com/jabbalaci/JSON-path) - Find the path of a key / value in a JSON hierarchy easily.
@@ -13193,7 +13194,7 @@
 - [monocorpus](https://github.com/mtbarta/monocorpus) - A notepad for software and machine learning
 - [bitbench](https://github.com/triq-org/bitbench) - Visually dissect and analyze bit strings
 - [vue-zondicons](https://github.com/TerryMooreII/vue-zondicons) - Vue.js component for accessing Zondicon svg icons
-- [vuedarkmode](https://github.com/growthbunker/vuedarkmode) - 👩‍🎨👨‍🎨 A minimalist dark design system for Vue.js. Based components designed for the insomniacs who enjoy dark interfaces as much as we do.
+- [vuedarkmode](https://github.com/LeCoupa/vuedarkmode) - 👩‍🎨👨‍🎨 A minimalist dark design system for Vue.js. Based components designed for the insomniacs who enjoy dark interfaces as much as we do.
 - [microblog](https://github.com/backendlab-app/microblog) - A simple microblogging application built based on BackendLab
 - [vue-calendar-heatmap](https://github.com/WildCodeSchool/vue-calendar-heatmap) - A lightweight calendar heatmap Vuejs component built on SVG, inspired by github's contribution calendar graph
 - [shards-dashboard-vue](https://github.com/DesignRevision/shards-dashboard-vue) - A free Vue admin dashboard template pack featuring a modern design system  and lots of custom templates and components.
@@ -13468,7 +13469,7 @@
 - [vue-grid-layout](https://github.com/jbaysolutions/vue-grid-layout) - A draggable and resizable grid layout, for Vue.js.
 - [mint-loadmore](https://github.com/mint-ui/mint-loadmore) - A two-direction mobile load-more component for vue.js
 - [v2ex_frontend](https://github.com/liuzhenangel/v2ex_frontend) - V2EX demo built with Vue 2.0, vue-router, with server-side rendering
-- [vue-charts](https://github.com/hchstera/vue-charts) - Base on Vue2.0 wrapper for ChartJs.
+- [vue-charts](https://github.com/hchstera/vue-charts) - Base on Vue2.0 wrapper for ChartJs. (Deprecated)
 - [vue2-calendar](https://github.com/icai/vue2-calendar) - vue 2.x  calendar component
 - [N3-components](https://github.com/N3-components/N3-components) - N3-components , Powerful Vue UI Library.
 - [vue-semantic](https://github.com/CroudTech/vue-semantic) - A collection of vue components for integrating the semantic ui library
