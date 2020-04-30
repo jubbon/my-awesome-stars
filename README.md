@@ -126,6 +126,7 @@
 - [IoTGoat](https://github.com/OWASP/IoTGoat) - IoTGoat is a deliberately insecure firmware created to educate software developers and security professionals with testing commonly found vulnerabilities in IoT devices.
 - [concorde](https://github.com/matthelb/concorde) - Concorde is a computer code for the symmetric traveling salesman problem (TSP) and some related network optimization problems. It was created by David Applegate, Robert E. Bixby, Vašek Chvátal, and William J. Cook.
 - [XNNPACK](https://github.com/google/XNNPACK) - High-efficiency floating-point neural network inference operators for mobile, server, and Web
+- [openfortivpn](https://github.com/adrienverge/openfortivpn) - Client for PPP+SSL VPN tunnel services
 - [rt-thread](https://github.com/RT-Thread/rt-thread) - RT-Thread is an open source IoT operating system from China.
 - [DOOM](https://github.com/id-Software/DOOM) - DOOM Open Source Release
 - [mongoose](https://github.com/cesanta/mongoose) - Mongoose Embedded Web Server Library - Mongoose is more than an embedded webserver. It is a multi-protocol embedded networking library with functions including TCP, HTTP client and server, WebSocket client and server,  MQTT client and broker and much more.
@@ -541,7 +542,7 @@
 - [matplotlib-cpp](https://github.com/lava/matplotlib-cpp) - Extremely simple yet powerful header-only C++ plotting library built on the popular matplotlib
 - [gpu-monitoring-tools](https://github.com/NVIDIA/gpu-monitoring-tools) - Tools for monitoring NVIDIA GPUs on Linux
 - [fmt](https://github.com/fmtlib/fmt) - A modern formatting library
-- [navigation2](https://github.com/ros-planning/navigation2) - ROS2 Navigation https://ros-planning.github.io/navigation2/
+- [navigation2](https://github.com/ros-planning/navigation2) - ROS2 Navigation
 - [openalpr](https://github.com/openalpr/openalpr) - Automatic License Plate Recognition library
 - [cosmoscout-vr](https://github.com/cosmoscout/cosmoscout-vr) - :milky_way: A virtual universe which lets you explore, analyze and present huge planetary datasets and large simulation data in real-time.
 - [street-addresses](https://github.com/facebookresearch/street-addresses) - Robocodes: Towards Generative Street Addresses from Satellite Imagery
@@ -1600,9 +1601,8 @@
 - [lindb](https://github.com/lindb/lindb) - LinDB is a scalable, high performance, high availability distributed time series database.
 - [buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
 - [gotraining](https://github.com/ardanlabs/gotraining) - Go Training Class Material :
-- [go-micro](https://github.com/micro/go-micro) - The Go Micro services development framework
+- [go-micro](https://github.com/micro/go-micro) - A distributed systems development framework
 - [pipeline](https://github.com/tektoncd/pipeline) - A K8s-native Pipeline resource.
-- [prometheus-operator](https://github.com/coreos/prometheus-operator) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
 - [k3v](https://github.com/ibuildthecloud/k3v) - Virtual Kubernetes
 - [monday](https://github.com/eko/monday) - ⚡️ A dev tool for microservice developers to run local applications and/or forward others from/to Kubernetes SSH or TCP
 - [lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
@@ -3231,7 +3231,6 @@
 - [rnset](https://github.com/suijunqiang/rnset) - rnset is a framework based on the react native & integrated a lot very good RN components to easy for verifying/using/picking in your projects
 - [iguazu](https://github.com/americanexpress/iguazu) - ✨ Iguazu is a simple Redux-powered Async Query engine
 - [algorithms-javascript](https://github.com/IamManchanda/algorithms-javascript) - Algorithms & Data Structures! [WIP] More questions are getting added!
-- [js-lingui](https://github.com/lingui/js-lingui) - 🌍📖 A readable, automated, and optimized (5 kb) internationalization for JavaScript
 - [SpaceX-API](https://github.com/r-spacex/SpaceX-API) - :rocket: Open Source REST API for rocket, core, capsule, pad, and launch data
 - [zaidalyafeai.github.io](https://github.com/zaidalyafeai/zaidalyafeai.github.io) - Implementation of web friendly ML models using TensorFlow.js. pix2pix, face segmentation, fast style transfer and many more ...
 - [http2-wrapper](https://github.com/szmarczak/http2-wrapper) - Use HTTP2 the same way like HTTP1
@@ -3905,7 +3904,7 @@
 - [quiver](https://github.com/keplr-io/quiver) - Interactive convnet features visualization for Keras
 - [csslint](https://github.com/CSSLint/csslint) - Automated linting of Cascading Stylesheets
 - [newman](https://github.com/postmanlabs/newman) - Newman is a command-line collection runner for Postman
-- [nuxt.js](https://github.com/nuxt/nuxt.js) - The Vue.js Framework
+- [nuxt.js](https://github.com/nuxt/nuxt.js) - The Intuitive Vue Framework
 - [poisontap](https://github.com/samyk/poisontap) - Exploits locked/password protected computers over USB, drops persistent WebSocket-based backdoor, exposes internal router, and siphons cookies using Raspberry Pi Zero & Node.js.
 - [mdl-selectfield](https://github.com/mebibou/mdl-selectfield) - Material Design Lite selectfield component (https://github.com/google/material-design-lite)
 - [firebaseui-web](https://github.com/firebase/firebaseui-web) - FirebaseUI is an open-source JavaScript library for Web that provides simple, customizable UI bindings on top of Firebase SDKs to eliminate boilerplate code and promote best practices.
@@ -3979,7 +3978,7 @@
 - [materialize](https://github.com/Dogfalo/materialize) - Materialize, a CSS Framework based on Material Design
 - [systemjs](https://github.com/systemjs/systemjs) - Dynamic ES module loader
 - [react-virtualized](https://github.com/bvaughn/react-virtualized) - React components for efficiently rendering large lists and tabular data
-- [serverless](https://github.com/serverless/serverless) - Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –
+- [serverless](https://github.com/serverless/serverless) - ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –
 - [time](https://github.com/anvaka/time) - Simple Google Sheets interface to track time
 - [js-stack-from-scratch](https://github.com/verekia/js-stack-from-scratch) - 🛠️⚡ Step-by-step tutorial to build a modern JavaScript stack.
 - [DBGlass](https://github.com/web-pal/DBGlass) - PostgreSQL client built with Electron.
@@ -4427,6 +4426,7 @@
 
 ## Jsonnet 
 
+- [prometheus-operator](https://github.com/coreos/prometheus-operator) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
 - [examples](https://github.com/kubeflow/examples) - A repository to host extended examples and tutorials
 - [jsonnet](https://github.com/google/jsonnet) - Jsonnet - The data templating language
 - [kubeflow](https://github.com/kubeflow/kubeflow) - Machine Learning Toolkit for Kubernetes
@@ -4605,7 +4605,7 @@
 - [nlp-in-practice](https://github.com/kavgan/nlp-in-practice) - Starter code to solve real world text data problems. Includes: Gensim Word2Vec, phrase embeddings, keyword extraction with TFIDF,  Text Classification with Logistic Regression, word count with pyspark, simple text preprocessing, pre-trained embeddings and more.
 - [GDL_code](https://github.com/davidADSP/GDL_code) - The official code repository for examples in the O'Reilly book 'Generative Deep Learning'
 - [d2l-pytorch](https://github.com/dsgiitr/d2l-pytorch) - This project reproduces the book Dive Into Deep Learning (www.d2l.ai), adapting the code from MXNet into PyTorch.
-- [bamboolib](https://github.com/tkrabel/bamboolib) - bamboolib - a GUI for pandas dataframes. Stop googling pandas commands
+- [bamboolib](https://github.com/tkrabel/bamboolib) - bamboolib - the Fastest and Easiest Way to Work with pandas DataFrames
 - [dlschl](https://github.com/deepmipt/dlschl) - 
 - [notebooks](https://github.com/deeplook/notebooks) - Misc. Jupyter notebooks for testing and exploring various things.
 - [AzureML-BERT](https://github.com/microsoft/AzureML-BERT) - End-to-end recipes for pre-training and fine-tuning BERT using Azure Machine Learning service
@@ -5720,7 +5720,7 @@
 
 - [awesome-git-addons](https://github.com/stevemao/awesome-git-addons) - :sunglasses: A curated list of add-ons that extend/enhance the git CLI.
 - [EffectivePyTorch](https://github.com/vahidk/EffectivePyTorch) - PyTorch tutorials and best practices.
-- [awesome-maps](https://github.com/simsieg/awesome-maps) - 🗺A collection of great online maps
+- [awesome-maps](https://github.com/simsieg/awesome-maps) - "There is more than google": 🗺A collection of great online maps
 - [awesome-baremetal](https://github.com/alexellis/awesome-baremetal) - Bare-metal is awesome. Let's share our favourite tools.
 - [awesome-deepbio](https://github.com/gokceneraslan/awesome-deepbio) - A curated list of awesome deep learning applications in the field of computational biology
 - [ml-system-design-pattern](https://github.com/mercari/ml-system-design-pattern) - System design patterns for machine learning
@@ -5777,7 +5777,7 @@
 - [awesome-AutoML](https://github.com/windmaple/awesome-AutoML) - Curating a list of AutoML-related research, tools, projects and other resources
 - [awesome-tflite](https://github.com/margaretmz/awesome-tflite) - A curated list of awesome TensorFlow Lite models, samples, tutorials, tools and learning resources.
 - [flutter_vignettes](https://github.com/gskinnerTeam/flutter_vignettes) - A collection of fun Flutter experiments, created by gskinner, in partnership with Google.
-- [ReadMeTemplate](https://github.com/roshanlam/ReadMeTemplate) - Done with your project but having a hard time writing a ReadMe? Check This Repo I created. If you like it then use it
+- [ReadMeTemplate](https://github.com/roshanlam/ReadMeTemplate) - Done with your project but having a hard time writing a ReadMe? Check Out This Repo I created. If you like it then use it
 - [awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
 - [browser-2020](https://github.com/luruke/browser-2020) - Things you can do with a browser in 2020 ☕️
 - [Resources-for-Beginner-Bug-Bounty-Hunters](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters) - A list of resources for those interested in getting started in bug bounties
@@ -6676,7 +6676,6 @@
 
 ## Perl 
 
-- [openfortivpn](https://github.com/adrienverge/openfortivpn) - Client for PPP+SSL VPN tunnel services
 - [repo-info](https://github.com/docker-library/repo-info) - Extended information (especially license and layer details) about the published Official Images
 - [FlameGraph](https://github.com/brendangregg/FlameGraph) - Stack trace visualizer
 - [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:
@@ -7448,7 +7447,7 @@
 - [ptr](https://github.com/facebookincubator/ptr) - Python Test Runner.
 - [pytest-play](https://github.com/pytest-dev/pytest-play) - pytest plugin that let you automate actions and assertions with test metrics reporting executing plain YAML files
 - [coord-conv-pytorch](https://github.com/Wizaron/coord-conv-pytorch) - An intriguing failing of convolutional neural networks and the CoordConv solution in PyTorch
-- [jupyter-book](https://github.com/ExecutableBookProject/jupyter-book) - Building interactive, publication-quality documents from Jupyter Notebooks
+- [jupyter-book](https://github.com/executablebooks/jupyter-book) - Building interactive, publication-quality documents from Jupyter Notebooks
 - [DL-Seq2Seq](https://github.com/GauravBh1010tt/DL-Seq2Seq) - Implementation of papers on Deep Seq2seq learning using Pytorch.
 - [pghoard](https://github.com/aiven/pghoard) - PostgreSQL backup and restore service
 - [subsync](https://github.com/smacke/subsync) - Automagically synchronize subtitles with video. 自动同步字幕与视频。
@@ -7740,7 +7739,7 @@
 - [texar](https://github.com/asyml/texar) - Toolkit for Machine Learning, Natural Language Processing, and Text Generation, in TensorFlow
 - [trio-asyncio](https://github.com/python-trio/trio-asyncio) - a re-implementation of the asyncio mainloop on top of Trio
 - [terrapyn](https://github.com/kennethreitz-archive/terrapyn) - A Python module for slinging infrastructure (with terraform).
-- [datasets](https://github.com/tensorflow/datasets) - TFDS is a collection of datasets ready to use with TensorFlow
+- [datasets](https://github.com/tensorflow/datasets) - TFDS is a collection of datasets ready to use with TensorFlow, Jax, ...
 - [beauty-net](https://github.com/cmsflash/beauty-net) - A simple, flexible, and extensible template for PyTorch. It's beautiful.
 - [petastorm](https://github.com/uber/petastorm) - Petastorm library enables single machine or distributed training and evaluation of deep learning models from datasets in Apache Parquet format. It supports ML frameworks such as Tensorflow, Pytorch, and PySpark and can be used from pure Python code.
 - [rhea](https://github.com/polyaxon/rhea) - Efficient environment variables management and typing for python.
@@ -12890,6 +12889,7 @@
 - [vue-golden-layout](https://github.com/emedware/vue-golden-layout) - Golden layout integration in vue
 - [whalebird-desktop](https://github.com/h3poteto/whalebird-desktop) - An Electron based Mastodon and Pleroma client for Windows, Mac and Linux
 - [polar-bookshelf](https://github.com/burtonator/polar-bookshelf) - Polar is a personal knowledge repository for PDF and web content supporting incremental reading and document annotation.
+- [js-lingui](https://github.com/lingui/js-lingui) - 🌍📖 A readable, automated, and optimized (5 kb) internationalization for JavaScript
 - [the-platform](https://github.com/jaredpalmer/the-platform) - Web. Components. 😂
 - [got](https://github.com/sindresorhus/got) - 🌐 Human-friendly and powerful HTTP request library for Node.js
 - [pts](https://github.com/williamngan/pts) - A library for visualization and creative-coding
