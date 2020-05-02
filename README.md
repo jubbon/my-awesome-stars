@@ -453,7 +453,6 @@
 - [DRL_based_SelfDrivingCarControl](https://github.com/MLJejuCamp2017/DRL_based_SelfDrivingCarControl) - Deep Reinforcement Learning (DQN) based Self Driving Car Control with Vehicle Simulator
 - [UnityWorker](https://github.com/OpenMined/UnityWorker) - DEPRECATED
 - [blockchain](https://github.com/dvf/blockchain) - A simple Blockchain in Python
-- [ml-agents](https://github.com/Unity-Technologies/ml-agents) - Unity Machine Learning Agents Toolkit
 - [sqlnotebook](https://github.com/electroly/sqlnotebook) - Tabular data exploration and manipulation tool powered by SQLite.
 - [TensorFlowSharp](https://github.com/migueldeicaza/TensorFlowSharp) - TensorFlow API for .NET languages
 - [electrino](https://github.com/pojala/electrino) - Desktop runtime for apps built on web technologies, using the system's own web browser engine
@@ -469,6 +468,7 @@
 
 ## C++ 
 
+- [TurboTransformers](https://github.com/Tencent/TurboTransformers) - a fast and user-friendly tool for transformer inference on CPU and GPU
 - [mindspore](https://github.com/mindspore-ai/mindspore) - MindSpore is a new open source deep learning training/inference framework that could be used for mobile, edge and cloud scenarios.
 - [TRTorch](https://github.com/NVIDIA/TRTorch) - Ahead-of-time compilation of TorchScript / PyTorch JIT for NVIDIA GPUs
 - [benchmark](https://github.com/google/benchmark) - A microbenchmark support library
@@ -815,7 +815,7 @@
 - [guetzli](https://github.com/google/guetzli) - Perceptual JPEG encoder
 - [draco](https://github.com/google/draco) - Draco is a library for compressing and decompressing 3D geometric meshes and point clouds. It is intended to improve the storage and transmission of 3D graphics.
 - [mshadow](https://github.com/dmlc/mshadow) - Matrix Shadow:Lightweight CPU/GPU Matrix and Tensor  Template Library in C++/CUDA for (Deep) Machine Learning
-- [TorchCraft](https://github.com/facebookarchive/TorchCraft) - Connecting Torch to StarCraft
+- [TorchCraft](https://github.com/TorchCraft/TorchCraft) - Connecting Torch to StarCraft
 - [pWord2Vec](https://github.com/IntelLabs/pWord2Vec) - Parallelizing word2vec in shared and distributed memory
 - [beringei](https://github.com/facebookarchive/beringei) - Beringei is a high performance, in-memory storage engine for time series data.
 - [zurl](https://github.com/fanout/zurl) - HTTP and WebSocket client worker with ZeroMQ interface
@@ -2194,6 +2194,9 @@
 
 ## HTML 
 
+- [AttackVectors](https://github.com/MassMove/AttackVectors) - A repository to monitor attack vectors from state-backed information operations
+- [ASVS](https://github.com/OWASP/ASVS) - Application Security Verification Standard
+- [Introduction-to-Web-Development](https://github.com/WebDevSimplified/Introduction-to-Web-Development) - 
 - [CNN-Architectures](https://github.com/Machine-Learning-Tokyo/CNN-Architectures) - 
 - [docsy](https://github.com/google/docsy) - A set of Hugo doc templates for launching open source content.
 - [node-ytdl-core](https://github.com/fent/node-ytdl-core) - YouTube video downloader in javascript.
@@ -2309,7 +2312,7 @@
 - [frontend-tech-list](https://github.com/alienzhou/frontend-tech-list) - 📝 Frontend Tech List for Developers 💡
 - [deep-rules](https://github.com/Benjamin-Lee/deep-rules) - Ten Quick Tips for Deep Learning in Biology
 - [programming-principles](https://github.com/webpro/programming-principles) - Categorized overview of Programming Principles & Patterns
-- [change-password-url](https://github.com/WICG/change-password-url) - 
+- [change-password-url](https://github.com/WICG/change-password-url) - A Well-Known URL for Changing Passwords
 - [quicklink](https://github.com/GoogleChromeLabs/quicklink) - ⚡️Faster subsequent page-loads by prefetching in-viewport links during idle time
 - [excalibur](https://github.com/camelot-dev/excalibur) - A web interface to extract tabular data from PDFs
 - [http2priorities](https://github.com/pmeenan/http2priorities) - Test Page for HTTP/2 prioritization (server and browser)
@@ -2900,7 +2903,7 @@
 - [ai-lab](https://github.com/tlkh/ai-lab) - All-in-one AI container for rapid prototyping
 - [react-redux-realworld-example-app](https://github.com/gothinkster/react-redux-realworld-example-app) - Exemplary real world application built with React + Redux
 - [coreui-free-react-admin-template](https://github.com/coreui/coreui-free-react-admin-template) - CoreUI React is free React admin template based on Bootstrap 4
-- [pipedream](https://github.com/PipedreamHQ/pipedream) - A platform for running hosted, backend components.  Free for developers.
+- [pipedream](https://github.com/PipedreamHQ/pipedream) - A platform for running hosted, backend Node.js components.  Free for developers.
 - [1920-s2](https://github.com/nus-cs2030/1920-s2) - The website of CS2030, 19/20 Sem 2.
 - [pino](https://github.com/pinojs/pino) - 🌲 super fast, all natural json logger 🌲
 - [30DaysOfJavaScript](https://github.com/Asabeneh/30DaysOfJavaScript) - 30 days of JavaScript programming challenge is a sep by step guide to learn JavaScript programming language in 30 days
@@ -3916,7 +3919,7 @@
 - [FlappyLearning](https://github.com/xviniette/FlappyLearning) - Program learning to play Flappy Bird by machine learning (Neuroevolution)
 - [RTCMultiConnection](https://github.com/muaz-khan/RTCMultiConnection) - RTCMultiConnection is a WebRTC JavaScript library for peer-to-peer applications (screen sharing, audio/video conferencing, file sharing, media streaming etc.)
 - [peerjs-audio-chat](https://github.com/nwah/peerjs-audio-chat) - WebRTC / PeerJS audio chat demo
-- [drawio](https://github.com/jgraph/drawio) - Source to www.draw.io
+- [drawio](https://github.com/jgraph/drawio) - Source to app.diagrams.net
 - [js](https://github.com/turbo/js) - turbo.js - perform massive parallel computations in your browser with GPGPU.
 - [modestmaps-js](https://github.com/stamen/modestmaps-js) - Modest Maps javascript port
 - [keen-dataviz.js](https://github.com/keen/keen-dataviz.js) - Data Visualization Charting Library
@@ -4444,6 +4447,8 @@
 
 ## Jupyter Notebook 
 
+- [30-Days-of-Python](https://github.com/codingforentrepreneurs/30-Days-of-Python) - A New Version of 30 Days of Python is nearly here. Get started today.
+- [tutorials](https://github.com/krittikaiitb/tutorials) - Set of Jupyter Notebooks, along with datafiles, to get started with Scientific Computing in Astronomy
 - [DQN-Atari-Agents](https://github.com/BY571/DQN-Atari-Agents) - DQN-Atari-Agents:   Modularized PyTorch implementation of several DQN Agents, i.a. DDQN, Dueling DQN, Noisy DQN, C51, Rainbow and DRQN
 - [deltapy](https://github.com/firmai/deltapy) - DeltaPy - Tabular Data Augmentation
 - [nerf](https://github.com/bmild/nerf) - Code release for NeRF (Neural Radiance Fields)
@@ -4604,7 +4609,7 @@
 - [KDD-2019-Hands-on](https://github.com/dglai/KDD-2019-Hands-on) - DGL tutorial in KDD 2019
 - [UTS_ML2019_Main](https://github.com/junjy007/UTS_ML2019_Main) - Learning Materials for "Machine Learning" @ UTS, Spring 2019
 - [adventures-in-ml-code](https://github.com/adventuresinML/adventures-in-ml-code) - This repository holds all the code for the site http://www.adventuresinmachinelearning.com
-- [nlp-in-practice](https://github.com/kavgan/nlp-in-practice) - Starter code to solve real world text data problems. Includes: Gensim Word2Vec, phrase embeddings, keyword extraction with TFIDF,  Text Classification with Logistic Regression, word count with pyspark, simple text preprocessing, pre-trained embeddings and more.
+- [nlp-in-practice](https://github.com/kavgan/nlp-in-practice) - Starter code to solve real world text data problems. Includes: Gensim Word2Vec, phrase embeddings, Text Classification with Logistic Regression, word count with pyspark, simple text preprocessing, pre-trained embeddings and more.
 - [GDL_code](https://github.com/davidADSP/GDL_code) - The official code repository for examples in the O'Reilly book 'Generative Deep Learning'
 - [d2l-pytorch](https://github.com/dsgiitr/d2l-pytorch) - This project reproduces the book Dive Into Deep Learning (www.d2l.ai), adapting the code from MXNet into PyTorch.
 - [bamboolib](https://github.com/tkrabel/bamboolib) - bamboolib - the Fastest and Easiest Way to Work with pandas DataFrames
@@ -4828,7 +4833,6 @@
 - [Slides-SciPyConf-2018](https://github.com/deniederhut/Slides-SciPyConf-2018) - A repository for public storage of slides given at the 17th Python in Science Conferences (2018)
 - [ML_Learning_In_Action](https://github.com/matrixgardener/ML_Learning_In_Action) - ML study process record
 - [pytorch-Deep-Learning](https://github.com/Atcold/pytorch-Deep-Learning) - Deep Learning (with PyTorch)
-- [AutoEq](https://github.com/jaakkopasanen/AutoEq) - Automatic headphone equalization from frequency responses
 - [tutorials](https://github.com/onnx/tutorials) - Tutorials for creating and using ONNX models
 - [Deep-Learning](https://github.com/priya-dwivedi/Deep-Learning) - 
 - [FIFA-World-Cup-Prediction](https://github.com/mrthlinh/FIFA-World-Cup-Prediction) - Predict who will win the FIFA World Cup 2018
@@ -5719,6 +5723,7 @@
 
 ## Others 
 
+- [task-specific-datasets](https://github.com/PolyAI-LDN/task-specific-datasets) - A collection of task-specific NLU datasets
 - [awesome-git-addons](https://github.com/stevemao/awesome-git-addons) - :sunglasses: A curated list of add-ons that extend/enhance the git CLI.
 - [EffectivePyTorch](https://github.com/vahidk/EffectivePyTorch) - PyTorch tutorials and best practices.
 - [awesome-maps](https://github.com/simsieg/awesome-maps) - "There is more than google": 🗺A collection of great online maps
@@ -6727,6 +6732,20 @@
 
 ## Python 
 
+- [deal](https://github.com/life4/deal) - Design by contract for Python with many validators support.
+- [jukebox](https://github.com/openai/jukebox) - Code for "Jukebox: A Generative Model for Music"
+- [pytorch-YOLOv4](https://github.com/Tianxiaomo/pytorch-YOLOv4) - Minimal PyTorch implementation of YOLOv4
+- [extract-news-api](https://github.com/kotartemiy/extract-news-api) - Flask code to deploy an API that pulls structured data from online news articles
+- [polyai-models](https://github.com/PolyAI-LDN/polyai-models) - Neural Models for Conversational AI
+- [conversational-datasets](https://github.com/PolyAI-LDN/conversational-datasets) - Large datasets for conversational AI
+- [slovnet](https://github.com/natasha/slovnet) - Deep Learning based NLP modeling for Russian language
+- [HRNet-Semantic-Segmentation](https://github.com/HRNet/HRNet-Semantic-Segmentation) - This is an official implementation of semantic segmentation for our TPAMI paper "Deep High-Resolution Representation Learning for Visual Recognition". https://arxiv.org/abs/1908.07919
+- [apex](https://github.com/NVIDIA/apex) - A PyTorch Extension:  Tools for easy mixed precision and distributed training in Pytorch
+- [mplfinance](https://github.com/matplotlib/mplfinance) - New mplfinance package (to replace mpl-finance by mid 2020).
+- [volatility](https://github.com/volatilityfoundation/volatility) - An advanced memory forensics framework
+- [springer_free_books](https://github.com/alexgand/springer_free_books) - Python script to download all Springer books released for free during the 2020 COVID-19 quarantine
+- [data-scientist-roadmap](https://github.com/MrMimic/data-scientist-roadmap) - Toturial coming with "data science roadmap" graphe.
+- [ALAE](https://github.com/podgorskiy/ALAE) - [CVPR2020] Adversarial Latent Autoencoders
 - [razdel](https://github.com/natasha/razdel) - Rule-based tokenizer, sentenizer for russian language
 - [yargy](https://github.com/natasha/yargy) - Rule-based facts extraction for Russian language
 - [symspellpy](https://github.com/mammothb/symspellpy) - Python port of SymSpell
@@ -7902,6 +7921,7 @@
 - [autokeras](https://github.com/keras-team/autokeras) - An AutoML system based on Keras
 - [cnn-graph-classification](https://github.com/giannisnik/cnn-graph-classification) - A convolutional neural network for graph classification in PyTorch
 - [pythia](https://github.com/facebookresearch/pythia) - A modular framework for vision & language multimodal research from Facebook AI Research (FAIR)
+- [AutoEq](https://github.com/jaakkopasanen/AutoEq) - Automatic headphone equalization from frequency responses
 - [GANimation](https://github.com/albertpumarola/GANimation) - GANimation: Anatomically-aware Facial Animation from a Single Image (ECCV'18 Oral) [PyTorch]
 - [IBN-Net](https://github.com/XingangPan/IBN-Net) - Instance-Batch Normalization Networks (ECCV2018)
 - [finetune](https://github.com/IndicoDataSolutions/finetune) - Scikit-learn style model finetuning for NLP
@@ -8658,6 +8678,7 @@
 - [gaps](https://github.com/nemanja-m/gaps) - A Genetic Algorithm-Based Solver for Jigsaw Puzzles :cyclone:
 - [fairseq](https://github.com/pytorch/fairseq) - Facebook AI Research Sequence-to-Sequence Toolkit written in Python.
 - [weibospider](https://github.com/SpiderClub/weibospider) - :zap: A distributed crawler for weibo, building with celery and requests.
+- [ml-agents](https://github.com/Unity-Technologies/ml-agents) - Unity Machine Learning Agents Toolkit
 - [onnx-caffe2](https://github.com/onnx/onnx-caffe2) - Caffe2 implementation of Open Neural Network Exchange (ONNX)
 - [fa2l](https://github.com/bosiakov/fa2l) - Force Atlas 2 graph layout
 - [studio](https://github.com/studioml/studio) - Studio: Simplify and expedite model building process
@@ -8814,7 +8835,7 @@
 - [lip-reading-deeplearning](https://github.com/astorfi/lip-reading-deeplearning) - :unlock: Lip Reading - Cross Audio-Visual Recognition using 3D Architectures
 - [anyprint](https://github.com/kragniz/anyprint) - Use any* language's print statements in Python
 - [pywinauto](https://github.com/pywinauto/pywinauto) - Windows GUI Automation with Python (based on text properties)
-- [blockcheck](https://github.com/ValdikSS/blockcheck) - Russian ISP blocking type checker
+- [blockcheck](https://github.com/ValdikSS/blockcheck) - Russian ISP blocking type checker NOTE: NOT WORKING CURRENTLY. ВНИМАНИЕ: НЕ РАБОТАЕТ НА ТЕКУЩИЙ МОМЕНТ
 - [Python](https://github.com/geekcomputers/Python) - My Python Examples
 - [foolbox](https://github.com/bethgelab/foolbox) - A Python toolbox to create adversarial examples that fool neural networks in PyTorch, TensorFlow, and JAX
 - [python-idb](https://github.com/williballenthin/python-idb) - Pure Python parser and analyzer for IDA Pro database files (.idb).
@@ -12581,6 +12602,7 @@
 
 ## Shell 
 
+- [monorepoize](https://github.com/gigamonkey/monorepoize) - Bash scripts for creating a monorepo out of smaller repos.
 - [learn_gnuawk](https://github.com/learnbyexample/learn_gnuawk) - Example based guide to mastering GNU awk
 - [bashtop](https://github.com/aristocratos/bashtop) - Linux resource monitor
 - [Arch-Data-Science](https://github.com/mratsim/Arch-Data-Science) - Archlinux PKGBUILDs for Data Science, Machine Learning, Deep Learning, NLP and Computer Vision
@@ -12820,7 +12842,7 @@
 - [gistpad](https://github.com/vsls-contrib/gistpad) - VS Code extension for managing and sharing code snippets, notes and interactive samples using GitHub Gists
 - [tfjs-models](https://github.com/tensorflow/tfjs-models) - Pretrained models for TensorFlow.js
 - [tsdx](https://github.com/jaredpalmer/tsdx) - Zero-config CLI for TypeScript package development
-- [vue-next](https://github.com/vuejs/vue-next) - The next major version of Vue (WIP)
+- [vue-next](https://github.com/vuejs/vue-next) - Repo for Vue 3.0 (currently in beta)
 - [streamlit](https://github.com/streamlit/streamlit) - Streamlit — The fastest way to build custom ML tools
 - [typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
 - [apollo-server](https://github.com/apollographql/apollo-server) - 🌍 GraphQL server for Express, Connect, Hapi, Koa and more
