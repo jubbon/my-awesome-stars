@@ -161,7 +161,7 @@
 - [librdkafka](https://github.com/edenhill/librdkafka) - The Apache Kafka C/C++ library
 - [gcc](https://github.com/gcc-mirror/gcc) - 
 - [dsvpn](https://github.com/jedisct1/dsvpn) - A Dead Simple VPN.
-- [quickjs](https://github.com/horhof/quickjs) - Unpacked tarball of Fabrice Bellard's QuickJS
+- [quickjs](https://github.com/horhof/quickjs) - Unpacked tarball of Fabrice Bellard's QuickJS Javascript engine
 - [TDengine](https://github.com/taosdata/TDengine) - An open-source big data platform designed and optimized for the Internet of Things (IoT).
 - [core](https://github.com/metacall/core) - A library for providing inter-language foreign function interface calls.
 - [blurhash](https://github.com/woltapp/blurhash) - A very compact representation of a placeholder for an image.
@@ -384,7 +384,7 @@
 - [vis](https://github.com/martanne/vis) - A vi-like editor based on Plan 9's structural regular expressions
 - [quick2wire-gpio-admin](https://github.com/quick2wire/quick2wire-gpio-admin) - Use the GPIO pins on the Raspberry Pi without running as root
 - [BMW-OpenSource](https://github.com/edent/BMW-OpenSource) - All the Open Source Software provided by BMW for their i3
-- [citus](https://github.com/citusdata/citus) - Scalable PostgreSQL for multi-tenant and real-time analytics workloads
+- [citus](https://github.com/citusdata/citus) - Distributed PostgreSQL extension for multi-tenant and real-time analytics workloads
 - [Collections-C](https://github.com/srdja/Collections-C) - A library of generic data structures.
 - [NyuziProcessor](https://github.com/jbush001/NyuziProcessor) - GPGPU microprocessor architecture
 - [netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud
@@ -1078,6 +1078,7 @@
 - [You-need-to-know-css](https://github.com/l-hammer/You-need-to-know-css) - 💄CSS tricks for web developers~
 - [OptimizedHTML-4](https://github.com/agragregra/OptimizedHTML-4) - OptimizedHTML 4: Startup HTML template based on Gulp & Bootstrap 4
 - [qualy-presenter](https://github.com/Qualy-org/qualy-presenter) - A boilerplate to create presentations using Reveal.JS, Gulp, Stylus and more.
+- [30-seconds-of-css](https://github.com/30-seconds/30-seconds-of-css) - Short CSS code snippets for all your development needs
 - [Fork-Awesome](https://github.com/ForkAwesome/Fork-Awesome) - A fork of the iconic font and CSS toolkit
 - [serverboards](https://github.com/serverboards/serverboards) - Serverboards is a microservices based service monitoring, alerting and management system.
 - [CSS-Keylogging](https://github.com/maxchehab/CSS-Keylogging) - Chrome extension and Express server that exploits keylogging abilities of CSS.
@@ -1966,7 +1967,6 @@
 - [terraboard](https://github.com/camptocamp/terraboard) - :earth_africa: :clipboard:  A web dashboard to inspect Terraform States
 - [atlantis](https://github.com/hootsuite/atlantis) - Atlantis is now being maintained at https://github.com/runatlantis/atlantis
 - [sonobuoy](https://github.com/vmware-tanzu/sonobuoy) - Sonobuoy is a diagnostic tool that makes it easier to understand the state of a Kubernetes cluster by running a set of Kubernetes conformance tests and other plugins in an accessible and non-destructive manner.
-- [Sparta](https://github.com/mweagle/Sparta) - go microservices, powered by AWS Lambda
 - [etcdhcp](https://github.com/lclarkmichalek/etcdhcp) - A DHCP server backed by etcd
 - [kubicorn](https://github.com/kubicorn/kubicorn) - Simple, cloud native infrastructure for Kubernetes.
 - [2017-talks](https://github.com/gophercon/2017-talks) - Slides and links for 2017 talks
@@ -2482,6 +2482,7 @@
 - [security-txt](https://github.com/securitytxt/security-txt) - A proposed standard that allows websites to define security policies.
 - [ai-deadlines](https://github.com/abhshkdz/ai-deadlines) - :alarm_clock: AI conference deadline countdowns
 - [samples](https://github.com/GoogleChrome/samples) - A repo containing samples tied to new functionality in each release of Google Chrome.
+- [Sparta](https://github.com/mweagle/Sparta) - go microservices, powered by AWS Lambda
 - [RoutePlanner](https://github.com/Kasheftin/RoutePlanner) - Simple free and open source tool for planning routes
 - [viz-pub](https://github.com/halhen/viz-pub) - A place to publish data-vizes
 - [documentation](https://github.com/codeship/documentation) - Documentation for Codeship CI & CD service
@@ -6114,7 +6115,6 @@
 - [awesome-project-ideas](https://github.com/NirantK/awesome-project-ideas) - Curated list of Machine Learning, NLP, Vision, Recommender Systems Project Ideas
 - [frontend-case-studies](https://github.com/andrew--r/frontend-case-studies) - 💼 A curated list of technical talks and articles about real world enterprise frontend development
 - [gopher-reading-list](https://github.com/enocom/gopher-reading-list) - A curated selection of blog posts on Go
-- [30-seconds-of-css](https://github.com/30-seconds/30-seconds-of-css) - Short CSS code snippets for all your development needs
 - [awesome-self-driving-cars](https://github.com/philbort/awesome-self-driving-cars) - An awesome list of self-driving cars
 - [tensorflow-tutorial](https://github.com/wagamamaz/tensorflow-tutorial) - TensorFlow and Deep Learning Tutorials
 - [how-products-got-their-name](https://github.com/amitmerchant1990/how-products-got-their-name) - Collection of products/projects and the stories of how they got their name
@@ -6746,7 +6746,7 @@
 - [springer_free_books](https://github.com/alexgand/springer_free_books) - Python script to download all Springer books released for free during the 2020 COVID-19 quarantine
 - [data-scientist-roadmap](https://github.com/MrMimic/data-scientist-roadmap) - Toturial coming with "data science roadmap" graphe.
 - [ALAE](https://github.com/podgorskiy/ALAE) - [CVPR2020] Adversarial Latent Autoencoders
-- [razdel](https://github.com/natasha/razdel) - Rule-based tokenizer, sentenizer for russian language
+- [razdel](https://github.com/natasha/razdel) - Rule-based token, sentence segmentation for Russian language
 - [yargy](https://github.com/natasha/yargy) - Rule-based facts extraction for Russian language
 - [symspellpy](https://github.com/mammothb/symspellpy) - Python port of SymSpell
 - [PCDet](https://github.com/sshaoshuai/PCDet) - PCDet Toolbox in PyTorch for 3D Object Detection from Point Cloud
@@ -6897,7 +6897,7 @@
 - [RIMs](https://github.com/anirudh9119/RIMs) - Code for "Recurrent Independent Mechanisms"
 - [PathCon](https://github.com/hwwang55/PathCon) - Combining relational context and relational paths for knowledge graph completion
 - [self-adaptive-training](https://github.com/LayneH/self-adaptive-training) - Official implementation of the paper 'Self-Adaptive Training: beyond Empirical Risk Minimization'
-- [FreezeD](https://github.com/sangwoomo/FreezeD) - Freeze the Discriminator: a Simple Baseline for Fine-Tuning GANs (arXiv 2020)
+- [FreezeD](https://github.com/sangwoomo/FreezeD) - Freeze the Discriminator: a Simple Baseline for Fine-Tuning GANs (CVPRW 2020)
 - [centermask2](https://github.com/youngwanLEE/centermask2) - CenterMask2 on top of detectron2, in CVPR 2020
 - [CenterNet-better](https://github.com/FateScript/CenterNet-better) - An easy to understand and better performance version of CenterNet
 - [apex](https://github.com/osudrl/apex) - A continuous deep reinforcement learning framework for robotics
@@ -13029,7 +13029,7 @@
 - [stanza](https://github.com/legastero/stanza) - Modern XMPP, with a JSON API
 - [code-gov-web](https://github.com/GSA/code-gov-web) - DEPRECATED 🛑- Federal Source Code policy implementation.
 - [SIP.js](https://github.com/onsip/SIP.js) - A simple, intuitive, and powerful JavaScript signaling library
-- [peerjs](https://github.com/peers/peerjs) - Peer-to-peer data in the browser.
+- [peerjs](https://github.com/peers/peerjs) - Simple peer-to-peer with WebRTC
 - [ayu](https://github.com/dempfi/ayu) - 🎨🖌 Modern Sublime Text theme
 - [snabbdom](https://github.com/snabbdom/snabbdom) - A virtual DOM library with focus on simplicity, modularity, powerful features and performance.
 - [redux](https://github.com/reduxjs/redux) - Predictable state container for JavaScript apps
