@@ -554,7 +554,7 @@
 - [YouTokenToMe](https://github.com/VKCOM/YouTokenToMe) - Unsupervised text tokenizer focused on computational efficiency
 - [griddb_nosql](https://github.com/griddb/griddb_nosql) - high performance, high scalability and high reliability database for IoT & big data
 - [triton-inference-server](https://github.com/NVIDIA/triton-inference-server) - The Triton Inference Server provides a cloud inferencing solution optimized for NVIDIA GPUs.
-- [taichi](https://github.com/taichi-dev/taichi) - Productive programming language for portable, high-performance, sparse & differentiable computing
+- [taichi](https://github.com/taichi-dev/taichi) - Productive & portable programming language for high-performance, sparse & differentiable computing
 - [FICM](https://github.com/hellochick/FICM) - :video_game: [IJCAI'20][ICLR'19 Workshop] Flow-based Intrinsic Curiosity Module. Playing SuperMario with RL agent and FICM!
 - [cpp-cheat-sheet](https://github.com/gibsjose/cpp-cheat-sheet) - C++ Syntax, Data Structures, and Algorithms Cheat Sheet
 - [earthenterprise](https://github.com/google/earthenterprise) - Google Earth Enterprise - Open Source
@@ -710,7 +710,7 @@
 - [sling](https://github.com/google/sling) - SLING - A natural language frame semantics parser
 - [Tars](https://github.com/TarsCloud/Tars) - Tars is a high-performance RPC framework based on name service and Tars protocol, also integrated administration platform, and implemented hosting-service via flexible schedule.
 - [taco](https://github.com/tensor-compiler/taco) - The Tensor Algebra Compiler (taco) computes sparse tensor expressions on CPUs and GPUs
-- [TileDB](https://github.com/TileDB-Inc/TileDB) - The Fastest Array Storage Engine
+- [TileDB](https://github.com/TileDB-Inc/TileDB) - The Storage Engine for Data Science
 - [leela-zero](https://github.com/leela-zero/leela-zero) - Go engine with no human-provided knowledge, modeled after the AlphaGo Zero paper.
 - [Beginning-Cpp-Game-Programming](https://github.com/PacktPublishing/Beginning-Cpp-Game-Programming) - 
 - [pegasus](https://github.com/XiaoMi/pegasus) - A distributed key-value storage system developed and maintained by Xiaomi Cloud Storage Team.
@@ -2277,7 +2277,6 @@
 - [devops-essentials-sample-app](https://github.com/linuxacademy/devops-essentials-sample-app) - 
 - [ctf-wiki](https://github.com/ctf-wiki/ctf-wiki) - CTF Wiki Online. Come and join us, we need you!
 - [openweb](https://github.com/good/openweb) - 
-- [0.30000000000000004](https://github.com/erikwiffin/0.30000000000000004) - Floating Point Math Examples
 - [javascript-cheatsheet](https://github.com/wilfredinni/javascript-cheatsheet) - Basic Javascript Cheat Sheet
 - [ru.javascript.info](https://github.com/javascript-tutorial/ru.javascript.info) - Современный учебник JavaScript
 - [vue-particle-effect-buttons](https://github.com/dreambo8563/vue-particle-effect-buttons) - A bursting particles effects buttons component ✨💥❄️🌋
@@ -3878,7 +3877,7 @@
 - [creative-portfolios](https://github.com/iRaul/creative-portfolios) - 🌀A curated list of Creative Portfolios
 - [cerebro](https://github.com/KELiON/cerebro) - Open-source productivity booster with a brain
 - [home-automation](https://github.com/deepsyx/home-automation) - Raspberry Pi 3 based home automation with NodeJS and React Native.
-- [ava](https://github.com/avajs/ava) - 🚀 JavaScript test runner
+- [ava](https://github.com/avajs/ava) - Node.js test runner that lets you develop with confidence 🚀
 - [mathsteps](https://github.com/socraticorg/mathsteps) - Step by step math solutions for everyone
 - [ggraph](https://github.com/pcbje/ggraph) - Graph visualization of big messy data
 - [HoloJS](https://github.com/microsoft/HoloJS) - Provides a framework for creating holographic apps using JavaScript and WebGL.
@@ -5724,6 +5723,7 @@
 
 ## Others 
 
+- [word2vec-GoogleNews-vectors](https://github.com/mmihaltz/word2vec-GoogleNews-vectors) - word2vec Google News model
 - [task-specific-datasets](https://github.com/PolyAI-LDN/task-specific-datasets) - A collection of task-specific NLU datasets
 - [awesome-git-addons](https://github.com/stevemao/awesome-git-addons) - :sunglasses: A curated list of add-ons that extend/enhance the git CLI.
 - [EffectivePyTorch](https://github.com/vahidk/EffectivePyTorch) - PyTorch tutorials and best practices.
@@ -6820,7 +6820,7 @@
 - [R-Net](https://github.com/HKUST-KnowComp/R-Net) - Tensorflow Implementation of R-Net
 - [QANet](https://github.com/NLPLearn/QANet) - A Tensorflow implementation of QANet for machine reading comprehension
 - [geemap](https://github.com/giswqs/geemap) - A Python package for interactive mapping with Google Earth Engine, ipyleaflet, and ipywidgets
-- [Practical-Ethical-Hacking-Resources](https://github.com/Gr1mmie/Practical-Ethical-Hacking-Resources) - Compilation of Resources from TCM's Udemy Course
+- [Practical-Ethical-Hacking-Resources](https://github.com/Gr1mmie/Practical-Ethical-Hacking-Resources) - Compilation of Resources from TCM's Practical Ethical Hacking Udemy Course
 - [SSV](https://github.com/NVlabs/SSV) - Pytorch implementation of SSV: Self-Supervised Viewpoint Learning from Image Collections (CVPR 2020)
 - [alimama-common-performance-platform-acp](https://github.com/alibaba/alimama-common-performance-platform-acp) - common-performance platform&tools(acp)   c++/python.  分布式性能测试工具
 - [simclr](https://github.com/google-research/simclr) - SimCLR - A Simple Framework for Contrastive Learning of Visual Representations
@@ -7120,7 +7120,7 @@
 - [DeepCTR](https://github.com/shenweichen/DeepCTR) - Easy-to-use,Modular and Extendible package of deep-learning based CTR models.
 - [SinGAN](https://github.com/tamarott/SinGAN) - Official pytorch implementation of the paper: "SinGAN: Learning a Generative Model from a Single Natural Image"
 - [gpt-2-output-dataset](https://github.com/openai/gpt-2-output-dataset) - Dataset of GPT-2 outputs for research in detection, biases, and more
-- [open_stt](https://github.com/snakers4/open_stt) - Russian open STT dataset
+- [open_stt](https://github.com/snakers4/open_stt) - Open STT
 - [pymot](https://github.com/Videmo/pymot) - Objective evaluation of tracker performance with the Multiple Object Tracking (MOT) measures.
 - [Catalyst-CamVid-Segmentation-Example](https://github.com/BloodAxe/Catalyst-CamVid-Segmentation-Example) - Example of semantic segmentation for CamVid dataset
 - [Catalyst-Inria-Segmentation-Example](https://github.com/BloodAxe/Catalyst-Inria-Segmentation-Example) - An example project showing the power of Catalyst for training segmentation model for Inria Sattelite Segmentation Challenge
@@ -7230,7 +7230,7 @@
 - [retro-gtfs](https://github.com/SAUSy-Lab/retro-gtfs) - Collect real-time transit data and process it into a retroactive GTFS 'schedule' which can be used for routing/analysis
 - [netmiko](https://github.com/ktbyers/netmiko) - Multi-vendor library to simplify Paramiko SSH connections to network devices
 - [nlp](https://github.com/makcedward/nlp) - :memo: This repository recorded my NLP journey.
-- [WiFiBroot](https://github.com/hash3liZer/WiFiBroot) - A WiFi Pentest Cracking tool for WPA/WPA2 (Handshake, PMKID, Cracking, EAPOL, Deauthentication)
+- [WiFiBroot](https://github.com/hash3liZer/WiFiBroot) - A Wireless (WPA/WPA2) Pentest/Cracking tool. Captures & Crack 4-way handshake and PMKID key. Also, supports a deauthentication/jammer mode for stress testing
 - [handout](https://github.com/danijar/handout) - Turn Python scripts into handouts with Markdown and figures
 - [delta](https://github.com/didi/delta) - DELTA is a deep learning based natural language and speech processing platform.
 - [ptf](https://github.com/trustedsec/ptf) - The Penetration Testers Framework (PTF) is a way for modular support for up-to-date tools.
@@ -8927,7 +8927,7 @@
 - [Nodz](https://github.com/LeGoffLoic/Nodz) - Nodz : Visualize your data - Free nodes based graph generator.
 - [speedml](https://github.com/Speedml/speedml) - Speedml is a Python package to speed start machine learning projects.
 - [PyTree](https://github.com/PixelwarStudio/PyTree) - Package for generating and drawing (fractal)trees.
-- [squealy](https://github.com/hashedin/squealy) - Build readonly JSON APIs by writing SQL Queries
+- [squealy](https://github.com/hashedin/squealy) - Build Readonly JSON APIs from SQL Queries
 - [django-migrations-graph](https://github.com/dizballanze/django-migrations-graph) - Django-admin command to display migrations with dependencies.
 - [wscelery](https://github.com/johan-sports/wscelery) - Real time celery monitoring using websockets
 - [JSON-path](https://github.com/jabbalaci/JSON-path) - Find the path of a key / value in a JSON hierarchy easily.
@@ -9585,7 +9585,7 @@
 - [ck-tensorflow](https://github.com/ctuning/ck-tensorflow) - Collective Knowledge components for TensorFlow (code, data sets, models, packages, workflows):
 - [python-web-pdb](https://github.com/romanvm/python-web-pdb) - Web-based remote UI for Python's PDB debugger
 - [ck-autotuning](https://github.com/ctuning/ck-autotuning) - CK automation actions to let users implement portable, customizable and reusable program workflows for reproducible, collaborative and multi-objective benchmarking, optimization and SW/HW co-design:
-- [ck](https://github.com/ctuning/ck) - Collective Knowledge (CK) is an open-source SDK to decompose complex computational systems and research projects (AI, ML, quantum, IoT) into reusable components (code, data, models, results), automation actions and portable workflows. The goal is to enable collaborative and reproducible benchmarking, optimization and co-design of such systems:
+- [ck](https://github.com/ctuning/ck) - Collective Knowledge (CK) is a small SDK to convert ad-hoc research artifacts (code, data, models, results) into reusable components, automation actions and portable workflows with a unified CLI, Python API and JSON meta description:
 - [CommAI-env](https://github.com/facebookresearch/CommAI-env) - A platform for developing AI systems as described in A Roadmap towards Machine Intelligence - http://arxiv.org/abs/1511.08130
 - [deconvfaces](https://github.com/zo7/deconvfaces) - Generating faces with deconvolution networks
 - [whereami](https://github.com/kootenpv/whereami) - Uses WiFi signals :signal_strength: and machine learning to predict where you are
@@ -12472,6 +12472,7 @@
 - [air_hockey_quine](https://github.com/tompng/air_hockey_quine) - Network Battle Air Hockey Quine
 - [ciao](https://github.com/brotandgames/ciao) - HTTP checks & tests (private & public) monitoring - check the status of your URL
 - [endoflife.date](https://github.com/endoflife-date/endoflife.date) - Informative site with EoL dates of everything
+- [0.30000000000000004](https://github.com/erikwiffin/0.30000000000000004) - Floating Point Math Examples
 - [https-portal](https://github.com/SteveLTN/https-portal) - A fully automated HTTPS server powered by Nginx, Let's Encrypt and Docker.
 - [um](https://github.com/sinclairtarget/um) - Create and maintain your own man pages so you can remember how to do stuff
 - [dev.to](https://github.com/thepracticaldev/dev.to) - Where programmers share ideas and help each other grow
