@@ -5775,7 +5775,7 @@
 - [nlp-datasets](https://github.com/niderhoff/nlp-datasets) - Alphabetical list of free/public domain datasets with text data for use in Natural Language Processing (NLP)
 - [Awesome-Imitation-Learning](https://github.com/kristery/Awesome-Imitation-Learning) - A curated list of awesome imitation learning resources and publications
 - [AI_Curriculum](https://github.com/Machine-Learning-Tokyo/AI_Curriculum) - Open Deep Learning and Reinforcement Learning lectures from top Universities like Stanford, MIT, UC Berkeley.
-- [Book_List](https://github.com/mukesh104/Book_List) - Python, Machine Learning, Deep Learning and Data Science Books
+- [Book_List](https://github.com/mukeshmithrakumar/Book_List) - Python, Machine Learning, Deep Learning and Data Science Books
 - [notes](https://github.com/hunterloftis/notes) - Notes about things.
 - [MobileHackingCheatSheet](https://github.com/randorisec/MobileHackingCheatSheet) - Basics on commands/tools/info on how to assess the security of mobile applications
 - [awesome-database-learning](https://github.com/pingcap/awesome-database-learning) - A list of learning materials to understand databases internals
@@ -5859,6 +5859,7 @@
 - [starter-workflows](https://github.com/actions/starter-workflows) - Accelerating new GitHub Actions workflows
 - [Beginner-Network-Pentesting](https://github.com/hmaverickadams/Beginner-Network-Pentesting) - Notes for Beginner Network Pentesting Course
 - [DEPRECATED-patrol](https://github.com/mapbox/DEPRECATED-patrol) - DEPRECATED - An AWS Lambda powered monitoring framework for security, compliance, and best practices.
+- [learn-python3](https://github.com/michaelliao/learn-python3) - Learn Python 3 Sample Code
 - [community](https://github.com/tensorflow/community) - Stores documents used by the TensorFlow developer community
 - [slides](https://github.com/mlss-2019/slides) - 
 - [javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (April 2020)
@@ -6732,6 +6733,9 @@
 
 ## Python 
 
+- [hedwig](https://github.com/castorini/hedwig) - PyTorch deep learning models for document classification
+- [wikipedia2vec](https://github.com/wikipedia2vec/wikipedia2vec) - A tool for learning vector representations of words and entities from Wikipedia
+- [BPT](https://github.com/yzh119/BPT) - Source code of paper "BP-Transformer: Modelling Long-Range Context via Binary Partitioning"
 - [deal](https://github.com/life4/deal) - Design by contract for Python with many validators support.
 - [jukebox](https://github.com/openai/jukebox) - Code for "Jukebox: A Generative Model for Music"
 - [pytorch-YOLOv4](https://github.com/Tianxiaomo/pytorch-YOLOv4) - Minimal PyTorch implementation of YOLOv4
@@ -7219,7 +7223,6 @@
 - [phyre](https://github.com/facebookresearch/phyre) - PHYRE is a benchmark for physical reasoning.
 - [telegram-bot-framework](https://github.com/alvarogzp/telegram-bot-framework) - Python Telegram bot API framework
 - [DeblurGANv2](https://github.com/TAMU-VITA/DeblurGANv2) - [ICCV 2019] "DeblurGAN-v2: Deblurring (Orders-of-Magnitude) Faster and Better" by Orest Kupyn, Tetiana Martyniuk, Junru Wu, Zhangyang Wang
-- [learn-python3](https://github.com/michaelliao/learn-python3) - Learn Python 3 Sample Code
 - [pyforest](https://github.com/8080labs/pyforest) - pyforest - feel the bliss of automated imports
 - [instabot](https://github.com/instagrambot/instabot) - 🐙 Free Instagram scripts, bots and Python API wrapper. Get free instagram followers with our auto like, auto follow and other scripts!
 - [bsuite](https://github.com/deepmind/bsuite) - bsuite is a collection of carefully-designed experiments that investigate core capabilities of a reinforcement learning (RL) agent
@@ -8807,7 +8810,7 @@
 - [pyecharts](https://github.com/pyecharts/pyecharts) - 🎨 Python Echarts Plotting Library
 - [django-rest-easy](https://github.com/Telmediq/django-rest-easy) - django-rest-easy is an extension to DRF providing QOL improvements to serializers and views.
 - [Gemini](https://github.com/anfederico/Gemini) - Backtesting for sleepless cryptocurrency markets
-- [grip](https://github.com/joeyespo/grip) - Preview GitHub Markdown files like Readme locally before committing them.
+- [grip](https://github.com/joeyespo/grip) - Preview GitHub README.md files locally before committing them.
 - [funmath](https://github.com/mingrammer/funmath) - :umbrella: Implementations of mathematical functions, formulas and concepts
 - [conda-merge](https://github.com/amitbeka/conda-merge) - Tool to merge environment files of the conda package manager
 - [pythonic-automatic-email](https://github.com/astorfi/pythonic-automatic-email) - :e-mail: Automated Customized Emails Using Python
@@ -8878,7 +8881,7 @@
 - [SWAPY](https://github.com/pywinauto/SWAPY) - not maintained any more (will be replaced by py_inspect)
 - [ansible-selvpc-modules](https://github.com/selectel/ansible-selvpc-modules) - Ansible modules for Selectel VPC service
 - [orca](https://github.com/UDST/orca) - Pipeline orchestration tool with Pandas support
-- [urbansim](https://github.com/UDST/urbansim) - Python platform for modeling urban land use
+- [urbansim](https://github.com/UDST/urbansim) - Platform for building statistical models of cities and regions
 - [tacotron_asr](https://github.com/Kyubyong/tacotron_asr) - Speech Recognition Using Tacotron
 - [MLBox](https://github.com/AxeldeRomblay/MLBox) - MLBox is a powerful Automated Machine Learning python library.
 - [htmlBuilder](https://github.com/jaimevp54/htmlBuilder) - A beautiful html builder built with python.
@@ -9564,7 +9567,7 @@
 - [snorkel](https://github.com/snorkel-team/snorkel) - A system for quickly generating training data with weak supervision
 - [icnn](https://github.com/locuslab/icnn) - Input Convex Neural Networks
 - [frappe](https://github.com/frappe/frappe) - Low Code Open Source Framework in Python and JS
-- [natasha](https://github.com/natasha/natasha) - Rule-based named entity recognition library for russian language
+- [natasha](https://github.com/natasha/natasha) - Solves basic Russian NLP tasks, API for lower level Natasha projects
 - [fixnc](https://github.com/koldunovn/fixnc) - easy edit of netCDF files
 - [trestus](https://github.com/canonical-ols/trestus) - Static status page generator that uses a Trello board as a data source
 - [yellowbrick](https://github.com/DistrictDataLabs/yellowbrick) - Visual analysis and diagnostic tools to facilitate machine learning model selection.
@@ -9585,7 +9588,7 @@
 - [ck-tensorflow](https://github.com/ctuning/ck-tensorflow) - Collective Knowledge components for TensorFlow (code, data sets, models, packages, workflows):
 - [python-web-pdb](https://github.com/romanvm/python-web-pdb) - Web-based remote UI for Python's PDB debugger
 - [ck-autotuning](https://github.com/ctuning/ck-autotuning) - CK automation actions to let users implement portable, customizable and reusable program workflows for reproducible, collaborative and multi-objective benchmarking, optimization and SW/HW co-design:
-- [ck](https://github.com/ctuning/ck) - Collective Knowledge (CK) is a small SDK to convert ad-hoc research artifacts (code, data, models, results) into reusable components, automation actions and portable workflows with a unified CLI, Python API and JSON meta description:
+- [ck](https://github.com/ctuning/ck) - Collective Knowledge (CK) helps to convert ad-hoc research artifacts (code, data, models, results) into reusable components, automation actions and portable workflows with a unified CLI, Python API and JSON meta description. It provides a unified way to collaboratively benchmark, optimize and co-design emerging systems (AI, ML, quantum, IoT):
 - [CommAI-env](https://github.com/facebookresearch/CommAI-env) - A platform for developing AI systems as described in A Roadmap towards Machine Intelligence - http://arxiv.org/abs/1511.08130
 - [deconvfaces](https://github.com/zo7/deconvfaces) - Generating faces with deconvolution networks
 - [whereami](https://github.com/kootenpv/whereami) - Uses WiFi signals :signal_strength: and machine learning to predict where you are
