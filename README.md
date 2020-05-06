@@ -1088,7 +1088,7 @@
 - [SocialFish](https://github.com/UndeadSec/SocialFish) - Educational Phishing Tool & Information Collector
 - [epoch](https://github.com/dinkbit/epoch) - 
 - [micron](https://github.com/webkul/micron) - a [μ] microInteraction library built with CSS Animations and controlled by JavaScript Power
-- [hacker101](https://github.com/Hacker0x01/hacker101) - Hacker101
+- [hacker101](https://github.com/Hacker0x01/hacker101) - Source code for Hacker101.com - a free online web and mobile security class.
 - [CrookedStyleSheets](https://github.com/jbtronics/CrookedStyleSheets) - Webpage tracking only using CSS (and no JS)
 - [startbootstrap-coming-soon](https://github.com/BlackrockDigital/startbootstrap-coming-soon) - A coming soon theme with a video background for Bootstrap 4
 - [VueTheme](https://github.com/rtCamp/VueTheme) - WordPress theme using Rest API and Vue.js
@@ -1605,6 +1605,7 @@
 - [gotraining](https://github.com/ardanlabs/gotraining) - Go Training Class Material :
 - [go-micro](https://github.com/micro/go-micro) - A Go distributed systems development framework
 - [pipeline](https://github.com/tektoncd/pipeline) - A K8s-native Pipeline resource.
+- [prometheus-operator](https://github.com/coreos/prometheus-operator) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
 - [k3v](https://github.com/ibuildthecloud/k3v) - Virtual Kubernetes
 - [monday](https://github.com/eko/monday) - ⚡️ A dev tool for microservice developers to run local applications and/or forward others from/to Kubernetes SSH or TCP
 - [lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
@@ -3483,7 +3484,7 @@
 - [vue-auth](https://github.com/websanova/vue-auth) - A simple light-weight authentication library for Vue.js
 - [test-cors.org](https://github.com/monsur/test-cors.org) - A tool to help test CORS requests
 - [starhackit](https://github.com/FredericHeem/starhackit) - StarHackIt: React/Native/Node fullstack starter kit with authentication and authorisation, data backed by SQL.
-- [UglifyJS2](https://github.com/mishoo/UglifyJS2) - JavaScript parser / mangler / compressor / beautifier toolkit
+- [UglifyJS](https://github.com/mishoo/UglifyJS) - JavaScript parser / mangler / compressor / beautifier toolkit
 - [node-clinic](https://github.com/nearform/node-clinic) - Clinic.js diagnoses your Node.js performance issues
 - [karmatic](https://github.com/developit/karmatic) - 🦑 Easy automatic (headless) browser testing. Powered by Karma, Webpack & Jasmine.
 - [greenlet](https://github.com/developit/greenlet) - 🦎 Move an async function into its own thread.
@@ -4430,7 +4431,6 @@
 
 ## Jsonnet 
 
-- [prometheus-operator](https://github.com/coreos/prometheus-operator) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
 - [examples](https://github.com/kubeflow/examples) - A repository to host extended examples and tutorials
 - [jsonnet](https://github.com/google/jsonnet) - Jsonnet - The data templating language
 - [kubeflow](https://github.com/kubeflow/kubeflow) - Machine Learning Toolkit for Kubernetes
@@ -5727,7 +5727,7 @@
 - [task-specific-datasets](https://github.com/PolyAI-LDN/task-specific-datasets) - A collection of task-specific NLU datasets
 - [awesome-git-addons](https://github.com/stevemao/awesome-git-addons) - :sunglasses: A curated list of add-ons that extend/enhance the git CLI.
 - [EffectivePyTorch](https://github.com/vahidk/EffectivePyTorch) - PyTorch tutorials and best practices.
-- [awesome-maps](https://github.com/simsieg/awesome-maps) - "There is more than google": 🗺A collection of great online maps
+- [awesome-maps](https://github.com/simsieg/awesome-maps) - "There is more than google": 🗺A collection of great online maps 🌍🌎
 - [awesome-baremetal](https://github.com/alexellis/awesome-baremetal) - Bare-metal is awesome. Let's share our favourite tools.
 - [awesome-deepbio](https://github.com/gokceneraslan/awesome-deepbio) - A curated list of awesome deep learning applications in the field of computational biology
 - [ml-system-design-pattern](https://github.com/mercari/ml-system-design-pattern) - System design patterns for machine learning
@@ -7652,7 +7652,7 @@
 - [kamerka](https://github.com/woj-ciech/kamerka) - Build interactive map of cameras from Shodan
 - [FloWaveNet](https://github.com/ksw0306/FloWaveNet) - A Pytorch implementation of "FloWaveNet: A Generative Flow for Raw Audio"
 - [spinningup](https://github.com/openai/spinningup) - An educational resource to help anyone learn deep reinforcement learning.
-- [transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch.
+- [transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0.
 - [waveglow](https://github.com/NVIDIA/waveglow) - A Flow-based Generative Network for Speech Synthesis
 - [pampy](https://github.com/santinic/pampy) - Pampy: The Pattern Matching for Python you always dreamed of.
 - [pysaml2](https://github.com/IdentityPython/pysaml2) - Python implementation of SAML2
@@ -8428,7 +8428,7 @@
 - [citest](https://github.com/google/citest) - Library and tools that facilitate writing integration-tests for cloud services
 - [nochi](https://github.com/rossumai/nochi) - Minimalistic AlphaGoZero-like Engine
 - [kepler-mapper](https://github.com/scikit-tda/kepler-mapper) - Kepler Mapper: A flexible Python implementation of the Mapper algorithm.
-- [activitywatch](https://github.com/ActivityWatch/activitywatch) - The best open source automated time tracker. Cross-platform, extensible, privacy-focused.
+- [activitywatch](https://github.com/ActivityWatch/activitywatch) - The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.
 - [mordecai](https://github.com/openeventdata/mordecai) - Full text geoparsing as a Python library
 - [cloud-inquisitor](https://github.com/RiotGames/cloud-inquisitor) - Enforce ownership and data security within AWS
 - [netgraph](https://github.com/paulbrodersen/netgraph) - Drawing utilities for publication quality plots of networks
@@ -10362,7 +10362,7 @@
 - [bci-challenge-ner-2015](https://github.com/alexandrebarachant/bci-challenge-ner-2015) - Code and documentation for the winning solution to the BCI Challenge @ NER 2015 : https://www.kaggle.com/c/inria-bci-challenge
 - [wordgraph](https://github.com/tleeuwenburg/wordgraph) - Thing that makes e
 - [speech-processing](https://github.com/hbuschme/speech-processing) - A Python framework for speech processing
-- [dragonfly](https://github.com/t4ngo/dragonfly) - Speech recognition framework allowing powerful Python-based scripting and extension of Dragon NaturallySpeaking (DNS) and Windows Speech Recognition (WSR)
+- [dragonfly](https://github.com/t4ngo/dragonfly) - ARCHIVED! - Speech recognition framework allowing powerful Python-based scripting and extension of Dragon NaturallySpeaking (DNS) and Windows Speech Recognition (WSR)
 - [word_cloud](https://github.com/amueller/word_cloud) - A little word cloud generator in Python
 - [hualos](https://github.com/fchollet/hualos) - Keras Total Visualization project
 - [TextGridTools](https://github.com/hbuschme/TextGridTools) - Read, write, and manipulate Praat TextGrid files with Python
