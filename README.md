@@ -789,7 +789,7 @@
 - [pilotguru](https://github.com/waiwnf/pilotguru) - Gather training data for training a self-driving car with just a smartphone.
 - [NeoGPS](https://github.com/SlashDevin/NeoGPS) - NMEA and ublox GPS parser for Arduino, configurable to use as few as 10 bytes of RAM
 - [ComputeLibrary](https://github.com/ARM-software/ComputeLibrary) - The ARM Computer Vision and Machine Learning library is a set of functions optimised for both ARM CPUs and GPUs using SIMD technologies.
-- [httpflow](https://github.com/six-ddc/httpflow) - Packet capture and analysis utility similar to tcpdump for HTTP
+- [httpflow](https://github.com/six-ddc/httpflow) - A command line utility helps to capture and dump HTTP stream
 - [RedisDesktopManager](https://github.com/uglide/RedisDesktopManager) - :wrench: Cross-platform GUI management tool for Redis
 - [muon](https://github.com/brave/muon) - [DEPRECATED] Build browsers and browser like applications with HTML, CSS, and JavaScript
 - [envoy](https://github.com/envoyproxy/envoy) - Cloud-native high-performance edge/middle/service proxy
@@ -1772,7 +1772,7 @@
 - [terratest](https://github.com/gruntwork-io/terratest) - Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
 - [yubiTLS](https://github.com/benjojo/yubiTLS) - A Go TLS/HTTPS server demo that uses a Yubikey as the backend for it's private key
 - [fuzzy](https://github.com/sahilm/fuzzy) - Go library that provides fuzzy string matching optimized for filenames and code symbols in the style of Sublime Text, VSCode, IntelliJ IDEA et al.
-- [goproxy](https://github.com/snail007/goproxy) - Proxy是高性能全功能的http代理、https代理、socks5代理、内网穿透、内网穿透p2p、内网穿透代理、内网穿透反向代理、内网穿透服务器、Websocket代理、TCP代理、UDP代理、DNS代理、DNS加密代理，代理API认证，全能跨平台代理服务器。
+- [goproxy](https://github.com/snail007/goproxy) - Proxy is a high performance HTTP(S) proxies, SOCKS5 proxies,WEBSOCKET, TCP, UDP proxy server implemented by golang. Now, it supports chain-style proxies,nat forwarding in different lan,TCP/UDP port forwarding, SSH forwarding.Proxy是golang实现的高性能http,https,websocket,tcp,socks5代理服务器,支持内网穿透,链式代理,通讯加密,智能HTTP,SOCKS5代理,黑白名单,限速,限流量,限连接数,跨平台,KCP支持,认证API。
 - [Data-Structures-and-Algorithms](https://github.com/floyernick/Data-Structures-and-Algorithms) - Data Structures and Algorithms implementation in Go
 - [gvisor](https://github.com/google/gvisor) - Container Runtime Sandbox
 - [tidis](https://github.com/yongman/tidis) - Distributed transactional NoSQL database, Redis protocol compatible using tikv as backend
@@ -2233,7 +2233,6 @@
 - [government.github.com](https://github.com/github/government.github.com) - Gather, curate, and feature stories of public servants and civic hackers using GitHub as part of their open government innovations
 - [applied-ml](https://github.com/rstudio-conf-2020/applied-ml) - Code and Resources for "Applied Machine Learning"
 - [2020-ComputeFest](https://github.com/Harvard-IACS/2020-ComputeFest) - 
-- [spot-sdk](https://github.com/boston-dynamics/spot-sdk) - Spot SDK repo
 - [awesome-kubernetes-notes](https://github.com/overnote/awesome-kubernetes-notes) - awesome-kubernetes-notes  🎉
 - [coreui-free-angular-admin-template](https://github.com/coreui/coreui-free-angular-admin-template) - CoreUI Angular is free Angular 2+ admin template based on Bootstrap 4
 - [machine-learning-systems-design](https://github.com/chiphuyen/machine-learning-systems-design) - A booklet on machine learning systems design with exercises
@@ -2409,7 +2408,6 @@
 - [kv-storage](https://github.com/WICG/kv-storage) - A proposal for an async key/value storage API for the web
 - [EIPs](https://github.com/ethereum/EIPs) - The Ethereum Improvement Proposal repository
 - [direction-reveal](https://github.com/NigelOToole/direction-reveal) - Direction aware content reveals via hover or tab on an element.
-- [country-list](https://github.com/umpirsky/country-list) - :globe_with_meridians: List of all countries with names and ISO 3166-1 codes in all languages and data formats.
 - [web-profiler-bundle](https://github.com/symfony/web-profiler-bundle) - The WebProfilerBundle provides detailed technical information about each request execution and displays it in both the web debug toolbar and the profiler.
 - [website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:
 - [pasztor.at](https://github.com/janoszen/pasztor.at) - 
@@ -3202,6 +3200,7 @@
 - [kinetica-kickbox-mapbox-gl](https://github.com/kineticadb/kinetica-kickbox-mapbox-gl) - A code-acceleration and interoperability library for Kinetica and Mapbox
 - [vue-cordova-webpack](https://github.com/OnsenUI/vue-cordova-webpack) - A full-featured Webpack + vue-loader setup with hot reload, linting, testing & css extraction.
 - [vue-i18n-service](https://github.com/f/vue-i18n-service) - vue-i18n single file component exporter/importer
+- [first-contributions](https://github.com/firstcontributions/first-contributions) - 🚀✨ Help beginners to contribute to open source projects
 - [proposal-temporal](https://github.com/tc39/proposal-temporal) - Provides standard objects and functions for working with dates and times.
 - [ytdl-webserver](https://github.com/Algram/ytdl-webserver) - 📻 Webserver for downloading youtube videos. Ready for docker.
 - [apify-js](https://github.com/apifytech/apify-js) - Apify SDK — The scalable web crawling and scraping library for JavaScript/Node.js. Enables development of data extraction and web automation jobs (not only) with headless Chrome and Puppeteer.
@@ -6017,7 +6016,6 @@
 - [quick-SQL-cheatsheet](https://github.com/enochtangg/quick-SQL-cheatsheet) - A quick reminder of all SQL queries and examples on how to use them.
 - [awesome-onsenui](https://github.com/OnsenUI/awesome-onsenui) - A curated list of awesome Onsen UI resources.
 - [databot](https://github.com/kkyon/databot) - Databot was renamed to  BotFlow https://github.com/kkyon/botflow
-- [first-contributions](https://github.com/firstcontributions/first-contributions) - 🚀✨ Help beginners to contribute to open source projects
 - [A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - ✅  Curated list of resources for college students
 - [awesome-thesis](https://github.com/ocean1/awesome-thesis) - A curated list of practical tips and tricks to help you achieve an awesome CS master thesis [WIP] - contributions are welcome
 - [webapp](https://github.com/aeroflotsrc/webapp) - Web application source code Aeroflot
@@ -6996,6 +6994,7 @@
 - [DeDRM_tools](https://github.com/apprenticeharper/DeDRM_tools) - DeDRM tools for ebooks
 - [ffmpeg-python](https://github.com/kkroening/ffmpeg-python) - Python bindings for FFmpeg - with complex filtering support
 - [albert](https://github.com/google-research/albert) - ALBERT: A Lite BERT for Self-supervised Learning of Language Representations
+- [spot-sdk](https://github.com/boston-dynamics/spot-sdk) - Spot SDK repo
 - [attention_keras](https://github.com/thushv89/attention_keras) - Keras Layer implementation of Attention
 - [doodad](https://github.com/justinjfu/doodad) - A job launching library for docker, EC2, GCP, etc.
 - [async-rl](https://github.com/muupan/async-rl) - Replicating "Asynchronous Methods for Deep Reinforcement Learning" (http://arxiv.org/abs/1602.01783)
@@ -7067,7 +7066,7 @@
 - [awspx](https://github.com/FSecureLABS/awspx) - A graph-based tool for visualizing effective access and resource relationships in AWS environments.
 - [EfficientDet](https://github.com/xuannianz/EfficientDet) - EfficientDet (Scalable and Efficient Object Detection)  implementation in Keras and Tensorflow
 - [30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a sep by step guide to learn Python programming language in 30 days.
-- [simpletransformers](https://github.com/ThilinaRajapakse/simpletransformers) - Transformers for Classification, NER, QA, Language Modelling, Language Generation, Multi-Modal, and Conversational AI
+- [simpletransformers](https://github.com/ThilinaRajapakse/simpletransformers) - Transformers for Classification, NER, QA, Language Modelling, Language Generation, T5, Multi-Modal, and Conversational AI
 - [RDSNet](https://github.com/wangsr126/RDSNet) - implement for paper: "RDSNet: A New Deep Architecture for Reciprocal Object Detection and Instance Segmentation"
 - [batea](https://github.com/delvelabs/batea) - AI-based, context-driven network device ranking
 - [awesome-monte-carlo-tree-search-papers](https://github.com/benedekrozemberczki/awesome-monte-carlo-tree-search-papers) - A curated list of Monte Carlo tree search papers with implementations.
@@ -8930,7 +8929,7 @@
 - [Nodz](https://github.com/LeGoffLoic/Nodz) - Nodz : Visualize your data - Free nodes based graph generator.
 - [speedml](https://github.com/Speedml/speedml) - Speedml is a Python package to speed start machine learning projects.
 - [PyTree](https://github.com/PixelwarStudio/PyTree) - Package for generating and drawing (fractal)trees.
-- [squealy](https://github.com/hashedin/squealy) - Build Readonly JSON APIs from SQL Queries
+- [squealy](https://github.com/hashedin/squealy) - Generate APIs from SQL Queries
 - [django-migrations-graph](https://github.com/dizballanze/django-migrations-graph) - Django-admin command to display migrations with dependencies.
 - [wscelery](https://github.com/johan-sports/wscelery) - Real time celery monitoring using websockets
 - [JSON-path](https://github.com/jabbalaci/JSON-path) - Find the path of a key / value in a JSON hierarchy easily.
@@ -10973,7 +10972,7 @@
 - [fuzzywuzzy](https://github.com/seatgeek/fuzzywuzzy) - Fuzzy String Matching in Python
 - [human_dates](https://github.com/jtushman/human_dates) - Dates for humans
 - [times](https://github.com/nvie/times) - Times and time zones in Python with a focus on best practices.
-- [moment](https://github.com/zachwill/moment) - Dealing with dates in Python shouldn't have to suck.
+- [moment](https://github.com/zachwill/moment) - A Python library for dealing with dates
 - [legit](https://github.com/frostming/legit) - Git for Humans, Inspired by GitHub for Mac™.
 - [flopsy](https://github.com/nathanborror/flopsy) - A very simple way to interact with python AMQPlib.
 - [carrot](https://github.com/ask/carrot) - AMQP Messaging Framework for Python (discontinued; Use Kombu instead)
@@ -12165,7 +12164,7 @@
 - [PyExcelerate](https://github.com/kz26/PyExcelerate) - Accelerated Excel XLSX Writing Library for Python 2/3
 - [python-nvd3](https://github.com/areski/python-nvd3) - Python Wrapper for NVD3 - It's time for beautiful charts
 - [copperhead](https://github.com/bryancatanzaro/copperhead) - Data Parallel Python
-- [falcon](https://github.com/falconry/falcon) - Minimalist web services and app backend framework for Python developers.
+- [falcon](https://github.com/falconry/falcon) - Minimalist web services and app backend framework for Python developers with a focus on reliability and performance at scale.
 - [logscan](https://github.com/thomst/logscan) - logscan is a command-line-tool to get time-specific access to logfiles. It can handle rotated and gzipped logfiles or reads from stdin. The log   is automatically checked for different timecodes.
 - [timeparser](https://github.com/thomst/timeparser) - Parse strings to objects of the datetime-module.  This module intends to make string-parsing to objects of the datetime-module as easy as possible while allowing a fine configuration about which kind of formats are supported.
 - [timeparse](https://github.com/thomst/timeparse) - An argparse-extension for parsing command-line arguments as time-, date-, datetime-, or timedelta-objects.
@@ -12794,6 +12793,7 @@
 ## TSQL 
 
 - [code2](https://github.com/AWSinAction/code2) - Code of Amazon Web Services in Action, Second Edition
+- [country-list](https://github.com/umpirsky/country-list) - :globe_with_meridians: List of all countries with names and ISO 3166-1 codes in all languages and data formats.
 - [sql-server-maintenance-solution](https://github.com/olahallengren/sql-server-maintenance-solution) - SQL Server Maintenance Solution
 - [metasploitable3](https://github.com/rapid7/metasploitable3) - Metasploitable3 is a VM that is built from the ground up with a large amount of security vulnerabilities.
 - [Windshaft-cartodb](https://github.com/CartoDB/Windshaft-cartodb) - Windshaft tailored for CARTO
