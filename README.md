@@ -851,7 +851,7 @@
 - [caffe-face](https://github.com/ydwen/caffe-face) - This branch is developed for deep face recognition
 - [AliSQL](https://github.com/alibaba/AliSQL) - AliSQL is a MySQL branch originated from Alibaba Group. Fetch document from Release Notes at bottom.
 - [Catch2](https://github.com/catchorg/Catch2) - A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)
-- [triton](https://github.com/ptillet/triton) - Development repository for the Triton language and compiler (formerly ISAAC)
+- [triton](https://github.com/ptillet/triton) - Development repository for the Triton language and compiler
 - [arangodb](https://github.com/arangodb/arangodb) - 🥑 ArangoDB is a native multi-model database with flexible data models for documents, graphs, and key-values. Build high performance applications using a convenient SQL-like query language or JavaScript extensions.
 - [CLRS](https://github.com/gzc/CLRS) - :notebook:Solutions to Introduction to Algorithms
 - [cartographer_ros](https://github.com/cartographer-project/cartographer_ros) - Provides ROS integration for Cartographer.
@@ -1264,7 +1264,7 @@
 - [arc-theme](https://github.com/horst3180/arc-theme) - A flat theme with transparent elements
 - [normalize.css](https://github.com/necolas/normalize.css) - A modern alternative to CSS resets
 - [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
-- [animate.css](https://github.com/daneden/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
+- [animate.css](https://github.com/animate-css/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
 - [css](https://github.com/primer/css) - The CSS design system that powers GitHub
 - [lavalamp.js](https://github.com/jgthms/lavalamp.js) - A replacement for infinite scrolling.
 - [Gutenberg](https://github.com/matejlatin/Gutenberg) - A meaningful web typography starter kit.
@@ -2049,7 +2049,7 @@
 - [goss](https://github.com/aelsabbahy/goss) - Quick and Easy server testing/validation
 - [pipeline](https://github.com/myntra/pipeline) - Pipeline is a package to build multi-staged concurrent workflows with a centralized logging output.
 - [req](https://github.com/imroc/req) - a golang http request library for humans
-- [brook](https://github.com/txthinking/brook) - Brook is a cross-platform(Linux/BSD/MacOS/Windows/Android/iOS) proxy/vpn software. Zero-Configuration.
+- [brook](https://github.com/txthinking/brook) - Brook is a cross-platform strong encryption and not detectable proxy. Zero-Configuration.
 - [gokrazy](https://github.com/gokrazy/gokrazy) - a pure-Go userland for your Raspberry Pi 3 appliances
 - [ladon](https://github.com/ory/ladon) - A SDK for access control policies: authorization for the microservice and IoT age. Inspired by AWS IAM policies. Written for Go.
 - [machma](https://github.com/fd0/machma) - Easy parallel execution of commands with live feedback
@@ -3200,7 +3200,6 @@
 - [kinetica-kickbox-mapbox-gl](https://github.com/kineticadb/kinetica-kickbox-mapbox-gl) - A code-acceleration and interoperability library for Kinetica and Mapbox
 - [vue-cordova-webpack](https://github.com/OnsenUI/vue-cordova-webpack) - A full-featured Webpack + vue-loader setup with hot reload, linting, testing & css extraction.
 - [vue-i18n-service](https://github.com/f/vue-i18n-service) - vue-i18n single file component exporter/importer
-- [first-contributions](https://github.com/firstcontributions/first-contributions) - 🚀✨ Help beginners to contribute to open source projects
 - [proposal-temporal](https://github.com/tc39/proposal-temporal) - Provides standard objects and functions for working with dates and times.
 - [ytdl-webserver](https://github.com/Algram/ytdl-webserver) - 📻 Webserver for downloading youtube videos. Ready for docker.
 - [apify-js](https://github.com/apifytech/apify-js) - Apify SDK — The scalable web crawling and scraping library for JavaScript/Node.js. Enables development of data extraction and web automation jobs (not only) with headless Chrome and Puppeteer.
@@ -5398,7 +5397,7 @@
 - [WhirlwindTourOfPython](https://github.com/jakevdp/WhirlwindTourOfPython) - The Jupyter Notebooks behind my OReilly report, "A Whirlwind Tour of Python"
 - [tf-rnn](https://github.com/dennybritz/tf-rnn) - Practical Examples for RNNs in Tensorflow
 - [python-bootcamp](https://github.com/profjsb/python-bootcamp) - Python Bootcamp docs and lectures (UC Berkeley)
-- [pelican-ipynb](https://github.com/danielfrg/pelican-ipynb) - Pelican plugin for blogging with Jupyter/IPython Notebooks
+- [pelican-jupyter](https://github.com/danielfrg/pelican-jupyter) - Pelican plugin for blogging with Jupyter/IPython Notebooks
 - [Python-for-Algorithms--Data-Structures--and-Interviews](https://github.com/jmportilla/Python-for-Algorithms--Data-Structures--and-Interviews) - Files for Udemy Course on Algorithms and Data Structures
 - [pandas-tutorial](https://github.com/jorisvandenbossche/pandas-tutorial) - Material for the pandas tutorial at EuroScipy 2016
 - [deep-learning-keras-tensorflow](https://github.com/leriomaggio/deep-learning-keras-tensorflow) - Introduction to Deep Neural Networks with Keras and Tensorflow
@@ -6016,6 +6015,7 @@
 - [quick-SQL-cheatsheet](https://github.com/enochtangg/quick-SQL-cheatsheet) - A quick reminder of all SQL queries and examples on how to use them.
 - [awesome-onsenui](https://github.com/OnsenUI/awesome-onsenui) - A curated list of awesome Onsen UI resources.
 - [databot](https://github.com/kkyon/databot) - Databot was renamed to  BotFlow https://github.com/kkyon/botflow
+- [first-contributions](https://github.com/firstcontributions/first-contributions) - 🚀✨ Help beginners to contribute to open source projects
 - [A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - ✅  Curated list of resources for college students
 - [awesome-thesis](https://github.com/ocean1/awesome-thesis) - A curated list of practical tips and tricks to help you achieve an awesome CS master thesis [WIP] - contributions are welcome
 - [webapp](https://github.com/aeroflotsrc/webapp) - Web application source code Aeroflot
@@ -6731,6 +6731,8 @@
 
 ## Python 
 
+- [sacrebleu](https://github.com/mjpost/sacrebleu) - Reference BLEU implementation that auto-downloads test sets and reports a version string to facilitate cross-lab comparisons
+- [full_stack_transformer](https://github.com/alexeykarnachev/full_stack_transformer) - Pytorch library for end-to-end transformer models training, inference and serving
 - [hedwig](https://github.com/castorini/hedwig) - PyTorch deep learning models for document classification
 - [wikipedia2vec](https://github.com/wikipedia2vec/wikipedia2vec) - A tool for learning vector representations of words and entities from Wikipedia
 - [BPT](https://github.com/yzh119/BPT) - Source code of paper "BP-Transformer: Modelling Long-Range Context via Binary Partitioning"
@@ -6922,7 +6924,7 @@
 - [evoman_framework](https://github.com/karinemiras/evoman_framework) - 
 - [dm-haiku](https://github.com/deepmind/dm-haiku) - JAX-based neural network library
 - [updog](https://github.com/sc0tfree/updog) - Updog is a replacement for Python's SimpleHTTPServer. It allows uploading and downloading via HTTP/S, can set ad hoc SSL certificates and use http basic auth.
-- [snoop](https://github.com/snooppr/snoop) - Snoop — инструмент разведки на основе открытых данных (OSINT)
+- [snoop](https://github.com/snooppr/snoop) - Snoop — инструмент разведки на основе открытых данных (OSINT world)
 - [gif](https://github.com/maxhumber/gif) - ✨ Better animated Matplotlib gifs
 - [Soft-Actor-Critic-and-Extensions](https://github.com/BY571/Soft-Actor-Critic-and-Extensions) - PyTorch implementation of Soft-Actor-Critic and Prioritized Experience Replay (PER) + Emphasizing Recent Experience (ERE)
 - [rlax](https://github.com/deepmind/rlax) - 
@@ -7922,7 +7924,7 @@
 - [100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) - 100 Days of ML Coding
 - [autokeras](https://github.com/keras-team/autokeras) - An AutoML system based on Keras
 - [cnn-graph-classification](https://github.com/giannisnik/cnn-graph-classification) - A convolutional neural network for graph classification in PyTorch
-- [pythia](https://github.com/facebookresearch/pythia) - A modular framework for vision & language multimodal research from Facebook AI Research (FAIR)
+- [mmf](https://github.com/facebookresearch/mmf) - A modular framework for vision & language multimodal research from Facebook AI Research (FAIR)
 - [AutoEq](https://github.com/jaakkopasanen/AutoEq) - Automatic headphone equalization from frequency responses
 - [GANimation](https://github.com/albertpumarola/GANimation) - GANimation: Anatomically-aware Facial Animation from a Single Image (ECCV'18 Oral) [PyTorch]
 - [IBN-Net](https://github.com/XingangPan/IBN-Net) - Instance-Batch Normalization Networks (ECCV2018)
@@ -8032,7 +8034,6 @@
 - [Self-Attention-GAN](https://github.com/heykeetae/Self-Attention-GAN) - Pytorch implementation of Self-Attention Generative Adversarial Networks (SAGAN)
 - [skiptracer](https://github.com/xillwillx/skiptracer) - OSINT python webscaping framework
 - [PyTorch-YOLOv3](https://github.com/eriklindernoren/PyTorch-YOLOv3) - Minimal PyTorch implementation of YOLOv3
-- [colossus](https://github.com/lucperkins/colossus) - Colossus — An example microservice architecture for Kubernetes using Bazel, Go, Java, Docker, Kubernetes, Minikube, Gazelle, gRPC, Prometheus, Grafana, and more
 - [PRNet](https://github.com/YadiraF/PRNet) - Joint 3D Face Reconstruction and Dense Alignment with Position Map Regression Network (ECCV 2018)
 - [scylla](https://github.com/imWildCat/scylla) - Intelligent proxy pool for Humans™ (Maintainer needed)
 - [SmoothLife](https://github.com/duckythescientist/SmoothLife) - Continuous Domain Game of Life in Python with Numpy
@@ -12777,6 +12778,7 @@
 ## Starlark 
 
 - [googleapis](https://github.com/googleapis/googleapis) - Public interface definitions of Google APIs.
+- [colossus](https://github.com/lucperkins/colossus) - Colossus — An example microservice architecture for Kubernetes using Bazel, Go, Java, Docker, Kubernetes, Minikube, Gazelle, gRPC, Prometheus, Grafana, and more
 - [distroless](https://github.com/GoogleContainerTools/distroless) - 🥑  Language focused docker images, minus the operating system.
 
 ## Swift 
