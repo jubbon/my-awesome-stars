@@ -3384,7 +3384,6 @@
 - [modeify](https://github.com/conveyal/modeify) - Deliver personalized commute information to travelers.
 - [transitive.js](https://github.com/conveyal/transitive.js) - Transit data visualization
 - [kue](https://github.com/Automattic/kue) - Kue is a priority job queue backed by redis, built for node.js.
-- [vue-crm](https://github.com/harryho/vue-crm) - Simple reusable CRM built on Vue 2 PWA template and Vuetify UI
 - [cryptocurrency-icons](https://github.com/atomiclabs/cryptocurrency-icons) - A set of icons for all the main cryptocurrencies and altcoins, in a range of styles and sizes.
 - [auto-py-to-exe](https://github.com/brentvollebregt/auto-py-to-exe) - Converts .py to .exe using a simple graphical interface
 - [brain.js](https://github.com/BrainJS/brain.js) - 🤖 Neural networks in JavaScript
@@ -4141,7 +4140,7 @@
 - [react-native-macos](https://github.com/ptmt/react-native-macos) - React Native for macOS is an experimental fork for writing desktop apps using Cocoa
 - [select2](https://github.com/select2/select2) - Select2 is a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results.
 - [flask-AdminLTE](https://github.com/a0726h77/flask-AdminLTE) - Bootstrap AdminLTE template with Flask framework
-- [AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - AdminLTE - Free admin dashboard template based on Bootstrap 4 & 3
+- [AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - AdminLTE - Free admin dashboard template based on Bootstrap 4
 - [geojsonio-cli](https://github.com/mapbox/geojsonio-cli) - a cli for geojson.io
 - [query-overpass](https://github.com/perliedman/query-overpass) - Make queries to OpenStreetMap's overpass API and output as GeoJSON
 - [connect-modrewrite](https://github.com/tinganho/connect-modrewrite) - Modrewrite middleware for connect/express
@@ -4450,7 +4449,7 @@
 - [DQN-Atari-Agents](https://github.com/BY571/DQN-Atari-Agents) - DQN-Atari-Agents:   Modularized PyTorch implementation of several DQN Agents, i.a. DDQN, Dueling DQN, Noisy DQN, C51, Rainbow and DRQN
 - [deltapy](https://github.com/firmai/deltapy) - DeltaPy - Tabular Data Augmentation
 - [nerf](https://github.com/bmild/nerf) - Code release for NeRF (Neural Radiance Fields)
-- [pycaret](https://github.com/pycaret/pycaret) - 
+- [pycaret](https://github.com/pycaret/pycaret) - An open source, low-code machine learning library in Python
 - [micrograd](https://github.com/karpathy/micrograd) - A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API
 - [ktrain](https://github.com/amaiya/ktrain) - ktrain is a Python library that makes deep learning and AI more accessible and easier to apply
 - [compress-fasttext](https://github.com/avidale/compress-fasttext) - Tools for shrinking fastText models (in gensim format)
@@ -5114,7 +5113,7 @@
 - [anomaly_detection_for_CERN](https://github.com/llSourcell/anomaly_detection_for_CERN) - This is code for my CERN presentation
 - [facets](https://github.com/PAIR-code/facets) - Visualizations for machine learning datasets
 - [mxnet-the-straight-dope](https://github.com/zackchase/mxnet-the-straight-dope) - An interactive book on deep learning. Much easy, so MXNet. Wow. [Straight Dope is growing up] ---&gt; Much of this content has been incorporated into the new Dive into Deep Learning Book available at https://d2l.ai/.
-- [tensorflow-nlp](https://github.com/zhedongzheng/tensorflow-nlp) - Code for NLP and Text Generation in TensorFlow 2.x / 1.x
+- [tensorflow-nlp](https://github.com/zhedongzheng/tensorflow-nlp) - Building Blocks for NLP and Text Generation in TensorFlow 2.x / 1.x
 - [quilt](https://github.com/quiltdata/quilt) - Quilt is a versioned data portal for AWS
 - [InferSent](https://github.com/facebookresearch/InferSent) - InferSent sentence embeddings
 - [analyze-citymobil](https://github.com/kuk/analyze-citymobil) - 
@@ -5725,7 +5724,7 @@
 - [task-specific-datasets](https://github.com/PolyAI-LDN/task-specific-datasets) - A collection of task-specific NLU datasets
 - [awesome-git-addons](https://github.com/stevemao/awesome-git-addons) - :sunglasses: A curated list of add-ons that extend/enhance the git CLI.
 - [EffectivePyTorch](https://github.com/vahidk/EffectivePyTorch) - PyTorch tutorials and best practices.
-- [awesome-maps](https://github.com/simsieg/awesome-maps) - "There is more than google": 🗺A collection of great online maps 🌍🌎
+- [awesome-maps](https://github.com/simsieg/awesome-maps) - There is more than google: 🗺A collection of great online maps 🌍🌎
 - [awesome-baremetal](https://github.com/alexellis/awesome-baremetal) - Bare-metal is awesome. Let's share our favourite tools.
 - [awesome-deepbio](https://github.com/gokceneraslan/awesome-deepbio) - A curated list of awesome deep learning applications in the field of computational biology
 - [ml-system-design-pattern](https://github.com/mercari/ml-system-design-pattern) - System design patterns for machine learning
@@ -6259,6 +6258,7 @@
 - [Probable-Wordlists](https://github.com/berzerk0/Probable-Wordlists) - Version 2 is live! Wordlists sorted by probability originally created for password generation and testing - make sure your passwords aren't popular!
 - [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
 - [awesome-design-systems](https://github.com/alexpate/awesome-design-systems) - 💅🏻 ⚒ A collection of awesome design systems
+- [diskover](https://github.com/shirosaidev/diskover) - File system crawler, disk space usage, file search engine and file system analytics powered by Elasticsearch
 - [javascript-tutorial](https://github.com/iliakan/javascript-tutorial) - The Modern JavaScript Tutorial
 - [100-days-of-code](https://github.com/kallaway/100-days-of-code) - Fork this template for the 100 days journal - to keep yourself accountable (multiple languages available)
 - [cheatsheets-ai](https://github.com/kailashahirwar/cheatsheets-ai) - Essential Cheat Sheets for deep learning and machine learning researchers https://medium.com/@kailashahirwar/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5
@@ -6432,7 +6432,7 @@
 - [debugger](https://github.com/firefox-devtools/debugger) - The faster and smarter Debugger for Firefox DevTools 🔥🦊🛠
 - [ddd-dynamic](https://github.com/valignatev/ddd-dynamic) - Domain Driven Design in Python, Ruby and other dynamic languages resources
 - [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision) - A curated list of deep learning resources for computer vision
-- [angular-performance-checklist](https://github.com/mgechev/angular-performance-checklist) - Cheatsheet for developing ⚡lightning⚡ fast progressive Angular applications.
+- [angular-performance-checklist](https://github.com/mgechev/angular-performance-checklist) - ⚡ Cheatsheet for developing lightning fast progressive Angular applications.
 - [materia-designer-public](https://github.com/materiahq/materia-designer-public) - A modern development environment to build advanced mobile and web applications.
 - [awesome-cmake](https://github.com/onqtam/awesome-cmake) - A curated list of awesome CMake resources, scripts, modules, examples and others.
 - [awesome-design](https://github.com/gztchan/awesome-design) - 🌟Curated design resources
@@ -8989,7 +8989,6 @@
 - [openai_lab](https://github.com/kengz/openai_lab) - An experimentation framework for Reinforcement Learning using OpenAI Gym, Tensorflow, and Keras.
 - [TouristFriend](https://github.com/octohedron/TouristFriend) - 🌆 TouristFriend API lets you query Google Places, Yelp and Foursquare at the same time, with Bayesian rankings!
 - [taggernews](https://github.com/danrobinson/taggernews) - Hacker News plus topic tags. TechCrunch Disrupt NY Hackathon 2017
-- [diskover](https://github.com/shirosaidev/diskover) - File system crawler, disk space usage, file search engine and file system analytics powered by Elasticsearch
 - [IPpy](https://github.com/shivammathur/IPpy) - :rocket: Parallel testing of IP addresses and domains in python to find the accessible and inaccessible ones.
 - [Persimmon](https://github.com/AlvarBer/Persimmon) - A visual dataflow programming language for sklearn
 - [tinynumpy](https://github.com/wadetb/tinynumpy) - A lightweight, pure Python, numpy compliant ndarray class.
@@ -12806,7 +12805,7 @@
 
 - [Algorithmic-Pseudocode](https://github.com/Just-A-Visitor/Algorithmic-Pseudocode) - This repository contains the pseudocode(pdf) of various algorithms and data structures necessary for Interview Preparation and Competitive Coding
 - [craftassist](https://github.com/facebookresearch/craftassist) - A virtual assistant bot in Minecraft
-- [Data-Science--Cheat-Sheet](https://github.com/abhat222/Data-Science--Cheat-Sheet) - Cheat Sheets
+- [Data-Science--Cheat-Sheet](https://github.com/datasciencescoop/Data-Science--Cheat-Sheet) - Cheat Sheets
 - [PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet) - Latex code for making neural networks diagrams
 - [MT-Reading-List](https://github.com/THUNLP-MT/MT-Reading-List) - A machine translation reading list maintained by Tsinghua Natural Language Processing Group
 - [cs229t](https://github.com/percyliang/cs229t) - Statistical Learning Theory (CS229T) Lecture Notes
@@ -13317,6 +13316,7 @@
 - [blog-front](https://github.com/jkchao/blog-front) - blog-front @nuxt
 - [vue-instagram](https://github.com/kevinongko/vue-instagram) - Instagram's feed fetcher component based on Vue.js
 - [vue-gallery](https://github.com/RobinCK/vue-gallery) - :camera: Responsive and customizable image and video gallery, carousel and lightbox, optimized for both mobile and desktop web browsers.
+- [vue-crm](https://github.com/harryho/vue-crm) - Simple reusable CRM built on Vue 2 PWA template and Vuetify UI
 - [vue2-admin-lte](https://github.com/devjin0617/vue2-admin-lte) - :bar_chart: adminLTE to vuejs v2.x converting project
 - [heyui](https://github.com/heyui/heyui) - 🎉UI Toolkit for Web, Vue2.0 http://www.heyui.top
 - [vue-prom](https://github.com/byteboomers/vue-prom) - Vue promise wrapper component
