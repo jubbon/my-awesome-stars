@@ -1603,7 +1603,7 @@
 - [lindb](https://github.com/lindb/lindb) - LinDB is a scalable, high performance, high availability distributed time series database.
 - [buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
 - [gotraining](https://github.com/ardanlabs/gotraining) - Go Training Class Material :
-- [go-micro](https://github.com/micro/go-micro) - A Go distributed systems development framework
+- [go-micro](https://github.com/micro/go-micro) - A distributed systems development framework
 - [pipeline](https://github.com/tektoncd/pipeline) - A K8s-native Pipeline resource.
 - [prometheus-operator](https://github.com/coreos/prometheus-operator) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
 - [k3v](https://github.com/ibuildthecloud/k3v) - Virtual Kubernetes
@@ -2023,7 +2023,7 @@
 - [dt](https://github.com/42wim/dt) - DNS tool - display information about your domain
 - [dep](https://github.com/golang/dep) - Go dependency management tool
 - [sleepto](https://github.com/qvl/sleepto) - An alternative to traditional task schedulers
-- [go-tools](https://github.com/dominikh/go-tools) - Staticcheck – a collection of static analysis tools for working with Go code
+- [go-tools](https://github.com/dominikh/go-tools) - Staticcheck - The advanced Go linter
 - [falcon-plus](https://github.com/open-falcon/falcon-plus) - An open-source and enterprise-level monitoring system.
 - [k6](https://github.com/loadimpact/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
 - [cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB - the open source, cloud-native distributed SQL database.
@@ -2966,6 +2966,7 @@
 - [pomelo](https://github.com/NetEase/pomelo) - A fast,scalable,distributed game server framework for Node.js.
 - [vue-admin-template](https://github.com/PanJiaChen/vue-admin-template) - a vue2.0 minimal admin template
 - [franz](https://github.com/meetfranz/franz) - Franz is a free messaging app for services like WhatsApp, Slack, Messenger and many more.
+- [tlroadmap](https://github.com/tlbootcamp/tlroadmap) - 👩🏼‍💻👨🏻‍💻Карта навыков и модель развития тимлидов
 - [leaflet-panel-layers](https://github.com/stefanocudini/leaflet-panel-layers) - Leaflet Control Layers extended with support groups and icons
 - [mapsapi](https://github.com/2gis/mapsapi) - Карты 2ГИС — это точные данные обо всех объектах города, включая новостройки, с детализацией до заборов и внутриквартальных проездов.
 - [ol-mapbox-style](https://github.com/openlayers/ol-mapbox-style) - Use Mapbox Style objects with OpenLayers
@@ -3600,7 +3601,7 @@
 - [gdbgui](https://github.com/cs01/gdbgui) - Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will open in your browser.
 - [tikzcd-editor](https://github.com/yishn/tikzcd-editor) - A simple visual editor for creating commutative diagrams.
 - [server](https://github.com/franciscop/server) - :desktop_computer: Simple and powerful server for Node.js
-- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark: The Node.js best practices list (April 2020)
+- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark: The Node.js best practices list (May 2020)
 - [charts](https://github.com/frappe/charts) - Simple, responsive, modern SVG Charts with zero dependencies
 - [leaflet-control-orderlayers](https://github.com/elesdoar/leaflet-control-orderlayers) - Leaflet control with order functionality
 - [bottery](https://github.com/google/bottery) - 
@@ -4444,6 +4445,7 @@
 
 ## Jupyter Notebook 
 
+- [video-scene-detection](https://github.com/ivi-ru/video-scene-detection) - 
 - [30-Days-of-Python](https://github.com/codingforentrepreneurs/30-Days-of-Python) - A New Version of 30 Days of Python is nearly here. Get started today.
 - [tutorials](https://github.com/krittikaiitb/tutorials) - Set of Jupyter Notebooks, along with datafiles, to get started with Scientific Computing in Astronomy
 - [DQN-Atari-Agents](https://github.com/BY571/DQN-Atari-Agents) - DQN-Atari-Agents:   Modularized PyTorch implementation of several DQN Agents, i.a. DDQN, Dueling DQN, Noisy DQN, C51, Rainbow and DRQN
@@ -4567,7 +4569,7 @@
 - [Tutorials](https://github.com/SAPDocuments/Tutorials) - Tutorials on sap.com
 - [colab-tricks](https://github.com/shawwn/colab-tricks) - Tricks for Colab power users
 - [TensorFlow2.0-Examples](https://github.com/YunYang1994/TensorFlow2.0-Examples) - 🙄 difficult algorithm, simple code.
-- [pytorch-faster-rcnn](https://github.com/ruotianluo/pytorch-faster-rcnn) - pytorch1.0 updated. Support cpu test and demo.
+- [pytorch-faster-rcnn](https://github.com/ruotianluo/pytorch-faster-rcnn) - pytorch1.0 updated. Support cpu test and demo. (Use detectron2, it's a masterpiece)
 - [stat479-machine-learning-fs19](https://github.com/rasbt/stat479-machine-learning-fs19) - Course material for STAT 479: Machine Learning (FS 2019) taught by Sebastian Raschka at University Wisconsin-Madison
 - [AcademicContent](https://github.com/microsoft/AcademicContent) - Free tech resources for faculty, students, researchers, life-long learners, and academic community builders for use in tech based courses, workshops, and hackathons.
 - [ICLR2020-OpenReviewData](https://github.com/shaohua0116/ICLR2020-OpenReviewData) - Script that crawls meta data from ICLR OpenReview webpage. Tutorials on installing and using Selenium and ChromeDriver on Ubuntu.
@@ -6855,7 +6857,7 @@
 - [remi](https://github.com/YatingMusic/remi) - "Pop Music Transformer: Generating Music with Rhythm and Harmony", arXiv 2020
 - [tianshou](https://github.com/thu-ml/tianshou) - An elegant, flexible, and superfast PyTorch deep Reinforcement Learning platform.
 - [pycls](https://github.com/facebookresearch/pycls) - Codebase for Image Classification Research, written in PyTorch.
-- [PaddleHub](https://github.com/PaddlePaddle/PaddleHub) - Application toolkit for pre-trained models of PaddlePaddle（『飞桨』预训练模型应用工具 ）
+- [PaddleHub](https://github.com/PaddlePaddle/PaddleHub) - Toolkit For Pre-Trained Model Application of PaddlePaddle（『飞桨』预训练模型应用工具 ）
 - [CurveFit](https://github.com/ihmeuw-msca/CurveFit) - Generic curve fitting package with nonlinear mixed effects model
 - [aristo-mini](https://github.com/allenai/aristo-mini) - Aristo mini is a light-weight question answering system that can quickly evaluate Aristo science questions with an evaluation web server and the provided baseline solvers.
 - [gym-gridworld](https://github.com/xinleipan/gym-gridworld) - Simple grid-world environment compatible with OpenAI-gym
@@ -7175,7 +7177,7 @@
 - [redqueen](https://github.com/RUB-SysSec/redqueen) - 
 - [serverless-cat-facts](https://github.com/ryansb/serverless-cat-facts) - Distribute facts about cats without needing to run your own infrastructure
 - [realworldctf](https://github.com/phith0n/realworldctf) - My Real World CTF challenges
-- [learn2learn](https://github.com/learnables/learn2learn) - PyTorch Meta-learning Framework for Researchers
+- [learn2learn](https://github.com/learnables/learn2learn) - PyTorch Meta-learning Library for Researchers
 - [PyGlow](https://github.com/spino17/PyGlow) - This package is an attempt to implement Keras like API functionalities on PyTorch backend with functionalities supporting information theoretic methods which are relevant for understanding neural network dynamics.
 - [hypothesis-auto](https://github.com/timothycrosley/hypothesis-auto) - An extensions for Hypothesis that provides fully automatic testing for type hinted functions
 - [bake](https://github.com/kennethreitz-archive/bake) - Bake — the strangely familiar workflow utility.
@@ -7261,7 +7263,6 @@
 - [tartiflette](https://github.com/tartiflette/tartiflette) - GraphQL Engine built with Python 3.6+ / asyncio
 - [awesome-hand-pose-estimation](https://github.com/xinghaochen/awesome-hand-pose-estimation) - Awesome work on hand pose estimation/tracking
 - [awesome-graph-classification](https://github.com/benedekrozemberczki/awesome-graph-classification) - A collection of important graph embedding, classification and representation learning papers with implementations.
-- [tlroadmap](https://github.com/tlbootcamp/tlroadmap) - 👩🏼‍💻👨🏻‍💻Карта навыков и модель развития тимлидов
 - [plato-research-dialogue-system](https://github.com/uber-research/plato-research-dialogue-system) - This is the Plato Research Dialogue System, a flexible platform for developing conversational AI agents.
 - [EvoGrad](https://github.com/uber-research/EvoGrad) - 
 - [entmax](https://github.com/deep-spin/entmax) - The entmax mapping and its loss, a family of sparse softmax alternatives.
@@ -12974,7 +12975,7 @@
 - [prettier-vscode](https://github.com/prettier/prettier-vscode) - Visual Studio Code extension for Prettier
 - [snyk](https://github.com/snyk/snyk) - CLI and build-time tool to find & fix known vulnerabilities in open-source dependencies
 - [after.js](https://github.com/jaredpalmer/after.js) - Next.js-like framework for server-rendered React apps built with React Router 4
-- [VisualDL](https://github.com/PaddlePaddle/VisualDL) - A platform to visualize the deep learning process and result.
+- [VisualDL](https://github.com/PaddlePaddle/VisualDL) - Deep Learning Visualization Toolkit（『飞桨』深度学习可视化工具 ）
 - [pluggable-autocomplete](https://github.com/Sammons/pluggable-autocomplete) - Allows writing simple extensions to get suggestions for values from external data sources
 - [majestic](https://github.com/Raathigesh/majestic) - ⚡ Zero config GUI for Jest
 - [vuesion](https://github.com/vuesion/vuesion) - The most complete boilerplate for production-ready PWAs. With focus on performance, development speed, and best practices
