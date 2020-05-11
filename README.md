@@ -93,6 +93,7 @@
   - [VimL](#viml)
   - [Vue](#vue)
   - [XSLT](#xslt)
+  - [YAML](#yaml)
   - [YARA](#yara)
   - [ZIL](#zil)
   - [q](#q)
@@ -175,7 +176,7 @@
 - [cJSON](https://github.com/DaveGamble/cJSON) - Ultralightweight JSON parser in ANSI C
 - [flow9](https://github.com/area9innovation/flow9) - Platform for safe, easy and productive programming of complex, multi-platform apps with a modern user interface
 - [Video-Editing-Automation](https://github.com/DevonCrawford/Video-Editing-Automation) - Toolkit of algorithms to automate the video editing process
-- [darknet](https://github.com/AlexeyAB/darknet) - YOLOv4 (v3/v2) - Windows and Linux version of Darknet Neural Networks for object detection (Tensor Cores are used)
+- [darknet](https://github.com/AlexeyAB/darknet) - YOLOv4 - Neural Networks for Object Detection (Windows and Linux version of Darknet )
 - [facil.io](https://github.com/boazsegev/facil.io) - Your high performance web application C framework
 - [element-protocol](https://github.com/element-protocol/element-protocol) - The decentralized, completely anonymous, lightweight, peer-to-peer network communication protocol.
 - [AgentSmith-HIDS](https://github.com/EBWi11/AgentSmith-HIDS) - By Kprobe technology Open Source Host-based Intrusion Detection System(HIDS), from E_Bwill.
@@ -364,7 +365,6 @@
 - [massdns](https://github.com/blechschmidt/massdns) - A high-performance DNS stub resolver for bulk lookups and reconnaissance (subdomain enumeration)
 - [hashcat](https://github.com/hashcat/hashcat) - World's fastest and most advanced password recovery utility
 - [RTKLIB](https://github.com/tomojitakasu/RTKLIB) - 
-- [clio](https://github.com/dmulholl/clio) - A multi-language argument-parsing library.
 - [lwan](https://github.com/lpereira/lwan) - Experimental, scalable, high performance HTTP server
 - [How-to-Make-a-Computer-Operating-System](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System) - How to Make a Computer Operating System in C++
 - [anypixel](https://github.com/googlecreativelab/anypixel) - A web-friendly way for anyone to build unusual displays
@@ -1059,7 +1059,6 @@
 - [microservices-architecture](https://github.com/gitpitch/microservices-architecture) - 
 - [microservices-architecture](https://github.com/jroper/microservices-architecture) - 
 - [in-60-seconds](https://github.com/gitpitch/in-60-seconds) - GitPitch In 60 Seconds - A Very Short Tutorial
-- [Jadesktop](https://github.com/codesardine/Jadesktop) - Linux desktop environment built with HTML5, CSS, JavaScript and Python.
 - [calver](https://github.com/mahmoud/calver) - 📅 The web's go-to resource for Calendar Versioning info.
 - [CloudFlarePartner](https://github.com/luodaoyi/CloudFlarePartner) - CloudFlare  partner   website with python and flask
 - [gatsby-starter-default](https://github.com/gatsbyjs/gatsby-starter-default) - The default Gatsby starter
@@ -2578,7 +2577,6 @@
 - [noto-source](https://github.com/googlefonts/noto-source) - 
 - [Azure-TDSP-Utilities](https://github.com/Azure/Azure-TDSP-Utilities) - Utilities and scripts  developed as part of Microsoft's Team Data Science Process for productive data science
 - [ai-on.org](https://github.com/AI-ON/ai-on.org) - AI•ON projects repository and website source.
-- [SkylinkJS](https://github.com/Temasys/SkylinkJS) - SkylinkJS Javascript WebRTC SDK
 - [retread](https://github.com/ryanfox/retread) - Detect reused frames in video
 - [computer-science-flash-cards](https://github.com/jwasham/computer-science-flash-cards) - Mini website for testing both general CS knowledge and enforce coding practice and common algorithm/data structure memorization.
 - [ec2instances.info](https://github.com/powdahound/ec2instances.info) - Amazon EC2 instance comparison site
@@ -2651,7 +2649,6 @@
 - [ecma262](https://github.com/tc39/ecma262) - Status, process, and documents for ECMA-262
 - [awesome-br.github.io](https://github.com/awesome-br/awesome-br.github.io) - 
 - [open-source-checklist](https://github.com/afonsopacifer/open-source-checklist) - :octocat: A guide to help you remember important things when creating an open source project ;D
-- [deploy](https://github.com/ansistrano/deploy) - Ansible role to deploy scripting applications like PHP, Python, Ruby, etc. in a capistrano style
 - [awesome-angular](https://github.com/PatrickJS/awesome-angular) - :page_facing_up: A curated list of awesome Angular resources
 - [pep8.org](https://github.com/kennethreitz-archive/pep8.org) - PEP 8, for Humans.
 - [WebFundamentals](https://github.com/google/WebFundamentals) - Best practices for modern web development
@@ -2966,7 +2963,7 @@
 - [pomelo](https://github.com/NetEase/pomelo) - A fast,scalable,distributed game server framework for Node.js.
 - [vue-admin-template](https://github.com/PanJiaChen/vue-admin-template) - a vue2.0 minimal admin template
 - [franz](https://github.com/meetfranz/franz) - Franz is a free messaging app for services like WhatsApp, Slack, Messenger and many more.
-- [tlroadmap](https://github.com/tlbootcamp/tlroadmap) - 👩🏼‍💻👨🏻‍💻Карта навыков и модель развития тимлидов
+- [tlroadmap](https://github.com/tlbootcamp/tlroadmap) - Тимлид – это ❄️, потому что в каждой компании он уникален и неповторим.
 - [leaflet-panel-layers](https://github.com/stefanocudini/leaflet-panel-layers) - Leaflet Control Layers extended with support groups and icons
 - [mapsapi](https://github.com/2gis/mapsapi) - Карты 2ГИС — это точные данные обо всех объектах города, включая новостройки, с детализацией до заборов и внутриквартальных проездов.
 - [ol-mapbox-style](https://github.com/openlayers/ol-mapbox-style) - Use Mapbox Style objects with OpenLayers
@@ -3836,7 +3833,7 @@
 - [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don't have a broken hiring process
 - [franc](https://github.com/wooorm/franc) - Natural language detection
 - [vue-custom-element](https://github.com/karol-f/vue-custom-element) - Vue Custom Element - Web Components' Custom Elements for Vue.js
-- [nunuStudio](https://github.com/tentone/nunuStudio) - Web based game engine and 3D editor for interactive applications. Scene editor, material modal, post-processing, object based scripting, WebVR, positional audio support.
+- [nunuStudio](https://github.com/tentone/nunuStudio) - Web powered cross-platform 3D game engine.
 - [d3-annotation](https://github.com/susielu/d3-annotation) - Use d3-annotation with built-in annotation types, or extend it to make custom annotations. It is made for d3-v4 in SVG.
 - [Caporal.js](https://github.com/mattallty/Caporal.js) - A full-featured framework for building command line applications (cli) with node.js
 - [geojson-google-maps](https://github.com/JasonSanford/geojson-google-maps) - A simple utility to convert GeoJSON objects to Google Maps vector objects (Marker, Polyline, Polygon)
@@ -3961,6 +3958,7 @@
 - [demo-quickconnect](https://github.com/rtc-io/demo-quickconnect) - EXAMPLE: A simple video conferencing example using rtc-quickconnect
 - [SimpleWebRTC](https://github.com/simplewebrtc/SimpleWebRTC) - Simplest WebRTC ever
 - [AdapterJS](https://github.com/Temasys/AdapterJS) - AdapterJS Javascript Polyfill and Tools for WebRTC - Skylink WebRTC
+- [SkylinkJS](https://github.com/Temasys/SkylinkJS) - SkylinkJS Javascript WebRTC SDK
 - [samples](https://github.com/webrtc/samples) - WebRTC Web demos and samples
 - [getaroom](https://github.com/Temasys/getaroom) - Simple WebRTC audio/video conferencing demo using SkylinkJS and React.
 - [Vue2Leaflet](https://github.com/vue-leaflet/Vue2Leaflet) - Vue 2 components for Leaflet maps
@@ -6074,6 +6072,7 @@
 - [forgefed](https://github.com/forgefed/forgefed) - An extension to ActivityPub for web-based Git services federation.
 - [frontend-notes](https://github.com/ahmadalfy/frontend-notes) - An attempt to document what's happening on the client-side
 - [Alibaba-MIT-Speech](https://github.com/alibaba/Alibaba-MIT-Speech) - Alibaba speech technology
+- [Jadesktop](https://github.com/codesardine/Jadesktop) - Linux desktop environment built with HTML5, CSS, JavaScript and Python.
 - [awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) - A curated list of software and architecture related design patterns.
 - [awesome-adversarial-machine-learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning) - A curated list of awesome adversarial machine learning resources
 - [awesome-radare2](https://github.com/radareorg/awesome-radare2) - A curated list of awesome projects, articles and the other materials powered by Radare2
@@ -6141,7 +6140,6 @@
 - [javascript-knowhow](https://github.com/lidaguang1989/javascript-knowhow) - 
 - [proposals](https://github.com/tc39/proposals) - Tracking ECMAScript Proposals
 - [You-Dont-Know-JS](https://github.com/devSchacht/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
-- [rollback](https://github.com/ansistrano/rollback) - Ansible role to rollback scripting applications like PHP, Python, Ruby, etc. in a capistrano style
 - [ansible-role-nginx](https://github.com/geerlingguy/ansible-role-nginx) - Ansible Role - Nginx
 - [mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook) - Mac setup and configuration via Ansible.
 - [awesome-developer-streams](https://github.com/bnb/awesome-developer-streams) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻 Awesome Developers, Streaming
@@ -7017,7 +7015,7 @@
 - [meta_seq2seq](https://github.com/facebookresearch/meta_seq2seq) - Compositional generalization through meta sequence-to-sequence learning
 - [Pytorch-Networks](https://github.com/HaiyangLiu1997/Pytorch-Networks) - 
 - [pytorch-distributed](https://github.com/tczhangzhi/pytorch-distributed) - A quickstart and benchmark for pytorch distributed training.
-- [KAIR](https://github.com/cszn/KAIR) - Image Restoration Toolbox (PyTorch). Training and testing codes for DnCNN, FFDNet, SRMD, DPSR, MSRResNet, ESRGAN, IMDN
+- [KAIR](https://github.com/cszn/KAIR) - Image Restoration Toolbox (PyTorch). Training and testing codes for USRNet, DnCNN, FFDNet, SRMD, DPSR, MSRResNet, ESRGAN, IMDN
 - [StyleGAN2-Tensorflow-2.0](https://github.com/manicman1999/StyleGAN2-Tensorflow-2.0) - StyleGAN 2 in Tensorflow 2.0
 - [BMW-TensorFlow-Inference-API-GPU](https://github.com/BMW-InnovationLab/BMW-TensorFlow-Inference-API-GPU) - This is a repository for an object detection inference API using the Tensorflow framework.
 - [BMW-TensorFlow-Training-GUI](https://github.com/BMW-InnovationLab/BMW-TensorFlow-Training-GUI) - This repository allows you to get started with a gui based training a State-of-the-art Deep Learning model with little to no configuration needed! Training with TensorFlow has never been so easy.
@@ -7474,7 +7472,7 @@
 - [jupyter-book](https://github.com/executablebooks/jupyter-book) - Build interactive, publication-quality documents from Jupyter Notebooks
 - [DL-Seq2Seq](https://github.com/GauravBh1010tt/DL-Seq2Seq) - Implementation of papers on Deep Seq2seq learning using Pytorch.
 - [pghoard](https://github.com/aiven/pghoard) - PostgreSQL backup and restore service
-- [subsync](https://github.com/smacke/subsync) - Automagically synchronize subtitles with video. 自动同步字幕与视频。
+- [ffsubsync](https://github.com/smacke/ffsubsync) - Automagically synchronize subtitles with video. 自动同步字幕与视频。
 - [nni](https://github.com/microsoft/nni) - An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.
 - [lazynlp](https://github.com/chiphuyen/lazynlp) - Library to scrape and clean web pages to create massive datasets.
 - [AdaBound](https://github.com/Luolc/AdaBound) - An optimizer that trains as fast as Adam and as good as SGD.
@@ -13186,7 +13184,7 @@
 - [events](https://github.com/vuejs/events) - Source code for the new Vue.js Events page
 - [vue-unicons](https://github.com/antonreshetov/vue-unicons) - 1000+ Pixel-perfect svg icons for your next project as Vue components
 - [vue-hooks-foodapp](https://github.com/sdras/vue-hooks-foodapp) - A food app using a few hooks in Vue to show how they can work (experimental)
-- [lin-cms-vue](https://github.com/TaleLin/lin-cms-vue) - 🔆A simple and practical CMS implemented by Vue
+- [lin-cms-vue](https://github.com/TaleLin/lin-cms-vue) - 🔆 一个简单的前后分离的Vue CMS框架
 - [vue-slideout-panel](https://github.com/officert/vue-slideout-panel) - Vue JS component for stackable slideout panels
 - [mysigmail](https://github.com/antonreshetov/mysigmail) - UI Email Signature Generator - Make easy to create your email signature
 - [splayerx](https://github.com/chiflix/splayerx) - SPlayerX@2018
@@ -13524,6 +13522,11 @@
 ## XSLT 
 
 - [practical-modern-javascript](https://github.com/mjavascript/practical-modern-javascript) - 🏊 Dive into ES6 and the future of JavaScript
+
+## YAML 
+
+- [rollback](https://github.com/ansistrano/rollback) - Ansible role to rollback scripting applications like PHP, Python, Ruby, etc. in a capistrano style
+- [deploy](https://github.com/ansistrano/deploy) - Ansible role to deploy scripting applications like PHP, Python, Ruby, etc. in a capistrano style
 
 ## YARA 
 
