@@ -904,7 +904,7 @@
 - [nmslib](https://github.com/nmslib/nmslib) - Non-Metric Space Library (NMSLIB): An efficient similarity search library and a toolkit for evaluation of k-NN methods for generic non-metric spaces.
 - [logkafka](https://github.com/Qihoo360/logkafka) - Collect logs and send lines to Apache Kafka
 - [pika](https://github.com/Qihoo360/pika) - Pika is a nosql compatible with redis, it is developed by Qihoo's DBA and infrastructure team
-- [uWebSockets](https://github.com/uNetworking/uWebSockets) - Simple, secure & standards compliant web I/O for the most demanding of applications
+- [uWebSockets](https://github.com/uNetworking/uWebSockets) - Simple, secure & standards compliant web server for the most demanding of applications
 - [tdesktop](https://github.com/telegramdesktop/tdesktop) - Telegram Desktop messaging app
 - [mongo](https://github.com/mongodb/mongo) - The MongoDB Database
 - [v8](https://github.com/v8/v8) - The official mirror of the V8 Git repository
@@ -1141,7 +1141,7 @@
 - [documentation-user](https://github.com/odoo/documentation-user) - Sources For Odoo Enterprise Business Apps User Manual
 - [owasp-summit-2017](https://github.com/OWASP/owasp-summit-2017) - Content for OWASP Summit 2017 site
 - [js-mythbusters](https://github.com/Kikobeats/js-mythbusters) - :ghost: STHAP js, where is my perfomance?
-- [TypeScript-Node-Starter](https://github.com/microsoft/TypeScript-Node-Starter) - A starter template for TypeScript and Node with a detailed README describing how to use the two together.
+- [TypeScript-Node-Starter](https://github.com/microsoft/TypeScript-Node-Starter) - A reference example for TypeScript and Node with a detailed README describing how to use the two together.
 - [now-ui-kit](https://github.com/creativetimofficial/now-ui-kit) - Now UI Kit Bootstrap 4 - Designed by Invision. Coded by Creative Tim
 - [serverless-stack-com](https://github.com/AnomalyInnovations/serverless-stack-com) - Source for Serverless-Stack.com
 - [jdm](https://github.com/jdm-contrib/jdm) - A directory of direct links to delete your account from web services.
@@ -2846,7 +2846,7 @@
 - [selenium](https://github.com/SeleniumHQ/selenium) - A browser automation framework and ecosystem.
 - [notes](https://github.com/donnemartin/notes) - Android app for taking notes: Text, photos, audio, photos, and soon videos
 - [ctci](https://github.com/careercup/ctci) - Cracking the Coding Interview, 5th Edition
-- [CLAVIN](https://github.com/Berico-Technologies/CLAVIN) - CLAVIN (Cartographic Location And Vicinity INdexer) is an open source software package for document geotagging and geoparsing that employs context-based geographic entity resolution.
+- [CLAVIN](https://github.com/Novetta/CLAVIN) - CLAVIN (Cartographic Location And Vicinity INdexer) is an open source software package for document geotagging and geoparsing that employs context-based geographic entity resolution.
 - [gazetteer](https://github.com/kiselev-dv/gazetteer) - OSM ElasticSearch geocoder and addresses exporter
 - [photon](https://github.com/komoot/photon) - an open source geocoder for openstreetmap data
 - [stampede](https://github.com/torodb/stampede) - The ToroDB solution to provide better analytics on top of MongoDB and make it easier to migrate from MongoDB to SQL
@@ -3023,7 +3023,7 @@
 - [form-backend-validation](https://github.com/spatie/form-backend-validation) - An easy way to validate forms using back end logic
 - [election-live](https://github.com/codeforthailand/election-live) - Live Scoreboard for Thai General Election 2562 (2019)
 - [send](https://github.com/mozilla/send) - Simple, private file sharing from the makers of Firefox
-- [laxxx](https://github.com/alexfoxy/laxxx) - Simple & light weight (3kb minified & zipped) vanilla javascript plugin to create smooth & beautiful animations when you scrolllll! Harness the power of the most intuitive interaction and make your websites come alive!
+- [lax.js](https://github.com/alexfoxy/lax.js) - Simple & light weight (3kb minified & zipped) vanilla javascript plugin to create smooth & beautiful animations when you scrolllll! Harness the power of the most intuitive interaction and make your websites come alive!
 - [yus](https://github.com/Webang/yus) - vue components based on VueJS
 - [awesome-uses](https://github.com/wesbos/awesome-uses) - A list of /uses pages detailing developer setups, gear, software and configs.
 - [vue-mq](https://github.com/AlexandreBonaventure/vue-mq) - 📱 💻   Define your breakpoints and build responsive design semantically and declaratively in a mobile-first way with Vue.
@@ -4443,6 +4443,7 @@
 
 ## Jupyter Notebook 
 
+- [Practical_RL](https://github.com/sshkhr/Practical_RL) - My solutions to Yandex Practical Reinforcement Learning course in PyTorch and Tensorflow
 - [video-scene-detection](https://github.com/ivi-ru/video-scene-detection) - 
 - [30-Days-of-Python](https://github.com/codingforentrepreneurs/30-Days-of-Python) - A New Version of 30 Days of Python is nearly here. Get started today.
 - [tutorials](https://github.com/krittikaiitb/tutorials) - Set of Jupyter Notebooks, along with datafiles, to get started with Scientific Computing in Astronomy
@@ -5720,6 +5721,7 @@
 
 ## Others 
 
+- [awesome-mlss](https://github.com/sshkhr/awesome-mlss) - List of summer schools in machine learning + related fields across the globe
 - [word2vec-GoogleNews-vectors](https://github.com/mmihaltz/word2vec-GoogleNews-vectors) - word2vec Google News model
 - [task-specific-datasets](https://github.com/PolyAI-LDN/task-specific-datasets) - A collection of task-specific NLU datasets
 - [awesome-git-addons](https://github.com/stevemao/awesome-git-addons) - :sunglasses: A curated list of add-ons that extend/enhance the git CLI.
@@ -6731,6 +6733,10 @@
 
 ## Python 
 
+- [fonduer](https://github.com/HazyResearch/fonduer) - A knowledge base construction engine for richly formatted data
+- [hgcn](https://github.com/HazyResearch/hgcn) - Hyperbolic Graph Convolutional Networks in PyTorch.
+- [KGEmb](https://github.com/HazyResearch/KGEmb) - Hyperbolic Knowledge Graph embeddings.
+- [geoopt](https://github.com/geoopt/geoopt) - Riemannian Adaptive Optimization Methods with pytorch optim
 - [sacrebleu](https://github.com/mjpost/sacrebleu) - Reference BLEU implementation that auto-downloads test sets and reports a version string to facilitate cross-lab comparisons
 - [full_stack_transformer](https://github.com/alexeykarnachev/full_stack_transformer) - Pytorch library for end-to-end transformer models training, inference and serving
 - [hedwig](https://github.com/castorini/hedwig) - PyTorch deep learning models for document classification
@@ -12877,7 +12883,7 @@
 - [Mosaic](https://github.com/Authman2/Mosaic) - 🎨 A front-end JavaScript library for building user interfaces!
 - [type-fest](https://github.com/sindresorhus/type-fest) - A collection of essential TypeScript types
 - [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
-- [code-server](https://github.com/cdr/code-server) - Run VS Code on a remote server.
+- [code-server](https://github.com/cdr/code-server) - VS Code in the browser
 - [vue-dev-server](https://github.com/vuejs/vue-dev-server) - A POC dev server that allows you to import `*.vue` files via native ES modules imports.
 - [nodejs.dev](https://github.com/nodejs/nodejs.dev) - A new Node.js resource built using Gatsby.js with React.js, TypeScript, Emotion, and Remark.
 - [frontend-bootcamp](https://github.com/microsoft/frontend-bootcamp) - Frontend Workshop from HTML/CSS/JS to TypeScript/React/Redux
