@@ -468,6 +468,7 @@
 
 ## C++ 
 
+- [s3fs-fuse](https://github.com/s3fs-fuse/s3fs-fuse) - FUSE-based file system backed by Amazon S3
 - [TurboTransformers](https://github.com/Tencent/TurboTransformers) - a fast and user-friendly tool for transformer inference on CPU and GPU
 - [mindspore](https://github.com/mindspore-ai/mindspore) - MindSpore is a new open source deep learning training/inference framework that could be used for mobile, edge and cloud scenarios.
 - [TRTorch](https://github.com/NVIDIA/TRTorch) - Ahead-of-time compilation of TorchScript / PyTorch JIT for NVIDIA GPUs
@@ -987,7 +988,7 @@
 - [DashMachine](https://github.com/rmountjoy92/DashMachine) - Another web application bookmark dashboard, with fun features.
 - [rwi_executive_dashboard](https://github.com/splunk/rwi_executive_dashboard) - Splunk Remote Work Insights - Executive Dashboard
 - [git-workflow-merge-conflicts-lab](https://github.com/learn-co-curriculum/git-workflow-merge-conflicts-lab) - 
-- [vscode-plugin](https://github.com/kiteco/vscode-plugin) - Kite Python Assistant for Visual Studio Code
+- [vscode-plugin](https://github.com/kiteco/vscode-plugin) - Kite Autocomplete Plugin for Visual Studio Code
 - [tutorial](https://github.com/DjangoGirls/tutorial) - This is a tutorial we are using for Django Girls workshops
 - [tailwind-starter-kit](https://github.com/creativetimofficial/tailwind-starter-kit) - Tailwind Starter Kit a beautiful extension for TailwindCSS, Free and Open Source
 - [bootstrap-4-github-pages](https://github.com/nicolas-van/bootstrap-4-github-pages) - A Bootstrap 4 start up project for Github Pages and Jekyll
@@ -1608,7 +1609,7 @@
 - [k3v](https://github.com/ibuildthecloud/k3v) - Virtual Kubernetes
 - [monday](https://github.com/eko/monday) - ⚡️ A dev tool for microservice developers to run local applications and/or forward others from/to Kubernetes SSH or TCP
 - [lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
-- [olivia](https://github.com/olivia-ai/olivia) - 💁‍♀️your new best friend built with an artificial neural network
+- [olivia](https://github.com/olivia-ai/olivia) - 💁‍♀️Your new best friend built with an artificial neural network
 - [cloud-builders-community](https://github.com/GoogleCloudPlatform/cloud-builders-community) - Community-contributed images for Google Cloud Build
 - [geziyor](https://github.com/geziyor/geziyor) - Geziyor, a fast web crawling & scraping framework for Go. Supports JS rendering.
 - [devdash](https://github.com/Phantas0s/devdash) - :bento: Highly Configurable Terminal Dashboard for Developers
@@ -2487,6 +2488,7 @@
 - [DeepLearningProject](https://github.com/Spandan-Madan/DeepLearningProject) - An in-depth machine learning tutorial introducing readers to a whole machine learning pipeline from scratch.
 - [drek](https://github.com/chrisallenlane/drek) - A static-code-analysis tool for performing security-focused code reviews. It enables an auditor to swiftly map the attack-surface of a large application, with an emphasis on identifying development anti-patterns and footguns.
 - [ethereum-org](https://github.com/ethereum/ethereum-org) - [ARCHIVED] ethereum.org website from 2016-2019. See https://github.com/ethereum/ethereum-org-website for current version.
+- [tidygraph](https://github.com/thomasp85/tidygraph) - A tidy API for graph manipulation
 - [django-wedding-website](https://github.com/czue/django-wedding-website) - A django-powered wedding website and guest-management system
 - [web-launch-checklist](https://github.com/HarrisJT/web-launch-checklist) - :clipboard: A simple website launch checklist to keep track of the most important enrichment possibilities for a website.
 - [ha-floorplan](https://github.com/pkozul/ha-floorplan) - Floorplan for Home Assistant
@@ -5054,7 +5056,7 @@
 - [automl_service](https://github.com/crawles/automl_service) - Deploy AutoML as a service using Flask
 - [numerical-computing-is-fun](https://github.com/eka-foundation/numerical-computing-is-fun) - Learning numerical computing with notebooks for all ages.
 - [fastai](https://github.com/fastai/fastai) - The fastai deep learning library, plus lessons and tutorials
-- [pytudes](https://github.com/norvig/pytudes) - Python programs to practice or demonstrate skills.
+- [pytudes](https://github.com/norvig/pytudes) - Python programs, usually short, of considerable difficulty, to perfect particular skills.
 - [Urban-Sound-Classification](https://github.com/aqibsaeed/Urban-Sound-Classification) - Urban sound classification using Deep Learning
 - [afinn](https://github.com/fnielsen/afinn) - AFINN sentiment analysis in Python
 - [mimic-code](https://github.com/MIT-LCP/mimic-code) - MIMIC Code Repository: Code shared by the research community for the MIMIC-III database
@@ -5826,7 +5828,7 @@
 - [MIT-Linear-Algebra-Notes](https://github.com/yizhen20133868/MIT-Linear-Algebra-Notes) - Notes for MIT-Linear-Algebra
 - [Cookbook](https://github.com/andkret/Cookbook) - The Data Engineering Cookbook
 - [dn](https://github.com/tomlockwood/dn) - Daily notes command line tool
-- [awesome-robotic-tooling](https://github.com/Ly0n/awesome-robotic-tooling) - Tools for professional robotic development with ROS in C++ and Python.
+- [awesome-robotic-tooling](https://github.com/Ly0n/awesome-robotic-tooling) - Tools for professional robotic development with ROS in C++ and Python
 - [awesome-graph](https://github.com/jbmusso/awesome-graph) - A curated list of resources for graph databases and graph computing tools
 - [For-Data-Science-Beginners](https://github.com/amrrs/For-Data-Science-Beginners) - Set of 📝 with 🔗 to help those who are Data Science beginners 🤖
 - [awesome-libra](https://github.com/reed-hong/awesome-libra) - A Curated List of Awesome Facebook Libra Resources
@@ -7191,7 +7193,7 @@
 - [case-212](https://github.com/developers-against-repressions/case-212) - Открытое письмо специалистов IT-индустрии в защиту фигурантов «московского дела»
 - [a-PyTorch-Tutorial-to-Object-Detection](https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Object-Detection) - SSD: Single Shot MultiBox Detector | a PyTorch Tutorial to Object Detection
 - [places365](https://github.com/CSAILVision/places365) - The Places365-CNNs for Scene Classification
-- [NeMo](https://github.com/NVIDIA/NeMo) - Neural Modules: a toolkit for conversational AI
+- [NeMo](https://github.com/NVIDIA/NeMo) - NeMo: a toolkit for conversational AI
 - [uct_atari](https://github.com/5vision/uct_atari) - uct tree search + supervised lerning for atari games
 - [Data-Efficient-Model-Compression](https://github.com/huawei-noah/Data-Efficient-Model-Compression) - Data Efficient Model Compression
 - [stringsifter](https://github.com/fireeye/stringsifter) - A machine learning tool that ranks strings based on their relevance for malware analysis.
@@ -11413,7 +11415,7 @@
 - [pyjstat](https://github.com/predicador37/pyjstat) - pyjstat is a python library for JSON-stat formatted data manipulation which allows reading and writing JSON-stat [1] format with python,using the DataFrame structures provided by the widely accepted pandas library
 - [NouGAT](https://github.com/vezzi/NouGAT) - 
 - [mittn](https://github.com/F-Secure/mittn) - Mittn: Security test tool runner for test automation in CI
-- [httpie](https://github.com/jakubroztocil/httpie) - As easy as HTTPie /aitch-tee-tee-pie/  🥧 Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.  https://twitter.com/clihttp
+- [httpie](https://github.com/jakubroztocil/httpie) - As easy as HTTPie /aitch-tee-tee-pie/  🥧 Modern command-line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.  https://twitter.com/clihttp
 - [cytoolz](https://github.com/pytoolz/cytoolz) - Cython implementation of Toolz: High performance functional utilities
 - [Spirit](https://github.com/nitely/Spirit) - Spirit is a modern Python based forum built on top of Django framework
 - [container-agent](https://github.com/googlearchive/container-agent) - Simple agent for running containers based on a declarative manifest.
@@ -12169,7 +12171,7 @@
 - [PyExcelerate](https://github.com/kz26/PyExcelerate) - Accelerated Excel XLSX Writing Library for Python 2/3
 - [python-nvd3](https://github.com/areski/python-nvd3) - Python Wrapper for NVD3 - It's time for beautiful charts
 - [copperhead](https://github.com/bryancatanzaro/copperhead) - Data Parallel Python
-- [falcon](https://github.com/falconry/falcon) - Minimalist web services and app backend framework for Python developers with a focus on reliability and performance at scale.
+- [falcon](https://github.com/falconry/falcon) - The no-nonsense, minimalist web services and app backend framework for Python developers with a focus on reliability and performance at scale.
 - [logscan](https://github.com/thomst/logscan) - logscan is a command-line-tool to get time-specific access to logfiles. It can handle rotated and gzipped logfiles or reads from stdin. The log   is automatically checked for different timecodes.
 - [timeparser](https://github.com/thomst/timeparser) - Parse strings to objects of the datetime-module.  This module intends to make string-parsing to objects of the datetime-module as easy as possible while allowing a fine configuration about which kind of formats are supported.
 - [timeparse](https://github.com/thomst/timeparse) - An argparse-extension for parsing command-line arguments as time-, date-, datetime-, or timedelta-objects.
@@ -12365,7 +12367,6 @@
 - [workflowr](https://github.com/jdblischak/workflowr) - Organize your project into a research website
 - [lintr](https://github.com/jimhester/lintr) - Static Code Analysis for R
 - [testthat](https://github.com/r-lib/testthat) - An R 📦 to make testing 😀
-- [tidygraph](https://github.com/thomasp85/tidygraph) - A tidy API for graph manipulation
 - [osmplotr](https://github.com/ropensci/osmplotr) - Data visualisation using OpenStreetMap objects
 - [geofacet](https://github.com/hafen/geofacet) - R package for geographical faceting with ggplot2
 - [syberia](https://github.com/syberia/syberia) - Syberia: The development framework for R
@@ -12847,7 +12848,7 @@
 - [lens](https://github.com/lensapp/lens) - Lens - The Kubernetes IDE
 - [backstage](https://github.com/spotify/backstage) - Backstage is an open platform for building developer portals
 - [examples](https://github.com/pulumi/examples) - Infrastructure, containers, and serverless apps to AWS, Azure, GCP, and Kubernetes... all deployed with Pulumi
-- [rome](https://github.com/facebookexperimental/rome) - An experimental JavaScript toolchain
+- [rome](https://github.com/romejs/rome) - An experimental JavaScript toolchain
 - [hiplot](https://github.com/facebookresearch/hiplot) - HiPlot makes understanding high dimensional data easy
 - [gistpad](https://github.com/vsls-contrib/gistpad) - VS Code extension for managing and sharing code snippets, notes and interactive samples using GitHub Gists
 - [tfjs-models](https://github.com/tensorflow/tfjs-models) - Pretrained models for TensorFlow.js
