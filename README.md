@@ -548,7 +548,7 @@
 - [cosmoscout-vr](https://github.com/cosmoscout/cosmoscout-vr) - :milky_way: A virtual universe which lets you explore, analyze and present huge planetary datasets and large simulation data in real-time.
 - [street-addresses](https://github.com/facebookresearch/street-addresses) - Robocodes: Towards Generative Street Addresses from Satellite Imagery
 - [llvm](https://github.com/intel/llvm) - Intel staging area for llvm.org contribution. Home for Intel LLVM-based projects.
-- [jetson-inference](https://github.com/dusty-nv/jetson-inference) - Guide to deploying deep-learning inference networks and deep vision primitives with TensorRT and NVIDIA Jetson.
+- [jetson-inference](https://github.com/dusty-nv/jetson-inference) - Hello AI World guide to deploying deep-learning inference networks and deep vision primitives with TensorRT and NVIDIA Jetson.
 - [mapbox-gl-native](https://github.com/mapbox/mapbox-gl-native) - Interactive, thoroughly customizable maps in native Android, iOS, macOS, Node.js, and Qt applications, powered by vector tiles and OpenGL
 - [pfaedle](https://github.com/ad-freiburg/pfaedle) - Precise map-matching for public transit feeds. Generates high-quality GTFS shapes from OSM data.
 - [cpp-taskflow](https://github.com/cpp-taskflow/cpp-taskflow) - Modern C++ Parallel Task Programming
@@ -576,7 +576,7 @@
 - [SPTAG](https://github.com/microsoft/SPTAG) - A distributed approximate nearest neighborhood search (ANN) library which provides a high quality vector index build, search and distributed online serving toolkits for large scale vector search scenario.
 - [dabnn](https://github.com/JDAI-CV/dabnn) - dabnn is an accelerated binary neural networks inference framework for mobile platform
 - [terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
-- [MNN](https://github.com/alibaba/MNN) - MNN is a lightweight deep neural network inference engine.
+- [MNN](https://github.com/alibaba/MNN) - MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba
 - [stk-code](https://github.com/supertuxkart/stk-code) - The code base of supertuxkart
 - [KeyDB](https://github.com/JohnSully/KeyDB) - A Multithreaded Fork of Redis
 - [TerrainEngine-OpenGL](https://github.com/fede-vaccaro/TerrainEngine-OpenGL) - An OpenGL 4 and C++ program which renders a procedural scene.
@@ -1850,7 +1850,7 @@
 - [decimal](https://github.com/ericlagergren/decimal) - A high-performance, arbitrary-precision, floating-point decimal library.
 - [darch](https://github.com/godarch/darch) - A tool for building and booting stateless and immutable images, bare metal.
 - [blockchain-tutorial](https://github.com/nosequeldeebee/blockchain-tutorial) - Write and publish your own blockchain in less than 200 lines of Go
-- [golang-tutorials](https://github.com/hacking-code/golang-tutorials) - Hacking Code - Golang Guide and Tutorials - Let's get the hands really dirty by writing a lot of Golang code
+- [golang-tutorials](https://github.com/alex-gama/golang-tutorials) - Hacking Code - Golang Guide and Tutorials - Let's get the hands really dirty by writing a lot of Golang code
 - [caire](https://github.com/esimov/caire) - Content aware image resize library
 - [terraform-inventory](https://github.com/adammck/terraform-inventory) - Terraform State → Ansible Dynamic Inventory
 - [fabric](https://github.com/hyperledger/fabric) - Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications. Its modular and versatile design satisfies a broad range of industry use cases. It offers a unique approach to consensus that enables performance at scale while preserving privacy.
@@ -3804,7 +3804,7 @@
 - [react-pdf](https://github.com/diegomura/react-pdf) - 📄 Create PDF files using React
 - [fair-analytics](https://github.com/vesparny/fair-analytics) - 📊  An analytics server that doesn't undermine user's privacy
 - [britecharts](https://github.com/britecharts/britecharts) - Client-side reusable Charting Library based on D3.js v5 that allows easy and intuitive use of charts and components that can be composed together creating amazing visualizations.
-- [insomnia](https://github.com/Kong/insomnia) - Cross-platform HTTP and GraphQL Client
+- [insomnia](https://github.com/Kong/insomnia) - Leading Open Source API Client, and Collaborative API Design Platform for GraphQL, and REST
 - [mongorito](https://github.com/vadimdemedes/mongorito) - 🍹 MongoDB ODM for Node.js apps based on Redux
 - [prepack](https://github.com/facebook/prepack) - A JavaScript bundle optimizer.
 - [framework](https://github.com/totaljs/framework) - Node.js framework
@@ -4138,7 +4138,7 @@
 - [computer-science-in-javascript](https://github.com/benoitvallon/computer-science-in-javascript) - Computer science reimplemented in JavaScript
 - [ActivFlow](https://github.com/faxad/ActivFlow) - Generic, light-weight & extensible Workflow Engine for agile automation of Business Processes | Django, Python
 - [feathers](https://github.com/feathersjs/feathers) - A framework for real-time applications and REST APIs with JavaScript and TypeScript
-- [react-native-macos](https://github.com/ptmt/react-native-macos) - React Native for macOS is an experimental fork for writing desktop apps using Cocoa
+- [react-native-macos](https://github.com/ptmt/react-native-macos) - [deprecated in favor of https://microsoft.github.io/react-native-windows/] React Native for macOS is an experimental fork for writing desktop apps using Cocoa
 - [select2](https://github.com/select2/select2) - Select2 is a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results.
 - [flask-AdminLTE](https://github.com/a0726h77/flask-AdminLTE) - Bootstrap AdminLTE template with Flask framework
 - [AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - AdminLTE - Free admin dashboard template based on Bootstrap 4
@@ -6076,7 +6076,6 @@
 - [forgefed](https://github.com/forgefed/forgefed) - An extension to ActivityPub for web-based Git services federation.
 - [frontend-notes](https://github.com/ahmadalfy/frontend-notes) - An attempt to document what's happening on the client-side
 - [Alibaba-MIT-Speech](https://github.com/alibaba/Alibaba-MIT-Speech) - Alibaba speech technology
-- [Jadesktop](https://github.com/codesardine/Jadesktop) - Linux desktop environment built with HTML5, CSS, JavaScript and Python.
 - [awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) - A curated list of software and architecture related design patterns.
 - [awesome-adversarial-machine-learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning) - A curated list of awesome adversarial machine learning resources
 - [awesome-radare2](https://github.com/radareorg/awesome-radare2) - A curated list of awesome projects, articles and the other materials powered by Radare2
@@ -6735,6 +6734,7 @@
 
 ## Python 
 
+- [bert](https://github.com/deepmipt/bert) - TensorFlow code and pre-trained models for BERT
 - [fonduer](https://github.com/HazyResearch/fonduer) - A knowledge base construction engine for richly formatted data
 - [hgcn](https://github.com/HazyResearch/hgcn) - Hyperbolic Graph Convolutional Networks in PyTorch.
 - [KGEmb](https://github.com/HazyResearch/KGEmb) - Hyperbolic Knowledge Graph embeddings.
@@ -8032,6 +8032,7 @@
 - [slash](https://github.com/getslash/slash) - The Slash testing infrastructure
 - [holdem-challenge](https://github.com/sberbank-ai/holdem-challenge) - Материалы к соревнованию Sberbank Holdem Challenge http://sberbank.ai
 - [pycolab](https://github.com/deepmind/pycolab) - A highly-customisable gridworld game engine with some batteries included. Make your own gridworld games to test reinforcement learning agents!
+- [Jadesktop](https://github.com/codesardine/Jadesktop) - Linux desktop environment built with HTML5, CSS, JavaScript and Python.
 - [h4cker](https://github.com/The-Art-of-Hacking/h4cker) - This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more.
 - [XSStrike](https://github.com/s0md3v/XSStrike) - Most advanced XSS scanner.
 - [arl](https://github.com/kaxap/arl) - lists of most popular repositories for most favoured programming languages (according to StackOverflow)
