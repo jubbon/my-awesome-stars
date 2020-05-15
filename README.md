@@ -3181,7 +3181,7 @@
 - [project-explorer](https://github.com/sdras/project-explorer) - 🎋A CLI tool to create an annotated tree visualization of any project
 - [vue-realworld-example-app](https://github.com/gothinkster/vue-realworld-example-app) - An exemplary real-world application built with Vue.js, Vuex, axios and different other technologies. This is a good example to discover Vue for beginners.
 - [react-redux](https://github.com/reduxjs/react-redux) - Official React bindings for Redux
-- [gridsome](https://github.com/gridsome/gridsome) - ⚡️Build modern JAMstack websites with Vue.js
+- [gridsome](https://github.com/gridsome/gridsome) - ⚡️ A Jamstack framework for Vue.js
 - [galio](https://github.com/galio-org/galio) - Galio is a beautifully designed, Free and Open Source React Native Framework
 - [webpack-demos](https://github.com/dongyuanxin/webpack-demos) - 📦 Demos && Courses for Webpack 4
 - [jsonmc](https://github.com/jsonmc/jsonmc) - JSON Movie Collection
@@ -3655,7 +3655,7 @@
 - [tabris-js](https://github.com/eclipsesource/tabris-js) - Tabris.js - Native Mobile Apps in JavaScript
 - [vue-a11y-calendar](https://github.com/IBM/vue-a11y-calendar) - Accessible, internationalized Vue calendar
 - [hivemind](https://github.com/littlstar/hivemind) - For creating distributed jobs using AWS Lambda functions
-- [carbon](https://github.com/carbon-app/carbon) - 🎨 Create and share beautiful images of your source code
+- [carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
 - [vant](https://github.com/youzan/vant) - Lightweight Mobile UI Components built on Vue
 - [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Materials to help you rock your next coding interview
 - [bosket](https://github.com/elbywan/bosket) - Collection of tree view components for front-end frameworks. :deciduous_tree:
@@ -5116,7 +5116,7 @@
 - [anomaly_detection_for_CERN](https://github.com/llSourcell/anomaly_detection_for_CERN) - This is code for my CERN presentation
 - [facets](https://github.com/PAIR-code/facets) - Visualizations for machine learning datasets
 - [mxnet-the-straight-dope](https://github.com/zackchase/mxnet-the-straight-dope) - An interactive book on deep learning. Much easy, so MXNet. Wow. [Straight Dope is growing up] ---&gt; Much of this content has been incorporated into the new Dive into Deep Learning Book available at https://d2l.ai/.
-- [tensorflow-nlp](https://github.com/zhedongzheng/tensorflow-nlp) - Building Blocks for NLP and Text Generation in TensorFlow 2.x / 1.x
+- [tensorflow-nlp](https://github.com/zhedongzheng/tensorflow-nlp) - Building blocks for NLP and Text Generation in TensorFlow 2.x / 1.x
 - [quilt](https://github.com/quiltdata/quilt) - Quilt is a versioned data portal for AWS
 - [InferSent](https://github.com/facebookresearch/InferSent) - InferSent sentence embeddings
 - [analyze-citymobil](https://github.com/kuk/analyze-citymobil) - 
@@ -7031,7 +7031,7 @@
 - [EfficientDet.Pytorch](https://github.com/toandaominh1997/EfficientDet.Pytorch) - Implementation EfficientDet: Scalable and Efficient Object Detection in PyTorch
 - [github-typo-corpus](https://github.com/mhagiwara/github-typo-corpus) - GitHub Typo Corpus: A Large-Scale Multilingual Dataset of Misspellings and Grammatical Errors
 - [StackedDeBERT](https://github.com/gcunhase/StackedDeBERT) - Stacked Denoising BERT for Text Classification in Incomplete Data
-- [BCQ](https://github.com/sfujim/BCQ) - Author's PyTorch implementation of BCQ for "Off-Policy Deep Reinforcement Learning without Exploration"
+- [BCQ](https://github.com/sfujim/BCQ) - Author's PyTorch implementation of BCQ for continuous and discrete actions
 - [K3D-jupyter](https://github.com/K3D-tools/K3D-jupyter) - K3D lets you create 3D plots backed by WebGL with high-level API (surfaces, isosurfaces, voxels, mesh, cloud points, vtk objects, volume renderer, colormaps, etc). The primary aim of K3D-jupyter is to be easy for use as stand alone package like matplotlib, but also to allow interoperation with existing libraries as VTK.
 - [FNNP](https://github.com/anonymous47823493/FNNP) - Code released for "Pruning Neural Network Using Fast Performance Prediction"
 - [AutoDL-Projects](https://github.com/D-X-Y/AutoDL-Projects) - Automated deep learning algorithms implemented in PyTorch or Tensorflow.
@@ -12936,7 +12936,7 @@
 - [draco](https://github.com/uwdata/draco) - Visualization Constraints and Weight Learning
 - [rete](https://github.com/retejs/rete) - JavaScript framework for visual programming and creating node editor
 - [phenomenon](https://github.com/vaneenige/phenomenon) - ⚡️ A fast 2kB low-level WebGL API.
-- [bit](https://github.com/teambit/bit) - Build, distribute and collaborate on reusable components.
+- [bit](https://github.com/teambit/bit) - Streamline modern component development and reuse.
 - [face-api.js](https://github.com/justadudewhohacks/face-api.js) - JavaScript API for face detection and face recognition in the browser and nodejs with tensorflow.js
 - [xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
 - [probot](https://github.com/probot/probot) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
