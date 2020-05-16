@@ -453,6 +453,7 @@
 - [DRL_based_SelfDrivingCarControl](https://github.com/MLJejuCamp2017/DRL_based_SelfDrivingCarControl) - Deep Reinforcement Learning (DQN) based Self Driving Car Control with Vehicle Simulator
 - [UnityWorker](https://github.com/OpenMined/UnityWorker) - DEPRECATED
 - [blockchain](https://github.com/dvf/blockchain) - A simple Blockchain in Python
+- [ml-agents](https://github.com/Unity-Technologies/ml-agents) - Unity Machine Learning Agents Toolkit
 - [sqlnotebook](https://github.com/electroly/sqlnotebook) - Tabular data exploration and manipulation tool powered by SQLite.
 - [TensorFlowSharp](https://github.com/migueldeicaza/TensorFlowSharp) - TensorFlow API for .NET languages
 - [electrino](https://github.com/pojala/electrino) - Desktop runtime for apps built on web technologies, using the system's own web browser engine
@@ -617,7 +618,6 @@
 - [Algojammer](https://github.com/ChrisKnott/Algojammer) - An experimental code editor for writing algorithms
 - [mindforger](https://github.com/dvorka/mindforger) - Thinking notebook and Markdown editor.
 - [lux](https://github.com/LUX-Core/lux) - LUX - Hybrid PoW/PoS & Unique PHI2 Algorithm | Masternode | Parallel masternode | Segwit | Smartcontract | Luxgate | Proof of file storage (Decentralised distributed file storage)
-- [cuml](https://github.com/rapidsai/cuml) - cuML - RAPIDS Machine Learning Library
 - [grpc-web](https://github.com/grpc/grpc-web) - gRPC for Web Clients
 - [oatpp](https://github.com/oatpp/oatpp) - 🌱Modern Web Framework for C++. High performance, simple API, cross platform, zero dependency.
 - [Algorithms](https://github.com/VAR-solutions/Algorithms) - Efficient Algorithms
@@ -1366,6 +1366,7 @@
 ## Cuda 
 
 - [deep-high-resolution-net.pytorch](https://github.com/leoxiaobin/deep-high-resolution-net.pytorch) - The project is an official implementation of our CVPR2019 paper "Deep High-Resolution Representation Learning for Human Pose Estimation"
+- [cuml](https://github.com/rapidsai/cuml) - cuML - RAPIDS Machine Learning Library
 - [PreciseRoIPooling](https://github.com/vacancy/PreciseRoIPooling) - Precise RoI Pooling with coordinate gradient support, proposed in the paper "Acquisition of Localization Confidence for Accurate Object Detection" (https://arxiv.org/abs/1807.11590).
 - [tsne-cuda](https://github.com/CannyLab/tsne-cuda) - GPU Accelerated t-SNE for CUDA with Python bindings
 - [deep-painterly-harmonization](https://github.com/luanfujun/deep-painterly-harmonization) - Code and data for paper "Deep Painterly Harmonization": https://arxiv.org/abs/1804.03189
@@ -1471,6 +1472,7 @@
 ## Dockerfile 
 
 - [docker_images](https://github.com/osrf/docker_images) - A repository to hold definitions of docker images maintained by OSRF
+- [code-with-engineering-playbook](https://github.com/microsoft/code-with-engineering-playbook) - This is the playbook for "code-with" customer or partner engagements
 - [python](https://github.com/docker-library/python) - Docker Official Image packaging for Python
 - [mssql-docker](https://github.com/microsoft/mssql-docker) - Official Microsoft repository for SQL Server in Docker resources
 - [docker-selenium](https://github.com/SeleniumHQ/docker-selenium) - Docker images for Selenium Grid Server (Standalone, Hub, and Nodes).
@@ -1774,7 +1776,7 @@
 - [fuzzy](https://github.com/sahilm/fuzzy) - Go library that provides fuzzy string matching optimized for filenames and code symbols in the style of Sublime Text, VSCode, IntelliJ IDEA et al.
 - [goproxy](https://github.com/snail007/goproxy) - Proxy is a high performance HTTP(S) proxies, SOCKS5 proxies,WEBSOCKET, TCP, UDP proxy server implemented by golang. Now, it supports chain-style proxies,nat forwarding in different lan,TCP/UDP port forwarding, SSH forwarding.Proxy是golang实现的高性能http,https,websocket,tcp,socks5代理服务器,支持内网穿透,链式代理,通讯加密,智能HTTP,SOCKS5代理,黑白名单,限速,限流量,限连接数,跨平台,KCP支持,认证API。
 - [Data-Structures-and-Algorithms](https://github.com/floyernick/Data-Structures-and-Algorithms) - Data Structures and Algorithms implementation in Go
-- [gvisor](https://github.com/google/gvisor) - Container Runtime Sandbox
+- [gvisor](https://github.com/google/gvisor) - Application Kernel & Container Runtime
 - [tidis](https://github.com/yongman/tidis) - Distributed transactional NoSQL database, Redis protocol compatible using tikv as backend
 - [muffet](https://github.com/raviqqe/muffet) - Fast website link checker in Go
 - [gojay](https://github.com/francoispqt/gojay) - fastest JSON encoder/decoder with powerful stream API for Golang
@@ -2195,6 +2197,7 @@
 
 ## HTML 
 
+- [nlp_workshop](https://github.com/buriy/nlp_workshop) - nlp workshop at datafest siberia 2019
 - [AttackVectors](https://github.com/MassMove/AttackVectors) - A repository to monitor attack vectors from state-backed information operations
 - [ASVS](https://github.com/OWASP/ASVS) - Application Security Verification Standard
 - [Introduction-to-Web-Development](https://github.com/WebDevSimplified/Introduction-to-Web-Development) - 
@@ -2502,7 +2505,6 @@
 - [kbe](https://github.com/openshift-evangelists/kbe) - Kubernetes By Example
 - [skimr](https://github.com/ropensci/skimr) - A frictionless, pipeable approach to dealing with summary statistics
 - [kaggle-past-solutions](https://github.com/EliotAndres/kaggle-past-solutions) - A searchable compilation of Kaggle past solutions
-- [owasp-mstg](https://github.com/OWASP/owasp-mstg) - The Mobile Security Testing Guide (MSTG) is a comprehensive manual for mobile app security development, testing and reverse engineering.
 - [modular-admin-html](https://github.com/modularcode/modular-admin-html) - ModularAdmin - Free Dashboard Theme Built On Bootstrap 4 | HTML Version
 - [WamaCry](https://github.com/bitdust/WamaCry) - a fake WannaCry
 - [style-guide-guide](https://github.com/bradfrost/style-guide-guide) - A boilerplate for creating your own custom style guide
@@ -3190,7 +3192,7 @@
 - [omi](https://github.com/Tencent/omi) - Front End Cross-Frameworks Framework - 前端跨框架跨平台框架
 - [33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 concepts every JavaScript developer should know.
 - [docker-nginx-letsencrypt-sample](https://github.com/gilyes/docker-nginx-letsencrypt-sample) - Dockerized Nginx + Let's Encrypt sample
-- [Google-Drive-Electron](https://github.com/alexkim205/Google-Drive-Electron) - A simple Electron Wrapper that converts Google Drive into a desktop office suite app.
+- [Google-Drive-Desktop](https://github.com/alexkim205/Google-Drive-Desktop) - An Electron Wrapper that converts Google Drive into an office suite desktop app.
 - [Radon](https://github.com/radonjs/Radon) - Object oriented state management solution for front-end development.
 - [Advanced-React](https://github.com/wesbos/Advanced-React) - Starter Files and Solutions for Full Stack Advanced React and GraphQL
 - [tiptap](https://github.com/scrumpy/tiptap) - A rich-text editor for Vue.js
@@ -3384,7 +3386,7 @@
 - [modeify](https://github.com/conveyal/modeify) - Deliver personalized commute information to travelers.
 - [transitive.js](https://github.com/conveyal/transitive.js) - Transit data visualization
 - [kue](https://github.com/Automattic/kue) - Kue is a priority job queue backed by redis, built for node.js.
-- [cryptocurrency-icons](https://github.com/atomiclabs/cryptocurrency-icons) - A set of icons for all the main cryptocurrencies and altcoins, in a range of styles and sizes.
+- [cryptocurrency-icons](https://github.com/spothq/cryptocurrency-icons) - A set of icons for all the main cryptocurrencies and altcoins, in a range of styles and sizes.
 - [auto-py-to-exe](https://github.com/brentvollebregt/auto-py-to-exe) - Converts .py to .exe using a simple graphical interface
 - [brain.js](https://github.com/BrainJS/brain.js) - 🤖 Neural networks in JavaScript
 - [turbo-ws](https://github.com/hugmanrique/turbo-ws) - :dash: Blazing fast low-level WebSocket server
@@ -4740,7 +4742,7 @@
 - [Me_Bot](https://github.com/Spandan-Madan/Me_Bot) - Build a bot that speaks like you!
 - [photomosaic](https://github.com/worldveil/photomosaic) - Creating fun photomosaics, GIFs, and murals from your family pictures using ML & similarity search
 - [google-research](https://github.com/google-research/google-research) - Google Research
-- [lessons](https://github.com/madewithml/lessons) - 📚 Learn ML with clean code, simplified math and illustrative visuals. As you learn, work on interesting projects and share them on https://madewithml.com for the community to discover and learn from!
+- [basics](https://github.com/madewithml/basics) - 📚 Learn ML with clean code, simplified math and illustrative visuals. As you learn, work on interesting projects and share them on https://madewithml.com for the community to discover and learn from!
 - [DL-workshop-series](https://github.com/Machine-Learning-Tokyo/DL-workshop-series) - Material used for Deep Learning related workshops for Machine Learning Tokyo (MLT)
 - [PRML](https://github.com/ctgk/PRML) - PRML algorithms implemented in Python
 - [Time_Series_Prediction](https://github.com/llSourcell/Time_Series_Prediction) - This is the code for "Time Series Prediction" By Siraj Raval on Youtube
@@ -4913,7 +4915,6 @@
 - [math_of_machine_learning](https://github.com/llSourcell/math_of_machine_learning) - This is the code for "Mathematcs of Machine Learning" by Siraj Raval on Youtube
 - [100daysofcode-with-python-course](https://github.com/talkpython/100daysofcode-with-python-course) - Course materials and handouts for #100DaysOfCode in Python course
 - [labnotebook](https://github.com/henripal/labnotebook) - LabNotebook is a tool that allows you to flexibly monitor, record, save, and query all your machine learning experiments.
-- [deeplearning.ai](https://github.com/stormstone/deeplearning.ai) - deeplearning.ai , By Andrew Ng, All slide and notebook + code and some material.
 - [tbd-nets](https://github.com/davidmascharka/tbd-nets) - PyTorch implementation of "Transparency by Design: Closing the Gap Between Performance and Interpretability in Visual Reasoning"
 - [faceID_beta](https://github.com/normandipalo/faceID_beta) - An implementation of iPhone X's FaceID using face embeddings and siamese networks on RGBD images.
 - [machine_learning_basics](https://github.com/zotroneneis/machine_learning_basics) - Plain python implementations of basic machine learning algorithms
@@ -5759,7 +5760,6 @@
 - [QuantumultX](https://github.com/nzw9314/QuantumultX) - QuantumultX
 - [awesome-azure-learning](https://github.com/ddneves/awesome-azure-learning) - This repo includes plenty of references for Azure learning, especially for the Azure certs and Azure architecture, and any other learning materials e.g. security and automation topics.
 - [introRL](https://github.com/zhoubolei/introRL) - Intro to Reinforcement Learning (强化学习纲要）
-- [code-with-engineering-playbook](https://github.com/microsoft/code-with-engineering-playbook) - This is the playbook for "code-with" customer or partner engagements
 - [docker-git-tip](https://github.com/djoudi5/docker-git-tip) - A handy CLI in Docker container to make optimum use of git tips, see: https://github.com/git-tips/tips
 - [stylegan2-distillation](https://github.com/EvgenyKashin/stylegan2-distillation) - 
 - [deep-nlp](https://github.com/deep-nlp-spring-2020/deep-nlp) - Natural Language Processing with Deep Learning
@@ -6734,6 +6734,10 @@
 
 ## Python 
 
+- [dostoevsky](https://github.com/bureaucratic-labs/dostoevsky) - Sentiment analysis library for russian language
+- [models](https://github.com/bureaucratic-labs/models) - Pre-trained models for tokenization, sentence segmentation and so on
+- [train_punkt](https://github.com/mhq/train_punkt) - Train NLTK punkt tokenizers
+- [ru_sentence_tokenizer](https://github.com/deepmipt/ru_sentence_tokenizer) - A simple and fast rule-based sentence segmentation. Tested on OpenCorpora and SynTagRus datasets.
 - [bert](https://github.com/deepmipt/bert) - TensorFlow code and pre-trained models for BERT
 - [fonduer](https://github.com/HazyResearch/fonduer) - A knowledge base construction engine for richly formatted data
 - [hgcn](https://github.com/HazyResearch/hgcn) - Hyperbolic Graph Convolutional Networks in PyTorch.
@@ -6745,7 +6749,7 @@
 - [wikipedia2vec](https://github.com/wikipedia2vec/wikipedia2vec) - A tool for learning vector representations of words and entities from Wikipedia
 - [BPT](https://github.com/yzh119/BPT) - Source code of paper "BP-Transformer: Modelling Long-Range Context via Binary Partitioning"
 - [deal](https://github.com/life4/deal) - Design by contract for Python with many validators support.
-- [jukebox](https://github.com/openai/jukebox) - Code for "Jukebox: A Generative Model for Music"
+- [jukebox](https://github.com/openai/jukebox) - Code for the paper "Jukebox: A Generative Model for Music"
 - [pytorch-YOLOv4](https://github.com/Tianxiaomo/pytorch-YOLOv4) - Minimal PyTorch implementation of YOLOv4
 - [extract-news-api](https://github.com/kotartemiy/extract-news-api) - Flask code to deploy an API that pulls structured data from online news articles
 - [polyai-models](https://github.com/PolyAI-LDN/polyai-models) - Neural Models for Conversational AI
@@ -7309,7 +7313,7 @@
 - [pacnet](https://github.com/NVlabs/pacnet) - Pixel-Adaptive Convolutional Neural Networks (CVPR '19)
 - [smplify-x](https://github.com/vchoutas/smplify-x) - Expressive Body Capture: 3D Hands, Face, and Body from a Single Image
 - [Faster-RCNN-TensorFlow-Python3](https://github.com/dBeker/Faster-RCNN-TensorFlow-Python3) - Tensorflow Faster R-CNN for Windows/Linux and Python 3 (3.5/3.6/3.7)
-- [pydoro](https://github.com/JaDogg/pydoro) - 🍅 Terminal Pomodoro Timer
+- [pydoro](https://github.com/JaDogg/pydoro) - 🍅 pydoro - Terminal Pomodoro Timer
 - [tweepy](https://github.com/tweepy/tweepy) - Twitter for Python!
 - [inversecooking](https://github.com/facebookresearch/inversecooking) - Recipe Generation from Food Images
 - [xlnet](https://github.com/zihangdai/xlnet) - XLNet: Generalized Autoregressive Pretraining for Language Understanding
@@ -8689,7 +8693,6 @@
 - [gaps](https://github.com/nemanja-m/gaps) - A Genetic Algorithm-Based Solver for Jigsaw Puzzles :cyclone:
 - [fairseq](https://github.com/pytorch/fairseq) - Facebook AI Research Sequence-to-Sequence Toolkit written in Python.
 - [weibospider](https://github.com/SpiderClub/weibospider) - :zap: A distributed crawler for weibo, building with celery and requests.
-- [ml-agents](https://github.com/Unity-Technologies/ml-agents) - Unity Machine Learning Agents Toolkit
 - [onnx-caffe2](https://github.com/onnx/onnx-caffe2) - Caffe2 implementation of Open Neural Network Exchange (ONNX)
 - [fa2l](https://github.com/bosiakov/fa2l) - Force Atlas 2 graph layout
 - [studio](https://github.com/studioml/studio) - Studio: Simplify and expedite model building process
@@ -9583,7 +9586,7 @@
 - [flowblade](https://github.com/jliljebl/flowblade) - Video Editor for Linux
 - [cleverhans](https://github.com/tensorflow/cleverhans) - An adversarial example library for constructing attacks, building defenses, and benchmarking both
 - [mimesis](https://github.com/lk-geimfari/mimesis) - Mimesis is a package for Python, which helps generate big volumes of fake data for a variety of purposes in a variety of languages.
-- [azure-cli](https://github.com/Azure/azure-cli) - Command-line tools for Azure.
+- [azure-cli](https://github.com/Azure/azure-cli) - Azure Command-Line Interface
 - [mock-import](https://github.com/posener/mock-import) - A helper mocking function to mask ImportErrors
 - [Clairvoyant](https://github.com/anfederico/Clairvoyant) - Software designed to identify and monitor social/historical cues for short term stock movement
 - [erpnext](https://github.com/frappe/erpnext) - Open Source Alternative to SAP
@@ -9601,7 +9604,7 @@
 - [whereami](https://github.com/kootenpv/whereami) - Uses WiFi signals :signal_strength: and machine learning to predict where you are
 - [dataset](https://github.com/openimages/dataset) - The Open Images dataset
 - [open_nsfw](https://github.com/yahoo/open_nsfw) - Not Suitable for Work (NSFW) classification using deep neural network Caffe models.
-- [ubuntu-make](https://github.com/ubuntu/ubuntu-make) - Ubuntu Make
+- [ubuntu-make](https://github.com/ubuntu/ubuntu-make) - Easy setup of common tools for developers on Ubuntu.
 - [SeqGAN](https://github.com/LantaoYu/SeqGAN) - Implementation of Sequence Generative Adversarial Nets with Policy Gradient
 - [googler](https://github.com/jarun/googler) - :mag: Google from the terminal
 - [pysheeet](https://github.com/crazyguitar/pysheeet) - Python Cheat Sheet
@@ -9747,7 +9750,7 @@
 - [choronzon](https://github.com/CENSUS/choronzon) - An evolutionary knowledge-based fuzzer
 - [DeepHeart](https://github.com/jisaacso/DeepHeart) - Neural networks for monitoring cardiac data
 - [riko](https://github.com/nerevu/riko) - A Python stream processing engine modeled after Yahoo! Pipes
-- [tensorlayer](https://github.com/tensorlayer/tensorlayer) - Deep Learning and Reinforcement Learning Library for Scientists 🔥
+- [tensorlayer](https://github.com/tensorlayer/tensorlayer) - Deep Learning and Reinforcement Learning Library for Scientists and Engineers 🔥
 - [QuantumComputing](https://github.com/corbett/QuantumComputing) - This is an implementation of IBM's Quantum Experience in simulation; a 5-qubit quantum computer with a limited set of gates. Please cite me if you end up using this academically.
 - [tapioca-wrapper](https://github.com/vintasoftware/tapioca-wrapper) - Python API client generator
 - [MacHeap](https://github.com/blankwall/MacHeap) - OS X malloc introspection tool
@@ -12562,6 +12565,7 @@
 - [PyOxidizer](https://github.com/indygreg/PyOxidizer) - A modern Python application packaging and distribution tool
 - [libra](https://github.com/libra/libra) - Libra’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.
 - [emu](https://github.com/calebwin/emu) - Emu is a modern library for low-level, cross-platform GPGPU enabling on-device, reproducible, privacy-focused compute
+- [fluence](https://github.com/fluencelabs/fluence) - Infrastructure for applications
 - [mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott!
 - [atlasr](https://github.com/atlasr-org/atlasr) - Atlasr is a truly open-source and free map browser.
 - [firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
@@ -12587,7 +12591,6 @@
 - [polynote](https://github.com/polynote/polynote) - A better notebook for Scala (and more)
 - [Vegas](https://github.com/vegas-viz/Vegas) - The missing MatPlotLib for Scala + Spark
 - [delta](https://github.com/delta-io/delta) - An open-source storage layer that brings scalable, ACID transactions to Apache Spark™ and big data workloads.
-- [fluence](https://github.com/fluencelabs/fluence) - Fluence is an open-source, decentralized cloud computing platform
 - [TransmogrifAI](https://github.com/salesforce/TransmogrifAI) - TransmogrifAI (pronounced trăns-mŏgˈrə-fī) is an AutoML library for building modular, reusable, strongly typed machine learning workflows on Apache Spark with minimal hand-tuning
 - [mmlspark](https://github.com/Azure/mmlspark) - Microsoft Machine Learning for Apache Spark
 - [toyregex](https://github.com/rcoh/toyregex) - A Toy Regex Engine In Scala
@@ -12692,6 +12695,7 @@
 - [Bash-Snippets](https://github.com/alexanderepstein/Bash-Snippets) - A collection of small bash scripts for heavy terminal users
 - [Kubernetes-GPU-Guide](https://github.com/Langhalsdino/Kubernetes-GPU-Guide) - This guide should help fellow researchers and hobbyists to easily automate and accelerate there deep leaning training with their own Kubernetes GPU cluster.
 - [eos-token-distribution](https://github.com/EOSIO/eos-token-distribution) - 
+- [owasp-mstg](https://github.com/OWASP/owasp-mstg) - The Mobile Security Testing Guide (MSTG) is a comprehensive manual for mobile app security development, testing and reverse engineering.
 - [build-linux](https://github.com/MichielDerhaeg/build-linux) - A short tutorial about building Linux based operating systems.
 - [easy-rsa](https://github.com/OpenVPN/easy-rsa) - easy-rsa - Simple shell based CA utility
 - [Stouts.openvpn](https://github.com/Stouts/Stouts.openvpn) - Ansible role to install and configure OpenVPN server
@@ -12765,7 +12769,7 @@
 - [dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [metamon](https://github.com/tryolabs/metamon) - Collection of Ansible playbooks to quickly start your Django Application
 - [rapid.py](https://github.com/delacruz-dev/rapid.py) - A template built on python and bootstrap for rapid prototyping
-- [autoenv](https://github.com/inishchith/autoenv) - Directory-based environments. [ Originally owned by @kennethreitz ]
+- [autoenv](https://github.com/inishchith/autoenv) - Directory-based environments. [ Originally owned by @ken-reitz]
 - [tmuxifier](https://github.com/jimeh/tmuxifier) - Tmuxify your Tmux. Powerful session, window & pane management for Tmux.
 - [openvpn-install](https://github.com/Nyr/openvpn-install) - OpenVPN road warrior installer for Ubuntu, Debian, CentOS and Fedora
 - [baseimage-docker](https://github.com/phusion/baseimage-docker) - A minimal Ubuntu base image modified for Docker-friendliness
@@ -12840,6 +12844,7 @@
 
 ## TypeScript 
 
+- [dashboard](https://github.com/lab-ml/dashboard) - Experiments dashboard for LabML
 - [vscode-crossnote](https://github.com/0xGG/vscode-crossnote) - (WIP) Turn your VSCode into a decent markdown note taking platform
 - [refined-github](https://github.com/sindresorhus/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation
