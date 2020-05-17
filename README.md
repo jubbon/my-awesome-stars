@@ -451,7 +451,6 @@
 - [FASTER](https://github.com/microsoft/FASTER) - Fast persistent recoverable log and key-value store, in C# and C++, from Microsoft Research.
 - [ailab](https://github.com/microsoft/ailab) - Experience, Learn and Code the latest breakthrough innovations with Microsoft AI
 - [DRL_based_SelfDrivingCarControl](https://github.com/MLJejuCamp2017/DRL_based_SelfDrivingCarControl) - Deep Reinforcement Learning (DQN) based Self Driving Car Control with Vehicle Simulator
-- [UnityWorker](https://github.com/OpenMined/UnityWorker) - DEPRECATED
 - [blockchain](https://github.com/dvf/blockchain) - A simple Blockchain in Python
 - [ml-agents](https://github.com/Unity-Technologies/ml-agents) - Unity Machine Learning Agents Toolkit
 - [sqlnotebook](https://github.com/electroly/sqlnotebook) - Tabular data exploration and manipulation tool powered by SQLite.
@@ -3192,7 +3191,7 @@
 - [omi](https://github.com/Tencent/omi) - Front End Cross-Frameworks Framework - 前端跨框架跨平台框架
 - [33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 concepts every JavaScript developer should know.
 - [docker-nginx-letsencrypt-sample](https://github.com/gilyes/docker-nginx-letsencrypt-sample) - Dockerized Nginx + Let's Encrypt sample
-- [Google-Drive-Desktop](https://github.com/alexkim205/Google-Drive-Desktop) - An Electron Wrapper that converts Google Drive into an office suite desktop app.
+- [G-Desktop-Suite](https://github.com/alexkim205/G-Desktop-Suite) - Google Suite as a desktop app. Made possible with Electron.
 - [Radon](https://github.com/radonjs/Radon) - Object oriented state management solution for front-end development.
 - [Advanced-React](https://github.com/wesbos/Advanced-React) - Starter Files and Solutions for Full Stack Advanced React and GraphQL
 - [tiptap](https://github.com/scrumpy/tiptap) - A rich-text editor for Vue.js
@@ -6734,6 +6733,7 @@
 
 ## Python 
 
+- [creme](https://github.com/creme-ml/creme) - 🍨 Online machine learning in Python
 - [dostoevsky](https://github.com/bureaucratic-labs/dostoevsky) - Sentiment analysis library for russian language
 - [models](https://github.com/bureaucratic-labs/models) - Pre-trained models for tokenization, sentence segmentation and so on
 - [train_punkt](https://github.com/mhq/train_punkt) - Train NLTK punkt tokenizers
@@ -12994,6 +12994,7 @@
 - [stimulus](https://github.com/stimulusjs/stimulus) - A modest JavaScript framework for the HTML you already have
 - [vscode-terminals](https://github.com/fabiospampinato/vscode-terminals) - An extension for setting-up multiple terminals at once, or just running some commands.
 - [alva](https://github.com/meetalva/alva) - Create living prototypes with code components.
+- [docup](https://github.com/egoist/docup) - The easiest way to write beautiful docs.
 - [amplify-js](https://github.com/aws-amplify/amplify-js) - A declarative JavaScript library for application development using cloud services.
 - [G2](https://github.com/antvis/G2) - 📊 A highly interactive data-driven visualization grammar for statistical charts.
 - [superstruct](https://github.com/ianstormtaylor/superstruct) - A simple and composable way to validate data in JavaScript (or TypeScript).
@@ -13387,7 +13388,6 @@
 - [takeaway_demo](https://github.com/facebesidewyj/takeaway_demo) - :fire:A demo based on Vue.js, just for learning.
 - [fish-ui](https://github.com/myliang/fish-ui) - A Vue.js 2.0 UI Toolkit for Web
 - [eros](https://github.com/bmfe/eros) - 📱一套 Vue 代码，两端原生应用 ，或许可以叫我 weex-native。
-- [docup](https://github.com/egojump/docup) - The easiest way to write beautiful docs.
 - [vuetron](https://github.com/vuetwo/vuetron) - A tool for testing and debugging your Vue + Vuex applications. 是一個可以幫助您 Vue.js 的項目測試及偵錯的工具, 也同時支持 Vuex及 Vue-Router.
 - [vuetable-2](https://github.com/ratiw/vuetable-2) - data table simplify! -- datatable component for Vue 2.x. See documentation at
 - [aimer](https://github.com/egoist/aimer) - The UI Development Framework
