@@ -405,7 +405,7 @@
 - [AppImageKit](https://github.com/AppImage/AppImageKit) - Package desktop applications as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, openSUSE, SLED, Ubuntu, Fedora, debian and derivatives. Join #AppImage on irc.freenode.net
 - [bitshuffle](https://github.com/kiyo-masui/bitshuffle) - Filter for improving compression of typed binary data.
 - [igraph](https://github.com/igraph/igraph) - Library for the analysis of networks
-- [meinheld](https://github.com/mopemope/meinheld) - meinheld is a high performance asynchronous WSGI Web Server (based on picoev)
+- [meinheld](https://github.com/mopemope/meinheld) - Meinheld is a high performance asynchronous WSGI Web Server (based on picoev)
 - [bjoern](https://github.com/jonashaag/bjoern) - A screamingly fast Python 2/3 WSGI server written in C.
 - [greenlet](https://github.com/python-greenlet/greenlet) - Lightweight in-process concurrent programming
 - [pylibmc](https://github.com/lericson/pylibmc) - A Python wrapper around the libmemcached interface from TangentOrg.
@@ -1133,7 +1133,7 @@
 - [pandoc-markdown-book-template](https://github.com/johnpaulada/pandoc-markdown-book-template) - A template for creating epub books from markdown using pandoc.
 - [nomad-ci](https://github.com/iverberk/nomad-ci) - A fully featured CI setup based on Nomad, Jenkins, Selenium, Consul and Docker
 - [git.github.io](https://github.com/git/git.github.io) - Git Developer Site
-- [bitcoin.org](https://github.com/bitcoin-dot-org/bitcoin.org) - Bitcoin.org website
+- [bitcoin.org](https://github.com/bitcoin-dot-org/bitcoin.org) - Bitcoin.org Website
 - [CaoMei](https://github.com/xiangsudian/CaoMei) - 🍓CaoMei Icon - Designed for developers and creatros http://chuangzaoshi.com/icon/
 - [bojler](https://github.com/Slicejack/bojler) - Bojler is an email framework
 - [Gravity](https://github.com/hemangsk/Gravity) - Minimal is the new cool.
@@ -1559,7 +1559,7 @@
 - [godog](https://github.com/cucumber/godog) - Cucumber for golang
 - [aws-vault](https://github.com/99designs/aws-vault) - A vault for securely storing and accessing AWS credentials in development environments
 - [go-gitlab](https://github.com/xanzy/go-gitlab) - A GitLab API client enabling Go programs to interact with GitLab in a simple and uniform way
-- [micro](https://github.com/micro/micro) - Micro is a distributed systems runtime for the Cloud
+- [micro](https://github.com/micro/micro) - Micro is a distributed systems runtime for the Cloud and beyond
 - [go-github](https://github.com/google/go-github) - Go library for accessing the GitHub API
 - [nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
 - [migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
@@ -1654,7 +1654,7 @@
 - [gunk](https://github.com/gunk/gunk) - Modern frontend and syntax for Protocol Buffers
 - [aminal](https://github.com/liamg/aminal) - A modern cross-platform terminal emulator in Go
 - [sourcegraph](https://github.com/sourcegraph/sourcegraph) - Universal code search and navigation tool (self-hosted)
-- [crossplane](https://github.com/crossplane/crossplane) - The open source control plane to manage your infrastructure and applications the Kubernetes way.
+- [crossplane](https://github.com/crossplane/crossplane) - Manage any infrastructure your applications need directly from Kubernetes
 - [netcap](https://github.com/dreadl0ck/netcap) - A framework for secure and scalable network traffic analysis - https://netcap.io
 - [gitbatch](https://github.com/isacikgoz/gitbatch) - manage your git repositories in one place
 - [certmagic](https://github.com/caddyserver/certmagic) - Automatic HTTPS for any Go program: fully-managed TLS certificate issuance and renewal
@@ -1775,7 +1775,7 @@
 - [fuzzy](https://github.com/sahilm/fuzzy) - Go library that provides fuzzy string matching optimized for filenames and code symbols in the style of Sublime Text, VSCode, IntelliJ IDEA et al.
 - [goproxy](https://github.com/snail007/goproxy) - Proxy is a high performance HTTP(S) proxies, SOCKS5 proxies,WEBSOCKET, TCP, UDP proxy server implemented by golang. Now, it supports chain-style proxies,nat forwarding in different lan,TCP/UDP port forwarding, SSH forwarding.Proxy是golang实现的高性能http,https,websocket,tcp,socks5代理服务器,支持内网穿透,链式代理,通讯加密,智能HTTP,SOCKS5代理,黑白名单,限速,限流量,限连接数,跨平台,KCP支持,认证API。
 - [Data-Structures-and-Algorithms](https://github.com/floyernick/Data-Structures-and-Algorithms) - Data Structures and Algorithms implementation in Go
-- [gvisor](https://github.com/google/gvisor) - Application Kernel & Container Runtime
+- [gvisor](https://github.com/google/gvisor) - Application Kernel for Containers
 - [tidis](https://github.com/yongman/tidis) - Distributed transactional NoSQL database, Redis protocol compatible using tikv as backend
 - [muffet](https://github.com/raviqqe/muffet) - Fast website link checker in Go
 - [gojay](https://github.com/francoispqt/gojay) - fastest JSON encoder/decoder with powerful stream API for Golang
@@ -2577,6 +2577,7 @@
 - [beginners-guide-to-sml](https://github.com/beck410/beginners-guide-to-sml) - Notes from pynash talk - http://www.meetup.com/PyNash/events/234643746/
 - [microsoft.github.io](https://github.com/microsoft/microsoft.github.io) - Microsoft on GitHub
 - [sectalks](https://github.com/sectalks/sectalks) - CTFs, solutions and presentations
+- [Self-Driving-Car](https://github.com/RyanZotti/Self-Driving-Car) - 
 - [noto-source](https://github.com/googlefonts/noto-source) - 
 - [Azure-TDSP-Utilities](https://github.com/Azure/Azure-TDSP-Utilities) - Utilities and scripts  developed as part of Microsoft's Team Data Science Process for productive data science
 - [ai-on.org](https://github.com/AI-ON/ai-on.org) - AI•ON projects repository and website source.
@@ -3743,7 +3744,7 @@
 - [chalk](https://github.com/chalk/chalk) - 🖍 Terminal string styling done right
 - [react-vue](https://github.com/SmallComfort/react-vue) - Run Vue in React and React Native
 - [rxviz](https://github.com/moroshko/rxviz) - Rx Visualizer - Animated playground for Rx Observables
-- [hyperapp](https://github.com/jorgebucaran/hyperapp) - The tiny framework for building web interfaces.
+- [hyperapp](https://github.com/jorgebucaran/hyperapp) - The tiny framework for building hypertext applications.
 - [xssor2](https://github.com/evilcos/xssor2) - XSS'OR - Hack with JavaScript.
 - [pencil](https://github.com/evolus/pencil) - The Pencil Project's unique mission is to build a free and opensource tool for making diagrams and GUI prototyping that everyone can use.
 - [inject-loader](https://github.com/plasticine/inject-loader) - 💉📦 A Webpack loader for injecting code into modules via their dependencies.
@@ -4446,8 +4447,9 @@
 
 ## Jupyter Notebook 
 
+- [nel](https://github.com/wikilinks/nel) - Entity linking framework
 - [Practical_RL](https://github.com/sshkhr/Practical_RL) - My solutions to Yandex Practical Reinforcement Learning course in PyTorch and Tensorflow
-- [video-scene-detection](https://github.com/ivi-ru/video-scene-detection) - 
+- [video-scene-detection](https://github.com/ivi-ru/video-scene-detection) - Video Scene Detection Based on the Optimal Sequential Grouping algorithm
 - [30-Days-of-Python](https://github.com/codingforentrepreneurs/30-Days-of-Python) - A New Version of 30 Days of Python is nearly here. Get started today.
 - [tutorials](https://github.com/krittikaiitb/tutorials) - Set of Jupyter Notebooks, along with datafiles, to get started with Scientific Computing in Astronomy
 - [DQN-Atari-Agents](https://github.com/BY571/DQN-Atari-Agents) - DQN-Atari-Agents:   Modularized PyTorch implementation of several DQN Agents, i.a. DDQN, Dueling DQN, Noisy DQN, C51, Rainbow and DRQN
@@ -4768,7 +4770,7 @@
 - [hackergame2018-writeups](https://github.com/ustclug/hackergame2018-writeups) - Write-ups for hackergame 2018
 - [deep_learning_cookbook](https://github.com/DOsinga/deep_learning_cookbook) - Deep Learning Cookbox
 - [wikipedia-data-science](https://github.com/WillKoehrsen/wikipedia-data-science) - Working with and analyzing Wikipedia Data
-- [ILearnDeepLearning.py](https://github.com/SkalskiP/ILearnDeepLearning.py) - This repository contains small projects related to Neural Networks and Deep Learning in general. Subject are closely linekd with articles I publish on Medium. I encourage you both to read as well as to check how the code works in the action.
+- [ILearnDeepLearning.py](https://github.com/SkalskiP/ILearnDeepLearning.py) - This repository contains small projects related to Neural Networks and Deep Learning in general. Subjects are closely linekd with articles I publish on Medium. I encourage you both to read as well as to check how the code works in the action.
 - [DeepRL-Tutorials](https://github.com/qfettes/DeepRL-Tutorials) - Contains high quality implementations of Deep Reinforcement Learning algorithms written in PyTorch
 - [data-science-complete-tutorial](https://github.com/edyoda/data-science-complete-tutorial) - For extensive instructor led learning
 - [progressive_infogan](https://github.com/jonasz/progressive_infogan) - Progressive training of GANs with Mutual Information Penalty
@@ -5723,6 +5725,7 @@
 
 ## Others 
 
+- [awesome-deeplearning-nlp-papers](https://github.com/KaiyuanGao/awesome-deeplearning-nlp-papers) - A curated list of Deep learning and NLP must read papers
 - [awesome-mlss](https://github.com/sshkhr/awesome-mlss) - List of summer schools in machine learning + related fields across the globe
 - [word2vec-GoogleNews-vectors](https://github.com/mmihaltz/word2vec-GoogleNews-vectors) - word2vec Google News model
 - [task-specific-datasets](https://github.com/PolyAI-LDN/task-specific-datasets) - A collection of task-specific NLU datasets
@@ -6733,6 +6736,8 @@
 
 ## Python 
 
+- [polyglot](https://github.com/aboSamoor/polyglot) - Multilingual text (NLP) processing toolkit
+- [open-semantic-entity-search-api](https://github.com/opensemanticsearch/open-semantic-entity-search-api) - Open Source REST API for named entity extraction, named entity linking, named entity disambiguation, recommendation & reconciliation of entities like persons, organizations and places for (semi)automatic semantic tagging & analysis of documents by linked data knowledge graph like SKOS thesaurus, RDF ontology, database(s) or list(s) of names
 - [creme](https://github.com/creme-ml/creme) - 🍨 Online machine learning in Python
 - [dostoevsky](https://github.com/bureaucratic-labs/dostoevsky) - Sentiment analysis library for russian language
 - [models](https://github.com/bureaucratic-labs/models) - Pre-trained models for tokenization, sentence segmentation and so on
@@ -9509,7 +9514,6 @@
 - [rapidsms](https://github.com/rapidsms/rapidsms) - Build SMS applications with Python
 - [braintree_python](https://github.com/braintree/braintree_python) - Braintree Python library
 - [neural-enhance](https://github.com/alexjc/neural-enhance) - Super Resolution for images using deep learning.
-- [Self-Driving-Car](https://github.com/RyanZotti/Self-Driving-Car) - 
 - [keras-molecules](https://github.com/maxhodak/keras-molecules) - Autoencoder network for learning a continuous representation of molecular structures.
 - [safety-db](https://github.com/pyupio/safety-db) - A curated database of insecure Python packages
 - [DrK](https://github.com/sslab-gatech/DrK) - The DrK Attack - Proof of concept
@@ -9598,7 +9602,7 @@
 - [ck-tensorflow](https://github.com/ctuning/ck-tensorflow) - Collective Knowledge components for TensorFlow (code, data sets, models, packages, workflows):
 - [python-web-pdb](https://github.com/romanvm/python-web-pdb) - Web-based remote UI for Python's PDB debugger
 - [ck-autotuning](https://github.com/ctuning/ck-autotuning) - CK automation actions to let users implement portable, customizable and reusable program workflows for reproducible, collaborative and multi-objective benchmarking, optimization and SW/HW co-design:
-- [ck](https://github.com/ctuning/ck) - Collective Knowledge (CK) helps to convert ad-hoc research artifacts (code, data, models, results) into reusable components, automation actions and portable workflows with a unified CLI, Python API and JSON meta description. It provides a unified way to collaboratively benchmark, optimize and co-design emerging systems (AI, ML, quantum, IoT):
+- [ck](https://github.com/ctuning/ck) - Collective Knowledge (CK) helps to convert ad-hoc research artifacts (code, data, models, results) into reusable components, automation actions and portable workflows with a unified CLI, Python API and JSON meta description. It provides a unified way to collaboratively benchmark, optimize and co-design emerging systems (AI, ML, quantum, HPC, IoT):
 - [CommAI-env](https://github.com/facebookresearch/CommAI-env) - A platform for developing AI systems as described in A Roadmap towards Machine Intelligence - http://arxiv.org/abs/1511.08130
 - [deconvfaces](https://github.com/zo7/deconvfaces) - Generating faces with deconvolution networks
 - [whereami](https://github.com/kootenpv/whereami) - Uses WiFi signals :signal_strength: and machine learning to predict where you are
@@ -9763,7 +9767,7 @@
 - [tplmap](https://github.com/epinna/tplmap) - Server-Side Template Injection and Code Injection Detection and Exploitation Tool
 - [debpackager](https://github.com/urban48/debpackager) - cli tool used for creating debian packages
 - [beckett](https://github.com/phalt/beckett) - Beckett is a convention-based framework for building Python clients around HTTP APIs.
-- [chatbot](https://github.com/sohelamin/chatbot) - An AI Based Chatbot
+- [chatbot](https://github.com/sohelamin/chatbot) - An AI Based Chatbot [DEPRECATED]
 - [urlparse4](https://github.com/commonsearch/urlparse4) - Faster replacement for Python's urlparse module
 - [calm](https://github.com/bagrat/calm) - It is always Calm before a Tornado!
 - [aws-spot-bot](https://github.com/Jakobovski/aws-spot-bot) - A simple script to automate the creation of the cheapest and most stable AWS spot instances.
@@ -13012,7 +13016,7 @@
 - [p-progress](https://github.com/sindresorhus/p-progress) - Create a promise that reports progress
 - [cliflix](https://github.com/fabiospampinato/cliflix) - Watch anything instantaneously, just write its name.
 - [rendertron](https://github.com/GoogleChrome/rendertron) - A Headless Chrome rendering solution
-- [algo-coin](https://github.com/timkpaine/algo-coin) - Python library for algorithmic trading cryptocurrencies across multiple exchanges
+- [algo-coin](https://github.com/AsyncAlgoTrading/algo-coin) - Python library for algorithmic trading cryptocurrencies across multiple exchanges
 - [oni](https://github.com/onivim/oni) - Oni: Modern Modal Editing - powered by Neovim
 - [pretty-algorithms](https://github.com/jiayihu/pretty-algorithms) - 🌊 Pretty, common and useful algorithms with modern JS and beautiful tests
 - [tfjs-core](https://github.com/tensorflow/tfjs-core) - WebGL-accelerated ML // linear algebra // automatic differentiation for JavaScript.
