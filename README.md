@@ -127,7 +127,6 @@
 - [IoTGoat](https://github.com/OWASP/IoTGoat) - IoTGoat is a deliberately insecure firmware created to educate software developers and security professionals with testing commonly found vulnerabilities in IoT devices.
 - [concorde](https://github.com/matthelb/concorde) - Concorde is a computer code for the symmetric traveling salesman problem (TSP) and some related network optimization problems. It was created by David Applegate, Robert E. Bixby, Vašek Chvátal, and William J. Cook.
 - [XNNPACK](https://github.com/google/XNNPACK) - High-efficiency floating-point neural network inference operators for mobile, server, and Web
-- [openfortivpn](https://github.com/adrienverge/openfortivpn) - Client for PPP+SSL VPN tunnel services
 - [rt-thread](https://github.com/RT-Thread/rt-thread) - RT-Thread is an open source IoT operating system from China.
 - [DOOM](https://github.com/id-Software/DOOM) - DOOM Open Source Release
 - [mongoose](https://github.com/cesanta/mongoose) - Mongoose Embedded Web Server Library - Mongoose is more than an embedded webserver. It is a multi-protocol embedded networking library with functions including TCP, HTTP client and server, WebSocket client and server,  MQTT client and broker and much more.
@@ -473,7 +472,7 @@
 - [mindspore](https://github.com/mindspore-ai/mindspore) - MindSpore is a new open source deep learning training/inference framework that could be used for mobile, edge and cloud scenarios.
 - [TRTorch](https://github.com/NVIDIA/TRTorch) - Ahead-of-time compilation of TorchScript / PyTorch JIT for NVIDIA GPUs
 - [benchmark](https://github.com/google/benchmark) - A microbenchmark support library
-- [vosk-api](https://github.com/alphacep/vosk-api) - Kaldi API for offline speech recognition on Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
+- [vosk-api](https://github.com/alphacep/vosk-api) - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
 - [rpcs3](https://github.com/RPCS3/rpcs3) - PS3 emulator/debugger
 - [onnx-tensorrt](https://github.com/onnx/onnx-tensorrt) - ONNX-TensorRT: TensorRT backend for ONNX
 - [cuda-samples](https://github.com/NVIDIA/cuda-samples) - Samples for CUDA Developers which demonstrates features in CUDA Toolkit
@@ -1754,7 +1753,7 @@
 - [fathom](https://github.com/usefathom/fathom) - Fathom Lite. Simple, privacy-focused website analytics. Built with Golang & Preact.
 - [ppds](https://github.com/shivamMg/ppds) - Pretty Print Data Structures
 - [tor-controller](https://github.com/kragniz/tor-controller) - Run Tor onion services on Kubernetes
-- [pigo](https://github.com/esimov/pigo) - Pure Go face detection library
+- [pigo](https://github.com/esimov/pigo) - Pure Go face detection, pupil/eyes localization and facial landmark points detection library
 - [revive](https://github.com/mgechev/revive) - 🔥 ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint.
 - [google-ctf](https://github.com/google/google-ctf) - Google CTF
 - [discovery](https://github.com/bilibili/discovery) - A registry for resilient mid-tier load balancing and failover.
@@ -2365,7 +2364,7 @@
 - [aozorabunko](https://github.com/aozorabunko/aozorabunko) - 
 - [keep-a-changelog](https://github.com/olivierlacan/keep-a-changelog) - If you build software, keep a changelog.
 - [dom-wait](https://github.com/f/dom-wait) - Complex Loader and Progress Management for Vanilla JS
-- [intercooler-js](https://github.com/intercoolerjs/intercooler-js) - Making AJAX as easy as anchor tags
+- [intercooler-js](https://github.com/bigskysoftware/intercooler-js) - Making AJAX as easy as anchor tags
 - [foml](https://github.com/bloomberg/foml) - Foundations of Machine Learning
 - [react-from-zero](https://github.com/lex111/react-from-zero) - Простое (не менее 99% ES2015) руководство по React
 - [react-from-zero](https://github.com/kay-is/react-from-zero) - A simple (99% ES2015 less) tutorial for React
@@ -4447,6 +4446,7 @@
 
 ## Jupyter Notebook 
 
+- [yargy-examples](https://github.com/natasha/yargy-examples) - 
 - [nel](https://github.com/wikilinks/nel) - Entity linking framework
 - [Practical_RL](https://github.com/sshkhr/Practical_RL) - My solutions to Yandex Practical Reinforcement Learning course in PyTorch and Tensorflow
 - [video-scene-detection](https://github.com/ivi-ru/video-scene-detection) - Video Scene Detection Based on the Optimal Sequential Grouping algorithm
@@ -4836,6 +4836,7 @@
 - [Slides-SciPyConf-2018](https://github.com/deniederhut/Slides-SciPyConf-2018) - A repository for public storage of slides given at the 17th Python in Science Conferences (2018)
 - [ML_Learning_In_Action](https://github.com/matrixgardener/ML_Learning_In_Action) - ML study process record
 - [pytorch-Deep-Learning](https://github.com/Atcold/pytorch-Deep-Learning) - Deep Learning (with PyTorch)
+- [AutoEq](https://github.com/jaakkopasanen/AutoEq) - Automatic headphone equalization from frequency responses
 - [tutorials](https://github.com/onnx/tutorials) - Tutorials for creating and using ONNX models
 - [Deep-Learning](https://github.com/priya-dwivedi/Deep-Learning) - 
 - [FIFA-World-Cup-Prediction](https://github.com/mrthlinh/FIFA-World-Cup-Prediction) - Predict who will win the FIFA World Cup 2018
@@ -5119,7 +5120,7 @@
 - [facets](https://github.com/PAIR-code/facets) - Visualizations for machine learning datasets
 - [mxnet-the-straight-dope](https://github.com/zackchase/mxnet-the-straight-dope) - An interactive book on deep learning. Much easy, so MXNet. Wow. [Straight Dope is growing up] ---&gt; Much of this content has been incorporated into the new Dive into Deep Learning Book available at https://d2l.ai/.
 - [tensorflow-nlp](https://github.com/zhedongzheng/tensorflow-nlp) - Building blocks for NLP and Text Generation in TensorFlow 2.x / 1.x
-- [quilt](https://github.com/quiltdata/quilt) - Quilt is a versioned data portal for AWS
+- [quilt](https://github.com/quiltdata/quilt) - Quilt is a versioned data portal for blob storage
 - [InferSent](https://github.com/facebookresearch/InferSent) - InferSent sentence embeddings
 - [analyze-citymobil](https://github.com/kuk/analyze-citymobil) - 
 - [saliency](https://github.com/PAIR-code/saliency) - TensorFlow implementation for SmoothGrad, Grad-CAM, Guided backprop, Integrated Gradients and other saliency techniques
@@ -6686,6 +6687,7 @@
 
 ## Perl 
 
+- [openfortivpn](https://github.com/adrienverge/openfortivpn) - Client for PPP+SSL VPN tunnel services
 - [repo-info](https://github.com/docker-library/repo-info) - Extended information (especially license and layer details) about the published Official Images
 - [FlameGraph](https://github.com/brendangregg/FlameGraph) - Stack trace visualizer
 - [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:
@@ -7941,7 +7943,6 @@
 - [autokeras](https://github.com/keras-team/autokeras) - An AutoML system based on Keras
 - [cnn-graph-classification](https://github.com/giannisnik/cnn-graph-classification) - A convolutional neural network for graph classification in PyTorch
 - [mmf](https://github.com/facebookresearch/mmf) - A modular framework for vision & language multimodal research from Facebook AI Research (FAIR)
-- [AutoEq](https://github.com/jaakkopasanen/AutoEq) - Automatic headphone equalization from frequency responses
 - [GANimation](https://github.com/albertpumarola/GANimation) - GANimation: Anatomically-aware Facial Animation from a Single Image (ECCV'18 Oral) [PyTorch]
 - [IBN-Net](https://github.com/XingangPan/IBN-Net) - Instance-Batch Normalization Networks (ECCV2018)
 - [finetune](https://github.com/IndicoDataSolutions/finetune) - Scikit-learn style model finetuning for NLP
@@ -8742,7 +8743,6 @@
 - [background](https://github.com/ParthS007/background) - Runs things in the background.
 - [asyncio-ftwpd](https://github.com/yeraydiazdiaz/asyncio-ftwpd) - Code for the examples on my article in Medium AsyncIO for the Working Python Developer
 - [console-logging](https://github.com/pshah123/console-logging) - Better, prettier commandline logging for Python--with colors! :ghost:
-- [pynesis](https://github.com/ticketea/pynesis) - High level python library for using kinesis streams
 - [sdnpwn](https://github.com/smythtech/sdnpwn) - An SDN penetration testing toolkit
 - [CSrankings](https://github.com/emeryberger/CSrankings) - A web app for ranking computer science departments according to their research output in selective venues.
 - [speechpy](https://github.com/astorfi/speechpy) - :speech_balloon: SpeechPy - A Library for Speech Processing and Recognition: http://speechpy.readthedocs.io/en/latest/
@@ -12785,7 +12785,7 @@
 
 ## Smarty 
 
-- [amundsen](https://github.com/lyft/amundsen) - Amundsen is a metadata driven application for improving the productivity of data analysts, data scientists and engineers when interacting with data.
+- [amundsen](https://github.com/lyft/amundsen) - Amundsen is a metadata driven application for improving the productivity of data analysts, data scientists and engineers when interacting with data – 🗃🕵️‍♀️
 - [temporalpw](https://github.com/tkooda/temporalpw) - Temporary secure password storage for transmission over insecure channels
 - [YaC2014](https://github.com/koldunovn/YaC2014) - Files for Yandex YaC2014 conference talk
 
@@ -13202,7 +13202,7 @@
 - [events](https://github.com/vuejs/events) - Source code for the new Vue.js Events page
 - [vue-unicons](https://github.com/antonreshetov/vue-unicons) - 1000+ Pixel-perfect svg icons for your next project as Vue components
 - [vue-hooks-foodapp](https://github.com/sdras/vue-hooks-foodapp) - A food app using a few hooks in Vue to show how they can work (experimental)
-- [lin-cms-vue](https://github.com/TaleLin/lin-cms-vue) - 🔆 一个简单的前后分离的Vue CMS框架
+- [lin-cms-vue](https://github.com/TaleLin/lin-cms-vue) - 🔆 Vue+ElementUI构建的CMS开发框架
 - [vue-slideout-panel](https://github.com/officert/vue-slideout-panel) - Vue JS component for stackable slideout panels
 - [mysigmail](https://github.com/antonreshetov/mysigmail) - UI Email Signature Generator - Make easy to create your email signature
 - [splayerx](https://github.com/chiflix/splayerx) - SPlayerX@2018
@@ -13220,7 +13220,6 @@
 - [robotframework.github.com](https://github.com/robotframework/robotframework.github.com) - Robot Framework ecosystem from page
 - [gitlab-monitor](https://github.com/timoschwarzer/gitlab-monitor) - A web-based monitor dashboard for GitLab CI
 - [ebbx](https://github.com/ebb-io/ebbx) - A Vue.js project that powers a certain magical website
-- [vue-maoyan](https://github.com/cxp1539/vue-maoyan) - vue-maoyan-web
 - [vue-clamp](https://github.com/Justineo/vue-clamp) - Clamping multiline text with ease.
 - [formvuelar](https://github.com/janiskelemen/formvuelar) - Vue form components with server side validation in mind
 - [vue](https://github.com/redtubelabs/vue) - Touch yourself on the Vue way.
