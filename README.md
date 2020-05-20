@@ -608,7 +608,7 @@
 - [Firmware](https://github.com/PX4/Firmware) - PX4 Autopilot Software
 - [confluo](https://github.com/ucbrise/confluo) - Real-time Monitoring and Analysis of Data Streams
 - [PhysX-3.4](https://github.com/NVIDIAGameWorks/PhysX-3.4) - NVIDIA PhysX SDK 3.4
-- [onnxruntime](https://github.com/microsoft/onnxruntime) - ONNX Runtime: cross-platform, high performance scoring engine for ML models
+- [onnxruntime](https://github.com/microsoft/onnxruntime) - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
 - [carma-platform](https://github.com/usdot-fhwa-stol/carma-platform) - CARMA Platform is built on robot operating system (ROS) and utilizes open source software (OSS) that enables Cooperative Driving Automation (CDA) features to allow Automated Driving Systems to interact and cooperate with infrastructure and other vehicles through communication.
 - [GuiLite](https://github.com/idea4good/GuiLite) - ✔️The smallest header-only GUI library(5 KLOC) for all platforms
 - [flutter-desktop-embedding](https://github.com/google/flutter-desktop-embedding) - Examples of using, and testbed for, the in-development Flutter for Desktop
@@ -1148,7 +1148,7 @@
 - [D3-ID3](https://github.com/C-JSN/D3-ID3) - iD3: an Integrated Development Environment for D3.js
 - [QGIS-Website](https://github.com/qgis/QGIS-Website) - QGIS-Website
 - [atom-seti-icons](https://github.com/wyze/atom-seti-icons) - The awesome icons provided by Seti UI theme.
-- [JSONFeed](https://github.com/brentsimmons/JSONFeed) - The JSONFeed.org website
+- [JSONFeed](https://github.com/manton/JSONFeed) - The JSONFeed.org website
 - [buttons](https://github.com/loup-brun/buttons) - A collection of CSS buttons.
 - [icheck](https://github.com/fronteed/icheck) - Highly customizable checkboxes and radio buttons (jQuery & Zepto)
 - [ebook-boilerplate](https://github.com/phodal/ebook-boilerplate) - A Markdown convert to Ebook :arrow_right: html、mobi、epub、pdf、rtf Template
@@ -2201,7 +2201,6 @@
 - [Introduction-to-Web-Development](https://github.com/WebDevSimplified/Introduction-to-Web-Development) - 
 - [CNN-Architectures](https://github.com/Machine-Learning-Tokyo/CNN-Architectures) - 
 - [docsy](https://github.com/google/docsy) - A set of Hugo doc templates for launching open source content.
-- [node-ytdl-core](https://github.com/fent/node-ytdl-core) - YouTube video downloader in javascript.
 - [forecasting](https://github.com/microsoft/forecasting) - Time Series Forecasting Best Practices & Examples
 - [ml-workshop-3-of-4](https://github.com/amueller/ml-workshop-3-of-4) - Advanced Machine Learning with Scikit-learn part I
 - [nlpbuddy](https://github.com/eellak/nlpbuddy) - A text analysis application for performing common NLP tasks through a web dashboard interface and an API
@@ -2788,7 +2787,7 @@
 - [cordova-plugin-sim](https://github.com/pbakondy/cordova-plugin-sim) - :cherries: A cordova plugin to get the device's SIM data (carrier name, mcc mnc, country code, telephonenumber, etc)
 - [checkstyle](https://github.com/checkstyle/checkstyle) - Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.
 - [camerakit-android](https://github.com/CameraKit/camerakit-android) - Library for Android Camera 1 and 2 APIs. Massively increase stability and reliability of photo and video capture on all Android devices.
-- [graphhopper](https://github.com/graphhopper/graphhopper) - An open source routing engine. Use it as Java library or server. With OpenStreetMap.
+- [graphhopper](https://github.com/graphhopper/graphhopper) - Open source routing engine for OpenStreetMap. Use it as Java library or server.
 - [gocd](https://github.com/gocd/gocd) - Main repository for GoCD - Continuous Delivery server
 - [arcore-for-all](https://github.com/tomthecarrot/arcore-for-all) - Google ARCore (dev preview 1) for "unsupported" Android devices
 - [ksql](https://github.com/confluentinc/ksql) - The event streaming database purpose-built for stream processing applications
@@ -2879,7 +2878,9 @@
 
 - [talks](https://github.com/explosion/talks) - 💥 Browser-based slides or PDFs of our talks and presentations
 - [displacy](https://github.com/explosion/displacy) - :boom: displaCy.js: An open-source NLP visualiser for the modern web
+- [javascript-interview-questions](https://github.com/sudheerj/javascript-interview-questions) - List of 1000 JavaScript Interview Questions
 - [endpoints-example](https://github.com/endpoints/endpoints-example) - an example api written using endpoints
+- [node-ytdl-core](https://github.com/fent/node-ytdl-core) - YouTube video downloader in javascript.
 - [web-skills](https://github.com/andreasbm/web-skills) - A visual overview of useful skills to learn as a web developer
 - [headless-cat-n-mouse](https://github.com/paulirish/headless-cat-n-mouse) - Is headless chrome currently detectable? Let's pit the detections and detection evasions against eachother.
 - [label-studio](https://github.com/heartexlabs/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format
@@ -2910,7 +2911,7 @@
 - [city-roads](https://github.com/anvaka/city-roads) - Visualization of all roads within any city
 - [ganlab](https://github.com/poloclub/ganlab) - GAN Lab: An Interactive, Visual Experimentation Tool for Generative Adversarial Networks
 - [manifold](https://github.com/uber/manifold) - A model-agnostic visual debugging tool for machine learning
-- [ferdi](https://github.com/getferdi/ferdi) - 🧔🏽 Community fork of @meetfranz. Ferdi allows you to combine your favourite messaging services into one application
+- [ferdi](https://github.com/getferdi/ferdi) - 🧔🏽 Community fork of @meetfranz. Ferdi allows you to combine your favorite messaging services into one application
 - [flowy](https://github.com/alyssaxuu/flowy) - The minimal javascript library to create flowcharts ✨
 - [BullshitGenerator](https://github.com/menzi11/BullshitGenerator) - Needs to generate some texts to test if my GUI rendering codes good or not. so I made this.
 - [moment-timezone](https://github.com/moment/moment-timezone) - Timezone support for moment.js
@@ -3505,6 +3506,7 @@
 - [vue2-sentry](https://github.com/ktquez/vue2-sentry) - Plugin Vue.js for error tracking with Sentry
 - [vue-heatmapjs](https://github.com/BrockReece/vue-heatmapjs) - Heatmap directive for tracking user activity
 - [form-object](https://github.com/sahibalejandro/form-object) - Form object to use with Vue components for sending data to a Laravel application using axios.
+- [native](https://github.com/formschema/native) - Generate a form using JSON Schema and Vue.js
 - [vue-apollo](https://github.com/vuejs/vue-apollo) - 🚀 Apollo/GraphQL integration for VueJS
 - [basix-admin](https://github.com/jeweltheme/basix-admin) - Get Free and Premium Vue.js Bootstrap v4 Admin Dashboard Templates
 - [vue-text-glitch](https://github.com/SabatinoMasala/vue-text-glitch) - Vue text glitch component
@@ -3986,7 +3988,7 @@
 - [time](https://github.com/anvaka/time) - Simple Google Sheets interface to track time
 - [js-stack-from-scratch](https://github.com/verekia/js-stack-from-scratch) - 🛠️⚡ Step-by-step tutorial to build a modern JavaScript stack.
 - [DBGlass](https://github.com/web-pal/DBGlass) - PostgreSQL client built with Electron.
-- [kap](https://github.com/wulkano/kap) - An open-source screen recorder built with web technology
+- [Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
 - [hashi-ui](https://github.com/jippi/hashi-ui) - A modern user interface for @hashicorp Consul & Nomad
 - [React-For-Beginners-Starter-Files](https://github.com/wesbos/React-For-Beginners-Starter-Files) - Starter files for learning React.js with React for Beginners
 - [text-mask](https://github.com/text-mask/text-mask) - Input mask for React, Angular, Ember, Vue, & plain JavaScript
@@ -4750,7 +4752,7 @@
 - [NLP-with-Python](https://github.com/susanli2016/NLP-with-Python) - Scikit-Learn, NLTK, Spacy, Gensim, Textblob and more
 - [eif](https://github.com/sahandha/eif) - Extended Isolation Forest for Anomaly Detection
 - [pytorch_challenge](https://github.com/udacity/pytorch_challenge) - 
-- [10-steps-to-become-a-data-scientist](https://github.com/mjbahmani/10-steps-to-become-a-data-scientist) - 📢 Ready to learn or review your knowledge! You will learn 10 skills as data scientist: 📚 Python, Machine Learning, Deep Learning, Data Cleaning, EDA, python packages such as Numpy, Pandas, Seaborn, Matplotlib, Plotly, Tensorfolw, Theano...., Linear Algebra, Big Data, Analysis Tools and solve some real problems such as  predict house prices.
+- [My-journey-in-the-data-science-world](https://github.com/mjbahmani/My-journey-in-the-data-science-world) - 📢 Ready to learn or review your knowledge!
 - [ICLR2019-OpenReviewData](https://github.com/shaohua0116/ICLR2019-OpenReviewData) - Script that crawls meta data from ICLR OpenReview webpage. Tutorials on installing and using Selenium and ChromeDriver on Ubuntu.
 - [deep-learning-v2-pytorch](https://github.com/udacity/deep-learning-v2-pytorch) - Projects and exercises for the latest Deep Learning ND program https://www.udacity.com/course/deep-learning-nanodegree--nd101
 - [cifar10-fast](https://github.com/davidcpage/cifar10-fast) - 
@@ -5053,7 +5055,6 @@
 - [CarND-Mercedes-SF-Utilities](https://github.com/udacity/CarND-Mercedes-SF-Utilities) - Tools for Sensor Fusion processing.
 - [SegFlow](https://github.com/JingchunCheng/SegFlow) - Demo code of the paper "SegFlow: Joint Learning for Video Object Segmentation and Optical Flow", in ICCV 2017
 - [Deep-Learning-From-Scratch](https://github.com/emilwallner/Deep-Learning-From-Scratch) - Six snippets of code that made deep learning what it is today.
-- [SerpentAI](https://github.com/SerpentAI/SerpentAI) - Game Agent Framework. Helping you create AIs / Bots to play any game you own!
 - [gdeltPyR](https://github.com/linwoodc3/gdeltPyR) - Python based framework to retreive Global Database of Events, Language, and Tone (GDELT) version 1.0 and version 2.0 data.
 - [demo-docker](https://github.com/gpuopenanalytics/demo-docker) - Demo notebooks inside a docker for end-to-end examples
 - [automl_service](https://github.com/crawles/automl_service) - Deploy AutoML as a service using Flask
@@ -5739,7 +5740,6 @@
 - [awesome-django](https://github.com/wsvincent/awesome-django) - A curated list of awesome things related to Django
 - [internship-application-product-management](https://github.com/cloudflare-internship-2020/internship-application-product-management) - 
 - [stopwords-ru](https://github.com/stopwords-iso/stopwords-ru) - Russian stopwords collection
-- [javascript-interview-questions](https://github.com/sudheerj/javascript-interview-questions) - List of 1000 JavaScript Interview Questions
 - [curriculum](https://github.com/TheOdinProject/curriculum) - The open curriculum for learning web development
 - [awesome-self-supervised-learning](https://github.com/jason718/awesome-self-supervised-learning) - A curated list of awesome self-supervised methods
 - [ztm-python-cheat-sheet](https://github.com/aneagoie/ztm-python-cheat-sheet) - 
@@ -6153,7 +6153,6 @@
 - [awesome-computer-science-opportunities](https://github.com/anu0012/awesome-computer-science-opportunities) - An awesome list of events and fellowship opportunities for Computer Science students
 - [Infosec_Reference](https://github.com/rmusser01/Infosec_Reference) - An Information Security Reference That Doesn't Suck
 - [roadmap](https://github.com/vuejs/roadmap) - 🗺️ Roadmap for the Vue.js project (archive)
-- [native](https://github.com/formschema/native) - Generate a form using JSON Schema and Vue.js
 - [meetup-help](https://github.com/VueMeetups/meetup-help) - Help for starting up and running a local Vue.js Meetup group
 - [awesome-threat-detection](https://github.com/0x4D31/awesome-threat-detection) - A curated list of awesome threat detection and hunting resources
 - [awesome-toolkits](https://github.com/reyronald/awesome-toolkits) - A curated list of open source, high-quality, popular and well maintained "zero-configuration" (#0CJS) toolkits
@@ -6509,7 +6508,7 @@
 - [Awesome](https://github.com/Awesome-Windows/Awesome) - :computer: 🎉 An awesome & curated list of best applications and tools for Windows.
 - [forest-blue-iTerm](https://github.com/olkinn/forest-blue-iTerm) - :evergreen_tree: A fresh calm color theme for iTerm
 - [open-decision-framework](https://github.com/red-hat-people-team/open-decision-framework) - A community version of the Open Decision Framework
-- [bandit](https://github.com/openstack/bandit) - Python AST-based static analyzer from OpenStack Security Group
+- [bandit](https://github.com/openstack-archive/bandit) - Python AST-based static analyzer from OpenStack Security Group
 - [wiki](https://github.com/ethereum/wiki) - The Ethereum Wiki
 - [pyethereum](https://github.com/ethereum/pyethereum) - Next generation cryptocurrency network
 - [awesome-android-tips](https://github.com/jiang111/awesome-android-tips) - some code tips for android 💯
@@ -7324,7 +7323,7 @@
 - [tweepy](https://github.com/tweepy/tweepy) - Twitter for Python!
 - [inversecooking](https://github.com/facebookresearch/inversecooking) - Recipe Generation from Food Images
 - [xlnet](https://github.com/zihangdai/xlnet) - XLNet: Generalized Autoregressive Pretraining for Language Understanding
-- [python-slackclient](https://github.com/slackapi/python-slackclient) - Slack Python SDK https://slack.dev/python-slackclient/
+- [python-slackclient](https://github.com/slackapi/python-slackclient) - Slack Developer Kit for Python
 - [byteps](https://github.com/bytedance/byteps) - A high performance and generic framework for distributed DNN training
 - [Brancher](https://github.com/AI-DI/Brancher) - A user-centered Python package for differentiable probabilistic inference
 - [kaggle-imaterialist](https://github.com/amirassov/kaggle-imaterialist) - The First Place Solution of Kaggle iMaterialist (Fashion) 2019 at FGVC6
@@ -8699,6 +8698,7 @@
 - [gaps](https://github.com/nemanja-m/gaps) - A Genetic Algorithm-Based Solver for Jigsaw Puzzles :cyclone:
 - [fairseq](https://github.com/pytorch/fairseq) - Facebook AI Research Sequence-to-Sequence Toolkit written in Python.
 - [weibospider](https://github.com/SpiderClub/weibospider) - :zap: A distributed crawler for weibo, building with celery and requests.
+- [SerpentAI](https://github.com/SerpentAI/SerpentAI) - Game Agent Framework. Helping you create AIs / Bots to play any game you own!
 - [onnx-caffe2](https://github.com/onnx/onnx-caffe2) - Caffe2 implementation of Open Neural Network Exchange (ONNX)
 - [fa2l](https://github.com/bosiakov/fa2l) - Force Atlas 2 graph layout
 - [studio](https://github.com/studioml/studio) - Studio: Simplify and expedite model building process
