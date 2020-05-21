@@ -468,7 +468,7 @@
 ## C++ 
 
 - [s3fs-fuse](https://github.com/s3fs-fuse/s3fs-fuse) - FUSE-based file system backed by Amazon S3
-- [TurboTransformers](https://github.com/Tencent/TurboTransformers) - a fast and user-friendly tool for transformer inference on CPU and GPU
+- [TurboTransformers](https://github.com/Tencent/TurboTransformers) - a fast and user-friendly runtime for transformer inference on CPU and GPU
 - [mindspore](https://github.com/mindspore-ai/mindspore) - MindSpore is a new open source deep learning training/inference framework that could be used for mobile, edge and cloud scenarios.
 - [TRTorch](https://github.com/NVIDIA/TRTorch) - Ahead-of-time compilation of TorchScript / PyTorch JIT for NVIDIA GPUs
 - [benchmark](https://github.com/google/benchmark) - A microbenchmark support library
@@ -1083,7 +1083,7 @@
 - [site](https://github.com/learning-rust/site) - 🎓 Rust Programming Language Tutorials for Everyone!
 - [codeheat.org](https://github.com/fossasia/codeheat.org) - Codeheat Coding Contest Website https://codeheat.org
 - [lit](https://github.com/ajusa/lit) - World's smallest responsive 🔥 css framework (395 bytes)
-- [SocialFish](https://github.com/UndeadSec/SocialFish) - Educational Phishing Tool & Information Collector
+- [SocialFish](https://github.com/UndeadSec/SocialFish) - Automated Phishing Tool & Information Collector
 - [epoch](https://github.com/dinkbit/epoch) - 
 - [micron](https://github.com/webkul/micron) - a [μ] microInteraction library built with CSS Animations and controlled by JavaScript Power
 - [hacker101](https://github.com/Hacker0x01/hacker101) - Source code for Hacker101.com - a free online web and mobile security class.
@@ -1124,6 +1124,7 @@
 - [pev](https://github.com/AlexTatiyants/pev) - Postgres Explain Visualizer
 - [vue-notifyjs](https://github.com/BinarCode/vue-notifyjs) - Minimalist 1kb Notification component
 - [awesome-bootstrap-checkbox](https://github.com/flatlogic/awesome-bootstrap-checkbox) - ✔️Font Awesome Bootstrap Checkboxes & Radios. Pure css way to make inputs look prettier
+- [documentation](https://github.com/codeship/documentation) - Documentation for Codeship CI & CD service
 - [docco](https://github.com/jashkenas/docco) - Literate Programming can be Quick and Dirty.
 - [git](https://github.com/dariubs/git) - Fast git tutorial in farsi
 - [one-vibrancy](https://github.com/simurai/one-vibrancy) - Vibrancy effect for Atom One themes
@@ -2483,7 +2484,6 @@
 - [Sparta](https://github.com/mweagle/Sparta) - go microservices, powered by AWS Lambda
 - [RoutePlanner](https://github.com/Kasheftin/RoutePlanner) - Simple free and open source tool for planning routes
 - [viz-pub](https://github.com/halhen/viz-pub) - A place to publish data-vizes
-- [documentation](https://github.com/codeship/documentation) - Documentation for Codeship CI & CD service
 - [angular-material-dashboard](https://github.com/wangdicoder/angular-material-dashboard) - A material-design dashboard by using angular
 - [DeepLearningProject](https://github.com/Spandan-Madan/DeepLearningProject) - An in-depth machine learning tutorial introducing readers to a whole machine learning pipeline from scratch.
 - [drek](https://github.com/chrisallenlane/drek) - A static-code-analysis tool for performing security-focused code reviews. It enables an auditor to swiftly map the attack-surface of a large application, with an emphasis on identifying development anti-patterns and footguns.
@@ -3560,7 +3560,7 @@
 - [ipfs-dropzone](https://github.com/fiatjaf/ipfs-dropzone) - Dropzone.js  that uploads to IPFS instead of to an URL
 - [microbundle](https://github.com/developit/microbundle) - 📦 Zero-configuration bundler for tiny modules.
 - [Manta](https://github.com/hql287/Manta) - 🎉 Flexible invoicing desktop app with beautiful & customizable templates.
-- [boardgame.io](https://github.com/nicolodavis/boardgame.io) - Open Source Game Engine for Turn-Based Games
+- [boardgame.io](https://github.com/nicolodavis/boardgame.io) - State Management for Turn-Based Games
 - [Checklist-Checklist](https://github.com/huyingjie/Checklist-Checklist) - 🌈  A Curated List of Checklists ✔︎✔︎
 - [taskr](https://github.com/bukinoshita/taskr) - A simple task manager app
 - [browsh](https://github.com/browsh-org/browsh) - A fully-modern text-based browser, rendering to TTY and browsers
@@ -4255,7 +4255,7 @@
 - [whatsdeployed](https://github.com/peterbe/whatsdeployed) - What's deployed from a Github repo on various server environments?
 - [redis-srvr](https://github.com/lennym/redis-srvr) - An npm wrapper for redis
 - [ramjet](https://github.com/Rich-Harris/ramjet) - Morph DOM elements from one state to another with smooth animations and transitions
-- [structor](https://github.com/ipselon/structor) - Structor - React UI Builder [DEPRECATED]
+- [structor](https://github.com/react-ui-builder/structor) - Structor - React UI Builder [DEPRECATED]
 - [d3-shape](https://github.com/d3/d3-shape) - Graphical primitives for visualization, such as lines and areas.
 - [d3.compose](https://github.com/CSNW/d3.compose) - Compose complex, data-driven visualizations from reusable charts and components with d3
 - [You-Dont-Need-jQuery](https://github.com/nefe/You-Dont-Need-jQuery) - Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript.
@@ -4759,7 +4759,7 @@
 - [Hands-on-Machine-Learning](https://github.com/DeqianBai/Hands-on-Machine-Learning) - A series of Jupyter notebooks with Chinese comment that walk you through the fundamentals of Machine Learning and Deep Learning in python using Scikit-Learn and TensorFlow.
 - [featexp](https://github.com/abhayspawar/featexp) - Feature exploration for supervised learning
 - [fiftyfizzbuzzes](https://github.com/vihart/fiftyfizzbuzzes) - Fifty different implementations of Fizzbuzz in Python.
-- [analytics-zoo](https://github.com/intel-analytics/analytics-zoo) - Distributed Tensorflow, Keras, PyTorch and Ray on Apache Spark
+- [analytics-zoo](https://github.com/intel-analytics/analytics-zoo) - Distributed Tensorflow, Keras and PyTorch on Apache Spark/Flink & Ray
 - [nlp_course](https://github.com/yandexdataschool/nlp_course) - YSDA course in Natural Language Processing
 - [adanet](https://github.com/tensorflow/adanet) - Fast and flexible AutoML with learning guarantees.
 - [DeOldify](https://github.com/jantic/DeOldify) - A Deep Learning based project for colorizing and restoring old images (and video!)
@@ -5860,7 +5860,6 @@
 - [Math_by_Richard_Feynman](https://github.com/jaintj95/Math_by_Richard_Feynman) - A repo of curated links to Math lectures by Prof. Richard Feynman
 - [aws-cloudformation-coverage-roadmap](https://github.com/aws-cloudformation/aws-cloudformation-coverage-roadmap) - The AWS CloudFormation Public Coverage Roadmap
 - [new-grads-2020](https://github.com/cmackenzie1/new-grads-2020) - A collection of new grad roles for 2020
-- [starter-workflows](https://github.com/actions/starter-workflows) - Accelerating new GitHub Actions workflows
 - [Beginner-Network-Pentesting](https://github.com/hmaverickadams/Beginner-Network-Pentesting) - Notes for Beginner Network Pentesting Course
 - [DEPRECATED-patrol](https://github.com/mapbox/DEPRECATED-patrol) - DEPRECATED - An AWS Lambda powered monitoring framework for security, compliance, and best practices.
 - [learn-python3](https://github.com/michaelliao/learn-python3) - Learn Python 3 Sample Code
@@ -6370,7 +6369,7 @@
 - [nips2016](https://github.com/hindupuravinash/nips2016) - A list of resources for all invited talks, tutorials, workshops and presentations at NIPS 2016
 - [frontend-whitelist](https://github.com/melnik909/frontend-whitelist) - Frontend WhiteList — это список полезных ресурсов для разработчиков интерфейсов
 - [DMTK](https://github.com/microsoft/DMTK) - Microsoft Distributed Machine Learning Toolkit
-- [awesome-stylus](https://github.com/diogomoretti/awesome-stylus) - ➖ A curated list of awesome Stylus
+- [awesome-stylus](https://github.com/diogomoretti/awesome-stylus) - ✨ A curated list of awesome Stylus
 - [awscli-aliases](https://github.com/awslabs/awscli-aliases) - Repository for AWS CLI aliases.
 - [datalegreya](https://github.com/figs-lab/datalegreya) - Datalegreya, the typeface that melts text and data visualisation
 - [neo](https://github.com/commaai/neo) - comma neo research platform
@@ -9167,7 +9166,7 @@
 - [camel-snake-pep8](https://github.com/abarker/camel-snake-pep8) - Use Rope to help convert names in a Python project to conform with PEP-8.
 - [sharingan](https://github.com/vipul-sharma20/sharingan) - Tool to extract news articles from newspaper and give the context about the news
 - [undecorated](https://github.com/iartarisi/undecorated) - strip the decorators from a python function or method
-- [photos2geojson](https://github.com/Visgean/photos2geojson) - html map gallery
+- [photos2geojson](https://github.com/Visgean/photos2geojson) - html map gallery from photos
 - [pix2pix-pytorch](https://github.com/mrzhu-cool/pix2pix-pytorch) - PyTorch implementation of "Image-to-Image Translation Using Conditional Adversarial Networks".
 - [rllabplusplus](https://github.com/shaneshixiang/rllabplusplus) - 
 - [pdb-tutorial](https://github.com/spiside/pdb-tutorial) - A simple tutorial about effectively using pdb
@@ -12870,6 +12869,7 @@
 - [typescript-action](https://github.com/actions/typescript-action) - Create a TypeScript Action with tests, linting, workflow, publishing, and versioning
 - [nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀
 - [toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
+- [starter-workflows](https://github.com/actions/starter-workflows) - Accelerating new GitHub Actions workflows
 - [WebTemplateStudio](https://github.com/microsoft/WebTemplateStudio) - Microsoft Web Template Studio quickly builds web applications using a wizard-based UI to turn your needs into a foundation of best patterns and practices
 - [harp-map-editor](https://github.com/heremaps/harp-map-editor) - Simple map editor for harp.gl map styles
 - [docs](https://github.com/aws-amplify/docs) - Amplify Framework Documentation
