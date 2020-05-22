@@ -467,6 +467,8 @@
 
 ## C++ 
 
+- [xeus-python](https://github.com/jupyter-xeus/xeus-python) - Jupyter kernel for the Python programming language
+- [xeus](https://github.com/jupyter-xeus/xeus) - C++ implementation of the Jupyter kernel protocol
 - [s3fs-fuse](https://github.com/s3fs-fuse/s3fs-fuse) - FUSE-based file system backed by Amazon S3
 - [TurboTransformers](https://github.com/Tencent/TurboTransformers) - a fast and user-friendly runtime for transformer inference on CPU and GPU
 - [mindspore](https://github.com/mindspore-ai/mindspore) - MindSpore is a new open source deep learning training/inference framework that could be used for mobile, edge and cloud scenarios.
@@ -558,7 +560,7 @@
 - [FICM](https://github.com/hellochick/FICM) - :video_game: [IJCAI'20][ICLR'19 Workshop] Flow-based Intrinsic Curiosity Module. Playing SuperMario with RL agent and FICM!
 - [cpp-cheat-sheet](https://github.com/gibsjose/cpp-cheat-sheet) - C++ Syntax, Data Structures, and Algorithms Cheat Sheet
 - [earthenterprise](https://github.com/google/earthenterprise) - Google Earth Enterprise - Open Source
-- [mediapipe](https://github.com/google/mediapipe) - MediaPipe is a cross-platform framework for building multimodal applied machine learning pipelines
+- [mediapipe](https://github.com/google/mediapipe) - MediaPipe is the simplest way for researchers and developers to build world-class ML solutions and applications for mobile, edge, cloud and the web.
 - [jsoncpp](https://github.com/open-source-parsers/jsoncpp) - A C++ library for interacting with JSON.
 - [or-tools](https://github.com/google/or-tools) - Google's Operations Research tools:
 - [habitat-sim](https://github.com/facebookresearch/habitat-sim) - A flexible, high-performance 3D simulator for Embodied AI research.
@@ -778,6 +780,7 @@
 - [simdb](https://github.com/LiveAsynchronousVisualizedArchitecture/simdb) - A high performance, shared memory, lock free, cross platform, single file, no dependencies, C++11 key-value store
 - [wannakey](https://github.com/aguinet/wannakey) - Wannacry in-memory key recovery
 - [ai](https://github.com/a16z/ai) - Repo for work for AI Survey
+- [cudf](https://github.com/rapidsai/cudf) - cuDF - GPU DataFrame Library
 - [omniscidb](https://github.com/omnisci/omniscidb) - OmniSciDB (formerly MapD Core)
 - [xtensor-python](https://github.com/xtensor-stack/xtensor-python) - Python bindings for xtensor
 - [face_swap](https://github.com/YuvalNirkin/face_swap) - End-to-end, automatic face swapping pipeline
@@ -1226,6 +1229,7 @@
 - [iziModal](https://github.com/marcelodolza/iziModal) - Elegant, responsive, flexible and lightweight modal plugin with jQuery.
 - [hack](https://github.com/egoist/hack) - ⛷ Dead simple CSS framework.
 - [angled-edges](https://github.com/josephfusco/angled-edges) - :triangular_ruler: Quickly create angled section edges using only Sass
+- [lightgallery.js](https://github.com/sachinchoolur/lightgallery.js) - Full featured JavaScript image & video gallery. No dependencies
 - [themes](https://github.com/Openworx/themes) - 
 - [pace](https://github.com/HubSpot/pace) - Automatically add a progress bar to your site. #hubspot-open-source
 - [uswds](https://github.com/uswds/uswds) - The U.S. Web Design System helps the federal government build fast, accessible, mobile-friendly websites.
@@ -1371,7 +1375,6 @@
 - [deep-painterly-harmonization](https://github.com/luanfujun/deep-painterly-harmonization) - Code and data for paper "Deep Painterly Harmonization": https://arxiv.org/abs/1804.03189
 - [OpenCUDA](https://github.com/LitLeo/OpenCUDA) - 
 - [pytorch_spn](https://github.com/Liusifei/pytorch_spn) - Extension package for spatial propagation network in pytorch.
-- [cudf](https://github.com/rapidsai/cudf) - cuDF - GPU DataFrame Library
 - [deepspeech](https://github.com/NervanaSystems/deepspeech) - DeepSpeech neon implementation
 - [CUDA-example](https://github.com/FlyElephantNet/CUDA-example) - Matrix Multiplication (GPU & CPU)
 - [nvbio-gpl](https://github.com/NVlabs/nvbio-gpl) - NVBIO is a library of reusable components designed to accelerate bioinformatics applications using CUDA.
@@ -1470,6 +1473,7 @@
 
 ## Dockerfile 
 
+- [stand_kubernetes_cluster](https://github.com/deepmipt/stand_kubernetes_cluster) - 
 - [docker_images](https://github.com/osrf/docker_images) - A repository to hold definitions of docker images maintained by OSRF
 - [code-with-engineering-playbook](https://github.com/microsoft/code-with-engineering-playbook) - This is the playbook for "code-with" customer or partner engagements
 - [python](https://github.com/docker-library/python) - Docker Official Image packaging for Python
@@ -1610,7 +1614,7 @@
 - [k3v](https://github.com/ibuildthecloud/k3v) - Virtual Kubernetes
 - [monday](https://github.com/eko/monday) - ⚡️ A dev tool for microservice developers to run local applications and/or forward others from/to Kubernetes SSH or TCP
 - [lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
-- [olivia](https://github.com/olivia-ai/olivia) - 💁‍♀️Your new best friend built with an artificial neural network
+- [olivia](https://github.com/olivia-ai/olivia) - 💁‍♀️Your new best friend powered by an artificial neural network
 - [cloud-builders-community](https://github.com/GoogleCloudPlatform/cloud-builders-community) - Community-contributed images for Google Cloud Build
 - [geziyor](https://github.com/geziyor/geziyor) - Geziyor, a fast web crawling & scraping framework for Go. Supports JS rendering.
 - [devdash](https://github.com/Phantas0s/devdash) - :bento: Highly Configurable Terminal Dashboard for Developers
@@ -2202,6 +2206,7 @@
 - [Introduction-to-Web-Development](https://github.com/WebDevSimplified/Introduction-to-Web-Development) - 
 - [CNN-Architectures](https://github.com/Machine-Learning-Tokyo/CNN-Architectures) - 
 - [docsy](https://github.com/google/docsy) - A set of Hugo doc templates for launching open source content.
+- [node-ytdl-core](https://github.com/fent/node-ytdl-core) - YouTube video downloader in javascript.
 - [forecasting](https://github.com/microsoft/forecasting) - Time Series Forecasting Best Practices & Examples
 - [ml-workshop-3-of-4](https://github.com/amueller/ml-workshop-3-of-4) - Advanced Machine Learning with Scikit-learn part I
 - [nlpbuddy](https://github.com/eellak/nlpbuddy) - A text analysis application for performing common NLP tasks through a web dashboard interface and an API
@@ -2880,7 +2885,6 @@
 - [displacy](https://github.com/explosion/displacy) - :boom: displaCy.js: An open-source NLP visualiser for the modern web
 - [javascript-interview-questions](https://github.com/sudheerj/javascript-interview-questions) - List of 1000 JavaScript Interview Questions
 - [endpoints-example](https://github.com/endpoints/endpoints-example) - an example api written using endpoints
-- [node-ytdl-core](https://github.com/fent/node-ytdl-core) - YouTube video downloader in javascript.
 - [web-skills](https://github.com/andreasbm/web-skills) - A visual overview of useful skills to learn as a web developer
 - [headless-cat-n-mouse](https://github.com/paulirish/headless-cat-n-mouse) - Is headless chrome currently detectable? Let's pit the detections and detection evasions against eachother.
 - [label-studio](https://github.com/heartexlabs/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format
@@ -3944,7 +3948,7 @@
 - [flv.js](https://github.com/bilibili/flv.js) - HTML5 FLV Player
 - [eslint](https://github.com/eslint/eslint) - Find and fix problems in your JavaScript code.
 - [jshint](https://github.com/jshint/jshint) - JSHint is a tool that helps to detect errors and potential problems in your JavaScript code
-- [bootstrap-vue](https://github.com/bootstrap-vue/bootstrap-vue) - BootstrapVue, with over 45 plugins, more than 85 custom components and over 500 icons, provides one of the most comprehensive implementations of Bootstrap v4 components and grid system for Vue.js. With extensive and automated WAI-ARIA accessibility markup.
+- [bootstrap-vue](https://github.com/bootstrap-vue/bootstrap-vue) - BootstrapVue, with over 45 plugins, more than 85 custom components and over 670 icons, provides one of the most comprehensive implementations of Bootstrap v4 components and grid system for Vue.js. With extensive and automated WAI-ARIA accessibility markup.
 - [framework7](https://github.com/framework7io/framework7) - Full featured HTML framework for building iOS & Android apps
 - [html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
 - [git-chat](https://github.com/staab/git-chat) - 
@@ -4048,7 +4052,6 @@
 - [sharingbuttons.io](https://github.com/mxstbr/sharingbuttons.io) - Quickly generate social sharing buttons with a tiny performance footprint
 - [webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
 - [gatsby](https://github.com/gatsbyjs/gatsby) - Build blazing fast, modern apps and websites with React
-- [lightgallery.js](https://github.com/sachinchoolur/lightgallery.js) - Full featured JavaScript image & video gallery. No dependencies
 - [aws-api.info](https://github.com/dutchcoders/aws-api.info) - aws-api.info
 - [github-widget](https://github.com/surbhioberoi/github-widget) - A widget showing your github details that you can embed in any website.
 - [uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
@@ -4448,6 +4451,7 @@
 
 ## Jupyter Notebook 
 
+- [machine-learning-experiments](https://github.com/trekhleb/machine-learning-experiments) - 🤖 Interactive Machine Learning experiments: 🏋️models training + 🎨models demo
 - [yargy-examples](https://github.com/natasha/yargy-examples) - 
 - [nel](https://github.com/wikilinks/nel) - Entity linking framework
 - [Practical_RL](https://github.com/sshkhr/Practical_RL) - My solutions to Yandex Practical Reinforcement Learning course in PyTorch and Tensorflow
@@ -4485,6 +4489,7 @@
 - [Daily-Sessions](https://github.com/analytics-club-iitm/Daily-Sessions) - Check this page for daily updates
 - [deepPavlovEval](https://github.com/deepmipt/deepPavlovEval) - Sentence embeddings evaluation for russian tasks
 - [dp_notebooks](https://github.com/deepmipt/dp_notebooks) - 
+- [ParallelWaveGAN](https://github.com/kan-bayashi/ParallelWaveGAN) - Unofficial Parallel WaveGAN (+ MelGAN) implementation with Pytorch
 - [nlp-in-python-tutorial](https://github.com/adashofdata/nlp-in-python-tutorial) - comparing stand up comedians using natural language processing
 - [course-v4](https://github.com/fastai/course-v4) - Pre-release of v4 of course.fast.ai
 - [automl](https://github.com/google/automl) - Google Brain AutoML
@@ -5727,6 +5732,8 @@
 
 ## Others 
 
+- [awesome-asgi](https://github.com/florimondmanca/awesome-asgi) - A curated list of awesome ASGI servers, frameworks, apps, libraries, and other resources
+- [enhancement-proposals](https://github.com/jupyter/enhancement-proposals) - Enhancement proposals for the Jupyter Ecosystem
 - [awesome-deeplearning-nlp-papers](https://github.com/KaiyuanGao/awesome-deeplearning-nlp-papers) - A curated list of Deep learning and NLP must read papers
 - [awesome-mlss](https://github.com/sshkhr/awesome-mlss) - List of summer schools in machine learning + related fields across the globe
 - [word2vec-GoogleNews-vectors](https://github.com/mmihaltz/word2vec-GoogleNews-vectors) - word2vec Google News model
@@ -6736,6 +6743,10 @@
 
 ## Python 
 
+- [click-completion](https://github.com/click-contrib/click-completion) - Add or enhance bash, fish, zsh and powershell completion in Click
+- [fastapi-utils](https://github.com/dmontagu/fastapi-utils) - Reusable utilities for FastAPI
+- [awesome-python](https://github.com/tiangolo/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
+- [spacy-course](https://github.com/tiangolo/spacy-course) - 👩‍🏫 Advanced NLP with spaCy: A free online course
 - [polyglot](https://github.com/aboSamoor/polyglot) - Multilingual text (NLP) processing toolkit
 - [open-semantic-entity-search-api](https://github.com/opensemanticsearch/open-semantic-entity-search-api) - Open Source REST API for named entity extraction, named entity linking, named entity disambiguation, recommendation & reconciliation of entities like persons, organizations and places for (semi)automatic semantic tagging & analysis of documents by linked data knowledge graph like SKOS thesaurus, RDF ontology, database(s) or list(s) of names
 - [creme](https://github.com/creme-ml/creme) - 🍨 Online machine learning in Python
@@ -6888,7 +6899,6 @@
 - [WordEmbeddings-Elmo-Fasttext-Word2Vec](https://github.com/PrashantRanjan09/WordEmbeddings-Elmo-Fasttext-Word2Vec) - Using pre trained word embeddings (Fasttext, Word2Vec)
 - [text-analytics-with-python](https://github.com/dipanjanS/text-analytics-with-python) - Learn how to process, classify, cluster, summarize, understand syntax, semantics and sentiment of text data with the power of Python! This repository contains code and datasets used in my book, "Text Analytics with Python" published by Apress/Springer.
 - [torch2trt](https://github.com/NVIDIA-AI-IOT/torch2trt) - An easy to use PyTorch to TensorRT converter
-- [ParallelWaveGAN](https://github.com/kan-bayashi/ParallelWaveGAN) - Unofficial Parallel WaveGAN (+ MelGAN) implementation with Pytorch
 - [matplotlib-tutorial](https://github.com/rougier/matplotlib-tutorial) - Matplotlib tutorial for beginner
 - [CDCN](https://github.com/ZitongYu/CDCN) - Central Difference Convolutional Networks
 - [Transformer-OCR](https://github.com/fengxinjie/Transformer-OCR) - 
@@ -6986,7 +6996,7 @@
 - [cupp](https://github.com/Mebus/cupp) - Common User Passwords Profiler (CUPP)
 - [safaribooks](https://github.com/lorenzodifuccia/safaribooks) - Download and generate EPUB of your favorite books from O'Reilly Learning (aka Safari Books Online) library.
 - [pointnet](https://github.com/charlesq34/pointnet) - PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation
-- [DeepLabCut](https://github.com/AlexEMG/DeepLabCut) - Markerless pose estimation of user-defined features with deep learning for all animals, including humans
+- [DeepLabCut](https://github.com/DeepLabCut/DeepLabCut) - Markerless pose estimation of user-defined features with deep learning for all animals
 - [causalnex](https://github.com/quantumblacklabs/causalnex) - A Python library that helps data scientists to infer causation rather than observing correlation.
 - [django-rest-auth](https://github.com/Tivix/django-rest-auth) - This app makes it extremely easy to build Django powered SPA's (Single Page App) or Mobile apps exposing all registration and authentication related functionality as CBV's (Class Base View) and REST (JSON)
 - [sight](https://github.com/rish-16/sight) - 👁Sightseer: State-of-the-art Computer Vision and Object Detection for TensorFlow
@@ -7054,7 +7064,7 @@
 - [YouTube-Report](https://github.com/A3M4/YouTube-Report) - :bar_chart: Generate a personal YouTube report from your Google Takeout data
 - [trax](https://github.com/google/trax) - Trax — Deep Learning with Clear Code and Speed
 - [labelme](https://github.com/wkentaro/labelme) - Image Polygonal Annotation with Python (polygon, rectangle, circle, line, point and image-level flag annotation).
-- [integration](https://github.com/hacs/integration) - Manage (Install, track, upgrade) and discover custom elements for Home Assistant.
+- [integration](https://github.com/hacs/integration) - HACS gives you a powerful UI to handle downloads of all your custom needs.
 - [ru_transformers](https://github.com/mgrankin/ru_transformers) - 
 - [stargan-v2](https://github.com/clovaai/stargan-v2) - StarGAN v2 - Official PyTorch Implementation (CVPR 2020)
 - [gym-bandits](https://github.com/JKCooper2/gym-bandits) - Bandits Environments for the OpenAI Gym
@@ -7576,7 +7586,7 @@
 - [deep-learning-roadmap](https://github.com/machinelearningmindset/deep-learning-roadmap) - :satellite: All You Need to Know About Deep Learning - A kick-starter
 - [delira](https://github.com/delira-dev/delira) - Lightweight framework for fast prototyping and training deep neural networks with PyTorch and TensorFlow
 - [Deep-Reinforcement-Learning-Algorithms-with-PyTorch](https://github.com/p-christ/Deep-Reinforcement-Learning-Algorithms-with-PyTorch) - PyTorch implementations of deep reinforcement learning algorithms and environments
-- [edge-connect](https://github.com/knazeri/edge-connect) - EdgeConnect: Structure Guided Image Inpainting using Edge Prediction, ICCVW  2019 https://arxiv.org/abs/1901.00212
+- [edge-connect](https://github.com/knazeri/edge-connect) - EdgeConnect: Structure Guided Image Inpainting using Edge Prediction, ICCV  2019 https://arxiv.org/abs/1901.00212
 - [transformer-xl](https://github.com/kimiyoung/transformer-xl) - 
 - [cookiecutter-aws-sam-python](https://github.com/aws-samples/cookiecutter-aws-sam-python) - A Cookiecutter template to create a Serverless App based on Serverless Application Model (SAM) and Python 3.6
 - [uncaptcha2](https://github.com/ecthros/uncaptcha2) - defeating the latest version of ReCaptcha with 91% accuracy
@@ -12618,6 +12628,7 @@
 
 ## Shell 
 
+- [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
 - [monorepoize](https://github.com/gigamonkey/monorepoize) - Bash scripts for creating a monorepo out of smaller repos.
 - [learn_gnuawk](https://github.com/learnbyexample/learn_gnuawk) - Example based guide to mastering GNU awk
 - [bashtop](https://github.com/aristocratos/bashtop) - Linux resource monitor
@@ -12847,6 +12858,7 @@
 
 ## TypeScript 
 
+- [vscode-drawio](https://github.com/hediet/vscode-drawio) - This unofficial extension integrates Draw.io into VS Code.
 - [dashboard](https://github.com/lab-ml/dashboard) - Experiments dashboard for LabML
 - [vscode-crossnote](https://github.com/0xGG/vscode-crossnote) - (WIP) Turn your VSCode into a decent markdown note taking platform
 - [refined-github](https://github.com/sindresorhus/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
