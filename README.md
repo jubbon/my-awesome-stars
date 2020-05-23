@@ -50,6 +50,7 @@
   - [Lua](#lua)
   - [M4](#m4)
   - [MATLAB](#matlab)
+  - [MLIR](#mlir)
   - [Makefile](#makefile)
   - [Matlab](#matlab)
   - [Nginx](#nginx)
@@ -985,6 +986,7 @@
 
 ## CSS 
 
+- [Pathfinding-Visualizer](https://github.com/clementmihailescu/Pathfinding-Visualizer) - A visualization tool for various pathfinding algorithms.
 - [breaking-and-pwning-apps-and-servers-aws-azure-training](https://github.com/appsecco/breaking-and-pwning-apps-and-servers-aws-azure-training) - Course content, lab setup instructions and documentation of our very popular Breaking and Pwning Apps and Servers on AWS and Azure hands on training!
 - [DashMachine](https://github.com/rmountjoy92/DashMachine) - Another web application bookmark dashboard, with fun features.
 - [rwi_executive_dashboard](https://github.com/splunk/rwi_executive_dashboard) - Splunk Remote Work Insights - Executive Dashboard
@@ -1542,6 +1544,10 @@
 
 ## Go 
 
+- [act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
+- [runc](https://github.com/opencontainers/runc) - CLI tool for spawning and running containers according to the OCI specification
+- [nightingale](https://github.com/didi/nightingale) - 💡 A Distributed and High-Performance Monitoring System
+- [Prometheus-Basics](https://github.com/yolossn/Prometheus-Basics) - A beginner friendly introduction to prometheus 🔥
 - [client_golang](https://github.com/prometheus/client_golang) - Prometheus instrumentation library for Go applications
 - [cloud-on-k8s](https://github.com/elastic/cloud-on-k8s) - Elastic Cloud on Kubernetes
 - [gardener](https://github.com/gardener/gardener) - Kubernetes-native system managing the full lifecycle of conformant Kubernetes clusters as a service on Alicloud, AWS, Azure, GCP, OpenStack, Packet, MetalStack, and vSphere with minimal TCO.
@@ -2200,6 +2206,8 @@
 
 ## HTML 
 
+- [turndown](https://github.com/domchristie/turndown) - 🛏 An HTML to Markdown converter written in JavaScript
+- [actions](https://github.com/Azure/actions) - Automate your GitHub workflows using Azure Actions
 - [nlp_workshop](https://github.com/buriy/nlp_workshop) - nlp workshop at datafest siberia 2019
 - [AttackVectors](https://github.com/MassMove/AttackVectors) - A repository to monitor attack vectors from state-backed information operations
 - [ASVS](https://github.com/OWASP/ASVS) - Application Security Verification Standard
@@ -2289,7 +2297,7 @@
 - [watchme](https://github.com/vsoch/watchme) - Reproducible watchers for research
 - [front-end-handbook-2019](https://github.com/FrontendMasters/front-end-handbook-2019) - [Book] 2019 edition of our front-end development handbook
 - [bestofml](https://github.com/RemoteML/bestofml) - The best resources around Machine Learning
-- [foundation](https://github.com/fp-tower/foundation) - Foundation of functional programming in Scala
+- [foundation](https://github.com/fp-tower/foundation) - Online Scala courses that help you learn the practical side of functional programming, quickly and simply, so you can improve your skills and your career
 - [spur-template](https://github.com/HackerThemes/spur-template) - A Bootstrap Admin Template
 - [javascript-tutorial-ru](https://github.com/iliakan/javascript-tutorial-ru) - [Предыдущая редакция] Современный учебник JavaScript
 - [Advanced-R](https://github.com/uc-r/Advanced-R) - Advanced Analytics with R training material delivered in a 2 day format
@@ -2881,6 +2889,11 @@
 
 ## JavaScript 
 
+- [sci-hub-now](https://github.com/0x01h/sci-hub-now) - Free access to academic papers with just a single click! Abolish publishers, long live the open access movement! 🦅
+- [editly](https://github.com/mifi/editly) - Slick, declarative command line video editing
+- [intelligent-test-platform](https://github.com/alibaba/intelligent-test-platform) - intelligent-test-platform
+- [ac-nh-turnip-prices](https://github.com/mikebryant/ac-nh-turnip-prices) - Price calculator/predictor for Turnip prices
+- [Recoil](https://github.com/facebookexperimental/Recoil) - Recoil is an experimental state management library for React apps. It provides several capabilities that are difficult to achieve with React alone, while being compatible with the newest features of React.
 - [talks](https://github.com/explosion/talks) - 💥 Browser-based slides or PDFs of our talks and presentations
 - [displacy](https://github.com/explosion/displacy) - :boom: displaCy.js: An open-source NLP visualiser for the modern web
 - [javascript-interview-questions](https://github.com/sudheerj/javascript-interview-questions) - List of 1000 JavaScript Interview Questions
@@ -2989,7 +3002,6 @@
 - [git-pending](https://github.com/kamranahmedse/git-pending) - Git plugin to list TODO, FIXME, TESTME, DOCME comments in a repository
 - [carbon](https://github.com/carbon-design-system/carbon) - A design system built by IBM
 - [umi](https://github.com/umijs/umi) - 🌋 Pluggable enterprise-level react application framework.
-- [theme-ui](https://github.com/system-ui/theme-ui) - Build consistent, themeable React apps based on constraint-based design principles
 - [daterangepicker](https://github.com/dangrossman/daterangepicker) - JavaScript Date Range, Date and Time Picker Component
 - [vue-slideout](https://github.com/hyjiacan/vue-slideout) - A Slide-Out component for Vue.js 2.0
 - [geojson2h3](https://github.com/uber/geojson2h3) - Conversion utilities between H3 indexes and GeoJSON
@@ -3138,7 +3150,6 @@
 - [aws-serverless-workshops](https://github.com/aws-samples/aws-serverless-workshops) - Code and walkthrough labs to set up serverless applications for Wild Rydes workshops
 - [react-firebase-starter](https://github.com/kriasoft/react-firebase-starter) - Boilerplate (seed) project for creating web apps with React.js, GraphQL.js and Relay
 - [vue-lazy-image-loading](https://github.com/subotkevic/vue-lazy-image-loading) - Vue lazy image and background loading plugin.
-- [statusfy](https://github.com/aceforth/statusfy) - A Marvelous Open Source Status Page System
 - [unified](https://github.com/unifiedjs/unified) - ☔️ interface for parsing, inspecting, transforming, and serializing content through syntax trees
 - [tensorspace](https://github.com/tensorspace-team/tensorspace) - Neural network 3D visualization framework, build interactive and intuitive model in browsers, support pre-trained deep learning models from TensorFlow, Keras, TensorFlow.js
 - [FeatureServer](https://github.com/koopjs/FeatureServer) - An open source Geoservices Implementation
@@ -3564,7 +3575,6 @@
 - [ipfs-dropzone](https://github.com/fiatjaf/ipfs-dropzone) - Dropzone.js  that uploads to IPFS instead of to an URL
 - [microbundle](https://github.com/developit/microbundle) - 📦 Zero-configuration bundler for tiny modules.
 - [Manta](https://github.com/hql287/Manta) - 🎉 Flexible invoicing desktop app with beautiful & customizable templates.
-- [boardgame.io](https://github.com/nicolodavis/boardgame.io) - State Management for Turn-Based Games
 - [Checklist-Checklist](https://github.com/huyingjie/Checklist-Checklist) - 🌈  A Curated List of Checklists ✔︎✔︎
 - [taskr](https://github.com/bukinoshita/taskr) - A simple task manager app
 - [browsh](https://github.com/browsh-org/browsh) - A fully-modern text-based browser, rendering to TTY and browsers
@@ -4451,6 +4461,12 @@
 
 ## Jupyter Notebook 
 
+- [drq](https://github.com/denisyarats/drq) - DrQ: Data regularized Q
+- [torchdyn](https://github.com/DiffEqML/torchdyn) - A PyTorch based library for all things neural differential equations
+- [Data-Science-Online](https://github.com/codenation-dev/Data-Science-Online) - 
+- [interpretable-ml-book](https://github.com/christophM/interpretable-ml-book) - Book about interpretable machine learning
+- [Quantum](https://github.com/PaddlePaddle/Quantum) - 
+- [course-content](https://github.com/NeuromatchAcademy/course-content) - Summer course content for Neuromatch Academy
 - [machine-learning-experiments](https://github.com/trekhleb/machine-learning-experiments) - 🤖 Interactive Machine Learning experiments: 🏋️models training + 🎨models demo
 - [yargy-examples](https://github.com/natasha/yargy-examples) - 
 - [nel](https://github.com/wikilinks/nel) - Entity linking framework
@@ -4489,7 +4505,7 @@
 - [Daily-Sessions](https://github.com/analytics-club-iitm/Daily-Sessions) - Check this page for daily updates
 - [deepPavlovEval](https://github.com/deepmipt/deepPavlovEval) - Sentence embeddings evaluation for russian tasks
 - [dp_notebooks](https://github.com/deepmipt/dp_notebooks) - 
-- [ParallelWaveGAN](https://github.com/kan-bayashi/ParallelWaveGAN) - Unofficial Parallel WaveGAN (+ MelGAN) implementation with Pytorch
+- [ParallelWaveGAN](https://github.com/kan-bayashi/ParallelWaveGAN) - Unofficial Parallel WaveGAN (+ MelGAN & Multi-band MelGAN) with Pytorch
 - [nlp-in-python-tutorial](https://github.com/adashofdata/nlp-in-python-tutorial) - comparing stand up comedians using natural language processing
 - [course-v4](https://github.com/fastai/course-v4) - Pre-release of v4 of course.fast.ai
 - [automl](https://github.com/google/automl) - Google Brain AutoML
@@ -5247,7 +5263,6 @@
 - [ml-course-hse](https://github.com/esokolov/ml-course-hse) - Машинное обучение на ФКН ВШЭ
 - [YSDA_deeplearning17](https://github.com/yandexdataschool/YSDA_deeplearning17) - Yandex SDA classes on deep learning. Version of year 2017
 - [nbconvert-examples](https://github.com/jupyter/nbconvert-examples) - Examples that illustrate how nbconvert can be used
-- [nbconvert](https://github.com/jupyter/nbconvert) - Jupyter Notebook Conversion
 - [folium_contrib](https://github.com/python-visualization/folium_contrib) - User contributed examples
 - [Practical_RL](https://github.com/yandexdataschool/Practical_RL) - A course in reinforcement learning in the wild
 - [ml-examples](https://github.com/kylemcdonald/ml-examples) - Examples of machine learning, with an emphasis on deep learning.
@@ -5672,6 +5687,10 @@
 - [FarmPlotter](https://github.com/TimChinenov/FarmPlotter) - The following is a Matlab script that uses image processing to determine the number of farm plots in an image and print their area in pixels
 - [OpenFace](https://github.com/TadasBaltrusaitis/OpenFace) - OpenFace – a state-of-the art tool intended for facial landmark detection, head pose estimation, facial action unit recognition, and eye-gaze estimation.
 
+## MLIR 
+
+- [runtime](https://github.com/tensorflow/runtime) - A performant and modular runtime for TensorFlow
+
 ## Makefile 
 
 - [docker-serverless](https://github.com/amaysim-au/docker-serverless) - Docker image containing NodeJS, Serverless Framework and Yarn.
@@ -5732,6 +5751,8 @@
 
 ## Others 
 
+- [unofficial-apis](https://github.com/Rolstenhouse/unofficial-apis) - A collection of unofficial apis. Designed to inspire your next Friday night hack
+- [cwa-documentation](https://github.com/corona-warn-app/cwa-documentation) - Project overview, general documentation, and white papers.
 - [awesome-asgi](https://github.com/florimondmanca/awesome-asgi) - A curated list of awesome ASGI servers, frameworks, apps, libraries, and other resources
 - [enhancement-proposals](https://github.com/jupyter/enhancement-proposals) - Enhancement proposals for the Jupyter Ecosystem
 - [awesome-deeplearning-nlp-papers](https://github.com/KaiyuanGao/awesome-deeplearning-nlp-papers) - A curated list of Deep learning and NLP must read papers
@@ -6743,6 +6764,25 @@
 
 ## Python 
 
+- [Realtime_PyAudio_FFT](https://github.com/tr1pzz/Realtime_PyAudio_FFT) - Realtime audio analysis in Python, using PyAudio and Numpy to extract and visualize FFT features from streaming audio.
+- [motion_imitation](https://github.com/google-research/motion_imitation) - Code accompanying the paper "Learning Agile Robotic Locomotion Skills by Imitating Animals"
+- [kiss-headers](https://github.com/Ousret/kiss-headers) - 💡Python package for object oriented headers, HTTP/1.1 style. Parse headers to objects.
+- [xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh
+- [interrogate](https://github.com/econchick/interrogate) - Explain yourself! Interrogate a codebase for docstring coverage.
+- [nnsvs](https://github.com/r9y9/nnsvs) - Neural network-based singing voice synthesis library for research.
+- [flowtron](https://github.com/NVIDIA/flowtron) - Auto-regressive flow-based generative network for text to speech synthesis
+- [pytorch-pfn-extras](https://github.com/pfnet/pytorch-pfn-extras) - Supplementary components to accelerate research and development in PyTorch
+- [graphene-django](https://github.com/graphql-python/graphene-django) - Integrate GraphQL into your Django project.
+- [U-2-Net](https://github.com/NathanUA/U-2-Net) - The code for our newly accepted paper in Pattern Recognition 2020: "U^2-Net: Going Deeper with Nested U-Structure for Salient Object Detection."
+- [checkov](https://github.com/bridgecrewio/checkov) - Prevent cloud misconfigurations during build-time for Terraform, Cloudformation, Kubernetes and other infrastructure-as-code-languages with Checkov by Bridgecrew.
+- [NeuralCDE](https://github.com/patrick-kidger/NeuralCDE) - Code for "Neural Controlled Differential Equations for Irregular Time Series"
+- [GithubDataVisTool](https://github.com/Garfinkel/GithubDataVisTool) - 
+- [TransformerTTS](https://github.com/as-ideas/TransformerTTS) - 🤖💬 Implementation of a Transformer based neural network for text to speech.
+- [ScoutSuite](https://github.com/nccgroup/ScoutSuite) - Multi-Cloud Security Auditing Tool
+- [azure-sdk-for-python](https://github.com/Azure/azure-sdk-for-python) - This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/en-us/python/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-python.
+- [DataCamp](https://github.com/wblakecannon/DataCamp) - DataCamp data-science courses
+- [tensorflow-yolov4-tflite](https://github.com/hunglc007/tensorflow-yolov4-tflite) - YOLOv4, YOLOv3, YOLO-tiny Implemented in Tensorflow 2.0, Android. Convert YOLO v4 .weights tensorflow, tensorrt and tflite
+- [Background-Matting](https://github.com/senguptaumd/Background-Matting) - Background Matting: The World is Your Green Screen
 - [click-completion](https://github.com/click-contrib/click-completion) - Add or enhance bash, fish, zsh and powershell completion in Click
 - [fastapi-utils](https://github.com/dmontagu/fastapi-utils) - Reusable utilities for FastAPI
 - [awesome-python](https://github.com/tiangolo/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
@@ -7527,7 +7567,7 @@
 - [spektral](https://github.com/danielegrattarola/spektral) - Graph Neural Networks with Keras and Tensorflow 2.
 - [ludwig](https://github.com/uber/ludwig) - Ludwig is a toolbox built on top of TensorFlow that allows to train and test deep learning models without the need to write code.
 - [project_alias](https://github.com/bjoernkarmann/project_alias) - Alias is a teachable “parasite” that is designed to give users more control over their smart assistants, both when it comes to customisation and privacy. Through a simple app the user can train Alias to react on a custom wake-word/sound, and once trained, Alias can take control over your home assistant by activating it for you.
-- [gita](https://github.com/nosarthur/gita) - Manage multiple git repos side by side for sanity 不疯了似地管理多个git库
+- [gita](https://github.com/nosarthur/gita) - Manage many git repos with sanity 不疯了似地管理多个git库
 - [ffhq-dataset](https://github.com/NVlabs/ffhq-dataset) - Flickr-Faces-HQ Dataset (FFHQ)
 - [ImageNet-Adversarial-Training](https://github.com/facebookresearch/ImageNet-Adversarial-Training) - ImageNet classifier with state-of-the-art adversarial robustness
 - [bert-embedding](https://github.com/imgarylai/bert-embedding) - 🔡 Token level embeddings from BERT model on mxnet and gluonnlp
@@ -7681,6 +7721,7 @@
 - [spinningup](https://github.com/openai/spinningup) - An educational resource to help anyone learn deep reinforcement learning.
 - [transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0.
 - [waveglow](https://github.com/NVIDIA/waveglow) - A Flow-based Generative Network for Speech Synthesis
+- [pipelines](https://github.com/kubeflow/pipelines) - Machine Learning Pipelines for Kubeflow
 - [pampy](https://github.com/santinic/pampy) - Pampy: The Pattern Matching for Python you always dreamed of.
 - [pysaml2](https://github.com/IdentityPython/pysaml2) - Python implementation of SAML2
 - [einops](https://github.com/arogozhnikov/einops) - Deep learning operations reinvented (for pytorch, tensorflow, chainer, gluon and others)
@@ -7821,7 +7862,7 @@
 - [ruia](https://github.com/howie6879/ruia) - Async Python 3.6+ web scraping micro-framework based on asyncio（Python3.6+异步爬虫框架）
 - [zero](https://github.com/KonstantinSchubert/zero) - Local file system transparently swapping to the cloud
 - [jupytext](https://github.com/mwouts/jupytext) - Jupyter Notebooks as Markdown Documents, Julia, Python or R scripts
-- [rescuekerala](https://github.com/IEEEKeralaSection/rescuekerala) - Website for coordinating rehabilitation of people affected in the Kerala Floods
+- [rescuekerala](https://github.com/raksha-life/rescuekerala) - Website for coordinating rehabilitation of people affected in the Kerala Floods
 - [awesome-reactnative-ui](https://github.com/madhavanmalolan/awesome-reactnative-ui) - Awesome React Native UI components updated weekly
 - [learn-python](https://github.com/trekhleb/learn-python) - 📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations.
 - [Bowler](https://github.com/facebookincubator/Bowler) - Safe code refactoring for modern Python.
@@ -8707,7 +8748,7 @@
 - [gaps](https://github.com/nemanja-m/gaps) - A Genetic Algorithm-Based Solver for Jigsaw Puzzles :cyclone:
 - [fairseq](https://github.com/pytorch/fairseq) - Facebook AI Research Sequence-to-Sequence Toolkit written in Python.
 - [weibospider](https://github.com/SpiderClub/weibospider) - :zap: A distributed crawler for weibo, building with celery and requests.
-- [SerpentAI](https://github.com/SerpentAI/SerpentAI) - Game Agent Framework. Helping you create AIs / Bots to play any game you own!
+- [SerpentAI](https://github.com/SerpentAI/SerpentAI) - Game Agent Framework. Helping you create AIs / Bots that learn to play any game you own!
 - [onnx-caffe2](https://github.com/onnx/onnx-caffe2) - Caffe2 implementation of Open Neural Network Exchange (ONNX)
 - [fa2l](https://github.com/bosiakov/fa2l) - Force Atlas 2 graph layout
 - [studio](https://github.com/studioml/studio) - Studio: Simplify and expedite model building process
@@ -9222,6 +9263,7 @@
 - [python-fire](https://github.com/google/python-fire) - Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
 - [httplib2](https://github.com/httplib2/httplib2) - Small, fast HTTP client library for Python. Features persistent connections, cache, and Google App Engine support. Originally written by Joe Gregorio, now supported by community.
 - [lightning-python](https://github.com/lightning-viz/lightning-python) - Python client for the lightning API
+- [nbconvert](https://github.com/jupyter/nbconvert) - Jupyter Notebook Conversion
 - [gmaps](https://github.com/pbugnion/gmaps) - Google maps for Jupyter notebooks
 - [powerline](https://github.com/powerline/powerline) - Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile.
 - [Transcrypt](https://github.com/QQuick/Transcrypt) - Python 3.7 to JavaScript compiler - Lean, fast, open! -
@@ -12568,6 +12610,7 @@
 
 ## Rust 
 
+- [desed](https://github.com/SoptikHa2/desed) - Debugger for Sed: demystify and debug your sed scripts, from comfort of your terminal.
 - [nomino](https://github.com/yaa110/nomino) - Batch rename utility for developers
 - [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
@@ -12608,7 +12651,7 @@
 - [mmlspark](https://github.com/Azure/mmlspark) - Microsoft Machine Learning for Apache Spark
 - [toyregex](https://github.com/rcoh/toyregex) - A Toy Regex Engine In Scala
 - [prisma1](https://github.com/prisma/prisma1) - 💾 Database Tools incl. ORM, Migrations and Admin UI (Postgres, MySQL & MongoDB)
-- [BigDL](https://github.com/intel-analytics/BigDL) - BigDL: Distributed Deep Learning Library for Apache Spark
+- [BigDL](https://github.com/intel-analytics/BigDL) - BigDL: Distributed Deep Learning Framework for Apache Spark
 - [aerosolve](https://github.com/airbnb/aerosolve) - A machine learning package built for humans.
 - [gitbucket](https://github.com/gitbucket/gitbucket) - A Git platform powered by Scala with easy installation, high extensibility & GitHub API compatibility
 - [ArchiveSpark](https://github.com/helgeho/ArchiveSpark) - An Apache Spark framework for easy data processing, extraction as well as derivation for web archives and archival collections, developed at Internet Archive.
@@ -12628,10 +12671,11 @@
 
 ## Shell 
 
+- [axiom](https://github.com/pry0cc/axiom) - A dynamic infrastructure toolkit for red teamers and bug bounty hunters!
 - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
 - [monorepoize](https://github.com/gigamonkey/monorepoize) - Bash scripts for creating a monorepo out of smaller repos.
 - [learn_gnuawk](https://github.com/learnbyexample/learn_gnuawk) - Example based guide to mastering GNU awk
-- [bashtop](https://github.com/aristocratos/bashtop) - Linux resource monitor
+- [bashtop](https://github.com/aristocratos/bashtop) - Linux/OSX resource monitor
 - [Arch-Data-Science](https://github.com/mratsim/Arch-Data-Science) - Archlinux PKGBUILDs for Data Science, Machine Learning, Deep Learning, NLP and Computer Vision
 - [xtreme](https://github.com/google-research/xtreme) - XTREME is a benchmark for the evaluation of the cross-lingual generalization ability of pre-trained multilingual models that covers 40 typologically diverse languages and includes nine tasks.
 - [Spoken-SQuAD](https://github.com/chiahsuan156/Spoken-SQuAD) - A spoken question answering dataset on SQUAD
@@ -12858,6 +12902,8 @@
 
 ## TypeScript 
 
+- [vscode-realtime-debugging](https://github.com/hediet/vscode-realtime-debugging) - An extension for VS Code that visualizes how a program is being executed in real time.
+- [n8n](https://github.com/n8n-io/n8n) - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
 - [vscode-drawio](https://github.com/hediet/vscode-drawio) - This unofficial extension integrates Draw.io into VS Code.
 - [dashboard](https://github.com/lab-ml/dashboard) - Experiments dashboard for LabML
 - [vscode-crossnote](https://github.com/0xGG/vscode-crossnote) - (WIP) Turn your VSCode into a decent markdown note taking platform
@@ -12888,6 +12934,7 @@
 - [react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design
 - [harp.gl](https://github.com/heremaps/harp.gl) - harp.gl - web map rendering engine
 - [mds-core](https://github.com/openmobilityfoundation/mds-core) - An implementation of an MDS Agency Server written in Typescript
+- [theme-ui](https://github.com/system-ui/theme-ui) - Build consistent, themeable React apps based on constraint-based design principles
 - [lightweight-charts](https://github.com/tradingview/lightweight-charts) - Financial lightweight charts built with HTML5 canvas
 - [gh-card](https://github.com/nwtgck/gh-card) - :octocat: GitHub Repository Card for Any Web Site
 - [urql](https://github.com/FormidableLabs/urql) - The highly customizable and versatile GraphQL client.
@@ -12927,7 +12974,7 @@
 - [squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
 - [material-angular-dashboard](https://github.com/CreativeIT/material-angular-dashboard) - Material Angular Admin Template
 - [wayne](https://github.com/Qihoo360/wayne) - Kubernetes multi-cluster management and publishing platform
-- [pipelines](https://github.com/kubeflow/pipelines) - Machine Learning Pipelines for Kubeflow
+- [statusfy](https://github.com/aceforth/statusfy) - A Marvelous Open Source Status Page System
 - [axios-actions](https://github.com/davestewart/axios-actions) - Bundle endpoints as callable, reusable services
 - [eva-icons](https://github.com/akveo/eva-icons) - A pack of more than 480 beautifully crafted Open Source icons. SVG, Sketch, Web Font and Animations support.
 - [graphql-editor](https://github.com/graphql-editor/graphql-editor) - 📺 Visual Editor & GraphQL IDE. Draw GraphQL schemas using visual 🔷 nodes and explore GraphQL API with beautiful UI. Even 🐒 can do that!
@@ -13007,6 +13054,7 @@
 - [majestic](https://github.com/Raathigesh/majestic) - ⚡ Zero config GUI for Jest
 - [vuesion](https://github.com/vuesion/vuesion) - The most complete boilerplate for production-ready PWAs. With focus on performance, development speed, and best practices
 - [caprover](https://github.com/caprover/caprover) - [previously CaptainDuckDuck] Automated Scalable PaaS Package (automated Docker+nginx) - Heroku on Steroids
+- [boardgame.io](https://github.com/nicolodavis/boardgame.io) - State Management for Turn-Based Games
 - [stimulus](https://github.com/stimulusjs/stimulus) - A modest JavaScript framework for the HTML you already have
 - [vscode-terminals](https://github.com/fabiospampinato/vscode-terminals) - An extension for setting-up multiple terminals at once, or just running some commands.
 - [alva](https://github.com/meetalva/alva) - Create living prototypes with code components.
