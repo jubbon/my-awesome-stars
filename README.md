@@ -3487,7 +3487,6 @@
 - [vue-session](https://github.com/victorsferreira/vue-session) - A simplistic session plugin for VueJS backed by SessionStorage and LocalStorage
 - [vue-cordova-demo](https://github.com/kartsims/vue-cordova-demo) - Demo for vue-cordova NPM package
 - [terriajs](https://github.com/TerriaJS/terriajs) - A library for building rich, web-based geospatial data explorers.
-- [leaflet-geosearch](https://github.com/smeijer/leaflet-geosearch) - (Leaflet) GeoSearch / GeoCode provider
 - [tangram](https://github.com/tangrams/tangram) - WebGL map rendering engine for creative cartography
 - [vue-fineuploader](https://github.com/Elhebert/vue-fineuploader) - Easily integrate Fine Uploader into a VueJS 2 app. Drop-in high-level components for a turn-key UI. Use small focused components to build a more custom UI.
 - [sockette](https://github.com/lukeed/sockette) - The cutest little WebSocket wrapper! 🧦
@@ -4866,7 +4865,7 @@
 - [HELK](https://github.com/Cyb3rWard0g/HELK) - The Hunting ELK
 - [Interactive_Machine_Learning](https://github.com/tirthajyoti/Interactive_Machine_Learning) - IPython widgets, interactive plots, interactive machine learning
 - [mlcourse](https://github.com/davidrosenberg/mlcourse) - Machine learning course materials.
-- [osmnx-examples](https://github.com/gboeing/osmnx-examples) - Examples, demos, and tutorials demonstrating the usage of OSMnx
+- [osmnx-examples](https://github.com/gboeing/osmnx-examples) - Usage examples, demos, and tutorials for OSMnx.
 - [deep-reinforcement-learning](https://github.com/udacity/deep-reinforcement-learning) - Repo for the Deep Reinforcement Learning Nanodegree program
 - [guided-evolutionary-strategies](https://github.com/brain-research/guided-evolutionary-strategies) - Guided Evolutionary Strategies
 - [2018-MachineLearning-Lectures-ESA](https://github.com/jmartinezheras/2018-MachineLearning-Lectures-ESA) - Machine Learning Lectures at the European Space Agency (ESA) in 2018
@@ -6764,6 +6763,9 @@
 
 ## Python 
 
+- [stable-baselines3](https://github.com/DLR-RM/stable-baselines3) - PyTorch version of Stable Baselines, improved implementations of reinforcement learning algorithms.
+- [shotlooter](https://github.com/utkusen/shotlooter) - a recon tool that finds sensitive data inside the screenshots uploaded to prnt.sc
+- [TENER](https://github.com/fastnlp/TENER) - Codes for "TENER: Adapting Transformer Encoder for Named Entity Recognition"
 - [Realtime_PyAudio_FFT](https://github.com/tr1pzz/Realtime_PyAudio_FFT) - Realtime audio analysis in Python, using PyAudio and Numpy to extract and visualize FFT features from streaming audio.
 - [motion_imitation](https://github.com/google-research/motion_imitation) - Code accompanying the paper "Learning Agile Robotic Locomotion Skills by Imitating Animals"
 - [kiss-headers](https://github.com/Ousret/kiss-headers) - 💡Python package for object oriented headers, HTTP/1.1 style. Parse headers to objects.
@@ -9237,7 +9239,7 @@
 - [aredis](https://github.com/NoneGG/aredis) - redis client for Python asyncio (has support for redis server, sentinel and cluster)
 - [git-imerge](https://github.com/mhagger/git-imerge) - Incremental merge for git
 - [dockerscan](https://github.com/cr0hn/dockerscan) - Docker security analysis & hacking tools
-- [python-cheat-sheet](https://github.com/funkythings/python-cheat-sheet) - Python Cheat Sheet NumPy, Matplotlib
+- [python-cheat-sheet](https://github.com/juliangaal/python-cheat-sheet) - Python Cheat Sheet NumPy, Matplotlib
 - [pdir2](https://github.com/laike9m/pdir2) - Pretty dir() printing with joy:beer:
 - [system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [python-geohash](https://github.com/hkwi/python-geohash) - fast, accurate python geohashing library
@@ -12675,7 +12677,7 @@
 - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
 - [monorepoize](https://github.com/gigamonkey/monorepoize) - Bash scripts for creating a monorepo out of smaller repos.
 - [learn_gnuawk](https://github.com/learnbyexample/learn_gnuawk) - Example based guide to mastering GNU awk
-- [bashtop](https://github.com/aristocratos/bashtop) - Linux/OSX resource monitor
+- [bashtop](https://github.com/aristocratos/bashtop) - Linux/OSX/FreeBSD resource monitor
 - [Arch-Data-Science](https://github.com/mratsim/Arch-Data-Science) - Archlinux PKGBUILDs for Data Science, Machine Learning, Deep Learning, NLP and Computer Vision
 - [xtreme](https://github.com/google-research/xtreme) - XTREME is a benchmark for the evaluation of the cross-lingual generalization ability of pre-trained multilingual models that covers 40 typologically diverse languages and includes nine tasks.
 - [Spoken-SQuAD](https://github.com/chiahsuan156/Spoken-SQuAD) - A spoken question answering dataset on SQUAD
@@ -13039,6 +13041,7 @@
 - [tsed](https://github.com/TypedProject/tsed) - :triangular_ruler:  Ts.ED is a Node.js and TypeScript framework on top of Express to write your application with TypeScript (or ES6). It provides a lot of decorators and guideline to make your code more readable and less error-prone.
 - [tasktimer](https://github.com/onury/tasktimer) - An accurate timer utility for running periodic tasks on the given interval ticks or dates. (Node and Browser)
 - [PruneCluster](https://github.com/SINTEF-9012/PruneCluster) - Fast and realtime marker clustering for Leaflet
+- [leaflet-geosearch](https://github.com/smeijer/leaflet-geosearch) - (Leaflet) GeoSearch / GeoCode provider
 - [vscode-python](https://github.com/microsoft/vscode-python) - Python extension for Visual Studio Code
 - [types](https://github.com/rx-ts/types) - TypeScript Type Definitions same as DefinitelyTyped.
 - [vuex-orm](https://github.com/vuex-orm/vuex-orm) - The Vuex plugin to enable Object-Relational Mapping access to the Vuex Store.
