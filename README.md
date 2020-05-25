@@ -1209,7 +1209,6 @@
 - [wing](https://github.com/kbrsh/wing) - :gem: A beautiful CSS framework designed for minimalists.
 - [Gutenberg](https://github.com/BafS/Gutenberg) - Modern framework to print the web correctly.
 - [weather-icons](https://github.com/erikflowers/weather-icons) - 215 Weather Themed Icons and CSS
-- [shepherd](https://github.com/shipshapecode/shepherd) - Guide your users through a tour of your app
 - [calcite-web](https://github.com/Esri/calcite-web) - Authoritative front-end development resources for Calcite design initiative. Includes extendable base components and styles, as well as a modular and efficient framework for ArcGIS properties.
 - [AwesomePerfCpp](https://github.com/fenbf/AwesomePerfCpp) - A curated list of awesome C/C++ performance optimization resources: talks, articles, books, libraries, tools, sites, blogs. Inspired by awesome.
 - [seti-ui](https://github.com/jesseweed/seti-ui) - A subtle dark colored UI theme for Atom.
@@ -1569,7 +1568,7 @@
 - [godog](https://github.com/cucumber/godog) - Cucumber for golang
 - [aws-vault](https://github.com/99designs/aws-vault) - A vault for securely storing and accessing AWS credentials in development environments
 - [go-gitlab](https://github.com/xanzy/go-gitlab) - A GitLab API client enabling Go programs to interact with GitLab in a simple and uniform way
-- [micro](https://github.com/micro/micro) - Micro is a distributed systems runtime for the Cloud and beyond
+- [micro](https://github.com/micro/micro) - A distributed systems server for the Cloud era
 - [go-github](https://github.com/google/go-github) - Go library for accessing the GitHub API
 - [nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
 - [migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
@@ -3551,6 +3550,7 @@
 - [electron-packager](https://github.com/electron/electron-packager) - Customize and package your Electron app with OS-specific bundles (.app, .exe, etc.) via JS or CLI
 - [v2-datepicker](https://github.com/dwqs/v2-datepicker) - A simple datepicker component based Vue 2.x: https://dwqs.github.io/v2-datepicker/
 - [vue-wait](https://github.com/f/vue-wait) - Complex Loader and Progress Management for Vue/Vuex and Nuxt Applications
+- [after.js](https://github.com/jaredpalmer/after.js) - Next.js-like framework for server-rendered React apps built with React Router 4
 - [nerv](https://github.com/NervJS/nerv) - A blazing fast React alternative, compatible with IE8 and React 16.
 - [polka](https://github.com/lukeed/polka) - A micro web server so fast, it'll make you dance! :dancers:
 - [jarvis](https://github.com/zouhir/jarvis) - A very intelligent browser based Webpack dashboard
@@ -4010,6 +4010,7 @@
 - [Leaflet](https://github.com/Leaflet/Leaflet) - :leaves: JavaScript library for mobile-friendly interactive maps
 - [choreographer-js](https://github.com/christinecha/choreographer-js) - A simple library to take care of complicated animations.
 - [arbor](https://github.com/samizdatco/arbor) - a graph visualization library using web workers and jQuery
+- [shepherd](https://github.com/shipshapecode/shepherd) - Guide your users through a tour of your app
 - [react-color](https://github.com/casesandberg/react-color) - :art: Color Pickers from Sketch, Photoshop, Chrome, Github, Twitter & more
 - [canvas-gauges](https://github.com/Mikhus/canvas-gauges) - HTML5 Canvas Gauge. Tiny implementation of highly configurable gauge using pure JavaScript and HTML5 canvas. No dependencies. Suitable for IoT devices because of minimum code base.
 - [FacebookBot](https://github.com/hungtraan/FacebookBot) - A Facebook Messenger Bot that supports Voice Recognition, Natural Language Processing and features such as: search nearby restaurants, search trending news, transcribe and save memos to the cloud.
@@ -4125,6 +4126,7 @@
 - [compromise](https://github.com/spencermountain/compromise) - modest natural-language processing
 - [Js2Py](https://github.com/PiotrDabkowski/Js2Py) - JavaScript to Python Translator & JavaScript interpreter written in 100% pure Python🚀 Try it online:
 - [markmap](https://github.com/dundalek/markmap) - Visualize markdown documents as mindmaps
+- [ipyleaflet](https://github.com/jupyter-widgets/ipyleaflet) - A Jupyter - Leaflet.js bridge
 - [express-print-routes](https://github.com/analog-nico/express-print-routes) - Prints the tree of Express routes and middlewares to a file
 - [You-Dont-Know-JS](https://github.com/cezaraugusto/You-Dont-Know-JS) - :green_book::ledger: (PT-BR translation) JS Book Series.
 - [yakbak](https://github.com/flickr/yakbak) - Record and playback HTTP responses
@@ -4772,7 +4774,6 @@
 - [NLP-with-Python](https://github.com/susanli2016/NLP-with-Python) - Scikit-Learn, NLTK, Spacy, Gensim, Textblob and more
 - [eif](https://github.com/sahandha/eif) - Extended Isolation Forest for Anomaly Detection
 - [pytorch_challenge](https://github.com/udacity/pytorch_challenge) - 
-- [My-journey-in-the-data-science-world](https://github.com/mjbahmani/My-journey-in-the-data-science-world) - 📢 Ready to learn or review your knowledge!
 - [ICLR2019-OpenReviewData](https://github.com/shaohua0116/ICLR2019-OpenReviewData) - Script that crawls meta data from ICLR OpenReview webpage. Tutorials on installing and using Selenium and ChromeDriver on Ubuntu.
 - [deep-learning-v2-pytorch](https://github.com/udacity/deep-learning-v2-pytorch) - Projects and exercises for the latest Deep Learning ND program https://www.udacity.com/course/deep-learning-nanodegree--nd101
 - [cifar10-fast](https://github.com/davidcpage/cifar10-fast) - 
@@ -5760,7 +5761,7 @@
 - [task-specific-datasets](https://github.com/PolyAI-LDN/task-specific-datasets) - A collection of task-specific NLU datasets
 - [awesome-git-addons](https://github.com/stevemao/awesome-git-addons) - :sunglasses: A curated list of add-ons that extend/enhance the git CLI.
 - [EffectivePyTorch](https://github.com/vahidk/EffectivePyTorch) - PyTorch tutorials and best practices.
-- [awesome-maps](https://github.com/simsieg/awesome-maps) - There is more than google: 🗺A collection of great online maps 🌍🌎
+- [awesome-maps](https://github.com/simsieg/awesome-maps) - There is more than google: A collection of great online maps 🌍🗺🌎
 - [awesome-baremetal](https://github.com/alexellis/awesome-baremetal) - Bare-metal is awesome. Let's share our favourite tools.
 - [awesome-deepbio](https://github.com/gokceneraslan/awesome-deepbio) - A curated list of awesome deep learning applications in the field of computational biology
 - [ml-system-design-pattern](https://github.com/mercari/ml-system-design-pattern) - System design patterns for machine learning
@@ -6047,6 +6048,7 @@
 - [quick-SQL-cheatsheet](https://github.com/enochtangg/quick-SQL-cheatsheet) - A quick reminder of all SQL queries and examples on how to use them.
 - [awesome-onsenui](https://github.com/OnsenUI/awesome-onsenui) - A curated list of awesome Onsen UI resources.
 - [databot](https://github.com/kkyon/databot) - Databot was renamed to  BotFlow https://github.com/kkyon/botflow
+- [polyaxon-hub](https://github.com/polyaxon/polyaxon-hub) - Public reusable components
 - [first-contributions](https://github.com/firstcontributions/first-contributions) - 🚀✨ Help beginners to contribute to open source projects
 - [A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - ✅  Curated list of resources for college students
 - [awesome-thesis](https://github.com/ocean1/awesome-thesis) - A curated list of practical tips and tricks to help you achieve an awesome CS master thesis [WIP] - contributions are welcome
@@ -7761,7 +7763,7 @@
 - [nonechucks](https://github.com/msamogh/nonechucks) - Deal with bad samples in your dataset dynamically, use Transforms as Filters, and more!
 - [wheelwright](https://github.com/explosion/wheelwright) - 🎡 Automated build repo for Python wheels and source packages
 - [robotics-rl-srl](https://github.com/araffin/robotics-rl-srl) - S-RL Toolbox: Reinforcement Learning (RL) and State Representation Learning (SRL) for Robotics
-- [stocksight](https://github.com/shirosaidev/stocksight) - Crowd-sourced stock market analyzer and predictor using Elasticsearch, Twitter, News headlines and Python natural language processing and sentiment analysis
+- [stocksight](https://github.com/shirosaidev/stocksight) - Stock market analyzer and predictor using Elasticsearch, Twitter, News headlines and Python natural language processing and sentiment analysis
 - [ReconDog](https://github.com/s0md3v/ReconDog) - Reconnaissance Swiss Army Knife
 - [gpytorch](https://github.com/cornellius-gp/gpytorch) - A highly efficient and modular implementation of Gaussian Processes in PyTorch
 - [shavenet](https://github.com/dataplayer12/shavenet) - Predict when you last shaved with machine learning
@@ -7834,7 +7836,6 @@
 - [datasets](https://github.com/tensorflow/datasets) - TFDS is a collection of datasets ready to use with TensorFlow, Jax, ...
 - [beauty-net](https://github.com/cmsflash/beauty-net) - A simple, flexible, and extensible template for PyTorch. It's beautiful.
 - [petastorm](https://github.com/uber/petastorm) - Petastorm library enables single machine or distributed training and evaluation of deep learning models from datasets in Apache Parquet format. It supports ML frameworks such as Tensorflow, Pytorch, and PySpark and can be used from pure Python code.
-- [rhea](https://github.com/polyaxon/rhea) - Efficient environment variables management and typing for python.
 - [aiochan](https://github.com/zh217/aiochan) - CSP-style concurrency for Python
 - [tuna](https://github.com/nschloe/tuna) - Python profile viewer
 - [Acamar](https://github.com/si9int/Acamar) - A Python3 based single-file subdomain enumerator
@@ -9112,7 +9113,7 @@
 - [scanless](https://github.com/vesche/scanless) - online port scan scraper
 - [flow-dashboard](https://github.com/onejgordon/flow-dashboard) - A goal, task & habit tracker + personal dashboard to focus on what matters
 - [Rutetider](https://github.com/dmytrostriletskyi/Rutetider) - iOS, Android, Web-based and Telegram-bots timetable framework for universities. [not supported]
-- [cibuildwheel](https://github.com/joerick/cibuildwheel) - 🎡 Build Python wheels on CI with minimal configuration.
+- [cibuildwheel](https://github.com/joerick/cibuildwheel) - 🎡 Build Python wheels for all the platforms on CI with minimal configuration.
 - [grappa](https://github.com/grappa-py/grappa) - Behavior-oriented, expressive, human-friendly Python assertion library for the 21st century
 - [EzPyGame](https://github.com/Mahi/EzPyGame) - An easier way to use pygame
 - [aiotasks](https://github.com/cr0hn/aiotasks) - A Celery like task manager that distributes Asyncio coroutines
@@ -10030,7 +10031,6 @@
 - [xgbmagic](https://github.com/mirri66/xgbmagic) - 
 - [closurepr](https://github.com/eugene-eeo/closurepr) - a better repr for closures
 - [gitsome](https://github.com/donnemartin/gitsome) - A supercharged Git/GitHub command line interface (CLI).  An official integration for GitHub and GitHub Enterprise: https://github.com/works-with/category/desktop-tools
-- [ipyleaflet](https://github.com/jupyter-widgets/ipyleaflet) - A Jupyter - Leaflet.js bridge
 - [mxnet-memonger](https://github.com/dmlc/mxnet-memonger) - Sublinear memory optimization for deep learning, reduce GPU memory cost to train deeper nets
 - [cyanide](https://github.com/celery/cyanide) - Celery stress testing and integration test support
 - [databench](https://github.com/svenkreiss/databench) - Data analysis tool.
@@ -11129,7 +11129,7 @@
 - [segtok](https://github.com/fnl/segtok) - Segtok v2 is here: https://github.com/fnl/syntok -- A rule-based sentence segmenter (splitter) and a word tokenizer using orthographic features.
 - [sparta](https://github.com/SECFORCE/sparta) - Network Infrastructure Penetration Testing Tool
 - [huptime](https://github.com/amscanne/huptime) - Utility for zero downtime restarts of unmodified programs.
-- [pycrypto](https://github.com/dlitz/pycrypto) - The Python Cryptography Toolkit
+- [pycrypto](https://github.com/pycrypto/pycrypto) - The Python Cryptography Toolkit
 - [pytest-ordering](https://github.com/ftobia/pytest-ordering) - pytest plugin to run your tests in a specific order
 - [scikit-learn-tutorial](https://github.com/mike-perdide/scikit-learn-tutorial) - Applied Machine Learning in Python with scikit-learn
 - [nbviewer](https://github.com/jupyter/nbviewer) - nbconvert as a web service: Render Jupyter Notebooks as static web pages
@@ -13051,7 +13051,6 @@
 - [word2vec-spam-filter](https://github.com/doodyparizada/word2vec-spam-filter) - Using word vectors to classify spam messages
 - [prettier-vscode](https://github.com/prettier/prettier-vscode) - Visual Studio Code extension for Prettier
 - [snyk](https://github.com/snyk/snyk) - CLI and build-time tool to find & fix known vulnerabilities in open-source dependencies
-- [after.js](https://github.com/jaredpalmer/after.js) - Next.js-like framework for server-rendered React apps built with React Router 4
 - [VisualDL](https://github.com/PaddlePaddle/VisualDL) - Deep Learning Visualization Toolkit（『飞桨』深度学习可视化工具 ）
 - [pluggable-autocomplete](https://github.com/Sammons/pluggable-autocomplete) - Allows writing simple extensions to get suggestions for values from external data sources
 - [majestic](https://github.com/Raathigesh/majestic) - ⚡ Zero config GUI for Jest
