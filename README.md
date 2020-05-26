@@ -1568,7 +1568,7 @@
 - [godog](https://github.com/cucumber/godog) - Cucumber for golang
 - [aws-vault](https://github.com/99designs/aws-vault) - A vault for securely storing and accessing AWS credentials in development environments
 - [go-gitlab](https://github.com/xanzy/go-gitlab) - A GitLab API client enabling Go programs to interact with GitLab in a simple and uniform way
-- [micro](https://github.com/micro/micro) - A distributed systems server for the Cloud era
+- [micro](https://github.com/micro/micro) - A distributed systems server for the cloud era
 - [go-github](https://github.com/google/go-github) - Go library for accessing the GitHub API
 - [nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
 - [migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
@@ -1816,7 +1816,7 @@
 - [fossa-cli](https://github.com/fossas/fossa-cli) - Fast, portable and reliable dependency analysis for any codebase.  Supports license & vulnerability scanning for large monoliths.  Language-agnostic; integrates with 20+ build systems.
 - [gitkube](https://github.com/hasura/gitkube) - Build and deploy docker images to Kubernetes using git push
 - [jaggr](https://github.com/rs/jaggr) - JSON Aggregation CLI
-- [goloader](https://github.com/dearplain/goloader) - load and run golang code at runtime.
+- [goloader](https://github.com/dearplain/goloader) - load and run golang code at runtime. (WARNING: this repo has not been maintained for a long time, please take a look at https://github.com/pkujhd/goloader)
 - [gloo](https://github.com/solo-io/gloo) - The Feature-rich, Kubernetes-native, Next-Generation API Gateway Built on Envoy
 - [one-file-pdf](https://github.com/balacode/one-file-pdf) - A minimalist Go PDF writer in 1982 lines. Draws text, images and shapes. Helps understand the PDF format. Used in production for reports.
 - [git-sizer](https://github.com/github/git-sizer) - Compute various size metrics for a Git repository, flagging those that might cause problems
@@ -4462,6 +4462,7 @@
 
 ## Jupyter Notebook 
 
+- [dp_tutorials](https://github.com/deepmipt/dp_tutorials) - 
 - [drq](https://github.com/denisyarats/drq) - DrQ: Data regularized Q
 - [torchdyn](https://github.com/DiffEqML/torchdyn) - A PyTorch based library for all things neural differential equations
 - [Data-Science-Online](https://github.com/codenation-dev/Data-Science-Online) - 
@@ -5029,6 +5030,7 @@
 - [supervisely-tutorials](https://github.com/DeepSystems/supervisely-tutorials) - 🌈 Tutorials for Supervise.ly
 - [odsc-west-python-2017](https://github.com/jseabold/odsc-west-python-2017) - Introduction to Python for Data Science
 - [vehicle-detection](https://github.com/tatsuyah/vehicle-detection) - Vehicle detection using machine learning and computer vision techniques for Udacity's Self-Driving Car Engineer Nanodegree.
+- [pyro](https://github.com/pyro-ppl/pyro) - Deep universal probabilistic programming with Python and PyTorch
 - [al-go-rithms](https://github.com/ZoranPandovski/al-go-rithms) - :musical_note: Algorithms written in different programming languages -  https://zoranpandovski.github.io/al-go-rithms/
 - [gmseg](https://github.com/neuropoly/gmseg) - Spinal cord gray matter segmentation using deep dilated convolutions.
 - [PyTorch-Tutorial](https://github.com/MorvanZhou/PyTorch-Tutorial) - Build your neural network easy and fast
@@ -5652,7 +5654,7 @@
 - [Hierarchical-Attention-Model](https://github.com/sunprinceS/Hierarchical-Attention-Model) - :page_facing_up: HierAttModel for Question Answering
 - [docker-jitsi-meet](https://github.com/jitsi/docker-jitsi-meet) - Jitsi Meet on Docker
 - [trashnet](https://github.com/garythung/trashnet) - Dataset of images of trash; Torch-based CNN for garbage image classification
-- [incubator-apisix](https://github.com/apache/incubator-apisix) - Cloud-Native Microservices API Gateway
+- [incubator-apisix](https://github.com/apache/incubator-apisix) - The Cloud-Native API Gateway
 - [MazeBase](https://github.com/facebookarchive/MazeBase) - Simple environment for creating very simple 2D games and training neural network models to perform tasks within them
 - [vita](https://github.com/inters/vita) - Vita: simple and fast VPN gateway
 - [AdaIN-style](https://github.com/xunhuang1995/AdaIN-style) - Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization
@@ -6291,7 +6293,6 @@
 - [Probable-Wordlists](https://github.com/berzerk0/Probable-Wordlists) - Version 2 is live! Wordlists sorted by probability originally created for password generation and testing - make sure your passwords aren't popular!
 - [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
 - [awesome-design-systems](https://github.com/alexpate/awesome-design-systems) - 💅🏻 ⚒ A collection of awesome design systems
-- [diskover](https://github.com/shirosaidev/diskover) - File system crawler, disk space usage, file search engine and file system analytics powered by Elasticsearch
 - [javascript-tutorial](https://github.com/iliakan/javascript-tutorial) - The Modern JavaScript Tutorial
 - [100-days-of-code](https://github.com/kallaway/100-days-of-code) - Fork this template for the 100 days journal - to keep yourself accountable (multiple languages available)
 - [cheatsheets-ai](https://github.com/kailashahirwar/cheatsheets-ai) - Essential Cheat Sheets for deep learning and machine learning researchers https://medium.com/@kailashahirwar/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5
@@ -7319,7 +7320,7 @@
 - [goop](https://github.com/s0md3v/goop) - Google Search Scraper
 - [M3RL](https://github.com/facebookresearch/M3RL) - Mind-aware Multi-agent Management Reinforcement Learning
 - [tf-slim](https://github.com/google-research/tf-slim) - 
-- [tf-explain](https://github.com/sicara/tf-explain) - Interpretability Methods for tf.keras models with Tensorflow 2.0
+- [tf-explain](https://github.com/sicara/tf-explain) - Interpretability Methods for tf.keras models with Tensorflow 2.x
 - [ERNIE](https://github.com/PaddlePaddle/ERNIE) - An Implementation of ERNIE For Language Understanding (including Pre-training models and Fine-tuning tools)
 - [UGATIT](https://github.com/taki0112/UGATIT) - Official Tensorflow implementation of U-GAT-IT: Unsupervised Generative Attentional Networks with Adaptive Layer-Instance Normalization for Image-to-Image Translation (ICLR 2020)
 - [alpha-zero-general](https://github.com/suragnair/alpha-zero-general) - A clean implementation based on AlphaZero for any game in any framework + tutorial + Othello/Gobang/TicTacToe/Connect4
@@ -7725,7 +7726,6 @@
 - [spinningup](https://github.com/openai/spinningup) - An educational resource to help anyone learn deep reinforcement learning.
 - [transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0.
 - [waveglow](https://github.com/NVIDIA/waveglow) - A Flow-based Generative Network for Speech Synthesis
-- [pipelines](https://github.com/kubeflow/pipelines) - Machine Learning Pipelines for Kubeflow
 - [pampy](https://github.com/santinic/pampy) - Pampy: The Pattern Matching for Python you always dreamed of.
 - [pysaml2](https://github.com/IdentityPython/pysaml2) - Python implementation of SAML2
 - [einops](https://github.com/arogozhnikov/einops) - Deep learning operations reinvented (for pytorch, tensorflow, chainer, gluon and others)
@@ -8648,7 +8648,6 @@
 - [progressive_growing_of_gans](https://github.com/tkarras/progressive_growing_of_gans) - Progressive Growing of GANs for Improved Quality, Stability, and Variation
 - [deepo](https://github.com/ufoym/deepo) - Set up deep learning environment in a single command line.
 - [Mask_RCNN](https://github.com/matterport/Mask_RCNN) - Mask R-CNN for object detection and instance segmentation on Keras and TensorFlow
-- [pyro](https://github.com/pyro-ppl/pyro) - Deep universal probabilistic programming with Python and PyTorch
 - [science_rcn](https://github.com/vicariousinc/science_rcn) - Reference implementation of a two-level RCN model
 - [OpenNE](https://github.com/thunlp/OpenNE) - An Open-Source Package for Network Embedding (NE)
 - [pygcn](https://github.com/tkipf/pygcn) - Graph Convolutional Networks in PyTorch
@@ -8989,7 +8988,7 @@
 - [transformer](https://github.com/Kyubyong/transformer) - A TensorFlow Implementation of the Transformer: Attention Is All You Need
 - [rtfm](https://github.com/leostat/rtfm) - A database of common, interesting or useful commands, in one handy referable form
 - [goSecure](https://github.com/nsacyber/goSecure) - An easy to use and portable Virtual Private Network (VPN) system built with Linux and a Raspberry Pi. #nsacyber
-- [dash](https://github.com/plotly/dash) - Analytical Web Apps for Python, R, and Julia. No JavaScript Required.
+- [dash](https://github.com/plotly/dash) - Analytical Web Apps for Python, R, Julia, and Jupyter. No JavaScript Required.
 - [Reinforcement-learning-with-tensorflow](https://github.com/MorvanZhou/Reinforcement-learning-with-tensorflow) - Simple Reinforcement learning tutorials
 - [DocumentClassification](https://github.com/liu-nlper/DocumentClassification) - This code implements a simple CNN model for document classification with tensorflow.
 - [now.httpbin.org](https://github.com/not-kennethreitz/now.httpbin.org) - An API (for Humans) for converting timestamps.
@@ -9058,6 +9057,7 @@
 - [openai_lab](https://github.com/kengz/openai_lab) - An experimentation framework for Reinforcement Learning using OpenAI Gym, Tensorflow, and Keras.
 - [TouristFriend](https://github.com/octohedron/TouristFriend) - 🌆 TouristFriend API lets you query Google Places, Yelp and Foursquare at the same time, with Bayesian rankings!
 - [taggernews](https://github.com/danrobinson/taggernews) - Hacker News plus topic tags. TechCrunch Disrupt NY Hackathon 2017
+- [diskover](https://github.com/shirosaidev/diskover) - File system crawler, disk space usage, file search engine and file system analytics powered by Elasticsearch
 - [IPpy](https://github.com/shivammathur/IPpy) - :rocket: Parallel testing of IP addresses and domains in python to find the accessible and inaccessible ones.
 - [Persimmon](https://github.com/AlvarBer/Persimmon) - A visual dataflow programming language for sklearn
 - [tinynumpy](https://github.com/wadetb/tinynumpy) - A lightweight, pure Python, numpy compliant ndarray class.
@@ -12977,6 +12977,7 @@
 - [material-angular-dashboard](https://github.com/CreativeIT/material-angular-dashboard) - Material Angular Admin Template
 - [wayne](https://github.com/Qihoo360/wayne) - Kubernetes multi-cluster management and publishing platform
 - [statusfy](https://github.com/aceforth/statusfy) - A Marvelous Open Source Status Page System
+- [pipelines](https://github.com/kubeflow/pipelines) - Machine Learning Pipelines for Kubeflow
 - [axios-actions](https://github.com/davestewart/axios-actions) - Bundle endpoints as callable, reusable services
 - [eva-icons](https://github.com/akveo/eva-icons) - A pack of more than 480 beautifully crafted Open Source icons. SVG, Sketch, Web Font and Animations support.
 - [graphql-editor](https://github.com/graphql-editor/graphql-editor) - 📺 Visual Editor & GraphQL IDE. Draw GraphQL schemas using visual 🔷 nodes and explore GraphQL API with beautiful UI. Even 🐒 can do that!
