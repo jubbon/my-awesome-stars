@@ -1159,6 +1159,7 @@
 - [icheck](https://github.com/fronteed/icheck) - Highly customizable checkboxes and radio buttons (jQuery & Zepto)
 - [ebook-boilerplate](https://github.com/phodal/ebook-boilerplate) - A Markdown convert to Ebook :arrow_right: html、mobi、epub、pdf、rtf Template
 - [thunderbird-monterail](https://github.com/spymastermatt/thunderbird-monterail) - A set of themes for thunderbird inspired by a Monterail blog post
+- [sakura](https://github.com/oxalorg/sakura) - :cherry_blossom: a minimal css framework/theme.
 - [django-cruds-adminlte](https://github.com/oscarmlage/django-cruds-adminlte) - django-cruds is simple drop-in django app that creates CRUD for faster prototyping
 - [cs228-notes](https://github.com/ermongroup/cs228-notes) - Course notes for CS228: Probabilistic Graphical Models.
 - [workflow](https://github.com/deis/workflow) - The open source PaaS for Kubernetes.
@@ -2094,7 +2095,7 @@
 - [MusicRepair](https://github.com/kalbhor/MusicRepair) - Fixes music metadata and adds album art.
 - [secureserver](https://github.com/Xeoncross/secureserver) - A Simple, Secured Default HTTP(S) Server for Golang
 - [containerd](https://github.com/containerd/containerd) - An open and reliable container runtime
-- [gitql](https://github.com/cloudson/gitql) - 💊 A git query language
+- [gitql](https://github.com/filhodanuvem/gitql) - 💊 A git query language
 - [konfd](https://github.com/kelseyhightower/konfd) - Manage application configuration using Kubernetes secrets, configmaps, and Go templates.
 - [pgrebase](https://github.com/oelmekki/pgrebase) - Easy postgres codebase injection - aka postgres non data live reload
 - [livego](https://github.com/qieangel2013/livego) - go Implementation of live streaming services
@@ -2320,7 +2321,7 @@
 - [apidoc](https://github.com/apidoc/apidoc) - RESTful web API Documentation Generator.
 - [opencvjs](https://github.com/haoking/opencvjs) - Complete opencvjs (With the lastest OpenCV 4.0.0+)
 - [flutter-in-action](https://github.com/flutterchina/flutter-in-action) - 《Flutter实战》电子书
-- [proposal-javascript-standard-library](https://github.com/tc39/proposal-javascript-standard-library) - 
+- [proposal-built-in-modules](https://github.com/tc39/proposal-built-in-modules) - 
 - [frontend-tech-list](https://github.com/alienzhou/frontend-tech-list) - 📝 Frontend Tech List for Developers 💡
 - [deep-rules](https://github.com/Benjamin-Lee/deep-rules) - Ten Quick Tips for Deep Learning in Biology
 - [programming-principles](https://github.com/webpro/programming-principles) - Categorized overview of Programming Principles & Patterns
@@ -2523,7 +2524,6 @@
 - [science_flask](https://github.com/danielhomola/science_flask) - ScienceFlask: an open-source template for scientific web-app development
 - [js-the-right-way](https://github.com/braziljs/js-the-right-way) - An easy-to-read, quick reference for JS best practices, accepted coding standards, and links around the Web
 - [ml-training-intro](https://github.com/amueller/ml-training-intro) - Materials for the "Introduction to Machine Learning" class
-- [sakura](https://github.com/oxalorg/sakura) - :cherry_blossom: a minimal css framework/theme.
 - [dotnet](https://github.com/microsoft/dotnet) - This repo is the official home of .NET on GitHub. It's a great starting point to find many .NET OSS projects from Microsoft and the community, including many that are part of the .NET Foundation.
 - [styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
 - [Flaskex](https://github.com/anfederico/Flaskex) - Simple flask example for quick prototypes and small applications
@@ -2542,6 +2542,7 @@
 - [strftime.org](https://github.com/mccutchen/strftime.org) - A single-serving-site that provides a reference for Python's strftime formatting options
 - [algorithms-tour](https://github.com/stitchfix/algorithms-tour) - How data science is woven into the fabric of Stitch Fix
 - [PolyCARP](https://github.com/nasa/PolyCARP) - 
+- [nbconvert](https://github.com/jupyter/nbconvert) - Jupyter Notebook Conversion
 - [pygmaps-ng](https://github.com/Permafacture/pygmaps-ng) - A fork of gmm-up focused on generating single file google map apps with python
 - [propeller](https://github.com/digicorp/propeller) - Propeller - Develop more, Code less. Propeller is a front-end responsive framework based on Google's Material Design Standards & Bootstrap.
 - [simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
@@ -6393,7 +6394,7 @@
 - [stack-on-a-budget](https://github.com/255kb/stack-on-a-budget) - A collection of services with great free tiers for developers on a budget
 - [awesome-bits](https://github.com/keon/awesome-bits) - :computer: A curated list of awesome bitwise operations and tricks
 - [ganhacks](https://github.com/soumith/ganhacks) - starter from "How to Train a GAN?" at NIPS2016
-- [awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) - A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers
+- [awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) - A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.
 - [Awesome-MaterialDesign](https://github.com/lightSky/Awesome-MaterialDesign) - Collection of material design libs and res.
 - [material-components](https://github.com/material-components/material-components) - Documentation and policies for Material Components (all platforms)
 - [nips2016](https://github.com/hindupuravinash/nips2016) - A list of resources for all invited talks, tutorials, workshops and presentations at NIPS 2016
@@ -6766,6 +6767,7 @@
 
 ## Python 
 
+- [container-best-practices](https://github.com/projectatomic/container-best-practices) - Container Best Practices
 - [stable-baselines3](https://github.com/DLR-RM/stable-baselines3) - PyTorch version of Stable Baselines, improved implementations of reinforcement learning algorithms.
 - [shotlooter](https://github.com/utkusen/shotlooter) - a recon tool that finds sensitive data inside the screenshots uploaded to prnt.sc
 - [TENER](https://github.com/fastnlp/TENER) - Codes for "TENER: Adapting Transformer Encoder for Named Entity Recognition"
@@ -7726,6 +7728,7 @@
 - [spinningup](https://github.com/openai/spinningup) - An educational resource to help anyone learn deep reinforcement learning.
 - [transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0.
 - [waveglow](https://github.com/NVIDIA/waveglow) - A Flow-based Generative Network for Speech Synthesis
+- [pipelines](https://github.com/kubeflow/pipelines) - Machine Learning Pipelines for Kubeflow
 - [pampy](https://github.com/santinic/pampy) - Pampy: The Pattern Matching for Python you always dreamed of.
 - [pysaml2](https://github.com/IdentityPython/pysaml2) - Python implementation of SAML2
 - [einops](https://github.com/arogozhnikov/einops) - Deep learning operations reinvented (for pytorch, tensorflow, chainer, gluon and others)
@@ -9266,7 +9269,6 @@
 - [python-fire](https://github.com/google/python-fire) - Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
 - [httplib2](https://github.com/httplib2/httplib2) - Small, fast HTTP client library for Python. Features persistent connections, cache, and Google App Engine support. Originally written by Joe Gregorio, now supported by community.
 - [lightning-python](https://github.com/lightning-viz/lightning-python) - Python client for the lightning API
-- [nbconvert](https://github.com/jupyter/nbconvert) - Jupyter Notebook Conversion
 - [gmaps](https://github.com/pbugnion/gmaps) - Google maps for Jupyter notebooks
 - [powerline](https://github.com/powerline/powerline) - Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile.
 - [Transcrypt](https://github.com/QQuick/Transcrypt) - Python 3.7 to JavaScript compiler - Lean, fast, open! -
@@ -12977,7 +12979,6 @@
 - [material-angular-dashboard](https://github.com/CreativeIT/material-angular-dashboard) - Material Angular Admin Template
 - [wayne](https://github.com/Qihoo360/wayne) - Kubernetes multi-cluster management and publishing platform
 - [statusfy](https://github.com/aceforth/statusfy) - A Marvelous Open Source Status Page System
-- [pipelines](https://github.com/kubeflow/pipelines) - Machine Learning Pipelines for Kubeflow
 - [axios-actions](https://github.com/davestewart/axios-actions) - Bundle endpoints as callable, reusable services
 - [eva-icons](https://github.com/akveo/eva-icons) - A pack of more than 480 beautifully crafted Open Source icons. SVG, Sketch, Web Font and Animations support.
 - [graphql-editor](https://github.com/graphql-editor/graphql-editor) - 📺 Visual Editor & GraphQL IDE. Draw GraphQL schemas using visual 🔷 nodes and explore GraphQL API with beautiful UI. Even 🐒 can do that!
