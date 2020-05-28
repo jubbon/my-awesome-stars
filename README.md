@@ -2332,7 +2332,6 @@
 - [Publii](https://github.com/GetPublii/Publii) - Publii is a desktop-based CMS for Windows, Mac and Linux that makes creating static websites fast and hassle-free, even for beginners.
 - [BabySploit](https://github.com/M4cs/BabySploit) - :baby: BabySploit Beginner Pentesting Toolkit/Framework Written in Python :snake:
 - [parcel-by-sample](https://github.com/Lemoncode/parcel-by-sample) - Learn parcel by sample, each of the samples contains a readme.md file that indicates the purpose of the sample plus an step by step guide to reproduce it.
-- [now-github-starter](https://github.com/zeit/now-github-starter) - Starter project to demonstrate a project whose pull requests get automatically deployed
 - [colorpalette](https://github.com/makkoncept/colorpalette) - Flask app : extracts palette of dominating colors from image. https://colorpalettedemo.herokuapp.com/
 - [proposal-bigint](https://github.com/tc39/proposal-bigint) - Arbitrary precision integers in JavaScript
 - [Drone_Flight_Controller](https://github.com/llSourcell/Drone_Flight_Controller) - This is the code for "Drone Flight Controller" By Siraj Raval on Youtube
@@ -2542,7 +2541,6 @@
 - [strftime.org](https://github.com/mccutchen/strftime.org) - A single-serving-site that provides a reference for Python's strftime formatting options
 - [algorithms-tour](https://github.com/stitchfix/algorithms-tour) - How data science is woven into the fabric of Stitch Fix
 - [PolyCARP](https://github.com/nasa/PolyCARP) - 
-- [nbconvert](https://github.com/jupyter/nbconvert) - Jupyter Notebook Conversion
 - [pygmaps-ng](https://github.com/Permafacture/pygmaps-ng) - A fork of gmm-up focused on generating single file google map apps with python
 - [propeller](https://github.com/digicorp/propeller) - Propeller - Develop more, Code less. Propeller is a front-end responsive framework based on Google's Material Design Standards & Bootstrap.
 - [simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
@@ -3121,7 +3119,7 @@
 - [vsf-payment-paypal](https://github.com/develodesign/vsf-payment-paypal) - Paypal payment module for Vue Storefront
 - [hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
 - [vue-go-example](https://github.com/ndabAP/vue-go-example) - Vue.js and Go example project
-- [arg](https://github.com/zeit/arg) - Simple argument parsing
+- [arg](https://github.com/vercel/arg) - Simple argument parsing
 - [screenshoteer](https://github.com/vladocar/screenshoteer) - Make website screenshots and mobile emulations from the command line.
 - [forgJs](https://github.com/oussamahamdaoui/forgJs) - ForgJs is a javascript lightweight object validator. Go check the Quick start section and start coding with love
 - [desktop-wallet](https://github.com/ArkEcosystem/desktop-wallet) - :computer: Multi Platform ARK Desktop Wallet
@@ -3723,7 +3721,7 @@
 - [puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
 - [git-point](https://github.com/gitpoint/git-point) - GitHub in your pocket :iphone:
 - [spacetime](https://github.com/spencermountain/spacetime) - A lightweight javascript timezone library
-- [hazel](https://github.com/zeit/hazel) - Lightweight update server for Electron apps
+- [hazel](https://github.com/vercel/hazel) - Lightweight update server for Electron apps
 - [wtfjs](https://github.com/denysdovhan/wtfjs) - A list of funny and tricky JavaScript examples
 - [django-vue-simplenote](https://github.com/apirobot/django-vue-simplenote) - 
 - [cfn-api-gateway-custom-domain](https://github.com/jed/cfn-api-gateway-custom-domain) - API Gateway custom domains as CloudFormation resources, backed by Let's Encrypt
@@ -3825,7 +3823,7 @@
 - [mongorito](https://github.com/vadimdemedes/mongorito) - 🍹 MongoDB ODM for Node.js apps based on Redux
 - [prepack](https://github.com/facebook/prepack) - A JavaScript bundle optimizer.
 - [framework](https://github.com/totaljs/framework) - Node.js framework
-- [pkg](https://github.com/zeit/pkg) - Package your Node.js project into an executable
+- [pkg](https://github.com/vercel/pkg) - Package your Node.js project into an executable
 - [speedracer](https://github.com/speedracer/speedracer) - Collect performance metrics for your library/application.
 - [serverless-chrome](https://github.com/adieuadieu/serverless-chrome) - 🌐 Run headless Chrome/Chromium on AWS Lambda
 - [stmux](https://github.com/rse/stmux) - Simple Terminal Multiplexer for Node.js Environments
@@ -3954,7 +3952,7 @@
 - [vue-mugen-scroll](https://github.com/egoist/vue-mugen-scroll) - Infinite scroll component for Vue.js 2
 - [Sortable](https://github.com/SortableJS/Sortable) - Sortable — is a JavaScript library for reorderable drag-and-drop lists on modern browsers and touch devices. No jQuery required. Supports Meteor, AngularJS, React, Polymer, Vue, Ember, Knockout and any CSS library, e.g. Bootstrap.
 - [django-react-redux-base](https://github.com/Seedstars/django-react-redux-base) - Seedstars Labs Base Django React Redux Project
-- [next.js](https://github.com/zeit/next.js) - The React Framework
+- [next.js](https://github.com/vercel/next.js) - The React Framework
 - [flv.js](https://github.com/bilibili/flv.js) - HTML5 FLV Player
 - [eslint](https://github.com/eslint/eslint) - Find and fix problems in your JavaScript code.
 - [jshint](https://github.com/jshint/jshint) - JSHint is a tool that helps to detect errors and potential problems in your JavaScript code
@@ -4041,7 +4039,7 @@
 - [openmct](https://github.com/nasa/openmct) - A web based mission control framework.
 - [itsy-bitsy-data-structures](https://github.com/jamiebuilds/itsy-bitsy-data-structures) - :european_castle: All the things you didn't know you wanted to know about data structures
 - [Functional-Light-JS](https://github.com/getify/Functional-Light-JS) - Pragmatic, balanced FP in JavaScript. @FLJSBook on twitter.
-- [sqlectron-gui](https://github.com/sqlectron/sqlectron-gui) - UNMAINTAINED - SEE BELOW. A simple and lightweight SQL client desktop with cross database and platform support.
+- [sqlectron-gui](https://github.com/sqlectron/sqlectron-gui) - A simple and lightweight SQL client desktop with cross database and platform support.
 - [Neuron](https://github.com/JamesTheHacker/Neuron) - Neuron - Electron, ES6, React, PouchDB, Sass, Webpack
 - [react-dates](https://github.com/airbnb/react-dates) - An easily internationalizable, mobile-friendly datepicker library for the web
 - [webpack-dashboard](https://github.com/FormidableLabs/webpack-dashboard) - A CLI dashboard for webpack dev server
@@ -7726,7 +7724,7 @@
 - [kamerka](https://github.com/woj-ciech/kamerka) - Build interactive map of cameras from Shodan
 - [FloWaveNet](https://github.com/ksw0306/FloWaveNet) - A Pytorch implementation of "FloWaveNet: A Generative Flow for Raw Audio"
 - [spinningup](https://github.com/openai/spinningup) - An educational resource to help anyone learn deep reinforcement learning.
-- [transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0.
+- [transformers](https://github.com/huggingface/transformers) - 🤗Transformers: State-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0.
 - [waveglow](https://github.com/NVIDIA/waveglow) - A Flow-based Generative Network for Speech Synthesis
 - [pipelines](https://github.com/kubeflow/pipelines) - Machine Learning Pipelines for Kubeflow
 - [pampy](https://github.com/santinic/pampy) - Pampy: The Pattern Matching for Python you always dreamed of.
@@ -8874,7 +8872,7 @@
 - [ens.py](https://github.com/carver/ens.py) - Ethereum Name Service, made easy in Python
 - [pytorch-kaggle-amazon-space](https://github.com/EdwardTyantov/pytorch-kaggle-amazon-space) - Pytorch solution for Planet: Understanding the Amazon from Space https://www.kaggle.com/c/planet-understanding-the-amazon-from-space
 - [cpython_core_tutorial](https://github.com/vstinner/cpython_core_tutorial) - Tutorial to contribute to the CPython project
-- [ptime](https://github.com/jcrist/ptime) - IPython magic for parallel profiling
+- [ptime](https://github.com/jcrist/ptime) - IPython magic for parallel profiling (like `%time`, but parallel)
 - [yams](https://github.com/leesoh/yams) - A collection of Ansible roles for automating infosec builds.
 - [add-trailing-comma](https://github.com/asottile/add-trailing-comma) - A tool (and pre-commit hook) to automatically add trailing commas to calls and literals.
 - [DrQA](https://github.com/facebookresearch/DrQA) - Reading Wikipedia to Answer Open-Domain Questions
@@ -9269,6 +9267,7 @@
 - [python-fire](https://github.com/google/python-fire) - Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
 - [httplib2](https://github.com/httplib2/httplib2) - Small, fast HTTP client library for Python. Features persistent connections, cache, and Google App Engine support. Originally written by Joe Gregorio, now supported by community.
 - [lightning-python](https://github.com/lightning-viz/lightning-python) - Python client for the lightning API
+- [nbconvert](https://github.com/jupyter/nbconvert) - Jupyter Notebook Conversion
 - [gmaps](https://github.com/pbugnion/gmaps) - Google maps for Jupyter notebooks
 - [powerline](https://github.com/powerline/powerline) - Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile.
 - [Transcrypt](https://github.com/QQuick/Transcrypt) - Python 3.7 to JavaScript compiler - Lean, fast, open! -
@@ -10737,7 +10736,7 @@
 - [tredify](https://github.com/gsalvatori/tredify) - A Python framework to plot 2D and 3D structures from JSON data.
 - [multinetx](https://github.com/nkoub/multinetx) - multiNetX is a python package for the manipulation and visualization of multilayer networks. It is build on NetworkX
 - [ufora](https://github.com/ufora/ufora) - Compiled, automatically parallel Python for data science
-- [pipdeptree](https://github.com/naiquevin/pipdeptree) - A command line utility to display dependency tree of the installed Python packages [NOT ACCEPTING PRs FOR A WHILE BECAUSE OF MAJOR REFACTORING IN v2beta BRANCH]
+- [pipdeptree](https://github.com/naiquevin/pipdeptree) - A command line utility to display dependency tree of the installed Python packages [v2beta branch with lot of fixes is now _usable_ and soon to be merged in master]
 - [summrizer](https://github.com/vipul-sharma20/summrizer) - A script to get summary of text content
 - [paasta](https://github.com/Yelp/paasta) - An open, distributed platform as a service
 - [dateparser](https://github.com/scrapinghub/dateparser) - python parser for human readable dates
@@ -12625,7 +12624,7 @@
 - [PyOxidizer](https://github.com/indygreg/PyOxidizer) - A modern Python application packaging and distribution tool
 - [libra](https://github.com/libra/libra) - Libra’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.
 - [emu](https://github.com/calebwin/emu) - Emu is a modern library for low-level, cross-platform GPGPU enabling on-device, reproducible, privacy-focused compute
-- [fluence](https://github.com/fluencelabs/fluence) - Infrastructure for applications
+- [fluence](https://github.com/fluencelabs/fluence) - Peer-to-peer computing protocol and licensing system
 - [mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott!
 - [atlasr](https://github.com/atlasr-org/atlasr) - Atlasr is a truly open-source and free map browser.
 - [firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
@@ -12961,7 +12960,7 @@
 - [vue-dev-server](https://github.com/vuejs/vue-dev-server) - A POC dev server that allows you to import `*.vue` files via native ES modules imports.
 - [nodejs.dev](https://github.com/nodejs/nodejs.dev) - A new Node.js resource built using Gatsby.js with React.js, TypeScript, Emotion, and Remark.
 - [frontend-bootcamp](https://github.com/microsoft/frontend-bootcamp) - Frontend Workshop from HTML/CSS/JS to TypeScript/React/Redux
-- [vscode-leetcode](https://github.com/jdneo/vscode-leetcode) - Solve LeetCode problems in VS Code
+- [vscode-leetcode](https://github.com/LeetCode-OpenSource/vscode-leetcode) - Solve LeetCode problems in VS Code
 - [linaria](https://github.com/callstack/linaria) - Zero-runtime CSS in JS library
 - [clean-code-typescript](https://github.com/labs42io/clean-code-typescript) - Clean Code concepts adapted for TypeScript
 - [bump](https://github.com/fabiospampinato/bump) - Bump updates the project's version, updates/creates the changelog, makes the bump commit, tags the bump commit and makes the release to GitHub. Opinionated but configurable.
@@ -13131,11 +13130,11 @@
 - [phosphor](https://github.com/phosphorjs/phosphor) - The PhosphorJS Library
 - [ignite](https://github.com/infinitered/ignite) - The hottest CLI for React Native, boilerplates, plugins, generators, and more!
 - [flatpickr](https://github.com/flatpickr/flatpickr) - lightweight, powerful javascript datetimepicker with no dependencies
-- [hyper](https://github.com/zeit/hyper) - A terminal built on web technologies
+- [hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
 - [ant-design](https://github.com/ant-design/ant-design) - 🌈 A UI Design Language and React UI library
 - [Leaflet.timeline](https://github.com/skeate/Leaflet.timeline) - Display arbitrary GeoJSON on a map with a timeline slider and play button
-- [ngx-admin](https://github.com/akveo/ngx-admin) - Customizable admin dashboard template based on Angular 8+
+- [ngx-admin](https://github.com/akveo/ngx-admin) - Customizable admin dashboard template based on Angular 9+
 - [atoms](https://github.com/BlazeSoftware/atoms) - Atoms for Blaze UI
 - [ionicons](https://github.com/ionic-team/ionicons) - The premium icon font for Ionic Framework and web apps everywhere
 - [playground](https://github.com/tensorflow/playground) - Play with neural networks!
