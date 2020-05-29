@@ -1569,7 +1569,7 @@
 - [godog](https://github.com/cucumber/godog) - Cucumber for golang
 - [aws-vault](https://github.com/99designs/aws-vault) - A vault for securely storing and accessing AWS credentials in development environments
 - [go-gitlab](https://github.com/xanzy/go-gitlab) - A GitLab API client enabling Go programs to interact with GitLab in a simple and uniform way
-- [micro](https://github.com/micro/micro) - A distributed systems server for the cloud era
+- [micro](https://github.com/micro/micro) - A distributed systems runtime for the cloud
 - [go-github](https://github.com/google/go-github) - Go library for accessing the GitHub API
 - [nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
 - [migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
@@ -1861,7 +1861,7 @@
 - [decimal](https://github.com/ericlagergren/decimal) - A high-performance, arbitrary-precision, floating-point decimal library.
 - [darch](https://github.com/godarch/darch) - A tool for building and booting stateless and immutable images, bare metal.
 - [blockchain-tutorial](https://github.com/nosequeldeebee/blockchain-tutorial) - Write and publish your own blockchain in less than 200 lines of Go
-- [golang-tutorials](https://github.com/alex-gama/golang-tutorials) - Hacking Code - Golang Guide and Tutorials - Let's get the hands really dirty by writing a lot of Golang code
+- [golang-tutorials](https://github.com/alexandregama/golang-tutorials) - Go Tutorials - Let's get our hands really dirty by writing a lot of Golang code
 - [caire](https://github.com/esimov/caire) - Content aware image resize library
 - [terraform-inventory](https://github.com/adammck/terraform-inventory) - Terraform State → Ansible Dynamic Inventory
 - [fabric](https://github.com/hyperledger/fabric) - Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications. Its modular and versatile design satisfies a broad range of industry use cases. It offers a unique approach to consensus that enables performance at scale while preserving privacy.
@@ -2280,7 +2280,7 @@
 - [datasciencecoursera](https://github.com/mGalarnyk/datasciencecoursera) - Data Science Repo and blog for John Hopkins Coursera Courses. Please let me know if you have any questions.
 - [clickhouse-presentations](https://github.com/ClickHouse/clickhouse-presentations) - Presentations, meetups and talks about ClickHouse
 - [aws-well-architected-labs](https://github.com/awslabs/aws-well-architected-labs) - Hands on labs and code to help you learn, measure, and build using architectural best practices.
-- [summer-institute](https://github.com/compsocialscience/summer-institute) - 
+- [summer-institute](https://github.com/compsocialscience/summer-institute) - Summer Institutes in Computational Social Science
 - [startbootstrap-resume](https://github.com/BlackrockDigital/startbootstrap-resume) - A Bootstrap 4 resume/CV theme created by Start Bootstrap
 - [glTF](https://github.com/KhronosGroup/glTF) - glTF – Runtime 3D Asset Delivery
 - [istio.io](https://github.com/istio/istio.io) - Source for the istio.io site
@@ -3360,7 +3360,7 @@
 - [slugify](https://github.com/sindresorhus/slugify) - Slugify a string
 - [faster.js](https://github.com/vzhou842/faster.js) - faster.js is a Babel plugin that compiles idiomatic Javascript to faster, micro-optimized Javascript.
 - [glide](https://github.com/glidejs/glide) - A dependency-free JavaScript ES6 slider and carousel. It’s lightweight, flexible and fast. Designed to slide. No less, no more
-- [dinero.js](https://github.com/dinerojs/dinero.js) - An immutable library to create, calculate and format money.
+- [dinero.js](https://github.com/dinerojs/dinero.js) - An immutable JavaScript library to create, calculate and format money.
 - [front-end-handbook-2018](https://github.com/FrontendMasters/front-end-handbook-2018) - 2018 edition of our front-end development handbook
 - [canner-slate-editor](https://github.com/Canner/canner-slate-editor) - 📝Rich Text / WYSIWYG Editor built for Modularity and Extensibility.
 - [vuepress](https://github.com/vuejs/vuepress) - 📝 Minimalistic Vue-powered static site generator
@@ -3891,7 +3891,7 @@
 - [cerebro](https://github.com/KELiON/cerebro) - Open-source productivity booster with a brain
 - [home-automation](https://github.com/deepsyx/home-automation) - Raspberry Pi 3 based home automation with NodeJS and React Native.
 - [ava](https://github.com/avajs/ava) - Node.js test runner that lets you develop with confidence 🚀
-- [mathsteps](https://github.com/socraticorg/mathsteps) - Step by step math solutions for everyone
+- [mathsteps](https://github.com/google/mathsteps) - Step by step math solutions for everyone
 - [ggraph](https://github.com/pcbje/ggraph) - Graph visualization of big messy data
 - [HoloJS](https://github.com/microsoft/HoloJS) - Provides a framework for creating holographic apps using JavaScript and WebGL.
 - [WebSlides](https://github.com/webslides/WebSlides) - Create HTML presentations in seconds —
@@ -4985,7 +4985,6 @@
 - [cardio](https://github.com/analysiscenter/cardio) - CardIO is a library for data science research of heart signals
 - [kaggle-learning](https://github.com/FavioVazquez/kaggle-learning) - Repository for sharing the knowledge from the learning path of Kaggle Learning. All contributions welcome :).
 - [spinzero-jupyter-theme](https://github.com/neilpanchal/spinzero-jupyter-theme) - A minimal Jupyter Notebook theme
-- [TernausNet](https://github.com/ternaus/TernausNet) - UNet model with VGG11 encoder pre-trained on Kaggle Carvana dataset
 - [sc17](https://github.com/google-aai/sc17) - SuperComputing 2017 Deep Learning Tutorial
 - [ethereum_future](https://github.com/llSourcell/ethereum_future) - This is the Code for "Ethereum Future Prices" by Siraj Raval on Youtube
 - [Computer-Vision-Basics-with-Python-Keras-and-OpenCV](https://github.com/jrobchin/Computer-Vision-Basics-with-Python-Keras-and-OpenCV) - Full tutorial of computer vision and machine learning basics with OpenCV and Keras in Python.
@@ -5772,7 +5771,7 @@
 - [curriculum](https://github.com/TheOdinProject/curriculum) - The open curriculum for learning web development
 - [awesome-self-supervised-learning](https://github.com/jason718/awesome-self-supervised-learning) - A curated list of awesome self-supervised methods
 - [ztm-python-cheat-sheet](https://github.com/aneagoie/ztm-python-cheat-sheet) - 
-- [awesome-papers](https://github.com/huggingface/awesome-papers) - Papers & presentations from Hugging Face's weekly science day
+- [awesome-papers](https://github.com/huggingface/awesome-papers) - Papers & presentation materials from Hugging Face's internal science day
 - [awesome-learning-resources](https://github.com/lauragift21/awesome-learning-resources) - 🔥Awesome list of resources on Web Development.
 - [Awesome-Machine-Comprehension](https://github.com/shagunsodhani/Awesome-Machine-Comprehension) - List of papers, datasets and other resources related to Machine Comprehension
 - [Reading-Comprehension-Question-Answering-Papers](https://github.com/xanhho/Reading-Comprehension-Question-Answering-Papers) - Survey on Machine Reading Comprehension
@@ -6473,7 +6472,7 @@
 - [awesome-ddd](https://github.com/heynickc/awesome-ddd) - A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming resources
 - [awesome-react-components](https://github.com/brillout/awesome-react-components) - Curated List of React Components & Libraries.
 - [presentations](https://github.com/raganwald/presentations) - Conference Talks and Proposals
-- [autoware](https://github.com/autowarefoundation/autoware) - Open-source software for self-driving vehicles
+- [autoware.ai](https://github.com/autowarefoundation/autoware.ai) - Open-source software for self-driving vehicles
 - [russia-it-podcast](https://github.com/avevlad/russia-it-podcast) - Список русскоязычных подкастов на тему информационных технологий
 - [keybase-gpg-github](https://github.com/pstadler/keybase-gpg-github) - Step-by-step guide on how to create a GPG key on keybase.io, adding it to a local GPG setup and use it with Git and GitHub.
 - [bytesize-icons](https://github.com/danklammer/bytesize-icons) - Tiny style-controlled SVG iconset (101 icons, 12kb)
@@ -7359,7 +7358,7 @@
 - [DG-Net](https://github.com/NVlabs/DG-Net) - CVPR2019 Joint Discriminative and Generative Learning for Person Re-identification
 - [open-deepnude](https://github.com/open-deepnude/open-deepnude) - Open source reverse-engineered clone of DeepNude
 - [bookshelf](https://github.com/dry-python/bookshelf) - Code examples to learn dry-python with Django at the project scale.
-- [stories](https://github.com/dry-python/stories) - Define a user story in the business transaction DSL.
+- [stories](https://github.com/proofit404/stories) - Define a user story in the business transaction DSL.
 - [sos-django-template](https://github.com/erayerdin/sos-django-template) - A Django starter template that separates the settings to development and production environments, hence the name.
 - [dlrm](https://github.com/facebookresearch/dlrm) - An implementation of a deep learning recommendation model (DLRM)
 - [PyRoyale](https://github.com/Igoorx/PyRoyale) - A open-source server emulator for Mario Royale browser game.
@@ -8455,6 +8454,7 @@
 - [SafeText](https://github.com/DavidJacobson/SafeText) - Script to remove homoglyphs and zero-width characters to allow for safe distribution of documents from anonymous sources.
 - [fleep-py](https://github.com/floyernick/fleep-py) - File format determination library for Python
 - [draw_convnet](https://github.com/gwding/draw_convnet) - 
+- [TernausNet](https://github.com/ternaus/TernausNet) - UNet model with VGG11 encoder pre-trained on Kaggle Carvana dataset
 - [sc-docker](https://github.com/Games-and-Simulations/sc-docker) - Multi-platform Version of StarCraft: Brood War in a Docker Container, ready to use for bot play simulations.
 - [medfusion-4000-research](https://github.com/sgayou/medfusion-4000-research) - Medfusion 4000 security research & a MQX RCE.
 - [tensorboardX](https://github.com/lanpa/tensorboardX) - tensorboard for pytorch (and chainer, mxnet, numpy, ...)
@@ -8828,7 +8828,7 @@
 - [wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python?
 - [jmespath.py](https://github.com/jmespath/jmespath.py) - JMESPath is a query language for JSON.
 - [jasmin](https://github.com/jookies/jasmin) - Jasmin - Open source SMS gateway
-- [tsrc](https://github.com/TankerHQ/tsrc) - Manage several git repositories / review automation
+- [tsrc](https://github.com/TankerHQ/tsrc) - Manage groups of git repositories
 - [textgenrnn](https://github.com/minimaxir/textgenrnn) - Easily train your own text-generating neural network of any size and complexity on any text dataset with a few lines of code.
 - [deep-photo-styletransfer-tf](https://github.com/LouieYang/deep-photo-styletransfer-tf) - Tensorflow (Python API) implementation of Deep Photo Style Transfer
 - [np-to-tf-embeddings-visualiser](https://github.com/nlml/np-to-tf-embeddings-visualiser) - Quick function to go from a dictionary of sets of (images, labels, feature vectors) to checkpoints that can be opened in Tensorboard
@@ -9104,7 +9104,6 @@
 - [ssh-mitm](https://github.com/jtesta/ssh-mitm) - SSH man-in-the-middle tool
 - [howmanypeoplearearound](https://github.com/schollz/howmanypeoplearearound) - Count the number of people around you :family_man_man_boy: by monitoring wifi signals :satellite:
 - [interactive-deep-colorization](https://github.com/junyanz/interactive-deep-colorization) - Deep learning software for colorizing black and white images with a few clicks.
-- [pytorch-yolo2](https://github.com/marvis/pytorch-yolo2) - Convert https://pjreddie.com/darknet/yolo/ into pytorch
 - [Tensorflow-Tutorial](https://github.com/MorvanZhou/Tensorflow-Tutorial) - Tensorflow tutorial from basic to hard
 - [Deep-Feature-Flow](https://github.com/msracver/Deep-Feature-Flow) - Deep Feature Flow for Video Recognition
 - [OnlineSchemaChange](https://github.com/facebookincubator/OnlineSchemaChange) - A tool for performing online schema changes on MySQL.
@@ -9496,7 +9495,7 @@
 - [pipfile](https://github.com/pypa/pipfile) - 
 - [gcn](https://github.com/tkipf/gcn) - Implementation of Graph Convolutional Networks in TensorFlow
 - [speech-to-text-wavenet](https://github.com/buriburisuri/speech-to-text-wavenet) - Speech-to-Text-WaveNet : End-to-end sentence level English speech recognition based on DeepMind's WaveNet and tensorflow
-- [dependencies](https://github.com/dry-python/dependencies) - Dependency Injection for Humans.
+- [dependencies](https://github.com/proofit404/dependencies) - Dependency Injection for Humans.
 - [rt-bot](https://github.com/radio-t/rt-bot) - Мета-репо для движения "создай своего бота"
 - [ByteNet](https://github.com/buriburisuri/ByteNet) - A tensorflow implementation of French-to-English machine translation using DeepMind's ByteNet .
 - [altify](https://github.com/ParhamP/altify) - Uses deep learning to caption images in an HTML file and fills out its alternative text attributes with the related caption
@@ -9657,7 +9656,7 @@
 - [ck-tensorflow](https://github.com/ctuning/ck-tensorflow) - Collective Knowledge components for TensorFlow (code, data sets, models, packages, workflows):
 - [python-web-pdb](https://github.com/romanvm/python-web-pdb) - Web-based remote UI for Python's PDB debugger
 - [ck-autotuning](https://github.com/ctuning/ck-autotuning) - CK automation actions to let users implement portable, customizable and reusable program workflows for reproducible, collaborative and multi-objective benchmarking, optimization and SW/HW co-design:
-- [ck](https://github.com/ctuning/ck) - Collective Knowledge (CK) helps to convert ad-hoc research artifacts (code, data, models, results) into reusable components, automation actions and portable workflows with a unified CLI, Python API and JSON meta description. It provides a unified way to collaboratively benchmark, optimize and co-design emerging systems (AI, ML, quantum, HPC, IoT):
+- [ck](https://github.com/ctuning/ck) - Collective Knowledge (CK) helps to convert ad-hoc research artifacts (code, data, models, results) into reusable components, automation actions and portable workflows with a unified CLI, Python API and JSON meta description shared along with papers. Our goal is to make it easier to reproduce, reuse, adopt and build upon ML&systems research:
 - [CommAI-env](https://github.com/facebookresearch/CommAI-env) - A platform for developing AI systems as described in A Roadmap towards Machine Intelligence - http://arxiv.org/abs/1511.08130
 - [deconvfaces](https://github.com/zo7/deconvfaces) - Generating faces with deconvolution networks
 - [whereami](https://github.com/kootenpv/whereami) - Uses WiFi signals :signal_strength: and machine learning to predict where you are
@@ -13132,7 +13131,7 @@
 - [flatpickr](https://github.com/flatpickr/flatpickr) - lightweight, powerful javascript datetimepicker with no dependencies
 - [hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
-- [ant-design](https://github.com/ant-design/ant-design) - 🌈 A UI Design Language and React UI library
+- [ant-design](https://github.com/ant-design/ant-design) - 🌈  A UI Design Language and React UI library
 - [Leaflet.timeline](https://github.com/skeate/Leaflet.timeline) - Display arbitrary GeoJSON on a map with a timeline slider and play button
 - [ngx-admin](https://github.com/akveo/ngx-admin) - Customizable admin dashboard template based on Angular 9+
 - [atoms](https://github.com/BlazeSoftware/atoms) - Atoms for Blaze UI
