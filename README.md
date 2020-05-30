@@ -659,7 +659,7 @@
 - [asylo](https://github.com/google/asylo) - An open and flexible framework for developing enclave applications
 - [glow](https://github.com/pytorch/glow) - Compiler for Neural Network hardware accelerators
 - [arrow](https://github.com/apache/arrow) - Apache Arrow is a cross-language development platform for in-memory data. It specifies a standardized language-independent columnar memory format for flat and hierarchical data, organized for efficient analytic operations on modern hardware. It also provides computational libraries and zero-copy streaming messaging and interprocess communication. Languages currently supported include C, C++, Java, JavaScript, Python, and Ruby.
-- [FaceKit](https://github.com/MagicJackStone/FaceKit) - Implementations of PCN (an accurate real-time rotation-invariant face detector) and other face-related algorithms
+- [FaceKit](https://github.com/MagicCharles/FaceKit) - Implementations of PCN (an accurate real-time rotation-invariant face detector) and other face-related algorithms
 - [modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial) - 📚 Modern C++ Tutorial: C++11/14/17/20 On the Fly
 - [foundationdb](https://github.com/apple/foundationdb) - FoundationDB - the open source, distributed, transactional key-value store
 - [kiwi](https://github.com/nucleic/kiwi) - Efficient C++ implementation of the Cassowary constraint solving algorithm
@@ -1123,7 +1123,6 @@
 - [cryptocoins](https://github.com/AllienWorks/cryptocoins) - Cryptocoins is the most complete vector/webfont icon pack of your favourite cryptocurrencies
 - [vivify](https://github.com/Martz90/vivify) - Vivify is free CSS animation library.
 - [cheatsheets](https://github.com/rstacruz/cheatsheets) - My cheatsheets
-- [my-mac-os](https://github.com/nikitavoloboev/my-mac-os) - List of applications and tools that make my macOS experience even more amazing
 - [elixirschool](https://github.com/elixirschool/elixirschool) - Premier destination to learn and master the Elixir programming language
 - [course-collaboration-travel-plans](https://github.com/udacity/course-collaboration-travel-plans) - 
 - [pev](https://github.com/AlexTatiyants/pev) - Postgres Explain Visualizer
@@ -4461,6 +4460,7 @@
 
 ## Jupyter Notebook 
 
+- [RNN-Keras](https://github.com/DanielDaCosta/RNN-Keras) - Building a Multi-Label Classifier doesn't seem a difficult task using Keras, but when you are dealing with a highly imbalanced dataset with more than 30 different labels and with multiple losses it can become quite tricky.
 - [dp_tutorials](https://github.com/deepmipt/dp_tutorials) - 
 - [drq](https://github.com/denisyarats/drq) - DrQ: Data regularized Q
 - [torchdyn](https://github.com/DiffEqML/torchdyn) - A PyTorch based library for all things neural differential equations
@@ -4667,7 +4667,7 @@
 - [InsightFace_Pytorch](https://github.com/TreB1eN/InsightFace_Pytorch) - Pytorch0.4.1 codes for InsightFace
 - [jupyters_and_slides](https://github.com/HCIT-Computing-Intelligence/jupyters_and_slides) - 
 - [CVPR-2019-Paper-Statistics](https://github.com/hoya012/CVPR-2019-Paper-Statistics) - Statistics and Visualization of acceptance rate, main keyword of CVPR 2019 accepted papers for the main Computer Vision conference (CVPR)
-- [h3-py-notebooks](https://github.com/uber/h3-py-notebooks) - Jupyter notebooks for H3, a hierarchical hexagonal geospatial indexing system
+- [h3-py-notebooks](https://github.com/uber/h3-py-notebooks) - Jupyter notebooks for h3-py, a hierarchical hexagonal geospatial indexing system
 - [materials](https://github.com/realpython/materials) - Bonus materials, exercises, and example projects for our Python tutorials
 - [aws-deepracer-workshops](https://github.com/aws-samples/aws-deepracer-workshops) - DeepRacer workshop content
 - [Repo-2019](https://github.com/RubensZimbres/Repo-2019) - BERT, AWS RDS, AWS Forecast, EMR Spark Cluster, Hive, Serverless, Google Assistant + Raspberry Pi, Infrared, Google Cloud Platform Natural Language, Anomaly detection, Tensorflow, Mathematics
@@ -4715,6 +4715,7 @@
 - [spark-syntax](https://github.com/ericxiao251/spark-syntax) - This is a repo documenting the best practices in PySpark.
 - [stylegan-encoder](https://github.com/Puzer/stylegan-encoder) - StyleGAN Encoder - converts real images to latent space
 - [Mask_RCNN](https://github.com/karolmajek/Mask_RCNN) - Mask R-CNN for object detection and instance segmentation on Keras and TensorFlow
+- [nuscenes-devkit](https://github.com/nutonomy/nuscenes-devkit) - The devkit of the nuScenes dataset.
 - [bag-of-local-features-models](https://github.com/wielandbrendel/bag-of-local-features-models) - Pretrained bag-of-local-features neural networks
 - [stat479-deep-learning-ss19](https://github.com/rasbt/stat479-deep-learning-ss19) - Course material for STAT 479: Deep Learning (SS 2019) at University Wisconsin-Madison
 - [Kaggle_Earthquake_challenge](https://github.com/llSourcell/Kaggle_Earthquake_challenge) - This is the code for the Kaggle Earthquake Challenge by Siraj Raval on Youtube
@@ -5724,6 +5725,7 @@
 
 ## Nim 
 
+- [faster-than-requests](https://github.com/juancarlospaco/faster-than-requests) - Faster requests on Python 3
 - [pipelines](https://github.com/calebwin/pipelines) - Pipelines is a language for high-level data analysis.
 
 ## OCaml 
@@ -5751,6 +5753,7 @@
 
 ## Others 
 
+- [gpt-3](https://github.com/openai/gpt-3) - GPT-3: Language Models are Few-Shot Learners
 - [unofficial-apis](https://github.com/Rolstenhouse/unofficial-apis) - A collection of unofficial apis. Designed to inspire your next Friday night hack
 - [cwa-documentation](https://github.com/corona-warn-app/cwa-documentation) - Project overview, general documentation, and white papers.
 - [awesome-asgi](https://github.com/florimondmanca/awesome-asgi) - A curated list of awesome ASGI servers, frameworks, apps, libraries, and other resources
@@ -6251,13 +6254,13 @@
 - [DeepRLHacks](https://github.com/williamFalcon/DeepRLHacks) - Hacks for training RL systems from John Schulman's lecture at Deep RL Bootcamp  (Aug 2017)
 - [awesome-coins](https://github.com/Zheaoli/awesome-coins) - ₿ A guide (for humans!) to cryto-currencies and their algos.
 - [awesome-product-design](https://github.com/teoga/awesome-product-design) - A collection of bookmarks, resources, articles for product designers.
+- [my-mac-os](https://github.com/nikitavoloboev/my-mac-os) - List of applications and tools that make my macOS experience even more amazing
 - [DockerCheatSheet](https://github.com/eon01/DockerCheatSheet) - 🐋 Docker Cheat Sheet 🐋
 - [awesome-sre](https://github.com/dastergon/awesome-sre) - A curated list of Site Reliability and Production Engineering resources.
 - [Roadmap-of-DL-and-ML](https://github.com/L1aoXingyu/Roadmap-of-DL-and-ML) - Roadmap of DL and ML, some courses, study notes and paper summary
 - [blackhat-arsenal-tools](https://github.com/toolswatch/blackhat-arsenal-tools) - Official Black Hat Arsenal Security Tools Repository
 - [coco-framework](https://github.com/Azure/coco-framework) - The Confidential Consortium Blockchain Framework is an open-source system that enables high-scale, confidential blockchain networks that meet all key enterprise requirements—providing a means to accelerate production enterprise adoption of blockchain technology.
 - [deeplearning-mindmap](https://github.com/dformoso/deeplearning-mindmap) - A mindmap summarising Deep Learning concepts.
-- [landscape](https://github.com/cncf/landscape) - 🌄The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding or market cap, first and last commits, contributor counts, headquarters location, and recent tweets.
 - [side-project-marketing](https://github.com/portable-cto/side-project-marketing) - A checklist of tactics for marketing your side projects.
 - [machine-learning-mindmap](https://github.com/dformoso/machine-learning-mindmap) - A mindmap summarising Machine Learning concepts, from Data Analysis to Deep Learning.
 - [DefCon25](https://github.com/FuzzySecurity/DefCon25) - UAC 0day, all day!
@@ -6764,6 +6767,9 @@
 
 ## Python 
 
+- [Lip2Wav](https://github.com/Rudrabha/Lip2Wav) - This is the repository containing codes for our CVPR, 2020 paper titled "Learning Individual Speaking Styles for Accurate Lip to Speech Synthesis"
+- [SegLoss](https://github.com/JunMa11/SegLoss) - A collection of loss functions for medical image segmentation
+- [SymJAX](https://github.com/RandallBalestriero/SymJAX) - Documentation:
 - [container-best-practices](https://github.com/projectatomic/container-best-practices) - Container Best Practices
 - [stable-baselines3](https://github.com/DLR-RM/stable-baselines3) - PyTorch version of Stable Baselines, improved implementations of reinforcement learning algorithms.
 - [shotlooter](https://github.com/utkusen/shotlooter) - a recon tool that finds sensitive data inside the screenshots uploaded to prnt.sc
@@ -7043,7 +7049,7 @@
 - [DeepLabCut](https://github.com/DeepLabCut/DeepLabCut) - Markerless pose estimation of user-defined features with deep learning for all animals
 - [causalnex](https://github.com/quantumblacklabs/causalnex) - A Python library that helps data scientists to infer causation rather than observing correlation.
 - [django-rest-auth](https://github.com/Tivix/django-rest-auth) - This app makes it extremely easy to build Django powered SPA's (Single Page App) or Mobile apps exposing all registration and authentication related functionality as CBV's (Class Base View) and REST (JSON)
-- [sight](https://github.com/rish-16/sight) - 👁Sightseer: State-of-the-art Computer Vision and Object Detection for TensorFlow
+- [sight](https://github.com/rish-16/sight) - 👁 Sightseer: State-of-the-art Computer Vision and Object Detection for TensorFlow
 - [reformer-pytorch](https://github.com/lucidrains/reformer-pytorch) - Reformer, the efficient Transformer, in Pytorch
 - [DAIN](https://github.com/baowenbo/DAIN) - Depth-Aware Video Frame Interpolation (CVPR 2019)
 - [retinanet-examples](https://github.com/aidonchuk/retinanet-examples) - Fast and accurate object detection with end-to-end GPU optimization
@@ -7113,7 +7119,6 @@
 - [stargan-v2](https://github.com/clovaai/stargan-v2) - StarGAN v2 - Official PyTorch Implementation (CVPR 2020)
 - [gym-bandits](https://github.com/JKCooper2/gym-bandits) - Bandits Environments for the OpenAI Gym
 - [PrettyErrors](https://github.com/onelivesleft/PrettyErrors) - Prettify Python exception output to make it legible.
-- [faster-than-requests](https://github.com/juancarlospaco/faster-than-requests) - Faster requests on Python 3
 - [seed_rl](https://github.com/google-research/seed_rl) - SEED RL: Scalable and Efficient Deep-RL with Accelerated Central Inference. Implements IMPALA and R2D2 algorithms in TF2 with SEED's architecture.
 - [alchemy](https://github.com/catalyst-team/alchemy) - Experiments logging & visualization
 - [reaction](https://github.com/catalyst-team/reaction) - Convenient DL serving
@@ -7561,7 +7566,6 @@
 - [vocabs](https://github.com/Mckinsey666/vocabs) - 📚 A lightweight online dictionary integration to the command line. No browsers. No paperbacks.
 - [second.pytorch](https://github.com/traveller59/second.pytorch) - SECOND for KITTI/NuScenes object detection
 - [second.pytorch](https://github.com/nutonomy/second.pytorch) - PointPillars for KITTI object detection
-- [nuscenes-devkit](https://github.com/nutonomy/nuscenes-devkit) - The devkit of the nuScenes dataset.
 - [huskarl](https://github.com/danaugrs/huskarl) - Deep Reinforcement Learning Framework + Algorithms
 - [Tensorflow-Cookbook](https://github.com/taki0112/Tensorflow-Cookbook) - Simple Tensorflow Cookbook for easy-to-use
 - [planet](https://github.com/google-research/planet) - Learning Latent Dynamics for Planning from Pixels
@@ -12749,6 +12753,7 @@
 - [eth-private-net](https://github.com/vincentchu/eth-private-net) - Create your own Ethereum private net
 - [kaldi](https://github.com/kaldi-asr/kaldi) - This is the official location of the Kaldi project.
 - [guide](https://github.com/serverless/guide) - Serverless Guide - An open-source definitive guide to serverless architectures.
+- [landscape](https://github.com/cncf/landscape) - 🌄The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding or market cap, first and last commits, contributor counts, headquarters location, and recent tweets.
 - [lambda-packages](https://github.com/Miserlou/lambda-packages) - Various popular python libraries, pre-compiled to be compatible with AWS Lambda
 - [apollo-kernel](https://github.com/ApolloAuto/apollo-kernel) - Collections of Apollo Kernels
 - [Docker-nginx-rtmp](https://github.com/JasonRivers/Docker-nginx-rtmp) - Docker Image for RTMP streams using Nginx
