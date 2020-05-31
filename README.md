@@ -988,7 +988,6 @@
 
 - [Pathfinding-Visualizer](https://github.com/clementmihailescu/Pathfinding-Visualizer) - A visualization tool for various pathfinding algorithms.
 - [breaking-and-pwning-apps-and-servers-aws-azure-training](https://github.com/appsecco/breaking-and-pwning-apps-and-servers-aws-azure-training) - Course content, lab setup instructions and documentation of our very popular Breaking and Pwning Apps and Servers on AWS and Azure hands on training!
-- [DashMachine](https://github.com/rmountjoy92/DashMachine) - Another web application bookmark dashboard, with fun features.
 - [rwi_executive_dashboard](https://github.com/splunk/rwi_executive_dashboard) - Splunk Remote Work Insights - Executive Dashboard
 - [git-workflow-merge-conflicts-lab](https://github.com/learn-co-curriculum/git-workflow-merge-conflicts-lab) - 
 - [vscode-plugin](https://github.com/kiteco/vscode-plugin) - Kite Autocomplete Plugin for Visual Studio Code
@@ -3614,7 +3613,7 @@
 - [gdbgui](https://github.com/cs01/gdbgui) - Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will open in your browser.
 - [tikzcd-editor](https://github.com/yishn/tikzcd-editor) - A simple visual editor for creating commutative diagrams.
 - [server](https://github.com/franciscop/server) - :desktop_computer: Simple and powerful server for Node.js
-- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark: The Node.js best practices list (May 2020)
+- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark: The Node.js best practices list (June 2020)
 - [charts](https://github.com/frappe/charts) - Simple, responsive, modern SVG Charts with zero dependencies
 - [leaflet-control-orderlayers](https://github.com/elesdoar/leaflet-control-orderlayers) - Leaflet control with order functionality
 - [bottery](https://github.com/google/bottery) - 
@@ -4476,7 +4475,7 @@
 - [30-Days-of-Python](https://github.com/codingforentrepreneurs/30-Days-of-Python) - A New Version of 30 Days of Python is nearly here. Get started today.
 - [tutorials](https://github.com/krittikaiitb/tutorials) - Set of Jupyter Notebooks, along with datafiles, to get started with Scientific Computing in Astronomy
 - [DQN-Atari-Agents](https://github.com/BY571/DQN-Atari-Agents) - DQN-Atari-Agents:   Modularized PyTorch implementation of several DQN Agents, i.a. DDQN, Dueling DQN, Noisy DQN, C51, Rainbow and DRQN
-- [deltapy](https://github.com/firmai/deltapy) - DeltaPy - Tabular Data Augmentation
+- [deltapy](https://github.com/firmai/deltapy) - DeltaPy - Tabular Data Augmentation (by @firmai)
 - [nerf](https://github.com/bmild/nerf) - Code release for NeRF (Neural Radiance Fields)
 - [pycaret](https://github.com/pycaret/pycaret) - An open source, low-code machine learning library in Python
 - [micrograd](https://github.com/karpathy/micrograd) - A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API
@@ -4607,7 +4606,7 @@
 - [100-Days-Of-ML-Code](https://github.com/harunshimanto/100-Days-Of-ML-Code) - A day to day plan for this challenge. Covers both theoritical and practical aspects
 - [introduction-datascience-python-book](https://github.com/DataScienceUB/introduction-datascience-python-book) - Introduction to Data Science: A Python Approach to Concepts, Techniques and Applications
 - [NoteBooks-Statistics-and-MachineLearning](https://github.com/leonvanbokhorst/NoteBooks-Statistics-and-MachineLearning) - Jupyter Notebooks from the old UnsupervisedLearning.com (RIP) machine learning and statistics blog
-- [business-machine-learning](https://github.com/firmai/business-machine-learning) - A curated list of practical business machine learning (BML) and business data science (BDS) applications for Accounting, Customer, Employee, Legal, Management and Operations.
+- [business-machine-learning](https://github.com/firmai/business-machine-learning) - A curated list of practical business machine learning (BML) and business data science (BDS) applications for Accounting, Customer, Employee, Legal, Management and Operations (by @firmai)
 - [age-gender-estimation](https://github.com/yu4u/age-gender-estimation) - Keras implementation of a CNN network for age and gender estimation
 - [Employee-Churn-Predictive-Model](https://github.com/hamzaben86/Employee-Churn-Predictive-Model) - Predicting Employee Churn with Supervised Machine Learning
 - [python-is-cool](https://github.com/chiphuyen/python-is-cool) - Cool Python features for machine learning that I used to be too afraid to use. Will be updated as I have more time / learn more.
@@ -4627,7 +4626,7 @@
 - [blog](https://github.com/studywolf/blog) - for code created as part of http://studywolf.wordpress.com
 - [exercise](https://github.com/nndl/exercise) - exercise for nndl
 - [visualization-curriculum](https://github.com/uwdata/visualization-curriculum) - A data visualization curriculum of interactive notebooks.
-- [machine-learning-asset-management](https://github.com/firmai/machine-learning-asset-management) - Machine Learning in Asset Management
+- [machine-learning-asset-management](https://github.com/firmai/machine-learning-asset-management) - Machine Learning in Asset Management (by @firmai)
 - [sds2019](https://github.com/abjer/sds2019) - Social Data Science 2019 - a summer school course
 - [QuantumKatas](https://github.com/microsoft/QuantumKatas) - Tutorials and programming exercises for learning Q# and quantum computing
 - [deep-text-recognition-benchmark](https://github.com/clovaai/deep-text-recognition-benchmark) - Text recognition (optical character recognition) with deep learning methods.
@@ -4687,7 +4686,7 @@
 - [pvnet](https://github.com/zju3dv/pvnet) - Code for "PVNet: Pixel-wise Voting Network for 6DoF Pose Estimation" CVPR 2019 oral
 - [ML](https://github.com/SudalaiRajkumar/ML) - Codes related to various ML Hackathons
 - [monodepth2](https://github.com/nianticlabs/monodepth2) - Monocular depth estimation from a single image
-- [industry-machine-learning](https://github.com/firmai/industry-machine-learning) - A curated list of applied machine learning and data science notebooks and libraries across different industries.
+- [industry-machine-learning](https://github.com/firmai/industry-machine-learning) - A curated list of applied machine learning and data science notebooks and libraries across different industries (by @firmai)
 - [Ax](https://github.com/facebook/Ax) - Adaptive Experimentation Platform
 - [Network_Science_Meets_Deep_Learning](https://github.com/vinayprabhu/Network_Science_Meets_Deep_Learning) - Designing Deep neural network architectures using topologies from the world of Complex Networks/network Science
 - [neural-painters](https://github.com/reiinakano/neural-painters) - 
@@ -6051,7 +6050,6 @@
 - [quick-SQL-cheatsheet](https://github.com/enochtangg/quick-SQL-cheatsheet) - A quick reminder of all SQL queries and examples on how to use them.
 - [awesome-onsenui](https://github.com/OnsenUI/awesome-onsenui) - A curated list of awesome Onsen UI resources.
 - [databot](https://github.com/kkyon/databot) - Databot was renamed to  BotFlow https://github.com/kkyon/botflow
-- [polyaxon-hub](https://github.com/polyaxon/polyaxon-hub) - Public reusable components
 - [first-contributions](https://github.com/firstcontributions/first-contributions) - 🚀✨ Help beginners to contribute to open source projects
 - [A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - ✅  Curated list of resources for college students
 - [awesome-thesis](https://github.com/ocean1/awesome-thesis) - A curated list of practical tips and tricks to help you achieve an awesome CS master thesis [WIP] - contributions are welcome
@@ -6767,6 +6765,7 @@
 
 ## Python 
 
+- [Real_Time_Image_Animation](https://github.com/anandpawara/Real_Time_Image_Animation) - The Project is real time application in opencv using first order model
 - [Lip2Wav](https://github.com/Rudrabha/Lip2Wav) - This is the repository containing codes for our CVPR, 2020 paper titled "Learning Individual Speaking Styles for Accurate Lip to Speech Synthesis"
 - [SegLoss](https://github.com/JunMa11/SegLoss) - A collection of loss functions for medical image segmentation
 - [SymJAX](https://github.com/RandallBalestriero/SymJAX) - Documentation:
@@ -6779,7 +6778,7 @@
 - [kiss-headers](https://github.com/Ousret/kiss-headers) - 💡Python package for object oriented headers, HTTP/1.1 style. Parse headers to objects.
 - [xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh
 - [interrogate](https://github.com/econchick/interrogate) - Explain yourself! Interrogate a codebase for docstring coverage.
-- [nnsvs](https://github.com/r9y9/nnsvs) - Neural network-based singing voice synthesis library for research.
+- [nnsvs](https://github.com/r9y9/nnsvs) - Neural network-based singing voice synthesis library for research
 - [flowtron](https://github.com/NVIDIA/flowtron) - Auto-regressive flow-based generative network for text to speech synthesis
 - [pytorch-pfn-extras](https://github.com/pfnet/pytorch-pfn-extras) - Supplementary components to accelerate research and development in PyTorch
 - [graphene-django](https://github.com/graphql-python/graphene-django) - Integrate GraphQL into your Django project.
@@ -6901,6 +6900,7 @@
 - [ALBERT-TF2.0](https://github.com/kamalkraj/ALBERT-TF2.0) - ALBERT model Pretraining and Fine Tuning using TF2.0
 - [R-Net](https://github.com/HKUST-KnowComp/R-Net) - Tensorflow Implementation of R-Net
 - [QANet](https://github.com/NLPLearn/QANet) - A Tensorflow implementation of QANet for machine reading comprehension
+- [DashMachine](https://github.com/rmountjoy92/DashMachine) - Another web application bookmark dashboard, with fun features.
 - [geemap](https://github.com/giswqs/geemap) - A Python package for interactive mapping with Google Earth Engine, ipyleaflet, and ipywidgets
 - [Practical-Ethical-Hacking-Resources](https://github.com/Gr1mmie/Practical-Ethical-Hacking-Resources) - Compilation of Resources from TCM's Practical Ethical Hacking Udemy Course
 - [SSV](https://github.com/NVlabs/SSV) - Pytorch implementation of SSV: Self-Supervised Viewpoint Learning from Image Collections (CVPR 2020)
@@ -7521,7 +7521,7 @@
 - [image-super-resolution](https://github.com/idealo/image-super-resolution) - 🔎 Super-scale your images and run experiments with Residual Dense and Adversarial Networks.
 - [beagle](https://github.com/yampelo/beagle) - Beagle is an incident response and digital forensics tool which transforms security logs and data into graphs.
 - [requests-async](https://github.com/encode/requests-async) - async-await support for `requests`. ✨ 🍰 ✨
-- [prefect](https://github.com/PrefectHQ/prefect) - The Prefect workflow platform
+- [prefect](https://github.com/PrefectHQ/prefect) - A modern data workflow platform
 - [BMSG-GAN](https://github.com/akanimax/BMSG-GAN) - [MSG-GAN] Any body can GAN! Highly stable and robust architecture. Requires little to no hyperparameter tuning. Pytorch Implementation
 - [FeatherNets_Face-Anti-spoofing-Attack-Detection-Challenge-CVPR2019](https://github.com/SoftwareGift/FeatherNets_Face-Anti-spoofing-Attack-Detection-Challenge-CVPR2019) - Code for 3rd Place Solution in Face Anti-spoofing Attack Detection Challenge @ CVPR2019,model only 0.35M!!! 1.88ms(CPU)
 - [cartography](https://github.com/lyft/cartography) - Cartography is a Python tool that consolidates infrastructure assets and the relationships between them in an intuitive graph view powered by a Neo4j database.
@@ -7687,7 +7687,7 @@
 - [lambda-runtime-pypy3.5](https://github.com/iopipe/lambda-runtime-pypy3.5) - AWS Lambda Runtime for PyPy 3.5
 - [Mumbai-slum-segmentation](https://github.com/cbsudux/Mumbai-slum-segmentation) - Mumbai slum segmentation and change detection on statellite images.
 - [gandissect](https://github.com/CSAILVision/gandissect) - Pytorch-based tools for visualizing and understanding the neurons of a GAN.  https://gandissect.csail.mit.edu/
-- [d2l-en](https://github.com/d2l-ai/d2l-en) - An interactive deep learning book with code, math, and discussions, based on the NumPy interface.
+- [d2l-en](https://github.com/d2l-ai/d2l-en) - An interactive deep learning book with code, math, and discussions.
 - [satpy](https://github.com/pytroll/satpy) - Python package for earth-observing satellite data processing
 - [celluloid](https://github.com/jwkvam/celluloid) - :movie_camera: Matplotlib animations made easy
 - [redis-namespace](https://github.com/guokr/redis-namespace) - namespaced subset of your redis keyspace
@@ -7840,6 +7840,7 @@
 - [datasets](https://github.com/tensorflow/datasets) - TFDS is a collection of datasets ready to use with TensorFlow, Jax, ...
 - [beauty-net](https://github.com/cmsflash/beauty-net) - A simple, flexible, and extensible template for PyTorch. It's beautiful.
 - [petastorm](https://github.com/uber/petastorm) - Petastorm library enables single machine or distributed training and evaluation of deep learning models from datasets in Apache Parquet format. It supports ML frameworks such as Tensorflow, Pytorch, and PySpark and can be used from pure Python code.
+- [polyaxon-hub](https://github.com/polyaxon/polyaxon-hub) - Public reusable components
 - [aiochan](https://github.com/zh217/aiochan) - CSP-style concurrency for Python
 - [tuna](https://github.com/nschloe/tuna) - Python profile viewer
 - [Acamar](https://github.com/si9int/Acamar) - A Python3 based single-file subdomain enumerator
@@ -9199,7 +9200,7 @@
 - [ansible-role-mongodb](https://github.com/UnderGreen/ansible-role-mongodb) - Ansible role to configure MongoDB
 - [BEGAN-tensorflow](https://github.com/hmi88/BEGAN-tensorflow) - python3 / Implementation of Google Brain's BEGAN in Tensorflow
 - [poet](https://github.com/sdispater/poet) - Poet helps you declare, manage and install dependencies of Python projects, ensuring you have the right stack everywhere.
-- [patroni](https://github.com/zalando/patroni) - A template for PostgreSQL High Availability with ZooKeeper, etcd, or Consul
+- [patroni](https://github.com/zalando/patroni) - A template for PostgreSQL High Availability with Etcd, Consul, ZooKeeper, or Kubernetes
 - [kim](https://github.com/mikeywaites/kim) - Kim: A JSON Serialization and Marshaling framework
 - [SpiderKeeper](https://github.com/DormyMo/SpiderKeeper) - admin ui for scrapy/open source scrapinghub
 - [neural_complete](https://github.com/kootenpv/neural_complete) - A neural network trained to help writing neural network code using autocomplete
