@@ -2225,7 +2225,7 @@
 - [awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [repo-badges](https://github.com/dwyl/repo-badges) - :star: Use repo badges (build passing, coverage, etc) in your readme/markdown file to signal code quality in a project.
 - [kubelabs](https://github.com/collabnix/kubelabs) - Kubernetes - Beginners | Intermediate | Advanced
-- [tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 450 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 500 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [russe](https://github.com/nlpub/russe) - RUSSE: Russian Semantic Evaluation.
 - [pytorch-for-numpy-users](https://github.com/wkentaro/pytorch-for-numpy-users) - PyTorch for Numpy users. https://pytorch-for-numpy-users.wkentaro.com
 - [github-markdown-css](https://github.com/sindresorhus/github-markdown-css) - The minimal amount of CSS to replicate the GitHub Markdown style
@@ -2516,7 +2516,6 @@
 - [WamaCry](https://github.com/bitdust/WamaCry) - a fake WannaCry
 - [style-guide-guide](https://github.com/bradfrost/style-guide-guide) - A boilerplate for creating your own custom style guide
 - [zenbot](https://github.com/DeviaVir/zenbot) - Zenbot is a command-line cryptocurrency trading bot using Node.js and MongoDB.
-- [rust-cookbook](https://github.com/rust-lang-nursery/rust-cookbook) - https://rust-lang-nursery.github.io/rust-cookbook
 - [emoji-cheat-sheet.com](https://github.com/WebpageFX/emoji-cheat-sheet.com) - A one pager for emojis on Campfire and GitHub
 - [science_flask](https://github.com/danielhomola/science_flask) - ScienceFlask: an open-source template for scientific web-app development
 - [js-the-right-way](https://github.com/braziljs/js-the-right-way) - An easy-to-read, quick reference for JS best practices, accepted coding standards, and links around the Web
@@ -3392,7 +3391,7 @@
 - [Leaflet.MovingMarker](https://github.com/ewoken/Leaflet.MovingMarker) - A Leaflet plug-in to create moving marker
 - [gtfspy-webviz](https://github.com/CxAalto/gtfspy-webviz) - Interactive tools for GTFS data visualization and analysis
 - [transport-tracker](https://github.com/googlemaps/transport-tracker) - Applications for tracking moving assets on a live map
-- [analysis-ui](https://github.com/conveyal/analysis-ui) - Conveyal's frontend for creating and analyzing transportation scenarios.
+- [analysis-ui](https://github.com/conveyal/analysis-ui) - Conveyal's interface for creating and analyzing transportation scenarios.
 - [busrouter-sg](https://github.com/cheeaun/busrouter-sg) - BusRouter SG: Singapore Bus Routes Explorer
 - [modeify](https://github.com/conveyal/modeify) - Deliver personalized commute information to travelers.
 - [transitive.js](https://github.com/conveyal/transitive.js) - Transit data visualization
@@ -8682,7 +8681,7 @@
 - [roca](https://github.com/crocs-muni/roca) - ROCA: Infineon RSA key vulnerability
 - [Dragonfire](https://github.com/DragonComputer/Dragonfire) - the open-source virtual assistant for Ubuntu based Linux distributions
 - [streamz](https://github.com/python-streamz/streamz) - Real-time stream processing for python
-- [s3-inspector](https://github.com/kromtech/s3-inspector) - Tool to check AWS S3 bucket permissions
+- [s3-inspector](https://github.com/clario-tech/s3-inspector) - Tool to check AWS S3 bucket permissions
 - [bounter](https://github.com/RaRe-Technologies/bounter) - Efficient Counter that uses a limited (bounded) amount of memory regardless of data size.
 - [SfmLearner-Pytorch](https://github.com/ClementPinard/SfmLearner-Pytorch) - Pytorch version of SfmLearner from Tinghui Zhou et al.
 - [DilatedRNN](https://github.com/code-terminator/DilatedRNN) - Tensorflow implementation for DilatedRNN
@@ -10266,7 +10265,7 @@
 - [write-rnn-tensorflow](https://github.com/hardmaru/write-rnn-tensorflow) - Generative Handwriting using LSTM Mixture Density Network with TensorFlow
 - [tangerine](https://github.com/nficano/tangerine) - 🍊A Flask inspired, decorator based API wrapper for Python-Slack.
 - [dhcpwn](https://github.com/mschwager/dhcpwn) - All your IPs are belong to us.
-- [simplemap](https://github.com/patrick--/simplemap) - Python module to allow for easy creation of a google maps HTML file.
+- [simplemap](https://github.com/ptrks/simplemap) - Python module to allow for easy creation of a google maps HTML file.
 - [suma](https://github.com/rach/suma) - Suma, microservice to manage external links
 - [dumb-init](https://github.com/Yelp/dumb-init) - A minimal init system for Linux containers
 - [apartment_prices](https://github.com/jeffkaufman/apartment_prices) - Rent heatmaps
@@ -12762,6 +12761,7 @@
 - [Kubernetes-GPU-Guide](https://github.com/Langhalsdino/Kubernetes-GPU-Guide) - This guide should help fellow researchers and hobbyists to easily automate and accelerate there deep leaning training with their own Kubernetes GPU cluster.
 - [eos-token-distribution](https://github.com/EOSIO/eos-token-distribution) - 
 - [owasp-mstg](https://github.com/OWASP/owasp-mstg) - The Mobile Security Testing Guide (MSTG) is a comprehensive manual for mobile app security development, testing and reverse engineering.
+- [rust-cookbook](https://github.com/rust-lang-nursery/rust-cookbook) - https://rust-lang-nursery.github.io/rust-cookbook
 - [build-linux](https://github.com/MichielDerhaeg/build-linux) - A short tutorial about building Linux based operating systems.
 - [easy-rsa](https://github.com/OpenVPN/easy-rsa) - easy-rsa - Simple shell based CA utility
 - [Stouts.openvpn](https://github.com/Stouts/Stouts.openvpn) - Ansible role to install and configure OpenVPN server
