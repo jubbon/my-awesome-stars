@@ -553,7 +553,7 @@
 - [jetson-inference](https://github.com/dusty-nv/jetson-inference) - Hello AI World guide to deploying deep-learning inference networks and deep vision primitives with TensorRT and NVIDIA Jetson.
 - [mapbox-gl-native](https://github.com/mapbox/mapbox-gl-native) - Interactive, thoroughly customizable maps in native Android, iOS, macOS, Node.js, and Qt applications, powered by vector tiles and OpenGL
 - [pfaedle](https://github.com/ad-freiburg/pfaedle) - Precise map-matching for public transit feeds. Generates high-quality GTFS shapes from OSM data.
-- [cpp-taskflow](https://github.com/cpp-taskflow/cpp-taskflow) - Modern C++ Parallel Task Programming
+- [taskflow](https://github.com/taskflow/taskflow) - Modern C++ Parallel Task Programming
 - [YouTokenToMe](https://github.com/VKCOM/YouTokenToMe) - Unsupervised text tokenizer focused on computational efficiency
 - [griddb_nosql](https://github.com/griddb/griddb_nosql) - high performance, high scalability and high reliability database for IoT & big data
 - [triton-inference-server](https://github.com/NVIDIA/triton-inference-server) - The Triton Inference Server provides a cloud inferencing solution optimized for NVIDIA GPUs.
@@ -2996,7 +2996,6 @@
 - [electron-with-server-example](https://github.com/jlongster/electron-with-server-example) - An example Electron app with a backend server all wired up via IPC
 - [git-pending](https://github.com/kamranahmedse/git-pending) - Git plugin to list TODO, FIXME, TESTME, DOCME comments in a repository
 - [carbon](https://github.com/carbon-design-system/carbon) - A design system built by IBM
-- [umi](https://github.com/umijs/umi) - 🌋 Pluggable enterprise-level react application framework.
 - [daterangepicker](https://github.com/dangrossman/daterangepicker) - JavaScript Date Range, Date and Time Picker Component
 - [vue-slideout](https://github.com/hyjiacan/vue-slideout) - A Slide-Out component for Vue.js 2.0
 - [geojson2h3](https://github.com/uber/geojson2h3) - Conversion utilities between H3 indexes and GeoJSON
@@ -5532,7 +5531,7 @@
 - [ThinkDSP](https://github.com/AllenDowney/ThinkDSP) - Think DSP: Digital Signal Processing in Python, by Allen B. Downey.
 - [Data-Analysis-and-Machine-Learning-Projects](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects) - Repository of teaching materials, code, and data for my data analysis and machine learning projects.
 - [caffenet-benchmark](https://github.com/ducha-aiki/caffenet-benchmark) - Evaluation of the CNN design choices performance on ImageNet-2012.
-- [log-progress](https://github.com/kuk/log-progress) - Widget based progress bar for Jupyter
+- [log-progress](https://github.com/kuk/log-progress) - https://habr.com/ru/post/276725/
 - [Complete-Python-Bootcamp](https://github.com/jmportilla/Complete-Python-Bootcamp) - Lectures for Udemy - Complete Python Bootcamp Course
 - [tensorflow_chessbot](https://github.com/Elucidation/tensorflow_chessbot) - Predict chessboard FEN layouts from images using TensorFlow
 - [tensorflow-IPythonNotebook](https://github.com/simulacre7/tensorflow-IPythonNotebook) - tensorflow with IPythonNotebook
@@ -6258,6 +6257,7 @@
 - [blackhat-arsenal-tools](https://github.com/toolswatch/blackhat-arsenal-tools) - Official Black Hat Arsenal Security Tools Repository
 - [coco-framework](https://github.com/Azure/coco-framework) - The Confidential Consortium Blockchain Framework is an open-source system that enables high-scale, confidential blockchain networks that meet all key enterprise requirements—providing a means to accelerate production enterprise adoption of blockchain technology.
 - [deeplearning-mindmap](https://github.com/dformoso/deeplearning-mindmap) - A mindmap summarising Deep Learning concepts.
+- [landscape](https://github.com/cncf/landscape) - 🌄The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding or market cap, first and last commits, contributor counts, headquarters location, and recent tweets.
 - [side-project-marketing](https://github.com/portable-cto/side-project-marketing) - A checklist of tactics for marketing your side projects.
 - [machine-learning-mindmap](https://github.com/dformoso/machine-learning-mindmap) - A mindmap summarising Machine Learning concepts, from Data Analysis to Deep Learning.
 - [DefCon25](https://github.com/FuzzySecurity/DefCon25) - UAC 0day, all day!
@@ -6785,7 +6785,7 @@
 - [checkov](https://github.com/bridgecrewio/checkov) - Prevent cloud misconfigurations during build-time for Terraform, Cloudformation, Kubernetes and other infrastructure-as-code-languages with Checkov by Bridgecrew.
 - [NeuralCDE](https://github.com/patrick-kidger/NeuralCDE) - Code for "Neural Controlled Differential Equations for Irregular Time Series"
 - [GithubDataVisTool](https://github.com/Garfinkel/GithubDataVisTool) - 
-- [TransformerTTS](https://github.com/as-ideas/TransformerTTS) - 🤖💬 Implementation of a Transformer based neural network for text to speech.
+- [TransformerTTS](https://github.com/as-ideas/TransformerTTS) - 🤖💬 Implementation of a non-autoregressive Transformer based neural network for text to speech.
 - [ScoutSuite](https://github.com/nccgroup/ScoutSuite) - Multi-Cloud Security Auditing Tool
 - [azure-sdk-for-python](https://github.com/Azure/azure-sdk-for-python) - This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/en-us/python/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-python.
 - [DataCamp](https://github.com/wblakecannon/DataCamp) - DataCamp data-science courses
@@ -9550,7 +9550,7 @@
 - [warren](https://github.com/torchhound/warren) - Links to lose yourself in, curated from HN and other sources
 - [kq](https://github.com/joowani/kq) - Kafka-based Job Queue for Python
 - [fast-style-transfer](https://github.com/lengstrom/fast-style-transfer) - TensorFlow CNN for fast style transfer ⚡🖥🎨🖼
-- [jinjasql](https://github.com/hashedin/jinjasql) - Simplify creation and maintenance of complex SQL queries by using Jinja based template language
+- [jinjasql](https://github.com/hashedin/jinjasql) - Template Language for SQL with Automatic Bind Parameter Extraction
 - [knowledge-repo](https://github.com/airbnb/knowledge-repo) - A next-generation curated knowledge sharing platform for data scientists and other technical professions.
 - [stack-overflow-import](https://github.com/drathier/stack-overflow-import) - Import arbitrary code from Stack Overflow as Python modules.
 - [magenta](https://github.com/tensorflow/magenta) - Magenta: Music and Art Generation with Machine Intelligence
@@ -12690,7 +12690,7 @@
 - [vulhub](https://github.com/vulhub/vulhub) - Pre-Built Vulnerable Environments Based on Docker-Compose
 - [fabric-samples](https://github.com/hyperledger/fabric-samples) - 
 - [start-here-guidelines](https://github.com/zero-to-mastery/start-here-guidelines) - Lets Git started in the world of opensource, starting in the Zero To Mastery's opensource playground. Especially designed for education and practical experience purposes.
-- [bitnami-docker-kafka](https://github.com/bitnami/bitnami-docker-kafka) - Bitnami Docker Kafka
+- [bitnami-docker-kafka](https://github.com/bitnami/bitnami-docker-kafka) - Bitnami Docker Image for Kafka
 - [docker-odoo-project](https://github.com/camptocamp/docker-odoo-project) - Base images for Odoo projects
 - [tensorflow-build-archived](https://github.com/lakshayg/tensorflow-build-archived) - TensorFlow binaries supporting AVX, FMA, SSE
 - [Revssl](https://github.com/TheSecondSun/Revssl) - A simple script that automates generation of OpenSSL reverse shells
@@ -12753,7 +12753,6 @@
 - [eth-private-net](https://github.com/vincentchu/eth-private-net) - Create your own Ethereum private net
 - [kaldi](https://github.com/kaldi-asr/kaldi) - This is the official location of the Kaldi project.
 - [guide](https://github.com/serverless/guide) - Serverless Guide - An open-source definitive guide to serverless architectures.
-- [landscape](https://github.com/cncf/landscape) - 🌄The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding or market cap, first and last commits, contributor counts, headquarters location, and recent tweets.
 - [lambda-packages](https://github.com/Miserlou/lambda-packages) - Various popular python libraries, pre-compiled to be compatible with AWS Lambda
 - [apollo-kernel](https://github.com/ApolloAuto/apollo-kernel) - Collections of Apollo Kernels
 - [Docker-nginx-rtmp](https://github.com/JasonRivers/Docker-nginx-rtmp) - Docker Image for RTMP streams using Nginx
@@ -12800,7 +12799,7 @@
 - [octo.ai](https://github.com/octoai/octo.ai) - The analytics hypervisor, an operating system to manage all your analytics needs and licensed under Apache 2.0 License.
 - [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃 A delightful community-driven (with 1500+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [ansible-odoo](https://github.com/OCA/ansible-odoo) - Ansible role for Odoo
-- [zsh-autoswitch-virtualenv](https://github.com/MichaelAquilina/zsh-autoswitch-virtualenv) - 🐍 ZSH plugin to automatically switch python virtualenvs and Pipenvs as you move between directories
+- [zsh-autoswitch-virtualenv](https://github.com/MichaelAquilina/zsh-autoswitch-virtualenv) - 🐍 ZSH plugin to automatically switch python virtualenvs (including pipenv and poetry) as you move between directories
 - [m-cli](https://github.com/rgcr/m-cli) -  Swiss Army Knife for macOS
 - [lambci](https://github.com/lambci/lambci) - A continuous integration system built on AWS Lambda
 - [grafana-docker](https://github.com/grafana/grafana-docker) - Grafana docker container
@@ -12942,6 +12941,7 @@
 - [react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design
 - [harp.gl](https://github.com/heremaps/harp.gl) - harp.gl - web map rendering engine
 - [mds-core](https://github.com/openmobilityfoundation/mds-core) - An implementation of an MDS Agency Server written in Typescript
+- [umi](https://github.com/umijs/umi) - 🌋 Pluggable enterprise-level react application framework.
 - [theme-ui](https://github.com/system-ui/theme-ui) - Build consistent, themeable React apps based on constraint-based design principles
 - [lightweight-charts](https://github.com/tradingview/lightweight-charts) - Financial lightweight charts built with HTML5 canvas
 - [gh-card](https://github.com/nwtgck/gh-card) - :octocat: GitHub Repository Card for Any Web Site
