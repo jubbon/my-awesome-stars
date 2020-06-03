@@ -452,7 +452,6 @@
 - [ailab](https://github.com/microsoft/ailab) - Experience, Learn and Code the latest breakthrough innovations with Microsoft AI
 - [DRL_based_SelfDrivingCarControl](https://github.com/MLJejuCamp2017/DRL_based_SelfDrivingCarControl) - Deep Reinforcement Learning (DQN) based Self Driving Car Control with Vehicle Simulator
 - [blockchain](https://github.com/dvf/blockchain) - A simple Blockchain in Python
-- [ml-agents](https://github.com/Unity-Technologies/ml-agents) - Unity Machine Learning Agents Toolkit
 - [sqlnotebook](https://github.com/electroly/sqlnotebook) - Tabular data exploration and manipulation tool powered by SQLite.
 - [TensorFlowSharp](https://github.com/migueldeicaza/TensorFlowSharp) - TensorFlow API for .NET languages
 - [electrino](https://github.com/pojala/electrino) - Desktop runtime for apps built on web technologies, using the system's own web browser engine
@@ -2491,6 +2490,7 @@
 - [security-txt](https://github.com/securitytxt/security-txt) - A proposed standard that allows websites to define security policies.
 - [ai-deadlines](https://github.com/abhshkdz/ai-deadlines) - :alarm_clock: AI conference deadline countdowns
 - [samples](https://github.com/GoogleChrome/samples) - A repo containing samples tied to new functionality in each release of Google Chrome.
+- [docker.github.io](https://github.com/docker/docker.github.io) - Source repo for Docker's Documentation
 - [Sparta](https://github.com/mweagle/Sparta) - go microservices, powered by AWS Lambda
 - [RoutePlanner](https://github.com/Kasheftin/RoutePlanner) - Simple free and open source tool for planning routes
 - [viz-pub](https://github.com/halhen/viz-pub) - A place to publish data-vizes
@@ -2884,6 +2884,7 @@
 
 ## JavaScript 
 
+- [petrovich-js](https://github.com/petrovich/petrovich-js) - JS library to inflect Russian first, last, and middle names.
 - [sci-hub-now](https://github.com/0x01h/sci-hub-now) - Free access to academic papers with just a single click! Abolish publishers, long live the open access movement! 🦅
 - [editly](https://github.com/mifi/editly) - Slick, declarative command line video editing
 - [intelligent-test-platform](https://github.com/alibaba/intelligent-test-platform) - intelligent-test-platform
@@ -2992,7 +2993,6 @@
 - [complete-javascript-course](https://github.com/jonasschmedtmann/complete-javascript-course) - Starter files, final projects and FAQ for my Complete JavaScript course
 - [videodownloader](https://github.com/mayeaux/videodownloader) - A video and channel downloader that supports 110 websites, powered by Electron and youtube-dl
 - [framework](https://github.com/iondv/framework) - IONDV. Framework is a high level framework for enterprise web applications development.
-- [composition-api](https://github.com/vuejs/composition-api) - Vue2 plugin for the Composition API.
 - [electron-with-server-example](https://github.com/jlongster/electron-with-server-example) - An example Electron app with a backend server all wired up via IPC
 - [git-pending](https://github.com/kamranahmedse/git-pending) - Git plugin to list TODO, FIXME, TESTME, DOCME comments in a repository
 - [carbon](https://github.com/carbon-design-system/carbon) - A design system built by IBM
@@ -3706,7 +3706,6 @@
 - [vue-stripe-elements](https://github.com/fromAtoB/vue-stripe-elements) - A Vue 2 component collection for StripeElements
 - [esm](https://github.com/standard-things/esm) - Tomorrow's ECMAScript modules today!
 - [transform](https://github.com/ritz078/transform) - A polyglot web converter.
-- [docker.github.io](https://github.com/docker/docker.github.io) - Source repo for Docker's Documentation
 - [drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of diagrams.net
 - [vue-resume](https://github.com/luosijie/vue-resume) - Resume template based on Vue
 - [notifme-sdk](https://github.com/notifme/notifme-sdk) - A Node.js library to send all kinds of transactional notifications.
@@ -5859,7 +5858,7 @@
 - [MIT-Linear-Algebra-Notes](https://github.com/yizhen20133868/MIT-Linear-Algebra-Notes) - Notes for MIT-Linear-Algebra
 - [Cookbook](https://github.com/andkret/Cookbook) - The Data Engineering Cookbook
 - [dn](https://github.com/tomlockwood/dn) - Daily notes command line tool
-- [awesome-robotic-tooling](https://github.com/Ly0n/awesome-robotic-tooling) - Tools for professional robotic development with ROS in C++ and Python
+- [awesome-robotic-tooling](https://github.com/Ly0n/awesome-robotic-tooling) - Tools for professional robotic development with ROS in C++ and Python with a touch of autonomous driving
 - [awesome-graph](https://github.com/jbmusso/awesome-graph) - A curated list of resources for graph databases and graph computing tools
 - [For-Data-Science-Beginners](https://github.com/amrrs/For-Data-Science-Beginners) - Set of 📝 with 🔗 to help those who are Data Science beginners 🤖
 - [awesome-libra](https://github.com/reed-hong/awesome-libra) - A Curated List of Awesome Facebook Libra Resources
@@ -6764,6 +6763,9 @@
 
 ## Python 
 
+- [pytrovich](https://github.com/petrovich/pytrovich) - Python3 port of Petrovich, an inflector (and gender detector) for Russian anthroponyms
+- [Petrovich](https://github.com/damirazo/Petrovich) - Библиотека для склонения русских ФИО к нужному падежу
+- [pyconll](https://github.com/pyconll/pyconll) - A minimal, pure Python library to interface with CoNLL-U format files.
 - [Real_Time_Image_Animation](https://github.com/anandpawara/Real_Time_Image_Animation) - The Project is real time application in opencv using first order model
 - [Lip2Wav](https://github.com/Rudrabha/Lip2Wav) - This is the repository containing codes for our CVPR, 2020 paper titled "Learning Individual Speaking Styles for Accurate Lip to Speech Synthesis"
 - [SegLoss](https://github.com/JunMa11/SegLoss) - A collection of loss functions for medical image segmentation
@@ -7351,7 +7353,7 @@
 - [python_autocomplete](https://github.com/vpj/python_autocomplete) - A simple neural network for python autocompletion
 - [MASS](https://github.com/microsoft/MASS) - MASS: Masked Sequence to Sequence Pre-training for Language Generation
 - [sentry-python](https://github.com/getsentry/sentry-python) - The new Python SDK for Sentry.io
-- [adversarial-robustness-toolbox](https://github.com/IBM/adversarial-robustness-toolbox) - Python library for adversarial machine learning (evasion, extraction, poisoning, verification, certification) with attacks and defences for neural networks, logistic regression, decision trees, SVM, gradient boosted trees, Gaussian processes and more with multiple framework support
+- [adversarial-robustness-toolbox](https://github.com/IBM/adversarial-robustness-toolbox) - Adversarial Robustness Toolbox (ART) - Python Library for Machine Learning Security - Evasion, Poisoning, Extraction, Inference
 - [OpenCV-Face-Recognition](https://github.com/Mjrovai/OpenCV-Face-Recognition) - Real-time face recognition project with OpenCV and Python
 - [tensorpack](https://github.com/tensorpack/tensorpack) - A Neural Net Training Interface on TensorFlow, with focus on speed + flexibility
 - [python](https://github.com/kubernetes-client/python) - Official Python client library for kubernetes
@@ -7507,7 +7509,7 @@
 - [FastFCN](https://github.com/wuhuikai/FastFCN) - FastFCN: Rethinking Dilated Convolution in the Backbone for Semantic Segmentation.
 - [WCT2](https://github.com/clovaai/WCT2) - Software that can perform photorealistic style transfer without the need of any post-processing steps.
 - [gnss-ins-sim](https://github.com/Aceinna/gnss-ins-sim) - Open-source GNSS + inertial navigation, sensor fusion simulator.  Motion trajectory generator, sensor models, and navigation
-- [FaceDetection-DSFD](https://github.com/TencentYoutuResearch/FaceDetection-DSFD) - 
+- [FaceDetection-DSFD](https://github.com/TencentYoutuResearch/FaceDetection-DSFD) - 腾讯优图高精度双分支人脸检测器
 - [pytorch_GAN_zoo](https://github.com/facebookresearch/pytorch_GAN_zoo) - A mix of GAN implementations including progressive growing
 - [SPADE](https://github.com/NVlabs/SPADE) - Semantic Image Synthesis with SPADE
 - [guildai](https://github.com/guildai/guildai) - Open source experiment tracking and optimization for machine learning
@@ -8756,6 +8758,7 @@
 - [fairseq](https://github.com/pytorch/fairseq) - Facebook AI Research Sequence-to-Sequence Toolkit written in Python.
 - [weibospider](https://github.com/SpiderClub/weibospider) - :zap: A distributed crawler for weibo, building with celery and requests.
 - [SerpentAI](https://github.com/SerpentAI/SerpentAI) - Game Agent Framework. Helping you create AIs / Bots that learn to play any game you own!
+- [ml-agents](https://github.com/Unity-Technologies/ml-agents) - Unity Machine Learning Agents Toolkit
 - [onnx-caffe2](https://github.com/onnx/onnx-caffe2) - Caffe2 implementation of Open Neural Network Exchange (ONNX)
 - [fa2l](https://github.com/bosiakov/fa2l) - Force Atlas 2 graph layout
 - [studio](https://github.com/studioml/studio) - Studio: Simplify and expedite model building process
@@ -12941,6 +12944,7 @@
 - [react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design
 - [harp.gl](https://github.com/heremaps/harp.gl) - harp.gl - web map rendering engine
 - [mds-core](https://github.com/openmobilityfoundation/mds-core) - An implementation of an MDS Agency Server written in Typescript
+- [composition-api](https://github.com/vuejs/composition-api) - Vue2 plugin for the Composition API.
 - [umi](https://github.com/umijs/umi) - 🌋 Pluggable enterprise-level react application framework.
 - [theme-ui](https://github.com/system-ui/theme-ui) - Build consistent, themeable React apps based on constraint-based design principles
 - [lightweight-charts](https://github.com/tradingview/lightweight-charts) - Financial lightweight charts built with HTML5 canvas
