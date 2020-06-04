@@ -2294,7 +2294,7 @@
 - [watchme](https://github.com/vsoch/watchme) - Reproducible watchers for research
 - [front-end-handbook-2019](https://github.com/FrontendMasters/front-end-handbook-2019) - [Book] 2019 edition of our front-end development handbook
 - [bestofml](https://github.com/RemoteML/bestofml) - The best resources around Machine Learning
-- [foundation](https://github.com/fp-tower/foundation) - Online Scala courses that help you learn the practical side of functional programming, quickly and simply, so you can improve your skills and your career
+- [foundations](https://github.com/fp-tower/foundations) - Foundations of Functional Programming in Scala is a comprehensive, self-paced online course with no prerequisites, which helps you to become a confident, productive, and powerful functional Scala developer.
 - [spur-template](https://github.com/HackerThemes/spur-template) - A Bootstrap Admin Template
 - [javascript-tutorial-ru](https://github.com/iliakan/javascript-tutorial-ru) - [Предыдущая редакция] Современный учебник JavaScript
 - [Advanced-R](https://github.com/uc-r/Advanced-R) - Advanced Analytics with R training material delivered in a 2 day format
@@ -2401,7 +2401,6 @@
 - [bitcoincore.org](https://github.com/bitcoin-core/bitcoincore.org) - Bitcoin Core project website
 - [img-2](https://github.com/RevillWeb/img-2) - Replace &lt;img /&gt; elements with &lt;img-2&gt; to automatically pre-cache images and improve page performance.
 - [theme-machine](https://github.com/HackerThemes/theme-machine) - A collection of stylized Bootstrap Themes
-- [vue-promise-btn](https://github.com/STUkh/vue-promise-btn) - Vue.js plugin that handles buttons async lock state. Demo: https://stukh.github.io/vue-promise-btn/
 - [webdash](https://github.com/jadjoubran/webdash) - 🔥 Orchestrate your web project with Webdash the customizable web dashboard
 - [tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 - [import-maps](https://github.com/WICG/import-maps) - How to control the behavior of JavaScript imports
@@ -3367,6 +3366,7 @@
 - [vue-loading-overlay](https://github.com/ankurk91/vue-loading-overlay) - Vue.js component for full screen loading indicator
 - [vue-cli-plugin-critical](https://github.com/anthonygore/vue-cli-plugin-critical) - 
 - [vue-luxon](https://github.com/casbloem/vue-luxon) - Easy use of datetime with Luxon in Vue
+- [vue-promise-btn](https://github.com/STUkh/vue-promise-btn) - Vue.js plugin that handles buttons async lock state. Demo: https://stukh.github.io/vue-promise-btn/
 - [vue-vr](https://github.com/mudin/vue-vr) - A framework for building VR applications with Vue
 - [susnote](https://github.com/baojiweicn/susnote) - Susnote is a notebook which support markdown, UML and Chart.
 - [task-easy](https://github.com/cmseaton42/task-easy) - A simple, customizable, and lightweight priority queue for promises.
@@ -3413,7 +3413,7 @@
 - [the-art-of-reading](https://github.com/n0ruSh/the-art-of-reading) - books that i have read and worth sharing
 - [Awaity.js](https://github.com/asfktz/Awaity.js) - A functional, lightweight alternative to bluebird.js, built with async / await in mind.
 - [openpgpjs](https://github.com/openpgpjs/openpgpjs) - OpenPGP implementation for JavaScript
-- [react-graphql-github-apollo](https://github.com/the-road-to-graphql/react-graphql-github-apollo) - 🚀A React + Apollo + GraphQL GitHub Client. Your opportunity to learn about these technologies in a real world application.
+- [react-graphql-github-apollo](https://github.com/the-road-to-graphql/react-graphql-github-apollo) - 🚀 A React + Apollo + GraphQL GitHub Client. Your opportunity to learn about these technologies in a real world application.
 - [jest-puppeteer](https://github.com/smooth-code/jest-puppeteer) - Run your tests using Jest & Puppeteer 🎪✨
 - [basicScroll](https://github.com/electerious/basicScroll) - Standalone parallax scrolling for mobile and desktop with CSS variables.
 - [ghostery-extension](https://github.com/ghostery/ghostery-extension) - Ghostery Browser Extension for Firefox, Chrome, Opera and Edge
@@ -3764,7 +3764,7 @@
 - [vue-the-mask](https://github.com/vuejs-tips/vue-the-mask) - Tiny (&lt;2k gzipped) and dependency free mask input for Vue.js
 - [vue-multiselect](https://github.com/shentao/vue-multiselect) - Universal select/multiselect/tagging component for Vue.js
 - [eslint-plugin-vue](https://github.com/vuejs/eslint-plugin-vue) - Official ESLint plugin for Vue.js
-- [collect.js](https://github.com/ecrmnn/collect.js) - 💎 Convenient and dependency free wrapper for working with arrays and objects
+- [collect.js](https://github.com/ecrmnn/collect.js) - 💎  Convenient and dependency free wrapper for working with arrays and objects
 - [staticrypt](https://github.com/robinmoisson/staticrypt) - Password protect a static HTML page
 - [amplitudejs](https://github.com/521dimensions/amplitudejs) - AmplitudeJS: Open Source HTML5 Audio Library. Design your web audio player, the way you want. No dependencies required.
 - [front-end-guide](https://github.com/grab/front-end-guide) - 📚 Study guide and introduction to the modern front end stack.
@@ -3845,7 +3845,7 @@
 - [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don't have a broken hiring process
 - [franc](https://github.com/wooorm/franc) - Natural language detection
 - [vue-custom-element](https://github.com/karol-f/vue-custom-element) - Vue Custom Element - Web Components' Custom Elements for Vue.js
-- [nunuStudio](https://github.com/tentone/nunuStudio) - Web powered cross-platform 3D game engine.
+- [nunuStudio](https://github.com/tentone/nunuStudio) - Web powered cross-platform 3D, WebXR game engine.
 - [d3-annotation](https://github.com/susielu/d3-annotation) - Use d3-annotation with built-in annotation types, or extend it to make custom annotations. It is made for d3-v4 in SVG.
 - [Caporal.js](https://github.com/mattallty/Caporal.js) - A full-featured framework for building command line applications (cli) with node.js
 - [geojson-google-maps](https://github.com/JasonSanford/geojson-google-maps) - A simple utility to convert GeoJSON objects to Google Maps vector objects (Marker, Polyline, Polygon)
@@ -3959,7 +3959,7 @@
 - [arc](https://github.com/diegohaz/arc) - React starter kit based on Atomic Design
 - [Semantic-UI-React](https://github.com/Semantic-Org/Semantic-UI-React) - The official Semantic-UI-React integration
 - [vivus](https://github.com/maxwellito/vivus) - JavaScript library to make drawing animation on SVG
-- [gun](https://github.com/amark/gun) - A realtime, decentralized, offline-first, graph protocol to sync the web.
+- [gun](https://github.com/amark/gun) - An open source cybersecurity protocol for syncing decentralized graph data.
 - [testcafe](https://github.com/DevExpress/testcafe) - A Node.js tool to automate end-to-end web testing.
 - [WavesGUI](https://github.com/wavesplatform/WavesGUI) - Waves Client
 - [apprtc-node-server](https://github.com/ISBX/apprtc-node-server) - The web based video chat app based on WebRTC written in NodeJS
@@ -4456,6 +4456,7 @@
 
 ## Jupyter Notebook 
 
+- [awesome-pandas](https://github.com/tommyod/awesome-pandas) - A collection of resources for pandas (Python) and related subjects.
 - [RNN-Keras](https://github.com/DanielDaCosta/RNN-Keras) - Building a Multi-Label Classifier doesn't seem a difficult task using Keras, but when you are dealing with a highly imbalanced dataset with more than 30 different labels and with multiple losses it can become quite tricky.
 - [dp_tutorials](https://github.com/deepmipt/dp_tutorials) - 
 - [drq](https://github.com/denisyarats/drq) - DrQ: Data regularized Q
@@ -6268,7 +6269,7 @@
 - [awesome-asyncio](https://github.com/timofurrer/awesome-asyncio) - A curated list of awesome Python asyncio frameworks, libraries, software and resources
 - [EffectiveTensorflow](https://github.com/vahidk/EffectiveTensorflow) - TensorFlow tutorials and best practices.
 - [prometheus](https://github.com/vegasbrianc/prometheus) - A docker-compose stack for Prometheus monitoring
-- [ansible-postgis3d](https://github.com/Oslandia/ansible-postgis3d) - Ansible role for postgis 3D enabled
+- [ansible-postgis3d](https://github.com/Oslandia/ansible-postgis3d) - Project migrated to : https://gitlab.com/Oslandia/ansible-postgis3d
 - [ansible-postgis](https://github.com/antarctica/ansible-postgis) - Installs the PostGIS PostgreSQL extension and optionally enables this within an 'app' db
 - [ansible-postgis](https://github.com/azavea/ansible-postgis) - An Ansible role for installing PostGIS.
 - [macOS_Development_Tutorials_translation](https://github.com/DeveloperLx/macOS_Development_Tutorials_translation) - Translation of macOS development tutorials.
@@ -6938,7 +6939,7 @@
 - [CurveFit](https://github.com/ihmeuw-msca/CurveFit) - Generic curve fitting package with nonlinear mixed effects model
 - [aristo-mini](https://github.com/allenai/aristo-mini) - Aristo mini is a light-weight question answering system that can quickly evaluate Aristo science questions with an evaluation web server and the provided baseline solvers.
 - [gym-gridworld](https://github.com/xinleipan/gym-gridworld) - Simple grid-world environment compatible with OpenAI-gym
-- [asteroid](https://github.com/mpariente/asteroid) - The PyTorch-based audio source separation toolkit for researchers || Current highlight : we got our WHAMR results check it out here !
+- [asteroid](https://github.com/mpariente/asteroid) - The PyTorch-based audio source separation toolkit for researchers || Pretrained models available
 - [deap](https://github.com/DEAP/deap) - Distributed Evolutionary Algorithms in Python
 - [ESRGAN](https://github.com/xinntao/ESRGAN) - ECCV18 Workshops - Enhanced SRGAN. Champion PIRM Challenge on Perceptual Super-Resolution (Third Region)
 - [minimal-hand](https://github.com/CalciferZh/minimal-hand) - A minimal solution to hand motion capture from a single color camera at over 100fps. Easy to use, plug to run.
@@ -7484,7 +7485,7 @@
 - [koalas](https://github.com/databricks/koalas) - Koalas: pandas API on Apache Spark
 - [GCNet](https://github.com/xvjiarui/GCNet) - GCNet: Non-local Networks Meet Squeeze-Excitation Networks and Beyond
 - [Learn-Web-Hacking](https://github.com/LyleMi/Learn-Web-Hacking) - Study Notes For Web Hacking / Web安全学习笔记
-- [ICCV2019-LearningToPaint](https://github.com/hzwer/ICCV2019-LearningToPaint) - ICCV2019 - A painting AI that can reproduce paintings stroke by stroke using deep reinforcement learning.
+- [ICCV2019-LearningToPaint](https://github.com/megvii-research/ICCV2019-LearningToPaint) - ICCV2019 - A painting AI that can reproduce paintings stroke by stroke using deep reinforcement learning.
 - [aws-serverless-airline-booking](https://github.com/aws-samples/aws-serverless-airline-booking) - Airline Booking is a complete web application that provides Flight Search, Flight Payment, Flight Booking and Loyalty points including end-to-end testing, GraphQL and CI/CD. This web application is the theme of Build on Serverless Season 2 on AWS Twitch running from April 24th until end of July.
 - [stackprinter](https://github.com/cknd/stackprinter) - Debugging-friendly exceptions for Python
 - [snippets](https://github.com/Khan/snippets) - Code related to collecting and pushing weekly snippets
@@ -8694,7 +8695,7 @@
 - [spidy](https://github.com/rivermont/spidy) - The simple, easy to use command line web crawler.
 - [tably](https://github.com/narimiran/tably) - Python command-line script for converting .csv data to LaTeX tables
 - [VHostScan](https://github.com/codingo/VHostScan) - A virtual host scanner that performs reverse lookups, can be used with pivot tools, detect catch-all scenarios, work around wildcards, aliases and dynamic default pages.
-- [notifiers](https://github.com/notifiers/notifiers) - The easy way to send notifications
+- [notifiers](https://github.com/liiight/notifiers) - The easy way to send notifications
 - [lightning](https://github.com/scikit-learn-contrib/lightning) - Large-scale linear classification, regression and ranking in Python
 - [pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
 - [lattice](https://github.com/tensorflow/lattice) - Lattice methods in TensorFlow
