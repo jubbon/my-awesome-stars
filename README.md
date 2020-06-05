@@ -1588,6 +1588,7 @@
 - [vitess](https://github.com/vitessio/vitess) - Vitess is a database clustering system for horizontal scaling of MySQL.
 - [keda](https://github.com/kedacore/keda) - KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes
 - [shhgit](https://github.com/eth0izzle/shhgit) - Ah shhgit! Find GitHub secrets in real time
+- [fabric-samples](https://github.com/hyperledger/fabric-samples) - 
 - [clickhouse_sinker](https://github.com/housepower/clickhouse_sinker) - Easily load data  from kafka to ClickHouse
 - [pg](https://github.com/go-pg/pg) - Golang ORM with focus on PostgreSQL features and performance
 - [grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway) - gRPC to JSON proxy generator following the gRPC HTTP spec
@@ -1660,7 +1661,7 @@
 - [aws-lambda-container-image-converter](https://github.com/awslabs/aws-lambda-container-image-converter) - The AWS Lambda container image converter tool (img2lambda) repackages container images (such as Docker images) into AWS Lambda function deployment packages and Lambda layers.
 - [gunk](https://github.com/gunk/gunk) - Modern frontend and syntax for Protocol Buffers
 - [aminal](https://github.com/liamg/aminal) - A modern cross-platform terminal emulator in Go
-- [sourcegraph](https://github.com/sourcegraph/sourcegraph) - Universal code search and navigation tool (self-hosted)
+- [sourcegraph](https://github.com/sourcegraph/sourcegraph) - Universal code search (self-hosted)
 - [crossplane](https://github.com/crossplane/crossplane) - Manage any infrastructure your applications need directly from Kubernetes
 - [netcap](https://github.com/dreadl0ck/netcap) - A framework for secure and scalable network traffic analysis - https://netcap.io
 - [gitbatch](https://github.com/isacikgoz/gitbatch) - manage your git repositories in one place
@@ -2430,7 +2431,6 @@
 - [Udacity-Yearbook-Project](https://github.com/sgs006/Udacity-Yearbook-Project) - Optional Yearbook Collaboration for Udacity Front-End Scholarship Participants
 - [data-science-at-the-command-line](https://github.com/jeroenjanssens/data-science-at-the-command-line) - Data Science at the Command Line
 - [gg-flip](https://github.com/avinassh/gg-flip) - Highly performant Javascript library to flip the signs
-- [nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGiИX config generator on steroids 💉
 - [foundation-sites](https://github.com/foundation/foundation-sites) - The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device.
 - [SQLInjectionWiki](https://github.com/NetSPI/SQLInjectionWiki) - A wiki focusing on aggregating and documenting various SQL injection methods
 - [proposal-pipeline-operator](https://github.com/tc39/proposal-pipeline-operator) - A proposal for adding the simple-but-useful pipeline operator to JavaScript.
@@ -3548,6 +3548,7 @@
 - [after.js](https://github.com/jaredpalmer/after.js) - Next.js-like framework for server-rendered React apps built with React Router 4
 - [nerv](https://github.com/NervJS/nerv) - A blazing fast React alternative, compatible with IE8 and React 16.
 - [polka](https://github.com/lukeed/polka) - A micro web server so fast, it'll make you dance! :dancers:
+- [VisualDL](https://github.com/PaddlePaddle/VisualDL) - Deep Learning Visualization Toolkit（『飞桨』深度学习可视化工具 ）
 - [jarvis](https://github.com/zouhir/jarvis) - A very intelligent browser based Webpack dashboard
 - [stockroom](https://github.com/developit/stockroom) - 🗃 Offload your store management to a worker easily.
 - [face-recognition.js](https://github.com/justadudewhohacks/face-recognition.js) - Simple Node.js package for robust face detection and face recognition. JavaScript and TypeScript API.
@@ -3904,6 +3905,7 @@
 - [lambdoku](https://github.com/kubek2k/lambdoku) - Heroku-like experience when using AWS Lambda
 - [YoptaScript](https://github.com/samgozman/YoptaScript) - Скриптовый язык программирования для гопников и реальных пацанов
 - [webpack-blocks](https://github.com/andywer/webpack-blocks) - 📦 Configure webpack using functional feature blocks.
+- [datalegreya](https://github.com/figs-lab/datalegreya) - Datalegreya, the typeface that melts text and data visualisation
 - [vuelidate](https://github.com/vuelidate/vuelidate) - Simple, lightweight model-based validation for Vue.js
 - [lagom](https://github.com/reimertz/lagom) - 🖼 simplistic presentation generator
 - [premonish](https://github.com/mathisonian/premonish) - Predict which DOM element a user will interact with next.
@@ -6399,7 +6401,6 @@
 - [DMTK](https://github.com/microsoft/DMTK) - Microsoft Distributed Machine Learning Toolkit
 - [awesome-stylus](https://github.com/diogomoretti/awesome-stylus) - ✨ A curated list of awesome Stylus
 - [awscli-aliases](https://github.com/awslabs/awscli-aliases) - Repository for AWS CLI aliases.
-- [datalegreya](https://github.com/figs-lab/datalegreya) - Datalegreya, the typeface that melts text and data visualisation
 - [neo](https://github.com/commaai/neo) - comma neo research platform
 - [reverseengineering-reading-list](https://github.com/onethawt/reverseengineering-reading-list) - A list of Reverse Engineering articles, books, and papers
 - [easy-application](https://github.com/j-delaney/easy-application) - Over 400 software engineering companies that are easy to apply to
@@ -6764,6 +6765,7 @@
 
 ## Python 
 
+- [PEDRA](https://github.com/aqeelanwar/PEDRA) - Programmable Engine for Drone Reinforcement Learning Applications
 - [pytrovich](https://github.com/petrovich/pytrovich) - Python3 port of Petrovich, an inflector (and gender detector) for Russian anthroponyms
 - [Petrovich](https://github.com/damirazo/Petrovich) - Библиотека для склонения русских ФИО к нужному падежу
 - [pyconll](https://github.com/pyconll/pyconll) - A minimal, pure Python library to interface with CoNLL-U format files.
@@ -7510,7 +7512,7 @@
 - [FastFCN](https://github.com/wuhuikai/FastFCN) - FastFCN: Rethinking Dilated Convolution in the Backbone for Semantic Segmentation.
 - [WCT2](https://github.com/clovaai/WCT2) - Software that can perform photorealistic style transfer without the need of any post-processing steps.
 - [gnss-ins-sim](https://github.com/Aceinna/gnss-ins-sim) - Open-source GNSS + inertial navigation, sensor fusion simulator.  Motion trajectory generator, sensor models, and navigation
-- [FaceDetection-DSFD](https://github.com/TencentYoutuResearch/FaceDetection-DSFD) - 腾讯优图高精度双分支人脸检测器
+- [FaceDetection-DSFD](https://github.com/Tencent/FaceDetection-DSFD) - 腾讯优图高精度双分支人脸检测器
 - [pytorch_GAN_zoo](https://github.com/facebookresearch/pytorch_GAN_zoo) - A mix of GAN implementations including progressive growing
 - [SPADE](https://github.com/NVlabs/SPADE) - Semantic Image Synthesis with SPADE
 - [guildai](https://github.com/guildai/guildai) - Open source experiment tracking and optimization for machine learning
@@ -9557,7 +9559,7 @@
 - [jinjasql](https://github.com/hashedin/jinjasql) - Template Language for SQL with Automatic Bind Parameter Extraction
 - [knowledge-repo](https://github.com/airbnb/knowledge-repo) - A next-generation curated knowledge sharing platform for data scientists and other technical professions.
 - [stack-overflow-import](https://github.com/drathier/stack-overflow-import) - Import arbitrary code from Stack Overflow as Python modules.
-- [magenta](https://github.com/tensorflow/magenta) - Magenta: Music and Art Generation with Machine Intelligence
+- [magenta](https://github.com/magenta/magenta) - Magenta: Music and Art Generation with Machine Intelligence
 - [Kayak](https://github.com/HIPS/Kayak) - Kayak is a library for automatic differentiation with applications to deep neural networks.
 - [cudarray](https://github.com/andersbll/cudarray) - CUDA-based NumPy
 - [cudamat](https://github.com/cudamat/cudamat) - Python module for performing basic dense linear algebra computations on the GPU using CUDA.
@@ -12692,12 +12694,11 @@
 - [ODSQA](https://github.com/chiahsuan156/ODSQA) - ODSQA: OPEN-DOMAIN SPOKEN QUESTION ANSWERING DATASET
 - [shlide](https://github.com/icyphox/shlide) - :framed_picture: a slide deck presentation tool written in pure bash
 - [vulhub](https://github.com/vulhub/vulhub) - Pre-Built Vulnerable Environments Based on Docker-Compose
-- [fabric-samples](https://github.com/hyperledger/fabric-samples) - 
 - [start-here-guidelines](https://github.com/zero-to-mastery/start-here-guidelines) - Lets Git started in the world of opensource, starting in the Zero To Mastery's opensource playground. Especially designed for education and practical experience purposes.
 - [bitnami-docker-kafka](https://github.com/bitnami/bitnami-docker-kafka) - Bitnami Docker Image for Kafka
 - [docker-odoo-project](https://github.com/camptocamp/docker-odoo-project) - Base images for Odoo projects
 - [tensorflow-build-archived](https://github.com/lakshayg/tensorflow-build-archived) - TensorFlow binaries supporting AVX, FMA, SSE
-- [Revssl](https://github.com/TheSecondSun/Revssl) - A simple script that automates generation of OpenSSL reverse shells
+- [Revssl](https://github.com/wintrmvte/Revssl) - A simple script that automates generation of OpenSSL reverse shells
 - [Overpass-API](https://github.com/wiktorn/Overpass-API) - Overpass API docker image
 - [docker-overpass-api](https://github.com/mediasuitenz/docker-overpass-api) - Docker Overpass API
 - [docker-pyinstaller](https://github.com/cdrx/docker-pyinstaller) - PyInstaller for Linux and Windows inside Docker
@@ -13062,7 +13063,6 @@
 - [word2vec-spam-filter](https://github.com/doodyparizada/word2vec-spam-filter) - Using word vectors to classify spam messages
 - [prettier-vscode](https://github.com/prettier/prettier-vscode) - Visual Studio Code extension for Prettier
 - [snyk](https://github.com/snyk/snyk) - CLI and build-time tool to find & fix known vulnerabilities in open-source dependencies
-- [VisualDL](https://github.com/PaddlePaddle/VisualDL) - Deep Learning Visualization Toolkit（『飞桨』深度学习可视化工具 ）
 - [pluggable-autocomplete](https://github.com/Sammons/pluggable-autocomplete) - Allows writing simple extensions to get suggestions for values from external data sources
 - [majestic](https://github.com/Raathigesh/majestic) - ⚡ Zero config GUI for Jest
 - [vuesion](https://github.com/vuesion/vuesion) - The most complete boilerplate for production-ready PWAs. With focus on performance, development speed, and best practices
@@ -13428,6 +13428,7 @@
 - [vue-feather-icons](https://github.com/egoist/vue-feather-icons) - Simply beautiful open source icons as Vue functional components.
 - [d3-discovery](https://github.com/wbkd/d3-discovery) - A tool for exploring D3.js plugins
 - [Peridot](https://github.com/Gingernaut/Peridot) - A fast and powerful Vue.js PWA boilerplate
+- [nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGiИX config generator on steroids 💉
 - [incubator-weex-ui](https://github.com/apache/incubator-weex-ui) - 🏄  A rich interaction, lightweight, high performance UI library based on Weex.
 - [vue-lottie](https://github.com/chenqingspring/vue-lottie) - Render After Effects animations on Vue based on Bodymovin
 - [vue-scrollactive](https://github.com/eddiemf/vue-scrollactive) - Lightweight and simple to use vue component that highlights menu items as you scroll the page, also scrolling to target section when clicked.
