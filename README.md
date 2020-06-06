@@ -1566,7 +1566,7 @@
 - [godog](https://github.com/cucumber/godog) - Cucumber for golang
 - [aws-vault](https://github.com/99designs/aws-vault) - A vault for securely storing and accessing AWS credentials in development environments
 - [go-gitlab](https://github.com/xanzy/go-gitlab) - A GitLab API client enabling Go programs to interact with GitLab in a simple and uniform way
-- [micro](https://github.com/micro/micro) - A distributed systems runtime for the cloud
+- [micro](https://github.com/micro/micro) - A development platform for cloud services
 - [go-github](https://github.com/google/go-github) - Go library for accessing the GitHub API
 - [nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
 - [migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
@@ -1713,7 +1713,7 @@
 - [TarsGo](https://github.com/TarsCloud/TarsGo) - A  high performance microservice  framework  in golang. A linux foundation project.
 - [arduino-cli](https://github.com/arduino/arduino-cli) - Arduino command line interface
 - [devspace](https://github.com/devspace-cloud/devspace) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
-- [gorm](https://github.com/jinzhu/gorm) - The fantastic ORM library for Golang, aims to be developer friendly (v2 is under development, PR based on master branch won't be accepted)
+- [gorm](https://github.com/go-gorm/gorm) - The fantastic ORM library for Golang, aims to be developer friendly (v2 is under public testing...)
 - [pdfcpu](https://github.com/pdfcpu/pdfcpu) - A PDF processor written in Go.
 - [sso](https://github.com/buzzfeed/sso) - sso, aka S.S.Octopus, aka octoboi, is a single sign-on solution for securing internal services
 - [vegeta](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It's over 9000!
@@ -1833,7 +1833,7 @@
 - [grpcurl](https://github.com/fullstorydev/grpcurl) - Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers
 - [vgo](https://github.com/golang/vgo) - [mirror] Versioned Go Prototype
 - [img](https://github.com/genuinetools/img) - Standalone, daemon-less, unprivileged Dockerfile and OCI compatible container image builder.
-- [werf](https://github.com/flant/werf) - GitOps delivery tool
+- [werf](https://github.com/werf/werf) - GitOps delivery tool
 - [virtcontainers](https://github.com/containers/virtcontainers) - A Go package for building hardware virtualized container runtimes
 - [gitleaks](https://github.com/zricethezav/gitleaks) - Scan git repos for secrets using regex and entropy 🔑
 - [goben](https://github.com/udhos/goben) - goben is a golang tool to measure TCP/UDP transport layer throughput between hosts.
@@ -5724,7 +5724,6 @@
 
 ## Nim 
 
-- [faster-than-requests](https://github.com/juancarlospaco/faster-than-requests) - Faster requests on Python 3
 - [pipelines](https://github.com/calebwin/pipelines) - Pipelines is a language for high-level data analysis.
 
 ## OCaml 
@@ -6845,7 +6844,7 @@
 - [fastNLP](https://github.com/fastnlp/fastNLP) - fastNLP: A Modularized and Extensible NLP Framework. Currently still in incubation.
 - [comma10k](https://github.com/commaai/comma10k) - 10k crowdsourced images for training segnets
 - [MONAI](https://github.com/Project-MONAI/MONAI) - AI Toolkit for Healthcare Imaging
-- [ResNeSt](https://github.com/zhanghang1989/ResNeSt) - ResNeSt: Split-Attention Network
+- [ResNeSt](https://github.com/zhanghang1989/ResNeSt) - ResNeSt: Split-Attention Networks
 - [python-stop-words](https://github.com/Alir3z4/python-stop-words) - Get list of common stop words in various languages in Python
 - [detecto](https://github.com/alankbi/detecto) - Build fully-functioning computer vision models with PyTorch
 - [navec](https://github.com/natasha/navec) - Compact high quality word embeddings for Russian language
@@ -7123,6 +7122,7 @@
 - [stargan-v2](https://github.com/clovaai/stargan-v2) - StarGAN v2 - Official PyTorch Implementation (CVPR 2020)
 - [gym-bandits](https://github.com/JKCooper2/gym-bandits) - Bandits Environments for the OpenAI Gym
 - [PrettyErrors](https://github.com/onelivesleft/PrettyErrors) - Prettify Python exception output to make it legible.
+- [faster-than-requests](https://github.com/juancarlospaco/faster-than-requests) - Faster requests on Python 3
 - [seed_rl](https://github.com/google-research/seed_rl) - SEED RL: Scalable and Efficient Deep-RL with Accelerated Central Inference. Implements IMPALA and R2D2 algorithms in TF2 with SEED's architecture.
 - [alchemy](https://github.com/catalyst-team/alchemy) - Experiments logging & visualization
 - [reaction](https://github.com/catalyst-team/reaction) - Convenient DL serving
@@ -10934,7 +10934,6 @@
 - [plecost](https://github.com/iniqua/plecost) - Plecost - Wordpress finger printer Tool
 - [mapturner](https://github.com/nprapps/mapturner) - A command line utility for generating topojson from various data sources for fast maps.
 - [awslogs](https://github.com/jorgebastida/awslogs) - AWS CloudWatch logs for Humans™
-- [custom-ssh-backdoor](https://github.com/joridos/custom-ssh-backdoor) - Custom ssh backdoor, coded in python using Paramiko
 - [eralchemy](https://github.com/Alexis-benoist/eralchemy) - Entity Relation Diagrams generation tool
 - [slack-overflow](https://github.com/karan/slack-overflow) - A programmer's best friend, now in Slack.
 - [libextract](https://github.com/datalib/libextract) - Extract data from websites using basic statistical magic
