@@ -1566,7 +1566,7 @@
 - [godog](https://github.com/cucumber/godog) - Cucumber for golang
 - [aws-vault](https://github.com/99designs/aws-vault) - A vault for securely storing and accessing AWS credentials in development environments
 - [go-gitlab](https://github.com/xanzy/go-gitlab) - A GitLab API client enabling Go programs to interact with GitLab in a simple and uniform way
-- [micro](https://github.com/micro/micro) - A development platform for cloud services
+- [micro](https://github.com/micro/micro) - Micro is a cloud native development platform
 - [go-github](https://github.com/google/go-github) - Go library for accessing the GitHub API
 - [nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
 - [migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
@@ -2337,7 +2337,7 @@
 - [piterjs.org](https://github.com/piterjs/piterjs.org) - PiterJS site
 - [blockchain](https://github.com/Azure-Samples/blockchain) - Azure Blockchain Content and Samples
 - [imglab](https://github.com/NaturalIntelligence/imglab) - To speedup and simplify image labeling/ annotation process with multiple supported formats.
-- [gshark](https://github.com/neal1991/gshark) - Scan for sensitive information easily and effectively.
+- [gshark](https://github.com/madneal/gshark) - Scan for sensitive information easily and effectively.
 - [ml-workshop-1-of-4](https://github.com/amueller/ml-workshop-1-of-4) - Introduction to Machine learning with Python, 4h interactive workshop
 - [creative-computing-society.github.io](https://github.com/creative-computing-society/creative-computing-society.github.io) - This is the Hacktoberfest first contribution website of CCS
 - [My-Learning-Tracker-first-ten-months](https://github.com/Syknapse/My-Learning-Tracker-first-ten-months) - A copy of my learning tracker frozen in time at the 10 month mark. It shows my learning process from the beginning of my front end journey, up to the moment I got my first job. Full tracker is at: https://github.com/Syknapse/My-Learning-Tracker
@@ -2918,7 +2918,7 @@
 - [pipedream](https://github.com/PipedreamHQ/pipedream) - A platform for running hosted, backend Node.js components.  Free for developers.
 - [1920-s2](https://github.com/nus-cs2030/1920-s2) - The website of CS2030, 19/20 Sem 2.
 - [pino](https://github.com/pinojs/pino) - 🌲 super fast, all natural json logger 🌲
-- [30DaysOfJavaScript](https://github.com/Asabeneh/30DaysOfJavaScript) - 30 days of JavaScript programming challenge is a sep by step guide to learn JavaScript programming language in 30 days
+- [30DaysOfJavaScript](https://github.com/Asabeneh/30DaysOfJavaScript) - 30 days of JavaScript programming challenge is a step by step guide to learn JavaScript programming language in 30 days
 - [playwright](https://github.com/microsoft/playwright) - Node library to automate Chromium, Firefox and WebKit with a single API
 - [city-roads](https://github.com/anvaka/city-roads) - Visualization of all roads within any city
 - [ganlab](https://github.com/poloclub/ganlab) - GAN Lab: An Interactive, Visual Experimentation Tool for Generative Adversarial Networks
@@ -3565,7 +3565,6 @@
 - [inmap](https://github.com/TalkingData/inmap) - 大数据地理可视化
 - [headless-devtools](https://github.com/cowchimp/headless-devtools) - Lets you perform Chrome DevTools actions from code by leveraging Headless Chrome+Puppeteer
 - [object-explorer](https://github.com/sdras/object-explorer) - 🔥 A resource to help figure out what JavaScript object method would be best to use at any given time
-- [gitmask](https://github.com/AnalogJ/gitmask) - 
 - [immer](https://github.com/immerjs/immer) - Create the next immutable state by mutating the current one
 - [ipfs-dropzone](https://github.com/fiatjaf/ipfs-dropzone) - Dropzone.js  that uploads to IPFS instead of to an URL
 - [microbundle](https://github.com/developit/microbundle) - 📦 Zero-configuration bundler for tiny modules.
@@ -3896,7 +3895,6 @@
 - [docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
 - [regexgen](https://github.com/devongovett/regexgen) - Generate regular expressions that match a set of strings
 - [leakage](https://github.com/andywer/leakage) - 🐛 Memory leak testing for node.
-- [awesomo](https://github.com/lk-geimfari/awesomo) - An extensive list of cool open source projects written in С, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala etc.
 - [atom-in-orbit](https://github.com/facebookarchive/atom-in-orbit) - Putting Atom in the browser
 - [REmap](https://github.com/Lchiffon/REmap) - create  a map by R
 - [jsraccoon](https://github.com/rtivital/jsraccoon) - Советы по верстке и написанию JavaScript кода – http://jsraccoon.ru
@@ -7128,7 +7126,7 @@
 - [reaction](https://github.com/catalyst-team/reaction) - Convenient DL serving
 - [ebonite](https://github.com/zyfra/ebonite) - machine learning lifecycle framework
 - [ttach](https://github.com/qubvel/ttach) - Image Test Time Augmentation with PyTorch!
-- [mlcomp](https://github.com/catalyst-team/mlcomp) - Distributed DAG  (Directed acyclic graph)  framework for machine learning with UI
+- [mlcomp](https://github.com/lightforever/mlcomp) - Distributed DAG  (Directed acyclic graph)  framework for machine learning with UI
 - [segmentation_models.pytorch](https://github.com/qubvel/segmentation_models.pytorch) - Segmentation models with pretrained backbones. PyTorch.
 - [c-swm](https://github.com/c-swm/c-swm) - This repository has moved to: https://github.com/tkipf/c-swm
 - [wemake-python-package](https://github.com/wemake-services/wemake-python-package) - Bleeding edge cookiecutter template to create new python packages
@@ -7147,7 +7145,7 @@
 - [freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
 - [awspx](https://github.com/FSecureLABS/awspx) - A graph-based tool for visualizing effective access and resource relationships in AWS environments.
 - [EfficientDet](https://github.com/xuannianz/EfficientDet) - EfficientDet (Scalable and Efficient Object Detection)  implementation in Keras and Tensorflow
-- [30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a sep by step guide to learn Python programming language in 30 days.
+- [30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step by step guide to learn Python programming language in 30 days.
 - [simpletransformers](https://github.com/ThilinaRajapakse/simpletransformers) - Transformers for Classification, NER, QA, Language Modelling, Language Generation, T5, Multi-Modal, and Conversational AI
 - [RDSNet](https://github.com/wangsr126/RDSNet) - implement for paper: "RDSNet: A New Deep Architecture for Reciprocal Object Detection and Instance Segmentation"
 - [batea](https://github.com/delvelabs/batea) - AI-based, context-driven network device ranking
@@ -8534,6 +8532,7 @@
 - [chainer-chemistry](https://github.com/chainer/chainer-chemistry) - Chainer Chemistry: A Library for Deep Learning in Biology and Chemistry
 - [deepfakes_faceswap](https://github.com/joshua-wu/deepfakes_faceswap) - from deekfakes' faceswap: https://www.reddit.com/user/deepfakes/
 - [jsonschema](https://github.com/Julian/jsonschema) - An(other) implementation of JSON Schema for Python
+- [gitmask](https://github.com/AnalogJ/gitmask) - Contribute Code Anonymously
 - [mazelab](https://github.com/zuoxingdong/mazelab) - A customizable framework to create maze and gridworld environments
 - [MMdnn](https://github.com/microsoft/MMdnn) - MMdnn is a set of tools to help users inter-operate among different deep learning frameworks. E.g. model conversion and visualization. Convert models between Caffe, Keras, MXNet, Tensorflow, CNTK, PyTorch Onnx and CoreML.
 - [Striker](https://github.com/s0md3v/Striker) - Striker is an offensive information and vulnerability scanner.
@@ -10507,7 +10506,7 @@
 - [pexpect](https://github.com/pexpect/pexpect) - A Python module for controlling interactive programs in a pseudo-terminal
 - [google-api-python-client](https://github.com/googleapis/google-api-python-client) - 🐍 The official Python client library for Google's discovery based APIs.
 - [gmail](https://github.com/charlierguo/gmail) - A Pythonic interface for Google Mail
-- [facepy](https://github.com/jgorset/facepy) - Facepy makes it really easy to use Facebook's Graph API
+- [facepy](https://github.com/jgorset/facepy) - Facepy makes it really easy to use Facebook's Graph API with Python
 - [facebook-sdk](https://github.com/mobolic/facebook-sdk) - Python SDK for Facebook's Graph API
 - [django-wordpress](https://github.com/jcarbaugh/django-wordpress) - WordPress models and views for Django.
 - [radar](https://github.com/barseghyanartur/radar) - Generate random date(time) in Python.
@@ -13114,6 +13113,7 @@
 - [react-navigation](https://github.com/react-navigation/react-navigation) - Routing and navigation for your React Native apps
 - [parrot](https://github.com/parrot-translate/parrot) - Self-hosted Localization Management Platform built with Go and Angular
 - [botpress](https://github.com/botpress/botpress) - 🤖 The Conversational Platform with built-in language understanding (NLU), beautiful graphical interface and Dialog Manager (DM). Easily create chatbots and AI-based virtual assistants.
+- [awesomo](https://github.com/lk-geimfari/awesomo) - An extensive list of cool open source projects written in С, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala etc.
 - [vuetify](https://github.com/vuetifyjs/vuetify) - 🐉 Material Component Framework for Vue
 - [material-components-web](https://github.com/material-components/material-components-web) - Modular and customizable Material Design UI components for the web
 - [rxdb](https://github.com/pubkey/rxdb) - :computer: 🔄 :iphone: A realtime Database for JavaScript Applications
