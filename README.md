@@ -714,7 +714,7 @@
 - [TileDB](https://github.com/TileDB-Inc/TileDB) - The Storage Engine for Data Science
 - [leela-zero](https://github.com/leela-zero/leela-zero) - Go engine with no human-provided knowledge, modeled after the AlphaGo Zero paper.
 - [Beginning-Cpp-Game-Programming](https://github.com/PacktPublishing/Beginning-Cpp-Game-Programming) - 
-- [pegasus](https://github.com/XiaoMi/pegasus) - A distributed key-value storage system developed and maintained by Xiaomi Cloud Storage Team.
+- [pegasus](https://github.com/XiaoMi/pegasus) - (ˈpɛɡəsəs) A distributed key-value storage system developed and maintained by Xiaomi Cloud Storage Team.
 - [plaidml](https://github.com/plaidml/plaidml) - PlaidML is a framework for making deep learning work everywhere.
 - [EdgeML](https://github.com/microsoft/EdgeML) - This repository provides code for machine learning algorithms for edge devices developed at Microsoft Research India.
 - [cosmos](https://github.com/OpenGenus/cosmos) - Algorithms that run our universe | Your personal library of every algorithm and data structure code that you will ever encounter | Ask us anything at our forum |
@@ -2225,7 +2225,7 @@
 - [awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [repo-badges](https://github.com/dwyl/repo-badges) - :star: Use repo badges (build passing, coverage, etc) in your readme/markdown file to signal code quality in a project.
 - [kubelabs](https://github.com/collabnix/kubelabs) - Kubernetes - Beginners | Intermediate | Advanced
-- [tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 500 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 550 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [russe](https://github.com/nlpub/russe) - RUSSE: Russian Semantic Evaluation.
 - [pytorch-for-numpy-users](https://github.com/wkentaro/pytorch-for-numpy-users) - PyTorch for Numpy users. https://pytorch-for-numpy-users.wkentaro.com
 - [github-markdown-css](https://github.com/sindresorhus/github-markdown-css) - The minimal amount of CSS to replicate the GitHub Markdown style
@@ -5696,7 +5696,7 @@
 - [jupyter-docker-stacks](https://github.com/gifford-lab/jupyter-docker-stacks) - Opinionated stacks of ready-to-run Jupyter applications in Docker.  Forked to add GPU capabilities.
 - [full-speed-python](https://github.com/joaoventura/full-speed-python) - Full Speed Python: a book for self-learners
 - [book-open-source-tips](https://github.com/eddiejaoude/book-open-source-tips) - Open Source book on Open Source Tips
-- [gitpr](https://github.com/susam/gitpr) - A quick reference guide on fork and pull request workflow
+- [gitpr](https://github.com/susam/gitpr) - Quick reference guide on fork and pull request workflow
 - [awesome-safety-critical](https://github.com/stanislaw/awesome-safety-critical) - List of resources about programming practices for writing safety-critical software.
 - [reverse-engineering-for-beginners](https://github.com/veficos/reverse-engineering-for-beginners) - translate project of Drops
 - [nvidia-docker](https://github.com/NVIDIA/nvidia-docker) - Build and run Docker containers leveraging NVIDIA GPUs
@@ -5793,7 +5793,6 @@
 - [docker-git-tip](https://github.com/djoudi5/docker-git-tip) - A handy CLI in Docker container to make optimum use of git tips, see: https://github.com/git-tips/tips
 - [stylegan2-distillation](https://github.com/EvgenyKashin/stylegan2-distillation) - 
 - [deep-nlp](https://github.com/deep-nlp-spring-2020/deep-nlp) - Natural Language Processing with Deep Learning
-- [Intrinsic-Rewards](https://github.com/cyoon1729/Intrinsic-Rewards) - Implementation of reinforcement learning algorithms with intrinsic rewards
 - [learn2learn](https://github.com/G-Wang/learn2learn) - PyTorch Meta-learning Framework for Researchers
 - [MelGAN-Pytorch](https://github.com/G-Wang/MelGAN-Pytorch) - A Pytorch Implementation of MelGAN
 - [nlp_paper_summaries](https://github.com/dair-ai/nlp_paper_summaries) - ✍️ A carefully curated list of NLP paper summaries
@@ -7361,7 +7360,7 @@
 - [PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI) - Launched in 2018 Actively developed and supported. Supports tkinter, Qt, WxPython, Remi (in browser). Create custom layout GUI's simply.  Python 2.7 & 3 Support. 200+ Demo programs & Cookbook for rapid start. Extensive documentation.  Examples using Machine Learning(GUI, OpenCV Integration,  Chatterbot), Floating Desktop Widgets, Matplotlib + Pyplot integration, add GUI to command line scripts, PDF & Image Viewer. For both beginning and advanced programmers .
 - [DeepLearningTutorials](https://github.com/lisa-lab/DeepLearningTutorials) - Deep Learning Tutorial notes and code. See the wiki for more info.
 - [machine_learning_examples](https://github.com/lazyprogrammer/machine_learning_examples) - A collection of machine learning examples and tutorials.
-- [DeepNude-an-Image-to-Image-technology](https://github.com/yuanxiaosc/DeepNude-an-Image-to-Image-technology) - DeepNude's algorithm and general image generation theory and practice research, including pix2pix, CycleGAN, UGATIT, DCGAN, SinGAN, ALAE, mGANprior, StarGAN-v2 and VAE models (TensorFlow2 implementation). DeepNude的算法以及通用GAN图像生成的理论与实践研究。
+- [DeepNude-an-Image-to-Image-technology](https://github.com/yuanxiaosc/DeepNude-an-Image-to-Image-technology) - DeepNude's algorithm and general image generation theory and practice research, including pix2pix, CycleGAN, UGATIT, DCGAN, SinGAN, ALAE, mGANprior, StarGAN-v2 and VAE models (TensorFlow2 implementation). DeepNude的算法以及通用生成对抗网络GAN图像生成的理论与实践研究。
 - [DG-Net](https://github.com/NVlabs/DG-Net) - CVPR2019 Joint Discriminative and Generative Learning for Person Re-identification
 - [open-deepnude](https://github.com/open-deepnude/open-deepnude) - Open source reverse-engineered clone of DeepNude
 - [bookshelf](https://github.com/dry-python/bookshelf) - Code examples to learn dry-python with Django at the project scale.
