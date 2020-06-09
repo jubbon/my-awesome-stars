@@ -61,7 +61,6 @@
   - [OpenEdge ABL](#openedge-abl)
   - [Others](#others)
   - [PHP](#php)
-  - [PLpgSQL](#plpgsql)
   - [Perl](#perl)
   - [Pony](#pony)
   - [PostScript](#postscript)
@@ -80,6 +79,7 @@
   - [Roff](#roff)
   - [Ruby](#ruby)
   - [Rust](#rust)
+  - [SQLPL](#sqlpl)
   - [Scala](#scala)
   - [Scheme](#scheme)
   - [Shell](#shell)
@@ -472,7 +472,7 @@
 - [s3fs-fuse](https://github.com/s3fs-fuse/s3fs-fuse) - FUSE-based file system backed by Amazon S3
 - [TurboTransformers](https://github.com/Tencent/TurboTransformers) - a fast and user-friendly runtime for transformer inference on CPU and GPU
 - [mindspore](https://github.com/mindspore-ai/mindspore) - MindSpore is a new open source deep learning training/inference framework that could be used for mobile, edge and cloud scenarios.
-- [TRTorch](https://github.com/NVIDIA/TRTorch) - Ahead-of-time compilation of TorchScript / PyTorch JIT for NVIDIA GPUs
+- [TRTorch](https://github.com/NVIDIA/TRTorch) - PyTorch/TorchScript compiler for NVIDIA GPUs
 - [benchmark](https://github.com/google/benchmark) - A microbenchmark support library
 - [vosk-api](https://github.com/alphacep/vosk-api) - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
 - [rpcs3](https://github.com/RPCS3/rpcs3) - PS3 emulator/debugger
@@ -1002,7 +1002,6 @@
 - [azuredevopslabs](https://github.com/microsoft/azuredevopslabs) - Learn how you can plan smartly, collaborate better, and ship faster with a set of modern development services with Azure DevOps.
 - [pro-sidebar-template](https://github.com/azouaoui-med/pro-sidebar-template) - Responsive sidebar template based on bootstrap
 - [docs.influxdata.com](https://github.com/influxdata/docs.influxdata.com) - 1.x docs for InfluxData
-- [weui.js](https://github.com/Tencent/weui.js) - A lightweight javascript library for WeUI.
 - [plt](https://github.com/steshaw/plt) - λΠ Programming Language Theory
 - [Open-Source-Programs](https://github.com/tapaswenipathak/Open-Source-Programs) - A list of open source programs.
 - [gams-in-r-course](https://github.com/noamross/gams-in-r-course) - Generalized Additive Models in R: A Free Interactive Course
@@ -2146,12 +2145,12 @@
 - [habitus](https://github.com/cloud66-oss/habitus) - A build flow tool for Docker.
 - [armor](https://github.com/labstack/armor) - Uncomplicated, modern HTTP server
 - [vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container Image, Running Container, WordPress, Programming language libraries, Network devices
-- [teleport](https://github.com/gravitational/teleport) - Zero Trust Access to Infrastructure and Applications
+- [teleport](https://github.com/gravitational/teleport) - Secure Access for Developers that doesn't get in the way.
 - [gallium](https://github.com/alexflint/gallium) - Build desktop applications in Go and HTML.
 - [eliasdb](https://github.com/krotik/eliasdb) - EliasDB is a graph-based database.
 - [httpstat](https://github.com/davecheney/httpstat) - It's like curl -v, with colours.
 - [influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
-- [minio](https://github.com/minio/minio) - MinIO is a high performance object storage server compatible with Amazon S3 APIs
+- [minio](https://github.com/minio/minio) - High Performance, Kubernetes Native Object Storage
 - [rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files
 - [open-lambda](https://github.com/open-lambda/open-lambda) - An open source serverless computing platform
 - [kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
@@ -2285,7 +2284,6 @@
 - [ml-workshop-2-of-4](https://github.com/amueller/ml-workshop-2-of-4) - Intermediate Machine Learning with Scikit-learn, 4h interactive workshop
 - [My-Learning-Tracker](https://github.com/Syknapse/My-Learning-Tracker) - Keeping track of my web development skills and learning in one place along with resources, highlights, interests, and everything to do with my learning.
 - [ml-workshop-4-of-4](https://github.com/amueller/ml-workshop-4-of-4) - Advanced Machine Learning with Scikit-learn part II
-- [nataliemarleny.github.io](https://github.com/nataliemarleny/nataliemarleny.github.io) - A GitHubbified Resume using Primer CSS, a d3.js customised heatmap and illustrated with Figma
 - [devops-essentials-sample-app](https://github.com/linuxacademy/devops-essentials-sample-app) - 
 - [ctf-wiki](https://github.com/ctf-wiki/ctf-wiki) - CTF Wiki Online. Come and join us, we need you!
 - [openweb](https://github.com/good/openweb) - 
@@ -2583,7 +2581,6 @@
 - [microsoft.github.io](https://github.com/microsoft/microsoft.github.io) - Microsoft on GitHub
 - [sectalks](https://github.com/sectalks/sectalks) - CTFs, solutions and presentations
 - [Self-Driving-Car](https://github.com/RyanZotti/Self-Driving-Car) - 
-- [noto-source](https://github.com/googlefonts/noto-source) - 
 - [Azure-TDSP-Utilities](https://github.com/Azure/Azure-TDSP-Utilities) - Utilities and scripts  developed as part of Microsoft's Team Data Science Process for productive data science
 - [ai-on.org](https://github.com/AI-ON/ai-on.org) - AI•ON projects repository and website source.
 - [retread](https://github.com/ryanfox/retread) - Detect reused frames in video
@@ -2974,6 +2971,7 @@
 - [swagger-ui](https://github.com/swagger-api/swagger-ui) - Swagger UI is a collection of HTML, Javascript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
 - [gridstudio](https://github.com/ricklamers/gridstudio) - Grid studio is a web-based application for data science with full integration of open source data science frameworks and languages.
 - [js-stack-from-scratch](https://github.com/UsulPro/js-stack-from-scratch) - 🌺 Russian translation of "JavaScript Stack from Scratch" from the React-Theming developers https://github.com/sm-react/react-theming
+- [weui.js](https://github.com/Tencent/weui.js) - A lightweight javascript library for WeUI.
 - [outline](https://github.com/outline/outline) - The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, and markdown compatible.
 - [serverless-image-handler](https://github.com/awslabs/serverless-image-handler) - A solution to dynamically handle images on the fly, utilizing SharpJS
 - [pomelo](https://github.com/NetEase/pomelo) - A fast,scalable,distributed game server framework for Node.js.
@@ -4712,7 +4710,6 @@
 - [spark-syntax](https://github.com/ericxiao251/spark-syntax) - This is a repo documenting the best practices in PySpark.
 - [stylegan-encoder](https://github.com/Puzer/stylegan-encoder) - StyleGAN Encoder - converts real images to latent space
 - [Mask_RCNN](https://github.com/karolmajek/Mask_RCNN) - Mask R-CNN for object detection and instance segmentation on Keras and TensorFlow
-- [nuscenes-devkit](https://github.com/nutonomy/nuscenes-devkit) - The devkit of the nuScenes dataset.
 - [bag-of-local-features-models](https://github.com/wielandbrendel/bag-of-local-features-models) - Pretrained bag-of-local-features neural networks
 - [stat479-deep-learning-ss19](https://github.com/rasbt/stat479-deep-learning-ss19) - Course material for STAT 479: Deep Learning (SS 2019) at University Wisconsin-Madison
 - [Kaggle_Earthquake_challenge](https://github.com/llSourcell/Kaggle_Earthquake_challenge) - This is the code for the Kaggle Earthquake Challenge by Siraj Raval on Youtube
@@ -6429,6 +6426,7 @@
 - [css-architecture](https://github.com/jareware/css-architecture) - 8 simple rules for a robust, scalable CSS architecture
 - [open-source-ideas](https://github.com/open-source-ideas/open-source-ideas) - 💡Ever had a cool idea for an Open Source project but didn't have the time to implement it yourself? Let someone else give it a try!
 - [awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
+- [noto-source](https://github.com/googlefonts/noto-source) - 
 - [noto-fonts](https://github.com/googlefonts/noto-fonts) - Noto fonts, except for CJK and emoji
 - [awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - 😱 Falsehoods Programmers Believe in
 - [Blockchain-stuff](https://github.com/Xel/Blockchain-stuff) - Blockchain and Crytocurrency Resources
@@ -6703,10 +6701,6 @@
 - [Nominatim](https://github.com/osm-search/Nominatim) - Open Source search based on OpenStreetMap data
 - [notejam](https://github.com/komarserjio/notejam) - Unified sample web app. The easy way to learn web frameworks.
 - [mdash](https://github.com/emuravjev/mdash) - Muravjev Typograph
-
-## PLpgSQL 
-
-- [openmaptiles](https://github.com/openmaptiles/openmaptiles) - OpenMapTiles Vector Tile Schema Implementation
 
 ## Perl 
 
@@ -7567,6 +7561,7 @@
 - [vocabs](https://github.com/Mckinsey666/vocabs) - 📚 A lightweight online dictionary integration to the command line. No browsers. No paperbacks.
 - [second.pytorch](https://github.com/traveller59/second.pytorch) - SECOND for KITTI/NuScenes object detection
 - [second.pytorch](https://github.com/nutonomy/second.pytorch) - PointPillars for KITTI object detection
+- [nuscenes-devkit](https://github.com/nutonomy/nuscenes-devkit) - The devkit of the nuScenes dataset.
 - [huskarl](https://github.com/danaugrs/huskarl) - Deep Reinforcement Learning Framework + Algorithms
 - [Tensorflow-Cookbook](https://github.com/taki0112/Tensorflow-Cookbook) - Simple Tensorflow Cookbook for easy-to-use
 - [planet](https://github.com/google-research/planet) - Learning Latent Dynamics for Planning from Pixels
@@ -12649,6 +12644,10 @@
 - [stacks-blockchain](https://github.com/blockstack/stacks-blockchain) - The Stacks 2.0 blockchain implementation
 - [vagga](https://github.com/tailhook/vagga) - Vagga is a containerization tool without daemons
 
+## SQLPL 
+
+- [openmaptiles](https://github.com/openmaptiles/openmaptiles) - OpenMapTiles Vector Tile Schema Implementation
+
 ## Scala 
 
 - [mleap](https://github.com/combust/mleap) - MLeap: Deploy Spark Pipelines to Production
@@ -12836,7 +12835,7 @@
 - [dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [metamon](https://github.com/tryolabs/metamon) - Collection of Ansible playbooks to quickly start your Django Application
 - [rapid.py](https://github.com/delacruz-dev/rapid.py) - A template built on python and bootstrap for rapid prototyping
-- [autoenv](https://github.com/inishchith/autoenv) - Directory-based environments. [ Originally owned by @ken-reitz]
+- [autoenv](https://github.com/inishchith/autoenv) - Directory-based environments. [Originally owned by @ken-reitz]
 - [tmuxifier](https://github.com/jimeh/tmuxifier) - Tmuxify your Tmux. Powerful session, window & pane management for Tmux.
 - [openvpn-install](https://github.com/Nyr/openvpn-install) - OpenVPN road warrior installer for Ubuntu, Debian, CentOS and Fedora
 - [baseimage-docker](https://github.com/phusion/baseimage-docker) - A minimal Ubuntu base image modified for Docker-friendliness
