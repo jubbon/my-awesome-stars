@@ -472,7 +472,7 @@
 - [s3fs-fuse](https://github.com/s3fs-fuse/s3fs-fuse) - FUSE-based file system backed by Amazon S3
 - [TurboTransformers](https://github.com/Tencent/TurboTransformers) - a fast and user-friendly runtime for transformer inference on CPU and GPU
 - [mindspore](https://github.com/mindspore-ai/mindspore) - MindSpore is a new open source deep learning training/inference framework that could be used for mobile, edge and cloud scenarios.
-- [TRTorch](https://github.com/NVIDIA/TRTorch) - PyTorch/TorchScript compiler for NVIDIA GPUs
+- [TRTorch](https://github.com/NVIDIA/TRTorch) - PyTorch/TorchScript compiler for NVIDIA GPUs using TensorRT
 - [benchmark](https://github.com/google/benchmark) - A microbenchmark support library
 - [vosk-api](https://github.com/alphacep/vosk-api) - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
 - [rpcs3](https://github.com/RPCS3/rpcs3) - PS3 emulator/debugger
@@ -714,7 +714,7 @@
 - [TileDB](https://github.com/TileDB-Inc/TileDB) - The Storage Engine for Data Science
 - [leela-zero](https://github.com/leela-zero/leela-zero) - Go engine with no human-provided knowledge, modeled after the AlphaGo Zero paper.
 - [Beginning-Cpp-Game-Programming](https://github.com/PacktPublishing/Beginning-Cpp-Game-Programming) - 
-- [pegasus](https://github.com/XiaoMi/pegasus) - (ˈpɛɡəsəs) A distributed key-value storage system developed and maintained by Xiaomi Cloud Storage Team.
+- [pegasus](https://github.com/XiaoMi/pegasus) - ['pɛgəsəs] A distributed key-value storage system developed and maintained by Xiaomi Cloud Storage Team.
 - [plaidml](https://github.com/plaidml/plaidml) - PlaidML is a framework for making deep learning work everywhere.
 - [EdgeML](https://github.com/microsoft/EdgeML) - This repository provides code for machine learning algorithms for edge devices developed at Microsoft Research India.
 - [cosmos](https://github.com/OpenGenus/cosmos) - Algorithms that run our universe | Your personal library of every algorithm and data structure code that you will ever encounter | Ask us anything at our forum |
@@ -996,7 +996,6 @@
 - [css.gg](https://github.com/astrit/css.gg) - 700+ Pure CSS, SVG & Figma UI Icons Available in SVG Sprite, styled-components, NPM & API
 - [simplefolio](https://github.com/cobidev/simplefolio) - ⚡️ A minimal portfolio template for Developers
 - [LearnCS8-Resume](https://github.com/JordanSchuetz/LearnCS8-Resume) - Resume template website for the LearnCS8 Lab 4
-- [docs](https://github.com/RocketChat/docs) - The Rocket.Chat server, desktop, mobile, user, admin & developer documentation.
 - [Autoradar](https://github.com/gadson/Autoradar) - 
 - [personal-management-system](https://github.com/Volmarg/personal-management-system) - Your web application for managing personal data.
 - [azuredevopslabs](https://github.com/microsoft/azuredevopslabs) - Learn how you can plan smartly, collaborate better, and ship faster with a set of modern development services with Azure DevOps.
@@ -1686,7 +1685,7 @@
 - [server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
 - [gorouter](https://github.com/xujiajun/gorouter) - xujiajun/gorouter is a simple and fast HTTP router for Go. It is easy to build RESTful APIs and your web framework.
 - [stellar](https://github.com/ehazlett/stellar) - Simplified Container System
-- [gravity](https://github.com/gravitational/gravity) - Application deployments for restricted, regulated or remote environments.
+- [gravity](https://github.com/gravitational/gravity) - Kubernetes application deployments for restricted, regulated or remote environments.
 - [weave](https://github.com/iov-one/weave) - Easy-to-use SDK to build Tendermint ABCI applications
 - [gophish](https://github.com/gophish/gophish) - Open-Source Phishing Toolkit
 - [dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
@@ -6484,7 +6483,7 @@
 - [awesome-bitcoin](https://github.com/igorbarinov/awesome-bitcoin) - A curated list of bitcoin services and tools for software developers
 - [awesome-speaking](https://github.com/matteofigus/awesome-speaking) - Resources about public speaking
 - [awesome-rethinkdb](https://github.com/d3viant0ne/awesome-rethinkdb) - A curated list of awesome RethinkDB resources, libraries, tools and applications
-- [awesome-software-quality](https://github.com/ligurio/awesome-software-quality) - List of free software testing and verification resources
+- [awesome-software-quality](https://github.com/ligurio/awesome-software-quality) - Software Quality Wiki
 - [awesome-hyper](https://github.com/bnb/awesome-hyper) - 🖥 Delightful Hyper plugins, themes, and resources
 - [dl_tutorials](https://github.com/sjchoi86/dl_tutorials) - Deep learning tutorials (2nd ed.)
 - [awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
@@ -6905,7 +6904,7 @@
 - [SPFlow](https://github.com/SPFlow/SPFlow) - Sum Product Flow: An Easy and Extensible Library for Sum-Product Networks
 - [leela-zero-pytorch](https://github.com/yukw777/leela-zero-pytorch) - A simple PyTorch + PyTorch Lightning training pipeline for Leela Zero
 - [PALM](https://github.com/PaddlePaddle/PALM) - a Fast, Flexible, Extensible and Easy-to-use NLP Large-scale Pretraining and Multi-task Learning Framework.
-- [ernie](https://github.com/brunneis/ernie) - Simple State-of-the-Art BERT-Based Sentence Classification with Keras / TensorFlow 2. Built with HuggingFace's Transformers.
+- [ernie](https://github.com/labteral/ernie) - Simple State-of-the-Art BERT-Based Sentence Classification with Keras / TensorFlow 2. Built with HuggingFace's Transformers.
 - [Bert-Multi-Label-Text-Classification](https://github.com/lonePatient/Bert-Multi-Label-Text-Classification) - This repo contains a PyTorch implementation of a pretrained BERT model for multi-label text classification.
 - [Complex-YOLO](https://github.com/AI-liu/Complex-YOLO) - Complex-YOLO: Real-time 3D Object Detection on Point Clouds   pytorch  Darknet
 - [Pytorch_Mask_RCNN](https://github.com/soeaver/Pytorch_Mask_RCNN) - Converted from [tf+keras version MASK-RCNN](https://github.com/matterport/Mask_RCNN)
@@ -8111,7 +8110,7 @@
 - [chirp](https://github.com/9b/chirp) - Interface to manage and centralize Google Alert information
 - [Crunch](https://github.com/chrissimpkins/Crunch) - Insane(ly slow but wicked good) PNG image optimization
 - [edgedb](https://github.com/edgedb/edgedb) - The next generation relational database.
-- [data-integration](https://github.com/mara/data-integration) - A lightweight opinionated ETL framework, halfway between plain scripts and Apache Airflow
+- [mara-pipelines](https://github.com/mara/mara-pipelines) - A lightweight opinionated ETL framework, halfway between plain scripts and Apache Airflow
 - [Learning-to-See-in-the-Dark](https://github.com/cchen156/Learning-to-See-in-the-Dark) - Learning to See in the Dark. CVPR 2018
 - [youCanCodeAGif](https://github.com/1-Sisyphe/youCanCodeAGif) - Can you make an High Quality Gif from A to Z only by coding? Yes. Do you want to, though?
 - [easy-tensorflow](https://github.com/easy-tensorflow/easy-tensorflow) - Simple and comprehensive tutorials in TensorFlow
@@ -9943,7 +9942,7 @@
 - [tableschema-pandas-py](https://github.com/frictionlessdata/tableschema-pandas-py) - Generate Pandas frames, load and extract data, based on JSON Table Schema descriptors.
 - [Open-Browser](https://github.com/EricsonWillians/Open-Browser) - A web browser designed to be open, minimal and fast.
 - [DockerDjangoRest](https://github.com/SykoTheKiD/DockerDjangoRest) - A Docker setup for a Django REST API with Travis CI support
-- [Stegano](https://github.com/cedricbonhomme/Stegano) - Stegano is a pure Python steganography module.
+- [Stegano](https://github.com/cedricbonhomme/Stegano) - A pure Python steganography module.
 - [ankle](https://github.com/despawnerer/ankle) - Find elements in HTML by matching them with a skeleton
 - [flask-ask](https://github.com/johnwheeler/flask-ask) - Alexa Skills Kit for Python
 - [stack](https://github.com/RyanKung/stack) - The Python Tool stack (unstable)
@@ -12539,6 +12538,7 @@
 
 - [data-science-interviews](https://github.com/alexeygrigorev/data-science-interviews) - Data science interview questions and answers
 - [air_hockey_quine](https://github.com/tompng/air_hockey_quine) - Network Battle Air Hockey Quine
+- [docs](https://github.com/RocketChat/docs) - The Rocket.Chat server, desktop, mobile, user, admin & developer documentation.
 - [ciao](https://github.com/brotandgames/ciao) - HTTP checks & tests (private & public) monitoring - check the status of your URL
 - [endoflife.date](https://github.com/endoflife-date/endoflife.date) - Informative site with EoL dates of everything
 - [0.30000000000000004](https://github.com/erikwiffin/0.30000000000000004) - Floating Point Math Examples
@@ -12812,7 +12812,7 @@
 - [ansible-role-miniconda](https://github.com/nicholsn/ansible-role-miniconda) - Ansilbe role to install the anaconda python distribution
 - [ansible-supervisord](https://github.com/zenoamaro/ansible-supervisord) - An Ansible role for deploying and configuring Supervisor on unix hosts.
 - [juicebox](https://github.com/jpadilla/juicebox) - A virtual machine designed for programming workshops.
-- [tldr](https://github.com/tldr-pages/tldr) - 📚 Simplified and community-driven man pages
+- [tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [bash-git-prompt](https://github.com/magicmonty/bash-git-prompt) - An informative and fancy bash prompt for Git users
 - [git-extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
 - [vpn-deploy-playbook](https://github.com/ftao/vpn-deploy-playbook) - A Collection of Ansible Playbook for deploy vpn services
@@ -13013,7 +13013,7 @@
 - [draco](https://github.com/uwdata/draco) - Visualization Constraints and Weight Learning
 - [rete](https://github.com/retejs/rete) - JavaScript framework for visual programming and creating node editor
 - [phenomenon](https://github.com/vaneenige/phenomenon) - ⚡️ A fast 2kB low-level WebGL API.
-- [bit](https://github.com/teambit/bit) - A tool to develop, distribute and manage modern components.
+- [bit](https://github.com/teambit/bit) - Build, distribute and collaborate on components.
 - [face-api.js](https://github.com/justadudewhohacks/face-api.js) - JavaScript API for face detection and face recognition in the browser and nodejs with tensorflow.js
 - [xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
 - [probot](https://github.com/probot/probot) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
@@ -13212,7 +13212,7 @@
 - [factor](https://github.com/fiction-com/factor) - The JavaScript CMS Platform
 - [massCode](https://github.com/antonreshetov/massCode) - A free and open source code snippets manager for developers.
 - [vue-ctk-date-time-picker](https://github.com/chronotruck/vue-ctk-date-time-picker) - VueJS component to select dates & time, including a range mode
-- [postwoman](https://github.com/liyasthomas/postwoman) - 👽 A free, fast and beautiful API request builder (web alternative to Postman) https://postwoman.io
+- [postwoman](https://github.com/liyasthomas/postwoman) - 👽 A free, fast and beautiful API request builder used by 60k+ developers (web alternative to Postman) https://postwoman.io
 - [Scriptis](https://github.com/WeBankFinTech/Scriptis) - Scriptis is for interactive data analysis with script development(SQL, Pyspark, HiveQL), task submission(Spark, Hive), UDF, function, resource management and intelligent diagnosis.
 - [Scout](https://github.com/tevora-threat/Scout) - Surveillance Detection Scout: Your Lookout on Autopilot
 - [DynamoDb-GUI-Client](https://github.com/Arattian/DynamoDb-GUI-Client) - DynamoDb GUI Client
