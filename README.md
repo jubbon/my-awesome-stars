@@ -452,6 +452,7 @@
 - [ailab](https://github.com/microsoft/ailab) - Experience, Learn and Code the latest breakthrough innovations with Microsoft AI
 - [DRL_based_SelfDrivingCarControl](https://github.com/MLJejuCamp2017/DRL_based_SelfDrivingCarControl) - Deep Reinforcement Learning (DQN) based Self Driving Car Control with Vehicle Simulator
 - [blockchain](https://github.com/dvf/blockchain) - A simple Blockchain in Python
+- [ml-agents](https://github.com/Unity-Technologies/ml-agents) - Unity Machine Learning Agents Toolkit
 - [sqlnotebook](https://github.com/electroly/sqlnotebook) - Tabular data exploration and manipulation tool powered by SQLite.
 - [TensorFlowSharp](https://github.com/migueldeicaza/TensorFlowSharp) - TensorFlow API for .NET languages
 - [electrino](https://github.com/pojala/electrino) - Desktop runtime for apps built on web technologies, using the system's own web browser engine
@@ -1646,7 +1647,7 @@
 - [pipe-to-me](https://github.com/jpschroeder/pipe-to-me) - Stream data over http using curl.
 - [kraken](https://github.com/uber/kraken) - P2P Docker registry capable of distributing TBs of data in seconds
 - [astro](https://github.com/uber/astro) - Astro is a tool for managing multiple Terraform executions as a single command
-- [cortex](https://github.com/cortexlabs/cortex) - Machine learning model serving infrastructure
+- [cortex](https://github.com/cortexlabs/cortex) - Build machine learning APIs
 - [cds](https://github.com/ovh/cds) - Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform
 - [k3s](https://github.com/rancher/k3s) - Lightweight Kubernetes
 - [docui](https://github.com/skanehira/docui) - TUI Client for Docker
@@ -2320,7 +2321,6 @@
 - [frontend-tech-list](https://github.com/alienzhou/frontend-tech-list) - 📝 Frontend Tech List for Developers 💡
 - [deep-rules](https://github.com/Benjamin-Lee/deep-rules) - Ten Quick Tips for Deep Learning in Biology
 - [programming-principles](https://github.com/webpro/programming-principles) - Categorized overview of Programming Principles & Patterns
-- [change-password-url](https://github.com/WICG/change-password-url) - A Well-Known URL for Changing Passwords
 - [quicklink](https://github.com/GoogleChromeLabs/quicklink) - ⚡️Faster subsequent page-loads by prefetching in-viewport links during idle time
 - [excalibur](https://github.com/camelot-dev/excalibur) - A web interface to extract tabular data from PDFs
 - [http2priorities](https://github.com/pmeenan/http2priorities) - Test Page for HTTP/2 prioritization (server and browser)
@@ -2566,7 +2566,6 @@
 - [CoPilot](https://github.com/misterGF/CoPilot) - Responsive Bootstrap 3 Admin Template based on AdminLTE with vue.js
 - [talktalktalk](https://github.com/josephernest/talktalktalk) - TalkTalkTalk is an easy-installable small chat room, with chat history.
 - [gun-starter-app](https://github.com/gundb/gun-starter-app) - Framework agnostic starter code for gun apps
-- [Winds](https://github.com/GetStream/Winds) - A Beautiful Open Source RSS & Podcast App Powered by Getstream.io
 - [getting_started_with_webrtc](https://github.com/buildar/getting_started_with_webrtc) - Example code to help you get started creating WebRTC applications
 - [epoch](https://github.com/epochjs/epoch) - A general purpose, real-time visualization library.
 - [datasciencectacontent](https://github.com/lgreski/datasciencectacontent) - repository for Community Mentor content related to the Johns Hopkins University Data Science Specialization on Coursera
@@ -3918,6 +3917,7 @@
 - [whs.js](https://github.com/WhitestormJS/whs.js) - :rocket: 🌪 Super-fast 3D framework for Web Applications 🥇 & Games 🎮. Based on Three.js
 - [DjangoX](https://github.com/JoneXiong/DjangoX) - A web GUI suite for Django ORM data or API data management
 - [deck.gl](https://github.com/visgl/deck.gl) - WebGL2 powered geospatial visualization layers
+- [Winds](https://github.com/GetStream/Winds) - A Beautiful Open Source RSS & Podcast App Powered by Getstream.io
 - [FlappyLearning](https://github.com/xviniette/FlappyLearning) - Program learning to play Flappy Bird by machine learning (Neuroevolution)
 - [RTCMultiConnection](https://github.com/muaz-khan/RTCMultiConnection) - RTCMultiConnection is a WebRTC JavaScript library for peer-to-peer applications (screen sharing, audio/video conferencing, file sharing, media streaming etc.)
 - [peerjs-audio-chat](https://github.com/nwah/peerjs-audio-chat) - WebRTC / PeerJS audio chat demo
@@ -5685,6 +5685,7 @@
 ## Makefile 
 
 - [docker-serverless](https://github.com/amaysim-au/docker-serverless) - Docker image containing NodeJS, Serverless Framework and Yarn.
+- [change-password-url](https://github.com/WICG/change-password-url) - A Well-Known URL for Changing Passwords
 - [graphpipe](https://github.com/oracle/graphpipe) - Machine Learning Model Deployment Made Simple
 - [jupyter-docker-stacks](https://github.com/gifford-lab/jupyter-docker-stacks) - Opinionated stacks of ready-to-run Jupyter applications in Docker.  Forked to add GPU capabilities.
 - [full-speed-python](https://github.com/joaoventura/full-speed-python) - Full Speed Python: a book for self-learners
@@ -7594,7 +7595,7 @@
 - [sudoku](https://github.com/MorvanZhou/sudoku) - A simple Sudoku generator and solver. 数独生成器和解题器
 - [dead](https://github.com/asottile/dead) - dead simple python dead code detection
 - [LambdaToS3](https://github.com/OlleLinderos/LambdaToS3) - Read and write to S3 with AWS Lambda
-- [weekplot](https://github.com/utkuufuk/weekplot) - :calendar: Visualize your weekly schedule.
+- [weekplot](https://github.com/utkuufuk/weekplot) - Visualize your weekly schedule.
 - [unsupervised_extract_detect_words](https://github.com/zheng5yu9/unsupervised_extract_detect_words) - multiprocess unsupervised  chinese_detect_words  ngram_combination
 - [Tacotron-Wavenet-Vocoder-Korean](https://github.com/hccho2/Tacotron-Wavenet-Vocoder-Korean) - Tacotron, Korean, Wavenet-Vocoder, Korean TTS
 - [educational_python_scripts](https://github.com/jadijadi/educational_python_scripts) - Some small sctipts I use while teaching python
@@ -8751,7 +8752,6 @@
 - [fairseq](https://github.com/pytorch/fairseq) - Facebook AI Research Sequence-to-Sequence Toolkit written in Python.
 - [weibospider](https://github.com/SpiderClub/weibospider) - :zap: A distributed crawler for weibo, building with celery and requests.
 - [SerpentAI](https://github.com/SerpentAI/SerpentAI) - Game Agent Framework. Helping you create AIs / Bots that learn to play any game you own!
-- [ml-agents](https://github.com/Unity-Technologies/ml-agents) - Unity Machine Learning Agents Toolkit
 - [onnx-caffe2](https://github.com/onnx/onnx-caffe2) - Caffe2 implementation of Open Neural Network Exchange (ONNX)
 - [fa2l](https://github.com/bosiakov/fa2l) - Force Atlas 2 graph layout
 - [studio](https://github.com/studioml/studio) - Studio: Simplify and expedite model building process
