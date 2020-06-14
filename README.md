@@ -527,7 +527,7 @@
 - [youtube](https://github.com/Errichto/youtube) - codes for my streams and YT videos
 - [OpenSceneGraph](https://github.com/openscenegraph/OpenSceneGraph) - OpenSceneGraph git repository
 - [srs](https://github.com/ossrs/srs) - SRS is a RTMP/HLS/WebRTC/SRT/GB28181 streaming cluster, high efficiency, stable and simple.
-- [LearnOpenGL](https://github.com/JoeyDeVries/LearnOpenGL) - Code repository of all OpenGL tutorials found at https://learnopengl.com
+- [LearnOpenGL](https://github.com/JoeyDeVries/LearnOpenGL) - Code repository of all OpenGL chapters from the book and its accompanying website https://learnopengl.com
 - [graphit](https://github.com/GraphIt-DSL/graphit) - GraphIt - A High-Performance Domain Specific Language for Graph Analytics
 - [milvus](https://github.com/milvus-io/milvus) - An open source vector similarity search engine
 - [mvfst-rl](https://github.com/facebookresearch/mvfst-rl) - An asynchronous RL platform for congestion control in QUIC transport protocol. https://arxiv.org/abs/1910.04054.
@@ -1087,7 +1087,7 @@
 - [codeheat.org](https://github.com/fossasia/codeheat.org) - Codeheat Coding Contest Website https://codeheat.org
 - [lit](https://github.com/ajusa/lit) - World's smallest responsive 🔥 css framework (395 bytes)
 - [SocialFish](https://github.com/UndeadSec/SocialFish) - Automated Phishing Tool & Information Collector
-- [epoch](https://github.com/dinkbit/epoch) - 
+- [epoch](https://github.com/dinkbit/epoch) - A simple but powerful Epoch converter
 - [micron](https://github.com/webkul/micron) - a [μ] microInteraction library built with CSS Animations and controlled by JavaScript Power
 - [hacker101](https://github.com/Hacker0x01/hacker101) - Source code for Hacker101.com - a free online web and mobile security class.
 - [CrookedStyleSheets](https://github.com/jbtronics/CrookedStyleSheets) - Webpage tracking only using CSS (and no JS)
@@ -1113,7 +1113,6 @@
 - [Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books) - :books: Books that will blow your mind
 - [dist-prog-book](https://github.com/heathermiller/dist-prog-book) - 
 - [handong1587.github.io](https://github.com/handong1587/handong1587.github.io) - 
-- [essential-image-optimization](https://github.com/GoogleChrome/essential-image-optimization) - Essential Image Optimization - an eBook
 - [cobalt2-vscode](https://github.com/wesbos/cobalt2-vscode) - Cobalt2 Theme for VS Code
 - [guides](https://github.com/emberjs/guides) - This repository is DEPRECATED!
 - [vali-admin](https://github.com/pratikborsadiya/vali-admin) - Free Bootstrap 4 admin/dashboard template
@@ -3840,7 +3839,6 @@
 - [vue-custom-element](https://github.com/karol-f/vue-custom-element) - Vue Custom Element - Web Components' Custom Elements for Vue.js
 - [nunuStudio](https://github.com/tentone/nunuStudio) - Web powered cross-platform 3D, WebXR game engine.
 - [d3-annotation](https://github.com/susielu/d3-annotation) - Use d3-annotation with built-in annotation types, or extend it to make custom annotations. It is made for d3-v4 in SVG.
-- [Caporal.js](https://github.com/mattallty/Caporal.js) - A full-featured framework for building command line applications (cli) with node.js
 - [geojson-google-maps](https://github.com/JasonSanford/geojson-google-maps) - A simple utility to convert GeoJSON objects to Google Maps vector objects (Marker, Polyline, Polygon)
 - [neurojs](https://github.com/janhuenermann/neurojs) - A JavaScript deep learning and reinforcement learning library.
 - [ipytracer](https://github.com/hahnlee/ipytracer) - :bar_chart: Algorithm Visualizer for IPython/Jupyter Notebook
@@ -5133,7 +5131,7 @@
 - [facets](https://github.com/PAIR-code/facets) - Visualizations for machine learning datasets
 - [mxnet-the-straight-dope](https://github.com/zackchase/mxnet-the-straight-dope) - An interactive book on deep learning. Much easy, so MXNet. Wow. [Straight Dope is growing up] ---&gt; Much of this content has been incorporated into the new Dive into Deep Learning Book available at https://d2l.ai/.
 - [tensorflow-nlp](https://github.com/zhedongzheng/tensorflow-nlp) - Building blocks for NLP and Text Generation in TensorFlow 2.x / 1.x
-- [quilt](https://github.com/quiltdata/quilt) - Quilt is a versioned data portal for blob storage
+- [quilt](https://github.com/quiltdata/quilt) - Quilt is a versioned data portal for S3
 - [InferSent](https://github.com/facebookresearch/InferSent) - InferSent sentence embeddings
 - [analyze-citymobil](https://github.com/kuk/analyze-citymobil) - 
 - [saliency](https://github.com/PAIR-code/saliency) - TensorFlow implementation for SmoothGrad, Grad-CAM, Guided backprop, Integrated Gradients and other saliency techniques
@@ -7853,7 +7851,7 @@
 - [Hash-Buster](https://github.com/s0md3v/Hash-Buster) - Crack hashes in seconds.
 - [Semantic-Segmentation-Suite](https://github.com/GeorgeSeif/Semantic-Segmentation-Suite) - Semantic Segmentation Suite in TensorFlow. Implement, train, and test new Semantic Segmentation models easily!
 - [pytheory](https://github.com/Zelgius/pytheory) - Music Theory for Humans.
-- [mmdetection](https://github.com/open-mmlab/mmdetection) - Open MMLab Detection Toolbox and Benchmark
+- [mmdetection](https://github.com/open-mmlab/mmdetection) - OpenMMLab Detection Toolbox and Benchmark
 - [AIF360](https://github.com/IBM/AIF360) - A comprehensive set of fairness metrics for datasets and machine learning models, explanations for these metrics, and algorithms to mitigate bias in datasets and models.
 - [DANet](https://github.com/junfu1115/DANet) - Dual Attention Network for Scene Segmentation (CVPR2019)
 - [openTSNE](https://github.com/pavlin-policar/openTSNE) - Extensible, parallel implementations of t-SNE
@@ -9538,7 +9536,7 @@
 - [fTerm](https://github.com/fTerm/fTerm) - The Bourne Again Shell, but for Humans.
 - [fast-weights](https://github.com/jiamings/fast-weights) - Implementation of the paper [Using Fast Weights to Attend to the Recent Past](https://arxiv.org/abs/1610.06258)
 - [saleor](https://github.com/mirumee/saleor) - A modular, high performance, headless e-commerce storefront built with Python, GraphQL, Django, and ReactJS.
-- [painters](https://github.com/inejc/painters) - :art: Winning solution for the Painter by Numbers competition on Kaggle
+- [painters](https://github.com/inejc/painters) - :art: Winning solution for the Painter by Numbers competition on Kaggle.
 - [pywren](https://github.com/pywren/pywren) - Teraflops and microservices
 - [nathan](https://github.com/mseclab/nathan) - Android Emulator for mobile security testing
 - [dynet_tutorial_examples](https://github.com/clab/dynet_tutorial_examples) - Tutorial on "Practical Neural Networks for NLP: From Theory to Code" at EMNLP 2016
@@ -10735,7 +10733,7 @@
 - [tredify](https://github.com/gsalvatori/tredify) - A Python framework to plot 2D and 3D structures from JSON data.
 - [multinetx](https://github.com/nkoub/multinetx) - multiNetX is a python package for the manipulation and visualization of multilayer networks. It is build on NetworkX
 - [ufora](https://github.com/ufora/ufora) - Compiled, automatically parallel Python for data science
-- [pipdeptree](https://github.com/naiquevin/pipdeptree) - A command line utility to display dependency tree of the installed Python packages [v2beta branch with lot of fixes is now _usable_ and soon to be merged in master]
+- [pipdeptree](https://github.com/naiquevin/pipdeptree) - A command line utility to display dependency tree of the installed Python packages
 - [summrizer](https://github.com/vipul-sharma20/summrizer) - A script to get summary of text content
 - [paasta](https://github.com/Yelp/paasta) - An open, distributed platform as a service
 - [dateparser](https://github.com/scrapinghub/dateparser) - python parser for human readable dates
@@ -13105,6 +13103,7 @@
 - [electron-forge](https://github.com/electron-userland/electron-forge) - A complete tool for creating, publishing, and installing modern Electron applications
 - [vscodeJupyter](https://github.com/DonJayamanne/vscodeJupyter) - Jupyter for Visual Studio Code
 - [jsonview](https://github.com/bhollis/jsonview) - A web extension that helps you view JSON documents in the browser.
+- [Caporal.js](https://github.com/mattallty/Caporal.js) - A full-featured framework for building command line applications (cli) with node.js
 - [ipywidgets](https://github.com/jupyter-widgets/ipywidgets) - Interactive Widgets for the Jupyter Notebook
 - [pythonVSCode](https://github.com/DonJayamanne/pythonVSCode) - This extension is now maintained in the Microsoft fork.
 - [bdash](https://github.com/bdash-app/bdash) - Simple SQL Client for lightweight data analysis.
