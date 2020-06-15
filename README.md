@@ -6756,7 +6756,7 @@
 - [Real_Time_Image_Animation](https://github.com/anandpawara/Real_Time_Image_Animation) - The Project is real time application in opencv using first order model
 - [Lip2Wav](https://github.com/Rudrabha/Lip2Wav) - This is the repository containing codes for our CVPR, 2020 paper titled "Learning Individual Speaking Styles for Accurate Lip to Speech Synthesis"
 - [SegLoss](https://github.com/JunMa11/SegLoss) - A collection of loss functions for medical image segmentation
-- [SymJAX](https://github.com/RandallBalestriero/SymJAX) - Documentation:
+- [SymJAX](https://github.com/SymJAX/SymJAX) - Documentation:
 - [container-best-practices](https://github.com/projectatomic/container-best-practices) - Container Best Practices
 - [stable-baselines3](https://github.com/DLR-RM/stable-baselines3) - PyTorch version of Stable Baselines, improved implementations of reinforcement learning algorithms.
 - [shotlooter](https://github.com/utkusen/shotlooter) - a recon tool that finds sensitive data inside the screenshots uploaded to prnt.sc
@@ -11682,7 +11682,7 @@
 - [mongothon](https://github.com/gamechanger/mongothon) - A lightweight Mongo object-document mapping abstraction layer over PyMongo
 - [patsy](https://github.com/pydata/patsy) - Describing statistical models in Python using symbolic formulas
 - [Geist](https://github.com/ten10solutions/Geist) - Visual Automation Library
-- [django-bootstrap3](https://github.com/dyve/django-bootstrap3) - Bootstrap 3 integration with Django.
+- [django-bootstrap3](https://github.com/zostera/django-bootstrap3) - Bootstrap 3 integration with Django.
 - [pyblock](https://github.com/jsspencer/pyblock) - python module for performing blocking analysis on data containing serial correlations
 - [green](https://github.com/CleanCut/green) - Green is a clean, colorful, fast python test runner.
 - [django-report-builder](https://github.com/burke-software/django-report-builder) - This is a github mirror for django-report-builder which is hosted on Gitlab. Django Report Builder is a GUI for Django ORM. Build custom queries and display results. Targets sys admins and capable end users who might not be able to program.
