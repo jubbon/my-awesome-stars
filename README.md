@@ -530,7 +530,7 @@
 - [srs](https://github.com/ossrs/srs) - SRS is a RTMP/HLS/WebRTC/SRT/GB28181 streaming cluster, high efficiency, stable and simple.
 - [LearnOpenGL](https://github.com/JoeyDeVries/LearnOpenGL) - Code repository of all OpenGL chapters from the book and its accompanying website https://learnopengl.com
 - [graphit](https://github.com/GraphIt-DSL/graphit) - GraphIt - A High-Performance Domain Specific Language for Graph Analytics
-- [milvus](https://github.com/milvus-io/milvus) - An open source vector similarity search engine
+- [milvus](https://github.com/milvus-io/milvus) - An open source vector similarity search engine powered by Faiss, HNSW and Annoy
 - [mvfst-rl](https://github.com/facebookresearch/mvfst-rl) - An asynchronous RL platform for congestion control in QUIC transport protocol. https://arxiv.org/abs/1910.04054.
 - [TensorRT](https://github.com/NVIDIA/TensorRT) - TensorRT is a C++ library for high performance inference on NVIDIA GPUs and deep learning accelerators.
 - [ton](https://github.com/ton-blockchain/ton) - 
@@ -555,7 +555,7 @@
 - [pfaedle](https://github.com/ad-freiburg/pfaedle) - Precise map-matching for public transit feeds. Generates high-quality GTFS shapes from OSM data.
 - [taskflow](https://github.com/taskflow/taskflow) - Modern C++ Parallel Task Programming
 - [YouTokenToMe](https://github.com/VKCOM/YouTokenToMe) - Unsupervised text tokenizer focused on computational efficiency
-- [griddb_nosql](https://github.com/griddb/griddb_nosql) - high performance, high scalability and high reliability database for IoT & big data
+- [griddb](https://github.com/griddb/griddb) - next generation database for IoT & big data with both NoSQL interface & SQL Interface.
 - [triton-inference-server](https://github.com/NVIDIA/triton-inference-server) - The Triton Inference Server provides a cloud inferencing solution optimized for NVIDIA GPUs.
 - [taichi](https://github.com/taichi-dev/taichi) - Productive & portable programming language for high-performance, sparse & differentiable computing
 - [FICM](https://github.com/hellochick/FICM) - :video_game: [IJCAI'20][ICLR'19 Workshop] Flow-based Intrinsic Curiosity Module. Playing SuperMario with RL agent and FICM!
@@ -988,7 +988,6 @@
 
 - [Pathfinding-Visualizer](https://github.com/clementmihailescu/Pathfinding-Visualizer) - A visualization tool for various pathfinding algorithms.
 - [breaking-and-pwning-apps-and-servers-aws-azure-training](https://github.com/appsecco/breaking-and-pwning-apps-and-servers-aws-azure-training) - Course content, lab setup instructions and documentation of our very popular Breaking and Pwning Apps and Servers on AWS and Azure hands on training!
-- [rwi_executive_dashboard](https://github.com/splunk/rwi_executive_dashboard) - Splunk Remote Work Insights - Executive Dashboard
 - [git-workflow-merge-conflicts-lab](https://github.com/learn-co-curriculum/git-workflow-merge-conflicts-lab) - 
 - [vscode-plugin](https://github.com/kiteco/vscode-plugin) - Kite Autocomplete Plugin for Visual Studio Code
 - [tutorial](https://github.com/DjangoGirls/tutorial) - This is a tutorial we are using for Django Girls workshops
@@ -1550,7 +1549,7 @@
 - [argo-cd](https://github.com/argoproj/argo-cd) - Declarative continuous deployment for Kubernetes.
 - [rook](https://github.com/rook/rook) - Storage Orchestration for Kubernetes
 - [cortex](https://github.com/cortexproject/cortex) - A horizontally scalable, highly available, multi-tenant, long term Prometheus.
-- [Yearning](https://github.com/cookieY/Yearning) - A most popular sql audit platform for mysql
+- [Yearning](https://github.com/cookieY/Yearning) - 🦄 A most popular sql audit platform for mysql
 - [kpt](https://github.com/GoogleContainerTools/kpt) - 
 - [slack](https://github.com/slack-go/slack) - Slack API in Go - community-maintained fork created by the original author, @nlopes
 - [matterbridge](https://github.com/42wim/matterbridge) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, steam, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams and more with REST API (mattermost not required!)
@@ -2215,6 +2214,7 @@
 - [forecasting](https://github.com/microsoft/forecasting) - Time Series Forecasting Best Practices & Examples
 - [ml-workshop-3-of-4](https://github.com/amueller/ml-workshop-3-of-4) - Advanced Machine Learning with Scikit-learn part I
 - [nlpbuddy](https://github.com/eellak/nlpbuddy) - A text analysis application for performing common NLP tasks through a web dashboard interface and an API
+- [rwi_executive_dashboard](https://github.com/splunk/rwi_executive_dashboard) - Splunk Remote Work Insights - Executive Dashboard
 - [222-responsive-icon-nav-css](https://github.com/fireship-io/222-responsive-icon-nav-css) - A Simple Responsive Animated CSS Icon Navbar
 - [beginners-guide-to-react](https://github.com/kentcdodds/beginners-guide-to-react) - The Beginner's Guide To ReactJS
 - [chatcord](https://github.com/bradtraversy/chatcord) - Realtime chat app with rooms
@@ -2634,6 +2634,7 @@
 - [largeVis](https://github.com/elbamos/largeVis) - An implementation of the largeVis algorithm for visualizing large, high-dimensional datasets, for R
 - [ioweb2016](https://github.com/google/ioweb2016) - I/O web app 2016
 - [pystock-data](https://github.com/eliangcs/pystock-data) - (UNMAINTAINED) US stock market data since 2009
+- [WebGazer](https://github.com/brownhci/WebGazer) - WebGazer.js: Scalable Webcam EyeTracking Using User Interactions
 - [patchwork](https://github.com/jlord/patchwork) - All the Git-it Workshop completers!
 - [electron-api-demos](https://github.com/electron/electron-api-demos) - Explore the Electron APIs
 - [datefinder](https://github.com/akoumjian/datefinder) - Find dates inside text using Python and get back datetime objects
@@ -3855,7 +3856,7 @@
 - [Lepton](https://github.com/hackjutsu/Lepton) - 💻    Democratizing Snippet Management (macOS/Win/Linux)
 - [DejaVue](https://github.com/MiCottOn/DejaVue) - Visualization and debugging tool built for Vue.js
 - [reactivemaps](https://github.com/appbaseio/reactivemaps) - A data aware UI components library for building realtime maps
-- [mnemonist](https://github.com/Yomguithereal/mnemonist) - Curated collection of data structures for the JavaScript language.
+- [mnemonist](https://github.com/Yomguithereal/mnemonist) - Curated collection of data structures for the JavaScript/TypeScript language.
 - [envisionjs](https://github.com/HumbleSoftware/envisionjs) - Dynamic HTML5 visualization
 - [vizceral](https://github.com/Netflix/vizceral) - WebGL visualization for displaying animated traffic graphs
 - [dimple](https://github.com/PMSI-AlignAlytics/dimple) - An object-oriented API for business analytics
@@ -4102,7 +4103,6 @@
 - [plyr](https://github.com/sampotts/plyr) - A simple HTML5, YouTube and Vimeo player
 - [warberry](https://github.com/secgroundzero/warberry) - WarBerryPi - Tactical Exploitation
 - [push.js](https://github.com/Nickersoft/push.js) - The world's most versatile desktop notifications framework :earth_americas:
-- [WebGazer](https://github.com/brownhci/WebGazer) - WebGazer.js: Scalable Webcam EyeTracking Using User Interactions
 - [algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) - :fireworks:Interactive Online Platform that Visualizes Algorithms from Code
 - [deco-ide](https://github.com/decosoftware/deco-ide) - The React Native IDE
 - [horizon](https://github.com/rethinkdb/horizon) - Horizon is a realtime, open-source backend for JavaScript apps.
@@ -5288,7 +5288,7 @@
 - [food2vec](https://github.com/altosaar/food2vec) - :hamburger:
 - [practical-1](https://github.com/oxford-cs-deepnlp-2017/practical-1) - Oxford Deep NLP 2017 course - Practical 1: word2vec
 - [Geospatial_Data_with_Python](https://github.com/SocialDataSci/Geospatial_Data_with_Python) - Introduction to Geospatial Data with Python
-- [practical-pytorch](https://github.com/spro/practical-pytorch) - PyTorch tutorials demonstrating modern techniques with readable code
+- [practical-pytorch](https://github.com/spro/practical-pytorch) - DEPRECATED and not maintained - see official repo at https://github.com/pytorch/tutorials
 - [dl_tutorial](https://github.com/oduerr/dl_tutorial) - Tutorials for deep learning
 - [ccf2016_sougou](https://github.com/hengchao0248/ccf2016_sougou) - ccf2016 sougou final winner solution
 - [unrolled_gan](https://github.com/poolio/unrolled_gan) - Unrolled Generative Adversarial Networks
@@ -5778,7 +5778,6 @@
 - [CenterNet_Pro_Max](https://github.com/jinfagang/CenterNet_Pro_Max) - Experiments based on CenterNet (more backbones, TensorRT deployment and mask head)
 - [Awesome-Android-Notebook](https://github.com/JsonChao/Awesome-Android-Notebook) - :computer: A complete plan for better android developers.（continuous updating ...）
 - [QuantumultX](https://github.com/nzw9314/QuantumultX) - QuantumultX
-- [awesome-azure-learning](https://github.com/ddneves/awesome-azure-learning) - This repo includes plenty of references for Azure learning, especially for the Azure certs and Azure architecture, and any other learning materials e.g. security and automation topics.
 - [introRL](https://github.com/zhoubolei/introRL) - Intro to Reinforcement Learning (强化学习纲要）
 - [docker-git-tip](https://github.com/djoudi5/docker-git-tip) - A handy CLI in Docker container to make optimum use of git tips, see: https://github.com/git-tips/tips
 - [stylegan2-distillation](https://github.com/EvgenyKashin/stylegan2-distillation) - 
@@ -6716,6 +6715,7 @@
 ## PowerShell 
 
 - [virtual-environments](https://github.com/actions/virtual-environments) - GitHub Actions virtual environments
+- [awesome-azure-learning](https://github.com/ddneves/awesome-azure-learning) - This repo includes plenty of references for Azure learning, especially for the Azure certs and Azure architecture, and any other learning materials e.g. security and automation topics.
 - [azure-docs](https://github.com/MicrosoftDocs/azure-docs) - Open source documentation of Microsoft Azure
 - [Quantum](https://github.com/microsoft/Quantum) - Microsoft Quantum Development Kit Samples
 - [azure-quickstart-templates](https://github.com/Azure/azure-quickstart-templates) - Azure Quickstart Templates
@@ -6801,7 +6801,7 @@
 - [BPT](https://github.com/yzh119/BPT) - Source code of paper "BP-Transformer: Modelling Long-Range Context via Binary Partitioning"
 - [deal](https://github.com/life4/deal) - Design by contract for Python with many validators support.
 - [jukebox](https://github.com/openai/jukebox) - Code for the paper "Jukebox: A Generative Model for Music"
-- [pytorch-YOLOv4](https://github.com/Tianxiaomo/pytorch-YOLOv4) - Minimal PyTorch implementation of YOLOv4
+- [pytorch-YOLOv4](https://github.com/Tianxiaomo/pytorch-YOLOv4) - PyTorch ,ONNX and TensorRT implementation of YOLOv4
 - [extract-news-api](https://github.com/kotartemiy/extract-news-api) - Flask code to deploy an API that pulls structured data from online news articles
 - [polyai-models](https://github.com/PolyAI-LDN/polyai-models) - Neural Models for Conversational AI
 - [conversational-datasets](https://github.com/PolyAI-LDN/conversational-datasets) - Large datasets for conversational AI
@@ -11103,7 +11103,7 @@
 - [pompei](https://github.com/Zulko/pompei) - Mosaics generation from movie frames
 - [smart_open](https://github.com/RaRe-Technologies/smart_open) - Utils for streaming large files (S3, HDFS, gzip, bz2...)
 - [scrapyrt](https://github.com/scrapinghub/scrapyrt) - Scrapy realtime
-- [x84](https://github.com/jquast/x84) - A python telnet/ssh server for modern UTF-8 and classic cp437 network virtual terminals. In spirit of classic software such as ami/x, teleguard, renegade, iniquity.
+- [x84](https://github.com/jquast/x84) - A python telnet/ssh server for modern terminals. In spirit of classic software such as ami/x, teleguard, renegade, iniquity.
 - [django-sheets](https://github.com/georgewhewell/django-sheets) - Use Google Sheets as context variables in Django templates
 - [spaCy](https://github.com/explosion/spaCy) - 💫 Industrial-strength Natural Language Processing (NLP) with Python and Cython
 - [pytimecop](https://github.com/bluekelp/pytimecop) - A port of the most excellent TimeCop Ruby Gem for Python
@@ -13019,7 +13019,7 @@
 - [G6](https://github.com/antvis/G6) - ♾ A Graph Visualization Framework in JavaScript
 - [comlink](https://github.com/GoogleChromeLabs/comlink) - Comlink makes WebWorkers enjoyable.
 - [deno](https://github.com/denoland/deno) - A secure JavaScript and TypeScript runtime
-- [wired-elements](https://github.com/wiredjs/wired-elements) - Collection of custom elements that appear hand drawn. Great for wireframes or a fun look.
+- [wired-elements](https://github.com/rough-stuff/wired-elements) - Collection of custom elements that appear hand drawn. Great for wireframes or a fun look.
 - [vsc-material-theme](https://github.com/material-theme/vsc-material-theme) - Material Theme, the most epic theme for Visual Studio Code
 - [css-blocks](https://github.com/linkedin/css-blocks) - High performance, maintainable stylesheets.
 - [ow](https://github.com/sindresorhus/ow) - Function argument validation for humans
@@ -13032,7 +13032,7 @@
 - [blog-admin](https://github.com/jkchao/blog-admin) - blog-admin @react、@typescript、@apollographql
 - [react-morph](https://github.com/brunnolou/react-morph) - Morphing Ui transitions made simple
 - [emma-cli](https://github.com/maticzav/emma-cli) - 📦 Terminal assistant to find and install node packages.
-- [rough](https://github.com/pshihn/rough) - Create graphics with a hand-drawn, sketchy, appearance
+- [rough](https://github.com/rough-stuff/rough) - Create graphics with a hand-drawn, sketchy, appearance
 - [xstate](https://github.com/davidkpiano/xstate) - State machines and statecharts for the modern web.
 - [mkdocs-material](https://github.com/squidfunk/mkdocs-material) - A Material Design theme for MkDocs
 - [chrome](https://github.com/browserless/chrome) - Chrome as a service in docker. Run on our cloud, or bring your own
@@ -13073,7 +13073,7 @@
 - [bottender](https://github.com/Yoctol/bottender) - ⚡️ A framework for building conversational user interfaces.
 - [ng-alain](https://github.com/ng-alain/ng-alain) - NG-ZORRO  admin panel front-end framework (surge mirror https://ng-alain-doc.surge.sh)
 - [hint](https://github.com/webhintio/hint) - 💡 A hinting engine for the web
-- [vue-storefront](https://github.com/DivanteLtd/vue-storefront) - Vue Storefront - PWA for eCommerce. 100% offline, platform agnostic, headless, Magento 2 supported. Always Open Source, MIT license. Join us as contributor (contributors@vuestorefront.io). Check out our new blog: https://blog.vuestorefront.io/
+- [vue-storefront](https://github.com/DivanteLtd/vue-storefront) - Vue Storefront - PWA for eCommerce. 100% offline, platform agnostic, headless, Magento 2 supported. Always Open Source, MIT license. Join us as contributor (contributors@vuestorefront.io). Check out our new blog: https://blog.vuestorefront.io/ and the new community initiative for improving Headless Security standards https://headless-security.org/vsf-best-practices.html
 - [hackernews-react-graphql](https://github.com/clintonwoo/hackernews-react-graphql) - Hacker News clone rewritten with universal JavaScript, using React and GraphQL.
 - [fast-style-transfer-deeplearnjs](https://github.com/reiinakano/fast-style-transfer-deeplearnjs) - Demo of in-browser Fast Neural Style Transfer with deeplearn.js library
 - [autorest](https://github.com/Azure/autorest) - OpenAPI (f.k.a Swagger) Specification code generator. Supports C#, PowerShell, Go, Java, Node.js, TypeScript, Python, Ruby
@@ -13211,7 +13211,7 @@
 - [factor](https://github.com/fiction-com/factor) - The JavaScript CMS Platform
 - [massCode](https://github.com/antonreshetov/massCode) - A free and open source code snippets manager for developers.
 - [vue-ctk-date-time-picker](https://github.com/chronotruck/vue-ctk-date-time-picker) - VueJS component to select dates & time, including a range mode
-- [postwoman](https://github.com/liyasthomas/postwoman) - 👽 A free, fast and beautiful API request builder used by 60k+ developers (web alternative to Postman) https://postwoman.io
+- [postwoman](https://github.com/liyasthomas/postwoman) - 👽 A free, fast and beautiful API request builder (web alternative to Postman) used by 60k+ developers. https://postwoman.io
 - [Scriptis](https://github.com/WeBankFinTech/Scriptis) - Scriptis is for interactive data analysis with script development(SQL, Pyspark, HiveQL), task submission(Spark, Hive), UDF, function, resource management and intelligent diagnosis.
 - [Scout](https://github.com/tevora-threat/Scout) - Surveillance Detection Scout: Your Lookout on Autopilot
 - [DynamoDb-GUI-Client](https://github.com/Arattian/DynamoDb-GUI-Client) - DynamoDb GUI Client
