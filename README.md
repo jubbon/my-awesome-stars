@@ -424,6 +424,7 @@
 - [swiperproxy](https://github.com/swiperproxy/swiperproxy) - A Python-based HTTP/HTTPS-proxy.
 - [torch7](https://github.com/torch/torch7) - http://torch.ch
 - [redis](https://github.com/antirez/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.
+- [astropy](https://github.com/astropy/astropy) - Repository for the Astropy core package
 - [unqlite-python](https://github.com/coleifer/unqlite-python) - Python bindings for the UnQLite embedded NoSQL database
 - [heartleech](https://github.com/robertdavidgraham/heartleech) - Demonstrates the "heartbleed" problem using full OpenSSL stack
 - [chipsec](https://github.com/chipsec/chipsec) - Platform Security Assessment Framework
@@ -1090,7 +1091,7 @@
 - [micron](https://github.com/webkul/micron) - a [μ] microInteraction library built with CSS Animations and controlled by JavaScript Power
 - [hacker101](https://github.com/Hacker0x01/hacker101) - Source code for Hacker101.com - a free online web and mobile security class.
 - [CrookedStyleSheets](https://github.com/jbtronics/CrookedStyleSheets) - Webpage tracking only using CSS (and no JS)
-- [startbootstrap-coming-soon](https://github.com/BlackrockDigital/startbootstrap-coming-soon) - A coming soon theme with a video background for Bootstrap 4
+- [startbootstrap-coming-soon](https://github.com/StartBootstrap/startbootstrap-coming-soon) - A coming soon theme with a video background for Bootstrap 4
 - [VueTheme](https://github.com/rtCamp/VueTheme) - WordPress theme using Rest API and Vue.js
 - [lib4dev](https://github.com/amitmishrg/lib4dev) - Find awesome libraries and make your development fast.
 - [Flake8Rules](https://github.com/grantmcconnaughey/Flake8Rules) - Descriptions and examples for the rules in Flake8 (pyflakes, pycodestyle, and mccabe).
@@ -1191,7 +1192,7 @@
 - [odoo-material](https://github.com/Vauxoo/odoo-material) - FrontEnd Theme using material design
 - [styleguide](https://github.com/auth0/styleguide) - 🖌 Conjunction of design patterns, components and resources used across our products.
 - [tabula](https://github.com/tabulapdf/tabula) - Tabula is a tool for liberating data tables trapped inside PDF files
-- [startbootstrap-new-age](https://github.com/BlackrockDigital/startbootstrap-new-age) - A web app landing page theme created by Start Bootstrap
+- [startbootstrap-new-age](https://github.com/StartBootstrap/startbootstrap-new-age) - A web app landing page theme created by Start Bootstrap
 - [iconoo](https://github.com/qieguo2016/iconoo) - A Flexible Pure CSS Icon Pack! One Tag One Icon! https://qieguo2016.github.io/iconoo/
 - [monokai-seti](https://github.com/importjake/monokai-seti) - This theme is no longer maintained. If you want to make any changes please fork
 - [monokai](https://github.com/kevinsawicki/monokai) - Monokai Atom Syntax theme
@@ -2277,7 +2278,7 @@
 - [datasciencecoursera](https://github.com/mGalarnyk/datasciencecoursera) - Data Science Repo and blog for John Hopkins Coursera Courses. Please let me know if you have any questions.
 - [clickhouse-presentations](https://github.com/ClickHouse/clickhouse-presentations) - Presentations, meetups and talks about ClickHouse
 - [summer-institute](https://github.com/compsocialscience/summer-institute) - Summer Institutes in Computational Social Science
-- [startbootstrap-resume](https://github.com/BlackrockDigital/startbootstrap-resume) - A Bootstrap 4 resume/CV theme created by Start Bootstrap
+- [startbootstrap-resume](https://github.com/StartBootstrap/startbootstrap-resume) - A Bootstrap 4 resume/CV theme created by Start Bootstrap
 - [glTF](https://github.com/KhronosGroup/glTF) - glTF – Runtime 3D Asset Delivery
 - [istio.io](https://github.com/istio/istio.io) - Source for the istio.io site
 - [ml-workshop-2-of-4](https://github.com/amueller/ml-workshop-2-of-4) - Intermediate Machine Learning with Scikit-learn, 4h interactive workshop
@@ -2521,7 +2522,7 @@
 - [angular-interview-questions](https://github.com/khan4019/angular-interview-questions) - Most extensive Angular interview questions based on your level.
 - [node-interview](https://github.com/ElemeFE/node-interview) - How to pass the Node.js interview of ElemeFE.
 - [free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-- [startbootstrap-landing-page](https://github.com/BlackrockDigital/startbootstrap-landing-page) - A responsive, Bootstrap landing page template created by Start Bootstrap
+- [startbootstrap-landing-page](https://github.com/StartBootstrap/startbootstrap-landing-page) - A responsive, Bootstrap landing page template created by Start Bootstrap
 - [badssl.com](https://github.com/chromium/badssl.com) - :lock: Memorable site for testing clients against bad SSL configs.
 - [tacotron](https://github.com/google/tacotron) - Audio samples accompanying publications related to Tacotron, an end-to-end speech synthesis model.
 - [cheatsheet](https://github.com/vuejs-tips/cheatsheet) - Vue.js 2.2 complete API cheatsheet
@@ -2541,7 +2542,7 @@
 - [awesome-competitive-programming](https://github.com/lnishan/awesome-competitive-programming) - :gem: A curated list of awesome Competitive Programming, Algorithm and Data Structure resources
 - [doc-kurento-readthedocs](https://github.com/Kurento/doc-kurento-readthedocs) - [READ-ONLY] Auto-generated documentation sources for ReadTheDocs
 - [book](https://github.com/PaddlePaddle/book) - Deep Learning 101 with PaddlePaddle （『飞桨』深度学习框架入门教程）
-- [startbootstrap-creative](https://github.com/BlackrockDigital/startbootstrap-creative) - A one page HTML theme for creatives by Start Bootstrap
+- [startbootstrap-creative](https://github.com/StartBootstrap/startbootstrap-creative) - A one page HTML theme for creatives by Start Bootstrap
 - [simpl](https://github.com/samdutton/simpl) - Simplest possible examples of HTML, CSS and Javascript:
 - [incident-response-docs](https://github.com/PagerDuty/incident-response-docs) - PagerDuty's Incident Response Documentation.
 - [27daysofcode](https://github.com/CodeBrauer/27daysofcode) - A repo with small projects
@@ -2617,9 +2618,9 @@
 - [d3-pre](https://github.com/fivethirtyeight/d3-pre) - Pre-render d3 visualizations
 - [ServiceWorker](https://github.com/w3c/ServiceWorker) - Service Workers
 - [stream-react-example](https://github.com/GetStream/stream-react-example) - Use React and Redux to build your own feature-rich and scalable social network app! Visit cabin.getstream.io for an overview of all 8 tutorials and a live demo.
-- [startbootstrap-simple-sidebar](https://github.com/BlackrockDigital/startbootstrap-simple-sidebar) - An off canvas sidebar navigation Bootstrap HTML template created by Start Bootstrap
-- [startbootstrap-sb-admin](https://github.com/BlackrockDigital/startbootstrap-sb-admin) - A free, open source, Bootstrap admin theme created by Start Bootstrap
-- [startbootstrap-sb-admin-2](https://github.com/BlackrockDigital/startbootstrap-sb-admin-2) - A free, open source, Bootstrap admin theme created by Start Bootstrap
+- [startbootstrap-simple-sidebar](https://github.com/StartBootstrap/startbootstrap-simple-sidebar) - An off canvas sidebar navigation Bootstrap HTML template created by Start Bootstrap
+- [startbootstrap-sb-admin](https://github.com/StartBootstrap/startbootstrap-sb-admin) - A free, open source, Bootstrap admin theme created by Start Bootstrap
+- [startbootstrap-sb-admin-2](https://github.com/StartBootstrap/startbootstrap-sb-admin-2) - A free, open source, Bootstrap admin theme created by Start Bootstrap
 - [hpbn.co](https://github.com/igrigorik/hpbn.co) - High Performance Browser Networking (O'Reilly)
 - [home-assistant.io](https://github.com/home-assistant/home-assistant.io) - :blue_book: Home Assistant User documentation
 - [topocm_content](https://github.com/topocm/topocm_content) - Course on topology in condensed matter
@@ -2977,7 +2978,7 @@
 - [ol-mapbox-style](https://github.com/openlayers/ol-mapbox-style) - Use Mapbox Style objects with OpenLayers
 - [editor](https://github.com/maputnik/editor) - An open source visual editor for the 'Mapbox Style Specification'
 - [concaveman](https://github.com/mapbox/concaveman) - A very fast 2D concave hull algorithm in JavaScript
-- [startbootstrap-freelancer](https://github.com/BlackrockDigital/startbootstrap-freelancer) - A flat design, one page, MIT licensed Bootstrap portfolio theme created by Start Bootstrap
+- [startbootstrap-freelancer](https://github.com/StartBootstrap/startbootstrap-freelancer) - A flat design, one page, MIT licensed Bootstrap portfolio theme created by Start Bootstrap
 - [complete-node-bootcamp](https://github.com/jonasschmedtmann/complete-node-bootcamp) - Starter files, final projects and FAQ for my Complete Node.js Bootcamp
 - [micro-frontends](https://github.com/neuland/micro-frontends) - extending the microservice paradigms to web development
 - [react-material-admin](https://github.com/flatlogic/react-material-admin) - ☄️React Material Admin is a React template built with Material-UI
@@ -4059,7 +4060,7 @@
 - [LaunchKit](https://github.com/LaunchKit/LaunchKit) - A set of web-based tools for mobile app developers, now open source!
 - [create-react-app](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
 - [image-diff](https://github.com/uber-archive/image-diff) - Create image differential between two images
-- [startbootstrap-agency](https://github.com/BlackrockDigital/startbootstrap-agency) - A one page HTML theme for agencies created by Start Bootstrap
+- [startbootstrap-agency](https://github.com/StartBootstrap/startbootstrap-agency) - A one page HTML theme for agencies created by Start Bootstrap
 - [AzureUsageAndBillingPortal](https://github.com/microsoft/AzureUsageAndBillingPortal) - This web application solution enables you to monitor the usage and billing for any Azure subscriptions you have access to.
 - [socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
 - [Dex](https://github.com/PatMartin/Dex) - Dex : The Data Explorer -- A data visualization tool written in Java/Groovy/JavaFX capable of powerful ETL and publishing web visualizations.
@@ -5761,7 +5762,7 @@
 - [awesome-self-supervised-learning](https://github.com/jason718/awesome-self-supervised-learning) - A curated list of awesome self-supervised methods
 - [ztm-python-cheat-sheet](https://github.com/aneagoie/ztm-python-cheat-sheet) - 
 - [awesome-papers](https://github.com/huggingface/awesome-papers) - Papers & presentation materials from Hugging Face's internal science day
-- [awesome-learning-resources](https://github.com/lauragift21/awesome-learning-resources) - 🔥Awesome list of resources on Web Development.
+- [awesome-learning-resources](https://github.com/lauragift21/awesome-learning-resources) - 🔥 Awesome list of resources on Web Development.
 - [Awesome-Machine-Comprehension](https://github.com/shagunsodhani/Awesome-Machine-Comprehension) - List of papers, datasets and other resources related to Machine Comprehension
 - [Reading-Comprehension-Question-Answering-Papers](https://github.com/xanhho/Reading-Comprehension-Question-Answering-Papers) - Survey on Machine Reading Comprehension
 - [awesome-qa](https://github.com/seriousran/awesome-qa) - 😎 A curated list of the Question Answering (QA)
@@ -6891,7 +6892,7 @@
 - [Practical-Ethical-Hacking-Resources](https://github.com/Gr1mmie/Practical-Ethical-Hacking-Resources) - Compilation of Resources from TCM's Practical Ethical Hacking Udemy Course
 - [SSV](https://github.com/NVlabs/SSV) - Pytorch implementation of SSV: Self-Supervised Viewpoint Learning from Image Collections (CVPR 2020)
 - [alimama-common-performance-platform-acp](https://github.com/alibaba/alimama-common-performance-platform-acp) - common-performance platform&tools(acp)   c++/python.  分布式性能测试工具
-- [simclr](https://github.com/google-research/simclr) - SimCLR - A Simple Framework for Contrastive Learning of Visual Representations
+- [simclr](https://github.com/google-research/simclr) - SimCLRv2 - Big Self-Supervised Models are Strong Semi-Supervised Learners
 - [FairMOT](https://github.com/ifzhang/FairMOT) - A simple baseline for one-shot multi-object tracking
 - [kivy](https://github.com/kivy/kivy) - Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS
 - [eat_tensorflow2_in_30_days](https://github.com/lyhue1991/eat_tensorflow2_in_30_days) - Tensorflow2.0 🍎🍊 is delicious, just eat it! 😋😋
@@ -7986,7 +7987,7 @@
 - [faust](https://github.com/robinhood/faust) - Python Stream Processing
 - [FeelUOwn](https://github.com/feeluown/FeelUOwn) - trying to be a user-friendly and hackable music player
 - [100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) - 100 Days of ML Coding
-- [autokeras](https://github.com/keras-team/autokeras) - An AutoML system based on Keras
+- [autokeras](https://github.com/keras-team/autokeras) - AutoML library for deep learning
 - [cnn-graph-classification](https://github.com/giannisnik/cnn-graph-classification) - A convolutional neural network for graph classification in PyTorch
 - [mmf](https://github.com/facebookresearch/mmf) - A modular framework for vision & language multimodal research from Facebook AI Research (FAIR)
 - [GANimation](https://github.com/albertpumarola/GANimation) - GANimation: Anatomically-aware Facial Animation from a Single Image (ECCV'18 Oral) [PyTorch]
@@ -9411,7 +9412,7 @@
 - [have-fun-with-machine-learning](https://github.com/humphd/have-fun-with-machine-learning) - An absolute beginner's guide to Machine Learning and Image Classification with Neural Networks
 - [CarND-Term1-Starter-Kit](https://github.com/udacity/CarND-Term1-Starter-Kit) - 
 - [tensorflow-value-iteration-networks](https://github.com/TheAbhiKumar/tensorflow-value-iteration-networks) - TensorFlow implementation of the Value Iteration Networks (NIPS '16) paper
-- [neural-painter](https://github.com/zxytim/neural-painter) - Paint artistic patterns using random neural network
+- [neural-painter](https://github.com/megvii-research/neural-painter) - Paint artistic patterns using random neural network
 - [telegraph](https://github.com/python273/telegraph) - Python Telegraph API wrapper (Telegra.ph)
 - [TwitterQA](https://github.com/kootenpv/TwitterQA) - Deep learning based Twitter Imposter Chatbot
 - [pycodesuggest](https://github.com/uclnlp/pycodesuggest) - Learning to Auto-Complete using RNN Language Models
@@ -9860,7 +9861,7 @@
 - [schemagic](https://github.com/Defunctionalize/schemagic) - Define the shape of your data with simple python data structures.  Use those data descriptions to validate your application.
 - [mongocapsule](https://github.com/prashnts/mongocapsule) - 📦 Encapsulated MongoEngine
 - [wsgiwatch](https://github.com/dpk/wsgiwatch) - build tasks which block WSGI requests until complete
-- [xmldataset](https://github.com/spurin/xmldataset) - xmldataset: xml parsing made easy
+- [xmldataset](https://github.com/spurin/xmldataset) - xmldataset: xml parsing made easy 🗃️
 - [BlackWidow](https://github.com/madisonmay/BlackWidow) - Visualizing Python Project Import Graphs
 - [synapse](https://github.com/matrix-org/synapse) - Synapse: Matrix reference homeserver
 - [awesome-iot](https://github.com/phodal/awesome-iot) - Awesome IoT. A collaborative list of great resources about IoT Framework, Library,  OS, Platform
@@ -11317,7 +11318,6 @@
 - [python-mysql-replication](https://github.com/noplay/python-mysql-replication) - Pure Python Implementation of MySQL replication protocol build on top of PyMYSQL
 - [nnets](https://github.com/miha-stopar/nnets) - Python neural network library
 - [travispy](https://github.com/menegazzo/travispy) - LOOKING FOR SOMEONE TO TRANSFER OWNERSHIP - Travis CI API for Python
-- [astropy](https://github.com/astropy/astropy) - Repository for the Astropy core package
 - [bpftools](https://github.com/cloudflare/bpftools) - BPF Tools - packet analyst toolkit
 - [simpleq](https://github.com/rdegges/simpleq) - A simple, infinitely scalable, SQS based queue.
 - [blockchain](https://github.com/jtauber/blockchain) - a bitcoin blockchain parser in Python
