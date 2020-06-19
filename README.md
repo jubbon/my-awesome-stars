@@ -2058,7 +2058,7 @@
 - [pipeline](https://github.com/myntra/pipeline) - Pipeline is a package to build multi-staged concurrent workflows with a centralized logging output.
 - [req](https://github.com/imroc/req) - a golang http request library for humans
 - [brook](https://github.com/txthinking/brook) - Brook is a cross-platform strong encryption and not detectable proxy. Zero-Configuration.
-- [gokrazy](https://github.com/gokrazy/gokrazy) - a pure-Go userland for your Raspberry Pi 3 appliances
+- [gokrazy](https://github.com/gokrazy/gokrazy) - a pure-Go userland for your Raspberry Pi 3 or 4 appliances
 - [ladon](https://github.com/ory/ladon) - A SDK for access control policies: authorization for the microservice and IoT age. Inspired by AWS IAM policies. Written for Go.
 - [machma](https://github.com/fd0/machma) - Easy parallel execution of commands with live feedback
 - [pet](https://github.com/knqyf263/pet) - Simple command-line snippet manager, written in Go.
@@ -4218,6 +4218,7 @@
 - [Leaflet.heat](https://github.com/Leaflet/Leaflet.heat) - A tiny, simple and fast heatmap plugin for Leaflet.
 - [ionic-starter-maps](https://github.com/ionic-team/ionic-starter-maps) - An Ionic starter project using Google Maps and a side menu
 - [simpleheat](https://github.com/mourner/simpleheat) - A tiny JavaScript library for drawing heatmaps with Canvas
+- [OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) - The OpenAPI Specification Repository
 - [ngbp](https://github.com/ngbp/ngbp) - A sophisticated build management system for web apps (formerly ng-boilerplate). Created by @joshdmiller
 - [angular-seed](https://github.com/angular/angular-seed) - Seed project for angular apps.
 - [leaflet.shapefile](https://github.com/calvinmetcalf/leaflet.shapefile) - Shapefile in Leaflet
@@ -6068,7 +6069,7 @@
 - [CS-Interview-Knowledge-Map](https://github.com/InterviewMap/CS-Interview-Knowledge-Map) - Build the best interview map. The current content includes JS, network, browser related, performance optimization, security, framework, Git, data structure, algorithm, etc.
 - [Front-End-Performance-Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist) - 🎮 The only Front-End Performance Checklist that runs faster than the others
 - [ansible-role-security](https://github.com/geerlingguy/ansible-role-security) - Ansible Role - Security
-- [architecture_decision_record](https://github.com/joelparkerhenderson/architecture_decision_record) - Architecture decision record (ADR) examples for software planning, IT leadership, and template documenation
+- [architecture_decision_record](https://github.com/joelparkerhenderson/architecture_decision_record) - Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation
 - [How-to-Use-GitHub](https://github.com/llSourcell/How-to-Use-GitHub) - This is the supplementary material for "How to Use GitHub" By Siraj Raval on Youtube
 - [mace-models](https://github.com/XiaoMi/mace-models) - Mobile AI Compute Engine Model Zoo
 - [toml](https://github.com/toml-lang/toml) - Tom's Obvious, Minimal Language
@@ -6459,7 +6460,7 @@
 - [awesome-ddd](https://github.com/heynickc/awesome-ddd) - A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming resources
 - [awesome-react-components](https://github.com/brillout/awesome-react-components) - Curated List of React Components & Libraries.
 - [presentations](https://github.com/raganwald/presentations) - Conference Talks and Proposals
-- [autoware.ai](https://github.com/autowarefoundation/autoware.ai) - Open-source software for self-driving vehicles
+- [autoware.ai](https://github.com/Autoware-AI/autoware.ai) - Open-source software for self-driving vehicles
 - [russia-it-podcast](https://github.com/avevlad/russia-it-podcast) - Список русскоязычных подкастов на тему информационных технологий
 - [keybase-gpg-github](https://github.com/pstadler/keybase-gpg-github) - Step-by-step guide on how to create a GPG key on keybase.io, adding it to a local GPG setup and use it with Git and GitHub.
 - [bytesize-icons](https://github.com/danklammer/bytesize-icons) - Tiny style-controlled SVG iconset (101 icons, 12kb)
@@ -6568,7 +6569,6 @@
 - [awesome-sec-talks](https://github.com/PaulSec/awesome-sec-talks) - A collected list of awesome security talks
 - [docker-and-containers-ebooks](https://github.com/thenewstack/docker-and-containers-ebooks) - A series of ebooks on Docker and the container ecosystem.
 - [HowToBeAProgrammer](https://github.com/braydie/HowToBeAProgrammer) - A guide on how to be a Programmer - originally published by Robert L Read
-- [OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) - The OpenAPI Specification Repository
 - [react-howto](https://github.com/petehunt/react-howto) - Your guide to the (sometimes overwhelming!) React ecosystem.
 - [computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
 - [elements-of-python-style](https://github.com/amontalenti/elements-of-python-style) - Goes beyond PEP8 to discuss what makes Python code feel great. A Strunk & White for Python.
@@ -7033,7 +7033,7 @@
 - [cupp](https://github.com/Mebus/cupp) - Common User Passwords Profiler (CUPP)
 - [safaribooks](https://github.com/lorenzodifuccia/safaribooks) - Download and generate EPUB of your favorite books from O'Reilly Learning (aka Safari Books Online) library.
 - [pointnet](https://github.com/charlesq34/pointnet) - PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation
-- [DeepLabCut](https://github.com/DeepLabCut/DeepLabCut) - Markerless pose estimation of user-defined features with deep learning for all animals
+- [DeepLabCut](https://github.com/DeepLabCut/DeepLabCut) - Official implementation of DeepLabCut: Markerless pose estimation of user-defined features with deep learning for all animals
 - [causalnex](https://github.com/quantumblacklabs/causalnex) - A Python library that helps data scientists to infer causation rather than observing correlation.
 - [django-rest-auth](https://github.com/Tivix/django-rest-auth) - This app makes it extremely easy to build Django powered SPA's (Single Page App) or Mobile apps exposing all registration and authentication related functionality as CBV's (Class Base View) and REST (JSON)
 - [sight](https://github.com/rish-16/sight) - 👁 Sightseer: State-of-the-art Computer Vision and Object Detection for TensorFlow
@@ -7529,7 +7529,7 @@
 - [torchplus](https://github.com/traveller59/torchplus) - additional functions and modules for pytorch. will be a submodule of my deeplearning project.
 - [d6tflow](https://github.com/d6t/d6tflow) - Python library for building highly effective data science workflows
 - [privacyidea](https://github.com/privacyidea/privacyidea) - :closed_lock_with_key: multi factor authentication system (2FA, MFA, OTP Server)
-- [m2cgen](https://github.com/BayesWitnesses/m2cgen) - Transform ML models into a native code (Java, C, Python, Go, JavaScript, Visual Basic, C#, R, PowerShell, PHP, Dart) with zero dependencies
+- [m2cgen](https://github.com/BayesWitnesses/m2cgen) - Transform ML models into a native code (Java, C, Python, Go, JavaScript, Visual Basic, C#, R, PowerShell, PHP, Dart, Haskell, Ruby) with zero dependencies
 - [databases](https://github.com/encode/databases) - Async database support for Python. 🗄
 - [ptr](https://github.com/facebookincubator/ptr) - Python Test Runner.
 - [pytest-play](https://github.com/pytest-dev/pytest-play) - pytest plugin that let you automate actions and assertions with test metrics reporting executing plain YAML files
@@ -8460,7 +8460,6 @@
 - [gradient-checkpointing](https://github.com/cybertronai/gradient-checkpointing) - Make huge neural nets fit in memory
 - [learning-python-predictive-analytics](https://github.com/JasonMDev/learning-python-predictive-analytics) - Tracking, notes and programming snippets while learning predictive analytics
 - [flask-vuejs-template](https://github.com/gtalarico/flask-vuejs-template) - Flask + Vue JS Template
-- [reverse-engineering-reference-manual](https://github.com/yellowbyte/reverse-engineering-reference-manual) - collage of reverse engineering topics that I find interesting
 - [CS234](https://github.com/Observerspy/CS234) - homework for CS234 2017
 - [cutelog](https://github.com/busimus/cutelog) - GUI for logging
 - [simcoin](https://github.com/sbaresearch/simcoin) - Blockchain simulation framework with Docker and Python.
@@ -11471,7 +11470,7 @@
 - [pyjstat](https://github.com/predicador37/pyjstat) - pyjstat is a python library for JSON-stat formatted data manipulation which allows reading and writing JSON-stat [1] format with python,using the DataFrame structures provided by the widely accepted pandas library
 - [NouGAT](https://github.com/vezzi/NouGAT) - 
 - [mittn](https://github.com/F-Secure/mittn) - Mittn: Security test tool runner for test automation in CI
-- [httpie](https://github.com/jakubroztocil/httpie) - As easy as HTTPie /aitch-tee-tee-pie/  🥧 Modern command-line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.  https://twitter.com/clihttp
+- [httpie](https://github.com/jakubroztocil/httpie) - As easy as HTTPie /aitch-tee-tee-pie/ 🥧  Modern command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/clihttp
 - [cytoolz](https://github.com/pytoolz/cytoolz) - Cython implementation of Toolz: High performance functional utilities
 - [Spirit](https://github.com/nitely/Spirit) - Spirit is a modern Python based forum built on top of Django framework
 - [container-agent](https://github.com/googlearchive/container-agent) - Simple agent for running containers based on a declarative manifest.
@@ -12842,7 +12841,7 @@
 
 ## Smarty 
 
-- [amundsen](https://github.com/lyft/amundsen) - Amundsen is a metadata driven application for improving the productivity of data analysts, data scientists and engineers when interacting with data – 🗃🕵️‍♀️
+- [amundsen](https://github.com/lyft/amundsen) - Amundsen is a metadata driven application for improving the productivity of data analysts, data scientists and engineers when interacting with data.
 - [temporalpw](https://github.com/tkooda/temporalpw) - Temporary secure password storage for transmission over insecure channels
 - [YaC2014](https://github.com/koldunovn/YaC2014) - Files for Yandex YaC2014 conference talk
 
