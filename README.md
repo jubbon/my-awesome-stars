@@ -385,7 +385,7 @@
 - [vis](https://github.com/martanne/vis) - A vi-like editor based on Plan 9's structural regular expressions
 - [quick2wire-gpio-admin](https://github.com/quick2wire/quick2wire-gpio-admin) - Use the GPIO pins on the Raspberry Pi without running as root
 - [BMW-OpenSource](https://github.com/edent/BMW-OpenSource) - All the Open Source Software provided by BMW for their i3
-- [citus](https://github.com/citusdata/citus) - Distributed PostgreSQL extension for multi-tenant and real-time analytics workloads
+- [citus](https://github.com/citusdata/citus) - Distributed PostgreSQL for multi-tenant and real-time analytics workloads
 - [Collections-C](https://github.com/srdja/Collections-C) - A library of generic data structures.
 - [NyuziProcessor](https://github.com/jbush001/NyuziProcessor) - GPGPU microprocessor architecture
 - [netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud
@@ -636,7 +636,7 @@
 - [fluent](https://github.com/hydro-project/fluent) - A data-driven compute platform
 - [LogDevice](https://github.com/facebookincubator/LogDevice) - Distributed storage for sequential data
 - [alexa-auto-sdk](https://github.com/alexa/alexa-auto-sdk) - The Alexa Auto SDK is for automotive OEMs to integrate Alexa directly into vehicles.
-- [BaikalDB](https://github.com/baidu/BaikalDB) - BaikalDB, an Enhanced Structured Database.
+- [BaikalDB](https://github.com/baidu/BaikalDB) - BaikalDB, A Distributed HTAP Database.
 - [filament](https://github.com/google/filament) - Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS and WASM/WebGL
 - [doxygen](https://github.com/doxygen/doxygen) - Official doxygen git repository
 - [panda3d](https://github.com/panda3d/panda3d) - Powerful, mature open-source cross-platform game engine for Python and C++, developed by Disney and CMU
@@ -2098,7 +2098,7 @@
 - [livego](https://github.com/qieangel2013/livego) - go Implementation of live streaming services
 - [poseidon](https://github.com/Qihoo360/poseidon) - A search engine which can hold 100 trillion lines of log data.
 - [prest](https://github.com/prest/prest) - pREST is a way to serve a RESTful API from any databases written in Go
-- [ariadna](https://github.com/maddevsio/ariadna) - OpenStreetMap geocoder
+- [ariadna](https://github.com/maddevsio/ariadna) - Geocoder Ariadna on ElasticSearch with OpenStreetMap
 - [archiver](https://github.com/mholt/archiver) - Easily create & extract archives, and compress & decompress files of various formats
 - [gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
 - [httpsnoop](https://github.com/felixge/httpsnoop) - Package httpsnoop provides an easy way to capture http related metrics (i.e. response time, bytes written, and http status code) from your application's http.Handlers.
@@ -2212,7 +2212,6 @@
 - [CNN-Architectures](https://github.com/Machine-Learning-Tokyo/CNN-Architectures) - 
 - [docsy](https://github.com/google/docsy) - A set of Hugo doc templates for launching open source content.
 - [node-ytdl-core](https://github.com/fent/node-ytdl-core) - YouTube video downloader in javascript.
-- [forecasting](https://github.com/microsoft/forecasting) - Time Series Forecasting Best Practices & Examples
 - [ml-workshop-3-of-4](https://github.com/amueller/ml-workshop-3-of-4) - Advanced Machine Learning with Scikit-learn part I
 - [nlpbuddy](https://github.com/eellak/nlpbuddy) - A text analysis application for performing common NLP tasks through a web dashboard interface and an API
 - [rwi_executive_dashboard](https://github.com/splunk/rwi_executive_dashboard) - Splunk Remote Work Insights - Executive Dashboard
@@ -2907,7 +2906,7 @@
 - [ai-lab](https://github.com/tlkh/ai-lab) - All-in-one AI container for rapid prototyping
 - [react-redux-realworld-example-app](https://github.com/gothinkster/react-redux-realworld-example-app) - Exemplary real world application built with React + Redux
 - [coreui-free-react-admin-template](https://github.com/coreui/coreui-free-react-admin-template) - CoreUI React is free React admin template based on Bootstrap 4
-- [pipedream](https://github.com/PipedreamHQ/pipedream) - Free, serverless integration and compute platform
+- [pipedream](https://github.com/PipedreamHQ/pipedream) - Serverless integration and compute platform.  Free for developers.
 - [1920-s2](https://github.com/nus-cs2030/1920-s2) - The website of CS2030, 19/20 Sem 2.
 - [pino](https://github.com/pinojs/pino) - 🌲 super fast, all natural json logger 🌲
 - [30DaysOfJavaScript](https://github.com/Asabeneh/30DaysOfJavaScript) - 30 days of JavaScript programming challenge is a step by step guide to learn JavaScript programming language in 30 days
@@ -3806,7 +3805,7 @@
 - [react-pdf](https://github.com/diegomura/react-pdf) - 📄 Create PDF files using React
 - [fair-analytics](https://github.com/vesparny/fair-analytics) - 📊  An analytics server that doesn't undermine user's privacy
 - [britecharts](https://github.com/britecharts/britecharts) - Client-side reusable Charting Library based on D3.js v5 that allows easy and intuitive use of charts and components that can be composed together creating amazing visualizations.
-- [insomnia](https://github.com/Kong/insomnia) - Leading Open Source API Client, and Collaborative API Design Platform for GraphQL, and REST
+- [insomnia](https://github.com/Kong/insomnia) - The Open Source API Client and Design Platform for GraphQL and REST -&gt;
 - [mongorito](https://github.com/vadimdemedes/mongorito) - 🍹 MongoDB ODM for Node.js apps based on Redux
 - [prepack](https://github.com/facebook/prepack) - A JavaScript bundle optimizer.
 - [framework](https://github.com/totaljs/framework) - Node.js framework
@@ -4757,7 +4756,7 @@
 - [Me_Bot](https://github.com/Spandan-Madan/Me_Bot) - Build a bot that speaks like you!
 - [photomosaic](https://github.com/worldveil/photomosaic) - Creating fun photomosaics, GIFs, and murals from your family pictures using ML & similarity search
 - [google-research](https://github.com/google-research/google-research) - Google Research
-- [basics](https://github.com/madewithml/basics) - 📚 Learn ML with clean code, simplified math and illustrative visuals. As you learn, work on interesting projects and share them on https://madewithml.com for the community to discover and learn from!
+- [basics](https://github.com/madewithml/basics) - 📚 Learn ML with clean code, simplified math and illustrative visuals.
 - [DL-workshop-series](https://github.com/Machine-Learning-Tokyo/DL-workshop-series) - Material used for Deep Learning related workshops for Machine Learning Tokyo (MLT)
 - [PRML](https://github.com/ctgk/PRML) - PRML algorithms implemented in Python
 - [Time_Series_Prediction](https://github.com/llSourcell/Time_Series_Prediction) - This is the code for "Time Series Prediction" By Siraj Raval on Youtube
@@ -5789,7 +5788,6 @@
 - [nlp_paper_summaries](https://github.com/dair-ai/nlp_paper_summaries) - ✍️ A carefully curated list of NLP paper summaries
 - [modern-typescript-with-examples-cheat-sheet](https://github.com/David-Else/modern-typescript-with-examples-cheat-sheet) - Fully printable summary of modern TypeScript language features with extensive examples to help you learn
 - [DeepLearningEE](https://github.com/RaviVijay/DeepLearningEE) - Collection of Papers and Trials on Deep Learning to aid EE design
-- [MAST](https://github.com/zlai0/MAST) - MAST: A Memory-Augmented Self-supervised Tracker (CVPR 2020)
 - [The-Internship-v1](https://github.com/FBDevCLagos/The-Internship-v1) - That is the vision of the DevC Lagos: “The Internship v1”. The program is a DevC Lagos initiative where Project Managers, Developers, and DevOps specialists are taken through a 13 week period where they build 10 real-world software products distributed into 10 teams. These products could be Enterprise Apps, SaaS, Libraries or Utilities for “real-world use”. It is a remote-first internship where participants get the opportunity to demonstrate track expertise.
 - [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 - [big-data-datasets](https://github.com/niderhoff/big-data-datasets) - Curated list of Publicly available Big Data datasets. Uncompressed size in brackets. No Blockchains.
@@ -6896,6 +6894,7 @@
 - [FairMOT](https://github.com/ifzhang/FairMOT) - A simple baseline for one-shot multi-object tracking
 - [kivy](https://github.com/kivy/kivy) - Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS
 - [eat_tensorflow2_in_30_days](https://github.com/lyhue1991/eat_tensorflow2_in_30_days) - Tensorflow2.0 🍎🍊 is delicious, just eat it! 😋😋
+- [forecasting](https://github.com/microsoft/forecasting) - Time Series Forecasting Best Practices & Examples
 - [avatarify](https://github.com/alievk/avatarify) - Avatars for Zoom, Skype and other video-conferencing apps.
 - [uwsgi-nginx-flask-docker](https://github.com/tiangolo/uwsgi-nginx-flask-docker) - Docker image with uWSGI and Nginx for Flask applications in Python running in a single container. Optionally with Alpine Linux.
 - [pytube](https://github.com/nficano/pytube) - A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos.
@@ -6964,6 +6963,7 @@
 - [UnsupervisedLandmarkLearning](https://github.com/NVIDIA/UnsupervisedLandmarkLearning) - Implementation for the unsupervised latent landmark learning work from NVIDIA Applied Deep Learning Research
 - [RIMs](https://github.com/anirudh9119/RIMs) - Code for "Recurrent Independent Mechanisms"
 - [PathCon](https://github.com/hwwang55/PathCon) - Combining relational context and relational paths for knowledge graph completion
+- [MAST](https://github.com/zlai0/MAST) - MAST: A Memory-Augmented Self-supervised Tracker (CVPR 2020)
 - [self-adaptive-training](https://github.com/LayneH/self-adaptive-training) - Official implementation of the paper 'Self-Adaptive Training: beyond Empirical Risk Minimization'
 - [FreezeD](https://github.com/sangwoomo/FreezeD) - Freeze the Discriminator: a Simple Baseline for Fine-Tuning GANs (CVPRW 2020)
 - [centermask2](https://github.com/youngwanLEE/centermask2) - CenterMask2 on top of detectron2, in CVPR 2020
@@ -9892,7 +9892,7 @@
 - [mlp-classifier](https://github.com/meetvora/mlp-classifier) - A handwritten multilayer perceptron classifer using numpy.
 - [deep-rl-tensorflow](https://github.com/carpedm20/deep-rl-tensorflow) - TensorFlow implementation of Deep Reinforcement Learning papers
 - [facebook-page-post-scraper](https://github.com/minimaxir/facebook-page-post-scraper) - Data scraper for Facebook Pages, and also code accompanying the blog post How to Scrape Data From Facebook Page Posts for Statistical Analysis
-- [python-colourlovers](https://github.com/elbaschid/python-colourlovers) - Module to use ColourLovers API
+- [python-colourlovers](https://github.com/roadsideseb/python-colourlovers) - Module to use ColourLovers API
 - [palettable](https://github.com/jiffyclub/palettable) - Color palettes for Python
 - [colour](https://github.com/vaab/colour) - Python color representations manipulation library (RGB, HSL, web, ...)
 - [slate](https://github.com/timClicks/slate) - The simplest way to extract text from PDFs in Python
@@ -12222,7 +12222,7 @@
 - [binify](https://github.com/kevinschaul/binify) - A command-line tool to better visualize crowded dot density maps.
 - [djangopypi2](https://github.com/popen2/djangopypi2) - Simple PyPI server written in django.
 - [kartograph.py](https://github.com/kartograph/kartograph.py) - UNMAINTAINED! Renders beautiful SVG maps in Python.
-- [Frog](https://github.com/ubd-frog/Frog) - A server and client solution to viewing and filtering large image and video collections
+- [frog](https://github.com/ubd-frog/frog) - A server and client solution to viewing and filtering large image and video collections
 - [PyExcelerate](https://github.com/kz26/PyExcelerate) - Accelerated Excel XLSX Writing Library for Python 2/3
 - [python-nvd3](https://github.com/areski/python-nvd3) - Python Wrapper for NVD3 - It's time for beautiful charts
 - [copperhead](https://github.com/bryancatanzaro/copperhead) - Data Parallel Python
@@ -13060,7 +13060,7 @@
 - [majestic](https://github.com/Raathigesh/majestic) - ⚡ Zero config GUI for Jest
 - [vuesion](https://github.com/vuesion/vuesion) - The most complete boilerplate for production-ready PWAs. With focus on performance, development speed, and best practices
 - [caprover](https://github.com/caprover/caprover) - [previously CaptainDuckDuck] Automated Scalable PaaS Package (automated Docker+nginx) - Heroku on Steroids
-- [boardgame.io](https://github.com/nicolodavis/boardgame.io) - State Management for Turn-Based Games
+- [boardgame.io](https://github.com/boardgameio/boardgame.io) - State Management for Turn-Based Games
 - [stimulus](https://github.com/stimulusjs/stimulus) - A modest JavaScript framework for the HTML you already have
 - [vscode-terminals](https://github.com/fabiospampinato/vscode-terminals) - An extension for setting-up multiple terminals at once, or just running some commands.
 - [alva](https://github.com/meetalva/alva) - Create living prototypes with code components.
