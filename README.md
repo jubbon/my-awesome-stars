@@ -3289,7 +3289,7 @@
 - [kleur](https://github.com/lukeed/kleur) - The fastest Node.js library for formatting terminal text with ANSI colors~!
 - [microstates](https://github.com/thefrontside/microstates) - Composable state primitives for JavaScript
 - [carbon-now-cli](https://github.com/mixn/carbon-now-cli) - 🎨 Beautiful images of your code — from right inside your terminal.
-- [react-developer-roadmap](https://github.com/adam-golab/react-developer-roadmap) - Roadmap to becoming a React developer in 2019
+- [react-developer-roadmap](https://github.com/adam-golab/react-developer-roadmap) - Roadmap to becoming a React developer
 - [breezy-pdf-lite](https://github.com/danielwestendorf/breezy-pdf-lite) - Simplified, self-hosted, version of breezypdf.com. HTML/CSS/JS in, PDF out, via Chrome
 - [xgplayer](https://github.com/bytedance/xgplayer) - A HTML5 video player with a parser that saves traffic
 - [just-api](https://github.com/kiranz/just-api) - :boom: Test REST, GraphQL APIs
@@ -11470,7 +11470,7 @@
 - [pyjstat](https://github.com/predicador37/pyjstat) - pyjstat is a python library for JSON-stat formatted data manipulation which allows reading and writing JSON-stat [1] format with python,using the DataFrame structures provided by the widely accepted pandas library
 - [NouGAT](https://github.com/vezzi/NouGAT) - 
 - [mittn](https://github.com/F-Secure/mittn) - Mittn: Security test tool runner for test automation in CI
-- [httpie](https://github.com/jakubroztocil/httpie) - As easy as HTTPie /aitch-tee-tee-pie/ 🥧  Modern command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/clihttp
+- [httpie](https://github.com/jakubroztocil/httpie) - As easy as HTTPie /aitch-tee-tee-pie/ 🥧  Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/clihttp
 - [cytoolz](https://github.com/pytoolz/cytoolz) - Cython implementation of Toolz: High performance functional utilities
 - [Spirit](https://github.com/nitely/Spirit) - Spirit is a modern Python based forum built on top of Django framework
 - [container-agent](https://github.com/googlearchive/container-agent) - Simple agent for running containers based on a declarative manifest.
@@ -13307,7 +13307,7 @@
 - [vue-zondicons](https://github.com/TerryMooreII/vue-zondicons) - Vue.js component for accessing Zondicon svg icons
 - [vuedarkmode](https://github.com/LeCoupa/vuedarkmode) - 👩‍🎨👨‍🎨 A minimalist dark design system for Vue.js. Based components designed for the insomniacs who enjoy dark interfaces as much as we do.
 - [microblog](https://github.com/backendlab-app/microblog) - A simple microblogging application built based on BackendLab
-- [vue-calendar-heatmap](https://github.com/WildCodeSchool/vue-calendar-heatmap) - A lightweight calendar heatmap Vuejs component built on SVG, inspired by github's contribution calendar graph
+- [vue-calendar-heatmap](https://github.com/julienr114/vue-calendar-heatmap) - A lightweight calendar heatmap Vuejs component built on SVG, inspired by github's contribution calendar graph
 - [shards-dashboard-vue](https://github.com/DesignRevision/shards-dashboard-vue) - A free Vue admin dashboard template pack featuring a modern design system  and lots of custom templates and components.
 - [vue-sweetalert-icons](https://github.com/JorgenVatle/vue-sweetalert-icons) - 🎨 Clean animated status icons for your Vue project. Based on SweetAlert's status icons
 - [periodic-table](https://github.com/edisdev/periodic-table) - PERIODIC TABLE WITH VUE JS
