@@ -444,7 +444,6 @@
 
 - [acr-tasks](https://github.com/Azure-Samples/acr-tasks) - A collection samples for ACR Tasks, including acr-task.yaml and Dockerfiles.
 - [Microsoft-Rocketbox](https://github.com/microsoft/Microsoft-Rocketbox) - Microsoft Rocketbox is now available for research and academic use! The library of 115 rigged avatars offers flexibility, enabling the easy use of facial animations across characters and the mixing and matching of texture elements.
-- [v3](https://github.com/exercism/v3) - The work-in-progress project for developing v3 tracks
 - [furniture](https://github.com/clvrai/furniture) - IKEA Furniture Assembly Environment for Long-Horizon Complex Manipulation Tasks
 - [Reinforcement-Learning-Based-Decision-Tree](https://github.com/chriswblake/Reinforcement-Learning-Based-Decision-Tree) - Generation and evaluation of a decision tree using reinforcement learning.
 - [NLP_Datasets](https://github.com/Koziev/NLP_Datasets) - My NLP datasets for Russian language
@@ -1478,7 +1477,7 @@
 - [python](https://github.com/docker-library/python) - Docker Official Image packaging for Python
 - [mssql-docker](https://github.com/microsoft/mssql-docker) - Official Microsoft repository for SQL Server in Docker resources
 - [docker-selenium](https://github.com/SeleniumHQ/docker-selenium) - Docker images for Selenium Grid Server (Standalone, Hub, and Nodes).
-- [vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) - A repository of development container definitions for the VS Code Remote - Containers extension and Visual Studio Online
+- [vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) - A repository of development container definitions for the VS Code Remote - Containers extension and Visual Studio Codespaces / Codespaces in GitHub
 - [ssh-action](https://github.com/appleboy/ssh-action) - GitHub Actions for executing remote ssh commands.
 - [docker](https://github.com/odoo/docker) - 
 - [dockerfiles](https://github.com/mapsme/dockerfiles) - 
@@ -1504,6 +1503,7 @@
 
 ## Elixir 
 
+- [v3](https://github.com/exercism/v3) - The work-in-progress project for developing v3 tracks
 - [rank](https://github.com/awesomerank/rank) - awesomerank.github.io builder
 
 ## Emacs Lisp 
@@ -1678,7 +1678,6 @@
 - [lorca](https://github.com/zserge/lorca) - Build cross-platform modern desktop apps in Go + HTML5
 - [kubeedge](https://github.com/kubeedge/kubeedge) - Kubernetes Native Edge Computing Framework (project under CNCF)
 - [webtty](https://github.com/maxmcd/webtty) - Share a terminal session over WebRTC
-- [dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for docker containers.
 - [krakend](https://github.com/devopsfaith/krakend) - Ultra performant API Gateway with middlewares
 - [clash](https://github.com/Dreamacro/clash) - A rule-based tunnel in Go.
 - [Tigo](https://github.com/karldoenitz/Tigo) - Tigo is an HTTP web framework written in Go (Golang).It features a Tornado-like API with better performance.  Tigo是一款用Go语言开发的web应用框架，API特性类似于Tornado并且拥有比Tornado更好的性能。
@@ -2365,7 +2364,7 @@
 - [pymk-inspector](https://github.com/GMG-Special-Projects-Desk/pymk-inspector) - See the people Facebook thinks you know
 - [cheatsheets](https://github.com/azat-co/cheatsheets) - JavaScript and Node.js cheatsheets
 - [basicengine-firmware](https://github.com/uli/basicengine-firmware) - BASIC Engine Firmware
-- [docs](https://github.com/knative/docs) - User documentation for Knative components
+- [docs](https://github.com/knative/docs) - User documentation for Knative components.
 - [Switchable-Normalization](https://github.com/switchablenorms/Switchable-Normalization) - Code for Switchable Normalization from "Differentiable Learning-to-Normalize via Switchable Normalization", https://arxiv.org/abs/1806.10779
 - [aozorabunko](https://github.com/aozorabunko/aozorabunko) - 
 - [keep-a-changelog](https://github.com/olivierlacan/keep-a-changelog) - If you build software, keep a changelog.
@@ -2966,7 +2965,7 @@
 - [mc.js](https://github.com/ian13456/mc.js) - Open source Minecraft clone built with ThreeJS, ReactJS, GraphQL, and NodeJS.
 - [MagicMirror](https://github.com/MichMich/MagicMirror) - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant.
 - [amphtml](https://github.com/ampproject/amphtml) - The AMP web component framework.
-- [swagger-ui](https://github.com/swagger-api/swagger-ui) - Swagger UI is a collection of HTML, Javascript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
+- [swagger-ui](https://github.com/swagger-api/swagger-ui) - Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
 - [gridstudio](https://github.com/ricklamers/gridstudio) - Grid studio is a web-based application for data science with full integration of open source data science frameworks and languages.
 - [js-stack-from-scratch](https://github.com/UsulPro/js-stack-from-scratch) - 🌺 Russian translation of "JavaScript Stack from Scratch" from the React-Theming developers https://github.com/sm-react/react-theming
 - [weui.js](https://github.com/Tencent/weui.js) - A lightweight javascript library for WeUI.
@@ -3130,7 +3129,7 @@
 - [leaflet.TravelNotes](https://github.com/wwwouaiebe/leaflet.TravelNotes) - Editable markers and routing engine for leaflet
 - [cms.js](https://github.com/chrisdiana/cms.js) - Client-Side JavaScript Site Generator
 - [serverless-boilerplate](https://github.com/harijoe/serverless-boilerplate) - Minimal yet super-functional serverless boilerplate
-- [imba](https://github.com/imba/imba) - ✌🏽 The friendly full-stack language
+- [imba](https://github.com/imba/imba) - 🐤 The friendly full-stack language
 - [edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 - [vue-monolith-example](https://github.com/chrisvfritz/vue-monolith-example) - Simple example of how to structure a monolithic Vue application
 - [vue-resource](https://github.com/pagekit/vue-resource) - The HTTP client for Vue.js
@@ -3657,7 +3656,7 @@
 - [GoJS](https://github.com/NorthwoodsSoftware/GoJS) - JavaScript diagramming library for interactive flowcharts, org charts, design tools, planning tools, visual languages.
 - [npm-gif](https://github.com/kodie/npm-gif) - Replace NPM install's progress bar with a GIF!
 - [vue-test-utils](https://github.com/vuejs/vue-test-utils) - 🔬 Utilities for testing Vue components
-- [tabris-js](https://github.com/eclipsesource/tabris-js) - Tabris.js - Native Mobile Apps in JavaScript
+- [tabris-js](https://github.com/eclipsesource/tabris-js) - Create native mobile apps in JavaScript or TypeScript.
 - [vue-a11y-calendar](https://github.com/IBM/vue-a11y-calendar) - Accessible, internationalized Vue calendar
 - [hivemind](https://github.com/littlstar/hivemind) - For creating distributed jobs using AWS Lambda functions
 - [carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
@@ -6767,7 +6766,7 @@
 - [pytorch-pfn-extras](https://github.com/pfnet/pytorch-pfn-extras) - Supplementary components to accelerate research and development in PyTorch
 - [graphene-django](https://github.com/graphql-python/graphene-django) - Integrate GraphQL into your Django project.
 - [U-2-Net](https://github.com/NathanUA/U-2-Net) - The code for our newly accepted paper in Pattern Recognition 2020: "U^2-Net: Going Deeper with Nested U-Structure for Salient Object Detection."
-- [checkov](https://github.com/bridgecrewio/checkov) - Prevent cloud misconfigurations during build-time for Terraform, Cloudformation, Kubernetes and other infrastructure-as-code-languages with Checkov by Bridgecrew.
+- [checkov](https://github.com/bridgecrewio/checkov) - Prevent cloud misconfigurations during build-time for Terraform, Cloudformation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew.
 - [NeuralCDE](https://github.com/patrick-kidger/NeuralCDE) - Code for "Neural Controlled Differential Equations for Irregular Time Series"
 - [GithubDataVisTool](https://github.com/Garfinkel/GithubDataVisTool) - 
 - [TransformerTTS](https://github.com/as-ideas/TransformerTTS) - 🤖💬 Transformer TTS: Implementation of a non-autoregressive Transformer based neural network for text to speech.
@@ -11374,7 +11373,7 @@
 - [django-quicky](https://github.com/sametmax/django-quicky) - A collection of toys to skip the forplay with Django and go straight to the point: url and view decorators.
 - [OpenExchange](https://github.com/sb-/OpenExchange) - Open source cryptocurrency exchange
 - [ark_agent](https://github.com/skillachie/ark_agent) - Distributed Agent Based On Celery Used To Collect End Of Day Stock Data
-- [platformio-core](https://github.com/platformio/platformio-core) - PlatformIO is a new generation ecosystem for embedded development :alien: A place where Developers and Teams have true Freedom! No more hardware or software lock-ins!
+- [platformio-core](https://github.com/platformio/platformio-core) - PlatformIO is a professional collaborative platform for embedded development :alien: A place where Developers and Teams have true Freedom! No more vendor lock-in!
 - [The-Stolen-Crown-RPG](https://github.com/justinmeister/The-Stolen-Crown-RPG) - A fantasy mini-RPG built with Python and Pygame.
 - [doitlive](https://github.com/sloria/doitlive) - Because sometimes you need to do it live
 - [ursula](https://github.com/blueboxgroup/ursula) - Ansible playbooks for operating OpenStack - Powering Blue Box Cloud.
@@ -12790,7 +12789,7 @@
 - [rethinkdb-vagrant](https://github.com/RyanAmos/rethinkdb-vagrant) - Install RethinkDB using Vagrant.
 - [microservices-demo](https://github.com/microservices-demo/microservices-demo) - Deployment scripts & config for Sock Shop
 - [octo.ai](https://github.com/octoai/octo.ai) - The analytics hypervisor, an operating system to manage all your analytics needs and licensed under Apache 2.0 License.
-- [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃 A delightful community-driven (with 1500+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+- [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃 A delightful community-driven (with 1700+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [ansible-odoo](https://github.com/OCA/ansible-odoo) - Ansible role for Odoo
 - [zsh-autoswitch-virtualenv](https://github.com/MichaelAquilina/zsh-autoswitch-virtualenv) - 🐍 ZSH plugin to automatically switch python virtualenvs (including pipenv and poetry) as you move between directories
 - [m-cli](https://github.com/rgcr/m-cli) -  Swiss Army Knife for macOS
@@ -12920,7 +12919,7 @@
 - [hiplot](https://github.com/facebookresearch/hiplot) - HiPlot makes understanding high dimensional data easy
 - [gistpad](https://github.com/vsls-contrib/gistpad) - VS Code extension for managing and sharing code snippets, notes and interactive samples using GitHub Gists
 - [tfjs-models](https://github.com/tensorflow/tfjs-models) - Pretrained models for TensorFlow.js
-- [tsdx](https://github.com/jaredpalmer/tsdx) - Zero-config CLI for TypeScript package development
+- [tsdx](https://github.com/formik/tsdx) - Zero-config CLI for TypeScript package development
 - [vue-next](https://github.com/vuejs/vue-next) - Repo for Vue 3.0 (currently in beta)
 - [streamlit](https://github.com/streamlit/streamlit) - Streamlit — The fastest way to build custom ML tools
 - [typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
@@ -13296,6 +13295,7 @@
 - [vue-js-toggle-button](https://github.com/euvl/vue-js-toggle-button) - :fish_cake: Vue.js 2 toggle / switch button - simple, pretty, customizable
 - [skywalking-rocketbot-ui](https://github.com/apache/skywalking-rocketbot-ui) - SkyWalking RocketBot UI
 - [aspnetcore-vue-typescript-template](https://github.com/danijelh/aspnetcore-vue-typescript-template) - Template AspNetCore with Vue, Vue router, Vuex, TypeScript, Bulma, Sass and Jest
+- [dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for docker containers.
 - [vue-doughnut-chart](https://github.com/mazipan/vue-doughnut-chart) - 🍩 Doughnut chart component for Vue.js, originally created by Greg Willson
 - [awesome-mechanical-keyboard](https://github.com/BenRoe/awesome-mechanical-keyboard) - ⌨️ A curated list of awesome Mechanical Keyboard resources.
 - [express-template](https://github.com/nuxt-community/express-template) - Starter template for Nuxt.js with Express.
