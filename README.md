@@ -444,6 +444,7 @@
 
 - [acr-tasks](https://github.com/Azure-Samples/acr-tasks) - A collection samples for ACR Tasks, including acr-task.yaml and Dockerfiles.
 - [Microsoft-Rocketbox](https://github.com/microsoft/Microsoft-Rocketbox) - Microsoft Rocketbox is now available for research and academic use! The library of 115 rigged avatars offers flexibility, enabling the easy use of facial animations across characters and the mixing and matching of texture elements.
+- [v3](https://github.com/exercism/v3) - The work-in-progress project for developing v3 tracks
 - [furniture](https://github.com/clvrai/furniture) - IKEA Furniture Assembly Environment for Long-Horizon Complex Manipulation Tasks
 - [Reinforcement-Learning-Based-Decision-Tree](https://github.com/chriswblake/Reinforcement-Learning-Based-Decision-Tree) - Generation and evaluation of a decision tree using reinforcement learning.
 - [NLP_Datasets](https://github.com/Koziev/NLP_Datasets) - My NLP datasets for Russian language
@@ -1503,7 +1504,6 @@
 
 ## Elixir 
 
-- [v3](https://github.com/exercism/v3) - The work-in-progress project for developing v3 tracks
 - [rank](https://github.com/awesomerank/rank) - awesomerank.github.io builder
 
 ## Emacs Lisp 
@@ -3207,7 +3207,7 @@
 - [vue-i18n-service](https://github.com/f/vue-i18n-service) - vue-i18n single file component exporter/importer
 - [proposal-temporal](https://github.com/tc39/proposal-temporal) - Provides standard objects and functions for working with dates and times.
 - [ytdl-webserver](https://github.com/Algram/ytdl-webserver) - 📻 Webserver for downloading youtube videos. Ready for docker.
-- [apify-js](https://github.com/apifytech/apify-js) - Apify SDK — The scalable web crawling and scraping library for JavaScript/Node.js. Enables development of data extraction and web automation jobs (not only) with headless Chrome and Puppeteer.
+- [apify-js](https://github.com/apify/apify-js) - Apify SDK — The scalable web crawling and scraping library for JavaScript/Node.js. Enables development of data extraction and web automation jobs (not only) with headless Chrome and Puppeteer.
 - [eon-chart](https://github.com/pubnub/eon-chart) - Realtime animated graphs with PubNub and C3.
 - [c8](https://github.com/bcoe/c8) - output coverage reports using Node.js' built in coverage
 - [underrun](https://github.com/phoboslab/underrun) - Twin stick shooter game in 13kb of JavaScript/WebGL
@@ -6813,7 +6813,7 @@
 - [razdel](https://github.com/natasha/razdel) - Rule-based token, sentence segmentation for Russian language
 - [yargy](https://github.com/natasha/yargy) - Rule-based facts extraction for Russian language
 - [symspellpy](https://github.com/mammothb/symspellpy) - Python port of SymSpell
-- [PCDet](https://github.com/sshaoshuai/PCDet) - PCDet Toolbox in PyTorch for 3D Object Detection from Point Cloud
+- [OpenLidarPerceptron](https://github.com/open-mmlab/OpenLidarPerceptron) - OpenLidarPerceptron for LiDAR-based 3D Scene Perception (e.g. PCDet toolbox for 3D detection from point cloud).
 - [Tetris-deep-Q-learning-pytorch](https://github.com/uvipen/Tetris-deep-Q-learning-pytorch) - Deep Q-learning for playing tetris game
 - [CenterTrack](https://github.com/xingyizhou/CenterTrack) - Simultaneous object detection and tracking using center points.
 - [nerf-pytorch](https://github.com/yenchenlin/nerf-pytorch) - A PyTorch implementation of NeRF (Neural Radiance Fields) that reproduces the results.
@@ -7044,7 +7044,7 @@
 - [humblebundle-downloader](https://github.com/xtream1101/humblebundle-downloader) - Download you Humble Bundle Library
 - [efficientdet](https://github.com/signatrix/efficientdet) - (Pretrained weights provided) EfficientDet: Scalable and Efficient Object Detection implementation by Signatrix GmbH
 - [smac](https://github.com/oxwhirl/smac) - SMAC: The StarCraft Multi-Agent Challenge
-- [highway-env](https://github.com/eleurent/highway-env) - An environment for autonomous driving decision-making
+- [highway-env](https://github.com/eleurent/highway-env) - A minimalist environment for autonomous driving decision-making
 - [deeprl_signal_control](https://github.com/cts198859/deeprl_signal_control) - multi-agent deep reinforcement learning for large-scale traffic signal control.
 - [pymarl](https://github.com/oxwhirl/pymarl) - Python Multi-Agent Reinforcement Learning framework
 - [causalml](https://github.com/uber/causalml) - Uplift modeling and causal inference with machine learning algorithms
@@ -7237,7 +7237,7 @@
 - [redqueen](https://github.com/RUB-SysSec/redqueen) - 
 - [serverless-cat-facts](https://github.com/ryansb/serverless-cat-facts) - Distribute facts about cats without needing to run your own infrastructure
 - [realworldctf](https://github.com/phith0n/realworldctf) - My Real World CTF challenges
-- [learn2learn](https://github.com/learnables/learn2learn) - PyTorch Meta-learning Library for Researchers
+- [learn2learn](https://github.com/learnables/learn2learn) - A PyTorch Library for Meta-learning Research
 - [PyGlow](https://github.com/spino17/PyGlow) - This package is an attempt to implement Keras like API functionalities on PyTorch backend with functionalities supporting information theoretic methods which are relevant for understanding neural network dynamics.
 - [hypothesis-auto](https://github.com/timothycrosley/hypothesis-auto) - An extensions for Hypothesis that provides fully automatic testing for type hinted functions
 - [bake](https://github.com/kennethreitz-archive/bake) - Bake — the strangely familiar workflow utility.
@@ -7675,7 +7675,7 @@
 - [lambda-runtime-pypy3.5](https://github.com/iopipe/lambda-runtime-pypy3.5) - AWS Lambda Runtime for PyPy 3.5
 - [Mumbai-slum-segmentation](https://github.com/cbsudux/Mumbai-slum-segmentation) - Mumbai slum segmentation and change detection on statellite images.
 - [gandissect](https://github.com/CSAILVision/gandissect) - Pytorch-based tools for visualizing and understanding the neurons of a GAN.  https://gandissect.csail.mit.edu/
-- [d2l-en](https://github.com/d2l-ai/d2l-en) - An interactive deep learning book with code, math, and discussions.
+- [d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with code, math, and discussions. Available in multi-frameworks.
 - [satpy](https://github.com/pytroll/satpy) - Python package for earth-observing satellite data processing
 - [celluloid](https://github.com/jwkvam/celluloid) - :movie_camera: Matplotlib animations made easy
 - [redis-namespace](https://github.com/guokr/redis-namespace) - namespaced subset of your redis keyspace
@@ -8699,7 +8699,7 @@
 - [pcap2curl](https://github.com/jullrich/pcap2curl) - Read a packet capture, extract HTTP requests and turn them into cURL commands for replay.
 - [rasa_core](https://github.com/RasaHQ/rasa_core) - Rasa Core is now part of the Rasa repo: An open source machine learning framework to automate text-and voice-based conversations
 - [PySyft](https://github.com/OpenMined/PySyft) - A library for encrypted, privacy preserving machine learning
-- [coremltools](https://github.com/apple/coremltools) - Core ML Community Tools.
+- [coremltools](https://github.com/apple/coremltools) - Core ML Community Tools. Documentation:
 - [halo](https://github.com/manrajgrover/halo) - 💫 Beautiful spinners for terminal, IPython and Jupyter
 - [plotille](https://github.com/tammoippen/plotille) - Plot in the terminal using braille dots.
 - [benchmarks](https://github.com/tensorpack/benchmarks) - Use TensorFlow efficiently
@@ -10292,7 +10292,6 @@
 - [DeepLearningVideoGames](https://github.com/nikitasrivatsan/DeepLearningVideoGames) - 
 - [Diamond](https://github.com/python-diamond/Diamond) - Diamond is a python daemon that collects system metrics and publishes them to Graphite (and others). It is capable of collecting cpu, memory, network, i/o, load and disk metrics. Additionally, it features an API for implementing custom collectors for gathering metrics from almost any source.
 - [Python-lectures](https://github.com/uralbash/Python-lectures) - Лекции по яп Python - УГТУ-УПИ, кафедра ИИТ.
-- [flask-triangle](https://github.com/morgan-del/flask-triangle) - Integration of AngularJS and Flask.
 - [ispy](https://github.com/dellis23/ispy) - Monitor the output of terminals and processes.
 - [lektor](https://github.com/lektor/lektor) - The lektor static file content management system
 - [tqdm](https://github.com/tqdm/tqdm) - A Fast, Extensible Progress Bar for Python and CLI
@@ -12467,7 +12466,7 @@
 - [swirl_courses](https://github.com/swirldev/swirl_courses) - :mortar_board: A collection of interactive courses for the swirl R package.
 - [modelr](https://github.com/tidyverse/modelr) - Helper functions for modelling
 - [ReporteRs](https://github.com/davidgohel/ReporteRs) - Note that ReporteRs has been removed from CRAN the 16th of July 2018 and is not maintained anymore. please migrate to officer.
-- [tidytext](https://github.com/juliasilge/tidytext) - Text mining using dplyr, ggplot2, and other tidy tools :sparkles::page_facing_up::sparkles::page_facing_up::sparkles:
+- [tidytext](https://github.com/juliasilge/tidytext) - Text mining using tidy tools :sparkles::page_facing_up::sparkles:
 - [bayesAB](https://github.com/FrankPortman/bayesAB) - 🐢 bayesAB: Fast Bayesian Methods for A/B Testing
 - [ggiraph](https://github.com/davidgohel/ggiraph) - make 'ggplot' graphics interactive
 - [caret](https://github.com/topepo/caret) - caret (Classification And Regression Training) R package that contains misc functions for training and plotting classification and regression models
@@ -13090,7 +13089,7 @@
 - [BlockchainStore](https://github.com/brakmic/BlockchainStore) - :moneybag: Retail Store that runs on Ethereum
 - [vue-typed](https://github.com/vue-typed/vue-typed) - Sets of ECMAScript / Typescript decorators that helps you write Vue component easily.
 - [taxi-rank](https://github.com/ForbesLindesay/taxi-rank) - A JSDom based Selenium Webdriver API
-- [NativeScript](https://github.com/NativeScript/NativeScript) - NativeScript is an open source framework for building truly native mobile apps with JavaScript. Use web skills, like Angular and Vue.js, FlexBox and CSS, and get native UI and performance on iOS and Android.
+- [NativeScript](https://github.com/NativeScript/NativeScript) - NativeScript empowers you to access native api's from JavaScript directly. Angular, Vue, Svelte, React and you name it compatible.
 - [caprine](https://github.com/sindresorhus/caprine) - Elegant Facebook Messenger desktop app
 - [desktop](https://github.com/desktop/desktop) - Simple collaboration from your desktop
 - [vx](https://github.com/hshoff/vx) - 🐯react + d3 = vx | visualization components
