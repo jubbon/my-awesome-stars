@@ -2799,10 +2799,10 @@
 - [A_Guide_to_Running_Tensorflow_Models_on_Android](https://github.com/llSourcell/A_Guide_to_Running_Tensorflow_Models_on_Android) - This is the code for"A Guide to Running Tensorflow Models on Android" By SIraj Raval on Youtube
 - [jackhammer](https://github.com/olacabs/jackhammer) - Jackhammer - One Security vulnerability assessment/management tool to solve all the security team problems.
 - [EasyML](https://github.com/ICT-BDA/EasyML) - Easy Machine Learning is a general-purpose dataflow-based system for easing the process of applying machine learning algorithms to real world tasks.
-- [systemml](https://github.com/apache/systemml) - Mirror of Apache SystemML
+- [systemds](https://github.com/apache/systemds) - Mirror of Apache SystemML
 - [FirebaseUI-Android](https://github.com/firebase/FirebaseUI-Android) - Optimized UI components for Firebase
 - [from-java-to-kotlin](https://github.com/MindorksOpenSource/from-java-to-kotlin) - From Java To Kotlin - Your Cheat Sheet For Java To Kotlin
-- [gitpitch](https://github.com/gitpitch/gitpitch) - The Markdown Presentation Service For Developers
+- [gitpitch](https://github.com/gitpitch/gitpitch) - Markdown Presentations for Tech Conferences, Training, Developer Advocates, and Educators.
 - [AlgoDS](https://github.com/sherxon/AlgoDS) - Implementation of Algorithms and Data Structures, Problems and Solutions
 - [mit-deep-learning-book-pdf](https://github.com/janishar/mit-deep-learning-book-pdf) - MIT Deep Learning Book in PDF format (complete and parts) by Ian Goodfellow, Yoshua Bengio and Aaron Courville
 - [interviews](https://github.com/kdn251/interviews) - Everything you need to know to get the job.
@@ -4355,7 +4355,7 @@
 - [open-in-nbviewer](https://github.com/jiffyclub/open-in-nbviewer) - Easily open your current page in nbviewer
 - [lightning](https://github.com/lightning-viz/lightning) - Data Visualization Server
 - [tmpnb](https://github.com/jupyter/tmpnb) - Creates temporary Jupyter Notebook servers using Docker containers. [DEPRECATED - See BinderHub project]
-- [jam-py](https://github.com/jam-py/jam-py) - Jam.py is an event-driven framework for the development of web database applications.
+- [jam-py](https://github.com/jam-py/jam-py) - Jam.py is an event-driven framework for the development of database applications with a Web interface.
 - [synaptic](https://github.com/cazala/synaptic) - architecture-free neural network library for node.js and the browser
 - [tsomi](https://github.com/cloudcity/tsomi) - The Sphere of My Influence
 - [gamification-server](https://github.com/ngageoint/gamification-server) - Server to track gamification elements (badges, points, tags) to work pages or apps
@@ -4656,6 +4656,7 @@
 - [InsightFace_Pytorch](https://github.com/TreB1eN/InsightFace_Pytorch) - Pytorch0.4.1 codes for InsightFace
 - [jupyters_and_slides](https://github.com/HCIT-Computing-Intelligence/jupyters_and_slides) - 
 - [CVPR-2019-Paper-Statistics](https://github.com/hoya012/CVPR-2019-Paper-Statistics) - Statistics and Visualization of acceptance rate, main keyword of CVPR 2019 accepted papers for the main Computer Vision conference (CVPR)
+- [DeepLearningExamples](https://github.com/NVIDIA/DeepLearningExamples) - Deep Learning Examples
 - [h3-py-notebooks](https://github.com/uber/h3-py-notebooks) - Jupyter notebooks for h3-py, a hierarchical hexagonal geospatial indexing system
 - [materials](https://github.com/realpython/materials) - Bonus materials, exercises, and example projects for our Python tutorials
 - [aws-deepracer-workshops](https://github.com/aws-samples/aws-deepracer-workshops) - DeepRacer workshop content
@@ -7377,7 +7378,6 @@
 - [confluent-kafka-python](https://github.com/confluentinc/confluent-kafka-python) - Confluent's Kafka Python Client
 - [aws-well-architected-labs](https://github.com/awslabs/aws-well-architected-labs) - Hands on labs and code to help you learn, measure, and build using architectural best practices.
 - [professional-services](https://github.com/GoogleCloudPlatform/professional-services) - Common solutions and tools developed by Google Cloud's Professional Services team
-- [DeepLearningExamples](https://github.com/NVIDIA/DeepLearningExamples) - Deep Learning Examples
 - [insightface](https://github.com/deepinsight/insightface) - Face Analysis Project on MXNet
 - [keras-retinanet](https://github.com/fizyr/keras-retinanet) - Keras implementation of RetinaNet object detection.
 - [sacred](https://github.com/IDSIA/sacred) - Sacred is a tool to help you configure, organize, log and reproduce experiments developed at IDSIA.
@@ -11181,7 +11181,7 @@
 - [ws](https://github.com/Fiedzia/ws) - ws - one tools that brings all kinds of webservices to command-line. Your command-line.
 - [monufacture](https://github.com/gamechanger/monufacture) - A Python library for setting up Mongo documents for testing
 - [glove-python](https://github.com/maciejkula/glove-python) - Toy Python implementation of http://www-nlp.stanford.edu/projects/glove/
-- [djangae](https://github.com/potatolondon/djangae) - The best way to run Django on Google App Engine
+- [djangae](https://github.com/potatolondon/djangae) - The best way to run Django on Google Cloud
 - [django-pushy](https://github.com/rakanalh/django-pushy) - Your push notifications handled at scale.
 - [vimswitch](https://github.com/priomsrb/vimswitch) - Use your vim settings anywhere
 - [pixie](https://github.com/pixie-lang/pixie) - A small, fast, native lisp with "magical" powers
