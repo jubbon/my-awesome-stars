@@ -623,7 +623,7 @@
 - [grpc-web](https://github.com/grpc/grpc-web) - gRPC for Web Clients
 - [oatpp](https://github.com/oatpp/oatpp) - 🌱Modern Web Framework for C++. High performance, simple API, cross platform, zero dependency.
 - [Algorithms](https://github.com/VAR-solutions/Algorithms) - Efficient Algorithms
-- [openvino](https://github.com/openvinotoolkit/openvino) - OpenVINO™ Toolkit - Deep Learning Deployment Toolkit repository
+- [openvino](https://github.com/openvinotoolkit/openvino) - OpenVINO™ Toolkit repository
 - [ACM-ICPC-Algorithms](https://github.com/matthewsamuel95/ACM-ICPC-Algorithms) - Algorithms used in Competitive Programming
 - [DeepMimic](https://github.com/xbpeng/DeepMimic) - Motion imitation with deep reinforcement learning.
 - [hacktoberfest-2018](https://github.com/my-first-pr/hacktoberfest-2018) - 
@@ -2722,6 +2722,7 @@
 - [REST-tutorial](https://github.com/miguelgrinberg/REST-tutorial) - Files for my REST API tutorials featuring a server written in Python and a web client written in Javascript.
 - [bootstrap-wysiwyg](https://github.com/mindmup/bootstrap-wysiwyg) - Tiny bootstrap-compatible WISWYG rich text editor
 - [pelican-blog](https://github.com/aclark4life/pelican-blog) - Alex Clark's Blog
+- [howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
 
 ## Hack 
 
@@ -3604,7 +3605,7 @@
 - [gdbgui](https://github.com/cs01/gdbgui) - Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will open in your browser.
 - [tikzcd-editor](https://github.com/yishn/tikzcd-editor) - A simple visual editor for creating commutative diagrams.
 - [server](https://github.com/franciscop/server) - :desktop_computer: Simple and powerful server for Node.js
-- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark: The Node.js best practices list (June 2020)
+- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (June 2020)
 - [charts](https://github.com/frappe/charts) - Simple, responsive, modern SVG Charts with zero dependencies
 - [leaflet-control-orderlayers](https://github.com/elesdoar/leaflet-control-orderlayers) - Leaflet control with order functionality
 - [bottery](https://github.com/google/bottery) - 
@@ -4509,7 +4510,6 @@
 - [first-order-model](https://github.com/AliaksandrSiarohin/first-order-model) - This repository contains the source code for the paper First Order Motion Model for Image Animation
 - [capsule_net_pytorch](https://github.com/cezannec/capsule_net_pytorch) - Readable implementation of a Capsule Network as described in "Dynamic Routing Between Capsules" [Hinton et. al.]
 - [ABD](https://github.com/malrev/ABD) - Course materials for Advanced Binary Deobfuscation by NTT Secure Platform Laboratories
-- [vectorbt](https://github.com/polakowo/vectorbt) - Python library for backtesting and analyzing trading strategies at scale
 - [graph_nets](https://github.com/dsgiitr/graph_nets) - PyTorch Implementation and Explanation of Graph Representation Learning papers involving DeepWalk, GCN, GraphSAGE, ChebNet & GAT.
 - [public_workshop](https://github.com/ShT3ch/public_workshop) - Это репозиторий, куда я складываю материалы с разных своих докладов. Тут пока грязновато, но я приберусь.
 - [Data-Structure-and-Algorithm-Using-Python](https://github.com/soumyadip007/Data-Structure-and-Algorithm-Using-Python) - In computer science, a data structure is a data organization, management, and storage format that enables efficient access and modification. More precisely, a data structure is a collection of data values, the relationships among them, and the functions or operations that can be applied to the data. (Using Python 3)
@@ -6759,7 +6759,7 @@
 - [TENER](https://github.com/fastnlp/TENER) - Codes for "TENER: Adapting Transformer Encoder for Named Entity Recognition"
 - [Realtime_PyAudio_FFT](https://github.com/tr1pzz/Realtime_PyAudio_FFT) - Realtime audio analysis in Python, using PyAudio and Numpy to extract and visualize FFT features from streaming audio.
 - [motion_imitation](https://github.com/google-research/motion_imitation) - Code accompanying the paper "Learning Agile Robotic Locomotion Skills by Imitating Animals"
-- [kiss-headers](https://github.com/Ousret/kiss-headers) - 💡Python package for object oriented headers, HTTP/1.1 style. Parse headers to objects.
+- [kiss-headers](https://github.com/Ousret/kiss-headers) - 💡Python package for HTTP/1.1 style headers. Parse headers to objects. Most advanced available structure for http headers.
 - [xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh
 - [interrogate](https://github.com/econchick/interrogate) - Explain yourself! Interrogate a codebase for docstring coverage.
 - [nnsvs](https://github.com/r9y9/nnsvs) - Neural network-based singing voice synthesis library for research
@@ -6974,6 +6974,7 @@
 - [docker-python](https://github.com/Kaggle/docker-python) - Kaggle Python docker image
 - [muzero-general](https://github.com/werner-duvaud/muzero-general) - MuZero
 - [book](https://github.com/cosmicpython/book) - A Book about Pythonic Application Architecture Patterns for Managing Complexity.  Cosmos is the Opposite of Chaos you see. O'R. wouldn't actually let us call it "Cosmic Python" tho.
+- [vectorbt](https://github.com/polakowo/vectorbt) - Python library for backtesting and analyzing trading strategies at scale
 - [pytorch-yolo-v3](https://github.com/ayooshkathuria/pytorch-yolo-v3) - A PyTorch implementation of the YOLO v3 object detection algorithm
 - [newscatcher](https://github.com/kotartemiy/newscatcher) - Programmatically collect normalized news from (almost) any website.
 - [Zooming-Slow-Mo-CVPR-2020](https://github.com/Mukosame/Zooming-Slow-Mo-CVPR-2020) - Fast and Accurate One-Stage Space-Time Video Super-Resolution (accepted in CVPR 2020)
@@ -11062,7 +11063,7 @@
 - [platter](https://github.com/mitsuhiko/platter) - A useful helper for wheel deployments.
 - [matplotlib_for_papers](https://github.com/jbmouret/matplotlib_for_papers) - Handout for the tutorial "Creating publication-quality figures with matplotlib"
 - [WeasyPrint](https://github.com/Kozea/WeasyPrint) - WeasyPrint converts web documents (HTML with CSS, SVG, …) to PDF.
-- [pbr](https://github.com/openstack/pbr) - Python Build Reasonableness
+- [pbr](https://github.com/openstack/pbr) - Python Build Reasonableness. Mirror of code maintained at opendev.org.
 - [overloading.py](https://github.com/bintoro/overloading.py) - Function overloading for Python 3
 - [pqaut](https://github.com/garyjohnson/pqaut) - UI automation server that runs in PyQt apps and enables BDD style testing.
 - [dirmon](https://github.com/ayancey/dirmon) - Cross-platform library to poll directories for changes (added/removed)
@@ -12356,7 +12357,6 @@
 - [pypush](https://github.com/viveksjain/pypush) - Continuously push local changes to a remote server
 - [pholcidae](https://github.com/bbrodriges/pholcidae) - Tiny python web crawler
 - [quepy](https://github.com/machinalis/quepy) - A python framework to transform natural language questions to queries in a database query language.
-- [howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
 - [aws-cli](https://github.com/aws/aws-cli) - Universal Command Line Interface for Amazon Web Services
 - [arrow](https://github.com/crsmithdev/arrow) - Better dates & times for Python
 - [blaze](https://github.com/blaze/blaze) - NumPy and Pandas interface to Big Data
