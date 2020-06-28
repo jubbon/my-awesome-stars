@@ -140,7 +140,7 @@
 - [thc-tips-tricks-hacks-cheat-sheet](https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet) - Various tips & tricks
 - [htop](https://github.com/hishamhm/htop) - htop is an interactive text-mode process viewer for Unix systems. It aims to be a better 'top'.
 - [wazuh](https://github.com/wazuh/wazuh) - Wazuh - The Open Source Security Platform
-- [OnlinePythonTutor](https://github.com/pgbovine/OnlinePythonTutor) - Visualize Python, Java, JavaScript, TypeScript, Ruby, C, and C++ code execution in your Web browser
+- [OnlinePythonTutor](https://github.com/pythontutor-dev/OnlinePythonTutor) - Visualize Python, Java, JavaScript, TypeScript, Ruby, C, and C++ code execution in your Web browser
 - [xxHash](https://github.com/Cyan4973/xxHash) - Extremely fast non-cryptographic hash algorithm
 - [openssh-portable](https://github.com/openssh/openssh-portable) - Portable OpenSSH
 - [smartdns](https://github.com/pymumu/smartdns) - A local DNS server to obtain the fastest website IP for the best Internet experience， 一个本地DNS服务器，获取最快的网站IP，获得最佳上网体验。
@@ -629,7 +629,7 @@
 - [hacktoberfest-2018](https://github.com/my-first-pr/hacktoberfest-2018) - 
 - [Data-Structures-And-Algorithms-Hacktoberfest18](https://github.com/yshshrm/Data-Structures-And-Algorithms-Hacktoberfest18) - List of data structures and algorithms. Feel free to contribute under Hacktoberfest '18!
 - [s2geometry](https://github.com/google/s2geometry) - Computational geometry and spatial indexing on the sphere
-- [MMKV](https://github.com/Tencent/MMKV) - An efficient, small mobile key-value storage framework developed by WeChat. Works on Android, iOS, macOS, Windows and POSIX.
+- [MMKV](https://github.com/Tencent/MMKV) - An efficient, small mobile key-value storage framework developed by WeChat. Works on Android, iOS, macOS, Windows, and POSIX.
 - [uConfig](https://github.com/Robotips/uConfig) - Datasheet pinout extractor from PDF and library Stylizer for Kicad.
 - [DancingGaga](https://github.com/jing-interactive/DancingGaga) - AI 尬舞机
 - [Adaptive_Feeding](https://github.com/funnyzhou/Adaptive_Feeding) - 
@@ -830,7 +830,7 @@
 - [float-hacks](https://github.com/leegao/float-hacks) - Floating Point Hacks
 - [tera](https://github.com/baidu/tera) - An Internet-Scale Database.
 - [TANK](https://github.com/phaistos-networks/TANK) - A very high performance distributed log service
-- [openpilot](https://github.com/commaai/openpilot) - open source driving agent
+- [openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 85 supported car makes and models.
 - [nccl](https://github.com/NVIDIA/nccl) - Optimized primitives for collective multi-GPU communication
 - [caffe](https://github.com/weiliu89/caffe) - Caffe: a fast open framework for deep learning.
 - [Retro-Learning-Environment](https://github.com/nadavbh12/Retro-Learning-Environment) - The Retro Learning Environment (RLE) -- a learning framework for AI
@@ -1678,6 +1678,7 @@
 - [lorca](https://github.com/zserge/lorca) - Build cross-platform modern desktop apps in Go + HTML5
 - [kubeedge](https://github.com/kubeedge/kubeedge) - Kubernetes Native Edge Computing Framework (project under CNCF)
 - [webtty](https://github.com/maxmcd/webtty) - Share a terminal session over WebRTC
+- [dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for docker containers.
 - [krakend](https://github.com/devopsfaith/krakend) - Ultra performant API Gateway with middlewares
 - [clash](https://github.com/Dreamacro/clash) - A rule-based tunnel in Go.
 - [Tigo](https://github.com/karldoenitz/Tigo) - Tigo is an HTTP web framework written in Go (Golang).It features a Tornado-like API with better performance.  Tigo是一款用Go语言开发的web应用框架，API特性类似于Tornado并且拥有比Tornado更好的性能。
@@ -4486,6 +4487,7 @@
 - [the-craft-of-selfteaching](https://github.com/selfteaching/the-craft-of-selfteaching) - One has no future if one couldn't teach themself.
 - [scikit-learn-tips](https://github.com/justmarkham/scikit-learn-tips) - :robot::zap: Daily scikit-learn tips
 - [6S083](https://github.com/mitmath/6S083) - Materials for MIT 6.S083 / 18.S190: Computational thinking with Julia + application to the COVID-19 pandemic
+- [simclr](https://github.com/google-research/simclr) - SimCLRv2 - Big Self-Supervised Models are Strong Semi-Supervised Learners
 - [compling_nlp_hse_course](https://github.com/mannefedov/compling_nlp_hse_course) - Материалы курса по компьютерной лингвистике Школы Лингвистики НИУ ВШЭ
 - [log-anomaly-detector](https://github.com/AICoE/log-anomaly-detector) - Log Anomaly Detection - Machine learning to detect abnormal events logs
 - [Pandas-Data-Science-Tasks](https://github.com/KeithGalli/Pandas-Data-Science-Tasks) - Set of real world data science tasks completed using the Python Pandas library
@@ -5922,6 +5924,7 @@
 - [otv2-platform](https://github.com/opentraffic/otv2-platform) - An overview of the entire Open Traffic v2 platform and its components
 - [The-Hackers-Hardware-Toolkit](https://github.com/yadox666/The-Hackers-Hardware-Toolkit) - The best hacker's gadgets for Red Team pentesters and security researchers.
 - [awesome-opensource-documents](https://github.com/hubtee/awesome-opensource-documents) - :blue_book: A curated list of awesome open source or open source licensed documents, guides, books.
+- [LeakLooker](https://github.com/woj-ciech/LeakLooker) - Find open databases - Powered by Binaryedge.io
 - [your-dns](https://github.com/yegle/your-dns) - A docker-compose file to provide a secure adblocking DNS server
 - [awesome-react-hooks](https://github.com/glauberfc/awesome-react-hooks) - A curated list about React Hooks
 - [Must-read-papers-and-continuous-tracking-on-Graph-Neural-Network-GNN-progress](https://github.com/jdlc105/Must-read-papers-and-continuous-tracking-on-Graph-Neural-Network-GNN-progress) - Papers on Graph neural network(GNN)
@@ -6015,6 +6018,7 @@
 - [one-python-craftsman](https://github.com/piglei/one-python-craftsman) - 来自一位 Pythonista 的编程经验分享，内容涵盖编码技巧、最佳实践与思维模式等方面。
 - [awesome-pytorch-scholarship](https://github.com/arnas/awesome-pytorch-scholarship) - A list of awesome PyTorch scholarship articles, guides, blogs, courses and other resources.
 - [APISecurityBestPractices](https://github.com/GitGuardian/APISecurityBestPractices) - Resources to help you keep secrets (API keys, database credentials, certificates, ...) out of source code and remediate the issue in case of a leaked API key. Made available by GitGuardian.
+- [kamerka](https://github.com/woj-ciech/kamerka) - Build interactive map of cameras from Shodan
 - [promise-cookbook](https://github.com/mattdesl/promise-cookbook) - :orange_book: a brief introduction to using Promises in JavaScript
 - [awesome-promises](https://github.com/wbinnssmith/awesome-promises) - A curated list of useful resources for JavaScript Promises
 - [awesome-flake8-extensions](https://github.com/DmytroLitvinov/awesome-flake8-extensions) - :octocat: A curated awesome list of flake8 extensions. Feel free to contribute! :mortar_board:
@@ -6774,7 +6778,7 @@
 - [ScoutSuite](https://github.com/nccgroup/ScoutSuite) - Multi-Cloud Security Auditing Tool
 - [azure-sdk-for-python](https://github.com/Azure/azure-sdk-for-python) - This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/en-us/python/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-python.
 - [DataCamp](https://github.com/wblakecannon/DataCamp) - DataCamp data-science courses
-- [tensorflow-yolov4-tflite](https://github.com/hunglc007/tensorflow-yolov4-tflite) - YOLOv4, YOLOv3, YOLO-tiny Implemented in Tensorflow 2.0, Android. Convert YOLO v4 .weights tensorflow, tensorrt and tflite
+- [tensorflow-yolov4-tflite](https://github.com/hunglc007/tensorflow-yolov4-tflite) - YOLOv4, YOLOv4-tiny, YOLOv3, YOLOv3-tiny Implemented in Tensorflow 2.0, Android. Convert YOLO v4 .weights tensorflow, tensorrt and tflite
 - [Background-Matting](https://github.com/senguptaumd/Background-Matting) - Background Matting: The World is Your Green Screen
 - [click-completion](https://github.com/click-contrib/click-completion) - Add or enhance bash, fish, zsh and powershell completion in Click
 - [fastapi-utils](https://github.com/dmontagu/fastapi-utils) - Reusable utilities for FastAPI
@@ -6889,7 +6893,6 @@
 - [Practical-Ethical-Hacking-Resources](https://github.com/Gr1mmie/Practical-Ethical-Hacking-Resources) - Compilation of Resources from TCM's Practical Ethical Hacking Udemy Course
 - [SSV](https://github.com/NVlabs/SSV) - Pytorch implementation of SSV: Self-Supervised Viewpoint Learning from Image Collections (CVPR 2020)
 - [alimama-common-performance-platform-acp](https://github.com/alibaba/alimama-common-performance-platform-acp) - common-performance platform&tools(acp)   c++/python.  分布式性能测试工具
-- [simclr](https://github.com/google-research/simclr) - SimCLRv2 - Big Self-Supervised Models are Strong Semi-Supervised Learners
 - [FairMOT](https://github.com/ifzhang/FairMOT) - A simple baseline for one-shot multi-object tracking
 - [kivy](https://github.com/kivy/kivy) - Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS
 - [eat_tensorflow2_in_30_days](https://github.com/lyhue1991/eat_tensorflow2_in_30_days) - Tensorflow2.0 🍎🍊 is delicious, just eat it! 😋😋
@@ -6916,7 +6919,7 @@
 - [gensim-data](https://github.com/RaRe-Technologies/gensim-data) - Data repository for pretrained NLP models and NLP corpora.
 - [sense2vec](https://github.com/explosion/sense2vec) - 🦆 Contextually-keyed word vectors
 - [remi](https://github.com/YatingMusic/remi) - "Pop Music Transformer: Generating Music with Rhythm and Harmony", arXiv 2020
-- [tianshou](https://github.com/thu-ml/tianshou) - An elegant, flexible, and superfast PyTorch deep Reinforcement Learning platform.
+- [tianshou](https://github.com/thu-ml/tianshou) - An elegant, flexible, and superfast PyTorch deep reinforcement learning platform.
 - [pycls](https://github.com/facebookresearch/pycls) - Codebase for Image Classification Research, written in PyTorch.
 - [PaddleHub](https://github.com/PaddlePaddle/PaddleHub) - Toolkit For Pre-Trained Model Application of PaddlePaddle（『飞桨』预训练模型应用工具 ）
 - [CurveFit](https://github.com/ihmeuw-msca/CurveFit) - Generic curve fitting package with nonlinear mixed effects model
@@ -7415,7 +7418,6 @@
 - [EfficientNet-PyTorch](https://github.com/lukemelas/EfficientNet-PyTorch) - A PyTorch implementation of EfficientNet
 - [chineseocr](https://github.com/chineseocr/chineseocr) - yolo3+ocr
 - [SATNet](https://github.com/locuslab/SATNet) - Bridging deep learning and logical reasoning using a differentiable satisfiability solver.
-- [LeakLooker](https://github.com/woj-ciech/LeakLooker) - Find open databases - Powered by Binaryedge.io
 - [EdgeRealtimeVideoAnalytics](https://github.com/RedisGears/EdgeRealtimeVideoAnalytics) - An example of using Redis Streams, RedisGears, RedisAI and RedisTimeSeries for Realtime Video Analytics (i.e. counting people)
 - [SogouMRCToolkit](https://github.com/sogou/SogouMRCToolkit) - This toolkit was designed for the fast and efficient development of modern machine comprehension models, including both published models and original prototypes.
 - [efficientnet](https://github.com/qubvel/efficientnet) - Implementation of EfficientNet model. Keras and TensorFlow Keras.
@@ -7713,7 +7715,6 @@
 - [eo-learn](https://github.com/sentinel-hub/eo-learn) - Earth observation processing framework for machine learning in Python
 - [pixyz](https://github.com/masa-su/pixyz) - A library for developing deep generative models in a more concise, intuitive and extendable way
 - [hiddenlayer](https://github.com/waleedka/hiddenlayer) - Neural network graphs and training metrics for PyTorch, Tensorflow, and Keras.
-- [kamerka](https://github.com/woj-ciech/kamerka) - Build interactive map of cameras from Shodan
 - [FloWaveNet](https://github.com/ksw0306/FloWaveNet) - A Pytorch implementation of "FloWaveNet: A Generative Flow for Raw Audio"
 - [spinningup](https://github.com/openai/spinningup) - An educational resource to help anyone learn deep reinforcement learning.
 - [transformers](https://github.com/huggingface/transformers) - 🤗Transformers: State-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0.
@@ -8411,7 +8412,7 @@
 - [asciietch](https://github.com/linkedin/asciietch) - A graphing library with the goal of making it simple to graphs using ascii characters.
 - [fossor](https://github.com/linkedin/fossor) - A plugin-oriented tool for automating the investigation of broken hosts and services.
 - [opencensus-python](https://github.com/census-instrumentation/opencensus-python) - A stats collection and distributed tracing framework
-- [ignite](https://github.com/pytorch/ignite) - High-level library to help with training neural networks in PyTorch
+- [ignite](https://github.com/pytorch/ignite) - High-level library to help with training and evaluating neural networks in PyTorch flexibly and transparently.
 - [keras-text](https://github.com/raghakot/keras-text) - Text Classification Library in Keras
 - [quart](https://github.com/pgjones/quart) - Official mirror of https://gitlab.com/pgjones/quart
 - [protoactor-python](https://github.com/AsynkronIT/protoactor-python) - Proto Actor - Ultra fast distributed actors
@@ -12914,7 +12915,7 @@
 - [lens](https://github.com/lensapp/lens) - Lens - The Kubernetes IDE
 - [backstage](https://github.com/spotify/backstage) - Backstage is an open platform for building developer portals
 - [examples](https://github.com/pulumi/examples) - Infrastructure, containers, and serverless apps to AWS, Azure, GCP, and Kubernetes... all deployed with Pulumi
-- [rome](https://github.com/romejs/rome) - An experimental JavaScript toolchain
+- [rome](https://github.com/romejs/rome) - The Rome JavaScript toolchain. Standardizing the JavaScript developer experience.
 - [hiplot](https://github.com/facebookresearch/hiplot) - HiPlot makes understanding high dimensional data easy
 - [gistpad](https://github.com/vsls-contrib/gistpad) - VS Code extension for managing and sharing code snippets, notes and interactive samples using GitHub Gists
 - [tfjs-models](https://github.com/tensorflow/tfjs-models) - Pretrained models for TensorFlow.js
@@ -13294,7 +13295,6 @@
 - [vue-js-toggle-button](https://github.com/euvl/vue-js-toggle-button) - :fish_cake: Vue.js 2 toggle / switch button - simple, pretty, customizable
 - [skywalking-rocketbot-ui](https://github.com/apache/skywalking-rocketbot-ui) - SkyWalking RocketBot UI
 - [aspnetcore-vue-typescript-template](https://github.com/danijelh/aspnetcore-vue-typescript-template) - Template AspNetCore with Vue, Vue router, Vuex, TypeScript, Bulma, Sass and Jest
-- [dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for docker containers.
 - [vue-doughnut-chart](https://github.com/mazipan/vue-doughnut-chart) - 🍩 Doughnut chart component for Vue.js, originally created by Greg Willson
 - [awesome-mechanical-keyboard](https://github.com/BenRoe/awesome-mechanical-keyboard) - ⌨️ A curated list of awesome Mechanical Keyboard resources.
 - [express-template](https://github.com/nuxt-community/express-template) - Starter template for Nuxt.js with Express.
