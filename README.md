@@ -140,7 +140,6 @@
 - [thc-tips-tricks-hacks-cheat-sheet](https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet) - Various tips & tricks
 - [htop](https://github.com/hishamhm/htop) - htop is an interactive text-mode process viewer for Unix systems. It aims to be a better 'top'.
 - [wazuh](https://github.com/wazuh/wazuh) - Wazuh - The Open Source Security Platform
-- [OnlinePythonTutor](https://github.com/pythontutor-dev/OnlinePythonTutor) - Visualize Python, Java, JavaScript, TypeScript, Ruby, C, and C++ code execution in your Web browser
 - [xxHash](https://github.com/Cyan4973/xxHash) - Extremely fast non-cryptographic hash algorithm
 - [openssh-portable](https://github.com/openssh/openssh-portable) - Portable OpenSSH
 - [smartdns](https://github.com/pymumu/smartdns) - A local DNS server to obtain the fastest website IP for the best Internet experience， 一个本地DNS服务器，获取最快的网站IP，获得最佳上网体验。
@@ -183,7 +182,7 @@
 - [AgentSmith-HIDS](https://github.com/EBWi11/AgentSmith-HIDS) - By Kprobe technology Open Source Host-based Intrusion Detection System(HIDS), from E_Bwill.
 - [redis-gis](https://github.com/tidwall/redis-gis) - Redis fork with Geospatial support based on Tile38 commands
 - [mosquitto](https://github.com/eclipse/mosquitto) - Eclipse Mosquitto - An open source MQTT broker
-- [C](https://github.com/TheAlgorithms/C) - All Algorithms implemented in C
+- [C](https://github.com/TheAlgorithms/C) - Collection of various algorithms in mathematics, machine learning, computer science, physics, etc implemented in C for educational purposes.
 - [QNNPACK](https://github.com/pytorch/QNNPACK) - Quantized Neural Network PACKage - mobile-optimized implementation of quantized neural network operators
 - [RedisGraph](https://github.com/RedisGraph/RedisGraph) - A graph database as a Redis module
 - [nginx-link-function](https://github.com/Taymindis/nginx-link-function) - It is a NGINX module that provides dynamic linking to your application in server context and call the function of your application in location directive
@@ -1647,7 +1646,7 @@
 - [pipe-to-me](https://github.com/jpschroeder/pipe-to-me) - Stream data over http using curl.
 - [kraken](https://github.com/uber/kraken) - P2P Docker registry capable of distributing TBs of data in seconds
 - [astro](https://github.com/uber/astro) - Astro is a tool for managing multiple Terraform executions as a single command
-- [cortex](https://github.com/cortexlabs/cortex) - Build machine learning APIs
+- [cortex](https://github.com/cortexlabs/cortex) - API platform for machine learning engineers
 - [cds](https://github.com/ovh/cds) - Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform
 - [k3s](https://github.com/rancher/k3s) - Lightweight Kubernetes
 - [docui](https://github.com/skanehira/docui) - TUI Client for Docker
@@ -1678,7 +1677,6 @@
 - [lorca](https://github.com/zserge/lorca) - Build cross-platform modern desktop apps in Go + HTML5
 - [kubeedge](https://github.com/kubeedge/kubeedge) - Kubernetes Native Edge Computing Framework (project under CNCF)
 - [webtty](https://github.com/maxmcd/webtty) - Share a terminal session over WebRTC
-- [dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for docker containers.
 - [krakend](https://github.com/devopsfaith/krakend) - Ultra performant API Gateway with middlewares
 - [clash](https://github.com/Dreamacro/clash) - A rule-based tunnel in Go.
 - [Tigo](https://github.com/karldoenitz/Tigo) - Tigo is an HTTP web framework written in Go (Golang).It features a Tornado-like API with better performance.  Tigo是一款用Go语言开发的web应用框架，API特性类似于Tornado并且拥有比Tornado更好的性能。
@@ -1837,7 +1835,7 @@
 - [virtcontainers](https://github.com/containers/virtcontainers) - A Go package for building hardware virtualized container runtimes
 - [gitleaks](https://github.com/zricethezav/gitleaks) - Scan git repos for secrets using regex and entropy 🔑
 - [goben](https://github.com/udhos/goben) - goben is a golang tool to measure TCP/UDP transport layer throughput between hosts.
-- [linkerd2](https://github.com/linkerd/linkerd2) - A service mesh for Kubernetes and beyond. Main repo for Linkerd 2.x.
+- [linkerd2](https://github.com/linkerd/linkerd2) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
 - [kooper](https://github.com/spotahome/kooper) - Kooper is a simple Go library to create Kubernetes operators and controllers.
 - [gonum](https://github.com/gonum/gonum) - Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more
 - [respounder](https://github.com/codeexpress/respounder) - Respounder detects presence of responder in the network.
@@ -2138,7 +2136,7 @@
 - [gorgonia](https://github.com/gorgonia/gorgonia) - Gorgonia is a library that helps facilitate machine learning in Go.
 - [go-patterns](https://github.com/tmrts/go-patterns) - Curated list of Go design patterns, recipes and idioms
 - [borg](https://github.com/ok-borg/borg) - Search and save shell snippets without leaving your terminal
-- [iris](https://github.com/kataras/iris) - 感谢中国开发者 - https://bit.ly/謝謝 | The fastest community-driven web framework for Go. gRPC, Automatic HTTPS with Public Domain, MVC, Sessions, Caching, Versioning API, Problem API, Websocket, Dependency Injection and more. Fully compatible with the standard library and 3rd-party middleware packages. | https://bit.ly/iriscandothat1 | https://bit.ly/iriscandothat3 |
+- [iris](https://github.com/kataras/iris) - 感谢中国开发者 - https://bit.ly/謝謝 | The fastest community-driven web framework for Go. Socket-Sharding, gRPC, Automatic HTTPS with Public Domain, MVC, Sessions, Caching, Versioning API, Problem API, Websocket, Dependency Injection and more. Fully compatible with the standard library and 3rd-party middleware packages. | https://bit.ly/iriscandothat1 | https://bit.ly/iriscandothat3 |
 - [primitive](https://github.com/fogleman/primitive) - Reproducing images with geometric primitives.
 - [gosl](https://github.com/cpmech/gosl) - Go scientific library for machine learning, linear algebra, FFT, Bessel, elliptic, orthogonal polys, geometry, NURBS, numerical quadrature, 3D transfinite interpolation, random numbers, Mersenne twister, probability distributions, optimisation, graph, plotting, visualisation, tensors, eigenvalues, differential equations, more.
 - [kube-cert-manager](https://github.com/PalmStoneGames/kube-cert-manager) - Manage Lets Encrypt certificates for a Kubernetes cluster.
@@ -2361,7 +2359,6 @@
 - [hugo-academic](https://github.com/gcushen/hugo-academic) - 📝 The website builder for Hugo. Build and deploy a beautiful website in minutes!
 - [MATRIX_Etherscan](https://github.com/MatrixAINetwork/MATRIX_Etherscan) - This is a crawler used to visit Ehterscan and obtain smartcontract related info
 - [uikit-ecommerce-template](https://github.com/chekromul/uikit-ecommerce-template) - E-commerce template built with UIKIt
-- [blackeye](https://github.com/thelinuxchoice/blackeye) - The most complete Phishing Tool,  with 32 templates +1 customizable
 - [pymk-inspector](https://github.com/GMG-Special-Projects-Desk/pymk-inspector) - See the people Facebook thinks you know
 - [cheatsheets](https://github.com/azat-co/cheatsheets) - JavaScript and Node.js cheatsheets
 - [basicengine-firmware](https://github.com/uli/basicengine-firmware) - BASIC Engine Firmware
@@ -2639,6 +2636,7 @@
 - [WebGazer](https://github.com/brownhci/WebGazer) - WebGazer.js: Scalable Webcam EyeTracking Using User Interactions
 - [patchwork](https://github.com/jlord/patchwork) - All the Git-it Workshop completers!
 - [electron-api-demos](https://github.com/electron/electron-api-demos) - Explore the Electron APIs
+- [dynaconf](https://github.com/rochacbruno/dynaconf) - The dynamic configurator for your Python Project :wrench:
 - [datefinder](https://github.com/akoumjian/datefinder) - Find dates inside text using Python and get back datetime objects
 - [pypub](https://github.com/wcember/pypub) - Python library to programatically create epub files
 - [diffee](https://github.com/una/diffee) - Instant visual diffing in the browser
@@ -6301,6 +6299,7 @@
 - [playing-the-internship-game](https://github.com/evykassirer/playing-the-internship-game) - the rules, tips, and tricks I've learned on how to approach tech internships
 - [guide](https://github.com/hobby-kube/guide) - Kubernetes clusters for the hobbyist.
 - [awesome-indie](https://github.com/mezod/awesome-indie) - Resources for independent developers to make money
+- [learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
 - [awesome-checker-services](https://github.com/Brunty/awesome-checker-services) - ✅ List of links to the various checkers out there on the web for sites, domains, security etc.
 - [trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
 - [celery-tasks-checklist](https://github.com/vintasoftware/celery-tasks-checklist) - Useful checklist for building great Celery tasks.
@@ -6921,7 +6920,7 @@
 - [remi](https://github.com/YatingMusic/remi) - "Pop Music Transformer: Generating Music with Rhythm and Harmony", arXiv 2020
 - [tianshou](https://github.com/thu-ml/tianshou) - An elegant, flexible, and superfast PyTorch deep reinforcement learning platform.
 - [pycls](https://github.com/facebookresearch/pycls) - Codebase for Image Classification Research, written in PyTorch.
-- [PaddleHub](https://github.com/PaddlePaddle/PaddleHub) - Toolkit For Pre-Trained Model Application of PaddlePaddle（『飞桨』预训练模型应用工具 ）
+- [PaddleHub](https://github.com/PaddlePaddle/PaddleHub) - Toolkit for Pre-Trained Model Application of PaddlePaddle（『飞桨』预训练模型应用工具 ）
 - [CurveFit](https://github.com/ihmeuw-msca/CurveFit) - Generic curve fitting package with nonlinear mixed effects model
 - [aristo-mini](https://github.com/allenai/aristo-mini) - Aristo mini is a light-weight question answering system that can quickly evaluate Aristo science questions with an evaluation web server and the provided baseline solvers.
 - [gym-gridworld](https://github.com/xinleipan/gym-gridworld) - Simple grid-world environment compatible with OpenAI-gym
@@ -7049,7 +7048,7 @@
 - [humblebundle-downloader](https://github.com/xtream1101/humblebundle-downloader) - Download you Humble Bundle Library
 - [efficientdet](https://github.com/signatrix/efficientdet) - (Pretrained weights provided) EfficientDet: Scalable and Efficient Object Detection implementation by Signatrix GmbH
 - [smac](https://github.com/oxwhirl/smac) - SMAC: The StarCraft Multi-Agent Challenge
-- [highway-env](https://github.com/eleurent/highway-env) - A minimalist environment for autonomous driving decision-making
+- [highway-env](https://github.com/eleurent/highway-env) - A minimalist environment for decision-making in autonomous driving
 - [deeprl_signal_control](https://github.com/cts198859/deeprl_signal_control) - multi-agent deep reinforcement learning for large-scale traffic signal control.
 - [pymarl](https://github.com/oxwhirl/pymarl) - Python Multi-Agent Reinforcement Learning framework
 - [causalml](https://github.com/uber/causalml) - Uplift modeling and causal inference with machine learning algorithms
@@ -8701,7 +8700,7 @@
 - [pcap2curl](https://github.com/jullrich/pcap2curl) - Read a packet capture, extract HTTP requests and turn them into cURL commands for replay.
 - [rasa_core](https://github.com/RasaHQ/rasa_core) - Rasa Core is now part of the Rasa repo: An open source machine learning framework to automate text-and voice-based conversations
 - [PySyft](https://github.com/OpenMined/PySyft) - A library for encrypted, privacy preserving machine learning
-- [coremltools](https://github.com/apple/coremltools) - Core ML Community Tools. Documentation:
+- [coremltools](https://github.com/apple/coremltools) - Core ML tools contains supporting tools for Core ML model conversion, editing and validation.
 - [halo](https://github.com/manrajgrover/halo) - 💫 Beautiful spinners for terminal, IPython and Jupyter
 - [plotille](https://github.com/tammoippen/plotille) - Plot in the terminal using braille dots.
 - [benchmarks](https://github.com/tensorpack/benchmarks) - Use TensorFlow efficiently
@@ -8921,7 +8920,7 @@
 - [seashells](https://github.com/anishathalye/seashells) - The official client for Seashells.io 🐚
 - [tensorforce](https://github.com/tensorforce/tensorforce) - Tensorforce: a TensorFlow library for applied reinforcement learning
 - [SentEval](https://github.com/facebookresearch/SentEval) - A python tool for evaluating the quality of sentence embeddings.
-- [crocs](https://github.com/iogf/crocs) - Write Python then serialize to Regex. A way to reason about Regex patterns.
+- [crocs](https://github.com/iogf/crocs) - Write Python then serialize to Regex.  Regex for humans.
 - [crackcoin](https://github.com/beurtschipper/crackcoin) - Very basic blockchain-free cryptocurrency PoC in Python
 - [neuralcoref](https://github.com/huggingface/neuralcoref) - ✨Fast Coreference Resolution in spaCy with Neural Networks
 - [pillow-simd](https://github.com/uploadcare/pillow-simd) - The friendly PIL fork
@@ -10000,7 +9999,6 @@
 - [GeosPy](https://github.com/tylfin/GeosPy) - Highly optimized geolocation inference package for spatial approximation
 - [watson-word-watcher](https://github.com/dannguyen/watson-word-watcher) - A proof of concept using IBM's Speech-to-Text API to do quick-and-dirty transcriptions
 - [thunder](https://github.com/thunder-project/thunder) - scalable analysis of images and time series
-- [dynaconf](https://github.com/rochacbruno/dynaconf) - The dynamic configurator for your Python Project :wrench:
 - [curses-menu](https://github.com/pmbarrett314/curses-menu) - A simple console menu system in python using the curses library
 - [redis-memory-analyzer](https://github.com/gamenet/redis-memory-analyzer) - Redis memory profiler to find the RAM bottlenecks throw scaning key space in real time and aggregate RAM usage statistic by patterns.
 - [pyq](https://github.com/caioariede/pyq) - A CLI tool to search for Python code in a path using jQuery-like selectors.
@@ -13066,7 +13064,7 @@
 - [superstruct](https://github.com/ianstormtaylor/superstruct) - A simple and composable way to validate data in JavaScript (or TypeScript).
 - [ant-design-pro](https://github.com/ant-design/ant-design-pro) - 👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!
 - [bottender](https://github.com/Yoctol/bottender) - ⚡️ A framework for building conversational user interfaces.
-- [ng-alain](https://github.com/ng-alain/ng-alain) - NG-ZORRO  admin panel front-end framework (surge mirror https://ng-alain-doc.surge.sh)
+- [ng-alain](https://github.com/ng-alain/ng-alain) - NG-ZORRO admin panel front-end framework (surge mirror https://ng-alain-doc.surge.sh)
 - [hint](https://github.com/webhintio/hint) - 💡 A hinting engine for the web
 - [vue-storefront](https://github.com/DivanteLtd/vue-storefront) - Vue Storefront - PWA for eCommerce. 100% offline, platform agnostic, headless, Magento 2 supported. Always Open Source, MIT license. Join us as contributor (contributors@vuestorefront.io). Check out our new blog: https://blog.vuestorefront.io/ and the new community initiative for improving Headless Security standards https://headless-security.org/vsf-best-practices.html
 - [hackernews-react-graphql](https://github.com/clintonwoo/hackernews-react-graphql) - Hacker News clone rewritten with universal JavaScript, using React and GraphQL.
@@ -13094,7 +13092,6 @@
 - [caprine](https://github.com/sindresorhus/caprine) - Elegant Facebook Messenger desktop app
 - [desktop](https://github.com/desktop/desktop) - Simple collaboration from your desktop
 - [vx](https://github.com/hshoff/vx) - 🐯react + d3 = vx | visualization components
-- [learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
 - [countUp.js](https://github.com/inorganik/countUp.js) - Animates a numerical value by counting to it
 - [electron-forge](https://github.com/electron-userland/electron-forge) - A complete tool for creating, publishing, and installing modern Electron applications
 - [vscodeJupyter](https://github.com/DonJayamanne/vscodeJupyter) - Jupyter for Visual Studio Code
@@ -13295,6 +13292,7 @@
 - [vue-js-toggle-button](https://github.com/euvl/vue-js-toggle-button) - :fish_cake: Vue.js 2 toggle / switch button - simple, pretty, customizable
 - [skywalking-rocketbot-ui](https://github.com/apache/skywalking-rocketbot-ui) - SkyWalking RocketBot UI
 - [aspnetcore-vue-typescript-template](https://github.com/danijelh/aspnetcore-vue-typescript-template) - Template AspNetCore with Vue, Vue router, Vuex, TypeScript, Bulma, Sass and Jest
+- [dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for docker containers.
 - [vue-doughnut-chart](https://github.com/mazipan/vue-doughnut-chart) - 🍩 Doughnut chart component for Vue.js, originally created by Greg Willson
 - [awesome-mechanical-keyboard](https://github.com/BenRoe/awesome-mechanical-keyboard) - ⌨️ A curated list of awesome Mechanical Keyboard resources.
 - [express-template](https://github.com/nuxt-community/express-template) - Starter template for Nuxt.js with Express.
