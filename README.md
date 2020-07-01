@@ -422,7 +422,7 @@
 - [PyTables](https://github.com/PyTables/PyTables) - A Python package to manage extremely large amounts of data
 - [swiperproxy](https://github.com/swiperproxy/swiperproxy) - A Python-based HTTP/HTTPS-proxy.
 - [torch7](https://github.com/torch/torch7) - http://torch.ch
-- [redis](https://github.com/antirez/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.
+- [redis](https://github.com/redis-io/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.
 - [astropy](https://github.com/astropy/astropy) - Repository for the Astropy core package
 - [unqlite-python](https://github.com/coleifer/unqlite-python) - Python bindings for the UnQLite embedded NoSQL database
 - [heartleech](https://github.com/robertdavidgraham/heartleech) - Demonstrates the "heartbleed" problem using full OpenSSL stack
@@ -443,7 +443,6 @@
 
 - [acr-tasks](https://github.com/Azure-Samples/acr-tasks) - A collection samples for ACR Tasks, including acr-task.yaml and Dockerfiles.
 - [Microsoft-Rocketbox](https://github.com/microsoft/Microsoft-Rocketbox) - Microsoft Rocketbox is now available for research and academic use! The library of 115 rigged avatars offers flexibility, enabling the easy use of facial animations across characters and the mixing and matching of texture elements.
-- [v3](https://github.com/exercism/v3) - The work-in-progress project for developing v3 tracks
 - [furniture](https://github.com/clvrai/furniture) - IKEA Furniture Assembly Environment for Long-Horizon Complex Manipulation Tasks
 - [Reinforcement-Learning-Based-Decision-Tree](https://github.com/chriswblake/Reinforcement-Learning-Based-Decision-Tree) - Generation and evaluation of a decision tree using reinforcement learning.
 - [NLP_Datasets](https://github.com/Koziev/NLP_Datasets) - My NLP datasets for Russian language
@@ -1049,7 +1048,7 @@
 - [teutonic-css](https://github.com/fortrabbit/teutonic-css) - A modern CSS framework — versatile, well documented.
 - [hands-on-ml-zh](https://github.com/apachecn/hands-on-ml-zh) - :book: [译] Sklearn 与 TensorFlow 机器学习实用指南【版权问题，网站已下线！！】
 - [shards-dashboard](https://github.com/DesignRevision/shards-dashboard) - 🔥A beautiful Bootstrap 4 admin dashboard templates pack.
-- [clock-shop](https://github.com/drawcall/clock-shop) - 🕙⏰🕰Clock Shop is a website that collects beautiful clock codes
+- [clock-shop](https://github.com/drawcall/clock-shop) - 🕙⏰🕰 Clock Shop is a website that collects beautiful clock codes
 - [three-dots](https://github.com/nzbin/three-dots) - 🔮 CSS loading animations made by single element.
 - [repaintless](https://github.com/szynszyliszys/repaintless) - Library for fast CSS Animations
 - [Cirrus](https://github.com/Spiderpig86/Cirrus) - :cloud: The CSS framework for the modern web.
@@ -1503,6 +1502,7 @@
 
 ## Elixir 
 
+- [v3](https://github.com/exercism/v3) - The work-in-progress project for developing v3 tracks
 - [rank](https://github.com/awesomerank/rank) - awesomerank.github.io builder
 
 ## Emacs Lisp 
@@ -2636,7 +2636,7 @@
 - [WebGazer](https://github.com/brownhci/WebGazer) - WebGazer.js: Scalable Webcam EyeTracking Using User Interactions
 - [patchwork](https://github.com/jlord/patchwork) - All the Git-it Workshop completers!
 - [electron-api-demos](https://github.com/electron/electron-api-demos) - Explore the Electron APIs
-- [dynaconf](https://github.com/rochacbruno/dynaconf) - The dynamic configurator for your Python Project :wrench:
+- [dynaconf](https://github.com/rochacbruno/dynaconf) - Configuration Management for Python :wrench: ⚙
 - [datefinder](https://github.com/akoumjian/datefinder) - Find dates inside text using Python and get back datetime objects
 - [pypub](https://github.com/wcember/pypub) - Python library to programatically create epub files
 - [diffee](https://github.com/una/diffee) - Instant visual diffing in the browser
@@ -3190,7 +3190,7 @@
 - [galio](https://github.com/galio-org/galio) - Galio is a beautifully designed, Free and Open Source React Native Framework
 - [webpack-demos](https://github.com/dongyuanxin/webpack-demos) - 📦 Demos && Courses for Webpack 4
 - [jsonmc](https://github.com/jsonmc/jsonmc) - JSON Movie Collection
-- [percollate](https://github.com/danburzo/percollate) - 🌐 → 📖 A command-line tool to turn web pages into beautifully formatted PDFs
+- [percollate](https://github.com/danburzo/percollate) - A command-line tool to make web pages into beautifully formatted PDFs
 - [graphpack](https://github.com/glennreyes/graphpack) - ☄️ A minimalistic zero-config GraphQL server.
 - [omi](https://github.com/Tencent/omi) - Front End Cross-Frameworks Framework - 前端跨框架跨平台框架
 - [33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 concepts every JavaScript developer should know.
@@ -3872,7 +3872,7 @@
 - [pix2pix-tensorflow](https://github.com/affinelayer/pix2pix-tensorflow) - Tensorflow port of Image-to-Image Translation with Conditional Adversarial Nets https://phillipi.github.io/pix2pix/
 - [illustrated-algorithms](https://github.com/skidding/illustrated-algorithms) - Interactive algorithm visualizations
 - [easyvpn](https://github.com/rodrigogs/easyvpn) - Easily connect to a VPN in a country of your choice.
-- [creative-portfolios](https://github.com/iRaul/creative-portfolios) - 🌀A curated list of Creative Portfolios
+- [creative-portfolios](https://github.com/iRaul/creative-portfolios) - 🌀  A curated list of Creative Portfolios
 - [cerebro](https://github.com/KELiON/cerebro) - Open-source productivity booster with a brain
 - [home-automation](https://github.com/deepsyx/home-automation) - Raspberry Pi 3 based home automation with NodeJS and React Native.
 - [ava](https://github.com/avajs/ava) - Node.js test runner that lets you develop with confidence 🚀
@@ -4563,7 +4563,6 @@
 - [dsc-learn-lessons-lab-online-ds-pt-120919](https://github.com/learn-co-students/dsc-learn-lessons-lab-online-ds-pt-120919) - 
 - [dsc-creating-functions-lab-online-ds-ft-120919](https://github.com/learn-co-students/dsc-creating-functions-lab-online-ds-ft-120919) - 
 - [deep-Q-networks](https://github.com/cyoon1729/deep-Q-networks) - Implementations of algorithms from the Q-learning family. Implementations inlcude: DQN, DDQN, Dueling DQN, PER+DQN, Noisy DQN, C51
-- [ClassyVision](https://github.com/facebookresearch/ClassyVision) - An end-to-end PyTorch framework for image and video classification
 - [onnx-docker](https://github.com/onnx/onnx-docker) - Dockerfiles and scripts for ONNX container images
 - [nbdev](https://github.com/fastai/nbdev) - Create delightful python projects using Jupyter Notebooks
 - [Tutorials-on-Keras-with-Tensorflow-Backend](https://github.com/dineshsonachalam/Tutorials-on-Keras-with-Tensorflow-Backend) - Tensorflow basics
@@ -4585,7 +4584,7 @@
 - [deepmind-research](https://github.com/deepmind/deepmind-research) - This repository contains implementations and illustrative code to accompany DeepMind publications
 - [Tutorials](https://github.com/SAPDocuments/Tutorials) - Tutorials on sap.com
 - [colab-tricks](https://github.com/shawwn/colab-tricks) - Tricks for Colab power users
-- [TensorFlow2.0-Examples](https://github.com/YunYang1994/TensorFlow2.0-Examples) - 🙄 difficult algorithm, simple code.
+- [TensorFlow2.0-Examples](https://github.com/YunYang1994/TensorFlow2.0-Examples) - 🙄 Difficult algorithm, simple code.
 - [pytorch-faster-rcnn](https://github.com/ruotianluo/pytorch-faster-rcnn) - pytorch1.0 updated. Support cpu test and demo. (Use detectron2, it's a masterpiece)
 - [stat479-machine-learning-fs19](https://github.com/rasbt/stat479-machine-learning-fs19) - Course material for STAT 479: Machine Learning (FS 2019) taught by Sebastian Raschka at University Wisconsin-Madison
 - [AcademicContent](https://github.com/microsoft/AcademicContent) - Free tech resources for faculty, students, researchers, life-long learners, and academic community builders for use in tech based courses, workshops, and hackathons.
@@ -4631,7 +4630,7 @@
 - [bamboolib](https://github.com/tkrabel/bamboolib) - bamboolib - the Fastest and Easiest Way to Work with pandas DataFrames
 - [dlschl](https://github.com/deepmipt/dlschl) - 
 - [notebooks](https://github.com/deeplook/notebooks) - Misc. Jupyter notebooks for testing and exploring various things.
-- [AzureML-BERT](https://github.com/microsoft/AzureML-BERT) - End-to-end recipes for pre-training and fine-tuning BERT using Azure Machine Learning service
+- [AzureML-BERT](https://github.com/microsoft/AzureML-BERT) - End-to-End recipes for pre-training and fine-tuning BERT using Azure Machine Learning Service
 - [Stock-Prediction-Models](https://github.com/huseinzol05/Stock-Prediction-Models) - Gathers machine learning and deep learning models for Stock forecasting including trading bots and simulations
 - [graph-based-deep-learning-literature](https://github.com/naganandy/graph-based-deep-learning-literature) - links to conference publications in graph-based deep learning
 - [tutorials](https://github.com/mlss-2019/tutorials) - 
@@ -5841,13 +5840,14 @@
 - [Production-Level-Deep-Learning](https://github.com/alirezadir/Production-Level-Deep-Learning) - A guideline for building practical production-level deep learning systems to be deployed in real world applications.
 - [tvt](https://github.com/deepmind/tvt) - 
 - [system_design](https://github.com/shashank88/system_design) - Preparation links and resources for system design questions
+- [start-here-guidelines](https://github.com/zero-to-mastery/start-here-guidelines) - Lets Git started in the world of opensource, starting in the Zero To Mastery's opensource playground. Especially designed for education and practical experience purposes.
 - [spec](https://github.com/oam-dev/spec) - The Open Application Model specification
 - [Artificial-Intelligence](https://github.com/Niraj-Lunavat/Artificial-Intelligence) - Awesome AI Learning with +100 AI Cheat-Sheets, Free online Books, Top Courses, Best Videos and Lectures, Papers, Tutorials, +99 Researchers, Premium Websites, +121 Datasets, Conferences, Frameworks, Tools
 - [best-practices-checklist](https://github.com/palash25/best-practices-checklist) - A list of awesome idiomatic code resources. Rust:crab:, Go, Ruby:gem:, Pony :horse:, Ocaml :camel:, Erlang and more
 - [MIT-Linear-Algebra-Notes](https://github.com/yizhen20133868/MIT-Linear-Algebra-Notes) - Notes for MIT-Linear-Algebra
 - [Cookbook](https://github.com/andkret/Cookbook) - The Data Engineering Cookbook
 - [dn](https://github.com/tomlockwood/dn) - Daily notes command line tool
-- [awesome-robotic-tooling](https://github.com/Ly0n/awesome-robotic-tooling) - Tools for professional robotic development with ROS in C++ and Python with a touch of autonomous driving and aerospace
+- [awesome-robotic-tooling](https://github.com/Ly0n/awesome-robotic-tooling) - Tools for professional robotic development in C++ and Python with a touch of autonomous driving and aerospace
 - [awesome-graph](https://github.com/jbmusso/awesome-graph) - A curated list of resources for graph databases and graph computing tools
 - [For-Data-Science-Beginners](https://github.com/amrrs/For-Data-Science-Beginners) - Set of 📝 with 🔗 to help those who are Data Science beginners 🤖
 - [awesome-libra](https://github.com/reed-hong/awesome-libra) - A Curated List of Awesome Facebook Libra Resources
@@ -6234,7 +6234,7 @@
 - [going-to-production](https://github.com/mtdvio/going-to-production) - A reference checklist for topics which should be covered before going to production.
 - [fullstack-web-developer-path](https://github.com/shovanch/fullstack-web-developer-path) - 📚 A learning path for Full-stack web development
 - [openebs](https://github.com/openebs/openebs) - Leading Open Source Container Attached Storage, built using Cloud Native Architecture, simplifies running Stateful Applications on Kubernetes.
-- [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know
+- [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
 - [DeepRLHacks](https://github.com/williamFalcon/DeepRLHacks) - Hacks for training RL systems from John Schulman's lecture at Deep RL Bootcamp  (Aug 2017)
 - [awesome-coins](https://github.com/Zheaoli/awesome-coins) - ₿ A guide (for humans!) to cryto-currencies and their algos.
 - [awesome-product-design](https://github.com/teoga/awesome-product-design) - A collection of bookmarks, resources, articles for product designers.
@@ -6817,7 +6817,7 @@
 - [razdel](https://github.com/natasha/razdel) - Rule-based token, sentence segmentation for Russian language
 - [yargy](https://github.com/natasha/yargy) - Rule-based facts extraction for Russian language
 - [symspellpy](https://github.com/mammothb/symspellpy) - Python port of SymSpell
-- [OpenLidarPerceptron](https://github.com/open-mmlab/OpenLidarPerceptron) - OpenLidarPerceptron for LiDAR-based 3D Scene Perception (e.g. PCDet toolbox for 3D detection from point cloud).
+- [OpenPCDet](https://github.com/open-mmlab/OpenPCDet) - OpenPCDet Toolbox for LiDAR-based 3D Object Detection.
 - [Tetris-deep-Q-learning-pytorch](https://github.com/uvipen/Tetris-deep-Q-learning-pytorch) - Deep Q-learning for playing tetris game
 - [CenterTrack](https://github.com/xingyizhou/CenterTrack) - Simultaneous object detection and tracking using center points.
 - [nerf-pytorch](https://github.com/yenchenlin/nerf-pytorch) - A PyTorch implementation of NeRF (Neural Radiance Fields) that reproduces the results.
@@ -7142,6 +7142,7 @@
 - [LibCST](https://github.com/Instagram/LibCST) - A concrete syntax tree parser and serializer library for Python that preserves many aspects of Python's abstract syntax tree
 - [eventsourcing](https://github.com/johnbywater/eventsourcing) - A library for event sourcing in Python.
 - [dovpanda](https://github.com/dovpanda-dev/dovpanda) - Directions overlay for working with pandas in an analysis environment
+- [ClassyVision](https://github.com/facebookresearch/ClassyVision) - An end-to-end PyTorch framework for image and video classification
 - [metaflow](https://github.com/Netflix/metaflow) - Build and manage real-life data science projects with ease.
 - [cartpole](https://github.com/gsurma/cartpole) - OpenAI's cartpole env solver.
 - [ConvNet-OOP](https://github.com/SantoshPattar/ConvNet-OOP) - ConvNet Implementation: An Object Oriented Approach using Keras API.
@@ -7384,7 +7385,7 @@
 - [insightface](https://github.com/deepinsight/insightface) - Face Analysis Project on MXNet
 - [keras-retinanet](https://github.com/fizyr/keras-retinanet) - Keras implementation of RetinaNet object detection.
 - [sacred](https://github.com/IDSIA/sacred) - Sacred is a tool to help you configure, organize, log and reproduce experiments developed at IDSIA.
-- [tensorflow-yolov3](https://github.com/YunYang1994/tensorflow-yolov3) - 🔥 pure tensorflow Implement of YOLOv3 with support to train your own dataset
+- [tensorflow-yolov3](https://github.com/YunYang1994/tensorflow-yolov3) - 🔥 Pure tensorflow Implement of YOLOv3 with support to train your own dataset
 - [keras-bert](https://github.com/CyberZHG/keras-bert) - Implementation of BERT that could load official pre-trained models for feature extraction and prediction
 - [pyrobot](https://github.com/facebookresearch/pyrobot) - PyRobot: An Open Source Robotics Research Platform
 - [mmaction](https://github.com/open-mmlab/mmaction) - An open-source toolbox for action understanding based on PyTorch
@@ -8700,7 +8701,7 @@
 - [pcap2curl](https://github.com/jullrich/pcap2curl) - Read a packet capture, extract HTTP requests and turn them into cURL commands for replay.
 - [rasa_core](https://github.com/RasaHQ/rasa_core) - Rasa Core is now part of the Rasa repo: An open source machine learning framework to automate text-and voice-based conversations
 - [PySyft](https://github.com/OpenMined/PySyft) - A library for encrypted, privacy preserving machine learning
-- [coremltools](https://github.com/apple/coremltools) - Core ML tools contains supporting tools for Core ML model conversion, editing and validation.
+- [coremltools](https://github.com/apple/coremltools) - Core ML tools contain supporting tools for Core ML model conversion, editing, and validation.
 - [halo](https://github.com/manrajgrover/halo) - 💫 Beautiful spinners for terminal, IPython and Jupyter
 - [plotille](https://github.com/tammoippen/plotille) - Plot in the terminal using braille dots.
 - [benchmarks](https://github.com/tensorpack/benchmarks) - Use TensorFlow efficiently
@@ -12678,7 +12679,6 @@
 - [ODSQA](https://github.com/chiahsuan156/ODSQA) - ODSQA: OPEN-DOMAIN SPOKEN QUESTION ANSWERING DATASET
 - [shlide](https://github.com/icyphox/shlide) - :framed_picture: a slide deck presentation tool written in pure bash
 - [vulhub](https://github.com/vulhub/vulhub) - Pre-Built Vulnerable Environments Based on Docker-Compose
-- [start-here-guidelines](https://github.com/zero-to-mastery/start-here-guidelines) - Lets Git started in the world of opensource, starting in the Zero To Mastery's opensource playground. Especially designed for education and practical experience purposes.
 - [bitnami-docker-kafka](https://github.com/bitnami/bitnami-docker-kafka) - Bitnami Docker Image for Kafka
 - [docker-odoo-project](https://github.com/camptocamp/docker-odoo-project) - Base images for Odoo projects
 - [tensorflow-build-archived](https://github.com/lakshayg/tensorflow-build-archived) - TensorFlow binaries supporting AVX, FMA, SSE
@@ -12913,7 +12913,7 @@
 - [lens](https://github.com/lensapp/lens) - Lens - The Kubernetes IDE
 - [backstage](https://github.com/spotify/backstage) - Backstage is an open platform for building developer portals
 - [examples](https://github.com/pulumi/examples) - Infrastructure, containers, and serverless apps to AWS, Azure, GCP, and Kubernetes... all deployed with Pulumi
-- [rome](https://github.com/romejs/rome) - The Rome JavaScript toolchain. Standardizing the JavaScript developer experience.
+- [rome](https://github.com/romejs/rome) - The Rome Frontend Toolchain. Standardizing the web development experience.
 - [hiplot](https://github.com/facebookresearch/hiplot) - HiPlot makes understanding high dimensional data easy
 - [gistpad](https://github.com/vsls-contrib/gistpad) - VS Code extension for managing and sharing code snippets, notes and interactive samples using GitHub Gists
 - [tfjs-models](https://github.com/tensorflow/tfjs-models) - Pretrained models for TensorFlow.js
@@ -12932,7 +12932,7 @@
 - [react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design
 - [harp.gl](https://github.com/heremaps/harp.gl) - harp.gl - web map rendering engine
 - [mds-core](https://github.com/openmobilityfoundation/mds-core) - An implementation of an MDS Agency Server written in Typescript
-- [composition-api](https://github.com/vuejs/composition-api) - Vue 2 plugin for the Composition API
+- [composition-api](https://github.com/vuejs/composition-api) - Composition API plugin for Vue 2
 - [umi](https://github.com/umijs/umi) - 🌋 Pluggable enterprise-level react application framework.
 - [theme-ui](https://github.com/system-ui/theme-ui) - Build consistent, themeable React apps based on constraint-based design principles
 - [lightweight-charts](https://github.com/tradingview/lightweight-charts) - Financial lightweight charts built with HTML5 canvas
@@ -13576,7 +13576,7 @@
 - [vue-grid-layout](https://github.com/jbaysolutions/vue-grid-layout) - A draggable and resizable grid layout, for Vue.js.
 - [mint-loadmore](https://github.com/mint-ui/mint-loadmore) - A two-direction mobile load-more component for vue.js
 - [v2ex_frontend](https://github.com/liuzhenangel/v2ex_frontend) - V2EX demo built with Vue 2.0, vue-router, with server-side rendering
-- [vue-charts](https://github.com/hchstera/vue-charts) - Base on Vue2.0 wrapper for ChartJs. (Deprecated)
+- [vue-charts](https://github.com/GimmyHchs/vue-charts) - Base on Vue2.0 wrapper for ChartJs. (Deprecated)
 - [vue2-calendar](https://github.com/icai/vue2-calendar) - vue 2.x  calendar component
 - [N3-components](https://github.com/N3-components/N3-components) - N3-components , Powerful Vue UI Library.
 - [vue-semantic](https://github.com/CroudTech/vue-semantic) - A collection of vue components for integrating the semantic ui library
