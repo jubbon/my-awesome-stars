@@ -76,6 +76,7 @@
   - [R](#r)
   - [RAML](#raml)
   - [Ren'Py](#ren'py)
+  - [Rich Text Format](#rich-text-format)
   - [Roff](#roff)
   - [Ruby](#ruby)
   - [Rust](#rust)
@@ -2251,6 +2252,7 @@
 - [PortFolio_Website](https://github.com/akashyap2013/PortFolio_Website) - Complete Portfolio Website with Bootstrap - HTML/CSS In this project, we are going to learn and build how to create a complete portfolio website with bootstrap using HTML and CSS. We will understand everything from scratch.
 - [Django-CRM](https://github.com/MicroPyramid/Django-CRM) - Open Source Python CRM based on Django
 - [DevOps-Guide](https://github.com/Tikam02/DevOps-Guide) - DevOps Guide from basic to advanced with Interview Questions and Notes 🔥
+- [start-here-guidelines](https://github.com/zero-to-mastery/start-here-guidelines) - Lets Git started in the world of opensource, starting in the Zero To Mastery's opensource playground. Especially designed for education and practical experience purposes.
 - [ggstatsplot](https://github.com/IndrajeetPatil/ggstatsplot) - Enhancing `ggplot2` plots with statistical analysis 📊🎨📣
 - [TheHive](https://github.com/TheHive-Project/TheHive) - TheHive: a Scalable, Open Source and Free Security Incident Response Platform
 - [pyvis](https://github.com/WestHealth/pyvis) - Python package for creating and visualizing interactive network graphs.
@@ -2912,7 +2914,6 @@
 - [1920-s2](https://github.com/nus-cs2030/1920-s2) - The website of CS2030, 19/20 Sem 2.
 - [pino](https://github.com/pinojs/pino) - 🌲 super fast, all natural json logger 🌲
 - [30DaysOfJavaScript](https://github.com/Asabeneh/30DaysOfJavaScript) - 30 days of JavaScript programming challenge is a step by step guide to learn JavaScript programming language in 30 days
-- [playwright](https://github.com/microsoft/playwright) - Node library to automate Chromium, Firefox and WebKit with a single API
 - [city-roads](https://github.com/anvaka/city-roads) - Visualization of all roads within any city
 - [ganlab](https://github.com/poloclub/ganlab) - GAN Lab: An Interactive, Visual Experimentation Tool for Generative Adversarial Networks
 - [manifold](https://github.com/uber/manifold) - A model-agnostic visual debugging tool for machine learning
@@ -3008,6 +3009,7 @@
 - [screeps-ai](https://github.com/jerroydmoore/screeps-ai) - My personal Screeps AI repository
 - [youtube-dl-interactive](https://github.com/synox/youtube-dl-interactive) - Interactively select the quality and format for youtube-dl
 - [await-timeout](https://github.com/vitalets/await-timeout) - A Promise-based API for setTimeout / clearTimeout
+- [DIYGame](https://github.com/Lawliet01/DIYGame) - customize game/make platform game without coding
 - [WebGL-Fluid-Simulation](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation) - Play with fluids in your browser (works even on mobile)
 - [scar](https://github.com/cloudkj/scar) - Deploy static websites in seconds - with HTTPS, a global CDN, and custom domains.
 - [gitfolio](https://github.com/imfunniee/gitfolio) - :octocat: personal website + blog  for every github user
@@ -3713,7 +3715,7 @@
 - [django-vue-simplenote](https://github.com/apirobot/django-vue-simplenote) - 
 - [cfn-api-gateway-custom-domain](https://github.com/jed/cfn-api-gateway-custom-domain) - API Gateway custom domains as CloudFormation resources, backed by Let's Encrypt
 - [examples](https://github.com/serverless/examples) - Serverless Examples – A collection of boilerplates and examples of serverless architectures built with the Serverless Framework on AWS Lambda, Microsoft Azure, Google Cloud Functions, and more.
-- [lambda-refarch-webapp](https://github.com/aws-samples/lambda-refarch-webapp) - Serverless Reference Architecture for creating a Web Application
+- [lambda-refarch-webapp](https://github.com/aws-samples/lambda-refarch-webapp) - The Web Application reference architecture is a general-purpose, event-driven, web application back-end that uses AWS Lambda, Amazon API Gateway for its business logic. It also uses Amazon DynamoDB as its database and Amazon Cognito for user management. All static content is hosted using AWS Amplify Console.
 - [sketch-material](https://github.com/websiddu/sketch-material) - Sketch material is a sketch plugin that will help you generate complex material components like tables, chips, forms etc…
 - [vue-axios-example](https://github.com/alanbuchanan/vue-axios-example) - 
 - [vue-numeric](https://github.com/kevinongko/vue-numeric) - Input field component to display a formatted currency value based on Vue.js
@@ -3757,7 +3759,7 @@
 - [eslint-plugin-vue](https://github.com/vuejs/eslint-plugin-vue) - Official ESLint plugin for Vue.js
 - [collect.js](https://github.com/ecrmnn/collect.js) - 💎  Convenient and dependency free wrapper for working with arrays and objects
 - [staticrypt](https://github.com/robinmoisson/staticrypt) - Password protect a static HTML page
-- [amplitudejs](https://github.com/521dimensions/amplitudejs) - AmplitudeJS: Open Source HTML5 Audio Library. Design your web audio player, the way you want. No dependencies required.
+- [amplitudejs](https://github.com/521dimensions/amplitudejs) - AmplitudeJS: Open Source HTML5 Web Audio Library. Design your web audio player, the way you want. No dependencies required.
 - [front-end-guide](https://github.com/grab/front-end-guide) - 📚 Study guide and introduction to the modern front end stack.
 - [webpack](https://github.com/vuejs-templates/webpack) - A full-featured Webpack + vue-loader setup with hot reload, linting, testing & css extraction.
 - [vue-cli](https://github.com/vuejs/vue-cli) - 🛠️ Standard Tooling for Vue.js Development
@@ -4068,7 +4070,7 @@
 - [jupyterlab](https://github.com/jupyterlab/jupyterlab) - JupyterLab computational environment.
 - [hydrogen](https://github.com/nteract/hydrogen) - :atom: Run code interactively, inspect data, and plot. All the power of Jupyter kernels, inside your favorite text editor.
 - [clmtrackr](https://github.com/auduno/clmtrackr) - Javascript library for precise tracking of facial features via Constrained Local Models
-- [spa-github-pages](https://github.com/rafrex/spa-github-pages) - Host single page apps with GitHub Pages
+- [spa-github-pages](https://github.com/rafgraph/spa-github-pages) - Host single page apps with GitHub Pages
 - [Prism](https://github.com/ment-mx/Prism) - Creates a beautiful artboard color palette with all your 'Document Colors' and their respective color label in a variety of formats.
 - [rheostat](https://github.com/airbnb/rheostat) - Rheostat is a www, mobile, and accessible slider component built with React
 - [warriorjs](https://github.com/olistic/warriorjs) - 🏰 An exciting game of programming and Artificial Intelligence
@@ -4579,7 +4581,7 @@
 - [Keras-Tutorials](https://github.com/tgjeon/Keras-Tutorials) - Simple tutorials using Keras Framework
 - [dogs_vs_cats](https://github.com/ypwhs/dogs_vs_cats) - 猫狗大战
 - [Object-Detection-and-Image-Segmentation-with-Detectron2](https://github.com/TannerGilbert/Object-Detection-and-Image-Segmentation-with-Detectron2) - Object Detection and Image Segmentation with Detectron2
-- [Tutorials](https://github.com/TannerGilbert/Tutorials) - Code for all my tutorials
+- [Tutorials](https://github.com/TannerGilbert/Tutorials) - Code for some of my tutorials
 - [mellotron](https://github.com/NVIDIA/mellotron) - Mellotron: a multispeaker voice synthesis model based on Tacotron 2 GST that can make a voice emote and sing without emotive or singing training data
 - [deepmind-research](https://github.com/deepmind/deepmind-research) - This repository contains implementations and illustrative code to accompany DeepMind publications
 - [Tutorials](https://github.com/SAPDocuments/Tutorials) - Tutorials on sap.com
@@ -5770,7 +5772,6 @@
 - [bug-bounty-reference](https://github.com/ngalongc/bug-bounty-reference) - Inspired by https://github.com/djadmin/awesome-bug-bounty, a list of bug bounty write-up that is categorized by the bug nature
 - [learning-bioinformatics-at-home](https://github.com/harvardinformatics/learning-bioinformatics-at-home) - resources for learning bioinformatics
 - [awesome-semantic-segmentation](https://github.com/mrgloom/awesome-semantic-segmentation) - :metal: awesome-semantic-segmentation
-- [dmca](https://github.com/github/dmca) - Repository with text of DMCA takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices. Users identified in the notices are presumed innocent until proven guilty. Additional information about our DMCA policy can be found at
 - [udacity-nanodegrees](https://github.com/mikesprague/udacity-nanodegrees) - :mortar_board: List of Udacity Nanodegree programs with links to the free courses in their curricula
 - [frontend-challenges](https://github.com/felipefialho/frontend-challenges) - :boom: Listing some playful open-source's challenges of jobs to test your knowledge
 - [ggplot2_workshop](https://github.com/thomasp85/ggplot2_workshop) - Material for "Drawing Anything with ggplot2" workshop
@@ -5840,7 +5841,6 @@
 - [Production-Level-Deep-Learning](https://github.com/alirezadir/Production-Level-Deep-Learning) - A guideline for building practical production-level deep learning systems to be deployed in real world applications.
 - [tvt](https://github.com/deepmind/tvt) - 
 - [system_design](https://github.com/shashank88/system_design) - Preparation links and resources for system design questions
-- [start-here-guidelines](https://github.com/zero-to-mastery/start-here-guidelines) - Lets Git started in the world of opensource, starting in the Zero To Mastery's opensource playground. Especially designed for education and practical experience purposes.
 - [spec](https://github.com/oam-dev/spec) - The Open Application Model specification
 - [Artificial-Intelligence](https://github.com/Niraj-Lunavat/Artificial-Intelligence) - Awesome AI Learning with +100 AI Cheat-Sheets, Free online Books, Top Courses, Best Videos and Lectures, Papers, Tutorials, +99 Researchers, Premium Websites, +121 Datasets, Conferences, Frameworks, Tools
 - [best-practices-checklist](https://github.com/palash25/best-practices-checklist) - A list of awesome idiomatic code resources. Rust:crab:, Go, Ruby:gem:, Pony :horse:, Ocaml :camel:, Erlang and more
@@ -6748,6 +6748,7 @@
 
 ## Python 
 
+- [python-docx2txt](https://github.com/ankushshah89/python-docx2txt) - A pure python based utility to extract text and images from docx files.
 - [PEDRA](https://github.com/aqeelanwar/PEDRA) - Programmable Engine for Drone Reinforcement Learning Applications
 - [pytrovich](https://github.com/petrovich/pytrovich) - Python3 port of Petrovich, an inflector (and gender detector) for Russian anthroponyms
 - [Petrovich](https://github.com/damirazo/Petrovich) - Библиотека для склонения русских ФИО к нужному падежу
@@ -7149,7 +7150,7 @@
 - [keras-seq2seq-example](https://github.com/philipperemy/keras-seq2seq-example) - Toy Keras implementation of a seq2seq model with examples.
 - [TF-Model-Deploy-Tutorial](https://github.com/bshao001/TF-Model-Deploy-Tutorial) - A tutorial exploring multiple approaches to deploy a trained TensorFlow (or Keras) model or multiple models  for prediction.
 - [Deep-Learning-Based-ECG-Annotator](https://github.com/niekverw/Deep-Learning-Based-ECG-Annotator) - Annotation of ECG signals using deep learning, tensorflow’ Keras
-- [keras-apache-mxnet](https://github.com/awslabs/keras-apache-mxnet) - Amazon Deep Learning's Keras with Apache MXNet support
+- [keras-apache-mxnet](https://github.com/awslabs/keras-apache-mxnet) - [DEPRECATED] Amazon Deep Learning's Keras with Apache MXNet support
 - [benchmarking-keras-pytorch](https://github.com/cgnorthcutt/benchmarking-keras-pytorch) - 🔥 Reproducibly benchmarking Keras and PyTorch models
 - [keract](https://github.com/philipperemy/keract) - Activation Maps (Layers Outputs) and Gradients in Keras.
 - [Google-Coral-Edge-TPU](https://github.com/TannerGilbert/Google-Coral-Edge-TPU) - Use the Google Coral USB Accelerator for deep learning.
@@ -12516,6 +12517,10 @@
 
 - [renpy](https://github.com/renpy/renpy) - The Ren'Py Visual Novel Engine
 
+## Rich Text Format 
+
+- [dmca](https://github.com/github/dmca) - Repository with text of DMCA takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices. Users identified in the notices are presumed innocent until proven guilty. Additional information about our DMCA policy can be found at
+
 ## Roff 
 
 - [Keras-Tutorial](https://github.com/ningshixian/Keras-Tutorial) - Keras深度学习框架配置+Keras教程+Keras Trick
@@ -12915,6 +12920,7 @@
 - [examples](https://github.com/pulumi/examples) - Infrastructure, containers, and serverless apps to AWS, Azure, GCP, and Kubernetes... all deployed with Pulumi
 - [rome](https://github.com/romejs/rome) - The Rome Frontend Toolchain. Standardizing the web development experience.
 - [hiplot](https://github.com/facebookresearch/hiplot) - HiPlot makes understanding high dimensional data easy
+- [playwright](https://github.com/microsoft/playwright) - Node library to automate Chromium, Firefox and WebKit with a single API
 - [gistpad](https://github.com/vsls-contrib/gistpad) - VS Code extension for managing and sharing code snippets, notes and interactive samples using GitHub Gists
 - [tfjs-models](https://github.com/tensorflow/tfjs-models) - Pretrained models for TensorFlow.js
 - [tsdx](https://github.com/formik/tsdx) - Zero-config CLI for TypeScript package development
@@ -13228,7 +13234,6 @@
 - [cssgridgenerator](https://github.com/sdras/cssgridgenerator) - 🧮Generate basic CSS Grid code to make dynamic layouts!
 - [nuxt-element-dashboard](https://github.com/levy9527/nuxt-element-dashboard) - ⚡️develop your admin-dashboard fast
 - [Vue-Access-Control](https://github.com/tower1229/Vue-Access-Control) - :gem: Frontend access control framework based Vue
-- [DIYGame](https://github.com/Lawliet01/DIYGame) - customize game/make platform game without coding
 - [pomotroid](https://github.com/Splode/pomotroid) - :tomato: Simple and visually-pleasing Pomodoro timer
 - [cssfx](https://github.com/jolaleye/cssfx) - ✨ Beautifully simple click-to-copy CSS effects
 - [vue-thanos-snap](https://github.com/yiliang114/vue-thanos-snap) - thanos snap animation by vue
@@ -13309,7 +13314,7 @@
 - [make-frontend-shit-again](https://github.com/SaraVieira/make-frontend-shit-again) - 
 - [candy-hub](https://github.com/getcandy/candy-hub) - The backend system for your GetCandy API
 - [vuejs-playlist](https://github.com/iamshaunjp/vuejs-playlist) - Course files for the Vue.js 2 playlist on The Net Ninja YouTube channel
-- [infoboard](https://github.com/SixBytesUnder/infoboard) - Infoboard showing photos from local folder as the background, time, weather and Transport for London status updates. Intended for Raspberry Pi, but should work on any machine with NodeJS installed.
+- [infoboard](https://github.com/SixBytesUnder/infoboard) - Infoboard showing time, weather, calendar events, photos from local folder or online sources as background and Transport for London status updates. Intended for Raspberry Pi, but should work on any machine with NodeJS available.
 - [vue-apexcharts](https://github.com/apexcharts/vue-apexcharts) - 📊 Vue.js component for ApexCharts
 - [Cuckoo.Plus](https://github.com/NanaMorse/Cuckoo.Plus) - A GooglePlus-Like third-party web client for mastodon.
 - [vue-metro-tile](https://github.com/yuanfux/vue-metro-tile) - 🔷A windows 10 like metro tile component in vue
