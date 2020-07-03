@@ -444,6 +444,7 @@
 
 - [acr-tasks](https://github.com/Azure-Samples/acr-tasks) - A collection samples for ACR Tasks, including acr-task.yaml and Dockerfiles.
 - [Microsoft-Rocketbox](https://github.com/microsoft/Microsoft-Rocketbox) - Microsoft Rocketbox is now available for research and academic use! The library of 115 rigged avatars offers flexibility, enabling the easy use of facial animations across characters and the mixing and matching of texture elements.
+- [v3](https://github.com/exercism/v3) - The work-in-progress project for developing v3 tracks
 - [furniture](https://github.com/clvrai/furniture) - IKEA Furniture Assembly Environment for Long-Horizon Complex Manipulation Tasks
 - [Reinforcement-Learning-Based-Decision-Tree](https://github.com/chriswblake/Reinforcement-Learning-Based-Decision-Tree) - Generation and evaluation of a decision tree using reinforcement learning.
 - [NLP_Datasets](https://github.com/Koziev/NLP_Datasets) - My NLP datasets for Russian language
@@ -1156,7 +1157,6 @@
 - [ebook-boilerplate](https://github.com/phodal/ebook-boilerplate) - A Markdown convert to Ebook :arrow_right: html、mobi、epub、pdf、rtf Template
 - [thunderbird-monterail](https://github.com/spymastermatt/thunderbird-monterail) - A set of themes for thunderbird inspired by a Monterail blog post
 - [sakura](https://github.com/oxalorg/sakura) - :cherry_blossom: a minimal css framework/theme.
-- [django-cruds-adminlte](https://github.com/oscarmlage/django-cruds-adminlte) - django-cruds is simple drop-in django app that creates CRUD for faster prototyping
 - [cs228-notes](https://github.com/ermongroup/cs228-notes) - Course notes for CS228: Probabilistic Graphical Models.
 - [workflow](https://github.com/deis/workflow) - The open source PaaS for Kubernetes.
 - [devportfolio](https://github.com/RyanFitzgerald/devportfolio) - A lightweight, customizable single-page personal portfolio website template built with JavaScript and Sass
@@ -1411,7 +1411,7 @@
 - [flutter_ecommerce_app](https://github.com/TheAlphamerc/flutter_ecommerce_app) - E-Commerce App built in flutter
 - [flutter_smart_course](https://github.com/TheAlphamerc/flutter_smart_course) - Smart course app built in flutter.
 - [chyker-foods](https://github.com/OLayemii/chyker-foods) - A food ordering app built with flutter and firebase
-- [flutterfire](https://github.com/FirebaseExtended/flutterfire) - 🔥 Firebase plugins for Flutter apps
+- [flutterfire](https://github.com/FirebaseExtended/flutterfire) - 🔥 A collection of Firebase plugins for Flutter apps.
 - [timy-messenger](https://github.com/janoodleFTW/timy-messenger) - Timy - open source mobile app for groups to communicate and organize themselves. Built with flutter.
 - [Flutter-Todolist](https://github.com/LiveLikeCounter/Flutter-Todolist) - A Flutter based to do list app (yes, another to do list... but... this time based on a beautiful design)
 - [Best-Flutter-UI-Templates](https://github.com/mitesh77/Best-Flutter-UI-Templates) - completely free for everyone. Its build-in Flutter Dart.
@@ -1503,7 +1503,6 @@
 
 ## Elixir 
 
-- [v3](https://github.com/exercism/v3) - The work-in-progress project for developing v3 tracks
 - [rank](https://github.com/awesomerank/rank) - awesomerank.github.io builder
 
 ## Emacs Lisp 
@@ -3009,7 +3008,6 @@
 - [screeps-ai](https://github.com/jerroydmoore/screeps-ai) - My personal Screeps AI repository
 - [youtube-dl-interactive](https://github.com/synox/youtube-dl-interactive) - Interactively select the quality and format for youtube-dl
 - [await-timeout](https://github.com/vitalets/await-timeout) - A Promise-based API for setTimeout / clearTimeout
-- [DIYGame](https://github.com/Lawliet01/DIYGame) - customize game/make platform game without coding
 - [WebGL-Fluid-Simulation](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation) - Play with fluids in your browser (works even on mobile)
 - [scar](https://github.com/cloudkj/scar) - Deploy static websites in seconds - with HTTPS, a global CDN, and custom domains.
 - [gitfolio](https://github.com/imfunniee/gitfolio) - :octocat: personal website + blog  for every github user
@@ -3151,7 +3149,7 @@
 - [redbird](https://github.com/OptimalBits/redbird) - A modern reverse proxy for node
 - [Glider.js](https://github.com/NickPiscitelli/Glider.js) - A fast, lightweight, dependency free, native scrolling carousel alternative!
 - [fx](https://github.com/antonmedv/fx) - Command-line tool and terminal JSON viewer 🔥
-- [enquirer](https://github.com/enquirer/enquirer) - Stylish, intuitive and user-friendly prompts.
+- [enquirer](https://github.com/enquirer/enquirer) - Stylish, intuitive and user-friendly prompts. Used by eslint, Generate, lint-staged, pm2, gluegun, hygen, GitHub Actions Toolkit, @airbnb/nimbus, and many others!
 - [dockly](https://github.com/lirantal/dockly) - Immersive terminal interface for managing docker containers and services
 - [vue3-tailwind-starter](https://github.com/marienfeldtom/vue3-tailwind-starter) - Vue 3 + Tailwind.css Starter
 - [VueTween](https://github.com/SeregPie/VueTween) - Allows the components to tween their properties.
@@ -3206,7 +3204,7 @@
 - [vue-fontawesome](https://github.com/FortAwesome/vue-fontawesome) - Font Awesome 5 Vue component
 - [kinetica-kickbox-mapbox-gl](https://github.com/kineticadb/kinetica-kickbox-mapbox-gl) - A code-acceleration and interoperability library for Kinetica and Mapbox
 - [vue-cordova-webpack](https://github.com/OnsenUI/vue-cordova-webpack) - A full-featured Webpack + vue-loader setup with hot reload, linting, testing & css extraction.
-- [vue-i18n-service](https://github.com/f/vue-i18n-service) - vue-i18n single file component exporter/importer
+- [vue-i18n-service](https://github.com/edisdev/vue-i18n-service) - vue-i18n single file component exporter/importer
 - [proposal-temporal](https://github.com/tc39/proposal-temporal) - Provides standard objects and functions for working with dates and times.
 - [ytdl-webserver](https://github.com/Algram/ytdl-webserver) - 📻 Webserver for downloading youtube videos. Ready for docker.
 - [apify-js](https://github.com/apify/apify-js) - Apify SDK — The scalable web crawling and scraping library for JavaScript/Node.js. Enables development of data extraction and web automation jobs (not only) with headless Chrome and Puppeteer.
@@ -3813,6 +3811,7 @@
 - [framework](https://github.com/totaljs/framework) - Node.js framework
 - [pkg](https://github.com/vercel/pkg) - Package your Node.js project into an executable
 - [speedracer](https://github.com/speedracer/speedracer) - Collect performance metrics for your library/application.
+- [django-cruds-adminlte](https://github.com/oscarmlage/django-cruds-adminlte) - django-cruds is simple drop-in django app that creates CRUD for faster prototyping
 - [serverless-chrome](https://github.com/adieuadieu/serverless-chrome) - 🌐 Run headless Chrome/Chromium on AWS Lambda
 - [stmux](https://github.com/rse/stmux) - Simple Terminal Multiplexer for Node.js Environments
 - [vue-unit](https://github.com/wrseward/vue-unit) - Component testing utilities for Vue.js
@@ -4657,7 +4656,6 @@
 - [InsightFace_Pytorch](https://github.com/TreB1eN/InsightFace_Pytorch) - Pytorch0.4.1 codes for InsightFace
 - [jupyters_and_slides](https://github.com/HCIT-Computing-Intelligence/jupyters_and_slides) - 
 - [CVPR-2019-Paper-Statistics](https://github.com/hoya012/CVPR-2019-Paper-Statistics) - Statistics and Visualization of acceptance rate, main keyword of CVPR 2019 accepted papers for the main Computer Vision conference (CVPR)
-- [DeepLearningExamples](https://github.com/NVIDIA/DeepLearningExamples) - Deep Learning Examples
 - [h3-py-notebooks](https://github.com/uber/h3-py-notebooks) - Jupyter notebooks for h3-py, a hierarchical hexagonal geospatial indexing system
 - [materials](https://github.com/realpython/materials) - Bonus materials, exercises, and example projects for our Python tutorials
 - [aws-deepracer-workshops](https://github.com/aws-samples/aws-deepracer-workshops) - DeepRacer workshop content
@@ -7383,6 +7381,7 @@
 - [confluent-kafka-python](https://github.com/confluentinc/confluent-kafka-python) - Confluent's Kafka Python Client
 - [aws-well-architected-labs](https://github.com/awslabs/aws-well-architected-labs) - Hands on labs and code to help you learn, measure, and build using architectural best practices.
 - [professional-services](https://github.com/GoogleCloudPlatform/professional-services) - Common solutions and tools developed by Google Cloud's Professional Services team
+- [DeepLearningExamples](https://github.com/NVIDIA/DeepLearningExamples) - Deep Learning Examples
 - [insightface](https://github.com/deepinsight/insightface) - Face Analysis Project on MXNet
 - [keras-retinanet](https://github.com/fizyr/keras-retinanet) - Keras implementation of RetinaNet object detection.
 - [sacred](https://github.com/IDSIA/sacred) - Sacred is a tool to help you configure, organize, log and reproduce experiments developed at IDSIA.
@@ -8922,7 +8921,7 @@
 - [seashells](https://github.com/anishathalye/seashells) - The official client for Seashells.io 🐚
 - [tensorforce](https://github.com/tensorforce/tensorforce) - Tensorforce: a TensorFlow library for applied reinforcement learning
 - [SentEval](https://github.com/facebookresearch/SentEval) - A python tool for evaluating the quality of sentence embeddings.
-- [crocs](https://github.com/iogf/crocs) - Write Python then serialize to Regex.  Regex for humans.
+- [crocs](https://github.com/iogf/crocs) - Python to Regex.  Regex to Python. The yRegex for humans.
 - [crackcoin](https://github.com/beurtschipper/crackcoin) - Very basic blockchain-free cryptocurrency PoC in Python
 - [neuralcoref](https://github.com/huggingface/neuralcoref) - ✨Fast Coreference Resolution in spaCy with Neural Networks
 - [pillow-simd](https://github.com/uploadcare/pillow-simd) - The friendly PIL fork
@@ -12111,7 +12110,7 @@
 - [bootstrapy](https://github.com/kirang89/bootstrapy) - A bootstrap Python application, so that you can focus on writing code
 - [scikit-learn](https://github.com/scikit-learn/scikit-learn) - scikit-learn: machine learning in Python
 - [pymote](https://github.com/darbula/pymote) - DEPRECATED Python package for event based simulation and evaluation of distributed algorithms.
-- [networkx](https://github.com/networkx/networkx) - Official NetworkX source code repository.
+- [networkx](https://github.com/networkx/networkx) - Network Analysis in Python
 - [nltk](https://github.com/nltk/nltk) - NLTK Source
 - [django-secure](https://github.com/carljm/django-secure) - This project was merged into Django 1.8, and is now unsupported and unmaintained as a third-party app.
 - [dataset](https://github.com/pudo/dataset) - Easy-to-use data handling for SQL data stores with support for implicit table creation, bulk loading, and transactions.
@@ -12987,7 +12986,7 @@
 - [grafana-statusmap](https://github.com/flant/grafana-statusmap) - Grafana panel plugin to visualize status of multiple objects over time
 - [strest](https://github.com/eykrehbein/strest) - ⚡️ CI-ready tests for REST APIs configured in YAML
 - [misskey](https://github.com/syuilo/misskey) - 🌎 A federated blogging platform 🚀
-- [BLOG_FE](https://github.com/Yancey-Blog/BLOG_FE) - Yancey Official Blog for PC.
+- [BLOG_DESKTOP](https://github.com/Yancey-Blog/BLOG_DESKTOP) - Yancey Official Blog for PC.
 - [vscode-org-mode](https://github.com/vscode-org-mode/vscode-org-mode) - Emacs Org Mode for Visual Studio Code
 - [vuex-persist](https://github.com/championswimmer/vuex-persist) - A Vuex plugin to persist the store. (Fully Typescript enabled)
 - [vsf-prismic](https://github.com/BartoszLiburski/vsf-prismic) - Headless Prismic CMS implementation to Vue-storefront
@@ -13234,6 +13233,7 @@
 - [cssgridgenerator](https://github.com/sdras/cssgridgenerator) - 🧮Generate basic CSS Grid code to make dynamic layouts!
 - [nuxt-element-dashboard](https://github.com/levy9527/nuxt-element-dashboard) - ⚡️develop your admin-dashboard fast
 - [Vue-Access-Control](https://github.com/tower1229/Vue-Access-Control) - :gem: Frontend access control framework based Vue
+- [DIYGame](https://github.com/Lawliet01/DIYGame) - customize game/make platform game without coding
 - [pomotroid](https://github.com/Splode/pomotroid) - :tomato: Simple and visually-pleasing Pomodoro timer
 - [cssfx](https://github.com/jolaleye/cssfx) - ✨ Beautifully simple click-to-copy CSS effects
 - [vue-thanos-snap](https://github.com/yiliang114/vue-thanos-snap) - thanos snap animation by vue
