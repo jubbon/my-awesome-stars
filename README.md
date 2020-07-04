@@ -470,6 +470,7 @@
 
 ## C++ 
 
+- [neoml](https://github.com/neoml-lib/neoml) - Machine learning framework for both deep learning and traditional algorithms
 - [xeus-python](https://github.com/jupyter-xeus/xeus-python) - Jupyter kernel for the Python programming language
 - [xeus](https://github.com/jupyter-xeus/xeus) - C++ implementation of the Jupyter kernel protocol
 - [s3fs-fuse](https://github.com/s3fs-fuse/s3fs-fuse) - FUSE-based file system backed by Amazon S3
@@ -2251,7 +2252,6 @@
 - [PortFolio_Website](https://github.com/akashyap2013/PortFolio_Website) - Complete Portfolio Website with Bootstrap - HTML/CSS In this project, we are going to learn and build how to create a complete portfolio website with bootstrap using HTML and CSS. We will understand everything from scratch.
 - [Django-CRM](https://github.com/MicroPyramid/Django-CRM) - Open Source Python CRM based on Django
 - [DevOps-Guide](https://github.com/Tikam02/DevOps-Guide) - DevOps Guide from basic to advanced with Interview Questions and Notes 🔥
-- [start-here-guidelines](https://github.com/zero-to-mastery/start-here-guidelines) - Lets Git started in the world of opensource, starting in the Zero To Mastery's opensource playground. Especially designed for education and practical experience purposes.
 - [ggstatsplot](https://github.com/IndrajeetPatil/ggstatsplot) - Enhancing `ggplot2` plots with statistical analysis 📊🎨📣
 - [TheHive](https://github.com/TheHive-Project/TheHive) - TheHive: a Scalable, Open Source and Free Security Incident Response Platform
 - [pyvis](https://github.com/WestHealth/pyvis) - Python package for creating and visualizing interactive network graphs.
@@ -3779,7 +3779,7 @@
 - [securelogin](https://github.com/sakurity/securelogin) - This version won't be maintained!
 - [contracts-solidity](https://github.com/bancorprotocol/contracts-solidity) - Bancor Protocol Contracts
 - [front-end-handbook-2017](https://github.com/xitu/front-end-handbook-2017) - 2017 edition of our front-end development guide
-- [billboard.js](https://github.com/naver/billboard.js) - :bar_chart: Re-usable, easy interface JavaScript chart library based on D3 v4+:chart_with_upwards_trend:
+- [billboard.js](https://github.com/naver/billboard.js) - :bar_chart: Re-usable, easy interface JavaScript chart library based on D3.js
 - [lodash](https://github.com/lodash/lodash) - A modern JavaScript utility library delivering modularity, performance, & extras.
 - [vue-awesome](https://github.com/Justineo/vue-awesome) - Awesome SVG icon component for Vue.js, built-in with Font Awesome icons.
 - [slap](https://github.com/slap-editor/slap) - Sublime-like terminal-based text editor
@@ -4112,7 +4112,6 @@
 - [compromise](https://github.com/spencermountain/compromise) - modest natural-language processing
 - [Js2Py](https://github.com/PiotrDabkowski/Js2Py) - JavaScript to Python Translator & JavaScript interpreter written in 100% pure Python🚀 Try it online:
 - [markmap](https://github.com/dundalek/markmap) - Visualize markdown documents as mindmaps
-- [ipyleaflet](https://github.com/jupyter-widgets/ipyleaflet) - A Jupyter - Leaflet.js bridge
 - [express-print-routes](https://github.com/analog-nico/express-print-routes) - Prints the tree of Express routes and middlewares to a file
 - [You-Dont-Know-JS](https://github.com/cezaraugusto/You-Dont-Know-JS) - :green_book::ledger: (PT-BR translation) JS Book Series.
 - [yakbak](https://github.com/flickr/yakbak) - Record and playback HTTP responses
@@ -5839,13 +5838,14 @@
 - [Production-Level-Deep-Learning](https://github.com/alirezadir/Production-Level-Deep-Learning) - A guideline for building practical production-level deep learning systems to be deployed in real world applications.
 - [tvt](https://github.com/deepmind/tvt) - 
 - [system_design](https://github.com/shashank88/system_design) - Preparation links and resources for system design questions
+- [start-here-guidelines](https://github.com/zero-to-mastery/start-here-guidelines) - Lets Git started in the world of opensource, starting in the Zero To Mastery's opensource playground. Especially designed for education and practical experience purposes.
 - [spec](https://github.com/oam-dev/spec) - The Open Application Model specification
 - [Artificial-Intelligence](https://github.com/Niraj-Lunavat/Artificial-Intelligence) - Awesome AI Learning with +100 AI Cheat-Sheets, Free online Books, Top Courses, Best Videos and Lectures, Papers, Tutorials, +99 Researchers, Premium Websites, +121 Datasets, Conferences, Frameworks, Tools
 - [best-practices-checklist](https://github.com/palash25/best-practices-checklist) - A list of awesome idiomatic code resources. Rust:crab:, Go, Ruby:gem:, Pony :horse:, Ocaml :camel:, Erlang and more
 - [MIT-Linear-Algebra-Notes](https://github.com/yizhen20133868/MIT-Linear-Algebra-Notes) - Notes for MIT-Linear-Algebra
 - [Cookbook](https://github.com/andkret/Cookbook) - The Data Engineering Cookbook
 - [dn](https://github.com/tomlockwood/dn) - Daily notes command line tool
-- [awesome-robotic-tooling](https://github.com/Ly0n/awesome-robotic-tooling) - Tools for professional robotic development in C++ and Python with a touch of autonomous driving and aerospace
+- [awesome-robotic-tooling](https://github.com/protontypes/awesome-robotic-tooling) - Tools for professional robotic development in C++ and Python with a touch of autonomous driving and aerospace
 - [awesome-graph](https://github.com/jbmusso/awesome-graph) - A curated list of resources for graph databases and graph computing tools
 - [For-Data-Science-Beginners](https://github.com/amrrs/For-Data-Science-Beginners) - Set of 📝 with 🔗 to help those who are Data Science beginners 🤖
 - [awesome-libra](https://github.com/reed-hong/awesome-libra) - A Curated List of Awesome Facebook Libra Resources
@@ -6919,7 +6919,7 @@
 - [remi](https://github.com/YatingMusic/remi) - "Pop Music Transformer: Generating Music with Rhythm and Harmony", arXiv 2020
 - [tianshou](https://github.com/thu-ml/tianshou) - An elegant, flexible, and superfast PyTorch deep reinforcement learning platform.
 - [pycls](https://github.com/facebookresearch/pycls) - Codebase for Image Classification Research, written in PyTorch.
-- [PaddleHub](https://github.com/PaddlePaddle/PaddleHub) - Toolkit for Pre-Trained Model Application of PaddlePaddle（『飞桨』预训练模型应用工具 ）
+- [PaddleHub](https://github.com/PaddlePaddle/PaddleHub) - Toolkit for Pre-trained Model Application of PaddlePaddle（『飞桨』预训练模型应用工具 ）
 - [CurveFit](https://github.com/ihmeuw-msca/CurveFit) - Generic curve fitting package with nonlinear mixed effects model
 - [aristo-mini](https://github.com/allenai/aristo-mini) - Aristo mini is a light-weight question answering system that can quickly evaluate Aristo science questions with an evaluation web server and the provided baseline solvers.
 - [gym-gridworld](https://github.com/xinleipan/gym-gridworld) - Simple grid-world environment compatible with OpenAI-gym
@@ -7543,7 +7543,7 @@
 - [lazynlp](https://github.com/chiphuyen/lazynlp) - Library to scrape and clean web pages to create massive datasets.
 - [AdaBound](https://github.com/Luolc/AdaBound) - An optimizer that trains as fast as Adam and as good as SGD.
 - [Awesome-WAF](https://github.com/0xInfection/Awesome-WAF) - 🔥 Everything awesome about web-application firewalls (WAF).
-- [bullet](https://github.com/Mckinsey666/bullet) - 🚅 Interactive prompts made simple. Build a prompt like stacking blocks.
+- [bullet](https://github.com/bchao1/bullet) - 🚅 Interactive prompts made simple. Build a prompt like stacking blocks.
 - [Smart-Park-with-YOLO-V3](https://github.com/ankit1khare/Smart-Park-with-YOLO-V3) - Maintaining empty parking spot count using YOLO real-time vehicle detection. Code readily runnable in google colab.
 - [python-reinforcement-learning](https://github.com/vihar/python-reinforcement-learning) - 
 - [deep_sort_yolov3](https://github.com/Qidian213/deep_sort_yolov3) - Real-time Multi-person tracker using YOLO v3 and deep_sort with tensorflow
@@ -7553,7 +7553,7 @@
 - [gpt-2](https://github.com/openai/gpt-2) - Code for the paper "Language Models are Unsupervised Multitask Learners"
 - [gpt-2-Pytorch](https://github.com/graykode/gpt-2-Pytorch) - Simple Text-Generator with OpenAI gpt-2 Pytorch Implementation
 - [SC-FEGAN](https://github.com/run-youngjoo/SC-FEGAN) - SC-FEGAN : Face Editing Generative Adversarial Network with User's Sketch and Color (ICCV2019)
-- [vocabs](https://github.com/Mckinsey666/vocabs) - 📚 A lightweight online dictionary integration to the command line. No browsers. No paperbacks.
+- [vocabs](https://github.com/bchao1/vocabs) - 📚 A lightweight online dictionary integration to the command line. No browsers. No paperbacks.
 - [second.pytorch](https://github.com/traveller59/second.pytorch) - SECOND for KITTI/NuScenes object detection
 - [second.pytorch](https://github.com/nutonomy/second.pytorch) - PointPillars for KITTI object detection
 - [nuscenes-devkit](https://github.com/nutonomy/nuscenes-devkit) - The devkit of the nuScenes dataset.
@@ -10025,6 +10025,7 @@
 - [xgbmagic](https://github.com/mirri66/xgbmagic) - 
 - [closurepr](https://github.com/eugene-eeo/closurepr) - a better repr for closures
 - [gitsome](https://github.com/donnemartin/gitsome) - A supercharged Git/GitHub command line interface (CLI).  An official integration for GitHub and GitHub Enterprise: https://github.com/works-with/category/desktop-tools
+- [ipyleaflet](https://github.com/jupyter-widgets/ipyleaflet) - A Jupyter - Leaflet.js bridge
 - [mxnet-memonger](https://github.com/dmlc/mxnet-memonger) - Sublinear memory optimization for deep learning, reduce GPU memory cost to train deeper nets
 - [cyanide](https://github.com/celery/cyanide) - Celery stress testing and integration test support
 - [databench](https://github.com/svenkreiss/databench) - Data analysis tool.
