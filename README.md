@@ -1566,7 +1566,7 @@
 - [godog](https://github.com/cucumber/godog) - Cucumber for golang
 - [aws-vault](https://github.com/99designs/aws-vault) - A vault for securely storing and accessing AWS credentials in development environments
 - [go-gitlab](https://github.com/xanzy/go-gitlab) - A GitLab API client enabling Go programs to interact with GitLab in a simple and uniform way
-- [micro](https://github.com/micro/micro) - Micro is a distributed systems runtime environment
+- [micro](https://github.com/micro/micro) - Micro is a distributed systems runtime for the Cloud
 - [go-github](https://github.com/google/go-github) - Go library for accessing the GitHub API
 - [nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
 - [migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
@@ -3186,7 +3186,7 @@
 - [project-explorer](https://github.com/sdras/project-explorer) - 🎋A CLI tool to create an annotated tree visualization of any project
 - [vue-realworld-example-app](https://github.com/gothinkster/vue-realworld-example-app) - An exemplary real-world application built with Vue.js, Vuex, axios and different other technologies. This is a good example to discover Vue for beginners.
 - [react-redux](https://github.com/reduxjs/react-redux) - Official React bindings for Redux
-- [gridsome](https://github.com/gridsome/gridsome) - ⚡️ A Jamstack framework for Vue.js
+- [gridsome](https://github.com/gridsome/gridsome) - ⚡️ The Jamstack framework for Vue.js
 - [galio](https://github.com/galio-org/galio) - Galio is a beautifully designed, Free and Open Source React Native Framework
 - [webpack-demos](https://github.com/dongyuanxin/webpack-demos) - 📦 Demos && Courses for Webpack 4
 - [jsonmc](https://github.com/jsonmc/jsonmc) - JSON Movie Collection
@@ -3487,7 +3487,7 @@
 - [starhackit](https://github.com/FredericHeem/starhackit) - StarHackIt: React/Native/Node fullstack starter kit with authentication and authorisation, data backed by SQL.
 - [UglifyJS](https://github.com/mishoo/UglifyJS) - JavaScript parser / mangler / compressor / beautifier toolkit
 - [node-clinic](https://github.com/nearform/node-clinic) - Clinic.js diagnoses your Node.js performance issues
-- [karmatic](https://github.com/developit/karmatic) - 🦑 Easy automatic (headless) browser testing. Powered by Karma, Webpack & Jasmine.
+- [karmatic](https://github.com/developit/karmatic) - 🦑 Easy automatic (headless) browser testing with Jest's API, but powered by Karma & Webpack.
 - [greenlet](https://github.com/developit/greenlet) - 🦎 Move an async function into its own thread.
 - [v-blur](https://github.com/ndelvalle/v-blur) - ⬜️ Vue directive to blur an element dynamically
 - [vue-native-websocket](https://github.com/nathantsoi/vue-native-websocket) - native websocket with vuex integration
@@ -3604,7 +3604,7 @@
 - [gdbgui](https://github.com/cs01/gdbgui) - Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will open in your browser.
 - [tikzcd-editor](https://github.com/yishn/tikzcd-editor) - A simple visual editor for creating commutative diagrams.
 - [server](https://github.com/franciscop/server) - :desktop_computer: Simple and powerful server for Node.js
-- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (June 2020)
+- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2020)
 - [charts](https://github.com/frappe/charts) - Simple, responsive, modern SVG Charts with zero dependencies
 - [leaflet-control-orderlayers](https://github.com/elesdoar/leaflet-control-orderlayers) - Leaflet control with order functionality
 - [bottery](https://github.com/google/bottery) - 
@@ -3743,7 +3743,7 @@
 - [chalk](https://github.com/chalk/chalk) - 🖍 Terminal string styling done right
 - [react-vue](https://github.com/SmallComfort/react-vue) - Run Vue in React and React Native
 - [rxviz](https://github.com/moroshko/rxviz) - Rx Visualizer - Animated playground for Rx Observables
-- [hyperapp](https://github.com/jorgebucaran/hyperapp) - The tiny framework for building hypertext applications.
+- [hyperapp](https://github.com/jorgebucaran/hyperapp) - The 1 kB framework for building hypertext applications.
 - [xssor2](https://github.com/evilcos/xssor2) - XSS'OR - Hack with JavaScript.
 - [pencil](https://github.com/evolus/pencil) - The Pencil Project's unique mission is to build a free and opensource tool for making diagrams and GUI prototyping that everyone can use.
 - [inject-loader](https://github.com/plasticine/inject-loader) - 💉📦 A Webpack loader for injecting code into modules via their dependencies.
@@ -4448,6 +4448,7 @@
 
 ## Jupyter Notebook 
 
+- [EssentialMath](https://github.com/yangyutu/EssentialMath) - 
 - [awesome-pandas](https://github.com/tommyod/awesome-pandas) - A collection of resources for pandas (Python) and related subjects.
 - [RNN-Keras](https://github.com/DanielDaCosta/RNN-Keras) - Building a Multi-Label Classifier doesn't seem a difficult task using Keras, but when you are dealing with a highly imbalanced dataset with more than 30 different labels and with multiple losses it can become quite tricky.
 - [dp_tutorials](https://github.com/deepmipt/dp_tutorials) - 
@@ -5681,6 +5682,7 @@
 
 ## Makefile 
 
+- [awesome-django](https://github.com/wsvincent/awesome-django) - A curated list of awesome things related to Django
 - [docker-serverless](https://github.com/amaysim-au/docker-serverless) - Docker image containing NodeJS, Serverless Framework and Yarn.
 - [change-password-url](https://github.com/WICG/change-password-url) - A Well-Known URL for Changing Passwords
 - [graphpipe](https://github.com/oracle/graphpipe) - Machine Learning Model Deployment Made Simple
@@ -5740,6 +5742,13 @@
 
 ## Others 
 
+- [ML_for_SLA](https://github.com/JonathanLaneMcDonald/ML_for_SLA) - Training a neural network to isolate comprehensible input from unstructured text to aid vocabulary acquisition.
+- [pylance-release](https://github.com/microsoft/pylance-release) - Documentation and issues for Pylance
+- [snipsnap](https://github.com/snipsnapdev/snipsnap) - The ultimate snippets collection for VS Code
+- [Deep-learning-books](https://github.com/loveunk/Deep-learning-books) - Books for machine learning, deep learning, math, NLP, CV, RL, etc
+- [awesome-quant](https://github.com/wilsonfreitas/awesome-quant) - A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)
+- [Pwdb-Public](https://github.com/FlameOfIgnis/Pwdb-Public) - A collection of all the data i could extract from 1 billion leaked credentials from internet.
+- [Summer2021-Internships](https://github.com/Pitt-CSC/Summer2021-Internships) - Collection of Summer 2021 tech internships!
 - [gpt-3](https://github.com/openai/gpt-3) - GPT-3: Language Models are Few-Shot Learners
 - [unofficial-apis](https://github.com/Rolstenhouse/unofficial-apis) - A collection of unofficial apis. Designed to inspire your next Friday night hack
 - [awesome-asgi](https://github.com/florimondmanca/awesome-asgi) - A curated list of awesome ASGI servers, frameworks, apps, libraries, and other resources
@@ -5754,7 +5763,6 @@
 - [awesome-baremetal](https://github.com/alexellis/awesome-baremetal) - Bare-metal is awesome. Let's share our favourite tools.
 - [awesome-deepbio](https://github.com/gokceneraslan/awesome-deepbio) - A curated list of awesome deep learning applications in the field of computational biology
 - [ml-system-design-pattern](https://github.com/mercari/ml-system-design-pattern) - System design patterns for machine learning
-- [awesome-django](https://github.com/wsvincent/awesome-django) - A curated list of awesome things related to Django
 - [internship-application-product-management](https://github.com/cloudflare-internship-2020/internship-application-product-management) - 
 - [stopwords-ru](https://github.com/stopwords-iso/stopwords-ru) - Russian stopwords collection
 - [curriculum](https://github.com/TheOdinProject/curriculum) - The open curriculum for learning web development
@@ -5919,7 +5927,7 @@
 - [ansible-conda-env](https://github.com/andrewrothstein/ansible-conda-env) - 
 - [otv2-platform](https://github.com/opentraffic/otv2-platform) - An overview of the entire Open Traffic v2 platform and its components
 - [The-Hackers-Hardware-Toolkit](https://github.com/yadox666/The-Hackers-Hardware-Toolkit) - The best hacker's gadgets for Red Team pentesters and security researchers.
-- [awesome-opensource-documents](https://github.com/hubtee/awesome-opensource-documents) - :blue_book: A curated list of awesome open source or open source licensed documents, guides, books.
+- [awesome-opensource-documents](https://github.com/44bits/awesome-opensource-documents) - :blue_book: A curated list of awesome open source or open source licensed documents, guides, books.
 - [LeakLooker](https://github.com/woj-ciech/LeakLooker) - Find open databases - Powered by Binaryedge.io
 - [your-dns](https://github.com/yegle/your-dns) - A docker-compose file to provide a secure adblocking DNS server
 - [awesome-react-hooks](https://github.com/glauberfc/awesome-react-hooks) - A curated list about React Hooks
@@ -6746,6 +6754,16 @@
 
 ## Python 
 
+- [nlp](https://github.com/huggingface/nlp) - 🤗nlp – Datasets and evaluation metrics for Natural Language Processing in NumPy, Pandas, PyTorch and TensorFlow
+- [TensorflowTTS](https://github.com/TensorSpeech/TensorflowTTS) - :stuck_out_tongue_closed_eyes: TensorflowTTS: Real-Time State-of-the-art Speech Synthesis for Tensorflow 2
+- [tuya-convert](https://github.com/ct-Open-Source/tuya-convert) - A collection of scripts to flash Tuya IoT devices to alternative firmwares
+- [rich](https://github.com/willmcgugan/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
+- [pyTelegramBotAPI](https://github.com/eternnoir/pyTelegramBotAPI) - Python Telegram bot api.
+- [vega](https://github.com/huawei-noah/vega) - AutoML tools chain
+- [cassandra-workshop-series](https://github.com/DataStax-Academy/cassandra-workshop-series) - All materials for the Cassandra Workshop Series in a single place
+- [awesome-discord-communities](https://github.com/mhxion/awesome-discord-communities) - A curated list of awesome Discord communities for programmers
+- [practical-python](https://github.com/dabeaz-course/practical-python) - Practical Python Programming (course by @dabeaz)
+- [J.A.R.V.I.S](https://github.com/GauravSingh9356/J.A.R.V.I.S) - python powered Intelligent System
 - [python-docx2txt](https://github.com/ankushshah89/python-docx2txt) - A pure python based utility to extract text and images from docx files.
 - [PEDRA](https://github.com/aqeelanwar/PEDRA) - Programmable Engine for Drone Reinforcement Learning Applications
 - [pytrovich](https://github.com/petrovich/pytrovich) - Python3 port of Petrovich, an inflector (and gender detector) for Russian anthroponyms
@@ -7090,7 +7108,7 @@
 - [StackedDeBERT](https://github.com/gcunhase/StackedDeBERT) - Stacked Denoising BERT for Text Classification in Incomplete Data
 - [BCQ](https://github.com/sfujim/BCQ) - Author's PyTorch implementation of BCQ for continuous and discrete actions
 - [K3D-jupyter](https://github.com/K3D-tools/K3D-jupyter) - K3D lets you create 3D plots backed by WebGL with high-level API (surfaces, isosurfaces, voxels, mesh, cloud points, vtk objects, volume renderer, colormaps, etc). The primary aim of K3D-jupyter is to be easy for use as stand alone package like matplotlib, but also to allow interoperation with existing libraries as VTK.
-- [FNNP](https://github.com/anonymous47823493/FNNP) - Code released for "Pruning Neural Network Using Fast Performance Prediction"
+- [EagleEye](https://github.com/anonymous47823493/EagleEye) - (ECCV2020 Oral)EagleEye: Fast Sub-net Evaluation for Efficient Neural Network Pruning
 - [AutoDL-Projects](https://github.com/D-X-Y/AutoDL-Projects) - Automated deep learning algorithms implemented in PyTorch or Tensorflow.
 - [gym-minigrid](https://github.com/maximecb/gym-minigrid) - Minimalistic gridworld package for OpenAI Gym
 - [StarGAN-Voice-Conversion](https://github.com/liusongxiang/StarGAN-Voice-Conversion) - This is a pytorch implementation of the paper: StarGAN-VC: Non-parallel many-to-many voice conversion with star generative adversarial networks
@@ -12980,7 +12998,7 @@
 - [squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
 - [material-angular-dashboard](https://github.com/CreativeIT/material-angular-dashboard) - Material Angular Admin Template
 - [wayne](https://github.com/Qihoo360/wayne) - Kubernetes multi-cluster management and publishing platform
-- [statusfy](https://github.com/aceforth/statusfy) - A Marvelous Open Source Status Page System
+- [statusfy](https://github.com/juliomrqz/statusfy) - A Marvelous Open Source Status Page System
 - [axios-actions](https://github.com/davestewart/axios-actions) - Bundle endpoints as callable, reusable services
 - [eva-icons](https://github.com/akveo/eva-icons) - A pack of more than 480 beautifully crafted Open Source icons. SVG, Sketch, Web Font and Animations support.
 - [graphql-editor](https://github.com/graphql-editor/graphql-editor) - 📺 Visual Editor & GraphQL IDE. Draw GraphQL schemas using visual 🔷 nodes and explore GraphQL API with beautiful UI. Even 🐒 can do that!
