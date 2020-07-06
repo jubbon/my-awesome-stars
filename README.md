@@ -1445,7 +1445,7 @@
 - [awesome-flutter-packages](https://github.com/leisim/awesome-flutter-packages) - A curated list of awesome Flutter packages.
 - [angular](https://github.com/dart-lang/angular) - Fast and productive web framework provided by Dart
 - [flutter-permission-handler](https://github.com/Baseflow/flutter-permission-handler) - Permission plugin for Flutter. This plugin provides a cross-platform (iOS, Android) API to request and check permissions.
-- [FlutterHtmlView](https://github.com/PonnamKarthik/FlutterHtmlView) - Flutter Plugin to render html as a Widget
+- [FlutterHtmlView](https://github.com/ponnamkarthik/FlutterHtmlView) - Flutter Plugin to render html as a Widget
 - [flutter_facebook_login](https://github.com/roughike/flutter_facebook_login) - A Flutter plugin for allowing users to authenticate with native Android & iOS Facebook login SDKs.
 - [flutter-grpc-tutorial](https://github.com/amsokol/flutter-grpc-tutorial) - [Tutorial] Asynchronous Flutter chat client with Go chat server which are powered by gRPC (simple and streaming)
 - [flutter-geolocator](https://github.com/Baseflow/flutter-geolocator) - Android and iOS Geolocation plugin for Flutter
@@ -2570,7 +2570,6 @@
 - [d3_in_action_2](https://github.com/emeeks/d3_in_action_2) - Examples for D3.js in Action 2nd Edition (D3v4)
 - [polls](https://github.com/pkremp/polls) - 
 - [home_surveillance](https://github.com/BrandonJoffe/home_surveillance) - Home surveillance system with facial recognition
-- [portainer](https://github.com/portainer/portainer) - Making Docker management easy.
 - [beginners-guide-to-sml](https://github.com/beck410/beginners-guide-to-sml) - Notes from pynash talk - http://www.meetup.com/PyNash/events/234643746/
 - [microsoft.github.io](https://github.com/microsoft/microsoft.github.io) - Microsoft on GitHub
 - [sectalks](https://github.com/sectalks/sectalks) - CTFs, solutions and presentations
@@ -3273,7 +3272,7 @@
 - [mdx-deck](https://github.com/jxnblk/mdx-deck) - ♠️ React MDX-based presentation decks
 - [apexcharts.js](https://github.com/apexcharts/apexcharts.js) - 📊 Interactive JavaScript Charts built on SVG
 - [taskbook](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat
-- [vue-plyr](https://github.com/redxtech/vue-plyr) - A Vue component for the plyr video & audio player.
+- [vue-plyr](https://github.com/redxtech/vue-plyr) - A Vue component for the plyr (https://github.com/sampotts/plyr) video & audio player.
 - [vue-crud-x](https://github.com/ais-one/vue-crud-x) - Vue+Express Cookbook & CRUD Component
 - [Ghost](https://github.com/TryGhost/Ghost) - 👻 The #1 headless Node.js CMS for professional publishing
 - [canvas-sketch](https://github.com/mattdesl/canvas-sketch) - [beta] A framework for making generative artwork in JavaScript and the browser.
@@ -3743,7 +3742,7 @@
 - [chalk](https://github.com/chalk/chalk) - 🖍 Terminal string styling done right
 - [react-vue](https://github.com/SmallComfort/react-vue) - Run Vue in React and React Native
 - [rxviz](https://github.com/moroshko/rxviz) - Rx Visualizer - Animated playground for Rx Observables
-- [hyperapp](https://github.com/jorgebucaran/hyperapp) - The 1 kB framework for building hypertext applications.
+- [hyperapp](https://github.com/jorgebucaran/hyperapp) - The tiny framework for building hypertext applications.
 - [xssor2](https://github.com/evilcos/xssor2) - XSS'OR - Hack with JavaScript.
 - [pencil](https://github.com/evolus/pencil) - The Pencil Project's unique mission is to build a free and opensource tool for making diagrams and GUI prototyping that everyone can use.
 - [inject-loader](https://github.com/plasticine/inject-loader) - 💉📦 A Webpack loader for injecting code into modules via their dependencies.
@@ -3931,6 +3930,7 @@
 - [traquer](https://github.com/nenadg/traquer) - Records and reproduces user's in-page behavior
 - [webpack-bundle-analyzer](https://github.com/webpack-contrib/webpack-bundle-analyzer) - Webpack plugin and CLI utility that represents bundle content as convenient interactive zoomable treemap
 - [skatejs](https://github.com/skatejs/skatejs) - Effortless custom elements powered by modern view libraries.
+- [portainer](https://github.com/portainer/portainer) - Making Docker management easy.
 - [axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
 - [deepteach](https://github.com/mldbai/deepteach) - DeepTeach - the Interactive Deep Image Classifier Builder
 - [vue-video-player](https://github.com/surmon-china/vue-video-player) - 🎞 @videojs component for @vuejs
@@ -7108,8 +7108,8 @@
 - [StackedDeBERT](https://github.com/gcunhase/StackedDeBERT) - Stacked Denoising BERT for Text Classification in Incomplete Data
 - [BCQ](https://github.com/sfujim/BCQ) - Author's PyTorch implementation of BCQ for continuous and discrete actions
 - [K3D-jupyter](https://github.com/K3D-tools/K3D-jupyter) - K3D lets you create 3D plots backed by WebGL with high-level API (surfaces, isosurfaces, voxels, mesh, cloud points, vtk objects, volume renderer, colormaps, etc). The primary aim of K3D-jupyter is to be easy for use as stand alone package like matplotlib, but also to allow interoperation with existing libraries as VTK.
-- [EagleEye](https://github.com/anonymous47823493/EagleEye) - (ECCV2020 Oral)EagleEye: Fast Sub-net Evaluation for Efficient Neural Network Pruning
-- [AutoDL-Projects](https://github.com/D-X-Y/AutoDL-Projects) - Automated deep learning algorithms implemented in PyTorch or Tensorflow.
+- [EagleEye](https://github.com/anonymous47823493/EagleEye) - (ECCV'2020 Oral)EagleEye: Fast Sub-net Evaluation for Efficient Neural Network Pruning
+- [AutoDL-Projects](https://github.com/D-X-Y/AutoDL-Projects) - Automated deep learning algorithms implemented in PyTorch.
 - [gym-minigrid](https://github.com/maximecb/gym-minigrid) - Minimalistic gridworld package for OpenAI Gym
 - [StarGAN-Voice-Conversion](https://github.com/liusongxiang/StarGAN-Voice-Conversion) - This is a pytorch implementation of the paper: StarGAN-VC: Non-parallel many-to-many voice conversion with star generative adversarial networks
 - [deconvolution](https://github.com/yechengxi/deconvolution) - 
@@ -10713,7 +10713,6 @@
 - [scikit-image](https://github.com/scikit-image/scikit-image) - Image processing in Python
 - [atpy](https://github.com/atpy/atpy) - Astronomical Tables in Python
 - [joblog](https://github.com/ChrisBeaumont/joblog) - Job management for scikit learn classifiers
-- [scipy_proceedings](https://github.com/scipy-conference/scipy_proceedings) - Tools used to generate the SciPy conference proceedings
 - [wcsaxes](https://github.com/astrofrog/wcsaxes) - wcsaxes has been merged into astropy!
 - [mplfacet](https://github.com/ChrisBeaumont/mplfacet) - Faceted plots in matplotlib. Because nature abhors boilerplate code.
 - [astrodendro](https://github.com/dendrograms/astrodendro) - Generate a dendrogram from a dataset
@@ -11369,7 +11368,7 @@
 - [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) - A curated list of awesome Machine Learning frameworks, libraries and software.
 - [ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy. Avoid writing scripts or custom code to deploy and update your applications — automate in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com/ansible/
 - [lettuce](https://github.com/gabrielfalcao/lettuce) - Behavior-driven-development tool for python, inspired by Cucumber for Ruby ⛺
-- [xypath](https://github.com/sensiblecodeio/xypath) - Navigating around a grid of cells like XPath for spreadsheets; supports Python 2.7 and 3.4+
+- [xypath](https://github.com/sensiblecodeio/xypath) - Navigating around a grid of cells like XPath for spreadsheets; supports Python 3.5+
 - [rekall](https://github.com/google/rekall) - Rekall Memory Forensic Framework
 - [kaggle_stackexchange_prediction](https://github.com/DmitryKey/kaggle_stackexchange_prediction) - This is source code of submission by SkyNet team for the StackExchange contest of closed question prediction.
 - [django-nvd3](https://github.com/areski/django-nvd3) - Django wrapper for nvd3 - It's time for beautiful charts
@@ -12915,6 +12914,7 @@
 - [efficientR](https://github.com/csgillespie/efficientR) - Efficient R programming: a book
 - [depsy-research](https://github.com/ourresearch/depsy-research) - Documentation and research output for Depsy (see https://github.com/impactstory/depsy for source of Depsy itself)
 - [DataAnalysisRecipes](https://github.com/davidwhogg/DataAnalysisRecipes) - chapters of a book Hogg will never write
+- [scipy_proceedings](https://github.com/scipy-conference/scipy_proceedings) - Tools used to generate the SciPy conference proceedings
 - [MapReduceAlgorithms](https://github.com/lintool/MapReduceAlgorithms) - Data-Intensive Text Processing with MapReduce
 - [preTeX](https://github.com/s9w/preTeX) - LaTeX preprocessor to simplify math typesetting
 - [latex-templates](https://github.com/bamos/latex-templates) - Website for personal collection and previewing of LaTeX templates. Presented with Python/Jinja2.
@@ -13228,7 +13228,7 @@
 - [factor](https://github.com/fiction-com/factor) - The JavaScript CMS Platform
 - [massCode](https://github.com/antonreshetov/massCode) - A free and open source code snippets manager for developers.
 - [vue-ctk-date-time-picker](https://github.com/chronotruck/vue-ctk-date-time-picker) - VueJS component to select dates & time, including a range mode
-- [postwoman](https://github.com/liyasthomas/postwoman) - 👽 A free, fast and beautiful API request builder (web alternative to Postman) used by 60k+ developers. https://postwoman.io
+- [postwoman](https://github.com/liyasthomas/postwoman) - 👽 A free, fast and beautiful API request builder (web alternative to Postman) used by 62k+ developers. https://postwoman.io
 - [Scriptis](https://github.com/WeBankFinTech/Scriptis) - Scriptis is for interactive data analysis with script development(SQL, Pyspark, HiveQL), task submission(Spark, Hive), UDF, function, resource management and intelligent diagnosis.
 - [Scout](https://github.com/tevora-threat/Scout) - Surveillance Detection Scout: Your Lookout on Autopilot
 - [DynamoDb-GUI-Client](https://github.com/Arattian/DynamoDb-GUI-Client) - DynamoDb GUI Client
