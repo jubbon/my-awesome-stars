@@ -423,7 +423,7 @@
 - [PyTables](https://github.com/PyTables/PyTables) - A Python package to manage extremely large amounts of data
 - [swiperproxy](https://github.com/swiperproxy/swiperproxy) - A Python-based HTTP/HTTPS-proxy.
 - [torch7](https://github.com/torch/torch7) - http://torch.ch
-- [redis](https://github.com/redis-io/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.
+- [redis](https://github.com/redis/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.
 - [astropy](https://github.com/astropy/astropy) - Repository for the Astropy core package
 - [unqlite-python](https://github.com/coleifer/unqlite-python) - Python bindings for the UnQLite embedded NoSQL database
 - [heartleech](https://github.com/robertdavidgraham/heartleech) - Demonstrates the "heartbleed" problem using full OpenSSL stack
@@ -671,7 +671,7 @@
 - [profilo](https://github.com/facebookincubator/profilo) - A library for performance traces from production.
 - [gdal](https://github.com/OSGeo/gdal) - GDAL is an open source X/MIT licensed translator library for raster and vector geospatial data formats.
 - [ngraph](https://github.com/NervanaSystems/ngraph) - nGraph - open source C++ library, compiler and runtime for Deep Learning
-- [timer-benchmarks](https://github.com/ichenq/timer-benchmarks) - Benchmark of different timer queue implementation(min-heap, red-black tree, timer vector)
+- [timer-benchmarks](https://github.com/slimccq/timer-benchmarks) - Benchmark of different timer queue implementation(min-heap, red-black tree, timer vector)
 - [service-fabric](https://github.com/microsoft/service-fabric) - Service Fabric is a distributed systems platform for packaging, deploying, and managing stateless and stateful distributed applications and containers at large scale.
 - [cquery](https://github.com/cquery-project/cquery) - C/C++ language server supporting multi-million line code base, powered by libclang. Emacs, Vim, VSCode, and others with language server protocol support. Cross references, completion, diagnostics, semantic highlighting and more
 - [msix-packaging](https://github.com/microsoft/msix-packaging) - MSIX SDK
@@ -1181,7 +1181,7 @@
 - [Sciview](https://github.com/tdrach/Sciview) - Designs and code for a data analysis prototype, initially intended for SpaceX.
 - [meteor-angular2.0-socially](https://github.com/Urigo/meteor-angular2.0-socially) - 
 - [JSbooks](https://github.com/revolunet/JSbooks) - Directory of free JavaScript ebooks
-- [frontend](https://github.com/24ways/frontend) - Front-end component library for 24 ways
+- [frontend](https://github.com/24ways/frontend) - Front-end component library for 24 ways. (2013-2019)
 - [JavaScript-Garden](https://github.com/BonsaiDen/JavaScript-Garden) - A collection of documentation about the most quirky parts of the JavaScript language.
 - [iziToast](https://github.com/marcelodolza/iziToast) - Elegant, responsive, flexible and lightweight notification plugin with no dependencies.
 - [card](https://github.com/jessepollak/card) - :credit_card: make your credit card form better in one line of code
@@ -1594,7 +1594,7 @@
 - [grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway) - gRPC to JSON proxy generator following the gRPC HTTP spec
 - [tinygo](https://github.com/tinygo-org/tinygo) - Go compiler for small places. Microcontrollers, WebAssembly, and command-line tools. Based on LLVM.
 - [grpc-go](https://github.com/grpc/grpc-go) - The Go language implementation of gRPC. HTTP/2 based RPC
-- [libpod](https://github.com/containers/libpod) - libpod is a library used to create container pods. Home of Podman.
+- [podman](https://github.com/containers/podman) - libpod is a library used to create container pods. Home of Podman.
 - [oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - A reverse proxy that provides authentication with Google, Github or other providers.
 - [cert-manager](https://github.com/jetstack/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes
 - [dapr](https://github.com/dapr/dapr) - Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
@@ -1966,7 +1966,7 @@
 - [pprof](https://github.com/google/pprof) - pprof is a tool for visualization and analysis of profiling data
 - [raven](https://github.com/0x09AL/raven) - raven is a Linkedin information gathering tool that  can be used by pentesters to gather information about an organization employees using Linkedin.
 - [goderive](https://github.com/awalterschulze/goderive) - Code Generation for Functional Programming, Concurrency and Generics in Golang
-- [cilium](https://github.com/cilium/cilium) - API-aware Networking and Security using eBPF and XDP
+- [cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability
 - [kube-prompt](https://github.com/c-bata/kube-prompt) - An interactive kubernetes client featuring auto-complete.
 - [go-prompt](https://github.com/c-bata/go-prompt) - Building powerful interactive prompts in Go, inspired by python-prompt-toolkit.
 - [vice](https://github.com/matryer/vice) - Go channels at horizontal scale (powered by message queues)
@@ -2741,6 +2741,7 @@
 
 ## Java 
 
+- [cassandra-workshop-series](https://github.com/DataStax-Academy/cassandra-workshop-series) - All materials for the Cassandra Workshop Series in a single place
 - [spring-cloud-alibaba](https://github.com/alibaba/spring-cloud-alibaba) - Spring Cloud Alibaba provides a one-stop solution for application development for the distributed solutions of Alibaba middleware.
 - [piranha](https://github.com/uber/piranha) - A tool for refactoring code related to feature flag APIs
 - [Algorithms](https://github.com/williamfiset/Algorithms) - A collection of algorithms and data structures
@@ -4516,6 +4517,7 @@
 - [Data-Structure-and-Algorithm-Using-Python](https://github.com/soumyadip007/Data-Structure-and-Algorithm-Using-Python) - In computer science, a data structure is a data organization, management, and storage format that enables efficient access and modification. More precisely, a data structure is a collection of data values, the relationships among them, and the functions or operations that can be applied to the data. (Using Python 3)
 - [Object-Oriented-Programming-Using-Python](https://github.com/soumyadip007/Object-Oriented-Programming-Using-Python) - Python is a multi-paradigm programming language. Meaning, it supports different programming approach. One of the popular approach to solve a programming problem is by creating objects. This is known as Object-Oriented Programming (OOP).
 - [Introduction-to-Python](https://github.com/soumyadip007/Introduction-to-Python) - Python is an interpreted, high-level, general-purpose programming language. Created by Guido van Rossum and first released in 1991, Python's design philosophy emphasizes code readability with its notable use of significant white space. (This repository contains Python 3 Code)
+- [gif](https://github.com/maxhumber/gif) - ✨ Better animated Matplotlib gifs
 - [Practical-Deep-Learning-for-Coders-2.0](https://github.com/muellerzr/Practical-Deep-Learning-for-Coders-2.0) - Notebooks for the "A walk with fastai2" Study Group and Lecture Series
 - [info8010-deep-learning](https://github.com/glouppe/info8010-deep-learning) - Lectures for INFO8010 - Deep Learning, ULiège
 - [Deep-Learning-For-Hackers](https://github.com/curiousily/Deep-Learning-For-Hackers) - Machine Learning tutorials with TensorFlow 2 and Keras in Python (Jupyter notebooks included) - (LSTMs, Hyperameter tuning, Data preprocessing, Bias-variance tradeoff, Anomaly Detection, Autoencoders, Time Series Forecasting, Object Detection, Sentiment Analysis, Intent Recognition with BERT)
@@ -5483,7 +5485,7 @@
 - [densecap](https://github.com/jcjohnson/densecap) - Dense image captioning in Torch
 - [effective_python_notebook](https://github.com/hunkim/effective_python_notebook) - 
 - [research_public](https://github.com/quantopian/research_public) - Quantitative research and educational materials
-- [Network-Analysis-Made-Simple](https://github.com/ericmjl/Network-Analysis-Made-Simple) - For PyCon, PyData, ODSC, and beyond!
+- [Network-Analysis-Made-Simple](https://github.com/ericmjl/Network-Analysis-Made-Simple) - An introduction to network analysis and applied graph theory using Python and NetworkX
 - [cufflinks](https://github.com/santosjorge/cufflinks) - Productivity Tools for Plotly + Pandas
 - [anomaly_detection](https://github.com/fastforwardlabs/anomaly_detection) - 
 - [edward](https://github.com/blei-lab/edward) - A probabilistic programming language in TensorFlow. Deep generative models, variational inference.
@@ -6760,7 +6762,6 @@
 - [rich](https://github.com/willmcgugan/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [pyTelegramBotAPI](https://github.com/eternnoir/pyTelegramBotAPI) - Python Telegram bot api.
 - [vega](https://github.com/huawei-noah/vega) - AutoML tools chain
-- [cassandra-workshop-series](https://github.com/DataStax-Academy/cassandra-workshop-series) - All materials for the Cassandra Workshop Series in a single place
 - [awesome-discord-communities](https://github.com/mhxion/awesome-discord-communities) - A curated list of awesome Discord communities for programmers
 - [practical-python](https://github.com/dabeaz-course/practical-python) - Practical Python Programming (course by @dabeaz)
 - [J.A.R.V.I.S](https://github.com/GauravSingh9356/J.A.R.V.I.S) - python powered Intelligent System
@@ -7008,7 +7009,6 @@
 - [dm-haiku](https://github.com/deepmind/dm-haiku) - JAX-based neural network library
 - [updog](https://github.com/sc0tfree/updog) - Updog is a replacement for Python's SimpleHTTPServer. It allows uploading and downloading via HTTP/S, can set ad hoc SSL certificates and use http basic auth.
 - [snoop](https://github.com/snooppr/snoop) - Snoop — инструмент разведки на основе открытых данных (OSINT world)
-- [gif](https://github.com/maxhumber/gif) - ✨ Better animated Matplotlib gifs
 - [Soft-Actor-Critic-and-Extensions](https://github.com/BY571/Soft-Actor-Critic-and-Extensions) - PyTorch implementation of Soft-Actor-Critic and Prioritized Experience Replay (PER) + Emphasizing Recent Experience (ERE)
 - [rlax](https://github.com/deepmind/rlax) - 
 - [mAP](https://github.com/Cartucho/mAP) - mean Average Precision - This code evaluates the performance of your neural net for object recognition.
@@ -8581,7 +8581,7 @@
 - [pyannotate](https://github.com/dropbox/pyannotate) - Auto-generate PEP-484 annotations
 - [fireant](https://github.com/kayak/fireant) - Data analysis and reporting tool for quick access to custom charts and tables in Jupyter Notebooks and in the shell.
 - [cidr-house-rules](https://github.com/trulia/cidr-house-rules) - An API and collection system to centralize important AWS resource information across multiple accounts
-- [datasette](https://github.com/simonw/datasette) - A tool for exploring and publishing data
+- [datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data
 - [the-endorser](https://github.com/eth0izzle/the-endorser) - An OSINT tool that allows you to draw out relationships between people on LinkedIn via endorsements/skills.
 - [pypika](https://github.com/kayak/pypika) - PyPika is a python SQL query builder that exposes the full richness of the SQL language using a syntax that reflects the resulting query. PyPika excels at all sorts of SQL queries but is especially useful for data analysis.
 - [pyznap](https://github.com/yboetz/pyznap) - ZFS snapshot tool written in python
@@ -12936,7 +12936,7 @@
 - [lens](https://github.com/lensapp/lens) - Lens - The Kubernetes IDE
 - [backstage](https://github.com/spotify/backstage) - Backstage is an open platform for building developer portals
 - [examples](https://github.com/pulumi/examples) - Infrastructure, containers, and serverless apps to AWS, Azure, GCP, and Kubernetes... all deployed with Pulumi
-- [rome](https://github.com/romejs/rome) - The Rome Frontend Toolchain. Standardizing the web development experience.
+- [rome](https://github.com/romefrontend/rome) - The Rome Frontend Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.
 - [hiplot](https://github.com/facebookresearch/hiplot) - HiPlot makes understanding high dimensional data easy
 - [playwright](https://github.com/microsoft/playwright) - Node library to automate Chromium, Firefox and WebKit with a single API
 - [gistpad](https://github.com/vsls-contrib/gistpad) - VS Code extension for managing and sharing code snippets, notes and interactive samples using GitHub Gists
@@ -13165,7 +13165,7 @@
 - [storybook](https://github.com/storybookjs/storybook) - 📓 UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more!
 - [growth-ionic](https://github.com/phodal/growth-ionic) - [v2.0 DEPRECATED, please update to Growth 3.0] Growth - App to help you Be Awesome Developer & Awesome Hacker
 - [nativefier](https://github.com/jiahaog/nativefier) - Make any web page a desktop application
-- [ionic](https://github.com/ionic-team/ionic) - Build amazing Native and Progressive Web Apps with web technologies. One app running on everything 🎉
+- [ionic-framework](https://github.com/ionic-team/ionic-framework) - Build amazing Native and Progressive Web Apps with web technologies. One app running on everything 🎉
 - [line-chart](https://github.com/n3-charts/line-chart) - Awesome charts for AngularJS.
 - [botkit](https://github.com/howdyai/botkit) - Botkit is an open source developer tool for building chat bots, apps and custom integrations for major messaging platforms.
 - [grafana](https://github.com/grafana/grafana) - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More
