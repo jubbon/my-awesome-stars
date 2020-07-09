@@ -4517,7 +4517,7 @@
 - [Data-Structure-and-Algorithm-Using-Python](https://github.com/soumyadip007/Data-Structure-and-Algorithm-Using-Python) - In computer science, a data structure is a data organization, management, and storage format that enables efficient access and modification. More precisely, a data structure is a collection of data values, the relationships among them, and the functions or operations that can be applied to the data. (Using Python 3)
 - [Object-Oriented-Programming-Using-Python](https://github.com/soumyadip007/Object-Oriented-Programming-Using-Python) - Python is a multi-paradigm programming language. Meaning, it supports different programming approach. One of the popular approach to solve a programming problem is by creating objects. This is known as Object-Oriented Programming (OOP).
 - [Introduction-to-Python](https://github.com/soumyadip007/Introduction-to-Python) - Python is an interpreted, high-level, general-purpose programming language. Created by Guido van Rossum and first released in 1991, Python's design philosophy emphasizes code readability with its notable use of significant white space. (This repository contains Python 3 Code)
-- [gif](https://github.com/maxhumber/gif) - ✨ Better animated Matplotlib gifs
+- [gif](https://github.com/maxhumber/gif) - ✨ The extension for matplotlib and Altair animations
 - [Practical-Deep-Learning-for-Coders-2.0](https://github.com/muellerzr/Practical-Deep-Learning-for-Coders-2.0) - Notebooks for the "A walk with fastai2" Study Group and Lecture Series
 - [info8010-deep-learning](https://github.com/glouppe/info8010-deep-learning) - Lectures for INFO8010 - Deep Learning, ULiège
 - [Deep-Learning-For-Hackers](https://github.com/curiousily/Deep-Learning-For-Hackers) - Machine Learning tutorials with TensorFlow 2 and Keras in Python (Jupyter notebooks included) - (LSTMs, Hyperameter tuning, Data preprocessing, Bias-variance tradeoff, Anomaly Detection, Autoencoders, Time Series Forecasting, Object Detection, Sentiment Analysis, Intent Recognition with BERT)
@@ -6873,7 +6873,7 @@
 - [spacy-transformers](https://github.com/explosion/spacy-transformers) - 🛸 spaCy pipelines for pre-trained BERT, XLNet and GPT-2
 - [thinc](https://github.com/explosion/thinc) - 🔮 A refreshing functional take on deep learning, compatible with your favorite libraries
 - [pytorch-optimizer](https://github.com/jettify/pytorch-optimizer) - torch-optimizer -- collection of optimizers for Pytorch
-- [ckan](https://github.com/ckan/ckan) - CKAN is an open-source DMS (data management system) for powering data hubs and data portals. CKAN makes it easy to publish, share and use data. It powers datahub.io, catalog.data.gov and europeandataportal.eu/data/en/dataset among many other sites.
+- [ckan](https://github.com/ckan/ckan) - CKAN is an open-source DMS (data management system) for powering data hubs and data portals. CKAN makes it easy to publish, share and use data. It powers catalog.data.gov, europeandataportal.eu/data, data.humdata.org among many other sites.
 - [universal_robot](https://github.com/ros-industrial/universal_robot) - ROS-Industrial Universal Robots support (http://wiki.ros.org/universal_robot)
 - [BERT-BiLSTM-CRF-NER](https://github.com/macanv/BERT-BiLSTM-CRF-NER) - Tensorflow solution of NER task Using BiLSTM-CRF model with Google BERT Fine-tuning And private Server services
 - [spack](https://github.com/spack/spack) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers.
@@ -8913,7 +8913,7 @@
 - [crankycoin](https://github.com/cranklin/crankycoin) - Cranky Coin is a simple blockchain, cryptocurrency, wallet implementation
 - [geoalchemy2](https://github.com/geoalchemy/geoalchemy2) - Geospatial extension to SQLAlchemy
 - [gtfsdb](https://github.com/OpenTransitTools/gtfsdb) - GTFS ORM using SQLAlchemy
-- [spyne](https://github.com/arskom/spyne) - A transport and architecture agnostic RPC library that focuses on exposing services with a well-defined API using popular protocols.
+- [spyne](https://github.com/arskom/spyne) - A transport agnostic sync/async RPC library that focuses on exposing services with a well-defined API using popular protocols.
 - [forkmon](https://github.com/achow101/forkmon) - A Django project to monitor the status of potential forks in Bitcoin.
 - [maml](https://github.com/cbfinn/maml) - Code for "Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks"
 - [graphql-compiler](https://github.com/kensho-technologies/graphql-compiler) - Turn complex GraphQL queries into optimized database queries.
@@ -12943,7 +12943,7 @@
 - [tfjs-models](https://github.com/tensorflow/tfjs-models) - Pretrained models for TensorFlow.js
 - [tsdx](https://github.com/formik/tsdx) - Zero-config CLI for TypeScript package development
 - [vue-next](https://github.com/vuejs/vue-next) - Repo for Vue 3.0 (currently in beta)
-- [streamlit](https://github.com/streamlit/streamlit) - Streamlit — The fastest way to build custom ML tools
+- [streamlit](https://github.com/streamlit/streamlit) - Streamlit — The fastest way to build data apps in Python
 - [typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
 - [apollo-server](https://github.com/apollographql/apollo-server) - 🌍 GraphQL server for Express, Connect, Hapi, Koa and more
 - [typescript-action](https://github.com/actions/typescript-action) - Create a TypeScript Action with tests, linting, workflow, publishing, and versioning
@@ -13165,7 +13165,7 @@
 - [storybook](https://github.com/storybookjs/storybook) - 📓 UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more!
 - [growth-ionic](https://github.com/phodal/growth-ionic) - [v2.0 DEPRECATED, please update to Growth 3.0] Growth - App to help you Be Awesome Developer & Awesome Hacker
 - [nativefier](https://github.com/jiahaog/nativefier) - Make any web page a desktop application
-- [ionic-framework](https://github.com/ionic-team/ionic-framework) - Build amazing Native and Progressive Web Apps with web technologies. One app running on everything 🎉
+- [ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful, cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 - [line-chart](https://github.com/n3-charts/line-chart) - Awesome charts for AngularJS.
 - [botkit](https://github.com/howdyai/botkit) - Botkit is an open source developer tool for building chat bots, apps and custom integrations for major messaging platforms.
 - [grafana](https://github.com/grafana/grafana) - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More
@@ -13547,7 +13547,7 @@
 - [viui](https://github.com/watson-yan/viui) - Metro UI style Toolkit build on Vue.js 2.X
 - [vue2-scrollbar](https://github.com/BosNaufal/vue2-scrollbar) - The Simplest Pretty Scroll Area Component with custom scrollbar for Vue 2. https://bosnaufal.github.io/vue2-scrollbar
 - [vue-paper-dashboard](https://github.com/creativetimofficial/vue-paper-dashboard) - Creative Tim Paper Dashboard made for Vue
-- [vue-js-modal](https://github.com/euvl/vue-js-modal) - :pizza: Simple to use, highly customizable, mobile friendly Vue.js modal.
+- [vue-js-modal](https://github.com/euvl/vue-js-modal) - Easy to use, highly customizable Vue.js modal library.
 - [vue-cropper](https://github.com/xyxiao001/vue-cropper) - A simple  picture clipping plugin for vue
 - [flamme](https://github.com/alicin/flamme) - An open source tinder desktop client built with electron and Vue.js for educational purposes
 - [uiGradients](https://github.com/ghosh/uiGradients) - 🔴 Beautiful colour gradients for design and code
