@@ -340,7 +340,6 @@
 - [numpy](https://github.com/numpy/numpy) - The fundamental package for scientific computing with Python.
 - [ctuning-programs](https://github.com/ctuning/ctuning-programs) - Collective Knowledge extension with unified and customizable benchmarks (with extensible JSON meta information) to be easily integrated with customizable and portable Collective Knowledge workflows. You can easily compile and run these benchmarks using different compilers, environments, hardware and OS (Linux, MacOS, Windows, Android). More info:
 - [ck-crowdnode](https://github.com/ctuning/ck-crowdnode) - Standalone, thin and portable server to let users participate in experiment crowdsourcing using Windows devices via Collective Knowledge Framework:
-- [Arduino](https://github.com/esp8266/Arduino) - ESP8266 core for Arduino
 - [neural-redis](https://github.com/antirez/neural-redis) - Neural networks module for Redis
 - [zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm
 - [obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
@@ -362,7 +361,7 @@
 - [twemproxy](https://github.com/twitter/twemproxy) - A fast, light-weight proxy for memcached and redis
 - [ijkplayer](https://github.com/bilibili/ijkplayer) - Android/iOS video player based on FFmpeg n3.4, with MediaCodec, VideoToolbox support.
 - [openwrt](https://github.com/openwrt/openwrt) - This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins or for reporting issues.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git. All issues should be reported at: https://bugs.openwrt.org
-- [themis](https://github.com/cossacklabs/themis) - Easy to use cryptographic framework for data protection: secure messaging with forward secrecy and secure data storage. Has unified APIs across 13 platforms.
+- [themis](https://github.com/cossacklabs/themis) - Easy to use cryptographic framework for data protection: secure messaging with forward secrecy and secure data storage. Has unified APIs across 14 platforms.
 - [massdns](https://github.com/blechschmidt/massdns) - A high-performance DNS stub resolver for bulk lookups and reconnaissance (subdomain enumeration)
 - [hashcat](https://github.com/hashcat/hashcat) - World's fastest and most advanced password recovery utility
 - [RTKLIB](https://github.com/tomojitakasu/RTKLIB) - 
@@ -865,6 +864,7 @@
 - [bgslibrary](https://github.com/andrewssobral/bgslibrary) - A C++ Background Subtraction Library with wrappers for Python, MATLAB, Java and GUI on QT
 - [simple_vehicle_counting](https://github.com/andrewssobral/simple_vehicle_counting) - Vehicle Detection, Tracking and Counting
 - [vehicle_detection_haarcascades](https://github.com/andrewssobral/vehicle_detection_haarcascades) - Vehicle Detection by Haar Cascades with OpenCV
+- [Arduino](https://github.com/esp8266/Arduino) - ESP8266 core for Arduino
 - [keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
 - [tinyflow](https://github.com/tqchen/tinyflow) - Tutorial code on how to build your own Deep Learning System in 2k Lines
 - [drone_employee_ros](https://github.com/DistributedSky/drone_employee_ros) - DroneEmployee ROS stack
@@ -939,7 +939,6 @@
 - [leveldb](https://github.com/google/leveldb) - LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
 - [tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
 - [rethinkdb](https://github.com/rethinkdb/rethinkdb) - The open-source database for the realtime web.
-- [engine](https://github.com/flutter/engine) - The Flutter engine
 - [veles](https://github.com/Samsung/veles) - Distributed machine learning platform
 - [protobuf](https://github.com/protocolbuffers/protobuf) - Protocol Buffers - Google's data interchange format
 - [caffe](https://github.com/BVLC/caffe) - Caffe: a fast open framework for deep learning.
@@ -1465,6 +1464,7 @@
 - [HistoryOfEverything](https://github.com/2d-inc/HistoryOfEverything) - Flutter Launch Timeline Demo
 - [awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
 - [flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond.
+- [engine](https://github.com/flutter/engine) - The Flutter engine
 
 ## Dhall 
 
@@ -2237,7 +2237,7 @@
 - [esm244-w2020-lab5](https://github.com/allisonhorst/esm244-w2020-lab5) - Lab week 5: exploring time series data, intro to forecasting
 - [tiny-helpers](https://github.com/stefanjudis/tiny-helpers) - A collection of useful online web development tools
 - [intro-to-ml-tidy](https://github.com/rstudio-conf-2020/intro-to-ml-tidy) - Intro to Machine Learning with the Tidyverse
-- [WhatTheHack](https://github.com/microsoft/WhatTheHack) - A collection of challenge based hack-a-thons including student guide, proctor guide, lecture presentations, sample/instructional code and templates.
+- [WhatTheHack](https://github.com/microsoft/WhatTheHack) - A collection of challenge based hack-a-thons including student guide, coach guide, lecture presentations, sample/instructional code and templates.
 - [samesite-examples](https://github.com/GoogleChromeLabs/samesite-examples) - Examples of using the SameSite cookie attribute in a variety of language, libraries, and frameworks.
 - [coreui-free-laravel-admin-template](https://github.com/coreui/coreui-free-laravel-admin-template) - CoreUI Free Laravel Bootstrap Admin Template
 - [techmap](https://github.com/haggaishachar/techmap) - tech maps
@@ -2330,7 +2330,7 @@
 - [proposal-bigint](https://github.com/tc39/proposal-bigint) - Arbitrary precision integers in JavaScript
 - [Drone_Flight_Controller](https://github.com/llSourcell/Drone_Flight_Controller) - This is the code for "Drone Flight Controller" By Siraj Raval on Youtube
 - [illustrated-tls13](https://github.com/syncsynchalt/illustrated-tls13) - The Illustrated TLS 1.3 Connection: Every byte explained
-- [piterjs.org](https://github.com/piterjs/piterjs.org) - PiterJS site
+- [piterjs.org.0](https://github.com/piterjs/piterjs.org.0) - PiterJS site
 - [blockchain](https://github.com/Azure-Samples/blockchain) - Azure Blockchain Content and Samples
 - [imglab](https://github.com/NaturalIntelligence/imglab) - To speedup and simplify image labeling/ annotation process with multiple supported formats.
 - [gshark](https://github.com/madneal/gshark) - Scan for sensitive information easily and effectively.
@@ -3367,7 +3367,6 @@
 - [task-easy](https://github.com/cmseaton42/task-easy) - A simple, customizable, and lightweight priority queue for promises.
 - [lag-radar](https://github.com/mobz/lag-radar) - Trace frame rate lag with a sexy performance radar
 - [tfjs-examples](https://github.com/tensorflow/tfjs-examples) - Examples built with TensorFlow.js
-- [text2mindmap](https://github.com/tobloef/text2mindmap) - Online tool for making mindmaps by writing indented lists
 - [is-thirteen](https://github.com/jezen/is-thirteen) - Check if a number is equal to 13.
 - [myh5](https://github.com/Braised-Cakes/myh5) - h5制作平台😊😊😊😊😊😊
 - [AwesomeXSS](https://github.com/s0md3v/AwesomeXSS) - Awesome XSS stuff
@@ -4742,7 +4741,6 @@
 - [Reinforcement_learning_tutorial_with_demo](https://github.com/omerbsezer/Reinforcement_learning_tutorial_with_demo) - Reinforcement Learning Tutorial with Demo: DP (Policy and Value Iteration), Monte Carlo, TD Learning (SARSA, QLearning), Function Approximation, Policy Gradient, DQN, Imitation, Meta Learning, Papers, Courses, etc..
 - [tutorials](https://github.com/catboost/tutorials) - CatBoost tutorials repository
 - [PythonFundamentos](https://github.com/dsacademybr/PythonFundamentos) - Repositório do Curso Online Python Fundamentos Para Análise de Dados.
-- [recommenders](https://github.com/microsoft/recommenders) - Best Practices on Recommendation Systems
 - [svcca](https://github.com/google/svcca) - 
 - [medical-ai-course-materials](https://github.com/japan-medical-ai/medical-ai-course-materials) - メディカルAIコース オンライン講義資料
 - [mirror](https://github.com/FrancescoSaverioZuppichini/mirror) - Visualisation tool for CNNs in pytorch
@@ -6422,7 +6420,7 @@
 - [material-remixer](https://github.com/material-foundation/material-remixer) - A set of cross-platform libraries and protocols to allow the sharing of design values and live refinement of apps during the development process.
 - [TheRemoteFreelancer](https://github.com/engineerapart/TheRemoteFreelancer) - Listing of community-curated resources to find topical remote freelance & contract work for software developers, web designers, and more!
 - [.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh My Tmux! Pretty & versatile tmux configuration / customization made with ❤️
-- [games](https://github.com/leereilly/games) - :video_game: A list of popular/awesome videos games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
+- [games](https://github.com/leereilly/games) - :video_game: A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
 - [franz-app-legacy](https://github.com/meetfranz/franz-app-legacy) - 
 - [asyncio](https://github.com/python/asyncio) - asyncio historical repository
 - [css-architecture](https://github.com/jareware/css-architecture) - 8 simple rules for a robust, scalable CSS architecture
@@ -6756,6 +6754,7 @@
 
 ## Python 
 
+- [TopicNet](https://github.com/machine-intelligence-laboratory/TopicNet) - Interface for easier topic modelling.
 - [nlp](https://github.com/huggingface/nlp) - 🤗nlp – Datasets and evaluation metrics for Natural Language Processing in NumPy, Pandas, PyTorch and TensorFlow
 - [TensorflowTTS](https://github.com/TensorSpeech/TensorflowTTS) - :stuck_out_tongue_closed_eyes: TensorflowTTS: Real-Time State-of-the-art Speech Synthesis for Tensorflow 2
 - [tuya-convert](https://github.com/ct-Open-Source/tuya-convert) - A collection of scripts to flash Tuya IoT devices to alternative firmwares
@@ -7287,7 +7286,7 @@
 - [deep_q_rl](https://github.com/spragunr/deep_q_rl) - Theano-based implementation of Deep Q-learning
 - [deep_q_rl](https://github.com/corywalker/deep_q_rl) - Theano-based implementation of Deep Q-learning
 - [buffalo](https://github.com/kakao/buffalo) - TOROS Buffalo: A fast and scalable production-ready open source project for recommender systems
-- [mmsr](https://github.com/open-mmlab/mmsr) - Open MMLab Image and Video Super-Resolution Toolbox, , including SRResNet, SRGAN, ESRGAN, EDVR, etc.
+- [mmediting](https://github.com/open-mmlab/mmediting) - OpenMMLab Image and Video Editing Toolbox
 - [portray](https://github.com/timothycrosley/portray) - Your Project with Great Documentation.
 - [pymessenger](https://github.com/davidchua/pymessenger) - A Python Wrapper for the FB Messenger Bot API (Send/Receive API)
 - [ccmsuite](https://github.com/tcstewar/ccmsuite) - Python cognitive modelling suite
@@ -7655,6 +7654,7 @@
 - [python-cheatsheet](https://github.com/gto76/python-cheatsheet) - Comprehensive Python Cheatsheet
 - [mars](https://github.com/mars-project/mars) - Mars is a tensor-based unified framework for large-scale data computation which scales Numpy, Pandas and Scikit-learn.
 - [bocadillo](https://github.com/bocadilloproject/bocadillo) - (UNMAINTAINED) Fast, scalable and real-time capable web APIs for everyone
+- [recommenders](https://github.com/microsoft/recommenders) - Best Practices on Recommendation Systems
 - [torchgan](https://github.com/torchgan/torchgan) - Research Framework for easy and efficient training of GANs based on Pytorch
 - [Deep-Feature-video](https://github.com/BitconFeng/Deep-Feature-video) - Deep Feature Flow for Video Recognition
 - [vpn-at-home](https://github.com/ezaquarii/vpn-at-home) - 1-click, self-hosted deployment of OpenVPN with DNS ad blocking sinkhole
@@ -7809,7 +7809,7 @@
 - [PANet](https://github.com/ShuLiu1993/PANet) - PANet for Instance Segmentation and Object Detection
 - [pytorch-flows](https://github.com/ikostrikov/pytorch-flows) - PyTorch implementations of algorithms for density estimation
 - [open_model_zoo](https://github.com/opencv/open_model_zoo) - Pre-trained Deep Learning models and samples (high quality and extremely fast)
-- [mmcv](https://github.com/open-mmlab/mmcv) - Open MMLab Computer Vision Foundation
+- [mmcv](https://github.com/open-mmlab/mmcv) - OpenMMLab Computer Vision Foundation
 - [CVE-2018-10933](https://github.com/blacknbunny/CVE-2018-10933) - Spawn to shell without any credentials by using CVE-2018-10933 (LibSSH)
 - [tencent-ml-images](https://github.com/Tencent/tencent-ml-images) - Largest multi-label image database; ResNet-101 model; 80.73% top-1 acc on ImageNet
 - [BERT-pytorch](https://github.com/codertimo/BERT-pytorch) - Google AI 2018 BERT pytorch implementation
@@ -8799,7 +8799,7 @@
 - [cryptowatch](https://github.com/alexanderepstein/cryptowatch) - :bird: Cryptocurrency price and account balance monitor
 - [polemarch](https://github.com/vstconsulting/polemarch) - Simple WEB gui for infrastructure management by ansible playbooks or modules. This is only mirror with bins in releases.
 - [AI_Challenger_2017](https://github.com/AIChallenger/AI_Challenger_2017) - AI Challenger, a platform for open datasets and programming competitions to artificial intelligence (AI) talents around the world.
-- [Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials](https://github.com/TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials) - A comprehensive list of Deep Learning / Artificial Intelligence and Machine Learning tutorials - rapidly expanding into areas of AI/Deep Learning / Machine Vision / NLP and industry specific areas such as Automotives, Retail, Pharma, Medicine, Healthcare by Tarry Singh until at-least 2020 until he finishes his Ph.D. (which might end up being inter-stellar cosmic networks! Who knows! 😀)
+- [Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials](https://github.com/TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials) - A comprehensive list of Deep Learning / Artificial Intelligence and Machine Learning tutorials - rapidly expanding into areas of AI/Deep Learning / Machine Vision / NLP and industry specific areas such as Climate / Energy, Automotives, Retail, Pharma, Medicine, Healthcare, Policy, Ethics and more.
 - [python-switch](https://github.com/mikeckennedy/python-switch) - Adds switch blocks to Python
 - [EvalAI](https://github.com/Cloud-CV/EvalAI) - :cloud: :rocket: :bar_chart: :chart_with_upwards_trend: Evaluating state of the art in AI
 - [drn](https://github.com/fyu/drn) - Dilated Residual Networks
@@ -13165,7 +13165,7 @@
 - [storybook](https://github.com/storybookjs/storybook) - 📓 UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more!
 - [growth-ionic](https://github.com/phodal/growth-ionic) - [v2.0 DEPRECATED, please update to Growth 3.0] Growth - App to help you Be Awesome Developer & Awesome Hacker
 - [nativefier](https://github.com/jiahaog/nativefier) - Make any web page a desktop application
-- [ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful, cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
+- [ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 - [line-chart](https://github.com/n3-charts/line-chart) - Awesome charts for AngularJS.
 - [botkit](https://github.com/howdyai/botkit) - Botkit is an open source developer tool for building chat bots, apps and custom integrations for major messaging platforms.
 - [grafana](https://github.com/grafana/grafana) - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More
