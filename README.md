@@ -217,7 +217,7 @@
 - [SoftEtherVPN](https://github.com/SoftEtherVPN/SoftEtherVPN) - Cross-platform multi-protocol VPN software. Pull requests are welcome. The stable version is available at https://github.com/SoftEtherVPN/SoftEtherVPN_Stable.
 - [retro](https://github.com/openai/retro) - Retro Games in Gym
 - [transmission](https://github.com/transmission/transmission) - Official Transmission BitTorrent client repository
-- [nemesis](https://github.com/troglobit/nemesis) - A command-line network packet crafting and injection utility
+- [nemesis](https://github.com/libnet/nemesis) - A command-line network packet crafting and injection utility
 - [skor](https://github.com/hasura/skor) - Now part of Hasura GraphQL Engine. Listen to postgres events and forward them as JSON payloads to a webhook
 - [dqlite](https://github.com/canonical/dqlite) - Embeddable, replicated and fault tolerant SQL engine.
 - [socat](https://github.com/craSH/socat) - socat - Multipurpose relay (cloned from git://repo.or.cz/socat.git) - I am not the project owner, please submit bugs to socat@dest-unreach.org
@@ -7308,7 +7308,7 @@
 - [telegram-bot-framework](https://github.com/alvarogzp/telegram-bot-framework) - Python Telegram bot API framework
 - [DeblurGANv2](https://github.com/TAMU-VITA/DeblurGANv2) - [ICCV 2019] "DeblurGAN-v2: Deblurring (Orders-of-Magnitude) Faster and Better" by Orest Kupyn, Tetiana Martyniuk, Junru Wu, Zhangyang Wang
 - [pyforest](https://github.com/8080labs/pyforest) - pyforest - feel the bliss of automated imports
-- [instabot](https://github.com/instagrambot/instabot) - 🐙 Free Instagram scripts, bots and Python API wrapper. Get free instagram followers with our auto like, auto follow and other scripts!
+- [instabot](https://github.com/ohld/instabot) - 🐙 Free Instagram scripts, bots and Python API wrapper. Get free instagram followers with our auto like, auto follow and other scripts!
 - [bsuite](https://github.com/deepmind/bsuite) - bsuite is a collection of carefully-designed experiments that investigate core capabilities of a reinforcement learning (RL) agent
 - [lvis-api](https://github.com/lvis-dataset/lvis-api) - Python API for LVIS Dataset
 - [mintotp](https://github.com/susam/mintotp) - Minimal TOTP generator in 20 lines of Python
@@ -9081,7 +9081,7 @@
 - [scikit-garden](https://github.com/scikit-garden/scikit-garden) - A garden for scikit-learn compatible trees
 - [cyphon](https://github.com/controlscanmdr/cyphon) - Open source incident management and response platform.
 - [tox-docker](https://github.com/tox-dev/tox-docker) - A tox plugin to run one or more Docker containers during tests
-- [polyaxon](https://github.com/polyaxon/polyaxon) - Cloud native machine learning automation platform
+- [polyaxon](https://github.com/polyaxon/polyaxon) - Reproduce, Automate, Scale your data science.
 - [cppdep](https://github.com/rakhimov/cppdep) - C/C++ Dependency Analyzer: a rewrite of John Lakos' dep_utils (adep/cdep/ldep) from "Large-Scale C++ Software Design"
 - [praatIO](https://github.com/timmahrt/praatIO) - A python library for working with praat, textgrids, time aligned audio transcripts, and audio files. It is primarily used for extracting features from and making manipulations on audio files given hierarchical time-aligned transcriptions (utterance &gt; word &gt; syllable &gt; phone, etc).
 - [mycli](https://github.com/dbcli/mycli) - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
@@ -10402,7 +10402,7 @@
 - [boto3](https://github.com/boto/boto3) - AWS SDK for Python
 - [PythonVerbalExpressions](https://github.com/VerbalExpressions/PythonVerbalExpressions) - Python regular expressions made easy
 - [sempervirens](https://github.com/njsmith/sempervirens) - An experimental prototype for gathering anonymous, opt-in usage data for open scientific software
-- [habanero](https://github.com/sckott/habanero) - low level client for Crossref search API
+- [habanero](https://github.com/sckott/habanero) - client for Crossref search API
 - [duecredit](https://github.com/duecredit/duecredit) - Automated collection and reporting of citations for used software/methods/datasets
 - [depsy](https://github.com/ourresearch/depsy) - Track the impact of research software.
 - [Pweave](https://github.com/mpastell/Pweave) - Pweave is a scientific report generator and a literate programming tool for Python. It can capture the results and plots from data analysis and works well with numpy, scipy and matplotlib.
