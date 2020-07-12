@@ -594,7 +594,7 @@
 - [adiantum](https://github.com/google/adiantum) - Adiantum and HPolyC specification and test vectors
 - [uWebSockets.js](https://github.com/uNetworking/uWebSockets.js) - μWebSockets for Node.js back-ends :metal:
 - [whale](https://github.com/asLody/whale) - Hook Framework for Android/IOS/Linux/MacOS
-- [oidn](https://github.com/OpenImageDenoise/oidn) - Intel(R) Open Image Denoise library
+- [oidn](https://github.com/OpenImageDenoise/oidn) - Intel® Open Image Denoise library
 - [Game-Networking-Resources](https://github.com/MFatihMAR/Game-Networking-Resources) - A Curated List of Game Network Programming Resources
 - [tinykaboom](https://github.com/ssloy/tinykaboom) - A brief computer graphics / rendering course
 - [tinyraytracer](https://github.com/ssloy/tinyraytracer) - A brief computer graphics / rendering course
@@ -1566,7 +1566,7 @@
 - [godog](https://github.com/cucumber/godog) - Cucumber for golang
 - [aws-vault](https://github.com/99designs/aws-vault) - A vault for securely storing and accessing AWS credentials in development environments
 - [go-gitlab](https://github.com/xanzy/go-gitlab) - A GitLab API client enabling Go programs to interact with GitLab in a simple and uniform way
-- [micro](https://github.com/micro/micro) - Micro is a distributed systems runtime for the Cloud
+- [micro](https://github.com/micro/micro) - A framework for distributed systems development
 - [go-github](https://github.com/google/go-github) - Go library for accessing the GitHub API
 - [nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
 - [migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
@@ -1612,7 +1612,7 @@
 - [lindb](https://github.com/lindb/lindb) - LinDB is a scalable, high performance, high availability distributed time series database.
 - [buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
 - [gotraining](https://github.com/ardanlabs/gotraining) - Go Training Class Material :
-- [go-micro](https://github.com/micro/go-micro) - A distributed systems development framework
+- [go-micro](https://github.com/micro/go-micro) - A Go distributed systems standard library
 - [pipeline](https://github.com/tektoncd/pipeline) - A K8s-native Pipeline resource.
 - [prometheus-operator](https://github.com/coreos/prometheus-operator) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
 - [k3v](https://github.com/ibuildthecloud/k3v) - Virtual Kubernetes
@@ -4828,7 +4828,7 @@
 - [osumapper](https://github.com/kotritrona/osumapper) - An automatic beatmap generator using Tensorflow / Deep Learning.
 - [KDD18-Gluon](https://github.com/szha/KDD18-Gluon) - KDD18 Tutorial:  Deep Learning and Natural Language Processing with Apache MXNet (Incubating) Gluon
 - [fastprogress](https://github.com/fastai/fastprogress) - Simple and flexible progress bar for Jupyter Notebook and console
-- [JuliaBoxTutorials](https://github.com/JuliaComputing/JuliaBoxTutorials) - Learn and Run Julia in your Browser
+- [JuliaBoxTutorials](https://github.com/JuliaAcademy/JuliaBoxTutorials) - Learn Julia via interactive tutorials!
 - [natural-language-processing](https://github.com/hse-aml/natural-language-processing) - Resources for "Natural Language Processing" Coursera course.
 - [polyrnn-pp](https://github.com/fidler-lab/polyrnn-pp) - Inference Code for Polygon-RNN++ (CVPR 2018)
 - [deep-learning-notes](https://github.com/kmkolasinski/deep-learning-notes) - Experiments with Deep Learning
@@ -5748,7 +5748,6 @@
 - [Deep-learning-books](https://github.com/loveunk/Deep-learning-books) - Books for machine learning, deep learning, math, NLP, CV, RL, etc
 - [awesome-quant](https://github.com/wilsonfreitas/awesome-quant) - A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)
 - [Pwdb-Public](https://github.com/FlameOfIgnis/Pwdb-Public) - A collection of all the data i could extract from 1 billion leaked credentials from internet.
-- [Summer2021-Internships](https://github.com/Pitt-CSC/Summer2021-Internships) - Collection of Summer 2021 tech internships!
 - [gpt-3](https://github.com/openai/gpt-3) - GPT-3: Language Models are Few-Shot Learners
 - [unofficial-apis](https://github.com/Rolstenhouse/unofficial-apis) - A collection of unofficial apis. Designed to inspire your next Friday night hack
 - [awesome-asgi](https://github.com/florimondmanca/awesome-asgi) - A curated list of awesome ASGI servers, frameworks, apps, libraries, and other resources
@@ -6754,6 +6753,7 @@
 
 ## Python 
 
+- [MolecularTransformer](https://github.com/pschwllr/MolecularTransformer) - 
 - [TopicNet](https://github.com/machine-intelligence-laboratory/TopicNet) - Interface for easier topic modelling.
 - [nlp](https://github.com/huggingface/nlp) - 🤗nlp – Datasets and evaluation metrics for Natural Language Processing in NumPy, Pandas, PyTorch and TensorFlow
 - [TensorflowTTS](https://github.com/TensorSpeech/TensorflowTTS) - :stuck_out_tongue_closed_eyes: TensorflowTTS: Real-Time State-of-the-art Speech Synthesis for Tensorflow 2
@@ -6763,6 +6763,7 @@
 - [vega](https://github.com/huawei-noah/vega) - AutoML tools chain
 - [awesome-discord-communities](https://github.com/mhxion/awesome-discord-communities) - A curated list of awesome Discord communities for programmers
 - [practical-python](https://github.com/dabeaz-course/practical-python) - Practical Python Programming (course by @dabeaz)
+- [Summer2021-Internships](https://github.com/Pitt-CSC/Summer2021-Internships) - Collection of Summer 2021 tech internships!
 - [J.A.R.V.I.S](https://github.com/GauravSingh9356/J.A.R.V.I.S) - python powered Intelligent System
 - [python-docx2txt](https://github.com/ankushshah89/python-docx2txt) - A pure python based utility to extract text and images from docx files.
 - [PEDRA](https://github.com/aqeelanwar/PEDRA) - Programmable Engine for Drone Reinforcement Learning Applications
@@ -7308,7 +7309,7 @@
 - [telegram-bot-framework](https://github.com/alvarogzp/telegram-bot-framework) - Python Telegram bot API framework
 - [DeblurGANv2](https://github.com/TAMU-VITA/DeblurGANv2) - [ICCV 2019] "DeblurGAN-v2: Deblurring (Orders-of-Magnitude) Faster and Better" by Orest Kupyn, Tetiana Martyniuk, Junru Wu, Zhangyang Wang
 - [pyforest](https://github.com/8080labs/pyforest) - pyforest - feel the bliss of automated imports
-- [instabot](https://github.com/ohld/instabot) - 🐙 Free Instagram scripts, bots and Python API wrapper. Get free instagram followers with our auto like, auto follow and other scripts!
+- [igbot](https://github.com/ohld/igbot) - 🐙 Free scripts, bots and Python API wrapper. Get free followers with our auto like, auto follow and other scripts!
 - [bsuite](https://github.com/deepmind/bsuite) - bsuite is a collection of carefully-designed experiments that investigate core capabilities of a reinforcement learning (RL) agent
 - [lvis-api](https://github.com/lvis-dataset/lvis-api) - Python API for LVIS Dataset
 - [mintotp](https://github.com/susam/mintotp) - Minimal TOTP generator in 20 lines of Python
@@ -8329,7 +8330,7 @@
 - [cryptoCMD](https://github.com/guptarohit/cryptoCMD) - Cryptocurrency historical price data library in Python. Data from https://coinmarketcap.com.
 - [captivox](https://github.com/expectocode/captivox) - cool animations with pyqt5 and parametrics
 - [gist-evernote](https://github.com/leemengtaiwan/gist-evernote) - A Python application that sync Github Gists and save them to Evernote notebook as screenshots.
-- [Pointillism](https://github.com/matteo-ronchetti/Pointillism) - 
+- [Pointillism](https://github.com/matteo-ronchetti/Pointillism) - Convert a photo into a pointillist painting
 - [icecream](https://github.com/gruns/icecream) - 🍦 Sweet and creamy print debugging.
 - [playground](https://github.com/MultiAgentLearning/playground) - PlayGround: AI Research into Multi-Agent Learning.
 - [msdat](https://github.com/quentinhardy/msdat) - MSDAT: Microsoft SQL Database Attacking Tool
@@ -9669,7 +9670,7 @@
 - [ck-tensorflow](https://github.com/ctuning/ck-tensorflow) - Collective Knowledge components for TensorFlow (code, data sets, models, packages, workflows):
 - [python-web-pdb](https://github.com/romanvm/python-web-pdb) - Web-based remote UI for Python's PDB debugger
 - [ck-autotuning](https://github.com/ctuning/ck-autotuning) - CK automation actions to let users implement portable, customizable and reusable program workflows for reproducible, collaborative and multi-objective benchmarking, optimization and SW/HW co-design:
-- [ck](https://github.com/ctuning/ck) - Collective Knowledge (CK) helps to decompose complex research projects into reusable components (wrappers for code, data, models and results), automation actions and portable workflows with unified APIs, CLI, and JSON meta description. Our goal is to make it easier for researchers and practitioners to reproduce, reuse and adopt ML&systems research:
+- [ck](https://github.com/ctuning/ck) - Collective Knowledge (CK) helps to decompose complex research projects into reusable components (wrappers for code, data, models and results) and automation actions with unified APIs, CLI, and JSON I/O. Our goal is to bridge the growing gap between research, practice and education with portable workflows, reusable artifacts and reproducibility:
 - [CommAI-env](https://github.com/facebookresearch/CommAI-env) - A platform for developing AI systems as described in A Roadmap towards Machine Intelligence - http://arxiv.org/abs/1511.08130
 - [deconvfaces](https://github.com/zo7/deconvfaces) - Generating faces with deconvolution networks
 - [whereami](https://github.com/kootenpv/whereami) - Uses WiFi signals :signal_strength: and machine learning to predict where you are
@@ -9998,7 +9999,7 @@
 - [EmPyre](https://github.com/EmpireProject/EmPyre) - A post-exploitation OS X/Linux agent written in Python 2.7
 - [jolla](https://github.com/salamer/jolla) - Python Web Framework
 - [thorn](https://github.com/robinhood/thorn) - Easy Webhooks for Python
-- [python-dependency-injector](https://github.com/ets-labs/python-dependency-injector) - Dependency injection microframework for Python
+- [python-dependency-injector](https://github.com/ets-labs/python-dependency-injector) - Dependency injection framework for Python
 - [arclib](https://github.com/refi64/arclib) - A unified API for accessing Python's many supported archive formats
 - [setuptools-tasks](https://github.com/pbs/setuptools-tasks) - 
 - [lexiconjure](https://github.com/rossgoodwin/lexiconjure) - Twitter bot generating invented words and definitions using RNN + genetic algorithm
