@@ -1612,7 +1612,7 @@
 - [lindb](https://github.com/lindb/lindb) - LinDB is a scalable, high performance, high availability distributed time series database.
 - [buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
 - [gotraining](https://github.com/ardanlabs/gotraining) - Go Training Class Material :
-- [go-micro](https://github.com/micro/go-micro) - A Go distributed systems standard library
+- [go-micro](https://github.com/micro/go-micro) - A Go standard library for distributed systems
 - [pipeline](https://github.com/tektoncd/pipeline) - A K8s-native Pipeline resource.
 - [prometheus-operator](https://github.com/coreos/prometheus-operator) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
 - [k3v](https://github.com/ibuildthecloud/k3v) - Virtual Kubernetes
@@ -2156,7 +2156,7 @@
 - [kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
 - [web-dev-golang-anti-textbook](https://github.com/thewhitetulip/web-dev-golang-anti-textbook) - Learn how to write webapps without a framework in Go.
 - [caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS
-- [dgraph](https://github.com/dgraph-io/dgraph) - Fast, Distributed Graph DB
+- [dgraph](https://github.com/dgraph-io/dgraph) - Native GraphQL Database with graph backend
 - [etcd](https://github.com/etcd-io/etcd) - Distributed reliable key-value store for the most critical data of a distributed system
 - [syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [batten](https://github.com/dockersecuritytools/batten) - Hardening and Auditing Tool For Docker Hosts & Containers
@@ -12469,7 +12469,7 @@
 - [remake](https://github.com/richfitz/remake) - Make-like declarative workflows in R
 - [user2016-tutorial](https://github.com/ropensci-training/user2016-tutorial) - useR 2016 workshop materials for "Extracting data from the web APIs and beyond"
 - [ompr](https://github.com/dirkschumacher/ompr) - R package to model Mixed Integer Linear Programs
-- [highcharter](https://github.com/jbkunst/highcharter) - R wrapper for highcharts based on htmlwidgets
+- [highcharter](https://github.com/jbkunst/highcharter) - R wrapper for highcharts
 - [rweekly.org](https://github.com/rweekly/rweekly.org) - R Weekly
 - [CausalImpact](https://github.com/google/CausalImpact) - An R package for causal inference in time series
 - [swirl](https://github.com/swirldev/swirl) - :cyclone: Learn R, in R.
