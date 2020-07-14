@@ -1069,7 +1069,7 @@
 - [git-cheats](https://github.com/excalith/git-cheats) - Git Cheats - Interactive Cheatsheet For Git Commands
 - [KtAcademyPortal](https://github.com/MarcinMoskala/KtAcademyPortal) - Multiplatform Kotlin application of KotlinAcademy
 - [mustard-ui](https://github.com/kylelogue/mustard-ui) - A starter CSS framework that actually looks good.
-- [Metro-UI-CSS](https://github.com/olton/Metro-UI-CSS) - Build responsive, mobile-first projects on the web with the first front-end component library in Metro Style and not only.
+- [Metro-UI-CSS](https://github.com/olton/Metro-UI-CSS) - Build impressive responsive, mobile-first projects on the web with the first front-end component library in Metro Style and not only.
 - [javascript-in-14-minutes](https://github.com/jgthms/javascript-in-14-minutes) - Learn the basics of JavaScript in 14 minutes
 - [security](https://github.com/xapax/security) - Stuff about it-security that might be good to know
 - [dejavu](https://github.com/appbaseio/dejavu) - The Missing Web UI for Elasticsearch: Import, browse and edit data with rich filters and query views, create search UIs visually.
@@ -1566,7 +1566,7 @@
 - [godog](https://github.com/cucumber/godog) - Cucumber for golang
 - [aws-vault](https://github.com/99designs/aws-vault) - A vault for securely storing and accessing AWS credentials in development environments
 - [go-gitlab](https://github.com/xanzy/go-gitlab) - A GitLab API client enabling Go programs to interact with GitLab in a simple and uniform way
-- [micro](https://github.com/micro/micro) - A framework for distributed systems development
+- [micro](https://github.com/micro/micro) - Micro is a framework for cloud native development
 - [go-github](https://github.com/google/go-github) - Go library for accessing the GitHub API
 - [nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
 - [migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
@@ -1612,7 +1612,7 @@
 - [lindb](https://github.com/lindb/lindb) - LinDB is a scalable, high performance, high availability distributed time series database.
 - [buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
 - [gotraining](https://github.com/ardanlabs/gotraining) - Go Training Class Material :
-- [go-micro](https://github.com/micro/go-micro) - A Go standard library for distributed systems
+- [go-micro](https://github.com/micro/go-micro) - A Go library for distributed systems development
 - [pipeline](https://github.com/tektoncd/pipeline) - A K8s-native Pipeline resource.
 - [prometheus-operator](https://github.com/coreos/prometheus-operator) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
 - [k3v](https://github.com/ibuildthecloud/k3v) - Virtual Kubernetes
@@ -3064,7 +3064,7 @@
 - [ru.vue-router](https://github.com/translation-gang/ru.vue-router) - Русская версия документации vue-router
 - [ru.vuex](https://github.com/translation-gang/ru.vuex) - Русская версия документации Vuex
 - [ru.vuejs.org](https://github.com/translation-gang/ru.vuejs.org) - Русская версия документации VueJS.org
-- [aws-mobile-react-sample](https://github.com/aws-samples/aws-mobile-react-sample) - A React Starter App that displays how web developers can integrate their front end with AWS on the backend. The App interacts with AWS Cognito, API Gateway, Lambda and DynamoDB on the backend.
+- [aws-mobile-react-sample](https://github.com/amazon-archives/aws-mobile-react-sample) - A React Starter App that displays how web developers can integrate their front end with AWS on the backend. The App interacts with AWS Cognito, API Gateway, Lambda and DynamoDB on the backend.
 - [vue-examples](https://github.com/peterlamar/vue-examples) - Collection of Vue examples for beginner front end developers
 - [typeit](https://github.com/alexmacarthur/typeit) - The most versatile JavaScript animated typing utility on the planet.
 - [mercury-parser](https://github.com/postlight/mercury-parser) - 📜 Extract meaningful content from the chaos of a web page
@@ -3157,6 +3157,7 @@
 - [monocle-api](https://github.com/ifwe/monocle-api) - API router focused on consistency, flexibility, and performance.
 - [vue-api-query](https://github.com/robsontenorio/vue-api-query) - 💎 Elegant and simple way to build requests for REST API
 - [react-hooks](https://github.com/nikgraf/react-hooks) - Collection of React Hooks
+- [awesome-nodejs-security](https://github.com/lirantal/awesome-nodejs-security) - Awesome Node.js Security resources
 - [vue-slides](https://github.com/znck/vue-slides) - Present with Vue
 - [idevice](https://github.com/dieulot/idevice) - Discover which iOS devices are used on your site
 - [vue-carousel](https://github.com/SSENSE/vue-carousel) - A flexible, responsive, touch-friendly carousel for Vue.js
@@ -3198,7 +3199,7 @@
 - [G-Desktop-Suite](https://github.com/alexkim205/G-Desktop-Suite) - Google Suite as a desktop app. Made possible with Electron.
 - [Radon](https://github.com/radonjs/Radon) - Object oriented state management solution for front-end development.
 - [Advanced-React](https://github.com/wesbos/Advanced-React) - Starter Files and Solutions for Full Stack Advanced React and GraphQL
-- [tiptap](https://github.com/scrumpy/tiptap) - A rich-text editor for Vue.js
+- [tiptap](https://github.com/ueberdosis/tiptap) - A rich-text editor for Vue.js
 - [muze](https://github.com/chartshq/muze) - Composable data visualisation library for web with a data-first approach
 - [walt](https://github.com/ballercat/walt) - :zap: Walt is a JavaScript-like syntax for WebAssembly text format :zap:
 - [vue-fontawesome](https://github.com/FortAwesome/vue-fontawesome) - Font Awesome 5 Vue component
@@ -3664,7 +3665,7 @@
 - [bosket](https://github.com/elbywan/bosket) - Collection of tree view components for front-end frameworks. :deciduous_tree:
 - [coin-hive](https://github.com/cazala/coin-hive) - CoinHive cryptocurrency miner for node.js
 - [weweChat](https://github.com/trazyn/weweChat) - 💬 Unofficial WeChat client built with React, MobX and Electron.
-- [aws-mobile-react-native-starter](https://github.com/aws-samples/aws-mobile-react-native-starter) - AWS Mobile React Native Starter App     https://aws.amazon.com/mobile
+- [aws-mobile-react-native-starter](https://github.com/amazon-archives/aws-mobile-react-native-starter) - AWS Mobile React Native Starter App     https://aws.amazon.com/mobile
 - [ngraph.path](https://github.com/anvaka/ngraph.path) - Path finding in a graph
 - [franchise](https://github.com/HVF/franchise) - 🍟 a notebook sql client. what you get when have a lot of sequels.
 - [cordova-template-framework7-vue-webpack](https://github.com/caiobiodere/cordova-template-framework7-vue-webpack) - Framework7 - Vue - Webpack Cordova Template with Webpack Dev Server and Hot Module Replacement
@@ -5732,7 +5733,7 @@
 
 ## Open Policy Agent 
 
-- [azure-policy](https://github.com/Azure/azure-policy) - Repository for Azure Resource Policy samples
+- [azure-policy](https://github.com/Azure/azure-policy) - Repository for Azure Resource Policy built-in definitions and samples
 
 ## OpenEdge ABL 
 
@@ -6028,7 +6029,6 @@
 - [React-Fiber-Architecture](https://github.com/SaeedMalikx/React-Fiber-Architecture) - Understanding the structure of React Fiber( walk through and pseudo-code)
 - [awesome-react-hooks](https://github.com/rehooks/awesome-react-hooks) - Awesome React Hooks
 - [Powerful-Plugins](https://github.com/Hack-with-Github/Powerful-Plugins) - Powerful plugins and add-ons for hackers
-- [awesome-nodejs-security](https://github.com/lirantal/awesome-nodejs-security) - Awesome Node.js Security resources
 - [Front-End-FAQ](https://github.com/emmabostian/Front-End-FAQ) - A place to anonymously ask questions and receive answers from the dev community
 - [bash-guide](https://github.com/omergulen/bash-guide) - Shell Rehberi (BASH)
 - [image-to-image-papers](https://github.com/lzhbrian/image-to-image-papers) - 🦓&lt;-&gt;🦒 🌃&lt;-&gt;🌆  A collection of image to image papers with code (constantly updating)
@@ -7360,7 +7360,7 @@
 - [python_autocomplete](https://github.com/vpj/python_autocomplete) - A simple neural network for python autocompletion
 - [MASS](https://github.com/microsoft/MASS) - MASS: Masked Sequence to Sequence Pre-training for Language Generation
 - [sentry-python](https://github.com/getsentry/sentry-python) - The new Python SDK for Sentry.io
-- [adversarial-robustness-toolbox](https://github.com/IBM/adversarial-robustness-toolbox) - Adversarial Robustness Toolbox (ART) - Python Library for Machine Learning Security - Evasion, Poisoning, Extraction, Inference
+- [adversarial-robustness-toolbox](https://github.com/Trusted-AI/adversarial-robustness-toolbox) - Adversarial Robustness Toolbox (ART) - Python Library for Machine Learning Security - Evasion, Poisoning, Extraction, Inference
 - [OpenCV-Face-Recognition](https://github.com/Mjrovai/OpenCV-Face-Recognition) - Real-time face recognition project with OpenCV and Python
 - [tensorpack](https://github.com/tensorpack/tensorpack) - A Neural Net Training Interface on TensorFlow, with focus on speed + flexibility
 - [python](https://github.com/kubernetes-client/python) - Official Python client library for kubernetes
@@ -7519,7 +7519,7 @@
 - [FaceDetection-DSFD](https://github.com/Tencent/FaceDetection-DSFD) - 腾讯优图高精度双分支人脸检测器
 - [pytorch_GAN_zoo](https://github.com/facebookresearch/pytorch_GAN_zoo) - A mix of GAN implementations including progressive growing
 - [SPADE](https://github.com/NVlabs/SPADE) - Semantic Image Synthesis with SPADE
-- [guildai](https://github.com/guildai/guildai) - Open source experiment tracking and optimization for machine learning
+- [guildai](https://github.com/guildai/guildai) - The ML Engineering Toolkit
 - [treon](https://github.com/ReviewNB/treon) - Easy to use test framework for Jupyter Notebooks
 - [simp_le](https://github.com/zenhack/simp_le) - Simple Let's Encrypt client
 - [AmpliGraph](https://github.com/Accenture/AmpliGraph) - Python library for Representation Learning on Knowledge Graphs https://docs.ampligraph.org
@@ -7870,7 +7870,7 @@
 - [Semantic-Segmentation-Suite](https://github.com/GeorgeSeif/Semantic-Segmentation-Suite) - Semantic Segmentation Suite in TensorFlow. Implement, train, and test new Semantic Segmentation models easily!
 - [pytheory](https://github.com/Zelgius/pytheory) - Music Theory for Humans.
 - [mmdetection](https://github.com/open-mmlab/mmdetection) - OpenMMLab Detection Toolbox and Benchmark
-- [AIF360](https://github.com/IBM/AIF360) - A comprehensive set of fairness metrics for datasets and machine learning models, explanations for these metrics, and algorithms to mitigate bias in datasets and models.
+- [AIF360](https://github.com/Trusted-AI/AIF360) - A comprehensive set of fairness metrics for datasets and machine learning models, explanations for these metrics, and algorithms to mitigate bias in datasets and models.
 - [DANet](https://github.com/junfu1115/DANet) - Dual Attention Network for Scene Segmentation (CVPR2019)
 - [openTSNE](https://github.com/pavlin-policar/openTSNE) - Extensible, parallel implementations of t-SNE
 - [100-Days-of-ML-Code-Chinese-Version](https://github.com/Avik-Jain/100-Days-of-ML-Code-Chinese-Version) - Chinese Translation for Machine Learning Infographics
@@ -12256,7 +12256,7 @@
 - [pycli-tools](https://github.com/nrocco/pycli-tools) - A python module to help create predictable command line tools
 - [timestring](https://github.com/codecov/timestring) - Making time easier since "Jan 17th, 2013 at 3:59pm"
 - [django-slumber](https://github.com/hotkit/django-slumber) - Slumber is a RESTful data connector that can be used to make proper RESTful data services from Django systems.
-- [pyres](https://github.com/binarydud/pyres) - a resque clone in python
+- [pyres](https://github.com/binarymatt/pyres) - a resque clone in python
 - [vincent](https://github.com/wrobstory/vincent) - A Python to Vega translator
 - [snake-ai](https://github.com/Hawstein/snake-ai) - a snake AI written in python
 - [webcam-pulse-detector](https://github.com/thearn/webcam-pulse-detector) - A python application that detects and highlights the heart-rate of an individual (using only their own webcam) in real-time.
