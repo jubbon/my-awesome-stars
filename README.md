@@ -622,7 +622,7 @@
 - [lux](https://github.com/LUX-Core/lux) - LUX - Hybrid PoW/PoS & Unique PHI2 Algorithm | Masternode | Parallel masternode | Segwit | Smartcontract | Luxgate | Proof of file storage (Decentralised distributed file storage)
 - [grpc-web](https://github.com/grpc/grpc-web) - gRPC for Web Clients
 - [oatpp](https://github.com/oatpp/oatpp) - 🌱Modern Web Framework for C++. High performance, simple API, cross platform, zero dependency.
-- [Algorithms](https://github.com/VAR-solutions/Algorithms) - Efficient Algorithms
+- [Algorithms](https://github.com/VAR-solutions/Algorithms) - A repository of different Algorithms and Data Structures implemented in many programming languages.
 - [openvino](https://github.com/openvinotoolkit/openvino) - OpenVINO™ Toolkit repository
 - [ACM-ICPC-Algorithms](https://github.com/matthewsamuel95/ACM-ICPC-Algorithms) - Algorithms used in Competitive Programming
 - [DeepMimic](https://github.com/xbpeng/DeepMimic) - Motion imitation with deep reinforcement learning.
@@ -713,7 +713,7 @@
 - [sling](https://github.com/google/sling) - SLING - A natural language frame semantics parser
 - [Tars](https://github.com/TarsCloud/Tars) - Tars is a high-performance RPC framework based on name service and Tars protocol, also integrated administration platform, and implemented hosting-service via flexible schedule.
 - [taco](https://github.com/tensor-compiler/taco) - The Tensor Algebra Compiler (taco) computes sparse tensor expressions on CPUs and GPUs
-- [TileDB](https://github.com/TileDB-Inc/TileDB) - The Storage Engine for Data Science
+- [TileDB](https://github.com/TileDB-Inc/TileDB) - The Universal Storage Engine
 - [leela-zero](https://github.com/leela-zero/leela-zero) - Go engine with no human-provided knowledge, modeled after the AlphaGo Zero paper.
 - [Beginning-Cpp-Game-Programming](https://github.com/PacktPublishing/Beginning-Cpp-Game-Programming) - 
 - [pegasus](https://github.com/XiaoMi/pegasus) - ['pɛgəsəs] A distributed key-value storage system developed and maintained by Xiaomi Cloud Storage Team.
@@ -2636,7 +2636,6 @@
 - [WebGazer](https://github.com/brownhci/WebGazer) - WebGazer.js: Scalable Webcam EyeTracking Using User Interactions
 - [patchwork](https://github.com/jlord/patchwork) - All the Git-it Workshop completers!
 - [electron-api-demos](https://github.com/electron/electron-api-demos) - Explore the Electron APIs
-- [dynaconf](https://github.com/rochacbruno/dynaconf) - Configuration Management for Python :wrench: ⚙
 - [datefinder](https://github.com/akoumjian/datefinder) - Find dates inside text using Python and get back datetime objects
 - [pypub](https://github.com/wcember/pypub) - Python library to programatically create epub files
 - [diffee](https://github.com/una/diffee) - Instant visual diffing in the browser
@@ -3199,7 +3198,7 @@
 - [G-Desktop-Suite](https://github.com/alexkim205/G-Desktop-Suite) - Google Suite as a desktop app. Made possible with Electron.
 - [Radon](https://github.com/radonjs/Radon) - Object oriented state management solution for front-end development.
 - [Advanced-React](https://github.com/wesbos/Advanced-React) - Starter Files and Solutions for Full Stack Advanced React and GraphQL
-- [tiptap](https://github.com/ueberdosis/tiptap) - A rich-text editor for Vue.js
+- [tiptap](https://github.com/ueberdosis/tiptap) - A renderless rich-text editor for Vue.js
 - [muze](https://github.com/chartshq/muze) - Composable data visualisation library for web with a data-first approach
 - [walt](https://github.com/ballercat/walt) - :zap: Walt is a JavaScript-like syntax for WebAssembly text format :zap:
 - [vue-fontawesome](https://github.com/FortAwesome/vue-fontawesome) - Font Awesome 5 Vue component
@@ -4066,7 +4065,6 @@
 - [socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
 - [Dex](https://github.com/PatMartin/Dex) - Dex : The Data Explorer -- A data visualization tool written in Java/Groovy/JavaFX capable of powerful ETL and publishing web visualizations.
 - [2016-talks](https://github.com/gophercon/2016-talks) - Slides and Links to slides for 2016 talks
-- [slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors. (Currently in beta.)
 - [jupyterlab](https://github.com/jupyterlab/jupyterlab) - JupyterLab computational environment.
 - [hydrogen](https://github.com/nteract/hydrogen) - :atom: Run code interactively, inspect data, and plot. All the power of Jupyter kernels, inside your favorite text editor.
 - [clmtrackr](https://github.com/auduno/clmtrackr) - Javascript library for precise tracking of facial features via Constrained Local Models
@@ -4829,7 +4827,7 @@
 - [osumapper](https://github.com/kotritrona/osumapper) - An automatic beatmap generator using Tensorflow / Deep Learning.
 - [KDD18-Gluon](https://github.com/szha/KDD18-Gluon) - KDD18 Tutorial:  Deep Learning and Natural Language Processing with Apache MXNet (Incubating) Gluon
 - [fastprogress](https://github.com/fastai/fastprogress) - Simple and flexible progress bar for Jupyter Notebook and console
-- [JuliaBoxTutorials](https://github.com/JuliaAcademy/JuliaBoxTutorials) - Learn Julia via interactive tutorials!
+- [JuliaTutorials](https://github.com/JuliaAcademy/JuliaTutorials) - Learn Julia via interactive tutorials!
 - [natural-language-processing](https://github.com/hse-aml/natural-language-processing) - Resources for "Natural Language Processing" Coursera course.
 - [polyrnn-pp](https://github.com/fidler-lab/polyrnn-pp) - Inference Code for Polygon-RNN++ (CVPR 2018)
 - [deep-learning-notes](https://github.com/kmkolasinski/deep-learning-notes) - Experiments with Deep Learning
@@ -6068,6 +6066,7 @@
 - [notation](https://github.com/hypotext/notation) - Collection of quotes on notation design & how it affects thought.
 - [russian-troll-tweets](https://github.com/fivethirtyeight/russian-troll-tweets) - 
 - [MATRIX_Diary](https://github.com/MatrixAINetwork/MATRIX_Diary) - Matrix Trendings as well as Digests
+- [100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) - 100 Days of ML Coding
 - [disentangled-representation-papers](https://github.com/sootlasten/disentangled-representation-papers) - A curated list of research papers related to learning disentangled representations
 - [Resilience-Engineering-Resources](https://github.com/adaptivecapacitylabs/Resilience-Engineering-Resources) - This is a collection of readings, talks, and other bits regarding the field of Resilience Engineering
 - [grokking-pytorch](https://github.com/Kaixhin/grokking-pytorch) - The Hitchiker's Guide to PyTorch
@@ -7448,7 +7447,7 @@
 - [Learning_to_Learn_via_Self-Critique](https://github.com/AntreasAntoniou/Learning_to_Learn_via_Self-Critique) - The original code for the paper "Learning to Learn via Self-Critique".
 - [ansible-run_playbook](https://github.com/jtyr/ansible-run_playbook) - An example of how to run an Ansible Playbook programatically
 - [ansible-live](https://github.com/troutowicz/ansible-live) - Execute remote commands with live output.
-- [sightseq](https://github.com/zhiqwang/sightseq) - 🔭 Computer vision tools for fairseq, containing PyTorch implementation of text recognition and object detection
+- [sightseq](https://github.com/zhiqwang/sightseq) - Computer vision tools for fairseq, containing PyTorch implementation of text recognition and object detection
 - [uxy](https://github.com/sustrik/uxy) - UXY: Adding structure to the UNIX tools
 - [uds](https://github.com/stewartmcgown/uds) - Unlimited Drive Storage by splitting binary files into base64
 - [torchgpipe](https://github.com/kakaobrain/torchgpipe) - A GPipe implementation in PyTorch
@@ -8004,7 +8003,6 @@
 - [Raccoon](https://github.com/evyatarmeged/Raccoon) - A high performance offensive security tool for reconnaissance and vulnerability scanning
 - [faust](https://github.com/robinhood/faust) - Python Stream Processing
 - [FeelUOwn](https://github.com/feeluown/FeelUOwn) - trying to be a user-friendly and hackable music player
-- [100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) - 100 Days of ML Coding
 - [autokeras](https://github.com/keras-team/autokeras) - AutoML library for deep learning
 - [cnn-graph-classification](https://github.com/giannisnik/cnn-graph-classification) - A convolutional neural network for graph classification in PyTorch
 - [mmf](https://github.com/facebookresearch/mmf) - A modular framework for vision & language multimodal research from Facebook AI Research (FAIR)
@@ -10019,6 +10017,7 @@
 - [GeosPy](https://github.com/tylfin/GeosPy) - Highly optimized geolocation inference package for spatial approximation
 - [watson-word-watcher](https://github.com/dannguyen/watson-word-watcher) - A proof of concept using IBM's Speech-to-Text API to do quick-and-dirty transcriptions
 - [thunder](https://github.com/thunder-project/thunder) - scalable analysis of images and time series
+- [dynaconf](https://github.com/rochacbruno/dynaconf) - Configuration Management for Python :wrench: ⚙
 - [curses-menu](https://github.com/pmbarrett314/curses-menu) - A simple console menu system in python using the curses library
 - [redis-memory-analyzer](https://github.com/gamenet/redis-memory-analyzer) - Redis memory profiler to find the RAM bottlenecks throw scaning key space in real time and aggregate RAM usage statistic by patterns.
 - [pyq](https://github.com/caioariede/pyq) - A CLI tool to search for Python code in a path using jQuery-like selectors.
@@ -12558,7 +12557,7 @@
 - [0.30000000000000004](https://github.com/erikwiffin/0.30000000000000004) - Floating Point Math Examples
 - [https-portal](https://github.com/SteveLTN/https-portal) - A fully automated HTTPS server powered by Nginx, Let's Encrypt and Docker.
 - [um](https://github.com/sinclairtarget/um) - Create and maintain your own man pages so you can remember how to do stuff
-- [dev.to](https://github.com/thepracticaldev/dev.to) - Where programmers share ideas and help each other grow
+- [forem](https://github.com/forem/forem) - For empowering community
 - [world_cup_json](https://github.com/estiens/world_cup_json) - Rails backend for a scraper that outputs World Cup data as JSON
 - [nodejs-learning-guide](https://github.com/chyingp/nodejs-learning-guide) - Nodejs学习笔记以及经验总结，公众号"程序猿小卡"
 - [facebook_data_analyzer](https://github.com/Lackoftactics/facebook_data_analyzer) - Analyze facebook copy of your data with ruby language. Download zip file from facebook and get info about friends ranking by message, vocabulary,  contacts, friends added statistics and more
@@ -12942,7 +12941,7 @@
 - [playwright](https://github.com/microsoft/playwright) - Node library to automate Chromium, Firefox and WebKit with a single API
 - [gistpad](https://github.com/vsls-contrib/gistpad) - VS Code extension for managing and sharing code snippets, notes and interactive samples using GitHub Gists
 - [tfjs-models](https://github.com/tensorflow/tfjs-models) - Pretrained models for TensorFlow.js
-- [tsdx](https://github.com/formik/tsdx) - Zero-config CLI for TypeScript package development
+- [tsdx](https://github.com/formium/tsdx) - Zero-config CLI for TypeScript package development
 - [vue-next](https://github.com/vuejs/vue-next) - Repo for Vue 3.0 (currently in beta)
 - [streamlit](https://github.com/streamlit/streamlit) - Streamlit — The fastest way to build data apps in Python
 - [typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
@@ -13152,6 +13151,7 @@
 - [primeng](https://github.com/primefaces/primeng) - The Most Complete Angular UI Component Library
 - [recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
 - [phosphor](https://github.com/phosphorjs/phosphor) - The PhosphorJS Library
+- [slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors. (Currently in beta.)
 - [ignite](https://github.com/infinitered/ignite) - The hottest CLI for React Native, boilerplates, plugins, generators, and more!
 - [flatpickr](https://github.com/flatpickr/flatpickr) - lightweight, powerful javascript datetimepicker with no dependencies
 - [hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
@@ -13163,7 +13163,7 @@
 - [ionicons](https://github.com/ionic-team/ionicons) - The premium icon font for Ionic Framework and web apps everywhere
 - [playground](https://github.com/tensorflow/playground) - Play with neural networks!
 - [bricklayer](https://github.com/ademilter/bricklayer) - Lightweight and independent Pinterest-like cascading grid layout library
-- [storybook](https://github.com/storybookjs/storybook) - 📓 UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more!
+- [storybook](https://github.com/storybookjs/storybook) - 📓 The UI component workshop. Develop, document, & test for React, Vue, Angular, Ember, Web Components, & more!
 - [growth-ionic](https://github.com/phodal/growth-ionic) - [v2.0 DEPRECATED, please update to Growth 3.0] Growth - App to help you Be Awesome Developer & Awesome Hacker
 - [nativefier](https://github.com/jiahaog/nativefier) - Make any web page a desktop application
 - [ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
@@ -13229,7 +13229,7 @@
 - [factor](https://github.com/fiction-com/factor) - The JavaScript CMS Platform
 - [massCode](https://github.com/antonreshetov/massCode) - A free and open source code snippets manager for developers.
 - [vue-ctk-date-time-picker](https://github.com/chronotruck/vue-ctk-date-time-picker) - VueJS component to select dates & time, including a range mode
-- [postwoman](https://github.com/liyasthomas/postwoman) - 👽 A free, fast and beautiful API request builder (web alternative to Postman) used by 62k+ developers. https://postwoman.io
+- [postwoman](https://github.com/liyasthomas/postwoman) - 👽 A free, fast and beautiful API request builder (web alternative to Postman) used by 65k+ developers. https://postwoman.io
 - [Scriptis](https://github.com/WeBankFinTech/Scriptis) - Scriptis is for interactive data analysis with script development(SQL, Pyspark, HiveQL), task submission(Spark, Hive), UDF, function, resource management and intelligent diagnosis.
 - [Scout](https://github.com/tevora-threat/Scout) - Surveillance Detection Scout: Your Lookout on Autopilot
 - [DynamoDb-GUI-Client](https://github.com/Arattian/DynamoDb-GUI-Client) - DynamoDb GUI Client
