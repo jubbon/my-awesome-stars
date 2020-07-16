@@ -1904,7 +1904,7 @@
 - [tenta-dns](https://github.com/tenta-browser/tenta-dns) - Recursive and authoritative DNS server in go, including DNSSEC and DNS-over-TLS
 - [promptui](https://github.com/manifoldco/promptui) - Interactive prompt for command-line applications
 - [goscan](https://github.com/timest/goscan) - goscan is a simple and efficient IPv4 network scanner that discovers all active devices on local subnet.
-- [contour](https://github.com/projectcontour/contour) - Contour is a Kubernetes ingress controller using Lyft's Envoy proxy.
+- [contour](https://github.com/projectcontour/contour) - Contour is a Kubernetes ingress controller using Envoy proxy.
 - [ng](https://github.com/neugram/ng) - scripting language integrated with Go
 - [gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
 - [gocrack](https://github.com/fireeye/gocrack) - GoCrack is a management frontend for password cracking tools written in Go
@@ -2730,6 +2730,7 @@
 
 - [pandoc](https://github.com/jgm/pandoc) - Universal markup converter
 - [semantic](https://github.com/github/semantic) - Parsing, analyzing, and comparing source code across many languages
+- [graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.
 - [time.gif](https://github.com/def-/time.gif) - GIF that always shows the current time in UTC
 - [patat](https://github.com/jaspervdj/patat) - Terminal-based presentations using Pandoc
 - [blip](https://github.com/bjpop/blip) - A bytecode compiler for Python 3
@@ -2933,7 +2934,7 @@
 - [react-typescript-cheatsheet](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet) - Cheatsheets for experienced React developers getting started with TypeScript
 - [stealing-ur-feelings](https://github.com/noahlevenson/stealing-ur-feelings) - Winner of Mozilla's $50,000 prize for art and advocacy exploring AI
 - [kubernetes-basicLearning](https://github.com/knrt10/kubernetes-basicLearning) - Understand kubernetes step by step. A simple repo for beginners :fire:
-- [joi](https://github.com/hapijs/joi) - The most powerful data validation library for JS
+- [joi](https://github.com/sideway/joi) - The most powerful data validation library for JS
 - [node-red](https://github.com/node-red/node-red) - Low-code programming for event-driven applications
 - [uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [api-platform](https://github.com/api-platform/api-platform) - REST and GraphQL framework to build modern API-driven projects (server-side and client-side)
@@ -3282,7 +3283,6 @@
 - [jsinspect](https://github.com/danielstjules/jsinspect) - Detect copy-pasted and structurally similar code
 - [vialer-js](https://github.com/vialer/vialer-js) - Pluggable WebRTC softphone and communication platform.
 - [guppy](https://github.com/joshwcomeau/guppy) - 🐠A friendly application manager and task runner for React.js
-- [graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.
 - [v8n](https://github.com/imbrn/v8n) - ☑️ JavaScript fluent validation library
 - [evergreen](https://github.com/segmentio/evergreen) - 🌲 Evergreen React UI Framework by Segment
 - [terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
@@ -3778,7 +3778,6 @@
 - [securelogin](https://github.com/sakurity/securelogin) - This version won't be maintained!
 - [contracts-solidity](https://github.com/bancorprotocol/contracts-solidity) - Bancor Protocol Contracts
 - [front-end-handbook-2017](https://github.com/xitu/front-end-handbook-2017) - 2017 edition of our front-end development guide
-- [billboard.js](https://github.com/naver/billboard.js) - :bar_chart: Re-usable, easy interface JavaScript chart library based on D3.js
 - [lodash](https://github.com/lodash/lodash) - A modern JavaScript utility library delivering modularity, performance, & extras.
 - [vue-awesome](https://github.com/Justineo/vue-awesome) - Awesome SVG icon component for Vue.js, built-in with Font Awesome icons.
 - [slap](https://github.com/slap-editor/slap) - Sublime-like terminal-based text editor
@@ -6103,7 +6102,7 @@
 - [awesome-radare2](https://github.com/radareorg/awesome-radare2) - A curated list of awesome projects, articles and the other materials powered by Radare2
 - [call-for-papers](https://github.com/alinebastos/call-for-papers) - List with open Call for Papers
 - [Learn_Deep_Learning_in_6_Weeks](https://github.com/llSourcell/Learn_Deep_Learning_in_6_Weeks) - This is the Curriculum for "Learn Deep Learning in 6 Weeks" by Siraj Raval on Youtube
-- [night-owl-vscode-theme](https://github.com/sdras/night-owl-vscode-theme) - 🌌NIGHT OWL: A VS Code dark theme for contrast for nighttime coding, 🦉LIGHT OWL: a daytime light theme
+- [night-owl-vscode-theme](https://github.com/sdras/night-owl-vscode-theme) - 🌌 NIGHT OWL: A VS Code dark theme for contrast for nighttime coding, 🦉 LIGHT OWL: a daytime light theme
 - [jest-cheat-sheet](https://github.com/sapegin/jest-cheat-sheet) - Jest cheat sheet
 - [playbook](https://github.com/avito-tech/playbook) - AvitoTech team playbook
 - [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - 🤓 Build your own (insert technology here)
@@ -6406,7 +6405,7 @@
 - [deep-learning-papers](https://github.com/sbrugman/deep-learning-papers) - Papers about deep learning ordered by task, date. Current state-of-the-art papers are labelled.
 - [HeadlessBrowsers](https://github.com/dhamaniasad/HeadlessBrowsers) - A list of (almost) all headless web browsers in existence
 - [modern-cpp-features](https://github.com/AnthonyCalandra/modern-cpp-features) - A cheatsheet of modern C++ language and library features.
-- [MaterialDesign](https://github.com/Templarian/MaterialDesign) - ✒5000+ Material Design Icons from the Community
+- [MaterialDesign](https://github.com/Templarian/MaterialDesign) - ✒5300+ Material Design Icons from the Community
 - [GoDeeper](https://github.com/Miej/GoDeeper) - 
 - [react-redux-links](https://github.com/markerikson/react-redux-links) - Curated tutorial and resource links I've collected on React, Redux, ES6, and more
 - [awesome-nodejs-projects](https://github.com/sqreen/awesome-nodejs-projects) - Curated list of awesome open-source applications made with Node.js
@@ -6752,6 +6751,7 @@
 
 ## Python 
 
+- [Aslan](https://github.com/project-aslan/Aslan) - Open source self-driving software for low speed environments
 - [MolecularTransformer](https://github.com/pschwllr/MolecularTransformer) - 
 - [TopicNet](https://github.com/machine-intelligence-laboratory/TopicNet) - Interface for easier topic modelling.
 - [nlp](https://github.com/huggingface/nlp) - 🤗nlp – Datasets and evaluation metrics for Natural Language Processing in NumPy, Pandas, PyTorch and TensorFlow
@@ -7808,7 +7808,7 @@
 - [FAutoTest](https://github.com/Tencent/FAutoTest) - A UI automated testing framework for H5 and applets
 - [PANet](https://github.com/ShuLiu1993/PANet) - PANet for Instance Segmentation and Object Detection
 - [pytorch-flows](https://github.com/ikostrikov/pytorch-flows) - PyTorch implementations of algorithms for density estimation
-- [open_model_zoo](https://github.com/opencv/open_model_zoo) - Pre-trained Deep Learning models and samples (high quality and extremely fast)
+- [open_model_zoo](https://github.com/openvinotoolkit/open_model_zoo) - Pre-trained Deep Learning models and samples (high quality and extremely fast)
 - [mmcv](https://github.com/open-mmlab/mmcv) - OpenMMLab Computer Vision Foundation
 - [CVE-2018-10933](https://github.com/blacknbunny/CVE-2018-10933) - Spawn to shell without any credentials by using CVE-2018-10933 (LibSSH)
 - [tencent-ml-images](https://github.com/Tencent/tencent-ml-images) - Largest multi-label image database; ResNet-101 model; 80.73% top-1 acc on ImageNet
@@ -8901,6 +8901,7 @@
 - [text_classification](https://github.com/brightmart/text_classification) - all kinds of text classification models and more with deep learning
 - [jupyter-notify](https://github.com/ShopRunner/jupyter-notify) - A Jupyter Notebook magic for browser notifications of cell completion
 - [CryptoTracker](https://github.com/EthVentures/CryptoTracker) - A complete open source system for tracking and visualizing cryptocurrency price movements on leading exchanges
+- [yacron](https://github.com/gjcarneiro/yacron) - A modern Cron replacement that is Docker-friendly
 - [federation](https://github.com/jaywink/federation) - Python library for abstracting social federation protocols
 - [Requester](https://github.com/kylebebak/Requester) - Powerful, modern HTTP/REST client built on top of the Requests library
 - [brainforge](https://github.com/csxeba/brainforge) - A Neural Networking library based on NumPy only
@@ -8991,7 +8992,7 @@
 - [ssl_logger](https://github.com/google/ssl_logger) - Decrypts and logs a process's SSL traffic.
 - [gae](https://github.com/tkipf/gae) - Implementation of Graph Auto-Encoders in TensorFlow
 - [Solid](https://github.com/100/Solid) - 🎯 A comprehensive gradient-free optimization framework written in Python
-- [stackimpact-python](https://github.com/stackimpact/stackimpact-python) - StackImpact Python Profiler - Production-Grade Performance Profiler: CPU, memory allocations, blocking calls, exceptions, metrics, and more
+- [stackimpact-python](https://github.com/stackimpact/stackimpact-python) - DEPRECATED StackImpact Python Profiler - Production-Grade Performance Profiler: CPU, memory allocations, blocking calls, exceptions, metrics, and more
 - [nnabla](https://github.com/sony/nnabla) - Neural Network Libraries
 - [TensorFlow-World](https://github.com/astorfi/TensorFlow-World) - :earth_americas: Simple and ready-to-use tutorials for TensorFlow
 - [SOTA-Py](https://github.com/mehrdadn/SOTA-Py) - A discrete-time Python-based solver for the Stochastic On-Time Arrival routing problem
@@ -9080,7 +9081,7 @@
 - [scikit-garden](https://github.com/scikit-garden/scikit-garden) - A garden for scikit-learn compatible trees
 - [cyphon](https://github.com/controlscanmdr/cyphon) - Open source incident management and response platform.
 - [tox-docker](https://github.com/tox-dev/tox-docker) - A tox plugin to run one or more Docker containers during tests
-- [polyaxon](https://github.com/polyaxon/polyaxon) - Reproduce, Automate, Scale your data science.
+- [polyaxon](https://github.com/polyaxon/polyaxon) - Machine Learning Platform for Kubernetes
 - [cppdep](https://github.com/rakhimov/cppdep) - C/C++ Dependency Analyzer: a rewrite of John Lakos' dep_utils (adep/cdep/ldep) from "Large-Scale C++ Software Design"
 - [praatIO](https://github.com/timmahrt/praatIO) - A python library for working with praat, textgrids, time aligned audio transcripts, and audio files. It is primarily used for extracting features from and making manipulations on audio files given hierarchical time-aligned transcriptions (utterance &gt; word &gt; syllable &gt; phone, etc).
 - [mycli](https://github.com/dbcli/mycli) - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
@@ -9655,7 +9656,7 @@
 - [motorway](https://github.com/plecto/motorway) - Cloud ready pure-python streaming data pipeline library
 - [flowblade](https://github.com/jliljebl/flowblade) - Video Editor for Linux
 - [cleverhans](https://github.com/tensorflow/cleverhans) - An adversarial example library for constructing attacks, building defenses, and benchmarking both
-- [mimesis](https://github.com/lk-geimfari/mimesis) - Mimesis is a package for Python, which helps generate big volumes of fake data for a variety of purposes in a variety of languages.
+- [mimesis](https://github.com/lk-geimfari/mimesis) - Mimesis is a Python package for generating big volumes of fake data for a variety of purposes in a variety of languages.
 - [azure-cli](https://github.com/Azure/azure-cli) - Azure Command-Line Interface
 - [mock-import](https://github.com/posener/mock-import) - A helper mocking function to mask ImportErrors
 - [Clairvoyant](https://github.com/anfederico/Clairvoyant) - Software designed to identify and monitor social/historical cues for short term stock movement
@@ -12644,9 +12645,8 @@
 - [py-spy](https://github.com/benfred/py-spy) - Sampling profiler for Python programs
 - [xray](https://github.com/atom-archive/xray) - An experimental next-generation Electron-based text editor
 - [sit](https://github.com/sit-fyi/sit) - Serverless (offline-first, merge-friendly) Information Tracker
-- [openethereum](https://github.com/openethereum/openethereum) - Fast and feature-rich multi-network Ethereum client.
+- [openethereum](https://github.com/openethereum/openethereum) - The fast, light, and robust client for Ethereum-like networks.
 - [pyo3](https://github.com/PyO3/pyo3) - Rust bindings for the Python interpreter
-- [yacron](https://github.com/gjcarneiro/yacron) - A modern Cron replacement that is Docker-friendly
 - [static-analysis](https://github.com/analysis-tools-dev/static-analysis) - Static analysis tools for all programming languages, build tools, config files and more.
 - [exonum](https://github.com/exonum/exonum) - An extensible open-source framework for creating private/permissioned blockchain applications
 - [rediSQL](https://github.com/RedBeardLab/rediSQL) - Redis module that provides a completely functional SQL database
@@ -13111,6 +13111,7 @@
 - [vue-awesome-swiper](https://github.com/surmon-china/vue-awesome-swiper) - 🏆 Swiper component for @vuejs
 - [BlockchainStore](https://github.com/brakmic/BlockchainStore) - :moneybag: Retail Store that runs on Ethereum
 - [vue-typed](https://github.com/vue-typed/vue-typed) - Sets of ECMAScript / Typescript decorators that helps you write Vue component easily.
+- [billboard.js](https://github.com/naver/billboard.js) - :bar_chart: Re-usable, easy interface JavaScript chart library based on D3.js
 - [taxi-rank](https://github.com/ForbesLindesay/taxi-rank) - A JSDom based Selenium Webdriver API
 - [NativeScript](https://github.com/NativeScript/NativeScript) - NativeScript empowers you to access native api's from JavaScript directly. Angular, Vue, Svelte, React and you name it compatible.
 - [caprine](https://github.com/sindresorhus/caprine) - Elegant Facebook Messenger desktop app
@@ -13226,7 +13227,7 @@
 - [vue-getting-started](https://github.com/johnpapa/vue-getting-started) - This project is seen in demos including the Pluralsight course "Vue: Getting Started" to help represent a fundamental app written with Vue. The heroes and villains theme is used throughout the app.
 - [coreui-vue](https://github.com/coreui/coreui-vue) - Over 90 Bootstrap based Vue.js components and directives
 - [file-upload](https://github.com/yeyan1996/file-upload) - 
-- [factor](https://github.com/fiction-com/factor) - The JavaScript CMS Platform
+- [factor](https://github.com/fiction-com/factor) - 100% JavaScript framework for marketing sites and application dashboards.
 - [massCode](https://github.com/antonreshetov/massCode) - A free and open source code snippets manager for developers.
 - [vue-ctk-date-time-picker](https://github.com/chronotruck/vue-ctk-date-time-picker) - VueJS component to select dates & time, including a range mode
 - [postwoman](https://github.com/liyasthomas/postwoman) - 👽 A free, fast and beautiful API request builder (web alternative to Postman) used by 65k+ developers. https://postwoman.io
@@ -13250,7 +13251,7 @@
 - [palette](https://github.com/mand-mobile/palette) - 🎨 A visual theme editing tool for Mand Mobile
 - [vue-tree-list](https://github.com/ParadeTo/vue-tree-list) - 🌲A vue component for tree structure
 - [workcation](https://github.com/adamwathan/workcation) - 
-- [cssgridgenerator](https://github.com/sdras/cssgridgenerator) - 🧮Generate basic CSS Grid code to make dynamic layouts!
+- [cssgridgenerator](https://github.com/sdras/cssgridgenerator) - 🧮 Generate basic CSS Grid code to make dynamic layouts!
 - [nuxt-element-dashboard](https://github.com/levy9527/nuxt-element-dashboard) - ⚡️develop your admin-dashboard fast
 - [Vue-Access-Control](https://github.com/tower1229/Vue-Access-Control) - :gem: Frontend access control framework based Vue
 - [DIYGame](https://github.com/Lawliet01/DIYGame) - customize game/make platform game without coding
