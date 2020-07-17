@@ -990,7 +990,6 @@
 - [Pathfinding-Visualizer](https://github.com/clementmihailescu/Pathfinding-Visualizer) - A visualization tool for various pathfinding algorithms.
 - [breaking-and-pwning-apps-and-servers-aws-azure-training](https://github.com/appsecco/breaking-and-pwning-apps-and-servers-aws-azure-training) - Course content, lab setup instructions and documentation of our very popular Breaking and Pwning Apps and Servers on AWS and Azure hands on training!
 - [git-workflow-merge-conflicts-lab](https://github.com/learn-co-curriculum/git-workflow-merge-conflicts-lab) - 
-- [vscode-plugin](https://github.com/kiteco/vscode-plugin) - Kite Autocomplete Plugin for Visual Studio Code
 - [tutorial](https://github.com/DjangoGirls/tutorial) - This is a tutorial we are using for Django Girls workshops
 - [tailwind-starter-kit](https://github.com/creativetimofficial/tailwind-starter-kit) - Tailwind Starter Kit a beautiful extension for TailwindCSS, Free and Open Source
 - [bootstrap-4-github-pages](https://github.com/nicolas-van/bootstrap-4-github-pages) - A Bootstrap 4 start up project for Github Pages and Jekyll
@@ -2404,7 +2403,7 @@
 - [Droid-Application-Fuzz-Framework](https://github.com/ajinabraham/Droid-Application-Fuzz-Framework) - Android application fuzzing framework with fuzzers and crash monitor.
 - [AIDL_KB](https://github.com/arthchan2003/AIDL_KB) - A Knowledge Base for the FB Group Artificial Intelligence and Deep Learning (AIDL)
 - [smart-contract-best-practices](https://github.com/ConsenSys/smart-contract-best-practices) - A guide to smart contract security best practices
-- [seldon-core](https://github.com/SeldonIO/seldon-core) - A framework to deploy, manage and scale your production machine learning to thousands of models
+- [seldon-core](https://github.com/SeldonIO/seldon-core) - An MLOps framework to package, deploy, monitor and manage thousands of production machine learning models
 - [fonts](https://github.com/google/fonts) - Font files available from Google Fonts
 - [core](https://github.com/stackblitz/core) - Online IDE powered by Visual Studio Code ⚡️
 - [proposal-optional-chaining](https://github.com/tc39/proposal-optional-chaining) - 
@@ -2893,6 +2892,7 @@
 - [webviz](https://github.com/cruise-automation/webviz) - web-based visualization libraries
 - [fullstack-course4](https://github.com/jhu-ep-coursera/fullstack-course4) - Example code for HTML, CSS, and Javascript for Web Developers Coursera Course
 - [jsdoc](https://github.com/jsdoc/jsdoc) - An API documentation generator for JavaScript.
+- [vscode-plugin](https://github.com/kiteco/vscode-plugin) - Kite Autocomplete Plugin for Visual Studio Code
 - [express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
 - [lime](https://github.com/marcotcr/lime) - Lime: Explaining the predictions of any machine learning classifier
 - [uuid](https://github.com/lukeed/uuid) - A tiny (230B), fast, and cryptographically secure UUID (V4) generator for Node and the browser
@@ -4602,7 +4602,7 @@
 - [sdc_course](https://github.com/yandexdataschool/sdc_course) - Short course about self-driving cars
 - [dsc-creating-functions-lab-online-ds-ft-100719](https://github.com/learn-co-students/dsc-creating-functions-lab-online-ds-ft-100719) - 
 - [dsc-while-loops-break-and-continue-lab-dc-ds-100719](https://github.com/learn-co-students/dsc-while-loops-break-and-continue-lab-dc-ds-100719) - 
-- [rnn_lstm_from_scratch](https://github.com/nicklashansen/rnn_lstm_from_scratch) - How to build a RNN and LSTM from scratch with NumPy.
+- [rnn_lstm_from_scratch](https://github.com/nicklashansen/rnn_lstm_from_scratch) - How to build RNNs and LSTMs from scratch with NumPy.
 - [dsc-functions-with-arguments-lab-online-ds-ft-100719](https://github.com/learn-co-students/dsc-functions-with-arguments-lab-online-ds-ft-100719) - 
 - [sqlworkshops](https://github.com/microsoft/sqlworkshops) - SQL Server Workshops
 - [nuscenes-devkit](https://github.com/lyft/nuscenes-devkit) - Devkit for the public 2019 Lyft Level 5 AV Dataset (fork of https://github.com/nutonomy/nuscenes-devkit)
