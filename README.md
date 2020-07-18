@@ -2931,6 +2931,7 @@
 - [serverless-aws-static-file-handler](https://github.com/activescott/serverless-aws-static-file-handler) - Easily serve static files with the Serverless Framework on AWS Lambda.
 - [Leaflet.Control.Layers.Tree](https://github.com/jjimenezshaw/Leaflet.Control.Layers.Tree) - a Tree Layers Control for Leaflet
 - [zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt) - Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨
+- [tsdx](https://github.com/formium/tsdx) - Zero-config CLI for TypeScript package development
 - [react-typescript-cheatsheet](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet) - Cheatsheets for experienced React developers getting started with TypeScript
 - [stealing-ur-feelings](https://github.com/noahlevenson/stealing-ur-feelings) - Winner of Mozilla's $50,000 prize for art and advocacy exploring AI
 - [kubernetes-basicLearning](https://github.com/knrt10/kubernetes-basicLearning) - Understand kubernetes step by step. A simple repo for beginners :fire:
@@ -9656,7 +9657,7 @@
 - [motorway](https://github.com/plecto/motorway) - Cloud ready pure-python streaming data pipeline library
 - [flowblade](https://github.com/jliljebl/flowblade) - Video Editor for Linux
 - [cleverhans](https://github.com/tensorflow/cleverhans) - An adversarial example library for constructing attacks, building defenses, and benchmarking both
-- [mimesis](https://github.com/lk-geimfari/mimesis) - Mimesis is a Python package for generating big volumes of fake data for a variety of purposes in a variety of languages.
+- [mimesis](https://github.com/lk-geimfari/mimesis) - Mimesis is a high-performance fake data generator for Python, which provides data for a variety of purposes in a variety of languages.
 - [azure-cli](https://github.com/Azure/azure-cli) - Azure Command-Line Interface
 - [mock-import](https://github.com/posener/mock-import) - A helper mocking function to mask ImportErrors
 - [Clairvoyant](https://github.com/anfederico/Clairvoyant) - Software designed to identify and monitor social/historical cues for short term stock movement
@@ -12558,7 +12559,7 @@
 - [0.30000000000000004](https://github.com/erikwiffin/0.30000000000000004) - Floating Point Math Examples
 - [https-portal](https://github.com/SteveLTN/https-portal) - A fully automated HTTPS server powered by Nginx, Let's Encrypt and Docker.
 - [um](https://github.com/sinclairtarget/um) - Create and maintain your own man pages so you can remember how to do stuff
-- [forem](https://github.com/forem/forem) - For empowering community
+- [forem](https://github.com/forem/forem) - For empowering community 🌱
 - [world_cup_json](https://github.com/estiens/world_cup_json) - Rails backend for a scraper that outputs World Cup data as JSON
 - [nodejs-learning-guide](https://github.com/chyingp/nodejs-learning-guide) - Nodejs学习笔记以及经验总结，公众号"程序猿小卡"
 - [facebook_data_analyzer](https://github.com/Lackoftactics/facebook_data_analyzer) - Analyze facebook copy of your data with ruby language. Download zip file from facebook and get info about friends ranking by message, vocabulary,  contacts, friends added statistics and more
@@ -12704,7 +12705,7 @@
 - [bitnami-docker-kafka](https://github.com/bitnami/bitnami-docker-kafka) - Bitnami Docker Image for Kafka
 - [docker-odoo-project](https://github.com/camptocamp/docker-odoo-project) - Base images for Odoo projects
 - [tensorflow-build-archived](https://github.com/lakshayg/tensorflow-build-archived) - TensorFlow binaries supporting AVX, FMA, SSE
-- [Revssl](https://github.com/wintrmvte/Revssl) - A simple script that automates generation of OpenSSL reverse shells
+- [Revssl](https://github.com/wintrmvte/Revssl) - A script that automates generation of OpenSSL reverse shells
 - [Overpass-API](https://github.com/wiktorn/Overpass-API) - Overpass API docker image
 - [docker-overpass-api](https://github.com/mediasuitenz/docker-overpass-api) - Docker Overpass API
 - [docker-pyinstaller](https://github.com/cdrx/docker-pyinstaller) - PyInstaller for Linux and Windows inside Docker
@@ -12941,7 +12942,6 @@
 - [playwright](https://github.com/microsoft/playwright) - Node library to automate Chromium, Firefox and WebKit with a single API
 - [gistpad](https://github.com/vsls-contrib/gistpad) - VS Code extension for managing and sharing code snippets, notes and interactive samples using GitHub Gists
 - [tfjs-models](https://github.com/tensorflow/tfjs-models) - Pretrained models for TensorFlow.js
-- [tsdx](https://github.com/formium/tsdx) - Zero-config CLI for TypeScript package development
 - [vue-next](https://github.com/vuejs/vue-next) - Repo for Vue 3.0 (currently in beta)
 - [streamlit](https://github.com/streamlit/streamlit) - Streamlit — The fastest way to build data apps in Python
 - [typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
