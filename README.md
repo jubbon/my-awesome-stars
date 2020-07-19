@@ -1008,6 +1008,7 @@
 - [counter-interview.dev](https://github.com/oleg-koval/counter-interview.dev) - a collaborative collection of interview questions collected from both sides of the game: Interviewer(s) and Interviewee.
 - [course-starter-python](https://github.com/ines/course-starter-python) - 👩‍🏫🐍 Starter repo for building interactive Python courses
 - [RemixIcon](https://github.com/Remix-Design/RemixIcon) - Open source neutral style icon system
+- [css-effects-snippets](https://github.com/emilkowalski/css-effects-snippets) - ☁️ A collection of CSS effects made with Vue.js.
 - [automatic-app-landing-page](https://github.com/emilbaehr/automatic-app-landing-page) - A Jekyll theme for automatically generating and deploying landing page sites for mobile apps.
 - [notes](https://github.com/hiromis/notes) - 
 - [tris-webpack-boilerplate](https://github.com/tr1s/tris-webpack-boilerplate) - A Webpack boilerplate for static websites that has all the necessary modern tools and optimizations built-in. Score a perfect 10/10 on performance.
@@ -1476,7 +1477,7 @@
 - [code-with-engineering-playbook](https://github.com/microsoft/code-with-engineering-playbook) - This is the playbook for "code-with" customer or partner engagements
 - [python](https://github.com/docker-library/python) - Docker Official Image packaging for Python
 - [mssql-docker](https://github.com/microsoft/mssql-docker) - Official Microsoft repository for SQL Server in Docker resources
-- [docker-selenium](https://github.com/SeleniumHQ/docker-selenium) - Docker images for Selenium Grid Server (Standalone, Hub, and Nodes).
+- [docker-selenium](https://github.com/SeleniumHQ/docker-selenium) - Docker images for the Selenium Grid Server
 - [vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) - A repository of development container definitions for the VS Code Remote - Containers extension and Visual Studio Codespaces / Codespaces in GitHub
 - [ssh-action](https://github.com/appleboy/ssh-action) - GitHub Actions for executing remote ssh commands.
 - [docker](https://github.com/odoo/docker) - 
@@ -1553,7 +1554,7 @@
 - [Yearning](https://github.com/cookieY/Yearning) - 🐳 A most popular sql audit platform for mysql
 - [kpt](https://github.com/GoogleContainerTools/kpt) - 
 - [slack](https://github.com/slack-go/slack) - Slack API in Go - community-maintained fork created by the original author, @nlopes
-- [matterbridge](https://github.com/42wim/matterbridge) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, steam, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams and more with REST API (mattermost not required!)
+- [matterbridge](https://github.com/42wim/matterbridge) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, steam, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud and more with REST API (mattermost not required!)
 - [node_exporter](https://github.com/prometheus/node_exporter) - Exporter for machine metrics
 - [ion](https://github.com/pion/ion) - Distributed RTC System by pure Go and Flutter
 - [operator-sdk](https://github.com/operator-framework/operator-sdk) - SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding.
@@ -4579,6 +4580,7 @@
 - [Seq2Seq_Tutorial](https://github.com/hamelsmu/Seq2Seq_Tutorial) - Code For Medium Article "How To Create Data Products That Are Magical Using Sequence-to-Sequence Models"
 - [Keras-Tutorials](https://github.com/tgjeon/Keras-Tutorials) - Simple tutorials using Keras Framework
 - [dogs_vs_cats](https://github.com/ypwhs/dogs_vs_cats) - 猫狗大战
+- [Tensorflow-Object-Detection-API-Train-Model](https://github.com/TannerGilbert/Tensorflow-Object-Detection-API-Train-Model) - Train a object detection model with the Tensorflow Object Detection API and Tensorflow 2.
 - [Object-Detection-and-Image-Segmentation-with-Detectron2](https://github.com/TannerGilbert/Object-Detection-and-Image-Segmentation-with-Detectron2) - Object Detection and Image Segmentation with Detectron2
 - [Tutorials](https://github.com/TannerGilbert/Tutorials) - Code for some of my tutorials
 - [mellotron](https://github.com/NVIDIA/mellotron) - Mellotron: a multispeaker voice synthesis model based on Tacotron 2 GST that can make a voice emote and sing without emotive or singing training data
@@ -6936,7 +6938,7 @@
 - [gensim-data](https://github.com/RaRe-Technologies/gensim-data) - Data repository for pretrained NLP models and NLP corpora.
 - [sense2vec](https://github.com/explosion/sense2vec) - 🦆 Contextually-keyed word vectors
 - [remi](https://github.com/YatingMusic/remi) - "Pop Music Transformer: Generating Music with Rhythm and Harmony", arXiv 2020
-- [tianshou](https://github.com/thu-ml/tianshou) - An elegant, flexible, and superfast PyTorch deep reinforcement learning platform.
+- [tianshou](https://github.com/thu-ml/tianshou) - An elegant, flexible, and superfast PyTorch deep reinforcement learning platform. (For previewed features, please checkout the "dev" branch)
 - [pycls](https://github.com/facebookresearch/pycls) - Codebase for Image Classification Research, written in PyTorch.
 - [PaddleHub](https://github.com/PaddlePaddle/PaddleHub) - Toolkit for Pre-trained Model Application of PaddlePaddle（『飞桨』预训练模型应用工具 ）
 - [CurveFit](https://github.com/ihmeuw-msca/CurveFit) - Generic curve fitting package with nonlinear mixed effects model
@@ -7170,7 +7172,6 @@
 - [benchmarking-keras-pytorch](https://github.com/cgnorthcutt/benchmarking-keras-pytorch) - 🔥 Reproducibly benchmarking Keras and PyTorch models
 - [keract](https://github.com/philipperemy/keract) - Activation Maps (Layers Outputs) and Gradients in Keras.
 - [Google-Coral-Edge-TPU](https://github.com/TannerGilbert/Google-Coral-Edge-TPU) - Use the Google Coral USB Accelerator for deep learning.
-- [Tensorflow-Object-Detection-API-Train-Model](https://github.com/TannerGilbert/Tensorflow-Object-Detection-API-Train-Model) - Train a object detection model with the Tensorflow Object Detection API.
 - [cvat](https://github.com/opencv/cvat) - Powerful and efficient Computer Vision Annotation Tool (CVAT)
 - [geo-heatmap](https://github.com/luka1199/geo-heatmap) - :world_map: Generate an interactive geo heatmap from your Google location data
 - [sagemaker-python-sdk](https://github.com/aws/sagemaker-python-sdk) - A library for training and deploying machine learning models on Amazon SageMaker
@@ -12361,7 +12362,6 @@
 - [Pillow](https://github.com/python-pillow/Pillow) - The friendly PIL fork (Python Imaging Library)
 - [Mathics](https://github.com/mathics/Mathics) - a general-purpose computer algebra system
 - [django-unchained](https://github.com/NahimNasser/django-unchained) - Introduction to Python and Django
-- [django-db-tools](https://github.com/craigkerstiens/django-db-tools) - 
 - [Reding](https://github.com/BuongiornoMIP/Reding) - Rating on Redis - REST API on Flask
 - [pql](https://github.com/alonho/pql) - A python expression to MongoDB query translator
 - [lice](https://github.com/licenses/lice) - Generate license files for your projects
@@ -13266,7 +13266,6 @@
 - [pdfvuer](https://github.com/arkokoley/pdfvuer) - A PDF viewer for Vue using Mozilla's PDF.js
 - [video2gif](https://github.com/egoist/video2gif) - Convert Video (MP4/OGG/WEBM) to GIF.
 - [vue-9-perf-secrets](https://github.com/Akryum/vue-9-perf-secrets) - Demos from my talk "9 performance secrets revealed"
-- [css-effects-snippets](https://github.com/emilkowalski/css-effects-snippets) - ☁️ A collection of CSS effects made with Vue.js.
 - [PreVue](https://github.com/open-source-labs/PreVue) - 🎨 All in One Prototyping Tool For Vue Developers.
 - [vuetify-material-dashboard](https://github.com/creativetimofficial/vuetify-material-dashboard) - Vuetify Material Dashboard - Open Source Material Design Admin
 - [nuxt-netlify-cms-starter-template](https://github.com/renestalder/nuxt-netlify-cms-starter-template) - ⚡ Build server-less, static websites with Vue.js and Netlify CMS.
