@@ -869,7 +869,7 @@
 - [tinyflow](https://github.com/tqchen/tinyflow) - Tutorial code on how to build your own Deep Learning System in 2k Lines
 - [drone_employee_ros](https://github.com/DistributedSky/drone_employee_ros) - DroneEmployee ROS stack
 - [OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) - An open source re-implementation of RollerCoaster Tycoon 2 🎢
-- [fastnetmon](https://github.com/pavel-odintsov/fastnetmon) - FastNetMon community - very fast DDoS analyzer with sflow/netflow/mirror support
+- [fastnetmon](https://github.com/pavel-odintsov/fastnetmon) - FastNetMon - very fast DDoS sensor with sFlow/Netflow/IPFIX/SPAN support
 - [phxsql](https://github.com/Tencent/phxsql) - A high availability MySQL cluster that guarantees data consistency between a master and slaves.
 - [FastBDT](https://github.com/thomaskeck/FastBDT) - Stochastic Gradient Boosted Decision Trees as Standalone, TMVAPlugin and Python-Interface
 - [rapidjson](https://github.com/Tencent/rapidjson) - A fast JSON parser/generator for C++ with both SAX/DOM style API
@@ -7057,7 +7057,7 @@
 - [DeepLabCut](https://github.com/DeepLabCut/DeepLabCut) - Official implementation of DeepLabCut: Markerless pose estimation of user-defined features with deep learning for all animals
 - [causalnex](https://github.com/quantumblacklabs/causalnex) - A Python library that helps data scientists to infer causation rather than observing correlation.
 - [django-rest-auth](https://github.com/Tivix/django-rest-auth) - This app makes it extremely easy to build Django powered SPA's (Single Page App) or Mobile apps exposing all registration and authentication related functionality as CBV's (Class Base View) and REST (JSON)
-- [sight](https://github.com/rish-16/sight) - 👁 Sightseer: State-of-the-art Computer Vision and Object Detection for TensorFlow
+- [sight](https://github.com/rish-16/sight) - 👁 Sightseer: TensorFlow library for state-of-the-art Computer Vision and Object Detection models
 - [reformer-pytorch](https://github.com/lucidrains/reformer-pytorch) - Reformer, the efficient Transformer, in Pytorch
 - [DAIN](https://github.com/baowenbo/DAIN) - Depth-Aware Video Frame Interpolation (CVPR 2019)
 - [retinanet-examples](https://github.com/aidonchuk/retinanet-examples) - Fast and accurate object detection with end-to-end GPU optimization
@@ -8025,7 +8025,7 @@
 - [evernote-telegram-bot](https://github.com/djudman/evernote-telegram-bot) - Telegram bot for Evernote
 - [appkernel](https://github.com/accelero-cloud/appkernel) - API development made easy: a smart Python 3 API framework
 - [testinfra](https://github.com/philpep/testinfra) - Testinfra test your infrastructures
-- [albumentations](https://github.com/albumentations-team/albumentations) - fast image augmentation library and easy to use wrapper around other libraries
+- [albumentations](https://github.com/albumentations-team/albumentations) - Fast image augmentation library and easy to use wrapper around other libraries. Documentation:  https://albumentations.ai/docs/
 - [keras-coordconv](https://github.com/titu1994/keras-coordconv) - Keras implementation of CoordConv for all Convolution layers
 - [compare_gan](https://github.com/google/compare_gan) - Compare GAN code.
 - [Terminus](https://github.com/randy3k/Terminus) - Bring a real terminal to Sublime Text
@@ -12378,7 +12378,7 @@
 - [pholcidae](https://github.com/bbrodriges/pholcidae) - Tiny python web crawler
 - [quepy](https://github.com/machinalis/quepy) - A python framework to transform natural language questions to queries in a database query language.
 - [aws-cli](https://github.com/aws/aws-cli) - Universal Command Line Interface for Amazon Web Services
-- [arrow](https://github.com/crsmithdev/arrow) - Better dates & times for Python
+- [arrow](https://github.com/arrow-py/arrow) - Better dates & times for Python
 - [blaze](https://github.com/blaze/blaze) - NumPy and Pandas interface to Big Data
 - [mockredis](https://github.com/locationlabs/mockredis) - mock for redis-py (NO LONGER SUPPORTED)
 - [zipline](https://github.com/quantopian/zipline) - Zipline, a Pythonic Algorithmic Trading Library
