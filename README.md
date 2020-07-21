@@ -1221,6 +1221,7 @@
 - [solved-by-flexbox](https://github.com/philipwalton/solved-by-flexbox) - A showcase of problems once hard or impossible to solve with CSS alone, now made trivially easy with Flexbox.
 - [public-pentesting-reports](https://github.com/juliocesarfort/public-pentesting-reports) - Curated list of  public penetration test reports released by several consulting firms and academic security groups
 - [react-enlightenment](https://github.com/FrontendMasters/react-enlightenment) - A thoughtful and complete introduction to React.
+- [primeng](https://github.com/primefaces/primeng) - The Most Complete Angular UI Component Library
 - [retain-app](https://github.com/AngularClass/retain-app) - 📓 Free Angular 2 (and Angular 4) Fundamentals Course by @AngularClass
 - [org-spec](https://github.com/thi-ng/org-spec) - Org-mode skeleton for technical specifications & HTML theme
 - [react-mdl](https://github.com/tleunen/react-mdl) - React Components for Material Design Lite
@@ -1769,7 +1770,7 @@
 - [dry](https://github.com/moncho/dry) - dry - A Docker manager for the terminal @
 - [kustomize](https://github.com/kubernetes-sigs/kustomize) - Customization of kubernetes YAML configurations
 - [gh-ost](https://github.com/github/gh-ost) - GitHub's Online Schema Migrations for MySQL
-- [wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal.
+- [wtf](https://github.com/wtfutil/wtf) - 💪 The personal information dashboard for your terminal.
 - [radon](https://github.com/radondb/radon) - RadonDB is an open source, cloud-native MySQL database for building global, scalable cloud services
 - [UNetwork](https://github.com/U-Network/UNetwork) - U Network Public Blockchain
 - [thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. CNCF Sandbox project.
@@ -1958,7 +1959,7 @@
 - [go-web-framework-stars](https://github.com/mingrammer/go-web-framework-stars) - :star: Web frameworks for Go, most starred on GitHub
 - [is](https://github.com/matryer/is) - Professional lightweight testing mini-framework for Go.
 - [kubekit](https://github.com/Orientsoft/kubekit) - A Kubernetes deployment toolkit for offline environment.
-- [faas-netes](https://github.com/openfaas/faas-netes) - Serverless Kubernetes with OpenFaaS (Functions as a Service)
+- [faas-netes](https://github.com/openfaas/faas-netes) - Kubernetes controller for OpenFaaS
 - [kubeless](https://github.com/kubeless/kubeless) - Kubernetes Native Serverless Framework
 - [sup3rS3cretMes5age](https://github.com/algolia/sup3rS3cretMes5age) - Simple to use, simple to deploy, one time self destruct messaging service, with hashicorp vault as a backend
 - [argo](https://github.com/argoproj/argo) - Argo Workflows: Get stuff done with Kubernetes.
@@ -3443,7 +3444,7 @@
 - [objection.js](https://github.com/Vincit/objection.js) - An SQL-friendly ORM for Node.js
 - [Blotter](https://github.com/bradley/Blotter) - A JavaScript API for drawing unconventional text effects on the web.
 - [sweetalert2](https://github.com/sweetalert2/sweetalert2) - A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies.
-- [front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) - 🕸 Almost complete answers to "Front-end Job Interview Questions" which you can use to interview potential candidates, test yourself or completely ignore
+- [front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) - 🕸 No bullshit answers to the famous h5bp "Front-end Job Interview Questions"
 - [polacode](https://github.com/octref/polacode) - 📸 Polaroid for your code
 - [freezus](https://github.com/threepointone/freezus) - magic component for transitions between screens
 - [netflix-1080p](https://github.com/truedread/netflix-1080p) - Chrome extension to play Netflix in 1080p and 5.1
@@ -7641,6 +7642,7 @@
 - [pymapd](https://github.com/omnisci/pymapd) - Python client for OmniSci GPU-accelerated SQL engine and analytics platform
 - [datastore](https://github.com/opentraffic/datastore) - OTv2: centralized ingest and aggregation of anonymous traffic data
 - [sharedstreets-python](https://github.com/sharedstreets/sharedstreets-python) - SharedStreets (Python)
+- [professional-programming](https://github.com/charlax/professional-programming) - A collection of full-stack resources for programmers.
 - [deep-learning-roadmap](https://github.com/machinelearningmindset/deep-learning-roadmap) - :satellite: All You Need to Know About Deep Learning - A kick-starter
 - [delira](https://github.com/delira-dev/delira) - Lightweight framework for fast prototyping and training deep neural networks with PyTorch and TensorFlow
 - [Deep-Reinforcement-Learning-Algorithms-with-PyTorch](https://github.com/p-christ/Deep-Reinforcement-Learning-Algorithms-with-PyTorch) - PyTorch implementations of deep reinforcement learning algorithms and environments
@@ -9673,7 +9675,7 @@
 - [ck-autotuning](https://github.com/ctuning/ck-autotuning) - CK automation actions to let users implement portable, customizable and reusable program workflows for reproducible, collaborative and multi-objective benchmarking, optimization and SW/HW co-design:
 - [ck](https://github.com/ctuning/ck) - Collective Knowledge (CK) helps to decompose complex research projects into reusable components (wrappers for code, data, models and results) and automation actions with unified APIs, CLI, and JSON I/O. Our goal is to bridge the growing gap between research, practice and education with portable workflows, reusable artifacts and reproducibility:
 - [CommAI-env](https://github.com/facebookresearch/CommAI-env) - A platform for developing AI systems as described in A Roadmap towards Machine Intelligence - http://arxiv.org/abs/1511.08130
-- [deconvfaces](https://github.com/zo7/deconvfaces) - Generating faces with deconvolution networks
+- [deconvfaces](https://github.com/somewacko/deconvfaces) - Generating faces with deconvolution networks
 - [whereami](https://github.com/kootenpv/whereami) - Uses WiFi signals :signal_strength: and machine learning to predict where you are
 - [dataset](https://github.com/openimages/dataset) - The Open Images dataset
 - [open_nsfw](https://github.com/yahoo/open_nsfw) - Not Suitable for Work (NSFW) classification using deep neural network Caffe models.
@@ -10211,7 +10213,7 @@
 - [datacleaner](https://github.com/rhiever/datacleaner) - A Python tool that automatically cleans data sets and readies them for analysis.
 - [GitMiner](https://github.com/UnkL4b/GitMiner) - Tool for advanced mining for content on Github
 - [image-analogies](https://github.com/awentzonline/image-analogies) - Generate image analogies using neural matching and blending.
-- [hosts](https://github.com/StevenBlack/hosts) - Consolidating and Extending hosts files from several well-curated sources. You can optionally pick extensions to block Porn, Social Media, and other categories..
+- [hosts](https://github.com/StevenBlack/hosts) - Consolidating and extending hosts files from several well-curated sources. You can optionally pick extensions to block pornography, social media, and other categories.
 - [ansible-graphite-events](https://github.com/guerremdq/ansible-graphite-events) - Send events to graphite using ansible
 - [later](https://github.com/qznc/later) - Command-line issue tracker for a lazy developer
 - [generator-angular-flask](https://github.com/rayokota/generator-angular-flask) - Yeoman generator for AngularJS + Flask
@@ -12715,7 +12717,6 @@
 - [dockcross](https://github.com/dockcross/dockcross) - Cross compiling toolchains in Docker images
 - [cheatsheets](https://github.com/kickstartcoding/cheatsheets) - A selection of printable, one-page cheatsheets, generated from Markdown using Pandoc & LaTeX
 - [nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook) - How to improve NGINX performance, security, and other important things.
-- [professional-programming](https://github.com/charlax/professional-programming) - A collection of full-stack resources for programmers.
 - [fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [containers-roadmap](https://github.com/aws/containers-roadmap) - This is the public roadmap for AWS container services (ECS, ECR, Fargate, and EKS).
 - [koop](https://github.com/koopjs/koop) - :crystal_ball: Transform, query, and download geospatial data on the web.
@@ -13149,7 +13150,6 @@
 - [jest](https://github.com/facebook/jest) - Delightful JavaScript Testing.
 - [timeago.js](https://github.com/hustcc/timeago.js) - :clock8: :hourglass: timeago.js is a tiny(2.0 kb) library used to format date with `*** time ago` statement.
 - [google-maps-services-js](https://github.com/googlemaps/google-maps-services-js) - Node.js client library for Google Maps API Web Services
-- [primeng](https://github.com/primefaces/primeng) - The Most Complete Angular UI Component Library
 - [recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
 - [phosphor](https://github.com/phosphorjs/phosphor) - The PhosphorJS Library
 - [slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors. (Currently in beta.)
