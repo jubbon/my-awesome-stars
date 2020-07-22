@@ -442,6 +442,7 @@
 ## C# # 
 
 - [acr-tasks](https://github.com/Azure-Samples/acr-tasks) - A collection samples for ACR Tasks, including acr-task.yaml and Dockerfiles.
+- [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [Microsoft-Rocketbox](https://github.com/microsoft/Microsoft-Rocketbox) - Microsoft Rocketbox is now available for research and academic use! The library of 115 rigged avatars offers flexibility, enabling the easy use of facial animations across characters and the mixing and matching of texture elements.
 - [v3](https://github.com/exercism/v3) - The work-in-progress project for developing v3 tracks
 - [furniture](https://github.com/clvrai/furniture) - IKEA Furniture Assembly Environment for Long-Horizon Complex Manipulation Tasks
@@ -486,7 +487,6 @@
 - [snappy](https://github.com/google/snappy) - A fast compressor/decompressor
 - [InsectRobotSimulation](https://github.com/neuroprod/InsectRobotSimulation) - hexapod
 - [SeetaFace6](https://github.com/seetafaceengine/SeetaFace6) - SeetaFace 6: Newest open and free, full stack face recognization toolkit.
-- [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [domoticz](https://github.com/domoticz/domoticz) - Open source Home Automation System
 - [subconverter](https://github.com/tindy2013/subconverter) - Utility to convert between various subscription format
 - [minetest](https://github.com/minetest/minetest) - Minetest, an open source infinite-world block sandbox game engine with support for survival and crafting. Also see https://github.com/minetest/minetest_game
@@ -1145,7 +1145,7 @@
 - [js-mythbusters](https://github.com/Kikobeats/js-mythbusters) - :ghost: STHAP js, where is my perfomance?
 - [TypeScript-Node-Starter](https://github.com/microsoft/TypeScript-Node-Starter) - A reference example for TypeScript and Node with a detailed README describing how to use the two together.
 - [now-ui-kit](https://github.com/creativetimofficial/now-ui-kit) - Now UI Kit Bootstrap 4 - Designed by Invision. Coded by Creative Tim
-- [serverless-stack-com](https://github.com/AnomalyInnovations/serverless-stack-com) - Source for Serverless-Stack.com
+- [serverless-stack-com](https://github.com/AnomalyInnovations/serverless-stack-com) - Serverless Stack is an open source guide for building and deploying full-stack apps using Serverless and React on AWS.
 - [jdm](https://github.com/jdm-contrib/jdm) - A directory of direct links to delete your account from web services.
 - [mocka](https://github.com/Chalarangelo/mocka) - Simple, elegant content placeholder
 - [D3-ID3](https://github.com/C-JSN/D3-ID3) - iD3: an Integrated Development Environment for D3.js
@@ -1478,7 +1478,6 @@
 - [code-with-engineering-playbook](https://github.com/microsoft/code-with-engineering-playbook) - This is the playbook for "code-with" customer or partner engagements
 - [python](https://github.com/docker-library/python) - Docker Official Image packaging for Python
 - [mssql-docker](https://github.com/microsoft/mssql-docker) - Official Microsoft repository for SQL Server in Docker resources
-- [docker-selenium](https://github.com/SeleniumHQ/docker-selenium) - Docker images for the Selenium Grid Server
 - [vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) - A repository of development container definitions for the VS Code Remote - Containers extension and Visual Studio Codespaces / Codespaces in GitHub
 - [ssh-action](https://github.com/appleboy/ssh-action) - GitHub Actions for executing remote ssh commands.
 - [docker](https://github.com/odoo/docker) - 
@@ -2251,7 +2250,6 @@
 - [awesome-streamlit](https://github.com/MarcSkovMadsen/awesome-streamlit) - The purpose of this project is to share knowledge on how awesome Streamlit is and can be
 - [storytelling](https://github.com/mapbox/storytelling) - Storytelling with maps template
 - [PortFolio_Website](https://github.com/akashyap2013/PortFolio_Website) - Complete Portfolio Website with Bootstrap - HTML/CSS In this project, we are going to learn and build how to create a complete portfolio website with bootstrap using HTML and CSS. We will understand everything from scratch.
-- [Django-CRM](https://github.com/MicroPyramid/Django-CRM) - Open Source Python CRM based on Django
 - [DevOps-Guide](https://github.com/Tikam02/DevOps-Guide) - DevOps Guide from basic to advanced with Interview Questions and Notes 🔥
 - [ggstatsplot](https://github.com/IndrajeetPatil/ggstatsplot) - Enhancing `ggplot2` plots with statistical analysis 📊🎨📣
 - [TheHive](https://github.com/TheHive-Project/TheHive) - TheHive: a Scalable, Open Source and Free Security Incident Response Platform
@@ -3738,7 +3736,6 @@
 - [login-with](https://github.com/lipp/login-with) - Stateless login-with microservice for OAuth
 - [craftbeerpi](https://github.com/Manuel83/craftbeerpi) - Brew Controller
 - [project-guidelines](https://github.com/elsewhencode/project-guidelines) - A set of best practices for JavaScript projects
-- [veui](https://github.com/ecomfe/veui) - Enterprise UI for Vue.js.
 - [incubator-echarts](https://github.com/apache/incubator-echarts) - A powerful, interactive charting and visualization library for browser
 - [esprint](https://github.com/pinterest/esprint) - Fast eslint runner
 - [visualizing-git](https://github.com/git-school/visualizing-git) - :framed_picture: Visualize how common Git operations affect the commit graph
@@ -5059,6 +5056,7 @@
 - [How-to-Generate-Art-Demo](https://github.com/llSourcell/How-to-Generate-Art-Demo) - This is the code for "How to Generate Art - Intro to Deep Learning #8' by Siraj Raval on YouTube
 - [Your_First_Decentralized_Application](https://github.com/llSourcell/Your_First_Decentralized_Application) - This is the code for "A Guide to Building Your First Decentralized Application" by Siraj Raval on Youtube
 - [advisor](https://github.com/tobegit3hub/advisor) - Open-source implementation of Google Vizier for hyper parameters tuning
+- [face-alignment](https://github.com/1adrianb/face-alignment) - :fire: 2D and 3D Face alignment library build using pytorch
 - [pytorch_exercises](https://github.com/Kyubyong/pytorch_exercises) - 
 - [toytree](https://github.com/eaton-lab/toytree) - A minimalist tree plotting library using toyplot graphs
 - [tacotron_pytorch](https://github.com/r9y9/tacotron_pytorch) - PyTorch implementation of Tacotron speech synthesis model.
@@ -7038,7 +7036,7 @@
 - [habitat-api](https://github.com/facebookresearch/habitat-api) - A modular high-level library to train embodied AI agents across a variety of tasks, environments, and simulators.
 - [DeepSpeed](https://github.com/microsoft/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training easy, efficient, and effective.
 - [pytorch-wrapper](https://github.com/jkoutsikakis/pytorch-wrapper) - Provides a systematic and extensible way to build, train, evaluate, and tune deep learning models using PyTorch.
-- [SADA](https://github.com/ajhamdi/SADA) - SADA: Semantic Adversarial Diagnostic Attacks for Autonomous Applications
+- [SADA](https://github.com/ajhamdi/SADA) - SADA: Semantic Adversarial Diagnostic Attacks for Autonomous Applications (AAAI 2020)
 - [data-science-from-scratch](https://github.com/joelgrus/data-science-from-scratch) - code for Data Science From Scratch book
 - [spleeter](https://github.com/deezer/spleeter) - Deezer source separation library including pretrained models.
 - [Chaos](https://github.com/jonnyhyman/Chaos) - Visualizations of the connections between chaos theory and fractals through the logistic map; made for Veritasium YouTube video
@@ -7199,6 +7197,7 @@
 - [exercises](https://github.com/Softwarepark/exercises) - SoftwarePark exercises and dojos
 - [wcw_bot](https://github.com/altsoph/wcw_bot) - WebCamWatcher bot and pipeline
 - [Kaggle-Salt](https://github.com/BloodAxe/Kaggle-Salt) - 
+- [Django-CRM](https://github.com/MicroPyramid/Django-CRM) - Open Source Python CRM based on Django
 - [DialoGPT](https://github.com/microsoft/DialoGPT) - Large-scale pretraining for dialogue
 - [gpt-2-simple](https://github.com/minimaxir/gpt-2-simple) - Python package to easily retrain OpenAI's GPT-2 text-generating model on new texts
 - [DetNAS](https://github.com/megvii-model/DetNAS) - 
@@ -8759,7 +8758,6 @@
 - [domato](https://github.com/googleprojectzero/domato) - DOM fuzzer
 - [ambient-shipping](https://github.com/marcdacosta/ambient-shipping) - This repo contains utilities for capturing AIS messages and joining them with shipping records.
 - [sshpry](https://github.com/nopernik/sshpry) - Seamlessly spy on SSH session like it is your tty
-- [face-alignment](https://github.com/1adrianb/face-alignment) - :fire: 2D and 3D Face alignment library build using pytorch
 - [Fabrik](https://github.com/Cloud-CV/Fabrik) - :factory: Collaboratively build, visualize, and design neural nets in browser
 - [hyperspy](https://github.com/hyperspy/hyperspy) - Multidimensional data analysis
 - [ebook-viewer](https://github.com/michaldaniel/ebook-viewer) - Modern GTK Python Ebook Reader app to easily read epub files
@@ -12702,6 +12700,7 @@
 - [xtreme](https://github.com/google-research/xtreme) - XTREME is a benchmark for the evaluation of the cross-lingual generalization ability of pre-trained multilingual models that covers 40 typologically diverse languages and includes nine tasks.
 - [Spoken-SQuAD](https://github.com/chiahsuan156/Spoken-SQuAD) - A spoken question answering dataset on SQUAD
 - [ODSQA](https://github.com/chiahsuan156/ODSQA) - ODSQA: OPEN-DOMAIN SPOKEN QUESTION ANSWERING DATASET
+- [docker-selenium](https://github.com/SeleniumHQ/docker-selenium) - Docker images for the Selenium Grid Server
 - [shlide](https://github.com/icyphox/shlide) - :framed_picture: a slide deck presentation tool written in pure bash
 - [vulhub](https://github.com/vulhub/vulhub) - Pre-Built Vulnerable Environments Based on Docker-Compose
 - [bitnami-docker-kafka](https://github.com/bitnami/bitnami-docker-kafka) - Bitnami Docker Image for Kafka
@@ -13346,7 +13345,6 @@
 - [vue-music](https://github.com/sdshaoda/vue-music) - A mobile Web application developed by Vue.js stack.
 - [vue-fullcalendar](https://github.com/CroudTech/vue-fullcalendar) - FullCalendar Wrapper for vue
 - [nuxt](https://github.com/vuetifyjs/nuxt) - Nuxt.js + Vuetify.js starter project template.
-- [baidupcs-web](https://github.com/liuzhuoling2011/baidupcs-web) - 
 - [ant-design-vue-pro](https://github.com/vueComponent/ant-design-vue-pro) - 👨🏻‍💻👩🏻‍💻 Use Ant Design Vue like a Pro!
 - [vue-antd-admin](https://github.com/iczer/vue-antd-admin) - 🐜 Ant Design Pro's implementation with Vue
 - [monimo](https://github.com/altinselimi/monimo) - Netflix like web app for watching animes
@@ -13540,6 +13538,7 @@
 - [vue-admin-spa](https://github.com/lss5270/vue-admin-spa) - 基于vue2.0生态的后台管理系统模板（spa）。 a vue management system template based on ：vue2.0 + vue-router + vuex + element-ui +ES6+ webpack + npm。
 - [intro-to-vue](https://github.com/sdras/intro-to-vue) - Workshop Materials for my Introduction to Vue.js Workshop
 - [vue-manager](https://github.com/luosijie/vue-manager) - A panel framework based on Vue 2.0, iView and ECharts.
+- [veui](https://github.com/ecomfe/veui) - Enterprise UI for Vue.js.
 - [vueconf-2017-demo](https://github.com/Akryum/vueconf-2017-demo) - VueConf 2017 GraphQL client demo
 - [notational](https://github.com/tmm/notational) - Real-time notes app built with Vue.js
 - [SanicCRUD-vue](https://github.com/boylegu/SanicCRUD-vue) - A example demo base Sanic with vueJS2.x + webpack2.x as  new python full stack web practice
