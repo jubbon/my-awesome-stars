@@ -621,7 +621,7 @@
 - [mindforger](https://github.com/dvorka/mindforger) - Thinking notebook and Markdown editor.
 - [lux](https://github.com/LUX-Core/lux) - LUX - Hybrid PoW/PoS & Unique PHI2 Algorithm | Masternode | Parallel masternode | Segwit | Smartcontract | Luxgate | Proof of file storage (Decentralised distributed file storage)
 - [grpc-web](https://github.com/grpc/grpc-web) - gRPC for Web Clients
-- [oatpp](https://github.com/oatpp/oatpp) - 🌱Modern Web Framework for C++. High performance, simple API, cross platform, zero dependency.
+- [oatpp](https://github.com/oatpp/oatpp) - 🌱C++ web framework for IoT and high-performance web services
 - [Algorithms](https://github.com/VAR-solutions/Algorithms) - A repository of different Algorithms and Data Structures implemented in many programming languages.
 - [openvino](https://github.com/openvinotoolkit/openvino) - OpenVINO™ Toolkit repository
 - [ACM-ICPC-Algorithms](https://github.com/matthewsamuel95/ACM-ICPC-Algorithms) - Algorithms used in Competitive Programming
@@ -1086,6 +1086,7 @@
 - [site](https://github.com/learning-rust/site) - 🎓 Rust Programming Language Tutorials for Everyone!
 - [codeheat.org](https://github.com/fossasia/codeheat.org) - Codeheat Coding Contest Website https://codeheat.org
 - [lit](https://github.com/ajusa/lit) - World's smallest responsive 🔥 css framework (395 bytes)
+- [pasztor.at](https://github.com/janoszen/pasztor.at) - 
 - [SocialFish](https://github.com/UndeadSec/SocialFish) - Automated Phishing Tool & Information Collector
 - [epoch](https://github.com/dinkbit/epoch) - A simple but powerful Epoch converter
 - [micron](https://github.com/webkul/micron) - a [μ] microInteraction library built with CSS Animations and controlled by JavaScript Power
@@ -1103,7 +1104,7 @@
 - [vue-light-bootstrap-dashboard](https://github.com/creativetimofficial/vue-light-bootstrap-dashboard) - Vue Light Bootstrap Dashboard - FREE BOOTSTRAP 4 VUEJS ADMIN TEMPLATE
 - [vue2-shop](https://github.com/worldsong/vue2-shop) - A shop developed with Vue2 + Vue-router + Axios + Vuex + Node + Express + MongoDB + Webpack
 - [papercss](https://github.com/papercss/papercss) - The Less Formal CSS Framework
-- [tailwindcss](https://github.com/tailwindcss/tailwindcss) - A utility-first CSS framework for rapid UI development.
+- [tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [docbox](https://github.com/tmcw/docbox) - REST API documentation generator
 - [HyperApp-Guide](https://github.com/waylybaye/HyperApp-Guide) - HyperApp user's manual
 - [devices.css](https://github.com/picturepan2/devices.css) - Devices.css - Modern devices in pure CSS
@@ -2413,7 +2414,6 @@
 - [direction-reveal](https://github.com/NigelOToole/direction-reveal) - Direction aware content reveals via hover or tab on an element.
 - [web-profiler-bundle](https://github.com/symfony/web-profiler-bundle) - The WebProfilerBundle provides detailed technical information about each request execution and displays it in both the web debug toolbar and the profiler.
 - [website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:
-- [pasztor.at](https://github.com/janoszen/pasztor.at) - 
 - [rstudio-conf](https://github.com/rstudio/rstudio-conf) - Materials for rstudio::conf
 - [cssInjection](https://github.com/dxa4481/cssInjection) - Stealing CSRF tokens with CSS injection (without iFrames)
 - [proposal-partial-application](https://github.com/tc39/proposal-partial-application) - Proposal to add partial application to ECMAScript
@@ -3330,6 +3330,7 @@
 - [30-seconds-of-interviews](https://github.com/30-seconds/30-seconds-of-interviews) - A curated collection of common interview questions to help you prepare for your next interview.
 - [maid](https://github.com/egoist/maid) - Markdown driven task runner.
 - [router](https://github.com/reach/router) - 
+- [deno](https://github.com/denoland/deno) - A secure JavaScript and TypeScript runtime
 - [github-contributions-chart](https://github.com/sallar/github-contributions-chart) - :octocat: Generate an image of all your Github contributions
 - [core-values-encoder](https://github.com/sym233/core-values-encoder) - Translating text to core values and back
 - [isomorphic-git](https://github.com/isomorphic-git/isomorphic-git) - A pure JavaScript implementation of git for node and browsers!
@@ -3719,7 +3720,6 @@
 - [vue-numeric](https://github.com/kevinongko/vue-numeric) - Input field component to display a formatted currency value based on Vue.js
 - [poi](https://github.com/egoist/poi) - ⚡A zero-config bundler for JavaScript applications.
 - [vuepack](https://github.com/egoist/vuepack) - :package: A modern starter  which uses Vue 2, Vuex, Vue-router and Webpack 2 (and even Electron)
-- [veturpack](https://github.com/octref/veturpack) - Project based on vuepack to try Vetur.
 - [markdown-pdf](https://github.com/alanshaw/markdown-pdf) - :page_facing_up: Markdown to PDF converter
 - [ethereumbook](https://github.com/ethereumbook/ethereumbook) - Mastering Ethereum, by Andreas M. Antonopoulos, Gavin Wood
 - [net-glimpse](https://github.com/kristian-lange/net-glimpse) - 1) Real-time visualization of network traffic (Ethernet and Internet), and 2) Streaming of header data from your network interfaces via WebSockets
@@ -5056,7 +5056,6 @@
 - [How-to-Generate-Art-Demo](https://github.com/llSourcell/How-to-Generate-Art-Demo) - This is the code for "How to Generate Art - Intro to Deep Learning #8' by Siraj Raval on YouTube
 - [Your_First_Decentralized_Application](https://github.com/llSourcell/Your_First_Decentralized_Application) - This is the code for "A Guide to Building Your First Decentralized Application" by Siraj Raval on Youtube
 - [advisor](https://github.com/tobegit3hub/advisor) - Open-source implementation of Google Vizier for hyper parameters tuning
-- [face-alignment](https://github.com/1adrianb/face-alignment) - :fire: 2D and 3D Face alignment library build using pytorch
 - [pytorch_exercises](https://github.com/Kyubyong/pytorch_exercises) - 
 - [toytree](https://github.com/eaton-lab/toytree) - A minimalist tree plotting library using toyplot graphs
 - [tacotron_pytorch](https://github.com/r9y9/tacotron_pytorch) - PyTorch implementation of Tacotron speech synthesis model.
@@ -5647,6 +5646,7 @@
 - [AdaIN-style](https://github.com/xunhuang1995/AdaIN-style) - Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization
 - [ctfs](https://github.com/0ops/ctfs) - All ctf challs and scripts (and writeup, maybe) from 0ops.
 - [art-DCGAN](https://github.com/robbiebarrat/art-DCGAN) - Modified implementation of DCGAN focused on generative art. Includes pre-trained models for landscapes, nude-portraits, and others.
+- [awesome-config](https://github.com/superhj1987/awesome-config) - a common useful server config,including nginx,mysql,tomcat,redis
 - [kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway
 - [fairseq](https://github.com/facebookresearch/fairseq) - Facebook AI Research Sequence-to-Sequence Toolkit
 - [dlt](https://github.com/dmarnerides/dlt) - Deep Learning Toolbox for Torch
@@ -5705,7 +5705,6 @@
 ## Nginx 
 
 - [docker-graphite](https://github.com/nickstenning/docker-graphite) - Graphite + Carbon in a docker image
-- [awesome-config](https://github.com/superhj1987/awesome-config) - a common useful server config,including nginx,mysql,tomcat,redis
 - [docker-loadbalancer](https://github.com/bellycard/docker-loadbalancer) - 
 - [taiga-docker](https://github.com/htdvisser/taiga-docker) - [NOT MAINTAINED] Taiga project management platform for Docker
 - [ansible-bootstrap-ubuntu](https://github.com/mrmierzejewski/ansible-bootstrap-ubuntu) - Ansible scripts for bootstrapping and securing an Ubuntu server (locale, fail2ban, firewall, lock down sudo, prevent root and password login, ...)
@@ -8758,6 +8757,7 @@
 - [domato](https://github.com/googleprojectzero/domato) - DOM fuzzer
 - [ambient-shipping](https://github.com/marcdacosta/ambient-shipping) - This repo contains utilities for capturing AIS messages and joining them with shipping records.
 - [sshpry](https://github.com/nopernik/sshpry) - Seamlessly spy on SSH session like it is your tty
+- [face-alignment](https://github.com/1adrianb/face-alignment) - :fire: 2D and 3D Face alignment library build using pytorch
 - [Fabrik](https://github.com/Cloud-CV/Fabrik) - :factory: Collaboratively build, visualize, and design neural nets in browser
 - [hyperspy](https://github.com/hyperspy/hyperspy) - Multidimensional data analysis
 - [ebook-viewer](https://github.com/michaldaniel/ebook-viewer) - Modern GTK Python Ebook Reader app to easily read epub files
@@ -13036,7 +13036,6 @@
 - [vscode-pull-request-github](https://github.com/microsoft/vscode-pull-request-github) - GitHub Pull Requests for Visual Studio Code
 - [G6](https://github.com/antvis/G6) - ♾ A Graph Visualization Framework in JavaScript
 - [comlink](https://github.com/GoogleChromeLabs/comlink) - Comlink makes WebWorkers enjoyable.
-- [deno](https://github.com/denoland/deno) - A secure JavaScript and TypeScript runtime
 - [wired-elements](https://github.com/rough-stuff/wired-elements) - Collection of custom elements that appear hand drawn. Great for wireframes or a fun look.
 - [vsc-material-theme](https://github.com/material-theme/vsc-material-theme) - Material Theme, the most epic theme for Visual Studio Code
 - [css-blocks](https://github.com/linkedin/css-blocks) - High performance, maintainable stylesheets.
@@ -13229,7 +13228,7 @@
 - [factor](https://github.com/fiction-com/factor) - 100% JavaScript framework for marketing sites and application dashboards.
 - [massCode](https://github.com/antonreshetov/massCode) - A free and open source code snippets manager for developers.
 - [vue-ctk-date-time-picker](https://github.com/chronotruck/vue-ctk-date-time-picker) - VueJS component to select dates & time, including a range mode
-- [postwoman](https://github.com/liyasthomas/postwoman) - 👽 A free, fast and beautiful API request builder (web alternative to Postman) used by 65k+ developers. https://postwoman.io
+- [postwoman](https://github.com/liyasthomas/postwoman) - 👽 A free, fast and beautiful API request builder (web alternative to Postman) used by 67k+ developers. https://postwoman.io
 - [Scriptis](https://github.com/WeBankFinTech/Scriptis) - Scriptis is for interactive data analysis with script development(SQL, Pyspark, HiveQL), task submission(Spark, Hive), UDF, function, resource management and intelligent diagnosis.
 - [Scout](https://github.com/tevora-threat/Scout) - Surveillance Detection Scout: Your Lookout on Autopilot
 - [DynamoDb-GUI-Client](https://github.com/Arattian/DynamoDb-GUI-Client) - DynamoDb GUI Client
@@ -13532,6 +13531,7 @@
 - [vue-affix](https://github.com/eddiemf/vue-affix) - A Vue.js plugin that affixes an element on the window while scrolling based on a relative element
 - [ellipsis-plus](https://github.com/lucefer/ellipsis-plus) - a text-overflow vue component
 - [vue-avatar-cropper](https://github.com/overtrue/vue-avatar-cropper) - :girl: A simple and elegant avatar cropping and upload plugin.
+- [veturpack](https://github.com/octref/veturpack) - Project based on vuepack to try Vetur.
 - [route-planner-vue](https://github.com/Kasheftin/route-planner-vue) - Simple hello-world-vue route planner built to deeply understand vue.js
 - [vue-notify-me](https://github.com/PygmySlowLoris/vue-notify-me) - Stackable notification Alert for Vue
 - [blog-in-5-minutes](https://github.com/contentful/blog-in-5-minutes) - 
