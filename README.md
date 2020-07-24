@@ -442,7 +442,6 @@
 ## C# # 
 
 - [acr-tasks](https://github.com/Azure-Samples/acr-tasks) - A collection samples for ACR Tasks, including acr-task.yaml and Dockerfiles.
-- [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [Microsoft-Rocketbox](https://github.com/microsoft/Microsoft-Rocketbox) - Microsoft Rocketbox is now available for research and academic use! The library of 115 rigged avatars offers flexibility, enabling the easy use of facial animations across characters and the mixing and matching of texture elements.
 - [v3](https://github.com/exercism/v3) - The work-in-progress project for developing v3 tracks
 - [furniture](https://github.com/clvrai/furniture) - IKEA Furniture Assembly Environment for Long-Horizon Complex Manipulation Tasks
@@ -487,6 +486,7 @@
 - [snappy](https://github.com/google/snappy) - A fast compressor/decompressor
 - [InsectRobotSimulation](https://github.com/neuroprod/InsectRobotSimulation) - hexapod
 - [SeetaFace6](https://github.com/seetafaceengine/SeetaFace6) - SeetaFace 6: Newest open and free, full stack face recognization toolkit.
+- [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [domoticz](https://github.com/domoticz/domoticz) - Open source Home Automation System
 - [subconverter](https://github.com/tindy2013/subconverter) - Utility to convert between various subscription format
 - [minetest](https://github.com/minetest/minetest) - Minetest, an open source infinite-world block sandbox game engine with support for survival and crafting. Also see https://github.com/minetest/minetest_game
@@ -1140,7 +1140,7 @@
 - [CaoMei](https://github.com/xiangsudian/CaoMei) - 🍓CaoMei Icon - Designed for developers and creatros http://chuangzaoshi.com/icon/
 - [bojler](https://github.com/Slicejack/bojler) - Bojler is an email framework
 - [Gravity](https://github.com/hemangsk/Gravity) - Minimal is the new cool.
-- [devicon](https://github.com/konpa/devicon) - Set of icons representing programming languages, designing & development tools
+- [devicon](https://github.com/devicons/devicon) - Set of icons representing programming languages, designing & development tools
 - [documentation-user](https://github.com/odoo/documentation-user) - Sources For Odoo Enterprise Business Apps User Manual
 - [owasp-summit-2017](https://github.com/OWASP/owasp-summit-2017) - Content for OWASP Summit 2017 site
 - [js-mythbusters](https://github.com/Kikobeats/js-mythbusters) - :ghost: STHAP js, where is my perfomance?
@@ -1595,7 +1595,7 @@
 - [grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway) - gRPC to JSON proxy generator following the gRPC HTTP spec
 - [tinygo](https://github.com/tinygo-org/tinygo) - Go compiler for small places. Microcontrollers, WebAssembly, and command-line tools. Based on LLVM.
 - [grpc-go](https://github.com/grpc/grpc-go) - The Go language implementation of gRPC. HTTP/2 based RPC
-- [podman](https://github.com/containers/podman) - libpod is a library used to create container pods. Home of Podman.
+- [podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods
 - [oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - A reverse proxy that provides authentication with Google, Github or other providers.
 - [cert-manager](https://github.com/jetstack/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes
 - [dapr](https://github.com/dapr/dapr) - Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
@@ -1770,7 +1770,7 @@
 - [dry](https://github.com/moncho/dry) - dry - A Docker manager for the terminal @
 - [kustomize](https://github.com/kubernetes-sigs/kustomize) - Customization of kubernetes YAML configurations
 - [gh-ost](https://github.com/github/gh-ost) - GitHub's Online Schema Migrations for MySQL
-- [wtf](https://github.com/wtfutil/wtf) - 💪 The personal information dashboard for your terminal.
+- [wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal.
 - [radon](https://github.com/radondb/radon) - RadonDB is an open source, cloud-native MySQL database for building global, scalable cloud services
 - [UNetwork](https://github.com/U-Network/UNetwork) - U Network Public Blockchain
 - [thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. CNCF Sandbox project.
@@ -2773,7 +2773,7 @@
 - [Andromeda](https://github.com/iqiyi/Andromeda) - Andromeda simplifies local/remote communication for Android modularization
 - [openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 - [zalenium](https://github.com/zalando/zalenium) - A flexible and scalable container based Selenium Grid with video recording, live preview, basic auth & dashboard.
-- [capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the web ⚡️
+- [capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
 - [ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region is a offline IP location library with accuracy rate of 99.9% and 0.0x millseconds searching performance. DB file is ONLY a few megabytes with all IP address stored. binding for Java,PHP,C,Python,Nodejs,Golang,C#,lua. Binary,B-tree,Memory searching algorithm
 - [activemq](https://github.com/apache/activemq) - Mirror of Apache ActiveMQ
 - [onebusaway-android](https://github.com/OneBusAway/onebusaway-android) - The official Android/Fire Phone app for OneBusAway
@@ -3069,7 +3069,7 @@
 - [vue-examples](https://github.com/peterlamar/vue-examples) - Collection of Vue examples for beginner front end developers
 - [typeit](https://github.com/alexmacarthur/typeit) - The most versatile JavaScript animated typing utility on the planet.
 - [mercury-parser](https://github.com/postlight/mercury-parser) - 📜 Extract meaningful content from the chaos of a web page
-- [protoschool.github.io](https://github.com/ProtoSchool/protoschool.github.io) - The code that runs the ProtoSchool website
+- [protoschool.github.io](https://github.com/ProtoSchool/protoschool.github.io) - The code that runs the ProtoSchool website. Visit https://proto.school for interactive tutorials on decentralized web protocols. Explore IPFS and Filecoin through code challenges, code-free lessons, and local events.
 - [learn-react-app](https://github.com/tyroprogrammer/learn-react-app) - Application that will help you learn React fundamentals. Install this application locally - there's tutorial, code snippets and exercises. The main objective of this project is to help you get off the ground with React!
 - [qoa](https://github.com/klaussinani/qoa) - Minimal interactive command-line prompts
 - [instant.page](https://github.com/instantpage/instant.page) - Make your site’s pages instant in 1 minute and improve your conversion rate by 1%
@@ -3201,7 +3201,6 @@
 - [Radon](https://github.com/radonjs/Radon) - Object oriented state management solution for front-end development.
 - [Advanced-React](https://github.com/wesbos/Advanced-React) - Starter Files and Solutions for Full Stack Advanced React and GraphQL
 - [tiptap](https://github.com/ueberdosis/tiptap) - A renderless rich-text editor for Vue.js
-- [muze](https://github.com/chartshq/muze) - Composable data visualisation library for web with a data-first approach
 - [walt](https://github.com/ballercat/walt) - :zap: Walt is a JavaScript-like syntax for WebAssembly text format :zap:
 - [vue-fontawesome](https://github.com/FortAwesome/vue-fontawesome) - Font Awesome 5 Vue component
 - [kinetica-kickbox-mapbox-gl](https://github.com/kineticadb/kinetica-kickbox-mapbox-gl) - A code-acceleration and interoperability library for Kinetica and Mapbox
@@ -3566,7 +3565,7 @@
 - [Checklist-Checklist](https://github.com/huyingjie/Checklist-Checklist) - 🌈  A Curated List of Checklists ✔︎✔︎
 - [taskr](https://github.com/bukinoshita/taskr) - A simple task manager app
 - [browsh](https://github.com/browsh-org/browsh) - A fully-modern text-based browser, rendering to TTY and browsers
-- [chatbots](https://github.com/intelligo-systems/chatbots) - Chatbots build with Intelligo Framework.
+- [chatbots](https://github.com/intelligo-io/chatbots) - Chatbots build with Intelligo Framework.
 - [hopscotch](https://github.com/LinkedInAttic/hopscotch) - A framework to make it easy for developers to add product tours to their pages.
 - [cordova-plugin-device](https://github.com/apache/cordova-plugin-device) - Apache Cordova Plugin device
 - [markdown-here](https://github.com/adam-p/markdown-here) - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
@@ -3729,7 +3728,7 @@
 - [practicalnode](https://github.com/azat-co/practicalnode) - Practical Node.js, 1st and 2nd Editions [Apress] 📓
 - [clui](https://github.com/nathanpeck/clui) - Command Line UI toolkit for Node.js
 - [desktop](https://github.com/gitterHQ/desktop) - Project moved to https://gitlab.com/gitlab-org/gitter/desktop/
-- [uiv](https://github.com/wxsms/uiv) - Bootstrap 3 components implemented by Vue 2.
+- [uiv](https://github.com/uiv-lib/uiv) - Bootstrap 3 components implemented by Vue 2.
 - [udemy-docker-mastery](https://github.com/BretFisher/udemy-docker-mastery) - Udemy Course to build, compose, deploy, and manage containers from local development to high-availability in the cloud
 - [webpack-common-shake](https://github.com/indutny/webpack-common-shake) - CommonJS Tree Shaker plugin for WebPack
 - [autodll-webpack-plugin](https://github.com/asfktz/autodll-webpack-plugin) - Webpack's DllPlugin without the boilerplate
@@ -6037,6 +6036,7 @@
 - [vuejs-advanced-learning](https://github.com/filrak/vuejs-advanced-learning) - A curated list of advanced and/or in-depth learning resources about Vue.js
 - [awesome-mongodb](https://github.com/ramnes/awesome-mongodb) - :leaves: A curated list of awesome MongoDB resources, libraries, tools and applications
 - [quick-SQL-cheatsheet](https://github.com/enochtangg/quick-SQL-cheatsheet) - A quick reminder of all SQL queries and examples on how to use them.
+- [muze](https://github.com/chartshq/muze) - Composable data visualisation library for web with a data-first approach
 - [awesome-onsenui](https://github.com/OnsenUI/awesome-onsenui) - A curated list of awesome Onsen UI resources.
 - [databot](https://github.com/kkyon/databot) - Databot was renamed to  BotFlow https://github.com/kkyon/botflow
 - [first-contributions](https://github.com/firstcontributions/first-contributions) - 🚀✨ Help beginners to contribute to open source projects
@@ -7985,7 +7985,7 @@
 - [nagini](https://github.com/marcoeilers/nagini) - Nagini is a static verifier for Python 3, based on the Viper verification infrastructure.
 - [ansible-jupyter-kernel](https://github.com/ansible/ansible-jupyter-kernel) - Jupyter Notebook Kernel for running Ansible Tasks and Playbooks
 - [TextWorld](https://github.com/microsoft/TextWorld) - ​TextWorld is a sandbox learning environment for the training and evaluation of reinforcement learning (RL) agents on text-based games.
-- [repo2docker](https://github.com/jupyter/repo2docker) - Turn repositories into Jupyter enabled Docker Images
+- [repo2docker](https://github.com/jupyter/repo2docker) - Turn repositories into Jupyter-enabled Docker images
 - [layer_linter](https://github.com/seddonym/layer_linter) - This package is deprecated - use Import Linter instead.
 - [strawberryfields](https://github.com/XanaduAI/strawberryfields) - Strawberry Fields is a full-stack Python library for designing, simulating, and optimizing continuous variable (CV) quantum optical circuits.
 - [flask-smorest](https://github.com/marshmallow-code/flask-smorest) - DB agnostic framework to build auto-documented REST APIs with Flask and marshmallow
@@ -13159,7 +13159,7 @@
 - [Leaflet.timeline](https://github.com/skeate/Leaflet.timeline) - Display arbitrary GeoJSON on a map with a timeline slider and play button
 - [ngx-admin](https://github.com/akveo/ngx-admin) - Customizable admin dashboard template based on Angular 9+
 - [atoms](https://github.com/BlazeSoftware/atoms) - Atoms for Blaze UI
-- [ionicons](https://github.com/ionic-team/ionicons) - The premium icon font for Ionic Framework and web apps everywhere
+- [ionicons](https://github.com/ionic-team/ionicons) - The premium icon pack for Ionic Framework and web apps everywhere
 - [playground](https://github.com/tensorflow/playground) - Play with neural networks!
 - [bricklayer](https://github.com/ademilter/bricklayer) - Lightweight and independent Pinterest-like cascading grid layout library
 - [storybook](https://github.com/storybookjs/storybook) - 📓 The UI component workshop. Develop, document, & test for React, Vue, Angular, Ember, Web Components, & more!
