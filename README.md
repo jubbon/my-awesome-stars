@@ -4062,7 +4062,6 @@
 - [socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
 - [Dex](https://github.com/PatMartin/Dex) - Dex : The Data Explorer -- A data visualization tool written in Java/Groovy/JavaFX capable of powerful ETL and publishing web visualizations.
 - [2016-talks](https://github.com/gophercon/2016-talks) - Slides and Links to slides for 2016 talks
-- [jupyterlab](https://github.com/jupyterlab/jupyterlab) - JupyterLab computational environment.
 - [hydrogen](https://github.com/nteract/hydrogen) - :atom: Run code interactively, inspect data, and plot. All the power of Jupyter kernels, inside your favorite text editor.
 - [clmtrackr](https://github.com/auduno/clmtrackr) - Javascript library for precise tracking of facial features via Constrained Local Models
 - [spa-github-pages](https://github.com/rafgraph/spa-github-pages) - Host single page apps with GitHub Pages
@@ -5253,7 +5252,7 @@
 - [Practical_RL](https://github.com/yandexdataschool/Practical_RL) - A course in reinforcement learning in the wild
 - [ml-examples](https://github.com/kylemcdonald/ml-examples) - Examples of machine learning, with an emphasis on deep learning.
 - [CarND-LeNet-Lab](https://github.com/udacity/CarND-LeNet-Lab) - Implement the LeNet deep neural network model with TensorFlow.
-- [nglview](https://github.com/arose/nglview) - Jupyter widget to interactively view molecular structures and trajectories
+- [nglview](https://github.com/nglviewer/nglview) - Jupyter widget to interactively view molecular structures and trajectories
 - [notebooks](https://github.com/DEAP/notebooks) - Notebooks on how to use Distributed Evolutionary Algorithm in Python (DEAP)
 - [SSD-Tensorflow](https://github.com/balancap/SSD-Tensorflow) - Single Shot MultiBox Detector in TensorFlow
 - [kmcuda](https://github.com/src-d/kmcuda) - Large scale K-means and K-nn implementation on NVIDIA GPU / CUDA
@@ -5434,6 +5433,7 @@
 - [numba_tutorial_scipy2016](https://github.com/barbagroup/numba_tutorial_scipy2016) - Numba tutorial materials for Scipy 2016
 - [TimeSeriesAnalysisWithPython](https://github.com/AileenNielsen/TimeSeriesAnalysisWithPython) - 
 - [DeepLearning-Image](https://github.com/rouseguy/DeepLearning-Image) - Introduction to Deep Learning for Image Recognition
+- [jupyterlab](https://github.com/jupyterlab/jupyterlab) - JupyterLab computational environment.
 - [brexit-analysis](https://github.com/monkeylearn/brexit-analysis) - The Divided Kingdom: a machine learning analysis on the Brexit result
 - [pandas-videos](https://github.com/justmarkham/pandas-videos) - Jupyter notebook and datasets from the pandas Q&A video series
 - [Dynamic-Tensorflow-Tutorial](https://github.com/KnHuq/Dynamic-Tensorflow-Tutorial) - Tensorflow tutorial of building different dynamic recurrent neural network
@@ -7555,7 +7555,7 @@
 - [jupyter-book](https://github.com/executablebooks/jupyter-book) - Build interactive, publication-quality documents from Jupyter Notebooks
 - [DL-Seq2Seq](https://github.com/GauravBh1010tt/DL-Seq2Seq) - Implementation of papers on Deep Seq2seq learning using Pytorch.
 - [pghoard](https://github.com/aiven/pghoard) - PostgreSQL backup and restore service
-- [ffsubsync](https://github.com/smacke/ffsubsync) - Automagically synchronize subtitles with video. 自动同步字幕与视频。
+- [ffsubsync](https://github.com/smacke/ffsubsync) - Automagically synchronize subtitles with video.
 - [nni](https://github.com/microsoft/nni) - An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.
 - [lazynlp](https://github.com/chiphuyen/lazynlp) - Library to scrape and clean web pages to create massive datasets.
 - [AdaBound](https://github.com/Luolc/AdaBound) - An optimizer that trains as fast as Adam and as good as SGD.
