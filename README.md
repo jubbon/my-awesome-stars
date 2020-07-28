@@ -493,7 +493,6 @@
 - [srt](https://github.com/Haivision/srt) - Secure, Reliable, Transport
 - [MultiMC5](https://github.com/MultiMC/MultiMC5) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once
 - [zeal](https://github.com/zealdocs/zeal) - Offline documentation browser inspired by Dash
-- [tink](https://github.com/google/tink) - Tink is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.
 - [udp2raw-tunnel](https://github.com/wangyu-/udp2raw-tunnel) - A Tunnel which Turns UDP Traffic into Encrypted UDP/FakeTCP/ICMP Traffic by using Raw Socket,helps you Bypass UDP FireWalls(or Unstable UDP Environment)
 - [re2](https://github.com/google/re2) - RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.
 - [box2d](https://github.com/erincatto/box2d) - Box2D is a 2D physics engine for games
@@ -621,7 +620,7 @@
 - [mindforger](https://github.com/dvorka/mindforger) - Thinking notebook and Markdown editor.
 - [lux](https://github.com/LUX-Core/lux) - LUX - Hybrid PoW/PoS & Unique PHI2 Algorithm | Masternode | Parallel masternode | Segwit | Smartcontract | Luxgate | Proof of file storage (Decentralised distributed file storage)
 - [grpc-web](https://github.com/grpc/grpc-web) - gRPC for Web Clients
-- [oatpp](https://github.com/oatpp/oatpp) - 🌱C++ web framework for IoT and high-performance web services
+- [oatpp](https://github.com/oatpp/oatpp) - 🌱Light and powerful C++ web framework for development of highly scalable and resource-efficient web applications. It's zero-dependency and easy-portable.
 - [Algorithms](https://github.com/VAR-solutions/Algorithms) - A repository of different Algorithms and Data Structures implemented in many programming languages.
 - [openvino](https://github.com/openvinotoolkit/openvino) - OpenVINO™ Toolkit repository
 - [ACM-ICPC-Algorithms](https://github.com/matthewsamuel95/ACM-ICPC-Algorithms) - Algorithms used in Competitive Programming
@@ -1798,7 +1797,7 @@
 - [centrifugo](https://github.com/centrifugal/centrifugo) - Scalable real-time messaging server in language-agnostic way
 - [nakama](https://github.com/heroiclabs/nakama) - Distributed server for social and realtime games and apps.
 - [find3](https://github.com/schollz/find3) - High-precision indoor positioning framework, version 3.
-- [jx](https://github.com/jenkins-x/jx) - Jenkins X provides automated CI+CD for Kubernetes with Preview Environments on Pull Requests using Tekton, Knative, Prow, Skaffold and Helm
+- [jx](https://github.com/jenkins-x/jx) - Jenkins X provides automated CI+CD for Kubernetes with Preview Environments on Pull Requests using Tekton, Knative, Lighthouse, Skaffold and Helm
 - [komiser](https://github.com/mlabouardy/komiser) - :cloud: Cloud Environment Inspector 👮:lock: :moneybag:
 - [define](https://github.com/Rican7/define) - A command-line dictionary (thesaurus) app, with access to multiple sources, written in Go.
 - [jp](https://github.com/sgreben/jp) - dead simple terminal plots from JSON data. single binary, no dependencies. linux, osx, windows.
@@ -2719,7 +2718,6 @@
 - [REST-tutorial](https://github.com/miguelgrinberg/REST-tutorial) - Files for my REST API tutorials featuring a server written in Python and a web client written in Javascript.
 - [bootstrap-wysiwyg](https://github.com/mindmup/bootstrap-wysiwyg) - Tiny bootstrap-compatible WISWYG rich text editor
 - [pelican-blog](https://github.com/aclark4life/pelican-blog) - Alex Clark's Blog
-- [howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
 
 ## Hack 
 
@@ -2742,6 +2740,7 @@
 
 - [cassandra-workshop-series](https://github.com/DataStax-Academy/cassandra-workshop-series) - All materials for the Cassandra Workshop Series in a single place
 - [spring-cloud-alibaba](https://github.com/alibaba/spring-cloud-alibaba) - Spring Cloud Alibaba provides a one-stop solution for application development for the distributed solutions of Alibaba middleware.
+- [tink](https://github.com/google/tink) - Tink is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.
 - [piranha](https://github.com/uber/piranha) - A tool for refactoring code related to feature flag APIs
 - [Algorithms](https://github.com/williamfiset/Algorithms) - A collection of algorithms and data structures
 - [tutorials](https://github.com/eugenp/tutorials) - Just Announced - "Learn Spring Security OAuth":
@@ -3441,7 +3440,7 @@
 - [objection.js](https://github.com/Vincit/objection.js) - An SQL-friendly ORM for Node.js
 - [Blotter](https://github.com/bradley/Blotter) - A JavaScript API for drawing unconventional text effects on the web.
 - [sweetalert2](https://github.com/sweetalert2/sweetalert2) - A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies.
-- [front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) - 🕸 No bullshit answers to the famous h5bp "Front-end Job Interview Questions"
+- [front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) - 🕸  No-bullshit answers to the famous h5bp "Front-end Job Interview Questions"
 - [polacode](https://github.com/octref/polacode) - 📸 Polaroid for your code
 - [freezus](https://github.com/threepointone/freezus) - magic component for transitions between screens
 - [netflix-1080p](https://github.com/truedread/netflix-1080p) - Chrome extension to play Netflix in 1080p and 5.1
@@ -6035,7 +6034,7 @@
 - [vuejs-advanced-learning](https://github.com/filrak/vuejs-advanced-learning) - A curated list of advanced and/or in-depth learning resources about Vue.js
 - [awesome-mongodb](https://github.com/ramnes/awesome-mongodb) - :leaves: A curated list of awesome MongoDB resources, libraries, tools and applications
 - [quick-SQL-cheatsheet](https://github.com/enochtangg/quick-SQL-cheatsheet) - A quick reminder of all SQL queries and examples on how to use them.
-- [muze](https://github.com/chartshq/muze) - Composable data visualisation library for web with a data-first approach
+- [muze](https://github.com/chartshq/muze) - Composable data visualisation library for web with a data-first approach.
 - [awesome-onsenui](https://github.com/OnsenUI/awesome-onsenui) - A curated list of awesome Onsen UI resources.
 - [databot](https://github.com/kkyon/databot) - Databot was renamed to  BotFlow https://github.com/kkyon/botflow
 - [first-contributions](https://github.com/firstcontributions/first-contributions) - 🚀✨ Help beginners to contribute to open source projects
@@ -6646,6 +6645,7 @@
 - [data_science_meetup_2013](https://github.com/mlunacek/data_science_meetup_2013) - Code and slides for the data science meetup in September 2013
 - [what-happens-when](https://github.com/alex/what-happens-when) - An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
 - [docs](https://github.com/blindmotion/docs) - Documentation for all projects
+- [datasciencetoolbox](https://github.com/datasciencetoolbox/datasciencetoolbox) - Start doing data science in minutes
 - [roskomnadzor](https://github.com/github/roskomnadzor) - deprecated archive — moved to https://github.com/github/gov-takedowns/tree/master/Russia
 - [python-snippets](https://github.com/fengsp/python-snippets) - A basket of python snippets
 - [us-address-parser](https://github.com/pombredanne/us-address-parser) - US address parsing
@@ -11162,7 +11162,6 @@
 - [jum.py](https://github.com/DavidLGoldberg/jum.py) - (Unfinished!) A sublime plugin that creates dynamic hot keys to jump around a file
 - [pipsi](https://github.com/mitsuhiko/pipsi) - pip script installer
 - [pyrasite](https://github.com/lmacken/pyrasite) - Inject code into running Python processes
-- [data-science-toolbox](https://github.com/DataScienceToolbox/data-science-toolbox) - Start doing data science in minutes
 - [xsscrapy](https://github.com/DanMcInerney/xsscrapy) - XSS spider - 66/66 wavsep XSS detected
 - [python-ftfy](https://github.com/LuminosoInsight/python-ftfy) - Fixes mojibake and other glitches in Unicode text, after the fact.
 - [Pinject](https://github.com/OffensivePython/Pinject) - Raw Packet Injection tool
@@ -12243,7 +12242,7 @@
 - [PyExcelerate](https://github.com/kz26/PyExcelerate) - Accelerated Excel XLSX Writing Library for Python 2/3
 - [python-nvd3](https://github.com/areski/python-nvd3) - Python Wrapper for NVD3 - It's time for beautiful charts
 - [copperhead](https://github.com/bryancatanzaro/copperhead) - Data Parallel Python
-- [falcon](https://github.com/falconry/falcon) - The no-nonsense, minimalist web services and app backend framework for Python developers with a focus on reliability, correctness and performance at scale.
+- [falcon](https://github.com/falconry/falcon) - The no-nonsense, minimalist web services and app backend framework for Python developers, with a focus on reliability, correctness, and performance at scale.
 - [logscan](https://github.com/thomst/logscan) - logscan is a command-line-tool to get time-specific access to logfiles. It can handle rotated and gzipped logfiles or reads from stdin. The log   is automatically checked for different timecodes.
 - [timeparser](https://github.com/thomst/timeparser) - Parse strings to objects of the datetime-module.  This module intends to make string-parsing to objects of the datetime-module as easy as possible while allowing a fine configuration about which kind of formats are supported.
 - [timeparse](https://github.com/thomst/timeparse) - An argparse-extension for parsing command-line arguments as time-, date-, datetime-, or timedelta-objects.
@@ -12376,6 +12375,7 @@
 - [pypush](https://github.com/viveksjain/pypush) - Continuously push local changes to a remote server
 - [pholcidae](https://github.com/bbrodriges/pholcidae) - Tiny python web crawler
 - [quepy](https://github.com/machinalis/quepy) - A python framework to transform natural language questions to queries in a database query language.
+- [howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
 - [aws-cli](https://github.com/aws/aws-cli) - Universal Command Line Interface for Amazon Web Services
 - [arrow](https://github.com/arrow-py/arrow) - Better dates & times for Python
 - [blaze](https://github.com/blaze/blaze) - NumPy and Pandas interface to Big Data
@@ -12937,7 +12937,7 @@
 - [examples](https://github.com/pulumi/examples) - Infrastructure, containers, and serverless apps to AWS, Azure, GCP, and Kubernetes... all deployed with Pulumi
 - [rome](https://github.com/romefrontend/rome) - The Rome Frontend Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.
 - [hiplot](https://github.com/facebookresearch/hiplot) - HiPlot makes understanding high dimensional data easy
-- [playwright](https://github.com/microsoft/playwright) - Node library to automate Chromium, Firefox and WebKit with a single API
+- [playwright](https://github.com/microsoft/playwright) - Node.js library to automate Chromium, Firefox and WebKit with a single API
 - [gistpad](https://github.com/vsls-contrib/gistpad) - VS Code extension for managing and sharing code snippets, notes and interactive samples using GitHub Gists
 - [tfjs-models](https://github.com/tensorflow/tfjs-models) - Pretrained models for TensorFlow.js
 - [vue-next](https://github.com/vuejs/vue-next) - Repo for Vue 3.0 (currently in beta)
