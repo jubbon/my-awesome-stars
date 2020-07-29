@@ -2120,7 +2120,7 @@
 - [archive_aws-lambda-go](https://github.com/lifadev/archive_aws-lambda-go) - A fast and clean way to execute Go on AWS Lambda.
 - [gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
 - [qt](https://github.com/therecipe/qt) - Qt binding for Go (Golang) with support for Windows / macOS / Linux / FreeBSD / Android / iOS / Sailfish OS / Raspberry Pi / AsteroidOS / Ubuntu Touch / JavaScript / WebAssembly
-- [gdrive](https://github.com/gdrive-org/gdrive) - Google Drive CLI Client
+- [gdrive](https://github.com/prasmussen/gdrive) - Google Drive CLI Client
 - [graphql-go](https://github.com/graph-gophers/graphql-go) - GraphQL server with a focus on ease of use
 - [netstack](https://github.com/google/netstack) - IPv4 and IPv6 userland network stack
 - [chaosmonkey](https://github.com/Netflix/chaosmonkey) - Chaos Monkey is a resiliency tool that helps applications tolerate random instance failures.
@@ -2441,7 +2441,7 @@
 - [learn-tachyons](https://github.com/dwyl/learn-tachyons) - :heart_eyes: Learn how to use Tachyons to craft beautiful, responsive and fast UI with functional CSS!
 - [fastai_deeplearn_part1](https://github.com/reshamas/fastai_deeplearn_part1) - Notes for Fastai Deep Learning Course
 - [collab-ide](https://github.com/lambsteak/collab-ide) - An online real-time collaborative IDE for teams to work together efficiently in a fast-paced project.
-- [DetectionLab](https://github.com/clong/DetectionLab) - Vagrant & Packer scripts to build a lab environment complete with security tooling and logging best practices
+- [DetectionLab](https://github.com/clong/DetectionLab) - Automate the creation of a lab environment complete with security tooling and logging best practices
 - [Adminator-admin-dashboard](https://github.com/puikinsh/Adminator-admin-dashboard) - Adminator is a easy to use and well design admin dashboard template for web apps, websites, services and more
 - [Anna](https://github.com/Anna-Assistant/Anna) - Virtual Assistant on Google Chrome :elephant:
 - [RSParser](https://github.com/Ranchero-Software/RSParser) - Parser for RSS, Atom, JSON Feed, RSS-inJSON, OPML, and HTML.
@@ -5690,6 +5690,7 @@
 - [awesome-safety-critical](https://github.com/stanislaw/awesome-safety-critical) - List of resources about programming practices for writing safety-critical software.
 - [reverse-engineering-for-beginners](https://github.com/veficos/reverse-engineering-for-beginners) - translate project of Drops
 - [nvidia-docker](https://github.com/NVIDIA/nvidia-docker) - Build and run Docker containers leveraging NVIDIA GPUs
+- [datasciencetoolbox](https://github.com/datasciencetoolbox/datasciencetoolbox) - Start doing data science in minutes
 - [7XX-rfc](https://github.com/joho/7XX-rfc) - An RFC for a new series of HTTP status codes covering developer fouls.
 
 ## Matlab 
@@ -6645,7 +6646,6 @@
 - [data_science_meetup_2013](https://github.com/mlunacek/data_science_meetup_2013) - Code and slides for the data science meetup in September 2013
 - [what-happens-when](https://github.com/alex/what-happens-when) - An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
 - [docs](https://github.com/blindmotion/docs) - Documentation for all projects
-- [datasciencetoolbox](https://github.com/datasciencetoolbox/datasciencetoolbox) - Start doing data science in minutes
 - [roskomnadzor](https://github.com/github/roskomnadzor) - deprecated archive — moved to https://github.com/github/gov-takedowns/tree/master/Russia
 - [python-snippets](https://github.com/fengsp/python-snippets) - A basket of python snippets
 - [us-address-parser](https://github.com/pombredanne/us-address-parser) - US address parsing
@@ -9451,7 +9451,7 @@
 - [StackGAN](https://github.com/hanzhanggit/StackGAN) - 
 - [from-python-to-numpy](https://github.com/rougier/from-python-to-numpy) - An open-access book on numpy vectorization techniques, Nicolas P. Rougier, 2017
 - [pytest-leaks](https://github.com/abalkin/pytest-leaks) - A pytest plugin to trace resource leaks.
-- [pook](https://github.com/h2non/pook) - Versatile and expressive HTTP traffic mocking and testing made simple in Python
+- [pook](https://github.com/h2non/pook) - HTTP traffic mocking and testing made simple in Python
 - [universe-starter-agent](https://github.com/openai/universe-starter-agent) - A starter agent that can solve a number of universe environments.
 - [octopus](https://github.com/heynemann/octopus) - octopus is a library to concurrently retrieve and report on the completion of http requests.
 - [hoverpy](https://github.com/SpectoLabs/hoverpy) - Python library for Hoverfly (now obsolete)
@@ -11183,7 +11183,7 @@
 - [jellyfish](https://github.com/jamesturk/jellyfish) - 🎐 a python library for doing approximate and phonetic matching of strings.
 - [reddit2Kindle](https://github.com/Antrikshy/reddit2Kindle) - Compiles text posts from your favorite story-based subreddits for easy reading on Kindle devices and apps
 - [python-bond](https://github.com/wavexx/python-bond) - transparent remote/recursive evaluation between Python and other languages
-- [qtile](https://github.com/qtile/qtile) - :cookie: A small, flexible, scriptable tiling window manager written in Python
+- [qtile](https://github.com/qtile/qtile) - :cookie: A full-featured, hackable tiling window manager written and configured in Python
 - [ObjectPath](https://github.com/adriank/ObjectPath) - The agile query language for semi-structured data
 - [pep8radius](https://github.com/hayd/pep8radius) - PEP8 clean only the parts of the files touched since the last commit, a previous commit or (the merge-base of) a branch.
 - [py-gemfire-rest](https://github.com/gemfire/py-gemfire-rest) - Python client for Gemfire's REST service.
