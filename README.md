@@ -1768,7 +1768,7 @@
 - [dry](https://github.com/moncho/dry) - dry - A Docker manager for the terminal @
 - [kustomize](https://github.com/kubernetes-sigs/kustomize) - Customization of kubernetes YAML configurations
 - [gh-ost](https://github.com/github/gh-ost) - GitHub's Online Schema Migrations for MySQL
-- [wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal.
+- [wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
 - [radon](https://github.com/radondb/radon) - RadonDB is an open source, cloud-native MySQL database for building global, scalable cloud services
 - [UNetwork](https://github.com/U-Network/UNetwork) - U Network Public Blockchain
 - [thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. CNCF Sandbox project.
@@ -6406,7 +6406,7 @@
 - [deep-learning-papers](https://github.com/sbrugman/deep-learning-papers) - Papers about deep learning ordered by task, date. Current state-of-the-art papers are labelled.
 - [HeadlessBrowsers](https://github.com/dhamaniasad/HeadlessBrowsers) - A list of (almost) all headless web browsers in existence
 - [modern-cpp-features](https://github.com/AnthonyCalandra/modern-cpp-features) - A cheatsheet of modern C++ language and library features.
-- [MaterialDesign](https://github.com/Templarian/MaterialDesign) - ✒5300+ Material Design Icons from the Community
+- [MaterialDesign](https://github.com/Templarian/MaterialDesign) - ✒5400+ Material Design Icons from the Community
 - [GoDeeper](https://github.com/Miej/GoDeeper) - 
 - [react-redux-links](https://github.com/markerikson/react-redux-links) - Curated tutorial and resource links I've collected on React, Redux, ES6, and more
 - [awesome-nodejs-projects](https://github.com/sqreen/awesome-nodejs-projects) - Curated list of awesome open-source applications made with Node.js
@@ -6937,7 +6937,7 @@
 - [lmdb-embeddings](https://github.com/ThoughtRiver/lmdb-embeddings) - Fast word vectors with little memory usage in Python
 - [gensim-data](https://github.com/RaRe-Technologies/gensim-data) - Data repository for pretrained NLP models and NLP corpora.
 - [sense2vec](https://github.com/explosion/sense2vec) - 🦆 Contextually-keyed word vectors
-- [remi](https://github.com/YatingMusic/remi) - "Pop Music Transformer: Generating Music with Rhythm and Harmony", arXiv 2020
+- [remi](https://github.com/YatingMusic/remi) - "Pop Music Transformer: Beat-based Modeling and Generation of Expressive Pop Piano Compositions", ACM Multimedia 2020
 - [tianshou](https://github.com/thu-ml/tianshou) - An elegant, flexible, and superfast PyTorch deep reinforcement learning platform. (For previewed features, please checkout the "dev" branch)
 - [pycls](https://github.com/facebookresearch/pycls) - Codebase for Image Classification Research, written in PyTorch.
 - [PaddleHub](https://github.com/PaddlePaddle/PaddleHub) - Toolkit for Pre-trained Model Application of PaddlePaddle（『飞桨』预训练模型应用工具 ）
