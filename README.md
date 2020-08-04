@@ -621,7 +621,7 @@
 - [mindforger](https://github.com/dvorka/mindforger) - Thinking notebook and Markdown editor.
 - [lux](https://github.com/LUX-Core/lux) - LUX - Hybrid PoW/PoS & Unique PHI2 Algorithm | Masternode | Parallel masternode | Segwit | Smartcontract | Luxgate | Proof of file storage (Decentralised distributed file storage)
 - [grpc-web](https://github.com/grpc/grpc-web) - gRPC for Web Clients
-- [oatpp](https://github.com/oatpp/oatpp) - 🌱Light and powerful C++ web framework for highly scalable and resource-efficient web applications development. It's zero-dependency and easy-portable.
+- [oatpp](https://github.com/oatpp/oatpp) - 🌱Light and powerful C++ web framework for highly scalable and resource-efficient web application. It's zero-dependency and easy-portable.
 - [Algorithms](https://github.com/VAR-solutions/Algorithms) - A repository of different Algorithms and Data Structures implemented in many programming languages.
 - [openvino](https://github.com/openvinotoolkit/openvino) - OpenVINO™ Toolkit repository
 - [ACM-ICPC-Algorithms](https://github.com/matthewsamuel95/ACM-ICPC-Algorithms) - Algorithms used in Competitive Programming
@@ -1477,7 +1477,6 @@
 - [code-with-engineering-playbook](https://github.com/microsoft/code-with-engineering-playbook) - This is the playbook for "code-with" customer or partner engagements
 - [python](https://github.com/docker-library/python) - Docker Official Image packaging for Python
 - [mssql-docker](https://github.com/microsoft/mssql-docker) - Official Microsoft repository for SQL Server in Docker resources
-- [vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) - A repository of development container definitions for the VS Code Remote - Containers extension and Visual Studio Codespaces / Codespaces in GitHub
 - [ssh-action](https://github.com/appleboy/ssh-action) - GitHub Actions for executing remote ssh commands.
 - [docker](https://github.com/odoo/docker) - 
 - [dockerfiles](https://github.com/mapsme/dockerfiles) - 
@@ -1586,7 +1585,6 @@
 - [terraform-provider-azuredevops](https://github.com/microsoft/terraform-provider-azuredevops) - Terraform provider for Azure DevOps
 - [vitess](https://github.com/vitessio/vitess) - Vitess is a database clustering system for horizontal scaling of MySQL.
 - [keda](https://github.com/kedacore/keda) - KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes
-- [shhgit](https://github.com/eth0izzle/shhgit) - Ah shhgit! Find GitHub secrets in real time
 - [fabric-samples](https://github.com/hyperledger/fabric-samples) - 
 - [clickhouse_sinker](https://github.com/housepower/clickhouse_sinker) - Easily load data  from kafka to ClickHouse
 - [pg](https://github.com/go-pg/pg) - Golang ORM with focus on PostgreSQL features and performance
@@ -2916,6 +2914,7 @@
 - [manifold](https://github.com/uber/manifold) - A model-agnostic visual debugging tool for machine learning
 - [ferdi](https://github.com/getferdi/ferdi) - 🧔🏽 Community fork of @meetfranz. Ferdi allows you to combine your favorite messaging services into one application
 - [flowy](https://github.com/alyssaxuu/flowy) - The minimal javascript library to create flowcharts ✨
+- [shhgit](https://github.com/eth0izzle/shhgit) - Ah shhgit! Find GitHub secrets in real time
 - [BullshitGenerator](https://github.com/menzi11/BullshitGenerator) - Needs to generate some texts to test if my GUI rendering codes good or not. so I made this.
 - [moment-timezone](https://github.com/moment/moment-timezone) - Timezone support for moment.js
 - [Face-Detection-JavaScript](https://github.com/WebDevSimplified/Face-Detection-JavaScript) - 
@@ -3047,7 +3046,7 @@
 - [Vue.Draggable](https://github.com/SortableJS/Vue.Draggable) - Vue drag-and-drop component based on Sortable.js
 - [x-spreadsheet](https://github.com/myliang/x-spreadsheet) - A web-based JavaScript（canvas） spreadsheet
 - [awesome-IT-films](https://github.com/greybax/awesome-IT-films) - :tv: A curated list of awesome films about IT & geek people.
-- [Awesome-Design-Tools](https://github.com/LisaDziuba/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
+- [Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
 - [frame](https://github.com/jddunn/frame) - Notetaking Electron app that can answer your questions and makes summaries for you (buggy front-end)
 - [fast-cli](https://github.com/sindresorhus/fast-cli) - Test your download and upload speed using fast.com
 - [mocha](https://github.com/mochajs/mocha) - ☕️ simple, flexible, fun javascript test framework for node.js & the browser
@@ -3428,7 +3427,6 @@
 - [cloudmapper](https://github.com/duo-labs/cloudmapper) - CloudMapper helps you analyze your Amazon Web Services (AWS) environments.
 - [headless-chrome-crawler](https://github.com/yujiosaka/headless-chrome-crawler) - Distributed crawler powered by Headless Chrome
 - [swag-for-dev](https://github.com/swapagarwal/swag-for-dev) - 😎 swag opportunities for developers
-- [velocity](https://github.com/julianshapiro/velocity) - Accelerated JavaScript animation.
 - [scratches](https://github.com/heapwolf/scratches) - A scratchpad with node & browser apis.
 - [metallb](https://github.com/metallb/metallb) - A network load-balancer implementation for Kubernetes using standard routing protocols
 - [min](https://github.com/minbrowser/min) - A fast, minimal browser that protects your privacy
@@ -4441,6 +4439,7 @@
 
 ## Jupyter Notebook 
 
+- [gpu-jupyter](https://github.com/iot-salzburg/gpu-jupyter) - Leverage the flexibility of Jupyterlab through the power of your NVIDIA GPU to run your code from Tensorflow and Pytorch in collaborative notebooks on the GPU.
 - [stylegan-encoder](https://github.com/pbaylies/stylegan-encoder) - StyleGAN Encoder - converts real images to latent space
 - [EssentialMath](https://github.com/yangyutu/EssentialMath) - 
 - [awesome-pandas](https://github.com/tommyod/awesome-pandas) - A collection of resources for pandas (Python) and related subjects.
@@ -6228,7 +6227,7 @@
 - [bugbounty-cheatsheet](https://github.com/EdOverflow/bugbounty-cheatsheet) - A list of interesting payloads, tips and tricks for bug bounty hunters.
 - [deeplearning.ai](https://github.com/ShahariarRabby/deeplearning.ai) - deeplearning.ai , By Andrew Ng, All video link
 - [bleah](https://github.com/evilsocket/bleah) - This repository is DEPRECATED, please use bettercap as this tool has been ported to its BLE modules.
-- [Marketing-for-Engineers](https://github.com/LisaDziuba/Marketing-for-Engineers) - A curated collection of marketing articles & tools to grow your product.
+- [Marketing-for-Engineers](https://github.com/goabstract/Marketing-for-Engineers) - A curated collection of marketing articles & tools to grow your product.
 - [api-standards](https://github.com/paypal/api-standards) - 
 - [ru-test-assignments](https://github.com/Hexlet/ru-test-assignments) - Тестовые задания для самостоятельного выполнения от разных it компаний
 - [modern-js-cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet) - Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects.
@@ -6751,6 +6750,7 @@
 
 ## Python 
 
+- [nvidia-docker-compose](https://github.com/eywalker/nvidia-docker-compose) - Simple wrapper for docker-compose to use GPU enabled docker under nvidia-docker
 - [pyquil](https://github.com/rigetti/pyquil) - A Python library for quantum programming using Quil.
 - [grove](https://github.com/rigetti/grove) - Quantum algorithms built using pyQuil.
 - [babyai](https://github.com/mila-iqia/babyai) - BabyAI platform. A testbed for training agents to understand and execute language commands.
@@ -10135,7 +10135,7 @@
 - [dplython](https://github.com/dodger487/dplython) - dplyr for python
 - [pytrader](https://github.com/owocki/pytrader) - cryptocurrency trading robot
 - [public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs for use in software and web development.
-- [incubator-superset](https://github.com/apache/incubator-superset) - Apache Superset (incubating) is a modern, enterprise-ready business intelligence web application
+- [incubator-superset](https://github.com/apache/incubator-superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [rwrapper](https://github.com/dparlevliet/rwrapper) - A python wrapper class for RethinkDB
 - [cookiecutter-Flask-Foundation](https://github.com/JackStouffer/cookiecutter-Flask-Foundation) - Cookiecutter fork of Flask Foundation
 - [orgmode](https://github.com/danielmagnussons/orgmode) - orgmode is for keeping notes, maintaining TODO lists, planning projects, and authoring documents with a fast and effective plain-text system.
@@ -12702,6 +12702,7 @@
 - [Spoken-SQuAD](https://github.com/chiahsuan156/Spoken-SQuAD) - A spoken question answering dataset on SQUAD
 - [ODSQA](https://github.com/chiahsuan156/ODSQA) - ODSQA: OPEN-DOMAIN SPOKEN QUESTION ANSWERING DATASET
 - [docker-selenium](https://github.com/SeleniumHQ/docker-selenium) - Docker images for the Selenium Grid Server
+- [vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) - A repository of development container definitions for the VS Code Remote - Containers extension and Visual Studio Codespaces / Codespaces in GitHub
 - [shlide](https://github.com/icyphox/shlide) - :framed_picture: a slide deck presentation tool written in pure bash
 - [vulhub](https://github.com/vulhub/vulhub) - Pre-Built Vulnerable Environments Based on Docker-Compose
 - [bitnami-docker-kafka](https://github.com/bitnami/bitnami-docker-kafka) - Bitnami Docker Image for Kafka
@@ -13058,6 +13059,7 @@
 - [webamp](https://github.com/captbaritone/webamp) - Winamp 2 reimplemented for the browser
 - [rematch](https://github.com/rematch/rematch) - A Redux Framework
 - [pandora](https://github.com/midwayjs/pandora) - A Manageable, Measurable and Traceable Node.js Application Manager represented by Alibaba powered by TypeScript
+- [velocity](https://github.com/julianshapiro/velocity) - Accelerated JavaScript animation.
 - [scriptedforms](https://github.com/SimonBiggs/scriptedforms) - Quickly create live-update GUIs for Python packages using Markdown and simple HTML elements.
 - [propel](https://github.com/propelml/propel) - Differential Programming in JavaScript.
 - [kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
