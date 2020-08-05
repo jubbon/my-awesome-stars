@@ -385,7 +385,7 @@
 - [vis](https://github.com/martanne/vis) - A vi-like editor based on Plan 9's structural regular expressions
 - [quick2wire-gpio-admin](https://github.com/quick2wire/quick2wire-gpio-admin) - Use the GPIO pins on the Raspberry Pi without running as root
 - [BMW-OpenSource](https://github.com/edent/BMW-OpenSource) - All the Open Source Software provided by BMW for their i3
-- [citus](https://github.com/citusdata/citus) - Distributed PostgreSQL for multi-tenant and real-time analytics workloads
+- [citus](https://github.com/citusdata/citus) - Distributed PostgreSQL as an extension - for multi-tenant and real-time analytics workloads
 - [Collections-C](https://github.com/srdja/Collections-C) - A library of generic data structures.
 - [NyuziProcessor](https://github.com/jbush001/NyuziProcessor) - GPGPU microprocessor architecture
 - [netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud
@@ -1611,7 +1611,7 @@
 - [gotraining](https://github.com/ardanlabs/gotraining) - Go Training Class Material :
 - [go-micro](https://github.com/micro/go-micro) - A Go library for distributed systems development
 - [pipeline](https://github.com/tektoncd/pipeline) - A K8s-native Pipeline resource.
-- [prometheus-operator](https://github.com/coreos/prometheus-operator) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
+- [prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
 - [k3v](https://github.com/ibuildthecloud/k3v) - Virtual Kubernetes
 - [monday](https://github.com/eko/monday) - ⚡️ A dev tool for microservice developers to run local applications and/or forward others from/to Kubernetes SSH or TCP
 - [lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
@@ -6758,7 +6758,7 @@
 - [MolecularTransformer](https://github.com/pschwllr/MolecularTransformer) - 
 - [TopicNet](https://github.com/machine-intelligence-laboratory/TopicNet) - Interface for easier topic modelling.
 - [nlp](https://github.com/huggingface/nlp) - 🤗nlp – Datasets and evaluation metrics for Natural Language Processing in NumPy, Pandas, PyTorch and TensorFlow
-- [TensorFlowTTS](https://github.com/TensorSpeech/TensorFlowTTS) - :stuck_out_tongue_closed_eyes: TensorFlowTTS: Real-Time State-of-the-art Speech Synthesis for Tensorflow 2
+- [TensorFlowTTS](https://github.com/TensorSpeech/TensorFlowTTS) - :stuck_out_tongue_closed_eyes: TensorFlowTTS: Real-Time State-of-the-art Speech Synthesis for Tensorflow 2 (supported including English, Korean)
 - [tuya-convert](https://github.com/ct-Open-Source/tuya-convert) - A collection of scripts to flash Tuya IoT devices to alternative firmwares
 - [rich](https://github.com/willmcgugan/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [pyTelegramBotAPI](https://github.com/eternnoir/pyTelegramBotAPI) - Python Telegram bot api.
@@ -12842,7 +12842,7 @@
 - [pythonize](https://github.com/princebot/pythonize) - download, install, and configure Python in one line
 - [vagrant-redmine](https://github.com/clalarco/vagrant-redmine) - Vagrant configuration to have a ready to use Redmine site
 - [nominatim-install](https://github.com/cyclestreets/nominatim-install) - Bash script to install Nominatim
-- [p](https://github.com/qw3rtman/p) - :snake: Python Version Management Made Simple [DEPRECATED]
+- [p](https://github.com/qw3rtman/p) - :snake: Python Version Management Made Simple
 - [ansible-examples](https://github.com/ansible/ansible-examples) - A few starter examples of ansible playbooks, to show features and how they work together.  See http://galaxy.ansible.com for example roles from the Ansible community for deploying many popular applications.
 - [conda-recipes](https://github.com/conda/conda-recipes) - build and test recipes for conda
 - [vagrant-mesos](https://github.com/ahunnargikar/vagrant-mesos) - Mesos/Docker/Marathon/Aurora development Vagrant Virtualbox setup
