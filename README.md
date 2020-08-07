@@ -825,7 +825,7 @@
 - [zurl](https://github.com/fanout/zurl) - HTTP and WebSocket client worker with ZeroMQ interface
 - [pushpin](https://github.com/fanout/pushpin) - Reverse proxy for realtime web services
 - [Visually-Algorithm](https://github.com/Kiroeko/Visually-Algorithm) - This is a A* Algorithm Visually Display Demo that shows Us How Computer Deal With Pathfinding。
-- [DeepSpeech](https://github.com/mozilla/DeepSpeech) - A TensorFlow implementation of Baidu's DeepSpeech architecture
+- [DeepSpeech](https://github.com/mozilla/DeepSpeech) - Mozilla Voice STT is an open source speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.
 - [deepmath](https://github.com/tensorflow/deepmath) - Experiments towards neural network theorem proving
 - [float-hacks](https://github.com/leegao/float-hacks) - Floating Point Hacks
 - [tera](https://github.com/baidu/tera) - An Internet-Scale Database.
@@ -1557,8 +1557,8 @@
 - [ion](https://github.com/pion/ion) - Distributed RTC System by pure Go and Flutter
 - [operator-sdk](https://github.com/operator-framework/operator-sdk) - SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding.
 - [pulumi](https://github.com/pulumi/pulumi) - Pulumi - Modern Infrastructure as Code. Any cloud, any language 🚀
-- [age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool with small explicit keys, no config options, and UNIX-style composability.
-- [terraform-provider-google](https://github.com/terraform-providers/terraform-provider-google) - Terraform Google Cloud Platform provider
+- [age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
+- [terraform-provider-google](https://github.com/hashicorp/terraform-provider-google) - Terraform Google Cloud Platform provider
 - [dashboard](https://github.com/kubernetes/dashboard) - General-purpose web UI for Kubernetes clusters
 - [keel](https://github.com/keel-hq/keel) - Kubernetes Operator to automate Helm, DaemonSet, StatefulSet & Deployment updates
 - [godog](https://github.com/cucumber/godog) - Cucumber for golang
@@ -1609,7 +1609,7 @@
 - [lindb](https://github.com/lindb/lindb) - LinDB is a scalable, high performance, high availability distributed time series database.
 - [buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
 - [gotraining](https://github.com/ardanlabs/gotraining) - Go Training Class Material :
-- [go-micro](https://github.com/micro/go-micro) - A Go library for distributed systems development
+- [go-micro](https://github.com/micro/go-micro) - A Go distributed systems standard library
 - [pipeline](https://github.com/tektoncd/pipeline) - A K8s-native Pipeline resource.
 - [prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
 - [k3v](https://github.com/ibuildthecloud/k3v) - Virtual Kubernetes
@@ -2759,7 +2759,7 @@
 - [aws-sam-java-rest](https://github.com/aws-samples/aws-sam-java-rest) - A sample REST application built on SAM and DynamoDB that demonstrates testing with DynamoDB Local.
 - [dynamodb-geo](https://github.com/amazon-archives/dynamodb-geo) - 
 - [open-location-code](https://github.com/google/open-location-code) - Open Location Code is a library to generate short codes, called "plus codes", that can be used as digital addresses where street addresses don't exist.
-- [Osmand](https://github.com/osmandapp/Osmand) - OsmAnd
+- [OsmAnd](https://github.com/osmandapp/OsmAnd) - OsmAnd
 - [micronaut-core](https://github.com/micronaut-projects/micronaut-core) - Micronaut Application Framework
 - [SmartCity-ParkingManagement](https://github.com/TechnionYP5777/SmartCity-ParkingManagement) - Smart City Parking Manegement
 - [AthenaX](https://github.com/uber/AthenaX) - SQL-based streaming analytics platform at scale
@@ -4032,7 +4032,7 @@
 - [react-server](https://github.com/redfin/react-server) - :rocket: Blazing fast page load and seamless navigation.
 - [cinnamon-pomodoro](https://github.com/gfreeau/cinnamon-pomodoro) - 
 - [NG6-starter](https://github.com/PatrickJS/NG6-starter) - :ng: An AngularJS Starter repo for AngularJS + ES6 + Webpack
-- [starter](https://github.com/PatrickJS/starter) - 
+- [angular-starter](https://github.com/PatrickJS/angular-starter) - 
 - [mithril.js](https://github.com/MithrilJS/mithril.js) - A JavaScript Framework for Building Brilliant Applications
 - [react-media](https://github.com/ReactTraining/react-media) - CSS media queries for React
 - [community-edition](https://github.com/ramboxapp/community-edition) - Free and Open Source messaging and emailing app that combines common web applications into one.
@@ -4623,7 +4623,7 @@
 - [nlp-in-practice](https://github.com/kavgan/nlp-in-practice) - Starter code to solve real world text data problems. Includes: Gensim Word2Vec, phrase embeddings, Text Classification with Logistic Regression, word count with pyspark, simple text preprocessing, pre-trained embeddings and more.
 - [GDL_code](https://github.com/davidADSP/GDL_code) - The official code repository for examples in the O'Reilly book 'Generative Deep Learning'
 - [d2l-pytorch](https://github.com/dsgiitr/d2l-pytorch) - This project reproduces the book Dive Into Deep Learning (www.d2l.ai), adapting the code from MXNet into PyTorch.
-- [bamboolib](https://github.com/tkrabel/bamboolib) - bamboolib - the Fastest and Easiest Way to Work with pandas DataFrames
+- [bamboolib](https://github.com/tkrabel/bamboolib) - bamboolib - a GUI for pandas DataFrames
 - [dlschl](https://github.com/deepmipt/dlschl) - 
 - [notebooks](https://github.com/deeplook/notebooks) - Misc. Jupyter notebooks for testing and exploring various things.
 - [AzureML-BERT](https://github.com/microsoft/AzureML-BERT) - End-to-End recipes for pre-training and fine-tuning BERT using Azure Machine Learning Service
@@ -6074,7 +6074,6 @@
 - [architecture_decision_record](https://github.com/joelparkerhenderson/architecture_decision_record) - Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation
 - [How-to-Use-GitHub](https://github.com/llSourcell/How-to-Use-GitHub) - This is the supplementary material for "How to Use GitHub" By Siraj Raval on Youtube
 - [mace-models](https://github.com/XiaoMi/mace-models) - Mobile AI Compute Engine Model Zoo
-- [toml](https://github.com/toml-lang/toml) - Tom's Obvious, Minimal Language
 - [Uber-map-style](https://github.com/amolood/Uber-map-style) - This is uber map style
 - [AI_Freelancing](https://github.com/llSourcell/AI_Freelancing) - This is the code for "How to Do Freelance AI Programming" By Siraj Raval on Youtube
 - [vue-patterns](https://github.com/learn-vuejs/vue-patterns) - Useful Vue patterns, techniques, tips and tricks and helpful curated links.
@@ -6488,7 +6487,7 @@
 - [awesome-hyper](https://github.com/bnb/awesome-hyper) - 🖥 Delightful Hyper plugins, themes, and resources
 - [dl_tutorials](https://github.com/sjchoi86/dl_tutorials) - Deep learning tutorials (2nd ed.)
 - [awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
-- [awesome-vehicle-security](https://github.com/jaredthecoder/awesome-vehicle-security) - 🚗 A curated list of resources for learning about vehicle security and car hacking.
+- [awesome-vehicle-security](https://github.com/jaredthecoder/awesome-vehicle-security) - 🚗  A curated list of resources for learning about vehicle security and car hacking.
 - [marp](https://github.com/yhatt/marp) - The site of classic Markdown presentation writer app
 - [api-guidelines](https://github.com/microsoft/api-guidelines) - Microsoft REST API Guidelines
 - [functional-programming-jargon](https://github.com/hemanth/functional-programming-jargon) - Jargon from the functional programming world in simple terms!
@@ -6750,6 +6749,7 @@
 
 ## Python 
 
+- [naeval](https://github.com/natasha/naeval) - Comparing quality and performance of NLP systems for Russian language
 - [nvidia-docker-compose](https://github.com/eywalker/nvidia-docker-compose) - Simple wrapper for docker-compose to use GPU enabled docker under nvidia-docker
 - [pyquil](https://github.com/rigetti/pyquil) - A Python library for quantum programming using Quil.
 - [grove](https://github.com/rigetti/grove) - Quantum algorithms built using pyQuil.
@@ -7304,7 +7304,7 @@
 - [openshift-ansible](https://github.com/openshift/openshift-ansible) - Install and config an OpenShift 3.x cluster
 - [matplotlib-cheatsheet](https://github.com/rougier/matplotlib-cheatsheet) - Matplotlib 3.1 cheat sheet.
 - [pytorch-kaldi](https://github.com/mravanelli/pytorch-kaldi) - pytorch-kaldi is a project for developing state-of-the-art DNN/RNN hybrid speech recognition systems. The DNN part is managed by pytorch, while feature extraction, label computation, and decoding are performed with the kaldi toolkit.
-- [FATE](https://github.com/FederatedAI/FATE) - An Industrial Level Federated Learning Framework
+- [FATE](https://github.com/FederatedAI/FATE) - An Industrial Grade Federated Learning Framework
 - [apitools](https://github.com/google/apitools) - 
 - [transitfeed](https://github.com/google/transitfeed) - A Python library for reading, validating, and writing transit schedule information in the GTFS format.
 - [phyre](https://github.com/facebookresearch/phyre) - PHYRE is a benchmark for physical reasoning.
@@ -7530,7 +7530,7 @@
 - [image-super-resolution](https://github.com/idealo/image-super-resolution) - 🔎 Super-scale your images and run experiments with Residual Dense and Adversarial Networks.
 - [beagle](https://github.com/yampelo/beagle) - Beagle is an incident response and digital forensics tool which transforms security logs and data into graphs.
 - [requests-async](https://github.com/encode/requests-async) - async-await support for `requests`. ✨ 🍰 ✨
-- [prefect](https://github.com/PrefectHQ/prefect) - A modern data workflow platform
+- [prefect](https://github.com/PrefectHQ/prefect) - The easiest way to automate your data
 - [BMSG-GAN](https://github.com/akanimax/BMSG-GAN) - [MSG-GAN] Any body can GAN! Highly stable and robust architecture. Requires little to no hyperparameter tuning. Pytorch Implementation
 - [FeatherNets_Face-Anti-spoofing-Attack-Detection-Challenge-CVPR2019](https://github.com/SoftwareGift/FeatherNets_Face-Anti-spoofing-Attack-Detection-Challenge-CVPR2019) - Code for 3rd Place Solution in Face Anti-spoofing Attack Detection Challenge @ CVPR2019,model only 0.35M!!! 1.88ms(CPU)
 - [cartography](https://github.com/lyft/cartography) - Cartography is a Python tool that consolidates infrastructure assets and the relationships between them in an intuitive graph view powered by a Neo4j database.
@@ -8038,6 +8038,7 @@
 - [glow](https://github.com/openai/glow) - Code for reproducing results in "Glow: Generative Flow with Invertible 1x1 Convolutions"
 - [xar](https://github.com/facebookincubator/xar) - executable archive format
 - [gpxpy](https://github.com/tkrajina/gpxpy) - gpx-py is a python GPX parser. GPX (GPS eXchange Format) is an XML based file format for GPS tracks.
+- [toml](https://github.com/toml-lang/toml) - Tom's Obvious, Minimal Language
 - [TIDoS-Framework](https://github.com/0xInfection/TIDoS-Framework) - The Offensive Manual Web Application Penetration Testing Framework.
 - [cjworkbench](https://github.com/CJWorkbench/cjworkbench) - The data journalism platform with built in training
 - [pytorch-dense-correspondence](https://github.com/RobotLocomotion/pytorch-dense-correspondence) - Code for "Dense Object Nets:  Learning Dense Visual Object Descriptors By and For Robotic Manipulation"
@@ -11735,7 +11736,7 @@
 - [ladder](https://github.com/dgilland/ladder) - HTTP client wrapper with URL generation via object notation and argument passing
 - [peep](https://github.com/erikrose/peep) - A "pip install" that is cryptographically guaranteed repeatable
 - [Tango](https://github.com/tBaxter/Tango) - Faster, simpler Django content management
-- [gitless](https://github.com/gitless-vcs/gitless) - A version control system built on top of Git
+- [gitless](https://github.com/gitless-vcs/gitless) - A simple version control system built on top of Git
 - [pyspv](https://github.com/sarchar/pyspv) - pyspv is a python implementation of a programmable Bitcoin SPV node
 - [pyinstrument](https://github.com/joerick/pyinstrument) - 🚴 Call stack profiler for Python. Shows you why your code is slow!
 - [bleach](https://github.com/mozilla/bleach) - Bleach is an allowed-list-based HTML sanitizing library that escapes or strips markup and attributes
