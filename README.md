@@ -449,7 +449,6 @@
 - [Reinforcement-Learning-Based-Decision-Tree](https://github.com/chriswblake/Reinforcement-Learning-Based-Decision-Tree) - Generation and evaluation of a decision tree using reinforcement learning.
 - [NLP_Datasets](https://github.com/Koziev/NLP_Datasets) - My NLP datasets for Russian language
 - [qsharp-compiler](https://github.com/microsoft/qsharp-compiler) - Q# compiler, command line tool, and Q# language server
-- [Azure-Sentinel](https://github.com/Azure/Azure-Sentinel) - Cloud-native SIEM for intelligent security analytics for your entire enterprise.
 - [FASTER](https://github.com/microsoft/FASTER) - Fast persistent recoverable log and key-value store, in C# and C++, from Microsoft Research.
 - [ailab](https://github.com/microsoft/ailab) - Experience, Learn and Code the latest breakthrough innovations with Microsoft AI
 - [DRL_based_SelfDrivingCarControl](https://github.com/MLJejuCamp2017/DRL_based_SelfDrivingCarControl) - Deep Reinforcement Learning (DQN) based Self Driving Car Control with Vehicle Simulator
@@ -1609,7 +1608,7 @@
 - [lindb](https://github.com/lindb/lindb) - LinDB is a scalable, high performance, high availability distributed time series database.
 - [buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
 - [gotraining](https://github.com/ardanlabs/gotraining) - Go Training Class Material :
-- [go-micro](https://github.com/micro/go-micro) - A Go distributed systems standard library
+- [go-micro](https://github.com/micro/go-micro) - A Go standard library for cloud services development
 - [pipeline](https://github.com/tektoncd/pipeline) - A K8s-native Pipeline resource.
 - [prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
 - [k3v](https://github.com/ibuildthecloud/k3v) - Virtual Kubernetes
@@ -4057,6 +4056,7 @@
 - [socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
 - [Dex](https://github.com/PatMartin/Dex) - Dex : The Data Explorer -- A data visualization tool written in Java/Groovy/JavaFX capable of powerful ETL and publishing web visualizations.
 - [2016-talks](https://github.com/gophercon/2016-talks) - Slides and Links to slides for 2016 talks
+- [jupyterlab](https://github.com/jupyterlab/jupyterlab) - JupyterLab computational environment.
 - [hydrogen](https://github.com/nteract/hydrogen) - :atom: Run code interactively, inspect data, and plot. All the power of Jupyter kernels, inside your favorite text editor.
 - [clmtrackr](https://github.com/auduno/clmtrackr) - Javascript library for precise tracking of facial features via Constrained Local Models
 - [spa-github-pages](https://github.com/rafgraph/spa-github-pages) - Host single page apps with GitHub Pages
@@ -4447,6 +4447,7 @@
 - [dp_tutorials](https://github.com/deepmipt/dp_tutorials) - 
 - [drq](https://github.com/denisyarats/drq) - DrQ: Data regularized Q
 - [torchdyn](https://github.com/DiffEqML/torchdyn) - A PyTorch based library for all things neural differential equations
+- [flowtron](https://github.com/NVIDIA/flowtron) - Flowtron is an auto-regressive flow-based generative network for text to speech synthesis with control over speech variation and style transfer
 - [Data-Science-Online](https://github.com/codenation-dev/Data-Science-Online) - 
 - [interpretable-ml-book](https://github.com/christophM/interpretable-ml-book) - Book about interpretable machine learning
 - [Quantum](https://github.com/PaddlePaddle/Quantum) - 
@@ -5430,7 +5431,6 @@
 - [numba_tutorial_scipy2016](https://github.com/barbagroup/numba_tutorial_scipy2016) - Numba tutorial materials for Scipy 2016
 - [TimeSeriesAnalysisWithPython](https://github.com/AileenNielsen/TimeSeriesAnalysisWithPython) - 
 - [DeepLearning-Image](https://github.com/rouseguy/DeepLearning-Image) - Introduction to Deep Learning for Image Recognition
-- [jupyterlab](https://github.com/jupyterlab/jupyterlab) - JupyterLab computational environment.
 - [brexit-analysis](https://github.com/monkeylearn/brexit-analysis) - The Divided Kingdom: a machine learning analysis on the Brexit result
 - [pandas-videos](https://github.com/justmarkham/pandas-videos) - Jupyter notebook and datasets from the pandas Q&A video series
 - [Dynamic-Tensorflow-Tutorial](https://github.com/KnHuq/Dynamic-Tensorflow-Tutorial) - Tensorflow tutorial of building different dynamic recurrent neural network
@@ -6719,6 +6719,7 @@
 - [virtual-environments](https://github.com/actions/virtual-environments) - GitHub Actions virtual environments
 - [awesome-azure-learning](https://github.com/ddneves/awesome-azure-learning) - This repo includes plenty of references for Azure learning, especially for the Azure certs and Azure architecture, and any other learning materials e.g. security and automation topics.
 - [azure-docs](https://github.com/MicrosoftDocs/azure-docs) - Open source documentation of Microsoft Azure
+- [Azure-Sentinel](https://github.com/Azure/Azure-Sentinel) - Cloud-native SIEM for intelligent security analytics for your entire enterprise.
 - [Quantum](https://github.com/microsoft/Quantum) - Microsoft Quantum Development Kit Samples
 - [azure-quickstart-templates](https://github.com/Azure/azure-quickstart-templates) - Azure Quickstart Templates
 
@@ -6786,7 +6787,6 @@
 - [xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh
 - [interrogate](https://github.com/econchick/interrogate) - Explain yourself! Interrogate a codebase for docstring coverage.
 - [nnsvs](https://github.com/r9y9/nnsvs) - Neural network-based singing voice synthesis library for research
-- [flowtron](https://github.com/NVIDIA/flowtron) - Flowtron is an auto-regressive flow-based generative network for text to speech synthesis with control over speech variation and style transfer
 - [pytorch-pfn-extras](https://github.com/pfnet/pytorch-pfn-extras) - Supplementary components to accelerate research and development in PyTorch
 - [graphene-django](https://github.com/graphql-python/graphene-django) - Integrate GraphQL into your Django project.
 - [U-2-Net](https://github.com/NathanUA/U-2-Net) - The code for our newly accepted paper in Pattern Recognition 2020: "U^2-Net: Going Deeper with Nested U-Structure for Salient Object Detection."
@@ -9998,7 +9998,7 @@
 - [textX](https://github.com/textX/textX) - Domain-Specific Languages and parsers in Python made easy http://textx.github.io/textX/
 - [DataSciencePython](https://github.com/ujjwalkarn/DataSciencePython) - common data analysis and machine learning tasks using python
 - [cppimport](https://github.com/tbenthompson/cppimport) - Import C++ files directly from Python!
-- [graphene-gae](https://github.com/graphql-python/graphene-gae) - GraphQL Support for Google AppEngine
+- [graphene-gae](https://github.com/graphql-python/graphene-gae) - GraphQL Support for Google AppEngine [DEPRECATED - Looking for maintainers]
 - [pygrid](https://github.com/pkkid/pygrid) - Quickly move windows around the an X11 desktop
 - [EmPyre](https://github.com/EmpireProject/EmPyre) - A post-exploitation OS X/Linux agent written in Python 2.7
 - [jolla](https://github.com/salamer/jolla) - Python Web Framework
