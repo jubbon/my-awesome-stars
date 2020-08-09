@@ -786,7 +786,7 @@
 - [xtensor-python](https://github.com/xtensor-stack/xtensor-python) - Python bindings for xtensor
 - [face_swap](https://github.com/YuvalNirkin/face_swap) - End-to-end, automatic face swapping pipeline
 - [clif](https://github.com/google/clif) - Wrapper generator foundation to wrap C++ for Python and other languages using LLVM.
-- [node-packer](https://github.com/pmq20/node-packer) - Packing your Node.js application into a single executable.
+- [node-packer](https://github.com/pmq20/node-packer) - ** THIS REPO HAS STOPPED MAINTENANCE, PLEASE USE OTHER FORKS **
 - [lnav](https://github.com/tstack/lnav) - Log file navigator
 - [ORB_SLAM2](https://github.com/raulmur/ORB_SLAM2) - Real-Time SLAM for Monocular, Stereo and RGB-D Cameras, with Loop Detection and Relocalization Capabilities
 - [pilotguru](https://github.com/waiwnf/pilotguru) - Gather training data for training a self-driving car with just a smartphone.
@@ -2133,7 +2133,7 @@
 - [gorgonia](https://github.com/gorgonia/gorgonia) - Gorgonia is a library that helps facilitate machine learning in Go.
 - [go-patterns](https://github.com/tmrts/go-patterns) - Curated list of Go design patterns, recipes and idioms
 - [borg](https://github.com/ok-borg/borg) - Search and save shell snippets without leaving your terminal
-- [iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework
+- [iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework | 谢谢 https://github.com/kataras/iris/issues/1329 |
 - [primitive](https://github.com/fogleman/primitive) - Reproducing images with geometric primitives.
 - [gosl](https://github.com/cpmech/gosl) - Go scientific library for machine learning, linear algebra, FFT, Bessel, elliptic, orthogonal polys, geometry, NURBS, numerical quadrature, 3D transfinite interpolation, random numbers, Mersenne twister, probability distributions, optimisation, graph, plotting, visualisation, tensors, eigenvalues, differential equations, more.
 - [kube-cert-manager](https://github.com/PalmStoneGames/kube-cert-manager) - Manage Lets Encrypt certificates for a Kubernetes cluster.
@@ -3354,7 +3354,7 @@
 - [opening_hours.js](https://github.com/AMDmi3/opening_hours.js) - Library to parse and process opening_hours tag from OpenStreetMap data
 - [opening_hours.js](https://github.com/opening-hours/opening_hours.js) - Library to parse and process the opening_hours tag from OpenStreetMap data
 - [opendatacam](https://github.com/opendatacam/opendatacam) - An open source tool to quantify the world
-- [vue-loading-overlay](https://github.com/ankurk91/vue-loading-overlay) - Vue.js component for full screen loading indicator
+- [vue-loading-overlay](https://github.com/ankurk91/vue-loading-overlay) - Vue.js component for full screen loading indicator :cyclone:
 - [vue-cli-plugin-critical](https://github.com/anthonygore/vue-cli-plugin-critical) - 
 - [vue-luxon](https://github.com/casbloem/vue-luxon) - Easy use of datetime with Luxon in Vue
 - [vue-promise-btn](https://github.com/STUkh/vue-promise-btn) - Vue.js plugin that handles buttons async lock state. Demo: https://stukh.github.io/vue-promise-btn/
@@ -3524,7 +3524,7 @@
 - [portal-vue](https://github.com/LinusBorg/portal-vue) - A feature-rich Portal Plugin for Vuejs, for rendering DOM outside of a component, anywhere our app or the entire document.
 - [vue-final-form](https://github.com/egoist/vue-final-form) - 🏁 High performance subscription-based form state management for Vue.js.
 - [keppler](https://github.com/brunosimon/keppler) - Real time code sharing for your lectures and presentations.
-- [vue-cleave-component](https://github.com/ankurk91/vue-cleave-component) - Vue.js component for Cleave.js
+- [vue-cleave-component](https://github.com/ankurk91/vue-cleave-component) - Vue.js component for Cleave.js :keyboard:
 - [vanilla-back-to-top](https://github.com/vfeskov/vanilla-back-to-top) - Simple and smooth Back To Top button
 - [vue-swatches](https://github.com/saintplay/vue-swatches) - :art: Help the user picking beautiful colors!
 - [vue-focus](https://github.com/simplesmiler/vue-focus) - A reusable focus directive for reusable Vue.js components
@@ -3611,7 +3611,7 @@
 - [GitStart](https://github.com/rishabh-bansal/GitStart) - Make a Pull Request
 - [graphql.js](https://github.com/f/graphql.js) - A Simple and Isomorphic GraphQL Client for JavaScript
 - [heml](https://github.com/SparkPost/heml) - HEML is an open source markup language for building responsive email.
-- [fullstack-graphql](https://github.com/atulmy/fullstack-graphql) - 🌈 Simple Fullstack GraphQL Application. API built with Express + GraphQL + Sequelize (supports MySQL, Postgres, Sqlite and MSSQL). WebApp built with React + Redux to access the API. Written in ES6 using Babel + Webpack.
+- [fullstack-graphql](https://github.com/atulmy/fullstack-graphql) - 🌈  Simple Fullstack GraphQL Application. API built with Express + GraphQL + Sequelize (supports MySQL, Postgres, Sqlite and MSSQL). WebApp built with React + Redux to access the API. Written in ES6 using Babel + Webpack.
 - [Todo-App-Example-with-Vuex-and-Framework7](https://github.com/valnub/Todo-App-Example-with-Vuex-and-Framework7) - 
 - [Framework7-Vue-Webpack-Cordova](https://github.com/daniegarcia254/Framework7-Vue-Webpack-Cordova) - 
 - [cordova-plugin-geolocation](https://github.com/apache/cordova-plugin-geolocation) - Apache Cordova Plugin geolocation
@@ -4031,7 +4031,7 @@
 - [react-server](https://github.com/redfin/react-server) - :rocket: Blazing fast page load and seamless navigation.
 - [cinnamon-pomodoro](https://github.com/gfreeau/cinnamon-pomodoro) - 
 - [NG6-starter](https://github.com/PatrickJS/NG6-starter) - :ng: An AngularJS Starter repo for AngularJS + ES6 + Webpack
-- [angular-starter](https://github.com/PatrickJS/angular-starter) - 
+- [angular-starter](https://github.com/PatrickJS/angular-starter) - Angular Starter
 - [mithril.js](https://github.com/MithrilJS/mithril.js) - A JavaScript Framework for Building Brilliant Applications
 - [react-media](https://github.com/ReactTraining/react-media) - CSS media queries for React
 - [community-edition](https://github.com/ramboxapp/community-edition) - Free and Open Source messaging and emailing app that combines common web applications into one.
@@ -4784,7 +4784,6 @@
 - [dl-imperial-maths](https://github.com/pukkapies/dl-imperial-maths) - Code and assignment repository for the Imperial College Mathematics department Deep Learning course
 - [big-mac-data](https://github.com/TheEconomist/big-mac-data) - Data and methodology for the Big Mac index
 - [Hello-world](https://github.com/Aniket965/Hello-world) - Add any  Program in any language you like or add a hello world Program ❣️ if you like give us :star:
-- [yolov3](https://github.com/ultralytics/yolov3) - YOLOv3 in PyTorch &gt; ONNX &gt; CoreML &gt; iOS
 - [Optimus](https://github.com/ironmussa/Optimus) - :truck: Agile Data Science Workflows made easy with Pyspark
 - [thepythonmegacourse](https://github.com/arditsulceteaching/thepythonmegacourse) - 
 - [magnet](https://github.com/MagNet-DL/magnet) - Deep Learning Projects that Build Themselves
@@ -4939,7 +4938,7 @@
 - [udacity_self_driving_car](https://github.com/philbort/udacity_self_driving_car) - Projects from Udacity Self Driving Car Nanodegree
 - [CarND-Advanced-Lane-Lines](https://github.com/upul/CarND-Advanced-Lane-Lines) - Fourth Project of the Udacity Self-Driving Car Nanodegree Program
 - [SDC-Lane-and-Vehicle-Detection-Tracking](https://github.com/galenballew/SDC-Lane-and-Vehicle-Detection-Tracking) - OpenCV in Python for lane line and vehicle detection/tracking in autonomous cars
-- [machine-learning-notes](https://github.com/roboticcam/machine-learning-notes) - My continuously updated Machine Learning, Probabilistic Models and Deep Learning notes and demos (1500+ slides)  我不间断更新的机器学习，概率模型和深度学习的讲义(1500+页)和视频链接
+- [machine-learning-notes](https://github.com/roboticcam/machine-learning-notes) - My continuously updated Machine Learning, Probabilistic Models and Deep Learning notes and demos (2000+ slides)  我不间断更新的机器学习，概率模型和深度学习的讲义(2000+页)和视频链接
 - [vae_cf](https://github.com/dawenl/vae_cf) - Variational autoencoders for collaborative filtering
 - [msu-datascience-ml-tutorial-2018](https://github.com/rasbt/msu-datascience-ml-tutorial-2018) - Machine learning with Python tutorial at MSU Data Science 2018
 - [l4-optimizer](https://github.com/martius-lab/l4-optimizer) - Code for paper "L4: Practical loss-based stepsize adaptation for deep learning"
@@ -6386,7 +6385,7 @@
 - [Awesome-MaterialDesign](https://github.com/lightSky/Awesome-MaterialDesign) - Collection of material design libs and res.
 - [material-components](https://github.com/material-components/material-components) - Documentation and policies for Material Components (all platforms)
 - [nips2016](https://github.com/hindupuravinash/nips2016) - A list of resources for all invited talks, tutorials, workshops and presentations at NIPS 2016
-- [frontend-whitelist](https://github.com/melnik909/frontend-whitelist) - Frontend WhiteList — это список полезных ресурсов для разработчиков интерфейсов
+- [favorite-frontend-resources-from-melnik909](https://github.com/melnik909/favorite-frontend-resources-from-melnik909) - Frontend WhiteList — это список полезных ресурсов для разработчиков интерфейсов
 - [DMTK](https://github.com/microsoft/DMTK) - Microsoft Distributed Machine Learning Toolkit
 - [awesome-stylus](https://github.com/diogomoretti/awesome-stylus) - ✨ A curated list of awesome Stylus
 - [awscli-aliases](https://github.com/awslabs/awscli-aliases) - Repository for AWS CLI aliases.
@@ -7836,6 +7835,7 @@
 - [kinetica-api-python](https://github.com/kineticadb/kinetica-api-python) - 
 - [nbplayer](https://github.com/Calysto/nbplayer) - A console notebook player
 - [ansible_modules](https://github.com/kenmoini/ansible_modules) - A collection of Ansible modules
+- [yolov3](https://github.com/ultralytics/yolov3) - YOLOv3 in PyTorch &gt; ONNX &gt; CoreML &gt; iOS
 - [haps](https://github.com/lunarwings/haps) - Pure Python dependency injection library
 - [prelogging](https://github.com/Twangist/prelogging) - A streamlined, consistent API for configuring logging
 - [proSR](https://github.com/fperazzi/proSR) - Repository containing an independent implementation of the paper: "A Fully Progressive Approach to Single-Image Super-Resolution"
@@ -8722,7 +8722,7 @@
 - [UNIT](https://github.com/mingyuliutw/UNIT) - Unsupervised Image-to-Image Translation
 - [pcap2curl](https://github.com/jullrich/pcap2curl) - Read a packet capture, extract HTTP requests and turn them into cURL commands for replay.
 - [rasa_core](https://github.com/RasaHQ/rasa_core) - Rasa Core is now part of the Rasa repo: An open source machine learning framework to automate text-and voice-based conversations
-- [PySyft](https://github.com/OpenMined/PySyft) - A library for privacy preserving AI
+- [PySyft](https://github.com/OpenMined/PySyft) - A library for answering questions using data you cannot see
 - [coremltools](https://github.com/apple/coremltools) - Core ML tools contain supporting tools for Core ML model conversion, editing, and validation.
 - [halo](https://github.com/manrajgrover/halo) - 💫 Beautiful spinners for terminal, IPython and Jupyter
 - [plotille](https://github.com/tammoippen/plotille) - Plot in the terminal using braille dots.
@@ -9674,7 +9674,7 @@
 - [ck-tensorflow](https://github.com/ctuning/ck-tensorflow) - Collective Knowledge components for TensorFlow (code, data sets, models, packages, workflows):
 - [python-web-pdb](https://github.com/romanvm/python-web-pdb) - Web-based remote UI for Python's PDB debugger
 - [ck-autotuning](https://github.com/ctuning/ck-autotuning) - CK automation actions to let users implement portable, customizable and reusable program workflows for reproducible, collaborative and multi-objective benchmarking, optimization and SW/HW co-design:
-- [ck](https://github.com/ctuning/ck) - Collective Knowledge (CK) is a small Python library that helps to decompose complex research projects into reusable and cross-linked components (wrappers for code, data, models and results), automation actions and portable workflows with unified APIs, CLI, and JSON I/O. The CK goal is to support collaborative and reproducible R&D projects:
+- [ck](https://github.com/ctuning/ck) - Collective Knowledge (CK) is a small Python library that helps to decompose complex research projects into reusable and cross-linked components (wrappers for code, data, models and results), automation actions and portable workflows with unified APIs, CLI, and JSON I/O. You can find more info and real-world use cases at the project website:
 - [CommAI-env](https://github.com/facebookresearch/CommAI-env) - A platform for developing AI systems as described in A Roadmap towards Machine Intelligence - http://arxiv.org/abs/1511.08130
 - [deconvfaces](https://github.com/somewacko/deconvfaces) - Generating faces with deconvolution networks
 - [whereami](https://github.com/kootenpv/whereami) - Uses WiFi signals :signal_strength: and machine learning to predict where you are
