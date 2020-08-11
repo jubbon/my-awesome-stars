@@ -710,6 +710,7 @@
 - [bigflow](https://github.com/baidu/bigflow) - Baidu Bigflow is an interface that allows for writing distributed computing programs and provides lots of simple, flexible, powerful APIs. Using Bigflow, you can easily handle data of any scale. Bigflow processes 4P+ data inside Baidu and runs about 10k jobs every day.
 - [carla](https://github.com/carla-simulator/carla) - Open-source simulator for autonomous driving research.
 - [sling](https://github.com/google/sling) - SLING - A natural language frame semantics parser
+- [vcpkg](https://github.com/microsoft/vcpkg) - C++ Library Manager for Windows, Linux, and MacOS
 - [Tars](https://github.com/TarsCloud/Tars) - Tars is a high-performance RPC framework based on name service and Tars protocol, also integrated administration platform, and implemented hosting-service via flexible schedule.
 - [taco](https://github.com/tensor-compiler/taco) - The Tensor Algebra Compiler (taco) computes sparse tensor expressions on CPUs and GPUs
 - [TileDB](https://github.com/TileDB-Inc/TileDB) - The Universal Storage Engine
@@ -980,7 +981,6 @@
 
 ## CMake 
 
-- [vcpkg](https://github.com/microsoft/vcpkg) - C++ Library Manager for Windows, Linux, and MacOS
 - [ck-caffe](https://github.com/dividiti/ck-caffe) - Collective Knowledge workflow for Caffe to automate installation across diverse platforms and to collaboratively evaluate and optimize Caffe-based workloads across diverse hardware, software and data sets (compilers, libraries, tools, models, inputs):
 
 ## CSS 
@@ -2508,7 +2508,7 @@
 - [ml-training-intro](https://github.com/amueller/ml-training-intro) - Materials for the "Introduction to Machine Learning" class
 - [dotnet](https://github.com/microsoft/dotnet) - This repo is the official home of .NET on GitHub. It's a great starting point to find many .NET OSS projects from Microsoft and the community, including many that are part of the .NET Foundation.
 - [styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
-- [Flaskex](https://github.com/anfederico/Flaskex) - Simple flask example for quick prototypes and small applications
+- [flaskex](https://github.com/anfederico/flaskex) - Simple flask example for quick prototypes and small applications
 - [geotalk](https://github.com/minikarma/geotalk) - Онлайн-курс «Визуализация геоданных»
 - [deep-review](https://github.com/greenelab/deep-review) - A collaboratively written review paper on deep learning, genomics, and precision medicine
 - [angular-interview-questions](https://github.com/khan4019/angular-interview-questions) - Most extensive Angular interview questions based on your level.
@@ -3370,7 +3370,6 @@
 - [vue-content-loader](https://github.com/egoist/vue-content-loader) - SVG component to create placeholder loading, like Facebook cards loading.
 - [hapi](https://github.com/hapijs/hapi) - The Simple, Secure Framework Developers Trust
 - [vue2-yandex-maps](https://github.com/pwnz22/vue2-yandex-maps) - 
-- [vue-yandex-map-component](https://github.com/DanilChugaev/vue-yandex-map-component) - 
 - [vow](https://github.com/dfilatov/vow) - ES6-compatible and Promises/A+ implementation for Node.js and browsers
 - [rbush](https://github.com/mourner/rbush) - RBush — a high-performance JavaScript R-tree-based 2D spatial index for points and rectangles
 - [cheap-ruler](https://github.com/mapbox/cheap-ruler) - Fast approximations for common geodesic measurements 🌐
@@ -6075,7 +6074,7 @@
 - [Uber-map-style](https://github.com/amolood/Uber-map-style) - This is uber map style
 - [AI_Freelancing](https://github.com/llSourcell/AI_Freelancing) - This is the code for "How to Do Freelance AI Programming" By Siraj Raval on Youtube
 - [vue-patterns](https://github.com/learn-vuejs/vue-patterns) - Useful Vue patterns, techniques, tips and tricks and helpful curated links.
-- [Penetration-Testing](https://github.com/Kinimiwar/Penetration-Testing) - List of awesome penetration testing resources, tools and other shiny things
+- [Penetration-Testing](https://github.com/Techlord-RCE/Penetration-Testing) - List of awesome penetration testing resources, tools and other shiny things
 - [community](https://github.com/fluttercommunity/community) - Flutter Community - A central place for community made Flutter content.
 - [awesome-machine-learning-interpretability](https://github.com/jphall663/awesome-machine-learning-interpretability) - A curated list of awesome machine learning interpretability resources.
 - [openlogos](https://github.com/arasatasaygin/openlogos) - Free logos for open source projects
@@ -7101,7 +7100,7 @@
 - [KAIR](https://github.com/cszn/KAIR) - Image Restoration Toolbox (PyTorch). Training and testing codes for USRNet, DnCNN, FFDNet, SRMD, DPSR, MSRResNet, ESRGAN, IMDN
 - [StyleGAN2-Tensorflow-2.0](https://github.com/manicman1999/StyleGAN2-Tensorflow-2.0) - StyleGAN 2 in Tensorflow 2.0
 - [BMW-TensorFlow-Inference-API-GPU](https://github.com/BMW-InnovationLab/BMW-TensorFlow-Inference-API-GPU) - This is a repository for an object detection inference API using the Tensorflow framework.
-- [BMW-TensorFlow-Training-GUI](https://github.com/BMW-InnovationLab/BMW-TensorFlow-Training-GUI) - This repository allows you to get started with a gui based training a State-of-the-art Deep Learning model with little to no configuration needed! Training with TensorFlow has never been so easy.
+- [BMW-TensorFlow-Training-GUI](https://github.com/BMW-InnovationLab/BMW-TensorFlow-Training-GUI) - This repository allows you to get started with a gui based training a State-of-the-art Deep Learning model with little to no configuration needed! NoCode training with TensorFlow has never been so easy.
 - [informer](https://github.com/paulpierre/informer) - A Telegram Mass Surveillance Bot in Python
 - [EfficientDet.Pytorch](https://github.com/toandaominh1997/EfficientDet.Pytorch) - Implementation EfficientDet: Scalable and Efficient Object Detection in PyTorch
 - [github-typo-corpus](https://github.com/mhagiwara/github-typo-corpus) - GitHub Typo Corpus: A Large-Scale Multilingual Dataset of Misspellings and Grammatical Errors
@@ -8893,7 +8892,7 @@
 - [DrQA](https://github.com/facebookresearch/DrQA) - Reading Wikipedia to Answer Open-Domain Questions
 - [pyecharts](https://github.com/pyecharts/pyecharts) - 🎨 Python Echarts Plotting Library
 - [django-rest-easy](https://github.com/Telmediq/django-rest-easy) - django-rest-easy is an extension to DRF providing QOL improvements to serializers and views.
-- [Gemini](https://github.com/anfederico/Gemini) - Backtesting for sleepless cryptocurrency markets
+- [gemini](https://github.com/anfederico/gemini) - Backtesting for sleepless cryptocurrency markets
 - [grip](https://github.com/joeyespo/grip) - Preview GitHub README.md files locally before committing them.
 - [funmath](https://github.com/mingrammer/funmath) - :umbrella: Implementations of mathematical functions, formulas and concepts
 - [conda-merge](https://github.com/amitbeka/conda-merge) - Tool to merge environment files of the conda package manager
@@ -9367,7 +9366,7 @@
 - [everett](https://github.com/willkg/everett) - configuration library for python projects
 - [donkeycar](https://github.com/autorope/donkeycar) - Open source hardware and software platform to build a small scale self driving car.
 - [exterminate](https://github.com/adtac/exterminate) - Break Python programs with a single import
-- [xlwings](https://github.com/xlwings/xlwings) - xlwings is a BSD-licensed Python library that makes it easy to call Python from Excel and vice versa. It works with Microsoft Excel on Windows and Mac. Sign up for the newsletter or follow us on twitter via
+- [xlwings](https://github.com/xlwings/xlwings) - xlwings is a BSD-licensed Python library that makes it easy to call Python from Excel and vice versa. It works with Microsoft Excel on Windows and macOS. Sign up for the newsletter or follow us on twitter via
 - [cloud-init](https://github.com/number5/cloud-init) - unofficial mirror of Ubuntu's  cloud-init
 - [bucketstore](https://github.com/jpetrucciani/bucketstore) - A simple library for interacting with Amazon S3.
 - [aleph](https://github.com/alephdata/aleph) - Search and browse documents and data; find the people and companies you look for.
@@ -9558,7 +9557,7 @@
 - [pywren](https://github.com/pywren/pywren) - Teraflops and microservices
 - [nathan](https://github.com/mseclab/nathan) - Android Emulator for mobile security testing
 - [dynet_tutorial_examples](https://github.com/clab/dynet_tutorial_examples) - Tutorial on "Practical Neural Networks for NLP: From Theory to Code" at EMNLP 2016
-- [Stocktalk](https://github.com/anfederico/Stocktalk) - Data collection tool for social media analytics
+- [stocktalk](https://github.com/anfederico/stocktalk) - Data collection tool for social media analytics
 - [warren](https://github.com/torchhound/warren) - Links to lose yourself in, curated from HN and other sources
 - [kq](https://github.com/joowani/kq) - Kafka-based Job Queue for Python
 - [fast-style-transfer](https://github.com/lengstrom/fast-style-transfer) - TensorFlow CNN for fast style transfer ⚡🖥🎨🖼
@@ -9662,7 +9661,7 @@
 - [mimesis](https://github.com/lk-geimfari/mimesis) - Mimesis is a high-performance fake data generator for Python, which provides data for a variety of purposes in a variety of languages.
 - [azure-cli](https://github.com/Azure/azure-cli) - Azure Command-Line Interface
 - [mock-import](https://github.com/posener/mock-import) - A helper mocking function to mask ImportErrors
-- [Clairvoyant](https://github.com/anfederico/Clairvoyant) - Software designed to identify and monitor social/historical cues for short term stock movement
+- [clairvoyant](https://github.com/anfederico/clairvoyant) - Software designed to identify and monitor social/historical cues for short term stock movement
 - [erpnext](https://github.com/frappe/erpnext) - Open Source Alternative to SAP
 - [flask-jwt-extended](https://github.com/vimalloc/flask-jwt-extended) - An open source Flask extension that provides JWT support (with batteries included)!
 - [streamlink](https://github.com/streamlink/streamlink) - Streamlink is a CLI utility which pipes video streams from various services into a video player
@@ -13234,7 +13233,7 @@
 - [factor](https://github.com/fiction-com/factor) - 100% JavaScript framework for marketing sites and application dashboards.
 - [massCode](https://github.com/antonreshetov/massCode) - A free and open source code snippets manager for developers.
 - [vue-ctk-date-time-picker](https://github.com/chronotruck/vue-ctk-date-time-picker) - VueJS component to select dates & time, including a range mode
-- [postwoman](https://github.com/postwoman-io/postwoman) - 👽 A free, fast and beautiful API request builder used by 70k+ developers. https://postwoman.io
+- [postwoman](https://github.com/postwoman-io/postwoman) - 👽 A free, fast and beautiful API request builder used by 71k+ developers. https://postwoman.io
 - [Scriptis](https://github.com/WeBankFinTech/Scriptis) - Scriptis is for interactive data analysis with script development(SQL, Pyspark, HiveQL), task submission(Spark, Hive), UDF, function, resource management and intelligent diagnosis.
 - [Scout](https://github.com/tevora-threat/Scout) - Surveillance Detection Scout: Your Lookout on Autopilot
 - [DynamoDb-GUI-Client](https://github.com/Arattian/DynamoDb-GUI-Client) - DynamoDb GUI Client
