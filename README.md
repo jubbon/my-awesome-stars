@@ -443,6 +443,7 @@
 ## C# # 
 
 - [acr-tasks](https://github.com/Azure-Samples/acr-tasks) - A collection samples for ACR Tasks, including acr-task.yaml and Dockerfiles.
+- [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [Microsoft-Rocketbox](https://github.com/microsoft/Microsoft-Rocketbox) - Microsoft Rocketbox is now available for research and academic use! The library of 115 rigged avatars offers flexibility, enabling the easy use of facial animations across characters and the mixing and matching of texture elements.
 - [v3](https://github.com/exercism/v3) - The work-in-progress project for developing v3 tracks
 - [furniture](https://github.com/clvrai/furniture) - IKEA Furniture Assembly Environment for Long-Horizon Complex Manipulation Tasks
@@ -486,7 +487,6 @@
 - [snappy](https://github.com/google/snappy) - A fast compressor/decompressor
 - [InsectRobotSimulation](https://github.com/neuroprod/InsectRobotSimulation) - hexapod
 - [SeetaFace6](https://github.com/seetafaceengine/SeetaFace6) - SeetaFace 6: Newest open and free, full stack face recognization toolkit.
-- [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [domoticz](https://github.com/domoticz/domoticz) - Open source Home Automation System
 - [subconverter](https://github.com/tindy2013/subconverter) - Utility to convert between various subscription format
 - [minetest](https://github.com/minetest/minetest) - Minetest, an open source infinite-world block sandbox game engine with support for survival and crafting. Also see https://github.com/minetest/minetest_game
@@ -2133,7 +2133,7 @@
 - [gorgonia](https://github.com/gorgonia/gorgonia) - Gorgonia is a library that helps facilitate machine learning in Go.
 - [go-patterns](https://github.com/tmrts/go-patterns) - Curated list of Go design patterns, recipes and idioms
 - [borg](https://github.com/ok-borg/borg) - Search and save shell snippets without leaving your terminal
-- [iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework | 谢谢 https://github.com/kataras/iris/issues/1329 |
+- [iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. A true successor of expressjs and laravel | 谢谢 https://github.com/kataras/iris/issues/1329 |
 - [primitive](https://github.com/fogleman/primitive) - Reproducing images with geometric primitives.
 - [gosl](https://github.com/cpmech/gosl) - Go scientific library for machine learning, linear algebra, FFT, Bessel, elliptic, orthogonal polys, geometry, NURBS, numerical quadrature, 3D transfinite interpolation, random numbers, Mersenne twister, probability distributions, optimisation, graph, plotting, visualisation, tensors, eigenvalues, differential equations, more.
 - [kube-cert-manager](https://github.com/PalmStoneGames/kube-cert-manager) - Manage Lets Encrypt certificates for a Kubernetes cluster.
@@ -2533,7 +2533,6 @@
 - [training-kit](https://github.com/github/training-kit) - Open source cheat sheets for Git and GitHub
 - [awesome-competitive-programming](https://github.com/lnishan/awesome-competitive-programming) - :gem: A curated list of awesome Competitive Programming, Algorithm and Data Structure resources
 - [doc-kurento-readthedocs](https://github.com/Kurento/doc-kurento-readthedocs) - [READ-ONLY] Auto-generated documentation sources for ReadTheDocs
-- [book](https://github.com/PaddlePaddle/book) - Deep Learning 101 with PaddlePaddle （『飞桨』深度学习框架入门教程）
 - [startbootstrap-creative](https://github.com/StartBootstrap/startbootstrap-creative) - A one page HTML theme for creatives by Start Bootstrap
 - [simpl](https://github.com/samdutton/simpl) - Simplest possible examples of HTML, CSS and Javascript:
 - [incident-response-docs](https://github.com/PagerDuty/incident-response-docs) - PagerDuty's Incident Response Documentation.
@@ -4669,7 +4668,7 @@
 - [single-parameter-fit](https://github.com/Ranlot/single-parameter-fit) - Real numbers, data science and chaos: How to fit any dataset with a single parameter
 - [pvnet](https://github.com/zju3dv/pvnet) - Code for "PVNet: Pixel-wise Voting Network for 6DoF Pose Estimation" CVPR 2019 oral
 - [ML](https://github.com/SudalaiRajkumar/ML) - Codes related to various ML Hackathons
-- [monodepth2](https://github.com/nianticlabs/monodepth2) - Monocular depth estimation from a single image
+- [monodepth2](https://github.com/nianticlabs/monodepth2) - [ICCV 2019] Monocular depth estimation from a single image
 - [industry-machine-learning](https://github.com/firmai/industry-machine-learning) - A curated list of applied machine learning and data science notebooks and libraries across different industries (by @firmai)
 - [Ax](https://github.com/facebook/Ax) - Adaptive Experimentation Platform
 - [Network_Science_Meets_Deep_Learning](https://github.com/vinayprabhu/Network_Science_Meets_Deep_Learning) - Designing Deep neural network architectures using topologies from the world of Complex Networks/network Science
@@ -5273,6 +5272,7 @@
 - [YouTube-Like-predictor](https://github.com/ayush1997/YouTube-Like-predictor) - YouTube Like Count Predictions using Machine Learning
 - [dlpython_course](https://github.com/sozykin/dlpython_course) - Примеры для курса "Программирование глубоких нейронных сетей на Python"
 - [attention-transfer](https://github.com/szagoruyko/attention-transfer) - Improving Convolutional Networks via Attention Transfer (ICLR 2017)
+- [book](https://github.com/PaddlePaddle/book) - Deep Learning 101 with PaddlePaddle （『飞桨』深度学习框架入门教程）
 - [Realtime_Multi-Person_Pose_Estimation](https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation) - Code repo for realtime multi-person pose estimation in CVPR'17 (Oral)
 - [sklearn-deeprl](https://github.com/yandexdataschool/sklearn-deeprl) - Deep reinforcement learning. In scikit-learn. In less than 50 effective lines.
 - [Study-Data-Science](https://github.com/nyanye/Study-Data-Science) - Practical data science notebooks that I used to study at 2016
@@ -5844,7 +5844,7 @@
 - [MIT-Linear-Algebra-Notes](https://github.com/yizhen20133868/MIT-Linear-Algebra-Notes) - Notes for MIT-Linear-Algebra
 - [Cookbook](https://github.com/andkret/Cookbook) - The Data Engineering Cookbook
 - [dn](https://github.com/tomlockwood/dn) - Daily notes command line tool
-- [awesome-robotic-tooling](https://github.com/protontypes/awesome-robotic-tooling) - Tools for professional robotic development in C++ and Python with a touch of autonomous driving and aerospace
+- [awesome-robotic-tooling](https://github.com/protontypes/awesome-robotic-tooling) - Tools for professional robotic development in C++ and Python with a touch of ROS, autonomous driving and aerospace
 - [awesome-graph](https://github.com/jbmusso/awesome-graph) - A curated list of resources for graph databases and graph computing tools
 - [For-Data-Science-Beginners](https://github.com/amrrs/For-Data-Science-Beginners) - Set of 📝 with 🔗 to help those who are Data Science beginners 🤖
 - [awesome-libra](https://github.com/reed-hong/awesome-libra) - A Curated List of Awesome Facebook Libra Resources
@@ -6310,7 +6310,7 @@
 - [awesome-wasm](https://github.com/mbasso/awesome-wasm) - 😎 Curated list of awesome things regarding WebAssembly (wasm) ecosystem.
 - [lets-learn-jobs](https://github.com/gu-app-club/lets-learn-jobs) - The open archive of GU-MAD's advice for CS majors
 - [javascript-interview](https://github.com/jkup/javascript-interview) - A list of JavaScript interview resources
-- [Sublime-Text-Plugins-for-Frontend-Web-Development](https://github.com/jfilter/Sublime-Text-Plugins-for-Frontend-Web-Development) - 📝 A Collection of Plugins for Frontend Web Development
+- [Sublime-Text-Plugins-for-Frontend-Web-Development](https://github.com/jfilter/Sublime-Text-Plugins-for-Frontend-Web-Development) - 📝 Collection of plugins for Frontend Web Development
 - [free-tech-ebooks-from-packtpub](https://github.com/tahmid-choyon/free-tech-ebooks-from-packtpub) - A collection of free ebooks from Packt Publishing [Regularly Updated]
 - [2017](https://github.com/wwdc/2017) - Student Submissions for the WWDC 2017 Scholarship
 - [SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
@@ -6756,7 +6756,7 @@
 - [MolecularTransformer](https://github.com/pschwllr/MolecularTransformer) - 
 - [TopicNet](https://github.com/machine-intelligence-laboratory/TopicNet) - Interface for easier topic modelling.
 - [nlp](https://github.com/huggingface/nlp) - 🤗nlp – Datasets and evaluation metrics for Natural Language Processing in NumPy, Pandas, PyTorch and TensorFlow
-- [TensorFlowTTS](https://github.com/TensorSpeech/TensorFlowTTS) - :stuck_out_tongue_closed_eyes: TensorFlowTTS: Real-Time State-of-the-art Speech Synthesis for Tensorflow 2 (supported including English, Korean)
+- [TensorFlowTTS](https://github.com/TensorSpeech/TensorFlowTTS) - :stuck_out_tongue_closed_eyes: TensorFlowTTS: Real-Time State-of-the-art Speech Synthesis for Tensorflow 2 (supported including English, Korean, Chinese)
 - [tuya-convert](https://github.com/ct-Open-Source/tuya-convert) - A collection of scripts to flash Tuya IoT devices to alternative firmwares
 - [rich](https://github.com/willmcgugan/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [pyTelegramBotAPI](https://github.com/eternnoir/pyTelegramBotAPI) - Python Telegram bot api.
@@ -7112,7 +7112,7 @@
 - [gym-minigrid](https://github.com/maximecb/gym-minigrid) - Minimalistic gridworld package for OpenAI Gym
 - [StarGAN-Voice-Conversion](https://github.com/liusongxiang/StarGAN-Voice-Conversion) - This is a pytorch implementation of the paper: StarGAN-VC: Non-parallel many-to-many voice conversion with star generative adversarial networks
 - [deconvolution](https://github.com/yechengxi/deconvolution) - 
-- [FasterSeg](https://github.com/TAMU-VITA/FasterSeg) - [ICLR 2020] "FasterSeg: Searching for Faster Real-time Semantic Segmentation" by Wuyang Chen, Xinyu Gong, Xianming Liu, Qian Zhang, Yuan Li, Zhangyang Wang
+- [FasterSeg](https://github.com/VITA-Group/FasterSeg) - [ICLR 2020] "FasterSeg: Searching for Faster Real-time Semantic Segmentation" by Wuyang Chen, Xinyu Gong, Xianming Liu, Qian Zhang, Yuan Li, Zhangyang Wang
 - [facelib_modular_face_recognition_pipline](https://github.com/Alloooshe/facelib_modular_face_recognition_pipline) - simple and modular framework to perform all stages of face recognition pipeline (detection, alignment, embedding, matching) with the possibility to add and use different models and techniques for each stage and can be used for images and videos.
 - [bananas](https://github.com/naszilla/bananas) - Bayesian Optimization with Neural Architectures for Neural Architecture Search - https://arxiv.org/abs/1910.11858
 - [TorchRay](https://github.com/facebookresearch/TorchRay) - Understanding Deep Networks via Extremal Perturbations and Smooth Masks
@@ -7581,7 +7581,7 @@
 - [spektral](https://github.com/danielegrattarola/spektral) - Graph Neural Networks with Keras and Tensorflow 2.
 - [ludwig](https://github.com/uber/ludwig) - Ludwig is a toolbox built on top of TensorFlow that allows to train and test deep learning models without the need to write code.
 - [project_alias](https://github.com/bjoernkarmann/project_alias) - Alias is a teachable “parasite” that is designed to give users more control over their smart assistants, both when it comes to customisation and privacy. Through a simple app the user can train Alias to react on a custom wake-word/sound, and once trained, Alias can take control over your home assistant by activating it for you.
-- [gita](https://github.com/nosarthur/gita) - Manage many git repos with sanity 不疯了似地管理多个git库
+- [gita](https://github.com/nosarthur/gita) - Manage many git repos with sanity 理智管理多个git库
 - [ffhq-dataset](https://github.com/NVlabs/ffhq-dataset) - Flickr-Faces-HQ Dataset (FFHQ)
 - [ImageNet-Adversarial-Training](https://github.com/facebookresearch/ImageNet-Adversarial-Training) - ImageNet classifier with state-of-the-art adversarial robustness
 - [bert-embedding](https://github.com/imgarylai/bert-embedding) - 🔡 Token level embeddings from BERT model on mxnet and gluonnlp
@@ -9375,7 +9375,7 @@
 - [glazier](https://github.com/google/glazier) - A tool for automating the installation of the Microsoft Windows operating system on various device platforms.
 - [hello-vue-django](https://github.com/rokups/hello-vue-django) - vuejs and Django integration with hot code reload. Dont use this, use https://github.com/NdagiStanley/vue-django or https://github.com/gtalarico/django-vue-template
 - [tdigest](https://github.com/CamDavidsonPilon/tdigest) - t-Digest data structure in Python. Useful for percentiles and quantiles, including distributed enviroments like PySpark
-- [Amazon-Alert](https://github.com/anfederico/Amazon-Alert) - Track prices on Amazon and receive email alerts for price drops
+- [amazon-alert](https://github.com/anfederico/amazon-alert) - Track prices on Amazon and receive email alerts for price drops
 - [ThreadTone](https://github.com/theveloped/ThreadTone) - a halftone representation of an image made of thread
 - [yarl](https://github.com/aio-libs/yarl) - Yet another URL library
 - [pep8speaks](https://github.com/OrkoHunter/pep8speaks) - A GitHub :octocat: app to automatically review Python code style over Pull Requests
@@ -9671,7 +9671,7 @@
 - [ck-tensorflow](https://github.com/ctuning/ck-tensorflow) - Collective Knowledge components for TensorFlow (code, data sets, models, packages, workflows):
 - [python-web-pdb](https://github.com/romanvm/python-web-pdb) - Web-based remote UI for Python's PDB debugger
 - [ck-autotuning](https://github.com/ctuning/ck-autotuning) - CK automation actions to let users implement portable, customizable and reusable program workflows for reproducible, collaborative and multi-objective benchmarking, optimization and SW/HW co-design:
-- [ck](https://github.com/ctuning/ck) - Collective Knowledge (CK) is a small Python library that helps to decompose complex research projects into reusable and cross-linked components (wrappers for code, data, models and results), automation actions and portable workflows with unified APIs, CLI, and JSON I/O. You can find more info and real-world use cases at the project website:
+- [ck](https://github.com/ctuning/ck) - Collective Knowledge framework (CK) helps to decompose complex research projects into reusable and cross-linked components (wrappers for code, data, models and results), automation actions and portable workflows with unified APIs, CLI, and JSON I/O. You can find more info and some real-world use cases at the project website:
 - [CommAI-env](https://github.com/facebookresearch/CommAI-env) - A platform for developing AI systems as described in A Roadmap towards Machine Intelligence - http://arxiv.org/abs/1511.08130
 - [deconvfaces](https://github.com/somewacko/deconvfaces) - Generating faces with deconvolution networks
 - [whereami](https://github.com/kootenpv/whereami) - Uses WiFi signals :signal_strength: and machine learning to predict where you are
@@ -12860,7 +12860,7 @@
 
 ## Smarty 
 
-- [amundsen](https://github.com/lyft/amundsen) - Amundsen is a metadata driven application for improving the productivity of data analysts, data scientists and engineers when interacting with data.
+- [amundsen](https://github.com/amundsen-io/amundsen) - Amundsen is a metadata driven application for improving the productivity of data analysts, data scientists and engineers when interacting with data.
 - [temporalpw](https://github.com/tkooda/temporalpw) - Temporary secure password storage for transmission over insecure channels
 - [YaC2014](https://github.com/koldunovn/YaC2014) - Files for Yandex YaC2014 conference talk
 
