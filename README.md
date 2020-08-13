@@ -825,7 +825,7 @@
 - [zurl](https://github.com/fanout/zurl) - HTTP and WebSocket client worker with ZeroMQ interface
 - [pushpin](https://github.com/fanout/pushpin) - Reverse proxy for realtime web services
 - [Visually-Algorithm](https://github.com/Kiroeko/Visually-Algorithm) - This is a A* Algorithm Visually Display Demo that shows Us How Computer Deal With Pathfinding。
-- [DeepSpeech](https://github.com/mozilla/DeepSpeech) - Mozilla Voice STT is an open source speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.
+- [STT](https://github.com/mozilla/STT) - Mozilla Voice STT is an open source speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.
 - [deepmath](https://github.com/tensorflow/deepmath) - Experiments towards neural network theorem proving
 - [float-hacks](https://github.com/leegao/float-hacks) - Floating Point Hacks
 - [tera](https://github.com/baidu/tera) - An Internet-Scale Database.
@@ -2248,7 +2248,6 @@
 - [PortFolio_Website](https://github.com/akashyap2013/PortFolio_Website) - Complete Portfolio Website with Bootstrap - HTML/CSS In this project, we are going to learn and build how to create a complete portfolio website with bootstrap using HTML and CSS. We will understand everything from scratch.
 - [DevOps-Guide](https://github.com/Tikam02/DevOps-Guide) - DevOps Guide from basic to advanced with Interview Questions and Notes 🔥
 - [ggstatsplot](https://github.com/IndrajeetPatil/ggstatsplot) - Enhancing `ggplot2` plots with statistical analysis 📊🎨📣
-- [TheHive](https://github.com/TheHive-Project/TheHive) - TheHive: a Scalable, Open Source and Free Security Incident Response Platform
 - [pyvis](https://github.com/WestHealth/pyvis) - Python package for creating and visualizing interactive network graphs.
 - [moveit_tutorials](https://github.com/ros-planning/moveit_tutorials) - A sphinx-based centralized documentation repo for MoveIt
 - [sql-formatter](https://github.com/jdorn/sql-formatter) - A lightweight php class for formatting sql statements. Handles automatic indentation and syntax highlighting.
@@ -2925,6 +2924,7 @@
 - [serverless-offline](https://github.com/dherault/serverless-offline) - Emulate AWS λ and API Gateway locally when developing your Serverless project
 - [serverless-aws-static-file-handler](https://github.com/activescott/serverless-aws-static-file-handler) - Easily serve static files with the Serverless Framework on AWS Lambda.
 - [Leaflet.Control.Layers.Tree](https://github.com/jjimenezshaw/Leaflet.Control.Layers.Tree) - a Tree Layers Control for Leaflet
+- [TheHive](https://github.com/TheHive-Project/TheHive) - TheHive: a Scalable, Open Source and Free Security Incident Response Platform
 - [zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt) - Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨
 - [tsdx](https://github.com/formium/tsdx) - Zero-config CLI for TypeScript package development
 - [react-typescript-cheatsheet](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet) - Cheatsheets for experienced React developers getting started with TypeScript
@@ -2940,7 +2940,6 @@
 - [Mock](https://github.com/nuysoft/Mock) - A simulation data generator
 - [vk-mini-app-boilerplate](https://github.com/iSa1vatore/vk-mini-app-boilerplate) - Стартовый кит для создания сервиса на платформе VK Mini Apps с использованием React + Redux
 - [geojson.io](https://github.com/mapbox/geojson.io) - IMPORTANT: development of this project has been paused, see the README (fast, simple map creation)
-- [vue-indoor](https://github.com/mudin/vue-indoor) - VueJS wrapper for indoorjs
 - [coexisting-vue-microfrontends](https://github.com/joeldenning/coexisting-vue-microfrontends) - A repo showing separate vue apps coexisting as microfrontends with single-spa
 - [microsoft-authentication-library-for-js](https://github.com/AzureAD/microsoft-authentication-library-for-js) - Microsoft Authentication Library (MSAL) for JS
 - [crypto-js](https://github.com/brix/crypto-js) - JavaScript library of crypto standards.
@@ -3544,7 +3543,6 @@
 - [docker-registry-frontend](https://github.com/kwk/docker-registry-frontend) - Browse and modify your Docker registry in a browser.
 - [geo-maps](https://github.com/simonepri/geo-maps) - 🗺 High Quality GeoJSON maps programmatically generated.
 - [HTMLHint](https://github.com/htmlhint/HTMLHint) - ⚙️ The static code analysis tool you need for your HTML
-- [github-file-icon](https://github.com/homerchen19/github-file-icon) - 🌈 🗂 A browser extension which gives different filetypes different icons to GitHub, GitLab, gitea and gogs.
 - [inmap](https://github.com/TalkingData/inmap) - 大数据地理可视化
 - [headless-devtools](https://github.com/cowchimp/headless-devtools) - Lets you perform Chrome DevTools actions from code by leveraging Headless Chrome+Puppeteer
 - [object-explorer](https://github.com/sdras/object-explorer) - 🔥 A resource to help figure out what JavaScript object method would be best to use at any given time
@@ -6014,6 +6012,7 @@
 - [Task-Oriented-Dialogue-Research-Progress-Survey](https://github.com/AtmaHou/Task-Oriented-Dialogue-Research-Progress-Survey) - A datasets and methods survey about task-oriented dialogue, including recent datasets and SOTA leaderboards.
 - [awesome-pytorch-scholarship](https://github.com/arnas/awesome-pytorch-scholarship) - A list of awesome PyTorch scholarship articles, guides, blogs, courses and other resources.
 - [APISecurityBestPractices](https://github.com/GitGuardian/APISecurityBestPractices) - Resources to help you keep secrets (API keys, database credentials, certificates, ...) out of source code and remediate the issue in case of a leaked API key. Made available by GitGuardian.
+- [koop](https://github.com/koopjs/koop) - :crystal_ball: Transform, query, and download geospatial data on the web.
 - [kamerka](https://github.com/woj-ciech/kamerka) - Build interactive map of cameras from Shodan
 - [promise-cookbook](https://github.com/mattdesl/promise-cookbook) - :orange_book: a brief introduction to using Promises in JavaScript
 - [awesome-promises](https://github.com/wbinnssmith/awesome-promises) - A curated list of useful resources for JavaScript Promises
@@ -7031,7 +7030,7 @@
 - [GANLatentDiscovery](https://github.com/anvoynov/GANLatentDiscovery) - The authors official implementation of Unsupervised Discovery of Interpretable Directions in the GAN Latent Space
 - [Pytorch-tensorboard_tutorial](https://github.com/HyoungsungKim/Pytorch-tensorboard_tutorial) - Pytorch-tensorboard simple tutorial and example for a beginner
 - [pyrobolearn](https://github.com/robotlearn/pyrobolearn) - PyRoboLearn: a Python framework for Robot Learning
-- [habitat-api](https://github.com/facebookresearch/habitat-api) - A modular high-level library to train embodied AI agents across a variety of tasks, environments, and simulators.
+- [habitat-lab](https://github.com/facebookresearch/habitat-lab) - A modular high-level library to train embodied AI agents across a variety of tasks, environments, and simulators.
 - [DeepSpeed](https://github.com/microsoft/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training easy, efficient, and effective.
 - [pytorch-wrapper](https://github.com/jkoutsikakis/pytorch-wrapper) - Provides a systematic and extensible way to build, train, evaluate, and tune deep learning models using PyTorch.
 - [SADA](https://github.com/ajhamdi/SADA) - SADA: Semantic Adversarial Diagnostic Attacks for Autonomous Applications (AAAI 2020)
@@ -12719,7 +12718,6 @@
 - [nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook) - How to improve NGINX performance, security, and other important things.
 - [fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [containers-roadmap](https://github.com/aws/containers-roadmap) - This is the public roadmap for AWS container services (ECS, ECR, Fargate, and EKS).
-- [koop](https://github.com/koopjs/koop) - :crystal_ball: Transform, query, and download geospatial data on the web.
 - [distributions](https://github.com/nodesource/distributions) - NodeSource Node.js Binary Distributions
 - [generate-ssl-certs-for-local-development](https://github.com/kingkool68/generate-ssl-certs-for-local-development) - A bash script for generating trusted self-signed SSL certs for local development on your Mac
 - [torchcv](https://github.com/donnyyou/torchcv) - A PyTorch-Based Framework for Deep Learning in Computer Vision
@@ -13081,6 +13079,7 @@
 - [pluggable-autocomplete](https://github.com/Sammons/pluggable-autocomplete) - Allows writing simple extensions to get suggestions for values from external data sources
 - [majestic](https://github.com/Raathigesh/majestic) - ⚡ Zero config GUI for Jest
 - [vuesion](https://github.com/vuesion/vuesion) - The most complete boilerplate for production-ready PWAs. With focus on performance, development speed, and best practices
+- [github-file-icons](https://github.com/homerchen19/github-file-icons) - 🌈 🗂 A browser extension which gives different filetypes different icons to GitHub, GitLab, gitea and gogs.
 - [caprover](https://github.com/caprover/caprover) - [previously CaptainDuckDuck] Automated Scalable PaaS Package (automated Docker+nginx) - Heroku on Steroids
 - [boardgame.io](https://github.com/boardgameio/boardgame.io) - State Management for Turn-Based Games
 - [stimulus](https://github.com/stimulusjs/stimulus) - A modest JavaScript framework for the HTML you already have
@@ -13233,6 +13232,7 @@
 - [factor](https://github.com/fiction-com/factor) - 100% JavaScript framework for marketing sites and application dashboards.
 - [massCode](https://github.com/antonreshetov/massCode) - A free and open source code snippets manager for developers.
 - [vue-ctk-date-time-picker](https://github.com/chronotruck/vue-ctk-date-time-picker) - VueJS component to select dates & time, including a range mode
+- [vue-indoor](https://github.com/mudin/vue-indoor) - VueJS wrapper for indoorjs
 - [postwoman](https://github.com/postwoman-io/postwoman) - 👽 A free, fast and beautiful API request builder used by 71k+ developers. https://postwoman.io
 - [Scriptis](https://github.com/WeBankFinTech/Scriptis) - Scriptis is for interactive data analysis with script development(SQL, Pyspark, HiveQL), task submission(Spark, Hive), UDF, function, resource management and intelligent diagnosis.
 - [Scout](https://github.com/tevora-threat/Scout) - Surveillance Detection Scout: Your Lookout on Autopilot
