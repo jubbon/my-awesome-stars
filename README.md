@@ -915,7 +915,8 @@
 - [v8](https://github.com/v8/v8) - The official mirror of the V8 Git repository
 - [falco](https://github.com/falcosecurity/falco) - Cloud Native Runtime Security
 - [sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at:
-- [amazon-dsstne](https://github.com/amzn/amazon-dsstne) - Deep Scalable Sparse Tensor Network Engine (DSSTNE) is an Amazon developed library for building Deep Learning (DL) machine learning (ML) models
+- [amazon-dsstne](https://github.com/amazon-archives/amazon-dsstne) - Deep Scalable Sparse Tensor Network Engine (DSSTNE) is an Amazon developed library for building Deep Learning (DL) machine learning (ML) models
+- [Telegram](https://github.com/DrKLO/Telegram) - Telegram for Android source
 - [aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
 - [easyLambda](https://github.com/haptork/easyLambda) - distributed dataflows with functional list operations for data processing with C++14
 - [moderngpu](https://github.com/moderngpu/moderngpu) - Patterns and behaviors for GPU computing
@@ -2828,7 +2829,6 @@
 - [TroikaDumper](https://github.com/gshevtsov/TroikaDumper) - Дампер и парсер памяти карты Тройка
 - [incubator-heron](https://github.com/apache/incubator-heron) - Apache Heron (Incubating) is a realtime, distributed, fault-tolerant stream processing engine from Twitter
 - [orientdb](https://github.com/orientechnologies/orientdb) - OrientDB is the most versatile DBMS supporting Graph, Document, Reactive, Full-Text, Geospatial and Key-Value models in one Multi-Model product. OrientDB can run distributed (Multi-Master), supports SQL, ACID Transactions, Full-Text indexing and Reactive Queries. OrientDB Community Edition is Open Source using a liberal Apache 2 license.
-- [Telegram](https://github.com/DrKLO/Telegram) - Telegram for Android source
 - [gson](https://github.com/google/gson) - A Java serialization/deserialization library to convert Java Objects into JSON and back
 - [flink](https://github.com/apache/flink) - Apache Flink
 - [databus](https://github.com/linkedin/databus) - Source-agnostic distributed change data capture system
@@ -6922,7 +6922,7 @@
 - [Bert-Multi-Label-Text-Classification](https://github.com/lonePatient/Bert-Multi-Label-Text-Classification) - This repo contains a PyTorch implementation of a pretrained BERT model for multi-label text classification.
 - [Complex-YOLO](https://github.com/AI-liu/Complex-YOLO) - Complex-YOLO: Real-time 3D Object Detection on Point Clouds   pytorch  Darknet
 - [Pytorch_Mask_RCNN](https://github.com/soeaver/Pytorch_Mask_RCNN) - Converted from [tf+keras version MASK-RCNN](https://github.com/matterport/Mask_RCNN)
-- [schemathesis](https://github.com/kiwicom/schemathesis) - A tool that generates and runs test cases for Open API / Swagger based apps
+- [schemathesis](https://github.com/kiwicom/schemathesis) - A tool that generates and runs test cases for Open API / GraphQL based apps
 - [doc2vec](https://github.com/ibrahimsharaf/doc2vec) - Text classification using Doc2Vec embeddings
 - [role2vec](https://github.com/benedekrozemberczki/role2vec) - A scalable Gensim implementation of "Learning Role-based Graph Embeddings" (IJCAI 2018).
 - [webvectors](https://github.com/akutuzov/webvectors) - Web-ify your word2vec: framework to serve distributional semantic models online
@@ -7262,7 +7262,7 @@
 - [hypothesis-auto](https://github.com/timothycrosley/hypothesis-auto) - An extensions for Hypothesis that provides fully automatic testing for type hinted functions
 - [bake](https://github.com/kennethreitz-archive/bake) - Bake — the strangely familiar workflow utility.
 - [multi-agent-emergence-environments](https://github.com/openai/multi-agent-emergence-environments) - Environment generation code for the paper "Emergent Tool Use From Multi-Agent Autocurricula"
-- [alexa-prize-topical-chat-dataset](https://github.com/alexa/alexa-prize-topical-chat-dataset) - A dataset containing human-human knowledge-grounded open-domain conversations.
+- [Topical-Chat](https://github.com/alexa/Topical-Chat) - A dataset containing human-human knowledge-grounded open-domain conversations.
 - [case-212](https://github.com/developers-against-repressions/case-212) - Открытое письмо специалистов IT-индустрии в защиту фигурантов «московского дела»
 - [a-PyTorch-Tutorial-to-Object-Detection](https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Object-Detection) - SSD: Single Shot MultiBox Detector | a PyTorch Tutorial to Object Detection
 - [places365](https://github.com/CSAILVision/places365) - The Places365-CNNs for Scene Classification
@@ -9987,7 +9987,7 @@
 - [bless](https://github.com/Netflix/bless) - Repository for BLESS, an SSH Certificate Authority that runs as a AWS Lambda function
 - [WeatherDesk](https://github.com/bharadwaj-raju/WeatherDesk) - MOVED: https://gitlab.com/bharadwaj-raju/WeatherDesk
 - [OpenWPM](https://github.com/mozilla/OpenWPM) - A web privacy measurement framework
-- [http-prompt](https://github.com/eliangcs/http-prompt) - HTTPie + prompt_toolkit = an interactive command-line HTTP client featuring autocomplete and syntax highlighting
+- [http-prompt](https://github.com/httpie/http-prompt) - HTTPie + prompt_toolkit = an interactive command-line HTTP client featuring autocomplete and syntax highlighting
 - [TranscriptBot](https://github.com/agermanidis/TranscriptBot) - Auto-transcribe your meetings to Slack in real time
 - [datatest](https://github.com/shawnbrown/datatest) - Tools for test driven data-wrangling and data validation.
 - [say_what](https://github.com/joshnewlan/say_what) - Using speech-to-text to fully check out during con calls
@@ -11486,7 +11486,7 @@
 - [pyjstat](https://github.com/predicador37/pyjstat) - pyjstat is a python library for JSON-stat formatted data manipulation which allows reading and writing JSON-stat [1] format with python,using the DataFrame structures provided by the widely accepted pandas library
 - [NouGAT](https://github.com/vezzi/NouGAT) - 
 - [mittn](https://github.com/F-Secure/mittn) - Mittn: Security test tool runner for test automation in CI
-- [httpie](https://github.com/httpie/httpie) - Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/clihttp
+- [httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/clihttp
 - [cytoolz](https://github.com/pytoolz/cytoolz) - Cython implementation of Toolz: High performance functional utilities
 - [Spirit](https://github.com/nitely/Spirit) - Spirit is a modern Python based forum built on top of Django framework
 - [container-agent](https://github.com/googlearchive/container-agent) - Simple agent for running containers based on a declarative manifest.
