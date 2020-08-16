@@ -3460,7 +3460,7 @@
 - [vue-tweezing](https://github.com/posva/vue-tweezing) - 💃 Easy, customizable and automatic tweening nicely served in scoped slots
 - [vue-promised](https://github.com/posva/vue-promised) - 💝 Promises as components
 - [vue-raven](https://github.com/anteriovieira/vue-raven) - vue-raven automatically reports uncaught JavaScript exceptions triggered from vue component
-- [vue-routisan](https://github.com/mikerockett/vue-routisan) - Elegant route definitions for Vue Router. Based on Laravel routing system. (v3 coming soon!)
+- [vue-routisan](https://github.com/mikerockett/vue-routisan) - Elegant, fluent route definitions for Vue Router, inspired by Laravel. v3-alpha coming soon: https://github.com/mikerockett/vue-routisan/tree/develop
 - [vue-session](https://github.com/victorsferreira/vue-session) - A simplistic session plugin for VueJS backed by SessionStorage and LocalStorage
 - [vue-cordova-demo](https://github.com/kartsims/vue-cordova-demo) - Demo for vue-cordova NPM package
 - [terriajs](https://github.com/TerriaJS/terriajs) - A library for building rich, web-based geospatial data explorers.
@@ -6620,7 +6620,7 @@
 - [dive-into-machine-learning](https://github.com/hangtwenty/dive-into-machine-learning) - Dive into Machine Learning with Python Jupyter notebook and scikit-learn!
 - [binder](https://github.com/binder-project/binder) - reproducible executable environments
 - [ohmu](https://github.com/paul-nechifor/ohmu) - View space usage in your terminal.
-- [js-must-watch](https://github.com/bolshchikov/js-must-watch) - Must-watch videos about javascript **Looking for maintainer**
+- [js-must-watch](https://github.com/bolshchikov/js-must-watch) - Must-watch videos about javascript
 - [nyctaxitrips](https://github.com/andresmh/nyctaxitrips) - nyc taxi data
 - [datasharing](https://github.com/jtleek/datasharing) - The Leek group guide to data sharing
 - [process-commoncrawl-with-emr](https://github.com/stasov/process-commoncrawl-with-emr) - A short demo that shows how to launch an EMR cluster with spot instances using the CLI, copy a part of the commonCrawl AWS public data set using s3distCP and how to use the grep implementation from the Hadoop examples jar to find what Big Data is
@@ -7304,7 +7304,7 @@
 - [transitfeed](https://github.com/google/transitfeed) - A Python library for reading, validating, and writing transit schedule information in the GTFS format.
 - [phyre](https://github.com/facebookresearch/phyre) - PHYRE is a benchmark for physical reasoning.
 - [telegram-bot-framework](https://github.com/alvarogzp/telegram-bot-framework) - Python Telegram bot API framework
-- [DeblurGANv2](https://github.com/TAMU-VITA/DeblurGANv2) - [ICCV 2019] "DeblurGAN-v2: Deblurring (Orders-of-Magnitude) Faster and Better" by Orest Kupyn, Tetiana Martyniuk, Junru Wu, Zhangyang Wang
+- [DeblurGANv2](https://github.com/VITA-Group/DeblurGANv2) - [ICCV 2019] "DeblurGAN-v2: Deblurring (Orders-of-Magnitude) Faster and Better" by Orest Kupyn, Tetiana Martyniuk, Junru Wu, Zhangyang Wang
 - [pyforest](https://github.com/8080labs/pyforest) - pyforest - feel the bliss of automated imports
 - [igbot](https://github.com/ohld/igbot) - 🐙 Free scripts, bots and Python API wrapper. Get free followers with our auto like, auto follow and other scripts!
 - [bsuite](https://github.com/deepmind/bsuite) - bsuite is a collection of carefully-designed experiments that investigate core capabilities of a reinforcement learning (RL) agent
@@ -10027,7 +10027,7 @@
 - [twtxt](https://github.com/buckket/twtxt) - Decentralised, minimalist microblogging service for hackers.
 - [colorlover](https://github.com/plotly/colorlover) - Color scales in Python for humans
 - [dtags](https://github.com/joowani/dtags) - Directory Tags for Lazy Programmers
-- [tnote](https://github.com/tasdikrahman/tnote) - :clipboard: A command line note taking app so simple that even your granny will love it!
+- [tnote](https://github.com/tasdikrahman/tnote) - :clipboard: A command line note taking app so simple that even your grandparents will love it!
 - [watermark](https://github.com/rasbt/watermark) - An IPython magic extension for printing date and time stamps, version numbers, and hardware information
 - [pydocstyle](https://github.com/PyCQA/pydocstyle) - docstring style checker
 - [viz](https://github.com/donnemartin/viz) - Visualize GitHub's most popular repos.  http://www.donnemartin.com/viz
