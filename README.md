@@ -1698,7 +1698,7 @@
 - [sshw](https://github.com/yinheli/sshw) - 🐝  ssh client wrapper for automatic login
 - [tableflip](https://github.com/cloudflare/tableflip) - Graceful process restarts in Go
 - [photoprism](https://github.com/photoprism/photoprism) - Personal Photo Management powered by Go and Google TensorFlow
-- [mole](https://github.com/davrodpin/mole) - cli app to create ssh tunnels
+- [mole](https://github.com/davrodpin/mole) - CLI application to create ssh tunnels focused on resiliency and user experience.
 - [shuttle](https://github.com/sipt/shuttle) - A web proxy in Golang with amazing features.
 - [mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation
 - [gi](https://github.com/goki/gi) - Native Go (golang) Graphical Interface system (2D and 3D), built on GoKi tree framework
@@ -2927,7 +2927,7 @@
 - [TheHive](https://github.com/TheHive-Project/TheHive) - TheHive: a Scalable, Open Source and Free Security Incident Response Platform
 - [zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt) - Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨
 - [tsdx](https://github.com/formium/tsdx) - Zero-config CLI for TypeScript package development
-- [react-typescript-cheatsheet](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet) - Cheatsheets for experienced React developers getting started with TypeScript
+- [react](https://github.com/typescript-cheatsheets/react) - Cheatsheets for experienced React developers getting started with TypeScript
 - [stealing-ur-feelings](https://github.com/noahlevenson/stealing-ur-feelings) - Winner of Mozilla's $50,000 prize for art and advocacy exploring AI
 - [kubernetes-basicLearning](https://github.com/knrt10/kubernetes-basicLearning) - Understand kubernetes step by step. A simple repo for beginners :fire:
 - [joi](https://github.com/sideway/joi) - The most powerful data validation library for JS
@@ -6452,7 +6452,7 @@
 - [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision) - A curated list of deep learning resources for computer vision
 - [angular-performance-checklist](https://github.com/mgechev/angular-performance-checklist) - ⚡ Cheatsheet for developing lightning fast progressive Angular applications.
 - [materia-designer-public](https://github.com/materiahq/materia-designer-public) - A modern development environment to build advanced mobile and web applications.
-- [awesome-cmake](https://github.com/onqtam/awesome-cmake) - A curated list of awesome CMake resources, scripts, modules, examples and others.
+- [awesome-cmake](https://github.com/onqtam/awesome-cmake) - A curated list of awesome CMake resources, scripts, modules and examples.
 - [awesome-design](https://github.com/gztchan/awesome-design) - 🌟Curated design resources
 - [node-playbook](https://github.com/HiFaraz/node-playbook) - Get started fast with Node.js
 - [awesome-ddd](https://github.com/heynickc/awesome-ddd) - A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming resources
@@ -7135,7 +7135,7 @@
 - [wemake-python-package](https://github.com/wemake-services/wemake-python-package) - Bleeding edge cookiecutter template to create new python packages
 - [statuspage](https://github.com/jayfk/statuspage) - A statuspage generator that lets you host your statuspage for free on Github.
 - [traffic-flow-sim](https://github.com/kdelrosso/traffic-flow-sim) - Python class to simulate the Biham-Middleton-Levine traffic model
-- [SLM-Lab](https://github.com/kengz/SLM-Lab) - Modular Deep Reinforcement Learning framework in PyTorch.
+- [SLM-Lab](https://github.com/kengz/SLM-Lab) - Modular Deep Reinforcement Learning framework in PyTorch. Companion library of the book "Foundations of Deep Reinforcement Learning".
 - [mujoco-py](https://github.com/openai/mujoco-py) - MuJoCo is a physics engine for detailed, efficient rigid body simulations with contacts. mujoco-py allows using MuJoCo from Python 3.
 - [TD3](https://github.com/sfujim/TD3) - Author's PyTorch implementation of TD3 for OpenAI gym tasks
 - [softlearning](https://github.com/rail-berkeley/softlearning) - Softlearning is a reinforcement learning framework for training maximum entropy policies in continuous domains. Includes the official implementation of the Soft Actor-Critic algorithm.
@@ -8339,7 +8339,7 @@
 - [sqlalchemy-continuum](https://github.com/kvesteri/sqlalchemy-continuum) - Versioning extension for SQLAlchemy.
 - [asyncpgsa](https://github.com/CanopyTax/asyncpgsa) - A wrapper around asyncpg for use with sqlalchemy
 - [open-solution-toxic-comments](https://github.com/minerva-ml/open-solution-toxic-comments) - Open solution to the Toxic Comment Classification Challenge
-- [AlphaPose](https://github.com/MVIG-SJTU/AlphaPose) - Real-Time and Accurate Multi-Person Pose Estimation&Tracking System
+- [AlphaPose](https://github.com/MVIG-SJTU/AlphaPose) - Real-Time and Accurate Full-Body Multi-Person Pose Estimation&Tracking System
 - [deeptype](https://github.com/openai/deeptype) - Code for the paper "DeepType: Multilingual Entity Linking by Neural Type System Evolution"
 - [Texygen](https://github.com/geek-ai/Texygen) - A text generation benchmarking platform
 - [ReelPhish](https://github.com/fireeye/ReelPhish) - 
@@ -13233,7 +13233,7 @@
 - [massCode](https://github.com/antonreshetov/massCode) - A free and open source code snippets manager for developers.
 - [vue-ctk-date-time-picker](https://github.com/chronotruck/vue-ctk-date-time-picker) - VueJS component to select dates & time, including a range mode
 - [vue-indoor](https://github.com/mudin/vue-indoor) - VueJS wrapper for indoorjs
-- [postwoman](https://github.com/postwoman-io/postwoman) - 👽 A free, fast and beautiful API request builder used by 71k+ developers. https://postwoman.io
+- [hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 A free, fast and beautiful API request builder used by 71k+ developers. https://hoppscotch.io
 - [Scriptis](https://github.com/WeBankFinTech/Scriptis) - Scriptis is for interactive data analysis with script development(SQL, Pyspark, HiveQL), task submission(Spark, Hive), UDF, function, resource management and intelligent diagnosis.
 - [Scout](https://github.com/tevora-threat/Scout) - Surveillance Detection Scout: Your Lookout on Autopilot
 - [DynamoDb-GUI-Client](https://github.com/Arattian/DynamoDb-GUI-Client) - DynamoDb GUI Client
