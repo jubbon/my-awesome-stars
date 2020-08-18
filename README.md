@@ -158,7 +158,7 @@
 - [open-gpu-doc](https://github.com/NVIDIA/open-gpu-doc) - Documentation of NVIDIA chip/hardware interfaces
 - [matrix](https://github.com/Tencent/matrix) - Matrix is a plugin style, non-invasive APM system developed by WeChat.
 - [yugabyte-db](https://github.com/yugabyte/yugabyte-db) - The high-performance distributed SQL database for global, internet-scale apps.
-- [JohnTheRipper](https://github.com/magnumripper/JohnTheRipper) - This is the official repo for John the Ripper, "Jumbo" version. The "bleeding-jumbo" branch is based on 1.9.0-Jumbo-1 which was released on May 14, 2019. An import of the "core" version of john this jumbo was based on (or newer) is found in the "master" branch (CVS: https://cvsweb.openwall.com/cgi/cvsweb.cgi/Owl/packages/john/john/src/).
+- [JohnTheRipper](https://github.com/openwall/JohnTheRipper) - This is the official repo for John the Ripper, "Jumbo" version. The "bleeding-jumbo" branch is based on 1.9.0-Jumbo-1 which was released on May 14, 2019. An import of the "core" version of john this jumbo was based on (or newer) is found in the "master" branch (CVS: https://cvsweb.openwall.com/cgi/cvsweb.cgi/Owl/packages/john/john/src/).
 - [gpdb](https://github.com/greenplum-db/gpdb) - Greenplum Database
 - [libsodium](https://github.com/jedisct1/libsodium) - A modern, portable, easy to use crypto library.
 - [librdkafka](https://github.com/edenhill/librdkafka) - The Apache Kafka C/C++ library
@@ -177,6 +177,7 @@
 - [gb-studio](https://github.com/chrismaltby/gb-studio) - A free and easy to use retro adventure game creator for your favourite handheld video game system
 - [cJSON](https://github.com/DaveGamble/cJSON) - Ultralightweight JSON parser in ANSI C
 - [flow9](https://github.com/area9innovation/flow9) - Platform for safe, easy and productive programming of complex, multi-platform apps with a modern user interface
+- [DeepCamera](https://github.com/SharpAI/DeepCamera) - Protect your privacy, open source AI-powered video surveillance on Android, featuring face recognition, human shape recognition(ReID), etc. The world's first AutoML Deep Learning edge AI platform. No programming exp needed to train a new model for your privacy.
 - [Video-Editing-Automation](https://github.com/DevonCrawford/Video-Editing-Automation) - Toolkit of algorithms to automate the video editing process
 - [darknet](https://github.com/AlexeyAB/darknet) - YOLOv4 - Neural Networks for Object Detection (Windows and Linux version of Darknet )
 - [facil.io](https://github.com/boazsegev/facil.io) - Your high performance web application C framework
@@ -2221,7 +2222,7 @@
 - [awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [repo-badges](https://github.com/dwyl/repo-badges) - :star: Use repo badges (build passing, coverage, etc) in your readme/markdown file to signal code quality in a project.
 - [kubelabs](https://github.com/collabnix/kubelabs) - Kubernetes - Beginners | Intermediate | Advanced
-- [tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 550 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 600 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [russe](https://github.com/nlpub/russe) - RUSSE: Russian Semantic Evaluation.
 - [pytorch-for-numpy-users](https://github.com/wkentaro/pytorch-for-numpy-users) - PyTorch for Numpy users. https://pytorch-for-numpy-users.wkentaro.com
 - [github-markdown-css](https://github.com/sindresorhus/github-markdown-css) - The minimal amount of CSS to replicate the GitHub Markdown style
@@ -3460,7 +3461,7 @@
 - [vue-tweezing](https://github.com/posva/vue-tweezing) - 💃 Easy, customizable and automatic tweening nicely served in scoped slots
 - [vue-promised](https://github.com/posva/vue-promised) - 💝 Promises as components
 - [vue-raven](https://github.com/anteriovieira/vue-raven) - vue-raven automatically reports uncaught JavaScript exceptions triggered from vue component
-- [vue-routisan](https://github.com/mikerockett/vue-routisan) - Elegant, fluent route definitions for Vue Router, inspired by Laravel. v3-alpha coming soon: https://github.com/mikerockett/vue-routisan/tree/develop
+- [vue-routisan](https://github.com/mikerockett/vue-routisan) - Elegant, fluent route definitions for Vue Router, inspired by Laravel. v3 in alpha: https://github.com/mikerockett/vue-routisan/tree/develop
 - [vue-session](https://github.com/victorsferreira/vue-session) - A simplistic session plugin for VueJS backed by SessionStorage and LocalStorage
 - [vue-cordova-demo](https://github.com/kartsims/vue-cordova-demo) - Demo for vue-cordova NPM package
 - [terriajs](https://github.com/TerriaJS/terriajs) - A library for building rich, web-based geospatial data explorers.
@@ -3559,7 +3560,6 @@
 - [markdown-here](https://github.com/adam-p/markdown-here) - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
 - [fpass](https://github.com/fpass/fpass) - FPASS · 密码安全管理工具
 - [popmotion](https://github.com/Popmotion/popmotion) - Simple animation libraries for delightful user interfaces
-- [docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [tlapse](https://github.com/typicode/tlapse) - 📷 Create a timelapse of your web development... or just automatically take screenshots of your hard work ;)
 - [parcel](https://github.com/parcel-bundler/parcel) - 📦🚀 Blazing fast, zero configuration web application bundler
 - [array-explorer](https://github.com/sdras/array-explorer) - ⚡️ A resource to help figure out what JavaScript array method would be best to use at any given time
@@ -5856,7 +5856,7 @@
 - [Interview_Question_for_Beginner](https://github.com/JaeYeopHan/Interview_Question_for_Beginner) - :boy: :girl: Technical-Interview guidelines written for those who started studying programming. I wish you all the best. :space_invader:
 - [awesome-iptv](https://github.com/iptv-org/awesome-iptv) - A curated list of resources related to IPTV
 - [awesome-algorithms](https://github.com/tayllan/awesome-algorithms) - A curated list of awesome places to learn and/or practice algorithms.
-- [software-design-and-architecture-roadmap](https://github.com/stemmlerjs/software-design-and-architecture-roadmap) - 🧱The software design and architecture roadmap for any developer
+- [software-design-and-architecture-roadmap](https://github.com/stemmlerjs/software-design-and-architecture-roadmap) - 🧱 The software design and architecture roadmap for any developer
 - [PLMpapers](https://github.com/thunlp/PLMpapers) - Must-read Papers on pre-trained language models.
 - [workshop-p5-intro](https://github.com/mattdesl/workshop-p5-intro) - Intro to Creative Coding workshop with p5.js and Tone.js
 - [wrld-indoor-maps-api](https://github.com/wrld3d/wrld-indoor-maps-api) - Contains details of our indoor map format & API + a tutorial to help you get started.
@@ -5945,7 +5945,6 @@
 - [Awesome-Interview](https://github.com/Awesome-Interview/Awesome-Interview) - Collection of awesome interview references.
 - [50M_CTF_Writeup](https://github.com/manoelt/50M_CTF_Writeup) - $50 Million CTF from Hackerone - Writeup
 - [exif-samples](https://github.com/ianare/exif-samples) - Sample images for testing Exif metadata retrieval.
-- [DeepCamera](https://github.com/SharpAI/DeepCamera) - Protect your privacy, open source AI-powered video surveillance on Android, featuring face recognition, human shape recognition(ReID), etc. The world's first AutoML Deep Learning edge AI platform. No programming exp needed to train a new model for your privacy.
 - [awesome-personal-blogs](https://github.com/jkup/awesome-personal-blogs) - A delightful list of personal tech blogs
 - [vue-typescript-cookbook](https://github.com/ffxsam/vue-typescript-cookbook) - Recipes to demystify Vue + TypeScript
 - [awesome-deep-text-detection-recognition](https://github.com/hwalsuklee/awesome-deep-text-detection-recognition) - A curated list of resources for text detection/recognition (optical character recognition ) with deep learning methods.
@@ -9987,7 +9986,7 @@
 - [bless](https://github.com/Netflix/bless) - Repository for BLESS, an SSH Certificate Authority that runs as a AWS Lambda function
 - [WeatherDesk](https://github.com/bharadwaj-raju/WeatherDesk) - MOVED: https://gitlab.com/bharadwaj-raju/WeatherDesk
 - [OpenWPM](https://github.com/mozilla/OpenWPM) - A web privacy measurement framework
-- [http-prompt](https://github.com/httpie/http-prompt) - HTTPie + prompt_toolkit = an interactive command-line HTTP client featuring autocomplete and syntax highlighting
+- [http-prompt](https://github.com/httpie/http-prompt) - An interactive command-line HTTP and API testing client built on top of HTTPie featuring autocomplete, syntax highlighting, and more.
 - [TranscriptBot](https://github.com/agermanidis/TranscriptBot) - Auto-transcribe your meetings to Slack in real time
 - [datatest](https://github.com/shawnbrown/datatest) - Tools for test driven data-wrangling and data validation.
 - [say_what](https://github.com/joshnewlan/say_what) - Using speech-to-text to fully check out during con calls
@@ -11367,7 +11366,7 @@
 - [sync-engine](https://github.com/nylas/sync-engine) - :incoming_envelope: IMAP/SMTP sync system with modern APIs
 - [explore-flask](https://github.com/rpicard/explore-flask) - Source of Explore Flask book
 - [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) - A curated list of awesome Machine Learning frameworks, libraries and software.
-- [ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy. Avoid writing scripts or custom code to deploy and update your applications — automate in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com/ansible/
+- [ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.
 - [lettuce](https://github.com/gabrielfalcao/lettuce) - Behavior-driven-development tool for python, inspired by Cucumber for Ruby ⛺
 - [xypath](https://github.com/sensiblecodeio/xypath) - Navigating around a grid of cells like XPath for spreadsheets; supports Python 3.5+
 - [rekall](https://github.com/google/rekall) - Rekall Memory Forensic Framework
@@ -13080,10 +13079,11 @@
 - [majestic](https://github.com/Raathigesh/majestic) - ⚡ Zero config GUI for Jest
 - [vuesion](https://github.com/vuesion/vuesion) - The most complete boilerplate for production-ready PWAs. With focus on performance, development speed, and best practices
 - [github-file-icons](https://github.com/homerchen19/github-file-icons) - 🌈 🗂 A browser extension which gives different filetypes different icons to GitHub, GitLab, gitea and gogs.
-- [caprover](https://github.com/caprover/caprover) - [previously CaptainDuckDuck] Automated Scalable PaaS Package (automated Docker+nginx) - Heroku on Steroids
+- [caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [boardgame.io](https://github.com/boardgameio/boardgame.io) - State Management for Turn-Based Games
 - [stimulus](https://github.com/stimulusjs/stimulus) - A modest JavaScript framework for the HTML you already have
 - [vscode-terminals](https://github.com/fabiospampinato/vscode-terminals) - An extension for setting-up multiple terminals at once, or just running some commands.
+- [docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [alva](https://github.com/meetalva/alva) - Create living prototypes with code components.
 - [docup](https://github.com/egoist/docup) - The easiest way to write beautiful docs.
 - [amplify-js](https://github.com/aws-amplify/amplify-js) - A declarative JavaScript library for application development using cloud services.
@@ -13227,13 +13227,13 @@
 - [SlackCloneApp](https://github.com/cohki0305/SlackCloneApp) - 
 - [ViewUI](https://github.com/view-design/ViewUI) - A high quality UI Toolkit built on Vue.js 2.0
 - [vue-getting-started](https://github.com/johnpapa/vue-getting-started) - This project is seen in demos including the Pluralsight course "Vue: Getting Started" to help represent a fundamental app written with Vue. The heroes and villains theme is used throughout the app.
-- [coreui-vue](https://github.com/coreui/coreui-vue) - Over 90 Bootstrap based Vue.js components and directives
+- [coreui-vue](https://github.com/coreui/coreui-vue) - Over 90 Bootstrap based Vue.js components and directives. CoreUI React.js UI Components. CoreUI for Vue.js replaces and extends the Bootstrap javascript. Components have been built from scratch as true Vue components, without jQuery and unneeded dependencies.
 - [file-upload](https://github.com/yeyan1996/file-upload) - 
 - [factor](https://github.com/fiction-com/factor) - 100% JavaScript framework for marketing sites and application dashboards.
 - [massCode](https://github.com/antonreshetov/massCode) - A free and open source code snippets manager for developers.
 - [vue-ctk-date-time-picker](https://github.com/chronotruck/vue-ctk-date-time-picker) - VueJS component to select dates & time, including a range mode
 - [vue-indoor](https://github.com/mudin/vue-indoor) - VueJS wrapper for indoorjs
-- [hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 A free, fast and beautiful API request builder used by 71k+ developers. https://hoppscotch.io
+- [hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 A free, fast and beautiful API request builder used by 75k+ developers. https://hoppscotch.io
 - [Scriptis](https://github.com/WeBankFinTech/Scriptis) - Scriptis is for interactive data analysis with script development(SQL, Pyspark, HiveQL), task submission(Spark, Hive), UDF, function, resource management and intelligent diagnosis.
 - [Scout](https://github.com/tevora-threat/Scout) - Surveillance Detection Scout: Your Lookout on Autopilot
 - [DynamoDb-GUI-Client](https://github.com/Arattian/DynamoDb-GUI-Client) - DynamoDb GUI Client
