@@ -158,7 +158,7 @@
 - [open-gpu-doc](https://github.com/NVIDIA/open-gpu-doc) - Documentation of NVIDIA chip/hardware interfaces
 - [matrix](https://github.com/Tencent/matrix) - Matrix is a plugin style, non-invasive APM system developed by WeChat.
 - [yugabyte-db](https://github.com/yugabyte/yugabyte-db) - The high-performance distributed SQL database for global, internet-scale apps.
-- [JohnTheRipper](https://github.com/openwall/JohnTheRipper) - This is the official repo for John the Ripper, "Jumbo" version. The "bleeding-jumbo" branch is based on 1.9.0-Jumbo-1 which was released on May 14, 2019. An import of the "core" version of john this jumbo was based on (or newer) is found in the "master" branch (CVS: https://cvsweb.openwall.com/cgi/cvsweb.cgi/Owl/packages/john/john/src/).
+- [john](https://github.com/openwall/john) - This is the official repo for John the Ripper jumbo. The "bleeding-jumbo" branch is based on 1.9.0-jumbo-1, which was released on May 14, 2019. An import of John the Ripper core that this jumbo was based on is found in the "core" branch (CVS: https://cvsweb.openwall.com/cgi/cvsweb.cgi/Owl/packages/john/john/).
 - [gpdb](https://github.com/greenplum-db/gpdb) - Greenplum Database
 - [libsodium](https://github.com/jedisct1/libsodium) - A modern, portable, easy to use crypto library.
 - [librdkafka](https://github.com/edenhill/librdkafka) - The Apache Kafka C/C++ library
@@ -348,7 +348,6 @@
 - [ttyd](https://github.com/tsl0922/ttyd) - Share your terminal over the web
 - [exploitdb](https://github.com/offensive-security/exploitdb) - The official Exploit Database repository
 - [naxsi](https://github.com/nbs-system/naxsi) - NAXSI is an open-source, high performance, low rules maintenance WAF for NGINX
-- [psycopg2](https://github.com/psycopg/psycopg2) - PostgreSQL database adapter for the Python programming language
 - [MBA](https://github.com/GlacierW/MBA) - Malware Behavior Analyzer
 - [pg_cron](https://github.com/citusdata/pg_cron) - Run periodic jobs in PostgreSQL
 - [esp-idf](https://github.com/espressif/esp-idf) - Espressif IoT Development Framework. Official development framework for ESP32.
@@ -717,7 +716,7 @@
 - [TileDB](https://github.com/TileDB-Inc/TileDB) - The Universal Storage Engine
 - [leela-zero](https://github.com/leela-zero/leela-zero) - Go engine with no human-provided knowledge, modeled after the AlphaGo Zero paper.
 - [Beginning-Cpp-Game-Programming](https://github.com/PacktPublishing/Beginning-Cpp-Game-Programming) - 
-- [pegasus](https://github.com/XiaoMi/pegasus) - ['pɛgəsəs] A distributed key-value storage system developed and maintained by Xiaomi Cloud Storage Team.
+- [incubator-pegasus](https://github.com/apache/incubator-pegasus) - ['pɛgəsəs] A distributed key-value storage system developed and maintained by Xiaomi Cloud Storage Team.
 - [plaidml](https://github.com/plaidml/plaidml) - PlaidML is a framework for making deep learning work everywhere.
 - [EdgeML](https://github.com/microsoft/EdgeML) - This repository provides code for machine learning algorithms for edge devices developed at Microsoft Research India.
 - [cosmos](https://github.com/OpenGenus/cosmos) - Algorithms that run our universe | Your personal library of every algorithm and data structure code that you will ever encounter | Ask us anything at our forum |
@@ -788,7 +787,7 @@
 - [xtensor-python](https://github.com/xtensor-stack/xtensor-python) - Python bindings for xtensor
 - [face_swap](https://github.com/YuvalNirkin/face_swap) - End-to-end, automatic face swapping pipeline
 - [clif](https://github.com/google/clif) - Wrapper generator foundation to wrap C++ for Python and other languages using LLVM.
-- [node-packer](https://github.com/pmq20/node-packer) - ** THIS REPO HAS STOPPED MAINTENANCE, PLEASE USE OTHER FORKS **
+- [node-packer](https://github.com/pmq20/node-packer) - Packing your Node.js application into a single executable.
 - [lnav](https://github.com/tstack/lnav) - Log file navigator
 - [ORB_SLAM2](https://github.com/raulmur/ORB_SLAM2) - Real-Time SLAM for Monocular, Stereo and RGB-D Cameras, with Loop Detection and Relocalization Capabilities
 - [pilotguru](https://github.com/waiwnf/pilotguru) - Gather training data for training a self-driving car with just a smartphone.
@@ -878,7 +877,6 @@
 - [SeetaFaceEngine](https://github.com/seetaface/SeetaFaceEngine) - 
 - [nghttp2](https://github.com/nghttp2/nghttp2) - nghttp2 - HTTP/2 C Library and tools
 - [nnvm](https://github.com/dmlc/nnvm) - 
-- [Paddle](https://github.com/PaddlePaddle/Paddle) - PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）
 - [cxxopts](https://github.com/jarro2783/cxxopts) - Lightweight C++ command line option parser
 - [NNplusplus](https://github.com/stagadish/NNplusplus) - A small and easy to use neural net implementation for C++. Just download and #include!
 - [Algo_Ds_Notes](https://github.com/jainaman224/Algo_Ds_Notes) - It is a repository that is a collection of algorithms and data structures with implementation in various languages.
@@ -2525,6 +2523,7 @@
 - [strftime.org](https://github.com/mccutchen/strftime.org) - A single-serving-site that provides a reference for Python's strftime formatting options
 - [algorithms-tour](https://github.com/stitchfix/algorithms-tour) - How data science is woven into the fabric of Stitch Fix
 - [PolyCARP](https://github.com/nasa/PolyCARP) - 
+- [nbconvert](https://github.com/jupyter/nbconvert) - Jupyter Notebook Conversion
 - [pygmaps-ng](https://github.com/Permafacture/pygmaps-ng) - A fork of gmm-up focused on generating single file google map apps with python
 - [propeller](https://github.com/digicorp/propeller) - Propeller - Develop more, Code less. Propeller is a front-end responsive framework based on Google's Material Design Standards & Bootstrap.
 - [simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
@@ -6745,6 +6744,7 @@
 
 ## Python 
 
+- [texthero](https://github.com/jbesomi/texthero) - Text preprocessing, representation and visualization from zero to hero.
 - [naeval](https://github.com/natasha/naeval) - Comparing quality and performance of NLP systems for Russian language
 - [nvidia-docker-compose](https://github.com/eywalker/nvidia-docker-compose) - Simple wrapper for docker-compose to use GPU enabled docker under nvidia-docker
 - [pyquil](https://github.com/rigetti/pyquil) - A Python library for quantum programming using Quil.
@@ -7291,7 +7291,7 @@
 - [process-wallpaper](https://github.com/anirudhajith/process-wallpaper) - Shell and python scripts that set the desktop wallpaper to a word cloud of the most resource-hungry processes
 - [kubernetes-workshop](https://github.com/eon01/kubernetes-workshop) - ⚙️ A Gentle introduction to Kubernetes with more than just the basics. 🌟 Give it a star if you like it.
 - [ThreatHunter-Playbook](https://github.com/hunters-forge/ThreatHunter-Playbook) - A Threat hunter's playbook to aid the development of techniques and hypothesis for hunting campaigns.
-- [dagster](https://github.com/dagster-io/dagster) - A Python library for building data applications: ETL, ML, Data Pipelines, and more.
+- [dagster](https://github.com/dagster-io/dagster) - A data orchestrator for machine learning, analytics, and ETL.
 - [former](https://github.com/pbloem/former) - Simple transformer implementation from scratch in pytorch.
 - [reinforcement-learning-an-introduction](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction) - Python Implementation of Reinforcement Learning: An Introduction
 - [InstaPy](https://github.com/timgrossmann/InstaPy) - 📷 Instagram Bot - Tool for automated Instagram interactions
@@ -8709,7 +8709,7 @@
 - [sdc](https://github.com/IntelPython/sdc) - Intel® Scalable Dataframe Compiler for Pandas*
 - [pytorch-a2c-ppo-acktr-gail](https://github.com/ikostrikov/pytorch-a2c-ppo-acktr-gail) - PyTorch implementation of Advantage Actor Critic (A2C), Proximal Policy Optimization (PPO), Scalable trust-region method for deep reinforcement learning using Kronecker-factored approximation (ACKTR) and Generative Adversarial Imitation Learning (GAIL).
 - [pytorch-qrnn](https://github.com/salesforce/pytorch-qrnn) - PyTorch implementation of the Quasi-Recurrent Neural Network - up to 16 times faster than NVIDIA's cuDNN LSTM
-- [luminoth](https://github.com/tryolabs/luminoth) - ⚠️ UNMAINTAINED. Deep Learning toolkit for Computer Vision.
+- [luminoth](https://github.com/tryolabs/luminoth) - Deep Learning toolkit for Computer Vision.
 - [rev-proxy-grapher](https://github.com/mricon/rev-proxy-grapher) - Reverse proxy grapher
 - [concept-to-clinic](https://github.com/drivendataorg/concept-to-clinic) - ALCF Concept to Clinic Challenge
 - [manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
@@ -9279,7 +9279,6 @@
 - [python-fire](https://github.com/google/python-fire) - Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
 - [httplib2](https://github.com/httplib2/httplib2) - Small, fast HTTP client library for Python. Features persistent connections, cache, and Google App Engine support. Originally written by Joe Gregorio, now supported by community.
 - [lightning-python](https://github.com/lightning-viz/lightning-python) - Python client for the lightning API
-- [nbconvert](https://github.com/jupyter/nbconvert) - Jupyter Notebook Conversion
 - [gmaps](https://github.com/pbugnion/gmaps) - Google maps for Jupyter notebooks
 - [powerline](https://github.com/powerline/powerline) - Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile.
 - [Transcrypt](https://github.com/QQuick/Transcrypt) - Python 3.7 to JavaScript compiler - Lean, fast, open! -
@@ -9703,6 +9702,7 @@
 - [PyPattyrn](https://github.com/tylerlaberge/PyPattyrn) - A simple library for implementing common design patterns.
 - [wavenet](https://github.com/basveeling/wavenet) - Keras WaveNet implementation
 - [tensorflow-wavenet](https://github.com/ibab/tensorflow-wavenet) - A TensorFlow implementation of DeepMind's WaveNet paper
+- [psycopg2](https://github.com/psycopg/psycopg2) - PostgreSQL database adapter for the Python programming language
 - [TensorflowProjects](https://github.com/shekkizh/TensorflowProjects) - Deep learning using tensorflow
 - [documentation](https://github.com/raspberrypi/documentation) - Official documentation for the Raspberry Pi
 - [neural-vqa-tensorflow](https://github.com/paarthneekhara/neural-vqa-tensorflow) - Visual Question Answering in Tensorflow.
@@ -9758,6 +9758,7 @@
 - [httpstat](https://github.com/reorx/httpstat) - curl statistics made simple
 - [http-observatory](https://github.com/mozilla/http-observatory) - Mozilla HTTP Observatory
 - [doc2text](https://github.com/jlsutherland/doc2text) - Detect text blocks and OCR poorly scanned PDFs in bulk. Python module available via pip.
+- [Paddle](https://github.com/PaddlePaddle/Paddle) - PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）
 - [srez](https://github.com/david-gpu/srez) - Image super-resolution through deep learning
 - [picotui](https://github.com/pfalcon/picotui) - Lightweight, pure-Python Text User Interface (TUI) widget toolkit with minimal dependencies. Dedicated to the Pycopy project.
 - [ntfy](https://github.com/dschep/ntfy) - 🖥️📱🔔 A utility for sending notifications, on demand and when commands finish.
@@ -9986,7 +9987,7 @@
 - [bless](https://github.com/Netflix/bless) - Repository for BLESS, an SSH Certificate Authority that runs as a AWS Lambda function
 - [WeatherDesk](https://github.com/bharadwaj-raju/WeatherDesk) - MOVED: https://gitlab.com/bharadwaj-raju/WeatherDesk
 - [OpenWPM](https://github.com/mozilla/OpenWPM) - A web privacy measurement framework
-- [http-prompt](https://github.com/httpie/http-prompt) - An interactive command-line HTTP and API testing client built on top of HTTPie featuring autocomplete, syntax highlighting, and more.
+- [http-prompt](https://github.com/httpie/http-prompt) - An interactive command-line HTTP and API testing client built on top of HTTPie featuring autocomplete, syntax highlighting, and more. https://twitter.com/clihttp
 - [TranscriptBot](https://github.com/agermanidis/TranscriptBot) - Auto-transcribe your meetings to Slack in real time
 - [datatest](https://github.com/shawnbrown/datatest) - Tools for test driven data-wrangling and data validation.
 - [say_what](https://github.com/joshnewlan/say_what) - Using speech-to-text to fully check out during con calls
@@ -11733,7 +11734,7 @@
 - [Tango](https://github.com/tBaxter/Tango) - Faster, simpler Django content management
 - [gitless](https://github.com/gitless-vcs/gitless) - A simple version control system built on top of Git
 - [pyspv](https://github.com/sarchar/pyspv) - pyspv is a python implementation of a programmable Bitcoin SPV node
-- [pyinstrument](https://github.com/joerick/pyinstrument) - 🚴 Call stack profiler for Python. Shows you why your code is slow!
+- [pyinstrument](https://github.com/joerick/pyinstrument) - 🚴 Call stack profiler for Python. Shows you why your code is slow!
 - [bleach](https://github.com/mozilla/bleach) - Bleach is an allowed-list-based HTML sanitizing library that escapes or strips markup and attributes
 - [rumps](https://github.com/jaredks/rumps) - Ridiculously Uncomplicated macOS Python Statusbar apps
 - [boto](https://github.com/boto/boto) - For the latest version of boto, see https://github.com/boto/boto3 -- Python interface to Amazon Web Services
@@ -12940,7 +12941,7 @@
 - [playwright](https://github.com/microsoft/playwright) - Node.js library to automate Chromium, Firefox and WebKit with a single API
 - [gistpad](https://github.com/vsls-contrib/gistpad) - VS Code extension for managing and sharing code snippets, notes and interactive samples using GitHub Gists
 - [tfjs-models](https://github.com/tensorflow/tfjs-models) - Pretrained models for TensorFlow.js
-- [vue-next](https://github.com/vuejs/vue-next) - Repo for Vue 3.0 (currently in beta)
+- [vue-next](https://github.com/vuejs/vue-next) - Repo for Vue 3.0 (currently in RC)
 - [streamlit](https://github.com/streamlit/streamlit) - Streamlit — The fastest way to build data apps in Python
 - [typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
 - [apollo-server](https://github.com/apollographql/apollo-server) - 🌍 GraphQL server for Express, Connect, Hapi, Koa and more
