@@ -530,7 +530,7 @@
 - [srs](https://github.com/ossrs/srs) - SRS is a RTMP/HLS/WebRTC/SRT/GB28181 streaming cluster, high efficiency, stable and simple.
 - [LearnOpenGL](https://github.com/JoeyDeVries/LearnOpenGL) - Code repository of all OpenGL chapters from the book and its accompanying website https://learnopengl.com
 - [graphit](https://github.com/GraphIt-DSL/graphit) - GraphIt - A High-Performance Domain Specific Language for Graph Analytics
-- [milvus](https://github.com/milvus-io/milvus) - An open source vector similarity search engine powered by Faiss, NMSLIB and Annoy
+- [milvus](https://github.com/milvus-io/milvus) - An open source embedding vector similarity search engine powered by Faiss, NMSLIB and Annoy
 - [mvfst-rl](https://github.com/facebookresearch/mvfst-rl) - An asynchronous RL platform for congestion control in QUIC transport protocol. https://arxiv.org/abs/1910.04054.
 - [TensorRT](https://github.com/NVIDIA/TensorRT) - TensorRT is a C++ library for high performance inference on NVIDIA GPUs and deep learning accelerators.
 - [ton](https://github.com/ton-blockchain/ton) - 
@@ -1294,7 +1294,6 @@
 - [django-material](https://github.com/viewflow/django-material) - Material Design for Django
 - [Flask-Edits](https://github.com/nathancahill/Flask-Edits) - Editable Content in Flask
 - [intro-to-d3](https://github.com/square/intro-to-d3) - a D3.js tutorial
-- [material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google
 - [landslide](https://github.com/adamzap/landslide) - Generate HTML5 slideshows from markdown, ReST, or textile
 - [vigilant](https://github.com/philberty/vigilant) - Application Driven Stats Monitoring
 - [bootcamp](https://github.com/vitorfs/bootcamp) - An enterprise social network
@@ -1719,7 +1718,7 @@
 - [gomarkov](https://github.com/mb-14/gomarkov) - Markov chains in golang
 - [dohproxy](https://github.com/satran/dohproxy) - DNS over HTTPS proxy written in golang
 - [zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go.
-- [goawk](https://github.com/benhoyt/goawk) - GoAWK: an AWK interpreter written in Go
+- [goawk](https://github.com/benhoyt/goawk) - A POSIX-compliant AWK interpreter written in Go
 - [OpenMetrics](https://github.com/OpenObservability/OpenMetrics) - Evolving the Prometheus exposition format into a standard.
 - [benthos](https://github.com/Jeffail/benthos) - A stream processor for mundane tasks written in Go
 - [git-bug](https://github.com/MichaelMure/git-bug) - Distributed, offline-first bug tracker embedded in git, with bridges
@@ -2133,7 +2132,7 @@
 - [gorgonia](https://github.com/gorgonia/gorgonia) - Gorgonia is a library that helps facilitate machine learning in Go.
 - [go-patterns](https://github.com/tmrts/go-patterns) - Curated list of Go design patterns, recipes and idioms
 - [borg](https://github.com/ok-borg/borg) - Search and save shell snippets without leaving your terminal
-- [iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. A true successor of expressjs and laravel | 谢谢 https://github.com/kataras/iris/issues/1329 |
+- [iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. MVC, gRPC gateway, unique router, Websockets, Sessions, Test suite, Dependency Injection and more. A true successor of expressjs and laravel | 谢谢 https://github.com/kataras/iris/issues/1329 |
 - [primitive](https://github.com/fogleman/primitive) - Reproducing images with geometric primitives.
 - [gosl](https://github.com/cpmech/gosl) - Go scientific library for machine learning, linear algebra, FFT, Bessel, elliptic, orthogonal polys, geometry, NURBS, numerical quadrature, 3D transfinite interpolation, random numbers, Mersenne twister, probability distributions, optimisation, graph, plotting, visualisation, tensors, eigenvalues, differential equations, more.
 - [kube-cert-manager](https://github.com/PalmStoneGames/kube-cert-manager) - Manage Lets Encrypt certificates for a Kubernetes cluster.
@@ -3101,7 +3100,6 @@
 - [fiddly](https://github.com/SaraVieira/fiddly) - Create beautiful and simple HTML pages from your Readme.md files
 - [strapi](https://github.com/strapi/strapi) - 🚀 Open source Node.js Headless CMS to easily build customisable APIs
 - [pampy.js](https://github.com/santinic/pampy.js) - Pampy.js: Pattern Matching for JavaScript
-- [vsf-payment-paypal](https://github.com/develodesign/vsf-payment-paypal) - Paypal payment module for Vue Storefront
 - [hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
 - [vue-go-example](https://github.com/ndabAP/vue-go-example) - Vue.js and Go example project
 - [arg](https://github.com/vercel/arg) - Simple argument parsing
@@ -4778,7 +4776,7 @@
 - [dl-imperial-maths](https://github.com/pukkapies/dl-imperial-maths) - Code and assignment repository for the Imperial College Mathematics department Deep Learning course
 - [big-mac-data](https://github.com/TheEconomist/big-mac-data) - Data and methodology for the Big Mac index
 - [Hello-world](https://github.com/Aniket965/Hello-world) - Add any  Program in any language you like or add a hello world Program ❣️ if you like give us :star:
-- [Optimus](https://github.com/ironmussa/Optimus) - :truck: Agile Data Science Workflows made easy with Pyspark
+- [Optimus](https://github.com/ironmussa/Optimus) - :truck: Agile Data Preparation Workflows made easy with dask, cudf, dask_cudf and pyspark
 - [thepythonmegacourse](https://github.com/arditsulceteaching/thepythonmegacourse) - 
 - [magnet](https://github.com/MagNet-DL/magnet) - Deep Learning Projects that Build Themselves
 - [MachineLearningInAction-Camp](https://github.com/RedstoneWill/MachineLearningInAction-Camp) - 
@@ -6640,6 +6638,7 @@
 - [docs](https://github.com/blindmotion/docs) - Documentation for all projects
 - [roskomnadzor](https://github.com/github/roskomnadzor) - deprecated archive — moved to https://github.com/github/gov-takedowns/tree/master/Russia
 - [python-snippets](https://github.com/fengsp/python-snippets) - A basket of python snippets
+- [material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google
 - [us-address-parser](https://github.com/pombredanne/us-address-parser) - US address parsing
 - [awesome-flask](https://github.com/humiaozuzu/awesome-flask) - A curated list of awesome Flask resources and plugins
 - [awesome-bigdata](https://github.com/onurakpolat/awesome-bigdata) - A curated list of awesome big data frameworks, ressources and other awesomeness.
@@ -12994,6 +12993,7 @@
 - [rrweb](https://github.com/rrweb-io/rrweb) - record and replay the web
 - [notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
 - [next-boilerplate](https://github.com/pankod/next-boilerplate) - A well-structured production ready Next.js boilerplate with Typescript, Redux, Jest, Enzyme, Express.js, Sass, Css, EnvConfig, Fetch, Reverse Proxy, Bundle Analyzer and Built-in Project CLI. https://pankod.github.io/next-boilerplate/
+- [vsf-payment-paypal](https://github.com/develodesign/vsf-payment-paypal) - Paypal payment module for Vue Storefront
 - [squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
 - [material-angular-dashboard](https://github.com/CreativeIT/material-angular-dashboard) - Material Angular Admin Template
 - [wayne](https://github.com/Qihoo360/wayne) - Kubernetes multi-cluster management and publishing platform
