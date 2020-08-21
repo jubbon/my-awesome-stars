@@ -453,7 +453,6 @@
 - [ailab](https://github.com/microsoft/ailab) - Experience, Learn and Code the latest breakthrough innovations with Microsoft AI
 - [DRL_based_SelfDrivingCarControl](https://github.com/MLJejuCamp2017/DRL_based_SelfDrivingCarControl) - Deep Reinforcement Learning (DQN) based Self Driving Car Control with Vehicle Simulator
 - [blockchain](https://github.com/dvf/blockchain) - A simple Blockchain in Python
-- [ml-agents](https://github.com/Unity-Technologies/ml-agents) - Unity Machine Learning Agents Toolkit
 - [sqlnotebook](https://github.com/electroly/sqlnotebook) - Tabular data exploration and manipulation tool powered by SQLite.
 - [TensorFlowSharp](https://github.com/migueldeicaza/TensorFlowSharp) - TensorFlow API for .NET languages
 - [electrino](https://github.com/pojala/electrino) - Desktop runtime for apps built on web technologies, using the system's own web browser engine
@@ -2092,7 +2091,7 @@
 - [pgrebase](https://github.com/oelmekki/pgrebase) - Easy postgres codebase injection - aka postgres non data live reload
 - [livego](https://github.com/qieangel2013/livego) - go Implementation of live streaming services
 - [poseidon](https://github.com/Qihoo360/poseidon) - A search engine which can hold 100 trillion lines of log data.
-- [prest](https://github.com/prest/prest) - pREST is a way to serve a RESTful API from any databases written in Go
+- [prest](https://github.com/prest/prest) - pREST (PostgreSQL REST), simplify and accelerate development, instant, realtime, high-performance on any Postgres application, existing or new
 - [ariadna](https://github.com/maddevsio/ariadna) - Geocoder Ariadna on ElasticSearch with OpenStreetMap
 - [archiver](https://github.com/mholt/archiver) - Easily create & extract archives, and compress & decompress files of various formats
 - [gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
@@ -3918,7 +3917,7 @@
 - [deepteach](https://github.com/mldbai/deepteach) - DeepTeach - the Interactive Deep Image Classifier Builder
 - [vue-video-player](https://github.com/surmon-china/vue-video-player) - 🎞 @videojs component for @vuejs
 - [vuejs-AdminLTE](https://github.com/r0r1/vuejs-AdminLTE) - Admin LTE Starter for Vue JS
-- [vue-echarts](https://github.com/ecomfe/vue-echarts) - ECharts component for Vue.js.
+- [vue-echarts](https://github.com/ecomfe/vue-echarts) - Apache ECharts (incubating) component for Vue.js.
 - [vue-mugen-scroll](https://github.com/egoist/vue-mugen-scroll) - Infinite scroll component for Vue.js 2
 - [Sortable](https://github.com/SortableJS/Sortable) - Sortable — is a JavaScript library for reorderable drag-and-drop lists on modern browsers and touch devices. No jQuery required. Supports Meteor, AngularJS, React, Polymer, Vue, Ember, Knockout and any CSS library, e.g. Bootstrap.
 - [django-react-redux-base](https://github.com/Seedstars/django-react-redux-base) - Seedstars Labs Base Django React Redux Project
@@ -4581,7 +4580,7 @@
 - [face-detection](https://github.com/vslutov/face-detection) - Face detection task
 - [bert-gen](https://github.com/nyu-dl/bert-gen) - 
 - [yolov3-tf2](https://github.com/zzh8829/yolov3-tf2) - YoloV3 Implemented in Tensorflow 2.0
-- [100-Days-Of-ML-Code](https://github.com/harunshimanto/100-Days-Of-ML-Code) - A day to day plan for this challenge. Covers both theoritical and practical aspects
+- [100-Days-Of-ML-Code](https://github.com/harunurrashid97/100-Days-Of-ML-Code) - A day to day plan for this challenge. Covers both theoritical and practical aspects
 - [introduction-datascience-python-book](https://github.com/DataScienceUB/introduction-datascience-python-book) - Introduction to Data Science: A Python Approach to Concepts, Techniques and Applications
 - [NoteBooks-Statistics-and-MachineLearning](https://github.com/leonvanbokhorst/NoteBooks-Statistics-and-MachineLearning) - Jupyter Notebooks from the old UnsupervisedLearning.com (RIP) machine learning and statistics blog
 - [business-machine-learning](https://github.com/firmai/business-machine-learning) - A curated list of practical business machine learning (BML) and business data science (BDS) applications for Accounting, Customer, Employee, Legal, Management and Operations (by @firmai)
@@ -7448,7 +7447,7 @@
 - [uds](https://github.com/stewartmcgown/uds) - Unlimited Drive Storage by splitting binary files into base64
 - [torchgpipe](https://github.com/kakaobrain/torchgpipe) - A GPipe implementation in PyTorch
 - [videoflow](https://github.com/videoflow/videoflow) - Python framework that facilitates the quick development of complex video analysis applications and other series-processing based applications in a multiprocessing environment.
-- [garage](https://github.com/rlworkgroup/garage) - A toolkit for reproducible reinforcement learning research
+- [garage](https://github.com/rlworkgroup/garage) - A toolkit for reproducible reinforcement learning research.
 - [agents](https://github.com/tensorflow/agents) - TF-Agents is a library for Reinforcement Learning in TensorFlow
 - [ERNIE](https://github.com/thunlp/ERNIE) - Source code and dataset for ACL 2019 paper "ERNIE: Enhanced Language Representation with Informative Entities"
 - [sonicNEAT](https://github.com/Vedant-Gupta523/sonicNEAT) - 
@@ -8763,6 +8762,7 @@
 - [fairseq](https://github.com/pytorch/fairseq) - Facebook AI Research Sequence-to-Sequence Toolkit written in Python.
 - [weibospider](https://github.com/SpiderClub/weibospider) - :zap: A distributed crawler for weibo, building with celery and requests.
 - [SerpentAI](https://github.com/SerpentAI/SerpentAI) - Game Agent Framework. Helping you create AIs / Bots that learn to play any game you own!
+- [ml-agents](https://github.com/Unity-Technologies/ml-agents) - Unity Machine Learning Agents Toolkit
 - [onnx-caffe2](https://github.com/onnx/onnx-caffe2) - Caffe2 implementation of Open Neural Network Exchange (ONNX)
 - [fa2l](https://github.com/bosiakov/fa2l) - Force Atlas 2 graph layout
 - [studio](https://github.com/studioml/studio) - Studio: Simplify and expedite model building process
@@ -9101,7 +9101,7 @@
 - [Skater](https://github.com/oracle/Skater) - Python Library for Model Interpretation/Explanations
 - [BoopSuite](https://github.com/MisterBianco/BoopSuite) - A Suite of Tools written in Python for wireless auditing and security testing.
 - [devol](https://github.com/joeddav/devol) - Genetic neural architecture search with Keras
-- [XX-Net](https://github.com/XX-net/XX-Net) - a web proxy tool
+- [XX-Net](https://github.com/XX-net/XX-Net) - A proxy tool to bypass GFW.
 - [ArchiveBox](https://github.com/pirate/ArchiveBox) - 🗃 The open source self-hosted web archive. Takes browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [face_classification](https://github.com/oarriaga/face_classification) - Real-time face detection and emotion/gender classification using fer2013/imdb datasets with a keras CNN model and openCV.
 - [Chaos](https://github.com/Chaosthebot/Chaos) - A social coding experiment that updates its own code democratically.
@@ -9667,7 +9667,7 @@
 - [ck-tensorflow](https://github.com/ctuning/ck-tensorflow) - Collective Knowledge components for TensorFlow (code, data sets, models, packages, workflows):
 - [python-web-pdb](https://github.com/romanvm/python-web-pdb) - Web-based remote UI for Python's PDB debugger
 - [ck-autotuning](https://github.com/ctuning/ck-autotuning) - CK automation actions to let users implement portable, customizable and reusable program workflows for reproducible, collaborative and multi-objective benchmarking, optimization and SW/HW co-design:
-- [ck](https://github.com/ctuning/ck) - Collective Knowledge framework (CK) helps to decompose complex research projects into reusable and cross-linked components (wrappers for code, data, models and results), automation actions and portable workflows with unified APIs, CLI, and JSON I/O. You can find more info and some real-world use cases at the project website:
+- [ck](https://github.com/ctuning/ck) - Collective Knowledge framework (CK) provides a common API to all software projects together with a database-like control and reusable automation actions for their individual components (algorithms, packages, datasets, models, scripts, results...). See some real-world use cases from Arm, General Motors, IBM, MLPerf, RPi, and ACM:
 - [CommAI-env](https://github.com/facebookresearch/CommAI-env) - A platform for developing AI systems as described in A Roadmap towards Machine Intelligence - http://arxiv.org/abs/1511.08130
 - [deconvfaces](https://github.com/somewacko/deconvfaces) - Generating faces with deconvolution networks
 - [whereami](https://github.com/kootenpv/whereami) - Uses WiFi signals :signal_strength: and machine learning to predict where you are
