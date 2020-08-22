@@ -174,7 +174,7 @@
 - [deepstream_reference_apps](https://github.com/NVIDIA-AI-IOT/deepstream_reference_apps) - Samples for TensorRT/Deepstream for Tesla & Jetson
 - [Blunted2](https://github.com/BazkieBumpercar/Blunted2) - Multithreaded game engine, deprecated
 - [GameplayFootball](https://github.com/BazkieBumpercar/GameplayFootball) - Football game, discontinued
-- [gb-studio](https://github.com/chrismaltby/gb-studio) - A free and easy to use retro adventure game creator for your favourite handheld video game system
+- [gb-studio](https://github.com/chrismaltby/gb-studio) - A quick and easy to use drag and drop retro game creator for your favourite handheld video game system
 - [cJSON](https://github.com/DaveGamble/cJSON) - Ultralightweight JSON parser in ANSI C
 - [flow9](https://github.com/area9innovation/flow9) - Platform for safe, easy and productive programming of complex, multi-platform apps with a modern user interface
 - [DeepCamera](https://github.com/SharpAI/DeepCamera) - Protect your privacy, open source AI-powered video surveillance on Android, featuring face recognition, human shape recognition(ReID), etc. The world's first AutoML Deep Learning edge AI platform. No programming exp needed to train a new model for your privacy.
@@ -696,7 +696,6 @@
 - [flameshot](https://github.com/lupoDharkael/flameshot) - Powerful yet simple to use screenshot software
 - [thundersvm](https://github.com/Xtra-Computing/thundersvm) - ThunderSVM: A Fast SVM Library on GPUs and CPUs
 - [blackbird](https://github.com/butor/blackbird) - Blackbird Bitcoin Arbitrage: a long/short market-neutral strategy
-- [wav2letter](https://github.com/facebookresearch/wav2letter) - Facebook AI Research's Automatic Speech Recognition Toolkit
 - [xmr-stak](https://github.com/fireice-uk/xmr-stak) - Free Monero RandomX Miner and unified CryptoNight miner
 - [rippled](https://github.com/ripple/rippled) - Decentralized cryptocurrency blockchain daemon implementing the XRP Ledger in C++
 - [cryptonote](https://github.com/cryptonotefoundation/cryptonote) - CryptoNote protocol implementation. This is the reference repository for starting a new CryptoNote currency. See /src/cryptonote_config.h
@@ -3400,7 +3399,6 @@
 - [jest-puppeteer](https://github.com/smooth-code/jest-puppeteer) - Run your tests using Jest & Puppeteer 🎪✨
 - [basicScroll](https://github.com/electerious/basicScroll) - Standalone parallax scrolling for mobile and desktop with CSS variables.
 - [ghostery-extension](https://github.com/ghostery/ghostery-extension) - Ghostery Browser Extension for Firefox, Chrome, Opera and Edge
-- [Front-End-Wizard](https://github.com/kieranmv95/Front-End-Wizard) - A comprehensive collection of front end tutorials and resources for developers
 - [birdseye](https://github.com/alexmojaki/birdseye) - Graphical Python debugger which lets you easily view the values of all evaluated expressions
 - [Chatire](https://github.com/danidee10/Chatire) - :speech_balloon: Real time Chat application built with Vue, Django, RabbitMQ and uWSGI WebSockets.
 - [chardin.js](https://github.com/heelhook/chardin.js) - Simple overlay instructions for your apps.
@@ -3472,7 +3470,7 @@
 - [test-cors.org](https://github.com/monsur/test-cors.org) - A tool to help test CORS requests
 - [starhackit](https://github.com/FredericHeem/starhackit) - StarHackIt: React/Native/Node fullstack starter kit with authentication and authorisation, data backed by SQL.
 - [UglifyJS](https://github.com/mishoo/UglifyJS) - JavaScript parser / mangler / compressor / beautifier toolkit
-- [node-clinic](https://github.com/nearform/node-clinic) - Clinic.js diagnoses your Node.js performance issues
+- [node-clinic](https://github.com/clinicjs/node-clinic) - Clinic.js diagnoses your Node.js performance issues
 - [karmatic](https://github.com/developit/karmatic) - 🦑 Easy automatic (headless) browser testing with Jest's API, but powered by Karma & Webpack.
 - [greenlet](https://github.com/developit/greenlet) - 🦎 Move an async function into its own thread.
 - [v-blur](https://github.com/ndelvalle/v-blur) - ⬜️ Vue directive to blur an element dynamically
@@ -7505,7 +7503,7 @@
 - [OctaveConv](https://github.com/terrychenism/OctaveConv) - A MXNet Implementation for Drop an Octave
 - [Stereo-RCNN](https://github.com/HKUST-Aerial-Robotics/Stereo-RCNN) - Code for 'Stereo R-CNN based 3D Object Detection for Autonomous Driving' (CVPR 2019)
 - [FCOS](https://github.com/tianzhi0549/FCOS) - FCOS: Fully Convolutional One-Stage Object Detection (ICCV'19)
-- [pytorch-lightning](https://github.com/PyTorchLightning/pytorch-lightning) - The lightweight PyTorch wrapper for ML researchers. Scale your models. Write less boilerplate
+- [pytorch-lightning](https://github.com/PyTorchLightning/pytorch-lightning) - The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate.
 - [FastFCN](https://github.com/wuhuikai/FastFCN) - FastFCN: Rethinking Dilated Convolution in the Backbone for Semantic Segmentation.
 - [WCT2](https://github.com/clovaai/WCT2) - Software that can perform photorealistic style transfer without the need of any post-processing steps.
 - [gnss-ins-sim](https://github.com/Aceinna/gnss-ins-sim) - Open-source GNSS + inertial navigation, sensor fusion simulator.  Motion trajectory generator, sensor models, and navigation
@@ -8542,6 +8540,7 @@
 - [Parris](https://github.com/jgreenemi/Parris) - Parris, the automated infrastructure setup tool for machine learning algorithms.
 - [VulnWhisperer](https://github.com/HASecuritySolutions/VulnWhisperer) - Create actionable data from your Vulnerability Scans
 - [dm_control](https://github.com/deepmind/dm_control) - DeepMind's software stack for physics-based simulation and Reinforcement Learning environments, using MuJoCo.
+- [wav2letter](https://github.com/facebookresearch/wav2letter) - Facebook AI Research's Automatic Speech Recognition Toolkit
 - [fsociety](https://github.com/Manisso/fsociety) - fsociety Hacking Tools Pack – A Penetration Testing Framework
 - [TeamFlowy](https://github.com/kingname/TeamFlowy) - A simple sync tool to sync task from Workflowy to Teambition
 - [bigquery_fdw](https://github.com/gabfl/bigquery_fdw) - BigQuery Foreign Data Wrapper for PostgreSQL
@@ -9667,7 +9666,7 @@
 - [ck-tensorflow](https://github.com/ctuning/ck-tensorflow) - Collective Knowledge components for TensorFlow (code, data sets, models, packages, workflows):
 - [python-web-pdb](https://github.com/romanvm/python-web-pdb) - Web-based remote UI for Python's PDB debugger
 - [ck-autotuning](https://github.com/ctuning/ck-autotuning) - CK automation actions to let users implement portable, customizable and reusable program workflows for reproducible, collaborative and multi-objective benchmarking, optimization and SW/HW co-design:
-- [ck](https://github.com/ctuning/ck) - Collective Knowledge framework (CK) provides a common API to all software projects together with a database-like control and reusable automation actions for their individual components (algorithms, packages, datasets, models, scripts, results...). See some real-world use cases from Arm, General Motors, IBM, MLPerf, RPi, and ACM:
+- [ck](https://github.com/ctuning/ck) - Collective Knowledge framework (CK) helps to convert any software project into a database of reusable components (algorithms, packages, datasets, models, scripts, results...) with a common API, JSON meta descriptions, automation actions, and portable workflows. See some real-world use cases from Arm, General Motors, IBM, RPi, ACM, and MLPerf:
 - [CommAI-env](https://github.com/facebookresearch/CommAI-env) - A platform for developing AI systems as described in A Roadmap towards Machine Intelligence - http://arxiv.org/abs/1511.08130
 - [deconvfaces](https://github.com/somewacko/deconvfaces) - Generating faces with deconvolution networks
 - [whereami](https://github.com/kootenpv/whereami) - Uses WiFi signals :signal_strength: and machine learning to predict where you are
@@ -13051,6 +13050,7 @@
 - [emma-cli](https://github.com/maticzav/emma-cli) - 📦 Terminal assistant to find and install node packages.
 - [rough](https://github.com/rough-stuff/rough) - Create graphics with a hand-drawn, sketchy, appearance
 - [xstate](https://github.com/davidkpiano/xstate) - State machines and statecharts for the modern web.
+- [Front-End-Wizard](https://github.com/kieranmv95/Front-End-Wizard) - A comprehensive collection of front end tutorials and resources for developers
 - [mkdocs-material](https://github.com/squidfunk/mkdocs-material) - A Material Design theme for MkDocs
 - [chrome](https://github.com/browserless/chrome) - Chrome as a service in docker. Run on our cloud, or bring your own
 - [proton-native](https://github.com/kusti8/proton-native) - A React environment for cross platform desktop apps
