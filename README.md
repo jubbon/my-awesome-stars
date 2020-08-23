@@ -511,7 +511,6 @@
 - [crocoddyl](https://github.com/loco-3d/crocoddyl) - Crocoddyl is an optimal control library for robot control under contact sequence. Its solver is based on various efficient Differential Dynamic Programming (DDP)-like algorithms
 - [The-Open-Book](https://github.com/joeycastillo/The-Open-Book) - 
 - [Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA) - Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world.
-- [openage](https://github.com/SFTtech/openage) - Free (as in freedom) open source clone of the Age of Empires II engine :rocket:
 - [OpenMQTTGateway](https://github.com/1technophile/OpenMQTTGateway) - MQTT gateway for ESP8266, ESP32, Sonoff RF Bridge or Arduino with bidirectional 433mhz/315mhz/868mhz, Infrared communications, BLE, beacons detection, mi flora / mi jia / LYWSD02/ Mi Scale compatibility, SMS & LORA.
 - [endless-sky](https://github.com/endless-sky/endless-sky) - Space exploration, trading, and combat game.
 - [open-builder](https://github.com/Hopson97/open-builder) - Open  "Minecraft-like" game with multiplayer support and Lua scripting support for the both client and server
@@ -1106,7 +1105,6 @@
 - [AlgoWiki](https://github.com/vicky002/AlgoWiki) - Repository which contains links and resources on different topics of Computer Science.
 - [backend_theme](https://github.com/Openworx/backend_theme) - Odoo Backend Theme
 - [microtip](https://github.com/ghosh/microtip) - 💬  Minimal, accessible, ultra lightweight css tooltip library. Just 1kb.
-- [Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books) - :books: Books that will blow your mind
 - [dist-prog-book](https://github.com/heathermiller/dist-prog-book) - 
 - [handong1587.github.io](https://github.com/handong1587/handong1587.github.io) - 
 - [cobalt2-vscode](https://github.com/wesbos/cobalt2-vscode) - Cobalt2 Theme for VS Code
@@ -1131,7 +1129,7 @@
 - [pandoc-markdown-book-template](https://github.com/johnpaulada/pandoc-markdown-book-template) - A template for creating epub books from markdown using pandoc.
 - [nomad-ci](https://github.com/iverberk/nomad-ci) - A fully featured CI setup based on Nomad, Jenkins, Selenium, Consul and Docker
 - [git.github.io](https://github.com/git/git.github.io) - Git Developer Site
-- [bitcoin.org](https://github.com/bitcoin-dot-org/bitcoin.org) - Bitcoin.org Website
+- [Bitcoin.org](https://github.com/bitcoin-dot-org/Bitcoin.org) - Bitcoin.org Website
 - [CaoMei](https://github.com/xiangsudian/CaoMei) - 🍓CaoMei Icon - Designed for developers and creatros http://chuangzaoshi.com/icon/
 - [bojler](https://github.com/Slicejack/bojler) - Bojler is an email framework
 - [Gravity](https://github.com/hemangsk/Gravity) - Minimal is the new cool.
@@ -3264,7 +3262,7 @@
 - [apexcharts.js](https://github.com/apexcharts/apexcharts.js) - 📊 Interactive JavaScript Charts built on SVG
 - [taskbook](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat
 - [vue-plyr](https://github.com/redxtech/vue-plyr) - A Vue component for the plyr (https://github.com/sampotts/plyr) video & audio player.
-- [vue-crud-x](https://github.com/ais-one/vue-crud-x) - Vue+Express Cookbook & CRUD Component
+- [vue-crud-x](https://github.com/ais-one/vue-crud-x) - Vue+Express Cookbook & CRUD Component (with Vite and Web Components)
 - [Ghost](https://github.com/TryGhost/Ghost) - 👻 The #1 headless Node.js CMS for professional publishing
 - [canvas-sketch](https://github.com/mattdesl/canvas-sketch) - [beta] A framework for making generative artwork in JavaScript and the browser.
 - [fetch](https://github.com/github/fetch) - A window.fetch JavaScript polyfill.
@@ -3583,7 +3581,6 @@
 - [director](https://github.com/flatiron/director) - a tiny and isomorphic URL router for JavaScript
 - [page.js](https://github.com/visionmedia/page.js) - Micro client-side router inspired by the Express router
 - [magic_paper](https://github.com/mnielsen/magic_paper) - Experiments in an explorable visual medium for mathematics
-- [gdbgui](https://github.com/cs01/gdbgui) - Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will open in your browser.
 - [tikzcd-editor](https://github.com/yishn/tikzcd-editor) - A simple visual editor for creating commutative diagrams.
 - [server](https://github.com/franciscop/server) - :desktop_computer: Simple and powerful server for Node.js
 - [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (August 2020)
@@ -3630,6 +3627,7 @@
 - [browser-compat-data](https://github.com/mdn/browser-compat-data) - This repository contains compatibility data for Web technologies as displayed on MDN
 - [node-chakracore](https://github.com/nodejs/node-chakracore) - Node.js on ChakraCore :sparkles::turtle::rocket::sparkles:
 - [nodejs-mobile](https://github.com/JaneaSystems/nodejs-mobile) - Full-fledged Node.js on Android and iOS
+- [Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books) - :books: Books that will blow your mind
 - [teachable-machine-v1](https://github.com/googlecreativelab/teachable-machine-v1) - Explore how machine learning works, live in the browser. No coding required.
 - [made-in-russia](https://github.com/IonicaBizau/made-in-russia) - 🇷🇺 Amazing projects made in Russia.
 - [style2paints](https://github.com/lllyasviel/style2paints) - sketch + style = paints :art: (TOG2018/SIGGRAPH2018ASIA)
@@ -7061,6 +7059,7 @@
 - [highway-env](https://github.com/eleurent/highway-env) - A minimalist environment for decision-making in autonomous driving
 - [deeprl_signal_control](https://github.com/cts198859/deeprl_signal_control) - multi-agent deep reinforcement learning for large-scale traffic signal control.
 - [pymarl](https://github.com/oxwhirl/pymarl) - Python Multi-Agent Reinforcement Learning framework
+- [openage](https://github.com/SFTtech/openage) - Free (as in freedom) open source clone of the Age of Empires II engine :rocket:
 - [causalml](https://github.com/uber/causalml) - Uplift modeling and causal inference with machine learning algorithms
 - [flax](https://github.com/google/flax) - Flax is a neural network library for JAX that is designed for flexibility.
 - [YOLOv3_TensorFlow](https://github.com/wizyoung/YOLOv3_TensorFlow) - Complete YOLO v3 TensorFlow implementation. Support training on your own dataset.
@@ -9666,7 +9665,7 @@
 - [ck-tensorflow](https://github.com/ctuning/ck-tensorflow) - Collective Knowledge components for TensorFlow (code, data sets, models, packages, workflows):
 - [python-web-pdb](https://github.com/romanvm/python-web-pdb) - Web-based remote UI for Python's PDB debugger
 - [ck-autotuning](https://github.com/ctuning/ck-autotuning) - CK automation actions to let users implement portable, customizable and reusable program workflows for reproducible, collaborative and multi-objective benchmarking, optimization and SW/HW co-design:
-- [ck](https://github.com/ctuning/ck) - Collective Knowledge framework (CK) helps to convert any software project into a database of reusable components (algorithms, packages, datasets, models, scripts, results...) with a common API, JSON meta descriptions, automation actions, and portable workflows. See some real-world use cases from Arm, General Motors, IBM, RPi, ACM, and MLPerf:
+- [ck](https://github.com/ctuning/ck) - Collective Knowledge framework (CK) helps to convert any software project into a database of reusable components (algorithms, packages, datasets, models, scripts, results...) with a common API, CLI, JSON meta descriptions, automation actions, and portable workflows. See some real-world use cases from Arm, General Motors, IBM, RPi, ACM, and MLPerf:
 - [CommAI-env](https://github.com/facebookresearch/CommAI-env) - A platform for developing AI systems as described in A Roadmap towards Machine Intelligence - http://arxiv.org/abs/1511.08130
 - [deconvfaces](https://github.com/somewacko/deconvfaces) - Generating faces with deconvolution networks
 - [whereami](https://github.com/kootenpv/whereami) - Uses WiFi signals :signal_strength: and machine learning to predict where you are
@@ -12761,7 +12760,7 @@
 - [nginx-le](https://github.com/nginx-le/nginx-le) - Nginx with automatic let's encrypt (docker image)
 - [vrn](https://github.com/AaronJackson/vrn) - :man:  Code for "Large Pose 3D Face Reconstruction from a Single Image via Direct Volumetric CNN Regression"
 - [eth-private-net](https://github.com/vincentchu/eth-private-net) - Create your own Ethereum private net
-- [kaldi](https://github.com/kaldi-asr/kaldi) - This is the official location of the Kaldi project.
+- [kaldi](https://github.com/kaldi-asr/kaldi) - kaldi-asr/kaldi is the official location of the Kaldi project.
 - [guide](https://github.com/serverless/guide) - Serverless Guide - An open-source definitive guide to serverless architectures.
 - [lambda-packages](https://github.com/Miserlou/lambda-packages) - Various popular python libraries, pre-compiled to be compatible with AWS Lambda
 - [apollo-kernel](https://github.com/ApolloAuto/apollo-kernel) - Collections of Apollo Kernels
@@ -13090,6 +13089,7 @@
 - [amplify-js](https://github.com/aws-amplify/amplify-js) - A declarative JavaScript library for application development using cloud services.
 - [G2](https://github.com/antvis/G2) - 📊 A highly interactive data-driven visualization grammar for statistical charts.
 - [superstruct](https://github.com/ianstormtaylor/superstruct) - A simple and composable way to validate data in JavaScript (or TypeScript).
+- [gdbgui](https://github.com/cs01/gdbgui) - Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will open in your browser.
 - [ant-design-pro](https://github.com/ant-design/ant-design-pro) - 👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!
 - [bottender](https://github.com/Yoctol/bottender) - ⚡️ A framework for building conversational user interfaces.
 - [ng-alain](https://github.com/ng-alain/ng-alain) - NG-ZORRO admin panel front-end framework (surge mirror https://ng-alain-doc.surge.sh)
