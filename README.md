@@ -2128,7 +2128,7 @@
 - [gorgonia](https://github.com/gorgonia/gorgonia) - Gorgonia is a library that helps facilitate machine learning in Go.
 - [go-patterns](https://github.com/tmrts/go-patterns) - Curated list of Go design patterns, recipes and idioms
 - [borg](https://github.com/ok-borg/borg) - Search and save shell snippets without leaving your terminal
-- [iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. MVC, gRPC gateway, unique router, Websockets, Sessions, Test suite, Dependency Injection and more. A true successor of expressjs and laravel | 谢谢 https://github.com/kataras/iris/issues/1329 |
+- [iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. Serverless, gRPC, MVC, Unique Router, Websockets, Sessions, Test suite, Dependency Injection and more. A true successor of expressjs and laravel | 谢谢 https://github.com/kataras/iris/issues/1329 |
 - [primitive](https://github.com/fogleman/primitive) - Reproducing images with geometric primitives.
 - [gosl](https://github.com/cpmech/gosl) - Go scientific library for machine learning, linear algebra, FFT, Bessel, elliptic, orthogonal polys, geometry, NURBS, numerical quadrature, 3D transfinite interpolation, random numbers, Mersenne twister, probability distributions, optimisation, graph, plotting, visualisation, tensors, eigenvalues, differential equations, more.
 - [kube-cert-manager](https://github.com/PalmStoneGames/kube-cert-manager) - Manage Lets Encrypt certificates for a Kubernetes cluster.
@@ -5397,7 +5397,7 @@
 - [Python-for-Algorithms--Data-Structures--and-Interviews](https://github.com/jmportilla/Python-for-Algorithms--Data-Structures--and-Interviews) - Files for Udemy Course on Algorithms and Data Structures
 - [pandas-tutorial](https://github.com/jorisvandenbossche/pandas-tutorial) - Material for the pandas tutorial at EuroScipy 2016
 - [deep-learning-keras-tensorflow](https://github.com/leriomaggio/deep-learning-keras-tensorflow) - Introduction to Deep Neural Networks with Keras and Tensorflow
-- [cs228-material](https://github.com/kuleshov/cs228-material) - Teaching materials for the probabilistic graphical models and deep learning classes at Stanford
+- [teaching-material](https://github.com/kuleshov/teaching-material) - Teaching materials for the machine learning and deep learning classes at Stanford and Cornell
 - [Algorithms-and-Data-structures](https://github.com/pattu777/Algorithms-and-Data-structures) - IPython notebooks of common data structures and algorithms
 - [PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook) - Python Data Science Handbook: full text in Jupyter Notebooks
 - [ml4a-guides](https://github.com/ml4a/ml4a-guides) - practical guides, tutorials, and code samples for ml4a
@@ -11292,7 +11292,7 @@
 - [flask-sse](https://github.com/DazWorrall/flask-sse) - 
 - [PyDbLite](https://github.com/PierreQuentel/PyDbLite) - A fast, pure Python in-memory database engine
 - [pydub](https://github.com/jiaaro/pydub) - Manipulate audio with a simple and easy high level interface
-- [profiling](https://github.com/what-studio/profiling) - An interactive continuous Python profiler.
+- [profiling](https://github.com/what-studio/profiling) - Was an interactive continuous Python profiler.
 - [usaddress](https://github.com/datamade/usaddress) - :us: a python library for parsing unstructured address strings into address components
 - [discover-flask](https://github.com/realpython/discover-flask) - Full Stack Web Development with Flask.
 - [oauthenticator](https://github.com/jupyterhub/oauthenticator) - OAuth + JupyterHub Authenticator = OAuthenticator
@@ -11995,7 +11995,7 @@
 - [wigiki](https://github.com/tlatsas/wigiki) - Static html wiki generator using Github's Gists™ as pages
 - [git-workflow](https://github.com/jvns/git-workflow) - Tool to visualize your git workflow, in a pretty graph
 - [theconversation](https://github.com/unionsquareventures/theconversation) - 
-- [isort](https://github.com/timothycrosley/isort) - A Python utility / library to sort imports.
+- [isort](https://github.com/PyCQA/isort) - A Python utility / library to sort imports.
 - [quokka](https://github.com/quokkaproject/quokka) - LOOKING FOR NEW MAINTAINER - Quokka is a Content Management System - `docker run --rm -it -p 5000:5000 quokka/quokka`
 - [mopidy](https://github.com/mopidy/mopidy) - Mopidy is an extensible music server written in Python
 - [h5py](https://github.com/h5py/h5py) - HDF5 for Python -- The h5py package is a Pythonic interface to the HDF5 binary data format.
@@ -13262,7 +13262,7 @@
 - [pomotroid](https://github.com/Splode/pomotroid) - :tomato: Simple and visually-pleasing Pomodoro timer
 - [cssfx](https://github.com/jolaleye/cssfx) - ✨ Beautifully simple click-to-copy CSS effects
 - [vue-thanos-snap](https://github.com/yiliang114/vue-thanos-snap) - thanos snap animation by vue
-- [vue](https://github.com/zeit-ui/vue) - Vue implementation of Vercel Design
+- [vue](https://github.com/geist-org/vue) - Vue implementation of Geist UI.
 - [openmicroservices.org](https://github.com/microservices/openmicroservices.org) - NOT MAINTAINED https://medium.com/@iopeak/open-microservices-specification-1abd8262ad0e
 - [aws-serverless-airline-booking](https://github.com/aws-samples/aws-serverless-airline-booking) - Airline Booking is a complete web application that provides Flight Search, Flight Payment, Flight Booking and Loyalty points including end-to-end testing, GraphQL and CI/CD. This web application is the theme of Build on Serverless Season 2 on AWS Twitch running from April 24th until end of July.
 - [AzureTipsAndTricks](https://github.com/microsoft/AzureTipsAndTricks) - Learn some of our favorite Azure tips and tricks—some long-standing, and new ones that have recently been added to become more productive with Azure. Star the repo now to shave hours off your coding tasks tomorrow.
