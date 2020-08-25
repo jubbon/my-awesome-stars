@@ -158,7 +158,7 @@
 - [open-gpu-doc](https://github.com/NVIDIA/open-gpu-doc) - Documentation of NVIDIA chip/hardware interfaces
 - [matrix](https://github.com/Tencent/matrix) - Matrix is a plugin style, non-invasive APM system developed by WeChat.
 - [yugabyte-db](https://github.com/yugabyte/yugabyte-db) - The high-performance distributed SQL database for global, internet-scale apps.
-- [john](https://github.com/openwall/john) - This is the official repo for John the Ripper jumbo. The "bleeding-jumbo" branch is based on 1.9.0-jumbo-1, which was released on May 14, 2019. An import of John the Ripper core that this jumbo was based on is found in the "core" branch (CVS: https://cvsweb.openwall.com/cgi/cvsweb.cgi/Owl/packages/john/john/).
+- [john](https://github.com/openwall/john) - John the Ripper jumbo - advanced offline password cracker, which supports hundreds of hash and cipher types, and runs on many operating systems, CPUs, GPUs, and even some FPGAs
 - [gpdb](https://github.com/greenplum-db/gpdb) - Greenplum Database
 - [libsodium](https://github.com/jedisct1/libsodium) - A modern, portable, easy to use crypto library.
 - [librdkafka](https://github.com/edenhill/librdkafka) - The Apache Kafka C/C++ library
@@ -3008,7 +3008,6 @@
 - [mockit](https://github.com/boyney123/mockit) - A tool to quickly mock out end points, setup delays and more...
 - [baseweb](https://github.com/uber/baseweb) - A React Component library implementing the Base design language
 - [bento-starter](https://github.com/kefranabg/bento-starter) - :bento: Full-Stack solution to quickly build PWA applications with Vue.js and Firebase
-- [octotree](https://github.com/ovity/octotree) - GitHub on steroids
 - [ikonate](https://github.com/mikolajdobrucki/ikonate) - Fully customisable & accessible vector icons
 - [dsa.js-data-structures-algorithms-javascript](https://github.com/amejiarosario/dsa.js-data-structures-algorithms-javascript) - 🥞Data Structures and Algorithms explained and implemented in JavaScript
 - [glicky](https://github.com/alex-saunders/glicky) - 🐭 An In-browser User Interface For JavaScript Development Workflows
@@ -3577,7 +3576,7 @@
 - [nightwatch](https://github.com/nightwatchjs/nightwatch) - End-to-end testing framework written in Node.js and using the Webdriver API
 - [vue-test-utils-jest-example](https://github.com/vuejs/vue-test-utils-jest-example) - Example project using Jest + vue-test-utils together
 - [jsdom](https://github.com/jsdom/jsdom) - A JavaScript implementation of various web standards, for use with Node.js
-- [vue-async-methods](https://github.com/mokkabonna/vue-async-methods) - Async method support for vue
+- [vue-async-methods](https://github.com/mokkabonna/vue-async-methods) - Async method support for vue with relevant state variables for use in the UI.
 - [director](https://github.com/flatiron/director) - a tiny and isomorphic URL router for JavaScript
 - [page.js](https://github.com/visionmedia/page.js) - Micro client-side router inspired by the Express router
 - [magic_paper](https://github.com/mnielsen/magic_paper) - Experiments in an explorable visual medium for mathematics
@@ -3627,7 +3626,7 @@
 - [browser-compat-data](https://github.com/mdn/browser-compat-data) - This repository contains compatibility data for Web technologies as displayed on MDN
 - [node-chakracore](https://github.com/nodejs/node-chakracore) - Node.js on ChakraCore :sparkles::turtle::rocket::sparkles:
 - [nodejs-mobile](https://github.com/JaneaSystems/nodejs-mobile) - Full-fledged Node.js on Android and iOS
-- [Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books) - :books: Books that will blow your mind
+- [Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books) - :books: Books everyone should read!
 - [teachable-machine-v1](https://github.com/googlecreativelab/teachable-machine-v1) - Explore how machine learning works, live in the browser. No coding required.
 - [made-in-russia](https://github.com/IonicaBizau/made-in-russia) - 🇷🇺 Amazing projects made in Russia.
 - [style2paints](https://github.com/lllyasviel/style2paints) - sketch + style = paints :art: (TOG2018/SIGGRAPH2018ASIA)
@@ -5924,6 +5923,7 @@
 - [golang-developer-roadmap](https://github.com/Alikhll/golang-developer-roadmap) - Roadmap to becoming a Go developer in 2020
 - [pytorch-styleguide](https://github.com/IgorSusmelj/pytorch-styleguide) - An unofficial styleguide and best practices summary for PyTorch
 - [resilience-engineering](https://github.com/lorin/resilience-engineering) - Resilience engineering papers
+- [octotree](https://github.com/ovity/octotree) - GitHub on steroids
 - [app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
 - [commit-messages-guide](https://github.com/RomuloOliveira/commit-messages-guide) - A guide to understand the importance of commit messages and how to write them well
 - [Awesome-Mobile-Machine-Learning](https://github.com/fritzlabs/Awesome-Mobile-Machine-Learning) - A curated list of awesome mobile machine learning resources for iOS, Android, and edge devices.
@@ -6738,6 +6738,7 @@
 
 ## Python 
 
+- [dreamer-pytorch](https://github.com/juliusfrost/dreamer-pytorch) - Dream to Control: Learning Behaviors by Latent Imagination, implemented in PyTorch.
 - [texthero](https://github.com/jbesomi/texthero) - Text preprocessing, representation and visualization from zero to hero.
 - [naeval](https://github.com/natasha/naeval) - Comparing quality and performance of NLP systems for Russian language
 - [nvidia-docker-compose](https://github.com/eywalker/nvidia-docker-compose) - Simple wrapper for docker-compose to use GPU enabled docker under nvidia-docker
@@ -6748,7 +6749,7 @@
 - [MolecularTransformer](https://github.com/pschwllr/MolecularTransformer) - 
 - [TopicNet](https://github.com/machine-intelligence-laboratory/TopicNet) - Interface for easier topic modelling.
 - [nlp](https://github.com/huggingface/nlp) - 🤗nlp – Datasets and evaluation metrics for Natural Language Processing in NumPy, Pandas, PyTorch and TensorFlow
-- [TensorFlowTTS](https://github.com/TensorSpeech/TensorFlowTTS) - :stuck_out_tongue_closed_eyes: TensorFlowTTS: Real-Time State-of-the-art Speech Synthesis for Tensorflow 2 (supported including English, Korean, Chinese)
+- [TensorFlowTTS](https://github.com/TensorSpeech/TensorFlowTTS) - :stuck_out_tongue_closed_eyes: TensorFlowTTS: Real-Time State-of-the-art Speech Synthesis for Tensorflow 2 (supported including English, Korean, Chinese and Easy to adapt for other languages)
 - [tuya-convert](https://github.com/ct-Open-Source/tuya-convert) - A collection of scripts to flash Tuya IoT devices to alternative firmwares
 - [rich](https://github.com/willmcgugan/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [pyTelegramBotAPI](https://github.com/eternnoir/pyTelegramBotAPI) - Python Telegram bot api.
@@ -8582,7 +8583,7 @@
 - [tensorflow-recipes](https://github.com/PatWie/tensorflow-recipes) - A collection of TensorFlow (Tensorpack) implementations of recent deep learning approaches including pretrained models. (FlowNet 2, PWC, PointNet, EnhanceNet)
 - [richtext.org](https://github.com/kennethreitz-archive/richtext.org) - a place to share things™
 - [scenescoop](https://github.com/cvalenzuela/scenescoop) - A tool to describe the content of videos and suggest similar scenes in other videos/films.
-- [powerfulseal](https://github.com/bloomberg/powerfulseal) - A powerful testing tool for Kubernetes clusters.
+- [powerfulseal](https://github.com/powerfulseal/powerfulseal) - A powerful testing tool for Kubernetes clusters.
 - [rate.sx](https://github.com/chubin/rate.sx) - :moneybag: curl cryptocurrencies exchange rates
 - [misocoin](https://github.com/kendricktan/misocoin) - Barebones bitcoin-like protocol implemented in Python 3.6
 - [machine-learning-microservice-python](https://github.com/yu-iskw/machine-learning-microservice-python) - Example to implement machine learning microservice with gRPC and Docker in Python
@@ -8867,7 +8868,7 @@
 - [covertutils](https://github.com/operatorequals/covertutils) - A framework for Backdoor development!
 - [horovod](https://github.com/horovod/horovod) - Distributed training framework for TensorFlow, Keras, PyTorch, and Apache MXNet.
 - [satellite](https://github.com/Blockstream/satellite) - Blockstream Satellite
-- [aws-sam-cli](https://github.com/awslabs/aws-sam-cli) - CLI tool to build, test, debug, and deploy Serverless applications using AWS SAM
+- [aws-sam-cli](https://github.com/aws/aws-sam-cli) - CLI tool to build, test, debug, and deploy Serverless applications using AWS SAM
 - [nvim-completion-manager](https://github.com/roxma/nvim-completion-manager) - :warning: PLEASE USE https://github.com/ncm2/ncm2 INSTEAD
 - [SMASH](https://github.com/ajbrock/SMASH) - An experimental technique for efficiently exploring neural architectures.
 - [tinychain](https://github.com/jamesob/tinychain) - A pocket-sized implementation of Bitcoin
@@ -9518,7 +9519,7 @@
 - [colorcet](https://github.com/holoviz/colorcet) - A set of useful perceptually uniform colormaps for plotting scientific data
 - [recnet](https://github.com/JoergFranke/recnet) - RecNet - Recurrent Neural Network Framework
 - [ngraph-python](https://github.com/NervanaSystems/ngraph-python) - Original Python version of Intel® Nervana™ Graph
-- [serverless-application-model](https://github.com/awslabs/serverless-application-model) - AWS Serverless Application Model (SAM) is an open-source framework for building serverless applications
+- [serverless-application-model](https://github.com/aws/serverless-application-model) - AWS Serverless Application Model (SAM) is an open-source framework for building serverless applications
 - [ProjectFib](https://github.com/anantdgoel/ProjectFib) - Chrome extension to flag fake news on Facebook. Built at HackPrinceton '16
 - [MLAlgorithms](https://github.com/rushter/MLAlgorithms) - Minimal and clean examples of machine learning algorithms implementations
 - [gmvault](https://github.com/gaubert/gmvault) - gmail backup software
@@ -9665,7 +9666,7 @@
 - [ck-tensorflow](https://github.com/ctuning/ck-tensorflow) - Collective Knowledge components for TensorFlow (code, data sets, models, packages, workflows):
 - [python-web-pdb](https://github.com/romanvm/python-web-pdb) - Web-based remote UI for Python's PDB debugger
 - [ck-autotuning](https://github.com/ctuning/ck-autotuning) - CK automation actions to let users implement portable, customizable and reusable program workflows for reproducible, collaborative and multi-objective benchmarking, optimization and SW/HW co-design:
-- [ck](https://github.com/ctuning/ck) - Collective Knowledge framework (CK) helps to convert any software project into a database of reusable components (algorithms, packages, datasets, models, scripts, results...) with a common API, CLI, JSON meta descriptions, automation actions, and portable workflows. See some real-world use cases from Arm, General Motors, IBM, RPi, ACM, and MLPerf:
+- [ck](https://github.com/ctuning/ck) - Collective Knowledge framework (CK) helps to organize any project as a database of reusable components with common automation actions and extensible meta descriptions based on FAIR principles (findability, accessibility, interoperability, and reusability). See real-world use cases from Arm, IBM, General Motors, MLPerf, RPi, and ACM:
 - [CommAI-env](https://github.com/facebookresearch/CommAI-env) - A platform for developing AI systems as described in A Roadmap towards Machine Intelligence - http://arxiv.org/abs/1511.08130
 - [deconvfaces](https://github.com/somewacko/deconvfaces) - Generating faces with deconvolution networks
 - [whereami](https://github.com/kootenpv/whereami) - Uses WiFi signals :signal_strength: and machine learning to predict where you are
@@ -13262,7 +13263,7 @@
 - [pomotroid](https://github.com/Splode/pomotroid) - :tomato: Simple and visually-pleasing Pomodoro timer
 - [cssfx](https://github.com/jolaleye/cssfx) - ✨ Beautifully simple click-to-copy CSS effects
 - [vue-thanos-snap](https://github.com/yiliang114/vue-thanos-snap) - thanos snap animation by vue
-- [vue](https://github.com/geist-org/vue) - Vue implementation of Geist UI.
+- [vue](https://github.com/geist-org/vue) - Vue implementation of Geist
 - [openmicroservices.org](https://github.com/microservices/openmicroservices.org) - NOT MAINTAINED https://medium.com/@iopeak/open-microservices-specification-1abd8262ad0e
 - [aws-serverless-airline-booking](https://github.com/aws-samples/aws-serverless-airline-booking) - Airline Booking is a complete web application that provides Flight Search, Flight Payment, Flight Booking and Loyalty points including end-to-end testing, GraphQL and CI/CD. This web application is the theme of Build on Serverless Season 2 on AWS Twitch running from April 24th until end of July.
 - [AzureTipsAndTricks](https://github.com/microsoft/AzureTipsAndTricks) - Learn some of our favorite Azure tips and tricks—some long-standing, and new ones that have recently been added to become more productive with Azure. Star the repo now to shave hours off your coding tasks tomorrow.
