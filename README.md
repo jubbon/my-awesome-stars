@@ -554,7 +554,7 @@
 - [taskflow](https://github.com/taskflow/taskflow) - Modern C++ Parallel Task Programming
 - [YouTokenToMe](https://github.com/VKCOM/YouTokenToMe) - Unsupervised text tokenizer focused on computational efficiency
 - [griddb](https://github.com/griddb/griddb) - GridDB is a next-generation open source database that makes time series IoT and big data fast,and easy.
-- [triton-inference-server](https://github.com/NVIDIA/triton-inference-server) - The Triton Inference Server provides a cloud inferencing solution optimized for NVIDIA GPUs.
+- [server](https://github.com/triton-inference-server/server) - The Triton Inference Server provides a cloud inferencing solution optimized for NVIDIA GPUs.
 - [taichi](https://github.com/taichi-dev/taichi) - Productive & portable programming language for high-performance, sparse & differentiable computing
 - [FICM](https://github.com/hellochick/FICM) - :video_game: [IJCAI'20][ICLR'19 Workshop] Flow-based Intrinsic Curiosity Module. Playing SuperMario with RL agent and FICM!
 - [cpp-cheat-sheet](https://github.com/gibsjose/cpp-cheat-sheet) - C++ Syntax, Data Structures, and Algorithms Cheat Sheet
@@ -2095,7 +2095,7 @@
 - [httpsnoop](https://github.com/felixge/httpsnoop) - Package httpsnoop provides an easy way to capture http related metrics (i.e. response time, bytes written, and http status code) from your application's http.Handlers.
 - [kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management
 - [kubernetes-vault](https://github.com/Boostport/kubernetes-vault) - Use Vault to store secrets for Kubernetes!
-- [quorum](https://github.com/jpmorganchase/quorum) - A permissioned implementation of Ethereum supporting data privacy
+- [quorum](https://github.com/ConsenSys/quorum) - A permissioned implementation of Ethereum supporting data privacy
 - [mmock](https://github.com/jmartin82/mmock) - Mmock is an HTTP mocking application for testing and fast prototyping
 - [helm](https://github.com/helm/helm) - The Kubernetes Package Manager
 - [functions](https://github.com/iron-io/functions) - IronFunctions - the serverless microservices platform by
@@ -2128,7 +2128,7 @@
 - [gorgonia](https://github.com/gorgonia/gorgonia) - Gorgonia is a library that helps facilitate machine learning in Go.
 - [go-patterns](https://github.com/tmrts/go-patterns) - Curated list of Go design patterns, recipes and idioms
 - [borg](https://github.com/ok-borg/borg) - Search and save shell snippets without leaving your terminal
-- [iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. Serverless, gRPC, MVC, Unique Router, Websockets, Sessions, Test suite, Dependency Injection and more. A true successor of expressjs and laravel | 谢谢 https://github.com/kataras/iris/issues/1329 |
+- [iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. AWS Lambda, gRPC, MVC, Unique Router, Websockets, Sessions, Test suite, Dependency Injection and more. A true successor of expressjs and laravel | 谢谢 https://github.com/kataras/iris/issues/1329 |
 - [primitive](https://github.com/fogleman/primitive) - Reproducing images with geometric primitives.
 - [gosl](https://github.com/cpmech/gosl) - Go scientific library for machine learning, linear algebra, FFT, Bessel, elliptic, orthogonal polys, geometry, NURBS, numerical quadrature, 3D transfinite interpolation, random numbers, Mersenne twister, probability distributions, optimisation, graph, plotting, visualisation, tensors, eigenvalues, differential equations, more.
 - [kube-cert-manager](https://github.com/PalmStoneGames/kube-cert-manager) - Manage Lets Encrypt certificates for a Kubernetes cluster.
@@ -5833,7 +5833,7 @@
 - [MIT-Linear-Algebra-Notes](https://github.com/yizhen20133868/MIT-Linear-Algebra-Notes) - Notes for MIT-Linear-Algebra
 - [Cookbook](https://github.com/andkret/Cookbook) - The Data Engineering Cookbook
 - [dn](https://github.com/tomlockwood/dn) - Daily notes command line tool
-- [awesome-robotic-tooling](https://github.com/protontypes/awesome-robotic-tooling) - Tools for professional robotic development in C++ and Python with a touch of ROS, autonomous driving and aerospace
+- [awesome-robotic-tooling](https://github.com/protontypes/awesome-robotic-tooling) - Free Tools for professional robotic development in C++ and Python with a touch of ROS, autonomous driving and aerospace
 - [awesome-graph](https://github.com/jbmusso/awesome-graph) - A curated list of resources for graph databases and graph computing tools
 - [For-Data-Science-Beginners](https://github.com/amrrs/For-Data-Science-Beginners) - Set of 📝 with 🔗 to help those who are Data Science beginners 🤖
 - [awesome-libra](https://github.com/reed-hong/awesome-libra) - A Curated List of Awesome Facebook Libra Resources
@@ -7360,7 +7360,7 @@
 - [DeepLearningTutorials](https://github.com/lisa-lab/DeepLearningTutorials) - Deep Learning Tutorial notes and code. See the wiki for more info.
 - [machine_learning_examples](https://github.com/lazyprogrammer/machine_learning_examples) - A collection of machine learning examples and tutorials.
 - [DeepNude-an-Image-to-Image-technology](https://github.com/yuanxiaosc/DeepNude-an-Image-to-Image-technology) - DeepNude's algorithm and general image generation theory and practice research, including pix2pix, CycleGAN, UGATIT, DCGAN, SinGAN, ALAE, mGANprior, StarGAN-v2 and VAE models (TensorFlow2 implementation). DeepNude的算法以及通用生成对抗网络（GAN,Generative Adversarial Network）图像生成的理论与实践研究。
-- [DG-Net](https://github.com/NVlabs/DG-Net) - CVPR2019 Joint Discriminative and Generative Learning for Person Re-identification
+- [DG-Net](https://github.com/NVlabs/DG-Net) - Joint Discriminative and Generative Learning for Person Re-identification. CVPR'19 (Oral)
 - [open-deepnude](https://github.com/open-deepnude/open-deepnude) - Open source reverse-engineered clone of DeepNude
 - [bookshelf](https://github.com/dry-python/bookshelf) - Code examples to learn dry-python with Django at the project scale.
 - [stories](https://github.com/proofit404/stories) - Define a user story in the business transaction DSL.
@@ -13056,6 +13056,7 @@
 - [proton-native](https://github.com/kusti8/proton-native) - A React environment for cross platform desktop apps
 - [webamp](https://github.com/captbaritone/webamp) - Winamp 2 reimplemented for the browser
 - [rematch](https://github.com/rematch/rematch) - A Redux Framework
+- [explorer](https://github.com/ArkEcosystem/explorer) - A Blockchain Explorer for ARK using Vue.js and Tailwind CSS.
 - [pandora](https://github.com/midwayjs/pandora) - A Manageable, Measurable and Traceable Node.js Application Manager represented by Alibaba powered by TypeScript
 - [velocity](https://github.com/julianshapiro/velocity) - Accelerated JavaScript animation.
 - [scriptedforms](https://github.com/SimonBiggs/scriptedforms) - Quickly create live-update GUIs for Python packages using Markdown and simple HTML elements.
@@ -13431,7 +13432,6 @@
 - [vue-prom](https://github.com/byteboomers/vue-prom) - Vue promise wrapper component
 - [vue-overdrive](https://github.com/mattrothenberg/vue-overdrive) - Super easy magic-move transitions for Vue apps
 - [vue2-leaflet-tracksymbol](https://github.com/ais-one/vue2-leaflet-tracksymbol) - tracksymbol plugin extension for vue2-leaflet (Updated to use vue2-leaflet v2.x.x)
-- [explorer](https://github.com/ArkEcosystem/explorer) - A Blockchain Explorer for ARK using Vue.js and Tailwind CSS.
 - [vue-date-picker](https://github.com/8788/vue-date-picker) - datepicker component for Vue 2.x
 - [simple-vue-validator](https://github.com/semisleep/simple-vue-validator) - A simple yet flexible validator library for vue.js
 - [vue-date-picker](https://github.com/ridewn/vue-date-picker) - A vue date picker component inspired by material design
