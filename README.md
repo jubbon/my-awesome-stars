@@ -453,6 +453,7 @@
 - [ailab](https://github.com/microsoft/ailab) - Experience, Learn and Code the latest breakthrough innovations with Microsoft AI
 - [DRL_based_SelfDrivingCarControl](https://github.com/MLJejuCamp2017/DRL_based_SelfDrivingCarControl) - Deep Reinforcement Learning (DQN) based Self Driving Car Control with Vehicle Simulator
 - [blockchain](https://github.com/dvf/blockchain) - A simple Blockchain in Python
+- [ml-agents](https://github.com/Unity-Technologies/ml-agents) - Unity Machine Learning Agents Toolkit
 - [sqlnotebook](https://github.com/electroly/sqlnotebook) - Tabular data exploration and manipulation tool powered by SQLite.
 - [TensorFlowSharp](https://github.com/migueldeicaza/TensorFlowSharp) - TensorFlow API for .NET languages
 - [electrino](https://github.com/pojala/electrino) - Desktop runtime for apps built on web technologies, using the system's own web browser engine
@@ -474,7 +475,6 @@
 - [s3fs-fuse](https://github.com/s3fs-fuse/s3fs-fuse) - FUSE-based file system backed by Amazon S3
 - [TurboTransformers](https://github.com/Tencent/TurboTransformers) - a fast and user-friendly runtime for transformer inference (Bert, Albert, GPT2, Decoders, etc) on CPU and GPU.
 - [mindspore](https://github.com/mindspore-ai/mindspore) - MindSpore is a new open source deep learning training/inference framework that could be used for mobile, edge and cloud scenarios.
-- [TRTorch](https://github.com/NVIDIA/TRTorch) - PyTorch/TorchScript compiler for NVIDIA GPUs using TensorRT
 - [benchmark](https://github.com/google/benchmark) - A microbenchmark support library
 - [vosk-api](https://github.com/alphacep/vosk-api) - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
 - [rpcs3](https://github.com/RPCS3/rpcs3) - PS3 emulator/debugger
@@ -822,7 +822,7 @@
 - [zurl](https://github.com/fanout/zurl) - HTTP and WebSocket client worker with ZeroMQ interface
 - [pushpin](https://github.com/fanout/pushpin) - Reverse proxy for realtime web services
 - [Visually-Algorithm](https://github.com/Kiroeko/Visually-Algorithm) - This is a A* Algorithm Visually Display Demo that shows Us How Computer Deal With Pathfinding。
-- [STT](https://github.com/mozilla/STT) - Mozilla Voice STT is an open source speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.
+- [DeepSpeech](https://github.com/mozilla/DeepSpeech) - DeepSpeech is an open source speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.
 - [deepmath](https://github.com/tensorflow/deepmath) - Experiments towards neural network theorem proving
 - [float-hacks](https://github.com/leegao/float-hacks) - Floating Point Hacks
 - [tera](https://github.com/baidu/tera) - An Internet-Scale Database.
@@ -2518,7 +2518,6 @@
 - [strftime.org](https://github.com/mccutchen/strftime.org) - A single-serving-site that provides a reference for Python's strftime formatting options
 - [algorithms-tour](https://github.com/stitchfix/algorithms-tour) - How data science is woven into the fabric of Stitch Fix
 - [PolyCARP](https://github.com/nasa/PolyCARP) - 
-- [nbconvert](https://github.com/jupyter/nbconvert) - Jupyter Notebook Conversion
 - [pygmaps-ng](https://github.com/Permafacture/pygmaps-ng) - A fork of gmm-up focused on generating single file google map apps with python
 - [propeller](https://github.com/digicorp/propeller) - Propeller - Develop more, Code less. Propeller is a front-end responsive framework based on Google's Material Design Standards & Bootstrap.
 - [simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
@@ -4448,7 +4447,7 @@
 - [DQN-Atari-Agents](https://github.com/BY571/DQN-Atari-Agents) - DQN-Atari-Agents:   Modularized PyTorch implementation of several DQN Agents, i.a. DDQN, Dueling DQN, Noisy DQN, C51, Rainbow and DRQN
 - [deltapy](https://github.com/firmai/deltapy) - DeltaPy - Tabular Data Augmentation (by @firmai)
 - [nerf](https://github.com/bmild/nerf) - Code release for NeRF (Neural Radiance Fields)
-- [pycaret](https://github.com/pycaret/pycaret) - An open source, low-code machine learning library in Python
+- [pycaret](https://github.com/pycaret/pycaret) - An open-source, low-code machine learning library in Python
 - [micrograd](https://github.com/karpathy/micrograd) - A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API
 - [ktrain](https://github.com/amaiya/ktrain) - ktrain is a Python library that makes deep learning and AI more accessible and easier to apply
 - [compress-fasttext](https://github.com/avidale/compress-fasttext) - Tools for shrinking fastText models (in gensim format)
@@ -4463,6 +4462,7 @@
 - [Bidirectional-Attention-Flow-for-Machine-Comprehension](https://github.com/Sshanu/Bidirectional-Attention-Flow-for-Machine-Comprehension) - Machine Comprehension using Squad and Triviqa Data sets
 - [squad](https://github.com/AnatoliiPotapov/squad) - 
 - [nlp_ryan](https://github.com/aiscientist/nlp_ryan) - Study for Natural Language Processing & Deep Learning Framework
+- [TRTorch](https://github.com/NVIDIA/TRTorch) - PyTorch/TorchScript compiler for NVIDIA GPUs using TensorRT
 - [the-craft-of-selfteaching](https://github.com/selfteaching/the-craft-of-selfteaching) - One has no future if one couldn't teach themself.
 - [scikit-learn-tips](https://github.com/justmarkham/scikit-learn-tips) - :robot::zap: Daily scikit-learn tips
 - [6S083](https://github.com/mitmath/6S083) - Materials for MIT 6.S083 / 18.S190: Computational thinking with Julia + application to the COVID-19 pandemic
@@ -4987,7 +4987,7 @@
 - [amazon-sagemaker-examples](https://github.com/awslabs/amazon-sagemaker-examples) - Example notebooks that show how to apply machine learning, deep learning and reinforcement learning in Amazon SageMaker
 - [kaggle-web-traffic](https://github.com/Arturus/kaggle-web-traffic) - 1st place solution
 - [receptivefield](https://github.com/fornaxai/receptivefield) - Gradient based receptive field estimation for Convolutional Neural Networks
-- [nn_dynamics](https://github.com/nagaban2/nn_dynamics) - 
+- [nn_dynamics](https://github.com/anagabandi/nn_dynamics) - 
 - [deep-image-prior](https://github.com/DmitryUlyanov/deep-image-prior) - Image restoration with neural networks but without learning.
 - [estool](https://github.com/hardmaru/estool) - Evolution Strategies Tool
 - [python-clustering-exercises](https://github.com/benjaminwilson/python-clustering-exercises) - Jupyter Notebook exercises for k-means clustering with Python 3 and scikit-learn
@@ -6928,7 +6928,7 @@
 - [gensim-data](https://github.com/RaRe-Technologies/gensim-data) - Data repository for pretrained NLP models and NLP corpora.
 - [sense2vec](https://github.com/explosion/sense2vec) - 🦆 Contextually-keyed word vectors
 - [remi](https://github.com/YatingMusic/remi) - "Pop Music Transformer: Beat-based Modeling and Generation of Expressive Pop Piano Compositions", ACM Multimedia 2020
-- [tianshou](https://github.com/thu-ml/tianshou) - An elegant, flexible, and superfast PyTorch deep reinforcement learning platform. (For previewed features, please checkout the "dev" branch)
+- [tianshou](https://github.com/thu-ml/tianshou) - An elegant, flexible, and superfast PyTorch deep reinforcement learning platform.
 - [pycls](https://github.com/facebookresearch/pycls) - Codebase for Image Classification Research, written in PyTorch.
 - [PaddleHub](https://github.com/PaddlePaddle/PaddleHub) - Toolkit for Pre-trained Model Application of PaddlePaddle（『飞桨』预训练模型应用工具 ）
 - [CurveFit](https://github.com/ihmeuw-msca/CurveFit) - Generic curve fitting package with nonlinear mixed effects model
@@ -7286,7 +7286,7 @@
 - [HungaBunga](https://github.com/ypeleg/HungaBunga) - HungaBunga: Brute-Force all sklearn models with all parameters using .fit .predict!
 - [process-wallpaper](https://github.com/anirudhajith/process-wallpaper) - Shell and python scripts that set the desktop wallpaper to a word cloud of the most resource-hungry processes
 - [kubernetes-workshop](https://github.com/eon01/kubernetes-workshop) - ⚙️ A Gentle introduction to Kubernetes with more than just the basics. 🌟 Give it a star if you like it.
-- [ThreatHunter-Playbook](https://github.com/hunters-forge/ThreatHunter-Playbook) - A Threat hunter's playbook to aid the development of techniques and hypothesis for hunting campaigns.
+- [ThreatHunter-Playbook](https://github.com/OTRF/ThreatHunter-Playbook) - A Threat hunter's playbook to aid the development of techniques and hypothesis for hunting campaigns.
 - [dagster](https://github.com/dagster-io/dagster) - A data orchestrator for machine learning, analytics, and ETL.
 - [former](https://github.com/pbloem/former) - Simple transformer implementation from scratch in pytorch.
 - [reinforcement-learning-an-introduction](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction) - Python Implementation of Reinforcement Learning: An Introduction
@@ -8017,7 +8017,7 @@
 - [evernote-telegram-bot](https://github.com/djudman/evernote-telegram-bot) - Telegram bot for Evernote
 - [appkernel](https://github.com/accelero-cloud/appkernel) - API development made easy: a smart Python 3 API framework
 - [testinfra](https://github.com/philpep/testinfra) - Testinfra test your infrastructures
-- [albumentations](https://github.com/albumentations-team/albumentations) - Fast image augmentation library and easy to use wrapper around other libraries. Documentation:  https://albumentations.ai/docs/
+- [albumentations](https://github.com/albumentations-team/albumentations) - Fast image augmentation library and easy to use wrapper around other libraries. Documentation:  https://albumentations.ai/docs/ Paper about library: https://www.mdpi.com/2078-2489/11/2/125
 - [keras-coordconv](https://github.com/titu1994/keras-coordconv) - Keras implementation of CoordConv for all Convolution layers
 - [compare_gan](https://github.com/google/compare_gan) - Compare GAN code.
 - [Terminus](https://github.com/randy3k/Terminus) - Bring a real terminal to Sublime Text
@@ -8761,7 +8761,6 @@
 - [fairseq](https://github.com/pytorch/fairseq) - Facebook AI Research Sequence-to-Sequence Toolkit written in Python.
 - [weibospider](https://github.com/SpiderClub/weibospider) - :zap: A distributed crawler for weibo, building with celery and requests.
 - [SerpentAI](https://github.com/SerpentAI/SerpentAI) - Game Agent Framework. Helping you create AIs / Bots that learn to play any game you own!
-- [ml-agents](https://github.com/Unity-Technologies/ml-agents) - Unity Machine Learning Agents Toolkit
 - [onnx-caffe2](https://github.com/onnx/onnx-caffe2) - Caffe2 implementation of Open Neural Network Exchange (ONNX)
 - [fa2l](https://github.com/bosiakov/fa2l) - Force Atlas 2 graph layout
 - [studio](https://github.com/studioml/studio) - Studio: Simplify and expedite model building process
@@ -9277,6 +9276,7 @@
 - [python-fire](https://github.com/google/python-fire) - Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
 - [httplib2](https://github.com/httplib2/httplib2) - Small, fast HTTP client library for Python. Features persistent connections, cache, and Google App Engine support. Originally written by Joe Gregorio, now supported by community.
 - [lightning-python](https://github.com/lightning-viz/lightning-python) - Python client for the lightning API
+- [nbconvert](https://github.com/jupyter/nbconvert) - Jupyter Notebook Conversion
 - [gmaps](https://github.com/pbugnion/gmaps) - Google maps for Jupyter notebooks
 - [powerline](https://github.com/powerline/powerline) - Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile.
 - [Transcrypt](https://github.com/QQuick/Transcrypt) - Python 3.7 to JavaScript compiler - Lean, fast, open! -
@@ -9666,7 +9666,7 @@
 - [ck-tensorflow](https://github.com/ctuning/ck-tensorflow) - Collective Knowledge components for TensorFlow (code, data sets, models, packages, workflows):
 - [python-web-pdb](https://github.com/romanvm/python-web-pdb) - Web-based remote UI for Python's PDB debugger
 - [ck-autotuning](https://github.com/ctuning/ck-autotuning) - CK automation actions to let users implement portable, customizable and reusable program workflows for reproducible, collaborative and multi-objective benchmarking, optimization and SW/HW co-design:
-- [ck](https://github.com/ctuning/ck) - Collective Knowledge framework (CK) helps to organize any project as a database of reusable components with common automation actions and extensible meta descriptions based on FAIR principles (findability, accessibility, interoperability, and reusability). See real-world use cases from Arm, IBM, General Motors, MLPerf, RPi, and ACM:
+- [ck](https://github.com/ctuning/ck) - Collective Knowledge framework (CK) helps to organize any software project as a database of reusable components with common automation actions and extensible meta descriptions based on FAIR principles (findability, accessibility, interoperability, and reusability). See real-world use cases from Arm, IBM, General Motors, MLPerf, RPi, and ACM:
 - [CommAI-env](https://github.com/facebookresearch/CommAI-env) - A platform for developing AI systems as described in A Roadmap towards Machine Intelligence - http://arxiv.org/abs/1511.08130
 - [deconvfaces](https://github.com/somewacko/deconvfaces) - Generating faces with deconvolution networks
 - [whereami](https://github.com/kootenpv/whereami) - Uses WiFi signals :signal_strength: and machine learning to predict where you are
