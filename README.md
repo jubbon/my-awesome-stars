@@ -61,6 +61,7 @@
   - [OpenEdge ABL](#openedge-abl)
   - [Others](#others)
   - [PHP](#php)
+  - [PLpgSQL](#plpgsql)
   - [Perl](#perl)
   - [Pony](#pony)
   - [PostScript](#postscript)
@@ -80,7 +81,6 @@
   - [Roff](#roff)
   - [Ruby](#ruby)
   - [Rust](#rust)
-  - [SQLPL](#sqlpl)
   - [Scala](#scala)
   - [Scheme](#scheme)
   - [Shell](#shell)
@@ -729,7 +729,7 @@
 - [gpuvis](https://github.com/mikesart/gpuvis) - GPU Trace Visualizer
 - [BlockSci](https://github.com/citp/BlockSci) - A high-performance tool for blockchain science and exploration
 - [xlearn](https://github.com/aksnzhy/xlearn) - High performance, easy-to-use, and scalable machine learning (ML) package, including linear model (LR), factorization machines (FM), and field-aware factorization machines (FFM) for Python and CLI interface.
-- [incubator-brpc](https://github.com/apache/incubator-brpc) - Industrial-grade RPC framework used throughout Baidu, with 1,000,000+ instances and thousands kinds of services, called "baidu-rpc" inside Baidu.
+- [incubator-brpc](https://github.com/apache/incubator-brpc) - Industrial-grade RPC framework used throughout Baidu, with 1,000,000+ instances and thousands kinds of services. "brpc" means "better RPC".
 - [StarSpace](https://github.com/facebookresearch/StarSpace) - Learning embeddings for classification, retrieval and ranking.
 - [openFrameworks](https://github.com/openframeworks/openFrameworks) - openFrameworks is a community-developed cross platform toolkit for creative coding in C++.
 - [yue](https://github.com/yue/yue) - A library for creating native cross-platform GUI apps
@@ -1703,7 +1703,7 @@
 - [TarsGo](https://github.com/TarsCloud/TarsGo) - A  high performance microservice  framework  in golang. A linux foundation project.
 - [arduino-cli](https://github.com/arduino/arduino-cli) - Arduino command line interface
 - [devspace](https://github.com/devspace-cloud/devspace) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
-- [gorm](https://github.com/go-gorm/gorm) - The fantastic ORM library for Golang, aims to be developer friendly (v2 is under public testing...)
+- [gorm](https://github.com/go-gorm/gorm) - The fantastic ORM library for Golang, aims to be developer friendly
 - [pdfcpu](https://github.com/pdfcpu/pdfcpu) - A PDF processor written in Go.
 - [sso](https://github.com/buzzfeed/sso) - sso, aka S.S.Octopus, aka octoboi, is a single sign-on solution for securing internal services
 - [vegeta](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It's over 9000!
@@ -2843,7 +2843,6 @@
 - [Surus](https://github.com/Netflix/Surus) - 
 - [realtime-analytics](https://github.com/pulsarIO/realtime-analytics) - Realtime analytics, this includes the core components of Pulsar pipeline.
 - [voltdb](https://github.com/VoltDB/voltdb) - VoltDB
-- [beakerx](https://github.com/twosigma/beakerx) - Beaker Extensions for Jupyter Notebook
 - [ambrose](https://github.com/twitter/ambrose) - A platform for visualization and real-time monitoring of data workflows
 - [ml-ease](https://github.com/linkedin/ml-ease) - ADMM based large scale logistic regression
 - [ADW](https://github.com/pilehvar/ADW) - 
@@ -3550,6 +3549,7 @@
 - [markdown-here](https://github.com/adam-p/markdown-here) - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
 - [fpass](https://github.com/fpass/fpass) - FPASS · 密码安全管理工具
 - [popmotion](https://github.com/Popmotion/popmotion) - Simple animation libraries for delightful user interfaces
+- [docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [tlapse](https://github.com/typicode/tlapse) - 📷 Create a timelapse of your web development... or just automatically take screenshots of your hard work ;)
 - [parcel](https://github.com/parcel-bundler/parcel) - 📦🚀 Blazing fast, zero configuration web application bundler
 - [array-explorer](https://github.com/sdras/array-explorer) - ⚡️ A resource to help figure out what JavaScript array method would be best to use at any given time
@@ -4931,6 +4931,7 @@
 - [Dynamic_Neural_Manifold](https://github.com/Miej/Dynamic_Neural_Manifold) - 
 - [one-pixel-attack-keras](https://github.com/Hyperparticle/one-pixel-attack-keras) - Keras implementation of "One pixel attack for fooling deep neural networks" using differential evolution on Cifar10 and ImageNet
 - [tpu](https://github.com/tensorflow/tpu) - Reference models and tools for Cloud TPUs.
+- [skift](https://github.com/shaypal5/skift) - scikit-learn wrappers for Python fastText.
 - [lucid](https://github.com/tensorflow/lucid) - A collection of infrastructure and tools for research in neural network interpretability.
 - [readingbricks](https://github.com/Nikolay-Lysenko/readingbricks) - A structured collection of tagged notes about machine learning theory and practice endowed with search infrastructure that allows users to read requested info only.
 - [tfwss](https://github.com/philferriere/tfwss) - Weakly Supervised Segmentation with Tensorflow. Implements instance segmentation as described in Simple Does It: Weakly Supervised Instance and Semantic Segmentation, by Khoreva et al. (CVPR 2017).
@@ -5563,6 +5564,7 @@
 - [notebooks](https://github.com/ogrisel/notebooks) - Some sample IPython notebooks for scikit-learn
 - [K-Nearest-Neighbors-with-Dynamic-Time-Warping](https://github.com/markdregan/K-Nearest-Neighbors-with-Dynamic-Time-Warping) - Python implementation of KNN and DTW classification algorithm
 - [chemview](https://github.com/gabrielelanaro/chemview) - The new generation molecular viewer for IPython notebook
+- [beakerx](https://github.com/twosigma/beakerx) - Beaker Extensions for Jupyter Notebook
 - [numerical-mooc](https://github.com/numerical-mooc/numerical-mooc) - A course in numerical methods with Python for engineers and scientists: currently 5 learning modules, with student assignments.
 - [datacollect](https://github.com/rasbt/datacollect) - A collection of tools to collect and download various data.
 - [ipython-soccer-predictions](https://github.com/GoogleCloudPlatform/ipython-soccer-predictions) - Sample iPython notebook with soccer predictions
@@ -5595,7 +5597,7 @@
 ## Kotlin 
 
 - [ridesharing-uber-lyft-app](https://github.com/MindorksOpenSource/ridesharing-uber-lyft-app) - Ride-Sharing Uber Lyft Android App - Learn to build a ride-sharing Android Taxi Clone App like Uber, Lyft - Open-Source Project By MindOrks
-- [fenix](https://github.com/mozilla-mobile/fenix) - Firefox Preview
+- [fenix](https://github.com/mozilla-mobile/fenix) - Firefox for Android
 - [conference-app-2019](https://github.com/DroidKaigi/conference-app-2019) - The Official Conference App for DroidKaigi 2019 Tokyo
 - [iosched](https://github.com/google/iosched) - The Google I/O 2019 Android App
 - [sunflower](https://github.com/android/sunflower) - A gardening app illustrating Android development best practices with Android Jetpack.
@@ -5833,7 +5835,7 @@
 - [MIT-Linear-Algebra-Notes](https://github.com/yizhen20133868/MIT-Linear-Algebra-Notes) - Notes for MIT-Linear-Algebra
 - [Cookbook](https://github.com/andkret/Cookbook) - The Data Engineering Cookbook
 - [dn](https://github.com/tomlockwood/dn) - Daily notes command line tool
-- [awesome-robotic-tooling](https://github.com/protontypes/awesome-robotic-tooling) - Free Tools for professional robotic development in C++ and Python with a touch of ROS, autonomous driving and aerospace
+- [awesome-robotic-tooling](https://github.com/protontypes/awesome-robotic-tooling) - Free tools for professional robotic development in C++ and Python with a touch of ROS, autonomous driving and aerospace
 - [awesome-graph](https://github.com/jbmusso/awesome-graph) - A curated list of resources for graph databases and graph computing tools
 - [For-Data-Science-Beginners](https://github.com/amrrs/For-Data-Science-Beginners) - Set of 📝 with 🔗 to help those who are Data Science beginners 🤖
 - [awesome-libra](https://github.com/reed-hong/awesome-libra) - A Curated List of Awesome Facebook Libra Resources
@@ -6684,6 +6686,10 @@
 - [notejam](https://github.com/komarserjio/notejam) - Unified sample web app. The easy way to learn web frameworks.
 - [mdash](https://github.com/emuravjev/mdash) - Muravjev Typograph
 
+## PLpgSQL 
+
+- [openmaptiles](https://github.com/openmaptiles/openmaptiles) - OpenMapTiles Vector Tile Schema Implementation
+
 ## Perl 
 
 - [repo-info](https://github.com/docker-library/repo-info) - Extended information (especially license and layer details) about the published Official Images
@@ -6738,6 +6744,7 @@
 
 ## Python 
 
+- [DESlib](https://github.com/scikit-learn-contrib/DESlib) - A Python library for dynamic classifier and ensemble selection
 - [dreamer-pytorch](https://github.com/juliusfrost/dreamer-pytorch) - Dream to Control: Learning Behaviors by Latent Imagination, implemented in PyTorch.
 - [texthero](https://github.com/jbesomi/texthero) - Text preprocessing, representation and visualization from zero to hero.
 - [naeval](https://github.com/natasha/naeval) - Comparing quality and performance of NLP systems for Russian language
@@ -7369,7 +7376,7 @@
 - [PyRoyale](https://github.com/Igoorx/PyRoyale) - A open-source server emulator for Mario Royale browser game.
 - [oauth2client](https://github.com/googleapis/oauth2client) - This is a Python library for accessing resources protected by OAuth 2.0.
 - [tfx](https://github.com/tensorflow/tfx) - TFX is an end-to-end platform for deploying production ML pipelines
-- [oppia](https://github.com/oppia/oppia) - Tool for collaboratively building interactive lessons.
+- [oppia](https://github.com/oppia/oppia) - A free, online learning platform to make quality education accessible for all.
 - [python-miio](https://github.com/rytilahti/python-miio) - Python library & console tool for controlling Xiaomi smart appliances
 - [panel](https://github.com/holoviz/panel) - A high-level app and dashboarding solution for Python
 - [gluon-ts](https://github.com/awslabs/gluon-ts) - Probabilistic time series modeling in Python
@@ -7575,7 +7582,7 @@
 - [spektral](https://github.com/danielegrattarola/spektral) - Graph Neural Networks with Keras and Tensorflow 2.
 - [ludwig](https://github.com/uber/ludwig) - Ludwig is a toolbox built on top of TensorFlow that allows to train and test deep learning models without the need to write code.
 - [project_alias](https://github.com/bjoernkarmann/project_alias) - Alias is a teachable “parasite” that is designed to give users more control over their smart assistants, both when it comes to customisation and privacy. Through a simple app the user can train Alias to react on a custom wake-word/sound, and once trained, Alias can take control over your home assistant by activating it for you.
-- [gita](https://github.com/nosarthur/gita) - Manage many git repos with sanity 理智管理多个git库
+- [gita](https://github.com/nosarthur/gita) - Manage many git repos with sanity 从容管理多个git库
 - [ffhq-dataset](https://github.com/NVlabs/ffhq-dataset) - Flickr-Faces-HQ Dataset (FFHQ)
 - [ImageNet-Adversarial-Training](https://github.com/facebookresearch/ImageNet-Adversarial-Training) - ImageNet classifier with state-of-the-art adversarial robustness
 - [bert-embedding](https://github.com/imgarylai/bert-embedding) - 🔡 Token level embeddings from BERT model on mxnet and gluonnlp
@@ -8306,7 +8313,6 @@
 - [SublimeNotebook](https://github.com/aviaryan/SublimeNotebook) - 📝 Make Sublime Text your favorite note taking/journal application
 - [authenticatorpy](https://github.com/abdullahselek/authenticatorpy) - Generate 2FA tokens like Google Authenticator.
 - [vidsum](https://github.com/OpenGenus/vidsum) - Generate summary of any video :tv: anywhere and anytime
-- [skift](https://github.com/shaypal5/skift) - scikit-learn wrappers for Python fastText.
 - [Simple-OpenCV-Calculator](https://github.com/EvilPort2/Simple-OpenCV-Calculator) - A gesture controlled calculator.
 - [augmented-reality](https://github.com/glennglennglenn/augmented-reality) - Snapchat-like augmented reality filters
 - [git-ctm](https://github.com/pavdmyt/git-ctm) - ⏳ git Commit Time Machine ⌛
@@ -12652,10 +12658,6 @@
 - [stacks-blockchain](https://github.com/blockstack/stacks-blockchain) - The Stacks 2.0 blockchain implementation
 - [vagga](https://github.com/tailhook/vagga) - Vagga is a containerization tool without daemons
 
-## SQLPL 
-
-- [openmaptiles](https://github.com/openmaptiles/openmaptiles) - OpenMapTiles Vector Tile Schema Implementation
-
 ## Scala 
 
 - [mleap](https://github.com/combust/mleap) - MLeap: Deploy Spark Pipelines to Production
@@ -13085,7 +13087,6 @@
 - [boardgame.io](https://github.com/boardgameio/boardgame.io) - State Management for Turn-Based Games
 - [stimulus](https://github.com/stimulusjs/stimulus) - A modest JavaScript framework for the HTML you already have
 - [vscode-terminals](https://github.com/fabiospampinato/vscode-terminals) - An extension for setting-up multiple terminals at once, or just running some commands.
-- [docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [alva](https://github.com/meetalva/alva) - Create living prototypes with code components.
 - [docup](https://github.com/egoist/docup) - The easiest way to write beautiful docs.
 - [amplify-js](https://github.com/aws-amplify/amplify-js) - A declarative JavaScript library for application development using cloud services.
