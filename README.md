@@ -488,7 +488,7 @@
 - [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [domoticz](https://github.com/domoticz/domoticz) - Open source Home Automation System
 - [subconverter](https://github.com/tindy2013/subconverter) - Utility to convert between various subscription format
-- [minetest](https://github.com/minetest/minetest) - Minetest, an open source infinite-world block sandbox game engine with support for survival and crafting. Also see https://github.com/minetest/minetest_game
+- [minetest](https://github.com/minetest/minetest) - Minetest is an open source voxel game engine with easy modding and game creation
 - [srt](https://github.com/Haivision/srt) - Secure, Reliable, Transport
 - [MultiMC5](https://github.com/MultiMC/MultiMC5) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once
 - [zeal](https://github.com/zealdocs/zeal) - Offline documentation browser inspired by Dash
@@ -3549,7 +3549,6 @@
 - [markdown-here](https://github.com/adam-p/markdown-here) - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
 - [fpass](https://github.com/fpass/fpass) - FPASS · 密码安全管理工具
 - [popmotion](https://github.com/Popmotion/popmotion) - Simple animation libraries for delightful user interfaces
-- [docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [tlapse](https://github.com/typicode/tlapse) - 📷 Create a timelapse of your web development... or just automatically take screenshots of your hard work ;)
 - [parcel](https://github.com/parcel-bundler/parcel) - 📦🚀 Blazing fast, zero configuration web application bundler
 - [array-explorer](https://github.com/sdras/array-explorer) - ⚡️ A resource to help figure out what JavaScript array method would be best to use at any given time
@@ -4424,6 +4423,7 @@
 
 ## Jupyter Notebook 
 
+- [Style-Transfer-Collection](https://github.com/tg-bomze/Style-Transfer-Collection) - Colabs Collection of style transfer in photo and video
 - [gpu-jupyter](https://github.com/iot-salzburg/gpu-jupyter) - Leverage the flexibility of Jupyterlab through the power of your NVIDIA GPU to run your code from Tensorflow and Pytorch in collaborative notebooks on the GPU.
 - [stylegan-encoder](https://github.com/pbaylies/stylegan-encoder) - StyleGAN Encoder - converts real images to latent space
 - [EssentialMath](https://github.com/yangyutu/EssentialMath) - 
@@ -4528,7 +4528,7 @@
 - [pytorch-normalizing-flows](https://github.com/karpathy/pytorch-normalizing-flows) - Normalizing flows in PyTorch. Current intended use is education not production.
 - [IBA-paper-code](https://github.com/BioroboticsLab/IBA-paper-code) - Code for the Paper "Restricting the Flow: Information Bottlenecks for Attribution"
 - [nnAudio](https://github.com/KinWaiCheuk/nnAudio) - Audio processing by using pytorch 1D convolution network
-- [ml-mipt](https://github.com/ml-mipt/ml-mipt) - Machine learning course at MIPT
+- [ml-mipt](https://github.com/girafe-ai/ml-mipt) - Machine learning course at MIPT
 - [Attention-Basics](https://github.com/alsoj/Attention-Basics) - Description Projects and exercises for Deep Learning Nano Degree program of Udacity (Mini Project)
 - [UdacityNLPND_MiniProject_AttentionBasics](https://github.com/MrGeislinger/UdacityNLPND_MiniProject_AttentionBasics) - Optional Mini-Project for Udacity's NLPND about attention learning
 - [Udacity-Deep-Learning-Nanodegree](https://github.com/MrinmoiHossain/Udacity-Deep-Learning-Nanodegree) - The course is contained knowledge that are useful to work on deep learning as an engineer. Simple neural networks & training, CNN, Autoencoders and feature extraction, Transfer learning, RNN, LSTM, NLP, Data augmentation, GANs, Hyperparameter tuning, Model deployment and serving are included in the course.
@@ -8880,6 +8880,7 @@
 - [pysc2](https://github.com/deepmind/pysc2) - StarCraft II Learning Environment
 - [pygorithm](https://github.com/OmkarPathak/pygorithm) - A Python module for learning all major algorithms
 - [incubator-tvm](https://github.com/apache/incubator-tvm) - Open deep learning compiler stack for cpu, gpu and specialized accelerators
+- [SecGen](https://github.com/cliffe/SecGen) - Create randomly insecure VMs
 - [rl-teacher](https://github.com/nottombrown/rl-teacher) - Code for Deep RL from Human Preferences [Christiano et al]. Plus a webapp for collecting human feedback
 - [pytorch-visdom](https://github.com/alexsax/pytorch-visdom) - Support powerful visual logging in PyTorch.
 - [pionic](https://github.com/tlocke/pionic) - A Python library for the Ion format
@@ -12574,7 +12575,6 @@
 - [loghouse](https://github.com/flant/loghouse) - Ready to use log management solution for Kubernetes storing data in ClickHouse and providing web UI.
 - [tf-idf-similarity](https://github.com/jpmckinney/tf-idf-similarity) - Ruby gem to calculate the similarity between texts using tf*idf
 - [decisiontree](https://github.com/igrigorik/decisiontree) - ID3-based implementation of the ML Decision Tree algorithm
-- [SecGen](https://github.com/cliffe/SecGen) - Create randomly insecure VMs
 - [windows](https://github.com/boxcutter/windows) - Virtual machine templates for Windows
 - [vagrant-windows](https://github.com/WinRb/vagrant-windows) - 
 - [gist](https://github.com/defunkt/gist) - Potentially the best command line gister.
@@ -13087,6 +13087,7 @@
 - [boardgame.io](https://github.com/boardgameio/boardgame.io) - State Management for Turn-Based Games
 - [stimulus](https://github.com/stimulusjs/stimulus) - A modest JavaScript framework for the HTML you already have
 - [vscode-terminals](https://github.com/fabiospampinato/vscode-terminals) - An extension for setting-up multiple terminals at once, or just running some commands.
+- [docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [alva](https://github.com/meetalva/alva) - Create living prototypes with code components.
 - [docup](https://github.com/egoist/docup) - The easiest way to write beautiful docs.
 - [amplify-js](https://github.com/aws-amplify/amplify-js) - A declarative JavaScript library for application development using cloud services.
