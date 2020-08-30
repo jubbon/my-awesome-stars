@@ -2887,7 +2887,6 @@
 - [omniboard](https://github.com/vivekratnavel/omniboard) - Web-based dashboard for Sacred
 - [Real-Time-Person-Removal](https://github.com/jasonmayes/Real-Time-Person-Removal) - Removing people from complex backgrounds in real time using TensorFlow.js in the web browser
 - [cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
-- [documentation](https://github.com/pterodactyl/documentation) - Pterodactyl's documentation is open source! This repository contains the documentation for installing and updating both the panel and the daemon.
 - [workshop-material](https://github.com/peterj/workshop-material) - Material for Kubernetes and Istio workshop https://learnistio.com
 - [fingerprintjs2](https://github.com/fingerprintjs/fingerprintjs2) - Modern & flexible browser fingerprinting library
 - [Detox](https://github.com/wix/Detox) - Gray box end-to-end testing and automation framework for mobile apps
@@ -6744,6 +6743,13 @@
 
 ## Python 
 
+- [spacy-streamlit](https://github.com/explosion/spacy-streamlit) - 👑 spaCy building blocks and visualizers for Streamlit apps
+- [byol-pytorch](https://github.com/lucidrains/byol-pytorch) - Usable Implementation of "Bootstrap Your Own Latent" self-supervised learning, from Deepmind, in Pytorch
+- [data-efficient-gans](https://github.com/mit-han-lab/data-efficient-gans) - Differentiable Augmentation for Data-Efficient GAN Training
+- [OpenSelfSup](https://github.com/open-mmlab/OpenSelfSup) - Self-Supervised Learning Toolbox and Benchmark
+- [panoptic-deeplab](https://github.com/bowenc0221/panoptic-deeplab) - This is Pytorch re-implementation of our CVPR 2020 paper "Panoptic-DeepLab: A Simple, Strong, and Fast Baseline for Bottom-Up Panoptic Segmentation" (https://arxiv.org/abs/1911.10194)
+- [slimevolleygym](https://github.com/hardmaru/slimevolleygym) - A simple OpenAI Gym environment for single and multi-agent reinforcement learning
+- [detr](https://github.com/facebookresearch/detr) - End-to-End Object Detection with Transformers
 - [DESlib](https://github.com/scikit-learn-contrib/DESlib) - A Python library for dynamic classifier and ensemble selection
 - [dreamer-pytorch](https://github.com/juliusfrost/dreamer-pytorch) - Dream to Control: Learning Behaviors by Latent Imagination, implemented in PyTorch.
 - [texthero](https://github.com/jbesomi/texthero) - Text preprocessing, representation and visualization from zero to hero.
@@ -11365,7 +11371,7 @@
 - [grano](https://github.com/ANCIR/grano) - A toolkit for mapping networks of political and economic influence through diverse types of entities and their relations. Accessible at http://granoproject.org
 - [MechanicalSoup](https://github.com/MechanicalSoup/MechanicalSoup) - A Python library for automating interaction with websites.
 - [vex](https://github.com/sashahart/vex) - Run a command in the named virtualenv.
-- [PyPXE](https://github.com/pypxe/PyPXE) - Pure Python2 PXE (DHCP-(Proxy)/TFTP/HTTP/NBD) Server
+- [PyPXE](https://github.com/pypxe/PyPXE) - Pure Python PXE (DHCP-(Proxy)/TFTP/HTTP/NBD) Server
 - [oxidizr](https://github.com/pixlie/oxidizr) - Hassle free online marketing - build better audience, engage, and grow your brand.
 - [hotspotd](https://github.com/prahladyeri/hotspotd) - Simple daemon to create a wifi hotspot on Linux
 - [conductor](https://github.com/gvnn3/conductor) - A framework for testing distributed systems
@@ -13223,6 +13229,7 @@
 - [beauty-vuejs-boilerplate](https://github.com/zmts/beauty-vuejs-boilerplate) - ❤️ Real world base Vue.js app. Access/refresh tokens auth, api services, http client, vuex modules
 - [hackathon-app-template](https://github.com/oslokommune/hackathon-app-template) - 
 - [vue-page-designer](https://github.com/fireyy/vue-page-designer) - Vue component for drag-and-drop to design and build mobile website.
+- [documentation](https://github.com/pterodactyl/documentation) - Pterodactyl's documentation is open source! This repository contains the documentation for installing and updating both the panel and the daemon.
 - [ui](https://github.com/staart/ui) - 🏁🌐 Frontend Vue PWA starter for SaaS startups
 - [amazon-api-gateway-url-shortener](https://github.com/aws-samples/amazon-api-gateway-url-shortener) - Creates a serverless URL shortener on AWS without using AWS Lambda or any other compute.
 - [HYMall](https://github.com/coderwhy/HYMall) - A vue.js mall application.
