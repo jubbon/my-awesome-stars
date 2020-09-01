@@ -760,7 +760,7 @@
 - [stanford_self_driving_car_code](https://github.com/emmjaykay/stanford_self_driving_car_code) - Stanford Code From Cars That Entered DARPA Grand Challenges
 - [ELL](https://github.com/microsoft/ELL) - Embedded Learning Library
 - [v8py](https://github.com/tbodt/v8py) - Write Python APIs, then call them from JavaScript using the V8 engine.
-- [emscripten](https://github.com/emscripten-core/emscripten) - Emscripten: An LLVM-to-Web Compiler
+- [emscripten](https://github.com/emscripten-core/emscripten) - Emscripten: An LLVM-to-WebAssembly Compiler
 - [aleth](https://github.com/ethereum/aleth) - Aleth – Ethereum C++ client, tools and libraries
 - [incubator-weex](https://github.com/apache/incubator-weex) - Apache Weex (Incubating)
 - [solidity](https://github.com/ethereum/solidity) - Solidity, the Contract-Oriented Programming Language
@@ -1576,7 +1576,6 @@
 - [OpenDiablo2](https://github.com/OpenDiablo2/OpenDiablo2) - An open source re-implementation of Diablo 2
 - [swag](https://github.com/swaggo/swag) - Automatically generate RESTful API documentation with Swagger 2.0 for Go.
 - [fasthttp](https://github.com/valyala/fasthttp) - Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http
-- [terraform-provider-azuredevops](https://github.com/microsoft/terraform-provider-azuredevops) - Terraform provider for Azure DevOps
 - [vitess](https://github.com/vitessio/vitess) - Vitess is a database clustering system for horizontal scaling of MySQL.
 - [keda](https://github.com/kedacore/keda) - KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes
 - [fabric-samples](https://github.com/hyperledger/fabric-samples) - 
@@ -2135,7 +2134,7 @@
 - [deploykit](https://github.com/docker/deploykit) - A toolkit for creating and managing declarative, self-healing infrastructure.
 - [habitus](https://github.com/cloud66-oss/habitus) - A build flow tool for Docker.
 - [armor](https://github.com/labstack/armor) - Uncomplicated, modern HTTP server
-- [vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container Image, Running Container, WordPress, Programming language libraries, Network devices
+- [vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices
 - [teleport](https://github.com/gravitational/teleport) - Secure Access for Developers that doesn't get in the way.
 - [gallium](https://github.com/alexflint/gallium) - Build desktop applications in Go and HTML.
 - [eliasdb](https://github.com/krotik/eliasdb) - EliasDB is a graph-based database.
@@ -2881,6 +2880,7 @@
 - [vscode-plugin](https://github.com/kiteco/vscode-plugin) - Kite Autocomplete Plugin for Visual Studio Code
 - [express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
 - [lime](https://github.com/marcotcr/lime) - Lime: Explaining the predictions of any machine learning classifier
+- [botframework-sdk](https://github.com/microsoft/botframework-sdk) - Bot Framework provides the most comprehensive experience for building conversation applications.
 - [uuid](https://github.com/lukeed/uuid) - A tiny (230B), fast, and cryptographically secure UUID (V4) generator for Node and the browser
 - [LoveIt](https://github.com/dillonzq/LoveIt) - ❤️A clean, elegant but advanced blog theme for Hugo 一个简洁、优雅且高效的 Hugo 主题
 - [tracking.js](https://github.com/eduardolundgren/tracking.js) - A modern approach for Computer Vision on the web
@@ -4206,7 +4206,6 @@
 - [mongotron](https://github.com/officert/mongotron) - Cross platform Mongo DB management
 - [d3-scale](https://github.com/d3/d3-scale) - Encodings that map abstract data to visual representation.
 - [HackMyResume](https://github.com/hacksalot/HackMyResume) - Generate polished résumés and CVs in HTML, Markdown, LaTeX, MS Word, PDF, plain text, JSON, XML, YAML, smoke signal, and carrier pigeon.
-- [canopsis](https://github.com/capensis/canopsis) - Canopsis is an open-source hypervisor whose goal is to aggregate informations and events coming from multiple sources to create a global solution for monitoring and resources administration -- https://git.canopsis.net/ --
 - [cubism](https://github.com/square/cubism) - Cubism.js: A JavaScript library for time series visualization.
 - [mozaik](https://github.com/plouc/mozaik) - Mozaïk is a tool based on nodejs / react / redux / nivo / d3 to easily craft beautiful dashboards
 - [gitbook](https://github.com/GitbookIO/gitbook) - 📝 Modern documentation format and toolchain using Git and Markdown
@@ -4564,7 +4563,6 @@
 - [Tutorials](https://github.com/TannerGilbert/Tutorials) - Code for some of my tutorials
 - [mellotron](https://github.com/NVIDIA/mellotron) - Mellotron: a multispeaker voice synthesis model based on Tacotron 2 GST that can make a voice emote and sing without emotive or singing training data
 - [deepmind-research](https://github.com/deepmind/deepmind-research) - This repository contains implementations and illustrative code to accompany DeepMind publications
-- [Tutorials](https://github.com/SAPDocuments/Tutorials) - Tutorials on sap.com
 - [colab-tricks](https://github.com/shawwn/colab-tricks) - Tricks for Colab power users
 - [TensorFlow2.0-Examples](https://github.com/YunYang1994/TensorFlow2.0-Examples) - 🙄 Difficult algorithm, simple code.
 - [pytorch-faster-rcnn](https://github.com/ruotianluo/pytorch-faster-rcnn) - pytorch1.0 updated. Support cpu test and demo. (Use detectron2, it's a masterpiece)
@@ -5732,7 +5730,6 @@
 - [Pwdb-Public](https://github.com/FlameOfIgnis/Pwdb-Public) - A collection of all the data i could extract from 1 billion leaked credentials from internet.
 - [gpt-3](https://github.com/openai/gpt-3) - GPT-3: Language Models are Few-Shot Learners
 - [unofficial-apis](https://github.com/Rolstenhouse/unofficial-apis) - A collection of unofficial apis. Designed to inspire your next Friday night hack
-- [awesome-asgi](https://github.com/florimondmanca/awesome-asgi) - A curated list of awesome ASGI servers, frameworks, apps, libraries, and other resources
 - [enhancement-proposals](https://github.com/jupyter/enhancement-proposals) - Enhancement proposals for the Jupyter Ecosystem
 - [awesome-deeplearning-nlp-papers](https://github.com/KaiyuanGao/awesome-deeplearning-nlp-papers) - A curated list of Deep learning and NLP must read papers
 - [awesome-mlss](https://github.com/sshkhr/awesome-mlss) - List of summer schools in machine learning + related fields across the globe
@@ -6403,7 +6400,7 @@
 - [comver](https://github.com/staltz/comver) - MIGRATED TO https://gitlab.com/staltz/comver
 - [material-remixer](https://github.com/material-foundation/material-remixer) - A set of cross-platform libraries and protocols to allow the sharing of design values and live refinement of apps during the development process.
 - [TheRemoteFreelancer](https://github.com/engineerapart/TheRemoteFreelancer) - Listing of community-curated resources to find topical remote freelance & contract work for software developers, web designers, and more!
-- [.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh My Tmux! Pretty & versatile tmux configuration / customization made with ❤️
+- [.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh My Tmux! Pretty & versatile tmux configuration made with ❤️
 - [games](https://github.com/leereilly/games) - :video_game: A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
 - [franz-app-legacy](https://github.com/meetfranz/franz-app-legacy) - 
 - [asyncio](https://github.com/python/asyncio) - asyncio historical repository
@@ -6802,6 +6799,7 @@
 - [DataCamp](https://github.com/wblakecannon/DataCamp) - DataCamp data-science courses
 - [tensorflow-yolov4-tflite](https://github.com/hunglc007/tensorflow-yolov4-tflite) - YOLOv4, YOLOv4-tiny, YOLOv3, YOLOv3-tiny Implemented in Tensorflow 2.0, Android. Convert YOLO v4 .weights tensorflow, tensorrt and tflite
 - [Background-Matting](https://github.com/senguptaumd/Background-Matting) - Background Matting: The World is Your Green Screen
+- [awesome-asgi](https://github.com/florimondmanca/awesome-asgi) - A curated list of awesome ASGI servers, frameworks, apps, libraries, and other resources
 - [click-completion](https://github.com/click-contrib/click-completion) - Add or enhance bash, fish, zsh and powershell completion in Click
 - [fastapi-utils](https://github.com/dmontagu/fastapi-utils) - Reusable utilities for FastAPI
 - [awesome-python](https://github.com/tiangolo/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
@@ -6949,7 +6947,7 @@
 - [gym-gridworld](https://github.com/xinleipan/gym-gridworld) - Simple grid-world environment compatible with OpenAI-gym
 - [asteroid](https://github.com/mpariente/asteroid) - The PyTorch-based audio source separation toolkit for researchers || Pretrained models available
 - [deap](https://github.com/DEAP/deap) - Distributed Evolutionary Algorithms in Python
-- [ESRGAN](https://github.com/xinntao/ESRGAN) - ECCV18 Workshops - Enhanced SRGAN. Champion PIRM Challenge on Perceptual Super-Resolution (Third Region)
+- [ESRGAN](https://github.com/xinntao/ESRGAN) - ECCV18 Workshops - Enhanced SRGAN. Champion PIRM Challenge on Perceptual Super-Resolution. The training codes are in BasicSR.
 - [minimal-hand](https://github.com/CalciferZh/minimal-hand) - A minimal solution to hand motion capture from a single color camera at over 100fps. Easy to use, plug to run.
 - [moco](https://github.com/facebookresearch/moco) - PyTorch implementation of MoCo: https://arxiv.org/abs/1911.05722
 - [AnimeGAN](https://github.com/TachibanaYoshino/AnimeGAN) - A Tensorflow implementation of AnimeGAN for fast photo animation  ! This is the Open source of the paper &lt;AnimeGAN: a novel lightweight GAN for photo animation&gt;, which uses the GAN framwork to transform real-world photos into anime images.
@@ -6965,7 +6963,6 @@
 - [AdelaiDet](https://github.com/aim-uofa/AdelaiDet) - AdelaiDet is an open source toolbox for multiple instance-level detection and recognition tasks.
 - [Games](https://github.com/CharlesPikachu/Games) - Some games created by python code.
 - [dreamer](https://github.com/google-research/dreamer) - Dream to Control: Learning Behaviors by Latent Imagination
-- [botframework-sdk](https://github.com/microsoft/botframework-sdk) - Bot Framework provides the most comprehensive experience for building conversation applications.
 - [ppo-pytorch](https://github.com/adik993/ppo-pytorch) - Proximal Policy Optimization(PPO) with Intrinsic Curiosity Module(ICM)
 - [tensorboard](https://github.com/dmlc/tensorboard) - Standalone TensorBoard for visualizing in deep learning
 - [electra](https://github.com/google-research/electra) - ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators
@@ -7903,7 +7900,7 @@
 - [DaSiamRPN](https://github.com/foolwood/DaSiamRPN) - [ECCV2018] Distractor-aware Siamese Networks for Visual Object Tracking
 - [cookiecutter-django-shop](https://github.com/awesto/cookiecutter-django-shop) - Cookiecutter django-SHOP is a blueprint for an e-commerce site based on django-CMS.
 - [csv-position-reader](https://github.com/loisaidasam/csv-position-reader) - A custom CSV reader implementation with direct file access
-- [ImprovedGAN-Tensorflow](https://github.com/bruno-31/ImprovedGAN-Tensorflow) - A Tensorflow implementation of Semi-supervised Learning GAN
+- [ImprovedGAN-Tensorflow](https://github.com/bruno-31/ImprovedGAN-Tensorflow) - A Tensorflow implementation of Improved GANs for semi supervised learning from Salimans et al.
 - [pytorch_bn_fusion](https://github.com/MIPT-Oulu/pytorch_bn_fusion) - Batch normalization fusion for PyTorch
 - [3DmapsDjango](https://github.com/amaanabbasi/3DmapsDjango) - How to Add Maps + 3D buildings to Django Web App
 - [learn-python3](https://github.com/jerry-git/learn-python3) - Jupyter notebooks for teaching/learning Python 3
@@ -9823,7 +9820,7 @@
 - [nbdime](https://github.com/jupyter/nbdime) - Tools for diffing and merging of Jupyter notebooks.
 - [aq](https://github.com/lebinh/aq) - Query AWS resources with SQL
 - [tinder-detective](https://github.com/defaultnamehere/tinder-detective) - Find your Facebook friends' Tinder profiles. Don't actually use this by the way that's weird. Not even in a good way.
-- [searx](https://github.com/asciimoo/searx) - Privacy-respecting metasearch engine
+- [searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
 - [httpolice](https://github.com/vfaronov/httpolice) - Validator for HTTP
 - [Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [asyncpg](https://github.com/MagicStack/asyncpg) - A fast PostgreSQL Database Client Library for Python/asyncio.
@@ -10323,6 +10320,7 @@
 - [hacking-tools](https://github.com/girishramnani/hacking-tools) - tools which can be used by forensics experts and ethical hackers
 - [vprof](https://github.com/nvdv/vprof) - Visual profiler for Python
 - [DeepLearningVideoGames](https://github.com/nikitasrivatsan/DeepLearningVideoGames) - 
+- [canopsis](https://github.com/capensis/canopsis) - Canopsis is an open-source hypervisor whose goal is to aggregate informations and events coming from multiple sources to create a global solution for monitoring and resources administration -- https://git.canopsis.net/ --
 - [Diamond](https://github.com/python-diamond/Diamond) - Diamond is a python daemon that collects system metrics and publishes them to Graphite (and others). It is capable of collecting cpu, memory, network, i/o, load and disk metrics. Additionally, it features an API for implementing custom collectors for gathering metrics from almost any source.
 - [Python-lectures](https://github.com/uralbash/Python-lectures) - Лекции по яп Python - УГТУ-УПИ, кафедра ИИТ.
 - [ispy](https://github.com/dellis23/ispy) - Monitor the output of terminals and processes.
@@ -11575,7 +11573,7 @@
 - [gmate](https://github.com/gmate/gmate) - Set of plugins and improvements to make Gedit a powerfull programmer text editor
 - [jonah](https://github.com/rackerlabs/jonah) - 
 - [docker-zookeeper](https://github.com/signalfx/docker-zookeeper) - Docker image for ZooKeeper (Maestro orchestration)
-- [urllib3](https://github.com/urllib3/urllib3) - Python HTTP library with thread-safe connection pooling, file post support, sanity friendly, and more.
+- [urllib3](https://github.com/urllib3/urllib3) - Python HTTP library with thread-safe connection pooling, file post support, user friendly, and more.
 - [etcaetera](https://github.com/oleiade/etcaetera) - Manage multiple configuration sources in a single place
 - [art-games](https://github.com/shannonturner/art-games) - Games to discover new art and artists using museum APIs
 - [russian-tagsets](https://github.com/kmike/russian-tagsets) - Russian morphological tagset converters library.
@@ -12708,6 +12706,7 @@
 - [vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) - A repository of development container definitions for the VS Code Remote - Containers extension and Visual Studio Codespaces / Codespaces in GitHub
 - [shlide](https://github.com/icyphox/shlide) - :framed_picture: a slide deck presentation tool written in pure bash
 - [vulhub](https://github.com/vulhub/vulhub) - Pre-Built Vulnerable Environments Based on Docker-Compose
+- [Tutorials](https://github.com/SAPDocuments/Tutorials) - Tutorials on sap.com
 - [bitnami-docker-kafka](https://github.com/bitnami/bitnami-docker-kafka) - Bitnami Docker Image for Kafka
 - [docker-odoo-project](https://github.com/camptocamp/docker-odoo-project) - Base images for Odoo projects
 - [docker-pi-hole](https://github.com/pi-hole/docker-pi-hole) - Pi-hole in a docker container
@@ -13172,7 +13171,7 @@
 - [etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
 - [ant-design](https://github.com/ant-design/ant-design) - 🌈  A UI Design Language and React UI library
 - [Leaflet.timeline](https://github.com/skeate/Leaflet.timeline) - Display arbitrary GeoJSON on a map with a timeline slider and play button
-- [ngx-admin](https://github.com/akveo/ngx-admin) - Customizable admin dashboard template based on Angular 9+
+- [ngx-admin](https://github.com/akveo/ngx-admin) - Customizable admin dashboard template based on Angular 10+
 - [atoms](https://github.com/BlazeSoftware/atoms) - Atoms for Blaze UI
 - [ionicons](https://github.com/ionic-team/ionicons) - The premium icon pack for Ionic Framework and web apps everywhere
 - [playground](https://github.com/tensorflow/playground) - Play with neural networks!
