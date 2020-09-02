@@ -2214,7 +2214,7 @@
 - [awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [repo-badges](https://github.com/dwyl/repo-badges) - :star: Use repo badges (build passing, coverage, etc) in your readme/markdown file to signal code quality in a project.
 - [kubelabs](https://github.com/collabnix/kubelabs) - Kubernetes - Beginners | Intermediate | Advanced
-- [tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 600 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 650 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [russe](https://github.com/nlpub/russe) - RUSSE: Russian Semantic Evaluation.
 - [pytorch-for-numpy-users](https://github.com/wkentaro/pytorch-for-numpy-users) - PyTorch for Numpy users. https://pytorch-for-numpy-users.wkentaro.com
 - [github-markdown-css](https://github.com/sindresorhus/github-markdown-css) - The minimal amount of CSS to replicate the GitHub Markdown style
@@ -2338,7 +2338,7 @@
 - [construct.css](https://github.com/t7/construct.css) - Focus on the content and structure of your HTML
 - [solid](https://github.com/solid/solid) - Solid - Re-decentralizing the web (project directory)
 - [framework7-icons](https://github.com/framework7io/framework7-icons) - Free iOS-icons font for Framework7
-- [schemaorg](https://github.com/schemaorg/schemaorg) - Schema.org - schemas and (appengine) software
+- [schemaorg](https://github.com/schemaorg/schemaorg) - Schema.org - schemas and supporting software
 - [sal](https://github.com/mciastek/sal) - 🚀 Performance focused, lightweight scroll animation library 🚀
 - [r2con2018](https://github.com/radareorg/r2con2018) - 
 - [inpycon2018](https://github.com/pythonindia/inpycon2018) - PyCon India 2018 site
@@ -2392,7 +2392,6 @@
 - [Droid-Application-Fuzz-Framework](https://github.com/ajinabraham/Droid-Application-Fuzz-Framework) - Android application fuzzing framework with fuzzers and crash monitor.
 - [AIDL_KB](https://github.com/arthchan2003/AIDL_KB) - A Knowledge Base for the FB Group Artificial Intelligence and Deep Learning (AIDL)
 - [smart-contract-best-practices](https://github.com/ConsenSys/smart-contract-best-practices) - A guide to smart contract security best practices
-- [seldon-core](https://github.com/SeldonIO/seldon-core) - An MLOps framework to package, deploy, monitor and manage thousands of production machine learning models
 - [fonts](https://github.com/google/fonts) - Font files available from Google Fonts
 - [core](https://github.com/stackblitz/core) - Online IDE powered by Visual Studio Code ⚡️
 - [proposal-optional-chaining](https://github.com/tc39/proposal-optional-chaining) - 
@@ -3861,7 +3860,7 @@
 - [leakage](https://github.com/andywer/leakage) - 🐛 Memory leak testing for node.
 - [atom-in-orbit](https://github.com/facebookarchive/atom-in-orbit) - Putting Atom in the browser
 - [REmap](https://github.com/Lchiffon/REmap) - create  a map by R
-- [jsraccoon](https://github.com/rtivital/jsraccoon) - Советы по верстке и написанию JavaScript кода – http://jsraccoon.ru
+- [jsraccoon](https://github.com/rtivital/jsraccoon) - Советы по верстке и программированию на JavaScript – http://jsraccoon.ru
 - [grapesjs](https://github.com/artf/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding
 - [loadjs](https://github.com/muicss/loadjs) - A tiny async loader / dependency manager for modern browsers (899 bytes)
 - [lambdoku](https://github.com/kubek2k/lambdoku) - Heroku-like experience when using AWS Lambda
@@ -4912,6 +4911,7 @@
 - [python-cheatsheet](https://github.com/wilfredinni/python-cheatsheet) - Basic Cheat Sheet for Python (PDF, Markdown and Jupyter Notebook)
 - [robot-surgery-segmentation](https://github.com/ternaus/robot-surgery-segmentation) - Wining solution and its improvement for MICCAI 2017 Robotic Instrument Segmentation Sub-Challenge
 - [detectorch](https://github.com/ignacio-rocco/detectorch) - Detectorch - detectron for PyTorch
+- [seldon-core](https://github.com/SeldonIO/seldon-core) - An MLOps framework to package, deploy, monitor and manage thousands of production machine learning models
 - [PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) - Python sample codes for robotics algorithms.
 - [parallel-cell](https://github.com/kuk/parallel-cell) - 
 - [MovieSentimentClassification](https://github.com/kodiaklabs/MovieSentimentClassification) - A brief tutorial on NLP via sentiment classification, Jupyter notebooks, feature creation, and exploritory data analysis.
@@ -7502,7 +7502,7 @@
 - [PySnooper](https://github.com/cool-RR/PySnooper) - Never use print for debugging again
 - [CenterNet](https://github.com/Duankaiwen/CenterNet) - Codes for our paper "CenterNet: Keypoint Triplets for Object Detection" .
 - [CenterNet](https://github.com/xingyizhou/CenterNet) - Object detection, 3D detection, and pose estimation using center point detection:
-- [python-ext-wasm](https://github.com/wasmerio/python-ext-wasm) - 🐍🕸 Python library to run WebAssembly binaries.
+- [python-ext-wasm](https://github.com/wasmerio/python-ext-wasm) - 🐍🕸 Python extension to run WebAssembly binaries, fast, safely.
 - [morph-net](https://github.com/google-research/morph-net) - Fast & Simple Resource-Constrained Learning of Deep Network Structure
 - [bash.py](https://github.com/jpetrucciani/bash.py) - An inline Bash script runner, for Python.
 - [octconv-pytorch](https://github.com/iacolippo/octconv-pytorch) - Implementation of OctConv in Pytorch (https://arxiv.org/abs/1904.05049)
@@ -7840,7 +7840,7 @@
 - [haps](https://github.com/lunarwings/haps) - Pure Python dependency injection library
 - [prelogging](https://github.com/Twangist/prelogging) - A streamlined, consistent API for configuring logging
 - [proSR](https://github.com/fperazzi/proSR) - Repository containing an independent implementation of the paper: "A Fully Progressive Approach to Single-Image Super-Resolution"
-- [catalyst](https://github.com/catalyst-team/catalyst) - Accelerated DL R&D
+- [catalyst](https://github.com/catalyst-team/catalyst) - Accelerated deep learning R&D
 - [botflow](https://github.com/kkyon/botflow) - Python Fast Dataflow programming  framework for Data pipeline work( Web Crawler,Machine Learning,Quantitative Trading.etc)
 - [flake8-eradicate](https://github.com/sobolevn/flake8-eradicate) - Flake8 plugin to find commented out or dead code
 - [hyperparameter_hunter](https://github.com/HunterMcGushion/hyperparameter_hunter) - Easy hyperparameter optimization and automatic result saving across machine learning algorithms and libraries
@@ -10954,7 +10954,7 @@
 - [django-test-plus](https://github.com/revsys/django-test-plus) - Useful additions to Django's default TestCase
 - [xpyth](https://github.com/hchasestevens/xpyth) - A module for querying the DOM tree and writing XPath expressions using native Python syntax.
 - [clf](https://github.com/ncrocfer/clf) - Command line tool to search and view snippets in the terminal
-- [gnlpy](https://github.com/facebook/gnlpy) - A generic netlink library for python.
+- [gnlpy](https://github.com/facebookarchive/gnlpy) - A generic netlink library for python.
 - [bugbuzz-python](https://github.com/fangpenlin/bugbuzz-python) - Fall in love with debugging
 - [augmented-traffic-control](https://github.com/facebookarchive/augmented-traffic-control) - Augmented Traffic Control: A tool to simulate network conditions
 - [VDiscover](https://github.com/CIFASIS/VDiscover) - A tool to predict vulnerability discovery of binary only programs
