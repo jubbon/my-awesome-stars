@@ -692,7 +692,7 @@
 - [uTensor](https://github.com/uTensor/uTensor) - TinyML AI inference library
 - [td](https://github.com/tdlib/td) - Cross-platform library for building Telegram clients
 - [verge](https://github.com/vergecurrency/verge) - Official Verge Core Source Code Repository :muscle:
-- [flameshot](https://github.com/lupoDharkael/flameshot) - Powerful yet simple to use screenshot software
+- [flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software
 - [thundersvm](https://github.com/Xtra-Computing/thundersvm) - ThunderSVM: A Fast SVM Library on GPUs and CPUs
 - [blackbird](https://github.com/butor/blackbird) - Blackbird Bitcoin Arbitrage: a long/short market-neutral strategy
 - [xmr-stak](https://github.com/fireice-uk/xmr-stak) - Free Monero RandomX Miner and unified CryptoNight miner
@@ -1967,7 +1967,7 @@
 - [atlantis](https://github.com/hootsuite/atlantis) - Atlantis is now being maintained at https://github.com/runatlantis/atlantis
 - [sonobuoy](https://github.com/vmware-tanzu/sonobuoy) - Sonobuoy is a diagnostic tool that makes it easier to understand the state of a Kubernetes cluster by running a set of Kubernetes conformance tests and other plugins in an accessible and non-destructive manner.
 - [etcdhcp](https://github.com/lclarkmichalek/etcdhcp) - A DHCP server backed by etcd
-- [kubicorn](https://github.com/kubicorn/kubicorn) - Simple, cloud native infrastructure for Kubernetes.
+- [kubicorn](https://github.com/kubicorn/kubicorn) - Created by @kris-nova Kris Nóva. Simple, cloud native infrastructure for Kubernetes.
 - [2017-talks](https://github.com/gophercon/2017-talks) - Slides and links for 2017 talks
 - [selenoid](https://github.com/aerokube/selenoid) - Selenium Hub successor running browsers within containers. Scalable, immutable, self hosted Selenium-Grid on any platform with single binary.
 - [moss](https://github.com/couchbase/moss) - moss - a simple, fast, ordered, persistable, key-val storage library for golang
@@ -2123,7 +2123,6 @@
 - [noms](https://github.com/attic-labs/noms) - The versioned, forkable, syncable database
 - [flannel](https://github.com/coreos/flannel) - flannel is a network fabric for containers, designed for Kubernetes
 - [summitdb](https://github.com/tidwall/summitdb) - In-memory NoSQL database with ACID transactions, Raft consensus, and Redis API
-- [apex](https://github.com/apex/apex) - Build, deploy, and manage AWS Lambda functions with ease.
 - [gorgonia](https://github.com/gorgonia/gorgonia) - Gorgonia is a library that helps facilitate machine learning in Go.
 - [go-patterns](https://github.com/tmrts/go-patterns) - Curated list of Go design patterns, recipes and idioms
 - [borg](https://github.com/ok-borg/borg) - Search and save shell snippets without leaving your terminal
@@ -2345,7 +2344,7 @@
 - [frontend](https://github.com/guardian/frontend) - The Guardian Dot Com.
 - [python-vs-javascript](https://github.com/sayazamurai/python-vs-javascript) - 
 - [quickstart-js](https://github.com/firebase/quickstart-js) - Firebase Quickstart Samples for Web
-- [hugo-academic](https://github.com/gcushen/hugo-academic) - 📝 The website builder for Hugo. Build and deploy a beautiful website in minutes!
+- [wowchemy-hugo-modules](https://github.com/wowchemy/wowchemy-hugo-modules) - 📝 The website builder for Hugo. Build and deploy a beautiful website in minutes!
 - [MATRIX_Etherscan](https://github.com/MatrixAINetwork/MATRIX_Etherscan) - This is a crawler used to visit Ehterscan and obtain smartcontract related info
 - [uikit-ecommerce-template](https://github.com/chekromul/uikit-ecommerce-template) - E-commerce template built with UIKIt
 - [pymk-inspector](https://github.com/GMG-Special-Projects-Desk/pymk-inspector) - See the people Facebook thinks you know
@@ -3198,7 +3197,7 @@
 - [lyo](https://github.com/bokub/lyo) - 📦 Node.js to browser - The easy way
 - [lowjs](https://github.com/neonious/lowjs) - A port of Node.JS with far lower system requirements. Community version for POSIX systems such as Linux, uClinux or Mac OS X.
 - [worker-plugin](https://github.com/GoogleChromeLabs/worker-plugin) - 👩‍🏭 Adds native Web Worker bundling support to Webpack.
-- [puppeteer-recorder](https://github.com/checkly/puppeteer-recorder) - Puppeteer recorder is a Chrome extension that records your browser interactions and generates a  Puppeteer script.
+- [headless-recorder](https://github.com/checkly/headless-recorder) - Headless recorder is a Chrome extension that records your browser interactions and generates a Puppeteer or Playwright script.
 - [v86](https://github.com/copy/v86) - x86 virtualization in JavaScript, running in your browser and NodeJS
 - [wwwbasic](https://github.com/google/wwwbasic) - wwwBASIC is an implementation of BASIC that runs on Node.js and the Web.
 - [idlize](https://github.com/GoogleChromeLabs/idlize) - Helper classes and methods for implementing the idle-until-urgent pattern
@@ -3475,6 +3474,7 @@
 - [vuex-saga](https://github.com/BosNaufal/vuex-saga) - Better Vuex Action To Simplify Your Async Flow Process And Code Testing
 - [vue-table-component](https://github.com/spatie/vue-table-component) - A straight to the point Vue component to display tables
 - [babel-plugin-jsx-vue-functional](https://github.com/nickmessing/babel-plugin-jsx-vue-functional) - JSX Syntactic Sugar Plugin for Vue Functional Components
+- [v-hotkey](https://github.com/Dafrok/v-hotkey) - Vue 2.x directive for binding hotkeys to components.
 - [vue-intersect](https://github.com/heavyy/vue-intersect) - A Vue component to add intersection-observer to a Vue component or HTML element.
 - [vue-meteor](https://github.com/meteor-vue/vue-meteor) - 🌠 Vue first-class integration in Meteor
 - [adonuxt-electron-template](https://github.com/dvdnwoke/adonuxt-electron-template) - Starter template for adonuxt and electron
@@ -6927,7 +6927,7 @@
 - [Bert-Multi-Label-Text-Classification](https://github.com/lonePatient/Bert-Multi-Label-Text-Classification) - This repo contains a PyTorch implementation of a pretrained BERT model for multi-label text classification.
 - [Complex-YOLO](https://github.com/AI-liu/Complex-YOLO) - Complex-YOLO: Real-time 3D Object Detection on Point Clouds   pytorch  Darknet
 - [Pytorch_Mask_RCNN](https://github.com/soeaver/Pytorch_Mask_RCNN) - Converted from [tf+keras version MASK-RCNN](https://github.com/matterport/Mask_RCNN)
-- [schemathesis](https://github.com/kiwicom/schemathesis) - A tool that generates and runs test cases for Open API / GraphQL based apps
+- [schemathesis](https://github.com/schemathesis/schemathesis) - A tool that generates and runs test cases for Open API / GraphQL based apps
 - [doc2vec](https://github.com/ibrahimsharaf/doc2vec) - Text classification using Doc2Vec embeddings
 - [role2vec](https://github.com/benedekrozemberczki/role2vec) - A scalable Gensim implementation of "Learning Role-based Graph Embeddings" (IJCAI 2018).
 - [webvectors](https://github.com/akutuzov/webvectors) - Web-ify your word2vec: framework to serve distributional semantic models online
@@ -7502,7 +7502,7 @@
 - [PySnooper](https://github.com/cool-RR/PySnooper) - Never use print for debugging again
 - [CenterNet](https://github.com/Duankaiwen/CenterNet) - Codes for our paper "CenterNet: Keypoint Triplets for Object Detection" .
 - [CenterNet](https://github.com/xingyizhou/CenterNet) - Object detection, 3D detection, and pose estimation using center point detection:
-- [python-ext-wasm](https://github.com/wasmerio/python-ext-wasm) - 🐍🕸 Python extension to run WebAssembly binaries, fast, safely.
+- [wasmer-python](https://github.com/wasmerio/wasmer-python) - 🐍🕸 Python WebAssembly runtime based on Wasmer
 - [morph-net](https://github.com/google-research/morph-net) - Fast & Simple Resource-Constrained Learning of Deep Network Structure
 - [bash.py](https://github.com/jpetrucciani/bash.py) - An inline Bash script runner, for Python.
 - [octconv-pytorch](https://github.com/iacolippo/octconv-pytorch) - Implementation of OctConv in Pytorch (https://arxiv.org/abs/1904.05049)
@@ -13462,7 +13462,6 @@
 - [vue-scrollactive](https://github.com/eddiemf/vue-scrollactive) - Lightweight and simple to use vue component that highlights menu items as you scroll the page, also scrolling to target section when clicked.
 - [vue-d3-network](https://github.com/emiliorizzo/vue-d3-network) - Vue component to graph networks using d3-force
 - [vue-choropleth](https://github.com/voluntadpear/vue-choropleth) - Choropleth Map component for Vue.js
-- [v-hotkey](https://github.com/Dafrok/v-hotkey) - Vue 2.x directive for binding hotkeys to components.
 - [v-tooltip](https://github.com/Akryum/v-tooltip) - 💬 Easy tooltips, popovers, dropdown for Vue 2.x
 - [vue-apollo-todos](https://github.com/Akryum/vue-apollo-todos) - Vue Apollo GraphQL mutation examples
 - [vue-paginate-al](https://github.com/alziqziq/vue-paginate-al) - Vue paginate with return your data
