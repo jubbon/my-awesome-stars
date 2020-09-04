@@ -449,7 +449,7 @@
 - [Reinforcement-Learning-Based-Decision-Tree](https://github.com/chriswblake/Reinforcement-Learning-Based-Decision-Tree) - Generation and evaluation of a decision tree using reinforcement learning.
 - [NLP_Datasets](https://github.com/Koziev/NLP_Datasets) - My NLP datasets for Russian language
 - [qsharp-compiler](https://github.com/microsoft/qsharp-compiler) - Q# compiler, command line tool, and Q# language server
-- [FASTER](https://github.com/microsoft/FASTER) - Fast persistent recoverable log and key-value store, in C# and C++, from Microsoft Research.
+- [FASTER](https://github.com/microsoft/FASTER) - Fast persistent recoverable log and key-value store + cache, in C# and C++, from Microsoft Research.
 - [ailab](https://github.com/microsoft/ailab) - Experience, Learn and Code the latest breakthrough innovations with Microsoft AI
 - [DRL_based_SelfDrivingCarControl](https://github.com/MLJejuCamp2017/DRL_based_SelfDrivingCarControl) - Deep Reinforcement Learning (DQN) based Self Driving Car Control with Vehicle Simulator
 - [blockchain](https://github.com/dvf/blockchain) - A simple Blockchain in Python
@@ -555,7 +555,7 @@
 - [YouTokenToMe](https://github.com/VKCOM/YouTokenToMe) - Unsupervised text tokenizer focused on computational efficiency
 - [griddb](https://github.com/griddb/griddb) - GridDB is a next-generation open source database that makes time series IoT and big data fast,and easy.
 - [server](https://github.com/triton-inference-server/server) - The Triton Inference Server provides a cloud inferencing solution optimized for NVIDIA GPUs.
-- [taichi](https://github.com/taichi-dev/taichi) - Productive & portable programming language for high-performance, sparse & differentiable computing
+- [taichi](https://github.com/taichi-dev/taichi) - Productive & portable programming language for high-performance, sparse & differentiable computing on GPUs
 - [FICM](https://github.com/hellochick/FICM) - :video_game: [IJCAI'20][ICLR'19 Workshop] Flow-based Intrinsic Curiosity Module. Playing SuperMario with RL agent and FICM!
 - [cpp-cheat-sheet](https://github.com/gibsjose/cpp-cheat-sheet) - C++ Syntax, Data Structures, and Algorithms Cheat Sheet
 - [earthenterprise](https://github.com/google/earthenterprise) - Google Earth Enterprise - Open Source
@@ -2198,6 +2198,7 @@
 - [AttackVectors](https://github.com/MassMove/AttackVectors) - A repository to monitor attack vectors from state-backed information operations
 - [ASVS](https://github.com/OWASP/ASVS) - Application Security Verification Standard
 - [Introduction-to-Web-Development](https://github.com/WebDevSimplified/Introduction-to-Web-Development) - 
+- [30-Days-of-Python](https://github.com/codingforentrepreneurs/30-Days-of-Python) - A New Version of 30 Days of Python is nearly here. Get started today.
 - [CNN-Architectures](https://github.com/Machine-Learning-Tokyo/CNN-Architectures) - 
 - [docsy](https://github.com/google/docsy) - A set of Hugo doc templates for launching open source content.
 - [node-ytdl-core](https://github.com/fent/node-ytdl-core) - YouTube video downloader in javascript.
@@ -2213,7 +2214,7 @@
 - [awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [repo-badges](https://github.com/dwyl/repo-badges) - :star: Use repo badges (build passing, coverage, etc) in your readme/markdown file to signal code quality in a project.
 - [kubelabs](https://github.com/collabnix/kubelabs) - Kubernetes - Beginners | Intermediate | Advanced
-- [tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 650 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 700 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [russe](https://github.com/nlpub/russe) - RUSSE: Russian Semantic Evaluation.
 - [pytorch-for-numpy-users](https://github.com/wkentaro/pytorch-for-numpy-users) - PyTorch for Numpy users. https://pytorch-for-numpy-users.wkentaro.com
 - [github-markdown-css](https://github.com/sindresorhus/github-markdown-css) - The minimal amount of CSS to replicate the GitHub Markdown style
@@ -2880,6 +2881,7 @@
 - [lime](https://github.com/marcotcr/lime) - Lime: Explaining the predictions of any machine learning classifier
 - [botframework-sdk](https://github.com/microsoft/botframework-sdk) - Bot Framework provides the most comprehensive experience for building conversation applications.
 - [uuid](https://github.com/lukeed/uuid) - A tiny (230B), fast, and cryptographically secure UUID (V4) generator for Node and the browser
+- [modern-typescript-with-examples-cheat-sheet](https://github.com/David-Else/modern-typescript-with-examples-cheat-sheet) - Fully printable summary of modern TypeScript language features with extensive examples to help you learn
 - [LoveIt](https://github.com/dillonzq/LoveIt) - ❤️A clean, elegant but advanced blog theme for Hugo 一个简洁、优雅且高效的 Hugo 主题
 - [tracking.js](https://github.com/eduardolundgren/tracking.js) - A modern approach for Computer Vision on the web
 - [omniboard](https://github.com/vivekratnavel/omniboard) - Web-based dashboard for Sacred
@@ -4439,7 +4441,6 @@
 - [nel](https://github.com/wikilinks/nel) - Entity linking framework
 - [Practical_RL](https://github.com/sshkhr/Practical_RL) - My solutions to Yandex Practical Reinforcement Learning course in PyTorch and Tensorflow
 - [video-scene-detection](https://github.com/ivi-ru/video-scene-detection) - Video Scene Detection Based on the Optimal Sequential Grouping algorithm
-- [30-Days-of-Python](https://github.com/codingforentrepreneurs/30-Days-of-Python) - A New Version of 30 Days of Python is nearly here. Get started today.
 - [tutorials](https://github.com/krittikaiitb/tutorials) - Set of Jupyter Notebooks, along with datafiles, to get started with Scientific Computing in Astronomy
 - [DQN-Atari-Agents](https://github.com/BY571/DQN-Atari-Agents) - DQN-Atari-Agents:   Modularized PyTorch implementation of several DQN Agents, i.a. DDQN, Dueling DQN, Noisy DQN, C51, Rainbow and DRQN
 - [deltapy](https://github.com/firmai/deltapy) - DeltaPy - Tabular Data Augmentation (by @firmai)
@@ -5770,7 +5771,6 @@
 - [learn2learn](https://github.com/G-Wang/learn2learn) - PyTorch Meta-learning Framework for Researchers
 - [MelGAN-Pytorch](https://github.com/G-Wang/MelGAN-Pytorch) - A Pytorch Implementation of MelGAN
 - [nlp_paper_summaries](https://github.com/dair-ai/nlp_paper_summaries) - ✍️ A carefully curated list of NLP paper summaries
-- [modern-typescript-with-examples-cheat-sheet](https://github.com/David-Else/modern-typescript-with-examples-cheat-sheet) - Fully printable summary of modern TypeScript language features with extensive examples to help you learn
 - [DeepLearningEE](https://github.com/RaviVijay/DeepLearningEE) - Collection of Papers and Trials on Deep Learning to aid EE design
 - [The-Internship-v1](https://github.com/FBDevCLagos/The-Internship-v1) - That is the vision of the DevC Lagos: “The Internship v1”. The program is a DevC Lagos initiative where Project Managers, Developers, and DevOps specialists are taken through a 13 week period where they build 10 real-world software products distributed into 10 teams. These products could be Enterprise Apps, SaaS, Libraries or Utilities for “real-world use”. It is a remote-first internship where participants get the opportunity to demonstrate track expertise.
 - [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
@@ -7502,7 +7502,7 @@
 - [PySnooper](https://github.com/cool-RR/PySnooper) - Never use print for debugging again
 - [CenterNet](https://github.com/Duankaiwen/CenterNet) - Codes for our paper "CenterNet: Keypoint Triplets for Object Detection" .
 - [CenterNet](https://github.com/xingyizhou/CenterNet) - Object detection, 3D detection, and pose estimation using center point detection:
-- [wasmer-python](https://github.com/wasmerio/wasmer-python) - 🐍🕸 Python WebAssembly runtime based on Wasmer
+- [wasmer-python](https://github.com/wasmerio/wasmer-python) - 🐍🕸 WebAssembly runtime for Python
 - [morph-net](https://github.com/google-research/morph-net) - Fast & Simple Resource-Constrained Learning of Deep Network Structure
 - [bash.py](https://github.com/jpetrucciani/bash.py) - An inline Bash script runner, for Python.
 - [octconv-pytorch](https://github.com/iacolippo/octconv-pytorch) - Implementation of OctConv in Pytorch (https://arxiv.org/abs/1904.05049)
@@ -11510,7 +11510,7 @@
 - [pythonhackers](https://github.com/bcambel/pythonhackers) - http://pythonhackers.com
 - [stormpath-flask](https://github.com/stormpath/stormpath-flask) - Build simple, secure web applications with Stormpath and Flask!
 - [Jarvis](https://github.com/debugger22/Jarvis) - As the name suggests
-- [onionshare](https://github.com/micahflee/onionshare) - Securely and anonymously send and receive files, and publish onion sites
+- [onionshare](https://github.com/micahflee/onionshare) - Securely and anonymously share files, host websites, and chat with friends using the Tor network
 - [yuppy](https://github.com/kuujo/yuppy) - Python Programming for the Privileged Class
 - [changeTorrent](https://github.com/zmt0516/changeTorrent) - 
 - [scrapy_model](https://github.com/rochacbruno-archive/scrapy_model) - A helper to create web scrapers using scrapy selector in a Model based structure
@@ -12703,7 +12703,7 @@
 - [Spoken-SQuAD](https://github.com/chiahsuan156/Spoken-SQuAD) - A spoken question answering dataset on SQUAD
 - [ODSQA](https://github.com/chiahsuan156/ODSQA) - ODSQA: OPEN-DOMAIN SPOKEN QUESTION ANSWERING DATASET
 - [docker-selenium](https://github.com/SeleniumHQ/docker-selenium) - Docker images for the Selenium Grid Server
-- [vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) - A repository of development container definitions for the VS Code Remote - Containers extension and Visual Studio Codespaces / Codespaces in GitHub
+- [vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) - A repository of development container definitions for the VS Code Remote - Containers extension and GitHub Codespaces
 - [shlide](https://github.com/icyphox/shlide) - :framed_picture: a slide deck presentation tool written in pure bash
 - [vulhub](https://github.com/vulhub/vulhub) - Pre-Built Vulnerable Environments Based on Docker-Compose
 - [Tutorials](https://github.com/SAPDocuments/Tutorials) - Tutorials on sap.com
