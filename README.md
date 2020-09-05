@@ -469,6 +469,11 @@
 
 ## C++ 
 
+- [tensorrtx](https://github.com/wang-xinyu/tensorrtx) - Implementation of popular deep learning networks with TensorRT network definition APIs
+- [ardupilot](https://github.com/ArduPilot/ardupilot) - ArduPlane, ArduCopter, ArduRover source
+- [navigation](https://github.com/ros-planning/navigation) - ROS Navigation stack.  Code for finding where the robot is and how it can get somewhere else.
+- [gtsam](https://github.com/borglab/gtsam) - GTSAM is a library of C++ classes that implement smoothing and mapping (SAM) in robotics and vision, using factor graphs and Bayes networks as the underlying computing paradigm rather than sparse matrices.
+- [fmm](https://github.com/cyang-kth/fmm) - Fast map matching, an open source framework in C++
 - [neoml](https://github.com/neoml-lib/neoml) - Machine learning framework for both deep learning and traditional algorithms
 - [xeus-python](https://github.com/jupyter-xeus/xeus-python) - Jupyter kernel for the Python programming language
 - [xeus](https://github.com/jupyter-xeus/xeus) - C++ implementation of the Jupyter kernel protocol
@@ -1533,6 +1538,7 @@
 
 ## Go 
 
+- [ultimate-go](https://github.com/hoanhan101/ultimate-go) - The Ultimate Go Study Guide
 - [act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [runc](https://github.com/opencontainers/runc) - CLI tool for spawning and running containers according to the OCI specification
 - [nightingale](https://github.com/didi/nightingale) - 💡 A Distributed and High-Performance Monitoring System
@@ -3352,6 +3358,7 @@
 - [tfjs-examples](https://github.com/tensorflow/tfjs-examples) - Examples built with TensorFlow.js
 - [is-thirteen](https://github.com/jezen/is-thirteen) - Check if a number is equal to 13.
 - [myh5](https://github.com/Braised-Cakes/myh5) - h5制作平台😊😊😊😊😊😊
+- [porcupine](https://github.com/Picovoice/porcupine) - On-device wake word detection powered by deep learning.
 - [AwesomeXSS](https://github.com/s0md3v/AwesomeXSS) - Awesome XSS stuff
 - [graphql-css](https://github.com/braposo/graphql-css) - A blazing fast CSS-in-GQL™ library.
 - [d3graphTheory](https://github.com/mrpandey/d3graphTheory) - :boom: Interactive and colorful :art: graph theory tutorials made using d3.js :zap:
@@ -4422,6 +4429,17 @@
 
 ## Jupyter Notebook 
 
+- [Feature-Engineering-Live-sessions](https://github.com/krishnaik06/Feature-Engineering-Live-sessions) - 
+- [desafio-6-2020](https://github.com/maratonadev-br/desafio-6-2020) - 
+- [course20](https://github.com/fastai/course20) - Deep Learning for Coders, 2020, the website
+- [100-plus-Python-programming-exercises-extended](https://github.com/darkprinx/100-plus-Python-programming-exercises-extended) - 100+ python programming exercise problem discussed ,explained and solved in different ways
+- [Machine-Learning-for-Algorithmic-Trading-Second-Edition](https://github.com/PacktPublishing/Machine-Learning-for-Algorithmic-Trading-Second-Edition) - Machine Learning for Algorithmic Trading, Second Edition - published by Packt
+- [fastcore](https://github.com/fastai/fastcore) - Python supercharged for the fastai library
+- [Deeplearning.ai-Natural-Language-Processing-Specialization](https://github.com/ijelliti/Deeplearning.ai-Natural-Language-Processing-Specialization) - This repository contains my full work and notes on Coursera's NLP Specialization (Natural Language Processing) taught by the instructor Younes Bensouda Mourri and Łukasz Kaiser offered by deeplearning.ai
+- [Getting-Things-Done-with-Pytorch](https://github.com/curiousily/Getting-Things-Done-with-Pytorch) - Jupyter Notebook tutorials on solving real-world problems with Machine Learning & Deep Learning using PyTorch. Topics: Face detection with Detectron 2, Time Series anomaly detection with LSTM Autoencoders, Object Detection with YOLO v5, Build your first Neural Network, Time Series forecasting for Coronavirus daily cases, Sentiment Analysis with BERT.
+- [machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading) - Code and resources for Machine Learning for Algorithmic Trading, 2nd edition.
+- [workshop](https://github.com/data-science-on-aws/workshop) - AI and Machine Learning with Kubeflow, Amazon EKS, and SageMaker
+- [Python-Essentials](https://github.com/LetsUpgrade/Python-Essentials) - 
 - [Style-Transfer-Collection](https://github.com/tg-bomze/Style-Transfer-Collection) - Colabs Collection of style transfer in photo and video
 - [gpu-jupyter](https://github.com/iot-salzburg/gpu-jupyter) - Leverage the flexibility of Jupyterlab through the power of your NVIDIA GPU to run your code from Tensorflow and Pytorch in collaborative notebooks on the GPU.
 - [stylegan-encoder](https://github.com/pbaylies/stylegan-encoder) - StyleGAN Encoder - converts real images to latent space
@@ -5723,6 +5741,10 @@
 
 ## Others 
 
+- [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
+- [awesome-gpt3](https://github.com/elyase/awesome-gpt3) - 
+- [Free-Certifications](https://github.com/cloudcommunity/Free-Certifications) - Curated list of free courses & certifications
+- [open-source-cs-python](https://github.com/ForrestKnight/open-source-cs-python) - Video discussing this curriculum:
 - [ML_for_SLA](https://github.com/JonathanLaneMcDonald/ML_for_SLA) - Training a neural network to isolate comprehensible input from unstructured text to aid vocabulary acquisition.
 - [pylance-release](https://github.com/microsoft/pylance-release) - Documentation and issues for Pylance
 - [snipsnap](https://github.com/snipsnapdev/snipsnap) - The ultimate snippets collection for VS Code
@@ -6740,6 +6762,22 @@
 
 ## Python 
 
+- [faiss-wheels](https://github.com/kyamagu/faiss-wheels) - Unofficial faiss wheel builder
+- [faiss-server](https://github.com/daangn/faiss-server) - faiss similarity search server
+- [libra](https://github.com/Palashio/libra) - Ergonomic machine learning for everyone.
+- [Ciphey](https://github.com/Ciphey/Ciphey) - Automatically decode encryptions without a key, decode encodings, and crack hashes
+- [discord.py](https://github.com/Rapptz/discord.py) - An API wrapper for Discord written in Python.
+- [PaddleDetection](https://github.com/PaddlePaddle/PaddleDetection) - Object detection and instance segmentation toolkit based on PaddlePaddle.
+- [anki](https://github.com/ankitects/anki) - Anki for desktop computers
+- [present](https://github.com/vinayak-mehta/present) - A terminal-based presentation tool with colors and effects.
+- [l5kit](https://github.com/lyft/l5kit) - L5Kit - level5.lyft.com
+- [sentence-transformers](https://github.com/UKPLab/sentence-transformers) - Sentence Embeddings with BERT & XLNet
+- [kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
+- [yolov5](https://github.com/ultralytics/yolov5) - YOLOv5 in PyTorch &gt; ONNX &gt; CoreML &gt; iOS
+- [bpytop](https://github.com/aristocratos/bpytop) - Linux/OSX/FreeBSD resource monitor
+- [Wav2Lip](https://github.com/Rudrabha/Wav2Lip) - This repository contains the codes of "A Lip Sync Expert Is All You Need for Speech to Lip Generation In the Wild", published at ACM Multimedia 2020.
+- [autoscraper](https://github.com/alirezamika/autoscraper) - A Smart, Automatic, Fast and Lightweight Web Scraper for Python
+- [Tor10](https://github.com/kaihsin/Tor10) - A Generic Tensor-Network library that is designed for quantum simulation, base on the pytorch
 - [spacy-streamlit](https://github.com/explosion/spacy-streamlit) - 👑 spaCy building blocks and visualizers for Streamlit apps
 - [byol-pytorch](https://github.com/lucidrains/byol-pytorch) - Usable Implementation of "Bootstrap Your Own Latent" self-supervised learning, from Deepmind, in Pytorch
 - [data-efficient-gans](https://github.com/mit-han-lab/data-efficient-gans) - Differentiable Augmentation for Data-Efficient GAN Training
@@ -7477,7 +7515,7 @@
 - [pytorch-tutorial](https://github.com/geekylax/pytorch-tutorial) - PyTorch Tutorial for Deep Learning Researchers
 - [MeshCNN](https://github.com/ranahanocka/MeshCNN) - Convolutional Neural Network for 3D meshes in PyTorch
 - [stumpy](https://github.com/TDAmeritrade/stumpy) - STUMPY is a powerful and scalable Python library for computing a Matrix Profile, which can be used for a variety of time series data mining tasks
-- [machine-learning-course](https://github.com/machinelearningmindset/machine-learning-course) - :speech_balloon: Machine Learning Course with Python:
+- [machine-learning-course](https://github.com/instillai/machine-learning-course) - :speech_balloon: Machine Learning Course with Python:
 - [FUNIT](https://github.com/NVlabs/FUNIT) - Translate images to unseen domains in the test time with few example images.
 - [pytorch-toolbelt](https://github.com/BloodAxe/pytorch-toolbelt) - PyTorch extensions for fast R&D prototyping and Kaggle farming
 - [tg2](https://github.com/TurboGears/tg2) - Python web framework with full-stack layer implemented on top of a microframework core with support for MongoDB, Pluggable Applications and autogenerated Admin
@@ -7642,7 +7680,7 @@
 - [datastore](https://github.com/opentraffic/datastore) - OTv2: centralized ingest and aggregation of anonymous traffic data
 - [sharedstreets-python](https://github.com/sharedstreets/sharedstreets-python) - SharedStreets (Python)
 - [professional-programming](https://github.com/charlax/professional-programming) - A collection of full-stack resources for programmers.
-- [deep-learning-roadmap](https://github.com/machinelearningmindset/deep-learning-roadmap) - :satellite: All You Need to Know About Deep Learning - A kick-starter
+- [deep-learning-roadmap](https://github.com/instillai/deep-learning-roadmap) - :satellite: All You Need to Know About Deep Learning - A kick-starter
 - [delira](https://github.com/delira-dev/delira) - Lightweight framework for fast prototyping and training deep neural networks with PyTorch and TensorFlow
 - [Deep-Reinforcement-Learning-Algorithms-with-PyTorch](https://github.com/p-christ/Deep-Reinforcement-Learning-Algorithms-with-PyTorch) - PyTorch implementations of deep reinforcement learning algorithms and environments
 - [edge-connect](https://github.com/knazeri/edge-connect) - EdgeConnect: Structure Guided Image Inpainting using Edge Prediction, ICCV  2019 https://arxiv.org/abs/1901.00212
@@ -7818,7 +7856,7 @@
 - [BERT-pytorch](https://github.com/codertimo/BERT-pytorch) - Google AI 2018 BERT pytorch implementation
 - [trfl](https://github.com/deepmind/trfl) - TensorFlow Reinforcement Learning
 - [graph_nets](https://github.com/deepmind/graph_nets) - Build Graph Nets in Tensorflow
-- [TensorFlow-Course](https://github.com/machinelearningmindset/TensorFlow-Course) - Simple and ready-to-use tutorials for TensorFlow
+- [TensorFlow-Course](https://github.com/instillai/TensorFlow-Course) - Simple and ready-to-use tutorials for TensorFlow
 - [hera](https://github.com/phildini/hera) - A desktop app for Jupyter Notebook
 - [pytest-asyncio](https://github.com/pytest-dev/pytest-asyncio) - Pytest support for asyncio.
 - [MNIST_Pytorch_python_and_capi](https://github.com/tobiascz/MNIST_Pytorch_python_and_capi) - This is an example of how to train a MNIST network in Python and run it in c++ with pytorch 1.0
@@ -8202,7 +8240,6 @@
 - [aio-pika](https://github.com/mosquito/aio-pika) - AMQP 0.9 client designed for asyncio and humans.
 - [brotlipy](https://github.com/python-hyper/brotlipy) - Python bindings to the Brotli compression library
 - [pytorch-template](https://github.com/victoresque/pytorch-template) - PyTorch deep learning projects made easy.
-- [porcupine](https://github.com/Picovoice/porcupine) - On-device wake word detection powered by deep learning.
 - [djangox](https://github.com/wsvincent/djangox) - Django starter project with batteries
 - [GyoiThon](https://github.com/gyoisamurai/GyoiThon) - GyoiThon is a growing penetration test tool using Machine Learning.
 - [livelossplot](https://github.com/stared/livelossplot) - Live training loss plot in Jupyter Notebook for Keras, PyTorch and others
@@ -8691,7 +8728,7 @@
 - [django-multitenant](https://github.com/citusdata/django-multitenant) - Python/Django support for distributed multi-tenant databases like Postgres+Citus
 - [tensorflow_fasttext](https://github.com/apcode/tensorflow_fasttext) - Simple embedding based text classifier inspired by fastText, implemented in tensorflow
 - [DumpsterFire](https://github.com/TryCatchHCF/DumpsterFire) - "Security Incidents In A Box!"   A modular, menu-driven, cross-platform tool for building customized, time-delayed, distributed security events. Easily create custom event chains for Blue- & Red Team drills and sensor / alert mapping. Red Teams can create decoy incidents, distractions, and lures to support and scale their operations. Build event sequences ("narratives") to simulate realistic scenarios and generate corresponding network and filesystem artifacts.
-- [ray](https://github.com/ray-project/ray) - A fast and simple framework for building and running distributed applications. Ray is packaged with RLlib, a scalable reinforcement learning library, and Tune, a scalable hyperparameter tuning library.
+- [ray](https://github.com/ray-project/ray) - An open source framework that provides a simple, universal API for building distributed applications. Ray is packaged with RLlib, a scalable reinforcement learning library, and Tune, a scalable hyperparameter tuning library.
 - [roca](https://github.com/crocs-muni/roca) - ROCA: Infineon RSA key vulnerability
 - [Dragonfire](https://github.com/DragonComputer/Dragonfire) - the open-source virtual assistant for Ubuntu based Linux distributions
 - [streamz](https://github.com/python-streamz/streamz) - Real-time stream processing for python
