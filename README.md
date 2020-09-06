@@ -2025,7 +2025,7 @@
 - [goka](https://github.com/lovoo/goka) - Goka is a compact yet powerful distributed stream processing library for Apache Kafka written in Go.
 - [fsql](https://github.com/kashav/fsql) - Search through your filesystem with SQL-esque queries.
 - [dt](https://github.com/42wim/dt) - DNS tool - display information about your domain
-- [dep](https://github.com/golang/dep) - Go dependency management tool
+- [dep](https://github.com/golang/dep) - Go dependency management tool experiment (deprecated)
 - [sleepto](https://github.com/qvl/sleepto) - An alternative to traditional task schedulers
 - [go-tools](https://github.com/dominikh/go-tools) - Staticcheck - The advanced Go linter
 - [falcon-plus](https://github.com/open-falcon/falcon-plus) - An open-source and enterprise-level monitoring system.
@@ -2093,7 +2093,7 @@
 - [pgrebase](https://github.com/oelmekki/pgrebase) - Easy postgres codebase injection - aka postgres non data live reload
 - [livego](https://github.com/qieangel2013/livego) - go Implementation of live streaming services
 - [poseidon](https://github.com/Qihoo360/poseidon) - A search engine which can hold 100 trillion lines of log data.
-- [prest](https://github.com/prest/prest) - pREST (PostgreSQL REST), simplify and accelerate development, instant, realtime, high-performance on any Postgres application, existing or new
+- [prest](https://github.com/prest/prest) - pREST (PostgreSQL REST), simplify and accelerate development, ⚡ instant, realtime, high-performance on any Postgres application, existing or new
 - [ariadna](https://github.com/maddevsio/ariadna) - Geocoder Ariadna on ElasticSearch with OpenStreetMap
 - [archiver](https://github.com/mholt/archiver) - Easily create & extract archives, and compress & decompress files of various formats
 - [gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
@@ -7510,7 +7510,7 @@
 - [fast-autoaugment](https://github.com/kakaobrain/fast-autoaugment) - Official Implementation of 'Fast AutoAugment' in PyTorch.
 - [ridge_map](https://github.com/ColCarroll/ridge_map) - Ridge plots of ridges
 - [modDetective](https://github.com/itsKindred/modDetective) - modDetective is a small Python tool that chronologizes files based on modification time in order to investigate recent system activity.
-- [antialiased-cnns](https://github.com/adobe/antialiased-cnns) - Antialiasing cnns to improve stability and accuracy. In ICML 2019.
+- [antialiased-cnns](https://github.com/adobe/antialiased-cnns) - pip install antialiased-cnns to improve stability and accuracy
 - [procSpy](https://github.com/itsKindred/procSpy) - Python tool that monitors and logs user-run commands on a Linux system for either offensive or defensive purposes..
 - [pytorch-tutorial](https://github.com/geekylax/pytorch-tutorial) - PyTorch Tutorial for Deep Learning Researchers
 - [MeshCNN](https://github.com/ranahanocka/MeshCNN) - Convolutional Neural Network for 3D meshes in PyTorch
@@ -7649,7 +7649,6 @@
 - [FaceBoxes.PyTorch](https://github.com/zisianw/FaceBoxes.PyTorch) - A PyTorch Implementation of FaceBoxes
 - [sudoku](https://github.com/MorvanZhou/sudoku) - A simple Sudoku generator and solver. 数独生成器和解题器
 - [dead](https://github.com/asottile/dead) - dead simple python dead code detection
-- [LambdaToS3](https://github.com/OlleLinderos/LambdaToS3) - Read and write to S3 with AWS Lambda
 - [weekplot](https://github.com/utkuufuk/weekplot) - Visualize your weekly schedule.
 - [unsupervised_extract_detect_words](https://github.com/zheng5yu9/unsupervised_extract_detect_words) - multiprocess unsupervised  chinese_detect_words  ngram_combination
 - [Tacotron-Wavenet-Vocoder-Korean](https://github.com/hccho2/Tacotron-Wavenet-Vocoder-Korean) - Tacotron, Korean, Wavenet-Vocoder, Korean TTS
@@ -7984,7 +7983,7 @@
 - [Ansible-VIM-IDE](https://github.com/Hello-Linux/Ansible-VIM-IDE) - A beautiful VIM-IDE based on Ansible
 - [devguide](https://github.com/python/devguide) - The Python developer's guide
 - [multiagent-competition](https://github.com/openai/multiagent-competition) - Code for the paper "Emergent Complexity via Multi-agent Competition"
-- [ann-visualizer](https://github.com/Prodicode/ann-visualizer) - A python library for visualizing Artificial Neural Networks (ANN)
+- [ann-visualizer](https://github.com/tudorog/ann-visualizer) - A python library for visualizing Artificial Neural Networks (ANN)
 - [slicker](https://github.com/Khan/slicker) - a tool for moving things in python
 - [hub](https://github.com/tensorflow/hub) - A library for transfer learning by reusing parts of TensorFlow models.
 - [Keras-Project-Template](https://github.com/Ahmkel/Keras-Project-Template) - A project template to simplify building and training deep learning models using Keras.
@@ -8345,7 +8344,7 @@
 - [siesta](https://github.com/scastillo/siesta) - Sit back, relax and enjoy your REST client for python
 - [pyresttest](https://github.com/svanoort/pyresttest) - Python Rest Testing
 - [Testify](https://github.com/Yelp/Testify) - A more pythonic testing framework.
-- [numcompress](https://github.com/amit1rrr/numcompress) - Python package to compress numerical series into strings
+- [numcompress](https://github.com/amit1rrr/numcompress) - Python package to compress numerical series & numpy arrays into strings
 - [pdbe](https://github.com/dmytrostriletskyi/pdbe) - Debug the whole project, particular app or file with only one terminal command. Also pdbe provides features to work with debugging in the Git style.
 - [backpedal](https://github.com/datafolklabs/backpedal) - It's like os.walk(), but backwards... and on a bicycle.
 - [cacheout](https://github.com/dgilland/cacheout) - A caching library for Python
@@ -12965,6 +12964,7 @@
 
 ## TypeScript 
 
+- [lit](https://github.com/PAIR-code/lit) - The Language Interpretability Tool: Interactively analyze NLP models for model understanding in an extensible and framework agnostic interface.
 - [vscode-realtime-debugging](https://github.com/hediet/vscode-realtime-debugging) - An extension for VS Code that visualizes how a program is being executed in real time.
 - [n8n](https://github.com/n8n-io/n8n) - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
 - [vscode-drawio](https://github.com/hediet/vscode-drawio) - This unofficial extension integrates Draw.io into VS Code.
