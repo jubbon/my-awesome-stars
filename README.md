@@ -177,7 +177,7 @@
 - [gb-studio](https://github.com/chrismaltby/gb-studio) - A quick and easy to use drag and drop retro game creator for your favourite handheld video game system
 - [cJSON](https://github.com/DaveGamble/cJSON) - Ultralightweight JSON parser in ANSI C
 - [flow9](https://github.com/area9innovation/flow9) - Platform for safe, easy and productive programming of complex, multi-platform apps with a modern user interface
-- [DeepCamera](https://github.com/SharpAI/DeepCamera) - Protect your privacy, open source AI-powered video surveillance on Android, featuring face recognition, human shape recognition(ReID), etc. The world's first AutoML Deep Learning edge AI platform. No programming exp needed to train a new model for your privacy.
+- [DeepCamera](https://github.com/SharpAI/DeepCamera) - Protect your privacy, open source AI-powered video surveillance on IoT devices such as Raspberry Pi and Android, featuring face recognition, human shape recognition(ReID), etc. The world's first AutoML Deep Learning edge AI platform. No programming exp needed to train a new model for your privacy.
 - [Video-Editing-Automation](https://github.com/DevonCrawford/Video-Editing-Automation) - Toolkit of algorithms to automate the video editing process
 - [darknet](https://github.com/AlexeyAB/darknet) - YOLOv4 - Neural Networks for Object Detection (Windows and Linux version of Darknet )
 - [facil.io](https://github.com/boazsegev/facil.io) - Your high performance web application C framework
@@ -190,7 +190,7 @@
 - [RedisGraph](https://github.com/RedisGraph/RedisGraph) - A graph database as a Redis module
 - [nginx-link-function](https://github.com/Taymindis/nginx-link-function) - It is a NGINX module that provides dynamic linking to your application in server context and call the function of your application in location directive
 - [ttyplot](https://github.com/tenox7/ttyplot) - a realtime plotting utility for terminal/console with data input from stdin
-- [nnn](https://github.com/jarun/nnn) - n³ The missing terminal file manager for X.
+- [nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager.
 - [opengl-framework](https://github.com/jdupuy/opengl-framework) - Cross-platform OpenGL demos
 - [nvtop](https://github.com/Syllo/nvtop) - NVIDIA GPUs htop like monitoring tool
 - [Logan](https://github.com/Meituan-Dianping/Logan) - Logan is a lightweight case logging system based on mobile platform.
@@ -7247,7 +7247,7 @@
 - [models](https://github.com/PaddlePaddle/models) - Pre-trained and Reproduced Deep Learning Models （『飞桨』官方模型库，包含多种学术前沿和工业场景验证的深度学习模型）
 - [SlowFast](https://github.com/facebookresearch/SlowFast) - PySlowFast: video understanding codebase from FAIR for reproducing state-of-the-art video models.
 - [few-shot-vid2vid](https://github.com/NVlabs/few-shot-vid2vid) - Pytorch implementation for few-shot photorealistic video-to-video translation.
-- [DeepCTR](https://github.com/shenweichen/DeepCTR) - Easy-to-use,Modular and Extendible package of deep-learning based CTR models.
+- [DeepCTR](https://github.com/shenweichen/DeepCTR) - Easy-to-use,Modular and Extendible package of deep-learning based CTR models for search and recommendation.
 - [SinGAN](https://github.com/tamarott/SinGAN) - Official pytorch implementation of the paper: "SinGAN: Learning a Generative Model from a Single Natural Image"
 - [gpt-2-output-dataset](https://github.com/openai/gpt-2-output-dataset) - Dataset of GPT-2 outputs for research in detection, biases, and more
 - [open_stt](https://github.com/snakers4/open_stt) - Open STT
