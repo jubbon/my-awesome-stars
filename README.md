@@ -166,7 +166,7 @@
 - [librdkafka](https://github.com/edenhill/librdkafka) - The Apache Kafka C/C++ library
 - [gcc](https://github.com/gcc-mirror/gcc) - 
 - [dsvpn](https://github.com/jedisct1/dsvpn) - A Dead Simple VPN.
-- [quickjs](https://github.com/horhof/quickjs) - Unpacked tarball of Fabrice Bellard's QuickJS Javascript engine
+- [quickjs](https://github.com/horhof/quickjs) - The official repo is now at bellard/quickjs.
 - [TDengine](https://github.com/taosdata/TDengine) - An open-source big data platform designed and optimized for the Internet of Things (IoT).
 - [core](https://github.com/metacall/core) - A library for providing inter-language foreign function interface calls.
 - [blurhash](https://github.com/woltapp/blurhash) - A very compact representation of a placeholder for an image.
@@ -518,7 +518,7 @@
 - [crocoddyl](https://github.com/loco-3d/crocoddyl) - Crocoddyl is an optimal control library for robot control under contact sequence. Its solver is based on various efficient Differential Dynamic Programming (DDP)-like algorithms
 - [The-Open-Book](https://github.com/joeycastillo/The-Open-Book) - 
 - [Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA) - Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world.
-- [OpenMQTTGateway](https://github.com/1technophile/OpenMQTTGateway) - MQTT gateway for ESP8266, ESP32, Sonoff RF Bridge or Arduino with bidirectional 433mhz/315mhz/868mhz, Infrared communications, BLE, beacons detection, mi flora / mi jia / LYWSD02/ Mi Scale compatibility, SMS & LORA.
+- [OpenMQTTGateway](https://github.com/1technophile/OpenMQTTGateway) - MQTT gateway for ESP8266, ESP32, Sonoff RF Bridge or Arduino with bidirectional 433mhz/315mhz/868mhz, Infrared communications, BLE, beacons detection, mi flora, mi jia, LYWSD02, LYWSD03MMC, Mi Scale compatibility, SMS & LORA.
 - [endless-sky](https://github.com/endless-sky/endless-sky) - Space exploration, trading, and combat game.
 - [open-builder](https://github.com/Hopson97/open-builder) - Open  "Minecraft-like" game with multiplayer support and Lua scripting support for the both client and server
 - [Hippy](https://github.com/Tencent/Hippy) - A cross platform framework designed for Web developer. Introduction video - https://v.qq.com/x/page/i3038urj2mt.html
@@ -1002,7 +1002,6 @@
 - [personal-management-system](https://github.com/Volmarg/personal-management-system) - Your web application for managing personal data.
 - [azuredevopslabs](https://github.com/microsoft/azuredevopslabs) - Learn how you can plan smartly, collaborate better, and ship faster with a set of modern development services with Azure DevOps.
 - [pro-sidebar-template](https://github.com/azouaoui-med/pro-sidebar-template) - Responsive sidebar template based on bootstrap
-- [docs.influxdata.com](https://github.com/influxdata/docs.influxdata.com) - 1.x docs for InfluxData
 - [plt](https://github.com/steshaw/plt) - λΠ Programming Language Theory
 - [Open-Source-Programs](https://github.com/tapaswenipathak/Open-Source-Programs) - A list of open source programs.
 - [gams-in-r-course](https://github.com/noamross/gams-in-r-course) - Generalized Additive Models in R: A Free Interactive Course
@@ -1035,7 +1034,6 @@
 - [service-fabric-mesh](https://github.com/Azure-Samples/service-fabric-mesh) - Samples repository for Azure Service Fabric Mesh
 - [conventionalcommits.org](https://github.com/conventional-commits/conventionalcommits.org) - The conventional commits specification
 - [restful-api-guidelines](https://github.com/zalando/restful-api-guidelines) - A model set of guidelines for RESTful APIs and Events, created by Zalando
-- [vapid](https://github.com/vapid/vapid) - Vapid is an intentionally simple content management system built on the idea that you can create a custom dashboard without ever leaving the HTML.
 - [geometry-processing-introduction](https://github.com/alecjacobson/geometry-processing-introduction) - Introductory assignment for Geometry Processing course
 - [argon-design-system](https://github.com/creativetimofficial/argon-design-system) - Argon - Design System for Bootstrap 4 by Creative Tim
 - [CryptoAwesome](https://github.com/guisantos/CryptoAwesome) - The most complete cryptocurrency image library to be used in your project.
@@ -1124,7 +1122,6 @@
 - [slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 - [vue-notifyjs](https://github.com/BinarCode/vue-notifyjs) - Minimalist 1kb Notification component
 - [awesome-bootstrap-checkbox](https://github.com/flatlogic/awesome-bootstrap-checkbox) - ✔️Font Awesome Bootstrap Checkboxes & Radios. Pure css way to make inputs look prettier
-- [documentation](https://github.com/codeship/documentation) - Documentation for Codeship CI & CD service
 - [docco](https://github.com/jashkenas/docco) - Literate Programming can be Quick and Dirty.
 - [git](https://github.com/dariubs/git) - Fast git tutorial in farsi
 - [one-vibrancy](https://github.com/simurai/one-vibrancy) - Vibrancy effect for Atom One themes
@@ -1192,7 +1189,6 @@
 - [startbootstrap-new-age](https://github.com/StartBootstrap/startbootstrap-new-age) - A web app landing page theme created by Start Bootstrap
 - [iconoo](https://github.com/qieguo2016/iconoo) - A Flexible Pure CSS Icon Pack! One Tag One Icon! https://qieguo2016.github.io/iconoo/
 - [monokai-seti](https://github.com/importjake/monokai-seti) - This theme is no longer maintained. If you want to make any changes please fork
-- [monokai](https://github.com/kevinsawicki/monokai) - Monokai Atom Syntax theme
 - [tomorrow-theme](https://github.com/chriskempson/tomorrow-theme) - Tomorrow Theme now lives on at https://github.com/chriskempson/base16
 - [useful.ly](https://github.com/tmoreton/useful.ly) - useful.ly Flexbox-Based CSS Framework
 - [grav-plugin-admin](https://github.com/getgrav/grav-plugin-admin) - Grav Admin Plugin
@@ -1228,7 +1224,6 @@
 - [lightgallery.js](https://github.com/sachinchoolur/lightgallery.js) - Full featured JavaScript image & video gallery. No dependencies
 - [themes](https://github.com/Openworx/themes) - 
 - [pace](https://github.com/HubSpot/pace) - Automatically add a progress bar to your site. #hubspot-open-source
-- [uswds](https://github.com/uswds/uswds) - The U.S. Web Design System helps the federal government build fast, accessible, mobile-friendly websites.
 - [hubpress.io](https://github.com/HubPress/hubpress.io) - A web application to build your blog on GitHub
 - [material-kit](https://github.com/creativetimofficial/material-kit) - Free and Open Source UI Kit for Bootstrap 4, React, Vue.js, React Native and Sketch based on Google's Material Design
 - [yeoman.io](https://github.com/yeoman/yeoman.io) - Yeoman website
@@ -3585,7 +3580,7 @@
 - [magic_paper](https://github.com/mnielsen/magic_paper) - Experiments in an explorable visual medium for mathematics
 - [tikzcd-editor](https://github.com/yishn/tikzcd-editor) - A simple visual editor for creating commutative diagrams.
 - [server](https://github.com/franciscop/server) - :desktop_computer: Simple and powerful server for Node.js
-- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (August 2020)
+- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (September 2020)
 - [charts](https://github.com/frappe/charts) - Simple, responsive, modern SVG Charts with zero dependencies
 - [leaflet-control-orderlayers](https://github.com/elesdoar/leaflet-control-orderlayers) - Leaflet control with order functionality
 - [bottery](https://github.com/google/bottery) - 
@@ -3937,6 +3932,7 @@
 - [apprtc-node-server](https://github.com/ISBX/apprtc-node-server) - The web based video chat app based on WebRTC written in NodeJS
 - [apprtc](https://github.com/webrtc/apprtc) - The video chat demo app based on WebRTC. This project is currently on HOLD with minimal maintenance.
 - [WebRTC-Experiment](https://github.com/muaz-khan/WebRTC-Experiment) - WebRTC, WebRTC and WebRTC. Everything here is all about WebRTC!!
+- [Windshaft-cartodb](https://github.com/CartoDB/Windshaft-cartodb) - Windshaft tailored for CARTO
 - [Windshaft](https://github.com/CartoDB/Windshaft) - A Node.js map tile library for PostGIS and torque.js, with CartoCSS styling
 - [Lightstreamer-example-StockList-client-vue](https://github.com/Lightstreamer/Lightstreamer-example-StockList-client-vue) - This project contains a demo client showing integration between Lightstreamer JavaScript Client library and Vue.js
 - [demo-quickconnect](https://github.com/rtc-io/demo-quickconnect) - EXAMPLE: A simple video conferencing example using rtc-quickconnect
@@ -4491,6 +4487,7 @@
 - [weekly-sessions](https://github.com/analytics-club-iitm/weekly-sessions) - 
 - [deepPavlovEval](https://github.com/deepmipt/deepPavlovEval) - Sentence embeddings evaluation for russian tasks
 - [dp_notebooks](https://github.com/deepmipt/dp_notebooks) - 
+- [text-analytics-with-python](https://github.com/dipanjanS/text-analytics-with-python) - Learn how to process, classify, cluster, summarize, understand syntax, semantics and sentiment of text data with the power of Python! This repository contains code and datasets used in my book, "Text Analytics with Python" published by Apress/Springer.
 - [ParallelWaveGAN](https://github.com/kan-bayashi/ParallelWaveGAN) - Unofficial Parallel WaveGAN (+ MelGAN & Multi-band MelGAN) with Pytorch
 - [nlp-in-python-tutorial](https://github.com/adashofdata/nlp-in-python-tutorial) - comparing stand up comedians using natural language processing
 - [automl](https://github.com/google/automl) - Google Brain AutoML
@@ -5006,7 +5003,6 @@
 - [deep-image-prior](https://github.com/DmitryUlyanov/deep-image-prior) - Image restoration with neural networks but without learning.
 - [estool](https://github.com/hardmaru/estool) - Evolution Strategies Tool
 - [python-clustering-exercises](https://github.com/benjaminwilson/python-clustering-exercises) - Jupyter Notebook exercises for k-means clustering with Python 3 and scikit-learn
-- [data-x](https://github.com/ikhlaqsidhu/data-x) - This repository is for the Data-X project materials
 - [ScientificComputingForTheRestOfUs](https://github.com/tpoisot/ScientificComputingForTheRestOfUs) - Introduction to Scientific Computing  🦊
 - [skimage-tutorials](https://github.com/scikit-image/skimage-tutorials) - skimage-tutorials: a collection of tutorials for the scikit-image package.
 - [supervisely-tutorials](https://github.com/DeepSystems/supervisely-tutorials) - 🌈 Tutorials for Supervise.ly
@@ -5632,7 +5628,9 @@
 
 ## Less 
 
+- [docs.influxdata.com](https://github.com/influxdata/docs.influxdata.com) - ARCHIVE - 1.x docs for InfluxData
 - [QGIS-Website](https://github.com/qgis/QGIS-Website) - QGIS-Website
+- [monokai](https://github.com/kevinsawicki/monokai) - Monokai Atom Syntax theme
 
 ## Lua 
 
@@ -6994,7 +6992,6 @@
 - [gobbli](https://github.com/RTIInternational/gobbli) - Deep learning with text doesn't have to be scary.
 - [wordvectors](https://github.com/Kyubyong/wordvectors) - Pre-trained word vectors of 30+ languages
 - [WordEmbeddings-Elmo-Fasttext-Word2Vec](https://github.com/PrashantRanjan09/WordEmbeddings-Elmo-Fasttext-Word2Vec) - Using pre trained word embeddings (Fasttext, Word2Vec)
-- [text-analytics-with-python](https://github.com/dipanjanS/text-analytics-with-python) - Learn how to process, classify, cluster, summarize, understand syntax, semantics and sentiment of text data with the power of Python! This repository contains code and datasets used in my book, "Text Analytics with Python" published by Apress/Springer.
 - [torch2trt](https://github.com/NVIDIA-AI-IOT/torch2trt) - An easy to use PyTorch to TensorRT converter
 - [matplotlib-tutorial](https://github.com/rougier/matplotlib-tutorial) - Matplotlib tutorial for beginner
 - [CDCN](https://github.com/ZitongYu/CDCN) - Central Difference Convolutional Networks
@@ -7557,7 +7554,7 @@
 - [FaceDetection-DSFD](https://github.com/Tencent/FaceDetection-DSFD) - 腾讯优图高精度双分支人脸检测器
 - [pytorch_GAN_zoo](https://github.com/facebookresearch/pytorch_GAN_zoo) - A mix of GAN implementations including progressive growing
 - [SPADE](https://github.com/NVlabs/SPADE) - Semantic Image Synthesis with SPADE
-- [guildai](https://github.com/guildai/guildai) - Open Source Experiment Tracking for Machine Learning
+- [guildai](https://github.com/guildai/guildai) - Lightweight Open Source Experiment Tracking
 - [treon](https://github.com/ReviewNB/treon) - Easy to use test framework for Jupyter Notebooks
 - [simp_le](https://github.com/zenhack/simp_le) - Simple Let's Encrypt client
 - [AmpliGraph](https://github.com/Accenture/AmpliGraph) - Python library for Representation Learning on Knowledge Graphs https://docs.ampligraph.org
@@ -8055,7 +8052,7 @@
 - [coinai](https://github.com/techbanca/coinai) - Seed applications based on AI for digital currency quantitative analysis, medium-term forecast and asset allocation for the secondary market of the BANCA community
 - [Cirq](https://github.com/quantumlib/Cirq) - A python framework for creating, editing, and invoking Noisy Intermediate Scale Quantum (NISQ) circuits.
 - [Photon](https://github.com/s0md3v/Photon) - Incredibly fast crawler designed for OSINT.
-- [byob](https://github.com/malwaredllc/byob) - Post-exploitation framework.
+- [byob](https://github.com/malwaredllc/byob) - An open-source post-exploitation framework for students, researchers and developers.
 - [termgraph](https://github.com/mkaz/termgraph) - a python command-line tool which draws basic graphs in the terminal
 - [python-overpy](https://github.com/DinoTools/python-overpy) - Python Wrapper to access the Overpass API
 - [pykwalify](https://github.com/Grokzen/pykwalify) - Python YAML/JSON schema validation library
@@ -12702,8 +12699,11 @@
 ## SCSS 
 
 - [website](https://github.com/flutter/website) - Flutter web site
+- [vapid](https://github.com/vapid/vapid) - Vapid is an intentionally simple content management system built on the idea that you can create a custom dashboard without ever leaving the HTML.
 - [twofactorauth](https://github.com/2factorauth/twofactorauth) - List of sites with two factor auth support which includes SMS, email, phone calls, hardware, and software.
 - [Cirrus](https://github.com/Spiderpig86/Cirrus) - :cloud: The SCSS framework for the modern web.
+- [documentation](https://github.com/codeship/documentation) - Documentation for Codeship CI & CD service
+- [uswds](https://github.com/uswds/uswds) - The U.S. Web Design System helps the federal government build fast, accessible, mobile-friendly websites.
 - [flight-manual.atom.io](https://github.com/atom/flight-manual.atom.io) - 📖 Documentation for Atom, generated by nanoc, hosted by GitHub Pages
 - [minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
 
@@ -12934,7 +12934,6 @@
 - [country-list](https://github.com/umpirsky/country-list) - :globe_with_meridians: List of all countries with names and ISO 3166-1 codes in all languages and data formats.
 - [sql-server-maintenance-solution](https://github.com/olahallengren/sql-server-maintenance-solution) - SQL Server Maintenance Solution
 - [metasploitable3](https://github.com/rapid7/metasploitable3) - Metasploitable3 is a VM that is built from the ground up with a large amount of security vulnerabilities.
-- [Windshaft-cartodb](https://github.com/CartoDB/Windshaft-cartodb) - Windshaft tailored for CARTO
 - [smq](https://github.com/antontarasenko/smq) - A collection of SQL queries to social media datasets.
 - [macropy](https://github.com/lihaoyi/macropy) - Macros in Python: quasiquotes, case classes, LINQ and more!
 
@@ -13148,7 +13147,7 @@
 - [bottender](https://github.com/Yoctol/bottender) - ⚡️ A framework for building conversational user interfaces.
 - [ng-alain](https://github.com/ng-alain/ng-alain) - NG-ZORRO admin panel front-end framework (surge mirror https://ng-alain-doc.surge.sh)
 - [hint](https://github.com/webhintio/hint) - 💡 A hinting engine for the web
-- [vue-storefront](https://github.com/DivanteLtd/vue-storefront) - Vue Storefront - PWA for eCommerce. 100% offline, platform agnostic, headless, Magento 2 supported. Always Open Source, MIT license. Join us as contributor (contributors@vuestorefront.io). Check out our new blog: https://blog.vuestorefront.io/ and the new community initiative for improving Headless Security standards https://headless-security.org/vsf-best-practices.html
+- [vue-storefront](https://github.com/DivanteLtd/vue-storefront) - The open-source frontend for any eCommerce. Built with a PWA and headless approach, using a modern JS stack. We have custom integrations with Magento, commercetools, Shopware and Shopify and total coverage is just a matter of time. The API approach also allows you to merge VSF with any third-party tool like CMS, payment gateways or analytics. Newest updates: https://blog.vuestorefront.io. Always Open Source, MIT license.
 - [hackernews-react-graphql](https://github.com/clintonwoo/hackernews-react-graphql) - Hacker News clone rewritten with universal JavaScript, using React and GraphQL.
 - [fast-style-transfer-deeplearnjs](https://github.com/reiinakano/fast-style-transfer-deeplearnjs) - Demo of in-browser Fast Neural Style Transfer with deeplearn.js library
 - [autorest](https://github.com/Azure/autorest) - OpenAPI (f.k.a Swagger) Specification code generator. Supports C#, PowerShell, Go, Java, Node.js, TypeScript, Python, Ruby
@@ -13536,7 +13535,7 @@
 - [vue-good-table](https://github.com/xaksis/vue-good-table) - An easy to use powerful data table for vuejs with advanced customizations including sorting, column filtering, pagination, grouping etc
 - [takeaway_demo](https://github.com/facebesidewyj/takeaway_demo) - :fire:A demo based on Vue.js, just for learning.
 - [fish-ui](https://github.com/myliang/fish-ui) - A Vue.js 2.0 UI Toolkit for Web
-- [eros](https://github.com/bmfe/eros) - 📱一套 Vue 代码，两端原生应用 ，或许可以叫我 weex-native。
+- [eros](https://github.com/bmfe/eros) - 📱一套 Vue 代码，两端原生应用 ，或许可以叫我 weex-native。【已停止维护】
 - [vuetron](https://github.com/vuetwo/vuetron) - A tool for testing and debugging your Vue + Vuex applications. 是一個可以幫助您 Vue.js 的項目測試及偵錯的工具, 也同時支持 Vuex及 Vue-Router.
 - [vuetable-2](https://github.com/ratiw/vuetable-2) - data table simplify! -- datatable component for Vue 2.x. See documentation at
 - [aimer](https://github.com/egoist/aimer) - The UI Development Framework
