@@ -341,6 +341,7 @@
 - [zson](https://github.com/postgrespro/zson) - ZSON is a PostgreSQL extension for transparent JSONB compression
 - [coturn](https://github.com/coturn/coturn) - coturn TURN server project
 - [how2heap](https://github.com/shellphish/how2heap) - A repository for learning various heap exploitation techniques.
+- [gosl](https://github.com/cpmech/gosl) - Linear algebra, eigenvalues, FFT, Bessel, elliptic, orthogonal polys, geometry, NURBS, numerical quadrature, 3D transfinite interpolation, random numbers, Mersenne twister, probability distributions, optimisation, differential equations.
 - [jq](https://github.com/stedolan/jq) - Command-line JSON processor
 - [numpy](https://github.com/numpy/numpy) - The fundamental package for scientific computing with Python.
 - [ctuning-programs](https://github.com/ctuning/ctuning-programs) - Collective Knowledge extension with unified and customizable benchmarks (with extensible JSON meta information) to be easily integrated with customizable and portable Collective Knowledge workflows. You can easily compile and run these benchmarks using different compilers, environments, hardware and OS (Linux, MacOS, Windows, Android). More info:
@@ -1117,7 +1118,6 @@
 - [cryptocoins](https://github.com/AllienWorks/cryptocoins) - Cryptocoins is the most complete vector/webfont icon pack of your favourite cryptocurrencies
 - [vivify](https://github.com/Martz90/vivify) - Vivify is free CSS animation library.
 - [cheatsheets](https://github.com/rstacruz/cheatsheets) - My cheatsheets
-- [elixirschool](https://github.com/elixirschool/elixirschool) - Premier destination to learn and master the Elixir programming language
 - [course-collaboration-travel-plans](https://github.com/udacity/course-collaboration-travel-plans) - 
 - [pev](https://github.com/AlexTatiyants/pev) - Postgres Explain Visualizer
 - [slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
@@ -2126,7 +2126,6 @@
 - [borg](https://github.com/ok-borg/borg) - Search and save shell snippets without leaving your terminal
 - [iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. AWS Lambda, gRPC, MVC, Unique Router, Websockets, Sessions, Test suite, Dependency Injection and more. A true successor of expressjs and laravel | 谢谢 https://github.com/kataras/iris/issues/1329 |
 - [primitive](https://github.com/fogleman/primitive) - Reproducing images with geometric primitives.
-- [gosl](https://github.com/cpmech/gosl) - Go scientific library for machine learning, linear algebra, FFT, Bessel, elliptic, orthogonal polys, geometry, NURBS, numerical quadrature, 3D transfinite interpolation, random numbers, Mersenne twister, probability distributions, optimisation, graph, plotting, visualisation, tensors, eigenvalues, differential equations, more.
 - [kube-cert-manager](https://github.com/PalmStoneGames/kube-cert-manager) - Manage Lets Encrypt certificates for a Kubernetes cluster.
 - [deploykit](https://github.com/docker/deploykit) - A toolkit for creating and managing declarative, self-healing infrastructure.
 - [habitus](https://github.com/cloud66-oss/habitus) - A build flow tool for Docker.
@@ -2296,6 +2295,7 @@
 - [proposal-promise-any](https://github.com/tc39/proposal-promise-any) - ECMAScript proposal: Promise.any
 - [proposal-promise-allSettled](https://github.com/tc39/proposal-promise-allSettled) - ECMAScript Proposal, specs, and reference implementation for Promise.allSettled
 - [proposal-optional-catch-binding](https://github.com/tc39/proposal-optional-catch-binding) - proposal for ECMAScript to allow omission of the catch binding
+- [workshops](https://github.com/ansible/workshops) - Training Course for Ansible Automation Platform
 - [vscode](https://github.com/DankNeon/vscode) - A danker, more neon theme for VS Code
 - [python](https://github.com/Show-Me-the-Code/python) - Show Me the Code Python version.
 - [kubernetes-failure-stories](https://github.com/hjacobs/kubernetes-failure-stories) - Compilation of public failure/horror stories related to Kubernetes
@@ -6796,7 +6796,7 @@
 - [Aslan](https://github.com/project-aslan/Aslan) - Open source self-driving software for low speed environments
 - [MolecularTransformer](https://github.com/pschwllr/MolecularTransformer) - 
 - [TopicNet](https://github.com/machine-intelligence-laboratory/TopicNet) - Interface for easier topic modelling.
-- [datasets](https://github.com/huggingface/datasets) - 🤗 Fast, efficient, open-access datasets and evaluation metrics for Natural Language Processing in PyTorch, TensorFlow, NumPy and Pandas
+- [datasets](https://github.com/huggingface/datasets) - 🤗 Fast, efficient, open-access datasets and evaluation metrics for Natural Language Processing and more in PyTorch, TensorFlow, NumPy and Pandas
 - [TensorFlowTTS](https://github.com/TensorSpeech/TensorFlowTTS) - :stuck_out_tongue_closed_eyes: TensorFlowTTS: Real-Time State-of-the-art Speech Synthesis for Tensorflow 2 (supported including English, Korean, Chinese and Easy to adapt for other languages)
 - [tuya-convert](https://github.com/ct-Open-Source/tuya-convert) - A collection of scripts to flash Tuya IoT devices to alternative firmwares
 - [rich](https://github.com/willmcgugan/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
@@ -6988,7 +6988,7 @@
 - [ESRGAN](https://github.com/xinntao/ESRGAN) - ECCV18 Workshops - Enhanced SRGAN. Champion PIRM Challenge on Perceptual Super-Resolution. The training codes are in BasicSR.
 - [minimal-hand](https://github.com/CalciferZh/minimal-hand) - A minimal solution to hand motion capture from a single color camera at over 100fps. Easy to use, plug to run.
 - [moco](https://github.com/facebookresearch/moco) - PyTorch implementation of MoCo: https://arxiv.org/abs/1911.05722
-- [AnimeGAN](https://github.com/TachibanaYoshino/AnimeGAN) - A Tensorflow implementation of AnimeGAN for fast photo animation  ! This is the Open source of the paper &lt;AnimeGAN: a novel lightweight GAN for photo animation&gt;, which uses the GAN framwork to transform real-world photos into anime images.
+- [AnimeGAN](https://github.com/TachibanaYoshino/AnimeGAN) - A Tensorflow implementation of AnimeGAN for fast photo animation  ! This is the Open source of the paper 「AnimeGAN: a novel lightweight GAN for photo animation」, which uses the GAN framwork to transform real-world photos into anime images.
 - [ru-tts-norm](https://github.com/dsnam/ru-tts-norm) - Russian text normalization for TTS
 - [gobbli](https://github.com/RTIInternational/gobbli) - Deep learning with text doesn't have to be scary.
 - [wordvectors](https://github.com/Kyubyong/wordvectors) - Pre-trained word vectors of 30+ languages
@@ -7047,7 +7047,7 @@
 - [dm-haiku](https://github.com/deepmind/dm-haiku) - JAX-based neural network library
 - [updog](https://github.com/sc0tfree/updog) - Updog is a replacement for Python's SimpleHTTPServer. It allows uploading and downloading via HTTP/S, can set ad hoc SSL certificates and use http basic auth.
 - [snoop](https://github.com/snooppr/snoop) - Snoop — инструмент разведки на основе открытых данных (OSINT world)
-- [Soft-Actor-Critic-and-Extensions](https://github.com/BY571/Soft-Actor-Critic-and-Extensions) - PyTorch implementation of Soft-Actor-Critic and Prioritized Experience Replay (PER) + Emphasizing Recent Experience (ERE)
+- [Soft-Actor-Critic-and-Extensions](https://github.com/BY571/Soft-Actor-Critic-and-Extensions) - PyTorch implementation of Soft-Actor-Critic and Prioritized Experience Replay (PER) + Emphasizing Recent Experience (ERE) + Munchausen RL and parallel Environments.
 - [rlax](https://github.com/deepmind/rlax) - 
 - [mAP](https://github.com/Cartucho/mAP) - mean Average Precision - This code evaluates the performance of your neural net for object recognition.
 - [ursina](https://github.com/pokepetter/ursina) - A game engine powered by python and panda3d.
@@ -7209,7 +7209,6 @@
 - [benchmarking-keras-pytorch](https://github.com/cgnorthcutt/benchmarking-keras-pytorch) - 🔥 Reproducibly benchmarking Keras and PyTorch models
 - [keract](https://github.com/philipperemy/keract) - Activation Maps (Layers Outputs) and Gradients in Keras.
 - [Google-Coral-Edge-TPU](https://github.com/TannerGilbert/Google-Coral-Edge-TPU) - Use the Google Coral USB Accelerator for deep learning.
-- [cvat](https://github.com/openvinotoolkit/cvat) - Powerful and efficient Computer Vision Annotation Tool (CVAT)
 - [geo-heatmap](https://github.com/luka1199/geo-heatmap) - :world_map: Generate an interactive geo heatmap from your Google location data
 - [sagemaker-python-sdk](https://github.com/aws/sagemaker-python-sdk) - A library for training and deploying machine learning models on Amazon SageMaker
 - [sha-rnn](https://github.com/Smerity/sha-rnn) - Single Headed Attention RNN - "Stop thinking with your head"
@@ -7667,7 +7666,6 @@
 - [arbitrary_style_transfer](https://github.com/elleryqueenhomels/arbitrary_style_transfer) - Fast Neural Style Transfer with Arbitrary Style using AdaIN Layer - Based on Huang et al. "Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization"
 - [pytorch-AdaIN](https://github.com/naoto0804/pytorch-AdaIN) - Unofficial pytorch implementation of 'Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization' [Huang+, ICCV2017]
 - [flow](https://github.com/flow-project/flow) - Computational framework for reinforcement learning in traffic control
-- [workshops](https://github.com/ansible/workshops) - Training Course for Ansible Automation Platform
 - [Machine-Learning-with-Python](https://github.com/devAmoghS/Machine-Learning-with-Python) - Small scale machine learning projects to understand the core concepts
 - [nsfw](https://github.com/rockyzhengwu/nsfw) - Suitable for Work (NSFW) classification
 - [LASER](https://github.com/facebookresearch/LASER) - Language-Agnostic SEntence Representations
@@ -9973,7 +9971,7 @@
 - [pygraph](https://github.com/EntilZha/pygraph) - CLI interface to python graphviz
 - [aserve](https://github.com/kootenpv/aserve) - Easily mock an API :coffee:
 - [todo](https://github.com/foobuzz/todo) - A simple command line todo list manager which can be as powerful as you want it to be.
-- [pentestly](https://github.com/praetorian-code/pentestly) - Python and Powershell internal penetration testing framework
+- [pentestly](https://github.com/praetorian-inc/pentestly) - Python and Powershell internal penetration testing framework
 - [pyswagger](https://github.com/rightlag/pyswagger) - HTTP client for Open API
 - [pypi-publisher](https://github.com/wdm0006/pypi-publisher) - a simple cli for publishing packages to pypi without the hassle
 - [speech_recognition](https://github.com/Uberi/speech_recognition) - Speech recognition module for Python, supporting several engines and APIs, online and offline.
@@ -11277,7 +11275,7 @@
 - [deeppy](https://github.com/andersbll/deeppy) - Deep learning in Python
 - [splash](https://github.com/scrapinghub/splash) - Lightweight, scriptable browser as a service with an HTTP API
 - [httpbin](https://github.com/postmanlabs/httpbin) - HTTP Request & Response Service, written in Python + Flask.
-- [addict](https://github.com/mewwts/addict) - The Python Dict that's better than heroin.
+- [addict](https://github.com/mewwts/addict) - (joke) The Python Dict that's better than heroin.
 - [mochi](https://github.com/i2y/mochi) - Dynamically typed functional programming language
 - [Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.3, 3.4, 3.5, 3.6, 3.7, and 3.8.  You feed it your Python app, it does a lot of clever things, and spits out an executable or extension module.
 - [Lasagne](https://github.com/Lasagne/Lasagne) - Lightweight library to build and train neural networks in Theano
@@ -12689,7 +12687,7 @@
 - [sit](https://github.com/sit-fyi/sit) - Serverless (offline-first, merge-friendly) Information Tracker
 - [openethereum](https://github.com/openethereum/openethereum) - The fast, light, and robust client for Ethereum-like networks.
 - [pyo3](https://github.com/PyO3/pyo3) - Rust bindings for the Python interpreter
-- [static-analysis](https://github.com/analysis-tools-dev/static-analysis) - Static analysis tools for all programming languages, build tools, config files and more.
+- [static-analysis](https://github.com/analysis-tools-dev/static-analysis) - A curated list of static analysis tools for all programming languages, config files, build tools, and more.
 - [exonum](https://github.com/exonum/exonum) - An extensible open-source framework for creating private/permissioned blockchain applications
 - [rediSQL](https://github.com/RedBeardLab/rediSQL) - Redis module that provides a completely functional SQL database
 - [servo](https://github.com/servo/servo) - The Servo Browser Engine
@@ -12703,6 +12701,7 @@
 - [vapid](https://github.com/vapid/vapid) - Vapid is an intentionally simple content management system built on the idea that you can create a custom dashboard without ever leaving the HTML.
 - [twofactorauth](https://github.com/2factorauth/twofactorauth) - List of sites with two factor auth support which includes SMS, email, phone calls, hardware, and software.
 - [Cirrus](https://github.com/Spiderpig86/Cirrus) - :cloud: The SCSS framework for the modern web.
+- [elixirschool](https://github.com/elixirschool/elixirschool) - Premier destination to learn and master the Elixir programming language
 - [documentation](https://github.com/codeship/documentation) - Documentation for Codeship CI & CD service
 - [uswds](https://github.com/uswds/uswds) - The U.S. Web Design System helps the federal government build fast, accessible, mobile-friendly websites.
 - [flight-manual.atom.io](https://github.com/atom/flight-manual.atom.io) - 📖 Documentation for Atom, generated by nanoc, hosted by GitHub Pages
@@ -12993,6 +12992,7 @@
 - [hiplot](https://github.com/facebookresearch/hiplot) - HiPlot makes understanding high dimensional data easy
 - [playwright](https://github.com/microsoft/playwright) - Node.js library to automate Chromium, Firefox and WebKit with a single API
 - [gistpad](https://github.com/vsls-contrib/gistpad) - VS Code extension for managing and sharing code snippets, notes and interactive samples using GitHub Gists
+- [cvat](https://github.com/openvinotoolkit/cvat) - Powerful and efficient Computer Vision Annotation Tool (CVAT)
 - [tfjs-models](https://github.com/tensorflow/tfjs-models) - Pretrained models for TensorFlow.js
 - [vue-next](https://github.com/vuejs/vue-next) - Repo for Vue 3.0 (currently in RC)
 - [streamlit](https://github.com/streamlit/streamlit) - Streamlit — The fastest way to build data apps in Python
