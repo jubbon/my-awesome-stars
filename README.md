@@ -3229,7 +3229,7 @@
 - [vue-cli-plugin-ssr](https://github.com/Akryum/vue-cli-plugin-ssr) - :sparkles: Simple SSR plugin for Vue CLI
 - [little-big-city](https://github.com/pissang/little-big-city) - 
 - [proxymise](https://github.com/kozhevnikov/proxymise) - Chainable Promise Proxy
-- [netron](https://github.com/lutzroeder/netron) - Visualizer for neural network, deep learning and machine learning models
+- [netron](https://github.com/lutzroeder/netron) - Visualizer for neural network, deep learning, and machine learning models
 - [readability](https://github.com/mozilla/readability) - A standalone version of the readability lib
 - [SuperSlide.js](https://github.com/osrec/SuperSlide.js) - A flexible, smooth, GPU accelerated sliding menu for your next PWA
 - [ember.js](https://github.com/emberjs/ember.js) - Ember.js - A JavaScript framework for creating ambitious web applications
@@ -11123,7 +11123,7 @@
 - [django-hijack](https://github.com/arteria/django-hijack) - With Django Hijack, admins can log in and work on behalf of other users without having to know their credentials.
 - [platter](https://github.com/mitsuhiko/platter) - A useful helper for wheel deployments.
 - [matplotlib_for_papers](https://github.com/jbmouret/matplotlib_for_papers) - Handout for the tutorial "Creating publication-quality figures with matplotlib"
-- [WeasyPrint](https://github.com/Kozea/WeasyPrint) - WeasyPrint converts web documents (HTML with CSS, SVG, …) to PDF.
+- [WeasyPrint](https://github.com/Kozea/WeasyPrint) - The awesome document factory
 - [pbr](https://github.com/openstack/pbr) - Python Build Reasonableness. Mirror of code maintained at opendev.org.
 - [overloading.py](https://github.com/bintoro/overloading.py) - Function overloading for Python 3
 - [pqaut](https://github.com/garyjohnson/pqaut) - UI automation server that runs in PyQt apps and enables BDD style testing.
@@ -12738,7 +12738,7 @@
 
 ## Shell 
 
-- [axiom](https://github.com/pry0cc/axiom) - A dynamic infrastructure toolkit for red teamers and bug bounty hunters!
+- [axiom](https://github.com/pry0cc/axiom) - The dynamic infrastructure framework for anybody!
 - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
 - [monorepoize](https://github.com/gigamonkey/monorepoize) - Bash scripts for creating a monorepo out of smaller repos.
 - [learn_gnuawk](https://github.com/learnbyexample/learn_gnuawk) - Example based guide to mastering GNU awk
