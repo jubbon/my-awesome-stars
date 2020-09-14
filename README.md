@@ -999,7 +999,6 @@
 - [bootstrap-4-github-pages](https://github.com/nicolas-van/bootstrap-4-github-pages) - A Bootstrap 4 start up project for Github Pages and Jekyll
 - [css.gg](https://github.com/astrit/css.gg) - 700+ Pure CSS, SVG & Figma UI Icons Available in SVG Sprite, styled-components, NPM & API
 - [simplefolio](https://github.com/cobidev/simplefolio) - ⚡️ A minimal portfolio template for Developers
-- [LearnCS8-Resume](https://github.com/JordanSchuetz/LearnCS8-Resume) - Resume template website for the LearnCS8 Lab 4
 - [Autoradar](https://github.com/gadson/Autoradar) - 
 - [personal-management-system](https://github.com/Volmarg/personal-management-system) - Your web application for managing personal data.
 - [azuredevopslabs](https://github.com/microsoft/azuredevopslabs) - Learn how you can plan smartly, collaborate better, and ship faster with a set of modern development services with Azure DevOps.
@@ -1101,7 +1100,6 @@
 - [vscode-docs](https://github.com/microsoft/vscode-docs) - Public documentation for Visual Studio Code
 - [vue-light-bootstrap-dashboard](https://github.com/creativetimofficial/vue-light-bootstrap-dashboard) - Vue Light Bootstrap Dashboard - FREE BOOTSTRAP 4 VUEJS ADMIN TEMPLATE
 - [vue2-shop](https://github.com/worldsong/vue2-shop) - A shop developed with Vue2 + Vue-router + Axios + Vuex + Node + Express + MongoDB + Webpack
-- [papercss](https://github.com/papercss/papercss) - The Less Formal CSS Framework
 - [tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [docbox](https://github.com/tmcw/docbox) - REST API documentation generator
 - [HyperApp-Guide](https://github.com/waylybaye/HyperApp-Guide) - HyperApp user's manual
@@ -1257,7 +1255,6 @@
 - [normalize.css](https://github.com/necolas/normalize.css) - A modern alternative to CSS resets
 - [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [animate.css](https://github.com/animate-css/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
-- [css](https://github.com/primer/css) - The CSS design system that powers GitHub
 - [lavalamp.js](https://github.com/jgthms/lavalamp.js) - A replacement for infinite scrolling.
 - [Gutenberg](https://github.com/matejlatin/Gutenberg) - A meaningful web typography starter kit.
 - [bootstrap-material-design](https://github.com/FezVrasta/bootstrap-material-design) - Material design theme for Bootstrap 3 and 4
@@ -2223,6 +2220,7 @@
 - [MatBlazor](https://github.com/SamProf/MatBlazor) - Material Design components for Blazor and Razor Components
 - [Most-recommended-programming-books](https://github.com/daolf/Most-recommended-programming-books) - The most recommended programming books of all-time.
 - [HelloFace](https://github.com/becauseofAI/HelloFace) - An awesome face technology repository.
+- [LearnCS8-Resume](https://github.com/JordanSchuetz/LearnCS8-Resume) - Resume template website for the LearnCS8 Lab 4
 - [esm244-w2020-lab5](https://github.com/allisonhorst/esm244-w2020-lab5) - Lab week 5: exploring time series data, intro to forecasting
 - [tiny-helpers](https://github.com/stefanjudis/tiny-helpers) - A collection of useful online web development tools
 - [intro-to-ml-tidy](https://github.com/rstudio-conf-2020/intro-to-ml-tidy) - Intro to Machine Learning with the Tidyverse
@@ -2887,7 +2885,7 @@
 - [Real-Time-Person-Removal](https://github.com/jasonmayes/Real-Time-Person-Removal) - Removing people from complex backgrounds in real time using TensorFlow.js in the web browser
 - [cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [workshop-material](https://github.com/peterj/workshop-material) - Material for Kubernetes and Istio workshop https://learnistio.com
-- [fingerprintjs2](https://github.com/fingerprintjs/fingerprintjs2) - Modern & flexible browser fingerprinting library
+- [fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - Modern & flexible browser fingerprinting library
 - [Detox](https://github.com/wix/Detox) - Gray box end-to-end testing and automation framework for mobile apps
 - [alpine](https://github.com/alpinejs/alpine) - A rugged, minimal framework for composing JavaScript behavior in your markup.
 - [ai-lab](https://github.com/tlkh/ai-lab) - All-in-one AI container for rapid prototyping
@@ -3336,7 +3334,7 @@
 - [front-end-handbook-2018](https://github.com/FrontendMasters/front-end-handbook-2018) - 2018 edition of our front-end development handbook
 - [canner-slate-editor](https://github.com/Canner/canner-slate-editor) - 📝Rich Text / WYSIWYG Editor built for Modularity and Extensibility.
 - [vuepress](https://github.com/vuejs/vuepress) - 📝 Minimalistic Vue-powered static site generator
-- [picojs](https://github.com/tehnokv/picojs) - A face detection library in 200 lines of JavaScript
+- [picojs](https://github.com/nenadmarkus/picojs) - A face detection library in 200 lines of JavaScript
 - [opening_hours.js](https://github.com/AMDmi3/opening_hours.js) - Library to parse and process opening_hours tag from OpenStreetMap data
 - [opening_hours.js](https://github.com/opening-hours/opening_hours.js) - Library to parse and process the opening_hours tag from OpenStreetMap data
 - [opendatacam](https://github.com/opendatacam/opendatacam) - An open source tool to quantify the world
@@ -3373,7 +3371,7 @@
 - [kue](https://github.com/Automattic/kue) - Kue is a priority job queue backed by redis, built for node.js.
 - [cryptocurrency-icons](https://github.com/spothq/cryptocurrency-icons) - A set of icons for all the main cryptocurrencies and altcoins, in a range of styles and sizes.
 - [auto-py-to-exe](https://github.com/brentvollebregt/auto-py-to-exe) - Converts .py to .exe using a simple graphical interface
-- [brain.js](https://github.com/BrainJS/brain.js) - 🤖 Neural networks in JavaScript
+- [brain.js](https://github.com/BrainJS/brain.js) - 🤖 GPU accelerated Neural networks in JavaScript for Browsers and Node.js
 - [turbo-ws](https://github.com/hugmanrique/turbo-ws) - :dash: Blazing fast low-level WebSocket server
 - [extension-chrome](https://github.com/pia-foss/extension-chrome) - Private Internet Access - Chrome Extension
 - [workly](https://github.com/pshihn/workly) - A really simple way to move a function or class to a web worker. 🏋️‍♀️→ 😄
@@ -4465,7 +4463,7 @@
 - [mlmachine](https://github.com/petersontylerd/mlmachine) - mlmachine accelerates machine learning experimentation
 - [ipymarkup](https://github.com/natasha/ipymarkup) - NER, syntax markup visualizations
 - [Question-Generation](https://github.com/KristiyanVachev/Question-Generation) - Generating multiple choice questions from text using Machine Learning.
-- [projects](https://github.com/explosion/projects) - 💝 Example projects for various NLP tasks with datasets, scripts and results
+- [projects](https://github.com/explosion/projects) - 🪐 Example projects for various NLP tasks with datasets, scripts and results
 - [nlp-python-deep-learning](https://github.com/NirantK/nlp-python-deep-learning) - NLP in Python with Deep Learning
 - [dsc-python-operators-functions-and-methods-lab-onl01-dtsc-ft-041320](https://github.com/learn-co-students/dsc-python-operators-functions-and-methods-lab-onl01-dtsc-ft-041320) - 
 - [Data-Science-Hacks](https://github.com/kunalj101/Data-Science-Hacks) - Data Science Hacks consists of tips, tricks to help you become a better data scientist. Data science hacks are for all - beginner to advanced. Data science hacks consist of python, jupyter notebook, pandas hacks and so on.
@@ -5280,7 +5278,7 @@
 - [food2vec](https://github.com/altosaar/food2vec) - :hamburger:
 - [practical-1](https://github.com/oxford-cs-deepnlp-2017/practical-1) - Oxford Deep NLP 2017 course - Practical 1: word2vec
 - [Geospatial_Data_with_Python](https://github.com/SocialDataSci/Geospatial_Data_with_Python) - Introduction to Geospatial Data with Python
-- [practical-pytorch](https://github.com/spro/practical-pytorch) - DEPRECATED and not maintained - see official repo at https://github.com/pytorch/tutorials
+- [practical-pytorch](https://github.com/spro/practical-pytorch) - Go to https://github.com/pytorch/tutorials - this repo is deprecated and no longer maintained
 - [dl_tutorial](https://github.com/oduerr/dl_tutorial) - Tutorials for deep learning
 - [ccf2016_sougou](https://github.com/hengchao0248/ccf2016_sougou) - ccf2016 sougou final winner solution
 - [unrolled_gan](https://github.com/poolio/unrolled_gan) - Unrolled Generative Adversarial Networks
@@ -5362,7 +5360,6 @@
 - [numerai](https://github.com/jimfleming/numerai) - Code from my experiments on Numerai
 - [TensorFace](https://github.com/AKSHAYUBHAT/TensorFace) - This repo is deprecated, please use Deep Video Analytics which implements face recognition using TensorFlow and Facenet.
 - [theano-tutorial](https://github.com/craffel/theano-tutorial) - A collection of tutorials on neural networks, using Theano
-- [ML_course](https://github.com/epfml/ML_course) - EPFL Machine Learning Course, Fall 2019
 - [ssd-plate_detection](https://github.com/hyh21521038/ssd-plate_detection) - SSD-based  plate detection
 - [MIPT_Data_Mining_In_Action_2016](https://github.com/vkantor/MIPT_Data_Mining_In_Action_2016) - "Data Mining in Action Course", Moscow Institute of Physics and Technologies
 - [sklearn-bayes](https://github.com/AmazaspShumik/sklearn-bayes) - Python package for Bayesian Machine Learning with scikit-learn API
@@ -8364,7 +8361,7 @@
 - [captivox](https://github.com/expectocode/captivox) - cool animations with pyqt5 and parametrics
 - [gist-evernote](https://github.com/leemengtaiwan/gist-evernote) - A Python application that sync Github Gists and save them to Evernote notebook as screenshots.
 - [Pointillism](https://github.com/matteo-ronchetti/Pointillism) - Convert a photo into a pointillist painting
-- [icecream](https://github.com/gruns/icecream) - 🍦 Sweet and creamy print debugging.
+- [icecream](https://github.com/gruns/icecream) - 🍦 Never use print() to debug again
 - [playground](https://github.com/MultiAgentLearning/playground) - PlayGround: AI Research into Multi-Agent Learning.
 - [msdat](https://github.com/quentinhardy/msdat) - MSDAT: Microsoft SQL Database Attacking Tool
 - [VSCodeNotebook](https://github.com/aviaryan/VSCodeNotebook) - 📝 Use VS Code as a reliable note-taking/journal application
@@ -12701,11 +12698,13 @@
 - [vapid](https://github.com/vapid/vapid) - Vapid is an intentionally simple content management system built on the idea that you can create a custom dashboard without ever leaving the HTML.
 - [twofactorauth](https://github.com/2factorauth/twofactorauth) - List of sites with two factor auth support which includes SMS, email, phone calls, hardware, and software.
 - [Cirrus](https://github.com/Spiderpig86/Cirrus) - :cloud: The SCSS framework for the modern web.
+- [papercss](https://github.com/papercss/papercss) - The Less Formal CSS Framework
 - [elixirschool](https://github.com/elixirschool/elixirschool) - Premier destination to learn and master the Elixir programming language
 - [documentation](https://github.com/codeship/documentation) - Documentation for Codeship CI & CD service
 - [uswds](https://github.com/uswds/uswds) - The U.S. Web Design System helps the federal government build fast, accessible, mobile-friendly websites.
 - [flight-manual.atom.io](https://github.com/atom/flight-manual.atom.io) - 📖 Documentation for Atom, generated by nanoc, hosted by GitHub Pages
 - [minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
+- [css](https://github.com/primer/css) - The CSS design system that powers GitHub
 
 ## Scala 
 
@@ -12961,6 +12960,7 @@
 - [happy-git-with-r](https://github.com/jennybc/happy-git-with-r) - Using Git and GitHub with R, Rstudio, and R Markdown
 - [gt-nlp-class](https://github.com/jacobeisenstein/gt-nlp-class) - Course materials for Georgia Tech CS 4650 and 7650, "Natural Language"
 - [tidy-text-mining](https://github.com/dgrtwo/tidy-text-mining) - Manuscript of the book "Tidy Text Mining with R" by Julia Silge and David Robinson
+- [ML_course](https://github.com/epfml/ML_course) - EPFL Machine Learning Course, Fall 2019
 - [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) - The most cited deep learning papers
 - [efficientR](https://github.com/csgillespie/efficientR) - Efficient R programming: a book
 - [depsy-research](https://github.com/ourresearch/depsy-research) - Documentation and research output for Depsy (see https://github.com/impactstory/depsy for source of Depsy itself)
