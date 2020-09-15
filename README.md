@@ -343,7 +343,6 @@
 - [how2heap](https://github.com/shellphish/how2heap) - A repository for learning various heap exploitation techniques.
 - [gosl](https://github.com/cpmech/gosl) - Linear algebra, eigenvalues, FFT, Bessel, elliptic, orthogonal polys, geometry, NURBS, numerical quadrature, 3D transfinite interpolation, random numbers, Mersenne twister, probability distributions, optimisation, differential equations.
 - [jq](https://github.com/stedolan/jq) - Command-line JSON processor
-- [numpy](https://github.com/numpy/numpy) - The fundamental package for scientific computing with Python.
 - [ctuning-programs](https://github.com/ctuning/ctuning-programs) - Collective Knowledge extension with unified and customizable benchmarks (with extensible JSON meta information) to be easily integrated with customizable and portable Collective Knowledge workflows. You can easily compile and run these benchmarks using different compilers, environments, hardware and OS (Linux, MacOS, Windows, Android). More info:
 - [ck-crowdnode](https://github.com/ctuning/ck-crowdnode) - Standalone, thin and portable server to let users participate in experiment crowdsourcing using Windows devices via Collective Knowledge Framework:
 - [neural-redis](https://github.com/antirez/neural-redis) - Neural networks module for Redis
@@ -666,7 +665,7 @@
 - [asylo](https://github.com/google/asylo) - An open and flexible framework for developing enclave applications
 - [glow](https://github.com/pytorch/glow) - Compiler for Neural Network hardware accelerators
 - [arrow](https://github.com/apache/arrow) - Apache Arrow is a cross-language development platform for in-memory data. It specifies a standardized language-independent columnar memory format for flat and hierarchical data, organized for efficient analytic operations on modern hardware. It also provides computational libraries and zero-copy streaming messaging and interprocess communication. Languages currently supported include C, C++, Java, JavaScript, Python, and Ruby.
-- [FaceKit](https://github.com/MagicCharles/FaceKit) - Implementations of PCN (an accurate real-time rotation-invariant face detector) and other face-related algorithms
+- [FaceKit](https://github.com/MagicRock100/FaceKit) - Implementations of PCN (an accurate real-time rotation-invariant face detector) and other face-related algorithms
 - [modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial) - 📚 Modern C++ Tutorial: C++11/14/17/20 On the Fly
 - [foundationdb](https://github.com/apple/foundationdb) - FoundationDB - the open source, distributed, transactional key-value store
 - [kiwi](https://github.com/nucleic/kiwi) - Efficient C++ implementation of the Cassowary constraint solving algorithm
@@ -1189,7 +1188,6 @@
 - [monokai-seti](https://github.com/importjake/monokai-seti) - This theme is no longer maintained. If you want to make any changes please fork
 - [tomorrow-theme](https://github.com/chriskempson/tomorrow-theme) - Tomorrow Theme now lives on at https://github.com/chriskempson/base16
 - [useful.ly](https://github.com/tmoreton/useful.ly) - useful.ly Flexbox-Based CSS Framework
-- [grav-plugin-admin](https://github.com/getgrav/grav-plugin-admin) - Grav Admin Plugin
 - [materialette](https://github.com/mike-schultz/materialette) - Materialette - A material design color palette
 - [cssicon](https://github.com/wentin/cssicon) - icon set made with pure css code, no dependencies, "grab and go" icons
 - [awesome-programmers](https://github.com/rekihattori/awesome-programmers) - A list of history's greatest software engineers and tech pioneers
@@ -1219,7 +1217,6 @@
 - [iziModal](https://github.com/marcelodolza/iziModal) - Elegant, responsive, flexible and lightweight modal plugin with jQuery.
 - [hack](https://github.com/egoist/hack) - ⛷ Dead simple CSS framework.
 - [angled-edges](https://github.com/josephfusco/angled-edges) - :triangular_ruler: Quickly create angled section edges using only Sass
-- [lightgallery.js](https://github.com/sachinchoolur/lightgallery.js) - Full featured JavaScript image & video gallery. No dependencies
 - [themes](https://github.com/Openworx/themes) - 
 - [pace](https://github.com/HubSpot/pace) - Automatically add a progress bar to your site. #hubspot-open-source
 - [hubpress.io](https://github.com/HubPress/hubpress.io) - A web application to build your blog on GitHub
@@ -9698,6 +9695,7 @@
 - [erpnext](https://github.com/frappe/erpnext) - Open Source Alternative to SAP
 - [flask-jwt-extended](https://github.com/vimalloc/flask-jwt-extended) - An open source Flask extension that provides JWT support (with batteries included)!
 - [streamlink](https://github.com/streamlink/streamlink) - Streamlink is a CLI utility which pipes video streams from various services into a video player
+- [numpy](https://github.com/numpy/numpy) - The fundamental package for scientific computing with Python.
 - [ck-crowdtuning](https://github.com/ctuning/ck-crowdtuning) - Collective Knowledge crowd-tuning extension to let users crowdsource their experiments (using portable Collective Knowledge workflows) such as performance benchmarking, auto tuning and machine learning across diverse platforms with Linux, Windows, MacOS and Android provided by volunteers. Demo of DNN crowd-benchmarking and crowd-tuning:
 - [ck-env](https://github.com/ctuning/ck-env) - CK repository with components and automation actions to enable portable workflows across diverse platforms including Linux, Windows, MacOS and Android. It includes software detection plugins and meta packages (code, data sets, models, scripts, etc) with the possibility of multiple versions to co-exist in a user or system environment:
 - [traces](https://github.com/datascopeanalytics/traces) - A Python library for unevenly-spaced time series analysis
@@ -12701,6 +12699,8 @@
 - [papercss](https://github.com/papercss/papercss) - The Less Formal CSS Framework
 - [elixirschool](https://github.com/elixirschool/elixirschool) - Premier destination to learn and master the Elixir programming language
 - [documentation](https://github.com/codeship/documentation) - Documentation for Codeship CI & CD service
+- [grav-plugin-admin](https://github.com/getgrav/grav-plugin-admin) - Grav Admin Plugin
+- [lightgallery.js](https://github.com/sachinchoolur/lightgallery.js) - Full featured JavaScript image & video gallery. No dependencies
 - [uswds](https://github.com/uswds/uswds) - The U.S. Web Design System helps the federal government build fast, accessible, mobile-friendly websites.
 - [flight-manual.atom.io](https://github.com/atom/flight-manual.atom.io) - 📖 Documentation for Atom, generated by nanoc, hosted by GitHub Pages
 - [minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
