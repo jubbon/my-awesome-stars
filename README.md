@@ -1082,7 +1082,6 @@
 - [site](https://github.com/learning-rust/site) - 🎓 Rust Programming Language Tutorials for Everyone!
 - [codeheat.org](https://github.com/fossasia/codeheat.org) - Codeheat Coding Contest Website https://codeheat.org
 - [lit](https://github.com/ajusa/lit) - World's smallest responsive 🔥 css framework (395 bytes)
-- [pasztor.at](https://github.com/janoszen/pasztor.at) - 
 - [SocialFish](https://github.com/UndeadSec/SocialFish) - Automated Phishing Tool & Information Collector
 - [epoch](https://github.com/dinkbit/epoch) - A simple but powerful Epoch converter
 - [micron](https://github.com/webkul/micron) - a [μ] microInteraction library built with CSS Animations and controlled by JavaScript Power
@@ -1128,7 +1127,6 @@
 - [pandoc-markdown-book-template](https://github.com/johnpaulada/pandoc-markdown-book-template) - A template for creating epub books from markdown using pandoc.
 - [nomad-ci](https://github.com/iverberk/nomad-ci) - A fully featured CI setup based on Nomad, Jenkins, Selenium, Consul and Docker
 - [git.github.io](https://github.com/git/git.github.io) - Git Developer Site
-- [Bitcoin.org](https://github.com/bitcoin-dot-org/Bitcoin.org) - Bitcoin.org Website
 - [CaoMei](https://github.com/xiangsudian/CaoMei) - 🍓CaoMei Icon - Designed for developers and creatros http://chuangzaoshi.com/icon/
 - [bojler](https://github.com/Slicejack/bojler) - Bojler is an email framework
 - [Gravity](https://github.com/hemangsk/Gravity) - Minimal is the new cool.
@@ -2108,7 +2106,7 @@
 - [chaosmonkey](https://github.com/Netflix/chaosmonkey) - Chaos Monkey is a resiliency tool that helps applications tolerate random instance failures.
 - [build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang) - A golang ebook intro how to build a web with golang
 - [gocui](https://github.com/jroimartin/gocui) - Minimalist Go package aimed at creating Console User Interfaces.
-- [traefik](https://github.com/containous/traefik) - The Cloud Native Edge Router
+- [traefik](https://github.com/traefik/traefik) - The Cloud Native Edge Router
 - [gorram](https://github.com/natefinch/gorram) - It's like go run for any go function
 - [flynn](https://github.com/flynn/flynn) - A next generation open source platform as a service (PaaS)
 - [hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
@@ -2472,6 +2470,7 @@
 - [ethereum-org](https://github.com/ethereum/ethereum-org) - [ARCHIVED] ethereum.org website from 2016-2019. See https://github.com/ethereum/ethereum-org-website for current version.
 - [tidygraph](https://github.com/thomasp85/tidygraph) - A tidy API for graph manipulation
 - [django-wedding-website](https://github.com/czue/django-wedding-website) - A django-powered wedding website and guest-management system
+- [Bitcoin.org](https://github.com/bitcoin-dot-org/Bitcoin.org) - Bitcoin.org Website
 - [web-launch-checklist](https://github.com/HarrisJT/web-launch-checklist) - :clipboard: A simple website launch checklist to keep track of the most important enrichment possibilities for a website.
 - [ha-floorplan](https://github.com/pkozul/ha-floorplan) - Floorplan for Home Assistant
 - [learn-to-send-email-via-google-script-html-no-server](https://github.com/dwyl/learn-to-send-email-via-google-script-html-no-server) - :email: An Example of using an HTML form (e.g: "Contact Us" on a website) to send Email without a Backend Server (using a Google Script) perfect for static websites that need to collect data.
@@ -2922,7 +2921,7 @@
 - [api-platform](https://github.com/api-platform/api-platform) - REST and GraphQL framework to build modern API-driven projects (server-side and client-side)
 - [Hygieia](https://github.com/Hygieia/Hygieia) - CapitalOne  DevOps Dashboard
 - [Fomantic-UI](https://github.com/fomantic/Fomantic-UI) - Fomantic-UI is a community fork of Semantic-UI
-- [iptv](https://github.com/iptv-org/iptv) - Collection of 8000+ publicly available IPTV channels from all over the world
+- [iptv](https://github.com/iptv-org/iptv) - Collection of 4000+ publicly available IPTV channels from all over the world
 - [Mock](https://github.com/nuysoft/Mock) - A simulation data generator
 - [vk-mini-app-boilerplate](https://github.com/iSa1vatore/vk-mini-app-boilerplate) - Стартовый кит для создания сервиса на платформе VK Mini Apps с использованием React + Redux
 - [geojson.io](https://github.com/mapbox/geojson.io) - IMPORTANT: development of this project has been paused, see the README (fast, simple map creation)
@@ -6176,7 +6175,7 @@
 - [awesome-threat-detection](https://github.com/0x4D31/awesome-threat-detection) - A curated list of awesome threat detection and hunting resources
 - [awesome-toolkits](https://github.com/reyronald/awesome-toolkits) - A curated list of open source, high-quality, popular and well maintained "zero-configuration" (#0CJS) toolkits
 - [ReactNative-Animation-Challenges](https://github.com/kiok46/ReactNative-Animation-Challenges) - A series of animation challenges in React Native.
-- [python3_with_pleasure](https://github.com/arogozhnikov/python3_with_pleasure) - A short guide on features of Python 3 with examples (updated for python 3.7)
+- [python3_with_pleasure](https://github.com/arogozhnikov/python3_with_pleasure) - A short guide on features of Python 3 with examples
 - [choerodon](https://github.com/choerodon/choerodon) - Open Source Multi-Cloud Integrated Platform
 - [CryptoList](https://github.com/coinpride/CryptoList) - Curated collection of blockchain & cryptocurrency resources.
 - [Megalodon](https://github.com/vyraun/Megalodon) - Various ML/DL Resources organised at a single place.
@@ -6447,6 +6446,7 @@
 - [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) - Manually curated collection of resources for frontend web developers.
 - [open-network-insight](https://github.com/Open-Network-Insight/open-network-insight) - ONI development has been moved into Apache Software Foundation - Apache Spot (incubating) http://spot.apache.org/
 - [vue-admin](https://github.com/vue-bulma/vue-admin) - We are refactoring it, using the latest Vue and Bulma. WIP
+- [CommAI-env](https://github.com/facebookresearch/CommAI-env) - A platform for developing AI systems as described in A Roadmap towards Machine Intelligence - http://arxiv.org/abs/1511.08130
 - [awesome-d3](https://github.com/wbkd/awesome-d3) - A list of D3 libraries, plugins and utilities
 - [golang-notes](https://github.com/luciotato/golang-notes) - Notes to understand golang
 - [awesome-webtorrent-clones](https://github.com/DiegoRBaquero/awesome-webtorrent-clones) - 👥 Product clones using WebTorrent/WebRTC
@@ -6960,7 +6960,7 @@
 - [Complex-YOLO](https://github.com/AI-liu/Complex-YOLO) - Complex-YOLO: Real-time 3D Object Detection on Point Clouds   pytorch  Darknet
 - [Pytorch_Mask_RCNN](https://github.com/soeaver/Pytorch_Mask_RCNN) - Converted from [tf+keras version MASK-RCNN](https://github.com/matterport/Mask_RCNN)
 - [schemathesis](https://github.com/schemathesis/schemathesis) - A tool that generates and runs test cases for Open API / GraphQL based apps
-- [doc2vec](https://github.com/ibrahimsharaf/doc2vec) - Text classification using Doc2Vec embeddings
+- [doc2vec](https://github.com/ibrahimsharaf/doc2vec) - :notebook: Long(er) text representation and classification using Doc2Vec embeddings
 - [role2vec](https://github.com/benedekrozemberczki/role2vec) - A scalable Gensim implementation of "Learning Role-based Graph Embeddings" (IJCAI 2018).
 - [webvectors](https://github.com/akutuzov/webvectors) - Web-ify your word2vec: framework to serve distributional semantic models online
 - [Splitter](https://github.com/benedekrozemberczki/Splitter) - A Pytorch implementation of "Splitter: Learning Node Representations that Capture Multiple Social Contexts" (WWW 2019).
@@ -8219,7 +8219,7 @@
 - [LightNet](https://github.com/ansleliu/LightNet) - LightNet: Light-weight Networks for Semantic Image Segmentation (Cityscapes and Mapillary Vistas Dataset)
 - [strace-pipes-presentation](https://github.com/nh2/strace-pipes-presentation) - Presentation: Debugging across pipes and sockets with strace
 - [matchbox](https://github.com/salesforce/matchbox) - Write PyTorch code at the level of individual examples, then run it efficiently on minibatches.
-- [MultiRunner](https://github.com/Statham-stone/MultiRunner) - This is a python package for multi-process running.
+- [MultiRunner](https://github.com/Statham188/MultiRunner) - This is a python package for multi-process running.
 - [textdistance](https://github.com/life4/textdistance) - Compute distance between sequences. 30+ algorithms, pure python implementation, common interface, optional external libs usage.
 - [person-blocker](https://github.com/minimaxir/person-blocker) - Automatically "block" people in images (like Black Mirror) using a pretrained neural network.
 - [cookiecutter-API-Hour](https://github.com/Eyepea/cookiecutter-API-Hour) - A Starter Kit to create an API-Hour daemon with cookiecutter
@@ -9703,7 +9703,6 @@
 - [python-web-pdb](https://github.com/romanvm/python-web-pdb) - Web-based remote UI for Python's PDB debugger
 - [ck-autotuning](https://github.com/ctuning/ck-autotuning) - CK automation actions to let users implement portable, customizable and reusable program workflows for reproducible, collaborative and multi-objective benchmarking, optimization and SW/HW co-design:
 - [ck](https://github.com/ctuning/ck) - Collective Knowledge framework (CK) helps to organize any software project as a database of reusable components with common automation actions and extensible meta descriptions based on FAIR principles (findability, accessibility, interoperability, and reusability). See real-world use cases from Arm, IBM, General Motors, MLPerf, RPi, and ACM:
-- [CommAI-env](https://github.com/facebookresearch/CommAI-env) - A platform for developing AI systems as described in A Roadmap towards Machine Intelligence - http://arxiv.org/abs/1511.08130
 - [deconvfaces](https://github.com/somewacko/deconvfaces) - Generating faces with deconvolution networks
 - [whereami](https://github.com/kootenpv/whereami) - Uses WiFi signals :signal_strength: and machine learning to predict where you are
 - [dataset](https://github.com/openimages/dataset) - The Open Images dataset
@@ -12696,6 +12695,7 @@
 - [vapid](https://github.com/vapid/vapid) - Vapid is an intentionally simple content management system built on the idea that you can create a custom dashboard without ever leaving the HTML.
 - [twofactorauth](https://github.com/2factorauth/twofactorauth) - List of sites with two factor auth support which includes SMS, email, phone calls, hardware, and software.
 - [Cirrus](https://github.com/Spiderpig86/Cirrus) - :cloud: The SCSS framework for the modern web.
+- [pasztor.at](https://github.com/janoszen/pasztor.at) - 
 - [papercss](https://github.com/papercss/papercss) - The Less Formal CSS Framework
 - [elixirschool](https://github.com/elixirschool/elixirschool) - Premier destination to learn and master the Elixir programming language
 - [documentation](https://github.com/codeship/documentation) - Documentation for Codeship CI & CD service
@@ -13155,7 +13155,7 @@
 - [hackernews-react-graphql](https://github.com/clintonwoo/hackernews-react-graphql) - Hacker News clone rewritten with universal JavaScript, using React and GraphQL.
 - [fast-style-transfer-deeplearnjs](https://github.com/reiinakano/fast-style-transfer-deeplearnjs) - Demo of in-browser Fast Neural Style Transfer with deeplearn.js library
 - [autorest](https://github.com/Azure/autorest) - OpenAPI (f.k.a Swagger) Specification code generator. Supports C#, PowerShell, Go, Java, Node.js, TypeScript, Python, Ruby
-- [graphql-playground](https://github.com/prisma-labs/graphql-playground) - 🎮  GraphQL IDE for better development workflows (GraphQL Subscriptions, interactive docs & collaboration)
+- [graphql-playground](https://github.com/graphql/graphql-playground) - 🎮  GraphQL IDE for better development workflows (GraphQL Subscriptions, interactive docs & collaboration)
 - [nebular](https://github.com/akveo/nebular) - :boom: Customizable Angular UI Library based on Eva Design System :new_moon_with_face::sparkles:Dark Mode
 - [upterm](https://github.com/railsware/upterm) - A terminal emulator for the 21st century.
 - [p-progress](https://github.com/sindresorhus/p-progress) - Create a promise that reports progress
