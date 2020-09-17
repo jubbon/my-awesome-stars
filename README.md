@@ -180,7 +180,6 @@
 - [gb-studio](https://github.com/chrismaltby/gb-studio) - A quick and easy to use drag and drop retro game creator for your favourite handheld video game system
 - [cJSON](https://github.com/DaveGamble/cJSON) - Ultralightweight JSON parser in ANSI C
 - [flow9](https://github.com/area9innovation/flow9) - Platform for safe, easy and productive programming of complex, multi-platform apps with a modern user interface
-- [DeepCamera](https://github.com/SharpAI/DeepCamera) - Protect your privacy, open source AI-powered video surveillance on IoT devices such as Raspberry Pi and Android, featuring face recognition, human shape recognition(ReID), etc. The world's first AutoML Deep Learning edge AI platform. No programming exp needed to train a new model for your privacy.
 - [Video-Editing-Automation](https://github.com/DevonCrawford/Video-Editing-Automation) - Toolkit of algorithms to automate the video editing process
 - [darknet](https://github.com/AlexeyAB/darknet) - YOLOv4 - Neural Networks for Object Detection (Windows and Linux version of Darknet )
 - [facil.io](https://github.com/boazsegev/facil.io) - Your high performance web application C framework
@@ -562,7 +561,7 @@
 - [taskflow](https://github.com/taskflow/taskflow) - Modern C++ Parallel Task Programming
 - [YouTokenToMe](https://github.com/VKCOM/YouTokenToMe) - Unsupervised text tokenizer focused on computational efficiency
 - [griddb](https://github.com/griddb/griddb) - GridDB is a next-generation open source database that makes time series IoT and big data fast,and easy.
-- [server](https://github.com/triton-inference-server/server) - The Triton Inference Server provides a cloud inferencing solution optimized for NVIDIA GPUs.
+- [server](https://github.com/triton-inference-server/server) - The Triton Inference Server provides an optimized cloud and edge inferencing solution.
 - [taichi](https://github.com/taichi-dev/taichi) - Productive & portable programming language for high-performance, sparse & differentiable computing on GPUs
 - [FICM](https://github.com/hellochick/FICM) - :video_game: [IJCAI'20][ICLR'19 Workshop] Flow-based Intrinsic Curiosity Module. Playing SuperMario with RL agent and FICM!
 - [cpp-cheat-sheet](https://github.com/gibsjose/cpp-cheat-sheet) - C++ Syntax, Data Structures, and Algorithms Cheat Sheet
@@ -590,6 +589,7 @@
 - [TerrainEngine-OpenGL](https://github.com/fede-vaccaro/TerrainEngine-OpenGL) - An OpenGL 4 and C++ program which renders a procedural scene.
 - [PSENet](https://github.com/whai362/PSENet) - 
 - [libfacedetection](https://github.com/ShiqiYu/libfacedetection) - An open source library for face detection in images. The face detection speed can reach 1000FPS.
+- [DeepCamera](https://github.com/SharpAI/DeepCamera) - Protect your privacy, open source AI-powered video surveillance on IoT devices such as Raspberry Pi and Android, featuring face recognition, human shape recognition(ReID), etc. The world's first AutoML Deep Learning edge AI platform. No programming exp needed to train a new model for your privacy.
 - [3Dpose_ssl](https://github.com/chanyn/3Dpose_ssl) - 3D Human Pose Machines with Self-supervised Learning
 - [intrinsic3d](https://github.com/NVlabs/intrinsic3d) - Intrinsic3D - High-Quality 3D Reconstruction by Joint Appearance and Geometry Optimization with Spatially-Varying Lighting (ICCV 2017)
 - [GAAS](https://github.com/generalized-intelligence/GAAS) - Generalized Aviation: Open source autonomous aviation software platform, designed for fully autonomous drones and flying cars.
@@ -986,6 +986,7 @@
 
 ## CMake 
 
+- [geometry-processing-introduction](https://github.com/alecjacobson/geometry-processing-introduction) - Introductory assignment for Geometry Processing course
 - [ck-caffe](https://github.com/dividiti/ck-caffe) - Collective Knowledge workflow for Caffe to automate installation across diverse platforms and to collaboratively evaluate and optimize Caffe-based workloads across diverse hardware, software and data sets (compilers, libraries, tools, models, inputs):
 
 ## CSS 
@@ -1034,7 +1035,6 @@
 - [service-fabric-mesh](https://github.com/Azure-Samples/service-fabric-mesh) - Samples repository for Azure Service Fabric Mesh
 - [conventionalcommits.org](https://github.com/conventional-commits/conventionalcommits.org) - The conventional commits specification
 - [restful-api-guidelines](https://github.com/zalando/restful-api-guidelines) - A model set of guidelines for RESTful APIs and Events, created by Zalando
-- [geometry-processing-introduction](https://github.com/alecjacobson/geometry-processing-introduction) - Introductory assignment for Geometry Processing course
 - [argon-design-system](https://github.com/creativetimofficial/argon-design-system) - Argon - Design System for Bootstrap 4 by Creative Tim
 - [CryptoAwesome](https://github.com/guisantos/CryptoAwesome) - The most complete cryptocurrency image library to be used in your project.
 - [chrome-vs-code](https://github.com/FabianLauer/chrome-vs-code) - A web browser integrated in VS Code editor tabs. :radioactive: experimental :radioactive:
@@ -1142,10 +1142,9 @@
 - [atom-seti-icons](https://github.com/wyze/atom-seti-icons) - The awesome icons provided by Seti UI theme.
 - [JSONFeed](https://github.com/manton/JSONFeed) - The JSONFeed.org website
 - [buttons](https://github.com/loup-brun/buttons) - A collection of CSS buttons.
-- [icheck](https://github.com/fronteed/icheck) - Highly customizable checkboxes and radio buttons (jQuery & Zepto)
+- [icheck](https://github.com/dargullin/icheck) - Highly customizable checkboxes and radio buttons (jQuery & Zepto)
 - [ebook-boilerplate](https://github.com/phodal/ebook-boilerplate) - A Markdown convert to Ebook :arrow_right: html、mobi、epub、pdf、rtf Template
 - [thunderbird-monterail](https://github.com/spymastermatt/thunderbird-monterail) - A set of themes for thunderbird inspired by a Monterail blog post
-- [sakura](https://github.com/oxalorg/sakura) - :cherry_blossom: a minimal css framework/theme.
 - [cs228-notes](https://github.com/ermongroup/cs228-notes) - Course notes for CS228: Probabilistic Graphical Models.
 - [workflow](https://github.com/deis/workflow) - The open source PaaS for Kubernetes.
 - [devportfolio](https://github.com/RyanFitzgerald/devportfolio) - A lightweight, customizable single-page personal portfolio website template built with JavaScript and Sass
@@ -1627,7 +1626,7 @@
 - [pipe-to-me](https://github.com/jpschroeder/pipe-to-me) - Stream data over http using curl.
 - [kraken](https://github.com/uber/kraken) - P2P Docker registry capable of distributing TBs of data in seconds
 - [astro](https://github.com/uber/astro) - Astro is a tool for managing multiple Terraform executions as a single command
-- [cortex](https://github.com/cortexlabs/cortex) - Build machine learning APIs
+- [cortex](https://github.com/cortexlabs/cortex) - Model serving infrastructure for developers
 - [cds](https://github.com/ovh/cds) - Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform
 - [k3s](https://github.com/rancher/k3s) - Lightweight Kubernetes
 - [docui](https://github.com/skanehira/docui) - TUI Client for Docker
@@ -2491,6 +2490,7 @@
 - [science_flask](https://github.com/danielhomola/science_flask) - ScienceFlask: an open-source template for scientific web-app development
 - [js-the-right-way](https://github.com/braziljs/js-the-right-way) - An easy-to-read, quick reference for JS best practices, accepted coding standards, and links around the Web
 - [ml-training-intro](https://github.com/amueller/ml-training-intro) - Materials for the "Introduction to Machine Learning" class
+- [sakura](https://github.com/oxalorg/sakura) - :cherry_blossom: a minimal css framework/theme.
 - [dotnet](https://github.com/microsoft/dotnet) - This repo is the official home of .NET on GitHub. It's a great starting point to find many .NET OSS projects from Microsoft and the community, including many that are part of the .NET Foundation.
 - [styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
 - [flaskex](https://github.com/anfederico/flaskex) - Simple flask example for quick prototypes and small applications
@@ -2939,7 +2939,7 @@
 - [maps-api-for-javascript-examples](https://github.com/heremaps/maps-api-for-javascript-examples) - Self-contained examples for Maps API for JavaScript v3.
 - [developer-blog](https://github.com/heremaps/developer-blog) - Examples and projects featured on the HERE developer blog.
 - [here-cli](https://github.com/heremaps/here-cli) - A command-line interface to work with HERE XYZ Hub and other HERE APIs
-- [javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (July 2020)
+- [javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (September 2020)
 - [aws-sdk-js](https://github.com/aws/aws-sdk-js) - AWS SDK for JavaScript in the browser and Node.js
 - [blockly](https://github.com/google/blockly) - The web-based visual programming editor.
 - [mc.js](https://github.com/ian13456/mc.js) - Open source Minecraft clone built with ThreeJS, ReactJS, GraphQL, and NodeJS.
@@ -4920,6 +4920,7 @@
 - [robot-surgery-segmentation](https://github.com/ternaus/robot-surgery-segmentation) - Wining solution and its improvement for MICCAI 2017 Robotic Instrument Segmentation Sub-Challenge
 - [detectorch](https://github.com/ignacio-rocco/detectorch) - Detectorch - detectron for PyTorch
 - [seldon-core](https://github.com/SeldonIO/seldon-core) - An MLOps framework to package, deploy, monitor and manage thousands of production machine learning models
+- [Quantum](https://github.com/microsoft/Quantum) - Microsoft Quantum Development Kit Samples
 - [PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) - Python sample codes for robotics algorithms.
 - [parallel-cell](https://github.com/kuk/parallel-cell) - 
 - [MovieSentimentClassification](https://github.com/kodiaklabs/MovieSentimentClassification) - A brief tutorial on NLP via sentiment classification, Jupyter notebooks, feature creation, and exploritory data analysis.
@@ -6405,7 +6406,7 @@
 - [deep-learning-papers](https://github.com/sbrugman/deep-learning-papers) - Papers about deep learning ordered by task, date. Current state-of-the-art papers are labelled.
 - [HeadlessBrowsers](https://github.com/dhamaniasad/HeadlessBrowsers) - A list of (almost) all headless web browsers in existence
 - [modern-cpp-features](https://github.com/AnthonyCalandra/modern-cpp-features) - A cheatsheet of modern C++ language and library features.
-- [MaterialDesign](https://github.com/Templarian/MaterialDesign) - ✒5400+ Material Design Icons from the Community
+- [MaterialDesign](https://github.com/Templarian/MaterialDesign) - ✒5600+ Material Design Icons from the Community
 - [GoDeeper](https://github.com/Miej/GoDeeper) - 
 - [react-redux-links](https://github.com/markerikson/react-redux-links) - Curated tutorial and resource links I've collected on React, Redux, ES6, and more
 - [awesome-nodejs-projects](https://github.com/sqreen/awesome-nodejs-projects) - Curated list of awesome open-source applications made with Node.js
@@ -6727,7 +6728,6 @@
 - [awesome-azure-learning](https://github.com/ddneves/awesome-azure-learning) - This repo includes plenty of references for Azure learning, especially for the Azure certs and Azure architecture, and any other learning materials e.g. security and automation topics.
 - [azure-docs](https://github.com/MicrosoftDocs/azure-docs) - Open source documentation of Microsoft Azure
 - [Azure-Sentinel](https://github.com/Azure/Azure-Sentinel) - Cloud-native SIEM for intelligent security analytics for your entire enterprise.
-- [Quantum](https://github.com/microsoft/Quantum) - Microsoft Quantum Development Kit Samples
 - [azure-quickstart-templates](https://github.com/Azure/azure-quickstart-templates) - Azure Quickstart Templates
 
 ## Processing 
@@ -8176,7 +8176,7 @@
 - [catt](https://github.com/skorokithakis/catt) - Cast All The Things allows you to send videos from many, many online sources to your Chromecast.
 - [semantic-segmentation-pytorch](https://github.com/CSAILVision/semantic-segmentation-pytorch) - Pytorch implementation for Semantic Segmentation/Scene Parsing on MIT ADE20K dataset
 - [monkey](https://github.com/guardicore/monkey) - Infection Monkey - An automated pentest tool
-- [scVI](https://github.com/YosefLab/scVI) - Deep generative modeling for single-cell omics data
+- [scvi-tools](https://github.com/YosefLab/scvi-tools) - Deep generative modeling for single-cell omics data
 - [gluon-nlp](https://github.com/dmlc/gluon-nlp) - NLP made easy
 - [Gitmails](https://github.com/giovanifss/Gitmails) - An information gathering tool to collect git commit emails in version control host services
 - [keras-yolo3](https://github.com/qqwweee/keras-yolo3) - A Keras implementation of YOLOv3 (Tensorflow backend)
@@ -8287,7 +8287,7 @@
 - [dotdotslash](https://github.com/jcesarstef/dotdotslash) - Search for Directory Traversal Vulnerabilities
 - [datastream.io](https://github.com/MentatInnovations/datastream.io) - An open-source framework for real-time anomaly detection using Python, ElasticSearch and Kibana
 - [iconf](https://github.com/adonisnafeh/iconf) - Simple method used to load configuration variables from different sources.
-- [heroku-platform](https://github.com/heroku-python/heroku-platform) - Heroku Platform API client for Python.
+- [heroku-platform](https://github.com/heroku-python/heroku-platform) - [DEPRECATED] Heroku Platform API client for Python.
 - [little-geocoder](https://github.com/littlecolumns/little-geocoder) - A tool to allow US addresses to be geocoded/georeferenced easily, without using Python or the command line or paid services or anything.
 - [cursor-tracking-css](https://github.com/zaytoun/cursor-tracking-css) - Tracking a cursor across a webpage using only CSS
 - [heroku-jupyterlab](https://github.com/heroku/heroku-jupyterlab) - An example of running JupyterLab on Heroku, with Amazon S3.
