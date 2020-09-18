@@ -92,6 +92,7 @@
   - [Swift](#swift)
   - [TSQL](#tsql)
   - [TeX](#tex)
+  - [Twig](#twig)
   - [TypeScript](#typescript)
   - [Vala](#vala)
   - [Vim script](#vim-script)
@@ -1082,6 +1083,7 @@
 - [site](https://github.com/learning-rust/site) - 🎓 Rust Programming Language Tutorials for Everyone!
 - [codeheat.org](https://github.com/fossasia/codeheat.org) - Codeheat Coding Contest Website https://codeheat.org
 - [lit](https://github.com/ajusa/lit) - World's smallest responsive 🔥 css framework (395 bytes)
+- [direction-reveal](https://github.com/NigelOToole/direction-reveal) - Direction aware content reveals via hover or tab on an element.
 - [SocialFish](https://github.com/UndeadSec/SocialFish) - Automated Phishing Tool & Information Collector
 - [epoch](https://github.com/dinkbit/epoch) - A simple but powerful Epoch converter
 - [micron](https://github.com/webkul/micron) - a [μ] microInteraction library built with CSS Animations and controlled by JavaScript Power
@@ -1222,7 +1224,6 @@
 - [DataScienceSpecialization.github.io](https://github.com/DataScienceSpecialization/DataScienceSpecialization.github.io) - http://DataScienceSpecialization.github.io
 - [You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) - CSS is powerful, you can do a lot of things without JS.
 - [jekyll-now](https://github.com/barryclark/jekyll-now) - Build a Jekyll blog in minutes, without touching the command line.
-- [calcite-maps](https://github.com/Esri/calcite-maps) - A Bootstrap theme for designing, styling and creating modern map apps.
 - [pavilion](https://github.com/getpavilion/pavilion) - Pavilion CSS Framework. A solid starting point without the bloat.
 - [frontend-hyperpolyglot](https://github.com/jeffcarp/frontend-hyperpolyglot) - The same operations in React, Angular 1&2, Ember, Polymer, Vue, and Riot
 - [Hover](https://github.com/IanLunn/Hover) - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS.
@@ -2204,7 +2205,6 @@
 - [awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [repo-badges](https://github.com/dwyl/repo-badges) - :star: Use repo badges (build passing, coverage, etc) in your readme/markdown file to signal code quality in a project.
 - [kubelabs](https://github.com/collabnix/kubelabs) - Kubernetes - Beginners | Intermediate | Advanced
-- [tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 700 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [russe](https://github.com/nlpub/russe) - RUSSE: Russian Semantic Evaluation.
 - [pytorch-for-numpy-users](https://github.com/wkentaro/pytorch-for-numpy-users) - PyTorch for Numpy users. https://pytorch-for-numpy-users.wkentaro.com
 - [github-markdown-css](https://github.com/sindresorhus/github-markdown-css) - The minimal amount of CSS to replicate the GitHub Markdown style
@@ -2389,8 +2389,6 @@
 - [proposal-optional-chaining](https://github.com/tc39/proposal-optional-chaining) - 
 - [github-trending-repos](https://github.com/vitalets/github-trending-repos) - Track GitHub trending repositories in your favorite programming language by native GitHub notifications!
 - [kv-storage](https://github.com/WICG/kv-storage) - A proposal for an async key/value storage API for the web
-- [direction-reveal](https://github.com/NigelOToole/direction-reveal) - Direction aware content reveals via hover or tab on an element.
-- [web-profiler-bundle](https://github.com/symfony/web-profiler-bundle) - The WebProfilerBundle provides detailed technical information about each request execution and displays it in both the web debug toolbar and the profiler.
 - [website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:
 - [rstudio-conf](https://github.com/rstudio/rstudio-conf) - Materials for rstudio::conf
 - [cssInjection](https://github.com/dxa4481/cssInjection) - Stealing CSRF tokens with CSS injection (without iFrames)
@@ -2871,6 +2869,7 @@
 - [jsdoc](https://github.com/jsdoc/jsdoc) - An API documentation generator for JavaScript.
 - [vscode-plugin](https://github.com/kiteco/vscode-plugin) - Kite Autocomplete Plugin for Visual Studio Code
 - [express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
+- [tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 700 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [lime](https://github.com/marcotcr/lime) - Lime: Explaining the predictions of any machine learning classifier
 - [botframework-sdk](https://github.com/microsoft/botframework-sdk) - Bot Framework provides the most comprehensive experience for building conversation applications.
 - [uuid](https://github.com/lukeed/uuid) - A tiny (230B), fast, and cryptographically secure UUID (V4) generator for Node and the browser
@@ -2921,7 +2920,7 @@
 - [api-platform](https://github.com/api-platform/api-platform) - REST and GraphQL framework to build modern API-driven projects (server-side and client-side)
 - [Hygieia](https://github.com/Hygieia/Hygieia) - CapitalOne  DevOps Dashboard
 - [Fomantic-UI](https://github.com/fomantic/Fomantic-UI) - Fomantic-UI is a community fork of Semantic-UI
-- [iptv](https://github.com/iptv-org/iptv) - Collection of 4000+ publicly available IPTV channels from all over the world
+- [iptv](https://github.com/iptv-org/iptv) - Collection of 5000+ publicly available IPTV channels from all over the world
 - [Mock](https://github.com/nuysoft/Mock) - A simulation data generator
 - [vk-mini-app-boilerplate](https://github.com/iSa1vatore/vk-mini-app-boilerplate) - Стартовый кит для создания сервиса на платформе VK Mini Apps с использованием React + Redux
 - [geojson.io](https://github.com/mapbox/geojson.io) - IMPORTANT: development of this project has been paused, see the README (fast, simple map creation)
@@ -4054,6 +4053,7 @@
 - [p5.js](https://github.com/processing/p5.js) - p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processing. http://twitter.com/p5xjs —
 - [p5.geolocation](https://github.com/bmoren/p5.geolocation) - a geolocation and geofencing library for p5.js
 - [Awesome-Unicode](https://github.com/Wisdom/Awesome-Unicode) - :joy: :ok_hand: A curated list of delightful Unicode tidbits, packages and resources.
+- [calcite-maps](https://github.com/Esri/calcite-maps) - A Bootstrap theme for designing, styling and creating modern map apps.
 - [speech-to-text-nodejs](https://github.com/watson-developer-cloud/speech-to-text-nodejs) - :microphone: Sample Node.js Application for the IBM Watson Speech to Text Service
 - [ng-material-floating-button](https://github.com/nobitagit/ng-material-floating-button) - Material design floating menu with action buttons implemented as an Angularjs directive.
 - [minidocs](https://github.com/freeman-lab/minidocs) - build a minimalist site for your documentation
@@ -4490,7 +4490,7 @@
 - [Pytorch_Tutorial](https://github.com/Tessellate-Imaging/Pytorch_Tutorial) - A set of jupyter notebooks on pytorch functions with examples
 - [Monk_Object_Detection](https://github.com/Tessellate-Imaging/Monk_Object_Detection) - A one-stop repository for low-code easily-installable object detection pipelines.
 - [Causality](https://github.com/DataForScience/Causality) - 
-- [fastbook](https://github.com/fastai/fastbook) - Draft of the fastai book
+- [fastbook](https://github.com/fastai/fastbook) - The fastai book, published as Jupyter Notebooks
 - [gym-trading](https://github.com/hackthemarket/gym-trading) - Environment for reinforcement-learning algorithmic trading models
 - [adaptnlp](https://github.com/Novetta/adaptnlp) - An easy to use Natural Language Processing library and framework for predicting, training, fine-tuning, and serving up state-of-the-art NLP models.
 - [first-order-model](https://github.com/AliaksandrSiarohin/first-order-model) - This repository contains the source code for the paper First Order Motion Model for Image Animation
@@ -5249,7 +5249,6 @@
 - [Tutorial-SoftWeightSharingForNNCompression](https://github.com/KarenUllrich/Tutorial-SoftWeightSharingForNNCompression) - A tutorial on 'Soft weight-sharing for Neural Network compression' published at ICLR2017
 - [SOMPY](https://github.com/sevamoo/SOMPY) - A Python Library for Self Organizing Map (SOM)
 - [neon_course](https://github.com/NervanaSystems/neon_course) - neon tutorials
-- [mlpractical](https://github.com/CSTR-Edinburgh/mlpractical) - Machine Learning Practical course repository
 - [how_to_do_math_for_deep_learning](https://github.com/llSourcell/how_to_do_math_for_deep_learning) - This is the code for "How to Do Math Easily - Intro to Deep Learning #4' by Siraj Raval on YouTube
 - [Pytorch-Tutorials](https://github.com/alexis-jacq/Pytorch-Tutorials) - Pytorch tutorials for Neural Style transfert
 - [WGAN-tensorflow](https://github.com/Zardinality/WGAN-tensorflow) - a tensorflow implementation of WGAN
@@ -7289,6 +7288,7 @@
 - [Towards-Realtime-MOT](https://github.com/Zhongdao/Towards-Realtime-MOT) - Joint Detection and Embedding for fast multi-object tracking
 - [RLBench](https://github.com/stepjam/RLBench) - A large-scale benchmark and learning environment.
 - [redqueen](https://github.com/RUB-SysSec/redqueen) - 
+- [streamlit](https://github.com/streamlit/streamlit) - Streamlit — The fastest way to build data apps in Python
 - [serverless-cat-facts](https://github.com/ryansb/serverless-cat-facts) - Distribute facts about cats without needing to run your own infrastructure
 - [realworldctf](https://github.com/phith0n/realworldctf) - My Real World CTF challenges
 - [learn2learn](https://github.com/learnables/learn2learn) - A PyTorch Library for Meta-learning Research
@@ -7710,7 +7710,7 @@
 - [MinaOTP-Shell](https://github.com/MinaOTP/MinaOTP-Shell) - TOTP authenticator implement as a terminal tool
 - [awesome-sentence-embedding](https://github.com/Separius/awesome-sentence-embedding) - A curated list of pretrained sentence and word embedding models
 - [faster-CTPN](https://github.com/hsddlz/faster-CTPN) - very fast CTPN
-- [mindsdb](https://github.com/mindsdb/mindsdb) - Machine Learning in one line of code
+- [mindsdb](https://github.com/mindsdb/mindsdb) - Predictive AI layer for existing databases.
 - [jax](https://github.com/google/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
 - [torchdiffeq](https://github.com/rtqichen/torchdiffeq) - Differentiable ODE solvers with full GPU support and O(1)-memory backpropagation.
 - [vaex](https://github.com/vaexio/vaex) - Out-of-Core DataFrames for Python, ML, visualize and explore big tabular data at a billion rows per second 🚀
@@ -12972,6 +12972,10 @@
 - [machine-learning-cheat-sheet](https://github.com/soulmachine/machine-learning-cheat-sheet) - Classical equations and diagrams in machine learning
 - [phd-thesis](https://github.com/glouppe/phd-thesis) - Repository of my thesis "Understanding Random Forests"
 
+## Twig 
+
+- [web-profiler-bundle](https://github.com/symfony/web-profiler-bundle) - The WebProfilerBundle provides detailed technical information about each request execution and displays it in both the web debug toolbar and the profiler.
+
 ## TypeScript 
 
 - [lit](https://github.com/PAIR-code/lit) - The Language Interpretability Tool: Interactively analyze NLP models for model understanding in an extensible and framework agnostic interface.
@@ -12995,7 +12999,6 @@
 - [cvat](https://github.com/openvinotoolkit/cvat) - Powerful and efficient Computer Vision Annotation Tool (CVAT)
 - [tfjs-models](https://github.com/tensorflow/tfjs-models) - Pretrained models for TensorFlow.js
 - [vue-next](https://github.com/vuejs/vue-next) - Repo for Vue 3.0 (currently in RC)
-- [streamlit](https://github.com/streamlit/streamlit) - Streamlit — The fastest way to build data apps in Python
 - [typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
 - [apollo-server](https://github.com/apollographql/apollo-server) - 🌍 GraphQL server for Express, Connect, Hapi, Koa and more
 - [typescript-action](https://github.com/actions/typescript-action) - Create a TypeScript Action with tests, linting, workflow, publishing, and versioning
