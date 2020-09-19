@@ -89,6 +89,7 @@
   - [Smarty](#smarty)
   - [Solidity](#solidity)
   - [Starlark](#starlark)
+  - [Stylus](#stylus)
   - [Swift](#swift)
   - [TSQL](#tsql)
   - [TeX](#tex)
@@ -798,7 +799,7 @@
 - [ORB_SLAM2](https://github.com/raulmur/ORB_SLAM2) - Real-Time SLAM for Monocular, Stereo and RGB-D Cameras, with Loop Detection and Relocalization Capabilities
 - [pilotguru](https://github.com/waiwnf/pilotguru) - Gather training data for training a self-driving car with just a smartphone.
 - [NeoGPS](https://github.com/SlashDevin/NeoGPS) - NMEA and ublox GPS parser for Arduino, configurable to use as few as 10 bytes of RAM
-- [ComputeLibrary](https://github.com/ARM-software/ComputeLibrary) - The ARM Computer Vision and Machine Learning library is a set of functions optimised for both ARM CPUs and GPUs using SIMD technologies.
+- [ComputeLibrary](https://github.com/ARM-software/ComputeLibrary) - The Compute Library is a set of computer vision and machine learning functions optimised for both Arm CPUs and GPUs using SIMD technologies.
 - [httpflow](https://github.com/six-ddc/httpflow) - A command line utility helps to capture and dump HTTP stream
 - [RedisDesktopManager](https://github.com/uglide/RedisDesktopManager) - :wrench: Cross-platform GUI management tool for Redis
 - [muon](https://github.com/brave/muon) - [DEPRECATED] Build browsers and browser like applications with HTML, CSS, and JavaScript
@@ -1080,14 +1081,12 @@
 - [Fork-Awesome](https://github.com/ForkAwesome/Fork-Awesome) - A fork of the iconic font and CSS toolkit
 - [serverboards](https://github.com/serverboards/serverboards) - Serverboards is a microservices based service monitoring, alerting and management system.
 - [CSS-Keylogging](https://github.com/maxchehab/CSS-Keylogging) - Chrome extension and Express server that exploits keylogging abilities of CSS.
-- [site](https://github.com/learning-rust/site) - 🎓 Rust Programming Language Tutorials for Everyone!
 - [codeheat.org](https://github.com/fossasia/codeheat.org) - Codeheat Coding Contest Website https://codeheat.org
 - [lit](https://github.com/ajusa/lit) - World's smallest responsive 🔥 css framework (395 bytes)
 - [direction-reveal](https://github.com/NigelOToole/direction-reveal) - Direction aware content reveals via hover or tab on an element.
 - [SocialFish](https://github.com/UndeadSec/SocialFish) - Automated Phishing Tool & Information Collector
 - [epoch](https://github.com/dinkbit/epoch) - A simple but powerful Epoch converter
 - [micron](https://github.com/webkul/micron) - a [μ] microInteraction library built with CSS Animations and controlled by JavaScript Power
-- [hacker101](https://github.com/Hacker0x01/hacker101) - Source code for Hacker101.com - a free online web and mobile security class.
 - [CrookedStyleSheets](https://github.com/jbtronics/CrookedStyleSheets) - Webpage tracking only using CSS (and no JS)
 - [startbootstrap-coming-soon](https://github.com/StartBootstrap/startbootstrap-coming-soon) - A coming soon theme with a video background for Bootstrap 4
 - [VueTheme](https://github.com/rtCamp/VueTheme) - WordPress theme using Rest API and Vue.js
@@ -3428,7 +3427,7 @@
 - [sequelize](https://github.com/sequelize/sequelize) - An easy-to-use multi SQL dialect ORM for Node.js
 - [react-app-rewired](https://github.com/timarney/react-app-rewired) - Override create-react-app webpack configs without ejecting
 - [abricotine](https://github.com/brrd/abricotine) - Markdown editor with inline preview
-- [gateway](https://github.com/mozilla-iot/gateway) - WebThings Gateway
+- [gateway](https://github.com/WebThingsIO/gateway) - WebThings Gateway
 - [perspective](https://github.com/finos/perspective) - Streaming pivot visualization via WebAssembly
 - [hygen](https://github.com/jondot/hygen) - The simple, fast, and scalable code generator that lives in your project.
 - [automerge](https://github.com/automerge/automerge) - A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.
@@ -11695,7 +11694,7 @@
 - [Pompem](https://github.com/rfunix/Pompem) - Find exploit tool
 - [PyUPC-EAN](https://github.com/GameMaker2k/PyUPC-EAN) - PyUPC-EAN is a barcode library/module for Python.
 - [configobj](https://github.com/DiffSK/configobj) - Python 3+ compatible port of the configobj library
-- [hue](https://github.com/cloudera/hue) - Open source SQL Query Assistant for Databases/Warehouses
+- [hue](https://github.com/cloudera/hue) - Hue Editor: Open source SQL Query Assistant for Databases/Warehouses
 - [gsh](https://github.com/gmjosack/gsh) - Pluggable version of Distributed Shell
 - [alerta](https://github.com/alerta/alerta) - Alerta monitoring system
 - [aiohttp](https://github.com/aio-libs/aiohttp) - Asynchronous HTTP client/server framework for asyncio and Python
@@ -12696,6 +12695,7 @@
 - [twofactorauth](https://github.com/2factorauth/twofactorauth) - List of sites with two factor auth support which includes SMS, email, phone calls, hardware, and software.
 - [Cirrus](https://github.com/Spiderpig86/Cirrus) - :cloud: The SCSS framework for the modern web.
 - [pasztor.at](https://github.com/janoszen/pasztor.at) - 
+- [hacker101](https://github.com/Hacker0x01/hacker101) - Source code for Hacker101.com - a free online web and mobile security class.
 - [papercss](https://github.com/papercss/papercss) - The Less Formal CSS Framework
 - [elixirschool](https://github.com/elixirschool/elixirschool) - Premier destination to learn and master the Elixir programming language
 - [documentation](https://github.com/codeship/documentation) - Documentation for Codeship CI & CD service
@@ -12918,6 +12918,10 @@
 - [googleapis](https://github.com/googleapis/googleapis) - Public interface definitions of Google APIs.
 - [colossus](https://github.com/lucperkins/colossus) - Colossus — An example microservice architecture for Kubernetes using Bazel, Go, Java, Docker, Kubernetes, Minikube, Gazelle, gRPC, Prometheus, Grafana, and more
 - [distroless](https://github.com/GoogleContainerTools/distroless) - 🥑  Language focused docker images, minus the operating system.
+
+## Stylus 
+
+- [site](https://github.com/learning-rust/site) - 🎓 Rust Programming Language Tutorials for Everyone!
 
 ## Swift 
 
