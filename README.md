@@ -1172,7 +1172,6 @@
 - [frontend](https://github.com/24ways/frontend) - Front-end component library for 24 ways. (2013-2019)
 - [JavaScript-Garden](https://github.com/BonsaiDen/JavaScript-Garden) - A collection of documentation about the most quirky parts of the JavaScript language.
 - [iziToast](https://github.com/marcelodolza/iziToast) - Elegant, responsive, flexible and lightweight notification plugin with no dependencies.
-- [card](https://github.com/jessepollak/card) - :credit_card: make your credit card form better in one line of code
 - [flex.css](https://github.com/lzxb/flex.css) - flex.css is declarative layout which is compatible with wechat, UC, webview and other main-stream mobile browser and surpports react, vue, angular.
 - [office-ui-fabric-js](https://github.com/OfficeDev/office-ui-fabric-js) - JavaScript components for building experiences for Office and Office 365.
 - [office-ui-fabric-core](https://github.com/OfficeDev/office-ui-fabric-core) - The front-end CSS framework for building experiences for Office and Office 365.
@@ -2394,6 +2393,7 @@
 - [proposal-partial-application](https://github.com/tc39/proposal-partial-application) - Proposal to add partial application to ECMAScript
 - [aws-inventory](https://github.com/devops-israel/aws-inventory) - AWS Inventory in a single HTML file using JS AWS-SDK & Bootstrap
 - [blockshell](https://github.com/daxeel/blockshell) - 🎉  Minimal Blockchain Learning CLI
+- [ansible-os-hardening](https://github.com/dev-sec/ansible-os-hardening) - This Ansible role provides numerous security-related configurations, providing all-round base protection.
 - [OpenCode-Collaborative](https://github.com/opencode18/OpenCode-Collaborative) - Best place to start Open Source and learn development.
 - [html](https://github.com/whatwg/html) - HTML Standard
 - [Udacity-Yearbook-Project](https://github.com/sgs006/Udacity-Yearbook-Project) - Optional Yearbook Collaboration for Udacity Front-End Scholarship Participants
@@ -12600,7 +12600,6 @@
 - [GTFS-viz](https://github.com/vasile/GTFS-viz) - Converts a GTFS dataset into a SQLite DB + GeoJSONs / KMLs
 - [transitland-datastore](https://github.com/transitland/transitland-datastore) - Transitland's centralized web service API for both querying and editing aggregated transit data from around the world
 - [ansible-elasticsearch](https://github.com/elastic/ansible-elasticsearch) - Ansible playbook for Elasticsearch
-- [ansible-os-hardening](https://github.com/dev-sec/ansible-os-hardening) - This Ansible role provides numerous security-related configurations, providing all-round base protection.
 - [loghouse](https://github.com/flant/loghouse) - Ready to use log management solution for Kubernetes storing data in ClickHouse and providing web UI.
 - [tf-idf-similarity](https://github.com/jpmckinney/tf-idf-similarity) - Ruby gem to calculate the similarity between texts using tf*idf
 - [decisiontree](https://github.com/igrigorik/decisiontree) - ID3-based implementation of the ML Decision Tree algorithm
@@ -12699,6 +12698,7 @@
 - [papercss](https://github.com/papercss/papercss) - The Less Formal CSS Framework
 - [elixirschool](https://github.com/elixirschool/elixirschool) - Premier destination to learn and master the Elixir programming language
 - [documentation](https://github.com/codeship/documentation) - Documentation for Codeship CI & CD service
+- [card](https://github.com/jessepollak/card) - :credit_card: make your credit card form better in one line of code
 - [grav-plugin-admin](https://github.com/getgrav/grav-plugin-admin) - Grav Admin Plugin
 - [lightgallery.js](https://github.com/sachinchoolur/lightgallery.js) - Full featured JavaScript image & video gallery. No dependencies
 - [uswds](https://github.com/uswds/uswds) - The U.S. Web Design System helps the federal government build fast, accessible, mobile-friendly websites.
@@ -13002,7 +13002,7 @@
 - [gistpad](https://github.com/vsls-contrib/gistpad) - VS Code extension for managing and sharing code snippets, notes and interactive samples using GitHub Gists
 - [cvat](https://github.com/openvinotoolkit/cvat) - Powerful and efficient Computer Vision Annotation Tool (CVAT)
 - [tfjs-models](https://github.com/tensorflow/tfjs-models) - Pretrained models for TensorFlow.js
-- [vue-next](https://github.com/vuejs/vue-next) - Repo for Vue 3.0 (currently in RC)
+- [vue-next](https://github.com/vuejs/vue-next) - Repo for Vue 3.0
 - [typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
 - [apollo-server](https://github.com/apollographql/apollo-server) - 🌍 GraphQL server for Express, Connect, Hapi, Koa and more
 - [typescript-action](https://github.com/actions/typescript-action) - Create a TypeScript Action with tests, linting, workflow, publishing, and versioning
@@ -13299,7 +13299,7 @@
 - [massCode](https://github.com/antonreshetov/massCode) - A free and open source code snippets manager for developers.
 - [vue-ctk-date-time-picker](https://github.com/chronotruck/vue-ctk-date-time-picker) - VueJS component to select dates & time, including a range mode
 - [vue-indoor](https://github.com/mudin/vue-indoor) - VueJS wrapper for indoorjs
-- [hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 A free, fast and beautiful API request builder used by 75k+ developers. https://hoppscotch.io
+- [hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 A free, fast and beautiful API request builder used by 80k+ developers. https://hoppscotch.io
 - [Scriptis](https://github.com/WeBankFinTech/Scriptis) - Scriptis is for interactive data analysis with script development(SQL, Pyspark, HiveQL), task submission(Spark, Hive), UDF, function, resource management and intelligent diagnosis.
 - [Scout](https://github.com/tevora-threat/Scout) - Surveillance Detection Scout: Your Lookout on Autopilot
 - [DynamoDb-GUI-Client](https://github.com/Arattian/DynamoDb-GUI-Client) - DynamoDb GUI Client
