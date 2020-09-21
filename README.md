@@ -1035,7 +1035,6 @@
 - [hugoDocs](https://github.com/gohugoio/hugoDocs) - The source for https://gohugo.io/
 - [theme-kit](https://github.com/HackerThemes/theme-kit) - A starter project for making Bootstrap 4 themes with Gulp and Sass
 - [service-fabric-mesh](https://github.com/Azure-Samples/service-fabric-mesh) - Samples repository for Azure Service Fabric Mesh
-- [conventionalcommits.org](https://github.com/conventional-commits/conventionalcommits.org) - The conventional commits specification
 - [restful-api-guidelines](https://github.com/zalando/restful-api-guidelines) - A model set of guidelines for RESTful APIs and Events, created by Zalando
 - [argon-design-system](https://github.com/creativetimofficial/argon-design-system) - Argon - Design System for Bootstrap 4 by Creative Tim
 - [CryptoAwesome](https://github.com/guisantos/CryptoAwesome) - The most complete cryptocurrency image library to be used in your project.
@@ -1182,7 +1181,7 @@
 - [tabula](https://github.com/tabulapdf/tabula) - Tabula is a tool for liberating data tables trapped inside PDF files
 - [startbootstrap-new-age](https://github.com/StartBootstrap/startbootstrap-new-age) - A web app landing page theme created by Start Bootstrap
 - [iconoo](https://github.com/qieguo2016/iconoo) - A Flexible Pure CSS Icon Pack! One Tag One Icon! https://qieguo2016.github.io/iconoo/
-- [monokai-seti](https://github.com/importjake/monokai-seti) - This theme is no longer maintained. If you want to make any changes please fork
+- [monokai-seti](https://github.com/schm1ty1/monokai-seti) - This theme is no longer maintained. If you want to make any changes please fork
 - [tomorrow-theme](https://github.com/chriskempson/tomorrow-theme) - Tomorrow Theme now lives on at https://github.com/chriskempson/base16
 - [useful.ly](https://github.com/tmoreton/useful.ly) - useful.ly Flexbox-Based CSS Framework
 - [materialette](https://github.com/mike-schultz/materialette) - Materialette - A material design color palette
@@ -2289,7 +2288,6 @@
 - [vscode](https://github.com/DankNeon/vscode) - A danker, more neon theme for VS Code
 - [python](https://github.com/Show-Me-the-Code/python) - Show Me the Code Python version.
 - [kubernetes-failure-stories](https://github.com/hjacobs/kubernetes-failure-stories) - Compilation of public failure/horror stories related to Kubernetes
-- [typedoc](https://github.com/TypeStrong/typedoc) - Documentation generator for TypeScript projects.
 - [build-your-own-mint](https://github.com/yyx990803/build-your-own-mint) - Build your own personal finance analytics using Plaid, Google Sheets and CircleCI.
 - [apidoc](https://github.com/apidoc/apidoc) - RESTful web API Documentation Generator.
 - [opencvjs](https://github.com/haoking/opencvjs) - Complete opencvjs (With the lastest OpenCV 4.0.0+)
@@ -3358,7 +3356,7 @@
 - [Leaflet.MovingMarker](https://github.com/ewoken/Leaflet.MovingMarker) - A Leaflet plug-in to create moving marker
 - [gtfspy-webviz](https://github.com/CxAalto/gtfspy-webviz) - Interactive tools for GTFS data visualization and analysis
 - [transport-tracker](https://github.com/googlemaps/transport-tracker) - Applications for tracking moving assets on a live map
-- [analysis-ui](https://github.com/conveyal/analysis-ui) - Conveyal's interface for creating and analyzing transportation scenarios.
+- [analysis-ui](https://github.com/conveyal/analysis-ui) - Model and analyze transport scenarios.
 - [busrouter-sg](https://github.com/cheeaun/busrouter-sg) - BusRouter SG: Singapore Bus Routes Explorer
 - [modeify](https://github.com/conveyal/modeify) - Deliver personalized commute information to travelers.
 - [transitive.js](https://github.com/conveyal/transitive.js) - Transit data visualization
@@ -3897,7 +3895,7 @@
 - [traquer](https://github.com/nenadg/traquer) - Records and reproduces user's in-page behavior
 - [webpack-bundle-analyzer](https://github.com/webpack-contrib/webpack-bundle-analyzer) - Webpack plugin and CLI utility that represents bundle content as convenient interactive zoomable treemap
 - [skatejs](https://github.com/skatejs/skatejs) - Effortless custom elements powered by modern view libraries.
-- [portainer](https://github.com/portainer/portainer) - Making Docker management easy.
+- [portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 - [axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
 - [deepteach](https://github.com/mldbai/deepteach) - DeepTeach - the Interactive Deep Image Classifier Builder
 - [vue-video-player](https://github.com/surmon-china/vue-video-player) - 🎞 @videojs component for @vuejs
@@ -9986,7 +9984,7 @@
 - [tmuxomatic](https://github.com/oxidane/tmuxomatic) - Intelligent tmux session management
 - [you-dont-know-node](https://github.com/azat-co/you-dont-know-node) - You Don't Know Node.js
 - [pysparnn](https://github.com/facebookresearch/pysparnn) - Approximate Nearest Neighbor Search for Sparse Data in Python!
-- [tableschema-pandas-py](https://github.com/frictionlessdata/tableschema-pandas-py) - Generate Pandas frames, load and extract data, based on JSON Table Schema descriptors.
+- [datapackage-pipelines-pandas-driver](https://github.com/frictionlessdata/datapackage-pipelines-pandas-driver) - Generate Pandas frames, load and extract data, based on JSON Table Schema descriptors.
 - [Open-Browser](https://github.com/EricsonWillians/Open-Browser) - A web browser designed to be open, minimal and fast.
 - [DockerDjangoRest](https://github.com/SykoTheKiD/DockerDjangoRest) - A Docker setup for a Django REST API with Travis CI support
 - [Stegano](https://github.com/cedricbonhomme/Stegano) - A pure Python steganography module.
@@ -12690,6 +12688,7 @@
 ## SCSS 
 
 - [website](https://github.com/flutter/website) - Flutter web site
+- [conventionalcommits.org](https://github.com/conventional-commits/conventionalcommits.org) - The conventional commits specification
 - [vapid](https://github.com/vapid/vapid) - Vapid is an intentionally simple content management system built on the idea that you can create a custom dashboard without ever leaving the HTML.
 - [twofactorauth](https://github.com/2factorauth/twofactorauth) - List of sites with two factor auth support which includes SMS, email, phone calls, hardware, and software.
 - [Cirrus](https://github.com/Spiderpig86/Cirrus) - :cloud: The SCSS framework for the modern web.
@@ -13049,6 +13048,7 @@
 - [functional-typescript](https://github.com/transitive-bullshit/functional-typescript) - TypeScript standard for rock solid serverless functions.
 - [vscode-browser-preview](https://github.com/auchenberg/vscode-browser-preview) - A real browser preview inside your editor that you can debug.
 - [TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
+- [typedoc](https://github.com/TypeStrong/typedoc) - Documentation generator for TypeScript projects.
 - [vscode-gitlens](https://github.com/eamodio/vscode-gitlens) - Supercharge the Git capabilities built into Visual Studio Code — Visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more
 - [noty](https://github.com/fabiospampinato/noty) - Autosaving sticky note with support for multiple notes without needing multiple windows.
 - [rrweb](https://github.com/rrweb-io/rrweb) - record and replay the web
