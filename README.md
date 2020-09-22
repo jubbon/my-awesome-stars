@@ -1133,7 +1133,6 @@
 - [devicon](https://github.com/devicons/devicon) - Set of icons representing programming languages, designing & development tools
 - [owasp-summit-2017](https://github.com/OWASP/owasp-summit-2017) - Content for OWASP Summit 2017 site
 - [js-mythbusters](https://github.com/Kikobeats/js-mythbusters) - :ghost: STHAP js, where is my perfomance?
-- [TypeScript-Node-Starter](https://github.com/microsoft/TypeScript-Node-Starter) - A reference example for TypeScript and Node with a detailed README describing how to use the two together.
 - [now-ui-kit](https://github.com/creativetimofficial/now-ui-kit) - Now UI Kit Bootstrap 4 - Designed by Invision. Coded by Creative Tim
 - [serverless-stack-com](https://github.com/AnomalyInnovations/serverless-stack-com) - Serverless Stack is an open source guide for building and deploying full-stack apps using Serverless and React on AWS.
 - [jdm](https://github.com/jdm-contrib/jdm) - A directory of direct links to delete your account from web services.
@@ -1545,7 +1544,7 @@
 - [godog](https://github.com/cucumber/godog) - Cucumber for golang
 - [aws-vault](https://github.com/99designs/aws-vault) - A vault for securely storing and accessing AWS credentials in development environments
 - [go-gitlab](https://github.com/xanzy/go-gitlab) - A GitLab API client enabling Go programs to interact with GitLab in a simple and uniform way
-- [micro](https://github.com/micro/micro) - Micro is a framework for cloud native development
+- [micro](https://github.com/micro/micro) - Micro is a framework for cloud services development
 - [go-github](https://github.com/google/go-github) - Go library for accessing the GitHub API
 - [nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
 - [migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
@@ -2866,7 +2865,7 @@
 - [jsdoc](https://github.com/jsdoc/jsdoc) - An API documentation generator for JavaScript.
 - [vscode-plugin](https://github.com/kiteco/vscode-plugin) - Kite Autocomplete Plugin for Visual Studio Code
 - [express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
-- [tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 700 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 750 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [lime](https://github.com/marcotcr/lime) - Lime: Explaining the predictions of any machine learning classifier
 - [botframework-sdk](https://github.com/microsoft/botframework-sdk) - Bot Framework provides the most comprehensive experience for building conversation applications.
 - [uuid](https://github.com/lukeed/uuid) - A tiny (230B), fast, and cryptographically secure UUID (V4) generator for Node and the browser
@@ -4319,6 +4318,7 @@
 - [angular-doc](https://github.com/AngularjsRUS/angular-doc) - Русская документация по Angulajs
 - [vega](https://github.com/vega/vega) - A visualization grammar.
 - [open-in-nbviewer](https://github.com/jiffyclub/open-in-nbviewer) - Easily open your current page in nbviewer
+- [ZeroNet](https://github.com/HelloZeroNet/ZeroNet) - ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network
 - [lightning](https://github.com/lightning-viz/lightning) - Data Visualization Server
 - [tmpnb](https://github.com/jupyter/tmpnb) - Creates temporary Jupyter Notebook servers using Docker containers. [DEPRECATED - See BinderHub project]
 - [jam-py](https://github.com/jam-py/jam-py) - Jam.py is an event-driven framework for the development of database applications with a Web interface.
@@ -4410,7 +4410,7 @@
 - [Clustering.jl](https://github.com/JuliaStats/Clustering.jl) - A Julia package for data clustering
 - [pythonidae](https://github.com/svaksha/pythonidae) - Curated decibans of scientific programming resources in Python.
 - [IJulia.jl](https://github.com/JuliaLang/IJulia.jl) - Julia kernel for Jupyter
-- [julia](https://github.com/JuliaLang/julia) - The Julia Language: A fresh approach to technical computing.
+- [julia](https://github.com/JuliaLang/julia) - The Julia Programming Language
 
 ## Jupyter Notebook 
 
@@ -5353,6 +5353,7 @@
 - [numerai](https://github.com/jimfleming/numerai) - Code from my experiments on Numerai
 - [TensorFace](https://github.com/AKSHAYUBHAT/TensorFace) - This repo is deprecated, please use Deep Video Analytics which implements face recognition using TensorFlow and Facenet.
 - [theano-tutorial](https://github.com/craffel/theano-tutorial) - A collection of tutorials on neural networks, using Theano
+- [ML_course](https://github.com/epfml/ML_course) - EPFL Machine Learning Course, Fall 2019
 - [ssd-plate_detection](https://github.com/hyh21521038/ssd-plate_detection) - SSD-based  plate detection
 - [MIPT_Data_Mining_In_Action_2016](https://github.com/vkantor/MIPT_Data_Mining_In_Action_2016) - "Data Mining in Action Course", Moscow Institute of Physics and Technologies
 - [sklearn-bayes](https://github.com/AmazaspShumik/sklearn-bayes) - Python package for Bayesian Machine Learning with scikit-learn API
@@ -5673,7 +5674,7 @@
 
 - [awesome-django](https://github.com/wsvincent/awesome-django) - A curated list of awesome things related to Django
 - [docker-serverless](https://github.com/amaysim-au/docker-serverless) - Docker image containing NodeJS, Serverless Framework and Yarn.
-- [change-password-url](https://github.com/WICG/change-password-url) - A Well-Known URL for Changing Passwords
+- [webappsec-change-password-url](https://github.com/w3c/webappsec-change-password-url) - A Well-Known URL for Changing Passwords
 - [graphpipe](https://github.com/oracle/graphpipe) - Machine Learning Model Deployment Made Simple
 - [jupyter-docker-stacks](https://github.com/gifford-lab/jupyter-docker-stacks) - Opinionated stacks of ready-to-run Jupyter applications in Docker.  Forked to add GPU capabilities.
 - [full-speed-python](https://github.com/joaoventura/full-speed-python) - Full Speed Python: a book for self-learners
@@ -5704,7 +5705,7 @@
 
 ## Nim 
 
-- [pipelines](https://github.com/calebwin/pipelines) - Pipelines is a language for high-level data analysis.
+- [pipelines](https://github.com/calebwin/pipelines) - An experimental programming language for data flow
 
 ## OCaml 
 
@@ -6299,7 +6300,6 @@
 - [playing-the-internship-game](https://github.com/evykassirer/playing-the-internship-game) - the rules, tips, and tricks I've learned on how to approach tech internships
 - [guide](https://github.com/hobby-kube/guide) - Kubernetes clusters for the hobbyist.
 - [awesome-indie](https://github.com/mezod/awesome-indie) - Resources for independent developers to make money
-- [learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
 - [awesome-checker-services](https://github.com/Brunty/awesome-checker-services) - ✅ List of links to the various checkers out there on the web for sites, domains, security etc.
 - [trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
 - [celery-tasks-checklist](https://github.com/vintasoftware/celery-tasks-checklist) - Useful checklist for building great Celery tasks.
@@ -6753,6 +6753,7 @@
 
 ## Python 
 
+- [gpt-2](https://github.com/nshepperd/gpt-2) - Code for the paper "Language Models are Unsupervised Multitask Learners"
 - [faiss-wheels](https://github.com/kyamagu/faiss-wheels) - Unofficial faiss wheel builder
 - [faiss-server](https://github.com/daangn/faiss-server) - faiss similarity search server
 - [libra](https://github.com/Palashio/libra) - Ergonomic machine learning for everyone.
@@ -9699,7 +9700,7 @@
 - [ck-tensorflow](https://github.com/ctuning/ck-tensorflow) - Collective Knowledge components for TensorFlow (code, data sets, models, packages, workflows):
 - [python-web-pdb](https://github.com/romanvm/python-web-pdb) - Web-based remote UI for Python's PDB debugger
 - [ck-autotuning](https://github.com/ctuning/ck-autotuning) - CK automation actions to let users implement portable, customizable and reusable program workflows for reproducible, collaborative and multi-objective benchmarking, optimization and SW/HW co-design:
-- [ck](https://github.com/ctuning/ck) - Collective Knowledge framework (CK) helps to organize any software project as a database of reusable components with common automation actions and extensible meta descriptions based on FAIR principles (findability, accessibility, interoperability, and reusability). See real-world use cases from Arm, IBM, General Motors, MLPerf, RPi, and ACM:
+- [ck](https://github.com/ctuning/ck) - Collective Knowledge framework (CK) helps to organize any software project as a database of reusable components with common automation actions and extensible meta descriptions based on FAIR principles (findability, accessibility, interoperability, and reusability). See real-world use cases from Arm, General Motors, IBM, RPi, ACM, and MLPerf:
 - [deconvfaces](https://github.com/somewacko/deconvfaces) - Generating faces with deconvolution networks
 - [whereami](https://github.com/kootenpv/whereami) - Uses WiFi signals :signal_strength: and machine learning to predict where you are
 - [dataset](https://github.com/openimages/dataset) - The Open Images dataset
@@ -11157,7 +11158,6 @@
 - [spaCy](https://github.com/explosion/spaCy) - 💫 Industrial-strength Natural Language Processing (NLP) with Python and Cython
 - [pytimecop](https://github.com/bluekelp/pytimecop) - A port of the most excellent TimeCop Ruby Gem for Python
 - [beeswithmachineguns](https://github.com/newsapps/beeswithmachineguns) - A utility for arming (creating) many bees (micro EC2 instances) to attack (load test) targets (web applications).
-- [ZeroNet](https://github.com/HelloZeroNet/ZeroNet) - ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network
 - [rdbms-subsetter](https://github.com/18F/rdbms-subsetter) - Generates a subset of a relational database that respects foreign key constraints
 - [ph-slack](https://github.com/psjay/ph-slack) - Phabricator Slack Notification integration.
 - [neo4j-flask](https://github.com/nicolewhite/neo4j-flask) - Flaskr Extended with Neo4j and Py2neo.
@@ -12665,7 +12665,7 @@
 - [RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [PyOxidizer](https://github.com/indygreg/PyOxidizer) - A modern Python application packaging and distribution tool
 - [libra](https://github.com/libra/libra) - Libra’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.
-- [emu](https://github.com/calebwin/emu) - Emu is a modern library for low-level, cross-platform GPGPU enabling on-device, reproducible, privacy-focused compute
+- [emu](https://github.com/calebwin/emu) - The write-once-run-anywhere GPGPU library for Rust
 - [wasmer-python](https://github.com/wasmerio/wasmer-python) - 🐍🕸 WebAssembly runtime for Python
 - [fluence](https://github.com/fluencelabs/fluence) - Peer-to-peer computing protocol and licensing system
 - [mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott!
@@ -12697,6 +12697,7 @@
 - [papercss](https://github.com/papercss/papercss) - The Less Formal CSS Framework
 - [elixirschool](https://github.com/elixirschool/elixirschool) - Premier destination to learn and master the Elixir programming language
 - [documentation](https://github.com/codeship/documentation) - Documentation for Codeship CI & CD service
+- [TypeScript-Node-Starter](https://github.com/microsoft/TypeScript-Node-Starter) - A reference example for TypeScript and Node with a detailed README describing how to use the two together.
 - [card](https://github.com/jessepollak/card) - :credit_card: make your credit card form better in one line of code
 - [grav-plugin-admin](https://github.com/getgrav/grav-plugin-admin) - Grav Admin Plugin
 - [lightgallery.js](https://github.com/sachinchoolur/lightgallery.js) - Full featured JavaScript image & video gallery. No dependencies
@@ -12963,7 +12964,6 @@
 - [happy-git-with-r](https://github.com/jennybc/happy-git-with-r) - Using Git and GitHub with R, Rstudio, and R Markdown
 - [gt-nlp-class](https://github.com/jacobeisenstein/gt-nlp-class) - Course materials for Georgia Tech CS 4650 and 7650, "Natural Language"
 - [tidy-text-mining](https://github.com/dgrtwo/tidy-text-mining) - Manuscript of the book "Tidy Text Mining with R" by Julia Silge and David Robinson
-- [ML_course](https://github.com/epfml/ML_course) - EPFL Machine Learning Course, Fall 2019
 - [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) - The most cited deep learning papers
 - [efficientR](https://github.com/csgillespie/efficientR) - Efficient R programming: a book
 - [depsy-research](https://github.com/ourresearch/depsy-research) - Documentation and research output for Depsy (see https://github.com/impactstory/depsy for source of Depsy itself)
@@ -13118,7 +13118,6 @@
 - [proton-native](https://github.com/kusti8/proton-native) - A React environment for cross platform desktop apps
 - [webamp](https://github.com/captbaritone/webamp) - Winamp 2 reimplemented for the browser
 - [rematch](https://github.com/rematch/rematch) - A Redux Framework
-- [explorer](https://github.com/ArkEcosystem/explorer) - A Blockchain Explorer for ARK using Vue.js and Tailwind CSS.
 - [pandora](https://github.com/midwayjs/pandora) - A Manageable, Measurable and Traceable Node.js Application Manager represented by Alibaba powered by TypeScript
 - [velocity](https://github.com/julianshapiro/velocity) - Accelerated JavaScript animation.
 - [scriptedforms](https://github.com/SimonBiggs/scriptedforms) - Quickly create live-update GUIs for Python packages using Markdown and simple HTML elements.
@@ -13184,7 +13183,8 @@
 - [NativeScript](https://github.com/NativeScript/NativeScript) - NativeScript empowers you to access native api's from JavaScript directly. Angular, Vue, Svelte, React and you name it compatible.
 - [caprine](https://github.com/sindresorhus/caprine) - Elegant Facebook Messenger desktop app
 - [desktop](https://github.com/desktop/desktop) - Simple collaboration from your desktop
-- [vx](https://github.com/hshoff/vx) - 🐯react + d3 = vx | visualization components
+- [visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components
+- [learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
 - [countUp.js](https://github.com/inorganik/countUp.js) - Animates a numerical value by counting to it
 - [electron-forge](https://github.com/electron-userland/electron-forge) - A complete tool for creating, publishing, and installing modern Electron applications
 - [vscodeJupyter](https://github.com/DonJayamanne/vscodeJupyter) - Jupyter for Visual Studio Code
@@ -13495,6 +13495,7 @@
 - [vue-prom](https://github.com/byteboomers/vue-prom) - Vue promise wrapper component
 - [vue-overdrive](https://github.com/mattrothenberg/vue-overdrive) - Super easy magic-move transitions for Vue apps
 - [vue2-leaflet-tracksymbol](https://github.com/ais-one/vue2-leaflet-tracksymbol) - tracksymbol plugin extension for vue2-leaflet (Updated to use vue2-leaflet v2.x.x)
+- [explorer](https://github.com/ArkEcosystem/explorer) - A Blockchain Explorer for ARK using Vue.js and Tailwind CSS.
 - [vue-date-picker](https://github.com/8788/vue-date-picker) - datepicker component for Vue 2.x
 - [simple-vue-validator](https://github.com/semisleep/simple-vue-validator) - A simple yet flexible validator library for vue.js
 - [vue-date-picker](https://github.com/ridewn/vue-date-picker) - A vue date picker component inspired by material design
