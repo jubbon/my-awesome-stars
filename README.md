@@ -38,6 +38,7 @@
   - [HCL](#hcl)
   - [HTML](#html)
   - [Hack](#hack)
+  - [Handlebars](#handlebars)
   - [Haskell](#haskell)
   - [Hy](#hy)
   - [Java](#java)
@@ -1044,7 +1045,6 @@
 - [ui-snippets-menu-animations](https://github.com/tamino-martinius/ui-snippets-menu-animations) - Four different menu animations for menu button toggle between hamburger, cross and back icon.
 - [advanced-css-course](https://github.com/jonasschmedtmann/advanced-css-course) - Starter files, final projects and FAQ for my Advanced CSS course
 - [vue-snippets](https://github.com/phanan/vue-snippets) - ✂️A collection of Vue snippets
-- [modern_portfolio](https://github.com/bradtraversy/modern_portfolio) - Responsive portfolio website
 - [teutonic-css](https://github.com/fortrabbit/teutonic-css) - A modern CSS framework — versatile, well documented.
 - [hands-on-ml-zh](https://github.com/apachecn/hands-on-ml-zh) - :book: [译] Sklearn 与 TensorFlow 机器学习实用指南【版权问题，网站已下线！！】
 - [shards-dashboard](https://github.com/DesignRevision/shards-dashboard) - 🔥A beautiful Bootstrap 4 admin dashboard templates pack.
@@ -1372,7 +1372,7 @@
 - [nvParse](https://github.com/antonmks/nvParse) - Fast, gpu-based CSV parser
 - [Alenka](https://github.com/antonmks/Alenka) - GPU database engine
 - [CUDA-CNN](https://github.com/zhxfl/CUDA-CNN) - CNN accelerated by cuda. Test on mnist and finilly get 99.76%
-- [cub](https://github.com/NVlabs/cub) - CUB is a flexible library of cooperative threadblock primitives and other utilities for CUDA kernel programming.
+- [cub](https://github.com/NVIDIA/cub) - Cooperative primitives for CUDA C++ kernel authors.
 - [cs344](https://github.com/udacity/cs344) - Introduction to Parallel Programming class code
 - [convnet](https://github.com/TorontoDeepLearning/convnet) - A GPU implementation of Convolutional Neural Nets in C++
 - [cuda-convnet2](https://github.com/akrizhevsky/cuda-convnet2) - Automatically exported from code.google.com/p/cuda-convnet2
@@ -2353,7 +2353,6 @@
 - [top-hat](https://github.com/ThemesGuide/top-hat) - Tophat Themes - Give Bootstrap a custom, stylish look 🎩
 - [stream-ui-kit](https://github.com/htmlstreamofficial/stream-ui-kit) - Stream - UI Kit. A beautiful Open Source Bootstrap 4 UI Kit under MIT license for better web!
 - [compat-table](https://github.com/kangax/compat-table) - ECMAScript 5/6/7 compatibility tables
-- [sing-app](https://github.com/flatlogic/sing-app) - 💥Free and open-source admin dashboard template built with Bootstrap 4 💥
 - [remark](https://github.com/gnab/remark) - A simple, in-browser, markdown-driven slideshow tool.
 - [css10](https://github.com/Kyubyong/css10) - CSS10: A Collection of Single Speaker Speech Datasets for 10 Languages
 - [hello](https://github.com/nat/hello) - 👋 Hello, GitHub
@@ -2697,6 +2696,10 @@
 
 - [fbctf](https://github.com/facebookarchive/fbctf) - Platform to host Capture the Flag competitions
 
+## Handlebars 
+
+- [sing-app](https://github.com/flatlogic/sing-app) - 💥Free and open-source admin dashboard template built with Bootstrap 4 💥
+
 ## Haskell 
 
 - [pandoc](https://github.com/jgm/pandoc) - Universal markup converter
@@ -2978,7 +2981,7 @@
 - [star-history](https://github.com/timqian/star-history) - The missing star history graph of github repos
 - [zdog](https://github.com/metafizzy/zdog) - Flat, round, designer-friendly pseudo-3D engine for canvas & SVG
 - [medium-to-own-blog](https://github.com/mathieudutour/medium-to-own-blog) - Switch from Medium to your own blog in a few minutes
-- [laue](https://github.com/QingWei-Li/laue) - 🖖📈 Modern charts for Vue.js
+- [laue](https://github.com/QingWei-Li/laue) - 🖖📈 Modern charts for Vue 2.0
 - [vue-meta](https://github.com/nuxt/vue-meta) - Manage HTML metadata in Vue.js components with SSR support
 - [screeps-ai](https://github.com/jerroydmoore/screeps-ai) - My personal Screeps AI repository
 - [youtube-dl-interactive](https://github.com/synox/youtube-dl-interactive) - OBSOLETE - Interactively select the quality and format for youtube-dl
@@ -3003,7 +3006,7 @@
 - [quickchart](https://github.com/typpo/quickchart) - Chart image and QR code web API
 - [tests-as-linear](https://github.com/lindeloev/tests-as-linear) - Common statistical tests are linear models (or: how to teach stats)
 - [form-backend-validation](https://github.com/spatie/form-backend-validation) - An easy way to validate forms using back end logic
-- [election-live](https://github.com/codeforthailand/election-live) - Live Scoreboard for Thai General Election 2562 (2019)
+- [election-live](https://github.com/electinth/election-live) - Live Scoreboard for Thai General Election 2562 (2019)
 - [send](https://github.com/mozilla/send) - Simple, private file sharing from the makers of Firefox
 - [lax.js](https://github.com/alexfoxy/lax.js) - Simple & light weight (3kb minified & zipped) vanilla javascript plugin to create smooth & beautiful animations when you scrolllll! Harness the power of the most intuitive interaction and make your websites come alive!
 - [yus](https://github.com/Webang/yus) - vue components based on VueJS
@@ -3317,7 +3320,7 @@
 - [vue-loader](https://github.com/vuejs/vue-loader) - 📦 Webpack loader for Vue.js components
 - [LiteApp](https://github.com/iqiyi/LiteApp) - LiteApp is a high performance mobile cross-platform implementation, The realization of cross-platform functionality is base on webview and provides different ideas and solutions for improve webview performance.
 - [tui.calendar](https://github.com/nhn/tui.calendar) - 🍞📅A JavaScript calendar that has everything you need.
-- [dayjs](https://github.com/iamkun/dayjs) - ⏰ Day.js 2KB immutable date library alternative to Moment.js with the same modern API
+- [dayjs](https://github.com/iamkun/dayjs) - ⏰ Day.js 2KB immutable date-time library alternative to Moment.js with the same modern API
 - [slugify](https://github.com/sindresorhus/slugify) - Slugify a string
 - [faster.js](https://github.com/vzhou842/faster.js) - faster.js is a Babel plugin that compiles idiomatic Javascript to faster, micro-optimized Javascript.
 - [glide](https://github.com/glidejs/glide) - A dependency-free JavaScript ES6 slider and carousel. It’s lightweight, flexible and fast. Designed to slide. No less, no more
@@ -7835,7 +7838,7 @@
 - [FAutoTest](https://github.com/Tencent/FAutoTest) - A UI automated testing framework for H5 and applets
 - [PANet](https://github.com/ShuLiu1993/PANet) - PANet for Instance Segmentation and Object Detection
 - [pytorch-flows](https://github.com/ikostrikov/pytorch-flows) - PyTorch implementations of algorithms for density estimation
-- [open_model_zoo](https://github.com/openvinotoolkit/open_model_zoo) - Pre-trained Deep Learning models and samples (high quality and extremely fast)
+- [open_model_zoo](https://github.com/openvinotoolkit/open_model_zoo) - Pre-trained Deep Learning models and demos (high quality and extremely fast)
 - [mmcv](https://github.com/open-mmlab/mmcv) - OpenMMLab Computer Vision Foundation
 - [CVE-2018-10933](https://github.com/blacknbunny/CVE-2018-10933) - Spawn to shell without any credentials by using CVE-2018-10933 (LibSSH)
 - [tencent-ml-images](https://github.com/Tencent/tencent-ml-images) - Largest multi-label image database; ResNet-101 model; 80.73% top-1 acc on ImageNet
@@ -12690,6 +12693,7 @@
 - [website](https://github.com/flutter/website) - Flutter web site
 - [conventionalcommits.org](https://github.com/conventional-commits/conventionalcommits.org) - The conventional commits specification
 - [vapid](https://github.com/vapid/vapid) - Vapid is an intentionally simple content management system built on the idea that you can create a custom dashboard without ever leaving the HTML.
+- [modern_portfolio](https://github.com/bradtraversy/modern_portfolio) - Responsive portfolio website
 - [twofactorauth](https://github.com/2factorauth/twofactorauth) - List of sites with two factor auth support which includes SMS, email, phone calls, hardware, and software.
 - [Cirrus](https://github.com/Spiderpig86/Cirrus) - :cloud: The SCSS framework for the modern web.
 - [pasztor.at](https://github.com/janoszen/pasztor.at) - 
