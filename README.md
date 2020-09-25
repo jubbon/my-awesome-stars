@@ -1053,7 +1053,6 @@
 - [repaintless](https://github.com/szynszyliszys/repaintless) - Library for fast CSS Animations
 - [boxicons](https://github.com/atisawd/boxicons) - High Quality web friendly icons
 - [phonegap_taxi](https://github.com/shrue348/phonegap_taxi) - phonegap vue js app
-- [uikit](https://github.com/uikit/uikit) - A lightweight and modular front-end framework for developing fast and powerful web interfaces
 - [fullstack-graphql](https://github.com/GraphQLCollege/fullstack-graphql) - A book to learn GraphQL with a hands-on approach
 - [microservices-architecture](https://github.com/gitpitch/microservices-architecture) - 
 - [microservices-architecture](https://github.com/jroper/microservices-architecture) - 
@@ -1544,7 +1543,7 @@
 - [godog](https://github.com/cucumber/godog) - Cucumber for golang
 - [aws-vault](https://github.com/99designs/aws-vault) - A vault for securely storing and accessing AWS credentials in development environments
 - [go-gitlab](https://github.com/xanzy/go-gitlab) - A GitLab API client enabling Go programs to interact with GitLab in a simple and uniform way
-- [micro](https://github.com/micro/micro) - Micro is a framework for cloud services development
+- [micro](https://github.com/micro/micro) - Micro is a platform for cloud services development
 - [go-github](https://github.com/google/go-github) - Go library for accessing the GitHub API
 - [nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
 - [migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
@@ -1623,7 +1622,7 @@
 - [pipe-to-me](https://github.com/jpschroeder/pipe-to-me) - Stream data over http using curl.
 - [kraken](https://github.com/uber/kraken) - P2P Docker registry capable of distributing TBs of data in seconds
 - [astro](https://github.com/uber/astro) - Astro is a tool for managing multiple Terraform executions as a single command
-- [cortex](https://github.com/cortexlabs/cortex) - Model serving infrastructure for developers
+- [cortex](https://github.com/cortexlabs/cortex) - Model serving for developers
 - [cds](https://github.com/ovh/cds) - Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform
 - [k3s](https://github.com/rancher/k3s) - Lightweight Kubernetes
 - [docui](https://github.com/skanehira/docui) - TUI Client for Docker
@@ -2102,7 +2101,7 @@
 - [chaosmonkey](https://github.com/Netflix/chaosmonkey) - Chaos Monkey is a resiliency tool that helps applications tolerate random instance failures.
 - [build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang) - A golang ebook intro how to build a web with golang
 - [gocui](https://github.com/jroimartin/gocui) - Minimalist Go package aimed at creating Console User Interfaces.
-- [traefik](https://github.com/traefik/traefik) - The Cloud Native Edge Router
+- [traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 - [gorram](https://github.com/natefinch/gorram) - It's like go run for any go function
 - [flynn](https://github.com/flynn/flynn) - A next generation open source platform as a service (PaaS)
 - [hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
@@ -2352,6 +2351,7 @@
 - [course-git-blog-project](https://github.com/udacity/course-git-blog-project) - Sample repo of a blog for the Git course
 - [top-hat](https://github.com/ThemesGuide/top-hat) - Tophat Themes - Give Bootstrap a custom, stylish look 🎩
 - [stream-ui-kit](https://github.com/htmlstreamofficial/stream-ui-kit) - Stream - UI Kit. A beautiful Open Source Bootstrap 4 UI Kit under MIT license for better web!
+- [uikit](https://github.com/uikit/uikit) - A lightweight and modular front-end framework for developing fast and powerful web interfaces
 - [compat-table](https://github.com/kangax/compat-table) - ECMAScript 5/6/7 compatibility tables
 - [remark](https://github.com/gnab/remark) - A simple, in-browser, markdown-driven slideshow tool.
 - [css10](https://github.com/Kyubyong/css10) - CSS10: A Collection of Single Speaker Speech Datasets for 10 Languages
@@ -3704,7 +3704,7 @@
 - [login-with](https://github.com/lipp/login-with) - Stateless login-with microservice for OAuth
 - [craftbeerpi](https://github.com/Manuel83/craftbeerpi) - Brew Controller
 - [project-guidelines](https://github.com/elsewhencode/project-guidelines) - A set of best practices for JavaScript projects
-- [incubator-echarts](https://github.com/apache/incubator-echarts) - A powerful, interactive charting and visualization library for browser
+- [incubator-echarts](https://github.com/apache/incubator-echarts) - A powerful, interactive charting and data visualization library for browser
 - [esprint](https://github.com/pinterest/esprint) - Fast eslint runner
 - [visualizing-git](https://github.com/git-school/visualizing-git) - :framed_picture: Visualize how common Git operations affect the commit graph
 - [chalk](https://github.com/chalk/chalk) - 🖍 Terminal string styling done right
@@ -4421,7 +4421,7 @@
 - [desafio-6-2020](https://github.com/maratonadev-br/desafio-6-2020) - 
 - [course20](https://github.com/fastai/course20) - Deep Learning for Coders, 2020, the website
 - [100-plus-Python-programming-exercises-extended](https://github.com/darkprinx/100-plus-Python-programming-exercises-extended) - 100+ python programming exercise problem discussed ,explained and solved in different ways
-- [Machine-Learning-for-Algorithmic-Trading-Second-Edition](https://github.com/PacktPublishing/Machine-Learning-for-Algorithmic-Trading-Second-Edition) - Machine Learning for Algorithmic Trading, Second Edition - published by Packt
+- [Machine-Learning-for-Algorithmic-Trading-Second-Edition_Original](https://github.com/PacktPublishing/Machine-Learning-for-Algorithmic-Trading-Second-Edition_Original) - Machine Learning for Algorithmic Trading, Second Edition - published by Packt
 - [fastcore](https://github.com/fastai/fastcore) - Python supercharged for the fastai library
 - [Deeplearning.ai-Natural-Language-Processing-Specialization](https://github.com/ijelliti/Deeplearning.ai-Natural-Language-Processing-Specialization) - This repository contains my full work and notes on Coursera's NLP Specialization (Natural Language Processing) taught by the instructor Younes Bensouda Mourri and Łukasz Kaiser offered by deeplearning.ai
 - [Getting-Things-Done-with-Pytorch](https://github.com/curiousily/Getting-Things-Done-with-Pytorch) - Jupyter Notebook tutorials on solving real-world problems with Machine Learning & Deep Learning using PyTorch. Topics: Face detection with Detectron 2, Time Series anomaly detection with LSTM Autoencoders, Object Detection with YOLO v5, Build your first Neural Network, Time Series forecasting for Coronavirus daily cases, Sentiment Analysis with BERT.
@@ -5848,7 +5848,7 @@
 - [MIT-Linear-Algebra-Notes](https://github.com/yizhen20133868/MIT-Linear-Algebra-Notes) - Notes for MIT-Linear-Algebra
 - [Cookbook](https://github.com/andkret/Cookbook) - The Data Engineering Cookbook
 - [dn](https://github.com/tomlockwood/dn) - Daily notes command line tool
-- [awesome-robotic-tooling](https://github.com/protontypes/awesome-robotic-tooling) - Free tools for professional robotic development in C++ and Python with a touch of ROS, autonomous driving and aerospace
+- [awesome-robotic-tooling](https://github.com/protontypes/awesome-robotic-tooling) - Tooling for professional robotic development in C++ and Python with a touch of ROS, autonomous driving and aerospace
 - [awesome-graph](https://github.com/jbmusso/awesome-graph) - A curated list of resources for graph databases and graph computing tools
 - [For-Data-Science-Beginners](https://github.com/amrrs/For-Data-Science-Beginners) - Set of 📝 with 🔗 to help those who are Data Science beginners 🤖
 - [awesome-libra](https://github.com/reed-hong/awesome-libra) - A Curated List of Awesome Facebook Libra Resources
@@ -7354,7 +7354,7 @@
 - [handout](https://github.com/danijar/handout) - Turn Python scripts into handouts with Markdown and figures
 - [delta](https://github.com/didi/delta) - DELTA is a deep learning based natural language and speech processing platform.
 - [ptf](https://github.com/trustedsec/ptf) - The Penetration Testers Framework (PTF) is a way for modular support for up-to-date tools.
-- [primer](https://github.com/Helpsypoo/primer) - code that makes videos for this: youtube.com/c/primerlearning
+- [primerpython](https://github.com/Helpsypoo/primerpython) - code that makes videos for this: youtube.com/c/primerlearning
 - [neural-networks-and-deep-learning](https://github.com/mnielsen/neural-networks-and-deep-learning) - Code samples for my book "Neural Networks and Deep Learning"
 - [apple_bleee](https://github.com/hexway/apple_bleee) - Apple BLE research
 - [APT_REPORT](https://github.com/blackorbird/APT_REPORT) - Interesting apt report collection and some special ioc express
@@ -9779,7 +9779,7 @@
 - [chartpy](https://github.com/cuemacro/chartpy) - Easy to use Python API wrapper to plot charts with matplotlib, plotly, bokeh and more
 - [pybble](https://github.com/hiway/pybble) - Python (almost) on Pebble
 - [enforce](https://github.com/RussBaz/enforce) - Python 3.5+ runtime type checking for integration testing and data validation
-- [graphyte](https://github.com/Jetsetter/graphyte) - Python 3 compatible library to send data to a Graphite metrics server (Carbon)
+- [graphyte](https://github.com/benhoyt/graphyte) - Python 3 compatible library to send data to a Graphite metrics server (Carbon)
 - [simplepipe](https://github.com/thomasantony/simplepipe) - A simple functional pipelining library for Python
 - [tbvaccine](https://github.com/skorokithakis/tbvaccine) - A small utility to pretty-print Python tracebacks. ⛺
 - [httsleep](https://github.com/kopf/httsleep) - A python library for polling HTTP endpoints - batteries included!
@@ -10289,7 +10289,7 @@
 - [PyExPool](https://github.com/eXascaleInfolab/PyExPool) - Python Multi-Process Execution Pool: concurrent asynchronous execution pool with custom resource constraints (memory, timeouts, affinity, CPU cores and caching), load balancing and profiling capabilities of the external apps on NUMA architecture
 - [python-elevator-challenge](https://github.com/mshang/python-elevator-challenge) - So You Think You Can Program An Elevator
 - [geocoder](https://github.com/DenisCarriere/geocoder) - :earth_asia: Python Geocoder
-- [zulip](https://github.com/zulip/zulip) - Zulip server - powerful open source team chat
+- [zulip](https://github.com/zulip/zulip) - Zulip server and webapp - powerful open source team chat
 - [HTTPLang](https://github.com/f-prime/HTTPLang) - A scripting langauge to do HTTP routines.
 - [Flask-Boost](https://github.com/hustlzp/Flask-Boost) - Flask application generator for boosting your development.
 - [bidict](https://github.com/jab/bidict) - The bidirectional mapping library for Python.
