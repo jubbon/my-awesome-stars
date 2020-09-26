@@ -458,7 +458,6 @@
 - [ailab](https://github.com/microsoft/ailab) - Experience, Learn and Code the latest breakthrough innovations with Microsoft AI
 - [DRL_based_SelfDrivingCarControl](https://github.com/MLJejuCamp2017/DRL_based_SelfDrivingCarControl) - Deep Reinforcement Learning (DQN) based Self Driving Car Control with Vehicle Simulator
 - [blockchain](https://github.com/dvf/blockchain) - A simple Blockchain in Python
-- [ml-agents](https://github.com/Unity-Technologies/ml-agents) - Unity Machine Learning Agents Toolkit
 - [sqlnotebook](https://github.com/electroly/sqlnotebook) - Tabular data exploration and manipulation tool powered by SQLite.
 - [TensorFlowSharp](https://github.com/migueldeicaza/TensorFlowSharp) - TensorFlow API for .NET languages
 - [electrino](https://github.com/pojala/electrino) - Desktop runtime for apps built on web technologies, using the system's own web browser engine
@@ -592,7 +591,7 @@
 - [TerrainEngine-OpenGL](https://github.com/fede-vaccaro/TerrainEngine-OpenGL) - An OpenGL 4 and C++ program which renders a procedural scene.
 - [PSENet](https://github.com/whai362/PSENet) - 
 - [libfacedetection](https://github.com/ShiqiYu/libfacedetection) - An open source library for face detection in images. The face detection speed can reach 1000FPS.
-- [DeepCamera](https://github.com/SharpAI/DeepCamera) - Protect your privacy, open source AI-powered video surveillance on IoT devices such as Raspberry Pi and Android, featuring face recognition, human shape recognition(ReID), etc. The world's first AutoML Deep Learning edge AI platform. No programming exp needed to train a new model for your privacy.
+- [DeepCamera](https://github.com/SharpAI/DeepCamera) - SharpAI is open source stack for machine learning engineering with private deployment and AutoML for edge computing.  DeepCamera is application of SharpAI designed for connecting computer vision model to surveillance camera. Developers can run same code on Raspberry Pi/Android/PC/AWS to boost your AI production development.
 - [3Dpose_ssl](https://github.com/chanyn/3Dpose_ssl) - 3D Human Pose Machines with Self-supervised Learning
 - [intrinsic3d](https://github.com/NVlabs/intrinsic3d) - Intrinsic3D - High-Quality 3D Reconstruction by Joint Appearance and Geometry Optimization with Spatially-Varying Lighting (ICCV 2017)
 - [GAAS](https://github.com/generalized-intelligence/GAAS) - Generalized Aviation: Open source autonomous aviation software platform, designed for fully autonomous drones and flying cars.
@@ -648,6 +647,7 @@
 - [filament](https://github.com/google/filament) - Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS and WASM/WebGL
 - [doxygen](https://github.com/doxygen/doxygen) - Official doxygen git repository
 - [panda3d](https://github.com/panda3d/panda3d) - Powerful, mature open-source cross-platform game engine for Python and C++, developed by Disney and CMU
+- [PreciseRoIPooling](https://github.com/vacancy/PreciseRoIPooling) - Precise RoI Pooling with coordinate gradient support, proposed in the paper "Acquisition of Localization Confidence for Accurate Object Detection" (https://arxiv.org/abs/1807.11590).
 - [pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [AnyQ](https://github.com/baidu/AnyQ) - FAQ-based Question Answering System
 - [License-Plate-Detect-Recognition-via-Deep-Neural-Networks-accuracy-up-to-99.9](https://github.com/zhubenfu/License-Plate-Detect-Recognition-via-Deep-Neural-Networks-accuracy-up-to-99.9) - works in real-time with detection and recognition accuracy up to 99.8% for Chinese license plates: 100 ms/plate
@@ -1346,7 +1346,6 @@
 
 - [deep-high-resolution-net.pytorch](https://github.com/leoxiaobin/deep-high-resolution-net.pytorch) - The project is an official implementation of our CVPR2019 paper "Deep High-Resolution Representation Learning for Human Pose Estimation"
 - [cuml](https://github.com/rapidsai/cuml) - cuML - RAPIDS Machine Learning Library
-- [PreciseRoIPooling](https://github.com/vacancy/PreciseRoIPooling) - Precise RoI Pooling with coordinate gradient support, proposed in the paper "Acquisition of Localization Confidence for Accurate Object Detection" (https://arxiv.org/abs/1807.11590).
 - [tsne-cuda](https://github.com/CannyLab/tsne-cuda) - GPU Accelerated t-SNE for CUDA with Python bindings
 - [deep-painterly-harmonization](https://github.com/luanfujun/deep-painterly-harmonization) - Code and data for paper "Deep Painterly Harmonization": https://arxiv.org/abs/1804.03189
 - [OpenCUDA](https://github.com/LitLeo/OpenCUDA) - 
@@ -1543,7 +1542,7 @@
 - [godog](https://github.com/cucumber/godog) - Cucumber for golang
 - [aws-vault](https://github.com/99designs/aws-vault) - A vault for securely storing and accessing AWS credentials in development environments
 - [go-gitlab](https://github.com/xanzy/go-gitlab) - A GitLab API client enabling Go programs to interact with GitLab in a simple and uniform way
-- [micro](https://github.com/micro/micro) - Micro is a platform for cloud services development
+- [micro](https://github.com/micro/micro) - Micro is a Go cloud services development framework
 - [go-github](https://github.com/google/go-github) - Go library for accessing the GitHub API
 - [nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
 - [migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
@@ -1747,7 +1746,7 @@
 - [wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
 - [radon](https://github.com/radondb/radon) - RadonDB is an open source, cloud-native MySQL database for building global, scalable cloud services
 - [UNetwork](https://github.com/U-Network/UNetwork) - U Network Public Blockchain
-- [thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. CNCF Sandbox project.
+- [thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
 - [anon](https://github.com/intenthq/anon) - A UNIX Command To Anonymise Data
 - [slackarchive](https://github.com/dutchcoders/slackarchive) - Archiver for Slack Teams
 - [corral](https://github.com/bcongdon/corral) - 🐎 A serverless MapReduce framework written for AWS Lambda
@@ -3510,7 +3509,7 @@
 - [electron-packager](https://github.com/electron/electron-packager) - Customize and package your Electron app with OS-specific bundles (.app, .exe, etc.) via JS or CLI
 - [v2-datepicker](https://github.com/dwqs/v2-datepicker) - A simple datepicker component based Vue 2.x: https://dwqs.github.io/v2-datepicker/
 - [vue-wait](https://github.com/f/vue-wait) - Complex Loader and Progress Management for Vue/Vuex and Nuxt Applications
-- [after.js](https://github.com/jaredpalmer/after.js) - Next.js-like framework for server-rendered React apps built with React Router 4
+- [after.js](https://github.com/jaredpalmer/after.js) - Next.js-like framework for server-rendered React apps built with React Router
 - [nerv](https://github.com/NervJS/nerv) - A blazing fast React alternative, compatible with IE8 and React 16.
 - [polka](https://github.com/lukeed/polka) - A micro web server so fast, it'll make you dance! :dancers:
 - [jarvis](https://github.com/zouhir/jarvis) - A very intelligent browser based Webpack dashboard
@@ -6774,7 +6773,7 @@
 - [Tor10](https://github.com/kaihsin/Tor10) - A Generic Tensor-Network library that is designed for quantum simulation, base on the pytorch
 - [spacy-streamlit](https://github.com/explosion/spacy-streamlit) - 👑 spaCy building blocks and visualizers for Streamlit apps
 - [byol-pytorch](https://github.com/lucidrains/byol-pytorch) - Usable Implementation of "Bootstrap Your Own Latent" self-supervised learning, from Deepmind, in Pytorch
-- [data-efficient-gans](https://github.com/mit-han-lab/data-efficient-gans) - Differentiable Augmentation for Data-Efficient GAN Training
+- [data-efficient-gans](https://github.com/mit-han-lab/data-efficient-gans) - [NeurIPS 2020] Differentiable Augmentation for Data-Efficient GAN Training
 - [OpenSelfSup](https://github.com/open-mmlab/OpenSelfSup) - Self-Supervised Learning Toolbox and Benchmark
 - [panoptic-deeplab](https://github.com/bowenc0221/panoptic-deeplab) - This is Pytorch re-implementation of our CVPR 2020 paper "Panoptic-DeepLab: A Simple, Strong, and Fast Baseline for Bottom-Up Panoptic Segmentation" (https://arxiv.org/abs/1911.10194)
 - [slimevolleygym](https://github.com/hardmaru/slimevolleygym) - A simple OpenAI Gym environment for single and multi-agent reinforcement learning
@@ -7612,7 +7611,7 @@
 - [python-osrm](https://github.com/ustroetz/python-osrm) - A Python wrapper around the OSRM API
 - [aws-step-function-example](https://github.com/servian/aws-step-function-example) - 
 - [spektral](https://github.com/danielegrattarola/spektral) - Graph Neural Networks with Keras and Tensorflow 2.
-- [ludwig](https://github.com/uber/ludwig) - Ludwig is a toolbox built on top of TensorFlow that allows to train and test deep learning models without the need to write code.
+- [ludwig](https://github.com/uber/ludwig) - Ludwig is a toolbox that allows to train and evaluate deep learning models without the need to write code.
 - [project_alias](https://github.com/bjoernkarmann/project_alias) - Alias is a teachable “parasite” that is designed to give users more control over their smart assistants, both when it comes to customisation and privacy. Through a simple app the user can train Alias to react on a custom wake-word/sound, and once trained, Alias can take control over your home assistant by activating it for you.
 - [gita](https://github.com/nosarthur/gita) - Manage many git repos with sanity 从容管理多个git库
 - [ffhq-dataset](https://github.com/NVlabs/ffhq-dataset) - Flickr-Faces-HQ Dataset (FFHQ)
@@ -8177,7 +8176,7 @@
 - [catt](https://github.com/skorokithakis/catt) - Cast All The Things allows you to send videos from many, many online sources to your Chromecast.
 - [semantic-segmentation-pytorch](https://github.com/CSAILVision/semantic-segmentation-pytorch) - Pytorch implementation for Semantic Segmentation/Scene Parsing on MIT ADE20K dataset
 - [monkey](https://github.com/guardicore/monkey) - Infection Monkey - An automated pentest tool
-- [scvi-tools](https://github.com/YosefLab/scvi-tools) - Deep generative modeling for single-cell omics data
+- [scvi-tools](https://github.com/YosefLab/scvi-tools) - Deep generative models for single-cell omics data
 - [gluon-nlp](https://github.com/dmlc/gluon-nlp) - NLP made easy
 - [Gitmails](https://github.com/giovanifss/Gitmails) - An information gathering tool to collect git commit emails in version control host services
 - [keras-yolo3](https://github.com/qqwweee/keras-yolo3) - A Keras implementation of YOLOv3 (Tensorflow backend)
@@ -8796,6 +8795,7 @@
 - [fairseq](https://github.com/pytorch/fairseq) - Facebook AI Research Sequence-to-Sequence Toolkit written in Python.
 - [weibospider](https://github.com/SpiderClub/weibospider) - :zap: A distributed crawler for weibo, building with celery and requests.
 - [SerpentAI](https://github.com/SerpentAI/SerpentAI) - Game Agent Framework. Helping you create AIs / Bots that learn to play any game you own!
+- [ml-agents](https://github.com/Unity-Technologies/ml-agents) - Unity Machine Learning Agents Toolkit
 - [onnx-caffe2](https://github.com/onnx/onnx-caffe2) - Caffe2 implementation of Open Neural Network Exchange (ONNX)
 - [fa2l](https://github.com/bosiakov/fa2l) - Force Atlas 2 graph layout
 - [studio](https://github.com/studioml/studio) - Studio: Simplify and expedite model building process
