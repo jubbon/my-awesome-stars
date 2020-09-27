@@ -170,7 +170,7 @@
 - [librdkafka](https://github.com/edenhill/librdkafka) - The Apache Kafka C/C++ library
 - [gcc](https://github.com/gcc-mirror/gcc) - 
 - [dsvpn](https://github.com/jedisct1/dsvpn) - A Dead Simple VPN.
-- [quickjs](https://github.com/horhof/quickjs) - The official repo is now at bellard/quickjs.
+- [quickjs](https://github.com/horhof/quickjs) - The official repo is at bellard/quickjs.
 - [TDengine](https://github.com/taosdata/TDengine) - An open-source big data platform designed and optimized for the Internet of Things (IoT).
 - [core](https://github.com/metacall/core) - A library for providing inter-language foreign function interface calls.
 - [blurhash](https://github.com/woltapp/blurhash) - A very compact representation of a placeholder for an image.
@@ -1542,7 +1542,7 @@
 - [godog](https://github.com/cucumber/godog) - Cucumber for golang
 - [aws-vault](https://github.com/99designs/aws-vault) - A vault for securely storing and accessing AWS credentials in development environments
 - [go-gitlab](https://github.com/xanzy/go-gitlab) - A GitLab API client enabling Go programs to interact with GitLab in a simple and uniform way
-- [micro](https://github.com/micro/micro) - Micro is a Go cloud services development framework
+- [micro](https://github.com/micro/micro) - Micro is a framework for cloud native development
 - [go-github](https://github.com/google/go-github) - Go library for accessing the GitHub API
 - [nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
 - [migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
@@ -2867,7 +2867,7 @@
 - [jsdoc](https://github.com/jsdoc/jsdoc) - An API documentation generator for JavaScript.
 - [vscode-plugin](https://github.com/kiteco/vscode-plugin) - Kite Autocomplete Plugin for Visual Studio Code
 - [express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
-- [tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 750 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 800 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [lime](https://github.com/marcotcr/lime) - Lime: Explaining the predictions of any machine learning classifier
 - [botframework-sdk](https://github.com/microsoft/botframework-sdk) - Bot Framework provides the most comprehensive experience for building conversation applications.
 - [uuid](https://github.com/lukeed/uuid) - A tiny (230B), fast, and cryptographically secure UUID (V4) generator for Node and the browser
@@ -6434,7 +6434,6 @@
 - [awesome-sass](https://github.com/Famolus/awesome-sass) - 🎨 Curated list of awesome Sass and SCSS frameworks, libraries, style guides, articles, and resources.
 - [awesome-crawler](https://github.com/BruceDone/awesome-crawler) - A collection of awesome web crawler,spider in different languages
 - [machine-learning-for-software-engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) - A complete daily plan for studying to become a machine learning engineer.
-- [redis-playbook](https://github.com/mikeblum/redis-playbook) - Ansible playbook for deploying, securing, and optimizing a Redis instance
 - [development-resources](https://github.com/dakaraphi/development-resources) - Collection of useful development resources
 - [mobileTech](https://github.com/jtyjty99999/mobileTech) - A useful tools or tips list for mobile web application developing
 - [electrode](https://github.com/walmartlabs/electrode) - Electrode - Application Platform on React/Node.js powering Walmart.com
@@ -6873,7 +6872,7 @@
 - [Tetris-deep-Q-learning-pytorch](https://github.com/uvipen/Tetris-deep-Q-learning-pytorch) - Deep Q-learning for playing tetris game
 - [CenterTrack](https://github.com/xingyizhou/CenterTrack) - Simultaneous object detection and tracking using center points.
 - [nerf-pytorch](https://github.com/yenchenlin/nerf-pytorch) - A PyTorch implementation of NeRF (Neural Radiance Fields) that reproduces the results.
-- [DeepMatch](https://github.com/shenweichen/DeepMatch) - A deep matching model library for recommendations & advertising. It's easy to train models and to export representation vectors for user and item which can be used for ANN search.
+- [DeepMatch](https://github.com/shenweichen/DeepMatch) - A deep matching model library for recommendations & advertising. It's easy to train models and to export representation vectors which can be used for ANN search.
 - [ganspace](https://github.com/harskish/ganspace) - Discovering Interpretable GAN Controls
 - [Yet-Another-EfficientDet-Pytorch](https://github.com/zylo117/Yet-Another-EfficientDet-Pytorch) - The pytorch re-implement of the official efficientdet with SOTA performance in real time and pretrained weights.
 - [omegaconf](https://github.com/omry/omegaconf) - Flexible Python configuration system. The last one you will ever need.
@@ -12393,7 +12392,7 @@
 - [logbook](https://github.com/getlogbook/logbook) - A cool logging replacement for Python.
 - [pyreport](https://github.com/joblib/pyreport) - Generate reports out of python scripts
 - [Pillow](https://github.com/python-pillow/Pillow) - The friendly PIL fork (Python Imaging Library)
-- [Mathics](https://github.com/mathics/Mathics) - a general-purpose computer algebra system
+- [Mathics](https://github.com/mathics/Mathics) - A general-purpose computer algebra system.
 - [django-unchained](https://github.com/NahimNasser/django-unchained) - Introduction to Python and Django
 - [Reding](https://github.com/BuongiornoMIP/Reding) - Rating on Redis - REST API on Flask
 - [pql](https://github.com/alonho/pql) - A python expression to MongoDB query translator
@@ -12853,6 +12852,7 @@
 - [gitkurwa](https://github.com/jakubnabrdalik/gitkurwa) - A sample project containing usefull verbose aliases, for those who feel lost and angry at git. Basically for those Polish folks, who scream "Git, kurwa!".
 - [Dracnmap](https://github.com/Screetsec/Dracnmap) - Dracnmap is an open source program which is using to exploit the network and gathering information with nmap help. Nmap command comes with lots of options that can make the utility more robust and difficult to follow for new users. Hence Dracnmap is designed to perform fast scaning with the utilizing script engine of nmap and nmap can perform various automatic scanning techniques with the advanced commands.
 - [og-aws](https://github.com/open-guides/og-aws) - 📙 Amazon Web Services — a practical guide
+- [redis-playbook](https://github.com/mikeblum/redis-playbook) - Ansible playbook for deploying, securing, and optimizing a Redis instance
 - [awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) - 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
 - [zpyi](https://github.com/sakshamsharma/zpyi) - The power of python in your Zsh - Unobtrusive and easy python scripting in shell
 - [ansible-role-odoo](https://github.com/michaelrigart/ansible-role-odoo) - An ansible role for installing and configuring Odoo.
