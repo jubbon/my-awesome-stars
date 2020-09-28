@@ -1016,6 +1016,7 @@
 - [css-effects-snippets](https://github.com/emilkowalski/css-effects-snippets) - ☁️ A collection of CSS effects made with Vue.js.
 - [automatic-app-landing-page](https://github.com/emilbaehr/automatic-app-landing-page) - A Jekyll theme for automatically generating and deploying landing page sites for mobile apps.
 - [notes](https://github.com/hiromis/notes) - 
+- [algo-zh](https://github.com/apachecn/algo-zh) - 结构化算法刷题训练指南
 - [tris-webpack-boilerplate](https://github.com/tr1s/tris-webpack-boilerplate) - A Webpack boilerplate for static websites that has all the necessary modern tools and optimizations built-in. Score a perfect 10/10 on performance.
 - [AWSConsoleRecorder](https://github.com/iann0036/AWSConsoleRecorder) - Records actions made in the AWS Management Console and outputs the equivalent CLI/SDK commands and CloudFormation/Terraform templates.
 - [LogDashboard](https://github.com/realLiangshiwei/LogDashboard) - Log Dashboard
@@ -1049,7 +1050,6 @@
 - [hands-on-ml-zh](https://github.com/apachecn/hands-on-ml-zh) - :book: [译] Sklearn 与 TensorFlow 机器学习实用指南【版权问题，网站已下线！！】
 - [shards-dashboard](https://github.com/DesignRevision/shards-dashboard) - 🔥A beautiful Bootstrap 4 admin dashboard templates pack.
 - [clock-shop](https://github.com/drawcall/clock-shop) - 🕙⏰🕰 Clock Shop is a website that collects beautiful clock codes
-- [three-dots](https://github.com/nzbin/three-dots) - 🔮 CSS loading animations made by single element.
 - [repaintless](https://github.com/szynszyliszys/repaintless) - Library for fast CSS Animations
 - [boxicons](https://github.com/atisawd/boxicons) - High Quality web friendly icons
 - [phonegap_taxi](https://github.com/shrue348/phonegap_taxi) - phonegap vue js app
@@ -1079,7 +1079,6 @@
 - [Fork-Awesome](https://github.com/ForkAwesome/Fork-Awesome) - A fork of the iconic font and CSS toolkit
 - [serverboards](https://github.com/serverboards/serverboards) - Serverboards is a microservices based service monitoring, alerting and management system.
 - [CSS-Keylogging](https://github.com/maxchehab/CSS-Keylogging) - Chrome extension and Express server that exploits keylogging abilities of CSS.
-- [codeheat.org](https://github.com/fossasia/codeheat.org) - Codeheat Coding Contest Website https://codeheat.org
 - [lit](https://github.com/ajusa/lit) - World's smallest responsive 🔥 css framework (395 bytes)
 - [direction-reveal](https://github.com/NigelOToole/direction-reveal) - Direction aware content reveals via hover or tab on an element.
 - [SocialFish](https://github.com/UndeadSec/SocialFish) - Automated Phishing Tool & Information Collector
@@ -2208,7 +2207,7 @@
 - [MatBlazor](https://github.com/SamProf/MatBlazor) - Material Design components for Blazor and Razor Components
 - [Most-recommended-programming-books](https://github.com/daolf/Most-recommended-programming-books) - The most recommended programming books of all-time.
 - [HelloFace](https://github.com/becauseofAI/HelloFace) - An awesome face technology repository.
-- [LearnCS8-Resume](https://github.com/JordanSchuetz/LearnCS8-Resume) - Resume template website for the LearnCS8 Lab 4
+- [LearnCS8-Resume](https://github.com/JordanSchuetz/LearnCS8-Resume) - Resume template website for the LearnCS8 Lab 3
 - [esm244-w2020-lab5](https://github.com/allisonhorst/esm244-w2020-lab5) - Lab week 5: exploring time series data, intro to forecasting
 - [tiny-helpers](https://github.com/stefanjudis/tiny-helpers) - A collection of useful online web development tools
 - [intro-to-ml-tidy](https://github.com/rstudio-conf-2020/intro-to-ml-tidy) - Intro to Machine Learning with the Tidyverse
@@ -2849,6 +2848,7 @@
 
 ## JavaScript 
 
+- [Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates) - A collection of awesome readme templates to display on your profile
 - [petrovich-js](https://github.com/petrovich/petrovich-js) - JS library to inflect Russian first, last, and middle names.
 - [sci-hub-now](https://github.com/0x01h/sci-hub-now) - Free access to academic papers with just a single click! Abolish publishers, long live the open access movement! 🦅
 - [editly](https://github.com/mifi/editly) - Slick, declarative command line video editing
@@ -3833,6 +3833,7 @@
 - [clickhouse](https://github.com/TimonKK/clickhouse) - NodeJS client for ClickHouse
 - [kurento-tutorial-js](https://github.com/Kurento/kurento-tutorial-js) - kurento-tutorial-js
 - [jitsi-meet](https://github.com/jitsi/jitsi-meet) - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
+- [pontoon](https://github.com/mozilla/pontoon) - Mozilla's Localization Platform
 - [nbtutor](https://github.com/lgpage/nbtutor) - Visualize Python code execution (line-by-line) in Jupyter Notebook cells.
 - [marko](https://github.com/marko-js/marko) - A declarative, HTML-based language that makes building web apps fun
 - [pix2pix-tensorflow](https://github.com/affinelayer/pix2pix-tensorflow) - Tensorflow port of Image-to-Image Translation with Conditional Adversarial Nets https://phillipi.github.io/pix2pix/
@@ -3903,7 +3904,7 @@
 - [vuejs-AdminLTE](https://github.com/r0r1/vuejs-AdminLTE) - Admin LTE Starter for Vue JS
 - [vue-echarts](https://github.com/ecomfe/vue-echarts) - Apache ECharts (incubating) component for Vue.js.
 - [vue-mugen-scroll](https://github.com/egoist/vue-mugen-scroll) - Infinite scroll component for Vue.js 2
-- [Sortable](https://github.com/SortableJS/Sortable) - Sortable — is a JavaScript library for reorderable drag-and-drop lists on modern browsers and touch devices. No jQuery required. Supports Meteor, AngularJS, React, Polymer, Vue, Ember, Knockout and any CSS library, e.g. Bootstrap.
+- [sortablejs](https://github.com/SortableJS/sortablejs) - Create and reorder lists with drag-and-drop. For use with modern browsers and touch devices
 - [django-react-redux-base](https://github.com/Seedstars/django-react-redux-base) - Seedstars Labs Base Django React Redux Project
 - [next.js](https://github.com/vercel/next.js) - The React Framework
 - [flv.js](https://github.com/bilibili/flv.js) - HTML5 FLV Player
@@ -4416,6 +4417,7 @@
 
 ## Jupyter Notebook 
 
+- [CenterPoint](https://github.com/tianweiy/CenterPoint) - 
 - [Feature-Engineering-Live-sessions](https://github.com/krishnaik06/Feature-Engineering-Live-sessions) - 
 - [desafio-6-2020](https://github.com/maratonadev-br/desafio-6-2020) - 
 - [course20](https://github.com/fastai/course20) - Deep Learning for Coders, 2020, the website
@@ -5622,6 +5624,7 @@
 ## Less 
 
 - [docs.influxdata.com](https://github.com/influxdata/docs.influxdata.com) - ARCHIVE - 1.x docs for InfluxData
+- [codeheat.org](https://github.com/fossasia/codeheat.org) - Codeheat Coding Contest Website https://codeheat.org
 - [documentation-user](https://github.com/odoo/documentation-user) - Sources For Odoo Enterprise Business Apps User Manual
 - [QGIS-Website](https://github.com/qgis/QGIS-Website) - QGIS-Website
 - [monokai](https://github.com/kevinsawicki/monokai) - Monokai Atom Syntax theme
@@ -5734,6 +5737,10 @@
 
 ## Others 
 
+- [NLP-pretrained-model](https://github.com/balavenkatesh3322/NLP-pretrained-model) - A collection of Natural language processing pre-trained models.
+- [CV-pretrained-model](https://github.com/balavenkatesh3322/CV-pretrained-model) - A collection of computer vision pre-trained models.
+- [awesome-real-world-rl](https://github.com/ugurkanates/awesome-real-world-rl) - Great resources for making Reinforcement Learning work in Real Life situations. Papers,projects and more.
+- [NLP-Conferences-Code](https://github.com/yizhen20133868/NLP-Conferences-Code) - NLP-Conferences-Code (ACL、EMNL、NAACL、COLING、AAAI、IJCAI)
 - [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
 - [awesome-gpt3](https://github.com/elyase/awesome-gpt3) - 
 - [Free-Certifications](https://github.com/cloudcommunity/Free-Certifications) - Curated list of free courses & certifications
@@ -6176,7 +6183,7 @@
 - [awesome-toolkits](https://github.com/reyronald/awesome-toolkits) - A curated list of open source, high-quality, popular and well maintained "zero-configuration" (#0CJS) toolkits
 - [ReactNative-Animation-Challenges](https://github.com/kiok46/ReactNative-Animation-Challenges) - A series of animation challenges in React Native.
 - [python3_with_pleasure](https://github.com/arogozhnikov/python3_with_pleasure) - A short guide on features of Python 3 with examples
-- [choerodon](https://github.com/choerodon/choerodon) - Open Source Multi-Cloud Integrated Platform
+- [choerodon](https://github.com/open-hand/choerodon) - Open Source Multi-Cloud Integrated Platform
 - [CryptoList](https://github.com/coinpride/CryptoList) - Curated collection of blockchain & cryptocurrency resources.
 - [Megalodon](https://github.com/vyraun/Megalodon) - Various ML/DL Resources organised at a single place.
 - [heroicons-ui](https://github.com/sschoger/heroicons-ui) - 
@@ -6754,6 +6761,10 @@
 
 ## Python 
 
+- [mmclassification](https://github.com/open-mmlab/mmclassification) - OpenMMLab Image Classification Toolbox and Benchmark
+- [mmdetection3d](https://github.com/open-mmlab/mmdetection3d) - OpenMMLab's next-generation platform for general 3D object detection.
+- [torchsde](https://github.com/google-research/torchsde) - Differentiable SDE solvers with GPU support and efficient sensitivity analysis.
+- [rexnet](https://github.com/clovaai/rexnet) - Official Pytorch implementation of ReXNet (Rank eXpansion Network) with pretrained models
 - [gpt-2](https://github.com/nshepperd/gpt-2) - Code for the paper "Language Models are Unsupervised Multitask Learners"
 - [faiss-wheels](https://github.com/kyamagu/faiss-wheels) - Unofficial faiss wheel builder
 - [faiss-server](https://github.com/daangn/faiss-server) - faiss similarity search server
@@ -6855,7 +6866,6 @@
 - [jukebox](https://github.com/openai/jukebox) - Code for the paper "Jukebox: A Generative Model for Music"
 - [pytorch-YOLOv4](https://github.com/Tianxiaomo/pytorch-YOLOv4) - PyTorch ,ONNX and TensorRT implementation of YOLOv4
 - [extract-news-api](https://github.com/kotartemiy/extract-news-api) - Flask code to deploy an API that pulls structured data from online news articles
-- [polyai-models](https://github.com/PolyAI-LDN/polyai-models) - Neural Models for Conversational AI
 - [conversational-datasets](https://github.com/PolyAI-LDN/conversational-datasets) - Large datasets for conversational AI
 - [slovnet](https://github.com/natasha/slovnet) - Deep Learning based NLP modeling for Russian language
 - [HRNet-Semantic-Segmentation](https://github.com/HRNet/HRNet-Semantic-Segmentation) - This is an official implementation of semantic segmentation for our TPAMI paper "Deep High-Resolution Representation Learning for Visual Recognition". https://arxiv.org/abs/1908.07919
@@ -7594,7 +7604,6 @@
 - [python-reinforcement-learning](https://github.com/vihar/python-reinforcement-learning) - 
 - [deep_sort_yolov3](https://github.com/Qidian213/deep_sort_yolov3) - Real-time Multi-person tracker using YOLO v3 and deep_sort with tensorflow
 - [CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
-- [awesome-algorithm](https://github.com/apachecn/awesome-algorithm) - 项目永久冻结，迁移至新地址：
 - [ctf-tasks](https://github.com/j00ru/ctf-tasks) - An archive of low-level CTF challenges developed over the years
 - [gpt-2](https://github.com/openai/gpt-2) - Code for the paper "Language Models are Unsupervised Multitask Learners"
 - [gpt-2-Pytorch](https://github.com/graykode/gpt-2-Pytorch) - Simple Text-Generator with OpenAI gpt-2 Pytorch Implementation
@@ -9388,7 +9397,6 @@
 - [gpod](https://github.com/EvgenyNekrasov/gpod) - GPOD - General Purpose Object Detector in Python
 - [Xvision](https://github.com/ayush1997/Xvision) - Chest Xray image analysis using Deep learning !
 - [style-transfer](https://github.com/kevinzakka/style-transfer) - A Keras Implementation of "A Neural Algorithm of Artistic Style"
-- [pontoon](https://github.com/mozilla/pontoon) - Mozilla's Localization Platform
 - [keras-squeezenet](https://github.com/rcmalli/keras-squeezenet) - SqueezeNet implementation with Keras Framework
 - [GpxTrackPoster](https://github.com/flopp/GpxTrackPoster) - Create a visually appealing poster from your GPX tracks
 - [face-identification-tpe](https://github.com/meownoid/face-identification-tpe) - Face identification with CNN + TPE using Keras
@@ -12694,6 +12702,7 @@
 - [vapid](https://github.com/vapid/vapid) - Vapid is an intentionally simple content management system built on the idea that you can create a custom dashboard without ever leaving the HTML.
 - [modern_portfolio](https://github.com/bradtraversy/modern_portfolio) - Responsive portfolio website
 - [twofactorauth](https://github.com/2factorauth/twofactorauth) - List of sites with two factor auth support which includes SMS, email, phone calls, hardware, and software.
+- [three-dots](https://github.com/nzbin/three-dots) - 🔮 CSS loading animations made by single element.
 - [Cirrus](https://github.com/Spiderpig86/Cirrus) - :cloud: The SCSS framework for the modern web.
 - [pasztor.at](https://github.com/janoszen/pasztor.at) - 
 - [hacker101](https://github.com/Hacker0x01/hacker101) - Source code for Hacker101.com - a free online web and mobile security class.
