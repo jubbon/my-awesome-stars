@@ -1056,7 +1056,6 @@
 - [fullstack-graphql](https://github.com/GraphQLCollege/fullstack-graphql) - A book to learn GraphQL with a hands-on approach
 - [microservices-architecture](https://github.com/gitpitch/microservices-architecture) - 
 - [microservices-architecture](https://github.com/jroper/microservices-architecture) - 
-- [in-60-seconds](https://github.com/gitpitch/in-60-seconds) - GitPitch In 60 Seconds - A Very Short Tutorial
 - [calver](https://github.com/mahmoud/calver) - 📅 The web's go-to resource for Calendar Versioning info.
 - [CloudFlarePartner](https://github.com/luodaoyi/CloudFlarePartner) - CloudFlare  partner   website with python and flask
 - [gatsby-starter-default](https://github.com/gatsbyjs/gatsby-starter-default) - The default Gatsby starter
@@ -1425,7 +1424,7 @@
 - [flutter-grpc-tutorial](https://github.com/amsokol/flutter-grpc-tutorial) - [Tutorial] Asynchronous Flutter chat client with Go chat server which are powered by gRPC (simple and streaming)
 - [flutter-geolocator](https://github.com/Baseflow/flutter-geolocator) - Android and iOS Geolocation plugin for Flutter
 - [bloc](https://github.com/felangel/bloc) - A predictable state management library that helps implement the BLoC design pattern
-- [feather](https://github.com/jhomlala/feather) - Flutter weather application
+- [feather](https://github.com/jhomlala/feather) - Flutter weather application with beautiful UI and UX.
 - [mobx.dart](https://github.com/mobxjs/mobx.dart) - MobX for the Dart language. Hassle-free, reactive state-management for your Dart and Flutter apps.
 - [flame](https://github.com/flame-engine/flame) - A minimalist Flutter game engine
 - [flutter_hooks](https://github.com/rrousselGit/flutter_hooks) - React hooks for Flutter. Hooks are a new kind of object that manages a Widget life-cycles. They are used to increase code sharing between widgets and as a complete replacement for StatefulWidget.
@@ -2776,7 +2775,6 @@
 - [systemds](https://github.com/apache/systemds) - Mirror of Apache SystemML
 - [FirebaseUI-Android](https://github.com/firebase/FirebaseUI-Android) - Optimized UI components for Firebase
 - [from-java-to-kotlin](https://github.com/MindorksOpenSource/from-java-to-kotlin) - From Java To Kotlin - Your Cheat Sheet For Java To Kotlin
-- [gitpitch](https://github.com/gitpitch/gitpitch) - Markdown Presentations for Tech Conferences, Training, Developer Advocates, and Educators.
 - [AlgoDS](https://github.com/sherxon/AlgoDS) - Implementation of Algorithms and Data Structures, Problems and Solutions
 - [mit-deep-learning-book-pdf](https://github.com/janishar/mit-deep-learning-book-pdf) - MIT Deep Learning Book in PDF format (complete and parts) by Ian Goodfellow, Yoshua Bengio and Aaron Courville
 - [interviews](https://github.com/kdn251/interviews) - Everything you need to know to get the job.
@@ -3087,7 +3085,6 @@
 - [arg](https://github.com/vercel/arg) - Simple argument parsing
 - [screenshoteer](https://github.com/vladocar/screenshoteer) - Make website screenshots and mobile emulations from the command line.
 - [forgJs](https://github.com/oussamahamdaoui/forgJs) - ForgJs is a javascript lightweight object validator. Go check the Quick start section and start coding with love
-- [desktop-wallet](https://github.com/ArkEcosystem/desktop-wallet) - :computer: Multi Platform ARK Desktop Wallet
 - [sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP and TIFF images. Uses the libvips library.
 - [awesome-ui-component-library](https://github.com/anubhavsrivastava/awesome-ui-component-library) - Curated list of framework component libraries for UI styles/toolkit
 - [mpx](https://github.com/didi/mpx) - Mpx，一款具有优秀开发体验和深度性能优化的增强型小程序开发框架
@@ -4417,6 +4414,7 @@
 
 ## Jupyter Notebook 
 
+- [ClariQ](https://github.com/aliannejadi/ClariQ) - ClariQ: SCAI Workshop data challenge on conversational search clarification.
 - [CenterPoint](https://github.com/tianweiy/CenterPoint) - 
 - [Feature-Engineering-Live-sessions](https://github.com/krishnaik06/Feature-Engineering-Live-sessions) - 
 - [desafio-6-2020](https://github.com/maratonadev-br/desafio-6-2020) - 
@@ -5596,7 +5594,6 @@
 - [IPython-quick-ref-sheets](https://github.com/damontallen/IPython-quick-ref-sheets) - This is ongoing work developing quick reference sheets for IPython
 - [Probabilistic-Programming-and-Bayesian-Methods-for-Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) - aka "Bayesian Methods for Hackers": An introduction to Bayesian methods + probabilistic programming with a computation/understanding-first, mathematics-second point of view. All in pure Python ;)
 - [ipy_table](https://github.com/epmoyer/ipy_table) - Richly formatted data tables in IPython
-- [radon](https://github.com/rubik/radon) - Various code metrics for Python code
 
 ## Kotlin 
 
@@ -5623,7 +5620,7 @@
 
 ## Less 
 
-- [docs.influxdata.com](https://github.com/influxdata/docs.influxdata.com) - ARCHIVE - 1.x docs for InfluxData
+- [docs.influxdata.com-ARCHIVE](https://github.com/influxdata/docs.influxdata.com-ARCHIVE) - ARCHIVE - 1.x docs for InfluxData
 - [codeheat.org](https://github.com/fossasia/codeheat.org) - Codeheat Coding Contest Website https://codeheat.org
 - [documentation-user](https://github.com/odoo/documentation-user) - Sources For Odoo Enterprise Business Apps User Manual
 - [QGIS-Website](https://github.com/qgis/QGIS-Website) - QGIS-Website
@@ -5808,7 +5805,7 @@
 - [computer-vision-basics-in-microsoft-excel](https://github.com/amzn/computer-vision-basics-in-microsoft-excel) - Computer Vision Basics in Microsoft Excel (using just formulas)
 - [awesome-automl-papers](https://github.com/hibayesian/awesome-automl-papers) - A curated list of automated machine learning papers, articles, tutorials, slides and projects
 - [awesome-AutoML](https://github.com/windmaple/awesome-AutoML) - Curating a list of AutoML-related research, tools, projects and other resources
-- [awesome-tflite](https://github.com/margaretmz/awesome-tflite) - A curated list of awesome TensorFlow Lite models, samples, tutorials, tools and learning resources.
+- [awesome-tensorflow-lite](https://github.com/margaretmz/awesome-tensorflow-lite) - A curated list of awesome TensorFlow Lite models, samples, tutorials, tools and learning resources.
 - [flutter_vignettes](https://github.com/gskinnerTeam/flutter_vignettes) - A collection of fun Flutter experiments, created by gskinner, in partnership with Google.
 - [ReadMeTemplate](https://github.com/roshanlam/ReadMeTemplate) - Done with your project but having a hard time writing a ReadMe? Check Out This Repo I created. If you like it then use it
 - [awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
@@ -6761,6 +6758,9 @@
 
 ## Python 
 
+- [BERT-NER](https://github.com/kyzhouhzau/BERT-NER) - Use Google's BERT for named entity recognition （CoNLL-2003 as the dataset）.
+- [FARM](https://github.com/deepset-ai/FARM) - :house_with_garden: Fast & easy transfer learning for NLP. Harvesting language models for the industry.
+- [sequence_tagging](https://github.com/guillaumegenthial/sequence_tagging) - Named Entity Recognition (LSTM + CRF) - Tensorflow
 - [mmclassification](https://github.com/open-mmlab/mmclassification) - OpenMMLab Image Classification Toolbox and Benchmark
 - [mmdetection3d](https://github.com/open-mmlab/mmdetection3d) - OpenMMLab's next-generation platform for general 3D object detection.
 - [torchsde](https://github.com/google-research/torchsde) - Differentiable SDE solvers with GPU support and efficient sensitivity analysis.
@@ -8142,6 +8142,7 @@
 - [tryton](https://github.com/tryton/tryton) - Mirror of Tryton Client
 - [glom](https://github.com/mahmoud/glom) - ☄️ Python's nested data operator (and CLI), for all your declarative restructuring needs. Got data? Glom it! ☄️
 - [slash](https://github.com/getslash/slash) - The Slash testing infrastructure
+- [in-60-seconds](https://github.com/gitpitch/in-60-seconds) - GitPitch In 60 Seconds - A Very Short Tutorial
 - [holdem-challenge](https://github.com/sberbank-ai/holdem-challenge) - Материалы к соревнованию Sberbank Holdem Challenge http://sberbank.ai
 - [pycolab](https://github.com/deepmind/pycolab) - A highly-customisable gridworld game engine with some batteries included. Make your own gridworld games to test reinforcement learning agents!
 - [Jadesktop](https://github.com/codesardine/Jadesktop) - Linux desktop environment built with HTML5, CSS, JavaScript and Python.
@@ -9234,6 +9235,7 @@
 - [gixy](https://github.com/yandex/gixy) - Nginx configuration static analyzer
 - [Thunderbird-Email-Parser](https://github.com/mdegrazia/Thunderbird-Email-Parser) - Script to parse the Thunderbird email, including deleted email
 - [pyup](https://github.com/pyupio/pyup) - A tool to update your project's dependencies on GitHub. Runs on pyup.io, comes with a command line interface.
+- [gitpitch](https://github.com/gitpitch/gitpitch) - Markdown Presentations for Tech Conferences, Training, Developer Advocates, and Educators.
 - [the-gan-zoo](https://github.com/hindupuravinash/the-gan-zoo) - A list of all named GANs!
 - [WikiPlots](https://github.com/markriedl/WikiPlots) - A dataset containing story plots from Wikipedia (books, movies, etc.) and the code for the extractor.
 - [timy](https://github.com/ramonsaraiva/timy) - Minimalist measurement of python code time
@@ -12423,6 +12425,7 @@
 - [blaze](https://github.com/blaze/blaze) - NumPy and Pandas interface to Big Data
 - [mockredis](https://github.com/locationlabs/mockredis) - mock for redis-py (NO LONGER SUPPORTED)
 - [zipline](https://github.com/quantopian/zipline) - Zipline, a Pythonic Algorithmic Trading Library
+- [radon](https://github.com/rubik/radon) - Various code metrics for Python code
 - [SublimeTableEditor](https://github.com/vkocubinsky/SublimeTableEditor) - This package is no more supported. I moved to vim.
 - [algorithms](https://github.com/nryoung/algorithms) - This repository is not maintained
 - [RubberPaper](https://github.com/jubbon/RubberPaper) - 
@@ -13068,6 +13071,7 @@
 - [notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
 - [next-boilerplate](https://github.com/pankod/next-boilerplate) - A well-structured production ready Next.js boilerplate with Typescript, Redux, Jest, Enzyme, Express.js, Sass, Css, EnvConfig, Fetch, Reverse Proxy, Bundle Analyzer and Built-in Project CLI. https://pankod.github.io/next-boilerplate/
 - [vsf-payment-paypal](https://github.com/develodesign/vsf-payment-paypal) - Paypal payment module for Vue Storefront
+- [desktop-wallet](https://github.com/ArkEcosystem/desktop-wallet) - :computer: Multi Platform ARK Desktop Wallet
 - [squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
 - [material-angular-dashboard](https://github.com/CreativeIT/material-angular-dashboard) - Material Angular Admin Template
 - [wayne](https://github.com/Qihoo360/wayne) - Kubernetes multi-cluster management and publishing platform
