@@ -9,6 +9,7 @@
   - [Assembly](#assembly)
   - [Awk](#awk)
   - [Batchfile](#batchfile)
+  - [Blade](#blade)
   - [C](#c)
   - [C#](#c#)
   - [C++](#c++)
@@ -127,6 +128,10 @@
 - [sphinx-ru](https://github.com/mazhartsev/sphinx-ru) - В руководстве подробно описан процесс генерации документации с помощью связки reStructuredText, Python Sphinx, GitHub и сервиса Read the Docs.
 - [python-guide](https://github.com/realpython/python-guide) - Python best practices guidebook, written for humans.
 - [hubofdata](https://github.com/infoculture/hubofdata) - Hub of open data for Russia and other cyrillic countries / Хаб открытых данных на русском языке
+
+## Blade 
+
+- [coreui-free-laravel-admin-template](https://github.com/coreui/coreui-free-laravel-admin-template) - CoreUI Free Laravel Bootstrap Admin Template
 
 ## C 
 
@@ -2212,7 +2217,6 @@
 - [intro-to-ml-tidy](https://github.com/rstudio-conf-2020/intro-to-ml-tidy) - Intro to Machine Learning with the Tidyverse
 - [WhatTheHack](https://github.com/microsoft/WhatTheHack) - A collection of challenge based hack-a-thons including student guide, coach guide, lecture presentations, sample/instructional code and templates.
 - [samesite-examples](https://github.com/GoogleChromeLabs/samesite-examples) - Examples of using the SameSite cookie attribute in a variety of language, libraries, and frameworks.
-- [coreui-free-laravel-admin-template](https://github.com/coreui/coreui-free-laravel-admin-template) - CoreUI Free Laravel Bootstrap Admin Template
 - [techmap](https://github.com/haggaishachar/techmap) - tech maps
 - [government.github.com](https://github.com/github/government.github.com) - Gather, curate, and feature stories of public servants and civic hackers using GitHub as part of their open government innovations
 - [applied-ml](https://github.com/rstudio-conf-2020/applied-ml) - Code and Resources for "Applied Machine Learning"
@@ -2380,6 +2384,7 @@
 - [proposal-optional-chaining](https://github.com/tc39/proposal-optional-chaining) - 
 - [github-trending-repos](https://github.com/vitalets/github-trending-repos) - Track GitHub trending repositories in your favorite programming language by native GitHub notifications!
 - [kv-storage](https://github.com/WICG/kv-storage) - A proposal for an async key/value storage API for the web
+- [country-list](https://github.com/umpirsky/country-list) - :globe_with_meridians: List of all countries with names and ISO 3166-1 codes in all languages and data formats.
 - [website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:
 - [rstudio-conf](https://github.com/rstudio/rstudio-conf) - Materials for rstudio::conf
 - [cssInjection](https://github.com/dxa4481/cssInjection) - Stealing CSRF tokens with CSS injection (without iFrames)
@@ -2803,7 +2808,7 @@
 - [Android_Data](https://github.com/Freelander/Android_Data) - Some Android learning materials, hoping to help you learn Android development.
 - [malmo](https://github.com/microsoft/malmo) - Project Malmo is a platform for Artificial Intelligence experimentation and research built on top of Minecraft. We aim to inspire a new generation of research into challenging new problems presented by this unique environment. --- For installation instructions, scroll down to *Getting Started* below, or visit the project page for more information:
 - [ShineButton](https://github.com/ChadCSong/ShineButton) - This is a UI lib for Android. Effects like shining.
-- [gpslogger](https://github.com/mendhak/gpslogger) - :satellite: Lightweight GPS Logging Application For Android. Available on the Android Market as "GPSLogger for Android"
+- [gpslogger](https://github.com/mendhak/gpslogger) - :satellite: Lightweight GPS Logging Application For Android.
 - [TroikaDumper](https://github.com/gshevtsov/TroikaDumper) - Дампер и парсер памяти карты Тройка
 - [incubator-heron](https://github.com/apache/incubator-heron) - Apache Heron (Incubating) is a realtime, distributed, fault-tolerant stream processing engine from Twitter
 - [orientdb](https://github.com/orientechnologies/orientdb) - OrientDB is the most versatile DBMS supporting Graph, Document, Reactive, Full-Text, Geospatial and Key-Value models in one Multi-Model product. OrientDB can run distributed (Multi-Master), supports SQL, ACID Transactions, Full-Text indexing and Reactive Queries. OrientDB Community Edition is Open Source using a liberal Apache 2 license.
@@ -2885,7 +2890,7 @@
 - [pipedream](https://github.com/PipedreamHQ/pipedream) - Serverless integration and compute platform.  Free for developers.
 - [1920-s2](https://github.com/nus-cs2030/1920-s2) - The website of CS2030, 19/20 Sem 2.
 - [pino](https://github.com/pinojs/pino) - 🌲 super fast, all natural json logger 🌲
-- [30DaysOfJavaScript](https://github.com/Asabeneh/30DaysOfJavaScript) - 30 days of JavaScript programming challenge is a step by step guide to learn JavaScript programming language in 30 days
+- [30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - 30 days of JavaScript programming challenge is a step by step guide to learn JavaScript programming language in 30 days
 - [city-roads](https://github.com/anvaka/city-roads) - Visualization of all roads within any city
 - [ganlab](https://github.com/poloclub/ganlab) - GAN Lab: An Interactive, Visual Experimentation Tool for Generative Adversarial Networks
 - [manifold](https://github.com/uber/manifold) - A model-agnostic visual debugging tool for machine learning
@@ -3513,7 +3518,7 @@
 - [stockroom](https://github.com/developit/stockroom) - 🗃 Offload your store management to a worker easily.
 - [face-recognition.js](https://github.com/justadudewhohacks/face-recognition.js) - Simple Node.js package for robust face detection and face recognition. JavaScript and TypeScript API.
 - [workerize-loader](https://github.com/developit/workerize-loader) - 🏗️ Automatically move a module into a Web Worker (Webpack loader)
-- [puppeteer-examples](https://github.com/checkly/puppeteer-examples) - Puppeteer example scripts for running Headless Chrome from Node. Run them at https://puppeteersandbox.com
+- [puppeteer-examples](https://github.com/checkly/puppeteer-examples) - Puppeteer example scripts for running Headless Chrome from Node.
 - [ccxt](https://github.com/ccxt/ccxt) - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 120 bitcoin/altcoin exchanges
 - [workerize](https://github.com/developit/workerize) - 🏗️ Run a module in a Web Worker.
 - [san](https://github.com/baidu/san) - A fast, portable, flexible JavaScript component framework
@@ -5786,7 +5791,6 @@
 - [QuantumultX](https://github.com/nzw9314/QuantumultX) - QuantumultX
 - [introRL](https://github.com/zhoubolei/introRL) - Intro to Reinforcement Learning (强化学习纲要）
 - [docker-git-tip](https://github.com/djoudi5/docker-git-tip) - A handy CLI in Docker container to make optimum use of git tips, see: https://github.com/git-tips/tips
-- [stylegan2-distillation](https://github.com/EvgenyKashin/stylegan2-distillation) - 
 - [deep-nlp](https://github.com/deep-nlp-spring-2020/deep-nlp) - Natural Language Processing with Deep Learning
 - [learn2learn](https://github.com/G-Wang/learn2learn) - PyTorch Meta-learning Framework for Researchers
 - [MelGAN-Pytorch](https://github.com/G-Wang/MelGAN-Pytorch) - A Pytorch Implementation of MelGAN
@@ -5805,7 +5809,7 @@
 - [computer-vision-basics-in-microsoft-excel](https://github.com/amzn/computer-vision-basics-in-microsoft-excel) - Computer Vision Basics in Microsoft Excel (using just formulas)
 - [awesome-automl-papers](https://github.com/hibayesian/awesome-automl-papers) - A curated list of automated machine learning papers, articles, tutorials, slides and projects
 - [awesome-AutoML](https://github.com/windmaple/awesome-AutoML) - Curating a list of AutoML-related research, tools, projects and other resources
-- [awesome-tensorflow-lite](https://github.com/margaretmz/awesome-tensorflow-lite) - A curated list of awesome TensorFlow Lite models, samples, tutorials, tools and learning resources.
+- [awesome-tensorflow-lite](https://github.com/margaretmz/awesome-tensorflow-lite) - TensorFlow Lite models, samples, tutorials, tools and learning resources.
 - [flutter_vignettes](https://github.com/gskinnerTeam/flutter_vignettes) - A collection of fun Flutter experiments, created by gskinner, in partnership with Google.
 - [ReadMeTemplate](https://github.com/roshanlam/ReadMeTemplate) - Done with your project but having a hard time writing a ReadMe? Check Out This Repo I created. If you like it then use it
 - [awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
@@ -7002,6 +7006,7 @@
 - [AdelaiDet](https://github.com/aim-uofa/AdelaiDet) - AdelaiDet is an open source toolbox for multiple instance-level detection and recognition tasks.
 - [Games](https://github.com/CharlesPikachu/Games) - Some games created by python code.
 - [dreamer](https://github.com/google-research/dreamer) - Dream to Control: Learning Behaviors by Latent Imagination
+- [stylegan2-distillation](https://github.com/EvgenyKashin/stylegan2-distillation) - 
 - [ppo-pytorch](https://github.com/adik993/ppo-pytorch) - Proximal Policy Optimization(PPO) with Intrinsic Curiosity Module(ICM)
 - [tensorboard](https://github.com/dmlc/tensorboard) - Standalone TensorBoard for visualizing in deep learning
 - [electra](https://github.com/google-research/electra) - ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators
@@ -12953,7 +12958,6 @@
 ## TSQL 
 
 - [code2](https://github.com/AWSinAction/code2) - Code of Amazon Web Services in Action, Second Edition
-- [country-list](https://github.com/umpirsky/country-list) - :globe_with_meridians: List of all countries with names and ISO 3166-1 codes in all languages and data formats.
 - [sql-server-maintenance-solution](https://github.com/olahallengren/sql-server-maintenance-solution) - SQL Server Maintenance Solution
 - [metasploitable3](https://github.com/rapid7/metasploitable3) - Metasploitable3 is a VM that is built from the ground up with a large amount of security vulnerabilities.
 - [smq](https://github.com/antontarasenko/smq) - A collection of SQL queries to social media datasets.
