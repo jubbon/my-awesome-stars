@@ -85,6 +85,7 @@
   - [Ruby](#ruby)
   - [Rust](#rust)
   - [SCSS](#scss)
+  - [Sass](#sass)
   - [Scala](#scala)
   - [Scheme](#scheme)
   - [Shell](#shell)
@@ -627,7 +628,7 @@
 - [onnxruntime](https://github.com/microsoft/onnxruntime) - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
 - [carma-platform](https://github.com/usdot-fhwa-stol/carma-platform) - CARMA Platform is built on robot operating system (ROS) and utilizes open source software (OSS) that enables Cooperative Driving Automation (CDA) features to allow Automated Driving Systems to interact and cooperate with infrastructure and other vehicles through communication.
 - [GuiLite](https://github.com/idea4good/GuiLite) - ✔️The smallest header-only GUI library(5 KLOC) for all platforms
-- [flutter-desktop-embedding](https://github.com/google/flutter-desktop-embedding) - Examples of using, and testbed for, the in-development Flutter for Desktop
+- [flutter-desktop-embedding](https://github.com/google/flutter-desktop-embedding) - Experimental plugins for Flutter for Desktop
 - [TorchCraftAI](https://github.com/TorchCraft/TorchCraftAI) - A platform that lets you build agents to learn to play StarCraft: Brood War.
 - [Algojammer](https://github.com/ChrisKnott/Algojammer) - An experimental code editor for writing algorithms
 - [mindforger](https://github.com/dvorka/mindforger) - Thinking notebook and Markdown editor.
@@ -732,7 +733,7 @@
 - [incubator-pegasus](https://github.com/apache/incubator-pegasus) - ['pɛgəsəs] A distributed key-value storage system developed and maintained by Xiaomi Cloud Storage Team.
 - [plaidml](https://github.com/plaidml/plaidml) - PlaidML is a framework for making deep learning work everywhere.
 - [EdgeML](https://github.com/microsoft/EdgeML) - This repository provides code for machine learning algorithms for edge devices developed at Microsoft Research India.
-- [cosmos](https://github.com/OpenGenus/cosmos) - Algorithms that run our universe | Your personal library of every algorithm and data structure code that you will ever encounter | Ask us anything at our forum |
+- [cosmos](https://github.com/OpenGenus/cosmos) - | Contribute toward Hacktoberfest and enjoy 🌱 | Algorithms that run our universe | Your personal library of every algorithm and data structure code that you will ever encounter | Ask us anything at our forum |
 - [napajs](https://github.com/microsoft/napajs) - Napa.js: a multi-threaded JavaScript runtime
 - [dll](https://github.com/wichtounet/dll) - Deep Learning Library (DLL) for C++ (ANNs, CNNs, RBMs, DBNs...)
 - [Algo_Ds](https://github.com/srbcheema1/Algo_Ds) - Repository for cool algorithms and Datastructures
@@ -1250,7 +1251,7 @@
 - [animate.css](https://github.com/animate-css/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
 - [lavalamp.js](https://github.com/jgthms/lavalamp.js) - A replacement for infinite scrolling.
 - [Gutenberg](https://github.com/matejlatin/Gutenberg) - A meaningful web typography starter kit.
-- [bootstrap-material-design](https://github.com/FezVrasta/bootstrap-material-design) - Material design theme for Bootstrap 3 and 4
+- [bootstrap-material-design](https://github.com/bootstrap-material-design/bootstrap-material-design) - Material design theme for Bootstrap 3 and 4
 - [angular-horizontal-timeline](https://github.com/eowo/angular-horizontal-timeline) - Simple horizontal timeline directive for AngularJS
 - [angular-timeline](https://github.com/rpocklin/angular-timeline) - An Angular.JS directive that generates a responsive, data-driven vertical timeline to tell a story,  show history or describe a sequence of events.
 - [ngAudio](https://github.com/danielstern/ngAudio) - Angular Directive for Playing Sounds
@@ -1263,7 +1264,6 @@
 - [docker-curriculum](https://github.com/prakhar1989/docker-curriculum) - :dolphin: A comprehensive tutorial on getting started with Docker!
 - [graphene](https://github.com/jondot/graphene) - Graphene is a realtime dashboard & graphing toolkit based on D3 and Backbone.
 - [gdash](https://github.com/ripienaar/gdash) - A dashboard for Graphite
-- [sphinx_rtd_theme](https://github.com/readthedocs/sphinx_rtd_theme) - Sphinx theme for readthedocs.org
 - [djedi-cms](https://github.com/5monkeys/djedi-cms) - Django content management as it should be
 - [PyWorkshop2](https://github.com/araastat/PyWorkshop2) - 
 - [OSS4DS](https://github.com/altamiracorp/OSS4DS) - Open Source Software for Data Scientists
@@ -1545,7 +1545,7 @@
 - [godog](https://github.com/cucumber/godog) - Cucumber for golang
 - [aws-vault](https://github.com/99designs/aws-vault) - A vault for securely storing and accessing AWS credentials in development environments
 - [go-gitlab](https://github.com/xanzy/go-gitlab) - A GitLab API client enabling Go programs to interact with GitLab in a simple and uniform way
-- [micro](https://github.com/micro/micro) - Micro is a framework for cloud native development
+- [micro](https://github.com/micro/micro) - Micro is a development framework for the Cloud
 - [go-github](https://github.com/google/go-github) - Go library for accessing the GitHub API
 - [nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
 - [migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
@@ -2332,7 +2332,6 @@
 - [frontend](https://github.com/guardian/frontend) - The Guardian Dot Com.
 - [python-vs-javascript](https://github.com/sayazamurai/python-vs-javascript) - 
 - [quickstart-js](https://github.com/firebase/quickstart-js) - Firebase Quickstart Samples for Web
-- [wowchemy-hugo-modules](https://github.com/wowchemy/wowchemy-hugo-modules) - 📝 The website builder for Hugo. Build and deploy a beautiful website in minutes!
 - [MATRIX_Etherscan](https://github.com/MatrixAINetwork/MATRIX_Etherscan) - This is a crawler used to visit Ehterscan and obtain smartcontract related info
 - [uikit-ecommerce-template](https://github.com/chekromul/uikit-ecommerce-template) - E-commerce template built with UIKIt
 - [pymk-inspector](https://github.com/GMG-Special-Projects-Desk/pymk-inspector) - See the people Facebook thinks you know
@@ -3088,6 +3087,7 @@
 - [hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
 - [vue-go-example](https://github.com/ndabAP/vue-go-example) - Vue.js and Go example project
 - [arg](https://github.com/vercel/arg) - Simple argument parsing
+- [code2](https://github.com/AWSinAction/code2) - Code of Amazon Web Services in Action, Second Edition
 - [screenshoteer](https://github.com/vladocar/screenshoteer) - Make website screenshots and mobile emulations from the command line.
 - [forgJs](https://github.com/oussamahamdaoui/forgJs) - ForgJs is a javascript lightweight object validator. Go check the Quick start section and start coding with love
 - [sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP and TIFF images. Uses the libvips library.
@@ -3212,6 +3212,7 @@
 - [umbrella](https://github.com/franciscop/umbrella) - :umbrella: Lightweight javascript library for DOM manipulation and events
 - [svg-3d-builder](https://github.com/captainwz/svg-3d-builder) - an elaborate tool to create 3d model with svg
 - [TheoremJS](https://github.com/arguiot/TheoremJS) - A Math library for computation in JavaScript 📕
+- [wowchemy-hugo-modules](https://github.com/wowchemy/wowchemy-hugo-modules) - 📝 The website builder for Hugo. Build and deploy a beautiful website in minutes!
 - [rnset](https://github.com/suijunqiang/rnset) - rnset is a framework based on the react native & integrated a lot very good RN components to easy for verifying/using/picking in your projects
 - [iguazu](https://github.com/americanexpress/iguazu) - ✨ Iguazu is a simple Redux-powered Async Query engine
 - [algorithms-javascript](https://github.com/IamManchanda/algorithms-javascript) - Algorithms & Data Structures! [WIP] More questions are getting added!
@@ -4995,7 +4996,7 @@
 - [dog-project](https://github.com/udacity/dog-project) - 
 - [py](https://github.com/codebasics/py) - Repository to store sample python programs for python learning
 - [deep-learning-with-keras-notebooks](https://github.com/erhwenkuo/deep-learning-with-keras-notebooks) - Jupyter notebooks for using & learning Keras
-- [amazon-sagemaker-examples](https://github.com/awslabs/amazon-sagemaker-examples) - Example notebooks that show how to apply machine learning, deep learning and reinforcement learning in Amazon SageMaker
+- [amazon-sagemaker-examples](https://github.com/aws/amazon-sagemaker-examples) - Example notebooks that show how to apply machine learning, deep learning and reinforcement learning in Amazon SageMaker
 - [kaggle-web-traffic](https://github.com/Arturus/kaggle-web-traffic) - 1st place solution
 - [receptivefield](https://github.com/fornaxai/receptivefield) - Gradient based receptive field estimation for Convolutional Neural Networks
 - [nn_dynamics](https://github.com/anagabandi/nn_dynamics) - 
@@ -12726,6 +12727,10 @@
 - [minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
 - [css](https://github.com/primer/css) - The CSS design system that powers GitHub
 
+## Sass 
+
+- [sphinx_rtd_theme](https://github.com/readthedocs/sphinx_rtd_theme) - Sphinx theme for readthedocs.org
+
 ## Scala 
 
 - [mleap](https://github.com/combust/mleap) - MLeap: Deploy Spark Pipelines to Production
@@ -12957,7 +12962,6 @@
 
 ## TSQL 
 
-- [code2](https://github.com/AWSinAction/code2) - Code of Amazon Web Services in Action, Second Edition
 - [sql-server-maintenance-solution](https://github.com/olahallengren/sql-server-maintenance-solution) - SQL Server Maintenance Solution
 - [metasploitable3](https://github.com/rapid7/metasploitable3) - Metasploitable3 is a VM that is built from the ground up with a large amount of security vulnerabilities.
 - [smq](https://github.com/antontarasenko/smq) - A collection of SQL queries to social media datasets.
