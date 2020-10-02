@@ -136,6 +136,7 @@
 
 ## C 
 
+- [pypostal](https://github.com/openvenues/pypostal) - Python bindings to libpostal for fast international address parsing/normalization
 - [moloch](https://github.com/aol/moloch) - Moloch is an open source, large scale, full packet capturing, indexing, and database system.
 - [GloVe](https://github.com/stanfordnlp/GloVe) - GloVe model for distributed word representation
 - [IoTGoat](https://github.com/OWASP/IoTGoat) - IoTGoat is a deliberately insecure firmware created to educate software developers and security professionals with testing commonly found vulnerabilities in IoT devices.
@@ -1545,7 +1546,7 @@
 - [godog](https://github.com/cucumber/godog) - Cucumber for golang
 - [aws-vault](https://github.com/99designs/aws-vault) - A vault for securely storing and accessing AWS credentials in development environments
 - [go-gitlab](https://github.com/xanzy/go-gitlab) - A GitLab API client enabling Go programs to interact with GitLab in a simple and uniform way
-- [micro](https://github.com/micro/micro) - Micro is a development framework for the Cloud
+- [micro](https://github.com/micro/micro) - Micro is a framework for cloud native development
 - [go-github](https://github.com/google/go-github) - Go library for accessing the GitHub API
 - [nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
 - [migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
@@ -2181,6 +2182,7 @@
 - [kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
 - [turndown](https://github.com/domchristie/turndown) - 🛏 An HTML to Markdown converter written in JavaScript
 - [actions](https://github.com/Azure/actions) - Automate your GitHub workflows using Azure Actions
+- [DataCamp](https://github.com/wblakecannon/DataCamp) - DataCamp data-science courses
 - [nlp_workshop](https://github.com/buriy/nlp_workshop) - nlp workshop at datafest siberia 2019
 - [AttackVectors](https://github.com/MassMove/AttackVectors) - A repository to monitor attack vectors from state-backed information operations
 - [ASVS](https://github.com/OWASP/ASVS) - Application Security Verification Standard
@@ -2869,7 +2871,7 @@
 - [jsdoc](https://github.com/jsdoc/jsdoc) - An API documentation generator for JavaScript.
 - [vscode-plugin](https://github.com/kiteco/vscode-plugin) - Kite Autocomplete Plugin for Visual Studio Code
 - [express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
-- [tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 800 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 850 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [lime](https://github.com/marcotcr/lime) - Lime: Explaining the predictions of any machine learning classifier
 - [botframework-sdk](https://github.com/microsoft/botframework-sdk) - Bot Framework provides the most comprehensive experience for building conversation applications.
 - [uuid](https://github.com/lukeed/uuid) - A tiny (230B), fast, and cryptographically secure UUID (V4) generator for Node and the browser
@@ -4420,6 +4422,7 @@
 
 ## Jupyter Notebook 
 
+- [natasha-usage](https://github.com/natasha/natasha-usage) - 
 - [ClariQ](https://github.com/aliannejadi/ClariQ) - ClariQ: SCAI Workshop data challenge on conversational search clarification.
 - [CenterPoint](https://github.com/tianweiy/CenterPoint) - 
 - [Feature-Engineering-Live-sessions](https://github.com/krishnaik06/Feature-Engineering-Live-sessions) - 
@@ -4898,7 +4901,7 @@
 - [Tensorflow-Tutorial](https://github.com/yongyehuang/Tensorflow-Tutorial) - Some interesting TensorFlow tutorials for beginners.
 - [machine-learning](https://github.com/shik3519/machine-learning) - Implementation of different machine learning techniques
 - [annotated-transformer](https://github.com/harvardnlp/annotated-transformer) - http://nlp.seas.harvard.edu/2018/04/03/attention.html
-- [Deep_reinforcement_learning_Course](https://github.com/simoninithomas/Deep_reinforcement_learning_Course) - Implementations from the free course Deep Reinforcement Learning with Tensorflow
+- [Deep_reinforcement_learning_Course](https://github.com/simoninithomas/Deep_reinforcement_learning_Course) - Implementations from the free course Deep Reinforcement Learning with Tensorflow and PyTorch
 - [COMS4995-s18](https://github.com/amueller/COMS4995-s18) - COMS W4995 Applied Machine Learning - Spring 18
 - [AI_for_healthcare](https://github.com/llSourcell/AI_for_healthcare) - This is the code for "AI for Healthcare" By Siraj Raval on Youtube
 - [ml-minor-hse](https://github.com/esokolov/ml-minor-hse) - 
@@ -6842,7 +6845,6 @@
 - [TransformerTTS](https://github.com/as-ideas/TransformerTTS) - 🤖💬 Transformer TTS: Implementation of a non-autoregressive Transformer based neural network for text to speech.
 - [ScoutSuite](https://github.com/nccgroup/ScoutSuite) - Multi-Cloud Security Auditing Tool
 - [azure-sdk-for-python](https://github.com/Azure/azure-sdk-for-python) - This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/en-us/python/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-python.
-- [DataCamp](https://github.com/wblakecannon/DataCamp) - DataCamp data-science courses
 - [tensorflow-yolov4-tflite](https://github.com/hunglc007/tensorflow-yolov4-tflite) - YOLOv4, YOLOv4-tiny, YOLOv3, YOLOv3-tiny Implemented in Tensorflow 2.0, Android. Convert YOLO v4 .weights tensorflow, tensorrt and tflite
 - [Background-Matting](https://github.com/senguptaumd/Background-Matting) - Background Matting: The World is Your Green Screen
 - [awesome-asgi](https://github.com/florimondmanca/awesome-asgi) - A curated list of awesome ASGI servers, frameworks, apps, libraries, and other resources
@@ -7029,7 +7031,7 @@
 - [RIMs](https://github.com/anirudh9119/RIMs) - Code for "Recurrent Independent Mechanisms"
 - [PathCon](https://github.com/hwwang55/PathCon) - Combining relational context and relational paths for knowledge graph completion
 - [MAST](https://github.com/zlai0/MAST) - MAST: A Memory-Augmented Self-supervised Tracker (CVPR 2020)
-- [self-adaptive-training](https://github.com/LayneH/self-adaptive-training) - Official implementation of the paper 'Self-Adaptive Training: beyond Empirical Risk Minimization'
+- [self-adaptive-training](https://github.com/LayneH/self-adaptive-training) - Official implementation of the NeurIPS 2020 paper 'Self-Adaptive Training: beyond Empirical Risk Minimization'
 - [FreezeD](https://github.com/sangwoomo/FreezeD) - Freeze the Discriminator: a Simple Baseline for Fine-Tuning GANs (CVPRW 2020)
 - [centermask2](https://github.com/youngwanLEE/centermask2) - CenterMask2 on top of detectron2, in CVPR 2020
 - [CenterNet-better](https://github.com/FateScript/CenterNet-better) - An easy to understand and better performance version of CenterNet
@@ -8243,7 +8245,7 @@
 - [aio-pika](https://github.com/mosquito/aio-pika) - AMQP 0.9 client designed for asyncio and humans.
 - [brotlipy](https://github.com/python-hyper/brotlipy) - Python bindings to the Brotli compression library
 - [pytorch-template](https://github.com/victoresque/pytorch-template) - PyTorch deep learning projects made easy.
-- [djangox](https://github.com/wsvincent/djangox) - Django starter project with batteries
+- [djangox](https://github.com/wsvincent/djangox) - Django starter project with 🔋
 - [GyoiThon](https://github.com/gyoisamurai/GyoiThon) - GyoiThon is a growing penetration test tool using Machine Learning.
 - [livelossplot](https://github.com/stared/livelossplot) - Live training loss plot in Jupyter Notebook for Keras, PyTorch and others
 - [upvote](https://github.com/google/upvote) - A multi-platform binary whitelisting solution
