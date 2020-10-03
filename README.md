@@ -1003,7 +1003,9 @@
 
 - [Pathfinding-Visualizer](https://github.com/clementmihailescu/Pathfinding-Visualizer) - A visualization tool for various pathfinding algorithms.
 - [breaking-and-pwning-apps-and-servers-aws-azure-training](https://github.com/appsecco/breaking-and-pwning-apps-and-servers-aws-azure-training) - Course content, lab setup instructions and documentation of our very popular Breaking and Pwning Apps and Servers on AWS and Azure hands on training!
+- [awesome-django](https://github.com/wsvincent/awesome-django) - A curated list of awesome things related to Django
 - [git-workflow-merge-conflicts-lab](https://github.com/learn-co-curriculum/git-workflow-merge-conflicts-lab) - 
+- [vscode-plugin](https://github.com/kiteco/vscode-plugin) - Kite Autocomplete Plugin for Visual Studio Code
 - [tutorial](https://github.com/DjangoGirls/tutorial) - This is a tutorial we are using for Django Girls workshops
 - [tailwind-starter-kit](https://github.com/creativetimofficial/tailwind-starter-kit) - Tailwind Starter Kit a beautiful extension for TailwindCSS, Free and Open Source
 - [bootstrap-4-github-pages](https://github.com/nicolas-van/bootstrap-4-github-pages) - A Bootstrap 4 start up project for Github Pages and Jekyll
@@ -1252,7 +1254,7 @@
 - [animate.css](https://github.com/animate-css/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
 - [lavalamp.js](https://github.com/jgthms/lavalamp.js) - A replacement for infinite scrolling.
 - [Gutenberg](https://github.com/matejlatin/Gutenberg) - A meaningful web typography starter kit.
-- [bootstrap-material-design](https://github.com/bootstrap-material-design/bootstrap-material-design) - Material design theme for Bootstrap 3 and 4
+- [bootstrap-material-design](https://github.com/FezVrasta/bootstrap-material-design) - Material design theme for Bootstrap 3 and 4
 - [angular-horizontal-timeline](https://github.com/eowo/angular-horizontal-timeline) - Simple horizontal timeline directive for AngularJS
 - [angular-timeline](https://github.com/rpocklin/angular-timeline) - An Angular.JS directive that generates a responsive, data-driven vertical timeline to tell a story,  show history or describe a sequence of events.
 - [ngAudio](https://github.com/danielstern/ngAudio) - Angular Directive for Playing Sounds
@@ -2002,7 +2004,7 @@
 - [c2go](https://github.com/elliotchance/c2go) - ⚖️ A tool for transpiling C to Go.
 - [kr](https://github.com/kryptco/kr) - A dev tool for SSH auth + Git commit/tag signing using a key stored in Krypton.
 - [zetcd](https://github.com/etcd-io/zetcd) - Serve the Apache Zookeeper API but back it with an etcd cluster
-- [godzilla](https://github.com/jingweno/godzilla) - Godzilla is a ES2015 to Go source code transpiler and runtime
+- [godzilla](https://github.com/owenthereal/godzilla) - Godzilla is a ES2015 to Go source code transpiler and runtime
 - [cronsun](https://github.com/shunfei/cronsun) - A Distributed, Fault-Tolerant Cron-Style Job System.
 - [goka](https://github.com/lovoo/goka) - Goka is a compact yet powerful distributed stream processing library for Apache Kafka written in Go.
 - [fsql](https://github.com/kashav/fsql) - Search through your filesystem with SQL-esque queries.
@@ -2303,7 +2305,6 @@
 - [Publii](https://github.com/GetPublii/Publii) - Publii is a desktop-based CMS for Windows, Mac and Linux that makes creating static websites fast and hassle-free, even for beginners.
 - [BabySploit](https://github.com/M4cs/BabySploit) - :baby: BabySploit Beginner Pentesting Toolkit/Framework Written in Python :snake:
 - [parcel-by-sample](https://github.com/Lemoncode/parcel-by-sample) - Learn parcel by sample, each of the samples contains a readme.md file that indicates the purpose of the sample plus an step by step guide to reproduce it.
-- [colorpalette](https://github.com/makkoncept/colorpalette) - Flask app : extracts palette of dominating colors from image. https://colorpalettedemo.herokuapp.com/
 - [proposal-bigint](https://github.com/tc39/proposal-bigint) - Arbitrary precision integers in JavaScript
 - [Drone_Flight_Controller](https://github.com/llSourcell/Drone_Flight_Controller) - This is the code for "Drone Flight Controller" By Siraj Raval on Youtube
 - [illustrated-tls13](https://github.com/syncsynchalt/illustrated-tls13) - The Illustrated TLS 1.3 Connection: Every byte explained
@@ -2585,6 +2586,7 @@
 - [responsive-html-email-template](https://github.com/leemunroe/responsive-html-email-template) - A free simple responsive HTML email template
 - [sublime-enhanced](https://github.com/shagabutdinov/sublime-enhanced) - Set of plugins for beloved sublime text editor
 - [fastText](https://github.com/facebookresearch/fastText) - Library for fast text representation and classification.
+- [ansible-ssh-hardening](https://github.com/dev-sec/ansible-ssh-hardening) - This Ansible role provides numerous security-related ssh configurations, providing all-round base protection.
 - [Font-Awesome-SVGs](https://github.com/Rumyra/Font-Awesome-SVGs) - The iconic font and CSS toolkit
 - [web-design-in-4-minutes](https://github.com/jgthms/web-design-in-4-minutes) - Learn the basics of web design in 4 minutes
 - [arogozhnikov.github.io](https://github.com/arogozhnikov/arogozhnikov.github.io) - 'Brilliantly wrong' blog, Machine Learning visualizations live here
@@ -2869,7 +2871,6 @@
 - [webviz](https://github.com/cruise-automation/webviz) - web-based visualization libraries
 - [fullstack-course4](https://github.com/jhu-ep-coursera/fullstack-course4) - Example code for HTML, CSS, and Javascript for Web Developers Coursera Course
 - [jsdoc](https://github.com/jsdoc/jsdoc) - An API documentation generator for JavaScript.
-- [vscode-plugin](https://github.com/kiteco/vscode-plugin) - Kite Autocomplete Plugin for Visual Studio Code
 - [express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
 - [tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 850 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [lime](https://github.com/marcotcr/lime) - Lime: Explaining the predictions of any machine learning classifier
@@ -5616,6 +5617,7 @@
 - [ktor](https://github.com/ktorio/ktor) - Framework for quickly creating connected applications in Kotlin with minimal effort
 - [kotlin-native](https://github.com/JetBrains/kotlin-native) - Kotlin/Native infrastructure
 - [android-architecture-counter-sample](https://github.com/dlew/android-architecture-counter-sample) - Sample app using Android architecture components
+- [awesome-kotlin](https://github.com/KotlinBy/awesome-kotlin) - A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 - [anko](https://github.com/Kotlin/anko) - Pleasant Android application development
 - [kotlin-for-android-developers-zh](https://github.com/wangjiegulu/kotlin-for-android-developers-zh) - Kotlin for android developers in chinese.
 - [architecture-components-samples](https://github.com/android/architecture-components-samples) - Samples for Android Architecture Components.
@@ -5683,7 +5685,6 @@
 
 ## Makefile 
 
-- [awesome-django](https://github.com/wsvincent/awesome-django) - A curated list of awesome things related to Django
 - [docker-serverless](https://github.com/amaysim-au/docker-serverless) - Docker image containing NodeJS, Serverless Framework and Yarn.
 - [webappsec-change-password-url](https://github.com/w3c/webappsec-change-password-url) - A Well-Known URL for Changing Passwords
 - [graphpipe](https://github.com/oracle/graphpipe) - Machine Learning Model Deployment Made Simple
@@ -6298,7 +6299,6 @@
 - [100-days-of-code](https://github.com/kallaway/100-days-of-code) - Fork this template for the 100 days journal - to keep yourself accountable (multiple languages available)
 - [cheatsheets-ai](https://github.com/kailashahirwar/cheatsheets-ai) - Essential Cheat Sheets for deep learning and machine learning researchers https://medium.com/@kailashahirwar/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5
 - [ParseAlternatives](https://github.com/relatedcode/ParseAlternatives) - A collaborative list of Parse alternative backend service providers.
-- [awesome-kotlin](https://github.com/KotlinBy/awesome-kotlin) - A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 - [awesome-functional-programming](https://github.com/xgrommx/awesome-functional-programming) - Yet another resource for collecting articles, videos etc. regarding functional programming
 - [EthList](https://github.com/Scanate/EthList) - The Comprehensive Ethereum Reading List
 - [npm](https://github.com/npm/npm) - This repository is moving to: https://github.com/npm/cli
@@ -7772,6 +7772,7 @@
 - [vunet](https://github.com/CompVis/vunet) - A generative model conditioned on shape and appearance.
 - [saas-base](https://github.com/CaravelKit/saas-base) - SaaS base application (Flask, Vue, Bootstrap, Webpack)
 - [ClassificaIO](https://github.com/gmiaslab/ClassificaIO) - This repository contains ClassificaIO, a Python package that provides a graphical user interface (GUI) for machine learning algorithms from scikit-learn.
+- [colorpalette](https://github.com/makkoncept/colorpalette) - Flask app : extracts palette of dominating colors from image. https://colorpalette.xyz/
 - [uis-rnn](https://github.com/google/uis-rnn) - This is the library for the Unbounded Interleaved-State Recurrent Neural Network (UIS-RNN) algorithm, corresponding to the paper Fully Supervised Speaker Diarization.
 - [cutie](https://github.com/Kamik423/cutie) - Command line User Tools for Input Easification
 - [chartify](https://github.com/spotify/chartify) - Python library that makes it easy for data scientists to create charts.
@@ -12637,7 +12638,6 @@
 - [vagrant-lxc](https://github.com/fgrehm/vagrant-lxc) - LXC provider for Vagrant
 - [pghero](https://github.com/ankane/pghero) - A performance dashboard for Postgres
 - [xerosploit](https://github.com/LionSec/xerosploit) - Efficient and advanced man in the middle framework
-- [ansible-ssh-hardening](https://github.com/dev-sec/ansible-ssh-hardening) - This Ansible role provides numerous security-related ssh configurations, providing all-round base protection.
 - [ansible-mysql-hardening](https://github.com/dev-sec/ansible-mysql-hardening) - This Ansible role provides security configuration for MySQL.
 - [awesome-style-guide](https://github.com/kciter/awesome-style-guide) - A list of awesome:star:style guide.
 - [librarian-ansible](https://github.com/bcoe/librarian-ansible) - Port of librarian-chef, providing bundler functionality for Ansible roles.
