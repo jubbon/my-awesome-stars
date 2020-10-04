@@ -6974,7 +6974,7 @@
 - [Bert-Multi-Label-Text-Classification](https://github.com/lonePatient/Bert-Multi-Label-Text-Classification) - This repo contains a PyTorch implementation of a pretrained BERT model for multi-label text classification.
 - [Complex-YOLO](https://github.com/AI-liu/Complex-YOLO) - Complex-YOLO: Real-time 3D Object Detection on Point Clouds   pytorch  Darknet
 - [Pytorch_Mask_RCNN](https://github.com/soeaver/Pytorch_Mask_RCNN) - Converted from [tf+keras version MASK-RCNN](https://github.com/matterport/Mask_RCNN)
-- [schemathesis](https://github.com/schemathesis/schemathesis) - A tool that generates and runs test cases for Open API / GraphQL based apps
+- [schemathesis](https://github.com/schemathesis/schemathesis) - A modern API testing tool for web applications built with Open API and GraphQL specifications.
 - [doc2vec](https://github.com/ibrahimsharaf/doc2vec) - :notebook: Long(er) text representation and classification using Doc2Vec embeddings
 - [role2vec](https://github.com/benedekrozemberczki/role2vec) - A scalable Gensim implementation of "Learning Role-based Graph Embeddings" (IJCAI 2018).
 - [webvectors](https://github.com/akutuzov/webvectors) - Web-ify your word2vec: framework to serve distributional semantic models online
@@ -10040,7 +10040,7 @@
 - [bless](https://github.com/Netflix/bless) - Repository for BLESS, an SSH Certificate Authority that runs as a AWS Lambda function
 - [WeatherDesk](https://github.com/bharadwaj-raju/WeatherDesk) - MOVED: https://gitlab.com/bharadwaj-raju/WeatherDesk
 - [OpenWPM](https://github.com/mozilla/OpenWPM) - A web privacy measurement framework
-- [http-prompt](https://github.com/httpie/http-prompt) - An interactive command-line HTTP and API testing client built on top of HTTPie featuring autocomplete, syntax highlighting, and more. https://twitter.com/clihttp
+- [http-prompt](https://github.com/httpie/http-prompt) - An interactive command-line HTTP and API testing client built on top of HTTPie featuring autocomplete, syntax highlighting, and more. https://twitter.com/httpie
 - [TranscriptBot](https://github.com/agermanidis/TranscriptBot) - Auto-transcribe your meetings to Slack in real time
 - [datatest](https://github.com/shawnbrown/datatest) - Tools for test driven data-wrangling and data validation.
 - [say_what](https://github.com/joshnewlan/say_what) - Using speech-to-text to fully check out during con calls
@@ -11539,7 +11539,7 @@
 - [pyjstat](https://github.com/predicador37/pyjstat) - pyjstat is a python library for JSON-stat formatted data manipulation which allows reading and writing JSON-stat [1] format with python,using the DataFrame structures provided by the widely accepted pandas library
 - [NouGAT](https://github.com/vezzi/NouGAT) - 
 - [mittn](https://github.com/F-Secure/mittn) - Mittn: Security test tool runner for test automation in CI
-- [httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/clihttp
+- [httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
 - [cytoolz](https://github.com/pytoolz/cytoolz) - Cython implementation of Toolz: High performance functional utilities
 - [Spirit](https://github.com/nitely/Spirit) - Spirit is a modern Python based forum built on top of Django framework
 - [container-agent](https://github.com/googlearchive/container-agent) - Simple agent for running containers based on a declarative manifest.
@@ -12782,7 +12782,7 @@
 - [docker-odoo-project](https://github.com/camptocamp/docker-odoo-project) - Base images for Odoo projects
 - [docker-pi-hole](https://github.com/pi-hole/docker-pi-hole) - Pi-hole in a docker container
 - [tensorflow-build-archived](https://github.com/lakshayg/tensorflow-build-archived) - TensorFlow binaries supporting AVX, FMA, SSE
-- [Revssl](https://github.com/wintrmvte/Revssl) - A script that automates generation of OpenSSL reverse shells
+- [Revssl](https://github.com/redcode-labs/Revssl) - A script that automates generation of OpenSSL reverse shells
 - [Overpass-API](https://github.com/wiktorn/Overpass-API) - Overpass API docker image
 - [docker-overpass-api](https://github.com/mediasuitenz/docker-overpass-api) - Docker Overpass API
 - [docker-pyinstaller](https://github.com/cdrx/docker-pyinstaller) - PyInstaller for Linux and Windows inside Docker
