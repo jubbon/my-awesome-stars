@@ -568,7 +568,7 @@
 - [jetson-inference](https://github.com/dusty-nv/jetson-inference) - Hello AI World guide to deploying deep-learning inference networks and deep vision primitives with TensorRT and NVIDIA Jetson.
 - [mapbox-gl-native](https://github.com/mapbox/mapbox-gl-native) - Interactive, thoroughly customizable maps in native Android, iOS, macOS, Node.js, and Qt applications, powered by vector tiles and OpenGL
 - [pfaedle](https://github.com/ad-freiburg/pfaedle) - Precise map-matching for public transit feeds. Generates high-quality GTFS shapes from OSM data.
-- [taskflow](https://github.com/taskflow/taskflow) - Modern C++ Parallel Task Programming
+- [taskflow](https://github.com/taskflow/taskflow) - Parallel and Heterogeneous Task Programming in Modern C++
 - [YouTokenToMe](https://github.com/VKCOM/YouTokenToMe) - Unsupervised text tokenizer focused on computational efficiency
 - [griddb](https://github.com/griddb/griddb) - GridDB is a next-generation open source database that makes time series IoT and big data fast,and easy.
 - [server](https://github.com/triton-inference-server/server) - The Triton Inference Server provides an optimized cloud and edge inferencing solution.
@@ -1254,7 +1254,7 @@
 - [animate.css](https://github.com/animate-css/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
 - [lavalamp.js](https://github.com/jgthms/lavalamp.js) - A replacement for infinite scrolling.
 - [Gutenberg](https://github.com/matejlatin/Gutenberg) - A meaningful web typography starter kit.
-- [bootstrap-material-design](https://github.com/FezVrasta/bootstrap-material-design) - Material design theme for Bootstrap 3 and 4
+- [bootstrap-material-design](https://github.com/mdbootstrap/bootstrap-material-design) - Material design theme for Bootstrap 3 and 4
 - [angular-horizontal-timeline](https://github.com/eowo/angular-horizontal-timeline) - Simple horizontal timeline directive for AngularJS
 - [angular-timeline](https://github.com/rpocklin/angular-timeline) - An Angular.JS directive that generates a responsive, data-driven vertical timeline to tell a story,  show history or describe a sequence of events.
 - [ngAudio](https://github.com/danielstern/ngAudio) - Angular Directive for Playing Sounds
@@ -1548,7 +1548,7 @@
 - [godog](https://github.com/cucumber/godog) - Cucumber for golang
 - [aws-vault](https://github.com/99designs/aws-vault) - A vault for securely storing and accessing AWS credentials in development environments
 - [go-gitlab](https://github.com/xanzy/go-gitlab) - A GitLab API client enabling Go programs to interact with GitLab in a simple and uniform way
-- [micro](https://github.com/micro/micro) - Micro is a platform built for the Cloud era
+- [micro](https://github.com/micro/micro) - Micro is a framework for cloud native development
 - [go-github](https://github.com/google/go-github) - Go library for accessing the GitHub API
 - [nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
 - [migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
@@ -7569,7 +7569,7 @@
 - [FaceDetection-DSFD](https://github.com/Tencent/FaceDetection-DSFD) - 腾讯优图高精度双分支人脸检测器
 - [pytorch_GAN_zoo](https://github.com/facebookresearch/pytorch_GAN_zoo) - A mix of GAN implementations including progressive growing
 - [SPADE](https://github.com/NVlabs/SPADE) - Semantic Image Synthesis with SPADE
-- [guildai](https://github.com/guildai/guildai) - Lightweight Open Source Experiment Tracking
+- [guildai](https://github.com/guildai/guildai) - Experiment tracking, ML developer tools
 - [treon](https://github.com/ReviewNB/treon) - Easy to use test framework for Jupyter Notebooks
 - [simp_le](https://github.com/zenhack/simp_le) - Simple Let's Encrypt client
 - [AmpliGraph](https://github.com/Accenture/AmpliGraph) - Python library for Representation Learning on Knowledge Graphs https://docs.ampligraph.org
@@ -12645,7 +12645,7 @@
 - [ansible-mysql-hardening](https://github.com/dev-sec/ansible-mysql-hardening) - This Ansible role provides security configuration for MySQL.
 - [awesome-style-guide](https://github.com/kciter/awesome-style-guide) - A list of awesome:star:style guide.
 - [librarian-ansible](https://github.com/bcoe/librarian-ansible) - Port of librarian-chef, providing bundler functionality for Ansible roles.
-- [docker](https://github.com/chef-cookbooks/docker) - Chef Cookbook for Docker
+- [docker](https://github.com/sous-chefs/docker) - Chef Cookbook for Docker
 - [t](https://github.com/sferik/t) - A command-line power tool for Twitter.
 - [fias](https://github.com/evilmartians/fias) - Ruby wrapper for the Russian FIAS database (Федеральная Информационная Адресная Система)
 - [vagrant-aws](https://github.com/mitchellh/vagrant-aws) - Use Vagrant to manage your EC2 and VPC instances.
