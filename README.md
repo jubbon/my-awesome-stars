@@ -466,6 +466,7 @@
 - [ailab](https://github.com/microsoft/ailab) - Experience, Learn and Code the latest breakthrough innovations with Microsoft AI
 - [DRL_based_SelfDrivingCarControl](https://github.com/MLJejuCamp2017/DRL_based_SelfDrivingCarControl) - Deep Reinforcement Learning (DQN) based Self Driving Car Control with Vehicle Simulator
 - [blockchain](https://github.com/dvf/blockchain) - A simple Blockchain in Python
+- [ml-agents](https://github.com/Unity-Technologies/ml-agents) - Unity Machine Learning Agents Toolkit
 - [sqlnotebook](https://github.com/electroly/sqlnotebook) - Tabular data exploration and manipulation tool powered by SQLite.
 - [TensorFlowSharp](https://github.com/migueldeicaza/TensorFlowSharp) - TensorFlow API for .NET languages
 - [electrino](https://github.com/pojala/electrino) - Desktop runtime for apps built on web technologies, using the system's own web browser engine
@@ -801,7 +802,7 @@
 - [omniscidb](https://github.com/omnisci/omniscidb) - OmniSciDB (formerly MapD Core)
 - [xtensor-python](https://github.com/xtensor-stack/xtensor-python) - Python bindings for xtensor
 - [face_swap](https://github.com/YuvalNirkin/face_swap) - End-to-end, automatic face swapping pipeline
-- [clif](https://github.com/google/clif) - Wrapper generator foundation to wrap C++ for Python and other languages using LLVM.
+- [clif](https://github.com/google/clif) - Binding generator to wrap C++ for Python using LLVM.
 - [node-packer](https://github.com/pmq20/node-packer) - Packing your Node.js application into a single executable.
 - [lnav](https://github.com/tstack/lnav) - Log file navigator
 - [ORB_SLAM2](https://github.com/raulmur/ORB_SLAM2) - Real-Time SLAM for Monocular, Stereo and RGB-D Cameras, with Loop Detection and Relocalization Capabilities
@@ -1198,7 +1199,6 @@
 - [weather-icons](https://github.com/erikflowers/weather-icons) - 215 Weather Themed Icons and CSS
 - [calcite-web](https://github.com/Esri/calcite-web) - Authoritative front-end development resources for Calcite design initiative. Includes extendable base components and styles, as well as a modular and efficient framework for ArcGIS properties.
 - [AwesomePerfCpp](https://github.com/fenbf/AwesomePerfCpp) - A curated list of awesome C/C++ performance optimization resources: talks, articles, books, libraries, tools, sites, blogs. Inspired by awesome.
-- [seti-ui](https://github.com/jesseweed/seti-ui) - A subtle dark colored UI theme for Atom.
 - [mobi.css](https://github.com/mobi-css/mobi.css) - A lightweight, scalable, mobile-first CSS framework
 - [material-design-for-bootstrap](https://github.com/mdbootstrap/material-design-for-bootstrap) - Material Design for Bootstrap - Powerful and free UI KIT for Bootstrap 4
 - [swmp](https://github.com/fuzzymannerz/swmp) - A responsive, eye-pleasing Linux server statistics dashboard.
@@ -1254,7 +1254,7 @@
 - [animate.css](https://github.com/animate-css/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
 - [lavalamp.js](https://github.com/jgthms/lavalamp.js) - A replacement for infinite scrolling.
 - [Gutenberg](https://github.com/matejlatin/Gutenberg) - A meaningful web typography starter kit.
-- [bootstrap-material-design](https://github.com/mdbootstrap/bootstrap-material-design) - Material design theme for Bootstrap 3 and 4
+- [bootstrap-material-design](https://github.com/mdbootstrap/bootstrap-material-design) - Bootstrap 4 Material Design - see readme. New version for Bootstrap 5 - see the link below.
 - [angular-horizontal-timeline](https://github.com/eowo/angular-horizontal-timeline) - Simple horizontal timeline directive for AngularJS
 - [angular-timeline](https://github.com/rpocklin/angular-timeline) - An Angular.JS directive that generates a responsive, data-driven vertical timeline to tell a story,  show history or describe a sequence of events.
 - [ngAudio](https://github.com/danielstern/ngAudio) - Angular Directive for Playing Sounds
@@ -2514,7 +2514,6 @@
 - [html-reference](https://github.com/jgthms/html-reference) - HTML Reference: a free guide to all HTML5 elements and attributes
 - [blockchain-demo](https://github.com/anders94/blockchain-demo) - A web-based demonstration of blockchain concepts.
 - [training-kit](https://github.com/github/training-kit) - Open source cheat sheets for Git and GitHub
-- [awesome-competitive-programming](https://github.com/lnishan/awesome-competitive-programming) - :gem: A curated list of awesome Competitive Programming, Algorithm and Data Structure resources
 - [doc-kurento-readthedocs](https://github.com/Kurento/doc-kurento-readthedocs) - [READ-ONLY] Auto-generated documentation sources for ReadTheDocs
 - [startbootstrap-creative](https://github.com/StartBootstrap/startbootstrap-creative) - A one page HTML theme for creatives by Start Bootstrap
 - [simpl](https://github.com/samdutton/simpl) - Simplest possible examples of HTML, CSS and Javascript:
@@ -3150,7 +3149,6 @@
 - [vue-hooks](https://github.com/yyx990803/vue-hooks) - Experimental React hooks implementation in Vue
 - [instacam](https://github.com/xavierfoucrier/instacam) - Instant canvas video
 - [vstutils](https://github.com/vstconsulting/vstutils) - Small framework for easy generates web-applications (SPA or Single Page Application).
-- [sanity](https://github.com/sanity-io/sanity) - The Sanity Studio – Collaborate in real-time on structured content
 - [boostnote-mobile](https://github.com/BoostIO/boostnote-mobile) - Boostnote for iOS and Android 🚀
 - [koa](https://github.com/koajs/koa) - Expressive middleware for node.js using ES2017 async functions
 - [ScatterDesktop](https://github.com/GetScatter/ScatterDesktop) - Connect to applications on EOS, Ethereum, and Tron. Exchange tokens with ease. Manage your assets safely. All in a simple to use interface.
@@ -3453,7 +3451,7 @@
 - [tangram](https://github.com/tangrams/tangram) - WebGL map rendering engine for creative cartography
 - [vue-fineuploader](https://github.com/Elhebert/vue-fineuploader) - Easily integrate Fine Uploader into a VueJS 2 app. Drop-in high-level components for a turn-key UI. Use small focused components to build a more custom UI.
 - [sockette](https://github.com/lukeed/sockette) - The cutest little WebSocket wrapper! 🧦
-- [expressCart](https://github.com/mrvautin/expressCart) - A fully functioning Node.js shopping cart with Stripe, PayPal, Authorize.net, PayWay, Blockonomics and Adyen payments.
+- [expressCart](https://github.com/mrvautin/expressCart) - A fully functioning Node.js shopping cart with Stripe, PayPal, Authorize.net, PayWay, Blockonomics, Adyen, Zip and Instore payments.
 - [webpack-demos](https://github.com/ruanyf/webpack-demos) - a collection of simple demos of Webpack
 - [simple_tensorflow_serving](https://github.com/tobegit3hub/simple_tensorflow_serving) - Generic and easy-to-use serving service for machine learning models
 - [cors](https://github.com/expressjs/cors) - Node.js CORS middleware
@@ -3987,7 +3985,7 @@
 - [react-faq](https://github.com/timarney/react-faq) - A collection of links to help answer your questions about React.js
 - [pibakery](https://github.com/davidferguson/pibakery) - The blocks based, easy to use setup tool for Raspberry Pi
 - [react-with-styles](https://github.com/airbnb/react-with-styles) - Use CSS-in-JavaScript with themes for React without being tightly coupled to one implementation
-- [react-native-elements](https://github.com/react-native-elements/react-native-elements) - Cross Platform React Native UI Toolkit
+- [react-native-elements](https://github.com/react-native-elements/react-native-elements) - Cross-Platform React Native UI Toolkit
 - [react-native-material-design](https://github.com/invertase/react-native-material-design) - React Native UI Components for Material Design
 - [egg](https://github.com/eggjs/egg) - 🥚 Born to build better enterprise frameworks and apps with Node.js & Koa
 - [redux-remotedev](https://github.com/zalmoxisus/redux-remotedev) - Redux DevTools for production (web and React Native) with a highly flexible API.
@@ -4687,6 +4685,7 @@
 - [lacmus](https://github.com/lacmus-foundation/lacmus) - Lacmus is a cross-platform application that helps to find people who are lost in the forest using computer vision and neural networks.
 - [transformer](https://github.com/suyash/transformer) - A Transformer implementation in Keras' Imperative (Subclassing) API for TensorFlow.
 - [introductory_pot_hole_viz](https://github.com/mmonzoor/introductory_pot_hole_viz) - 
+- [Azure-Sentinel](https://github.com/Azure/Azure-Sentinel) - Cloud-native SIEM for intelligent security analytics for your entire enterprise.
 - [AttentionExplanation](https://github.com/successar/AttentionExplanation) - 
 - [dlcourse_ai](https://github.com/sim0nsays/dlcourse_ai) - Материалы курса Deep Learning на пальцах
 - [Easy_street_parking_with_MASK-RCNN](https://github.com/ankit1khare/Easy_street_parking_with_MASK-RCNN) - A prototype application that can be transformed into a full-fledged real-time parking management app to help people find parking spots near malls, shopping areas, cinema house etc. A text message is sent to let you know whenever there's a vacancy in the nearby street parking or community parking. Park_clever notebook contains the latest code.
@@ -5636,6 +5635,7 @@
 - [documentation-user](https://github.com/odoo/documentation-user) - Sources For Odoo Enterprise Business Apps User Manual
 - [QGIS-Website](https://github.com/qgis/QGIS-Website) - QGIS-Website
 - [monokai](https://github.com/kevinsawicki/monokai) - Monokai Atom Syntax theme
+- [seti-ui](https://github.com/jesseweed/seti-ui) - A subtle dark colored UI theme for Atom.
 
 ## Lua 
 
@@ -6375,6 +6375,7 @@
 - [interview-questions-in-javascript](https://github.com/kennymkchan/interview-questions-in-javascript) - A mostly reasonable collection of technical software development interview questions solved in Javascript
 - [awesome-devenv](https://github.com/jondot/awesome-devenv) - A curated list of awesome tools, resources and workflow tips making an awesome development environment.
 - [lectures](https://github.com/oxford-cs-deepnlp-2017/lectures) - Oxford Deep NLP 2017 course
+- [awesome-competitive-programming](https://github.com/lnishan/awesome-competitive-programming) - :gem: A curated list of awesome Competitive Programming, Algorithm and Data Structure resources
 - [open-traffic-collection](https://github.com/graphhopper/open-traffic-collection) - Collection of open data resources for traffic information
 - [dns-violations](https://github.com/dns-violations/dns-violations) - List of DNS violations by implementations, software and/or systems
 - [awesome-fp-js](https://github.com/stoeffel/awesome-fp-js) - :sunglasses: A curated list of awesome functional programming stuff in js
@@ -6740,7 +6741,6 @@
 - [virtual-environments](https://github.com/actions/virtual-environments) - GitHub Actions virtual environments
 - [awesome-azure-learning](https://github.com/ddneves/awesome-azure-learning) - This repo includes plenty of references for Azure learning, especially for the Azure certs and Azure architecture, and any other learning materials e.g. security and automation topics.
 - [azure-docs](https://github.com/MicrosoftDocs/azure-docs) - Open source documentation of Microsoft Azure
-- [Azure-Sentinel](https://github.com/Azure/Azure-Sentinel) - Cloud-native SIEM for intelligent security analytics for your entire enterprise.
 - [azure-quickstart-templates](https://github.com/Azure/azure-quickstart-templates) - Azure Quickstart Templates
 
 ## Processing 
@@ -6770,6 +6770,7 @@
 
 ## Python 
 
+- [st-annotated-text](https://github.com/tvst/st-annotated-text) - A simple component to display annotated text in Streamlit apps.
 - [BERT-NER](https://github.com/kyzhouhzau/BERT-NER) - Use Google's BERT for named entity recognition （CoNLL-2003 as the dataset）.
 - [FARM](https://github.com/deepset-ai/FARM) - :house_with_garden: Fast & easy transfer learning for NLP. Harvesting language models for the industry.
 - [sequence_tagging](https://github.com/guillaumegenthial/sequence_tagging) - Named Entity Recognition (LSTM + CRF) - Tensorflow
@@ -8817,7 +8818,6 @@
 - [fairseq](https://github.com/pytorch/fairseq) - Facebook AI Research Sequence-to-Sequence Toolkit written in Python.
 - [weibospider](https://github.com/SpiderClub/weibospider) - :zap: A distributed crawler for weibo, building with celery and requests.
 - [SerpentAI](https://github.com/SerpentAI/SerpentAI) - Game Agent Framework. Helping you create AIs / Bots that learn to play any game you own!
-- [ml-agents](https://github.com/Unity-Technologies/ml-agents) - Unity Machine Learning Agents Toolkit
 - [onnx-caffe2](https://github.com/onnx/onnx-caffe2) - Caffe2 implementation of Open Neural Network Exchange (ONNX)
 - [fa2l](https://github.com/bosiakov/fa2l) - Force Atlas 2 graph layout
 - [studio](https://github.com/studioml/studio) - Studio: Simplify and expedite model building process
@@ -9491,7 +9491,7 @@
 - [deepgraph](https://github.com/deepgraph/deepgraph) - Analyze Data with Pandas-based Networks. Documentation:
 - [gransk](https://github.com/pcbje/gransk) - Document processing for investigations
 - [malboxes](https://github.com/GoSecure/malboxes) - Builds malware analysis Windows VMs so that you don't have to.
-- [oil](https://github.com/oilshell/oil) - A new Unix shell.  Our upgrade path from bash to a better language.
+- [oil](https://github.com/oilshell/oil) - A new Unix shell.  Our upgrade path from bash to a better language and runtime.
 - [pynamical](https://github.com/gboeing/pynamical) - Pynamical is a Python package for modeling and visualizing discrete nonlinear dynamical systems, chaos, and fractals.
 - [container-images](https://github.com/IntelPython/container-images) - Dockerfiles for building docker images
 - [Wifi-Dumper](https://github.com/Viralmaniar/Wifi-Dumper) - This is an open source tool to dump the wifi profiles and cleartext passwords of the connected access points on the Windows machine. This tool will help you in a Wifi penetration testing. Furthermore, it is useful while performing red team or an internal infrastructure engagements.
@@ -10985,7 +10985,7 @@
 - [GitSavvy](https://github.com/timbrel/GitSavvy) - Full git and GitHub integration with Sublime Text 3.
 - [alphabet-detector](https://github.com/EliFinkelshteyn/alphabet-detector) - A library to detect what alphabet something is written in.
 - [spyre](https://github.com/adamhajari/spyre) - a web application framework for python
-- [xonsh](https://github.com/xonsh/xonsh) - Python-powered, cross-platform, Unix-gazing shell
+- [xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered, cross-platform, Unix-gazing shell
 - [ColorHelper](https://github.com/facelessuser/ColorHelper) - Sublime plugin that provides helpful color tooltips
 - [seria](https://github.com/rtluckie/seria) - 
 - [homu](https://github.com/barosl/homu) - A bot that integrates with GitHub and your favorite continuous integration service
@@ -12299,7 +12299,7 @@
 - [PyExcelerate](https://github.com/kz26/PyExcelerate) - Accelerated Excel XLSX Writing Library for Python 2/3
 - [python-nvd3](https://github.com/areski/python-nvd3) - Python Wrapper for NVD3 - It's time for beautiful charts
 - [copperhead](https://github.com/bryancatanzaro/copperhead) - Data Parallel Python
-- [falcon](https://github.com/falconry/falcon) - The no-nonsense, minimalist web services and app backend framework for Python developers, with a focus on reliability, correctness, and performance at scale.
+- [falcon](https://github.com/falconry/falcon) - The no-nonsense, minimalist REST services and app backend framework for Python developers, with a focus on reliability, correctness, and performance at scale.
 - [logscan](https://github.com/thomst/logscan) - logscan is a command-line-tool to get time-specific access to logfiles. It can handle rotated and gzipped logfiles or reads from stdin. The log   is automatically checked for different timecodes.
 - [timeparser](https://github.com/thomst/timeparser) - Parse strings to objects of the datetime-module.  This module intends to make string-parsing to objects of the datetime-module as easy as possible while allowing a fine configuration about which kind of formats are supported.
 - [timeparse](https://github.com/thomst/timeparse) - An argparse-extension for parsing command-line arguments as time-, date-, datetime-, or timedelta-objects.
@@ -12645,7 +12645,7 @@
 - [ansible-mysql-hardening](https://github.com/dev-sec/ansible-mysql-hardening) - This Ansible role provides security configuration for MySQL.
 - [awesome-style-guide](https://github.com/kciter/awesome-style-guide) - A list of awesome:star:style guide.
 - [librarian-ansible](https://github.com/bcoe/librarian-ansible) - Port of librarian-chef, providing bundler functionality for Ansible roles.
-- [docker](https://github.com/sous-chefs/docker) - Chef Cookbook for Docker
+- [docker](https://github.com/sous-chefs/docker) - Development repository for the docker cookbook
 - [t](https://github.com/sferik/t) - A command-line power tool for Twitter.
 - [fias](https://github.com/evilmartians/fias) - Ruby wrapper for the Russian FIAS database (Федеральная Информационная Адресная Система)
 - [vagrant-aws](https://github.com/mitchellh/vagrant-aws) - Use Vagrant to manage your EC2 and VPC instances.
@@ -13092,6 +13092,7 @@
 - [statusfy](https://github.com/juliomrqz/statusfy) - A Marvelous Open Source Status Page System
 - [axios-actions](https://github.com/davestewart/axios-actions) - Bundle endpoints as callable, reusable services
 - [eva-icons](https://github.com/akveo/eva-icons) - A pack of more than 480 beautifully crafted Open Source icons. SVG, Sketch, Web Font and Animations support.
+- [sanity](https://github.com/sanity-io/sanity) - The Sanity Studio – Collaborate in real-time on structured content
 - [graphql-editor](https://github.com/graphql-editor/graphql-editor) - 📺 Visual Editor & GraphQL IDE. Draw GraphQL schemas using visual 🔷 nodes and explore GraphQL API with beautiful UI. Even 🐒 can do that!
 - [grafana-statusmap](https://github.com/flant/grafana-statusmap) - Grafana panel plugin to visualize status of multiple objects over time
 - [strest](https://github.com/eykrehbein/strest) - ⚡️ CI-ready tests for REST APIs configured in YAML
@@ -13259,7 +13260,7 @@
 - [Leaflet.timeline](https://github.com/skeate/Leaflet.timeline) - Display arbitrary GeoJSON on a map with a timeline slider and play button
 - [ngx-admin](https://github.com/akveo/ngx-admin) - Customizable admin dashboard template based on Angular 10+
 - [atoms](https://github.com/BlazeSoftware/atoms) - Atoms for Blaze UI
-- [ionicons](https://github.com/ionic-team/ionicons) - The premium icon pack for Ionic Framework and web apps everywhere
+- [ionicons](https://github.com/ionic-team/ionicons) - Premium hand-crafted icons built by Ionic, for Ionic apps and web apps everywhere 🌎
 - [playground](https://github.com/tensorflow/playground) - Play with neural networks!
 - [bricklayer](https://github.com/ademilter/bricklayer) - Lightweight and independent Pinterest-like cascading grid layout library
 - [storybook](https://github.com/storybookjs/storybook) - 📓 The UI component explorer. Develop, document, & test for React, Vue, Angular, Ember, Web Components, & more!
