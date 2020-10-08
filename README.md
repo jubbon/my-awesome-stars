@@ -510,6 +510,7 @@
 - [srt](https://github.com/Haivision/srt) - Secure, Reliable, Transport
 - [MultiMC5](https://github.com/MultiMC/MultiMC5) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once
 - [zeal](https://github.com/zealdocs/zeal) - Offline documentation browser inspired by Dash
+- [tink](https://github.com/google/tink) - Tink is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.
 - [udp2raw-tunnel](https://github.com/wangyu-/udp2raw-tunnel) - A Tunnel which Turns UDP Traffic into Encrypted UDP/FakeTCP/ICMP Traffic by using Raw Socket,helps you Bypass UDP FireWalls(or Unstable UDP Environment)
 - [re2](https://github.com/google/re2) - RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.
 - [box2d](https://github.com/erincatto/box2d) - Box2D is a 2D physics engine for games
@@ -1141,7 +1142,6 @@
 - [owasp-summit-2017](https://github.com/OWASP/owasp-summit-2017) - Content for OWASP Summit 2017 site
 - [js-mythbusters](https://github.com/Kikobeats/js-mythbusters) - :ghost: STHAP js, where is my perfomance?
 - [now-ui-kit](https://github.com/creativetimofficial/now-ui-kit) - Now UI Kit Bootstrap 4 - Designed by Invision. Coded by Creative Tim
-- [serverless-stack-com](https://github.com/AnomalyInnovations/serverless-stack-com) - Serverless Stack is an open source guide for building and deploying full-stack apps using Serverless and React on AWS.
 - [jdm](https://github.com/jdm-contrib/jdm) - A directory of direct links to delete your account from web services.
 - [mocka](https://github.com/Chalarangelo/mocka) - Simple, elegant content placeholder
 - [D3-ID3](https://github.com/C-JSN/D3-ID3) - iD3: an Integrated Development Environment for D3.js
@@ -2316,7 +2316,7 @@
 - [creative-computing-society.github.io](https://github.com/creative-computing-society/creative-computing-society.github.io) - This is the Hacktoberfest first contribution website of CCS
 - [My-Learning-Tracker-first-ten-months](https://github.com/Syknapse/My-Learning-Tracker-first-ten-months) - A copy of my learning tracker frozen in time at the 10 month mark. It shows my learning process from the beginning of my front end journey, up to the moment I got my first job. Full tracker is at: https://github.com/Syknapse/My-Learning-Tracker
 - [meilix-generator](https://github.com/fossasia/meilix-generator) - WebApp for generating a custom ISO image based on Meilix http://meilix.org
-- [pslab.io](https://github.com/fossasia/pslab.io) - Pocket Science Lab Website http://pslab.io
+- [pslab-sister](https://github.com/fossasia/pslab-sister) - Pocket Science Lab - Sister Device using ARM chips https://pslab.io
 - [data-life](https://github.com/abcnews/data-life) - 
 - [deskportfolio](https://github.com/Chippd/deskportfolio) - A portfolio website built using a desk and wall as a theme
 - [async-javascript-cheatsheet](https://github.com/frontarm/async-javascript-cheatsheet) - Cheatsheet for promises and async/await.
@@ -2721,7 +2721,6 @@
 
 - [cassandra-workshop-series](https://github.com/DataStax-Academy/cassandra-workshop-series) - All materials for the Cassandra Workshop Series in a single place
 - [spring-cloud-alibaba](https://github.com/alibaba/spring-cloud-alibaba) - Spring Cloud Alibaba provides a one-stop solution for application development for the distributed solutions of Alibaba middleware.
-- [tink](https://github.com/google/tink) - Tink is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.
 - [piranha](https://github.com/uber/piranha) - A tool for refactoring code related to feature flag APIs
 - [Algorithms](https://github.com/williamfiset/Algorithms) - A collection of algorithms and data structures
 - [tutorials](https://github.com/eugenp/tutorials) - Just Announced - "Learn Spring Security OAuth":
@@ -3361,7 +3360,6 @@
 - [Leaflet.MovingMarker](https://github.com/ewoken/Leaflet.MovingMarker) - A Leaflet plug-in to create moving marker
 - [gtfspy-webviz](https://github.com/CxAalto/gtfspy-webviz) - Interactive tools for GTFS data visualization and analysis
 - [transport-tracker](https://github.com/googlemaps/transport-tracker) - Applications for tracking moving assets on a live map
-- [analysis-ui](https://github.com/conveyal/analysis-ui) - Model and analyze transport scenarios.
 - [busrouter-sg](https://github.com/cheeaun/busrouter-sg) - BusRouter SG: Singapore Bus Routes Explorer
 - [modeify](https://github.com/conveyal/modeify) - Deliver personalized commute information to travelers.
 - [transitive.js](https://github.com/conveyal/transitive.js) - Transit data visualization
@@ -4020,6 +4018,7 @@
 - [sharingbuttons.io](https://github.com/mxstbr/sharingbuttons.io) - Quickly generate social sharing buttons with a tiny performance footprint
 - [webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
 - [gatsby](https://github.com/gatsbyjs/gatsby) - Build blazing fast, modern apps and websites with React
+- [lightgallery.js](https://github.com/sachinchoolur/lightgallery.js) - Full featured JavaScript image & video gallery. No dependencies
 - [aws-api.info](https://github.com/dutchcoders/aws-api.info) - aws-api.info
 - [github-widget](https://github.com/surbhioberoi/github-widget) - A widget showing your github details that you can embed in any website.
 - [uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
@@ -8242,7 +8241,7 @@
 - [LightNet](https://github.com/ansleliu/LightNet) - LightNet: Light-weight Networks for Semantic Image Segmentation (Cityscapes and Mapillary Vistas Dataset)
 - [strace-pipes-presentation](https://github.com/nh2/strace-pipes-presentation) - Presentation: Debugging across pipes and sockets with strace
 - [matchbox](https://github.com/salesforce/matchbox) - Write PyTorch code at the level of individual examples, then run it efficiently on minibatches.
-- [MultiRunner](https://github.com/Statham188/MultiRunner) - This is a python package for multi-process running.
+- [MultiRunner](https://github.com/statham-stone/MultiRunner) - This is a python package for multi-process running.
 - [textdistance](https://github.com/life4/textdistance) - Compute distance between sequences. 30+ algorithms, pure python implementation, common interface, optional external libs usage.
 - [person-blocker](https://github.com/minimaxir/person-blocker) - Automatically "block" people in images (like Black Mirror) using a pretrained neural network.
 - [cookiecutter-API-Hour](https://github.com/Eyepea/cookiecutter-API-Hour) - A Starter Kit to create an API-Hour daemon with cookiecutter
@@ -12725,9 +12724,9 @@
 - [elixirschool](https://github.com/elixirschool/elixirschool) - Premier destination to learn and master the Elixir programming language
 - [documentation](https://github.com/codeship/documentation) - Documentation for Codeship CI & CD service
 - [TypeScript-Node-Starter](https://github.com/microsoft/TypeScript-Node-Starter) - A reference example for TypeScript and Node with a detailed README describing how to use the two together.
+- [serverless-stack-com](https://github.com/AnomalyInnovations/serverless-stack-com) - Serverless Stack is an open source guide for building and deploying full-stack apps using Serverless and React on AWS.
 - [card](https://github.com/jessepollak/card) - :credit_card: make your credit card form better in one line of code
 - [grav-plugin-admin](https://github.com/getgrav/grav-plugin-admin) - Grav Admin Plugin
-- [lightgallery.js](https://github.com/sachinchoolur/lightgallery.js) - Full featured JavaScript image & video gallery. No dependencies
 - [uswds](https://github.com/uswds/uswds) - The U.S. Web Design System helps the federal government build fast, accessible, mobile-friendly websites.
 - [flight-manual.atom.io](https://github.com/atom/flight-manual.atom.io) - 📖 Documentation for Atom, generated by nanoc, hosted by GitHub Pages
 - [minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
@@ -13139,6 +13138,7 @@
 - [tfjs](https://github.com/tensorflow/tfjs) - A WebGL accelerated JavaScript library for training and deploying ML models.
 - [outline-server](https://github.com/Jigsaw-Code/outline-server) - Outline Manager, developed by Jigsaw. The Outline Manager application creates and manages Outline servers, powered by Shadowsocks. It uses the Electron framework to offer support for Windows, macOS and Linux.
 - [oclif](https://github.com/oclif/oclif) - Node.js Open CLI Framework. Built with 💜 by Heroku.
+- [analysis-ui](https://github.com/conveyal/analysis-ui) - Model and analyze transport scenarios.
 - [blog-admin](https://github.com/jkchao/blog-admin) - blog-admin @react、@typescript、@apollographql
 - [react-morph](https://github.com/brunnolou/react-morph) - Morphing Ui transitions made simple
 - [emma-cli](https://github.com/maticzav/emma-cli) - 📦 Terminal assistant to find and install node packages.
