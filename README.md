@@ -566,7 +566,6 @@
 - [openalpr](https://github.com/openalpr/openalpr) - Automatic License Plate Recognition library
 - [cosmoscout-vr](https://github.com/cosmoscout/cosmoscout-vr) - :milky_way: A virtual universe which lets you explore, analyze and present huge planetary datasets and large simulation data in real-time.
 - [street-addresses](https://github.com/facebookresearch/street-addresses) - Robocodes: Towards Generative Street Addresses from Satellite Imagery
-- [llvm](https://github.com/intel/llvm) - Intel staging area for llvm.org contribution. Home for Intel LLVM-based projects.
 - [jetson-inference](https://github.com/dusty-nv/jetson-inference) - Hello AI World guide to deploying deep-learning inference networks and deep vision primitives with TensorRT and NVIDIA Jetson.
 - [mapbox-gl-native](https://github.com/mapbox/mapbox-gl-native) - Interactive, thoroughly customizable maps in native Android, iOS, macOS, Node.js, and Qt applications, powered by vector tiles and OpenGL
 - [pfaedle](https://github.com/ad-freiburg/pfaedle) - Precise map-matching for public transit feeds. Generates high-quality GTFS shapes from OSM data.
@@ -1052,7 +1051,7 @@
 - [argon-design-system](https://github.com/creativetimofficial/argon-design-system) - Argon - Design System for Bootstrap 4 by Creative Tim
 - [CryptoAwesome](https://github.com/guisantos/CryptoAwesome) - The most complete cryptocurrency image library to be used in your project.
 - [chrome-vs-code](https://github.com/FabianLauer/chrome-vs-code) - A web browser integrated in VS Code editor tabs. :radioactive: experimental :radioactive:
-- [front-end-daily-challenges](https://github.com/comehope/front-end-daily-challenges) - As of Jan 2020, 170+ works have been accomplished, challenge yourself each day!
+- [front-end-daily-challenges](https://github.com/comehope/front-end-daily-challenges) - As of October 2020, 170+ works have been accomplished, challenge yourself each day!
 - [momentum-slider](https://github.com/lmgonzalves/momentum-slider) - Create sliders with momentum!
 - [ui-snippets-menu-animations](https://github.com/tamino-martinius/ui-snippets-menu-animations) - Four different menu animations for menu button toggle between hamburger, cross and back icon.
 - [advanced-css-course](https://github.com/jonasschmedtmann/advanced-css-course) - Starter files, final projects and FAQ for my Advanced CSS course
@@ -1083,7 +1082,6 @@
 - [requestbin](https://github.com/Runscope/requestbin) - Inspect HTTP requests. Debug webhooks. Originally created by @progrium.
 - [dev-landing-page](https://github.com/flexdinesh/dev-landing-page) - Minimal landing page for developers
 - [You-need-to-know-css](https://github.com/l-hammer/You-need-to-know-css) - 💄CSS tricks for web developers~
-- [OptimizedHTML-4](https://github.com/agragregra/OptimizedHTML-4) - OptimizedHTML 4: Startup HTML template based on Gulp & Bootstrap 4
 - [qualy-presenter](https://github.com/Qualy-org/qualy-presenter) - A boilerplate to create presentations using Reveal.JS, Gulp, Stylus and more.
 - [30-seconds-of-css](https://github.com/30-seconds/30-seconds-of-css) - Short CSS code snippets for all your development needs
 - [Fork-Awesome](https://github.com/ForkAwesome/Fork-Awesome) - A fork of the iconic font and CSS toolkit
@@ -3390,6 +3388,7 @@
 - [Chatire](https://github.com/danidee10/Chatire) - :speech_balloon: Real time Chat application built with Vue, Django, RabbitMQ and uWSGI WebSockets.
 - [chardin.js](https://github.com/heelhook/chardin.js) - Simple overlay instructions for your apps.
 - [vue-styled-components](https://github.com/styled-components/vue-styled-components) - Visual primitives for the component age. A simple port for Vue of styled-components 💅
+- [OptimizedHTML-4](https://github.com/agragregra/OptimizedHTML-4) - OptimizedHTML 4: Startup HTML template based on Gulp & Bootstrap 4
 - [gitflowanimated](https://github.com/vraa/gitflowanimated) - Git flow - Animated : Visualization of Gitflow workflow, built in React
 - [dom-to-image](https://github.com/tsayen/dom-to-image) - Generates an image from a DOM node using HTML5 canvas
 - [phaser](https://github.com/photonstorm/phaser) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
@@ -4039,7 +4038,6 @@
 - [jupyterlab](https://github.com/jupyterlab/jupyterlab) - JupyterLab computational environment.
 - [hydrogen](https://github.com/nteract/hydrogen) - :atom: Run code interactively, inspect data, and plot. All the power of Jupyter kernels, inside your favorite text editor.
 - [clmtrackr](https://github.com/auduno/clmtrackr) - Javascript library for precise tracking of facial features via Constrained Local Models
-- [spa-github-pages](https://github.com/rafgraph/spa-github-pages) - Host single page apps with GitHub Pages
 - [Prism](https://github.com/ment-mx/Prism) - Creates a beautiful artboard color palette with all your 'Document Colors' and their respective color label in a variety of formats.
 - [rheostat](https://github.com/airbnb/rheostat) - Rheostat is a www, mobile, and accessible slider component built with React
 - [warriorjs](https://github.com/olistic/warriorjs) - 🏰 An exciting game of programming and Artificial Intelligence
@@ -5856,7 +5854,6 @@
 - [Production-Level-Deep-Learning](https://github.com/alirezadir/Production-Level-Deep-Learning) - A guideline for building practical production-level deep learning systems to be deployed in real world applications.
 - [tvt](https://github.com/deepmind/tvt) - 
 - [system_design](https://github.com/shashank88/system_design) - Preparation links and resources for system design questions
-- [start-here-guidelines](https://github.com/zero-to-mastery/start-here-guidelines) - Lets Git started in the world of opensource, starting in the Zero To Mastery's opensource playground. Especially designed for education and practical experience purposes.
 - [spec](https://github.com/oam-dev/spec) - The Open Application Model specification
 - [Artificial-Intelligence](https://github.com/Niraj-Lunavat/Artificial-Intelligence) - Awesome AI Learning with +100 AI Cheat-Sheets, Free online Books, Top Courses, Best Videos and Lectures, Papers, Tutorials, +99 Researchers, Premium Websites, +121 Datasets, Conferences, Frameworks, Tools
 - [best-practices-checklist](https://github.com/palash25/best-practices-checklist) - A list of awesome idiomatic code resources. Rust:crab:, Go, Ruby:gem:, Pony :horse:, Ocaml :camel:, Erlang and more
@@ -5902,6 +5899,7 @@
 - [Awesome-Cellular-Hacking](https://github.com/W00t3k/Awesome-Cellular-Hacking) - Awesome-Cellular-Hacking
 - [aws-solutions-architect-associate-notes](https://github.com/SkullTech/aws-solutions-architect-associate-notes) - My notes for AWS Solutions Architect Associate.
 - [awesome-IoT-hybrid](https://github.com/weblancaster/awesome-IoT-hybrid) - The missing awesome list - collection of awesome IoT and Hybrid Apps frameworks, tools, resources, videos and shiny things.
+- [llvm](https://github.com/intel/llvm) - Intel staging area for llvm.org contribution. Home for Intel LLVM-based projects.
 - [google-cloud-4-words](https://github.com/gregsramblings/google-cloud-4-words) - The Google Cloud Developer's Cheat Sheet
 - [gtfs-flex](https://github.com/MobilityData/gtfs-flex) - A data format that models flexible public transportation services as an extension to GTFS
 - [xyz-documentation](https://github.com/heremaps/xyz-documentation) - This repository contains the Open Documentation for HERE XYZ.
@@ -6395,7 +6393,7 @@
 - [awesome-p2p](https://github.com/mafintosh/awesome-p2p) - List of great p2p resources
 - [webpack-tricks](https://github.com/rstacruz/webpack-tricks) - Tips and tricks in using Webpack
 - [Face-Resources](https://github.com/betars/Face-Resources) - 
-- [stack-on-a-budget](https://github.com/255kb/stack-on-a-budget) - A collection of services with great free tiers for developers on a budget
+- [stack-on-a-budget](https://github.com/255kb/stack-on-a-budget) - A collection of services with great free tiers for developers on a budget. Sponsored by Mockoon, the best mock API tool. https://mockoon.com
 - [awesome-bits](https://github.com/keon/awesome-bits) - :computer: A curated list of awesome bitwise operations and tricks
 - [ganhacks](https://github.com/soumith/ganhacks) - starter from "How to Train a GAN?" at NIPS2016
 - [awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) - A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.
@@ -6739,6 +6737,7 @@
 
 - [virtual-environments](https://github.com/actions/virtual-environments) - GitHub Actions virtual environments
 - [awesome-azure-learning](https://github.com/ddneves/awesome-azure-learning) - This repo includes plenty of references for Azure learning, especially for the Azure certs and Azure architecture, and any other learning materials e.g. security and automation topics.
+- [start-here-guidelines](https://github.com/zero-to-mastery/start-here-guidelines) - Lets Git started in the world of opensource, starting in the Zero To Mastery's opensource playground. Especially designed for education and practical experience purposes.
 - [azure-docs](https://github.com/MicrosoftDocs/azure-docs) - Open source documentation of Microsoft Azure
 - [azure-quickstart-templates](https://github.com/Azure/azure-quickstart-templates) - Azure Quickstart Templates
 
@@ -10689,7 +10688,7 @@
 - [cartridge](https://github.com/stephenmcd/cartridge) - Ecommerce for Mezzanine
 - [mezzanine](https://github.com/stephenmcd/mezzanine) - CMS framework for Django
 - [feincms](https://github.com/feincms/feincms) - A Django-based CMS with a focus on extensibility and concise code
-- [django-cms](https://github.com/divio/django-cms) - The easy-to-use and developer-friendly CMS
+- [django-cms](https://github.com/django-cms/django-cms) - The easy-to-use and developer-friendly CMS
 - [django-guardian](https://github.com/django-guardian/django-guardian) - Per object permissions for Django
 - [python-carteblanche](https://github.com/neuman/python-carteblanche) - Module to align code with thoughts of users and designers.  Also magically handles navigation and permissions.
 - [webpy](https://github.com/webpy/webpy) - web.py is a web framework for python that is as simple as it is powerful.
@@ -13252,6 +13251,7 @@
 - [recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
 - [phosphor](https://github.com/phosphorjs/phosphor) - The PhosphorJS Library
 - [slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors. (Currently in beta.)
+- [spa-github-pages](https://github.com/rafgraph/spa-github-pages) - Host single page apps with GitHub Pages
 - [ignite](https://github.com/infinitered/ignite) - The hottest CLI for React Native, boilerplates, plugins, generators, and more!
 - [flatpickr](https://github.com/flatpickr/flatpickr) - lightweight, powerful javascript datetimepicker with no dependencies
 - [hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
