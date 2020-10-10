@@ -600,7 +600,6 @@
 - [TerrainEngine-OpenGL](https://github.com/fede-vaccaro/TerrainEngine-OpenGL) - An OpenGL 4 and C++ program which renders a procedural scene.
 - [PSENet](https://github.com/whai362/PSENet) - 
 - [libfacedetection](https://github.com/ShiqiYu/libfacedetection) - An open source library for face detection in images. The face detection speed can reach 1000FPS.
-- [DeepCamera](https://github.com/SharpAI/DeepCamera) - SharpAI is open source stack for machine learning engineering with private deployment and AutoML for edge computing.  DeepCamera is application of SharpAI designed for connecting computer vision model to surveillance camera. Developers can run same code on Raspberry Pi/Android/PC/AWS to boost your AI production development.
 - [3Dpose_ssl](https://github.com/chanyn/3Dpose_ssl) - 3D Human Pose Machines with Self-supervised Learning
 - [intrinsic3d](https://github.com/NVlabs/intrinsic3d) - Intrinsic3D - High-Quality 3D Reconstruction by Joint Appearance and Geometry Optimization with Spatially-Varying Lighting (ICCV 2017)
 - [GAAS](https://github.com/generalized-intelligence/GAAS) - Generalized Aviation: Open source autonomous aviation software platform, designed for fully autonomous drones and flying cars.
@@ -1483,6 +1482,7 @@
 
 ## Elixir 
 
+- [analytics](https://github.com/plausible/analytics) - Simple and privacy-friendly alternative to Google Analytics
 - [rank](https://github.com/awesomerank/rank) - awesomerank.github.io builder
 
 ## Emacs Lisp 
@@ -1520,6 +1520,8 @@
 
 ## Go 
 
+- [hetty](https://github.com/dstotijn/hetty) - Hetty is an HTTP toolkit for security research. It aims to become an open source alternative to commercial software like Burp Suite Pro, with powerful features tailored to the needs of the infosec and bug bounty community.
+- [ali](https://github.com/nakabonne/ali) - Generate HTTP load and plot the results in real-time
 - [ultimate-go](https://github.com/hoanhan101/ultimate-go) - The Ultimate Go Study Guide
 - [act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [runc](https://github.com/opencontainers/runc) - CLI tool for spawning and running containers according to the OCI specification
@@ -1546,7 +1548,6 @@
 - [godog](https://github.com/cucumber/godog) - Cucumber for golang
 - [aws-vault](https://github.com/99designs/aws-vault) - A vault for securely storing and accessing AWS credentials in development environments
 - [go-gitlab](https://github.com/xanzy/go-gitlab) - A GitLab API client enabling Go programs to interact with GitLab in a simple and uniform way
-- [micro](https://github.com/micro/micro) - Micro is a framework for cloud native development
 - [go-github](https://github.com/google/go-github) - Go library for accessing the GitHub API
 - [nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
 - [migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
@@ -1625,7 +1626,7 @@
 - [pipe-to-me](https://github.com/jpschroeder/pipe-to-me) - Stream data over http using curl.
 - [kraken](https://github.com/uber/kraken) - P2P Docker registry capable of distributing TBs of data in seconds
 - [astro](https://github.com/uber/astro) - Astro is a tool for managing multiple Terraform executions as a single command
-- [cortex](https://github.com/cortexlabs/cortex) - Model serving for developers
+- [cortex](https://github.com/cortexlabs/cortex) - Model serving at scale
 - [cds](https://github.com/ovh/cds) - Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform
 - [k3s](https://github.com/rancher/k3s) - Lightweight Kubernetes
 - [docui](https://github.com/skanehira/docui) - TUI Client for Docker
@@ -2437,7 +2438,6 @@
 - [krackattacks](https://github.com/vanhoefm/krackattacks) - 
 - [data](https://github.com/GSA/data) - Assorted data from the General Services Administration.
 - [StageMate](https://github.com/Langhalsdino/StageMate) - StageMate is the smart assistant for your presentation. It will cover all aspects of your pitch from skipping slides to reminding you if you miss some major point.
-- [ui-avatars](https://github.com/LasseRafn/ui-avatars) - 
 - [expressjs.com](https://github.com/expressjs/expressjs.com) - 
 - [spectral_graph_convnets](https://github.com/xbresson/spectral_graph_convnets) - PyTorch implementation of spectral graph ConvNets, NIPS’16
 - [url-to-pdf-api](https://github.com/alvarcarto/url-to-pdf-api) - Web page PDF/PNG rendering done right. Self-hosted service for rendering receipts, invoices, or any content.
@@ -2841,7 +2841,7 @@
 - [hazelcast](https://github.com/hazelcast/hazelcast) - Open Source In-Memory Data Grid
 - [nimbus](https://github.com/nimbusproject/nimbus) - Nimbus - Open Source Cloud Computing Software - 100% Apache2 licensed
 - [commons](https://github.com/twitter-archive/commons) - Twitter common libraries for python and the JVM (deprecated)
-- [zookeeper](https://github.com/apache/zookeeper) - Mirror of Apache Hadoop ZooKeeper
+- [zookeeper](https://github.com/apache/zookeeper) - Apache ZooKeeper
 - [restcommander](https://github.com/eBay/restcommander) - Fast Parallel Async HTTP client as a Service to monitor and manage 10,000 web servers. (Java+Akka)
 - [pattern](https://github.com/Cascading/pattern) - Machine Learning for Cascading
 - [ghostdriver](https://github.com/detro/ghostdriver) - Ghost Driver is an implementation of the Remote WebDriver Wire protocol, using PhantomJS as back-end
@@ -2850,6 +2850,7 @@
 
 ## JavaScript 
 
+- [docs](https://github.com/github/docs) - This is the open-source repo for docs.github.com.
 - [Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates) - A collection of awesome readme templates to display on your profile
 - [petrovich-js](https://github.com/petrovich/petrovich-js) - JS library to inflect Russian first, last, and middle names.
 - [sci-hub-now](https://github.com/0x01h/sci-hub-now) - Free access to academic papers with just a single click! Abolish publishers, long live the open access movement! 🦅
@@ -3901,6 +3902,7 @@
 - [portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 - [axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
 - [deepteach](https://github.com/mldbai/deepteach) - DeepTeach - the Interactive Deep Image Classifier Builder
+- [vue-grid-layout](https://github.com/jbaysolutions/vue-grid-layout) - A draggable and resizable grid layout, for Vue.js.
 - [vue-video-player](https://github.com/surmon-china/vue-video-player) - 🎞 @videojs component for @vuejs
 - [vuejs-AdminLTE](https://github.com/r0r1/vuejs-AdminLTE) - Admin LTE Starter for Vue JS
 - [vue-echarts](https://github.com/ecomfe/vue-echarts) - Apache ECharts (incubating) component for Vue.js.
@@ -4418,6 +4420,16 @@
 
 ## Jupyter Notebook 
 
+- [dash-sample-apps](https://github.com/plotly/dash-sample-apps) - Apps hosted in the Dash Gallery
+- [2020](https://github.com/epfl-ada/2020) - Materials for Applied Data Analysis CS-401, fall 2020
+- [pixel2style2pixel](https://github.com/eladrich/pixel2style2pixel) - Official Implementation for "Encoding in Style: a StyleGAN Encoder for Image-to-Image Translation"
+- [Deep-Reinforcement-Learning-for-Automated-Stock-Trading-Ensemble-Strategy-ICAIF-2020](https://github.com/AI4Finance-LLC/Deep-Reinforcement-Learning-for-Automated-Stock-Trading-Ensemble-Strategy-ICAIF-2020) - Deep Reinforcement Learning for Automated Stock Trading: An Ensemble Strategy. ICAIF 2020.
+- [nlp_profiler](https://github.com/neomatrix369/nlp_profiler) - A simple NLP library allows profiling datasets with one or more text columns. When given a dataset and a column name containing text data, NLP Profiler will return either high-level insights or low-level/granular statistical information about the text in that column.
+- [FinancePy](https://github.com/domokane/FinancePy) - A Python Finance Library that focuses on the pricing and risk-management of Financial Derivatives, including fixed-income, equity, FX and credit derivatives.
+- [spark-nlp-workshop](https://github.com/JohnSnowLabs/spark-nlp-workshop) - Public runnable examples of using John Snow Labs' NLP for Apache Spark.
+- [Python_and_the_Web](https://github.com/Python-World/Python_and_the_Web) - Build Bots, Scrape a website or use an API to solve a problem.
+- [mlbook](https://github.com/dafriedman97/mlbook) - Repository for the free online book Machine Learning from Scratch (link below!)
+- [DP100](https://github.com/MicrosoftLearning/DP100) - Labs for Course DP-100: Designing and Implementing Data Science Solutions on Microsoft Azure
 - [natasha-usage](https://github.com/natasha/natasha-usage) - 
 - [ClariQ](https://github.com/aliannejadi/ClariQ) - ClariQ: SCAI Workshop data challenge on conversational search clarification.
 - [CenterPoint](https://github.com/tianweiy/CenterPoint) - 
@@ -5745,6 +5757,12 @@
 
 ## Others 
 
+- [scientific-visualization-book](https://github.com/rougier/scientific-visualization-book) - ❗️WIP❗️An open access book on scientific visualization using python and matplotlib
+- [awesome-mlops](https://github.com/visenger/awesome-mlops) - A curated list of references for MLOps
+- [machine-learning-roadmap](https://github.com/mrdbourke/machine-learning-roadmap) - A roadmap connecting many of the most important concepts in machine learning, how to learn them and what tools to use to perform them.
+- [QA_bible](https://github.com/Vladislav610/QA_bible) - Библия QA/тестировщика это 200++ страниц обновляемой смеси ответов на вопросы с реальных собеседований на QA, перевода интересного контента с зарубежных ресурсов и агрегации материала с отечественных.
+- [sql-server-samples](https://github.com/microsoft/sql-server-samples) - Azure Data SQL Samples - Official Microsoft GitHub Repository containing code samples for SQL Server, Azure SQL, Azure Synapse, and Azure SQL Edge
+- [data-engineer-roadmap](https://github.com/datastacktv/data-engineer-roadmap) - Roadmap to becoming a data engineer in 2020
 - [NLP-pretrained-model](https://github.com/balavenkatesh3322/NLP-pretrained-model) - A collection of Natural language processing pre-trained models.
 - [CV-pretrained-model](https://github.com/balavenkatesh3322/CV-pretrained-model) - A collection of computer vision pre-trained models.
 - [awesome-real-world-rl](https://github.com/ugurkanates/awesome-real-world-rl) - Great resources for making Reinforcement Learning work in Real Life situations. Papers,projects and more.
@@ -6699,6 +6717,7 @@
 - [SmartParking](https://github.com/kahramanumut/SmartParking) - Smart parking IoT and Mobile Application
 - [yandex-money-kassa-example](https://github.com/romkavt/yandex-money-kassa-example) - 
 - [enso](https://github.com/laravel-enso/enso) - Laravel Vue SPA, Bulma themed. For demo login use `admin@laravel-enso.com` & `password` -
+- [ui-avatars](https://github.com/LasseRafn/ui-avatars) - 
 - [DevZone](https://github.com/ClickMeeting/DevZone) - Code related to DevZone on ClickMeeting
 - [docker](https://github.com/phpmyadmin/docker) - Docker container for phpMyAdmin
 - [Halite](https://github.com/HaliteChallenge/Halite) - @twosigma's first artificial intelligence programming challenge
@@ -6768,6 +6787,14 @@
 
 ## Python 
 
+- [All-Programming-E-Books-PDF](https://github.com/trumpowen/All-Programming-E-Books-PDF) - A Curated List Of Programming Books For C, C++ , Python, JavaScript, NodeJs, ReactJs, Web, JQuery, Flask, Dom, Angular, CSS, HTML for beginners, intermediate, advanced and experts
+- [pet](https://github.com/timoschick/pet) - This repository contains the code for "Exploiting Cloze Questions for Few-Shot Text Classification and Natural Language Inference"
+- [human-learn](https://github.com/koaning/human-learn) - Natural Intelligence is still a pretty good idea.
+- [jsonresume-fake](https://github.com/jsonresume/jsonresume-fake) - Fully generated fake resumes using machine learning models trained off ~6000 JSON resumes.
+- [stylegan2-ada](https://github.com/NVlabs/stylegan2-ada) - StyleGAN2 with adaptive discriminator augmentation (ADA) - Official TensorFlow implementation
+- [sysmon](https://github.com/MatthiasSchinzel/sysmon) - Graphical system monitor for linux, including information about CPU, GPU, Memory, HDD/SDD and your network connections. Similar to windows task manager.
+- [imaginaire](https://github.com/NVlabs/imaginaire) - NVIDIA PyTorch GAN library with distributed and mixed precision support
+- [BERTopic](https://github.com/MaartenGr/BERTopic) - Leveraging BERT and a class-based TF-IDF to create easily interpretable topics.
 - [st-annotated-text](https://github.com/tvst/st-annotated-text) - A simple component to display annotated text in Streamlit apps.
 - [BERT-NER](https://github.com/kyzhouhzau/BERT-NER) - Use Google's BERT for named entity recognition （CoNLL-2003 as the dataset）.
 - [FARM](https://github.com/deepset-ai/FARM) - :house_with_garden: Fast & easy transfer learning for NLP. Harvesting language models for the industry.
@@ -7589,6 +7616,7 @@
 - [pytorch-pretrained-BigGAN](https://github.com/huggingface/pytorch-pretrained-BigGAN) - 🦋A PyTorch implementation of BigGAN with pretrained weights and conversion scripts.
 - [fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [paper-tips-and-tricks](https://github.com/Wookai/paper-tips-and-tricks) - Best practice and tips & tricks to write scientific papers in LaTeX, with figures generated in Python or Matlab.
+- [DeepCamera](https://github.com/SharpAI/DeepCamera) - SharpAI is open source stack for machine learning engineering with private deployment and AutoML for edge computing.  DeepCamera is application of SharpAI designed for connecting computer vision model to surveillance camera. Developers can run same code on Raspberry Pi/Android/PC/AWS to boost your AI production development.
 - [Navigation-Assistant](https://github.com/singh-shreya6/Navigation-Assistant) - A Navigation Assistant for the visually impaired using Speech to Text, Object Detection and Text to Speech in python
 - [digideep](https://github.com/sharif1093/digideep) - A Deep Reinforcement Learning (DeepRL) package for RL algorithm developers.
 - [maskscoring_rcnn](https://github.com/zjhuang22/maskscoring_rcnn) - Codes for paper "Mask Scoring R-CNN".
@@ -12682,6 +12710,7 @@
 - [nomino](https://github.com/yaa110/nomino) - Batch rename utility for developers
 - [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
+- [micro](https://github.com/micro/micro) - Micro is a framework for cloud native development
 - [tokenizers](https://github.com/huggingface/tokenizers) - 💥Fast State-of-the-Art Tokenizers optimized for Research and Production
 - [raic-2019](https://github.com/MailRuChamps/raic-2019) - Russian AI Cup — artificial intelligence programming contest. Official website: http://russianaicup.ru
 - [navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line and application launchers
@@ -13700,7 +13729,6 @@
 - [muse-ui](https://github.com/museui/muse-ui) - Material Design UI library for Vuejs 2.0
 - [vue-color](https://github.com/xiaokaike/vue-color) - :art: Vue Color Pickers for Sketch, Photoshop, Chrome & more   http://vue-color.surge.sh
 - [vue-upload-component](https://github.com/lian-yue/vue-upload-component) - Vue.js file upload component, Multi-file upload, Upload directory, Drag upload, Drag the directory, Upload multiple files at the same time, html4 (IE 9), `PUT` method, Customize the filter
-- [vue-grid-layout](https://github.com/jbaysolutions/vue-grid-layout) - A draggable and resizable grid layout, for Vue.js.
 - [mint-loadmore](https://github.com/mint-ui/mint-loadmore) - A two-direction mobile load-more component for vue.js
 - [v2ex_frontend](https://github.com/liuzhenangel/v2ex_frontend) - V2EX demo built with Vue 2.0, vue-router, with server-side rendering
 - [vue-charts](https://github.com/GimmyHchs/vue-charts) - Base on Vue2.0 wrapper for ChartJs. (Deprecated)
