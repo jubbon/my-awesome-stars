@@ -774,7 +774,7 @@
 - [EternalTerminal](https://github.com/MisterTea/EternalTerminal) - Re-Connectable secure remote shell
 - [apollo](https://github.com/ApolloAuto/apollo) - An open autonomous driving platform
 - [ethminer](https://github.com/ethereum-mining/ethminer) - Ethereum miner with OpenCL, CUDA and stratum support
-- [vnote](https://github.com/tamlok/vnote) - A note-taking application that knows programmers and Markdown better.
+- [vnote](https://github.com/vnotex/vnote) - A note-taking application that knows programmers and Markdown better.
 - [stanford_self_driving_car_code](https://github.com/emmjaykay/stanford_self_driving_car_code) - Stanford Code From Cars That Entered DARPA Grand Challenges
 - [ELL](https://github.com/microsoft/ELL) - Embedded Learning Library
 - [v8py](https://github.com/tbodt/v8py) - Write Python APIs, then call them from JavaScript using the V8 engine.
@@ -840,7 +840,7 @@
 - [zurl](https://github.com/fanout/zurl) - HTTP and WebSocket client worker with ZeroMQ interface
 - [pushpin](https://github.com/fanout/pushpin) - Reverse proxy for realtime web services
 - [Visually-Algorithm](https://github.com/Kiroeko/Visually-Algorithm) - This is a A* Algorithm Visually Display Demo that shows Us How Computer Deal With Pathfinding。
-- [DeepSpeech](https://github.com/mozilla/DeepSpeech) - DeepSpeech is an open source speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.
+- [DeepSpeech](https://github.com/mozilla/DeepSpeech) - DeepSpeech is an open source embedded speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.
 - [deepmath](https://github.com/tensorflow/deepmath) - Experiments towards neural network theorem proving
 - [float-hacks](https://github.com/leegao/float-hacks) - Floating Point Hacks
 - [tera](https://github.com/baidu/tera) - An Internet-Scale Database.
@@ -2362,7 +2362,6 @@
 - [hyperHTML](https://github.com/WebReflection/hyperHTML) - A Fast & Light Virtual DOM Alternative
 - [SB-Admin-BS4-Angular-8](https://github.com/start-angular/SB-Admin-BS4-Angular-8) - Simple Dashboard Admin App built using Angular 8 and Bootstrap 4
 - [CLRS](https://github.com/walkccc/CLRS) - 📚 Solutions to Introduction to Algorithms Third Edition
-- [archerysec](https://github.com/archerysec/archerysec) - Centralize Vulnerability Assessment and Management for DevSecOps Team
 - [GTFOBins.github.io](https://github.com/GTFOBins/GTFOBins.github.io) - Curated list of Unix binaries that can be exploited to bypass system security restrictions
 - [Intro_to_ML-FutureLabs](https://github.com/InsightDataScience/Intro_to_ML-FutureLabs) - ML primer workshop @ Future Labs AI Summit
 - [crowds](https://github.com/ncase/crowds) - The Wisdom and/or Madness of the Crowds
@@ -5872,6 +5871,7 @@
 - [Production-Level-Deep-Learning](https://github.com/alirezadir/Production-Level-Deep-Learning) - A guideline for building practical production-level deep learning systems to be deployed in real world applications.
 - [tvt](https://github.com/deepmind/tvt) - 
 - [system_design](https://github.com/shashank88/system_design) - Preparation links and resources for system design questions
+- [start-here-guidelines](https://github.com/zero-to-mastery/start-here-guidelines) - Lets Git started in the world of opensource, starting in the Zero To Mastery's opensource playground. Especially designed for education and practical experience purposes.
 - [spec](https://github.com/oam-dev/spec) - The Open Application Model specification
 - [Artificial-Intelligence](https://github.com/Niraj-Lunavat/Artificial-Intelligence) - Awesome AI Learning with +100 AI Cheat-Sheets, Free online Books, Top Courses, Best Videos and Lectures, Papers, Tutorials, +99 Researchers, Premium Websites, +121 Datasets, Conferences, Frameworks, Tools
 - [best-practices-checklist](https://github.com/palash25/best-practices-checklist) - A list of awesome idiomatic code resources. Rust:crab:, Go, Ruby:gem:, Pony :horse:, Ocaml :camel:, Erlang and more
@@ -6756,7 +6756,6 @@
 
 - [virtual-environments](https://github.com/actions/virtual-environments) - GitHub Actions virtual environments
 - [awesome-azure-learning](https://github.com/ddneves/awesome-azure-learning) - This repo includes plenty of references for Azure learning, especially for the Azure certs and Azure architecture, and any other learning materials e.g. security and automation topics.
-- [start-here-guidelines](https://github.com/zero-to-mastery/start-here-guidelines) - Lets Git started in the world of opensource, starting in the Zero To Mastery's opensource playground. Especially designed for education and practical experience purposes.
 - [azure-docs](https://github.com/MicrosoftDocs/azure-docs) - Open source documentation of Microsoft Azure
 - [azure-quickstart-templates](https://github.com/Azure/azure-quickstart-templates) - Azure Quickstart Templates
 
@@ -8197,6 +8196,7 @@
 - [PyTorch-YOLOv3](https://github.com/eriklindernoren/PyTorch-YOLOv3) - Minimal PyTorch implementation of YOLOv3
 - [PRNet](https://github.com/YadiraF/PRNet) - Joint 3D Face Reconstruction and Dense Alignment with Position Map Regression Network (ECCV 2018)
 - [scylla](https://github.com/imWildCat/scylla) - Intelligent proxy pool for Humans™ (Maintainer needed)
+- [archerysec](https://github.com/archerysec/archerysec) - Centralize Vulnerability Assessment and Management for DevSecOps Team
 - [SmoothLife](https://github.com/duckythescientist/SmoothLife) - Continuous Domain Game of Life in Python with Numpy
 - [R2Plus1D-PyTorch](https://github.com/irhum/R2Plus1D-PyTorch) - PyTorch implementation of the R2Plus1D convolution based ResNet architecture described in the paper "A Closer Look at Spatiotemporal Convolutions for Action Recognition"
 - [ImageAI](https://github.com/OlafenwaMoses/ImageAI) - A python library built to empower developers to build applications and systems  with self-contained Computer Vision capabilities
@@ -9813,7 +9813,7 @@
 - [ReadableWebProxy](https://github.com/fake-name/ReadableWebProxy) - Rewriting web proxy and archival tool. At this point, it just tries to download all the things.
 - [flask-bitmapist](https://github.com/cuttlesoft/flask-bitmapist) - Flask extension that creates a simple interface to the Bitmapist analytics library.
 - [omdb-cli](https://github.com/juanpabloaj/omdb-cli) - A command line tool for omdb
-- [imgp](https://github.com/jarun/imgp) - :camera_flash: High-performance CLI batch image resizer & rotator
+- [imgp](https://github.com/jarun/imgp) - :camera_flash: High-performance cli batch image resizer and rotator
 - [bowtie](https://github.com/jwkvam/bowtie) - :bowtie: Create a dashboard with python!
 - [placebo](https://github.com/huseyinyilmaz/placebo) - Highly reusable API mocks for python applications
 - [cohesion](https://github.com/mschwager/cohesion) - A tool for measuring Python class cohesion.
