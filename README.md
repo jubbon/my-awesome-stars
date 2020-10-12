@@ -1083,7 +1083,6 @@
 - [You-need-to-know-css](https://github.com/l-hammer/You-need-to-know-css) - 💄CSS tricks for web developers~
 - [qualy-presenter](https://github.com/Qualy-org/qualy-presenter) - A boilerplate to create presentations using Reveal.JS, Gulp, Stylus and more.
 - [30-seconds-of-css](https://github.com/30-seconds/30-seconds-of-css) - Short CSS code snippets for all your development needs
-- [Fork-Awesome](https://github.com/ForkAwesome/Fork-Awesome) - A fork of the iconic font and CSS toolkit
 - [serverboards](https://github.com/serverboards/serverboards) - Serverboards is a microservices based service monitoring, alerting and management system.
 - [CSS-Keylogging](https://github.com/maxchehab/CSS-Keylogging) - Chrome extension and Express server that exploits keylogging abilities of CSS.
 - [lit](https://github.com/ajusa/lit) - World's smallest responsive 🔥 css framework (395 bytes)
@@ -1520,7 +1519,6 @@
 
 ## Go 
 
-- [hetty](https://github.com/dstotijn/hetty) - Hetty is an HTTP toolkit for security research. It aims to become an open source alternative to commercial software like Burp Suite Pro, with powerful features tailored to the needs of the infosec and bug bounty community.
 - [ali](https://github.com/nakabonne/ali) - Generate HTTP load and plot the results in real-time
 - [ultimate-go](https://github.com/hoanhan101/ultimate-go) - The Ultimate Go Study Guide
 - [act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
@@ -1607,7 +1605,7 @@
 - [trivy](https://github.com/aquasecurity/trivy) - A Simple and Comprehensive Vulnerability Scanner for Containers, Suitable for CI
 - [gopenpgp](https://github.com/ProtonMail/gopenpgp) - A high-level OpenPGP library
 - [tml](https://github.com/liamg/tml) - :rainbow::computer::art: A tiny markup language for terminal output. Makes formatting output in CLI apps easier!
-- [flipt](https://github.com/markphelps/flipt) - A modern feature flag solution
+- [flipt](https://github.com/markphelps/flipt) - An open-source feature flag solution
 - [sqlflow](https://github.com/sql-machine-learning/sqlflow) - Brings SQL and AI together.
 - [akutan](https://github.com/eBay/akutan) - A distributed knowledge graph store
 - [terraformer](https://github.com/GoogleCloudPlatform/terraformer) - CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
@@ -4483,7 +4481,7 @@
 - [nlp_ryan](https://github.com/aiscientist/nlp_ryan) - Study for Natural Language Processing & Deep Learning Framework
 - [TRTorch](https://github.com/NVIDIA/TRTorch) - PyTorch/TorchScript compiler for NVIDIA GPUs using TensorRT
 - [the-craft-of-selfteaching](https://github.com/selfteaching/the-craft-of-selfteaching) - One has no future if one couldn't teach themself.
-- [scikit-learn-tips](https://github.com/justmarkham/scikit-learn-tips) - :robot::zap: Daily scikit-learn tips
+- [scikit-learn-tips](https://github.com/justmarkham/scikit-learn-tips) - :robot::zap: scikit-learn tips
 - [6S083](https://github.com/mitmath/6S083) - Materials for MIT 6.S083 / 18.S190: Computational thinking with Julia + application to the COVID-19 pandemic
 - [simclr](https://github.com/google-research/simclr) - SimCLRv2 - Big Self-Supervised Models are Strong Semi-Supervised Learners
 - [compling_nlp_hse_course](https://github.com/mannefedov/compling_nlp_hse_course) - Материалы курса по компьютерной лингвистике Школы Лингвистики НИУ ВШЭ
@@ -5639,6 +5637,7 @@
 ## Less 
 
 - [docs.influxdata.com-ARCHIVE](https://github.com/influxdata/docs.influxdata.com-ARCHIVE) - ARCHIVE - 1.x docs for InfluxData
+- [Fork-Awesome](https://github.com/ForkAwesome/Fork-Awesome) - A fork of the iconic font and CSS toolkit
 - [codeheat.org](https://github.com/fossasia/codeheat.org) - Codeheat Coding Contest Website https://codeheat.org
 - [documentation-user](https://github.com/odoo/documentation-user) - Sources For Odoo Enterprise Business Apps User Manual
 - [QGIS-Website](https://github.com/qgis/QGIS-Website) - QGIS-Website
@@ -6813,7 +6812,7 @@
 - [present](https://github.com/vinayak-mehta/present) - A terminal-based presentation tool with colors and effects.
 - [l5kit](https://github.com/lyft/l5kit) - L5Kit - level5.lyft.com
 - [sentence-transformers](https://github.com/UKPLab/sentence-transformers) - Sentence Embeddings with BERT & XLNet
-- [yolov5](https://github.com/ultralytics/yolov5) - YOLOv5 in PyTorch &gt; ONNX &gt; CoreML &gt; iOS
+- [yolov5](https://github.com/ultralytics/yolov5) - YOLOv5 in PyTorch &gt; ONNX &gt; CoreML &gt; TFLite
 - [bpytop](https://github.com/aristocratos/bpytop) - Linux/OSX/FreeBSD resource monitor
 - [Wav2Lip](https://github.com/Rudrabha/Wav2Lip) - This repository contains the codes of "A Lip Sync Expert Is All You Need for Speech to Lip Generation In the Wild", published at ACM Multimedia 2020.
 - [autoscraper](https://github.com/alirezamika/autoscraper) - A Smart, Automatic, Fast and Lightweight Web Scraper for Python
@@ -7909,7 +7908,7 @@
 - [kinetica-api-python](https://github.com/kineticadb/kinetica-api-python) - 
 - [nbplayer](https://github.com/Calysto/nbplayer) - A console notebook player
 - [ansible_modules](https://github.com/kenmoini/ansible_modules) - A collection of Ansible modules
-- [yolov3](https://github.com/ultralytics/yolov3) - YOLOv3 in PyTorch &gt; ONNX &gt; CoreML &gt; iOS
+- [yolov3](https://github.com/ultralytics/yolov3) - YOLOv3 in PyTorch &gt; ONNX &gt; CoreML &gt; TFLite
 - [haps](https://github.com/lunarwings/haps) - Pure Python dependency injection library
 - [prelogging](https://github.com/Twangist/prelogging) - A streamlined, consistent API for configuring logging
 - [proSR](https://github.com/fperazzi/proSR) - Repository containing an independent implementation of the paper: "A Fully Progressive Approach to Single-Image Super-Resolution"
@@ -13038,6 +13037,7 @@
 
 ## TypeScript 
 
+- [hetty](https://github.com/dstotijn/hetty) - Hetty is an HTTP toolkit for security research. It aims to become an open source alternative to commercial software like Burp Suite Pro, with powerful features tailored to the needs of the infosec and bug bounty community.
 - [lit](https://github.com/PAIR-code/lit) - The Language Interpretability Tool: Interactively analyze NLP models for model understanding in an extensible and framework agnostic interface.
 - [vscode-realtime-debugging](https://github.com/hediet/vscode-realtime-debugging) - An extension for VS Code that visualizes how a program is being executed in real time.
 - [n8n](https://github.com/n8n-io/n8n) - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
@@ -13256,7 +13256,7 @@
 - [react-navigation](https://github.com/react-navigation/react-navigation) - Routing and navigation for your React Native apps
 - [parrot](https://github.com/parrot-translate/parrot) - Self-hosted Localization Management Platform built with Go and Angular
 - [botpress](https://github.com/botpress/botpress) - 🤖 The Conversational Platform with built-in language understanding (NLU), beautiful graphical interface and Dialog Manager (DM). Easily create chatbots and AI-based virtual assistants.
-- [awesomo](https://github.com/lk-geimfari/awesomo) - An extensive list of cool open source projects written in С, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala etc.
+- [awesomo](https://github.com/lk-geimfari/awesomo) - A list of cool open source projects written in C, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala, etc.
 - [vuetify](https://github.com/vuetifyjs/vuetify) - 🐉 Material Component Framework for Vue
 - [material-components-web](https://github.com/material-components/material-components-web) - Modular and customizable Material Design UI components for the web
 - [rxdb](https://github.com/pubkey/rxdb) - :computer: 🔄 :iphone: A realtime Database for JavaScript Applications
