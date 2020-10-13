@@ -1149,7 +1149,6 @@
 - [thunderbird-monterail](https://github.com/spymastermatt/thunderbird-monterail) - A set of themes for thunderbird inspired by a Monterail blog post
 - [cs228-notes](https://github.com/ermongroup/cs228-notes) - Course notes for CS228: Probabilistic Graphical Models.
 - [workflow](https://github.com/deis/workflow) - The open source PaaS for Kubernetes.
-- [devportfolio](https://github.com/RyanFitzgerald/devportfolio) - A lightweight, customizable single-page personal portfolio website template built with JavaScript and Sass
 - [style](https://github.com/tidyverse/style) - The tidyverse style guide for R code
 - [papers-I-read](https://github.com/shagunsodhani/papers-I-read) - A-Paper-A-Week
 - [Flat-UI](https://github.com/designmodo/Flat-UI) - Flat UI Free - Design Framework (html/css3/less/js). Flat UI is based on Bootstrap, a comfortable, responsive, and functional framework that simplifies the development of websites.
@@ -2566,6 +2565,7 @@
 - [foundation-emails](https://github.com/foundation/foundation-emails) - Quickly create responsive HTML emails that work on any device and client. Even Outlook.
 - [web2web](https://github.com/elendirx/web2web) - P2P web powered by torrents and blockchain.
 - [fullstack-course5](https://github.com/jhu-ep-coursera/fullstack-course5) - All of the source code for the Single Page Web Applications with AngularJS course.
+- [ansible-django-stack](https://github.com/jcalazan/ansible-django-stack) - Ansible Playbook for setting up a Django app with Nginx, Gunicorn, PostgreSQL, Celery, RabbitMQ, Supervisor, Virtualenv, and Memcached. A Vagrantfile for provisioning a VirtualBox virtual machine is included as well.
 - [aws-week-in-review](https://github.com/amazon-archives/aws-week-in-review) - ARCHIVED: These files are used to produce the AWS Week in Review.
 - [essential-electron](https://github.com/jlord/essential-electron) - Concise plain-speak about Electron
 - [swagger-codegen](https://github.com/swagger-api/swagger-codegen) - swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.
@@ -3018,7 +3018,7 @@
 - [Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 - [zero](https://github.com/remoteinterview/zero) - Zero is a web server to simplify web development.
 - [eslint-config-wesbos](https://github.com/wesbos/eslint-config-wesbos) - No-Sweat™ Eslint and Prettier Setup - with or without VS Code
-- [cube.js](https://github.com/cube-js/cube.js) - 📊 Cube.js - Open Source Analytics Framework
+- [cube.js](https://github.com/cube-js/cube.js) - 📊 Cube.js — Open-Source Analytical API Platform
 - [nsfwjs](https://github.com/infinitered/nsfwjs) - NSFW detection on the client-side via TensorFlow.js
 - [Vue.Draggable](https://github.com/SortableJS/Vue.Draggable) - Vue drag-and-drop component based on Sortable.js
 - [x-spreadsheet](https://github.com/myliang/x-spreadsheet) - A web-based JavaScript（canvas） spreadsheet
@@ -4611,6 +4611,7 @@
 - [co-learning-lounge](https://github.com/colearninglounge/co-learning-lounge) - Welcome to the one point community-driven encyclopedia for anything in technology.
 - [fastai_dev](https://github.com/fastai/fastai_dev) - fast.ai early development experiments
 - [2019](https://github.com/quantum-challenge/2019) - 
+- [NeMo](https://github.com/NVIDIA/NeMo) - NeMo: a toolkit for conversational AI
 - [over9000](https://github.com/mgrankin/over9000) - Over9000 optimizer
 - [blog](https://github.com/studywolf/blog) - for code created as part of http://studywolf.wordpress.com
 - [exercise](https://github.com/nndl/exercise) - exercise for nndl
@@ -5945,6 +5946,7 @@
 - [Data-Engineering-HowTo](https://github.com/adilkhash/Data-Engineering-HowTo) - A list of useful resources to learn Data Engineering from scratch
 - [xviz-data](https://github.com/uber/xviz-data) - Public data storage related to https://github.com/uber/xviz
 - [softskills](https://github.com/productuniversity/softskills) - Soft Skills для разработчиков
+- [automagica](https://github.com/automagica/automagica) - AI-powered Smart Robotic Process Automation 🤖
 - [javascript-questions](https://github.com/lydiahallie/javascript-questions) - A long list of (advanced) JavaScript questions, and their explanations :sparkles:
 - [The-Documentation-Compendium](https://github.com/kylelobo/The-Documentation-Compendium) - 📢 Various README templates & tips on writing high-quality documentation that people want to read.
 - [security](https://github.com/numirias/security) - Some of my security stuff and vulnerabilities. Nothing advanced. More to come.
@@ -7345,7 +7347,6 @@
 - [case-212](https://github.com/developers-against-repressions/case-212) - Открытое письмо специалистов IT-индустрии в защиту фигурантов «московского дела»
 - [a-PyTorch-Tutorial-to-Object-Detection](https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Object-Detection) - SSD: Single Shot MultiBox Detector | a PyTorch Tutorial to Object Detection
 - [places365](https://github.com/CSAILVision/places365) - The Places365-CNNs for Scene Classification
-- [NeMo](https://github.com/NVIDIA/NeMo) - NeMo: a toolkit for conversational AI
 - [uct_atari](https://github.com/5vision/uct_atari) - uct tree search + supervised lerning for atari games
 - [Data-Efficient-Model-Compression](https://github.com/huawei-noah/Data-Efficient-Model-Compression) - Data Efficient Model Compression
 - [stringsifter](https://github.com/fireeye/stringsifter) - A machine learning tool that ranks strings based on their relevance for malware analysis.
@@ -7495,7 +7496,6 @@
 - [keras-tuner](https://github.com/keras-team/keras-tuner) - Hyperparameter tuning for humans
 - [CRAFT-pytorch](https://github.com/clovaai/CRAFT-pytorch) - Official implementation of Character Region Awareness for Text Detection (CRAFT)
 - [voila](https://github.com/voila-dashboards/voila) - Voilà turns Jupyter notebooks into standalone web applications
-- [automagica](https://github.com/automagica/automagica) - Open Source RPA 🤖 Robotic Process Automation
 - [DeepGlobe-Road-Extraction-Challenge](https://github.com/zlkanata/DeepGlobe-Road-Extraction-Challenge) - D-LinkNet: LinkNet with Pretrained Encoder and Dilated Convolution for High Resolution Satellite Imagery Road Extraction
 - [ijson](https://github.com/isagalaev/ijson) - Iterative JSON parser with Pythonic interface
 - [gitdir](https://github.com/sdushantha/gitdir) - 📁 Download a single directory/folder from a GitHub repo
@@ -7943,7 +7943,7 @@
 - [stable-baselines](https://github.com/hill-a/stable-baselines) - A fork of OpenAI Baselines, implementations of reinforcement learning algorithms
 - [Hash-Buster](https://github.com/s0md3v/Hash-Buster) - Crack hashes in seconds.
 - [Semantic-Segmentation-Suite](https://github.com/GeorgeSeif/Semantic-Segmentation-Suite) - Semantic Segmentation Suite in TensorFlow. Implement, train, and test new Semantic Segmentation models easily!
-- [pytheory](https://github.com/Zelgius/pytheory) - Music Theory for Humans.
+- [pytheory](https://github.com/MasonEgger/pytheory) - Music Theory for Humans.
 - [mmdetection](https://github.com/open-mmlab/mmdetection) - OpenMMLab Detection Toolbox and Benchmark
 - [AIF360](https://github.com/Trusted-AI/AIF360) - A comprehensive set of fairness metrics for datasets and machine learning models, explanations for these metrics, and algorithms to mitigate bias in datasets and models.
 - [DANet](https://github.com/junfu1115/DANet) - Dual Attention Network for Scene Segmentation (CVPR2019)
@@ -8703,7 +8703,7 @@
 - [advent_of_code_2017](https://github.com/kodsnack/advent_of_code_2017) - Contribute your solutions to Advent of Code 2017 and be inspired by others.
 - [deep-head-pose](https://github.com/natanielruiz/deep-head-pose) - :fire::fire: Deep Learning Head Pose Estimation using PyTorch.
 - [Tiredful-API](https://github.com/payatu/Tiredful-API) - An intentionally designed broken web application based on REST API.
-- [caldera](https://github.com/mitre/caldera) - Automated Adversary Emulation
+- [caldera](https://github.com/mitre/caldera) - A Scalable Automated Adversary Emulation Platform
 - [moodstyle](https://github.com/intohole/moodstyle) - machine learning alg write with pure python ／ 机器学习
 - [shell-functools](https://github.com/sharkdp/shell-functools) - Functional programming tools for the shell
 - [requestium](https://github.com/tryolabs/requestium) - Integration layer between Requests and Selenium for automation of web actions.
@@ -12718,7 +12718,6 @@
 - [libra](https://github.com/libra/libra) - Libra’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.
 - [emu](https://github.com/calebwin/emu) - The write-once-run-anywhere GPGPU library for Rust
 - [wasmer-python](https://github.com/wasmerio/wasmer-python) - 🐍🕸 WebAssembly runtime for Python
-- [fluence](https://github.com/fluencelabs/fluence) - Peer-to-peer computing protocol and licensing system
 - [mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott!
 - [atlasr](https://github.com/atlasr-org/atlasr) - Atlasr is a truly open-source and free map browser.
 - [firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
@@ -12752,6 +12751,7 @@
 - [documentation](https://github.com/codeship/documentation) - Documentation for Codeship CI & CD service
 - [TypeScript-Node-Starter](https://github.com/microsoft/TypeScript-Node-Starter) - A reference example for TypeScript and Node with a detailed README describing how to use the two together.
 - [serverless-stack-com](https://github.com/AnomalyInnovations/serverless-stack-com) - Serverless Stack is an open source guide for building and deploying full-stack apps using Serverless and React on AWS.
+- [devportfolio](https://github.com/RyanFitzgerald/devportfolio) - A lightweight, customizable single-page personal portfolio website template built with JavaScript and Sass
 - [card](https://github.com/jessepollak/card) - :credit_card: make your credit card form better in one line of code
 - [grav-plugin-admin](https://github.com/getgrav/grav-plugin-admin) - Grav Admin Plugin
 - [uswds](https://github.com/uswds/uswds) - The U.S. Web Design System helps the federal government build fast, accessible, mobile-friendly websites.
@@ -12910,7 +12910,6 @@
 - [awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) - 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
 - [zpyi](https://github.com/sakshamsharma/zpyi) - The power of python in your Zsh - Unobtrusive and easy python scripting in shell
 - [ansible-role-odoo](https://github.com/michaelrigart/ansible-role-odoo) - An ansible role for installing and configuring Odoo.
-- [ansible-django-stack](https://github.com/jcalazan/ansible-django-stack) - Ansible Playbook for setting up a Django app with Nginx, Gunicorn, PostgreSQL, Celery, RabbitMQ, Supervisor, Virtualenv, and Memcached. A Vagrantfile for provisioning a VirtualBox virtual machine is included as well.
 - [android-guidelines](https://github.com/bufferapp/android-guidelines) - Project Guidelines for the Android Buffer App
 - [rethinkdb-vagrant](https://github.com/RyanAmos/rethinkdb-vagrant) - Install RethinkDB using Vagrant.
 - [microservices-demo](https://github.com/microservices-demo/microservices-demo) - Deployment scripts & config for Sock Shop
@@ -13112,6 +13111,7 @@
 - [notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
 - [next-boilerplate](https://github.com/pankod/next-boilerplate) - A well-structured production ready Next.js boilerplate with Typescript, Redux, Jest, Enzyme, Express.js, Sass, Css, EnvConfig, Fetch, Reverse Proxy, Bundle Analyzer and Built-in Project CLI. https://pankod.github.io/next-boilerplate/
 - [vsf-payment-paypal](https://github.com/develodesign/vsf-payment-paypal) - Paypal payment module for Vue Storefront
+- [fluence](https://github.com/fluencelabs/fluence) - Peer-to-peer computing protocol and licensing system
 - [desktop-wallet](https://github.com/ArkEcosystem/desktop-wallet) - :computer: Multi Platform ARK Desktop Wallet
 - [squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
 - [material-angular-dashboard](https://github.com/CreativeIT/material-angular-dashboard) - Material Angular Admin Template
