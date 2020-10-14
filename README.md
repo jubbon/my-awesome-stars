@@ -840,7 +840,7 @@
 - [zurl](https://github.com/fanout/zurl) - HTTP and WebSocket client worker with ZeroMQ interface
 - [pushpin](https://github.com/fanout/pushpin) - Reverse proxy for realtime web services
 - [Visually-Algorithm](https://github.com/Kiroeko/Visually-Algorithm) - This is a A* Algorithm Visually Display Demo that shows Us How Computer Deal With Pathfinding。
-- [DeepSpeech](https://github.com/mozilla/DeepSpeech) - DeepSpeech is an open source embedded speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.
+- [DeepSpeech](https://github.com/mozilla/DeepSpeech) - DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.
 - [deepmath](https://github.com/tensorflow/deepmath) - Experiments towards neural network theorem proving
 - [float-hacks](https://github.com/leegao/float-hacks) - Floating Point Hacks
 - [tera](https://github.com/baidu/tera) - An Internet-Scale Database.
@@ -1545,6 +1545,7 @@
 - [godog](https://github.com/cucumber/godog) - Cucumber for golang
 - [aws-vault](https://github.com/99designs/aws-vault) - A vault for securely storing and accessing AWS credentials in development environments
 - [go-gitlab](https://github.com/xanzy/go-gitlab) - A GitLab API client enabling Go programs to interact with GitLab in a simple and uniform way
+- [micro](https://github.com/micro/micro) - Micro is a framework for cloud native development
 - [go-github](https://github.com/google/go-github) - Go library for accessing the GitHub API
 - [nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
 - [migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
@@ -2769,7 +2770,7 @@
 - [cordova-plugin-sms](https://github.com/floatinghotpot/cordova-plugin-sms) - Plugin to operate SMS, send / list / intercept / delete / restore
 - [cordova-sms-plugin](https://github.com/cordova-sms/cordova-sms-plugin) - Cross-platform plugin for Cordova / PhoneGap to send SMS. Available for Android, iOS, and Windows Phone 8.
 - [SmsVerifyCatcher](https://github.com/stfalcon-studio/SmsVerifyCatcher) - Android library for phone number verification feature in your app. Automatically copies verification code from SMS right into the app. Made by Stfalcon
-- [community](https://github.com/GoogleCloudPlatform/community) - This repository holds the content submitted to https://cloud.google.com/community. Files added to the tutorials/ will appear at https://cloud.google.com/community/tutorials.
+- [community](https://github.com/GoogleCloudPlatform/community) - This repository holds the content submitted to https://cloud.google.com/community. Files added to the tutorials/ directory will appear at https://cloud.google.com/community/tutorials.
 - [A_Guide_to_Running_Tensorflow_Models_on_Android](https://github.com/llSourcell/A_Guide_to_Running_Tensorflow_Models_on_Android) - This is the code for"A Guide to Running Tensorflow Models on Android" By SIraj Raval on Youtube
 - [jackhammer](https://github.com/olacabs/jackhammer) - Jackhammer - One Security vulnerability assessment/management tool to solve all the security team problems.
 - [EasyML](https://github.com/ICT-BDA/EasyML) - Easy Machine Learning is a general-purpose dataflow-based system for easing the process of applying machine learning algorithms to real world tasks.
@@ -4031,7 +4032,6 @@
 - [image-diff](https://github.com/uber-archive/image-diff) - Create image differential between two images
 - [startbootstrap-agency](https://github.com/StartBootstrap/startbootstrap-agency) - A one page HTML theme for agencies created by Start Bootstrap
 - [AzureUsageAndBillingPortal](https://github.com/microsoft/AzureUsageAndBillingPortal) - This web application solution enables you to monitor the usage and billing for any Azure subscriptions you have access to.
-- [socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
 - [Dex](https://github.com/PatMartin/Dex) - Dex : The Data Explorer -- A data visualization tool written in Java/Groovy/JavaFX capable of powerful ETL and publishing web visualizations.
 - [2016-talks](https://github.com/gophercon/2016-talks) - Slides and Links to slides for 2016 talks
 - [jupyterlab](https://github.com/jupyterlab/jupyterlab) - JupyterLab computational environment.
@@ -4758,6 +4758,7 @@
 - [google-research](https://github.com/google-research/google-research) - Google Research
 - [basics](https://github.com/madewithml/basics) - 📚 Learn ML with clean code, simplified math and illustrative visuals.
 - [DL-workshop-series](https://github.com/Machine-Learning-Tokyo/DL-workshop-series) - Material used for Deep Learning related workshops for Machine Learning Tokyo (MLT)
+- [info8006-introduction-to-ai](https://github.com/glouppe/info8006-introduction-to-ai) - Lectures for INFO8006 - Introduction to Artificial Intelligence, ULiège
 - [PRML](https://github.com/ctgk/PRML) - PRML algorithms implemented in Python
 - [Time_Series_Prediction](https://github.com/llSourcell/Time_Series_Prediction) - This is the code for "Time Series Prediction" By Siraj Raval on Youtube
 - [NLP-with-Python](https://github.com/susanli2016/NLP-with-Python) - Scikit-Learn, NLTK, Spacy, Gensim, Textblob and more
@@ -5770,7 +5771,6 @@
 - [awesome-gpt3](https://github.com/elyase/awesome-gpt3) - 
 - [Free-Certifications](https://github.com/cloudcommunity/Free-Certifications) - Curated list of free courses & certifications
 - [open-source-cs-python](https://github.com/ForrestKnight/open-source-cs-python) - Video discussing this curriculum:
-- [ML_for_SLA](https://github.com/JonathanLaneMcDonald/ML_for_SLA) - Training a neural network to isolate comprehensible input from unstructured text to aid vocabulary acquisition.
 - [pylance-release](https://github.com/microsoft/pylance-release) - Documentation and issues for Pylance
 - [snipsnap](https://github.com/snipsnapdev/snipsnap) - The ultimate snippets collection for VS Code
 - [Deep-learning-books](https://github.com/loveunk/Deep-learning-books) - Books for machine learning, deep learning, math, NLP, CV, RL, etc
@@ -5926,7 +5926,7 @@
 - [The-Hundred-Page-Machine-Learning-Book](https://github.com/ZakiaSalod/The-Hundred-Page-Machine-Learning-Book) - This repository contains the draft PDF copies of the book: The 100 Page Machine Learning Book
 - [technology_books](https://github.com/arpitjindal97/technology_books) - Premium eBook free for Geeks
 - [you-dont-know-js-ru](https://github.com/azat-io/you-dont-know-js-ru) - :books: Russian translation of "You Don't Know JS" book series
-- [PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE) - Updates to this repository will continue to arrive until the number of links reaches 10000 links & 10000 pdf files .Learn Ethical Hacking and penetration testing .hundreds of ethical hacking & penetration testing & red team & cyber security & computer science resources.
+- [PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE) - Learn ethical hacking.Learn about reconnaissance,windows/linux hacking,attacking web technologies,and pen testing wireless networks.Resources for learning malware analysis and reverse engineering.
 - [git-kata](https://github.com/Slashgear/git-kata) - When you know the bases of git but sometimes you have problemes with it. This "code kata" could help you to deal with git problems
 - [Learn_Computer_Vision](https://github.com/llSourcell/Learn_Computer_Vision) - This is the curriculum for "Learn Computer Vision" by Siraj Raval on Youtube
 - [1x.engineer](https://github.com/cutenode/1x.engineer) - The official website of 1x Engineers around the world
@@ -5946,7 +5946,6 @@
 - [Data-Engineering-HowTo](https://github.com/adilkhash/Data-Engineering-HowTo) - A list of useful resources to learn Data Engineering from scratch
 - [xviz-data](https://github.com/uber/xviz-data) - Public data storage related to https://github.com/uber/xviz
 - [softskills](https://github.com/productuniversity/softskills) - Soft Skills для разработчиков
-- [automagica](https://github.com/automagica/automagica) - AI-powered Smart Robotic Process Automation 🤖
 - [javascript-questions](https://github.com/lydiahallie/javascript-questions) - A long list of (advanced) JavaScript questions, and their explanations :sparkles:
 - [The-Documentation-Compendium](https://github.com/kylelobo/The-Documentation-Compendium) - 📢 Various README templates & tips on writing high-quality documentation that people want to read.
 - [security](https://github.com/numirias/security) - Some of my security stuff and vulnerabilities. Nothing advanced. More to come.
@@ -6844,6 +6843,7 @@
 - [pyTelegramBotAPI](https://github.com/eternnoir/pyTelegramBotAPI) - Python Telegram bot api.
 - [vega](https://github.com/huawei-noah/vega) - AutoML tools chain
 - [awesome-discord-communities](https://github.com/mhxion/awesome-discord-communities) - A curated list of awesome Discord communities for programmers
+- [ML_for_SLA](https://github.com/JonathanLaneMcDonald/ML_for_SLA) - Training a neural network to isolate comprehensible input from unstructured text to aid vocabulary acquisition.
 - [practical-python](https://github.com/dabeaz-course/practical-python) - Practical Python Programming (course by @dabeaz)
 - [Summer2021-Internships](https://github.com/Pitt-CSC/Summer2021-Internships) - Collection of Summer 2021 tech internships!
 - [J.A.R.V.I.S](https://github.com/GauravSingh9356/J.A.R.V.I.S) - python powered Intelligent System
@@ -7496,6 +7496,7 @@
 - [keras-tuner](https://github.com/keras-team/keras-tuner) - Hyperparameter tuning for humans
 - [CRAFT-pytorch](https://github.com/clovaai/CRAFT-pytorch) - Official implementation of Character Region Awareness for Text Detection (CRAFT)
 - [voila](https://github.com/voila-dashboards/voila) - Voilà turns Jupyter notebooks into standalone web applications
+- [automagica](https://github.com/automagica/automagica) - AI-powered Smart Robotic Process Automation 🤖
 - [DeepGlobe-Road-Extraction-Challenge](https://github.com/zlkanata/DeepGlobe-Road-Extraction-Challenge) - D-LinkNet: LinkNet with Pretrained Encoder and Dilated Convolution for High Resolution Satellite Imagery Road Extraction
 - [ijson](https://github.com/isagalaev/ijson) - Iterative JSON parser with Pythonic interface
 - [gitdir](https://github.com/sdushantha/gitdir) - 📁 Download a single directory/folder from a GitHub repo
@@ -7777,7 +7778,6 @@
 - [pixelhouse](https://github.com/thoppe/pixelhouse) - A minimalist drawing library for making beautiful animations in python
 - [cache.py](https://github.com/bwasti/cache.py) - Python memoization across program runs.
 - [pydemo](https://github.com/qubitron/pydemo) - Get Productive with Python and Visual Studio Code - slides, video, and demo code
-- [info8006-introduction-to-ai](https://github.com/glouppe/info8006-introduction-to-ai) - Lectures for INFO8006 - Introduction to Artificial Intelligence, ULiège
 - [IMSI-catcher](https://github.com/Oros42/IMSI-catcher) - This program show you IMSI numbers of cellphones around you.
 - [self_driving_pi_car](https://github.com/felipessalvatore/self_driving_pi_car) - A deep neural network based self-driving car, that combines Lego Mindstorms NXT with the computational power of a Raspberry Pi 3.
 - [shellver](https://github.com/0xR0/shellver) - Reverse Shell Cheat Sheet TooL
@@ -8703,7 +8703,7 @@
 - [advent_of_code_2017](https://github.com/kodsnack/advent_of_code_2017) - Contribute your solutions to Advent of Code 2017 and be inspired by others.
 - [deep-head-pose](https://github.com/natanielruiz/deep-head-pose) - :fire::fire: Deep Learning Head Pose Estimation using PyTorch.
 - [Tiredful-API](https://github.com/payatu/Tiredful-API) - An intentionally designed broken web application based on REST API.
-- [caldera](https://github.com/mitre/caldera) - A Scalable Automated Adversary Emulation Platform
+- [caldera](https://github.com/mitre/caldera) - Scalable Automated Adversary Emulation Platform
 - [moodstyle](https://github.com/intohole/moodstyle) - machine learning alg write with pure python ／ 机器学习
 - [shell-functools](https://github.com/sharkdp/shell-functools) - Functional programming tools for the shell
 - [requestium](https://github.com/tryolabs/requestium) - Integration layer between Requests and Selenium for automation of web actions.
@@ -9630,7 +9630,7 @@
 - [flasksr](https://github.com/arpitbbhayani/flasksr) - Make flask pages load faster and better by streaming partial HTTP Responses :boom:
 - [fTerm](https://github.com/fTerm/fTerm) - The Bourne Again Shell, but for Humans.
 - [fast-weights](https://github.com/jiamings/fast-weights) - Implementation of the paper [Using Fast Weights to Attend to the Recent Past](https://arxiv.org/abs/1610.06258)
-- [saleor](https://github.com/mirumee/saleor) - A modular, high performance, headless e-commerce storefront built with Python, GraphQL, Django, and ReactJS.
+- [saleor](https://github.com/mirumee/saleor) - A modular, high performance, headless e-commerce platform built with Python, GraphQL, Django, and ReactJS.
 - [painters](https://github.com/inejc/painters) - :art: Winning solution for the Painter by Numbers competition on Kaggle.
 - [pywren](https://github.com/pywren/pywren) - Teraflops and microservices
 - [nathan](https://github.com/mseclab/nathan) - Android Emulator for mobile security testing
@@ -12709,7 +12709,6 @@
 - [nomino](https://github.com/yaa110/nomino) - Batch rename utility for developers
 - [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
-- [micro](https://github.com/micro/micro) - Micro is a framework for cloud native development
 - [tokenizers](https://github.com/huggingface/tokenizers) - 💥Fast State-of-the-Art Tokenizers optimized for Research and Production
 - [raic-2019](https://github.com/MailRuChamps/raic-2019) - Russian AI Cup — artificial intelligence programming contest. Official website: http://russianaicup.ru
 - [navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line and application launchers
@@ -12718,6 +12717,7 @@
 - [libra](https://github.com/libra/libra) - Libra’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.
 - [emu](https://github.com/calebwin/emu) - The write-once-run-anywhere GPGPU library for Rust
 - [wasmer-python](https://github.com/wasmerio/wasmer-python) - 🐍🕸 WebAssembly runtime for Python
+- [fluence](https://github.com/fluencelabs/fluence) - Peer-to-peer computing protocol and licensing system
 - [mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott!
 - [atlasr](https://github.com/atlasr-org/atlasr) - Atlasr is a truly open-source and free map browser.
 - [firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
@@ -13111,7 +13111,6 @@
 - [notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
 - [next-boilerplate](https://github.com/pankod/next-boilerplate) - A well-structured production ready Next.js boilerplate with Typescript, Redux, Jest, Enzyme, Express.js, Sass, Css, EnvConfig, Fetch, Reverse Proxy, Bundle Analyzer and Built-in Project CLI. https://pankod.github.io/next-boilerplate/
 - [vsf-payment-paypal](https://github.com/develodesign/vsf-payment-paypal) - Paypal payment module for Vue Storefront
-- [fluence](https://github.com/fluencelabs/fluence) - Peer-to-peer computing protocol and licensing system
 - [desktop-wallet](https://github.com/ArkEcosystem/desktop-wallet) - :computer: Multi Platform ARK Desktop Wallet
 - [squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
 - [material-angular-dashboard](https://github.com/CreativeIT/material-angular-dashboard) - Material Angular Admin Template
@@ -13166,7 +13165,7 @@
 - [tfjs](https://github.com/tensorflow/tfjs) - A WebGL accelerated JavaScript library for training and deploying ML models.
 - [outline-server](https://github.com/Jigsaw-Code/outline-server) - Outline Manager, developed by Jigsaw. The Outline Manager application creates and manages Outline servers, powered by Shadowsocks. It uses the Electron framework to offer support for Windows, macOS and Linux.
 - [oclif](https://github.com/oclif/oclif) - Node.js Open CLI Framework. Built with 💜 by Heroku.
-- [analysis-ui](https://github.com/conveyal/analysis-ui) - Model and analyze transport scenarios.
+- [analysis-ui](https://github.com/conveyal/analysis-ui) - Front-end for Conveyal Analysis. Model and analyze transport scenarios.
 - [blog-admin](https://github.com/jkchao/blog-admin) - blog-admin @react、@typescript、@apollographql
 - [react-morph](https://github.com/brunnolou/react-morph) - Morphing Ui transitions made simple
 - [emma-cli](https://github.com/maticzav/emma-cli) - 📦 Terminal assistant to find and install node packages.
@@ -13279,6 +13278,7 @@
 - [google-maps-services-js](https://github.com/googlemaps/google-maps-services-js) - Node.js client library for Google Maps API Web Services
 - [recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
 - [phosphor](https://github.com/phosphorjs/phosphor) - The PhosphorJS Library
+- [socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
 - [slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors. (Currently in beta.)
 - [spa-github-pages](https://github.com/rafgraph/spa-github-pages) - Host single page apps with GitHub Pages
 - [ignite](https://github.com/infinitered/ignite) - The hottest CLI for React Native, boilerplates, plugins, generators, and more!
