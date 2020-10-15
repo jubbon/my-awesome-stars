@@ -629,7 +629,7 @@
 - [PhysX-3.4](https://github.com/NVIDIAGameWorks/PhysX-3.4) - NVIDIA PhysX SDK 3.4
 - [onnxruntime](https://github.com/microsoft/onnxruntime) - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
 - [carma-platform](https://github.com/usdot-fhwa-stol/carma-platform) - CARMA Platform is built on robot operating system (ROS) and utilizes open source software (OSS) that enables Cooperative Driving Automation (CDA) features to allow Automated Driving Systems to interact and cooperate with infrastructure and other vehicles through communication.
-- [GuiLite](https://github.com/idea4good/GuiLite) - ✔️The smallest header-only GUI library(5 KLOC) for all platforms
+- [GuiLite](https://github.com/idea4good/GuiLite) - ✔️The smallest header-only GUI library(4 KLOC) for all platforms
 - [flutter-desktop-embedding](https://github.com/google/flutter-desktop-embedding) - Experimental plugins for Flutter for Desktop
 - [TorchCraftAI](https://github.com/TorchCraft/TorchCraftAI) - A platform that lets you build agents to learn to play StarCraft: Brood War.
 - [Algojammer](https://github.com/ChrisKnott/Algojammer) - An experimental code editor for writing algorithms
@@ -1545,7 +1545,7 @@
 - [godog](https://github.com/cucumber/godog) - Cucumber for golang
 - [aws-vault](https://github.com/99designs/aws-vault) - A vault for securely storing and accessing AWS credentials in development environments
 - [go-gitlab](https://github.com/xanzy/go-gitlab) - A GitLab API client enabling Go programs to interact with GitLab in a simple and uniform way
-- [micro](https://github.com/micro/micro) - Micro is a framework for cloud native development
+- [micro](https://github.com/micro/micro) - Micro is a platform for cloud native development
 - [go-github](https://github.com/google/go-github) - Go library for accessing the GitHub API
 - [nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
 - [migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
@@ -1589,7 +1589,7 @@
 - [lindb](https://github.com/lindb/lindb) - LinDB is a scalable, high performance, high availability distributed time series database.
 - [buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
 - [gotraining](https://github.com/ardanlabs/gotraining) - Go Training Class Material :
-- [go-micro](https://github.com/micro/go-micro) - A Go standard library for microservices
+- [go-micro](https://github.com/asim/go-micro) - A Go standard library for microservices
 - [pipeline](https://github.com/tektoncd/pipeline) - A K8s-native Pipeline resource.
 - [prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
 - [k3v](https://github.com/ibuildthecloud/k3v) - Virtual Kubernetes
@@ -4758,7 +4758,6 @@
 - [google-research](https://github.com/google-research/google-research) - Google Research
 - [basics](https://github.com/madewithml/basics) - 📚 Learn ML with clean code, simplified math and illustrative visuals.
 - [DL-workshop-series](https://github.com/Machine-Learning-Tokyo/DL-workshop-series) - Material used for Deep Learning related workshops for Machine Learning Tokyo (MLT)
-- [info8006-introduction-to-ai](https://github.com/glouppe/info8006-introduction-to-ai) - Lectures for INFO8006 - Introduction to Artificial Intelligence, ULiège
 - [PRML](https://github.com/ctgk/PRML) - PRML algorithms implemented in Python
 - [Time_Series_Prediction](https://github.com/llSourcell/Time_Series_Prediction) - This is the code for "Time Series Prediction" By Siraj Raval on Youtube
 - [NLP-with-Python](https://github.com/susanli2016/NLP-with-Python) - Scikit-Learn, NLTK, Spacy, Gensim, Textblob and more
@@ -5969,6 +5968,7 @@
 - [golang-developer-roadmap](https://github.com/Alikhll/golang-developer-roadmap) - Roadmap to becoming a Go developer in 2020
 - [pytorch-styleguide](https://github.com/IgorSusmelj/pytorch-styleguide) - An unofficial styleguide and best practices summary for PyTorch
 - [resilience-engineering](https://github.com/lorin/resilience-engineering) - Resilience engineering papers
+- [AzureTipsAndTricks](https://github.com/microsoft/AzureTipsAndTricks) - Learn some of our favorite Azure tips and tricks—some long-standing, and new ones that have recently been added to become more productive with Azure. Star the repo now to shave hours off your coding tasks tomorrow.
 - [octotree](https://github.com/ovity/octotree) - GitHub on steroids
 - [app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
 - [commit-messages-guide](https://github.com/RomuloOliveira/commit-messages-guide) - A guide to understand the importance of commit messages and how to write them well
@@ -7778,6 +7778,7 @@
 - [pixelhouse](https://github.com/thoppe/pixelhouse) - A minimalist drawing library for making beautiful animations in python
 - [cache.py](https://github.com/bwasti/cache.py) - Python memoization across program runs.
 - [pydemo](https://github.com/qubitron/pydemo) - Get Productive with Python and Visual Studio Code - slides, video, and demo code
+- [info8006-introduction-to-ai](https://github.com/glouppe/info8006-introduction-to-ai) - Lectures for INFO8006 - Introduction to Artificial Intelligence, ULiège
 - [IMSI-catcher](https://github.com/Oros42/IMSI-catcher) - This program show you IMSI numbers of cellphones around you.
 - [self_driving_pi_car](https://github.com/felipessalvatore/self_driving_pi_car) - A deep neural network based self-driving car, that combines Lego Mindstorms NXT with the computational power of a Raspberry Pi 3.
 - [shellver](https://github.com/0xR0/shellver) - Reverse Shell Cheat Sheet TooL
@@ -10101,7 +10102,7 @@
 - [GeosPy](https://github.com/tylfin/GeosPy) - Highly optimized geolocation inference package for spatial approximation
 - [watson-word-watcher](https://github.com/dannguyen/watson-word-watcher) - A proof of concept using IBM's Speech-to-Text API to do quick-and-dirty transcriptions
 - [thunder](https://github.com/thunder-project/thunder) - scalable analysis of images and time series
-- [dynaconf](https://github.com/rochacbruno/dynaconf) - Configuration Management for Python :wrench: ⚙
+- [dynaconf](https://github.com/rochacbruno/dynaconf) - Configuration Management for Python ⚙
 - [curses-menu](https://github.com/pmbarrett314/curses-menu) - A simple console menu system in python using the curses library
 - [redis-memory-analyzer](https://github.com/gamenet/redis-memory-analyzer) - Redis memory profiler to find the RAM bottlenecks throw scaning key space in real time and aggregate RAM usage statistic by patterns.
 - [pyq](https://github.com/caioariede/pyq) - A CLI tool to search for Python code in a path using jQuery-like selectors.
@@ -13261,7 +13262,7 @@
 - [rxdb](https://github.com/pubkey/rxdb) - :computer: 🔄 :iphone: A realtime Database for JavaScript Applications
 - [chartify](https://github.com/kis/chartify) - 📊 📈 📉 React.js plugin for building charts using CSS
 - [cyclejs](https://github.com/cyclejs/cyclejs) - A functional and reactive JavaScript framework for predictable code
-- [md2googleslides](https://github.com/gsuitedevs/md2googleslides) - Generate Google Slides from markdown
+- [md2googleslides](https://github.com/googleworkspace/md2googleslides) - Generate Google Slides from markdown
 - [stanza](https://github.com/legastero/stanza) - Modern XMPP, with a JSON API
 - [code-gov-web](https://github.com/GSA/code-gov-web) - DEPRECATED 🛑- Federal Source Code policy implementation.
 - [SIP.js](https://github.com/onsip/SIP.js) - A simple, intuitive, and powerful JavaScript signaling library
@@ -13391,7 +13392,6 @@
 - [vue](https://github.com/geist-org/vue) - Vue implementation of Geist
 - [openmicroservices.org](https://github.com/microservices/openmicroservices.org) - NOT MAINTAINED https://medium.com/@iopeak/open-microservices-specification-1abd8262ad0e
 - [aws-serverless-airline-booking](https://github.com/aws-samples/aws-serverless-airline-booking) - Airline Booking is a complete web application that provides Flight Search, Flight Payment, Flight Booking and Loyalty points including end-to-end testing, GraphQL and CI/CD. This web application is the theme of Build on Serverless Season 2 on AWS Twitch running from April 24th until end of July.
-- [AzureTipsAndTricks](https://github.com/microsoft/AzureTipsAndTricks) - Learn some of our favorite Azure tips and tricks—some long-standing, and new ones that have recently been added to become more productive with Azure. Star the repo now to shave hours off your coding tasks tomorrow.
 - [candy](https://github.com/Simonwep/candy) - 🍭 Cross-platform YouTube-downloader with playlist and channel support as well as build-in audio / video converter.
 - [vue-tailwind-examples](https://github.com/adamwathan/vue-tailwind-examples) - 
 - [pdfvuer](https://github.com/arkokoley/pdfvuer) - A PDF viewer for Vue using Mozilla's PDF.js
