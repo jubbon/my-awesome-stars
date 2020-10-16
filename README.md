@@ -482,7 +482,7 @@
 
 ## C++ 
 
-- [tensorrtx](https://github.com/wang-xinyu/tensorrtx) - Implementation of popular deep learning networks with TensorRT network definition APIs
+- [tensorrtx](https://github.com/wang-xinyu/tensorrtx) - Implementation of popular deep learning networks with TensorRT network definition API
 - [ardupilot](https://github.com/ArduPilot/ardupilot) - ArduPlane, ArduCopter, ArduRover source
 - [navigation](https://github.com/ros-planning/navigation) - ROS Navigation stack.  Code for finding where the robot is and how it can get somewhere else.
 - [gtsam](https://github.com/borglab/gtsam) - GTSAM is a library of C++ classes that implement smoothing and mapping (SAM) in robotics and vision, using factor graphs and Bayes networks as the underlying computing paradigm rather than sparse matrices.
@@ -2342,6 +2342,7 @@
 - [aozorabunko](https://github.com/aozorabunko/aozorabunko) - 
 - [keep-a-changelog](https://github.com/olivierlacan/keep-a-changelog) - If you build software, keep a changelog.
 - [dom-wait](https://github.com/f/dom-wait) - Complex Loader and Progress Management for Vanilla JS
+- [ansible-role-security](https://github.com/geerlingguy/ansible-role-security) - Ansible Role - Security
 - [intercooler-js](https://github.com/bigskysoftware/intercooler-js) - Making AJAX as easy as anchor tags
 - [foml](https://github.com/bloomberg/foml) - Foundations of Machine Learning
 - [react-from-zero](https://github.com/lex111/react-from-zero) - Простое (не менее 99% ES2015) руководство по React
@@ -2389,6 +2390,7 @@
 - [proposal-partial-application](https://github.com/tc39/proposal-partial-application) - Proposal to add partial application to ECMAScript
 - [aws-inventory](https://github.com/devops-israel/aws-inventory) - AWS Inventory in a single HTML file using JS AWS-SDK & Bootstrap
 - [blockshell](https://github.com/daxeel/blockshell) - 🎉  Minimal Blockchain Learning CLI
+- [ansible-role-nginx](https://github.com/geerlingguy/ansible-role-nginx) - Ansible Role - Nginx
 - [ansible-os-hardening](https://github.com/dev-sec/ansible-os-hardening) - This Ansible role provides numerous security-related configurations, providing all-round base protection.
 - [OpenCode-Collaborative](https://github.com/opencode18/OpenCode-Collaborative) - Best place to start Open Source and learn development.
 - [html](https://github.com/whatwg/html) - HTML Standard
@@ -2491,6 +2493,7 @@
 - [angular-interview-questions](https://github.com/khan4019/angular-interview-questions) - Most extensive Angular interview questions based on your level.
 - [node-interview](https://github.com/ElemeFE/node-interview) - How to pass the Node.js interview of ElemeFE.
 - [Stouts.openvpn](https://github.com/Stouts/Stouts.openvpn) - Ansible role to install and configure OpenVPN server
+- [ansible-role-nodejs](https://github.com/geerlingguy/ansible-role-nodejs) - Ansible Role - Node.js
 - [free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [startbootstrap-landing-page](https://github.com/StartBootstrap/startbootstrap-landing-page) - A responsive, Bootstrap landing page template created by Start Bootstrap
 - [badssl.com](https://github.com/chromium/badssl.com) - :lock: Memorable site for testing clients against bad SSL configs.
@@ -2741,7 +2744,7 @@
 - [OsmAnd](https://github.com/osmandapp/OsmAnd) - OsmAnd
 - [micronaut-core](https://github.com/micronaut-projects/micronaut-core) - Micronaut Application Framework
 - [SmartCity-ParkingManagement](https://github.com/TechnionYP5777/SmartCity-ParkingManagement) - Smart City Parking Manegement
-- [AthenaX](https://github.com/uber/AthenaX) - SQL-based streaming analytics platform at scale
+- [AthenaX](https://github.com/uber-archive/AthenaX) - SQL-based streaming analytics platform at scale
 - [Vehicle-In-Motion](https://github.com/frankodoom/Vehicle-In-Motion) - This is a basic implementation of location listener using Google Maps Api
 - [data-transfer-project](https://github.com/google/data-transfer-project) - The Data Transfer Project makes it easy for people to transfer their data between online service providers. We are establishing a common framework, including data models and protocols, to enable direct transfer of data both into and out of participating online service providers.
 - [NYCTaxiBigData](https://github.com/apurvapatkeshwar/NYCTaxiBigData) - 
@@ -2878,7 +2881,6 @@
 - [Real-Time-Person-Removal](https://github.com/jasonmayes/Real-Time-Person-Removal) - Removing people from complex backgrounds in real time using TensorFlow.js in the web browser
 - [cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [workshop-material](https://github.com/peterj/workshop-material) - Material for Kubernetes and Istio workshop https://learnistio.com
-- [fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - Modern & flexible browser fingerprinting library
 - [Detox](https://github.com/wix/Detox) - Gray box end-to-end testing and automation framework for mobile apps
 - [alpine](https://github.com/alpinejs/alpine) - A rugged, minimal framework for composing JavaScript behavior in your markup.
 - [ai-lab](https://github.com/tlkh/ai-lab) - All-in-one AI container for rapid prototyping
@@ -4472,7 +4474,7 @@
 - [mlmachine](https://github.com/petersontylerd/mlmachine) - mlmachine accelerates machine learning experimentation
 - [ipymarkup](https://github.com/natasha/ipymarkup) - NER, syntax markup visualizations
 - [Question-Generation](https://github.com/KristiyanVachev/Question-Generation) - Generating multiple choice questions from text using Machine Learning.
-- [projects](https://github.com/explosion/projects) - 🪐 Example projects for various NLP tasks with datasets, scripts and results
+- [projects](https://github.com/explosion/projects) - 🪐 End-to-end NLP workflows from prototype to production
 - [nlp-python-deep-learning](https://github.com/NirantK/nlp-python-deep-learning) - NLP in Python with Deep Learning
 - [dsc-python-operators-functions-and-methods-lab-onl01-dtsc-ft-041320](https://github.com/learn-co-students/dsc-python-operators-functions-and-methods-lab-onl01-dtsc-ft-041320) - 
 - [Data-Science-Hacks](https://github.com/kunalj101/Data-Science-Hacks) - Data Science Hacks consists of tips, tricks to help you become a better data scientist. Data science hacks are for all - beginner to advanced. Data science hacks consist of python, jupyter notebook, pandas hacks and so on.
@@ -4648,7 +4650,6 @@
 - [data_mining_course](https://github.com/SlinkoIgor/data_mining_course) - 
 - [express_ml](https://github.com/SlinkoIgor/express_ml) - Express course of machine learning
 - [Pytorch-Model-Zoo](https://github.com/sdhnshu/Pytorch-Model-Zoo) - A collection of deep learning models implemented in PyTorch
-- [satellite-image-deep-learning](https://github.com/robmarkcole/satellite-image-deep-learning) - Resources for deep learning with satellite & aerial imagery
 - [mvpose](https://github.com/zju3dv/mvpose) - Code for "Fast and Robust Multi-Person 3D Pose Estimation from Multiple Views" in CVPR'19
 - [cs224u](https://github.com/cgpotts/cs224u) - Code for Stanford CS224u
 - [single-cell-tutorial](https://github.com/theislab/single-cell-tutorial) - Single cell current best practices tutorial case study for the paper:Luecken and Theis, "Current best practices in single-cell RNA-seq analysis: a tutorial"
@@ -5942,6 +5943,7 @@
 - [R-vs.-Python-for-Data-Science](https://github.com/matloff/R-vs.-Python-for-Data-Science) - 
 - [awesome-threat-intelligence](https://github.com/hslatman/awesome-threat-intelligence) - A curated list of Awesome Threat Intelligence resources
 - [120-Data-Science-Interview-Questions](https://github.com/kojino/120-Data-Science-Interview-Questions) - Answers to 120 commonly asked data science interview questions.
+- [satellite-image-deep-learning](https://github.com/robmarkcole/satellite-image-deep-learning) - Resources for deep learning with satellite & aerial imagery
 - [Data-Engineering-HowTo](https://github.com/adilkhash/Data-Engineering-HowTo) - A list of useful resources to learn Data Engineering from scratch
 - [xviz-data](https://github.com/uber/xviz-data) - Public data storage related to https://github.com/uber/xviz
 - [softskills](https://github.com/productuniversity/softskills) - Soft Skills для разработчиков
@@ -6103,7 +6105,6 @@
 - [grokking-pytorch](https://github.com/Kaixhin/grokking-pytorch) - The Hitchiker's Guide to PyTorch
 - [CS-Interview-Knowledge-Map](https://github.com/InterviewMap/CS-Interview-Knowledge-Map) - Build the best interview map. The current content includes JS, network, browser related, performance optimization, security, framework, Git, data structure, algorithm, etc.
 - [Front-End-Performance-Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist) - 🎮 The only Front-End Performance Checklist that runs faster than the others
-- [ansible-role-security](https://github.com/geerlingguy/ansible-role-security) - Ansible Role - Security
 - [architecture_decision_record](https://github.com/joelparkerhenderson/architecture_decision_record) - Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation
 - [How-to-Use-GitHub](https://github.com/llSourcell/How-to-Use-GitHub) - This is the supplementary material for "How to Use GitHub" By Siraj Raval on Youtube
 - [mace-models](https://github.com/XiaoMi/mace-models) - Mobile AI Compute Engine Model Zoo
@@ -6195,7 +6196,6 @@
 - [javascript-knowhow](https://github.com/lidaguang1989/javascript-knowhow) - 
 - [proposals](https://github.com/tc39/proposals) - Tracking ECMAScript Proposals
 - [You-Dont-Know-JS](https://github.com/devSchacht/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
-- [ansible-role-nginx](https://github.com/geerlingguy/ansible-role-nginx) - Ansible Role - Nginx
 - [ansible-vagrant-examples](https://github.com/geerlingguy/ansible-vagrant-examples) - Ansible examples using Vagrant to deploy to local VMs.
 - [mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook) - Mac setup and configuration via Ansible.
 - [awesome-developer-streams](https://github.com/bnb/awesome-developer-streams) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻 Awesome Developers, Streaming
@@ -6350,7 +6350,6 @@
 - [SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
 - [ansible-openvpn](https://github.com/debops-contrib/ansible-openvpn) - Configure and manage OpenVPN.
 - [ansible-openvpn](https://github.com/kbrebanov/ansible-openvpn) - Ansible OpenVPN role
-- [ansible-role-nodejs](https://github.com/geerlingguy/ansible-role-nodejs) - Ansible Role - Node.js
 - [awesome-now](https://github.com/hemanth/awesome-now) - Awesome list of `now.sh` deployments.
 - [awesome-deep-vision-web-demo](https://github.com/hwalsuklee/awesome-deep-vision-web-demo) - A curated list of awesome deep vision web demo
 - [lowlevelprogramming-university](https://github.com/gurugio/lowlevelprogramming-university) - How to be low-level programmer
@@ -6950,7 +6949,7 @@
 - [spacy-stanza](https://github.com/explosion/spacy-stanza) - 💥 Use the latest Stanza (StanfordNLP) research models directly in spaCy
 - [scispacy](https://github.com/allenai/scispacy) - A full spaCy pipeline and models for scientific/biomedical documents.
 - [spacy-models](https://github.com/explosion/spacy-models) - 💫  Models for the spaCy Natural Language Processing (NLP) library
-- [spacy-transformers](https://github.com/explosion/spacy-transformers) - 🛸 spaCy pipelines for pre-trained BERT, XLNet and GPT-2
+- [spacy-transformers](https://github.com/explosion/spacy-transformers) - 🛸 Use pretrained transformers like BERT, XLNet and GPT-2 in spaCy
 - [thinc](https://github.com/explosion/thinc) - 🔮 A refreshing functional take on deep learning, compatible with your favorite libraries
 - [pytorch-optimizer](https://github.com/jettify/pytorch-optimizer) - torch-optimizer -- collection of optimizers for Pytorch
 - [ckan](https://github.com/ckan/ckan) - CKAN is an open-source DMS (data management system) for powering data hubs and data portals. CKAN makes it easy to publish, share and use data. It powers catalog.data.gov, europeandataportal.eu/data, data.humdata.org among many other sites.
@@ -13053,6 +13052,7 @@
 - [backstage](https://github.com/spotify/backstage) - Backstage is an open platform for building developer portals
 - [examples](https://github.com/pulumi/examples) - Infrastructure, containers, and serverless apps to AWS, Azure, GCP, and Kubernetes... all deployed with Pulumi
 - [rome](https://github.com/romefrontend/rome) - The Rome Frontend Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.
+- [fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - Modern & flexible browser fingerprinting library
 - [hiplot](https://github.com/facebookresearch/hiplot) - HiPlot makes understanding high dimensional data easy
 - [playwright](https://github.com/microsoft/playwright) - Node.js library to automate Chromium, Firefox and WebKit with a single API
 - [gistpad](https://github.com/vsls-contrib/gistpad) - VS Code extension for managing and sharing code snippets, notes and interactive samples using GitHub Gists
