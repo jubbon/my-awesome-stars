@@ -329,7 +329,6 @@
 - [lab](https://github.com/deepmind/lab) - A customisable 3D platform for agent-based AI research
 - [hbc](https://github.com/fail0verflow/hbc) - The Homebrew Channel - open source edition
 - [blackmagic](https://github.com/blacksphere/blackmagic) - In application debugger for ARM Cortex microcontrollers.
-- [oss-fuzz](https://github.com/google/oss-fuzz) - OSS-Fuzz - continuous fuzzing of open source software.
 - [goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [robotgo](https://github.com/go-vgo/robotgo) - RobotGo, Go Native cross-platform GUI automation  @vcaesar
 - [git-training](https://github.com/Taeung/git-training) - :octocat:  Don't think about git, just do git
@@ -1589,7 +1588,7 @@
 - [lindb](https://github.com/lindb/lindb) - LinDB is a scalable, high performance, high availability distributed time series database.
 - [buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
 - [gotraining](https://github.com/ardanlabs/gotraining) - Go Training Class Material :
-- [go-micro](https://github.com/asim/go-micro) - A Go standard library for microservices
+- [go-micro](https://github.com/asim/go-micro) - A Go microservices development framework
 - [pipeline](https://github.com/tektoncd/pipeline) - A K8s-native Pipeline resource.
 - [prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
 - [k3v](https://github.com/ibuildthecloud/k3v) - Virtual Kubernetes
@@ -2319,7 +2318,6 @@
 - [async-javascript-cheatsheet](https://github.com/frontarm/async-javascript-cheatsheet) - Cheatsheet for promises and async/await.
 - [hustlr](https://github.com/veekaybee/hustlr) - A web app for HN hustlers
 - [datascience-box](https://github.com/rstudio-education/datascience-box) - Data Science Course in a Box
-- [pudl](https://github.com/MaedahBatool/pudl) - 🐶 A JavaScript-based Static Site Generator — for quick static site prototyping.
 - [calculus-made-easy](https://github.com/nadvornix/calculus-made-easy) - HTML conversion of a great beginner calculus book
 - [awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links
 - [construct.css](https://github.com/t7/construct.css) - Focus on the content and structure of your HTML
@@ -2701,6 +2699,7 @@
 
 ## Handlebars 
 
+- [pudl](https://github.com/MaedahBatool/pudl) - 🐶 A JavaScript-based Static Site Generator — for quick static site prototyping.
 - [sing-app](https://github.com/flatlogic/sing-app) - 💥Free and open-source admin dashboard template built with Bootstrap 4 💥
 
 ## Haskell 
@@ -2851,7 +2850,7 @@
 
 ## JavaScript 
 
-- [docs](https://github.com/github/docs) - This is the open-source repo for docs.github.com.
+- [docs](https://github.com/github/docs) - The open-source repo for docs.github.com
 - [Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates) - A collection of awesome readme templates to display on your profile
 - [petrovich-js](https://github.com/petrovich/petrovich-js) - JS library to inflect Russian first, last, and middle names.
 - [sci-hub-now](https://github.com/0x01h/sci-hub-now) - Free access to academic papers with just a single click! Abolish publishers, long live the open access movement! 🦅
@@ -4034,6 +4033,7 @@
 - [image-diff](https://github.com/uber-archive/image-diff) - Create image differential between two images
 - [startbootstrap-agency](https://github.com/StartBootstrap/startbootstrap-agency) - A one page HTML theme for agencies created by Start Bootstrap
 - [AzureUsageAndBillingPortal](https://github.com/microsoft/AzureUsageAndBillingPortal) - This web application solution enables you to monitor the usage and billing for any Azure subscriptions you have access to.
+- [socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
 - [Dex](https://github.com/PatMartin/Dex) - Dex : The Data Explorer -- A data visualization tool written in Java/Groovy/JavaFX capable of powerful ETL and publishing web visualizations.
 - [2016-talks](https://github.com/gophercon/2016-talks) - Slides and Links to slides for 2016 talks
 - [jupyterlab](https://github.com/jupyterlab/jupyterlab) - JupyterLab computational environment.
@@ -5131,7 +5131,7 @@
 - [anomaly_detection_for_CERN](https://github.com/llSourcell/anomaly_detection_for_CERN) - This is code for my CERN presentation
 - [facets](https://github.com/PAIR-code/facets) - Visualizations for machine learning datasets
 - [mxnet-the-straight-dope](https://github.com/zackchase/mxnet-the-straight-dope) - An interactive book on deep learning. Much easy, so MXNet. Wow. [Straight Dope is growing up] ---&gt; Much of this content has been incorporated into the new Dive into Deep Learning Book available at https://d2l.ai/.
-- [tensorflow-nlp](https://github.com/zhedongzheng/tensorflow-nlp) - NLP and Text Generation in TensorFlow 2.x / 1.x
+- [tensorflow-nlp](https://github.com/zhedongzheng/tensorflow-nlp) - NLP and Text Generation Experiments in TensorFlow 2.x / 1.x
 - [quilt](https://github.com/quiltdata/quilt) - Quilt is a versioned data portal for S3
 - [InferSent](https://github.com/facebookresearch/InferSent) - InferSent sentence embeddings
 - [analyze-citymobil](https://github.com/kuk/analyze-citymobil) - 
@@ -7812,7 +7812,6 @@
 - [spinningup](https://github.com/openai/spinningup) - An educational resource to help anyone learn deep reinforcement learning.
 - [transformers](https://github.com/huggingface/transformers) - 🤗Transformers: State-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0.
 - [waveglow](https://github.com/NVIDIA/waveglow) - A Flow-based Generative Network for Speech Synthesis
-- [pipelines](https://github.com/kubeflow/pipelines) - Machine Learning Pipelines for Kubeflow
 - [pampy](https://github.com/santinic/pampy) - Pampy: The Pattern Matching for Python you always dreamed of.
 - [pysaml2](https://github.com/IdentityPython/pysaml2) - Python implementation of SAML2
 - [einops](https://github.com/arogozhnikov/einops) - Deep learning operations reinvented (for pytorch, tensorflow, chainer, gluon and others)
@@ -12901,6 +12900,7 @@
 - [veewee](https://github.com/jedi4ever/veewee) - Easing the building of vagrant boxes
 - [awesome-no-login-web-apps](https://github.com/aviaryan/awesome-no-login-web-apps) - 🚀 Awesome (free) web apps that work without login
 - [notes](https://github.com/pimterry/notes) - :pencil: Simple delightful note taking, with more unix and less lock-in.
+- [oss-fuzz](https://github.com/google/oss-fuzz) - OSS-Fuzz - continuous fuzzing of open source software.
 - [lynis](https://github.com/CISOfy/lynis) - Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.
 - [ansible-nginx](https://github.com/debops/ansible-nginx) - Install and manage nginx webserver
 - [gitkurwa](https://github.com/jakubnabrdalik/gitkurwa) - A sample project containing usefull verbose aliases, for those who feel lost and angry at git. Basically for those Polish folks, who scream "Git, kurwa!".
@@ -13117,6 +13117,7 @@
 - [material-angular-dashboard](https://github.com/CreativeIT/material-angular-dashboard) - Material Angular Admin Template
 - [wayne](https://github.com/Qihoo360/wayne) - Kubernetes multi-cluster management and publishing platform
 - [statusfy](https://github.com/juliomrqz/statusfy) - A Marvelous Open Source Status Page System
+- [pipelines](https://github.com/kubeflow/pipelines) - Machine Learning Pipelines for Kubeflow
 - [axios-actions](https://github.com/davestewart/axios-actions) - Bundle endpoints as callable, reusable services
 - [eva-icons](https://github.com/akveo/eva-icons) - A pack of more than 480 beautifully crafted Open Source icons. SVG, Sketch, Web Font and Animations support.
 - [sanity](https://github.com/sanity-io/sanity) - The Sanity Studio – Collaborate in real-time on structured content
@@ -13279,7 +13280,6 @@
 - [google-maps-services-js](https://github.com/googlemaps/google-maps-services-js) - Node.js client library for Google Maps API Web Services
 - [recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
 - [phosphor](https://github.com/phosphorjs/phosphor) - The PhosphorJS Library
-- [socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
 - [slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors. (Currently in beta.)
 - [spa-github-pages](https://github.com/rafgraph/spa-github-pages) - Host single page apps with GitHub Pages
 - [ignite](https://github.com/infinitered/ignite) - The hottest CLI for React Native, boilerplates, plugins, generators, and more!
