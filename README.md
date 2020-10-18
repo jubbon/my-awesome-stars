@@ -1604,7 +1604,7 @@
 - [trivy](https://github.com/aquasecurity/trivy) - A Simple and Comprehensive Vulnerability Scanner for Containers, Suitable for CI
 - [gopenpgp](https://github.com/ProtonMail/gopenpgp) - A high-level OpenPGP library
 - [tml](https://github.com/liamg/tml) - :rainbow::computer::art: A tiny markup language for terminal output. Makes formatting output in CLI apps easier!
-- [flipt](https://github.com/markphelps/flipt) - An open-source feature flag solution
+- [flipt](https://github.com/markphelps/flipt) - An open-source, on-prem feature flag solution
 - [sqlflow](https://github.com/sql-machine-learning/sqlflow) - Brings SQL and AI together.
 - [akutan](https://github.com/eBay/akutan) - A distributed knowledge graph store
 - [terraformer](https://github.com/GoogleCloudPlatform/terraformer) - CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
@@ -2261,7 +2261,6 @@
 - [devops-essentials-sample-app](https://github.com/linuxacademy/devops-essentials-sample-app) - 
 - [ctf-wiki](https://github.com/ctf-wiki/ctf-wiki) - CTF Wiki Online. Come and join us, we need you!
 - [openweb](https://github.com/good/openweb) - 
-- [javascript-cheatsheet](https://github.com/wilfredinni/javascript-cheatsheet) - Basic Javascript Cheat Sheet
 - [ru.javascript.info](https://github.com/javascript-tutorial/ru.javascript.info) - Современный учебник JavaScript
 - [vue-particle-effect-buttons](https://github.com/dreambo8563/vue-particle-effect-buttons) - A bursting particles effects buttons component ✨💥❄️🌋
 - [watchme](https://github.com/vsoch/watchme) - Reproducible watchers for research
@@ -2363,7 +2362,7 @@
 - [Intro_to_ML-FutureLabs](https://github.com/InsightDataScience/Intro_to_ML-FutureLabs) - ML primer workshop @ Future Labs AI Summit
 - [crowds](https://github.com/ncase/crowds) - The Wisdom and/or Madness of the Crowds
 - [testing-distributed-systems](https://github.com/asatarin/testing-distributed-systems) - Curated list of resources on testing distributed systems
-- [go101](https://github.com/go101/go101) - An online book focusing on Go syntax/semantics.
+- [go101](https://github.com/go101/go101) - An online book focusing on Go syntax/semantics and runtime related things
 - [proposal-pattern-matching](https://github.com/tc39/proposal-pattern-matching) - Pattern matching syntax for ECMAScript
 - [bitcoincore.org](https://github.com/bitcoin-core/bitcoincore.org) - Bitcoin Core project website
 - [img-2](https://github.com/RevillWeb/img-2) - Replace &lt;img /&gt; elements with &lt;img-2&gt; to automatically pre-cache images and improve page performance.
@@ -2505,7 +2504,6 @@
 - [PolyCARP](https://github.com/nasa/PolyCARP) - 
 - [pygmaps-ng](https://github.com/Permafacture/pygmaps-ng) - A fork of gmm-up focused on generating single file google map apps with python
 - [propeller](https://github.com/digicorp/propeller) - Propeller - Develop more, Code less. Propeller is a front-end responsive framework based on Google's Material Design Standards & Bootstrap.
-- [simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
 - [AR.js](https://github.com/jeromeetienne/AR.js) - Efficient Augmented Reality for the Web - 60fps on mobile!
 - [html-reference](https://github.com/jgthms/html-reference) - HTML Reference: a free guide to all HTML5 elements and attributes
 - [blockchain-demo](https://github.com/anders94/blockchain-demo) - A web-based demonstration of blockchain concepts.
@@ -2993,6 +2991,7 @@
 - [dinoql](https://github.com/victorvoid/dinoql) - A customizable GraphQL style query language for interacting with JavaScript objects.
 - [fusuma](https://github.com/hiroppy/fusuma) - ✍️Fusuma makes slides with Markdown easily.
 - [response](https://github.com/monzo/response) - Monzo's real-time incident response and reporting tool ⚡️
+- [javascript-cheatsheet](https://github.com/wilfredinni/javascript-cheatsheet) - Basic Javascript Cheat Sheet
 - [mockit](https://github.com/boyney123/mockit) - A tool to quickly mock out end points, setup delays and more...
 - [baseweb](https://github.com/uber/baseweb) - A React Component library implementing the Base design language
 - [bento-starter](https://github.com/kefranabg/bento-starter) - :bento: Full-Stack solution to quickly build PWA applications with Vue.js and Firebase
@@ -3808,6 +3807,7 @@
 - [geojson-google-maps](https://github.com/JasonSanford/geojson-google-maps) - A simple utility to convert GeoJSON objects to Google Maps vector objects (Marker, Polyline, Polygon)
 - [neurojs](https://github.com/janhuenermann/neurojs) - A JavaScript deep learning and reinforcement learning library.
 - [ipytracer](https://github.com/hahnlee/ipytracer) - :bar_chart: Algorithm Visualizer for IPython/Jupyter Notebook
+- [simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
 - [react-trend](https://github.com/unsplash/react-trend) - 📈 Simple, elegant spark lines
 - [TagUI](https://github.com/kelaberetiv/TagUI) - Command-line tool for digital process automation (RPA)
 - [uber-cli](https://github.com/jaebradley/uber-cli) - 🚗Uber, at your fingertips
@@ -4426,7 +4426,6 @@
 - [nlp_profiler](https://github.com/neomatrix369/nlp_profiler) - A simple NLP library allows profiling datasets with one or more text columns. When given a dataset and a column name containing text data, NLP Profiler will return either high-level insights or low-level/granular statistical information about the text in that column.
 - [FinancePy](https://github.com/domokane/FinancePy) - A Python Finance Library that focuses on the pricing and risk-management of Financial Derivatives, including fixed-income, equity, FX and credit derivatives.
 - [spark-nlp-workshop](https://github.com/JohnSnowLabs/spark-nlp-workshop) - Public runnable examples of using John Snow Labs' NLP for Apache Spark.
-- [Python_and_the_Web](https://github.com/Python-World/Python_and_the_Web) - Build Bots, Scrape a website or use an API to solve a problem.
 - [mlbook](https://github.com/dafriedman97/mlbook) - Repository for the free online book Machine Learning from Scratch (link below!)
 - [DP100](https://github.com/MicrosoftLearning/DP100) - Labs for Course DP-100: Designing and Implementing Data Science Solutions on Microsoft Azure
 - [natasha-usage](https://github.com/natasha/natasha-usage) - 
@@ -6785,6 +6784,7 @@
 
 ## Python 
 
+- [Python_and_the_Web](https://github.com/Python-World/Python_and_the_Web) - Build Bots, Scrape a website or use an API to solve a problem.
 - [All-Programming-E-Books-PDF](https://github.com/trumpowen/All-Programming-E-Books-PDF) - A Curated List Of Programming Books For C, C++ , Python, JavaScript, NodeJs, ReactJs, Web, JQuery, Flask, Dom, Angular, CSS, HTML for beginners, intermediate, advanced and experts
 - [pet](https://github.com/timoschick/pet) - This repository contains the code for "Exploiting Cloze Questions for Few-Shot Text Classification and Natural Language Inference"
 - [human-learn](https://github.com/koaning/human-learn) - Natural Intelligence is still a pretty good idea.
@@ -12985,7 +12985,7 @@
 - [CombineFeedback](https://github.com/sergdort/CombineFeedback) - Unidirectional reactive architecture using new Apple Combine framework https://developer.apple.com/documentation/combine
 - [LooLocator](https://github.com/samkhawase/LooLocator) - A simple iOS app that fetches the crowd-sourced data from OpenStreetMaps, and shows toilets within walking distance.
 - [Lona](https://github.com/airbnb/Lona) - A tool for defining design systems and using them to generate cross-platform UI code, Sketch files, and other artifacts.
-- [Measure](https://github.com/levantAJ/Measure) - Using ARKit to make calculate distance of real world objects
+- [Measure](https://github.com/levantAJ/Measure) - Using ARKit to make calculate the distance of real-world objects
 - [ARKit-CoreLocation](https://github.com/ProjectDent/ARKit-CoreLocation) - Combines the high accuracy of AR with the scale of GPS data.
 - [Awesome-ARKit](https://github.com/olucurious/Awesome-ARKit) - A curated list of awesome ARKit projects and resources. Feel free to contribute!
 - [Live](https://github.com/ltebean/Live) - Demonstrates how to build a live broadcast app(Swift 3)
