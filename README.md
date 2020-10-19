@@ -39,6 +39,7 @@
   - [HCL](#hcl)
   - [HTML](#html)
   - [Hack](#hack)
+  - [Haml](#haml)
   - [Handlebars](#handlebars)
   - [Haskell](#haskell)
   - [Hy](#hy)
@@ -1396,7 +1397,7 @@
 - [dashboard](https://github.com/Ivaskuu/dashboard) - Dashboard concept made with Flutter.
 - [Build-a-Retail-Startup](https://github.com/llSourcell/Build-a-Retail-Startup) - This is the code for "How to Build a Retail Startup" by Siraj Raval on Youtube
 - [flutter-todos](https://github.com/asjqkkkk/flutter-todos) - 📝 one day list app created by flutter!
-- [flutter_ui_challenges](https://github.com/lohanidamodar/flutter_ui_challenges) - Trying to replicate various app UIs in flutter
+- [flutter_ui_challenges](https://github.com/lohanidamodar/flutter_ui_challenges) - 100+ Professional UI implementations with Code in Flutter
 - [flutter-tutorials](https://github.com/FilledStacks/flutter-tutorials) - The repo contains the source code for all the tutorials on the FilledStacks Youtube channel.
 - [flutter_easyrefresh](https://github.com/xuelongqy/flutter_easyrefresh) - A flutter widget that provides pull-down refresh and pull-up load.
 - [FlutterWhatsAppClone](https://github.com/iampawan/FlutterWhatsAppClone) - Building a WhatsApp Clone in Flutter.
@@ -1829,7 +1830,7 @@
 - [KubeGPU](https://github.com/microsoft/KubeGPU) - A GPU / device extension framework for Kubernetes
 - [go-apla](https://github.com/AplaProject/go-apla) - A blockchain platform with a simplified programming language
 - [gobyexample](https://github.com/mmcgrana/gobyexample) - Go by Example
-- [miniflux](https://github.com/miniflux/miniflux) - Minimalist and opinionated feed reader
+- [v2](https://github.com/miniflux/v2) - Minimalist and opinionated feed reader
 - [url2img](https://github.com/gen2brain/url2img) - HTTP server with API for capturing screenshots of websites
 - [decimal](https://github.com/ericlagergren/decimal) - A high-performance, arbitrary-precision, floating-point decimal library.
 - [darch](https://github.com/godarch/darch) - A tool for building and booting stateless and immutable images, bare metal.
@@ -2337,7 +2338,6 @@
 - [docs](https://github.com/knative/docs) - User documentation for Knative components.
 - [Switchable-Normalization](https://github.com/switchablenorms/Switchable-Normalization) - Code for Switchable Normalization from "Differentiable Learning-to-Normalize via Switchable Normalization", https://arxiv.org/abs/1806.10779
 - [aozorabunko](https://github.com/aozorabunko/aozorabunko) - 
-- [keep-a-changelog](https://github.com/olivierlacan/keep-a-changelog) - If you build software, keep a changelog.
 - [dom-wait](https://github.com/f/dom-wait) - Complex Loader and Progress Management for Vanilla JS
 - [ansible-role-security](https://github.com/geerlingguy/ansible-role-security) - Ansible Role - Security
 - [intercooler-js](https://github.com/bigskysoftware/intercooler-js) - Making AJAX as easy as anchor tags
@@ -2695,6 +2695,10 @@
 
 - [fbctf](https://github.com/facebookarchive/fbctf) - Platform to host Capture the Flag competitions
 
+## Haml 
+
+- [keep-a-changelog](https://github.com/olivierlacan/keep-a-changelog) - If you build software, keep a changelog.
+
 ## Handlebars 
 
 - [pudl](https://github.com/MaedahBatool/pudl) - 🐶 A JavaScript-based Static Site Generator — for quick static site prototyping.
@@ -2890,7 +2894,7 @@
 - [city-roads](https://github.com/anvaka/city-roads) - Visualization of all roads within any city
 - [ganlab](https://github.com/poloclub/ganlab) - GAN Lab: An Interactive, Visual Experimentation Tool for Generative Adversarial Networks
 - [manifold](https://github.com/uber/manifold) - A model-agnostic visual debugging tool for machine learning
-- [ferdi](https://github.com/getferdi/ferdi) - 🧔🏽 Community fork of @meetfranz. Ferdi allows you to combine your favorite messaging services into one application
+- [ferdi](https://github.com/getferdi/ferdi) - 🧔🏽 Ferdi  helps you organize how you use your favourite apps by combining them into one application
 - [flowy](https://github.com/alyssaxuu/flowy) - The minimal javascript library to create flowcharts ✨
 - [shhgit](https://github.com/eth0izzle/shhgit) - Ah shhgit! Find GitHub secrets in real time
 - [BullshitGenerator](https://github.com/menzi11/BullshitGenerator) - Needs to generate some texts to test if my GUI rendering codes good or not. so I made this.
@@ -3363,7 +3367,6 @@
 - [kue](https://github.com/Automattic/kue) - Kue is a priority job queue backed by redis, built for node.js.
 - [cryptocurrency-icons](https://github.com/spothq/cryptocurrency-icons) - A set of icons for all the main cryptocurrencies and altcoins, in a range of styles and sizes.
 - [auto-py-to-exe](https://github.com/brentvollebregt/auto-py-to-exe) - Converts .py to .exe using a simple graphical interface
-- [brain.js](https://github.com/BrainJS/brain.js) - 🤖 GPU accelerated Neural networks in JavaScript for Browsers and Node.js
 - [turbo-ws](https://github.com/hugmanrique/turbo-ws) - :dash: Blazing fast low-level WebSocket server
 - [extension-chrome](https://github.com/pia-foss/extension-chrome) - Private Internet Access - Chrome Extension
 - [workly](https://github.com/pshihn/workly) - A really simple way to move a function or class to a web worker. 🏋️‍♀️→ 😄
@@ -13170,6 +13173,7 @@
 - [analysis-ui](https://github.com/conveyal/analysis-ui) - Front-end for Conveyal Analysis. Model and analyze transport scenarios.
 - [blog-admin](https://github.com/jkchao/blog-admin) - blog-admin @react、@typescript、@apollographql
 - [react-morph](https://github.com/brunnolou/react-morph) - Morphing Ui transitions made simple
+- [brain.js](https://github.com/BrainJS/brain.js) - 🤖 GPU accelerated Neural networks in JavaScript for Browsers and Node.js
 - [emma-cli](https://github.com/maticzav/emma-cli) - 📦 Terminal assistant to find and install node packages.
 - [rough](https://github.com/rough-stuff/rough) - Create graphics with a hand-drawn, sketchy, appearance
 - [xstate](https://github.com/davidkpiano/xstate) - State machines and statecharts for the modern web.
