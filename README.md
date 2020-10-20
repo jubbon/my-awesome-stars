@@ -1397,7 +1397,7 @@
 - [dashboard](https://github.com/Ivaskuu/dashboard) - Dashboard concept made with Flutter.
 - [Build-a-Retail-Startup](https://github.com/llSourcell/Build-a-Retail-Startup) - This is the code for "How to Build a Retail Startup" by Siraj Raval on Youtube
 - [flutter-todos](https://github.com/asjqkkkk/flutter-todos) - 📝 one day list app created by flutter!
-- [flutter_ui_challenges](https://github.com/lohanidamodar/flutter_ui_challenges) - 100+ Professional UI implementations with Code in Flutter
+- [flutter_ui_challenges](https://github.com/lohanidamodar/flutter_ui_challenges) - 100+ Professional UI implementations with Code in Flutter. Available in Android, iOS, Linux and Web
 - [flutter-tutorials](https://github.com/FilledStacks/flutter-tutorials) - The repo contains the source code for all the tutorials on the FilledStacks Youtube channel.
 - [flutter_easyrefresh](https://github.com/xuelongqy/flutter_easyrefresh) - A flutter widget that provides pull-down refresh and pull-up load.
 - [FlutterWhatsAppClone](https://github.com/iampawan/FlutterWhatsAppClone) - Building a WhatsApp Clone in Flutter.
@@ -2755,6 +2755,7 @@
 - [capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
 - [ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region is a offline IP location library with accuracy rate of 99.9% and 0.0x millseconds searching performance. DB file is ONLY a few megabytes with all IP address stored. binding for Java,PHP,C,Python,Nodejs,Golang,C#,lua. Binary,B-tree,Memory searching algorithm
 - [activemq](https://github.com/apache/activemq) - Mirror of Apache ActiveMQ
+- [porcupine](https://github.com/Picovoice/porcupine) - On-device wake word detection powered by deep learning.
 - [onebusaway-android](https://github.com/OneBusAway/onebusaway-android) - The official Android/Fire Phone app for OneBusAway
 - [unfolding](https://github.com/tillnagel/unfolding) - A library to create interactive maps and geovisualizations in Processing and Java
 - [gtfs-osm-sync](https://github.com/CUTR-at-USF/gtfs-osm-sync) - Synchronizes public transportation data in GTFS format with OpenStreetMap.org
@@ -2995,7 +2996,6 @@
 - [dinoql](https://github.com/victorvoid/dinoql) - A customizable GraphQL style query language for interacting with JavaScript objects.
 - [fusuma](https://github.com/hiroppy/fusuma) - ✍️Fusuma makes slides with Markdown easily.
 - [response](https://github.com/monzo/response) - Monzo's real-time incident response and reporting tool ⚡️
-- [javascript-cheatsheet](https://github.com/wilfredinni/javascript-cheatsheet) - Basic Javascript Cheat Sheet
 - [mockit](https://github.com/boyney123/mockit) - A tool to quickly mock out end points, setup delays and more...
 - [baseweb](https://github.com/uber/baseweb) - A React Component library implementing the Base design language
 - [bento-starter](https://github.com/kefranabg/bento-starter) - :bento: Full-Stack solution to quickly build PWA applications with Vue.js and Firebase
@@ -3159,7 +3159,7 @@
 - [bellwoods](https://github.com/mattdesl/bellwoods) - 
 - [tiny-care-terminal](https://github.com/notwaldorf/tiny-care-terminal) - 💖💻 A little dashboard that tries to take care of you when you're using your terminal.
 - [noty](https://github.com/needim/noty) - Dependency-free notification library that makes it easy to create alert - success - error - warning - information - confirmation messages as an alternative the standard alert dialog.
-- [tween.js](https://github.com/tweenjs/tween.js) - Javascript tweening engine
+- [tween.js](https://github.com/tweenjs/tween.js) - JavaScript animation engine
 - [Vue-js-2-Web-Development-Projects](https://github.com/PacktPublishing/Vue-js-2-Web-Development-Projects) - Vue js 2 Web Development Projects, published by Packt
 - [lvovich](https://github.com/nodkz/lvovich) - Склонение названий городов, определения пола по ФИО, склонения имен по падежам
 - [project-explorer](https://github.com/sdras/project-explorer) - 🎋A CLI tool to create an annotated tree visualization of any project
@@ -3346,7 +3346,6 @@
 - [tfjs-examples](https://github.com/tensorflow/tfjs-examples) - Examples built with TensorFlow.js
 - [is-thirteen](https://github.com/jezen/is-thirteen) - Check if a number is equal to 13.
 - [myh5](https://github.com/Braised-Cakes/myh5) - h5制作平台😊😊😊😊😊😊
-- [porcupine](https://github.com/Picovoice/porcupine) - On-device wake word detection powered by deep learning.
 - [AwesomeXSS](https://github.com/s0md3v/AwesomeXSS) - Awesome XSS stuff
 - [graphql-css](https://github.com/braposo/graphql-css) - A blazing fast CSS-in-GQL™ library.
 - [d3graphTheory](https://github.com/mrpandey/d3graphTheory) - :boom: Interactive and colorful :art: graph theory tutorials made using d3.js :zap:
@@ -6746,7 +6745,7 @@
 
 ## Pony 
 
-- [wallaroo](https://github.com/WallarooLabs/wallaroo) - Distributed Stream Processing
+- [wally](https://github.com/WallarooLabs/wally) - Distributed Stream Processing
 
 ## PostScript 
 
@@ -7804,7 +7803,7 @@
 - [vunet](https://github.com/CompVis/vunet) - A generative model conditioned on shape and appearance.
 - [saas-base](https://github.com/CaravelKit/saas-base) - SaaS base application (Flask, Vue, Bootstrap, Webpack)
 - [ClassificaIO](https://github.com/gmiaslab/ClassificaIO) - This repository contains ClassificaIO, a Python package that provides a graphical user interface (GUI) for machine learning algorithms from scikit-learn.
-- [colorpalette](https://github.com/makkoncept/colorpalette) - Flask app : extracts palette of dominating colors from image. https://colorpalette.xyz/
+- [colorpalette](https://github.com/makkoncept/colorpalette) - Extract dominating colors from an image and presents them as a palette. https://colorpalette.xyz/
 - [uis-rnn](https://github.com/google/uis-rnn) - This is the library for the Unbounded Interleaved-State Recurrent Neural Network (UIS-RNN) algorithm, corresponding to the paper Fully Supervised Speaker Diarization.
 - [cutie](https://github.com/Kamik423/cutie) - Command line User Tools for Input Easification
 - [chartify](https://github.com/spotify/chartify) - Python library that makes it easy for data scientists to create charts.
@@ -13395,6 +13394,7 @@
 - [vue-thanos-snap](https://github.com/yiliang114/vue-thanos-snap) - thanos snap animation by vue
 - [vue](https://github.com/geist-org/vue) - Vue implementation of Geist
 - [openmicroservices.org](https://github.com/microservices/openmicroservices.org) - NOT MAINTAINED https://medium.com/@iopeak/open-microservices-specification-1abd8262ad0e
+- [javascript-cheatsheet](https://github.com/wilfredinni/javascript-cheatsheet) - Basic Javascript Cheat Sheet
 - [aws-serverless-airline-booking](https://github.com/aws-samples/aws-serverless-airline-booking) - Airline Booking is a complete web application that provides Flight Search, Flight Payment, Flight Booking and Loyalty points including end-to-end testing, GraphQL and CI/CD. This web application is the theme of Build on Serverless Season 2 on AWS Twitch running from April 24th until end of July.
 - [candy](https://github.com/Simonwep/candy) - 🍭 Cross-platform YouTube-downloader with playlist and channel support as well as build-in audio / video converter.
 - [vue-tailwind-examples](https://github.com/adamwathan/vue-tailwind-examples) - 
