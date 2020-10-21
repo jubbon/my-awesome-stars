@@ -1477,6 +1477,7 @@
 - [nginx-boilerplate](https://github.com/nginx-boilerplate/nginx-boilerplate) - Awesome Nginx configuration template
 - [grafana-xxl](https://github.com/monitoringartist/grafana-xxl) - :bar_chart: Dockerized Grafana with all preinstalled (community) plugins from grafana.net
 - [docker-grafana-graphite](https://github.com/kamon-io/docker-grafana-graphite) - Docker image with StatsD, Graphite, Grafana 2 and a Kamon Dashboard
+- [keras](https://github.com/keras-team/keras) - Deep Learning for humans
 
 ## Elixir 
 
@@ -1533,7 +1534,7 @@
 - [Yearning](https://github.com/cookieY/Yearning) - 🐳 A most popular sql audit platform for mysql
 - [kpt](https://github.com/GoogleContainerTools/kpt) - 
 - [slack](https://github.com/slack-go/slack) - Slack API in Go - community-maintained fork created by the original author, @nlopes
-- [matterbridge](https://github.com/42wim/matterbridge) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, steam, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud and more with REST API (mattermost not required!)
+- [matterbridge](https://github.com/42wim/matterbridge) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, steam, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble and more with REST API (mattermost not required!)
 - [node_exporter](https://github.com/prometheus/node_exporter) - Exporter for machine metrics
 - [ion](https://github.com/pion/ion) - Distributed RTC System by pure Go and Flutter
 - [operator-sdk](https://github.com/operator-framework/operator-sdk) - SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding.
@@ -1624,7 +1625,7 @@
 - [pipe-to-me](https://github.com/jpschroeder/pipe-to-me) - Stream data over http using curl.
 - [kraken](https://github.com/uber/kraken) - P2P Docker registry capable of distributing TBs of data in seconds
 - [astro](https://github.com/uber/astro) - Astro is a tool for managing multiple Terraform executions as a single command
-- [cortex](https://github.com/cortexlabs/cortex) - Model serving at scale
+- [cortex](https://github.com/cortexlabs/cortex) - Deploy machine learning in production
 - [cds](https://github.com/ovh/cds) - Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform
 - [k3s](https://github.com/rancher/k3s) - Lightweight Kubernetes
 - [docui](https://github.com/skanehira/docui) - TUI Client for Docker
@@ -3840,6 +3841,7 @@
 - [nbtutor](https://github.com/lgpage/nbtutor) - Visualize Python code execution (line-by-line) in Jupyter Notebook cells.
 - [marko](https://github.com/marko-js/marko) - A declarative, HTML-based language that makes building web apps fun
 - [pix2pix-tensorflow](https://github.com/affinelayer/pix2pix-tensorflow) - Tensorflow port of Image-to-Image Translation with Conditional Adversarial Nets https://phillipi.github.io/pix2pix/
+- [aleph](https://github.com/alephdata/aleph) - Search and browse documents and data; find the people and companies you look for.
 - [illustrated-algorithms](https://github.com/skidding/illustrated-algorithms) - Interactive algorithm visualizations
 - [easyvpn](https://github.com/rodrigogs/easyvpn) - Easily connect to a VPN in a country of your choice.
 - [creative-portfolios](https://github.com/iRaul/creative-portfolios) - 🌀  A curated list of Creative Portfolios
@@ -5998,7 +6000,7 @@
 - [undefined-medium](https://github.com/andirueckel/undefined-medium) - undefined medium — a free and open-source monospace typeface with 400+ characters
 - [awesome-startup-credits](https://github.com/dakshshah96/awesome-startup-credits) - ✨ A collection of awesome companies offering free/discounted plans for eligible startups
 - [ML-Resources](https://github.com/OldBonhart/ML-Resources) - books and courses on machine learning
-- [ostrio](https://github.com/VeliovGroup/ostrio) - ▲ Web services for JavaScript, Angular.js, React.js, Vue.js, Meteor.js, Node.js, and other JavaScript-based websites, web apps, single page applications (SPA), and progressive web applications (PWA). Our services: Pre-rendering, Monitoring, Web Analytics, WebSec, and Web-CRON
+- [ostrio](https://github.com/veliovgroup/ostrio) - ▲ Web services for JavaScript, Angular.js, React.js, Vue.js, Meteor.js, Node.js, and other JavaScript-based websites, web apps, single page applications (SPA), and progressive web applications (PWA). Our services: Pre-rendering, Monitoring, Web Analytics, WebSec, and Web-CRON
 - [tensorflow-wheels](https://github.com/davidenunes/tensorflow-wheels) - Tensorflow Wheels
 - [fargate-cloudformation-example](https://github.com/1Strategy/fargate-cloudformation-example) - An example CloudFormation template that deploys a container to AWS Fargate as a service.
 - [aws-cloudformation-fargate](https://github.com/nathanpeck/aws-cloudformation-fargate) - Sample CloudFormation templates for how to run Docker containers in AWS Fargate with various networking configurations
@@ -7088,7 +7090,7 @@
 - [dm-haiku](https://github.com/deepmind/dm-haiku) - JAX-based neural network library
 - [updog](https://github.com/sc0tfree/updog) - Updog is a replacement for Python's SimpleHTTPServer. It allows uploading and downloading via HTTP/S, can set ad hoc SSL certificates and use http basic auth.
 - [snoop](https://github.com/snooppr/snoop) - Snoop — инструмент разведки на основе открытых данных (OSINT world)
-- [Soft-Actor-Critic-and-Extensions](https://github.com/BY571/Soft-Actor-Critic-and-Extensions) - PyTorch implementation of Soft-Actor-Critic and Prioritized Experience Replay (PER) + Emphasizing Recent Experience (ERE) + Munchausen RL and parallel Environments.
+- [Soft-Actor-Critic-and-Extensions](https://github.com/BY571/Soft-Actor-Critic-and-Extensions) - PyTorch implementation of Soft-Actor-Critic and Prioritized Experience Replay (PER) + Emphasizing Recent Experience (ERE) + Munchausen RL + D2RL and parallel Environments.
 - [rlax](https://github.com/deepmind/rlax) - 
 - [mAP](https://github.com/Cartucho/mAP) - mean Average Precision - This code evaluates the performance of your neural net for object recognition.
 - [ursina](https://github.com/pokepetter/ursina) - A game engine powered by python and panda3d.
@@ -7185,7 +7187,7 @@
 - [informer](https://github.com/paulpierre/informer) - A Telegram Mass Surveillance Bot in Python
 - [EfficientDet.Pytorch](https://github.com/toandaominh1997/EfficientDet.Pytorch) - Implementation EfficientDet: Scalable and Efficient Object Detection in PyTorch
 - [github-typo-corpus](https://github.com/mhagiwara/github-typo-corpus) - GitHub Typo Corpus: A Large-Scale Multilingual Dataset of Misspellings and Grammatical Errors
-- [StackedDeBERT](https://github.com/gcunhase/StackedDeBERT) - Stacked Denoising BERT for Text Classification in Incomplete Data
+- [StackedDeBERT](https://github.com/gcunhase/StackedDeBERT) - Stacked Denoising BERT for Noisy Text Classification (Neural Networks 2020)
 - [BCQ](https://github.com/sfujim/BCQ) - Author's PyTorch implementation of BCQ for continuous and discrete actions
 - [K3D-jupyter](https://github.com/K3D-tools/K3D-jupyter) - K3D lets you create 3D plots backed by WebGL with high-level API (surfaces, isosurfaces, voxels, mesh, cloud points, vtk objects, volume renderer, colormaps, etc). The primary aim of K3D-jupyter is to be easy for use as stand alone package like matplotlib, but also to allow interoperation with existing libraries as VTK.
 - [EagleEye](https://github.com/anonymous47823493/EagleEye) - (ECCV'2020 Oral)EagleEye: Fast Sub-net Evaluation for Efficient Neural Network Pruning
@@ -9448,7 +9450,6 @@
 - [xlwings](https://github.com/xlwings/xlwings) - xlwings is a BSD-licensed Python library that makes it easy to call Python from Excel and vice versa. It works with Microsoft Excel on Windows and macOS. Sign up for the newsletter or follow us on twitter via
 - [cloud-init](https://github.com/number5/cloud-init) - unofficial mirror of Ubuntu's  cloud-init
 - [bucketstore](https://github.com/jpetrucciani/bucketstore) - A simple library for interacting with Amazon S3.
-- [aleph](https://github.com/alephdata/aleph) - Search and browse documents and data; find the people and companies you look for.
 - [domain-transfer-network](https://github.com/yunjey/domain-transfer-network) - TensorFlow Implementation of Unsupervised Cross-Domain Image Generation
 - [flask-base](https://github.com/hack4impact/flask-base) - A simple Flask boilerplate app with SQLAlchemy, Redis, User Authentication, and more.
 - [glazier](https://github.com/google/glazier) - A tool for automating the installation of the Microsoft Windows operating system on various device platforms.
@@ -11071,7 +11072,6 @@
 - [ansible-modules-extras](https://github.com/ansible/ansible-modules-extras) - Ansible extra modules - these modules ship with ansible
 - [clize](https://github.com/epsy/clize) - CLIze: Turn Python functions into command-line interfaces
 - [conda](https://github.com/conda/conda) - OS-agnostic, system-level binary package manager and ecosystem
-- [keras](https://github.com/keras-team/keras) - Deep Learning for humans
 - [django-seed](https://github.com/Brobin/django-seed) - :seedling: Seed your Django database with fake data
 - [impacket](https://github.com/SecureAuthCorp/impacket) - Impacket is a collection of Python classes for working with network protocols.
 - [flexx](https://github.com/flexxui/flexx) - Write desktop and web apps in pure Python
