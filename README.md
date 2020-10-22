@@ -2858,7 +2858,7 @@
 - [Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates) - A collection of awesome readme templates to display on your profile
 - [petrovich-js](https://github.com/petrovich/petrovich-js) - JS library to inflect Russian first, last, and middle names.
 - [sci-hub-now](https://github.com/0x01h/sci-hub-now) - Free access to academic papers with just a single click! Abolish publishers, long live the open access movement! 🦅
-- [editly](https://github.com/mifi/editly) - Slick, declarative command line video editing
+- [editly](https://github.com/mifi/editly) - Slick, declarative command line video editing & API
 - [intelligent-test-platform](https://github.com/alibaba/intelligent-test-platform) - intelligent-test-platform
 - [ac-nh-turnip-prices](https://github.com/mikebryant/ac-nh-turnip-prices) - Price calculator/predictor for Turnip prices
 - [Recoil](https://github.com/facebookexperimental/Recoil) - Recoil is an experimental state management library for React apps. It provides several capabilities that are difficult to achieve with React alone, while being compatible with the newest features of React.
@@ -7120,7 +7120,7 @@
 - [data-science-from-scratch](https://github.com/joelgrus/data-science-from-scratch) - code for Data Science From Scratch book
 - [spleeter](https://github.com/deezer/spleeter) - Deezer source separation library including pretrained models.
 - [Chaos](https://github.com/jonnyhyman/Chaos) - Visualizations of the connections between chaos theory and fractals through the logistic map; made for Veritasium YouTube video
-- [autogluon](https://github.com/awslabs/autogluon) - AutoGluon: AutoML Toolkit for Deep Learning
+- [autogluon](https://github.com/awslabs/autogluon) - AutoGluon: AutoML Toolkit for Tabular, Text, and Vision
 - [ml-fairness-gym](https://github.com/google/ml-fairness-gym) - 
 - [multiplayer-alphazero](https://github.com/petosa/multiplayer-alphazero) - PyTorch AlphaZero implementation with multiplayer support [NeurIPS 2019 Deep Reinforcement Learning Workshop]
 - [post-tuto-deployment](https://github.com/MarwanDebbiche/post-tuto-deployment) - Build and deploy a machine learning app from scratch  🚀
@@ -7483,7 +7483,7 @@
 - [insightface](https://github.com/deepinsight/insightface) - Face Analysis Project on MXNet
 - [keras-retinanet](https://github.com/fizyr/keras-retinanet) - Keras implementation of RetinaNet object detection.
 - [sacred](https://github.com/IDSIA/sacred) - Sacred is a tool to help you configure, organize, log and reproduce experiments developed at IDSIA.
-- [tensorflow-yolov3](https://github.com/YunYang1994/tensorflow-yolov3) - 🔥 Pure tensorflow Implement of YOLOv3 with support to train your own dataset
+- [tensorflow-yolov3](https://github.com/YunYang1994/tensorflow-yolov3) - 🔥 TensorFlow Code for technical report: "YOLOv3: An Incremental Improvement"
 - [keras-bert](https://github.com/CyberZHG/keras-bert) - Implementation of BERT that could load official pre-trained models for feature extraction and prediction
 - [pyrobot](https://github.com/facebookresearch/pyrobot) - PyRobot: An Open Source Robotics Research Platform
 - [mmaction](https://github.com/open-mmlab/mmaction) - An open-source toolbox for action understanding based on PyTorch
@@ -8409,7 +8409,7 @@
 - [captivox](https://github.com/expectocode/captivox) - cool animations with pyqt5 and parametrics
 - [gist-evernote](https://github.com/leemengtaiwan/gist-evernote) - A Python application that sync Github Gists and save them to Evernote notebook as screenshots.
 - [Pointillism](https://github.com/matteo-ronchetti/Pointillism) - Convert a photo into a pointillist painting
-- [icecream](https://github.com/gruns/icecream) - 🍦 Never use print() to debug again
+- [icecream](https://github.com/gruns/icecream) - 🍦 Never use print() to debug again.
 - [playground](https://github.com/MultiAgentLearning/playground) - PlayGround: AI Research into Multi-Agent Learning.
 - [msdat](https://github.com/quentinhardy/msdat) - MSDAT: Microsoft SQL Database Attacking Tool
 - [VSCodeNotebook](https://github.com/aviaryan/VSCodeNotebook) - 📝 Use VS Code as a reliable note-taking/journal application
@@ -12953,7 +12953,7 @@
 - [dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [metamon](https://github.com/tryolabs/metamon) - Collection of Ansible playbooks to quickly start your Django Application
 - [rapid.py](https://github.com/delacruz-dev/rapid.py) - A template built on python and bootstrap for rapid prototyping
-- [autoenv](https://github.com/inishchith/autoenv) - Directory-based environments. [Originally owned by @ken-reitz]
+- [autoenv](https://github.com/inishchith/autoenv) - Directory-based environments. [Author @ken-reitz]
 - [tmuxifier](https://github.com/jimeh/tmuxifier) - Tmuxify your Tmux. Powerful session, window & pane management for Tmux.
 - [openvpn-install](https://github.com/Nyr/openvpn-install) - OpenVPN road warrior installer for Ubuntu, Debian, CentOS and Fedora
 - [baseimage-docker](https://github.com/phusion/baseimage-docker) - A minimal Ubuntu base image modified for Docker-friendliness
