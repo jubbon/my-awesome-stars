@@ -29,6 +29,7 @@
   - [Elixir](#elixir)
   - [Emacs Lisp](#emacs-lisp)
   - [Erlang](#erlang)
+  - [F#](#f#)
   - [Fortran](#fortran)
   - [GLSL](#glsl)
   - [Game Maker Language](#game-maker-language)
@@ -461,7 +462,6 @@
 - [furniture](https://github.com/clvrai/furniture) - IKEA Furniture Assembly Environment for Long-Horizon Complex Manipulation Tasks
 - [Reinforcement-Learning-Based-Decision-Tree](https://github.com/chriswblake/Reinforcement-Learning-Based-Decision-Tree) - Generation and evaluation of a decision tree using reinforcement learning.
 - [NLP_Datasets](https://github.com/Koziev/NLP_Datasets) - My NLP datasets for Russian language
-- [qsharp-compiler](https://github.com/microsoft/qsharp-compiler) - Q# compiler, command line tool, and Q# language server
 - [FASTER](https://github.com/microsoft/FASTER) - Fast persistent recoverable log and key-value store + cache, in C# and C++, from Microsoft Research.
 - [ailab](https://github.com/microsoft/ailab) - Experience, Learn and Code the latest breakthrough innovations with Microsoft AI
 - [DRL_based_SelfDrivingCarControl](https://github.com/MLJejuCamp2017/DRL_based_SelfDrivingCarControl) - Deep Reinforcement Learning (DQN) based Self Driving Car Control with Vehicle Simulator
@@ -959,7 +959,6 @@
 - [incubator-mxnet](https://github.com/apache/incubator-mxnet) - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more
 - [rr](https://github.com/mozilla/rr) - Record and Replay Framework
 - [vowpal_wabbit](https://github.com/VowpalWabbit/vowpal_wabbit) - Vowpal Wabbit is a machine learning system which pushes the frontier of machine learning with techniques such as online, hashing, allreduce, reductions, learning2search, active, and interactive learning.
-- [rdkit](https://github.com/rdkit/rdkit) - The official sources for the RDKit library
 - [elevator-simulator](https://github.com/donnemartin/elevator-simulator) - Simulates four elevators available to take passengers up and down a 100 floor building
 - [stocks](https://github.com/donnemartin/stocks) - C++ Stock Analyzer: Analyzes and ranks stocks based on their Moving Average Convergence Divergence (MACD)
 - [pxar](https://github.com/psi46/pxar) - Life is too short for perfection
@@ -1005,7 +1004,6 @@
 - [breaking-and-pwning-apps-and-servers-aws-azure-training](https://github.com/appsecco/breaking-and-pwning-apps-and-servers-aws-azure-training) - Course content, lab setup instructions and documentation of our very popular Breaking and Pwning Apps and Servers on AWS and Azure hands on training!
 - [awesome-django](https://github.com/wsvincent/awesome-django) - A curated list of awesome things related to Django
 - [git-workflow-merge-conflicts-lab](https://github.com/learn-co-curriculum/git-workflow-merge-conflicts-lab) - 
-- [vscode-plugin](https://github.com/kiteco/vscode-plugin) - Kite Autocomplete Plugin for Visual Studio Code
 - [tutorial](https://github.com/DjangoGirls/tutorial) - This is a tutorial we are using for Django Girls workshops
 - [tailwind-starter-kit](https://github.com/creativetimofficial/tailwind-starter-kit) - Tailwind Starter Kit a beautiful extension for TailwindCSS, Free and Open Source
 - [bootstrap-4-github-pages](https://github.com/nicolas-van/bootstrap-4-github-pages) - A Bootstrap 4 start up project for Github Pages and Jekyll
@@ -1496,6 +1494,10 @@
 - [disco](https://github.com/discoproject/disco) - a Map/Reduce framework for distributed computing
 - [basiccoin](https://github.com/zack-bitcoin/basiccoin) - The smallest currency I can make
 
+## F# # 
+
+- [qsharp-compiler](https://github.com/microsoft/qsharp-compiler) - Q# compiler, command line tool, and Q# language server
+
 ## Fortran 
 
 - [pymc](https://github.com/pymc-devs/pymc) - THIS IS THE **OLD** PYMC PROJECT. PLEASE USE PYMC3 INSTEAD:
@@ -1590,7 +1592,7 @@
 - [lindb](https://github.com/lindb/lindb) - LinDB is a scalable, high performance, high availability distributed time series database.
 - [buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
 - [gotraining](https://github.com/ardanlabs/gotraining) - Go Training Class Material :
-- [go-micro](https://github.com/asim/go-micro) - A Go microservices development framework
+- [go-micro](https://github.com/asim/go-micro) - A Go framework for distributed systems development
 - [pipeline](https://github.com/tektoncd/pipeline) - A K8s-native Pipeline resource.
 - [prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
 - [k3v](https://github.com/ibuildthecloud/k3v) - Virtual Kubernetes
@@ -2643,6 +2645,7 @@
 - [python-readability](https://github.com/buriy/python-readability) - fast python port of arc90's readability tool, updated to match latest readability.js!
 - [python-goose](https://github.com/grangier/python-goose) - Html Content / Article Extractor, web scrapping lib in Python
 - [lassie](https://github.com/michaelhelmick/lassie) - Web Content Retrieval for Humans™
+- [rdkit](https://github.com/rdkit/rdkit) - The official sources for the RDKit library
 - [mlai](https://github.com/chrisalbon/mlai) - Notes on machine learning and artificial intelligence.
 - [dataviz-course](https://github.com/brandomr/dataviz-course) - A course on data visualization
 - [nyc_taxis](https://github.com/brandomr/nyc_taxis) - 
@@ -2872,6 +2875,7 @@
 - [webviz](https://github.com/cruise-automation/webviz) - web-based visualization libraries
 - [fullstack-course4](https://github.com/jhu-ep-coursera/fullstack-course4) - Example code for HTML, CSS, and Javascript for Web Developers Coursera Course
 - [jsdoc](https://github.com/jsdoc/jsdoc) - An API documentation generator for JavaScript.
+- [vscode-plugin](https://github.com/kiteco/vscode-plugin) - Kite Autocomplete Plugin for Visual Studio Code
 - [express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
 - [tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 850 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [lime](https://github.com/marcotcr/lime) - Lime: Explaining the predictions of any machine learning classifier
@@ -3498,7 +3502,7 @@
 - [freddy](https://github.com/dope/freddy) - A simple JSON viewer
 - [vue-analytics](https://github.com/MatteoGabriele/vue-analytics) - Google Analytics plugin for Vue
 - [nativescript-vue](https://github.com/nativescript-vue/nativescript-vue) - Native mobile applications using Vue and NativeScript.
-- [vue-waypoint](https://github.com/scaccogatto/vue-waypoint) - v-waypoint directive for Vue, this is the easiest way to trigger a function when you scroll
+- [vue-waypoint](https://github.com/scaccogatto/vue-waypoint) - trigger functions and events based on the element position on the screen
 - [vue-inspector](https://github.com/calirojas506/vue-inspector) - Vue.js Inspector for Mobile Devices
 - [swing](https://github.com/gajus/swing) - A swipeable cards interface. The swipe-left/swipe-right for yes/no input. As seen in apps like Jelly and Tinder.
 - [portal-vue](https://github.com/LinusBorg/portal-vue) - A feature-rich Portal Plugin for Vuejs, for rendering DOM outside of a component, anywhere our app or the entire document.
@@ -3611,7 +3615,6 @@
 - [vue-model](https://github.com/aarondfrancis/vue-model) - Model component for Vue.js
 - [vue2-editor](https://github.com/davidroyer/vue2-editor) - A text editor using Vue.js and Quill
 - [groceries-ns-vue](https://github.com/tralves/groceries-ns-vue) - 🍏 🍍 🍓 A NativeScript+Vue iOS and Android app for managing grocery lists
-- [jam](https://github.com/michaelampr/jam) - Jam icons is a set of icons designed for web projects, illustrations, print projects, etc. Shipped in JavaScript, font & SVG versions. Licensed under MIT
 - [file-upload-with-preview](https://github.com/promosis/file-upload-with-preview) - 🖼 A simple file-upload utility that shows a preview of the uploaded image. Written in pure JavaScript. No dependencies. Works well with Bootstrap 4 or without a framework.
 - [web3.js](https://github.com/ethereum/web3.js) - Ethereum JavaScript API
 - [vuera](https://github.com/akxcv/vuera) - :eyes: Vue in React, React in Vue. Seamless integration of the two. :dancers:
@@ -6257,6 +6260,7 @@
 - [OSCP-Survival-Guide](https://github.com/frizb/OSCP-Survival-Guide) - Kali Linux Offensive Security Certified Professional Survival Exam Guide
 - [ipfs](https://github.com/ipfs/ipfs) - Peer-to-peer hypermedia protocol
 - [awesome-free-images](https://github.com/ronal2do/awesome-free-images) - Free images for use.
+- [jam](https://github.com/michaelampr/jam) - Jam icons is a set of icons designed for web projects, illustrations, print projects, etc. Licensed under MIT
 - [YOU-SHOULD-KNOW-JS](https://github.com/Nealyang/YOU-SHOULD-KNOW-JS) - :fire: something about js that you should know :runner:
 - [Useful_Websites_For_Pentester](https://github.com/HSIS007/Useful_Websites_For_Pentester) - This repository is to make life of the pentester easy as it is a collection of the websites that can be used by pentesters for day to day studies and to remain updated.
 - [bugbounty-cheatsheet](https://github.com/EdOverflow/bugbounty-cheatsheet) - A list of interesting payloads, tips and tricks for bug bounty hunters.
@@ -6788,6 +6792,7 @@
 
 ## Python 
 
+- [ru-gpts](https://github.com/sberbank-ai/ru-gpts) - Russian GPT3 models.
 - [Python_and_the_Web](https://github.com/Python-World/Python_and_the_Web) - Build Bots, Scrape a website or use an API to solve a problem.
 - [All-Programming-E-Books-PDF](https://github.com/trumpowen/All-Programming-E-Books-PDF) - A Curated List Of Programming Books For C, C++ , Python, JavaScript, NodeJs, ReactJs, Web, JQuery, Flask, Dom, Angular, CSS, HTML for beginners, intermediate, advanced and experts
 - [pet](https://github.com/timoschick/pet) - This repository contains the code for "Exploiting Cloze Questions for Few-Shot Text Classification and Natural Language Inference"
@@ -7120,7 +7125,7 @@
 - [data-science-from-scratch](https://github.com/joelgrus/data-science-from-scratch) - code for Data Science From Scratch book
 - [spleeter](https://github.com/deezer/spleeter) - Deezer source separation library including pretrained models.
 - [Chaos](https://github.com/jonnyhyman/Chaos) - Visualizations of the connections between chaos theory and fractals through the logistic map; made for Veritasium YouTube video
-- [autogluon](https://github.com/awslabs/autogluon) - AutoGluon: AutoML Toolkit for Tabular, Text, and Vision
+- [autogluon](https://github.com/awslabs/autogluon) - AutoGluon: AutoML Toolkit for Tabular, Text, and Image Data
 - [ml-fairness-gym](https://github.com/google/ml-fairness-gym) - 
 - [multiplayer-alphazero](https://github.com/petosa/multiplayer-alphazero) - PyTorch AlphaZero implementation with multiplayer support [NeurIPS 2019 Deep Reinforcement Learning Workshop]
 - [post-tuto-deployment](https://github.com/MarwanDebbiche/post-tuto-deployment) - Build and deploy a machine learning app from scratch  🚀
