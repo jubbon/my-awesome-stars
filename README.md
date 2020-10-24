@@ -3164,7 +3164,6 @@
 - [bellwoods](https://github.com/mattdesl/bellwoods) - 
 - [tiny-care-terminal](https://github.com/notwaldorf/tiny-care-terminal) - 💖💻 A little dashboard that tries to take care of you when you're using your terminal.
 - [noty](https://github.com/needim/noty) - Dependency-free notification library that makes it easy to create alert - success - error - warning - information - confirmation messages as an alternative the standard alert dialog.
-- [tween.js](https://github.com/tweenjs/tween.js) - JavaScript animation engine
 - [Vue-js-2-Web-Development-Projects](https://github.com/PacktPublishing/Vue-js-2-Web-Development-Projects) - Vue js 2 Web Development Projects, published by Packt
 - [lvovich](https://github.com/nodkz/lvovich) - Склонение названий городов, определения пола по ФИО, склонения имен по падежам
 - [project-explorer](https://github.com/sdras/project-explorer) - 🎋A CLI tool to create an annotated tree visualization of any project
@@ -3409,6 +3408,7 @@
 - [cloudmapper](https://github.com/duo-labs/cloudmapper) - CloudMapper helps you analyze your Amazon Web Services (AWS) environments.
 - [headless-chrome-crawler](https://github.com/yujiosaka/headless-chrome-crawler) - Distributed crawler powered by Headless Chrome
 - [swag-for-dev](https://github.com/swapagarwal/swag-for-dev) - 😎 swag opportunities for developers
+- [velocity](https://github.com/julianshapiro/velocity) - Accelerated JavaScript animation.
 - [scratches](https://github.com/heapwolf/scratches) - A scratchpad with node & browser apis.
 - [metallb](https://github.com/metallb/metallb) - A network load-balancer implementation for Kubernetes using standard routing protocols
 - [min](https://github.com/minbrowser/min) - A fast, minimal browser that protects your privacy
@@ -3447,7 +3447,7 @@
 - [vue-tweezing](https://github.com/posva/vue-tweezing) - 💃 Easy, customizable and automatic tweening nicely served in scoped slots
 - [vue-promised](https://github.com/posva/vue-promised) - 💝 Promises as components
 - [vue-raven](https://github.com/anteriovieira/vue-raven) - vue-raven automatically reports uncaught JavaScript exceptions triggered from vue component
-- [vue-routisan](https://github.com/mikerockett/vue-routisan) - Elegant, fluent route definitions for Vue Router, inspired by Laravel. v3 in alpha: https://github.com/mikerockett/vue-routisan/tree/develop
+- [vue-routisan](https://github.com/mikerockett/vue-routisan) - Elegant, fluent route definitions for Vue Router, inspired by Laravel. See https://github.com/mikerockett/vue-routisan/tree/develop for the alpha release.
 - [vue-session](https://github.com/victorsferreira/vue-session) - A simplistic session plugin for VueJS backed by SessionStorage and LocalStorage
 - [vue-cordova-demo](https://github.com/kartsims/vue-cordova-demo) - Demo for vue-cordova NPM package
 - [terriajs](https://github.com/TerriaJS/terriajs) - A library for building rich, web-based geospatial data explorers.
@@ -6260,7 +6260,7 @@
 - [OSCP-Survival-Guide](https://github.com/frizb/OSCP-Survival-Guide) - Kali Linux Offensive Security Certified Professional Survival Exam Guide
 - [ipfs](https://github.com/ipfs/ipfs) - Peer-to-peer hypermedia protocol
 - [awesome-free-images](https://github.com/ronal2do/awesome-free-images) - Free images for use.
-- [jam](https://github.com/michaelampr/jam) - Jam icons is a set of icons designed for web projects, illustrations, print projects, etc. Licensed under MIT
+- [jam](https://github.com/michaelampr/jam) - Jam icons is a set of SVG icons designed for web projects, illustrations, print projects, etc. Licensed under MIT
 - [YOU-SHOULD-KNOW-JS](https://github.com/Nealyang/YOU-SHOULD-KNOW-JS) - :fire: something about js that you should know :runner:
 - [Useful_Websites_For_Pentester](https://github.com/HSIS007/Useful_Websites_For_Pentester) - This repository is to make life of the pentester easy as it is a collection of the websites that can be used by pentesters for day to day studies and to remain updated.
 - [bugbounty-cheatsheet](https://github.com/EdOverflow/bugbounty-cheatsheet) - A list of interesting payloads, tips and tricks for bug bounty hunters.
@@ -7430,7 +7430,7 @@
 - [tartiflette](https://github.com/tartiflette/tartiflette) - GraphQL Engine built with Python 3.6+ / asyncio
 - [awesome-hand-pose-estimation](https://github.com/xinghaochen/awesome-hand-pose-estimation) - Awesome work on hand pose estimation/tracking
 - [awesome-graph-classification](https://github.com/benedekrozemberczki/awesome-graph-classification) - A collection of important graph embedding, classification and representation learning papers with implementations.
-- [plato-research-dialogue-system](https://github.com/uber-research/plato-research-dialogue-system) - This is the Plato Research Dialogue System, a flexible platform for developing conversational AI agents.
+- [plato-research-dialogue-system](https://github.com/uber-archive/plato-research-dialogue-system) - This is the Plato Research Dialogue System, a flexible platform for developing conversational AI agents.
 - [EvoGrad](https://github.com/uber-research/EvoGrad) - 
 - [entmax](https://github.com/deep-spin/entmax) - The entmax mapping and its loss, a family of sparse softmax alternatives.
 - [MedicalNet](https://github.com/Tencent/MedicalNet) - Many studies have shown that the performance on deep learning is significantly affected by volume of training data. The MedicalNet project provides a series of 3D-ResNet pre-trained models and relative code.
@@ -13129,6 +13129,7 @@
 - [eva-icons](https://github.com/akveo/eva-icons) - A pack of more than 480 beautifully crafted Open Source icons. SVG, Sketch, Web Font and Animations support.
 - [sanity](https://github.com/sanity-io/sanity) - The Sanity Studio – Collaborate in real-time on structured content
 - [graphql-editor](https://github.com/graphql-editor/graphql-editor) - 📺 Visual Editor & GraphQL IDE. Draw GraphQL schemas using visual 🔷 nodes and explore GraphQL API with beautiful UI. Even 🐒 can do that!
+- [tween.js](https://github.com/tweenjs/tween.js) - JavaScript animation engine
 - [grafana-statusmap](https://github.com/flant/grafana-statusmap) - Grafana panel plugin to visualize status of multiple objects over time
 - [strest](https://github.com/eykrehbein/strest) - ⚡️ CI-ready tests for REST APIs configured in YAML
 - [misskey](https://github.com/syuilo/misskey) - 🌎 A federated blogging platform 🚀
@@ -13188,7 +13189,6 @@
 - [webamp](https://github.com/captbaritone/webamp) - Winamp 2 reimplemented for the browser
 - [rematch](https://github.com/rematch/rematch) - A Redux Framework
 - [pandora](https://github.com/midwayjs/pandora) - A Manageable, Measurable and Traceable Node.js Application Manager represented by Alibaba powered by TypeScript
-- [velocity](https://github.com/julianshapiro/velocity) - Accelerated JavaScript animation.
 - [scriptedforms](https://github.com/SimonBiggs/scriptedforms) - Quickly create live-update GUIs for Python packages using Markdown and simple HTML elements.
 - [propel](https://github.com/propelml/propel) - Differential Programming in JavaScript.
 - [kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
