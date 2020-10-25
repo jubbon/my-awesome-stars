@@ -10860,7 +10860,7 @@
 - [neural-storyteller](https://github.com/ryankiros/neural-storyteller) - A recurrent neural network for generating little stories about images
 - [worldengine](https://github.com/Mindwerks/worldengine) - World generator using simulation of plates, rain shadow, erosion, etc.
 - [confidant](https://github.com/lyft/confidant) - Confidant: your secret keeper. https://lyft.github.io/confidant
-- [curio](https://github.com/dabeaz/curio) - Curio - "It's the Sauce!"
+- [curio](https://github.com/dabeaz/curio) - Curio - Dead Body Reported!
 - [python-phonenumbers](https://github.com/daviddrysdale/python-phonenumbers) - Python port of Google's libphonenumber
 - [cli-github](https://github.com/harshasrinivas/cli-github) - Github within the CLI :computer:
 - [nplusone](https://github.com/jmcarp/nplusone) - Auto-detecting the n+1 queries problem in Python
@@ -13058,7 +13058,7 @@
 - [lens](https://github.com/lensapp/lens) - Lens - The Kubernetes IDE
 - [backstage](https://github.com/spotify/backstage) - Backstage is an open platform for building developer portals
 - [examples](https://github.com/pulumi/examples) - Infrastructure, containers, and serverless apps to AWS, Azure, GCP, and Kubernetes... all deployed with Pulumi
-- [rome](https://github.com/romefrontend/rome) - The Rome Frontend Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.
+- [tools](https://github.com/rome/tools) - The Rome Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.
 - [fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - Modern & flexible browser fingerprinting library
 - [hiplot](https://github.com/facebookresearch/hiplot) - HiPlot makes understanding high dimensional data easy
 - [playwright](https://github.com/microsoft/playwright) - Node.js library to automate Chromium, Firefox and WebKit with a single API
