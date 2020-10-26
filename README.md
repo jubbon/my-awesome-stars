@@ -2657,6 +2657,7 @@
 - [simple_dqn](https://github.com/tambetm/simple_dqn) - Simple deep Q-learning agent.
 - [django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) - DefectDojo is an open-source application vulnerability correlation and security orchestration tool.
 - [peterroelants.github.io](https://github.com/peterroelants/peterroelants.github.io) - Blog
+- [ansible-galaxy](https://github.com/galaxyproject/ansible-galaxy) - An Ansible role for managing a Galaxy server
 - [PythonWorkshop2015](https://github.com/ben-albrecht/PythonWorkshop2015) - This is the repository for the Simulations and Modeling (SaM) Python Workshop, Spring 2015.
 - [moya](https://github.com/moyaproject/moya) - Web development platform
 - [code_py](https://github.com/chrisalbon/code_py) - A collection of well-commented code snippets for data science
@@ -7810,7 +7811,7 @@
 - [vunet](https://github.com/CompVis/vunet) - A generative model conditioned on shape and appearance.
 - [saas-base](https://github.com/CaravelKit/saas-base) - SaaS base application (Flask, Vue, Bootstrap, Webpack)
 - [ClassificaIO](https://github.com/gmiaslab/ClassificaIO) - This repository contains ClassificaIO, a Python package that provides a graphical user interface (GUI) for machine learning algorithms from scikit-learn.
-- [colorpalette](https://github.com/makkoncept/colorpalette) - Extract dominating colors from an image and presents them as a palette. https://colorpalette.xyz/
+- [colorpalette](https://github.com/makkoncept/colorpalette) - Extracts dominating colors from an image and presents them as a palette. https://colorpalette.xyz/
 - [uis-rnn](https://github.com/google/uis-rnn) - This is the library for the Unbounded Interleaved-State Recurrent Neural Network (UIS-RNN) algorithm, corresponding to the paper Fully Supervised Speaker Diarization.
 - [cutie](https://github.com/Kamik423/cutie) - Command line User Tools for Input Easification
 - [chartify](https://github.com/spotify/chartify) - Python library that makes it easy for data scientists to create charts.
@@ -11072,7 +11073,6 @@
 - [helit](https://github.com/thaines/helit) - My machine learning/computer vision library for all of my recent papers, plus algorithms that I just like.
 - [sublime_remote_open](https://github.com/sligodave/sublime_remote_open) - A Sublime Text 2/3 plugin that allow you to open files in a running sublime text instance from a remote machine.
 - [RemoteEdit](https://github.com/CodeEffect/RemoteEdit) - An SFTP plugin for Sublime Text 3 that makes editing remote files fast and pain free
-- [ansible-galaxy](https://github.com/galaxyproject/ansible-galaxy) - An Ansible role for managing a Galaxy server
 - [ansible-modules-core](https://github.com/ansible/ansible-modules-core) - Ansible modules - these modules ship with ansible
 - [ansible-modules-extras](https://github.com/ansible/ansible-modules-extras) - Ansible extra modules - these modules ship with ansible
 - [clize](https://github.com/epsy/clize) - CLIze: Turn Python functions into command-line interfaces
