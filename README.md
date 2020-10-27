@@ -74,6 +74,7 @@
   - [PowerShell](#powershell)
   - [Processing](#processing)
   - [Protocol Buffer](#protocol-buffer)
+  - [Pug](#pug)
   - [Puppet](#puppet)
   - [PureBasic](#purebasic)
   - [PureScript](#purescript)
@@ -1548,7 +1549,7 @@
 - [godog](https://github.com/cucumber/godog) - Cucumber for golang
 - [aws-vault](https://github.com/99designs/aws-vault) - A vault for securely storing and accessing AWS credentials in development environments
 - [go-gitlab](https://github.com/xanzy/go-gitlab) - A GitLab API client enabling Go programs to interact with GitLab in a simple and uniform way
-- [micro](https://github.com/micro/micro) - Micro is a platform for cloud native development
+- [micro](https://github.com/micro/micro) - Micro is a runtime for microservices development
 - [go-github](https://github.com/google/go-github) - Go library for accessing the GitHub API
 - [nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
 - [migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
@@ -2509,7 +2510,6 @@
 - [propeller](https://github.com/digicorp/propeller) - Propeller - Develop more, Code less. Propeller is a front-end responsive framework based on Google's Material Design Standards & Bootstrap.
 - [AR.js](https://github.com/jeromeetienne/AR.js) - Efficient Augmented Reality for the Web - 60fps on mobile!
 - [html-reference](https://github.com/jgthms/html-reference) - HTML Reference: a free guide to all HTML5 elements and attributes
-- [blockchain-demo](https://github.com/anders94/blockchain-demo) - A web-based demonstration of blockchain concepts.
 - [training-kit](https://github.com/github/training-kit) - Open source cheat sheets for Git and GitHub
 - [doc-kurento-readthedocs](https://github.com/Kurento/doc-kurento-readthedocs) - [READ-ONLY] Auto-generated documentation sources for ReadTheDocs
 - [startbootstrap-creative](https://github.com/StartBootstrap/startbootstrap-creative) - A one page HTML theme for creatives by Start Bootstrap
@@ -2533,6 +2533,7 @@
 - [css-reference](https://github.com/jgthms/css-reference) - CSS Reference: a free visual guide to the most popular CSS properties
 - [mdl-ext](https://github.com/leifoolsen/mdl-ext) - Material Design Lite Ext: Components built with Google Material Design Lite framework. http://leifoolsen.github.io/mdl-ext/
 - [neet](https://github.com/JonnyHightower/neet) - Neet - Network Enumeration and Exploitation Tool
+- [metasploitable3](https://github.com/rapid7/metasploitable3) - Metasploitable3 is a VM that is built from the ground up with a large amount of security vulnerabilities.
 - [CoPilot](https://github.com/misterGF/CoPilot) - Responsive Bootstrap 3 Admin Template based on AdminLTE with vue.js
 - [talktalktalk](https://github.com/josephernest/talktalktalk) - TalkTalkTalk is an easy-installable small chat room, with chat history.
 - [gun-starter-app](https://github.com/gundb/gun-starter-app) - Framework agnostic starter code for gun apps
@@ -3441,7 +3442,7 @@
 - [awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [OpenSC2K](https://github.com/nicholas-ochoa/OpenSC2K) - OpenSC2K - An Open Source remake of Sim City 2000 by Maxis
 - [in-app-purchase](https://github.com/voltrue2/in-app-purchase) - A Node.js module for in-App-Purchase for iOS, Android, Amazon and Windows.
-- [yandex-money-sdk-nodejs](https://github.com/yandex-money/yandex-money-sdk-nodejs) - 
+- [yandex-money-sdk-nodejs](https://github.com/yoomoney/yandex-money-sdk-nodejs) - 
 - [es6-promise](https://github.com/stefanpenner/es6-promise) - A polyfill for ES6-style Promises
 - [geolocator](https://github.com/onury/geolocator) - A utility for getting geo-location information via HTML5 and IP look-ups, geocoding, address look-ups, distance and durations, timezone information and more...
 - [doctor](https://github.com/propellant/doctor) - quick and easy documentation of Vue.js components - DEPRECATED
@@ -4742,7 +4743,7 @@
 - [python-awesome](https://github.com/gautam1858/python-awesome) - Learn Python, Easy to learn, Awesome
 - [bertviz](https://github.com/jessevig/bertviz) - Tool for visualizing attention in the Transformer model (BERT, GPT-2, Albert, XLNet, RoBERTa, CTRL, etc.)
 - [MobilePose-pytorch](https://github.com/YuliangXiu/MobilePose-pytorch) - Light-weight Single Person Pose Estimator
-- [pose_estimation_CVPR_ECCV_2018](https://github.com/wjbKimberly/pose_estimation_CVPR_ECCV_2018) - 
+- [pose_estimation_CVPR_ECCV_2018](https://github.com/tlatlbtle/pose_estimation_CVPR_ECCV_2018) - 
 - [StaticGIFGen](https://github.com/christophershultz/StaticGIFGen) - A series of steps to generate fully customizable 'static' (or completely random) images.
 - [Big-data-resources](https://github.com/thunguyen177/Big-data-resources) - 
 - [Neural-Network-from-scratch](https://github.com/ahmedbesbes/Neural-Network-from-scratch) - Ever wondered how to code your Neural Network using NumPy, with no frameworks involved?
@@ -6196,7 +6197,7 @@
 - [TablePlus](https://github.com/TablePlus/TablePlus) - TablePlus macOS issue tracker
 - [bayes-nn](https://github.com/sjchoi86/bayes-nn) - Lecture notes on Bayesian deep learning
 - [android-ktx](https://github.com/android/android-ktx) - A set of Kotlin extensions for Android app development.
-- [yandex-money-joinup](https://github.com/yandex-money/yandex-money-joinup) - 
+- [yandex-money-joinup](https://github.com/yoomoney/yandex-money-joinup) - 
 - [introducing-ethereum-solidity](https://github.com/Apress/introducing-ethereum-solidity) - Source code for 'Introducing Ethereum and Solidity' by Chris Dannen
 - [Xiaomi_Kernel_OpenSource](https://github.com/MiCode/Xiaomi_Kernel_OpenSource) - Xiaomi Mobile Phone Kernel OpenSource
 - [FreeML](https://github.com/Shujian2015/FreeML) - A List of Data Science/Machine Learning Resources (Mostly Free)
@@ -6776,6 +6777,10 @@
 ## Protocol Buffer 
 
 - [traffic-data-exchange-format](https://github.com/opentraffic/traffic-data-exchange-format) - OTv1: Binary location referencing format for exchanging traffic speed data
+
+## Pug 
+
+- [blockchain-demo](https://github.com/anders94/blockchain-demo) - A web-based demonstration of blockchain concepts.
 
 ## Puppet 
 
@@ -7475,7 +7480,7 @@
 - [tweepy](https://github.com/tweepy/tweepy) - Twitter for Python!
 - [inversecooking](https://github.com/facebookresearch/inversecooking) - Recipe Generation from Food Images
 - [xlnet](https://github.com/zihangdai/xlnet) - XLNet: Generalized Autoregressive Pretraining for Language Understanding
-- [python-slackclient](https://github.com/slackapi/python-slackclient) - Slack Developer Kit for Python
+- [python-slack-sdk](https://github.com/slackapi/python-slack-sdk) - Slack Developer Kit for Python
 - [byteps](https://github.com/bytedance/byteps) - A high performance and generic framework for distributed DNN training
 - [Brancher](https://github.com/AI-DI/Brancher) - A user-centered Python package for differentiable probabilistic inference
 - [kaggle-imaterialist](https://github.com/amirassov/kaggle-imaterialist) - The First Place Solution of Kaggle iMaterialist (Fashion) 2019 at FGVC6
@@ -8437,8 +8442,8 @@
 - [fbs](https://github.com/mherrmann/fbs) - Create Python GUIs with Qt in minutes
 - [AutoSploit](https://github.com/NullArray/AutoSploit) - Automated Mass Exploiter
 - [Tensorflow-Project-Template](https://github.com/MrGemy95/Tensorflow-Project-Template) - A best practice for tensorflow project template architecture.
-- [yandex-money-sdk-python](https://github.com/yandex-money/yandex-money-sdk-python) - 
-- [yandex-checkout-sdk-python](https://github.com/yandex-money/yandex-checkout-sdk-python) - 
+- [yandex-money-sdk-python](https://github.com/yoomoney/yandex-money-sdk-python) - 
+- [yandex-checkout-sdk-python](https://github.com/yoomoney/yandex-checkout-sdk-python) - 
 - [elegant-scipy](https://github.com/elegant-scipy/elegant-scipy) - 1st Edition of Elegant SciPy (O'Reilly Publishers)
 - [kaggle-api](https://github.com/Kaggle/kaggle-api) - Official Kaggle API
 - [visual-interaction-networks-pytorch](https://github.com/MrGemy95/visual-interaction-networks-pytorch) - This's an implementation of deepmind Visual Interaction Networks paper using pytorch
@@ -10562,7 +10567,7 @@
 - [IPythonTheanoTutorials](https://github.com/jaberg/IPythonTheanoTutorials) - 
 - [python-graph](https://github.com/pmatiello/python-graph) - New official repository: https://github.com/Shoobx/python-graph
 - [pymf](https://github.com/nils-werner/pymf) - Python Matrix Factorization Module
-- [pygraphistry](https://github.com/graphistry/pygraphistry) - PyGraphistry is a library to extract, transform, and visually explore big graphs
+- [pygraphistry](https://github.com/graphistry/pygraphistry) - PyGraphistry is a Python library to quickly load, shape, embed, and explore big graphs with the GPU-accelerated Graphistry visual graph analyzer
 - [propagator.py](https://github.com/lucastx/propagator.py) - A propagator network in Python, inspired by Radul & Sussman's The Art of the Propagator
 - [netcdf4-python](https://github.com/Unidata/netcdf4-python) - netcdf4-python: python/numpy interface to the netCDF C library
 - [la](https://github.com/kwgoodman/la) - Meet larry, the labeled numpy array
@@ -13001,7 +13006,6 @@
 ## TSQL 
 
 - [sql-server-maintenance-solution](https://github.com/olahallengren/sql-server-maintenance-solution) - SQL Server Maintenance Solution
-- [metasploitable3](https://github.com/rapid7/metasploitable3) - Metasploitable3 is a VM that is built from the ground up with a large amount of security vulnerabilities.
 - [smq](https://github.com/antontarasenko/smq) - A collection of SQL queries to social media datasets.
 - [macropy](https://github.com/lihaoyi/macropy) - Macros in Python: quasiquotes, case classes, LINQ and more!
 
