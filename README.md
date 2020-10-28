@@ -738,7 +738,7 @@
 - [EdgeML](https://github.com/microsoft/EdgeML) - This repository provides code for machine learning algorithms for edge devices developed at Microsoft Research India.
 - [cosmos](https://github.com/OpenGenus/cosmos) - | Contribute toward Hacktoberfest and enjoy 🌱 | Algorithms that run our universe | Your personal library of every algorithm and data structure code that you will ever encounter | Ask us anything at our forum |
 - [napajs](https://github.com/microsoft/napajs) - Napa.js: a multi-threaded JavaScript runtime
-- [dll](https://github.com/wichtounet/dll) - Deep Learning Library (DLL) for C++ (ANNs, CNNs, RBMs, DBNs...)
+- [dll](https://github.com/wichtounet/dll) - Fast Deep Learning Library (DLL) for C++ (ANNs, CNNs, RBMs, DBNs...)
 - [Algo_Ds](https://github.com/srbcheema1/Algo_Ds) - Repository for cool algorithms and Datastructures
 - [ui](https://github.com/kosenko/ui) - Boost.UI library
 - [Matterport](https://github.com/niessner/Matterport) - Matterport3D is a pretty awesome dataset for RGB-D machine learning tasks :)
@@ -1119,7 +1119,6 @@
 - [cheatsheets](https://github.com/rstacruz/cheatsheets) - My cheatsheets
 - [course-collaboration-travel-plans](https://github.com/udacity/course-collaboration-travel-plans) - 
 - [pev](https://github.com/AlexTatiyants/pev) - Postgres Explain Visualizer
-- [slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 - [vue-notifyjs](https://github.com/BinarCode/vue-notifyjs) - Minimalist 1kb Notification component
 - [awesome-bootstrap-checkbox](https://github.com/flatlogic/awesome-bootstrap-checkbox) - ✔️Font Awesome Bootstrap Checkboxes & Radios. Pure css way to make inputs look prettier
 - [docco](https://github.com/jashkenas/docco) - Literate Programming can be Quick and Dirty.
@@ -1549,7 +1548,7 @@
 - [godog](https://github.com/cucumber/godog) - Cucumber for golang
 - [aws-vault](https://github.com/99designs/aws-vault) - A vault for securely storing and accessing AWS credentials in development environments
 - [go-gitlab](https://github.com/xanzy/go-gitlab) - A GitLab API client enabling Go programs to interact with GitLab in a simple and uniform way
-- [micro](https://github.com/micro/micro) - Micro is a runtime for microservices development
+- [micro](https://github.com/micro/micro) - Micro is a platform for cloud native development
 - [go-github](https://github.com/google/go-github) - Go library for accessing the GitHub API
 - [nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
 - [migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
@@ -2708,7 +2707,7 @@
 ## Handlebars 
 
 - [pudl](https://github.com/MaedahBatool/pudl) - 🐶 A JavaScript-based Static Site Generator — for quick static site prototyping.
-- [sing-app](https://github.com/flatlogic/sing-app) - 💥Free and open-source admin dashboard template built with Bootstrap 4 💥
+- [sing-app](https://github.com/flatlogic/sing-app) - 💥Free and open-source admin dashboard template built with Bootstrap 4.5 💥
 
 ## Haskell 
 
@@ -3295,6 +3294,7 @@
 - [vue-native-core](https://github.com/GeekyAnts/vue-native-core) - Vue Native is a framework to build cross platform native mobile apps using JavaScript
 - [pollyjs](https://github.com/Netflix/pollyjs) - Record, Replay, and Stub HTTP Interactions.
 - [Flaskerizer](https://github.com/brettvanderwerff/Flaskerizer) - Automatically create Flask apps from Bootstrap templates
+- [Jadesktop](https://github.com/codesardine/Jadesktop) - Linux desktop environment built with HTML5, CSS, JavaScript and Python.
 - [ml5-library](https://github.com/ml5js/ml5-library) - Friendly machine learning for the web! 🤖
 - [lumin](https://github.com/pshihn/lumin) - A JavaScript library to progressively highlight any text on a page.
 - [Photon](https://github.com/alanzhangzm/Photon) - A lightweight multi-threaded downloader based on aria2.
@@ -4878,7 +4878,7 @@
 - [choicenet](https://github.com/sjchoi86/choicenet) - Implementation of ChoiceNet
 - [Hands-On-Reinforcement-Learning-With-Python](https://github.com/sudharsan13296/Hands-On-Reinforcement-Learning-With-Python) - Master Reinforcement and Deep Reinforcement Learning using OpenAI Gym and TensorFlow
 - [DensePose](https://github.com/facebookresearch/DensePose) - A real-time approach for mapping all human pixels of 2D RGB images to a 3D surface-based model of the body
-- [distiller](https://github.com/NervanaSystems/distiller) - Neural Network Distiller by Intel AI Lab: a Python package for neural network compression research.  https://nervanasystems.github.io/distiller
+- [distiller](https://github.com/IntelLabs/distiller) - Neural Network Distiller by Intel AI Lab: a Python package for neural network compression research.  https://intellabs.github.io/distiller
 - [tutorial_examples](https://github.com/bethke/tutorial_examples) - A repository for various Jupyter notebooks and other tutorial material
 - [Lyft-Perception-Challenge](https://github.com/NikolasEnt/Lyft-Perception-Challenge) - The 4th place and the fastest solution of the Lyft Perception Challenge (Image semantic segmentation with PyTorch)
 - [program_synthesis](https://github.com/nearai/program_synthesis) - Program Synthesis
@@ -7036,7 +7036,7 @@
 - [CurveFit](https://github.com/ihmeuw-msca/CurveFit) - Generic curve fitting package with nonlinear mixed effects model
 - [aristo-mini](https://github.com/allenai/aristo-mini) - Aristo mini is a light-weight question answering system that can quickly evaluate Aristo science questions with an evaluation web server and the provided baseline solvers.
 - [gym-gridworld](https://github.com/xinleipan/gym-gridworld) - Simple grid-world environment compatible with OpenAI-gym
-- [asteroid](https://github.com/mpariente/asteroid) - The PyTorch-based audio source separation toolkit for researchers || Pretrained models available
+- [asteroid](https://github.com/mpariente/asteroid) - The PyTorch-based audio source separation toolkit for researchers
 - [deap](https://github.com/DEAP/deap) - Distributed Evolutionary Algorithms in Python
 - [ESRGAN](https://github.com/xinntao/ESRGAN) - ECCV18 Workshops - Enhanced SRGAN. Champion PIRM Challenge on Perceptual Super-Resolution. The training codes are in BasicSR.
 - [minimal-hand](https://github.com/CalciferZh/minimal-hand) - A minimal solution to hand motion capture from a single color camera at over 100fps. Easy to use, plug to run.
@@ -7827,6 +7827,7 @@
 - [spinningup](https://github.com/openai/spinningup) - An educational resource to help anyone learn deep reinforcement learning.
 - [transformers](https://github.com/huggingface/transformers) - 🤗Transformers: State-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0.
 - [waveglow](https://github.com/NVIDIA/waveglow) - A Flow-based Generative Network for Speech Synthesis
+- [pipelines](https://github.com/kubeflow/pipelines) - Machine Learning Pipelines for Kubeflow
 - [pampy](https://github.com/santinic/pampy) - Pampy: The Pattern Matching for Python you always dreamed of.
 - [pysaml2](https://github.com/IdentityPython/pysaml2) - Python implementation of SAML2
 - [einops](https://github.com/arogozhnikov/einops) - Deep learning operations reinvented (for pytorch, tensorflow, chainer, gluon and others)
@@ -8197,7 +8198,6 @@
 - [in-60-seconds](https://github.com/gitpitch/in-60-seconds) - GitPitch In 60 Seconds - A Very Short Tutorial
 - [holdem-challenge](https://github.com/sberbank-ai/holdem-challenge) - Материалы к соревнованию Sberbank Holdem Challenge http://sberbank.ai
 - [pycolab](https://github.com/deepmind/pycolab) - A highly-customisable gridworld game engine with some batteries included. Make your own gridworld games to test reinforcement learning agents!
-- [Jadesktop](https://github.com/codesardine/Jadesktop) - Linux desktop environment built with HTML5, CSS, JavaScript and Python.
 - [h4cker](https://github.com/The-Art-of-Hacking/h4cker) - This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more.
 - [XSStrike](https://github.com/s0md3v/XSStrike) - Most advanced XSS scanner.
 - [arl](https://github.com/kaxap/arl) - lists of most popular repositories for most favoured programming languages (according to StackOverflow)
@@ -11416,7 +11416,7 @@
 - [meson](https://github.com/mesonbuild/meson) - The Meson Build System
 - [csvtomd](https://github.com/mplewis/csvtomd) - 📝📊 Convert your CSV files into Markdown tables.
 - [toxmail](https://github.com/toxmail/toxmail) - Toxmail Client
-- [django-th](https://github.com/push-things/django-th) - :snake: Trigger Happy - The bus :bus: for your internet services
+- [django-th](https://github.com/foxmask/django-th) - :snake: Trigger Happy - The bus :bus: for your internet services
 - [kmatch](https://github.com/ambitioninc/kmatch) - A language for filtering, matching, and validating Python dictionaries
 - [linkchecker](https://github.com/wummel/linkchecker) - check links in web documents or full websites
 - [characteristic](https://github.com/hynek/characteristic) - Please use attrs instead!
@@ -11650,7 +11650,7 @@
 - [baler](https://github.com/paypal/baler) - Bundle assets into iOS static libraries
 - [py_cache_manager](https://github.com/OpenGov/py_cache_manager) - A Python interface for managing dependent caches
 - [mailur](https://github.com/naspeh/mailur) - Lightweight webmail inspired by Gmail
-- [pyston](https://github.com/pyston/pyston) - An open-source Python implementation using JIT techniques.
+- [pyston](https://github.com/pyston/pyston) - A faster and highly-compatible implementation of the Python programming language. The code here is out of date, please follow our blog
 - [osrc](https://github.com/dfm/osrc) - The Open Source Report Card
 - [open-url](https://github.com/noahcoad/open-url) - Open URLs, files, folders, or google text under the cursor or in selected text for Sublime Text.
 - [Fleksy](https://github.com/ludolphus/Fleksy) - Appcelerator Fleksy Module
@@ -12120,7 +12120,6 @@
 - [botomatic](https://github.com/hmason/botomatic) - easily create twitter bots in python
 - [openfaux-server](https://github.com/openfaux/openfaux-server) - Browser add-on for encrypting and masking internet traffic.
 - [pants](https://github.com/ecdavis/pants) - A lightweight framework for writing asynchronous network applications in Python.
-- [resume](https://github.com/mwhite/resume) - Markdown -&gt; PDF/HTML resumé generator
 - [django-request-signer](https://github.com/imtapps/django-request-signer) - 
 - [django-autocomplete-light](https://github.com/yourlabs/django-autocomplete-light) - A fresh approach to autocomplete implementations, specially for Django. Status: v3 stable, 2.x.x stable, 1.x.x deprecated. Please DO regularely ping us with your link at #yourlabs IRC channel
 - [pipeless](https://github.com/andychase/pipeless) - Simple pipeline building framework
@@ -12759,6 +12758,7 @@
 - [hacker101](https://github.com/Hacker0x01/hacker101) - Source code for Hacker101.com - a free online web and mobile security class.
 - [papercss](https://github.com/papercss/papercss) - The Less Formal CSS Framework
 - [elixirschool](https://github.com/elixirschool/elixirschool) - Premier destination to learn and master the Elixir programming language
+- [slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 - [documentation](https://github.com/codeship/documentation) - Documentation for Codeship CI & CD service
 - [TypeScript-Node-Starter](https://github.com/microsoft/TypeScript-Node-Starter) - A reference example for TypeScript and Node with a detailed README describing how to use the two together.
 - [serverless-stack-com](https://github.com/AnomalyInnovations/serverless-stack-com) - Serverless Stack is an open source guide for building and deploying full-stack apps using Serverless and React on AWS.
@@ -13128,7 +13128,6 @@
 - [material-angular-dashboard](https://github.com/CreativeIT/material-angular-dashboard) - Material Angular Admin Template
 - [wayne](https://github.com/Qihoo360/wayne) - Kubernetes multi-cluster management and publishing platform
 - [statusfy](https://github.com/juliomrqz/statusfy) - A Marvelous Open Source Status Page System
-- [pipelines](https://github.com/kubeflow/pipelines) - Machine Learning Pipelines for Kubeflow
 - [axios-actions](https://github.com/davestewart/axios-actions) - Bundle endpoints as callable, reusable services
 - [eva-icons](https://github.com/akveo/eva-icons) - A pack of more than 480 beautifully crafted Open Source icons. SVG, Sketch, Web Font and Animations support.
 - [sanity](https://github.com/sanity-io/sanity) - The Sanity Studio – Collaborate in real-time on structured content
@@ -13156,6 +13155,7 @@
 - [voyager](https://github.com/vega/voyager) - Visualization Tool for Data Exploration
 - [vue-class-component](https://github.com/vuejs/vue-class-component) - ES / TypeScript decorator for class-style Vue components.
 - [fiora](https://github.com/yinxin630/fiora) - An interesting chat application power by socket.io, koa, mongodb and react
+- [ant-design-vue](https://github.com/vueComponent/ant-design-vue) - 🌈  An enterprise-class UI components based on Ant Design and Vue. 🐜
 - [evermonkey](https://github.com/michalyao/evermonkey) - Evernote Editing. Redefined.  关于 token 的问题请去 https://github.com/michalyao/evermonkey/issues/94 中查看！
 - [reakit](https://github.com/reakit/reakit) - Toolkit for building accessible rich web apps with React
 - [draco](https://github.com/uwdata/draco) - Visualization Constraints and Weight Learning
@@ -13318,7 +13318,7 @@
 - [bqplot](https://github.com/bqplot/bqplot) - Plotting library for IPython/Jupyter notebooks
 - [datalab](https://github.com/googledatalab/datalab) - Interactive tools and developer experiences for Big Data on Google Cloud Platform.
 - [kibana](https://github.com/elastic/kibana) - Your window into the Elastic Stack
-- [blockstack.js](https://github.com/blockstack/blockstack.js) - The Blockstack JavaScript library for identity, auth and storage
+- [stacks.js](https://github.com/blockstack/stacks.js) - JavaScript libraries for identity, auth, storage and transactions on the Stacks blockchain.
 
 ## Vala 
 
@@ -13373,7 +13373,7 @@
 - [massCode](https://github.com/antonreshetov/massCode) - A free and open source code snippets manager for developers.
 - [vue-ctk-date-time-picker](https://github.com/chronotruck/vue-ctk-date-time-picker) - VueJS component to select dates & time, including a range mode
 - [vue-indoor](https://github.com/mudin/vue-indoor) - VueJS wrapper for indoorjs
-- [hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 A free, fast and beautiful API request builder used by 80k+ developers. https://hoppscotch.io
+- [hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 A free, fast and beautiful API request builder used by 100k+ developers. https://hoppscotch.io
 - [Scriptis](https://github.com/WeBankFinTech/Scriptis) - Scriptis is for interactive data analysis with script development(SQL, Pyspark, HiveQL), task submission(Spark, Hive), UDF, function, resource management and intelligent diagnosis.
 - [Scout](https://github.com/tevora-threat/Scout) - Surveillance Detection Scout: Your Lookout on Autopilot
 - [DynamoDb-GUI-Client](https://github.com/Arattian/DynamoDb-GUI-Client) - DynamoDb GUI Client
@@ -13463,7 +13463,7 @@
 - [aspnetcore-vue-typescript-template](https://github.com/danijelh/aspnetcore-vue-typescript-template) - Template AspNetCore with Vue, Vue router, Vuex, TypeScript, Bulma, Sass and Jest
 - [dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for docker containers.
 - [vue-doughnut-chart](https://github.com/mazipan/vue-doughnut-chart) - 🍩 Doughnut chart component for Vue.js, originally created by Greg Willson
-- [awesome-mechanical-keyboard](https://github.com/BenRoe/awesome-mechanical-keyboard) - ⌨️ A curated list of awesome Mechanical Keyboard resources.
+- [awesome-mechanical-keyboard](https://github.com/BenRoe/awesome-mechanical-keyboard) - ⌨️ A curated list of Open Source Mechanical Keyboard resources.
 - [express-template](https://github.com/nuxt-community/express-template) - Starter template for Nuxt.js with Express.
 - [vue-web-cam](https://github.com/VinceG/vue-web-cam) - Webcam component for VueJs.
 - [monocorpus](https://github.com/mtbarta/monocorpus) - A notepad for software and machine learning
@@ -13518,7 +13518,6 @@
 - [npm-stats](https://github.com/apertureless/npm-stats) - 📈 npm package statistics dashboard build with vue
 - [PicGo](https://github.com/Molunerfinn/PicGo) - :rocket:A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder
 - [dayspan-vuetify](https://github.com/ClickerMonkey/dayspan-vuetify) - A collection of components that visualizes DaySpan Calendars and Schedules using Vuetify
-- [ant-design-vue](https://github.com/vueComponent/ant-design-vue) - 🌈  An enterprise-class UI components based on Ant Design and Vue. 🐜
 - [vue-genesis-forms](https://github.com/BlackMix/vue-genesis-forms) - 📚 Easily create forms in Vue.js
 - [vue-foldable](https://github.com/ulivz/vue-foldable) - 🌗 Highly customizable foldable component for Vue.js
 - [Frame](https://github.com/ademilter/Frame) - New-tab extension for Chrome and Firefox
