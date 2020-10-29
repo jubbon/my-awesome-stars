@@ -94,7 +94,6 @@
   - [Scheme](#scheme)
   - [Shell](#shell)
   - [Smarty](#smarty)
-  - [Solidity](#solidity)
   - [Starlark](#starlark)
   - [Stylus](#stylus)
   - [Swift](#swift)
@@ -625,7 +624,7 @@
 - [FaceBoxes](https://github.com/sfzhang15/FaceBoxes) - FaceBoxes: A CPU Real-time Face Detector with High Accuracy, IJCB, 2017
 - [flashlight](https://github.com/facebookresearch/flashlight) - A C++ standalone library for machine learning
 - [dust3d](https://github.com/huxingyi/dust3d) - :dromedary_camel: Dust3D is a cross-platform open-source 3D modeling software. Auto UV unwrapping, auto rigging with PBR Material support, pose and motion authoring all in one.
-- [Firmware](https://github.com/PX4/Firmware) - PX4 Autopilot Software
+- [PX4-Autopilot](https://github.com/PX4/PX4-Autopilot) - PX4 Autopilot Software
 - [confluo](https://github.com/ucbrise/confluo) - Real-time Monitoring and Analysis of Data Streams
 - [PhysX-3.4](https://github.com/NVIDIAGameWorks/PhysX-3.4) - NVIDIA PhysX SDK 3.4
 - [onnxruntime](https://github.com/microsoft/onnxruntime) - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
@@ -1627,7 +1626,7 @@
 - [pipe-to-me](https://github.com/jpschroeder/pipe-to-me) - Stream data over http using curl.
 - [kraken](https://github.com/uber/kraken) - P2P Docker registry capable of distributing TBs of data in seconds
 - [astro](https://github.com/uber/astro) - Astro is a tool for managing multiple Terraform executions as a single command
-- [cortex](https://github.com/cortexlabs/cortex) - Deploy machine learning in production
+- [cortex](https://github.com/cortexlabs/cortex) - Deploy machine learning models to production
 - [cds](https://github.com/ovh/cds) - Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform
 - [k3s](https://github.com/rancher/k3s) - Lightweight Kubernetes
 - [docui](https://github.com/skanehira/docui) - TUI Client for Docker
@@ -2383,6 +2382,7 @@
 - [proposal-optional-chaining](https://github.com/tc39/proposal-optional-chaining) - 
 - [github-trending-repos](https://github.com/vitalets/github-trending-repos) - Track GitHub trending repositories in your favorite programming language by native GitHub notifications!
 - [kv-storage](https://github.com/WICG/kv-storage) - A proposal for an async key/value storage API for the web
+- [EIPs](https://github.com/ethereum/EIPs) - The Ethereum Improvement Proposal repository
 - [country-list](https://github.com/umpirsky/country-list) - :globe_with_meridians: List of all countries with names and ISO 3166-1 codes in all languages and data formats.
 - [website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:
 - [rstudio-conf](https://github.com/rstudio/rstudio-conf) - Materials for rstudio::conf
@@ -2881,7 +2881,7 @@
 - [tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 850 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [lime](https://github.com/marcotcr/lime) - Lime: Explaining the predictions of any machine learning classifier
 - [botframework-sdk](https://github.com/microsoft/botframework-sdk) - Bot Framework provides the most comprehensive experience for building conversation applications.
-- [uuid](https://github.com/lukeed/uuid) - A tiny (230B), fast, and cryptographically secure UUID (V4) generator for Node and the browser
+- [uuid](https://github.com/lukeed/uuid) - A tiny (~230B)and fast UUID (V4) generator for Node and the browser
 - [modern-typescript-with-examples-cheat-sheet](https://github.com/David-Else/modern-typescript-with-examples-cheat-sheet) - Fully printable summary of modern TypeScript language features with extensive examples to help you learn
 - [LoveIt](https://github.com/dillonzq/LoveIt) - ❤️A clean, elegant but advanced blog theme for Hugo 一个简洁、优雅且高效的 Hugo 主题
 - [tracking.js](https://github.com/eduardolundgren/tracking.js) - A modern approach for Computer Vision on the web
@@ -6693,6 +6693,7 @@
 - [datasceinceblogs](https://github.com/jhwhite/datasceinceblogs) - Collection of blogs dedicated to Data Science, Analytics, Big Data and other popular Data Science topics
 - [statlearning-notebooks](https://github.com/sujitpal/statlearning-notebooks) - Python notebooks for exercises covered in Stanford statlearning class (where exercises were in R).
 - [gesetze](https://github.com/bundestag/gesetze) - Bundesgesetze und -verordnungen
+- [pyston](https://github.com/pyston/pyston) - A faster and highly-compatible implementation of the Python programming language. The code here is out of date, please follow our blog
 - [lime](https://github.com/limetext/lime) - Open source API-compatible alternative to the text editor Sublime Text
 - [workshop_2014](https://github.com/nealcaren/workshop_2014) - Files for workshop at Center for Research on Inequalities and the Life Course
 - [deps](https://github.com/django/deps) - Django Enhancement Proposals
@@ -11650,7 +11651,6 @@
 - [baler](https://github.com/paypal/baler) - Bundle assets into iOS static libraries
 - [py_cache_manager](https://github.com/OpenGov/py_cache_manager) - A Python interface for managing dependent caches
 - [mailur](https://github.com/naspeh/mailur) - Lightweight webmail inspired by Gmail
-- [pyston](https://github.com/pyston/pyston) - A faster and highly-compatible implementation of the Python programming language. The code here is out of date, please follow our blog
 - [osrc](https://github.com/dfm/osrc) - The Open Source Report Card
 - [open-url](https://github.com/noahcoad/open-url) - Open URLs, files, folders, or google text under the cursor or in selected text for Sublime Text.
 - [Fleksy](https://github.com/ludolphus/Fleksy) - Appcelerator Fleksy Module
@@ -12978,10 +12978,6 @@
 - [temporalpw](https://github.com/tkooda/temporalpw) - Temporary secure password storage for transmission over insecure channels
 - [YaC2014](https://github.com/koldunovn/YaC2014) - Files for Yandex YaC2014 conference talk
 
-## Solidity 
-
-- [EIPs](https://github.com/ethereum/EIPs) - The Ethereum Improvement Proposal repository
-
 ## Starlark 
 
 - [googleapis](https://github.com/googleapis/googleapis) - Public interface definitions of Google APIs.
@@ -13105,7 +13101,7 @@
 - [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
 - [code-server](https://github.com/cdr/code-server) - VS Code in the browser
 - [vue-dev-server](https://github.com/vuejs/vue-dev-server) - A POC dev server that allows you to import `*.vue` files via native ES modules imports.
-- [nodejs.dev](https://github.com/nodejs/nodejs.dev) - A new Node.js resource built using Gatsby.js with React.js, TypeScript, Emotion, and Remark.
+- [nodejs.dev](https://github.com/nodejs/nodejs.dev) - A new Node.js resource built using Gatsby.js with React.js, TypeScript, and Remark.
 - [frontend-bootcamp](https://github.com/microsoft/frontend-bootcamp) - Frontend Workshop from HTML/CSS/JS to TypeScript/React/Redux
 - [vscode-leetcode](https://github.com/LeetCode-OpenSource/vscode-leetcode) - Solve LeetCode problems in VS Code
 - [linaria](https://github.com/callstack/linaria) - Zero-runtime CSS in JS library
