@@ -447,7 +447,7 @@
 - [redis](https://github.com/dmajkic/redis) - Redis key-value store (Win32 / Win64 port)
 - [redis](https://github.com/microsoftarchive/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes
 - [pynacl](https://github.com/pyca/pynacl) - Python binding to the Networking and Cryptography (NaCl) library
-- [simx](https://github.com/sim-x/simx) - simx code repository
+- [simx](https://github.com/sim-x/simx) - Parallel discrete-event simulation library with Python frontend and C++ backend
 - [python-fibers](https://github.com/saghul/python-fibers) - Lightweight cooperative microthreads for Python
 - [tmate](https://github.com/tmate-io/tmate) - Instant Terminal Sharing
 - [flojay](https://github.com/myemma/flojay) - Streaming JSON serialization
@@ -2095,7 +2095,7 @@
 - [learn-chaincode](https://github.com/IBM-Blockchain-Archive/learn-chaincode) - Learn how to write chaincode.  (For the latest information, see http://hyperledger-fabric.readthedocs.io/en/latest/chaincode.html)
 - [DBShield](https://github.com/nim4/DBShield) - Database firewall written in Go
 - [tidb](https://github.com/pingcap/tidb) - TiDB is an open source distributed HTAP database compatible with the MySQL protocol
-- [hydra](https://github.com/ory/hydra) - OAuth2 Server and OpenID Certified™ OpenID Connect Provider written in Go - cloud native, security-first, open source API security for your infrastructure. SDKs for any language.
+- [hydra](https://github.com/ory/hydra) - OAuth2 Server and OpenID Certified™ OpenID Connect Provider written in Go - cloud native, security-first, open source API security for your infrastructure. SDKs for any language. Compatible with MITREid.
 - [archive_aws-lambda-go](https://github.com/lifadev/archive_aws-lambda-go) - A fast and clean way to execute Go on AWS Lambda.
 - [gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
 - [qt](https://github.com/therecipe/qt) - Qt binding for Go (Golang) with support for Windows / macOS / Linux / FreeBSD / Android / iOS / Sailfish OS / Raspberry Pi / AsteroidOS / Ubuntu Touch / JavaScript / WebAssembly
@@ -2314,7 +2314,6 @@
 - [creative-computing-society.github.io](https://github.com/creative-computing-society/creative-computing-society.github.io) - This is the Hacktoberfest first contribution website of CCS
 - [My-Learning-Tracker-first-ten-months](https://github.com/Syknapse/My-Learning-Tracker-first-ten-months) - A copy of my learning tracker frozen in time at the 10 month mark. It shows my learning process from the beginning of my front end journey, up to the moment I got my first job. Full tracker is at: https://github.com/Syknapse/My-Learning-Tracker
 - [meilix-generator](https://github.com/fossasia/meilix-generator) - WebApp for generating a custom ISO image based on Meilix http://meilix.org
-- [pslab-sister](https://github.com/fossasia/pslab-sister) - Pocket Science Lab - Sister Device using ARM chips https://pslab.io
 - [data-life](https://github.com/abcnews/data-life) - 
 - [deskportfolio](https://github.com/Chippd/deskportfolio) - A portfolio website built using a desk and wall as a theme
 - [async-javascript-cheatsheet](https://github.com/frontarm/async-javascript-cheatsheet) - Cheatsheet for promises and async/await.
@@ -6073,6 +6072,7 @@
 - [Learn_Data_Science_in_3_Months](https://github.com/llSourcell/Learn_Data_Science_in_3_Months) - This is the Curriculum for "Learn Data Science in 3 Months" By Siraj Raval on Youtube
 - [PlacesToPostYourStartup](https://github.com/mmccaff/PlacesToPostYourStartup) - Compiled list of links from "Ask HN: Where can I post my startup to get beta users?"
 - [python-template-snippets](https://github.com/EndlessTrax/python-template-snippets) - A VS Code snippet extension for both the Jinja2 and Django template engines.
+- [pslab-sister](https://github.com/fossasia/pslab-sister) - Pocket Science Lab - Sister Device using ARM chips https://pslab.io
 - [awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 - [vuejs-advanced-learning](https://github.com/filrak/vuejs-advanced-learning) - A curated list of advanced and/or in-depth learning resources about Vue.js
 - [awesome-mongodb](https://github.com/ramnes/awesome-mongodb) - :leaves: A curated list of awesome MongoDB resources, libraries, tools and applications
