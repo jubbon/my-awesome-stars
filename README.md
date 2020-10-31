@@ -895,7 +895,6 @@
 - [cxxopts](https://github.com/jarro2783/cxxopts) - Lightweight C++ command line option parser
 - [NNplusplus](https://github.com/stagadish/NNplusplus) - A small and easy to use neural net implementation for C++. Just download and #include!
 - [Algo_Ds_Notes](https://github.com/jainaman224/Algo_Ds_Notes) - It is a repository that is a collection of algorithms and data structures with implementation in various languages.
-- [fastText.py](https://github.com/salestock/fastText.py) - A Python interface for Facebook fastText
 - [GOTURN](https://github.com/davheld/GOTURN) - Source code for paper: Learning to Track at 100 FPS with Deep Regression Networks, Held, et al. ECCV 2016
 - [1store](https://github.com/fastio/1store) - NoSQL data store using the SEASTAR framework, compatible with Redis
 - [artistic-videos](https://github.com/manuelruder/artistic-videos) - Torch implementation for the paper "Artistic style transfer for videos"
@@ -1591,7 +1590,7 @@
 - [lindb](https://github.com/lindb/lindb) - LinDB is a scalable, high performance, high availability distributed time series database.
 - [buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
 - [gotraining](https://github.com/ardanlabs/gotraining) - Go Training Class Material :
-- [go-micro](https://github.com/asim/go-micro) - A Go framework for distributed systems development
+- [nitro](https://github.com/asim/nitro) - Nitro (formerly known as Go Micro) is a blazingly fast framework for distributed systems development.
 - [pipeline](https://github.com/tektoncd/pipeline) - A K8s-native Pipeline resource.
 - [prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
 - [k3v](https://github.com/ibuildthecloud/k3v) - Virtual Kubernetes
@@ -4168,7 +4167,7 @@
 - [Leaflet.EasyButton](https://github.com/CliffCloud/Leaflet.EasyButton) - leaflet control buttons with icons and callbacks
 - [lumX](https://github.com/lumapps/lumX) - The first responsive front-end framework based on Angular & Google Material Design specifications
 - [karma](https://github.com/karma-runner/karma) - Spectacular Test Runner for JavaScript
-- [rethinkdb-cli](https://github.com/athlite/rethinkdb-cli) - CLI and REPL for Rethinkdb
+- [rethinkdb-cli](https://github.com/tengla/rethinkdb-cli) - CLI and REPL for Rethinkdb
 - [recli](https://github.com/stiang/recli) - RethinkDB command-line query tool and REPL
 - [generator-karma](https://github.com/yeoman/generator-karma) - Yeoman generator for Karma
 - [generator-angular](https://github.com/yeoman/generator-angular) - Yeoman generator for AngularJS
@@ -6186,7 +6185,7 @@
 - [awesome-dev-podcasts](https://github.com/sw-yx/awesome-dev-podcasts) - a curated list of awesome dev podcasts and why they are awesome
 - [my-awesome-AI-bookmarks](https://github.com/goodrahstar/my-awesome-AI-bookmarks) - Curated list of my reads, implementations and core concepts of Artificial Intelligence, Deep Learning, Machine Learning by best folk in the world.
 - [cypherpunk-research](https://github.com/tombusby/cypherpunk-research) - This repository is essentially for compiling information about Cypherpunks, the history of the movement, and the people/events of note.
-- [xg2xg](https://github.com/jhuangtw-dev/xg2xg) - by ex-googlers, for ex-googlers - a lookup table of similar tech & services
+- [xg2xg](https://github.com/jhuangtw/xg2xg) - by ex-googlers, for ex-googlers - a lookup table of similar tech & services
 - [awesome-test-automation](https://github.com/atinfo/awesome-test-automation) - A curated list of awesome test automation frameworks, tools, libraries, and software for different programming languages. Sponsored by http://sdclabs.com
 - [r2kit](https://github.com/cmatthewbrooks/r2kit) - A set of scripts for a radare-based malware code analysis workflow
 - [wg-serverless](https://github.com/cncf/wg-serverless) - CNCF Serverless WG
@@ -6330,7 +6329,7 @@
 - [awesome-functional-programming](https://github.com/xgrommx/awesome-functional-programming) - Yet another resource for collecting articles, videos etc. regarding functional programming
 - [EthList](https://github.com/Scanate/EthList) - The Comprehensive Ethereum Reading List
 - [npm](https://github.com/npm/npm) - This repository is moving to: https://github.com/npm/cli
-- [curriculum](https://github.com/HackYourFuture/curriculum) - Overview of the HackYourFuture program.
+- [curriculum](https://github.com/HackYourFuture/curriculum) - Dive into our 7-month web development program covering HTML, CSS, Javascript, Node, and React!
 - [malware-samples](https://github.com/fabrimagic72/malware-samples) - A collection of malware samples caught by several honeypots i manage
 - [WebDeveloperSecurityChecklist](https://github.com/virajkulkarni14/WebDeveloperSecurityChecklist) - A checklist of important security issues you should consider when creating a web application.
 - [awesome-compilers](https://github.com/aalhour/awesome-compilers) - :sunglasses: Curated list of awesome resources on Compilers, Interpreters and Runtimes
@@ -6811,7 +6810,7 @@
 - [BERTopic](https://github.com/MaartenGr/BERTopic) - Leveraging BERT and a class-based TF-IDF to create easily interpretable topics.
 - [st-annotated-text](https://github.com/tvst/st-annotated-text) - A simple component to display annotated text in Streamlit apps.
 - [BERT-NER](https://github.com/kyzhouhzau/BERT-NER) - Use Google's BERT for named entity recognition （CoNLL-2003 as the dataset）.
-- [FARM](https://github.com/deepset-ai/FARM) - :house_with_garden: Fast & easy transfer learning for NLP. Harvesting language models for the industry.
+- [FARM](https://github.com/deepset-ai/FARM) - :house_with_garden: Fast & easy transfer learning for NLP. Harvesting language models for the industry. Focus on Question Answering.
 - [sequence_tagging](https://github.com/guillaumegenthial/sequence_tagging) - Named Entity Recognition (LSTM + CRF) - Tensorflow
 - [mmclassification](https://github.com/open-mmlab/mmclassification) - OpenMMLab Image Classification Toolbox and Benchmark
 - [mmdetection3d](https://github.com/open-mmlab/mmdetection3d) - OpenMMLab's next-generation platform for general 3D object detection.
@@ -7132,7 +7131,7 @@
 - [data-science-from-scratch](https://github.com/joelgrus/data-science-from-scratch) - code for Data Science From Scratch book
 - [spleeter](https://github.com/deezer/spleeter) - Deezer source separation library including pretrained models.
 - [Chaos](https://github.com/jonnyhyman/Chaos) - Visualizations of the connections between chaos theory and fractals through the logistic map; made for Veritasium YouTube video
-- [autogluon](https://github.com/awslabs/autogluon) - AutoGluon: AutoML Toolkit for Tabular, Text, and Image Data
+- [autogluon](https://github.com/awslabs/autogluon) - AutoGluon: AutoML for Text, Image, and Tabular Data
 - [ml-fairness-gym](https://github.com/google/ml-fairness-gym) - 
 - [multiplayer-alphazero](https://github.com/petosa/multiplayer-alphazero) - PyTorch AlphaZero implementation with multiplayer support [NeurIPS 2019 Deep Reinforcement Learning Workshop]
 - [post-tuto-deployment](https://github.com/MarwanDebbiche/post-tuto-deployment) - Build and deploy a machine learning app from scratch  🚀
@@ -8053,7 +8052,7 @@
 - [beagle_scraper](https://github.com/ChrisRoark/beagle_scraper) - Scraper for categories and lists on ecommerce and other listing websites
 - [Turing](https://github.com/TuringApp/Turing) - Free and cross-platform IDE for pseudocode and Python
 - [anti_forgetful](https://github.com/tbenthompson/anti_forgetful) - Don't forget and leave your AWS instances running! That's expensive...
-- [tasq](https://github.com/codepr/tasq) - A simple brokerless task queue implementation leveraging zmq and a naive implementation of the actor model to enqeue jobs on local or remote processes.
+- [tasq](https://github.com/codepr/tasq) - A simple task queue implementation to enqeue jobs on local or remote processes.
 - [jupyter-nb-templater](https://github.com/ismailuddin/jupyter-nb-templater) - A tool for generating Python scripts to programmatically generate Jupyter notebooks.
 - [mxboard](https://github.com/awslabs/mxboard) - Logging MXNet data for visualization in TensorBoard.
 - [traad](https://github.com/abingham/traad) - An JSON+HTTP server for the rope Python refactoring library
@@ -9523,7 +9522,8 @@
 - [CarND-Term1-Starter-Kit](https://github.com/udacity/CarND-Term1-Starter-Kit) - 
 - [tensorflow-value-iteration-networks](https://github.com/TheAbhiKumar/tensorflow-value-iteration-networks) - TensorFlow implementation of the Value Iteration Networks (NIPS '16) paper
 - [neural-painter](https://github.com/megvii-research/neural-painter) - Paint artistic patterns using random neural network
-- [telegraph](https://github.com/python273/telegraph) - Python Telegraph API wrapper (Telegra.ph)
+- [awesomo](https://github.com/lk-geimfari/awesomo) - A list of cool open source projects written in C, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala, etc.
+- [telegraph](https://github.com/python273/telegraph) - Telegraph API wrapper | Telegra.ph
 - [TwitterQA](https://github.com/kootenpv/TwitterQA) - Deep learning based Twitter Imposter Chatbot
 - [pycodesuggest](https://github.com/uclnlp/pycodesuggest) - Learning to Auto-Complete using RNN Language Models
 - [rapping-neural-network](https://github.com/robbiebarrat/rapping-neural-network) - Rap song writing recurrent neural network trained on Kanye West's entire discography
@@ -13065,7 +13065,7 @@
 - [gistpad](https://github.com/vsls-contrib/gistpad) - VS Code extension for managing and sharing code snippets, notes and interactive samples using GitHub Gists
 - [cvat](https://github.com/openvinotoolkit/cvat) - Powerful and efficient Computer Vision Annotation Tool (CVAT)
 - [tfjs-models](https://github.com/tensorflow/tfjs-models) - Pretrained models for TensorFlow.js
-- [vue-next](https://github.com/vuejs/vue-next) - Repo for Vue 3.0
+- [vue-next](https://github.com/vuejs/vue-next) - Repo for Vue 3
 - [typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
 - [apollo-server](https://github.com/apollographql/apollo-server) - 🌍 GraphQL server for Express, Connect, Hapi, Koa and more
 - [typescript-action](https://github.com/actions/typescript-action) - Create a TypeScript Action with tests, linting, workflow, publishing, and versioning
@@ -13265,7 +13265,6 @@
 - [react-navigation](https://github.com/react-navigation/react-navigation) - Routing and navigation for your React Native apps
 - [parrot](https://github.com/parrot-translate/parrot) - Self-hosted Localization Management Platform built with Go and Angular
 - [botpress](https://github.com/botpress/botpress) - 🤖 The Conversational Platform with built-in language understanding (NLU), beautiful graphical interface and Dialog Manager (DM). Easily create chatbots and AI-based virtual assistants.
-- [awesomo](https://github.com/lk-geimfari/awesomo) - A list of cool open source projects written in C, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala, etc.
 - [vuetify](https://github.com/vuetifyjs/vuetify) - 🐉 Material Component Framework for Vue
 - [material-components-web](https://github.com/material-components/material-components-web) - Modular and customizable Material Design UI components for the web
 - [rxdb](https://github.com/pubkey/rxdb) - :computer: 🔄 :iphone: A realtime Database for JavaScript Applications
