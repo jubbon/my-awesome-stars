@@ -1591,7 +1591,7 @@
 - [lindb](https://github.com/lindb/lindb) - LinDB is a scalable, high performance, high availability distributed time series database.
 - [buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
 - [gotraining](https://github.com/ardanlabs/gotraining) - Go Training Class Material :
-- [nitro](https://github.com/asim/nitro) - Nitro (formerly known as Go Micro) is a blazingly fast framework for distributed systems development.
+- [nitro](https://github.com/asim/nitro) - Nitro (formerly known as Go Micro) is a blazingly fast framework for distributed app development.
 - [pipeline](https://github.com/tektoncd/pipeline) - A K8s-native Pipeline resource.
 - [prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
 - [k3v](https://github.com/ibuildthecloud/k3v) - Virtual Kubernetes
@@ -4445,7 +4445,7 @@
 - [100-plus-Python-programming-exercises-extended](https://github.com/darkprinx/100-plus-Python-programming-exercises-extended) - 100+ python programming exercise problem discussed ,explained and solved in different ways
 - [Machine-Learning-for-Algorithmic-Trading-Second-Edition_Original](https://github.com/PacktPublishing/Machine-Learning-for-Algorithmic-Trading-Second-Edition_Original) - Machine Learning for Algorithmic Trading, Second Edition - published by Packt
 - [fastcore](https://github.com/fastai/fastcore) - Python supercharged for the fastai library
-- [Deeplearning.ai-Natural-Language-Processing-Specialization](https://github.com/ijelliti/Deeplearning.ai-Natural-Language-Processing-Specialization) - This repository contains my full work and notes on Coursera's NLP Specialization (Natural Language Processing) taught by the instructor Younes Bensouda Mourri and Łukasz Kaiser offered by deeplearning.ai
+- [Deeplearning.ai-Natural-Language-Processing-Specialization](https://github.com/ibrahimjelliti/Deeplearning.ai-Natural-Language-Processing-Specialization) - This repository contains my full work and notes on Coursera's NLP Specialization (Natural Language Processing) taught by the instructor Younes Bensouda Mourri and Łukasz Kaiser offered by deeplearning.ai
 - [Getting-Things-Done-with-Pytorch](https://github.com/curiousily/Getting-Things-Done-with-Pytorch) - Jupyter Notebook tutorials on solving real-world problems with Machine Learning & Deep Learning using PyTorch. Topics: Face detection with Detectron 2, Time Series anomaly detection with LSTM Autoencoders, Object Detection with YOLO v5, Build your first Neural Network, Time Series forecasting for Coronavirus daily cases, Sentiment Analysis with BERT.
 - [machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading) - Code and resources for Machine Learning for Algorithmic Trading, 2nd edition.
 - [workshop](https://github.com/data-science-on-aws/workshop) - AI and Machine Learning with Kubeflow, Amazon EKS, and SageMaker
@@ -4631,7 +4631,6 @@
 - [deep-text-recognition-benchmark](https://github.com/clovaai/deep-text-recognition-benchmark) - Text recognition (optical character recognition) with deep learning methods.
 - [community](https://github.com/kubernetes/community) - Kubernetes community content
 - [dsc-permutations-and-factorials-lab-nyc-ds-071519](https://github.com/learn-co-students/dsc-permutations-and-factorials-lab-nyc-ds-071519) - 
-- [KDD-2019-Hands-on](https://github.com/dglai/KDD-2019-Hands-on) - DGL tutorial in KDD 2019
 - [UTS_ML2019_Main](https://github.com/junjy007/UTS_ML2019_Main) - Learning Materials for "Machine Learning" @ UTS, Spring 2019
 - [adventures-in-ml-code](https://github.com/adventuresinML/adventures-in-ml-code) - This repository holds all the code for the site http://www.adventuresinmachinelearning.com
 - [nlp-in-practice](https://github.com/kavgan/nlp-in-practice) - Starter code to solve real world text data problems. Includes: Gensim Word2Vec, phrase embeddings, Text Classification with Logistic Regression, word count with pyspark, simple text preprocessing, pre-trained embeddings and more.
@@ -8114,7 +8113,7 @@
 - [xgbfir](https://github.com/limexp/xgbfir) - XGBoost Feature Interactions Reshaped
 - [evernote-telegram-bot](https://github.com/djudman/evernote-telegram-bot) - Telegram bot for Evernote
 - [appkernel](https://github.com/accelero-cloud/appkernel) - API development made easy: a smart Python 3 API framework
-- [testinfra](https://github.com/philpep/testinfra) - Testinfra test your infrastructures
+- [pytest-testinfra](https://github.com/pytest-dev/pytest-testinfra) - Testinfra test your infrastructures
 - [albumentations](https://github.com/albumentations-team/albumentations) - Fast image augmentation library and easy to use wrapper around other libraries. Documentation:  https://albumentations.ai/docs/ Paper about library: https://www.mdpi.com/2078-2489/11/2/125
 - [keras-coordconv](https://github.com/titu1994/keras-coordconv) - Keras implementation of CoordConv for all Convolution layers
 - [compare_gan](https://github.com/google/compare_gan) - Compare GAN code.
@@ -9066,7 +9065,7 @@
 - [kdtool](https://github.com/torchbox/kdtool) - Kubernetes deployment utility
 - [DeepLearning](https://github.com/prakritidev/DeepLearning) - This repository will contain the example detailed codes of Tensorflow and Keras, This repository will be useful for Deep Learning staters who find difficult to understand the example codes
 - [lambda-toolkit](https://github.com/lucioveloso/lambda-toolkit) - *DO NOT USE* - This project was done during my initial python and lambda's studies. I would recommend you the `serverless framework`.
-- [logzero](https://github.com/metachris/logzero) - Robust and effective logging for Python 2 and 3.
+- [logzero](https://github.com/metachris/logzero) - Simple and production-ready logging for Python 2 and 3.
 - [Fantastic-Transcoder](https://github.com/ClearSlide/Fantastic-Transcoder) - Fantastic transcoder is a video transcoder which utilizes massively parallel compute to achieve ludicrous conversion speeds.
 - [InsideCoreML](https://github.com/hollance/InsideCoreML) - Python script to examine Core ML's mlmodel files
 - [automating-AWS-with-Python](https://github.com/tejas-kr/automating-AWS-with-Python) - automating AWS with Python using boto3 library
@@ -12368,7 +12367,7 @@
 - [kule](https://github.com/fatiherikli/kule) - 🍋REST interface for MongoDB.
 - [pg_activity](https://github.com/dalibo/pg_activity) - pg_activity is a top like application for PostgreSQL server activity monitoring.
 - [django-multiurl](https://github.com/raiderrobert/django-multiurl) - Have you ever wanted multiple views to match to the same URL? Now you can.
-- [sure](https://github.com/gabrielfalcao/sure) - idiomatic assertion toolkit with human-friendly failure messages, inspired on RSpec Expectations and should.js
+- [sure](https://github.com/gabrielfalcao/sure) - idiomatic assertion toolkit with human-friendly failure messages, inspired by RSpec Expectations and should.js
 - [sqlparse](https://github.com/andialbrecht/sqlparse) - A non-validating SQL parser module for Python
 - [locksmith](https://github.com/ehazlett/locksmith) - AES encrypted password manager
 - [PyBitmessage](https://github.com/Bitmessage/PyBitmessage) - Reference client for Bitmessage: a P2P encrypted decentralised communication protocol:
@@ -13044,7 +13043,7 @@
 
 ## TypeScript 
 
-- [hetty](https://github.com/dstotijn/hetty) - Hetty is an HTTP toolkit for security research. Features a man-in-the-middle HTTP/1.1 proxy, project management, scope and logs.
+- [hetty](https://github.com/dstotijn/hetty) - Hetty is an HTTP toolkit for security research.
 - [lit](https://github.com/PAIR-code/lit) - The Language Interpretability Tool: Interactively analyze NLP models for model understanding in an extensible and framework agnostic interface.
 - [vscode-realtime-debugging](https://github.com/hediet/vscode-realtime-debugging) - An extension for VS Code that visualizes how a program is being executed in real time.
 - [n8n](https://github.com/n8n-io/n8n) - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
