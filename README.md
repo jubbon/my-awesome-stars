@@ -1547,7 +1547,7 @@
 - [godog](https://github.com/cucumber/godog) - Cucumber for golang
 - [aws-vault](https://github.com/99designs/aws-vault) - A vault for securely storing and accessing AWS credentials in development environments
 - [go-gitlab](https://github.com/xanzy/go-gitlab) - A GitLab API client enabling Go programs to interact with GitLab in a simple and uniform way
-- [micro](https://github.com/micro/micro) - Micro is a platform for cloud native development
+- [micro](https://github.com/micro/micro) - Micro is a platform for cloud native app development
 - [go-github](https://github.com/google/go-github) - Go library for accessing the GitHub API
 - [nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
 - [migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
@@ -1587,7 +1587,7 @@
 - [terragrunt](https://github.com/gruntwork-io/terragrunt) - Terragrunt is a thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules.
 - [aws-sdk-go](https://github.com/aws/aws-sdk-go) - AWS SDK for the Go programming language.
 - [mapstructure](https://github.com/mitchellh/mapstructure) - Go library for decoding generic map values into native Go structures and vice versa.
-- [terraform-provider-aws](https://github.com/terraform-providers/terraform-provider-aws) - Terraform AWS provider
+- [terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) - Terraform AWS provider
 - [lindb](https://github.com/lindb/lindb) - LinDB is a scalable, high performance, high availability distributed time series database.
 - [buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
 - [gotraining](https://github.com/ardanlabs/gotraining) - Go Training Class Material :
@@ -2629,7 +2629,7 @@
 - [ng-camera](https://github.com/bcabanes/ng-camera) - AngularJS directive for capturing images form your computer's camera.
 - [milligram](https://github.com/milligram/milligram) - A minimalist CSS framework.
 - [feature.js](https://github.com/viljamis/feature.js) - Feature.js is a fast, simple and lightweight browser feature detection library in 1kb.
-- [react-leaflet](https://github.com/PaulLeCam/react-leaflet) - ⚛️ React components for 🍃 Leaflet maps
+- [react-leaflet](https://github.com/PaulLeCam/react-leaflet) - React components for Leaflet maps
 - [Flask-Scaffold](https://github.com/Leo-G/Flask-Scaffold) - Prototype Database driven Web apps in Angular 6, Bootstrap 4 and REST API's with Flask (Python 3 framework)
 - [intro.js](https://github.com/usablica/intro.js) - A better way for new feature introduction and step-by-step users guide for your website and project.
 - [material-design-lite](https://github.com/google/material-design-lite) - Material Design Components in HTML/CSS/JS
@@ -4554,7 +4554,6 @@
 - [deepbayes-2019](https://github.com/bayesgroup/deepbayes-2019) - Practical assignments of the Deep|Bayes summer school 2019
 - [pytorch-normalizing-flows](https://github.com/karpathy/pytorch-normalizing-flows) - Normalizing flows in PyTorch. Current intended use is education not production.
 - [IBA-paper-code](https://github.com/BioroboticsLab/IBA-paper-code) - Code for the Paper "Restricting the Flow: Information Bottlenecks for Attribution"
-- [nnAudio](https://github.com/KinWaiCheuk/nnAudio) - Audio processing by using pytorch 1D convolution network
 - [ml-mipt](https://github.com/girafe-ai/ml-mipt) - Machine learning course at MIPT
 - [Attention-Basics](https://github.com/alsoj/Attention-Basics) - Description Projects and exercises for Deep Learning Nano Degree program of Udacity (Mini Project)
 - [UdacityNLPND_MiniProject_AttentionBasics](https://github.com/MrGeislinger/UdacityNLPND_MiniProject_AttentionBasics) - Optional Mini-Project for Udacity's NLPND about attention learning
@@ -7208,7 +7207,8 @@
 - [deconvolution](https://github.com/yechengxi/deconvolution) - 
 - [FasterSeg](https://github.com/VITA-Group/FasterSeg) - [ICLR 2020] "FasterSeg: Searching for Faster Real-time Semantic Segmentation" by Wuyang Chen, Xinyu Gong, Xianming Liu, Qian Zhang, Yuan Li, Zhangyang Wang
 - [facelib_modular_face_recognition_pipline](https://github.com/Alloooshe/facelib_modular_face_recognition_pipline) - simple and modular framework to perform all stages of face recognition pipeline (detection, alignment, embedding, matching) with the possibility to add and use different models and techniques for each stage and can be used for images and videos.
-- [bananas](https://github.com/naszilla/bananas) - Bayesian Optimization with Neural Architectures for Neural Architecture Search - https://arxiv.org/abs/1910.11858
+- [nnAudio](https://github.com/KinWaiCheuk/nnAudio) - Audio processing by using pytorch 1D convolution network
+- [naszilla](https://github.com/naszilla/naszilla) - Naszilla is a Python library for neural architecture search (NAS)
 - [TorchRay](https://github.com/facebookresearch/TorchRay) - Understanding Deep Networks via Extremal Perturbations and Smooth Masks
 - [YouTube-Report](https://github.com/A3M4/YouTube-Report) - :bar_chart: Generate a personal YouTube report from your Google Takeout data
 - [trax](https://github.com/google/trax) - Trax — Deep Learning with Clear Code and Speed
@@ -7905,7 +7905,7 @@
 - [BERT-pytorch](https://github.com/codertimo/BERT-pytorch) - Google AI 2018 BERT pytorch implementation
 - [trfl](https://github.com/deepmind/trfl) - TensorFlow Reinforcement Learning
 - [graph_nets](https://github.com/deepmind/graph_nets) - Build Graph Nets in Tensorflow
-- [TensorFlow-Course](https://github.com/instillai/TensorFlow-Course) - Simple and ready-to-use tutorials for TensorFlow
+- [TensorFlow-Course](https://github.com/instillai/TensorFlow-Course) - :satellite: Simple and ready-to-use tutorials for TensorFlow
 - [hera](https://github.com/phildini/hera) - A desktop app for Jupyter Notebook
 - [pytest-asyncio](https://github.com/pytest-dev/pytest-asyncio) - Pytest support for asyncio.
 - [MNIST_Pytorch_python_and_capi](https://github.com/tobiascz/MNIST_Pytorch_python_and_capi) - This is an example of how to train a MNIST network in Python and run it in c++ with pytorch 1.0
