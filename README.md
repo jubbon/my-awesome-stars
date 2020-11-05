@@ -686,7 +686,7 @@
 - [ToyPathTracer](https://github.com/aras-p/ToyPathTracer) - Toy path tracer for my own learning purposes (CPU/GPU, C++/C#, Win/Mac/Wasm, DX11/Metal, also Unity)
 - [profilo](https://github.com/facebookincubator/profilo) - A library for performance traces from production.
 - [gdal](https://github.com/OSGeo/gdal) - GDAL is an open source X/MIT licensed translator library for raster and vector geospatial data formats.
-- [ngraph](https://github.com/NervanaSystems/ngraph) - nGraph - open source C++ library, compiler and runtime for Deep Learning
+- [ngraph](https://github.com/NervanaSystems/ngraph) - nGraph has moved to OpenVINO
 - [timer-benchmarks](https://github.com/slimccq/timer-benchmarks) - Benchmark of different timer queue implementation(min-heap, red-black tree, timer vector)
 - [service-fabric](https://github.com/microsoft/service-fabric) - Service Fabric is a distributed systems platform for packaging, deploying, and managing stateless and stateful distributed applications and containers at large scale.
 - [cquery](https://github.com/jacobdufault/cquery) - C/C++ language server supporting multi-million line code base, powered by libclang. Emacs, Vim, VSCode, and others with language server protocol support. Cross references, completion, diagnostics, semantic highlighting and more
@@ -963,7 +963,7 @@
 - [stocks](https://github.com/donnemartin/stocks) - C++ Stock Analyzer: Analyzes and ranks stocks based on their Moving Average Convergence Divergence (MACD)
 - [pxar](https://github.com/psi46/pxar) - Life is too short for perfection
 - [tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
-- [xgboost](https://github.com/dmlc/xgboost) - Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library,  for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Flink and DataFlow
+- [xgboost](https://github.com/dmlc/xgboost) - Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library,  for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Dask, Flink and DataFlow
 - [RHVoice](https://github.com/Olga-Yakovleva/RHVoice) - RHVoice is a free and open source speech synthesizer for Russian language.
 - [mapnik](https://github.com/mapnik/mapnik) - Mapnik is an open source toolkit for developing mapping applications
 - [osrm-backend](https://github.com/Project-OSRM/osrm-backend) - Open Source Routing Machine - C++ backend
@@ -1143,7 +1143,6 @@
 - [icheck](https://github.com/dargullin/icheck) - Highly customizable checkboxes and radio buttons (jQuery & Zepto)
 - [ebook-boilerplate](https://github.com/phodal/ebook-boilerplate) - A Markdown convert to Ebook :arrow_right: html、mobi、epub、pdf、rtf Template
 - [thunderbird-monterail](https://github.com/spymastermatt/thunderbird-monterail) - A set of themes for thunderbird inspired by a Monterail blog post
-- [cs228-notes](https://github.com/ermongroup/cs228-notes) - Course notes for CS228: Probabilistic Graphical Models.
 - [workflow](https://github.com/deis/workflow) - The open source PaaS for Kubernetes.
 - [style](https://github.com/tidyverse/style) - The tidyverse style guide for R code
 - [papers-I-read](https://github.com/shagunsodhani/papers-I-read) - A-Paper-A-Week
@@ -1210,7 +1209,7 @@
 - [hack](https://github.com/egoist/hack) - ⛷ Dead simple CSS framework.
 - [angled-edges](https://github.com/josephfusco/angled-edges) - :triangular_ruler: Quickly create angled section edges using only Sass
 - [themes](https://github.com/Openworx/themes) - 
-- [pace](https://github.com/HubSpot/pace) - Automatically add a progress bar to your site. #hubspot-open-source
+- [pace](https://github.com/EatBreatheCode/pace) - Automatically add a progress bar to your site. #hubspot-open-source
 - [hubpress.io](https://github.com/HubPress/hubpress.io) - A web application to build your blog on GitHub
 - [material-kit](https://github.com/creativetimofficial/material-kit) - Free and Open Source UI Kit for Bootstrap 4, React, Vue.js, React Native and Sketch based on Google's Material Design
 - [yeoman.io](https://github.com/yeoman/yeoman.io) - Yeoman website
@@ -1238,7 +1237,6 @@
 - [SpinKit](https://github.com/tobiasahlin/SpinKit) - A collection of loading indicators animated with CSS
 - [Skeleton](https://github.com/dhg/Skeleton) - Skeleton: A Dead Simple, Responsive Boilerplate for Mobile-Friendly Development
 - [ProgrammingFonts](https://github.com/ProgrammingFonts/ProgrammingFonts) - This is a collection of programming fonts,just share this with the programmers.Now there are 101 kinds of fantastic fonts!
-- [weui](https://github.com/Tencent/weui) - A UI library by WeChat official design team, includes the most useful widgets/modules in mobile web applications.
 - [arc-theme](https://github.com/horst3180/arc-theme) - A flat theme with transparent elements
 - [normalize.css](https://github.com/necolas/normalize.css) - A modern alternative to CSS resets
 - [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
@@ -1566,7 +1564,6 @@
 - [fasthttp](https://github.com/valyala/fasthttp) - Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http
 - [vitess](https://github.com/vitessio/vitess) - Vitess is a database clustering system for horizontal scaling of MySQL.
 - [keda](https://github.com/kedacore/keda) - KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes
-- [fabric-samples](https://github.com/hyperledger/fabric-samples) - 
 - [clickhouse_sinker](https://github.com/housepower/clickhouse_sinker) - Easily load data  from kafka to ClickHouse
 - [pg](https://github.com/go-pg/pg) - Golang ORM with focus on PostgreSQL features and performance
 - [grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway) - gRPC to JSON proxy generator following the gRPC HTTP spec
@@ -2900,6 +2897,7 @@
 - [ferdi](https://github.com/getferdi/ferdi) - 🧔🏽 Ferdi  helps you organize how you use your favourite apps by combining them into one application
 - [flowy](https://github.com/alyssaxuu/flowy) - The minimal javascript library to create flowcharts ✨
 - [shhgit](https://github.com/eth0izzle/shhgit) - Ah shhgit! Find GitHub secrets in real time
+- [fabric-samples](https://github.com/hyperledger/fabric-samples) - 
 - [BullshitGenerator](https://github.com/menzi11/BullshitGenerator) - Needs to generate some texts to test if my GUI rendering codes good or not. so I made this.
 - [moment-timezone](https://github.com/moment/moment-timezone) - Timezone support for moment.js
 - [Face-Detection-JavaScript](https://github.com/WebDevSimplified/Face-Detection-JavaScript) - 
@@ -5647,6 +5645,7 @@
 - [QGIS-Website](https://github.com/qgis/QGIS-Website) - QGIS-Website
 - [monokai](https://github.com/kevinsawicki/monokai) - Monokai Atom Syntax theme
 - [seti-ui](https://github.com/jesseweed/seti-ui) - A subtle dark colored UI theme for Atom.
+- [weui](https://github.com/Tencent/weui) - A UI library by WeChat official design team, includes the most useful widgets/modules in mobile web applications.
 
 ## Lua 
 
@@ -12762,6 +12761,7 @@
 - [documentation](https://github.com/codeship/documentation) - Documentation for Codeship CI & CD service
 - [TypeScript-Node-Starter](https://github.com/microsoft/TypeScript-Node-Starter) - A reference example for TypeScript and Node with a detailed README describing how to use the two together.
 - [serverless-stack-com](https://github.com/AnomalyInnovations/serverless-stack-com) - Serverless Stack is an open source guide for building and deploying full-stack apps using Serverless and React on AWS.
+- [cs228-notes](https://github.com/ermongroup/cs228-notes) - Course notes for CS228: Probabilistic Graphical Models.
 - [devportfolio](https://github.com/RyanFitzgerald/devportfolio) - A lightweight, customizable single-page personal portfolio website template built with JavaScript and Sass
 - [card](https://github.com/jessepollak/card) - :credit_card: make your credit card form better in one line of code
 - [grav-plugin-admin](https://github.com/getgrav/grav-plugin-admin) - Grav Admin Plugin
