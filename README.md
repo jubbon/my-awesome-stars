@@ -1339,6 +1339,7 @@
 
 ## Cuda 
 
+- [nv-wavenet](https://github.com/NVIDIA/nv-wavenet) - Reference implementation of real-time autoregressive wavenet inference
 - [deep-high-resolution-net.pytorch](https://github.com/leoxiaobin/deep-high-resolution-net.pytorch) - The project is an official implementation of our CVPR2019 paper "Deep High-Resolution Representation Learning for Human Pose Estimation"
 - [cuml](https://github.com/rapidsai/cuml) - cuML - RAPIDS Machine Learning Library
 - [tsne-cuda](https://github.com/CannyLab/tsne-cuda) - GPU Accelerated t-SNE for CUDA with Python bindings
@@ -2417,7 +2418,7 @@
 - [Flask_Simple_Form](https://github.com/fossasia/Flask_Simple_Form) - Flask app with a Simple Form
 - [v-calendar](https://github.com/nathanreyes/v-calendar) - A lightweight, dependency-free plugin for building attributed calendars in Vue.js
 - [linux-tracing-workshop](https://github.com/goldshtn/linux-tracing-workshop) - Examples and hands-on labs for Linux tracing tools workshops
-- [webcomponents](https://github.com/w3c/webcomponents) - Web Components specifications
+- [webcomponents](https://github.com/WICG/webcomponents) - Web Components specifications
 - [CredSniper](https://github.com/ustayready/CredSniper) - CredSniper is a phishing framework written with the Python micro-framework Flask and Jinja2 templating which supports capturing 2FA tokens.
 - [kotlin-guides](https://github.com/android/kotlin-guides) - A set of guides for writing Kotlin for Android.
 - [engrafo](https://github.com/arxiv-vanity/engrafo) - Convert LaTeX documents into beautiful responsive web pages using LaTeXML.
@@ -4761,6 +4762,7 @@
 - [DL-workshop-series](https://github.com/Machine-Learning-Tokyo/DL-workshop-series) - Material used for Deep Learning related workshops for Machine Learning Tokyo (MLT)
 - [PRML](https://github.com/ctgk/PRML) - PRML algorithms implemented in Python
 - [Time_Series_Prediction](https://github.com/llSourcell/Time_Series_Prediction) - This is the code for "Time Series Prediction" By Siraj Raval on Youtube
+- [pixyz](https://github.com/masa-su/pixyz) - A library for developing deep generative models in a more concise, intuitive and extendable way
 - [NLP-with-Python](https://github.com/susanli2016/NLP-with-Python) - Scikit-Learn, NLTK, Spacy, Gensim, Textblob and more
 - [eif](https://github.com/sahandha/eif) - Extended Isolation Forest for Anomaly Detection
 - [pytorch_challenge](https://github.com/udacity/pytorch_challenge) - 
@@ -6572,7 +6574,6 @@
 - [structured-text-tools](https://github.com/dbohdan/structured-text-tools) - A list of command line tools for manipulating structured text data
 - [awesome-serverless](https://github.com/anaibol/awesome-serverless) - :cloud: A curated list of awesome services, solutions and resources for serverless / nobackend applications.
 - [awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
-- [learning-resources](https://github.com/jshomes/learning-resources) - Free learning resources.
 - [gvr-android-sdk](https://github.com/googlevr/gvr-android-sdk) - Google VR SDK for Android
 - [dl-setup](https://github.com/floydhub/dl-setup) - Instructions for setting up the software on your deep learning machine
 - [javascript-in-one-pic](https://github.com/coodict/javascript-in-one-pic) - Learn javascript in one picture.
@@ -7819,7 +7820,6 @@
 - [cutie](https://github.com/Kamik423/cutie) - Command line User Tools for Input Easification
 - [chartify](https://github.com/spotify/chartify) - Python library that makes it easy for data scientists to create charts.
 - [eo-learn](https://github.com/sentinel-hub/eo-learn) - Earth observation processing framework for machine learning in Python
-- [pixyz](https://github.com/masa-su/pixyz) - A library for developing deep generative models in a more concise, intuitive and extendable way
 - [hiddenlayer](https://github.com/waleedka/hiddenlayer) - Neural network graphs and training metrics for PyTorch, Tensorflow, and Keras.
 - [FloWaveNet](https://github.com/ksw0306/FloWaveNet) - A Pytorch implementation of "FloWaveNet: A Generative Flow for Raw Audio"
 - [spinningup](https://github.com/openai/spinningup) - An educational resource to help anyone learn deep reinforcement learning.
@@ -9054,7 +9054,7 @@
 - [kube-shell](https://github.com/cloudnativelabs/kube-shell) - Kubernetes shell: An integrated shell for working with the Kubernetes
 - [SWAPY](https://github.com/pywinauto/SWAPY) - not maintained any more (will be replaced by py_inspect)
 - [ansible-selvpc-modules](https://github.com/selectel/ansible-selvpc-modules) - Ansible modules for Selectel VPC service
-- [orca](https://github.com/UDST/orca) - Pipeline orchestration tool with Pandas support
+- [orca](https://github.com/UDST/orca) - Python library for task orchestration
 - [urbansim](https://github.com/UDST/urbansim) - Platform for building statistical models of cities and regions
 - [tacotron_asr](https://github.com/Kyubyong/tacotron_asr) - Speech Recognition Using Tacotron
 - [MLBox](https://github.com/AxeldeRomblay/MLBox) - MLBox is a powerful Automated Machine Learning python library.
