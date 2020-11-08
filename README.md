@@ -1122,7 +1122,6 @@
 - [docco](https://github.com/jashkenas/docco) - Literate Programming can be Quick and Dirty.
 - [git](https://github.com/dariubs/git) - Fast git tutorial in farsi
 - [one-vibrancy](https://github.com/simurai/one-vibrancy) - Vibrancy effect for Atom One themes
-- [AWSPics](https://github.com/jpsim/AWSPics) - An AWS CloudFormation stack to run a serverless password-protected photo gallery
 - [reshifter](https://github.com/mhausenblas/reshifter) - Kubernetes cluster state management
 - [pandoc-markdown-book-template](https://github.com/johnpaulada/pandoc-markdown-book-template) - A template for creating epub books from markdown using pandoc.
 - [nomad-ci](https://github.com/iverberk/nomad-ci) - A fully featured CI setup based on Nomad, Jenkins, Selenium, Consul and Docker
@@ -1187,7 +1186,6 @@
 - [wing](https://github.com/kbrsh/wing) - :gem: A beautiful CSS framework designed for minimalists.
 - [Gutenberg](https://github.com/BafS/Gutenberg) - Modern framework to print the web correctly.
 - [weather-icons](https://github.com/erikflowers/weather-icons) - 215 Weather Themed Icons and CSS
-- [calcite-web](https://github.com/Esri/calcite-web) - Authoritative front-end development resources for Calcite design initiative. Includes extendable base components and styles, as well as a modular and efficient framework for ArcGIS properties.
 - [AwesomePerfCpp](https://github.com/fenbf/AwesomePerfCpp) - A curated list of awesome C/C++ performance optimization resources: talks, articles, books, libraries, tools, sites, blogs. Inspired by awesome.
 - [mobi.css](https://github.com/mobi-css/mobi.css) - A lightweight, scalable, mobile-first CSS framework
 - [material-design-for-bootstrap](https://github.com/mdbootstrap/material-design-for-bootstrap) - Material Design for Bootstrap - Powerful and free UI KIT for Bootstrap 4
@@ -1542,7 +1540,7 @@
 - [godog](https://github.com/cucumber/godog) - Cucumber for golang
 - [aws-vault](https://github.com/99designs/aws-vault) - A vault for securely storing and accessing AWS credentials in development environments
 - [go-gitlab](https://github.com/xanzy/go-gitlab) - A GitLab API client enabling Go programs to interact with GitLab in a simple and uniform way
-- [micro](https://github.com/micro/micro) - Micro is a platform for cloud native app development
+- [micro](https://github.com/micro/micro) - Micro is a platform for cloud native application development
 - [go-github](https://github.com/google/go-github) - Go library for accessing the GitHub API
 - [nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
 - [migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
@@ -3444,7 +3442,7 @@
 - [vue-routisan](https://github.com/mikerockett/vue-routisan) - Elegant, fluent route definitions for Vue Router, inspired by Laravel. See https://github.com/mikerockett/vue-routisan/tree/develop for the alpha release.
 - [vue-session](https://github.com/victorsferreira/vue-session) - A simplistic session plugin for VueJS backed by SessionStorage and LocalStorage
 - [vue-cordova-demo](https://github.com/kartsims/vue-cordova-demo) - Demo for vue-cordova NPM package
-- [terriajs](https://github.com/TerriaJS/terriajs) - A library for building rich, web-based geospatial data explorers.
+- [terriajs](https://github.com/TerriaJS/terriajs) - A library for building rich, web-based geospatial data platforms.
 - [tangram](https://github.com/tangrams/tangram) - WebGL map rendering engine for creative cartography
 - [vue-fineuploader](https://github.com/Elhebert/vue-fineuploader) - Easily integrate Fine Uploader into a VueJS 2 app. Drop-in high-level components for a turn-key UI. Use small focused components to build a more custom UI.
 - [sockette](https://github.com/lukeed/sockette) - The cutest little WebSocket wrapper! 🧦
@@ -3698,6 +3696,7 @@
 - [desktop](https://github.com/gitterHQ/desktop) - Project moved to https://gitlab.com/gitlab-org/gitter/desktop/
 - [uiv](https://github.com/uiv-lib/uiv) - Bootstrap 3 components implemented by Vue 2.
 - [udemy-docker-mastery](https://github.com/BretFisher/udemy-docker-mastery) - Udemy Course to build, compose, deploy, and manage containers from local development to high-availability in the cloud
+- [AWSPics](https://github.com/jpsim/AWSPics) - An AWS CloudFormation stack to run a serverless password-protected photo gallery
 - [webpack-common-shake](https://github.com/indutny/webpack-common-shake) - CommonJS Tree Shaker plugin for WebPack
 - [autodll-webpack-plugin](https://github.com/asfktz/autodll-webpack-plugin) - Webpack's DllPlugin without the boilerplate
 - [login-with](https://github.com/lipp/login-with) - Stateless login-with microservice for OAuth
@@ -7420,7 +7419,7 @@
 - [tf-explain](https://github.com/sicara/tf-explain) - Interpretability Methods for tf.keras models with Tensorflow 2.x
 - [ERNIE](https://github.com/PaddlePaddle/ERNIE) - An Implementation of ERNIE For Language Understanding (including Pre-training models and Fine-tuning tools)
 - [UGATIT](https://github.com/taki0112/UGATIT) - Official Tensorflow implementation of U-GAT-IT: Unsupervised Generative Attentional Networks with Adaptive Layer-Instance Normalization for Image-to-Image Translation (ICLR 2020)
-- [alpha-zero-general](https://github.com/suragnair/alpha-zero-general) - A clean implementation based on AlphaZero for any game in any framework + tutorial + Othello/Gobang/TicTacToe/Connect4
+- [alpha-zero-general](https://github.com/suragnair/alpha-zero-general) - A clean implementation based on AlphaZero for any game in any framework + tutorial + Othello/Gobang/TicTacToe/Connect4 and more
 - [SlimYOLOv3](https://github.com/PengyiZhang/SlimYOLOv3) - This page is for the SlimYOLOv3: Narrower, Faster and Better for UAV Real-Time Applications
 - [httpx](https://github.com/encode/httpx) - A next generation HTTP client for Python. 🦋
 - [nodeenv](https://github.com/ekalinin/nodeenv) - Virtual environment for Node.js & integrator with virtualenv
@@ -8867,7 +8866,7 @@
 - [cloudflare-partner-cli](https://github.com/fffonion/cloudflare-partner-cli) - Set CNAME to use Cloudflare using the partner program
 - [cachelper](https://github.com/suzaku/cachelper) - 
 - [DeepRecommender](https://github.com/NVIDIA/DeepRecommender) - Deep learning for recommender systems
-- [janus-python](https://github.com/dmulholl/janus-python) - An argument parsing library for Python.
+- [argslib](https://github.com/dmulholl/argslib) - An argument-parsing library for Python.
 - [PyBV](https://github.com/iamtrask/PyBV) - DEPRECATED- see https://github.com/OpenMined/OpenMined or https://github.com/OpenMined/PySyft
 - [ice](https://github.com/susam/ice) - Ice - WSGI on the rocks
 - [mongobar](https://github.com/chrisantonellis/mongobar) - mongobar 🍫  MongoDB Backup and Restore manager
@@ -9757,7 +9756,7 @@
 - [ck-tensorflow](https://github.com/ctuning/ck-tensorflow) - Collective Knowledge components for TensorFlow (code, data sets, models, packages, workflows):
 - [python-web-pdb](https://github.com/romanvm/python-web-pdb) - Web-based remote UI for Python's PDB debugger
 - [ck-autotuning](https://github.com/ctuning/ck-autotuning) - CK automation actions to let users implement portable, customizable and reusable program workflows for reproducible, collaborative and multi-objective benchmarking, optimization and SW/HW co-design:
-- [ck](https://github.com/ctuning/ck) - Collective Knowledge framework (CK) helps to organize any software project as a database of reusable components with common automation actions and extensible meta descriptions based on FAIR principles (findability, accessibility, interoperability, and reusability). See real-world use cases from Arm, General Motors, IBM, RPi, ACM, and MLPerf:
+- [ck](https://github.com/ctuning/ck) - Collective Knowledge framework (CK) helps to organize any software project as a database of reusable components with common automation actions and extensible meta descriptions based on FAIR principles (findability, accessibility, interoperability, and reusability). See real-world use cases from MLPerf, Arm, General Motors, IBM, RPi and ACM:
 - [deconvfaces](https://github.com/somewacko/deconvfaces) - Generating faces with deconvolution networks
 - [whereami](https://github.com/kootenpv/whereami) - Uses WiFi signals :signal_strength: and machine learning to predict where you are
 - [dataset](https://github.com/openimages/dataset) - The Open Images dataset
@@ -12746,7 +12745,7 @@
 - [modern_portfolio](https://github.com/bradtraversy/modern_portfolio) - Responsive portfolio website
 - [twofactorauth](https://github.com/2factorauth/twofactorauth) - List of sites with two factor auth support which includes SMS, email, phone calls, hardware, and software.
 - [three-dots](https://github.com/nzbin/three-dots) - 🔮 CSS loading animations made by single element.
-- [Cirrus](https://github.com/Spiderpig86/Cirrus) - :cloud: The SCSS framework for the modern web.
+- [Cirrus](https://github.com/Spiderpig86/Cirrus) - :cloud: The CSS framework for the modern web.
 - [pasztor.at](https://github.com/janoszen/pasztor.at) - 
 - [hacker101](https://github.com/Hacker0x01/hacker101) - Source code for Hacker101.com - a free online web and mobile security class.
 - [startbootstrap-coming-soon](https://github.com/StartBootstrap/startbootstrap-coming-soon) - A coming soon theme with a video background for Bootstrap 4
@@ -12760,6 +12759,7 @@
 - [devportfolio](https://github.com/RyanFitzgerald/devportfolio) - A lightweight, customizable single-page personal portfolio website template built with JavaScript and Sass
 - [card](https://github.com/jessepollak/card) - :credit_card: make your credit card form better in one line of code
 - [grav-plugin-admin](https://github.com/getgrav/grav-plugin-admin) - Grav Admin Plugin
+- [calcite-web](https://github.com/Esri/calcite-web) - Authoritative front-end development resources for Calcite design initiative. Includes extendable base components and styles, as well as a modular and efficient framework for ArcGIS properties.
 - [uswds](https://github.com/uswds/uswds) - The U.S. Web Design System helps the federal government build fast, accessible, mobile-friendly websites.
 - [flight-manual.atom.io](https://github.com/atom/flight-manual.atom.io) - 📖 Documentation for Atom, generated by nanoc, hosted by GitHub Pages
 - [minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
