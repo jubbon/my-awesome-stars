@@ -1070,7 +1070,6 @@
 - [Terminus2049.github.io](https://github.com/Terminus2049/Terminus2049.github.io) - No more 404
 - [git-cheats](https://github.com/excalith/git-cheats) - Git Cheats - Interactive Cheatsheet For Git Commands
 - [KtAcademyPortal](https://github.com/MarcinMoskala/KtAcademyPortal) - Multiplatform Kotlin application of KotlinAcademy
-- [mustard-ui](https://github.com/kylelogue/mustard-ui) - A starter CSS framework that actually looks good.
 - [Metro-UI-CSS](https://github.com/olton/Metro-UI-CSS) - Build impressive responsive, mobile-first projects on the web with the first front-end component library in Metro Style and not only.
 - [javascript-in-14-minutes](https://github.com/jgthms/javascript-in-14-minutes) - Learn the basics of JavaScript in 14 minutes
 - [security](https://github.com/xapax/security) - Stuff about it-security that might be good to know
@@ -3783,6 +3782,7 @@
 - [vue-blog](https://github.com/BUPT-HJM/vue-blog) - A single-user blog built with vue2, koa2 and mongodb which supports Server-Side Rendering
 - [awaiting](https://github.com/hunterloftis/awaiting) - The async/await utility for browsers and Node.js.
 - [Boostnote](https://github.com/BoostIO/Boostnote) - A markdown editor for developers on Mac, Windows and Linux.
+- [SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
 - [tamperchrome](https://github.com/google/tamperchrome) - Tamper Chrome is a Chrome extension that allows you to modify HTTP requests on the fly and aid on web security testing. Tamper Chrome works across all operating systems (including Chrome OS).
 - [realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
 - [passport-vkontakte](https://github.com/stevebest/passport-vkontakte) - VK.com authentication strategy for Passport and Node.js
@@ -4491,6 +4491,7 @@
 - [The-Python-Workshop](https://github.com/PacktWorkshops/The-Python-Workshop) - A New, Interactive Approach to Learning Python
 - [Reactors](https://github.com/microsoft/Reactors) - Content for Microsoft Reactor Workshops
 - [stepik-dl-nlp](https://github.com/Samsung-IT-Academy/stepik-dl-nlp) - Материалы мини-курса на Stepik "Нейронные сети и обработка текста"
+- [asteroid](https://github.com/mpariente/asteroid) - The PyTorch-based audio source separation toolkit for researchers
 - [weekly-sessions](https://github.com/analytics-club-iitm/weekly-sessions) - 
 - [deepPavlovEval](https://github.com/deepmipt/deepPavlovEval) - Sentence embeddings evaluation for russian tasks
 - [dp_notebooks](https://github.com/deepmipt/dp_notebooks) - 
@@ -6346,7 +6347,6 @@
 - [Sublime-Text-Plugins-for-Frontend-Web-Development](https://github.com/jfilter/Sublime-Text-Plugins-for-Frontend-Web-Development) - 📝 Collection of plugins for Frontend Web Development
 - [free-tech-ebooks-from-packtpub](https://github.com/tahmid-choyon/free-tech-ebooks-from-packtpub) - A collection of free ebooks from Packt Publishing [Regularly Updated]
 - [2017](https://github.com/wwdc/2017) - Student Submissions for the WWDC 2017 Scholarship
-- [SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
 - [ansible-openvpn](https://github.com/debops-contrib/ansible-openvpn) - Configure and manage OpenVPN.
 - [ansible-openvpn](https://github.com/kbrebanov/ansible-openvpn) - Ansible OpenVPN role
 - [awesome-now](https://github.com/hemanth/awesome-now) - Awesome list of `now.sh` deployments.
@@ -7028,7 +7028,6 @@
 - [CurveFit](https://github.com/ihmeuw-msca/CurveFit) - Generic curve fitting package with nonlinear mixed effects model
 - [aristo-mini](https://github.com/allenai/aristo-mini) - Aristo mini is a light-weight question answering system that can quickly evaluate Aristo science questions with an evaluation web server and the provided baseline solvers.
 - [gym-gridworld](https://github.com/xinleipan/gym-gridworld) - Simple grid-world environment compatible with OpenAI-gym
-- [asteroid](https://github.com/mpariente/asteroid) - The PyTorch-based audio source separation toolkit for researchers
 - [deap](https://github.com/DEAP/deap) - Distributed Evolutionary Algorithms in Python
 - [ESRGAN](https://github.com/xinntao/ESRGAN) - ECCV18 Workshops - Enhanced SRGAN. Champion PIRM Challenge on Perceptual Super-Resolution. The training codes are in BasicSR.
 - [minimal-hand](https://github.com/CalciferZh/minimal-hand) - A minimal solution to hand motion capture from a single color camera at over 100fps. Easy to use, plug to run.
@@ -7271,7 +7270,7 @@
 - [BERT-NER](https://github.com/kamalkraj/BERT-NER) - Pytorch-Named-Entity-Recognition-with-BERT
 - [Pytorch-UNet](https://github.com/milesial/Pytorch-UNet) - PyTorch implementation of the U-Net for image semantic segmentation with high quality images
 - [tacotron](https://github.com/keithito/tacotron) - A TensorFlow implementation of Google's Tacotron speech synthesis with pre-trained model (unofficial)
-- [cleanlab](https://github.com/cgnorthcutt/cleanlab) - Find label errors in datasets, weak supervision, and learning with noisy labels.
+- [cleanlab](https://github.com/cgnorthcutt/cleanlab) - The standard package for machine learning with noisy labels and finding mislabeled data in Python.
 - [jwt_tool](https://github.com/ticarpi/jwt_tool) - :snake: A toolkit for testing, tweaking and cracking JSON Web Tokens
 - [HackingNeuralNetworks](https://github.com/Kayzaks/HackingNeuralNetworks) - A small course on exploiting and defending neural networks
 - [3d-ken-burns](https://github.com/sniklaus/3d-ken-burns) - an implementation of 3D Ken Burns Effect from a Single Image using PyTorch
@@ -7925,7 +7924,7 @@
 - [hyperparameter_hunter](https://github.com/HunterMcGushion/hyperparameter_hunter) - Easy hyperparameter optimization and automatic result saving across machine learning algorithms and libraries
 - [meshroom](https://github.com/alicevision/meshroom) - 3D Reconstruction Software
 - [tortoise-orm](https://github.com/tortoise/tortoise-orm) - Familiar asyncio ORM for python, built with relations in mind
-- [texar](https://github.com/asyml/texar) - Toolkit for Machine Learning, Natural Language Processing, and Text Generation, in TensorFlow
+- [texar](https://github.com/asyml/texar) - Toolkit for Machine Learning, Natural Language Processing, and Text Generation, in TensorFlow.  This is part of the CASL project: http://casl-project.ai/
 - [trio-asyncio](https://github.com/python-trio/trio-asyncio) - a re-implementation of the asyncio mainloop on top of Trio
 - [terrapyn](https://github.com/kennethreitz-archive/terrapyn) - A Python module for slinging infrastructure (with terraform).
 - [datasets](https://github.com/tensorflow/datasets) - TFDS is a collection of datasets ready to use with TensorFlow, Jax, ...
@@ -8752,7 +8751,7 @@
 - [Distributed-TensorFlow-Guide](https://github.com/tmulc18/Distributed-TensorFlow-Guide) - Distributed TensorFlow basics and examples of training algorithms
 - [mlsh](https://github.com/openai/mlsh) - Code for the paper "Meta-Learning Shared Hierarchies"
 - [arxiv-vanity](https://github.com/arxiv-vanity/arxiv-vanity) - Renders papers from arXiv as responsive web pages so you don't have to squint at a PDF.
-- [coach](https://github.com/NervanaSystems/coach) - Reinforcement Learning Coach by Intel AI Lab enables easy experimentation with state of the art Reinforcement Learning algorithms
+- [coach](https://github.com/IntelLabs/coach) - Reinforcement Learning Coach by Intel AI Lab enables easy experimentation with state of the art Reinforcement Learning algorithms
 - [mx-maskrcnn](https://github.com/TuSimple/mx-maskrcnn) - An MXNet implementation of Mask R-CNN
 - [uncaptcha](https://github.com/ecthros/uncaptcha) - Defeating Google's audio reCaptcha with 85% accuracy.
 - [gino](https://github.com/python-gino/gino) - GINO Is Not ORM - a Python asyncio ORM on SQLAlchemy core.
@@ -10939,7 +10938,7 @@
 - [procedural_city_generation](https://github.com/josauder/procedural_city_generation) - Procedural City Generation program implemented in Python and Visualized with Blender.
 - [dnsteal](https://github.com/m57/dnsteal) - DNS Exfiltration tool for stealthily sending files over DNS requests.
 - [rc-data](https://github.com/deepmind/rc-data) - Question answering dataset featured in "Teaching Machines to Read and Comprehend
-- [receipt-parser](https://github.com/mre/receipt-parser) - A supermarket receipt parser written in Python using tesseract OCR
+- [Parser](https://github.com/ReceiptManager/Parser) - A supermarket receipt parser written in Python using tesseract OCR
 - [invatar](https://github.com/Bekt/invatar) - Invatar is a free service for generating fully customizable avatars with initials.
 - [jupyter-themer](https://github.com/transcranial/jupyter-themer) - Apply custom CSS styling to your jupyter notebooks
 - [safe-commit-hook](https://github.com/jandre/safe-commit-hook) - pre-commit hook for Git that checks for suspicious files.
@@ -12746,6 +12745,7 @@
 - [twofactorauth](https://github.com/2factorauth/twofactorauth) - List of sites with two factor auth support which includes SMS, email, phone calls, hardware, and software.
 - [three-dots](https://github.com/nzbin/three-dots) - 🔮 CSS loading animations made by single element.
 - [Cirrus](https://github.com/Spiderpig86/Cirrus) - :cloud: The CSS framework for the modern web.
+- [mustard-ui](https://github.com/kylelogue/mustard-ui) - A starter CSS framework that actually looks good.
 - [pasztor.at](https://github.com/janoszen/pasztor.at) - 
 - [hacker101](https://github.com/Hacker0x01/hacker101) - Source code for Hacker101.com - a free online web and mobile security class.
 - [startbootstrap-coming-soon](https://github.com/StartBootstrap/startbootstrap-coming-soon) - A coming soon theme with a video background for Bootstrap 4
@@ -13041,7 +13041,7 @@
 - [lit](https://github.com/PAIR-code/lit) - The Language Interpretability Tool: Interactively analyze NLP models for model understanding in an extensible and framework agnostic interface.
 - [vscode-realtime-debugging](https://github.com/hediet/vscode-realtime-debugging) - An extension for VS Code that visualizes how a program is being executed in real time.
 - [n8n](https://github.com/n8n-io/n8n) - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
-- [vscode-drawio](https://github.com/hediet/vscode-drawio) - This unofficial extension integrates Draw.io into VS Code.
+- [vscode-drawio](https://github.com/hediet/vscode-drawio) - This unofficial extension integrates Draw.io (also known as diagrams.net) into VS Code.
 - [dashboard](https://github.com/lab-ml/dashboard) - Experiments dashboard for LabML
 - [vscode-crossnote](https://github.com/0xGG/vscode-crossnote) - (WIP) Turn your VSCode into a decent markdown note taking platform
 - [refined-github](https://github.com/sindresorhus/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
@@ -13370,7 +13370,7 @@
 - [DynamoDb-GUI-Client](https://github.com/Arattian/DynamoDb-GUI-Client) - DynamoDb GUI Client
 - [example-auth0](https://github.com/nuxt/example-auth0) - A simple example that shows how to use Nuxt.js with Auth0.
 - [Vuemmerce](https://github.com/ivanlori/Vuemmerce) - 👉 Responsive ecommerce template 🛒 built with Vue.js and Nuxt.js
-- [sing-app-vue-dashboard](https://github.com/flatlogic/sing-app-vue-dashboard) - Vue.js admin dashboard template built with Bootstrap 4
+- [sing-app-vue-dashboard](https://github.com/flatlogic/sing-app-vue-dashboard) - Vue.js admin dashboard template built with Bootstrap 4.5
 - [light-blue-vue-admin](https://github.com/flatlogic/light-blue-vue-admin) - 🤘Vue admin dashboard template with stylish transparent design
 - [vuetify-admin-dashboard](https://github.com/ClintOxx/vuetify-admin-dashboard) - A Crud Admin panel made from Vue js and Vuetify
 - [pydanny.com](https://github.com/pydanny/pydanny.com) - 
