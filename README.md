@@ -1206,7 +1206,7 @@
 - [hack](https://github.com/egoist/hack) - ⛷ Dead simple CSS framework.
 - [angled-edges](https://github.com/josephfusco/angled-edges) - :triangular_ruler: Quickly create angled section edges using only Sass
 - [themes](https://github.com/Openworx/themes) - 
-- [pace](https://github.com/EatBreatheCode/pace) - Automatically add a progress bar to your site. #hubspot-open-source
+- [pace](https://github.com/CodeByZach/pace) - Automatically add a progress bar to your site. #hubspot-open-source
 - [hubpress.io](https://github.com/HubPress/hubpress.io) - A web application to build your blog on GitHub
 - [material-kit](https://github.com/creativetimofficial/material-kit) - Free and Open Source UI Kit for Bootstrap 4, React, Vue.js, React Native and Sketch based on Google's Material Design
 - [yeoman.io](https://github.com/yeoman/yeoman.io) - Yeoman website
@@ -2922,7 +2922,6 @@
 - [vk-mini-app-boilerplate](https://github.com/iSa1vatore/vk-mini-app-boilerplate) - Стартовый кит для создания сервиса на платформе VK Mini Apps с использованием React + Redux
 - [geojson.io](https://github.com/mapbox/geojson.io) - IMPORTANT: development of this project has been paused, see the README (fast, simple map creation)
 - [coexisting-vue-microfrontends](https://github.com/joeldenning/coexisting-vue-microfrontends) - A repo showing separate vue apps coexisting as microfrontends with single-spa
-- [microsoft-authentication-library-for-js](https://github.com/AzureAD/microsoft-authentication-library-for-js) - Microsoft Authentication Library (MSAL) for JS
 - [crypto-js](https://github.com/brix/crypto-js) - JavaScript library of crypto standards.
 - [jsonbox](https://github.com/vasanthv/jsonbox) - A Free HTTP based JSON storage. Now with protected boxes.
 - [notebook](https://github.com/jupyter/notebook) - Jupyter Interactive Notebook
@@ -6196,7 +6195,6 @@
 - [proposals](https://github.com/tc39/proposals) - Tracking ECMAScript Proposals
 - [You-Dont-Know-JS](https://github.com/devSchacht/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
 - [ansible-vagrant-examples](https://github.com/geerlingguy/ansible-vagrant-examples) - Ansible examples using Vagrant to deploy to local VMs.
-- [mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook) - Mac setup and configuration via Ansible.
 - [awesome-developer-streams](https://github.com/bnb/awesome-developer-streams) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻 Awesome Developers, Streaming
 - [infrastructure-as-code-tutorial](https://github.com/Artemmkin/infrastructure-as-code-tutorial) - Infrastructure As Code Tutorial. Covers Packer, Terraform, Ansible, Vagrant, Docker, Docker Compose, Kubernetes
 - [awesome-computer-science-opportunities](https://github.com/anu0012/awesome-computer-science-opportunities) - An awesome list of events and fellowship opportunities for Computer Science students
@@ -8576,7 +8574,7 @@
 - [tracing](https://github.com/hchasestevens/tracing) - Utilities for tracing program execution line-by-line
 - [mbed-cli](https://github.com/ARMmbed/mbed-cli) - Arm Mbed Command Line Interface
 - [sqs-s3-logger](https://github.com/ellimilial/sqs-s3-logger) - Automated serverless logging to S3 via SQS.
-- [featuretools](https://github.com/FeatureLabs/featuretools) - An open source python library for automated feature engineering
+- [featuretools](https://github.com/alteryx/featuretools) - An open source python library for automated feature engineering
 - [py-flags](https://github.com/pasztorpisti/py-flags) - Type-safe (bit)flags for python 3
 - [jsonobject](https://github.com/dimagi/jsonobject) - A simple json-object mapping for Python
 - [pypette](https://github.com/csurfer/pypette) - Ridiculously simple flow controller for building complex pipelines
@@ -12857,6 +12855,7 @@
 - [ansible-best-practises](https://github.com/enginyoyen/ansible-best-practises) - A project structure that outlines some best practises of how to use ansible
 - [ansible-interactive-tutorial](https://github.com/turkenh/ansible-interactive-tutorial) - Interactive Ansible tutorials with dead simple setup via Docker
 - [ansible-tuto](https://github.com/leucos/ansible-tuto) - Ansible tutorial
+- [mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook) - Mac setup and configuration via Ansible.
 - [osm-tiles-docker](https://github.com/zavpyj/osm-tiles-docker) - The OpenStreetMap Tile Server in a Docker container
 - [osm-tiles-docker](https://github.com/erikj/osm-tiles-docker) - The OpenStreetMap Tile Server in a Docker container
 - [osm-tiles-docker](https://github.com/ncareol/osm-tiles-docker) - The OpenStreetMap Tile Server in a Docker container
@@ -13060,6 +13059,7 @@
 - [cvat](https://github.com/openvinotoolkit/cvat) - Powerful and efficient Computer Vision Annotation Tool (CVAT)
 - [tfjs-models](https://github.com/tensorflow/tfjs-models) - Pretrained models for TensorFlow.js
 - [vue-next](https://github.com/vuejs/vue-next) - Repo for Vue 3
+- [microsoft-authentication-library-for-js](https://github.com/AzureAD/microsoft-authentication-library-for-js) - Microsoft Authentication Library (MSAL) for JS
 - [typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
 - [apollo-server](https://github.com/apollographql/apollo-server) - 🌍 GraphQL server for Express, Connect, Hapi, Koa and more
 - [typescript-action](https://github.com/actions/typescript-action) - Create a TypeScript Action with tests, linting, workflow, publishing, and versioning
@@ -13395,7 +13395,7 @@
 - [vue](https://github.com/geist-org/vue) - Vue implementation of Geist
 - [openmicroservices.org](https://github.com/microservices/openmicroservices.org) - NOT MAINTAINED https://medium.com/@iopeak/open-microservices-specification-1abd8262ad0e
 - [javascript-cheatsheet](https://github.com/wilfredinni/javascript-cheatsheet) - Basic Javascript Cheat Sheet
-- [aws-serverless-airline-booking](https://github.com/aws-samples/aws-serverless-airline-booking) - Airline Booking is a complete web application that provides Flight Search, Flight Payment, Flight Booking and Loyalty points including end-to-end testing, GraphQL and CI/CD. This web application is the theme of Build on Serverless Season 2 on AWS Twitch running from April 24th until end of July.
+- [aws-serverless-airline-booking](https://github.com/aws-samples/aws-serverless-airline-booking) - Airline Booking is a sample web application that provides Flight Search, Flight Payment, Flight Booking and Loyalty points including end-to-end testing, GraphQL and CI/CD. This web application was the theme of Build on Serverless Season 2 on AWS Twitch running from April 24th until end of August in 2019.
 - [candy](https://github.com/Simonwep/candy) - 🍭 Cross-platform YouTube-downloader with playlist and channel support as well as build-in audio / video converter.
 - [vue-tailwind-examples](https://github.com/adamwathan/vue-tailwind-examples) - 
 - [pdfvuer](https://github.com/arkokoley/pdfvuer) - A PDF viewer for Vue using Mozilla's PDF.js
