@@ -462,7 +462,7 @@
 - [Reinforcement-Learning-Based-Decision-Tree](https://github.com/chriswblake/Reinforcement-Learning-Based-Decision-Tree) - Generation and evaluation of a decision tree using reinforcement learning.
 - [NLP_Datasets](https://github.com/Koziev/NLP_Datasets) - My NLP datasets for Russian language
 - [qsharp-compiler](https://github.com/microsoft/qsharp-compiler) - Q# compiler, command line tool, and Q# language server
-- [FASTER](https://github.com/microsoft/FASTER) - Fast persistent recoverable log and key-value store + cache, in C# and C++, from Microsoft Research.
+- [FASTER](https://github.com/microsoft/FASTER) - Fast persistent recoverable log and key-value store + cache, in C# and C++.
 - [ailab](https://github.com/microsoft/ailab) - Experience, Learn and Code the latest breakthrough innovations with Microsoft AI
 - [DRL_based_SelfDrivingCarControl](https://github.com/MLJejuCamp2017/DRL_based_SelfDrivingCarControl) - Deep Reinforcement Learning (DQN) based Self Driving Car Control with Vehicle Simulator
 - [blockchain](https://github.com/dvf/blockchain) - A simple Blockchain in Python
@@ -4490,7 +4490,6 @@
 - [The-Python-Workshop](https://github.com/PacktWorkshops/The-Python-Workshop) - A New, Interactive Approach to Learning Python
 - [Reactors](https://github.com/microsoft/Reactors) - Content for Microsoft Reactor Workshops
 - [stepik-dl-nlp](https://github.com/Samsung-IT-Academy/stepik-dl-nlp) - Материалы мини-курса на Stepik "Нейронные сети и обработка текста"
-- [asteroid](https://github.com/mpariente/asteroid) - The PyTorch-based audio source separation toolkit for researchers
 - [weekly-sessions](https://github.com/analytics-club-iitm/weekly-sessions) - 
 - [deepPavlovEval](https://github.com/deepmipt/deepPavlovEval) - Sentence embeddings evaluation for russian tasks
 - [dp_notebooks](https://github.com/deepmipt/dp_notebooks) - 
@@ -6924,7 +6923,7 @@
 - [CenterTrack](https://github.com/xingyizhou/CenterTrack) - Simultaneous object detection and tracking using center points.
 - [nerf-pytorch](https://github.com/yenchenlin/nerf-pytorch) - A PyTorch implementation of NeRF (Neural Radiance Fields) that reproduces the results.
 - [DeepMatch](https://github.com/shenweichen/DeepMatch) - A deep matching model library for recommendations & advertising. It's easy to train models and to export representation vectors which can be used for ANN search.
-- [ganspace](https://github.com/harskish/ganspace) - Discovering Interpretable GAN Controls
+- [ganspace](https://github.com/harskish/ganspace) - Discovering Interpretable GAN Controls [NeurIPS 2020]
 - [Yet-Another-EfficientDet-Pytorch](https://github.com/zylo117/Yet-Another-EfficientDet-Pytorch) - The pytorch re-implement of the official efficientdet with SOTA performance in real time and pretrained weights.
 - [omegaconf](https://github.com/omry/omegaconf) - Flexible Python configuration system. The last one you will ever need.
 - [fastNLP](https://github.com/fastnlp/fastNLP) - fastNLP: A Modularized and Extensible NLP Framework. Currently still in incubation.
@@ -7026,6 +7025,7 @@
 - [CurveFit](https://github.com/ihmeuw-msca/CurveFit) - Generic curve fitting package with nonlinear mixed effects model
 - [aristo-mini](https://github.com/allenai/aristo-mini) - Aristo mini is a light-weight question answering system that can quickly evaluate Aristo science questions with an evaluation web server and the provided baseline solvers.
 - [gym-gridworld](https://github.com/xinleipan/gym-gridworld) - Simple grid-world environment compatible with OpenAI-gym
+- [asteroid](https://github.com/mpariente/asteroid) - The PyTorch-based audio source separation toolkit for researchers
 - [deap](https://github.com/DEAP/deap) - Distributed Evolutionary Algorithms in Python
 - [ESRGAN](https://github.com/xinntao/ESRGAN) - ECCV18 Workshops - Enhanced SRGAN. Champion PIRM Challenge on Perceptual Super-Resolution. The training codes are in BasicSR.
 - [minimal-hand](https://github.com/CalciferZh/minimal-hand) - A minimal solution to hand motion capture from a single color camera at over 100fps. Easy to use, plug to run.
@@ -12726,7 +12726,7 @@
 - [sit](https://github.com/sit-fyi/sit) - Serverless (offline-first, merge-friendly) Information Tracker
 - [parity-ethereum](https://github.com/openethereum/parity-ethereum) - The fast, light, and robust client for Ethereum-like networks.
 - [pyo3](https://github.com/PyO3/pyo3) - Rust bindings for the Python interpreter
-- [static-analysis](https://github.com/analysis-tools-dev/static-analysis) - A curated list of static analysis tools for all programming languages, config files, build tools, and more.
+- [static-analysis](https://github.com/analysis-tools-dev/static-analysis) - A curated list of static analysis (SAST) tools for all programming languages, config files, build tools, and more.
 - [exonum](https://github.com/exonum/exonum) - An extensible open-source framework for creating private/permissioned blockchain applications
 - [rediSQL](https://github.com/RedBeardLab/rediSQL) - Redis module that provides a completely functional SQL database
 - [servo](https://github.com/servo/servo) - The Servo Browser Engine
