@@ -2993,6 +2993,7 @@
 - [mockit](https://github.com/boyney123/mockit) - A tool to quickly mock out end points, setup delays and more...
 - [baseweb](https://github.com/uber/baseweb) - A React Component library implementing the Base design language
 - [bento-starter](https://github.com/kefranabg/bento-starter) - :bento: Full-Stack solution to quickly build PWA applications with Vue.js and Firebase
+- [octotree](https://github.com/ovity/octotree) - GitHub on steroids
 - [ikonate](https://github.com/mikolajdobrucki/ikonate) - Fully customisable & accessible vector icons
 - [dsa.js-data-structures-algorithms-javascript](https://github.com/amejiarosario/dsa.js-data-structures-algorithms-javascript) - 🥞Data Structures and Algorithms explained and implemented in JavaScript + eBook
 - [glicky](https://github.com/alex-saunders/glicky) - 🐭 An In-browser User Interface For JavaScript Development Workflows
@@ -5967,7 +5968,6 @@
 - [pytorch-styleguide](https://github.com/IgorSusmelj/pytorch-styleguide) - An unofficial styleguide and best practices summary for PyTorch
 - [resilience-engineering](https://github.com/lorin/resilience-engineering) - Resilience engineering papers
 - [AzureTipsAndTricks](https://github.com/microsoft/AzureTipsAndTricks) - Learn some of our favorite Azure tips and tricks—some long-standing, and new ones that have recently been added to become more productive with Azure. Star the repo now to shave hours off your coding tasks tomorrow.
-- [octotree](https://github.com/ovity/octotree) - GitHub on steroids
 - [app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
 - [commit-messages-guide](https://github.com/RomuloOliveira/commit-messages-guide) - A guide to understand the importance of commit messages and how to write them well
 - [Awesome-Mobile-Machine-Learning](https://github.com/fritzlabs/Awesome-Mobile-Machine-Learning) - A curated list of awesome mobile machine learning resources for iOS, Android, and edge devices.
@@ -6887,7 +6887,7 @@
 - [spacy-course](https://github.com/tiangolo/spacy-course) - 👩‍🏫 Advanced NLP with spaCy: A free online course
 - [polyglot](https://github.com/aboSamoor/polyglot) - Multilingual text (NLP) processing toolkit
 - [open-semantic-entity-search-api](https://github.com/opensemanticsearch/open-semantic-entity-search-api) - Open Source REST API for named entity extraction, named entity linking, named entity disambiguation, recommendation & reconciliation of entities like persons, organizations and places for (semi)automatic semantic tagging & analysis of documents by linked data knowledge graph like SKOS thesaurus, RDF ontology, database(s) or list(s) of names
-- [creme](https://github.com/creme-ml/creme) - 🍨 Online machine learning in Python
+- [river](https://github.com/online-ml/river) - 🌊 Online machine learning in Python
 - [dostoevsky](https://github.com/bureaucratic-labs/dostoevsky) - Sentiment analysis library for russian language
 - [models](https://github.com/bureaucratic-labs/models) - Pre-trained models for tokenization, sentence segmentation and so on
 - [train_punkt](https://github.com/mhq/train_punkt) - Train NLTK punkt tokenizers
@@ -7775,7 +7775,7 @@
 - [lambda-runtime-pypy3.5](https://github.com/iopipe/lambda-runtime-pypy3.5) - AWS Lambda Runtime for PyPy 3.5
 - [Mumbai-slum-segmentation](https://github.com/cbsudux/Mumbai-slum-segmentation) - Mumbai slum segmentation and change detection on statellite images.
 - [gandissect](https://github.com/CSAILVision/gandissect) - Pytorch-based tools for visualizing and understanding the neurons of a GAN.  https://gandissect.csail.mit.edu/
-- [d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with code, math, and discussions. Available in multi-frameworks.
+- [d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with code, math, and discussions. Available in multi-frameworks. Adopted at 140 universities from 35 countries.
 - [satpy](https://github.com/pytroll/satpy) - Python package for earth-observing satellite data processing
 - [celluloid](https://github.com/jwkvam/celluloid) - :movie_camera: Matplotlib animations made easy
 - [redis-namespace](https://github.com/guokr/redis-namespace) - namespaced subset of your redis keyspace
@@ -9885,7 +9885,7 @@
 - [Odoo_Samples](https://github.com/Yenthe666/Odoo_Samples) - This repository contains samples with Odoo code
 - [odoo-russia](https://github.com/odoo-russia/odoo-russia) - Главный репозиторий с официальными модулями русскоязычного сообщества Odoo
 - [udatetime](https://github.com/freach/udatetime) - Fast RFC3339 compliant Python date-time library
-- [flare-fakenet-ng](https://github.com/fireeye/flare-fakenet-ng) - FakeNet-NG - Next Generation Dynamic Network Analysis Tool
+- [flare-fakenet-ng](https://github.com/fireeye/flare-fakenet-ng) - [Suspended] FakeNet-NG - Next Generation Dynamic Network Analysis Tool
 - [deep-learning-models](https://github.com/fchollet/deep-learning-models) - Keras code and weights files for popular deep learning models.
 - [himawaripy](https://github.com/boramalper/himawaripy) - Set near-realtime picture of Earth as your desktop background
 - [keras-rl](https://github.com/keras-rl/keras-rl) - Deep Reinforcement Learning for Keras.
