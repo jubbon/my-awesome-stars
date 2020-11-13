@@ -3701,7 +3701,6 @@
 - [login-with](https://github.com/lipp/login-with) - Stateless login-with microservice for OAuth
 - [craftbeerpi](https://github.com/Manuel83/craftbeerpi) - Brew Controller
 - [project-guidelines](https://github.com/elsewhencode/project-guidelines) - A set of best practices for JavaScript projects
-- [incubator-echarts](https://github.com/apache/incubator-echarts) - A powerful, interactive charting and data visualization library for browser
 - [esprint](https://github.com/pinterest/esprint) - Fast eslint runner
 - [visualizing-git](https://github.com/git-school/visualizing-git) - :framed_picture: Visualize how common Git operations affect the commit graph
 - [chalk](https://github.com/chalk/chalk) - 🖍 Terminal string styling done right
@@ -6311,6 +6310,7 @@
 - [Probable-Wordlists](https://github.com/berzerk0/Probable-Wordlists) - Version 2 is live! Wordlists sorted by probability originally created for password generation and testing - make sure your passwords aren't popular!
 - [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
 - [awesome-design-systems](https://github.com/alexpate/awesome-design-systems) - 💅🏻 ⚒ A collection of awesome design systems
+- [diskover](https://github.com/shirosaidev/diskover) - File system crawler, disk space usage, file search engine and file system analytics powered by Elasticsearch
 - [javascript-tutorial](https://github.com/iliakan/javascript-tutorial) - The Modern JavaScript Tutorial
 - [100-days-of-code](https://github.com/kallaway/100-days-of-code) - Fork this template for the 100 days journal - to keep yourself accountable (multiple languages available)
 - [cheatsheets-ai](https://github.com/kailashahirwar/cheatsheets-ai) - Essential Cheat Sheets for deep learning and machine learning researchers https://medium.com/@kailashahirwar/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5
@@ -6839,7 +6839,7 @@
 - [Aslan](https://github.com/project-aslan/Aslan) - Open source self-driving software for low speed environments
 - [MolecularTransformer](https://github.com/pschwllr/MolecularTransformer) - 
 - [TopicNet](https://github.com/machine-intelligence-laboratory/TopicNet) - Interface for easier topic modelling.
-- [datasets](https://github.com/huggingface/datasets) - 🤗 Fast, efficient, open-access datasets and evaluation metrics for Natural Language Processing and more in PyTorch, TensorFlow, NumPy and Pandas
+- [datasets](https://github.com/huggingface/datasets) - 🤗 Fast, efficient, open-access datasets and evaluation metrics in PyTorch, TensorFlow, NumPy and Pandas
 - [TensorFlowTTS](https://github.com/TensorSpeech/TensorFlowTTS) - :stuck_out_tongue_closed_eyes: TensorFlowTTS: Real-Time State-of-the-art Speech Synthesis for Tensorflow 2 (supported including English, Korean, Chinese and Easy to adapt for other languages)
 - [tuya-convert](https://github.com/ct-Open-Source/tuya-convert) - A collection of scripts to flash Tuya IoT devices to alternative firmwares
 - [rich](https://github.com/willmcgugan/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
@@ -7151,7 +7151,7 @@
 - [pymarl](https://github.com/oxwhirl/pymarl) - Python Multi-Agent Reinforcement Learning framework
 - [openage](https://github.com/SFTtech/openage) - Free (as in freedom) open source clone of the Age of Empires II engine :rocket:
 - [causalml](https://github.com/uber/causalml) - Uplift modeling and causal inference with machine learning algorithms
-- [flax](https://github.com/google/flax) - Flax is a neural network library for JAX that is designed for flexibility.
+- [flax](https://github.com/google/flax) - Flax is a neural network ecosystem for JAX that is designed for flexibility.
 - [YOLOv3_TensorFlow](https://github.com/wizyoung/YOLOv3_TensorFlow) - Complete YOLO v3 TensorFlow implementation. Support training on your own dataset.
 - [great_expectations](https://github.com/great-expectations/great_expectations) - Always know what to expect from your data.
 - [pytracking](https://github.com/visionml/pytracking) - Visual tracking library based on PyTorch.
@@ -9154,7 +9154,6 @@
 - [openai_lab](https://github.com/kengz/openai_lab) - An experimentation framework for Reinforcement Learning using OpenAI Gym, Tensorflow, and Keras.
 - [TouristFriend](https://github.com/octohedron/TouristFriend) - 🌆 TouristFriend API lets you query Google Places, Yelp and Foursquare at the same time, with Bayesian rankings!
 - [taggernews](https://github.com/danrobinson/taggernews) - Hacker News plus topic tags. TechCrunch Disrupt NY Hackathon 2017
-- [diskover](https://github.com/shirosaidev/diskover) - File system crawler, disk space usage, file search engine and file system analytics powered by Elasticsearch
 - [IPpy](https://github.com/shivammathur/IPpy) - :rocket: Parallel testing of IP addresses and domains in python to find the accessible and inaccessible ones.
 - [Persimmon](https://github.com/AlvarBer/Persimmon) - A visual dataflow programming language for sklearn
 - [tinynumpy](https://github.com/wadetb/tinynumpy) - A lightweight, pure Python, numpy compliant ndarray class.
@@ -13238,6 +13237,7 @@
 - [chromeless](https://github.com/prisma-archive/chromeless) - 🖥  Chrome automation made simple. Runs locally or headless on AWS Lambda.
 - [howtographql](https://github.com/howtographql/howtographql) - The Fullstack Tutorial for GraphQL
 - [apollo-fetch](https://github.com/apollographql/apollo-fetch) - :dog: Lightweight GraphQL client that supports middleware and afterware
+- [incubator-echarts](https://github.com/apache/incubator-echarts) - A powerful, interactive charting and data visualization library for browser
 - [vue-awesome-swiper](https://github.com/surmon-china/vue-awesome-swiper) - 🏆 Swiper component for @vuejs
 - [BlockchainStore](https://github.com/brakmic/BlockchainStore) - :moneybag: Retail Store that runs on Ethereum
 - [vue-typed](https://github.com/vue-typed/vue-typed) - Sets of ECMAScript / Typescript decorators that helps you write Vue component easily.
