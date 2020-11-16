@@ -1206,7 +1206,7 @@
 - [hack](https://github.com/egoist/hack) - ⛷ Dead simple CSS framework.
 - [angled-edges](https://github.com/josephfusco/angled-edges) - :triangular_ruler: Quickly create angled section edges using only Sass
 - [themes](https://github.com/Openworx/themes) - 
-- [pace](https://github.com/CodeByZach/pace) - Automatically add a progress bar to your site. #hubspot-open-source
+- [pace](https://github.com/CodeByZach/pace) - Automatically add a progress bar to your site.
 - [hubpress.io](https://github.com/HubPress/hubpress.io) - A web application to build your blog on GitHub
 - [material-kit](https://github.com/creativetimofficial/material-kit) - Free and Open Source UI Kit for Bootstrap 4, React, Vue.js, React Native and Sketch based on Google's Material Design
 - [yeoman.io](https://github.com/yeoman/yeoman.io) - Yeoman website
@@ -4625,6 +4625,7 @@
 - [GDL_code](https://github.com/davidADSP/GDL_code) - The official code repository for examples in the O'Reilly book 'Generative Deep Learning'
 - [d2l-pytorch](https://github.com/dsgiitr/d2l-pytorch) - This project reproduces the book Dive Into Deep Learning (www.d2l.ai), adapting the code from MXNet into PyTorch.
 - [bamboolib](https://github.com/tkrabel/bamboolib) - bamboolib - a GUI for pandas DataFrames
+- [alpha-zero-general](https://github.com/suragnair/alpha-zero-general) - A clean implementation based on AlphaZero for any game in any framework + tutorial + Othello/Gobang/TicTacToe/Connect4 and more
 - [dlschl](https://github.com/deepmipt/dlschl) - 
 - [notebooks](https://github.com/deeplook/notebooks) - Misc. Jupyter notebooks for testing and exploring various things.
 - [AzureML-BERT](https://github.com/microsoft/AzureML-BERT) - End-to-End recipes for pre-training and fine-tuning BERT using Azure Machine Learning Service
@@ -7415,7 +7416,6 @@
 - [tf-explain](https://github.com/sicara/tf-explain) - Interpretability Methods for tf.keras models with Tensorflow 2.x
 - [ERNIE](https://github.com/PaddlePaddle/ERNIE) - An Implementation of ERNIE For Language Understanding (including Pre-training models and Fine-tuning tools)
 - [UGATIT](https://github.com/taki0112/UGATIT) - Official Tensorflow implementation of U-GAT-IT: Unsupervised Generative Attentional Networks with Adaptive Layer-Instance Normalization for Image-to-Image Translation (ICLR 2020)
-- [alpha-zero-general](https://github.com/suragnair/alpha-zero-general) - A clean implementation based on AlphaZero for any game in any framework + tutorial + Othello/Gobang/TicTacToe/Connect4 and more
 - [SlimYOLOv3](https://github.com/PengyiZhang/SlimYOLOv3) - This page is for the SlimYOLOv3: Narrower, Faster and Better for UAV Real-Time Applications
 - [httpx](https://github.com/encode/httpx) - A next generation HTTP client for Python. 🦋
 - [nodeenv](https://github.com/ekalinin/nodeenv) - Virtual environment for Node.js & integrator with virtualenv
@@ -9168,7 +9168,7 @@
 - [six-char-max](https://github.com/petersn/six-char-max) - 80 characters per line is waaaay too many. All Python programs should have at most six characters per line.
 - [webdnn](https://github.com/mil-tokyo/webdnn) - The Fastest DNN Running Framework on Web Browser
 - [gcForest](https://github.com/kingfengji/gcForest) - This is the official implementation for the paper 'Deep forest: Towards an alternative to deep neural networks'
-- [cupy](https://github.com/cupy/cupy) - NumPy-like API accelerated with CUDA
+- [cupy](https://github.com/cupy/cupy) - A NumPy-compatible array library accelerated by CUDA
 - [gain](https://github.com/gaojiuli/gain) - Web crawling framework  based on asyncio.
 - [tacotron](https://github.com/Kyubyong/tacotron) - A TensorFlow Implementation of Tacotron: A Fully End-to-End Text-To-Speech Synthesis Model
 - [zhusuan](https://github.com/thu-ml/zhusuan) - A probabilistic programming library for Bayesian deep learning, generative models, based on Tensorflow
@@ -9740,7 +9740,7 @@
 - [azure-cli](https://github.com/Azure/azure-cli) - Azure Command-Line Interface
 - [mock-import](https://github.com/posener/mock-import) - A helper mocking function to mask ImportErrors
 - [clairvoyant](https://github.com/anfederico/clairvoyant) - Software designed to identify and monitor social/historical cues for short term stock movement
-- [erpnext](https://github.com/frappe/erpnext) - Open Source Alternative to SAP
+- [erpnext](https://github.com/frappe/erpnext) - Free and Open Source Alternative to SAP
 - [flask-jwt-extended](https://github.com/vimalloc/flask-jwt-extended) - An open source Flask extension that provides JWT support (with batteries included)!
 - [streamlink](https://github.com/streamlink/streamlink) - Streamlink is a CLI utility which pipes video streams from various services into a video player
 - [numpy](https://github.com/numpy/numpy) - The fundamental package for scientific computing with Python.
@@ -9750,7 +9750,7 @@
 - [ck-tensorflow](https://github.com/ctuning/ck-tensorflow) - Collective Knowledge components for TensorFlow (code, data sets, models, packages, workflows):
 - [python-web-pdb](https://github.com/romanvm/python-web-pdb) - Web-based remote UI for Python's PDB debugger
 - [ck-autotuning](https://github.com/ctuning/ck-autotuning) - CK automation actions to let users implement portable, customizable and reusable program workflows for reproducible, collaborative and multi-objective benchmarking, optimization and SW/HW co-design:
-- [ck](https://github.com/ctuning/ck) - Collective Knowledge framework (CK) helps to organize any software project as a database of reusable components with common automation actions and extensible meta descriptions based on FAIR principles (findability, accessibility, interoperability, and reusability). See real-world use cases from MLPerf, Arm, General Motors, IBM, RPi and ACM:
+- [ck](https://github.com/ctuning/ck) - Collective Knowledge framework (CK) helps to organize any software project as a database of reusable components with common automation actions and extensible meta descriptions based on FAIR principles (findability, accessibility, interoperability, and reusability). See all CK components for AI and ML systems:
 - [deconvfaces](https://github.com/somewacko/deconvfaces) - Generating faces with deconvolution networks
 - [whereami](https://github.com/kootenpv/whereami) - Uses WiFi signals :signal_strength: and machine learning to predict where you are
 - [dataset](https://github.com/openimages/dataset) - The Open Images dataset
