@@ -1187,7 +1187,6 @@
 - [weather-icons](https://github.com/erikflowers/weather-icons) - 215 Weather Themed Icons and CSS
 - [AwesomePerfCpp](https://github.com/fenbf/AwesomePerfCpp) - A curated list of awesome C/C++ performance optimization resources: talks, articles, books, libraries, tools, sites, blogs. Inspired by awesome.
 - [mobi.css](https://github.com/mobi-css/mobi.css) - A lightweight, scalable, mobile-first CSS framework
-- [material-design-for-bootstrap](https://github.com/mdbootstrap/material-design-for-bootstrap) - Material Design for Bootstrap - Powerful and free UI KIT for Bootstrap 4
 - [swmp](https://github.com/fuzzymannerz/swmp) - A responsive, eye-pleasing Linux server statistics dashboard.
 - [HTML-Sheets-of-Paper](https://github.com/delight-im/HTML-Sheets-of-Paper) - Word processor in your browser using HTML and CSS (for invoices, legal notices, etc.)
 - [dataviz](https://github.com/opendns/dataviz) - OpenDNS Data Visualization Framework
@@ -1836,7 +1835,7 @@
 - [memviz](https://github.com/bradleyjkemp/memviz) - Visualize your Go data structures using graphviz
 - [squash](https://github.com/solo-io/squash) - The debugger for microservices
 - [docker-gen](https://github.com/jwilder/docker-gen) - Generate files from docker container meta-data
-- [dispatch](https://github.com/vmware/dispatch) - Dispatch is a framework for deploying and managing serverless style applications.
+- [dispatch](https://github.com/vmware-archive/dispatch) - Dispatch is a framework for deploying and managing serverless style applications.
 - [crud](https://github.com/azer/crud) - Relational database library for SQL databases & Go.
 - [elasticell](https://github.com/deepfabric/elasticell) - Elastic Key-Value Storage With Strong Consistency and Reliability
 - [algnhsa](https://github.com/akrylysov/algnhsa) - AWS Lambda Go net/http server adapter
@@ -2050,7 +2049,7 @@
 - [drone](https://github.com/drone/drone) - Drone is a Container-Native, Continuous Delivery Platform
 - [go-callvis](https://github.com/ofabry/go-callvis) - Visualize call graph of a Go program using dot (Graphviz)
 - [cherami-server](https://github.com/uber-archive/cherami-server) - Distributed, scalable, durable, and highly available message queue system. This project is deprecated and not maintained.
-- [chisel](https://github.com/jpillora/chisel) - A fast TCP tunnel over HTTP
+- [chisel](https://github.com/jpillora/chisel) - A fast TCP/UDP tunnel over HTTP
 - [when](https://github.com/olebedev/when) - A natural language date/time parser with pluggable rules
 - [buffalo](https://github.com/gobuffalo/buffalo) - Rapid Web Development w/ Go
 - [keytransparency](https://github.com/google/keytransparency) - A transparent and secure way to look up public keys.
@@ -2320,6 +2319,7 @@
 - [inpycon2018](https://github.com/pythonindia/inpycon2018) - PyCon India 2018 site
 - [frontend](https://github.com/guardian/frontend) - The Guardian Dot Com.
 - [python-vs-javascript](https://github.com/sayazamurai/python-vs-javascript) - 
+- [book](https://github.com/SystemsApproach/book) - Meta-data and Makefile needed to build the book. Main starting point.
 - [quickstart-js](https://github.com/firebase/quickstart-js) - Firebase Quickstart Samples for Web
 - [MATRIX_Etherscan](https://github.com/MatrixAINetwork/MATRIX_Etherscan) - This is a crawler used to visit Ehterscan and obtain smartcontract related info
 - [uikit-ecommerce-template](https://github.com/chekromul/uikit-ecommerce-template) - E-commerce template built with UIKIt
@@ -2380,7 +2380,7 @@
 - [aws-inventory](https://github.com/devops-israel/aws-inventory) - AWS Inventory in a single HTML file using JS AWS-SDK & Bootstrap
 - [blockshell](https://github.com/daxeel/blockshell) - 🎉  Minimal Blockchain Learning CLI
 - [ansible-role-nginx](https://github.com/geerlingguy/ansible-role-nginx) - Ansible Role - Nginx
-- [ansible-os-hardening](https://github.com/dev-sec/ansible-os-hardening) - This Ansible role provides numerous security-related configurations, providing all-round base protection.
+- [ansible-collection-hardening](https://github.com/dev-sec/ansible-collection-hardening) - This Ansible collection provides battle tested hardening for Linux, SSH, nginx, MySQL
 - [OpenCode-Collaborative](https://github.com/opencode18/OpenCode-Collaborative) - Best place to start Open Source and learn development.
 - [html](https://github.com/whatwg/html) - HTML Standard
 - [Udacity-Yearbook-Project](https://github.com/sgs006/Udacity-Yearbook-Project) - Optional Yearbook Collaboration for Udacity Front-End Scholarship Participants
@@ -3435,7 +3435,6 @@
 - [geolocator](https://github.com/onury/geolocator) - A utility for getting geo-location information via HTML5 and IP look-ups, geocoding, address look-ups, distance and durations, timezone information and more...
 - [doctor](https://github.com/propellant/doctor) - quick and easy documentation of Vue.js components - DEPRECATED
 - [vue-tweezing](https://github.com/posva/vue-tweezing) - 💃 Easy, customizable and automatic tweening nicely served in scoped slots
-- [vue-promised](https://github.com/posva/vue-promised) - 💝 Promises as components
 - [vue-raven](https://github.com/anteriovieira/vue-raven) - vue-raven automatically reports uncaught JavaScript exceptions triggered from vue component
 - [vue-routisan](https://github.com/mikerockett/vue-routisan) - Elegant, fluent route definitions for Vue Router, inspired by Laravel. See https://github.com/mikerockett/vue-routisan/tree/develop for the alpha release.
 - [vue-session](https://github.com/victorsferreira/vue-session) - A simplistic session plugin for VueJS backed by SessionStorage and LocalStorage
@@ -3982,6 +3981,7 @@
 - [pibakery](https://github.com/davidferguson/pibakery) - The blocks based, easy to use setup tool for Raspberry Pi
 - [react-with-styles](https://github.com/airbnb/react-with-styles) - Use CSS-in-JavaScript with themes for React without being tightly coupled to one implementation
 - [react-native-elements](https://github.com/react-native-elements/react-native-elements) - Cross-Platform React Native UI Toolkit
+- [material-design-for-bootstrap](https://github.com/mdbootstrap/material-design-for-bootstrap) - Material Design for Bootstrap - Powerful and free UI KIT for Bootstrap 4
 - [react-native-material-design](https://github.com/invertase/react-native-material-design) - React Native UI Components for Material Design
 - [egg](https://github.com/eggjs/egg) - 🥚 Born to build better enterprise frameworks and apps with Node.js & Koa
 - [redux-remotedev](https://github.com/zalmoxisus/redux-remotedev) - Redux DevTools for production (web and React Native) with a highly flexible API.
@@ -7401,7 +7401,7 @@
 - [nlp](https://github.com/makcedward/nlp) - :memo: This repository recorded my NLP journey.
 - [WiFiBroot](https://github.com/hash3liZer/WiFiBroot) - A Wireless (WPA/WPA2) Pentest/Cracking tool. Captures & Crack 4-way handshake and PMKID key. Also, supports a deauthentication/jammer mode for stress testing
 - [handout](https://github.com/danijar/handout) - Turn Python scripts into handouts with Markdown and figures
-- [delta](https://github.com/didi/delta) - DELTA is a deep learning based natural language and speech processing platform.
+- [delta](https://github.com/Delta-ML/delta) - DELTA is a deep learning based natural language and speech processing platform.
 - [ptf](https://github.com/trustedsec/ptf) - The Penetration Testers Framework (PTF) is a way for modular support for up-to-date tools.
 - [primerpython](https://github.com/Helpsypoo/primerpython) - code that makes videos for this: youtube.com/c/primerlearning
 - [neural-networks-and-deep-learning](https://github.com/mnielsen/neural-networks-and-deep-learning) - Code samples for my book "Neural Networks and Deep Learning"
@@ -7985,7 +7985,6 @@
 - [osm-python-tools](https://github.com/mocnik-science/osm-python-tools) - A library to access OpenStreetMap related services
 - [human-pose-estimation.pytorch](https://github.com/microsoft/human-pose-estimation.pytorch) - The project is an official implement of our ECCV2018 paper  "Simple Baselines for Human Pose Estimation and Tracking(https://arxiv.org/abs/1804.06208)"
 - [pyodide](https://github.com/iodide-project/pyodide) - The Python scientific stack, compiled to WebAssembly
-- [book](https://github.com/SystemsApproach/book) - Meta-data and Makefile needed to build the book. Main starting point.
 - [deltatech](https://github.com/dhongu/deltatech) - Terrabit addons for Odoo
 - [odoo-addons](https://github.com/acysos/odoo-addons) - Addons modules for Odoo
 - [relational-rnn-pytorch](https://github.com/L0SG/relational-rnn-pytorch) - An implementation of DeepMind's Relational Recurrent Neural Networks in PyTorch.
@@ -13033,6 +13032,7 @@
 
 ## TypeScript 
 
+- [desktop](https://github.com/desktop/desktop) - Simple collaboration from your desktop
 - [hetty](https://github.com/dstotijn/hetty) - Hetty is an HTTP toolkit for security research.
 - [lit](https://github.com/PAIR-code/lit) - The Language Interpretability Tool: Interactively analyze NLP models for model understanding in an extensible and framework agnostic interface.
 - [vscode-realtime-debugging](https://github.com/hediet/vscode-realtime-debugging) - An extension for VS Code that visualizes how a program is being executed in real time.
@@ -13185,6 +13185,7 @@
 - [node-pg-migrate](https://github.com/salsita/node-pg-migrate) - Node.js database migration management for Postgresql
 - [tsed](https://github.com/TypedProject/tsed) - :triangular_ruler:  Ts.ED is a Node.js and TypeScript framework on top of Express to write your application with TypeScript (or ES6). It provides a lot of decorators and guideline to make your code more readable and less error-prone.
 - [tasktimer](https://github.com/onury/tasktimer) - An accurate timer utility for running periodic tasks on the given interval ticks or dates. (Node and Browser)
+- [vue-promised](https://github.com/posva/vue-promised) - 💝 Promises as components
 - [PruneCluster](https://github.com/SINTEF-9012/PruneCluster) - Fast and realtime marker clustering for Leaflet
 - [leaflet-geosearch](https://github.com/smeijer/leaflet-geosearch) - (Leaflet) GeoSearch / GeoCode provider
 - [vscode-python](https://github.com/microsoft/vscode-python) - Python extension for Visual Studio Code
@@ -13242,7 +13243,6 @@
 - [taxi-rank](https://github.com/ForbesLindesay/taxi-rank) - A JSDom based Selenium Webdriver API
 - [NativeScript](https://github.com/NativeScript/NativeScript) - NativeScript empowers you to access native api's from JavaScript directly. Angular, Vue, Svelte, React and you name it compatible.
 - [caprine](https://github.com/sindresorhus/caprine) - Elegant Facebook Messenger desktop app
-- [desktop](https://github.com/desktop/desktop) - Simple collaboration from your desktop
 - [visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components
 - [learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
 - [countUp.js](https://github.com/inorganik/countUp.js) - Animates a numerical value by counting to it
