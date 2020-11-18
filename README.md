@@ -139,7 +139,7 @@
 ## C 
 
 - [pypostal](https://github.com/openvenues/pypostal) - Python bindings to libpostal for fast international address parsing/normalization
-- [moloch](https://github.com/aol/moloch) - Moloch is an open source, large scale, full packet capturing, indexing, and database system.
+- [arkime](https://github.com/arkime/arkime) - Arkime (formerly Moloch) is an open source, large scale, full packet capturing, indexing, and database system.
 - [GloVe](https://github.com/stanfordnlp/GloVe) - GloVe model for distributed word representation
 - [IoTGoat](https://github.com/OWASP/IoTGoat) - IoTGoat is a deliberately insecure firmware created to educate software developers and security professionals with testing commonly found vulnerabilities in IoT devices.
 - [concorde](https://github.com/matthelb/concorde) - Concorde is a computer code for the symmetric traveling salesman problem (TSP) and some related network optimization problems. It was created by David Applegate, Robert E. Bixby, Vašek Chvátal, and William J. Cook.
@@ -482,6 +482,7 @@
 
 ## C++ 
 
+- [ORB_SLAM3](https://github.com/UZ-SLAMLab/ORB_SLAM3) - ORB-SLAM3: An Accurate Open-Source Library for Visual, Visual-Inertial and Multi-Map SLAM
 - [neuropod](https://github.com/uber/neuropod) - A uniform interface to run deep learning models from multiple frameworks
 - [tensorrtx](https://github.com/wang-xinyu/tensorrtx) - Implementation of popular deep learning networks with TensorRT network definition API
 - [ardupilot](https://github.com/ArduPilot/ardupilot) - ArduPlane, ArduCopter, ArduRover source
@@ -645,6 +646,7 @@
 - [hacktoberfest-2018](https://github.com/my-first-pr/hacktoberfest-2018) - 
 - [Data-Structures-And-Algorithms-Hacktoberfest18](https://github.com/yshshrm/Data-Structures-And-Algorithms-Hacktoberfest18) - List of data structures and algorithms. Feel free to contribute under Hacktoberfest '18!
 - [s2geometry](https://github.com/google/s2geometry) - Computational geometry and spatial indexing on the sphere
+- [lowjs](https://github.com/neonious/lowjs) - A port of Node.JS with far lower system requirements. Community version for POSIX systems such as Linux, uClinux or Mac OS X.
 - [MMKV](https://github.com/Tencent/MMKV) - An efficient, small mobile key-value storage framework developed by WeChat. Works on Android, iOS, macOS, Windows, and POSIX.
 - [uConfig](https://github.com/Robotips/uConfig) - Datasheet pinout extractor from PDF and library Stylizer for Kicad.
 - [DancingGaga](https://github.com/jing-interactive/DancingGaga) - AI 尬舞机
@@ -1144,7 +1146,6 @@
 - [workflow](https://github.com/deis/workflow) - The open source PaaS for Kubernetes.
 - [style](https://github.com/tidyverse/style) - The tidyverse style guide for R code
 - [papers-I-read](https://github.com/shagunsodhani/papers-I-read) - A-Paper-A-Week
-- [Flat-UI](https://github.com/designmodo/Flat-UI) - Flat UI Free - Design Framework (html/css3/less/js). Flat UI is based on Bootstrap, a comfortable, responsive, and functional framework that simplifies the development of websites.
 - [progit2](https://github.com/progit/progit2) - Pro Git 2nd Edition
 - [MakeGithubGreatAgain](https://github.com/DennisSnijder/MakeGithubGreatAgain) - Extension for making GitHub great again
 - [VueStar](https://github.com/OYsun/VueStar) - :sparkles:A like button with delightful star animation powered by Vue.js
@@ -2846,6 +2847,8 @@
 
 ## JavaScript 
 
+- [AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) - Roadmap to becoming an Artificial Intelligence Expert in 2020
+- [gpt3-sandbox](https://github.com/shreyashankar/gpt3-sandbox) - The goal of this project is to enable users to create cool web demos using the newly released OpenAI GPT-3 API with just a few lines of Python.
 - [docs](https://github.com/github/docs) - The open-source repo for docs.github.com
 - [Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates) - A collection of awesome readme templates to display on your profile
 - [petrovich-js](https://github.com/petrovich/petrovich-js) - JS library to inflect Russian first, last, and middle names.
@@ -3184,7 +3187,6 @@
 - [c8](https://github.com/bcoe/c8) - output coverage reports using Node.js' built in coverage
 - [underrun](https://github.com/phoboslab/underrun) - Twin stick shooter game in 13kb of JavaScript/WebGL
 - [lyo](https://github.com/bokub/lyo) - 📦 Node.js to browser - The easy way
-- [lowjs](https://github.com/neonious/lowjs) - A port of Node.JS with far lower system requirements. Community version for POSIX systems such as Linux, uClinux or Mac OS X.
 - [worker-plugin](https://github.com/GoogleChromeLabs/worker-plugin) - 👩‍🏭 Adds native Web Worker bundling support to Webpack.
 - [headless-recorder](https://github.com/checkly/headless-recorder) - Headless recorder is a Chrome extension that records your browser interactions and generates a Puppeteer or Playwright script.
 - [v86](https://github.com/copy/v86) - x86 virtualization in JavaScript, running in your browser and NodeJS
@@ -3803,6 +3805,7 @@
 - [geojson-google-maps](https://github.com/JasonSanford/geojson-google-maps) - A simple utility to convert GeoJSON objects to Google Maps vector objects (Marker, Polyline, Polygon)
 - [neurojs](https://github.com/janhuenermann/neurojs) - A JavaScript deep learning and reinforcement learning library.
 - [ipytracer](https://github.com/hahnlee/ipytracer) - :bar_chart: Algorithm Visualizer for IPython/Jupyter Notebook
+- [Flat-UI](https://github.com/designmodo/Flat-UI) - Flat UI Free - Design Framework (html/css3/less/js). Flat UI is based on Bootstrap, a comfortable, responsive, and functional framework that simplifies the development of websites.
 - [simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
 - [react-trend](https://github.com/unsplash/react-trend) - 📈 Simple, elegant spark lines
 - [TagUI](https://github.com/kelaberetiv/TagUI) - Command-line tool for digital process automation (RPA)
@@ -4416,6 +4419,15 @@
 
 ## Jupyter Notebook 
 
+- [2020_benfords](https://github.com/cjph8914/2020_benfords) - 
+- [vision_transformer](https://github.com/google-research/vision_transformer) - 
+- [fastdoc](https://github.com/fastai/fastdoc) - Create publication-quality books from Jupyter notebooks
+- [jupyter-text2code](https://github.com/deepklarity/jupyter-text2code) - A proof-of-concept jupyter extension which converts english queries into relevant python code
+- [colabcode](https://github.com/abhishekkrthakur/colabcode) - Run VSCode (codeserver) on Google Colab or Kaggle Notebooks
+- [Python-for-Data-Analytics](https://github.com/ItsAwSM/Python-for-Data-Analytics) - This course will teach you only the relevant topics in Python for starting your career in Data Analytics. There are also a bunch of tips and tricks throughout for resume writing, solving case studies, interviews etc. The idea is to help you land a job in analytics and not just teach you Python.
+- [minGPT](https://github.com/karpathy/minGPT) - A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training
+- [python-for-data-science](https://github.com/blobcity/python-for-data-science) - A collection of Jupyter Notebooks for learning Python for Data Science.
+- [deepsvg](https://github.com/alexandre01/deepsvg) - Official code for the paper "DeepSVG: A Hierarchical Generative Network for Vector Graphics Animation". Includes a PyTorch library for deep learning with SVG data.
 - [dash-sample-apps](https://github.com/plotly/dash-sample-apps) - Apps hosted in the Dash Gallery
 - [2020](https://github.com/epfl-ada/2020) - Materials for Applied Data Analysis CS-401, fall 2020
 - [pixel2style2pixel](https://github.com/eladrich/pixel2style2pixel) - Official Implementation for "Encoding in Style: a StyleGAN Encoder for Image-to-Image Translation"
@@ -5754,6 +5766,10 @@
 
 ## Others 
 
+- [awesome-ML-projects-guide](https://github.com/dair-ai/awesome-ML-projects-guide) - A guide to building awesome machine learning projects.
+- [awesome-gans-and-deepfakes](https://github.com/enochkan/awesome-gans-and-deepfakes) - A curated list of GAN & Deepfake papers and repositories.
+- [EmotionLib](https://github.com/EmotionEngi/EmotionLib) - Simple dynamic library for video sentiment recognition
+- [awesome-made-by-russians](https://github.com/igoradamenko/awesome-made-by-russians) - 🇷🇺 The best open source projects that were made and mainly contributed by Russian developers
 - [scientific-visualization-book](https://github.com/rougier/scientific-visualization-book) - ❗️WIP❗️An open access book on scientific visualization using python and matplotlib
 - [awesome-mlops](https://github.com/visenger/awesome-mlops) - A curated list of references for MLOps
 - [machine-learning-roadmap](https://github.com/mrdbourke/machine-learning-roadmap) - A roadmap connecting many of the most important concepts in machine learning, how to learn them and what tools to use to perform them.
@@ -6787,6 +6803,28 @@
 
 ## Python 
 
+- [BentoML](https://github.com/bentoml/BentoML) - Model Serving Made Easy
+- [eisen-core](https://github.com/eisen-ai/eisen-core) - Core functionality of Eisen
+- [vectorhub](https://github.com/vector-ai/vectorhub) - Vector Hub - Library for easy discovery, and consumption of State-of-the-art models to turn data into vectors. (text2vec, image2vec, video2vec, graph2vec, bert, inception, etc)
+- [multilingual-t5](https://github.com/google-research/multilingual-t5) - 
+- [deepinterpolation](https://github.com/AllenInstitute/deepinterpolation) - 
+- [SentAugment](https://github.com/facebookresearch/SentAugment) - SentAugment is a data augmentation technique for NLP that retrieves similar sentences from a large bank of sentences. It can be used in combination with self-training and knowledge-distillation, or for retrieving paraphrases.
+- [FixMatch-pytorch](https://github.com/LeeDoYup/FixMatch-pytorch) - Unofficial Pytorch code for  "FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence" in NeurIPS'20. This repo contains reproduced checkpoints.
+- [grid_royale](https://github.com/cool-RR/grid_royale) - A life simulation for exploring social dynamics
+- [kaggle-landmark-recognition-2020-1st-place](https://github.com/psinger/kaggle-landmark-recognition-2020-1st-place) - 
+- [vit-pytorch](https://github.com/lucidrains/vit-pytorch) - Implementation of Vision Transformer, a simple way to achieve SOTA in vision classification with only a single transformer encoder, in Pytorch
+- [genforce](https://github.com/genforce/genforce) - GenForce: an efficient PyTorch library for deep generative modeling (StyleGANv1v2, PGGAN, etc)
+- [3DDFA_V2](https://github.com/cleardusk/3DDFA_V2) - The official PyTorch implementation of Towards Fast, Accurate and Stable 3D Dense Face Alignment, ECCV 2020.
+- [expose](https://github.com/vchoutas/expose) - ExPose - EXpressive POse and Shape rEgression
+- [kopf](https://github.com/nolar/kopf) - A Python framework to write Kubernetes operators in just a few lines of code
+- [txtai](https://github.com/neuml/txtai) - AI-powered search engine
+- [AnimeGANv2](https://github.com/TachibanaYoshino/AnimeGANv2) - [Open Source].  The improved version of AnimeGAN. Landscape photos/videos to anime
+- [learn-python](https://github.com/KhoaDauTay/learn-python) - 
+- [awesome-fast-attention](https://github.com/Separius/awesome-fast-attention) - list of efficient attention modules
+- [latexify_py](https://github.com/odashi/latexify_py) - Generates LaTeX math description from Python functions.
+- [gpt-scrolls](https://github.com/maraoz/gpt-scrolls) - A collaborative collection of open-source safe GPT-3 prompts that work well
+- [sudoku-solver](https://github.com/Adityaojas/sudoku-solver) - Solves sudoku in a real time webcam feed
+- [swav](https://github.com/facebookresearch/swav) - PyTorch implementation of SwAV https//arxiv.org/abs/2006.09882
 - [ru-gpts](https://github.com/sberbank-ai/ru-gpts) - Russian GPT3 models.
 - [Python_and_the_Web](https://github.com/Python-World/Python_and_the_Web) - Build Bots, Scrape a website or use an API to solve a problem.
 - [All-Programming-E-Books-PDF](https://github.com/trumpowen/All-Programming-E-Books-PDF) - A Curated List Of Programming Books For C, C++ , Python, JavaScript, NodeJs, ReactJs, Web, JQuery, Flask, Dom, Angular, CSS, HTML for beginners, intermediate, advanced and experts
@@ -6796,7 +6834,7 @@
 - [stylegan2-ada](https://github.com/NVlabs/stylegan2-ada) - StyleGAN2 with adaptive discriminator augmentation (ADA) - Official TensorFlow implementation
 - [sysmon](https://github.com/MatthiasSchinzel/sysmon) - Graphical system monitor for linux, including information about CPU, GPU, Memory, HDD/SDD and your network connections. Similar to windows task manager.
 - [imaginaire](https://github.com/NVlabs/imaginaire) - NVIDIA PyTorch GAN library with distributed and mixed precision support
-- [BERTopic](https://github.com/MaartenGr/BERTopic) - Leveraging BERT and a class-based TF-IDF to create easily interpretable topics.
+- [BERTopic](https://github.com/MaartenGr/BERTopic) - Leveraging BERT and c-TF-IDF to create easily interpretable topics.
 - [st-annotated-text](https://github.com/tvst/st-annotated-text) - A simple component to display annotated text in Streamlit apps.
 - [BERT-NER](https://github.com/kyzhouhzau/BERT-NER) - Use Google's BERT for named entity recognition （CoNLL-2003 as the dataset）.
 - [FARM](https://github.com/deepset-ai/FARM) - :house_with_garden: Fast & easy transfer learning for NLP. Harvesting language models for the industry. Focus on Question Answering.
@@ -8208,7 +8246,7 @@
 - [Learning-to-See-in-the-Dark](https://github.com/cchen156/Learning-to-See-in-the-Dark) - Learning to See in the Dark. CVPR 2018
 - [youCanCodeAGif](https://github.com/1-Sisyphe/youCanCodeAGif) - Can you make an High Quality Gif from A to Z only by coding? Yes. Do you want to, though?
 - [easy-tensorflow](https://github.com/easy-tensorflow/easy-tensorflow) - Simple and comprehensive tutorials in TensorFlow
-- [nlp-architect](https://github.com/NervanaSystems/nlp-architect) - A model library for exploring state-of-the-art deep learning topologies and techniques for optimizing Natural Language Processing neural networks
+- [nlp-architect](https://github.com/IntelLabs/nlp-architect) - A model library for exploring state-of-the-art deep learning topologies and techniques for optimizing Natural Language Processing neural networks
 - [paho.mqtt.python](https://github.com/eclipse/paho.mqtt.python) - paho.mqtt.python
 - [docker-graphite-statsd](https://github.com/graphite-project/docker-graphite-statsd) - Official Docker image for Graphite
 - [aws-ops-insight](https://github.com/InsightDataScience/aws-ops-insight) - Collection of Terraform and Ansible scripts for easy AWS operations
@@ -12318,7 +12356,7 @@
 - [PyExcelerate](https://github.com/kz26/PyExcelerate) - Accelerated Excel XLSX Writing Library for Python 2/3
 - [python-nvd3](https://github.com/areski/python-nvd3) - Python Wrapper for NVD3 - It's time for beautiful charts
 - [copperhead](https://github.com/bryancatanzaro/copperhead) - Data Parallel Python
-- [falcon](https://github.com/falconry/falcon) - The no-nonsense, minimalist REST services and app backend framework for Python developers, with a focus on reliability, correctness, and performance at scale.
+- [falcon](https://github.com/falconry/falcon) - The no-nonsense, minimalist REST and app backend framework for Python developers, with a focus on reliability, correctness, and performance at scale.
 - [logscan](https://github.com/thomst/logscan) - logscan is a command-line-tool to get time-specific access to logfiles. It can handle rotated and gzipped logfiles or reads from stdin. The log   is automatically checked for different timecodes.
 - [timeparser](https://github.com/thomst/timeparser) - Parse strings to objects of the datetime-module.  This module intends to make string-parsing to objects of the datetime-module as easy as possible while allowing a fine configuration about which kind of formats are supported.
 - [timeparse](https://github.com/thomst/timeparse) - An argparse-extension for parsing command-line arguments as time-, date-, datetime-, or timedelta-objects.
@@ -13032,6 +13070,8 @@
 
 ## TypeScript 
 
+- [actionsflow](https://github.com/actionsflow/actionsflow) - The free Zapier/IFTTT alternative for developers to automate your workflows based on Github actions
+- [streetmerchant](https://github.com/jef/streetmerchant) - :robot: Autonomous robot for all your electronic needs
 - [desktop](https://github.com/desktop/desktop) - Simple collaboration from your desktop
 - [hetty](https://github.com/dstotijn/hetty) - Hetty is an HTTP toolkit for security research.
 - [lit](https://github.com/PAIR-code/lit) - The Language Interpretability Tool: Interactively analyze NLP models for model understanding in an extensible and framework agnostic interface.
@@ -13049,7 +13089,7 @@
 - [backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals
 - [examples](https://github.com/pulumi/examples) - Infrastructure, containers, and serverless apps to AWS, Azure, GCP, and Kubernetes... all deployed with Pulumi
 - [tools](https://github.com/rome/tools) - The Rome Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.
-- [fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - Modern & flexible browser fingerprinting library
+- [fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - Browser fingerprinting library with the highest accuracy and stability.
 - [hiplot](https://github.com/facebookresearch/hiplot) - HiPlot makes understanding high dimensional data easy
 - [playwright](https://github.com/microsoft/playwright) - Node.js library to automate Chromium, Firefox and WebKit with a single API
 - [gistpad](https://github.com/vsls-contrib/gistpad) - VS Code extension for managing and sharing code snippets, notes and interactive samples using GitHub Gists
