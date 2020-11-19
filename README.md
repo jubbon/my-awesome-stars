@@ -2548,7 +2548,7 @@
 - [reactpatterns](https://github.com/chantastic/reactpatterns) - Patterns for React Developers
 - [text-spinners](https://github.com/maxbeier/text-spinners) - Pure text, CSS only, font independent, inline loading indicators
 - [itemplate](https://github.com/bendo01/itemplate) - bulma css framework admin template
-- [electrode-io.github.io](https://github.com/electrode-io/electrode-io.github.io) - Repo of Electrode Platform's public website
+- [electrode-io.github.io](https://github.com/electrode-io/electrode-io.github.io) - The public website of the Electrode platform
 - [es6-features](https://github.com/rse/es6-features) - ECMAScript 6: Feature Overview & Comparison
 - [ace](https://github.com/bopoda/ace) - Twitter bootstrap 3 admin template
 - [pragmatist-service-worker](https://github.com/lyzadanger/pragmatist-service-worker) - Pragmatist's Guide to Service Worker
@@ -5304,7 +5304,6 @@
 - [unrolled_gan](https://github.com/poolio/unrolled_gan) - Unrolled Generative Adversarial Networks
 - [siml](https://github.com/taspinar/siml) - Machine Learning algorithms implemented from scratch
 - [DSB3Tutorial](https://github.com/booz-allen-hamilton/DSB3Tutorial) - 
-- [vision](https://github.com/pytorch/vision) - Datasets, Transforms and Models specific to Computer Vision
 - [functional-zoo](https://github.com/szagoruyko/functional-zoo) - PyTorch and Tensorflow functional model definitions
 - [deep-learning-traffic-lights](https://github.com/davidbrai/deep-learning-traffic-lights) - Code and files of the deep learning model used to win the Nexar Traffic Light Recognition challenge
 - [tutorials](https://github.com/pytorch/tutorials) - PyTorch tutorials.
@@ -6720,7 +6719,6 @@
 
 ## PHP 
 
-- [directus](https://github.com/directus/directus) - Directus 8 Suite — Future-Proof Headless CMS & API for Custom Databases
 - [the-majesty-of-vuejs-2](https://github.com/hootlex/the-majesty-of-vuejs-2) - Demo APIs and homework solutions for "The Majesty of Vue.js 2"
 - [nova-tags-field](https://github.com/spatie/nova-tags-field) - A tags field to use in your Nova apps
 - [google-map-polyline-encoding-tool](https://github.com/emcconville/google-map-polyline-encoding-tool) - A simple class to handle polyline-encoding for Google Maps
@@ -7216,7 +7214,7 @@
 - [reinforcement-learning](https://github.com/carla-simulator/reinforcement-learning) - Reinforcement learning baseline agent trained with the Actor-critic (A3C) algorithm.
 - [Yolact_minimal](https://github.com/feiyuhuahuo/Yolact_minimal) - Minimal PyTorch implementation of YOLACT.
 - [meta_seq2seq](https://github.com/facebookresearch/meta_seq2seq) - Compositional generalization through meta sequence-to-sequence learning
-- [Pytorch-Networks](https://github.com/HaiyangLiu1997/Pytorch-Networks) - 
+- [Pytorch-Networks](https://github.com/H-Liu1997/Pytorch-Networks) - 
 - [pytorch-distributed](https://github.com/tczhangzhi/pytorch-distributed) - A quickstart and benchmark for pytorch distributed training.
 - [KAIR](https://github.com/cszn/KAIR) - Image Restoration Toolbox (PyTorch). Training and testing codes for USRNet, DnCNN, FFDNet, SRMD, DPSR, MSRResNet, ESRGAN, IMDN
 - [StyleGAN2-Tensorflow-2.0](https://github.com/manicman1999/StyleGAN2-Tensorflow-2.0) - StyleGAN 2 in Tensorflow 2.0
@@ -9505,6 +9503,7 @@
 - [python-github3](https://github.com/kennethreitz-archive/python-github3) - [In Progress] Python wrapper for the new GitHub API.
 - [AlienVaultLabs](https://github.com/AlienVault-Labs/AlienVaultLabs) - Alienvault Labs Projects Random Stuff
 - [stanford-tensorflow-tutorials](https://github.com/chiphuyen/stanford-tensorflow-tutorials) - This repository contains code examples for the Stanford's course: TensorFlow for Deep Learning Research.
+- [vision](https://github.com/pytorch/vision) - Datasets, Transforms and Models specific to Computer Vision
 - [pipenv](https://github.com/pypa/pipenv) - Python Development Workflow for Humans.
 - [kur](https://github.com/deepgram/kur) - Descriptive Deep Learning
 - [delegator.py](https://github.com/amitt001/delegator.py) - Subprocesses for Humans 2.0.
@@ -11350,7 +11349,7 @@
 - [deeppy](https://github.com/andersbll/deeppy) - Deep learning in Python
 - [splash](https://github.com/scrapinghub/splash) - Lightweight, scriptable browser as a service with an HTTP API
 - [httpbin](https://github.com/postmanlabs/httpbin) - HTTP Request & Response Service, written in Python + Flask.
-- [addict](https://github.com/mewwts/addict) - (joke) The Python Dict that's better than heroin.
+- [addict](https://github.com/mewwts/addict) - The Python Dict that's better than heroin.
 - [mochi](https://github.com/i2y/mochi) - Dynamically typed functional programming language
 - [Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.3, 3.4, 3.5, 3.6, 3.7, and 3.8.  You feed it your Python app, it does a lot of clever things, and spits out an executable or extension module.
 - [Lasagne](https://github.com/Lasagne/Lasagne) - Lightweight library to build and train neural networks in Theano
@@ -12741,7 +12740,7 @@
 - [nomino](https://github.com/yaa110/nomino) - Batch rename utility for developers
 - [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
-- [tokenizers](https://github.com/huggingface/tokenizers) - 💥Fast State-of-the-Art Tokenizers optimized for Research and Production
+- [tokenizers](https://github.com/huggingface/tokenizers) - 💥 Fast State-of-the-Art Tokenizers optimized for Research and Production
 - [raic-2019](https://github.com/MailRuChamps/raic-2019) - Russian AI Cup — artificial intelligence programming contest. Official website: http://russianaicup.ru
 - [navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line and application launchers
 - [RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
@@ -13406,6 +13405,7 @@
 - [Scout](https://github.com/tevora-threat/Scout) - Surveillance Detection Scout: Your Lookout on Autopilot
 - [DynamoDb-GUI-Client](https://github.com/Arattian/DynamoDb-GUI-Client) - DynamoDb GUI Client
 - [example-auth0](https://github.com/nuxt/example-auth0) - A simple example that shows how to use Nuxt.js with Auth0.
+- [directus](https://github.com/directus/directus) - Open-Source Data Platform — Directus wraps your new or existing SQL database with a realtime GraphQL+REST API for developers, and an intuitive admin app for non-technical users. 🐰
 - [Vuemmerce](https://github.com/ivanlori/Vuemmerce) - 👉 Responsive ecommerce template 🛒 built with Vue.js and Nuxt.js
 - [sing-app-vue-dashboard](https://github.com/flatlogic/sing-app-vue-dashboard) - Vue.js admin dashboard template built with Bootstrap 4.5
 - [light-blue-vue-admin](https://github.com/flatlogic/light-blue-vue-admin) - 🤘Vue admin dashboard template with stylish transparent design
@@ -13514,7 +13514,6 @@
 - [vue-mobile-container](https://github.com/wuzhoubo/vue-mobile-container) - A Vue.js mobile container
 - [framework7-template-vue-webpack](https://github.com/framework7io/framework7-template-vue-webpack) - Deprecated! Framework7 Vue Webpack starter app template with hot-reload & css extraction
 - [material-components-vue](https://github.com/matsp/material-components-vue) - Material Design styled components for Vue.js
-- [app](https://github.com/directus/app) - Directus Admin Application — An Intuitive WebApp for Managing Database Content
 - [vue-music](https://github.com/sdshaoda/vue-music) - A mobile Web application developed by Vue.js stack.
 - [vue-fullcalendar](https://github.com/CroudTech/vue-fullcalendar) - FullCalendar Wrapper for vue
 - [nuxt](https://github.com/vuetifyjs/nuxt) - Nuxt.js + Vuetify.js starter project template.
