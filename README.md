@@ -615,7 +615,6 @@
 - [Game-Networking-Resources](https://github.com/MFatihMAR/Game-Networking-Resources) - A Curated List of Game Network Programming Resources
 - [tinykaboom](https://github.com/ssloy/tinykaboom) - A brief computer graphics / rendering course
 - [tinyraytracer](https://github.com/ssloy/tinyraytracer) - A brief computer graphics / rendering course
-- [neo-ai-dlr](https://github.com/neo-ai/neo-ai-dlr) - Neo-AI-DLR is a common runtime for machine learning models compiled by AWS SageMaker Neo, TVM, or TreeLite.
 - [euler](https://github.com/alibaba/euler) - A distributed graph deep learning framework.
 - [spectrum](https://github.com/facebookincubator/spectrum) - A client-side image transcoding library.
 - [VINS-Fusion](https://github.com/HKUST-Aerial-Robotics/VINS-Fusion) - An optimization-based multi-sensor state estimator
@@ -1464,7 +1463,6 @@
 - [giropops-monitoring](https://github.com/badtuxx/giropops-monitoring) - Full stack tools for monitoring containers and other stuff. ;)
 - [containers](https://github.com/BioContainers/containers) - Bioinformatics containers
 - [docker-letsencrypt](https://github.com/linuxserver/docker-letsencrypt) - DEPRECATED: Please use linuxserver/swag instead
-- [docker-nginx](https://github.com/nginxinc/docker-nginx) - Official NGINX Dockerfiles
 - [onemirror](https://github.com/bohanyang/onemirror) - Docker image for nginx with already configured Google Search proxy
 - [DevDock](https://github.com/iMacken/DevDock) - Build php development & production environment based on Docker
 - [nginx-boilerplate](https://github.com/nginx-boilerplate/nginx-boilerplate) - Awesome Nginx configuration template
@@ -1539,7 +1537,7 @@
 - [godog](https://github.com/cucumber/godog) - Cucumber for golang
 - [aws-vault](https://github.com/99designs/aws-vault) - A vault for securely storing and accessing AWS credentials in development environments
 - [go-gitlab](https://github.com/xanzy/go-gitlab) - A GitLab API client enabling Go programs to interact with GitLab in a simple and uniform way
-- [micro](https://github.com/micro/micro) - Micro is a platform for cloud native application development
+- [micro](https://github.com/micro/micro) - Micro is a platform for cloud native application development, microservices and API driven backend
 - [go-github](https://github.com/google/go-github) - Go library for accessing the GitHub API
 - [nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
 - [migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
@@ -2320,7 +2318,6 @@
 - [inpycon2018](https://github.com/pythonindia/inpycon2018) - PyCon India 2018 site
 - [frontend](https://github.com/guardian/frontend) - The Guardian Dot Com.
 - [python-vs-javascript](https://github.com/sayazamurai/python-vs-javascript) - 
-- [book](https://github.com/SystemsApproach/book) - Meta-data and Makefile needed to build the book. Main starting point.
 - [quickstart-js](https://github.com/firebase/quickstart-js) - Firebase Quickstart Samples for Web
 - [MATRIX_Etherscan](https://github.com/MatrixAINetwork/MATRIX_Etherscan) - This is a crawler used to visit Ehterscan and obtain smartcontract related info
 - [uikit-ecommerce-template](https://github.com/chekromul/uikit-ecommerce-template) - E-commerce template built with UIKIt
@@ -3090,6 +3087,7 @@
 - [code2](https://github.com/AWSinAction/code2) - Code of Amazon Web Services in Action, Second Edition
 - [screenshoteer](https://github.com/vladocar/screenshoteer) - Make website screenshots and mobile emulations from the command line.
 - [forgJs](https://github.com/oussamahamdaoui/forgJs) - ForgJs is a javascript lightweight object validator. Go check the Quick start section and start coding with love
+- [squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
 - [sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP and TIFF images. Uses the libvips library.
 - [awesome-ui-component-library](https://github.com/anubhavsrivastava/awesome-ui-component-library) - Curated list of framework component libraries for UI styles/toolkit
 - [mpx](https://github.com/didi/mpx) - Mpx，一款具有优秀开发体验和深度性能优化的增强型小程序开发框架
@@ -3764,7 +3762,7 @@
 - [butternut](https://github.com/Rich-Harris/butternut) - The fast, future-friendly minifier
 - [mavo](https://github.com/mavoweb/mavo) - Create web applications entirely by writing HTML and CSS!
 - [workbox](https://github.com/GoogleChrome/workbox) - 📦 Workbox: JavaScript libraries for Progressive Web Apps
-- [react-pdf](https://github.com/diegomura/react-pdf) - 📄 Create PDF files using React
+- [react-pdf](https://github.com/diegomura/react-pdf) - 📄  Create PDF files using React
 - [fair-analytics](https://github.com/vesparny/fair-analytics) - 📊  An analytics server that doesn't undermine user's privacy
 - [britecharts](https://github.com/britecharts/britecharts) - Client-side reusable Charting Library based on D3.js v5 that allows easy and intuitive use of charts and components that can be composed together creating amazing visualizations.
 - [insomnia](https://github.com/Kong/insomnia) - The Open Source API Client and Design Platform for GraphQL and REST -&gt;
@@ -4410,6 +4408,7 @@
 
 ## Julia 
 
+- [ScientificComputingForTheRestOfUs](https://github.com/tpoisot/ScientificComputingForTheRestOfUs) - Introduction to Scientific Computing  🦊
 - [Turing.jl](https://github.com/TuringLang/Turing.jl) - Bayesian inference with probabilistic programming.
 - [Faceless.jl](https://github.com/dfdx/Faceless.jl) - Facial emotion recognition from an image
 - [Clustering.jl](https://github.com/JuliaStats/Clustering.jl) - A Julia package for data clustering
@@ -4735,6 +4734,7 @@
 - [anlp19](https://github.com/dbamman/anlp19) - Course repo for Applied Natural Language Processing (Spring 2019)
 - [Generative_Models_Tutorial_with_Demo](https://github.com/omerbsezer/Generative_Models_Tutorial_with_Demo) - Generative Models Tutorial with Demo: Bayesian Classifier Sampling, Variational Auto Encoder (VAE), Generative Adversial Networks (GANs), Popular GANs Architectures, Auto-Regressive Models, Important Generative Model Papers, Courses, etc..
 - [berkeley-stat-157](https://github.com/d2l-ai/berkeley-stat-157) - Homepage for STAT 157 at UC Berkeley
+- [neo-ai-dlr](https://github.com/neo-ai/neo-ai-dlr) - Neo-AI-DLR is a common runtime for machine learning models compiled by AWS SageMaker Neo, TVM, or TreeLite.
 - [Girls-In-AI](https://github.com/girls-in-ai/Girls-In-AI) - 免费学代码系列：小白python入门、数据分析data analyst、机器学习machine learning、深度学习deep learning、kaggle实战
 - [namedtensor](https://github.com/harvardnlp/namedtensor) - Named Tensor implementation for Torch
 - [tf2_course](https://github.com/ageron/tf2_course) - Notebooks for my "Deep Learning with TensorFlow 2 and Keras" course
@@ -5022,7 +5022,6 @@
 - [deep-image-prior](https://github.com/DmitryUlyanov/deep-image-prior) - Image restoration with neural networks but without learning.
 - [estool](https://github.com/hardmaru/estool) - Evolution Strategies Tool
 - [python-clustering-exercises](https://github.com/benjaminwilson/python-clustering-exercises) - Jupyter Notebook exercises for k-means clustering with Python 3 and scikit-learn
-- [ScientificComputingForTheRestOfUs](https://github.com/tpoisot/ScientificComputingForTheRestOfUs) - Introduction to Scientific Computing  🦊
 - [skimage-tutorials](https://github.com/scikit-image/skimage-tutorials) - skimage-tutorials: a collection of tutorials for the scikit-image package.
 - [supervisely-tutorials](https://github.com/DeepSystems/supervisely-tutorials) - 🌈 Tutorials for Supervise.ly
 - [odsc-west-python-2017](https://github.com/jseabold/odsc-west-python-2017) - Introduction to Python for Data Science
@@ -5377,7 +5376,6 @@
 - [RL](https://github.com/cilvrRG/RL) - Reading Group on Reinforcement Learning topics
 - [altair-examples](https://github.com/jakevdp/altair-examples) - Some examples of Altair plots
 - [numerai](https://github.com/jimfleming/numerai) - Code from my experiments on Numerai
-- [TensorFace](https://github.com/AKSHAYUBHAT/TensorFace) - This repo is deprecated, please use Deep Video Analytics which implements face recognition using TensorFlow and Facenet.
 - [theano-tutorial](https://github.com/craffel/theano-tutorial) - A collection of tutorials on neural networks, using Theano
 - [ML_course](https://github.com/epfml/ML_course) - EPFL Machine Learning Course, Fall 2019
 - [ssd-plate_detection](https://github.com/hyh21521038/ssd-plate_detection) - SSD-based  plate detection
@@ -8021,6 +8019,7 @@
 - [osm-python-tools](https://github.com/mocnik-science/osm-python-tools) - A library to access OpenStreetMap related services
 - [human-pose-estimation.pytorch](https://github.com/microsoft/human-pose-estimation.pytorch) - The project is an official implement of our ECCV2018 paper  "Simple Baselines for Human Pose Estimation and Tracking(https://arxiv.org/abs/1804.06208)"
 - [pyodide](https://github.com/iodide-project/pyodide) - The Python scientific stack, compiled to WebAssembly
+- [book](https://github.com/SystemsApproach/book) - Meta-data and Makefile needed to build the book. Main starting point.
 - [deltatech](https://github.com/dhongu/deltatech) - Terrabit addons for Odoo
 - [odoo-addons](https://github.com/acysos/odoo-addons) - Addons modules for Odoo
 - [relational-rnn-pytorch](https://github.com/L0SG/relational-rnn-pytorch) - An implementation of DeepMind's Relational Recurrent Neural Networks in PyTorch.
@@ -9786,7 +9785,7 @@
 - [ck-tensorflow](https://github.com/ctuning/ck-tensorflow) - Collective Knowledge components for TensorFlow (code, data sets, models, packages, workflows):
 - [python-web-pdb](https://github.com/romanvm/python-web-pdb) - Web-based remote UI for Python's PDB debugger
 - [ck-autotuning](https://github.com/ctuning/ck-autotuning) - CK automation actions to let users implement portable, customizable and reusable program workflows for reproducible, collaborative and multi-objective benchmarking, optimization and SW/HW co-design:
-- [ck](https://github.com/ctuning/ck) - Collective Knowledge framework (CK) helps to organize any software project as a database of reusable components with common automation actions and extensible meta descriptions based on FAIR principles (findability, accessibility, interoperability, and reusability). See all CK components for AI and ML systems:
+- [ck](https://github.com/ctuning/ck) - Collective Knowledge framework (CK) helps to organize any software project as a database of reusable components with common automation actions and extensible meta descriptions based on FAIR principles (findability, accessibility, interoperability, and reusability). See real-world use cases from MLPerf, Arm, General Motors, dividiti, IBM, ACM:
 - [deconvfaces](https://github.com/somewacko/deconvfaces) - Generating faces with deconvolution networks
 - [whereami](https://github.com/kootenpv/whereami) - Uses WiFi signals :signal_strength: and machine learning to predict where you are
 - [dataset](https://github.com/openimages/dataset) - The Open Images dataset
@@ -12918,6 +12917,7 @@
 - [rust-cookbook](https://github.com/rust-lang-nursery/rust-cookbook) - https://rust-lang-nursery.github.io/rust-cookbook
 - [build-linux](https://github.com/MichielDerhaeg/build-linux) - A short tutorial about building Linux based operating systems.
 - [easy-rsa](https://github.com/OpenVPN/easy-rsa) - easy-rsa - Simple shell based CA utility
+- [docker-nginx](https://github.com/nginxinc/docker-nginx) - Official NGINX Dockerfiles
 - [ansible-nodejs](https://github.com/AnsibleShipyard/ansible-nodejs) - Ansible NodeJS Playbook
 - [Stouts.mongodb](https://github.com/Stouts/Stouts.mongodb) - Ansible role which manage MongoDB
 - [historian](https://github.com/jcsalterego/historian) - Command-line utility for managing shell history in a SQLite database.
@@ -13113,7 +13113,7 @@
 - [theme-ui](https://github.com/system-ui/theme-ui) - Build consistent, themeable React apps based on constraint-based design principles
 - [lightweight-charts](https://github.com/tradingview/lightweight-charts) - Financial lightweight charts built with HTML5 canvas
 - [gh-card](https://github.com/nwtgck/gh-card) - :octocat: GitHub Repository Card for Any Web Site
-- [urql](https://github.com/FormidableLabs/urql) - The highly customizable and versatile GraphQL client.
+- [urql](https://github.com/FormidableLabs/urql) - The highly customizable and versatile GraphQL client with which you add on features like normalized caching as you grow.
 - [actions-gh-pages](https://github.com/peaceiris/actions-gh-pages) - GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly.
 - [pixi.js](https://github.com/pixijs/pixi.js) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
 - [terminus](https://github.com/Eugeny/terminus) - A terminal for a more modern age
@@ -13150,7 +13150,6 @@
 - [next-boilerplate](https://github.com/pankod/next-boilerplate) - A well-structured production ready Next.js boilerplate with Typescript, Redux, Jest, Enzyme, Express.js, Sass, Css, EnvConfig, Fetch, Reverse Proxy, Bundle Analyzer and Built-in Project CLI. https://pankod.github.io/next-boilerplate/
 - [vsf-payment-paypal](https://github.com/develodesign/vsf-payment-paypal) - Paypal payment module for Vue Storefront
 - [desktop-wallet](https://github.com/ArkEcosystem/desktop-wallet) - :computer: Multi Platform ARK Desktop Wallet
-- [squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
 - [material-angular-dashboard](https://github.com/CreativeIT/material-angular-dashboard) - Material Angular Admin Template
 - [wayne](https://github.com/Qihoo360/wayne) - Kubernetes multi-cluster management and publishing platform
 - [statusfy](https://github.com/juliomrqz/statusfy) - A Marvelous Open Source Status Page System
