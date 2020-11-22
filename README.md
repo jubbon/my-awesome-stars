@@ -1071,7 +1071,7 @@
 - [Terminus2049.github.io](https://github.com/Terminus2049/Terminus2049.github.io) - No more 404
 - [git-cheats](https://github.com/excalith/git-cheats) - Git Cheats - Interactive Cheatsheet For Git Commands
 - [KtAcademyPortal](https://github.com/MarcinMoskala/KtAcademyPortal) - Multiplatform Kotlin application of KotlinAcademy
-- [Metro-UI-CSS](https://github.com/olton/Metro-UI-CSS) - Build impressive responsive, mobile-first projects on the web with the first front-end component library in Metro Style and not only.
+- [Metro-UI-CSS](https://github.com/olton/Metro-UI-CSS) - Build impressive responsive projects on the web with the first front-end component library in Metro Style. And now there are even more opportunities every day!
 - [javascript-in-14-minutes](https://github.com/jgthms/javascript-in-14-minutes) - Learn the basics of JavaScript in 14 minutes
 - [security](https://github.com/xapax/security) - Stuff about it-security that might be good to know
 - [dejavu](https://github.com/appbaseio/dejavu) - The Missing Web UI for Elasticsearch: Import, browse and edit data with rich filters and query views, create search UIs visually.
@@ -1537,7 +1537,7 @@
 - [godog](https://github.com/cucumber/godog) - Cucumber for golang
 - [aws-vault](https://github.com/99designs/aws-vault) - A vault for securely storing and accessing AWS credentials in development environments
 - [go-gitlab](https://github.com/xanzy/go-gitlab) - A GitLab API client enabling Go programs to interact with GitLab in a simple and uniform way
-- [micro](https://github.com/micro/micro) - Micro is a platform for API driven backend development, cloud native applications and microservices
+- [micro](https://github.com/micro/micro) - Micro is an open source platform for API driven development, cloud native applications and Go based microservices
 - [go-github](https://github.com/google/go-github) - Go library for accessing the GitHub API
 - [nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
 - [migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
