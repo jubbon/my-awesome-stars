@@ -1580,7 +1580,7 @@
 - [lindb](https://github.com/lindb/lindb) - LinDB is a scalable, high performance, high availability distributed time series database.
 - [buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
 - [gotraining](https://github.com/ardanlabs/gotraining) - Go Training Class Material :
-- [nitro](https://github.com/asim/nitro) - Nitro (formerly known as Go Micro) is a blazingly fast framework for distributed app development, IoT, edge and p2p.
+- [nitro](https://github.com/asim/nitro) - Nitro (formerly known as Go Micro) is a future framework for distributed app development, IoT, edge and p2p.
 - [pipeline](https://github.com/tektoncd/pipeline) - A K8s-native Pipeline resource.
 - [prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
 - [k3v](https://github.com/ibuildthecloud/k3v) - Virtual Kubernetes
@@ -5763,6 +5763,7 @@
 
 ## Others 
 
+- [ScaledYOLOv4](https://github.com/WongKinYiu/ScaledYOLOv4) - 
 - [awesome-ML-projects-guide](https://github.com/dair-ai/awesome-ML-projects-guide) - A guide to building awesome machine learning projects.
 - [awesome-gans-and-deepfakes](https://github.com/enochkan/awesome-gans-and-deepfakes) - A curated list of GAN & Deepfake papers and repositories.
 - [EmotionLib](https://github.com/EmotionEngi/EmotionLib) - Simple dynamic library for video sentiment recognition
@@ -7054,9 +7055,9 @@
 - [gensim-data](https://github.com/RaRe-Technologies/gensim-data) - Data repository for pretrained NLP models and NLP corpora.
 - [sense2vec](https://github.com/explosion/sense2vec) - 🦆 Contextually-keyed word vectors
 - [remi](https://github.com/YatingMusic/remi) - "Pop Music Transformer: Beat-based Modeling and Generation of Expressive Pop Piano Compositions", ACM Multimedia 2020
-- [tianshou](https://github.com/thu-ml/tianshou) - An elegant, flexible, and superfast PyTorch deep reinforcement learning platform.
+- [tianshou](https://github.com/thu-ml/tianshou) - An elegant PyTorch deep reinforcement learning platform.
 - [pycls](https://github.com/facebookresearch/pycls) - Codebase for Image Classification Research, written in PyTorch.
-- [PaddleHub](https://github.com/PaddlePaddle/PaddleHub) - Toolkit for Pre-trained Model Application of PaddlePaddle（『飞桨』预训练模型应用工具 ）
+- [PaddleHub](https://github.com/PaddlePaddle/PaddleHub) - Awesome Pre-trained Models Toolkit Based on PaddlePaddle（180+ models，including CV、NLP、Audio and Video，onekey inference&serving）
 - [CurveFit](https://github.com/ihmeuw-msca/CurveFit) - Generic curve fitting package with nonlinear mixed effects model
 - [aristo-mini](https://github.com/allenai/aristo-mini) - Aristo mini is a light-weight question answering system that can quickly evaluate Aristo science questions with an evaluation web server and the provided baseline solvers.
 - [gym-gridworld](https://github.com/xinleipan/gym-gridworld) - Simple grid-world environment compatible with OpenAI-gym
@@ -9218,7 +9219,7 @@
 - [BoopSuite](https://github.com/MisterBianco/BoopSuite) - A Suite of Tools written in Python for wireless auditing and security testing.
 - [devol](https://github.com/joeddav/devol) - Genetic neural architecture search with Keras
 - [XX-Net](https://github.com/XX-net/XX-Net) - A proxy tool to bypass GFW.
-- [ArchiveBox](https://github.com/pirate/ArchiveBox) - 🗃 The open source self-hosted web archive. Takes browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
+- [ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 The open source self-hosted web archive. Takes browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [face_classification](https://github.com/oarriaga/face_classification) - Real-time face detection and emotion/gender classification using fer2013/imdb datasets with a keras CNN model and openCV.
 - [Chaos](https://github.com/Chaosthebot/Chaos) - A social coding experiment that updates its own code democratically.
 - [baselines](https://github.com/openai/baselines) - OpenAI Baselines: high-quality implementations of reinforcement learning algorithms
@@ -13187,7 +13188,7 @@
 - [draco](https://github.com/uwdata/draco) - Visualization Constraints and Weight Learning
 - [rete](https://github.com/retejs/rete) - JavaScript framework for visual programming and creating node editor
 - [phenomenon](https://github.com/vaneenige/phenomenon) - ⚡️ A fast 2kB low-level WebGL API.
-- [bit](https://github.com/teambit/bit) - Build, distribute and collaborate on components.
+- [bit](https://github.com/teambit/bit) - Build, distribute, and collaborate on components.
 - [face-api.js](https://github.com/justadudewhohacks/face-api.js) - JavaScript API for face detection and face recognition in the browser and nodejs with tensorflow.js
 - [xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
 - [probot](https://github.com/probot/probot) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
