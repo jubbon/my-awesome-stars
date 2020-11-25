@@ -1113,7 +1113,6 @@
 - [deeplearning.ai](https://github.com/XingxingHuang/deeplearning.ai) - The notes of Adrew Ng's coursera course: deeplearning.ai. Glad to answer any related questions, just email me.
 - [cryptocoins](https://github.com/AllienWorks/cryptocoins) - Cryptocoins is the most complete vector/webfont icon pack of your favourite cryptocurrencies
 - [vivify](https://github.com/Martz90/vivify) - Vivify is free CSS animation library.
-- [cheatsheets](https://github.com/rstacruz/cheatsheets) - My cheatsheets
 - [course-collaboration-travel-plans](https://github.com/udacity/course-collaboration-travel-plans) - 
 - [pev](https://github.com/AlexTatiyants/pev) - Postgres Explain Visualizer
 - [vue-notifyjs](https://github.com/BinarCode/vue-notifyjs) - Minimalist 1kb Notification component
@@ -1142,7 +1141,6 @@
 - [thunderbird-monterail](https://github.com/spymastermatt/thunderbird-monterail) - A set of themes for thunderbird inspired by a Monterail blog post
 - [workflow](https://github.com/deis/workflow) - The open source PaaS for Kubernetes.
 - [style](https://github.com/tidyverse/style) - The tidyverse style guide for R code
-- [papers-I-read](https://github.com/shagunsodhani/papers-I-read) - A-Paper-A-Week
 - [progit2](https://github.com/progit/progit2) - Pro Git 2nd Edition
 - [MakeGithubGreatAgain](https://github.com/DennisSnijder/MakeGithubGreatAgain) - Extension for making GitHub great again
 - [VueStar](https://github.com/OYsun/VueStar) - :sparkles:A like button with delightful star animation powered by Vue.js
@@ -1578,7 +1576,7 @@
 - [lindb](https://github.com/lindb/lindb) - LinDB is a scalable, high performance, high availability distributed time series database.
 - [buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
 - [gotraining](https://github.com/ardanlabs/gotraining) - Go Training Class Material :
-- [nitro](https://github.com/asim/nitro) - Nitro is a futuristic blazingly fast framework for distributed app development, IoT, edge and p2p.
+- [nitro](https://github.com/asim/nitro) - Nitro is a futuristic blazingly fast embeddable framework for distributed app development, IoT, edge and p2p.
 - [pipeline](https://github.com/tektoncd/pipeline) - A K8s-native Pipeline resource.
 - [prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
 - [k3v](https://github.com/ibuildthecloud/k3v) - Virtual Kubernetes
@@ -2178,7 +2176,6 @@
 - [30-Days-of-Python](https://github.com/codingforentrepreneurs/30-Days-of-Python) - A New Version of 30 Days of Python is nearly here. Get started today.
 - [CNN-Architectures](https://github.com/Machine-Learning-Tokyo/CNN-Architectures) - 
 - [docsy](https://github.com/google/docsy) - A set of Hugo doc templates for launching open source content.
-- [node-ytdl-core](https://github.com/fent/node-ytdl-core) - YouTube video downloader in javascript.
 - [amundsen](https://github.com/amundsen-io/amundsen) - Amundsen is a metadata driven application for improving the productivity of data analysts, data scientists and engineers when interacting with data.
 - [ml-workshop-3-of-4](https://github.com/amueller/ml-workshop-3-of-4) - Advanced Machine Learning with Scikit-learn part I
 - [nlpbuddy](https://github.com/eellak/nlpbuddy) - A text analysis application for performing common NLP tasks through a web dashboard interface and an API
@@ -2405,7 +2402,7 @@
 - [RSParser](https://github.com/Ranchero-Software/RSParser) - Parser for RSS, Atom, JSON Feed, RSS-inJSON, OPML, and HTML.
 - [iA-Fonts](https://github.com/iaolo/iA-Fonts) - Free variable writing fonts from iA
 - [Flask_Simple_Form](https://github.com/fossasia/Flask_Simple_Form) - Flask app with a Simple Form
-- [v-calendar](https://github.com/nathanreyes/v-calendar) - A lightweight, dependency-free plugin for building attributed calendars in Vue.js
+- [v-calendar](https://github.com/nathanreyes/v-calendar) - An elegant calendar and datepicker plugin for Vue.
 - [linux-tracing-workshop](https://github.com/goldshtn/linux-tracing-workshop) - Examples and hands-on labs for Linux tracing tools workshops
 - [webcomponents](https://github.com/WICG/webcomponents) - Web Components specifications
 - [CredSniper](https://github.com/ustayready/CredSniper) - CredSniper is a phishing framework written with the Python micro-framework Flask and Jinja2 templating which supports capturing 2FA tokens.
@@ -2857,6 +2854,7 @@
 - [displacy](https://github.com/explosion/displacy) - :boom: displaCy.js: An open-source NLP visualiser for the modern web
 - [javascript-interview-questions](https://github.com/sudheerj/javascript-interview-questions) - List of 1000 JavaScript Interview Questions
 - [endpoints-example](https://github.com/endpoints/endpoints-example) - an example api written using endpoints
+- [node-ytdl-core](https://github.com/fent/node-ytdl-core) - YouTube video downloader in javascript.
 - [web-skills](https://github.com/andreasbm/web-skills) - A visual overview of useful skills to learn as a web developer
 - [headless-cat-n-mouse](https://github.com/paulirish/headless-cat-n-mouse) - Is headless chrome currently detectable? Let's pit the detections and detection evasions against eachother.
 - [label-studio](https://github.com/heartexlabs/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format
@@ -3644,7 +3642,6 @@
 - [thal](https://github.com/emadehsan/thal) - Getting started with Puppeteer and Chrome Headless for Web Scraping
 - [easy-mock](https://github.com/easy-mock/easy-mock) - A persistent service that generates mock data quickly and provids visualization view.
 - [fastify](https://github.com/fastify/fastify) - Fast and low overhead web framework, for Node.js
-- [awx](https://github.com/ansible/awx) - AWX Project
 - [vue-vscode-snippets](https://github.com/sdras/vue-vscode-snippets) - These snippets were built to supercharge my workflow in the most seamless manner possible.
 - [nanoid](https://github.com/ai/nanoid) - A tiny (108 bytes), secure, URL-friendly, unique string ID generator for JavaScript
 - [webogram](https://github.com/zhukov/webogram) - Telegram web application, GPL v3
@@ -3764,7 +3761,7 @@
 - [react-pdf](https://github.com/diegomura/react-pdf) - 📄  Create PDF files using React
 - [fair-analytics](https://github.com/vesparny/fair-analytics) - 📊  An analytics server that doesn't undermine user's privacy
 - [britecharts](https://github.com/britecharts/britecharts) - Client-side reusable Charting Library based on D3.js v5 that allows easy and intuitive use of charts and components that can be composed together creating amazing visualizations.
-- [insomnia](https://github.com/Kong/insomnia) - The Open Source API Client and Design Platform for GraphQL and REST -&gt;
+- [insomnia](https://github.com/Kong/insomnia) - The Open Source API Client and Design Platform for GraphQL and REST
 - [mongorito](https://github.com/vadimdemedes/mongorito) - 🍹 MongoDB ODM for Node.js apps based on Redux
 - [prepack](https://github.com/facebook/prepack) - A JavaScript bundle optimizer.
 - [framework](https://github.com/totaljs/framework) - Node.js framework
@@ -4544,7 +4541,7 @@
 - [AdvBox](https://github.com/advboxes/AdvBox) - Advbox is a toolbox to generate adversarial examples that fool neural networks in PaddlePaddle、PyTorch、Caffe2、MxNet、Keras、TensorFlow and Advbox can benchmark the robustness of machine learning models.  Advbox give a command line tool to generate adversarial examples with Zero-Coding.
 - [ebookMLCB](https://github.com/tiepvupsu/ebookMLCB) - ebook Machine Learning cơ bản
 - [earthengine-py-notebooks](https://github.com/giswqs/earthengine-py-notebooks) - A collection of 360+ Jupyter Python notebook examples for using Google Earth Engine with interactive mapping
-- [h2o-3](https://github.com/h2oai/h2o-3) - Open Source Fast Scalable Machine Learning Platform For Smarter Applications: Deep Learning, Gradient Boosting & XGBoost, Random Forest, Generalized Linear Modeling (Logistic Regression, Elastic Net), K-Means, PCA, Stacked Ensembles, Automatic Machine Learning (AutoML), etc.
+- [h2o-3](https://github.com/h2oai/h2o-3) - H2O is an Open Source, Distributed, Fast & Scalable Machine Learning Platform: Deep Learning, Gradient Boosting (GBM) & XGBoost, Random Forest, Generalized Linear Modeling (GLM with Elastic Net), K-Means, PCA, Generalized Additive Models (GAM), RuleFit, Support Vector Machine (SVM), Stacked Ensembles, Automatic Machine Learning (AutoML), etc.
 - [deep_learning_2018-19](https://github.com/DLSchool/deep_learning_2018-19) - Официальный репозиторий курса Deep Learning (2018-2019) от Deep Learning School при ФПМИ МФТИ
 - [Algorithms-and-Coding-Interviews](https://github.com/liyin2015/Algorithms-and-Coding-Interviews) - Open source content from a book in progress, Hands-on Algorithmic Problem Solving
 - [c9-python-getting-started](https://github.com/microsoft/c9-python-getting-started) - Sample code for Channel 9 Python for Beginners course
@@ -6204,7 +6201,7 @@
 - [introducing-ethereum-solidity](https://github.com/Apress/introducing-ethereum-solidity) - Source code for 'Introducing Ethereum and Solidity' by Chris Dannen
 - [Xiaomi_Kernel_OpenSource](https://github.com/MiCode/Xiaomi_Kernel_OpenSource) - Xiaomi Mobile Phone Kernel OpenSource
 - [FreeML](https://github.com/Shujian2015/FreeML) - A List of Data Science/Machine Learning Resources (Mostly Free)
-- [javascript-knowhow](https://github.com/lidaguang1989/javascript-knowhow) - 
+- [javascript-knowhow](https://github.com/daniellidg/javascript-knowhow) - 
 - [proposals](https://github.com/tc39/proposals) - Tracking ECMAScript Proposals
 - [You-Dont-Know-JS](https://github.com/devSchacht/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
 - [ansible-vagrant-examples](https://github.com/geerlingguy/ansible-vagrant-examples) - Ansible examples using Vagrant to deploy to local VMs.
@@ -8945,6 +8942,7 @@
 - [domain_analyzer](https://github.com/eldraco/domain_analyzer) - Analyze the security of any domain by finding all the information possible. Made in python.
 - [hatch](https://github.com/ofek/hatch) - A modern project, package, and virtual env manager for Python
 - [tf.gans-comparison](https://github.com/khanrc/tf.gans-comparison) - Implementations of (theoretical) generative adversarial networks and comparison without cherry-picking
+- [awx](https://github.com/ansible/awx) - AWX Project
 - [flask_ishuhui](https://github.com/lufficc/flask_ishuhui) - Comic reading website built by flask.
 - [roamer](https://github.com/abaldwin88/roamer) - The Plain Text File Manager
 - [pytorch-generative-model-collections](https://github.com/znxlwm/pytorch-generative-model-collections) - Collection of generative models in Pytorch version.
@@ -8993,7 +8991,7 @@
 - [tinychain](https://github.com/jamesob/tinychain) - A pocket-sized implementation of Bitcoin
 - [pysc2](https://github.com/deepmind/pysc2) - StarCraft II Learning Environment
 - [pygorithm](https://github.com/OmkarPathak/pygorithm) - A Python module for learning all major algorithms
-- [incubator-tvm](https://github.com/apache/incubator-tvm) - Open deep learning compiler stack for cpu, gpu and specialized accelerators
+- [tvm](https://github.com/apache/tvm) - Open deep learning compiler stack for cpu, gpu and specialized accelerators
 - [SecGen](https://github.com/cliffe/SecGen) - Create randomly insecure VMs
 - [rl-teacher](https://github.com/nottombrown/rl-teacher) - Code for Deep RL from Human Preferences [Christiano et al]. Plus a webapp for collecting human feedback
 - [pytorch-visdom](https://github.com/alexsax/pytorch-visdom) - Support powerful visual logging in PyTorch.
@@ -12784,6 +12782,7 @@
 - [startbootstrap-coming-soon](https://github.com/StartBootstrap/startbootstrap-coming-soon) - A coming soon theme with a video background for Bootstrap 4
 - [vue-light-bootstrap-dashboard](https://github.com/creativetimofficial/vue-light-bootstrap-dashboard) - Vue Light Bootstrap Dashboard - FREE BOOTSTRAP 4 VUEJS ADMIN TEMPLATE
 - [papercss](https://github.com/papercss/papercss) - The Less Formal CSS Framework
+- [cheatsheets](https://github.com/rstacruz/cheatsheets) - My cheatsheets
 - [elixirschool](https://github.com/elixirschool/elixirschool) - Premier destination to learn and master the Elixir programming language
 - [slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 - [documentation](https://github.com/codeship/documentation) - Documentation for Codeship CI & CD service
@@ -12792,6 +12791,7 @@
 - [serverless-stack-com](https://github.com/AnomalyInnovations/serverless-stack-com) - Serverless Stack is an open source guide for building and deploying full-stack apps using Serverless and React on AWS.
 - [cs228-notes](https://github.com/ermongroup/cs228-notes) - Course notes for CS228: Probabilistic Graphical Models.
 - [devportfolio](https://github.com/RyanFitzgerald/devportfolio) - A lightweight, customizable single-page personal portfolio website template built with JavaScript and Sass
+- [papers-I-read](https://github.com/shagunsodhani/papers-I-read) - A-Paper-A-Week
 - [card](https://github.com/jessepollak/card) - :credit_card: make your credit card form better in one line of code
 - [grav-plugin-admin](https://github.com/getgrav/grav-plugin-admin) - Grav Admin Plugin
 - [calcite-web](https://github.com/Esri/calcite-web) - Authoritative front-end development resources for Calcite design initiative. Includes extendable base components and styles, as well as a modular and efficient framework for ArcGIS properties.
