@@ -1533,7 +1533,7 @@
 - [godog](https://github.com/cucumber/godog) - Cucumber for golang
 - [aws-vault](https://github.com/99designs/aws-vault) - A vault for securely storing and accessing AWS credentials in development environments
 - [go-gitlab](https://github.com/xanzy/go-gitlab) - A GitLab API client enabling Go programs to interact with GitLab in a simple and uniform way
-- [micro](https://github.com/micro/micro) - Micro is an open source platform for API driven Go services development and cloud native applications
+- [micro](https://github.com/micro/micro) - Micro is a platform for API driven Go services development
 - [go-github](https://github.com/google/go-github) - Go library for accessing the GitHub API
 - [nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
 - [migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
@@ -3564,7 +3564,7 @@
 - [magic_paper](https://github.com/mnielsen/magic_paper) - Experiments in an explorable visual medium for mathematics
 - [tikzcd-editor](https://github.com/yishn/tikzcd-editor) - A simple visual editor for creating commutative diagrams.
 - [server](https://github.com/franciscop/server) - :desktop_computer: Simple and powerful server for Node.js
-- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (November 2020)
+- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (December 2020)
 - [charts](https://github.com/frappe/charts) - Simple, responsive, modern SVG Charts with zero dependencies
 - [leaflet-control-orderlayers](https://github.com/elesdoar/leaflet-control-orderlayers) - Leaflet control with order functionality
 - [bottery](https://github.com/google/bottery) - 
@@ -9286,7 +9286,7 @@
 - [drawlikebobross](https://github.com/kendricktan/drawlikebobross) - Draw like Bob Ross using the power of Neural Networks (With PyTorch)!
 - [pytorch-rl](https://github.com/jingweiz/pytorch-rl) - Deep Reinforcement Learning with pytorch & visdom
 - [punter](https://github.com/nethunteros/punter) - Hunt domain names using DNSDumpster, WHOIS, Reverse WHOIS, Shodan, Crimeflare
-- [python-alexa](https://github.com/nmyster/python-alexa) - A Simple Python Library to make Alexa skill development easy when aimed used in Lambda
+- [python-alexa](https://github.com/njsnx/python-alexa) - A Simple Python Library to make Alexa skill development easy when aimed used in Lambda
 - [imgaug](https://github.com/aleju/imgaug) - Image augmentation for machine learning experiments.
 - [djangoql](https://github.com/ivelum/djangoql) - Advanced search language for Django
 - [colorful](https://github.com/timofurrer/colorful) - Terminal string styling done right, in Python :snake: :tada:
@@ -9687,7 +9687,7 @@
 - [mxnet-ssd](https://github.com/zhreshold/mxnet-ssd) - MXNet port of SSD: Single Shot MultiBox Object Detector.  Reimplementation of https://github.com/weiliu89/caffe/tree/ssd
 - [sqlalchemy](https://github.com/zzzeek/sqlalchemy) - THIS IS NOT THE OFFICIAL REPO - PLEASE SUBMIT PRs ETC AT: http://github.com/sqlalchemy/sqlalchemy
 - [cage](https://github.com/macostea/cage) - Develop and run your Python applications in clean Docker environments
-- [jsondiff](https://github.com/fzumstein/jsondiff) - Diff JSON and JSON-like structures in Python
+- [jsondiff](https://github.com/xlwings/jsondiff) - Diff JSON and JSON-like structures in Python
 - [easyargs](https://github.com/stedmeister/easyargs) - A python module to make handling command line arguments easy
 - [yip](https://github.com/balzss/yip) - Frontend for searching PyPI, a feature rich alternative to pip search
 - [illuminOS](https://github.com/idimitrakopoulos/illuminOS) - An open-source MicroPython based SDK for WiFi-enabled microcontrollers
@@ -12095,7 +12095,7 @@
 - [twosheds](https://github.com/Ceasar/twosheds) - Python library for making POSIX shells
 - [crate.pypi](https://github.com/crateio/crate.pypi) - 
 - [pythondigest](https://github.com/pythondigest/pythondigest) - Russian python newsletter (Python Digest)
-- [django-money](https://github.com/django-money/django-money) - Money fields for django forms and models.
+- [django-money](https://github.com/django-money/django-money) - Money fields for Django forms and models.
 - [django-admin-autoregister](https://github.com/Mimino666/django-admin-autoregister) - Snippet to automatically create and register admin classes for models.
 - [PyTeaser](https://github.com/xiaoxu193/PyTeaser) - Summarizes news articles
 - [rasterio](https://github.com/mapbox/rasterio) - Rasterio reads and writes geospatial raster datasets
@@ -13279,7 +13279,7 @@
 - [chromeless](https://github.com/prisma-archive/chromeless) - 🖥  Chrome automation made simple. Runs locally or headless on AWS Lambda.
 - [howtographql](https://github.com/howtographql/howtographql) - The Fullstack Tutorial for GraphQL
 - [apollo-fetch](https://github.com/apollographql/apollo-fetch) - :dog: Lightweight GraphQL client that supports middleware and afterware
-- [incubator-echarts](https://github.com/apache/incubator-echarts) - A powerful, interactive charting and data visualization library for browser
+- [incubator-echarts](https://github.com/apache/incubator-echarts) - Apache ECharts (incubating) is a powerful, interactive charting and data visualization library for browser
 - [vue-awesome-swiper](https://github.com/surmon-china/vue-awesome-swiper) - 🏆 Swiper component for @vuejs
 - [BlockchainStore](https://github.com/brakmic/BlockchainStore) - :moneybag: Retail Store that runs on Ethereum
 - [vue-typed](https://github.com/vue-typed/vue-typed) - Sets of ECMAScript / Typescript decorators that helps you write Vue component easily.
