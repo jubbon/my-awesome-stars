@@ -286,7 +286,7 @@
 - [pyrebox](https://github.com/Cisco-Talos/pyrebox) - Python scriptable Reverse Engineering Sandbox, a Virtual Machine instrumentation and inspection framework based on QEMU
 - [pgsql-ogr-fdw](https://github.com/pramsey/pgsql-ogr-fdw) - PostgreSQL foreign data wrapper for OGR
 - [vlc](https://github.com/videolan/vlc) - VLC media player - All pull requests are ignored, please follow https://wiki.videolan.org/Sending_Patches_VLC/
-- [lua](https://github.com/lua/lua) - The Lua repo, as seen by the Lua team. Mirrored irregularly. Please DO NOT send pull requests. Send issues/patches to the Lua mailing list https://www.lua.org/lua-l.html
+- [lua](https://github.com/lua/lua) - The Lua repo, as seen by the Lua team. Mirrored irregularly. Please DO NOT send pull requests. Send any issue to the Lua mailing list https://www.lua.org/lua-l.html
 - [panda](https://github.com/commaai/panda) - code powering the comma.ai panda
 - [casync](https://github.com/systemd/casync) - Content-Addressable Data Synchronization Tool
 - [timescaledb](https://github.com/timescale/timescaledb) - An open-source time-series SQL database optimized for fast ingest and complex queries.  Packaged as a PostgreSQL extension.
@@ -680,7 +680,7 @@
 - [glow](https://github.com/pytorch/glow) - Compiler for Neural Network hardware accelerators
 - [arrow](https://github.com/apache/arrow) - Apache Arrow is a cross-language development platform for in-memory data. It specifies a standardized language-independent columnar memory format for flat and hierarchical data, organized for efficient analytic operations on modern hardware. It also provides computational libraries and zero-copy streaming messaging and interprocess communication. Languages currently supported include C, C++, Java, JavaScript, Python, and Ruby.
 - [FaceKit](https://github.com/MagicRock100/FaceKit) - Implementations of PCN (an accurate real-time rotation-invariant face detector) and other face-related algorithms
-- [modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial) - 📚 Modern C++ Tutorial: C++11/14/17/20 On the Fly
+- [modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial) - 📚 Modern C++ Tutorial: C++11/14/17/20 On the Fly | https://changkun.de/modern-cpp/
 - [foundationdb](https://github.com/apple/foundationdb) - FoundationDB - the open source, distributed, transactional key-value store
 - [kiwi](https://github.com/nucleic/kiwi) - Efficient C++ implementation of the Cassowary constraint solving algorithm
 - [tcpflow](https://github.com/simsong/tcpflow) - TCP/IP packet demultiplexer. Download from:
@@ -918,7 +918,7 @@
 - [libui-node](https://github.com/parro-it/libui-node) - Node bindings for libui, an awesome native UI library for Unix, OSX and Windows
 - [Vulkan](https://github.com/SaschaWillems/Vulkan) - Examples and demos for the new Vulkan API
 - [persistent-rnn](https://github.com/baidu-research/persistent-rnn) - Fast Recurrent Networks Library
-- [ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse is a free analytics DBMS for big data
+- [ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a free analytics DBMS for big data
 - [keepassx](https://github.com/keepassx/keepassx) - KeePassX is a cross platform port of the windows application “Keepass Password Safe”.
 - [tiny-dnn](https://github.com/tiny-dnn/tiny-dnn) - header only, dependency-free deep learning framework in C++14
 - [mldb](https://github.com/mldbai/mldb) - MLDB is the Machine Learning Database
@@ -1533,7 +1533,7 @@
 - [godog](https://github.com/cucumber/godog) - Cucumber for golang
 - [aws-vault](https://github.com/99designs/aws-vault) - A vault for securely storing and accessing AWS credentials in development environments
 - [go-gitlab](https://github.com/xanzy/go-gitlab) - A GitLab API client enabling Go programs to interact with GitLab in a simple and uniform way
-- [micro](https://github.com/micro/micro) - Micro is a platform for API driven Go services development
+- [micro](https://github.com/micro/micro) - Micro is a cloud native development platform
 - [go-github](https://github.com/google/go-github) - Go library for accessing the GitHub API
 - [nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
 - [migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
@@ -2215,7 +2215,6 @@
 - [storytelling](https://github.com/mapbox/storytelling) - Storytelling with maps template
 - [PortFolio_Website](https://github.com/akashyap2013/PortFolio_Website) - Complete Portfolio Website with Bootstrap - HTML/CSS In this project, we are going to learn and build how to create a complete portfolio website with bootstrap using HTML and CSS. We will understand everything from scratch.
 - [DevOps-Guide](https://github.com/Tikam02/DevOps-Guide) - DevOps Guide from basic to advanced with Interview Questions and Notes 🔥
-- [ggstatsplot](https://github.com/IndrajeetPatil/ggstatsplot) - Enhancing `ggplot2` plots with statistical analysis 📊🎨📣
 - [pyvis](https://github.com/WestHealth/pyvis) - Python package for creating and visualizing interactive network graphs.
 - [moveit_tutorials](https://github.com/ros-planning/moveit_tutorials) - A sphinx-based centralized documentation repo for MoveIt
 - [sql-formatter](https://github.com/jdorn/sql-formatter) - A lightweight php class for formatting sql statements. Handles automatic indentation and syntax highlighting.
@@ -3885,7 +3884,6 @@
 - [js](https://github.com/turbo/js) - turbo.js - perform massive parallel computations in your browser with GPGPU.
 - [modestmaps-js](https://github.com/stamen/modestmaps-js) - Modest Maps javascript port
 - [keen-dataviz.js](https://github.com/keen/keen-dataviz.js) - Data Visualization Charting Library
-- [metrics-graphics](https://github.com/metricsgraphics/metrics-graphics) - A library optimized for concise and principled data graphics and layouts.
 - [google-autocomplete](https://github.com/gocanto/google-autocomplete) - Google Autocomplete Vue Componet
 - [progress-bar-animation](https://github.com/kdzwinel/progress-bar-animation) - Making a Doughnut Progress Bar - research notes
 - [lambda-refarch-mapreduce](https://github.com/awslabs/lambda-refarch-mapreduce) - This repo presents a reference architecture for running serverless MapReduce jobs. This has been implemented using AWS Lambda and Amazon S3.
@@ -4092,7 +4090,6 @@
 - [npm-check](https://github.com/dylang/npm-check) - Check for outdated, incorrect, and unused dependencies.
 - [blur-admin](https://github.com/akveo/blur-admin) - AngularJS Bootstrap Admin Panel Framework
 - [Styleguide](https://github.com/devbridge/Styleguide) - 
-- [postgraphile](https://github.com/graphile/postgraphile) - Execute one command (or mount one Node.js middleware) and get an instant high-performance GraphQL API for your PostgreSQL database!
 - [standard](https://github.com/standard/standard) - 🌟 JavaScript Style Guide, with linter & automatic code fixer
 - [scrape-it](https://github.com/IonicaBizau/scrape-it) - 🔮 A Node.js scraper for humans.
 - [Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the &lt;canvas&gt; tag
@@ -5631,7 +5628,6 @@
 - [anko](https://github.com/Kotlin/anko) - Pleasant Android application development
 - [kotlin-for-android-developers-zh](https://github.com/wangjiegulu/kotlin-for-android-developers-zh) - Kotlin for android developers in chinese.
 - [architecture-components-samples](https://github.com/android/architecture-components-samples) - Samples for Android Architecture Components.
-- [kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language
 - [flexbox-layout](https://github.com/google/flexbox-layout) - Flexbox for Android
 - [architecture-samples](https://github.com/android/architecture-samples) - A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.
 
@@ -6335,6 +6331,7 @@
 - [WebDeveloperSecurityChecklist](https://github.com/virajkulkarni14/WebDeveloperSecurityChecklist) - A checklist of important security issues you should consider when creating a web application.
 - [awesome-compilers](https://github.com/aalhour/awesome-compilers) - :sunglasses: Curated list of awesome resources on Compilers, Interpreters and Runtimes
 - [quickdraw-dataset](https://github.com/googlecreativelab/quickdraw-dataset) - Documentation on how to access and use the Quick, Draw! Dataset.
+- [kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language
 - [microgrants](https://github.com/nayafia/microgrants) - A list of microgrant programs for your good ideas
 - [awesome-web-security](https://github.com/qazbnm456/awesome-web-security) - 🐶 A curated list of Web Security materials and resources.
 - [algorithms-primer](https://github.com/stacygohyunsi/algorithms-primer) - A consolidated collection of resources for you to learn and understand algorithms and data structures easily.
@@ -9786,7 +9783,7 @@
 - [ck-tensorflow](https://github.com/ctuning/ck-tensorflow) - Collective Knowledge components for TensorFlow (code, data sets, models, packages, workflows):
 - [python-web-pdb](https://github.com/romanvm/python-web-pdb) - Web-based remote UI for Python's PDB debugger
 - [ck-autotuning](https://github.com/ctuning/ck-autotuning) - CK automation actions to let users implement portable, customizable and reusable program workflows for reproducible, collaborative and multi-objective benchmarking, optimization and SW/HW co-design:
-- [ck](https://github.com/ctuning/ck) - Collective Knowledge framework (CK) helps to organize any software project as a database of reusable components with common automation actions and extensible meta descriptions based on FAIR principles (findability, accessibility, interoperability, and reusability). See real-world use cases from MLPerf, Arm, General Motors, dividiti, IBM, ACM:
+- [ck](https://github.com/ctuning/ck) - Collective Knowledge framework (CK) helps to organize any software project as a database of reusable components with common automation actions and extensible meta descriptions based on FAIR principles (findability, accessibility, interoperability, and reusability). See real-world use cases from MLPerf, Arm, General Motors, dividiti, IBM and ACM:
 - [deconvfaces](https://github.com/somewacko/deconvfaces) - Generating faces with deconvolution networks
 - [whereami](https://github.com/kootenpv/whereami) - Uses WiFi signals :signal_strength: and machine learning to predict where you are
 - [dataset](https://github.com/openimages/dataset) - The Open Images dataset
@@ -12534,6 +12531,7 @@
 - [cleanNLP](https://github.com/statsmaths/cleanNLP) - R package providing annotators and a normalized data model for natural language processing
 - [timetk](https://github.com/business-science/timetk) - A toolkit for working with time series in R
 - [bidifac](https://github.com/lockEF/bidifac) - Bidimensional matrix factorization
+- [ggstatsplot](https://github.com/IndrajeetPatil/ggstatsplot) - Enhancing `ggplot2` plots with statistical analysis 📊🎨📣
 - [aws.iam](https://github.com/cloudyr/aws.iam) - AWS IAM Client Package
 - [nyc-trips](https://github.com/Quartz/nyc-trips) - Analysis of rideshare trips taken in New York City.
 - [fst](https://github.com/fstpackage/fst) - Lightning Fast Serialization of Data Frames for R
@@ -13307,6 +13305,7 @@
 - [cyclejs](https://github.com/cyclejs/cyclejs) - A functional and reactive JavaScript framework for predictable code
 - [md2googleslides](https://github.com/googleworkspace/md2googleslides) - Generate Google Slides from markdown
 - [stanza](https://github.com/legastero/stanza) - Modern XMPP, with a JSON API
+- [metrics-graphics](https://github.com/metricsgraphics/metrics-graphics) - A library optimized for concise and principled data graphics and layouts.
 - [code-gov-web](https://github.com/GSA/code-gov-web) - DEPRECATED 🛑- Federal Source Code policy implementation.
 - [SIP.js](https://github.com/onsip/SIP.js) - A simple, intuitive, and powerful JavaScript signaling library
 - [peerjs](https://github.com/peers/peerjs) - Simple peer-to-peer with WebRTC
@@ -13336,6 +13335,7 @@
 - [ionicons](https://github.com/ionic-team/ionicons) - Premium hand-crafted icons built by Ionic, for Ionic apps and web apps everywhere 🌎
 - [playground](https://github.com/tensorflow/playground) - Play with neural networks!
 - [bricklayer](https://github.com/ademilter/bricklayer) - Lightweight and independent Pinterest-like cascading grid layout library
+- [postgraphile](https://github.com/graphile/postgraphile) - Execute one command (or mount one Node.js middleware) and get an instant high-performance GraphQL API for your PostgreSQL database!
 - [storybook](https://github.com/storybookjs/storybook) - 📓 The UI component explorer. Develop, document, & test for React, Vue, Angular, Ember, Web Components, & more!
 - [growth-ionic](https://github.com/phodal/growth-ionic) - [v2.0 DEPRECATED, please update to Growth 3.0] Growth - App to help you Be Awesome Developer & Awesome Hacker
 - [nativefier](https://github.com/jiahaog/nativefier) - Make any web page a desktop application
