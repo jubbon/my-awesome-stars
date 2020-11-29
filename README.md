@@ -482,6 +482,7 @@
 
 ## C++ 
 
+- [JamSpell](https://github.com/bakwc/JamSpell) - Modern spell checking library - accurate, fast, multi-language
 - [aot](https://github.com/sokirko74/aot) - Seman is a set of linguistic tools to analyze Russian or German texts, it contains lexicons and grammars. The project is interesting as a base line for many research projects in computer linguistics area.
 - [ORB_SLAM3](https://github.com/UZ-SLAMLab/ORB_SLAM3) - ORB-SLAM3: An Accurate Open-Source Library for Visual, Visual-Inertial and Multi-Map SLAM
 - [neuropod](https://github.com/uber/neuropod) - A uniform interface to run deep learning models from multiple frameworks
@@ -6795,6 +6796,7 @@
 
 ## Python 
 
+- [tn2-wg](https://github.com/alphacep/tn2-wg) - Tacotron2 + Waveglow Russian
 - [haystack](https://github.com/deepset-ai/haystack) - :mag: Transformers at scale for question answering & neural search. Using NLP via a modular Retriever-Reader-Pipeline. Supporting DPR, Elasticsearch, HuggingFace's Modelhub...
 - [BentoML](https://github.com/bentoml/BentoML) - Model Serving Made Easy
 - [eisen-core](https://github.com/eisen-ai/eisen-core) - Core functionality of Eisen
@@ -13164,7 +13166,7 @@
 - [tween.js](https://github.com/tweenjs/tween.js) - JavaScript animation engine
 - [grafana-statusmap](https://github.com/flant/grafana-statusmap) - Grafana panel plugin to visualize status of multiple objects over time
 - [strest](https://github.com/eykrehbein/strest) - ⚡️ CI-ready tests for REST APIs configured in YAML
-- [misskey](https://github.com/syuilo/misskey) - 🌎 A federated blogging platform 🚀
+- [misskey](https://github.com/syuilo/misskey) - 🌎 A interplanetary blogging platform 🚀
 - [BLOG_DESKTOP](https://github.com/Yancey-Blog/BLOG_DESKTOP) - Yancey Official Blog for PC.
 - [vscode-org-mode](https://github.com/vscode-org-mode/vscode-org-mode) - Emacs Org Mode for Visual Studio Code
 - [vuex-persist](https://github.com/championswimmer/vuex-persist) - A Vuex plugin to persist the store. (Fully Typescript enabled)
