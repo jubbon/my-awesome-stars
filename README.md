@@ -1534,7 +1534,7 @@
 - [godog](https://github.com/cucumber/godog) - Cucumber for golang
 - [aws-vault](https://github.com/99designs/aws-vault) - A vault for securely storing and accessing AWS credentials in development environments
 - [go-gitlab](https://github.com/xanzy/go-gitlab) - A GitLab API client enabling Go programs to interact with GitLab in a simple and uniform way
-- [micro](https://github.com/micro/micro) - Micro is a cloud native development platform
+- [micro](https://github.com/micro/micro) - Micro is a platform for API driven development
 - [go-github](https://github.com/google/go-github) - Go library for accessing the GitHub API
 - [nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
 - [migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
@@ -10968,7 +10968,7 @@
 - [procedural_city_generation](https://github.com/josauder/procedural_city_generation) - Procedural City Generation program implemented in Python and Visualized with Blender.
 - [dnsteal](https://github.com/m57/dnsteal) - DNS Exfiltration tool for stealthily sending files over DNS requests.
 - [rc-data](https://github.com/deepmind/rc-data) - Question answering dataset featured in "Teaching Machines to Read and Comprehend
-- [Parser](https://github.com/ReceiptManager/Parser) - A supermarket receipt parser written in Python using tesseract OCR
+- [receipt-parser](https://github.com/ReceiptManager/receipt-parser) - A supermarket receipt parser written in Python using tesseract OCR
 - [invatar](https://github.com/Bekt/invatar) - Invatar is a free service for generating fully customizable avatars with initials.
 - [jupyter-themer](https://github.com/transcranial/jupyter-themer) - Apply custom CSS styling to your jupyter notebooks
 - [safe-commit-hook](https://github.com/jandre/safe-commit-hook) - pre-commit hook for Git that checks for suspicious files.
