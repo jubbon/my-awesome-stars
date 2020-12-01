@@ -2110,7 +2110,7 @@
 - [vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices
 - [teleport](https://github.com/gravitational/teleport) - Secure Access for Developers that doesn't get in the way.
 - [gallium](https://github.com/alexflint/gallium) - Build desktop applications in Go and HTML.
-- [eliasdb](https://github.com/krotik/eliasdb) - EliasDB is a graph-based database.
+- [eliasdb](https://github.com/krotik/eliasdb) - EliasDB a graph-based database.
 - [httpstat](https://github.com/davecheney/httpstat) - It's like curl -v, with colours.
 - [influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
 - [minio](https://github.com/minio/minio) - High Performance, Kubernetes Native Object Storage
@@ -3161,7 +3161,7 @@
 - [galio](https://github.com/galio-org/galio) - Galio is a beautifully designed, Free and Open Source React Native Framework
 - [webpack-demos](https://github.com/dongyuanxin/webpack-demos) - 📦 Demos && Courses for Webpack 4
 - [jsonmc](https://github.com/jsonmc/jsonmc) - JSON Movie Collection
-- [percollate](https://github.com/danburzo/percollate) - A command-line tool to turn web pages into beautiful, readable documents in PDF, EPUB, or HTML format.
+- [percollate](https://github.com/danburzo/percollate) - A command-line tool to turn web pages into beautiful, readable PDF, EPUB, or HTML docs.
 - [graphpack](https://github.com/glennreyes/graphpack) - ☄️ A minimalistic zero-config GraphQL server.
 - [omi](https://github.com/Tencent/omi) - Front End Cross-Frameworks Framework - 前端跨框架跨平台框架
 - [33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 concepts every JavaScript developer should know.
@@ -4413,6 +4413,7 @@
 
 ## Jupyter Notebook 
 
+- [RussianSuperGLUE](https://github.com/RussianNLP/RussianSuperGLUE) - Russian SuperGLUE benchmark
 - [2020_benfords](https://github.com/cjph8914/2020_benfords) - 
 - [vision_transformer](https://github.com/google-research/vision_transformer) - 
 - [fastdoc](https://github.com/fastai/fastdoc) - Create publication-quality books from Jupyter notebooks
@@ -5420,7 +5421,7 @@
 - [teaching-material](https://github.com/kuleshov/teaching-material) - Teaching materials for the machine learning and deep learning classes at Stanford and Cornell
 - [Algorithms-and-Data-structures](https://github.com/pattu777/Algorithms-and-Data-structures) - IPython notebooks of common data structures and algorithms
 - [PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook) - Python Data Science Handbook: full text in Jupyter Notebooks
-- [ml4a-guides](https://github.com/ml4a/ml4a-guides) - practical guides, tutorials, and code samples for ml4a
+- [ml4a](https://github.com/ml4a/ml4a) - practical guides, tutorials, and code samples for ml4a
 - [scikit-learn-videos](https://github.com/justmarkham/scikit-learn-videos) - Jupyter notebooks from the scikit-learn video series
 - [urban-data-science](https://github.com/gboeing/urban-data-science) - Course materials, Jupyter notebooks, tutorials, guides, and demos for a Python-based urban data science course.
 - [DeepLearning-NLP](https://github.com/rouseguy/DeepLearning-NLP) - Introduction to Deep Learning for Natural Language Processing
@@ -6796,6 +6797,7 @@
 
 ## Python 
 
+- [haven-ai](https://github.com/haven-ai/haven-ai) - 
 - [tn2-wg](https://github.com/alphacep/tn2-wg) - Tacotron2 + Waveglow Russian
 - [haystack](https://github.com/deepset-ai/haystack) - :mag: Transformers at scale for question answering & neural search. Using NLP via a modular Retriever-Reader-Pipeline. Supporting DPR, Elasticsearch, HuggingFace's Modelhub...
 - [BentoML](https://github.com/bentoml/BentoML) - Model Serving Made Easy
@@ -6935,7 +6937,7 @@
 - [hedwig](https://github.com/castorini/hedwig) - PyTorch deep learning models for document classification
 - [wikipedia2vec](https://github.com/wikipedia2vec/wikipedia2vec) - A tool for learning vector representations of words and entities from Wikipedia
 - [BPT](https://github.com/yzh119/BPT) - Source code of paper "BP-Transformer: Modelling Long-Range Context via Binary Partitioning"
-- [deal](https://github.com/life4/deal) - Design by contract for Python with many validators support.
+- [deal](https://github.com/life4/deal) - Design by contract for Python with static checker and tests' generation.
 - [jukebox](https://github.com/openai/jukebox) - Code for the paper "Jukebox: A Generative Model for Music"
 - [pytorch-YOLOv4](https://github.com/Tianxiaomo/pytorch-YOLOv4) - PyTorch ,ONNX and TensorRT implementation of YOLOv4
 - [extract-news-api](https://github.com/kotartemiy/extract-news-api) - Flask code to deploy an API that pulls structured data from online news articles
@@ -7058,7 +7060,7 @@
 - [CurveFit](https://github.com/ihmeuw-msca/CurveFit) - Generic curve fitting package with nonlinear mixed effects model
 - [aristo-mini](https://github.com/allenai/aristo-mini) - Aristo mini is a light-weight question answering system that can quickly evaluate Aristo science questions with an evaluation web server and the provided baseline solvers.
 - [gym-gridworld](https://github.com/xinleipan/gym-gridworld) - Simple grid-world environment compatible with OpenAI-gym
-- [asteroid](https://github.com/mpariente/asteroid) - The PyTorch-based audio source separation toolkit for researchers
+- [asteroid](https://github.com/asteroid-team/asteroid) - The PyTorch-based audio source separation toolkit for researchers
 - [deap](https://github.com/DEAP/deap) - Distributed Evolutionary Algorithms in Python
 - [ESRGAN](https://github.com/xinntao/ESRGAN) - ECCV18 Workshops - Enhanced SRGAN. Champion PIRM Challenge on Perceptual Super-Resolution. The training codes are in BasicSR.
 - [minimal-hand](https://github.com/CalciferZh/minimal-hand) - A minimal solution to hand motion capture from a single color camera at over 100fps. Easy to use, plug to run.
@@ -8309,7 +8311,7 @@
 - [asyncio-doc](https://github.com/asyncio-docs/asyncio-doc) - Asyncio documentation
 - [kombu](https://github.com/celery/kombu) - Messaging library for Python.
 - [aio-pika](https://github.com/mosquito/aio-pika) - AMQP 0.9 client designed for asyncio and humans.
-- [brotlipy](https://github.com/python-hyper/brotlipy) - Python bindings to the Brotli compression library
+- [brotlicffi](https://github.com/python-hyper/brotlicffi) - Python bindings to the Brotli compression library
 - [pytorch-template](https://github.com/victoresque/pytorch-template) - PyTorch deep learning projects made easy.
 - [djangox](https://github.com/wsvincent/djangox) - Django starter project with 🔋
 - [GyoiThon](https://github.com/gyoisamurai/GyoiThon) - GyoiThon is a growing penetration test tool using Machine Learning.
@@ -9127,7 +9129,6 @@
 - [Nodz](https://github.com/LeGoffLoic/Nodz) - Nodz : Visualize your data - Free nodes based graph generator.
 - [speedml](https://github.com/Speedml/speedml) - Speedml is a Python package to speed start machine learning projects.
 - [PyTree](https://github.com/PixelwarStudio/PyTree) - Package for generating and drawing (fractal)trees.
-- [squealy](https://github.com/hashedin/squealy) - Generate APIs from SQL Queries
 - [django-migrations-graph](https://github.com/dizballanze/django-migrations-graph) - Django-admin command to display migrations with dependencies.
 - [wscelery](https://github.com/johan-sports/wscelery) - Real time celery monitoring using websockets
 - [JSON-path](https://github.com/jabbalaci/JSON-path) - Find the path of a key / value in a JSON hierarchy easily.
@@ -13176,7 +13177,7 @@
 - [windows95](https://github.com/felixrieseberg/windows95) - 💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.
 - [worker-dom](https://github.com/ampproject/worker-dom) - The same DOM API and Frameworks you know, but in a Web Worker.
 - [vue-golden-layout](https://github.com/emedware/vue-golden-layout) - Golden layout integration in vue
-- [whalebird-desktop](https://github.com/h3poteto/whalebird-desktop) - An Electron based Mastodon and Pleroma client for Windows, Mac and Linux
+- [whalebird-desktop](https://github.com/h3poteto/whalebird-desktop) - An Electron based Mastodon, Pleroma and Misskey client for Windows, Mac and Linux
 - [polar-bookshelf](https://github.com/burtonator/polar-bookshelf) - Polar is a personal knowledge repository for PDF and web content supporting incremental reading and document annotation.
 - [js-lingui](https://github.com/lingui/js-lingui) - 🌍📖 A readable, automated, and optimized (5 kb) internationalization for JavaScript
 - [the-platform](https://github.com/jaredpalmer/the-platform) - Web. Components. 😂
