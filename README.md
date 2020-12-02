@@ -1614,7 +1614,7 @@
 - [astro](https://github.com/uber/astro) - Astro is a tool for managing multiple Terraform executions as a single command
 - [cortex](https://github.com/cortexlabs/cortex) - Deploy machine learning models to production
 - [cds](https://github.com/ovh/cds) - Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform
-- [k3s](https://github.com/rancher/k3s) - Lightweight Kubernetes
+- [k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes
 - [docui](https://github.com/skanehira/docui) - TUI Client for Docker
 - [Gorsair](https://github.com/Ullaakut/Gorsair) - Gorsair hacks its way into remote docker containers that expose their APIs
 - [gitin](https://github.com/isacikgoz/gitin) - commit/branch/workdir explorer for git
@@ -2812,7 +2812,7 @@
 - [selenium](https://github.com/SeleniumHQ/selenium) - A browser automation framework and ecosystem.
 - [notes](https://github.com/donnemartin/notes) - Android app for taking notes: Text, photos, audio, photos, and soon videos
 - [ctci](https://github.com/careercup/ctci) - Cracking the Coding Interview, 5th Edition
-- [CLAVIN](https://github.com/Novetta/CLAVIN) - CLAVIN (Cartographic Location And Vicinity INdexer) is an open source software package for document geotagging and geoparsing that employs context-based geographic entity resolution.
+- [CLAVIN](https://github.com/Novetta/CLAVIN) - CLAVIN (Cartographic Location And Vicinity INdexer) is an open source software package for document geoparsing and georesolution that employs context-based geographic entity resolution.
 - [gazetteer](https://github.com/kiselev-dv/gazetteer) - OSM ElasticSearch geocoder and addresses exporter
 - [photon](https://github.com/komoot/photon) - an open source geocoder for openstreetmap data
 - [stampede](https://github.com/torodb/stampede) - The ToroDB solution to provide better analytics on top of MongoDB and make it easier to migrate from MongoDB to SQL
@@ -6417,6 +6417,7 @@
 - [awesome-p2p](https://github.com/mafintosh/awesome-p2p) - List of great p2p resources
 - [webpack-tricks](https://github.com/rstacruz/webpack-tricks) - Tips and tricks in using Webpack
 - [Face-Resources](https://github.com/betars/Face-Resources) - 
+- [awesome-functional-python](https://github.com/sfermigier/awesome-functional-python) - A curated list of awesome things related to functional programming in Python.
 - [stack-on-a-budget](https://github.com/255kb/stack-on-a-budget) - A collection of services with great free tiers for developers on a budget. Sponsored by Mockoon, the best mock API tool. https://mockoon.com
 - [awesome-bits](https://github.com/keon/awesome-bits) - :computer: A curated list of awesome bitwise operations and tricks
 - [ganhacks](https://github.com/soumith/ganhacks) - starter from "How to Train a GAN?" at NIPS2016
@@ -7581,7 +7582,7 @@
 - [pytorch-mobilenet-v3](https://github.com/kuan-wang/pytorch-mobilenet-v3) - MobileNetV3 in pytorch and ImageNet pretrained models
 - [transfer-learning-conv-ai](https://github.com/huggingface/transfer-learning-conv-ai) - 🦄 State-of-the-Art Conversational AI with Transfer Learning
 - [lighttrack](https://github.com/Guanghan/lighttrack) - LightTrack: A Generic Framework for Online Top-Down Human Pose Tracking
-- [spending-tracker](https://github.com/j-c-peters/spending-tracker) - A simple, unified view of your transaction history across all your payment methods
+- [spending-tracker](https://github.com/peters-josh/spending-tracker) - A simple, unified view of your transaction history across all your payment methods
 - [fast-autoaugment](https://github.com/kakaobrain/fast-autoaugment) - Official Implementation of 'Fast AutoAugment' in PyTorch.
 - [ridge_map](https://github.com/ColCarroll/ridge_map) - Ridge plots of ridges
 - [modDetective](https://github.com/itsKindred/modDetective) - modDetective is a small Python tool that chronologizes files based on modification time in order to investigate recent system activity.
@@ -9556,7 +9557,6 @@
 - [pynamical](https://github.com/gboeing/pynamical) - Pynamical is a Python package for modeling and visualizing discrete nonlinear dynamical systems, chaos, and fractals.
 - [container-images](https://github.com/IntelPython/container-images) - Dockerfiles for building docker images
 - [Wifi-Dumper](https://github.com/Viralmaniar/Wifi-Dumper) - This is an open source tool to dump the wifi profiles and cleartext passwords of the connected access points on the Windows machine. This tool will help you in a Wifi penetration testing. Furthermore, it is useful while performing red team or an internal infrastructure engagements.
-- [awesome-functional-python](https://github.com/sfermigier/awesome-functional-python) - 
 - [harmonicConvolutions](https://github.com/deworrall92/harmonicConvolutions) - Deep Translation and Rotation Equivariance
 - [RogueBot](https://github.com/YogurtTheHorse/RogueBot) - My simple rogue-like game for Telegram
 - [electricitymap-contrib](https://github.com/tmrowco/electricitymap-contrib) - A real-time visualisation of the CO2 emissions of electricity consumption
@@ -9675,7 +9675,7 @@
 - [warren](https://github.com/torchhound/warren) - Links to lose yourself in, curated from HN and other sources
 - [kq](https://github.com/joowani/kq) - Kafka-based Job Queue for Python
 - [fast-style-transfer](https://github.com/lengstrom/fast-style-transfer) - TensorFlow CNN for fast style transfer ⚡🖥🎨🖼
-- [jinjasql](https://github.com/hashedin/jinjasql) - Template Language for SQL with Automatic Bind Parameter Extraction
+- [jinjasql](https://github.com/sripathikrishnan/jinjasql) - Template Language for SQL with Automatic Bind Parameter Extraction
 - [knowledge-repo](https://github.com/airbnb/knowledge-repo) - A next-generation curated knowledge sharing platform for data scientists and other technical professions.
 - [stack-overflow-import](https://github.com/drathier/stack-overflow-import) - Import arbitrary code from Stack Overflow as Python modules.
 - [magenta](https://github.com/magenta/magenta) - Magenta: Music and Art Generation with Machine Intelligence
@@ -13424,7 +13424,7 @@
 - [vue-crud](https://github.com/what-crud/vue-crud) - Vue.js based REST-ful CRUD system
 - [vue-music-webapp](https://github.com/caijinyc/vue-music-webapp) - A Music WebApp based on the Vue.
 - [vant-demo](https://github.com/youzan/vant-demo) - Collection of vant demos.
-- [vue2-gmap-custom-marker](https://github.com/eregnier/vue2-gmap-custom-marker) - vue 2 google map custom marker component
+- [vue2-gmap-custom-marker](https://github.com/eregnier/vue2-gmap-custom-marker) - vue google map custom marker component
 - [el-data-table](https://github.com/FEMessage/el-data-table) - 🥘Base on element-ui, makes crud easily
 - [palette](https://github.com/mand-mobile/palette) - 🎨 A visual theme editing tool for Mand Mobile
 - [vue-tree-list](https://github.com/ParadeTo/vue-tree-list) - 🌲A vue component for tree structure
