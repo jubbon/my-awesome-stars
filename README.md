@@ -573,7 +573,7 @@
 - [jetson-inference](https://github.com/dusty-nv/jetson-inference) - Hello AI World guide to deploying deep-learning inference networks and deep vision primitives with TensorRT and NVIDIA Jetson.
 - [mapbox-gl-native](https://github.com/mapbox/mapbox-gl-native) - Interactive, thoroughly customizable maps in native Android, iOS, macOS, Node.js, and Qt applications, powered by vector tiles and OpenGL
 - [pfaedle](https://github.com/ad-freiburg/pfaedle) - Precise map-matching for public transit feeds. Generates high-quality GTFS shapes from OSM data.
-- [taskflow](https://github.com/taskflow/taskflow) - Parallel and Heterogeneous Task Programming in Modern C++
+- [taskflow](https://github.com/taskflow/taskflow) - A General-purpose Parallel and Heterogeneous Task Programming System
 - [YouTokenToMe](https://github.com/VKCOM/YouTokenToMe) - Unsupervised text tokenizer focused on computational efficiency
 - [griddb](https://github.com/griddb/griddb) - GridDB is a next-generation open source database that makes time series IoT and big data fast,and easy.
 - [server](https://github.com/triton-inference-server/server) - The Triton Inference Server provides an optimized cloud and edge inferencing solution.
@@ -3761,7 +3761,7 @@
 - [react-pdf](https://github.com/diegomura/react-pdf) - 📄  Create PDF files using React
 - [fair-analytics](https://github.com/vesparny/fair-analytics) - 📊  An analytics server that doesn't undermine user's privacy
 - [britecharts](https://github.com/britecharts/britecharts) - Client-side reusable Charting Library based on D3.js v5 that allows easy and intuitive use of charts and components that can be composed together creating amazing visualizations.
-- [insomnia](https://github.com/Kong/insomnia) - The Open Source API Client and Design Platform for GraphQL and REST
+- [insomnia](https://github.com/Kong/insomnia) - The Open Source API Client and Design Platform for GraphQL, REST and gRPC
 - [mongorito](https://github.com/vadimdemedes/mongorito) - 🍹 MongoDB ODM for Node.js apps based on Redux
 - [prepack](https://github.com/facebook/prepack) - A JavaScript bundle optimizer.
 - [framework](https://github.com/totaljs/framework) - Node.js framework
@@ -5594,6 +5594,7 @@
 - [multiple-recessives](https://github.com/wintermind/multiple-recessives) - Programs for simulation of strategies for managing multiple recessives in a dairy cattle population.
 - [IRkernel](https://github.com/IRkernel/IRkernel) - R kernel for Jupyter
 - [BinPy](https://github.com/BinPy/BinPy) - An electronic simulation library written in pure Python
+- [cubehelix](https://github.com/jradavenport/cubehelix) - A full implementation of Dave Green's "cubehelix" colormap for Python
 - [scientific-python-lectures](https://github.com/jrjohansson/scientific-python-lectures) - Lectures on scientific computing with python, as IPython notebooks.
 - [ipython-in-depth](https://github.com/ipython/ipython-in-depth) - IPython and Jupyter in-depth Tutorial, first presented at PyCon 2012
 - [sklearn_pycon2014](https://github.com/jakevdp/sklearn_pycon2014) - Repository containing files for my PyCon 2014 scikit-learn tutorial.
@@ -7057,7 +7058,7 @@
 - [remi](https://github.com/YatingMusic/remi) - "Pop Music Transformer: Beat-based Modeling and Generation of Expressive Pop Piano Compositions", ACM Multimedia 2020
 - [tianshou](https://github.com/thu-ml/tianshou) - An elegant PyTorch deep reinforcement learning platform.
 - [pycls](https://github.com/facebookresearch/pycls) - Codebase for Image Classification Research, written in PyTorch.
-- [PaddleHub](https://github.com/PaddlePaddle/PaddleHub) - Awesome Pre-trained Models Toolkit Based on PaddlePaddle（180+ models, including CV, NLP, Audio and Video, Onekey Inference&Serving）
+- [PaddleHub](https://github.com/PaddlePaddle/PaddleHub) - Awesome pre-trained models toolkit based on PaddlePaddle.（180+ models including CV, NLP, Audio and Video with Easy Inference & Serving deployment)
 - [CurveFit](https://github.com/ihmeuw-msca/CurveFit) - Generic curve fitting package with nonlinear mixed effects model
 - [aristo-mini](https://github.com/allenai/aristo-mini) - Aristo mini is a light-weight question answering system that can quickly evaluate Aristo science questions with an evaluation web server and the provided baseline solvers.
 - [gym-gridworld](https://github.com/xinleipan/gym-gridworld) - Simple grid-world environment compatible with OpenAI-gym
@@ -7100,7 +7101,7 @@
 - [RIMs](https://github.com/anirudh9119/RIMs) - Code for "Recurrent Independent Mechanisms"
 - [PathCon](https://github.com/hwwang55/PathCon) - Combining relational context and relational paths for knowledge graph completion
 - [MAST](https://github.com/zlai0/MAST) - MAST: A Memory-Augmented Self-supervised Tracker (CVPR 2020)
-- [self-adaptive-training](https://github.com/LayneH/self-adaptive-training) - Official implementation of the NeurIPS 2020 paper 'Self-Adaptive Training: beyond Empirical Risk Minimization'
+- [self-adaptive-training](https://github.com/LayneH/self-adaptive-training) - Official implementation of the NeurIPS'2020 paper 'Self-Adaptive Training: beyond Empirical Risk Minimization'
 - [FreezeD](https://github.com/sangwoomo/FreezeD) - Freeze the Discriminator: a Simple Baseline for Fine-Tuning GANs (CVPRW 2020)
 - [centermask2](https://github.com/youngwanLEE/centermask2) - CenterMask2 on top of detectron2, in CVPR 2020
 - [CenterNet-better](https://github.com/FateScript/CenterNet-better) - An easy to understand and better performance version of CenterNet
@@ -9661,7 +9662,7 @@
 - [gTTS](https://github.com/pndurette/gTTS) - Python library and CLI tool to interface with Google Translate's text-to-speech API
 - [material-theme](https://github.com/equinusocio/material-theme) - Material Theme, the most epic theme for Sublime Text 3 by Mattia Astorino
 - [shifter](https://github.com/rgamba/shifter) - Cassandra Migration Tool
-- [django-traffic](https://github.com/koslibpro/django-traffic) - Django middleware that helps visualize your app's traffic in Kibana
+- [django-traffic](https://github.com/koslib/django-traffic) - Django middleware that helps visualize your app's traffic in Kibana
 - [pyhooks](https://github.com/Shir0kamii/pyhooks) - Python hooks for methods
 - [flasksr](https://github.com/arpitbbhayani/flasksr) - Make flask pages load faster and better by streaming partial HTTP Responses :boom:
 - [fTerm](https://github.com/fTerm/fTerm) - The Bourne Again Shell, but for Humans.
@@ -11665,7 +11666,6 @@
 - [copytext](https://github.com/nprapps/copytext) - A library for accessing a spreadsheet as a native Python object suitable for templating.
 - [dj-libcloud](https://github.com/pydanny/dj-libcloud) - Adds easy python 3 and 2.7 support to Django for management of static assets.
 - [RATDecoders](https://github.com/kevthehermit/RATDecoders) - Python Decoders for Common Remote Access Trojans
-- [cubehelix](https://github.com/jradavenport/cubehelix) - A full implementation of Dave Green's "cubehelix" colormap for Python
 - [goless](https://github.com/rgalanakis/goless) - Go-like semantics built on top of Stackless Python.
 - [morepath](https://github.com/morepath/morepath) - Python web microframework with superpowers
 - [pynsist](https://github.com/takluyver/pynsist) - Build Windows installers for Python applications
