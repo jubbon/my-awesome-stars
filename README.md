@@ -577,7 +577,7 @@
 - [YouTokenToMe](https://github.com/VKCOM/YouTokenToMe) - Unsupervised text tokenizer focused on computational efficiency
 - [griddb](https://github.com/griddb/griddb) - GridDB is a next-generation open source database that makes time series IoT and big data fast,and easy.
 - [server](https://github.com/triton-inference-server/server) - The Triton Inference Server provides an optimized cloud and edge inferencing solution.
-- [taichi](https://github.com/taichi-dev/taichi) - Productive & portable programming language for high-performance, sparse & differentiable computing on GPUs
+- [taichi](https://github.com/taichi-dev/taichi) - Productive & portable programming language for high-performance, sparse & differentiable computing on CPUs & GPUs
 - [FICM](https://github.com/hellochick/FICM) - :video_game: [IJCAI'20][ICLR'19 Workshop] Flow-based Intrinsic Curiosity Module. Playing SuperMario with RL agent and FICM!
 - [cpp-cheat-sheet](https://github.com/gibsjose/cpp-cheat-sheet) - C++ Syntax, Data Structures, and Algorithms Cheat Sheet
 - [earthenterprise](https://github.com/google/earthenterprise) - Google Earth Enterprise - Open Source
@@ -1127,7 +1127,6 @@
 - [git.github.io](https://github.com/git/git.github.io) - Git Developer Site
 - [CaoMei](https://github.com/xiangsudian/CaoMei) - 🍓CaoMei Icon - Designed for developers and creatros http://chuangzaoshi.com/icon/
 - [Gravity](https://github.com/hemangsk/Gravity) - Minimal is the new cool.
-- [devicon](https://github.com/devicons/devicon) - Set of icons representing programming languages, designing & development tools
 - [owasp-summit-2017](https://github.com/OWASP/owasp-summit-2017) - Content for OWASP Summit 2017 site
 - [js-mythbusters](https://github.com/Kikobeats/js-mythbusters) - :ghost: STHAP js, where is my perfomance?
 - [now-ui-kit](https://github.com/creativetimofficial/now-ui-kit) - Now UI Kit Bootstrap 4 - Designed by Invision. Coded by Creative Tim
@@ -4080,7 +4079,7 @@
 - [You-Dont-Know-JS](https://github.com/cezaraugusto/You-Dont-Know-JS) - :green_book::ledger: (PT-BR translation) JS Book Series.
 - [yakbak](https://github.com/flickr/yakbak) - Record and playback HTTP responses
 - [studio](https://github.com/ericholiveira/studio) - A nodejs framework to create decoupled and scalable applications
-- [material-ui](https://github.com/mui-org/material-ui) - React components for faster and easier web development. Build your own design system, or start with Material Design.
+- [material-ui](https://github.com/mui-org/material-ui) - React components for faster and simpler web development. Build your own design system, or start with Material Design.
 - [parse-server](https://github.com/parse-community/parse-server) - API server module for Node/Express
 - [OmniDB](https://github.com/OmniDB/OmniDB) - Web tool for database management
 - [json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
@@ -5760,6 +5759,7 @@
 
 ## Others 
 
+- [MSU](https://github.com/Dyakonov/MSU) - описание тем исследовательских работ для студентов
 - [ScaledYOLOv4](https://github.com/WongKinYiu/ScaledYOLOv4) - 
 - [awesome-ML-projects-guide](https://github.com/dair-ai/awesome-ML-projects-guide) - A guide to building awesome machine learning projects.
 - [awesome-gans-and-deepfakes](https://github.com/enochkan/awesome-gans-and-deepfakes) - A curated list of GAN & Deepfake papers and repositories.
@@ -6877,7 +6877,7 @@
 - [MolecularTransformer](https://github.com/pschwllr/MolecularTransformer) - 
 - [TopicNet](https://github.com/machine-intelligence-laboratory/TopicNet) - Interface for easier topic modelling.
 - [datasets](https://github.com/huggingface/datasets) - 🤗 Fast, efficient, open-access datasets and evaluation metrics in PyTorch, TensorFlow, NumPy and Pandas
-- [TensorFlowTTS](https://github.com/TensorSpeech/TensorFlowTTS) - :stuck_out_tongue_closed_eyes: TensorFlowTTS: Real-Time State-of-the-art Speech Synthesis for Tensorflow 2 (supported including English, Korean, Chinese and Easy to adapt for other languages)
+- [TensorFlowTTS](https://github.com/TensorSpeech/TensorFlowTTS) - :stuck_out_tongue_closed_eyes: TensorFlowTTS: Real-Time State-of-the-art Speech Synthesis for Tensorflow 2 (supported including English, Korean, Chinese, German and Easy to adapt for other languages)
 - [tuya-convert](https://github.com/ct-Open-Source/tuya-convert) - A collection of scripts to flash Tuya IoT devices to alternative firmwares
 - [rich](https://github.com/willmcgugan/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [pyTelegramBotAPI](https://github.com/eternnoir/pyTelegramBotAPI) - Python Telegram bot api.
@@ -9169,6 +9169,7 @@
 - [yotaq](https://github.com/JoseTomasTocino/yotaq) - yotaq - Your Own Task Queue for Python
 - [sudoku](https://github.com/Kyubyong/sudoku) - Can Neural Networks Crack Sudoku?
 - [lc-all-solutions](https://github.com/csujedihy/lc-all-solutions) - My own leetcode solutions by python
+- [devicon](https://github.com/devicons/devicon) - Set of icons representing programming languages, designing & development tools
 - [QGIS-Documentation](https://github.com/qgis/QGIS-Documentation) - 
 - [uvicorn](https://github.com/encode/uvicorn) - The lightning-fast ASGI server. 🦄
 - [DeepRL](https://github.com/ShangtongZhang/DeepRL) - Modularized Implementation of Deep RL Algorithms in PyTorch
