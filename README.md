@@ -4102,7 +4102,6 @@
 - [hotel](https://github.com/typicode/hotel) - 🏩 A simple process manager for developers. Start apps from your browser and access them using local domains
 - [computer-science-in-javascript](https://github.com/benoitvallon/computer-science-in-javascript) - Computer science reimplemented in JavaScript
 - [ActivFlow](https://github.com/faxad/ActivFlow) - Generic, light-weight & extensible Workflow Engine for agile automation of Business Processes | Django, Python
-- [feathers](https://github.com/feathersjs/feathers) - A framework for real-time applications and REST APIs with JavaScript and TypeScript
 - [react-native-macos](https://github.com/ptmt/react-native-macos) - [deprecated in favor of https://microsoft.github.io/react-native-windows/] React Native for macOS is an experimental fork for writing desktop apps using Cocoa
 - [select2](https://github.com/select2/select2) - Select2 is a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results.
 - [flask-AdminLTE](https://github.com/a0726h77/flask-AdminLTE) - Bootstrap AdminLTE template with Flask framework
@@ -6196,7 +6195,7 @@
 - [TablePlus](https://github.com/TablePlus/TablePlus) - TablePlus macOS issue tracker
 - [bayes-nn](https://github.com/sjchoi86/bayes-nn) - Lecture notes on Bayesian deep learning
 - [android-ktx](https://github.com/android/android-ktx) - A set of Kotlin extensions for Android app development.
-- [yandex-money-joinup](https://github.com/yoomoney/yandex-money-joinup) - 
+- [yookassa-github-docs](https://github.com/yoomoney/yookassa-github-docs) - 
 - [introducing-ethereum-solidity](https://github.com/Apress/introducing-ethereum-solidity) - Source code for 'Introducing Ethereum and Solidity' by Chris Dannen
 - [Xiaomi_Kernel_OpenSource](https://github.com/MiCode/Xiaomi_Kernel_OpenSource) - Xiaomi Mobile Phone Kernel OpenSource
 - [FreeML](https://github.com/Shujian2015/FreeML) - A List of Data Science/Machine Learning Resources (Mostly Free)
@@ -7382,7 +7381,7 @@
 - [learn2learn](https://github.com/learnables/learn2learn) - A PyTorch Library for Meta-learning Research
 - [PyGlow](https://github.com/spino17/PyGlow) - This package is an attempt to implement Keras like API functionalities on PyTorch backend with functionalities supporting information theoretic methods which are relevant for understanding neural network dynamics.
 - [hypothesis-auto](https://github.com/timothycrosley/hypothesis-auto) - An extensions for Hypothesis that provides fully automatic testing for type hinted functions
-- [bake](https://github.com/kennethreitz-archive/bake) - Bake — the strangely familiar workflow utility.
+- [bake](https://github.com/kennethreitz42/bake) - Bake — the strangely familiar workflow utility.
 - [multi-agent-emergence-environments](https://github.com/openai/multi-agent-emergence-environments) - Environment generation code for the paper "Emergent Tool Use From Multi-Agent Autocurricula"
 - [Topical-Chat](https://github.com/alexa/Topical-Chat) - A dataset containing human-human knowledge-grounded open-domain conversations.
 - [case-212](https://github.com/developers-against-repressions/case-212) - Открытое письмо специалистов IT-индустрии в защиту фигурантов «московского дела»
@@ -7712,7 +7711,7 @@
 - [tavern-flask](https://github.com/taverntesting/tavern-flask) - WIP for a tavern flask plugin
 - [mapbox-sdk-py](https://github.com/mapbox/mapbox-sdk-py) - Python SDK for Mapbox APIs **DEVELOPMENT IS TEMPORARILY PAUSED, SEE CONTRIBUTING.md**
 - [mtprotoproxy](https://github.com/alexbers/mtprotoproxy) - Async MTProto proxy for Telegram
-- [lutris](https://github.com/lutris/lutris) - Lutris client - Open Source gaming platform for GNU/Linux
+- [lutris](https://github.com/lutris/lutris) - Lutris desktop client in Python / PyGObject
 - [QuickDraw](https://github.com/uvipen/QuickDraw) - Implementation of Quickdraw - an online game developed by Google
 - [dnc](https://github.com/krocki/dnc) - Simple RNN, LSTM and Differentiable Neural Computer in pure Numpy
 - [face.evoLVe.PyTorch](https://github.com/ZhaoJ9014/face.evoLVe.PyTorch) - 🔥🔥High-Performance Face Recognition Library on PyTorch🔥🔥
@@ -8963,7 +8962,7 @@
 - [deep-photo-styletransfer-tf](https://github.com/LouieYang/deep-photo-styletransfer-tf) - Tensorflow (Python API) implementation of Deep Photo Style Transfer
 - [np-to-tf-embeddings-visualiser](https://github.com/nlml/np-to-tf-embeddings-visualiser) - Quick function to go from a dictionary of sets of (images, labels, feature vectors) to checkpoints that can be opened in Tensorboard
 - [awesome-apistar](https://github.com/awesometoolbox/awesome-apistar) - A curated list of awesome packages, articles, and other cool resources from the API Star community.
-- [coinbin.org](https://github.com/kennethreitz-archive/coinbin.org) - ₿ A Human–Friendly API Service for Crypto Currency Information.
+- [coinbin.org](https://github.com/kennethreitz42/coinbin.org) - ₿ A Human–Friendly API Service for Crypto Currency Information.
 - [Pytorch_fine_tuning_Tutorial](https://github.com/Spandan-Madan/Pytorch_fine_tuning_Tutorial) - A short tutorial on performing fine tuning or transfer learning in PyTorch.
 - [uwsgiconf](https://github.com/idlesign/uwsgiconf) - Configure uWSGI from your Python code
 - [aptos](https://github.com/pennsignals/aptos) - :sunny: A tool for validating data using JSON Schema and converting JSON Schema documents into different data-interchange formats
@@ -9503,7 +9502,7 @@
 - [deprecation](https://github.com/briancurtin/deprecation) - A library to handle automated deprecations
 - [WaterNet](https://github.com/treigerm/WaterNet) - A convolutional neural network that identifies water in  satellite images.
 - [systemdlogger](https://github.com/techjacker/systemdlogger) - Exports systemd logs to an external service, eg cloudwatch, elasticsearch
-- [python-github3](https://github.com/kennethreitz-archive/python-github3) - [In Progress] Python wrapper for the new GitHub API.
+- [python-github3](https://github.com/kennethreitz42/python-github3) - [In Progress] Python wrapper for the new GitHub API.
 - [AlienVaultLabs](https://github.com/AlienVault-Labs/AlienVaultLabs) - Alienvault Labs Projects Random Stuff
 - [stanford-tensorflow-tutorials](https://github.com/chiphuyen/stanford-tensorflow-tutorials) - This repository contains code examples for the Stanford's course: TensorFlow for Deep Learning Research.
 - [vision](https://github.com/pytorch/vision) - Datasets, Transforms and Models specific to Computer Vision
@@ -10335,7 +10334,7 @@
 - [later](https://github.com/qznc/later) - Command-line issue tracker for a lazy developer
 - [generator-angular-flask](https://github.com/rayokota/generator-angular-flask) - Yeoman generator for AngularJS + Flask
 - [bigchaindb](https://github.com/bigchaindb/bigchaindb) - Meet BigchainDB. The blockchain database.
-- [records](https://github.com/kennethreitz-archive/records) - SQL for Humans™
+- [records](https://github.com/kennethreitz42/records) - SQL for Humans™
 - [laboratory](https://github.com/joealcorn/laboratory) - Achieving confident refactoring through experimentation with Python 2.7 & 3.3+
 - [maybe](https://github.com/p-e-w/maybe) - :open_file_folder: :rabbit2: :tophat: See what a program does before deciding whether you really want it to happen (NO LONGER MAINTAINED)
 - [corner.py](https://github.com/dfm/corner.py) - Make some beautiful corner plots
@@ -13340,6 +13339,7 @@
 - [playground](https://github.com/tensorflow/playground) - Play with neural networks!
 - [bricklayer](https://github.com/ademilter/bricklayer) - Lightweight and independent Pinterest-like cascading grid layout library
 - [postgraphile](https://github.com/graphile/postgraphile) - Execute one command (or mount one Node.js middleware) and get an instant high-performance GraphQL API for your PostgreSQL database!
+- [feathers](https://github.com/feathersjs/feathers) - A framework for real-time applications and REST APIs with JavaScript and TypeScript
 - [storybook](https://github.com/storybookjs/storybook) - 📓 The UI component explorer. Develop, document, & test for React, Vue, Angular, Ember, Web Components, & more!
 - [growth-ionic](https://github.com/phodal/growth-ionic) - [v2.0 DEPRECATED, please update to Growth 3.0] Growth - App to help you Be Awesome Developer & Awesome Hacker
 - [nativefier](https://github.com/jiahaog/nativefier) - Make any web page a desktop application
