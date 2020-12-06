@@ -2165,6 +2165,7 @@
 
 ## HTML 
 
+- [introduction-to-bash-scripting](https://github.com/bobbyiliev/introduction-to-bash-scripting) - Free Introduction to Bash Scripting eBook
 - [kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
 - [turndown](https://github.com/domchristie/turndown) - 🛏 An HTML to Markdown converter written in JavaScript
 - [actions](https://github.com/Azure/actions) - Automate your GitHub workflows using Azure Actions
@@ -2340,7 +2341,7 @@
 - [hyperHTML](https://github.com/WebReflection/hyperHTML) - A Fast & Light Virtual DOM Alternative
 - [SB-Admin-BS4-Angular-8](https://github.com/start-angular/SB-Admin-BS4-Angular-8) - Simple Dashboard Admin App built using Angular 8 and Bootstrap 4
 - [CLRS](https://github.com/walkccc/CLRS) - 📚 Solutions to Introduction to Algorithms Third Edition
-- [GTFOBins.github.io](https://github.com/GTFOBins/GTFOBins.github.io) - Curated list of Unix binaries that can be exploited to bypass system security restrictions
+- [GTFOBins.github.io](https://github.com/GTFOBins/GTFOBins.github.io) - GTFOBins is a curated list of Unix binaries that can used to bypass local security restrictions in misconfigured systems
 - [Intro_to_ML-FutureLabs](https://github.com/InsightDataScience/Intro_to_ML-FutureLabs) - ML primer workshop @ Future Labs AI Summit
 - [crowds](https://github.com/ncase/crowds) - The Wisdom and/or Madness of the Crowds
 - [testing-distributed-systems](https://github.com/asatarin/testing-distributed-systems) - Curated list of resources on testing distributed systems
@@ -2930,7 +2931,7 @@
 - [maps-api-for-javascript-examples](https://github.com/heremaps/maps-api-for-javascript-examples) - Self-contained examples for Maps API for JavaScript v3.
 - [developer-blog](https://github.com/heremaps/developer-blog) - Examples and projects featured on the HERE developer blog.
 - [here-cli](https://github.com/heremaps/here-cli) - A command-line interface to work with HERE XYZ Hub and other HERE APIs
-- [javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (November 2020)
+- [javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (December 2020)
 - [aws-sdk-js](https://github.com/aws/aws-sdk-js) - AWS SDK for JavaScript in the browser and Node.js
 - [blockly](https://github.com/google/blockly) - The web-based visual programming editor.
 - [mc.js](https://github.com/ian13456/mc.js) - Open source Minecraft clone built with ThreeJS, ReactJS, GraphQL, and NodeJS.
@@ -5745,6 +5746,7 @@
 - [titanium_mobile](https://github.com/appcelerator/titanium_mobile) - 🚀 Native iOS- and Android- Apps with JavaScript
 - [GitUp](https://github.com/git-up/GitUp) - The Git interface you've been missing all your life has finally arrived.
 - [MongoHub-Mac](https://github.com/bububa/MongoHub-Mac) - MongoHub mac native version.
+- [NewsBlur](https://github.com/samuelclay/NewsBlur) - NewsBlur is a personal news reader that brings people together to talk about the world. A new sound of an old instrument.
 
 ## Open Policy Agent 
 
@@ -6798,6 +6800,8 @@
 
 ## Python 
 
+- [SparseR-CNN](https://github.com/PeizeSun/SparseR-CNN) - End-to-End Object Detection with Learnable Proposal
+- [create-ml-app](https://github.com/shreyashankar/create-ml-app) - Template Makefile for ML projects in Python.
 - [haven-ai](https://github.com/haven-ai/haven-ai) - 
 - [tn2-wg](https://github.com/alphacep/tn2-wg) - Tacotron2 + Waveglow Russian
 - [haystack](https://github.com/deepset-ai/haystack) - :mag: Transformers at scale for question answering & neural search. Using NLP via a modular Retriever-Reader-Pipeline. Supporting DPR, Elasticsearch, HuggingFace's Modelhub...
@@ -12402,7 +12406,6 @@
 - [shiva-server](https://github.com/tooxie/shiva-server) - A RESTful API to your music collection
 - [git-fat](https://github.com/jedbrown/git-fat) - Simple way to handle fat files without committing them to git, supports synchronization using rsync
 - [feedhq](https://github.com/feedhq/feedhq) - FeedHQ is a web-based feed reader
-- [NewsBlur](https://github.com/samuelclay/NewsBlur) - NewsBlur is a personal news reader that brings people together to talk about the world. A new sound of an old instrument.
 - [cleanify](https://github.com/kirang89/cleanify) - Cleans/Beautifies html, js and css files in your project
 - [chemlab](https://github.com/chemlab/chemlab) - The chemistry library you were waiting for
 - [forbiddenfruit](https://github.com/clarete/forbiddenfruit) - Patch built-in python objects
@@ -13076,7 +13079,7 @@
 ## TypeScript 
 
 - [actionsflow](https://github.com/actionsflow/actionsflow) - The free Zapier/IFTTT alternative for developers to automate your workflows based on Github actions
-- [streetmerchant](https://github.com/jef/streetmerchant) - :robot: Autonomous robot for all your electronic needs
+- [streetmerchant](https://github.com/jef/streetmerchant) - :crystal_ball: Autonomous robot for all your electronic needs
 - [desktop](https://github.com/desktop/desktop) - Simple collaboration from your desktop
 - [hetty](https://github.com/dstotijn/hetty) - Hetty is an HTTP toolkit for security research.
 - [lit](https://github.com/PAIR-code/lit) - The Language Interpretability Tool: Interactively analyze NLP models for model understanding in an extensible and framework agnostic interface.
@@ -13346,7 +13349,7 @@
 - [ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 - [line-chart](https://github.com/n3-charts/line-chart) - Awesome charts for AngularJS.
 - [botkit](https://github.com/howdyai/botkit) - Botkit is an open source developer tool for building chat bots, apps and custom integrations for major messaging platforms.
-- [grafana](https://github.com/grafana/grafana) - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More
+- [grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [vega-lite](https://github.com/vega/vega-lite) - A concise grammar of interactive graphics, built on Vega.
 - [bqplot](https://github.com/bqplot/bqplot) - Plotting library for IPython/Jupyter notebooks
