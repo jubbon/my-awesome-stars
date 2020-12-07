@@ -2898,7 +2898,7 @@
 - [lighthouse](https://github.com/VKCOM/lighthouse) - Lightweight interface for ClickHouse
 - [codereview](https://github.com/liwangqian/codereview) - Code review tool for vscode
 - [mini-tokyo-3d](https://github.com/nagix/mini-tokyo-3d) - A real-time 3D digital map of Tokyo's public transport system
-- [serverless-plugin-warmup](https://github.com/FidelLimited/serverless-plugin-warmup) - Keep your lambdas warm during winter. ♨
+- [serverless-plugin-warmup](https://github.com/juanjoDiaz/serverless-plugin-warmup) - Keep your lambdas warm during winter. ♨
 - [serverless-offline](https://github.com/dherault/serverless-offline) - Emulate AWS λ and API Gateway locally when developing your Serverless project
 - [serverless-aws-static-file-handler](https://github.com/activescott/serverless-aws-static-file-handler) - Easily serve static files with the Serverless Framework on AWS Lambda.
 - [Leaflet.Control.Layers.Tree](https://github.com/jjimenezshaw/Leaflet.Control.Layers.Tree) - a Tree Layers Control for Leaflet
@@ -4466,6 +4466,7 @@
 - [video-scene-detection](https://github.com/ivi-ru/video-scene-detection) - Video Scene Detection Based on the Optimal Sequential Grouping algorithm
 - [tutorials](https://github.com/krittikaiitb/tutorials) - Set of Jupyter Notebooks, along with datafiles, to get started with Scientific Computing in Astronomy
 - [DQN-Atari-Agents](https://github.com/BY571/DQN-Atari-Agents) - DQN-Atari-Agents:   Modularized & Parallel PyTorch implementation of several DQN Agents, i.a. DDQN, Dueling DQN, Noisy DQN, C51, Rainbow, and DRQN
+- [ganspace](https://github.com/harskish/ganspace) - Discovering Interpretable GAN Controls [NeurIPS 2020]
 - [deltapy](https://github.com/firmai/deltapy) - DeltaPy - Tabular Data Augmentation (by @firmai)
 - [nerf](https://github.com/bmild/nerf) - Code release for NeRF (Neural Radiance Fields)
 - [pycaret](https://github.com/pycaret/pycaret) - An open-source, low-code machine learning library in Python
@@ -6963,7 +6964,6 @@
 - [CenterTrack](https://github.com/xingyizhou/CenterTrack) - Simultaneous object detection and tracking using center points.
 - [nerf-pytorch](https://github.com/yenchenlin/nerf-pytorch) - A PyTorch implementation of NeRF (Neural Radiance Fields) that reproduces the results.
 - [DeepMatch](https://github.com/shenweichen/DeepMatch) - A deep matching model library for recommendations & advertising. It's easy to train models and to export representation vectors which can be used for ANN search.
-- [ganspace](https://github.com/harskish/ganspace) - Discovering Interpretable GAN Controls [NeurIPS 2020]
 - [Yet-Another-EfficientDet-Pytorch](https://github.com/zylo117/Yet-Another-EfficientDet-Pytorch) - The pytorch re-implement of the official efficientdet with SOTA performance in real time and pretrained weights.
 - [omegaconf](https://github.com/omry/omegaconf) - Flexible Python configuration system. The last one you will ever need.
 - [fastNLP](https://github.com/fastnlp/fastNLP) - fastNLP: A Modularized and Extensible NLP Framework. Currently still in incubation.
@@ -7029,7 +7029,7 @@
 - [R-Net](https://github.com/HKUST-KnowComp/R-Net) - Tensorflow Implementation of R-Net
 - [QANet](https://github.com/NLPLearn/QANet) - A Tensorflow implementation of QANet for machine reading comprehension
 - [DashMachine](https://github.com/rmountjoy92/DashMachine) - Another web application bookmark dashboard, with fun features.
-- [geemap](https://github.com/giswqs/geemap) - A Python package for interactive mapping with Google Earth Engine, ipyleaflet, and ipywidgets
+- [geemap](https://github.com/giswqs/geemap) - A Python package for interactive mapping with Google Earth Engine, ipyleaflet, and folium
 - [Practical-Ethical-Hacking-Resources](https://github.com/TCM-Course-Resources/Practical-Ethical-Hacking-Resources) - Compilation of Resources from TCM's Practical Ethical Hacking Udemy Course
 - [SSV](https://github.com/NVlabs/SSV) - Pytorch implementation of SSV: Self-Supervised Viewpoint Learning from Image Collections (CVPR 2020)
 - [alimama-common-performance-platform-acp](https://github.com/alibaba/alimama-common-performance-platform-acp) - common-performance platform&tools(acp)   c++/python.  分布式性能测试工具
@@ -7061,7 +7061,7 @@
 - [remi](https://github.com/YatingMusic/remi) - "Pop Music Transformer: Beat-based Modeling and Generation of Expressive Pop Piano Compositions", ACM Multimedia 2020
 - [tianshou](https://github.com/thu-ml/tianshou) - An elegant PyTorch deep reinforcement learning platform.
 - [pycls](https://github.com/facebookresearch/pycls) - Codebase for Image Classification Research, written in PyTorch.
-- [PaddleHub](https://github.com/PaddlePaddle/PaddleHub) - Awesome pre-trained models toolkit based on PaddlePaddle.（180+ models including CV, NLP, Audio and Video with Easy Inference & Serving deployment)
+- [PaddleHub](https://github.com/PaddlePaddle/PaddleHub) - Awesome pre-trained models toolkit based on PaddlePaddle.（180+ models including Image, Text, Audio and Video with Easy Inference & Serving deployment)
 - [CurveFit](https://github.com/ihmeuw-msca/CurveFit) - Generic curve fitting package with nonlinear mixed effects model
 - [aristo-mini](https://github.com/allenai/aristo-mini) - Aristo mini is a light-weight question answering system that can quickly evaluate Aristo science questions with an evaluation web server and the provided baseline solvers.
 - [gym-gridworld](https://github.com/xinleipan/gym-gridworld) - Simple grid-world environment compatible with OpenAI-gym
@@ -10776,7 +10776,7 @@
 - [txpostgres](https://github.com/wulczer/txpostgres) - Twisted wrapper for asynchronous PostgreSQL connections
 - [queries](https://github.com/gmr/queries) - PostgreSQL database access simplified
 - [PyMySQL](https://github.com/PyMySQL/PyMySQL) - Pure Python MySQL Client
-- [mysqlclient-python](https://github.com/PyMySQL/mysqlclient-python) - MySQL database connector for Python (with Python 3 support)
+- [mysqlclient](https://github.com/PyMySQL/mysqlclient) - MySQL database connector for Python (with Python 3 support)
 - [zodbdocs](https://github.com/zopefoundation/zodbdocs) - ZODB tutorial, articles, etc. (not the ZODB book)
 - [tinydb](https://github.com/msiemens/tinydb) - TinyDB is a lightweight document oriented database optimized for your happiness :)
 - [treq](https://github.com/twisted/treq) - Python requests like API built on top of Twisted's HTTP client.
