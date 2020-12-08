@@ -1464,7 +1464,6 @@
 - [nginx-boilerplate](https://github.com/nginx-boilerplate/nginx-boilerplate) - Awesome Nginx configuration template
 - [grafana-xxl](https://github.com/monitoringartist/grafana-xxl) - :bar_chart: Dockerized Grafana with all preinstalled (community) plugins from grafana.net
 - [docker-grafana-graphite](https://github.com/kamon-io/docker-grafana-graphite) - Docker image with StatsD, Graphite, Grafana 2 and a Kamon Dashboard
-- [keras](https://github.com/keras-team/keras) - Deep Learning for humans
 
 ## Elixir 
 
@@ -1576,7 +1575,7 @@
 - [lindb](https://github.com/lindb/lindb) - LinDB is a scalable, high performance, high availability distributed time series database.
 - [buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
 - [gotraining](https://github.com/ardanlabs/gotraining) - Go Training Class Material :
-- [nitro](https://github.com/gonitro/nitro) - Nitro is a futuristic blazingly fast embeddable framework for distributed app development, IoT, edge and p2p.
+- [go-micro](https://github.com/asim/go-micro) - Go Micro is a framework for microservices development
 - [pipeline](https://github.com/tektoncd/pipeline) - A K8s-native Pipeline resource.
 - [prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
 - [k3v](https://github.com/ibuildthecloud/k3v) - Virtual Kubernetes
@@ -6801,6 +6800,7 @@
 
 ## Python 
 
+- [MolBERT](https://github.com/BenevolentAI/MolBERT) - 
 - [SparseR-CNN](https://github.com/PeizeSun/SparseR-CNN) - End-to-End Object Detection with Learnable Proposal
 - [create-ml-app](https://github.com/shreyashankar/create-ml-app) - Template Makefile for ML projects in Python.
 - [haven-ai](https://github.com/haven-ai/haven-ai) - 
@@ -7372,6 +7372,7 @@
 - [pythonic-news](https://github.com/sebst/pythonic-news) - A Hacker News lookalike written in Python/Django, powering https://news.python.sc
 - [hydra](https://github.com/facebookresearch/hydra) - Hydra is a framework for elegantly configuring complex applications
 - [CrypTen](https://github.com/facebookresearch/CrypTen) - A framework for Privacy Preserving Machine Learning
+- [amazon-redshift-utils](https://github.com/awslabs/amazon-redshift-utils) - Amazon Redshift Utils contains utilities, scripts and view which are useful in a Redshift environment
 - [camelot](https://github.com/camelot-dev/camelot) - A Python library to extract tabular data from PDFs
 - [torchbeast](https://github.com/facebookresearch/torchbeast) - A PyTorch Platform for Distributed RL
 - [impersonator](https://github.com/svip-lab/impersonator) - PyTorch implementation of our ICCV 2019 paper:  Liquid Warping GAN: A Unified Framework for Human Motion Imitation, Appearance Transfer and Novel View Synthesis
@@ -11109,6 +11110,7 @@
 - [ansible-modules-extras](https://github.com/ansible/ansible-modules-extras) - Ansible extra modules - these modules ship with ansible
 - [clize](https://github.com/epsy/clize) - CLIze: Turn Python functions into command-line interfaces
 - [conda](https://github.com/conda/conda) - OS-agnostic, system-level binary package manager and ecosystem
+- [keras](https://github.com/keras-team/keras) - Deep Learning for humans
 - [django-seed](https://github.com/Brobin/django-seed) - :seedling: Seed your Django database with fake data
 - [impacket](https://github.com/SecureAuthCorp/impacket) - Impacket is a collection of Python classes for working with network protocols.
 - [flexx](https://github.com/flexxui/flexx) - Write desktop and web apps in pure Python
@@ -12660,7 +12662,6 @@
 ## Roff 
 
 - [Keras-Tutorial](https://github.com/ningshixian/Keras-Tutorial) - Keras深度学习框架配置+Keras教程+Keras Trick
-- [amazon-redshift-utils](https://github.com/awslabs/amazon-redshift-utils) - Amazon Redshift Utils contains utilities, scripts and view which are useful in a Redshift environment
 - [pudzu](https://github.com/Udzu/pudzu) - Various python scripts, mostly geared towards dataviz.
 - [cmdchallenge](https://github.com/jarv/cmdchallenge) - This repo is mirror of https://gitlab.com/jarv/cmdchallenge
 - [facebook-tunnel](https://github.com/matiasinsaurralde/facebook-tunnel) - Tunneling Internet traffic over Facebook chat.
@@ -12749,7 +12750,7 @@
 - [navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line and application launchers
 - [RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [PyOxidizer](https://github.com/indygreg/PyOxidizer) - A modern Python application packaging and distribution tool
-- [libra](https://github.com/libra/libra) - Libra’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.
+- [diem](https://github.com/libra/diem) - Diem’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.
 - [emu](https://github.com/calebwin/emu) - The write-once-run-anywhere GPGPU library for Rust
 - [wasmer-python](https://github.com/wasmerio/wasmer-python) - 🐍🕸 WebAssembly runtime for Python
 - [fluence](https://github.com/fluencelabs/fluence) - Peer-to-peer computing protocol and licensing system
