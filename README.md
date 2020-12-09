@@ -1072,7 +1072,7 @@
 - [Terminus2049.github.io](https://github.com/Terminus2049/Terminus2049.github.io) - No more 404
 - [git-cheats](https://github.com/excalith/git-cheats) - Git Cheats - Interactive Cheatsheet For Git Commands
 - [KtAcademyPortal](https://github.com/MarcinMoskala/KtAcademyPortal) - Multiplatform Kotlin application of KotlinAcademy
-- [Metro-UI-CSS](https://github.com/olton/Metro-UI-CSS) - Build impressive responsive projects on the web with the first front-end component library in Metro Style. And now there are even more opportunities every day!
+- [Metro-UI-CSS](https://github.com/olton/Metro-UI-CSS) - Impressive component library for expressive web development! Build responsive projects on the web with the first front-end component library in Metro Style. And now there are even more opportunities every day!
 - [javascript-in-14-minutes](https://github.com/jgthms/javascript-in-14-minutes) - Learn the basics of JavaScript in 14 minutes
 - [security](https://github.com/xapax/security) - Stuff about it-security that might be good to know
 - [dejavu](https://github.com/appbaseio/dejavu) - The Missing Web UI for Elasticsearch: Import, browse and edit data with rich filters and query views, create search UIs visually.
@@ -1532,7 +1532,7 @@
 - [godog](https://github.com/cucumber/godog) - Cucumber for golang
 - [aws-vault](https://github.com/99designs/aws-vault) - A vault for securely storing and accessing AWS credentials in development environments
 - [go-gitlab](https://github.com/xanzy/go-gitlab) - A GitLab API client enabling Go programs to interact with GitLab in a simple and uniform way
-- [micro](https://github.com/micro/micro) - Micro is a platform for API driven development
+- [micro](https://github.com/micro/micro) - Micro is a platform for API driven services development
 - [go-github](https://github.com/google/go-github) - Go library for accessing the GitHub API
 - [nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
 - [migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
@@ -6889,7 +6889,7 @@
 - [awesome-discord-communities](https://github.com/mhxion/awesome-discord-communities) - A curated list of awesome Discord communities for programmers
 - [ML_for_SLA](https://github.com/JonathanLaneMcDonald/ML_for_SLA) - Training a neural network to isolate comprehensible input from unstructured text to aid vocabulary acquisition.
 - [practical-python](https://github.com/dabeaz-course/practical-python) - Practical Python Programming (course by @dabeaz)
-- [Summer2021-Internships](https://github.com/Pitt-CSC/Summer2021-Internships) - Collection of Summer 2021 tech internships!
+- [Summer2021-Internships](https://github.com/pittcsc/Summer2021-Internships) - Collection of Summer 2021 tech internships!
 - [J.A.R.V.I.S](https://github.com/GauravSingh9356/J.A.R.V.I.S) - python powered Intelligent System
 - [python-docx2txt](https://github.com/ankushshah89/python-docx2txt) - A pure python based utility to extract text and images from docx files.
 - [PEDRA](https://github.com/aqeelanwar/PEDRA) - Programmable Engine for Drone Reinforcement Learning Applications
@@ -7987,7 +7987,7 @@
 - [stable-baselines](https://github.com/hill-a/stable-baselines) - A fork of OpenAI Baselines, implementations of reinforcement learning algorithms
 - [Hash-Buster](https://github.com/s0md3v/Hash-Buster) - Crack hashes in seconds.
 - [Semantic-Segmentation-Suite](https://github.com/GeorgeSeif/Semantic-Segmentation-Suite) - Semantic Segmentation Suite in TensorFlow. Implement, train, and test new Semantic Segmentation models easily!
-- [pytheory](https://github.com/MasonEgger/pytheory) - Music Theory for Humans.
+- [pytheory](https://github.com/kennethreitz42/pytheory) - Music Theory for Humans.
 - [mmdetection](https://github.com/open-mmlab/mmdetection) - OpenMMLab Detection Toolbox and Benchmark
 - [AIF360](https://github.com/Trusted-AI/AIF360) - A comprehensive set of fairness metrics for datasets and machine learning models, explanations for these metrics, and algorithms to mitigate bias in datasets and models.
 - [DANet](https://github.com/junfu1115/DANet) - Dual Attention Network for Scene Segmentation (CVPR2019)
@@ -9310,7 +9310,7 @@
 - [pyreportcard](https://github.com/mingrammer/pyreportcard) - :traffic_light: A report card for Python application
 - [dask-xgboost](https://github.com/dask/dask-xgboost) - 
 - [DevOops](https://github.com/glennzw/DevOops) - Python script to monitor services, dispatch SMS on fail, and attempt restart.
-- [octodns](https://github.com/github/octodns) - Tools for managing DNS across multiple providers
+- [octodns](https://github.com/octodns/octodns) - Tools for managing DNS across multiple providers
 - [leviathan](https://github.com/utkusen/leviathan) - wide range mass audit toolkit
 - [gixy](https://github.com/yandex/gixy) - Nginx configuration static analyzer
 - [Thunderbird-Email-Parser](https://github.com/mdegrazia/Thunderbird-Email-Parser) - Script to parse the Thunderbird email, including deleted email
@@ -11164,8 +11164,6 @@
 - [runipy](https://github.com/paulgb/runipy) - Run IPython notebooks as command-line scripts, generate HTML reports
 - [yapf](https://github.com/google/yapf) - A formatter for Python files
 - [InteractiveMachineLearning](https://github.com/sheepsy90/InteractiveMachineLearning) - A Small KNN Application in PyGame for Education
-- [DataSpider_Vankov_106](https://github.com/cs-hse-projects/DataSpider_Vankov_106) - 
-- [DataSpider_Dubov](https://github.com/cs-hse-projects/DataSpider_Dubov) - 
 - [sukimu](https://github.com/xethorn/sukimu) - 
 - [py2deb](https://github.com/paylogic/py2deb) - Python to Debian package converter
 - [python-data-workshop](https://github.com/halflings/python-data-workshop) - Code and slides for a workshop I'm hosting on Python and its useful data-processing/machine learning capabilities.
@@ -12750,7 +12748,7 @@
 - [navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line and application launchers
 - [RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [PyOxidizer](https://github.com/indygreg/PyOxidizer) - A modern Python application packaging and distribution tool
-- [diem](https://github.com/libra/diem) - Diem’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.
+- [diem](https://github.com/diem/diem) - Diem’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.
 - [emu](https://github.com/calebwin/emu) - The write-once-run-anywhere GPGPU library for Rust
 - [wasmer-python](https://github.com/wasmerio/wasmer-python) - 🐍🕸 WebAssembly runtime for Python
 - [fluence](https://github.com/fluencelabs/fluence) - Peer-to-peer computing protocol and licensing system
@@ -13080,7 +13078,7 @@
 ## TypeScript 
 
 - [actionsflow](https://github.com/actionsflow/actionsflow) - The free Zapier/IFTTT alternative for developers to automate your workflows based on Github actions
-- [streetmerchant](https://github.com/jef/streetmerchant) - :crystal_ball: Autonomous robot for all your electronic needs
+- [streetmerchant](https://github.com/jef/streetmerchant) - :robot: The world's easiest, most powerful stock checker
 - [desktop](https://github.com/desktop/desktop) - Simple collaboration from your desktop
 - [hetty](https://github.com/dstotijn/hetty) - Hetty is an HTTP toolkit for security research.
 - [lit](https://github.com/PAIR-code/lit) - The Language Interpretability Tool: Interactively analyze NLP models for model understanding in an extensible and framework agnostic interface.
