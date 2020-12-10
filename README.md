@@ -545,7 +545,6 @@
 - [asio](https://github.com/chriskohlhoff/asio) - Asio C++ Library
 - [leetcode](https://github.com/haoel/leetcode) - LeetCode Problems' Solutions
 - [OpenTTD](https://github.com/OpenTTD/OpenTTD) - OpenTTD is an open source simulation game based upon Transport Tycoon Deluxe
-- [kaolin](https://github.com/NVIDIAGameWorks/kaolin) - A PyTorch Library for Accelerating 3D Deep Learning Research
 - [youtube](https://github.com/Errichto/youtube) - codes for my streams and YT videos
 - [OpenSceneGraph](https://github.com/openscenegraph/OpenSceneGraph) - OpenSceneGraph git repository
 - [srs](https://github.com/ossrs/srs) - SRS is a RTMP/HLS/WebRTC/SRT/GB28181 streaming cluster, high efficiency, stable and simple.
@@ -1797,7 +1796,7 @@
 - [img](https://github.com/genuinetools/img) - Standalone, daemon-less, unprivileged Dockerfile and OCI compatible container image builder.
 - [werf](https://github.com/werf/werf) - GitOps delivery tool
 - [virtcontainers](https://github.com/containers/virtcontainers) - A Go package for building hardware virtualized container runtimes
-- [gitleaks](https://github.com/zricethezav/gitleaks) - Scan git repos for secrets using regex and entropy 🔑
+- [gitleaks](https://github.com/zricethezav/gitleaks) - Scan git repos (or files) for secrets using regex and entropy 🔑
 - [goben](https://github.com/udhos/goben) - goben is a golang tool to measure TCP/UDP transport layer throughput between hosts.
 - [linkerd2](https://github.com/linkerd/linkerd2) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
 - [kooper](https://github.com/spotahome/kooper) - Kooper is a simple Go library to create Kubernetes operators and controllers.
@@ -2737,7 +2736,6 @@
 - [Andromeda](https://github.com/iqiyi/Andromeda) - Andromeda simplifies local/remote communication for Android modularization
 - [openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 - [zalenium](https://github.com/zalando/zalenium) - A flexible and scalable container based Selenium Grid with video recording, live preview, basic auth & dashboard.
-- [capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
 - [ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region is a offline IP location library with accuracy rate of 99.9% and 0.0x millseconds searching performance. DB file is ONLY a few megabytes with all IP address stored. binding for Java,PHP,C,Python,Nodejs,Golang,C#,lua. Binary,B-tree,Memory searching algorithm
 - [activemq](https://github.com/apache/activemq) - Mirror of Apache ActiveMQ
 - [porcupine](https://github.com/Picovoice/porcupine) - On-device wake word detection powered by deep learning.
@@ -5876,6 +5874,7 @@
 - [awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) - A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning
 - [25-days-of-serverless](https://github.com/microsoft/25-days-of-serverless) - Repository responsible for 25 days of Serverless challenges
 - [LiteratureDL4Graph](https://github.com/DeepGraphLearning/LiteratureDL4Graph) - A comprehensive collection of recent papers on graph deep learning
+- [Ultimate-Facebook-Scraper](https://github.com/harismuneer/Ultimate-Facebook-Scraper) - 🤖 A bot which scrapes almost everything about a Facebook user's profile including all public posts/statuses available on the user's timeline, uploaded photos, tagged photos, videos, friends list and their profile photos (including Followers, Following, Work Friends, College Friends etc).
 - [InfoSec-Black-Friday](https://github.com/0x90n/InfoSec-Black-Friday) - All the deals for InfoSec related software/tools this Black Friday
 - [Production-Level-Deep-Learning](https://github.com/alirezadir/Production-Level-Deep-Learning) - A guideline for building practical production-level deep learning systems to be deployed in real world applications.
 - [tvt](https://github.com/deepmind/tvt) - 
@@ -5978,7 +5977,6 @@
 - [golang-developer-roadmap](https://github.com/Alikhll/golang-developer-roadmap) - Roadmap to becoming a Go developer in 2020
 - [pytorch-styleguide](https://github.com/IgorSusmelj/pytorch-styleguide) - An unofficial styleguide and best practices summary for PyTorch
 - [resilience-engineering](https://github.com/lorin/resilience-engineering) - Resilience engineering papers
-- [AzureTipsAndTricks](https://github.com/microsoft/AzureTipsAndTricks) - Learn some of our favorite Azure tips and tricks—some long-standing, and new ones that have recently been added to become more productive with Azure. Star the repo now to shave hours off your coding tasks tomorrow.
 - [app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
 - [commit-messages-guide](https://github.com/RomuloOliveira/commit-messages-guide) - A guide to understand the importance of commit messages and how to write them well
 - [Awesome-Mobile-Machine-Learning](https://github.com/fritzlabs/Awesome-Mobile-Machine-Learning) - A curated list of awesome mobile machine learning resources for iOS, Android, and edge devices.
@@ -7297,7 +7295,6 @@
 - [sagemaker-python-sdk](https://github.com/aws/sagemaker-python-sdk) - A library for training and deploying machine learning models on Amazon SageMaker
 - [sha-rnn](https://github.com/Smerity/sha-rnn) - Single Headed Attention RNN - "Stop thinking with your head"
 - [Ultra-Light-Fast-Generic-Face-Detector-1MB](https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB) - 💎1MB lightweight face detection model  (1MB轻量级人脸检测模型)
-- [Ultimate-Facebook-Scraper](https://github.com/harismuneer/Ultimate-Facebook-Scraper) - 🤖 A bot which scrapes almost everything about a Facebook user's profile including all public posts/statuses available on the user's timeline, uploaded photos, tagged photos, videos, friends list and their profile photos (including Followers, Following, Work Friends, College Friends etc).
 - [nilearn](https://github.com/nilearn/nilearn) - Machine learning for NeuroImaging in Python
 - [safety-gym](https://github.com/openai/safety-gym) - Tools for accelerating safe exploration research.
 - [DockerPwn.py](https://github.com/AbsoZed/DockerPwn.py) - Python automation of Docker.sock abuse
@@ -7313,6 +7310,7 @@
 - [HackingNeuralNetworks](https://github.com/Kayzaks/HackingNeuralNetworks) - A small course on exploiting and defending neural networks
 - [3d-ken-burns](https://github.com/sniklaus/3d-ken-burns) - an implementation of 3D Ken Burns Effect from a Single Image using PyTorch
 - [recsim](https://github.com/google-research/recsim) - A Configurable Recommender Systems Simulation Platform
+- [kaolin](https://github.com/NVIDIAGameWorks/kaolin) - A PyTorch Library for Accelerating 3D Deep Learning Research
 - [downloader-cli](https://github.com/deepjyoti30/downloader-cli) - A simple downloader written in Python with an awesome customizable progressbar.
 - [quay](https://github.com/quay/quay) - Build, Store, and Distribute your Applications and Containers
 - [exercises](https://github.com/Softwarepark/exercises) - SoftwarePark exercises and dojos
@@ -9792,7 +9790,7 @@
 - [ck-tensorflow](https://github.com/ctuning/ck-tensorflow) - Collective Knowledge components for TensorFlow (code, data sets, models, packages, workflows):
 - [python-web-pdb](https://github.com/romanvm/python-web-pdb) - Web-based remote UI for Python's PDB debugger
 - [ck-autotuning](https://github.com/ctuning/ck-autotuning) - CK automation actions to let users implement portable, customizable and reusable program workflows for reproducible, collaborative and multi-objective benchmarking, optimization and SW/HW co-design:
-- [ck](https://github.com/ctuning/ck) - Collective Knowledge framework (CK) helps to organize any software project as a database of reusable components with common automation actions and extensible meta descriptions based on FAIR principles (findability, accessibility, interoperability, and reusability). See real-world use cases from MLPerf, Arm, General Motors, dividiti, IBM and ACM:
+- [ck](https://github.com/ctuning/ck) - Collective Knowledge framework (CK) helps to organize any software project as a database of reusable components and micro-services with common APIs, automation actions and extensible meta descriptions. See real-world use cases from MLPerf, Arm, General Motors, IBM, Raspberry Pi and ACM:
 - [deconvfaces](https://github.com/somewacko/deconvfaces) - Generating faces with deconvolution networks
 - [whereami](https://github.com/kootenpv/whereami) - Uses WiFi signals :signal_strength: and machine learning to predict where you are
 - [dataset](https://github.com/openimages/dataset) - The Open Images dataset
@@ -13078,7 +13076,7 @@
 ## TypeScript 
 
 - [actionsflow](https://github.com/actionsflow/actionsflow) - The free Zapier/IFTTT alternative for developers to automate your workflows based on Github actions
-- [streetmerchant](https://github.com/jef/streetmerchant) - :robot: The world's easiest, most powerful stock checker
+- [streetmerchant](https://github.com/jef/streetmerchant) - 🤖 The world's easiest, most powerful stock checker
 - [desktop](https://github.com/desktop/desktop) - Simple collaboration from your desktop
 - [hetty](https://github.com/dstotijn/hetty) - Hetty is an HTTP toolkit for security research.
 - [lit](https://github.com/PAIR-code/lit) - The Language Interpretability Tool: Interactively analyze NLP models for model understanding in an extensible and framework agnostic interface.
@@ -13208,6 +13206,7 @@
 - [css-blocks](https://github.com/linkedin/css-blocks) - High performance, maintainable stylesheets.
 - [ow](https://github.com/sindresorhus/ow) - Function argument validation for humans
 - [zan-proxy](https://github.com/youzan/zan-proxy) - An extensible proxy for PC/Mobile/APP developer
+- [capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
 - [WebAssemblyStudio](https://github.com/wasdk/WebAssemblyStudio) - Learn, Teach, Work and Play in the WebAssembly Studio
 - [tfjs](https://github.com/tensorflow/tfjs) - A WebGL accelerated JavaScript library for training and deploying ML models.
 - [outline-server](https://github.com/Jigsaw-Code/outline-server) - Outline Manager, developed by Jigsaw. The Outline Manager application creates and manages Outline servers, powered by Shadowsocks. It uses the Electron framework to offer support for Windows, macOS and Linux.
@@ -13443,6 +13442,7 @@
 - [openmicroservices.org](https://github.com/microservices/openmicroservices.org) - NOT MAINTAINED https://medium.com/@iopeak/open-microservices-specification-1abd8262ad0e
 - [javascript-cheatsheet](https://github.com/wilfredinni/javascript-cheatsheet) - Basic Javascript Cheat Sheet
 - [aws-serverless-airline-booking](https://github.com/aws-samples/aws-serverless-airline-booking) - Airline Booking is a sample web application that provides Flight Search, Flight Payment, Flight Booking and Loyalty points including end-to-end testing, GraphQL and CI/CD. This web application was the theme of Build on Serverless Season 2 on AWS Twitch running from April 24th until end of August in 2019.
+- [AzureTipsAndTricks](https://github.com/microsoft/AzureTipsAndTricks) - Learn some of our favorite Azure tips and tricks—some long-standing, and new ones that have recently been added to become more productive with Azure. Star the repo now to shave hours off your coding tasks tomorrow.
 - [candy](https://github.com/Simonwep/candy) - 🍭 Cross-platform YouTube-downloader with playlist and channel support as well as build-in audio / video converter.
 - [vue-tailwind-examples](https://github.com/adamwathan/vue-tailwind-examples) - 
 - [pdfvuer](https://github.com/arkokoley/pdfvuer) - A PDF viewer for Vue using Mozilla's PDF.js
