@@ -139,7 +139,6 @@
 ## C 
 
 - [pypostal](https://github.com/openvenues/pypostal) - Python bindings to libpostal for fast international address parsing/normalization
-- [arkime](https://github.com/arkime/arkime) - Arkime (formerly Moloch) is an open source, large scale, full packet capturing, indexing, and database system.
 - [GloVe](https://github.com/stanfordnlp/GloVe) - GloVe model for distributed word representation
 - [IoTGoat](https://github.com/OWASP/IoTGoat) - IoTGoat is a deliberately insecure firmware created to educate software developers and security professionals with testing commonly found vulnerabilities in IoT devices.
 - [concorde](https://github.com/matthelb/concorde) - Concorde is a computer code for the symmetric traveling salesman problem (TSP) and some related network optimization problems. It was created by David Applegate, Robert E. Bixby, Vašek Chvátal, and William J. Cook.
@@ -193,7 +192,7 @@
 - [cJSON](https://github.com/DaveGamble/cJSON) - Ultralightweight JSON parser in ANSI C
 - [flow9](https://github.com/area9innovation/flow9) - Platform for safe, easy and productive programming of complex, multi-platform apps with a modern user interface
 - [Video-Editing-Automation](https://github.com/DevonCrawford/Video-Editing-Automation) - Toolkit of algorithms to automate the video editing process
-- [darknet](https://github.com/AlexeyAB/darknet) - YOLOv4 - Neural Networks for Object Detection (Windows and Linux version of Darknet )
+- [darknet](https://github.com/AlexeyAB/darknet) - YOLOv4v / Scaled-YOLOv4 - Neural Networks for Object Detection (Windows and Linux version of Darknet )
 - [facil.io](https://github.com/boazsegev/facil.io) - Your high performance web application C framework
 - [element-protocol](https://github.com/element-protocol/element-protocol) - The decentralized, completely anonymous, lightweight, peer-to-peer network communication protocol.
 - [AgentSmith-HIDS](https://github.com/EBWi11/AgentSmith-HIDS) - By Kprobe technology Open Source Host-based Intrusion Detection System(HIDS), from E_Bwill.
@@ -580,7 +579,7 @@
 - [FICM](https://github.com/hellochick/FICM) - :video_game: [IJCAI'20][ICLR'19 Workshop] Flow-based Intrinsic Curiosity Module. Playing SuperMario with RL agent and FICM!
 - [cpp-cheat-sheet](https://github.com/gibsjose/cpp-cheat-sheet) - C++ Syntax, Data Structures, and Algorithms Cheat Sheet
 - [earthenterprise](https://github.com/google/earthenterprise) - Google Earth Enterprise - Open Source
-- [mediapipe](https://github.com/google/mediapipe) - MediaPipe is the simplest way for researchers and developers to build world-class ML solutions and applications for mobile, edge, cloud and the web.
+- [mediapipe](https://github.com/google/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
 - [jsoncpp](https://github.com/open-source-parsers/jsoncpp) - A C++ library for interacting with JSON.
 - [or-tools](https://github.com/google/or-tools) - Google's Operations Research tools:
 - [habitat-sim](https://github.com/facebookresearch/habitat-sim) - A flexible, high-performance 3D simulator for Embodied AI research.
@@ -1042,7 +1041,6 @@
 - [machine-learning-yearning-cn](https://github.com/deeplearning-ai/machine-learning-yearning-cn) - Machine Learning Yearning 中文版 - 《机器学习训练秘籍》 - Andrew Ng 著
 - [cssnano](https://github.com/cssnano/cssnano) - A modular minifier, built on top of the PostCSS ecosystem.
 - [twentynineteen](https://github.com/WordPress/twentynineteen) - Twenty Nineteen is a theme now included in all WordPress installs. To report any issues please go here: https://core.trac.wordpress.org/newticket
-- [hugoDocs](https://github.com/gohugoio/hugoDocs) - The source for https://gohugo.io/
 - [theme-kit](https://github.com/HackerThemes/theme-kit) - A starter project for making Bootstrap 4 themes with Gulp and Sass
 - [service-fabric-mesh](https://github.com/Azure-Samples/service-fabric-mesh) - Samples repository for Azure Service Fabric Mesh
 - [restful-api-guidelines](https://github.com/zalando/restful-api-guidelines) - A model set of guidelines for RESTful APIs and Events, created by Zalando
@@ -1495,7 +1493,7 @@
 
 ## Gherkin 
 
-- [phoenix](https://github.com/owncloud/phoenix) - Next generation frontend for ownCloud
+- [web](https://github.com/owncloud/web) - Next generation frontend for ownCloud
 - [git-town](https://github.com/git-town/git-town) - Generic, high-level Git workflow support!
 
 ## Gnuplot 
@@ -2306,6 +2304,7 @@
 - [solid](https://github.com/solid/solid) - Solid - Re-decentralizing the web (project directory)
 - [framework7-icons](https://github.com/framework7io/framework7-icons) - Free iOS-icons font for Framework7
 - [schemaorg](https://github.com/schemaorg/schemaorg) - Schema.org - schemas and supporting software
+- [hugoDocs](https://github.com/gohugoio/hugoDocs) - The source for https://gohugo.io/
 - [sal](https://github.com/mciastek/sal) - 🚀 Performance focused, lightweight scroll animation library 🚀
 - [r2con2018](https://github.com/radareorg/r2con2018) - 
 - [inpycon2018](https://github.com/pythonindia/inpycon2018) - PyCon India 2018 site
@@ -2567,6 +2566,7 @@
 - [arogozhnikov.github.io](https://github.com/arogozhnikov/arogozhnikov.github.io) - 'Brilliantly wrong' blog, Machine Learning visualizations live here
 - [d3-pre](https://github.com/fivethirtyeight/d3-pre) - Pre-render d3 visualizations
 - [ServiceWorker](https://github.com/w3c/ServiceWorker) - Service Workers
+- [minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
 - [stream-react-example](https://github.com/GetStream/stream-react-example) - Use React and Redux to build your own feature-rich and scalable social network app! Visit cabin.getstream.io for an overview of all 8 tutorials and a live demo.
 - [startbootstrap-simple-sidebar](https://github.com/StartBootstrap/startbootstrap-simple-sidebar) - An off canvas sidebar navigation Bootstrap HTML template created by Start Bootstrap
 - [startbootstrap-sb-admin-2](https://github.com/StartBootstrap/startbootstrap-sb-admin-2) - A free, open source, Bootstrap admin theme created by Start Bootstrap
@@ -2847,6 +2847,7 @@
 - [intelligent-test-platform](https://github.com/alibaba/intelligent-test-platform) - intelligent-test-platform
 - [ac-nh-turnip-prices](https://github.com/mikebryant/ac-nh-turnip-prices) - Price calculator/predictor for Turnip prices
 - [Recoil](https://github.com/facebookexperimental/Recoil) - Recoil is an experimental state management library for React apps. It provides several capabilities that are difficult to achieve with React alone, while being compatible with the newest features of React.
+- [arkime](https://github.com/arkime/arkime) - Arkime (formerly Moloch) is an open source, large scale, full packet capturing, indexing, and database system.
 - [talks](https://github.com/explosion/talks) - 💥 Browser-based slides or PDFs of our talks and presentations
 - [displacy](https://github.com/explosion/displacy) - :boom: displaCy.js: An open-source NLP visualiser for the modern web
 - [javascript-interview-questions](https://github.com/sudheerj/javascript-interview-questions) - List of 1000 JavaScript Interview Questions
@@ -3444,6 +3445,7 @@
 - [vue-auth](https://github.com/websanova/vue-auth) - A simple light-weight authentication library for Vue.js
 - [test-cors.org](https://github.com/monsur/test-cors.org) - A tool to help test CORS requests
 - [starhackit](https://github.com/FredericHeem/starhackit) - StarHackIt: React/Native/Node fullstack starter kit with authentication and authorisation, data backed by SQL.
+- [nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
 - [UglifyJS](https://github.com/mishoo/UglifyJS) - JavaScript parser / mangler / compressor / beautifier toolkit
 - [node-clinic](https://github.com/clinicjs/node-clinic) - Clinic.js diagnoses your Node.js performance issues
 - [karmatic](https://github.com/developit/karmatic) - 🦑 Easy automatic (headless) browser testing with Jest's API, but powered by Karma & Webpack.
@@ -5886,7 +5888,7 @@
 - [MIT-Linear-Algebra-Notes](https://github.com/yizhen20133868/MIT-Linear-Algebra-Notes) - Notes for MIT-Linear-Algebra
 - [Cookbook](https://github.com/andkret/Cookbook) - The Data Engineering Cookbook
 - [dn](https://github.com/tomlockwood/dn) - Daily notes command line tool
-- [awesome-robotic-tooling](https://github.com/protontypes/awesome-robotic-tooling) - Tooling for professional robotic development in C++ and Python with a touch of ROS, autonomous driving and aerospace
+- [awesome-robotic-tooling](https://github.com/protontypes/awesome-robotic-tooling) - Tooling for professional robotic development in C++ and Python with a touch of ROS, autonomous driving and aerospace: https://freerobotics.tools/
 - [awesome-graph](https://github.com/jbmusso/awesome-graph) - A curated list of resources for graph databases and graph computing tools
 - [For-Data-Science-Beginners](https://github.com/amrrs/For-Data-Science-Beginners) - Set of 📝 with 🔗 to help those who are Data Science beginners 🤖
 - [awesome-libra](https://github.com/reed-hong/awesome-libra) - A Curated List of Awesome Facebook Libra Resources
@@ -8060,7 +8062,7 @@
 - [Ansible-VIM-IDE](https://github.com/Hello-Linux/Ansible-VIM-IDE) - A beautiful VIM-IDE based on Ansible
 - [devguide](https://github.com/python/devguide) - The Python developer's guide
 - [multiagent-competition](https://github.com/openai/multiagent-competition) - Code for the paper "Emergent Complexity via Multi-agent Competition"
-- [ann-visualizer](https://github.com/tudorog/ann-visualizer) - A python library for visualizing Artificial Neural Networks (ANN)
+- [ann-visualizer](https://github.com/RedaOps/ann-visualizer) - A python library for visualizing Artificial Neural Networks (ANN)
 - [slicker](https://github.com/Khan/slicker) - a tool for moving things in python
 - [hub](https://github.com/tensorflow/hub) - A library for transfer learning by reusing parts of TensorFlow models.
 - [Keras-Project-Template](https://github.com/Ahmkel/Keras-Project-Template) - A project template to simplify building and training deep learning models using Keras.
@@ -9775,7 +9777,7 @@
 - [simulacrum](https://github.com/jbrambleDC/simulacrum) - 
 - [motorway](https://github.com/plecto/motorway) - Cloud ready pure-python streaming data pipeline library
 - [flowblade](https://github.com/jliljebl/flowblade) - Video Editor for Linux
-- [cleverhans](https://github.com/tensorflow/cleverhans) - An adversarial example library for constructing attacks, building defenses, and benchmarking both
+- [cleverhans](https://github.com/cleverhans-lab/cleverhans) - An adversarial example library for constructing attacks, building defenses, and benchmarking both
 - [mimesis](https://github.com/lk-geimfari/mimesis) - Mimesis is a high-performance fake data generator for Python, which provides data for a variety of purposes in a variety of languages.
 - [azure-cli](https://github.com/Azure/azure-cli) - Azure Command-Line Interface
 - [mock-import](https://github.com/posener/mock-import) - A helper mocking function to mask ImportErrors
@@ -12798,7 +12800,6 @@
 - [calcite-web](https://github.com/Esri/calcite-web) - Authoritative front-end development resources for Calcite design initiative. Includes extendable base components and styles, as well as a modular and efficient framework for ArcGIS properties.
 - [uswds](https://github.com/uswds/uswds) - The U.S. Web Design System helps the federal government build fast, accessible, mobile-friendly websites.
 - [flight-manual.atom.io](https://github.com/atom/flight-manual.atom.io) - 📖 Documentation for Atom, generated by nanoc, hosted by GitHub Pages
-- [minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
 - [css](https://github.com/primer/css) - The CSS design system that powers GitHub
 
 ## Sass 
@@ -13623,7 +13624,6 @@
 - [vue-feather-icons](https://github.com/egoist/vue-feather-icons) - Simply beautiful open source icons as Vue functional components.
 - [d3-discovery](https://github.com/wbkd/d3-discovery) - A tool for exploring D3.js plugins
 - [Peridot](https://github.com/Gingernaut/Peridot) - A fast and powerful Vue.js PWA boilerplate
-- [nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
 - [incubator-weex-ui](https://github.com/apache/incubator-weex-ui) - 🏄  A rich interaction, lightweight, high performance UI library based on Weex.
 - [vue-lottie](https://github.com/chenqingspring/vue-lottie) - Render After Effects animations on Vue based on Bodymovin
 - [vue-scrollactive](https://github.com/eddiemf/vue-scrollactive) - Lightweight and simple to use vue component that highlights menu items as you scroll the page, also scrolling to target section when clicked.
