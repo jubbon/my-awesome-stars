@@ -583,6 +583,7 @@
 - [jsoncpp](https://github.com/open-source-parsers/jsoncpp) - A C++ library for interacting with JSON.
 - [or-tools](https://github.com/google/or-tools) - Google's Operations Research tools:
 - [habitat-sim](https://github.com/facebookresearch/habitat-sim) - A flexible, high-performance 3D simulator for Embodied AI research.
+- [DeepLearningExamples](https://github.com/NVIDIA/DeepLearningExamples) - Deep Learning Examples
 - [xleaflet](https://github.com/jupyter-xeus/xleaflet) - C++ backend for the jupyter leaflet widget
 - [ELF](https://github.com/pytorch/ELF) - ELF: a platform for game research with AlphaGoZero/AlphaZero reimplementation
 - [basis_universal](https://github.com/BinomialLLC/basis_universal) - Basis Universal GPU Texture Codec
@@ -965,7 +966,7 @@
 - [pxar](https://github.com/psi46/pxar) - Life is too short for perfection
 - [tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
 - [xgboost](https://github.com/dmlc/xgboost) - Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library,  for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Dask, Flink and DataFlow
-- [RHVoice](https://github.com/Olga-Yakovleva/RHVoice) - RHVoice is a free and open source speech synthesizer for Russian language.
+- [RHVoice](https://github.com/RHVoice/RHVoice) - a free and open source speech synthesizer for Russian and other languages
 - [mapnik](https://github.com/mapnik/mapnik) - Mapnik is an open source toolkit for developing mapping applications
 - [osrm-backend](https://github.com/Project-OSRM/osrm-backend) - Open Source Routing Machine - C++ backend
 - [omim](https://github.com/mapsme/omim) - 🗺️ MAPS.ME — Offline OpenStreetMap maps for iOS and Android
@@ -1510,7 +1511,7 @@
 - [Prometheus-Basics](https://github.com/yolossn/Prometheus-Basics) - A beginner friendly introduction to prometheus 🔥
 - [client_golang](https://github.com/prometheus/client_golang) - Prometheus instrumentation library for Go applications
 - [cloud-on-k8s](https://github.com/elastic/cloud-on-k8s) - Elastic Cloud on Kubernetes
-- [gardener](https://github.com/gardener/gardener) - Kubernetes-native system managing the full lifecycle of conformant Kubernetes clusters as a service on Alicloud, AWS, Azure, GCP, OpenStack, Packet, MetalStack, and vSphere with minimal TCO.
+- [gardener](https://github.com/gardener/gardener) - Kubernetes-native system managing the full lifecycle of conformant Kubernetes clusters as a service on Alicloud, AWS, Azure, GCP, OpenStack, Packet,vSphere, MetalStack, and kubevirt with minimal TCO.
 - [argo-cd](https://github.com/argoproj/argo-cd) - Declarative continuous deployment for Kubernetes.
 - [rook](https://github.com/rook/rook) - Storage Orchestration for Kubernetes
 - [cortex](https://github.com/cortexproject/cortex) - A horizontally scalable, highly available, multi-tenant, long term Prometheus.
@@ -1529,7 +1530,7 @@
 - [godog](https://github.com/cucumber/godog) - Cucumber for golang
 - [aws-vault](https://github.com/99designs/aws-vault) - A vault for securely storing and accessing AWS credentials in development environments
 - [go-gitlab](https://github.com/xanzy/go-gitlab) - A GitLab API client enabling Go programs to interact with GitLab in a simple and uniform way
-- [micro](https://github.com/micro/micro) - Micro is a platform to build, run and manage microservices
+- [micro](https://github.com/micro/micro) - Micro is a platform for cloud native development
 - [go-github](https://github.com/google/go-github) - Go library for accessing the GitHub API
 - [nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
 - [migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
@@ -1832,7 +1833,7 @@
 - [algnhsa](https://github.com/akrylysov/algnhsa) - AWS Lambda Go net/http server adapter
 - [opencensus-go](https://github.com/census-instrumentation/opencensus-go) - A stats collection and distributed tracing framework
 - [envconfig](https://github.com/kelseyhightower/envconfig) - Golang library for managing configuration data from environment variables
-- [tview](https://github.com/rivo/tview) - Rich interactive widgets for terminal-based UIs written in Go
+- [tview](https://github.com/rivo/tview) - Rich interactive widgets for your terminal UI, written in Go
 - [aws-lambda-go](https://github.com/aws/aws-lambda-go) - Libraries, samples and tools to help Go developers develop AWS Lambda functions.
 - [twirp](https://github.com/twitchtv/twirp) - A simple RPC framework with protobuf service definitions
 - [dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) - dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.
@@ -2070,7 +2071,7 @@
 - [functions](https://github.com/iron-io/functions) - IronFunctions - the serverless microservices platform by
 - [gops](https://github.com/google/gops) - A tool to list and diagnose Go processes currently running on your system
 - [github-trending](https://github.com/josephyzhou/github-trending) - Tracking the most popular Github repos, updated daily
-- [beego](https://github.com/astaxie/beego) - beego is an open-source, high-performance web framework for the Go programming language.
+- [beego](https://github.com/beego/beego) - beego is an open-source, high-performance web framework for the Go programming language.
 - [minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
 - [chain](https://github.com/chain/chain) - Chain Core Developer Edition (Archive)
 - [learn-chaincode](https://github.com/IBM-Blockchain-Archive/learn-chaincode) - Learn how to write chaincode.  (For the latest information, see http://hyperledger-fabric.readthedocs.io/en/latest/chaincode.html)
@@ -2607,7 +2608,6 @@
 - [ng-camera](https://github.com/bcabanes/ng-camera) - AngularJS directive for capturing images form your computer's camera.
 - [milligram](https://github.com/milligram/milligram) - A minimalist CSS framework.
 - [feature.js](https://github.com/viljamis/feature.js) - Feature.js is a fast, simple and lightweight browser feature detection library in 1kb.
-- [react-leaflet](https://github.com/PaulLeCam/react-leaflet) - React components for Leaflet maps
 - [Flask-Scaffold](https://github.com/Leo-G/Flask-Scaffold) - Prototype Database driven Web apps in Angular 6, Bootstrap 4 and REST API's with Flask (Python 3 framework)
 - [intro.js](https://github.com/usablica/intro.js) - A better way for new feature introduction and step-by-step users guide for your website and project.
 - [material-design-lite](https://github.com/google/material-design-lite) - Material Design Components in HTML/CSS/JS
@@ -3139,7 +3139,6 @@
 - [pennywise](https://github.com/kamranahmedse/pennywise) - Cross-platform application to open any website or media in a floating window
 - [vue-hooks](https://github.com/yyx990803/vue-hooks) - Experimental React hooks implementation in Vue
 - [instacam](https://github.com/xavierfoucrier/instacam) - Instant canvas video
-- [vstutils](https://github.com/vstconsulting/vstutils) - Small framework for easy generates web-applications (SPA or Single Page Application).
 - [boostnote-mobile](https://github.com/BoostIO/boostnote-mobile) - Boostnote for iOS and Android 🚀
 - [koa](https://github.com/koajs/koa) - Expressive middleware for node.js using ES2017 async functions
 - [ScatterDesktop](https://github.com/GetScatter/ScatterDesktop) - Connect to applications on EOS, Ethereum, and Tron. Exchange tokens with ease. Manage your assets safely. All in a simple to use interface.
@@ -5876,7 +5875,7 @@
 - [awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) - A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning
 - [25-days-of-serverless](https://github.com/microsoft/25-days-of-serverless) - Repository responsible for 25 days of Serverless challenges
 - [LiteratureDL4Graph](https://github.com/DeepGraphLearning/LiteratureDL4Graph) - A comprehensive collection of recent papers on graph deep learning
-- [Ultimate-Facebook-Scraper](https://github.com/harismuneer/Ultimate-Facebook-Scraper) - 🤖 A bot which scrapes almost everything about a Facebook user's profile including all public posts/statuses available on the user's timeline, uploaded photos, tagged photos, videos, friends list and their profile photos (including Followers, Following, Work Friends, College Friends etc).
+- [Ultimate-Facebook-Scraper](https://github.com/harismuneer/Ultimate-Facebook-Scraper) - 🤖 A bot that automates your social media interactions to collect posts, photos, videos, friends, followers, and much more from a user's profile on Facebook.
 - [InfoSec-Black-Friday](https://github.com/0x90n/InfoSec-Black-Friday) - All the deals for InfoSec related software/tools this Black Friday
 - [Production-Level-Deep-Learning](https://github.com/alirezadir/Production-Level-Deep-Learning) - A guideline for building practical production-level deep learning systems to be deployed in real world applications.
 - [tvt](https://github.com/deepmind/tvt) - 
@@ -7520,7 +7519,6 @@
 - [confluent-kafka-python](https://github.com/confluentinc/confluent-kafka-python) - Confluent's Kafka Python Client
 - [aws-well-architected-labs](https://github.com/awslabs/aws-well-architected-labs) - Hands on labs and code to help you learn, measure, and build using architectural best practices.
 - [professional-services](https://github.com/GoogleCloudPlatform/professional-services) - Common solutions and tools developed by Google Cloud's Professional Services team
-- [DeepLearningExamples](https://github.com/NVIDIA/DeepLearningExamples) - Deep Learning Examples
 - [insightface](https://github.com/deepinsight/insightface) - Face Analysis Project on MXNet
 - [keras-retinanet](https://github.com/fizyr/keras-retinanet) - Keras implementation of RetinaNet object detection.
 - [sacred](https://github.com/IDSIA/sacred) - Sacred is a tool to help you configure, organize, log and reproduce experiments developed at IDSIA.
@@ -7659,7 +7657,7 @@
 - [pytorch-pretrained-BigGAN](https://github.com/huggingface/pytorch-pretrained-BigGAN) - 🦋A PyTorch implementation of BigGAN with pretrained weights and conversion scripts.
 - [fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [paper-tips-and-tricks](https://github.com/Wookai/paper-tips-and-tricks) - Best practice and tips & tricks to write scientific papers in LaTeX, with figures generated in Python or Matlab.
-- [DeepCamera](https://github.com/SharpAI/DeepCamera) - SharpAI is open source stack for machine learning engineering with private deployment and AutoML for edge computing.  DeepCamera is application of SharpAI designed for connecting computer vision model to surveillance camera. Developers can run same code on Raspberry Pi/Android/PC/AWS to boost your AI production development.
+- [DeepCamera](https://github.com/SharpAI/DeepCamera) - Open source face recognition on Raspberry Pi. SharpAI is open source stack for machine learning engineering with private deployment and AutoML for edge computing.  DeepCamera is application of SharpAI designed for connecting computer vision model to surveillance camera. Developers can run same code on Raspberry Pi/Android/PC/AWS to boost your AI production development.
 - [Navigation-Assistant](https://github.com/singh-shreya6/Navigation-Assistant) - A Navigation Assistant for the visually impaired using Speech to Text, Object Detection and Text to Speech in python
 - [digideep](https://github.com/sharif1093/digideep) - A Deep Reinforcement Learning (DeepRL) package for RL algorithm developers.
 - [maskscoring_rcnn](https://github.com/zjhuang22/maskscoring_rcnn) - Codes for paper "Mask Scoring R-CNN".
@@ -7874,6 +7872,7 @@
 - [bert](https://github.com/google-research/bert) - TensorFlow code and pre-trained models for BERT
 - [vergeml](https://github.com/mme/vergeml) - Machine Learning Environment - alpha version
 - [_old_vespene](https://github.com/vespene-io/_old_vespene) - DISCONTINUED: a frozen fork will exist forever at mpdehaan/vespene
+- [vstutils](https://github.com/vstconsulting/vstutils) - Small framework for easy generates web-applications (SPA or Single Page Application).
 - [deeplabv3](https://github.com/fregu856/deeplabv3) - PyTorch implementation of DeepLabV3, trained on the Cityscapes dataset.
 - [eNMS](https://github.com/eNMS-automation/eNMS) - An enterprise-grade vendor-agnostic network automation platform.
 - [celeryman](https://github.com/ahmetkotan/celeryman) - Celery Async Task Management App for Django
@@ -13346,6 +13345,7 @@
 - [growth-ionic](https://github.com/phodal/growth-ionic) - [v2.0 DEPRECATED, please update to Growth 3.0] Growth - App to help you Be Awesome Developer & Awesome Hacker
 - [nativefier](https://github.com/jiahaog/nativefier) - Make any web page a desktop application
 - [ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
+- [react-leaflet](https://github.com/PaulLeCam/react-leaflet) - React components for Leaflet maps
 - [line-chart](https://github.com/n3-charts/line-chart) - Awesome charts for AngularJS.
 - [botkit](https://github.com/howdyai/botkit) - Botkit is an open source developer tool for building chat bots, apps and custom integrations for major messaging platforms.
 - [grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
