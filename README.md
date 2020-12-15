@@ -717,6 +717,7 @@
 - [flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software
 - [thundersvm](https://github.com/Xtra-Computing/thundersvm) - ThunderSVM: A Fast SVM Library on GPUs and CPUs
 - [blackbird](https://github.com/butor/blackbird) - Blackbird Bitcoin Arbitrage: a long/short market-neutral strategy
+- [wav2letter](https://github.com/facebookresearch/wav2letter) - Facebook AI Research's Automatic Speech Recognition Toolkit
 - [xmr-stak](https://github.com/fireice-uk/xmr-stak) - Free Monero RandomX Miner and unified CryptoNight miner
 - [rippled](https://github.com/ripple/rippled) - Decentralized cryptocurrency blockchain daemon implementing the XRP Ledger in C++
 - [cryptonote](https://github.com/cryptonotefoundation/cryptonote) - CryptoNote protocol implementation. This is the reference repository for starting a new CryptoNote currency. See /src/cryptonote_config.h
@@ -1608,7 +1609,7 @@
 - [pipe-to-me](https://github.com/jpschroeder/pipe-to-me) - Stream data over http using curl.
 - [kraken](https://github.com/uber/kraken) - P2P Docker registry capable of distributing TBs of data in seconds
 - [astro](https://github.com/uber/astro) - Astro is a tool for managing multiple Terraform executions as a single command
-- [cortex](https://github.com/cortexlabs/cortex) - Deploy machine learning models to production
+- [cortex](https://github.com/cortexlabs/cortex) - Run inference at scale
 - [cds](https://github.com/ovh/cds) - Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform
 - [k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes
 - [docui](https://github.com/skanehira/docui) - TUI Client for Docker
@@ -2736,6 +2737,7 @@
 - [Andromeda](https://github.com/iqiyi/Andromeda) - Andromeda simplifies local/remote communication for Android modularization
 - [openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 - [zalenium](https://github.com/zalando/zalenium) - A flexible and scalable container based Selenium Grid with video recording, live preview, basic auth & dashboard.
+- [capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
 - [ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region is a offline IP location library with accuracy rate of 99.9% and 0.0x millseconds searching performance. DB file is ONLY a few megabytes with all IP address stored. binding for Java,PHP,C,Python,Nodejs,Golang,C#,lua. Binary,B-tree,Memory searching algorithm
 - [activemq](https://github.com/apache/activemq) - Mirror of Apache ActiveMQ
 - [porcupine](https://github.com/Picovoice/porcupine) - On-device wake word detection powered by deep learning.
@@ -3119,7 +3121,7 @@
 - [redbird](https://github.com/OptimalBits/redbird) - A modern reverse proxy for node
 - [Glider.js](https://github.com/NickPiscitelli/Glider.js) - A fast, lightweight, dependency free, native scrolling carousel alternative!
 - [fx](https://github.com/antonmedv/fx) - Command-line tool and terminal JSON viewer 🔥
-- [enquirer](https://github.com/enquirer/enquirer) - Stylish, intuitive and user-friendly prompts. Used by eslint, Generate, lint-staged, pm2, gluegun, hygen, GitHub Actions Toolkit, @airbnb/nimbus, and many others!
+- [enquirer](https://github.com/enquirer/enquirer) - Stylish, intuitive and user-friendly prompts. Used by eslint, webpack, Generate, lint-staged, pm2, gluegun, hygen, GitHub Actions Toolkit, @airbnb/nimbus, and many others!
 - [dockly](https://github.com/lirantal/dockly) - Immersive terminal interface for managing docker containers and services
 - [vue3-tailwind-starter](https://github.com/marienfeldtom/vue3-tailwind-starter) - Vue 3 + Tailwind.css Starter
 - [VueTween](https://github.com/SeregPie/VueTween) - Allows the components to tween their properties.
@@ -4410,6 +4412,7 @@
 
 ## Jupyter Notebook 
 
+- [prospr](https://github.com/dellacortelab/prospr) - ProSPr: Protein Structure Prediction
 - [RussianSuperGLUE](https://github.com/RussianNLP/RussianSuperGLUE) - Russian SuperGLUE benchmark
 - [2020_benfords](https://github.com/cjph8914/2020_benfords) - 
 - [vision_transformer](https://github.com/google-research/vision_transformer) - 
@@ -5875,7 +5878,7 @@
 - [awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) - A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning
 - [25-days-of-serverless](https://github.com/microsoft/25-days-of-serverless) - Repository responsible for 25 days of Serverless challenges
 - [LiteratureDL4Graph](https://github.com/DeepGraphLearning/LiteratureDL4Graph) - A comprehensive collection of recent papers on graph deep learning
-- [Ultimate-Facebook-Scraper](https://github.com/harismuneer/Ultimate-Facebook-Scraper) - 🤖 A bot that automates your social media interactions to collect posts, photos, videos, friends, followers, and much more from a user's profile on Facebook.
+- [Ultimate-Facebook-Scraper](https://github.com/harismuneer/Ultimate-Facebook-Scraper) - 🤖 A bot that automates your social media interactions to collect posts, photos, videos, interests, friends, followers, and much more from a user's profile on Facebook.
 - [InfoSec-Black-Friday](https://github.com/0x90n/InfoSec-Black-Friday) - All the deals for InfoSec related software/tools this Black Friday
 - [Production-Level-Deep-Learning](https://github.com/alirezadir/Production-Level-Deep-Learning) - A guideline for building practical production-level deep learning systems to be deployed in real world applications.
 - [tvt](https://github.com/deepmind/tvt) - 
@@ -6799,6 +6802,7 @@
 
 ## Python 
 
+- [fluence](https://github.com/prajjwal1/fluence) - A deep learning library based on Pytorch focussed on low resource language research and robustness
 - [MolBERT](https://github.com/BenevolentAI/MolBERT) - 
 - [SparseR-CNN](https://github.com/PeizeSun/SparseR-CNN) - End-to-End Object Detection with Learnable Proposal
 - [create-ml-app](https://github.com/shreyashankar/create-ml-app) - Template Makefile for ML projects in Python.
@@ -8470,7 +8474,6 @@
 - [fbs](https://github.com/mherrmann/fbs) - Create Python GUIs with Qt in minutes
 - [AutoSploit](https://github.com/NullArray/AutoSploit) - Automated Mass Exploiter
 - [Tensorflow-Project-Template](https://github.com/MrGemy95/Tensorflow-Project-Template) - A best practice for tensorflow project template architecture.
-- [yandex-checkout-sdk-python](https://github.com/yoomoney/yandex-checkout-sdk-python) - 
 - [elegant-scipy](https://github.com/elegant-scipy/elegant-scipy) - 1st Edition of Elegant SciPy (O'Reilly Publishers)
 - [kaggle-api](https://github.com/Kaggle/kaggle-api) - Official Kaggle API
 - [visual-interaction-networks-pytorch](https://github.com/MrGemy95/visual-interaction-networks-pytorch) - This's an implementation of deepmind Visual Interaction Networks paper using pytorch
@@ -8663,7 +8666,6 @@
 - [Parris](https://github.com/jgreenemi/Parris) - Parris, the automated infrastructure setup tool for machine learning algorithms.
 - [VulnWhisperer](https://github.com/HASecuritySolutions/VulnWhisperer) - Create actionable data from your Vulnerability Scans
 - [dm_control](https://github.com/deepmind/dm_control) - DeepMind's software stack for physics-based simulation and Reinforcement Learning environments, using MuJoCo.
-- [wav2letter](https://github.com/facebookresearch/wav2letter) - Facebook AI Research's Automatic Speech Recognition Toolkit
 - [fsociety](https://github.com/Manisso/fsociety) - fsociety Hacking Tools Pack – A Penetration Testing Framework
 - [TeamFlowy](https://github.com/kingname/TeamFlowy) - A simple sync tool to sync task from Workflowy to Teambition
 - [bigquery_fdw](https://github.com/gabfl/bigquery_fdw) - BigQuery Foreign Data Wrapper for PostgreSQL
@@ -10820,7 +10822,7 @@
 - [uniout](https://github.com/moskytw/uniout) - Never see escaped bytes in output.
 - [shortuuid](https://github.com/skorokithakis/shortuuid) - A generator library for concise, unambiguous and URL-safe UUIDs.
 - [pangu.py](https://github.com/vinta/pangu.py) - Paranoid text spacing in Python
-- [chardet](https://github.com/chardet/chardet) - Python 2/3 compatible character encoding detector.
+- [chardet](https://github.com/chardet/chardet) - Python character encoding detector
 - [When.py](https://github.com/dirn/When.py) - Friendly Python Dates
 - [PyTime](https://github.com/shinux/PyTime) - PyTime is an easy-use Python module which aims to operate date/time/datetime by string.
 - [python-magic](https://github.com/ahupp/python-magic) - A python wrapper for libmagic
@@ -13206,7 +13208,6 @@
 - [css-blocks](https://github.com/linkedin/css-blocks) - High performance, maintainable stylesheets.
 - [ow](https://github.com/sindresorhus/ow) - Function argument validation for humans
 - [zan-proxy](https://github.com/youzan/zan-proxy) - An extensible proxy for PC/Mobile/APP developer
-- [capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
 - [WebAssemblyStudio](https://github.com/wasdk/WebAssemblyStudio) - Learn, Teach, Work and Play in the WebAssembly Studio
 - [tfjs](https://github.com/tensorflow/tfjs) - A WebGL accelerated JavaScript library for training and deploying ML models.
 - [outline-server](https://github.com/Jigsaw-Code/outline-server) - Outline Manager, developed by Jigsaw. The Outline Manager application creates and manages Outline servers, powered by Shadowsocks. It uses the Electron framework to offer support for Windows, macOS and Linux.
