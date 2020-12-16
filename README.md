@@ -4299,7 +4299,6 @@
 - [CallRoulette](https://github.com/saghul/CallRoulette) - A WebRTC demo using Python (asyncio + aiohttp) as the backend
 - [VisualAlchemist](https://github.com/prahladyeri/VisualAlchemist) - Open source database diagramming and automation tool
 - [flask-angular-auth](https://github.com/realpython/flask-angular-auth) - Handling User Authentication With Angular and Flask
-- [redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
 - [faraday](https://github.com/infobyte/faraday) - Collaborative Penetration Test and Vulnerability Management Platform
 - [rodeo](https://github.com/yhat/rodeo) - A data science IDE for Python
 - [crossfader](https://github.com/better/crossfader) - Autoencoders to find structure in arbitrary datasets
@@ -5617,6 +5616,7 @@
 
 ## Kotlin 
 
+- [KotlinDL](https://github.com/JetBrains/KotlinDL) - High-level Deep Learning Framework written in Kotlin and inspired by Keras
 - [jaicf-kotlin](https://github.com/just-ai/jaicf-kotlin) - Kotlin framework for conversational voice assistants and chatbots development
 - [ridesharing-uber-lyft-app](https://github.com/MindorksOpenSource/ridesharing-uber-lyft-app) - Ride-Sharing Uber Lyft Android App - Learn to build a ride-sharing Android Taxi Clone App like Uber, Lyft - Open-Source Project By MindOrks
 - [fenix](https://github.com/mozilla-mobile/fenix) - Firefox for Android
@@ -8298,7 +8298,7 @@
 - [Powershell-RAT](https://github.com/Viralmaniar/Powershell-RAT) - Python based backdoor that uses Gmail to exfiltrate data through attachment. This RAT will help during red team engagements to backdoor any Windows machines. It tracks the user activity using screen capture and sends it to an attacker as an e-mail attachment.
 - [PyTorch-NLP](https://github.com/PetrochukM/PyTorch-NLP) - Basic Utilities for PyTorch Natural Language Processing (NLP)
 - [tern](https://github.com/tern-tools/tern) - Open Source compliance for containers
-- [parallel-ssh](https://github.com/ParallelSSH/parallel-ssh) - Asynchronous parallel SSH library.
+- [parallel-ssh](https://github.com/ParallelSSH/parallel-ssh) - Asynchronous parallel SSH client library.
 - [requests-xml](https://github.com/erinxocon/requests-xml) - Requests-XML: XML Parsing for Humans
 - [dacite](https://github.com/konradhalas/dacite) - Simple creation of data classes from dictionaries.
 - [sewer](https://github.com/komuw/sewer) - Let's Encrypt(ACME) client. Python library &  CLI app.
@@ -9095,7 +9095,7 @@
 - [kdtool](https://github.com/torchbox/kdtool) - Kubernetes deployment utility
 - [DeepLearning](https://github.com/prakritidev/DeepLearning) - This repository will contain the example detailed codes of Tensorflow and Keras, This repository will be useful for Deep Learning staters who find difficult to understand the example codes
 - [lambda-toolkit](https://github.com/lucioveloso/lambda-toolkit) - *DO NOT USE* - This project was done during my initial python and lambda's studies. I would recommend you the `serverless framework`.
-- [logzero](https://github.com/metachris/logzero) - Simple and production-ready logging for Python 2 and 3.
+- [logzero](https://github.com/metachris/logzero) - Robust and effective logging for Python 2 and 3.
 - [Fantastic-Transcoder](https://github.com/ClearSlide/Fantastic-Transcoder) - Fantastic transcoder is a video transcoder which utilizes massively parallel compute to achieve ludicrous conversion speeds.
 - [InsideCoreML](https://github.com/hollance/InsideCoreML) - Python script to examine Core ML's mlmodel files
 - [automating-AWS-with-Python](https://github.com/tejas-kr/automating-AWS-with-Python) - automating AWS with Python using boto3 library
@@ -9942,7 +9942,7 @@
 - [Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [asyncpg](https://github.com/MagicStack/asyncpg) - A fast PostgreSQL Database Client Library for Python/asyncio.
 - [Snapper](https://github.com/dxa4481/Snapper) - A security tool for grabbing screenshots of many web hosts
-- [words2map](https://github.com/overlap-ai/words2map) - online natural language processing with word vectors
+- [words2map](https://github.com/legel/words2map) - online natural language processing with word vectors
 - [Coffer](https://github.com/f-prime/Coffer) - A lightweight platform for creating isolated and portable development environments
 - [choronzon](https://github.com/CENSUS/choronzon) - An evolutionary knowledge-based fuzzer
 - [DeepHeart](https://github.com/jisaacso/DeepHeart) - Neural networks for monitoring cardiac data
@@ -11128,6 +11128,7 @@
 - [passpie](https://github.com/marcwebbie/passpie) - :closed_lock_with_key: Multiplatform command-line password manager
 - [graily](https://github.com/lazywen/graily) - A web server written with Python
 - [gplearn](https://github.com/trevorstephens/gplearn) - Genetic Programming in Python, with a scikit-learn inspired API
+- [redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
 - [django-hackathon-starter](https://github.com/DrkSephy/django-hackathon-starter) - A boilerplate for Django web applications
 - [neon](https://github.com/NervanaSystems/neon) - Intel® Nervana™ reference deep learning framework committed to best performance on all hardware
 - [Apollo](https://github.com/Capgemini/Apollo) - :rocket: An open-source platform for cloud native applications based on Apache Mesos and Docker.
@@ -12960,7 +12961,7 @@
 - [rethinkdb-vagrant](https://github.com/RyanAmos/rethinkdb-vagrant) - Install RethinkDB using Vagrant.
 - [microservices-demo](https://github.com/microservices-demo/microservices-demo) - Deployment scripts & config for Sock Shop
 - [octo.ai](https://github.com/octoai/octo.ai) - The analytics hypervisor, an operating system to manage all your analytics needs and licensed under Apache 2.0 License.
-- [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃 A delightful community-driven (with 1700+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+- [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃  A delightful community-driven (with 1700+ contributors) framework for managing your zsh configuration. Includes nearly 300 optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [ansible-odoo](https://github.com/OCA/ansible-odoo) - Ansible role for Odoo
 - [zsh-autoswitch-virtualenv](https://github.com/MichaelAquilina/zsh-autoswitch-virtualenv) - 🐍 ZSH plugin to automatically switch python virtualenvs (including pipenv and poetry) as you move between directories
 - [m-cli](https://github.com/rgcr/m-cli) -  Swiss Army Knife for macOS
@@ -13099,7 +13100,7 @@
 - [fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - Browser fingerprinting library with the highest accuracy and stability.
 - [hiplot](https://github.com/facebookresearch/hiplot) - HiPlot makes understanding high dimensional data easy
 - [playwright](https://github.com/microsoft/playwright) - Node.js library to automate Chromium, Firefox and WebKit with a single API
-- [gistpad](https://github.com/vsls-contrib/gistpad) - VS Code extension for managing and sharing code snippets, notes and interactive samples using GitHub Gists
+- [gistpad](https://github.com/codespaces-contrib/gistpad) - VS Code extension for managing and sharing code snippets, notes and interactive samples using GitHub Gists
 - [cvat](https://github.com/openvinotoolkit/cvat) - Powerful and efficient Computer Vision Annotation Tool (CVAT)
 - [tfjs-models](https://github.com/tensorflow/tfjs-models) - Pretrained models for TensorFlow.js
 - [vue-next](https://github.com/vuejs/vue-next) - Repo for Vue 3
