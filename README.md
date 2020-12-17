@@ -141,6 +141,7 @@
 - [pypostal](https://github.com/openvenues/pypostal) - Python bindings to libpostal for fast international address parsing/normalization
 - [GloVe](https://github.com/stanfordnlp/GloVe) - GloVe model for distributed word representation
 - [IoTGoat](https://github.com/OWASP/IoTGoat) - IoTGoat is a deliberately insecure firmware created to educate software developers and security professionals with testing commonly found vulnerabilities in IoT devices.
+- [cuda-samples](https://github.com/NVIDIA/cuda-samples) - Samples for CUDA Developers which demonstrates features in CUDA Toolkit
 - [concorde](https://github.com/matthelb/concorde) - Concorde is a computer code for the symmetric traveling salesman problem (TSP) and some related network optimization problems. It was created by David Applegate, Robert E. Bixby, Vašek Chvátal, and William J. Cook.
 - [XNNPACK](https://github.com/google/XNNPACK) - High-efficiency floating-point neural network inference operators for mobile, server, and Web
 - [openfortivpn](https://github.com/adrienverge/openfortivpn) - Client for PPP+SSL VPN tunnel services
@@ -500,7 +501,6 @@
 - [vosk-api](https://github.com/alphacep/vosk-api) - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
 - [rpcs3](https://github.com/RPCS3/rpcs3) - PS3 emulator/debugger
 - [onnx-tensorrt](https://github.com/onnx/onnx-tensorrt) - ONNX-TensorRT: TensorRT backend for ONNX
-- [cuda-samples](https://github.com/NVIDIA/cuda-samples) - Samples for CUDA Developers which demonstrates features in CUDA Toolkit
 - [xbmc](https://github.com/xbmc/xbmc) - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS and Windows.
 - [graph-learn](https://github.com/alibaba/graph-learn) - graph-learn
 - [snappy](https://github.com/google/snappy) - A fast compressor/decompressor
@@ -1234,7 +1234,6 @@
 - [animate.css](https://github.com/animate-css/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
 - [lavalamp.js](https://github.com/jgthms/lavalamp.js) - A replacement for infinite scrolling.
 - [Gutenberg](https://github.com/matejlatin/Gutenberg) - A meaningful web typography starter kit.
-- [bootstrap-material-design](https://github.com/mdbootstrap/bootstrap-material-design) - Bootstrap 4 Material Design - see readme. New version for Bootstrap 5 - see the link below.
 - [angular-horizontal-timeline](https://github.com/eowo/angular-horizontal-timeline) - Simple horizontal timeline directive for AngularJS
 - [angular-timeline](https://github.com/rpocklin/angular-timeline) - An Angular.JS directive that generates a responsive, data-driven vertical timeline to tell a story,  show history or describe a sequence of events.
 - [ngAudio](https://github.com/danielstern/ngAudio) - Angular Directive for Playing Sounds
@@ -1406,7 +1405,7 @@
 - [uber_clone](https://github.com/MarcioQuimbundo/uber_clone) - 
 - [dynamic_widget](https://github.com/dengyin2000/dynamic_widget) - A Backend-Driven UI toolkit, build your dynamic UI with json, and the json format is very similar with flutter widget code.
 - [awesome-flutter-packages](https://github.com/leisim/awesome-flutter-packages) - A curated list of awesome Flutter packages.
-- [angular](https://github.com/dart-lang/angular) - Fast and productive web framework provided by Dart
+- [angular](https://github.com/angulardart/angular) - Fast and productive web framework provided by Dart
 - [flutter-permission-handler](https://github.com/Baseflow/flutter-permission-handler) - Permission plugin for Flutter. This plugin provides a cross-platform (iOS, Android) API to request and check permissions.
 - [FlutterHtmlView](https://github.com/ponnamkarthik/FlutterHtmlView) - Flutter Plugin to render html as a Widget
 - [flutter_facebook_login](https://github.com/roughike/flutter_facebook_login) - A Flutter plugin for allowing users to authenticate with native Android & iOS Facebook login SDKs.
@@ -7703,7 +7702,7 @@
 - [python-osrm](https://github.com/ustroetz/python-osrm) - A Python wrapper around the OSRM API
 - [aws-step-function-example](https://github.com/servian/aws-step-function-example) - 
 - [spektral](https://github.com/danielegrattarola/spektral) - Graph Neural Networks with Keras and Tensorflow 2.
-- [ludwig](https://github.com/uber/ludwig) - Ludwig is a toolbox that allows to train and evaluate deep learning models without the need to write code.
+- [ludwig](https://github.com/ludwig-ai/ludwig) - Ludwig is a toolbox that allows to train and evaluate deep learning models without the need to write code.
 - [project_alias](https://github.com/bjoernkarmann/project_alias) - Alias is a teachable “parasite” that is designed to give users more control over their smart assistants, both when it comes to customisation and privacy. Through a simple app the user can train Alias to react on a custom wake-word/sound, and once trained, Alias can take control over your home assistant by activating it for you.
 - [gita](https://github.com/nosarthur/gita) - Manage many git repos with sanity 从容管理多个git库
 - [ffhq-dataset](https://github.com/NVlabs/ffhq-dataset) - Flickr-Faces-HQ Dataset (FFHQ)
@@ -11577,7 +11576,7 @@
 - [Quads](https://github.com/fogleman/Quads) - Computer art based on quadtrees.
 - [restless](https://github.com/toastdriven/restless) - A lightweight REST miniframework for Python.
 - [kivy-2014](https://github.com/mvasilkov/kivy-2014) - Rockivy is an app for learning guitar scales, written in Python for Kivy App Contest 2014.
-- [google-privacy-enhancer](https://github.com/aaronshaver/google-privacy-enhancer) - Performs random Google searches, clicks to increase your privacy
+- [google-privacy-enhancer](https://github.com/aaronshaver/google-privacy-enhancer) - Thought experiment / prototype that performs random Google searches, clicks to increase privacy
 - [dpark](https://github.com/douban/dpark) - Python clone of Spark,  a MapReduce alike framework in Python
 - [hot-redis](https://github.com/stephenmcd/hot-redis) - Rich Python data types for Redis
 - [django-sudo](https://github.com/mattrobenolt/django-sudo) - Extra security for your sensitive pages
@@ -12336,7 +12335,7 @@
 - [smokesignal](https://github.com/shaunduncan/smokesignal) - Simple python signaling
 - [pygreen](https://github.com/nicolas-van/pygreen) - A micro web framework/static web site generator.
 - [dictdiffer](https://github.com/inveniosoftware/dictdiffer) - Dictdiffer is a module that helps you to diff and patch dictionaries.
-- [smiley](https://github.com/dhellmann/smiley) - Python Application Tracer
+- [smiley](https://github.com/smiley-debugger/smiley) - Python Application Tracer
 - [commandr](https://github.com/tellapart/commandr) - Tool that creates command line interfaces for functions automatically.
 - [schedule](https://github.com/dbader/schedule) - Python job scheduling for humans.
 - [mason](https://github.com/agiliq/mason) - Generate the starting point for your Django project
@@ -12803,6 +12802,7 @@
 - [uswds](https://github.com/uswds/uswds) - The U.S. Web Design System helps the federal government build fast, accessible, mobile-friendly websites.
 - [flight-manual.atom.io](https://github.com/atom/flight-manual.atom.io) - 📖 Documentation for Atom, generated by nanoc, hosted by GitHub Pages
 - [css](https://github.com/primer/css) - The CSS design system that powers GitHub
+- [mdb-ui-kit](https://github.com/mdbootstrap/mdb-ui-kit) - Bootstrap 5 & Material Design 2.0 UI KIT
 
 ## Sass 
 
