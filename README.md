@@ -564,7 +564,7 @@
 - [DeepCars](https://github.com/JVictorDias/DeepCars) - 
 - [matplotlib-cpp](https://github.com/lava/matplotlib-cpp) - Extremely simple yet powerful header-only C++ plotting library built on the popular matplotlib
 - [fmt](https://github.com/fmtlib/fmt) - A modern formatting library
-- [navigation2](https://github.com/ros-planning/navigation2) - ROS2 Navigation
+- [navigation2](https://github.com/ros-planning/navigation2) - ROS2 Navigation Framework and System
 - [openalpr](https://github.com/openalpr/openalpr) - Automatic License Plate Recognition library
 - [cosmoscout-vr](https://github.com/cosmoscout/cosmoscout-vr) - :milky_way: A virtual universe which lets you explore, analyze and present huge planetary datasets and large simulation data in real-time.
 - [street-addresses](https://github.com/facebookresearch/street-addresses) - Robocodes: Towards Generative Street Addresses from Satellite Imagery
@@ -653,7 +653,6 @@
 - [Adaptive_Feeding](https://github.com/funnyzhou/Adaptive_Feeding) - 
 - [fluent](https://github.com/hydro-project/fluent) - A data-driven compute platform
 - [LogDevice](https://github.com/facebookincubator/LogDevice) - Distributed storage for sequential data
-- [alexa-auto-sdk](https://github.com/alexa/alexa-auto-sdk) - The Alexa Auto SDK is for automotive OEMs to integrate Alexa directly into vehicles.
 - [BaikalDB](https://github.com/baidu/BaikalDB) - BaikalDB, A Distributed HTAP Database.
 - [filament](https://github.com/google/filament) - Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS and WASM/WebGL
 - [doxygen](https://github.com/doxygen/doxygen) - Official doxygen git repository
@@ -815,7 +814,7 @@
 - [httpflow](https://github.com/six-ddc/httpflow) - A command line utility helps to capture and dump HTTP stream
 - [RedisDesktopManager](https://github.com/uglide/RedisDesktopManager) - :wrench: Cross-platform GUI management tool for Redis
 - [muon](https://github.com/brave/muon) - [DEPRECATED] Build browsers and browser like applications with HTML, CSS, and JavaScript
-- [envoy](https://github.com/envoyproxy/envoy) - Cloud-native high-performance edge/middle/service proxy
+- [envoy](https://github.com/envoyproxy/envoy) - **ATTENTION: Holiday vacation Dec-23 - Jan-4. Responses delayed.** Cloud-native high-performance edge/middle/service proxy
 - [sentencepiece](https://github.com/google/sentencepiece) - Unsupervised text tokenizer for Neural Network-based text generation.
 - [notepad-plus-plus](https://github.com/notepad-plus-plus/notepad-plus-plus) - Notepad++ official repository
 - [evpp](https://github.com/Qihoo360/evpp) - A modern C++ network library for developing high performance network services in TCP/UDP/HTTP protocols.
@@ -2314,6 +2313,7 @@
 - [quickstart-js](https://github.com/firebase/quickstart-js) - Firebase Quickstart Samples for Web
 - [MATRIX_Etherscan](https://github.com/MatrixAINetwork/MATRIX_Etherscan) - This is a crawler used to visit Ehterscan and obtain smartcontract related info
 - [uikit-ecommerce-template](https://github.com/chekromul/uikit-ecommerce-template) - E-commerce template built with UIKIt
+- [alexa-auto-sdk](https://github.com/alexa/alexa-auto-sdk) - The Alexa Auto SDK is for automotive OEMs to integrate Alexa directly into vehicles.
 - [pymk-inspector](https://github.com/GMG-Special-Projects-Desk/pymk-inspector) - See the people Facebook thinks you know
 - [cheatsheets](https://github.com/azat-co/cheatsheets) - JavaScript and Node.js cheatsheets
 - [basicengine-firmware](https://github.com/uli/basicengine-firmware) - BASIC Engine Firmware
@@ -4467,6 +4467,7 @@
 - [DQN-Atari-Agents](https://github.com/BY571/DQN-Atari-Agents) - DQN-Atari-Agents:   Modularized & Parallel PyTorch implementation of several DQN Agents, i.a. DDQN, Dueling DQN, Noisy DQN, C51, Rainbow, and DRQN
 - [ganspace](https://github.com/harskish/ganspace) - Discovering Interpretable GAN Controls [NeurIPS 2020]
 - [deltapy](https://github.com/firmai/deltapy) - DeltaPy - Tabular Data Augmentation (by @firmai)
+- [Yet-Another-EfficientDet-Pytorch](https://github.com/zylo117/Yet-Another-EfficientDet-Pytorch) - The pytorch re-implement of the official efficientdet with SOTA performance in real time and pretrained weights.
 - [nerf](https://github.com/bmild/nerf) - Code release for NeRF (Neural Radiance Fields)
 - [pycaret](https://github.com/pycaret/pycaret) - An open-source, low-code machine learning library in Python
 - [micrograd](https://github.com/karpathy/micrograd) - A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API
@@ -5422,7 +5423,6 @@
 - [PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook) - Python Data Science Handbook: full text in Jupyter Notebooks
 - [ml4a](https://github.com/ml4a/ml4a) - practical guides, tutorials, and code samples for ml4a
 - [scikit-learn-videos](https://github.com/justmarkham/scikit-learn-videos) - Jupyter notebooks from the scikit-learn video series
-- [urban-data-science](https://github.com/gboeing/urban-data-science) - Course materials, Jupyter notebooks, tutorials, guides, and demos for a Python-based urban data science course.
 - [DeepLearning-NLP](https://github.com/rouseguy/DeepLearning-NLP) - Introduction to Deep Learning for Natural Language Processing
 - [summerschool2016](https://github.com/mila-iqia/summerschool2016) - Montréal Deep Learning Summer School 2016 material
 - [tensorflow-tutorial](https://github.com/martinwicke/tensorflow-tutorial) - A tutorial on TensorFlow
@@ -6476,7 +6476,7 @@
 - [awesome-sass](https://github.com/Famolus/awesome-sass) - 🎨 Curated list of awesome Sass and SCSS frameworks, libraries, style guides, articles, and resources.
 - [awesome-crawler](https://github.com/BruceDone/awesome-crawler) - A collection of awesome web crawler,spider in different languages
 - [machine-learning-for-software-engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) - A complete daily plan for studying to become a machine learning engineer.
-- [development-resources](https://github.com/dakaraphi/development-resources) - Collection of useful development resources
+- [development-resources](https://github.com/d-akara/development-resources) - Collection of useful development resources
 - [mobileTech](https://github.com/jtyjty99999/mobileTech) - A useful tools or tips list for mobile web application developing
 - [electrode](https://github.com/walmartlabs/electrode) - Electrode - Application Platform on React/Node.js powering Walmart.com
 - [Greyprint](https://github.com/bjango/Greyprint) - Templates with pre-made styles to assist icon, symbol, and glyph design.
@@ -6517,6 +6517,7 @@
 - [react-functional-css-protips](https://github.com/chibicode/react-functional-css-protips) - :sunglasses: Functional CSS - The Good, The Bad, and Some Protips for React.js Users
 - [awesome-paid-open-source](https://github.com/mrjoelkemp/awesome-paid-open-source) - Collection of links around paid/sustainable open source development
 - [react-fiber-architecture](https://github.com/acdlite/react-fiber-architecture) - A description of React's new core algorithm, React Fiber
+- [urban-data-science](https://github.com/gboeing/urban-data-science) - Course series on urban data science with Python and Jupyter
 - [docs](https://github.com/dev-sec/docs) - ⛔ DEPRECATED, migrated to dev-sec/dev-sec.github.io
 - [deepframeworks](https://github.com/zer0n/deepframeworks) - Evaluation of Deep Learning Frameworks
 - [awesome-iot](https://github.com/HQarroum/awesome-iot) - 🤖 A curated list of awesome Internet of Things projects and resources.
@@ -6882,7 +6883,7 @@
 - [Aslan](https://github.com/project-aslan/Aslan) - Open source self-driving software for low speed environments
 - [MolecularTransformer](https://github.com/pschwllr/MolecularTransformer) - 
 - [TopicNet](https://github.com/machine-intelligence-laboratory/TopicNet) - Interface for easier topic modelling.
-- [datasets](https://github.com/huggingface/datasets) - 🤗 Fast, efficient, open-access datasets and evaluation metrics in PyTorch, TensorFlow, NumPy and Pandas
+- [datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use open-access datasets for ML models with fast, easy-to-use and efficient data manipulation tools
 - [TensorFlowTTS](https://github.com/TensorSpeech/TensorFlowTTS) - :stuck_out_tongue_closed_eyes: TensorFlowTTS: Real-Time State-of-the-art Speech Synthesis for Tensorflow 2 (supported including English, Korean, Chinese, German and Easy to adapt for other languages)
 - [tuya-convert](https://github.com/ct-Open-Source/tuya-convert) - A collection of scripts to flash Tuya IoT devices to alternative firmwares
 - [rich](https://github.com/willmcgugan/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
@@ -6966,7 +6967,6 @@
 - [CenterTrack](https://github.com/xingyizhou/CenterTrack) - Simultaneous object detection and tracking using center points.
 - [nerf-pytorch](https://github.com/yenchenlin/nerf-pytorch) - A PyTorch implementation of NeRF (Neural Radiance Fields) that reproduces the results.
 - [DeepMatch](https://github.com/shenweichen/DeepMatch) - A deep matching model library for recommendations & advertising. It's easy to train models and to export representation vectors which can be used for ANN search.
-- [Yet-Another-EfficientDet-Pytorch](https://github.com/zylo117/Yet-Another-EfficientDet-Pytorch) - The pytorch re-implement of the official efficientdet with SOTA performance in real time and pretrained weights.
 - [omegaconf](https://github.com/omry/omegaconf) - Flexible Python configuration system. The last one you will ever need.
 - [fastNLP](https://github.com/fastnlp/fastNLP) - fastNLP: A Modularized and Extensible NLP Framework. Currently still in incubation.
 - [comma10k](https://github.com/commaai/comma10k) - 10k crowdsourced images for training segnets
@@ -7847,7 +7847,7 @@
 - [vunet](https://github.com/CompVis/vunet) - A generative model conditioned on shape and appearance.
 - [saas-base](https://github.com/CaravelKit/saas-base) - SaaS base application (Flask, Vue, Bootstrap, Webpack)
 - [ClassificaIO](https://github.com/gmiaslab/ClassificaIO) - This repository contains ClassificaIO, a Python package that provides a graphical user interface (GUI) for machine learning algorithms from scikit-learn.
-- [colorpalette](https://github.com/makkoncept/colorpalette) - Extracts dominating colors from an image and presents them as a palette. https://colorpalette.xyz/
+- [colorpalette](https://github.com/makkoncept/colorpalette) - Extracts dominating colors from an image and presents them as a palette.
 - [uis-rnn](https://github.com/google/uis-rnn) - This is the library for the Unbounded Interleaved-State Recurrent Neural Network (UIS-RNN) algorithm, corresponding to the paper Fully Supervised Speaker Diarization.
 - [cutie](https://github.com/Kamik423/cutie) - Command line User Tools for Input Easification
 - [chartify](https://github.com/spotify/chartify) - Python library that makes it easy for data scientists to create charts.
@@ -13265,7 +13265,7 @@
 - [bottender](https://github.com/Yoctol/bottender) - ⚡️ A framework for building conversational user interfaces.
 - [ng-alain](https://github.com/ng-alain/ng-alain) - NG-ZORRO admin panel front-end framework (surge mirror https://ng-alain-doc.surge.sh)
 - [hint](https://github.com/webhintio/hint) - 💡 A hinting engine for the web
-- [vue-storefront](https://github.com/DivanteLtd/vue-storefront) - The open-source frontend for any eCommerce. Built with a PWA and headless approach, using a modern JS stack. We have custom integrations with Magento, commercetools, Shopware and Shopify and total coverage is just a matter of time. The API approach also allows you to merge VSF with any third-party tool like CMS, payment gateways or analytics. Newest updates: https://blog.vuestorefront.io. Always Open Source, MIT license.
+- [vue-storefront](https://github.com/vuestorefront/vue-storefront) - The open-source frontend for any eCommerce. Built with a PWA and headless approach, using a modern JS stack. We have custom integrations with Magento, commercetools, Shopware and Shopify and total coverage is just a matter of time. The API approach also allows you to merge VSF with any third-party tool like CMS, payment gateways or analytics. Newest updates: https://blog.vuestorefront.io. Always Open Source, MIT license.
 - [hackernews-react-graphql](https://github.com/clintonwoo/hackernews-react-graphql) - Hacker News clone rewritten with universal JavaScript, using React and GraphQL.
 - [fast-style-transfer-deeplearnjs](https://github.com/reiinakano/fast-style-transfer-deeplearnjs) - Demo of in-browser Fast Neural Style Transfer with deeplearn.js library
 - [autorest](https://github.com/Azure/autorest) - OpenAPI (f.k.a Swagger) Specification code generator. Supports C#, PowerShell, Go, Java, Node.js, TypeScript, Python, Ruby
