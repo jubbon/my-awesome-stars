@@ -49,7 +49,6 @@
   - [Julia](#julia)
   - [Jupyter Notebook](#jupyter-notebook)
   - [Kotlin](#kotlin)
-  - [Lasso](#lasso)
   - [Less](#less)
   - [Lua](#lua)
   - [M4](#m4)
@@ -144,7 +143,6 @@
 - [cuda-samples](https://github.com/NVIDIA/cuda-samples) - Samples for CUDA Developers which demonstrates features in CUDA Toolkit
 - [concorde](https://github.com/matthelb/concorde) - Concorde is a computer code for the symmetric traveling salesman problem (TSP) and some related network optimization problems. It was created by David Applegate, Robert E. Bixby, Vašek Chvátal, and William J. Cook.
 - [XNNPACK](https://github.com/google/XNNPACK) - High-efficiency floating-point neural network inference operators for mobile, server, and Web
-- [openfortivpn](https://github.com/adrienverge/openfortivpn) - Client for PPP+SSL VPN tunnel services
 - [rt-thread](https://github.com/RT-Thread/rt-thread) - RT-Thread is an open source IoT operating system.
 - [DOOM](https://github.com/id-Software/DOOM) - DOOM Open Source Release
 - [mongoose](https://github.com/cesanta/mongoose) - Mongoose Embedded Web Server Library - Mongoose is more than an embedded webserver. It is a multi-protocol embedded networking library with functions including TCP, HTTP client and server, WebSocket client and server,  MQTT client and broker and much more.
@@ -4352,7 +4350,6 @@
 - [voicechat](https://github.com/plivo/voicechat) - VoiceChat is a set of APIs to create conference rooms on the fly to be used in the browser. Its built using the Plivo WebSDK and APIs.
 - [tangelo](https://github.com/Kitware/tangelo) - A simple, quick, powerful web framework
 - [st-theme-freesia](https://github.com/nilium/st-theme-freesia) - Freesia theme for Sublime Text 3. (Unmaintained.)
-- [ichnaea](https://github.com/mozilla/ichnaea) - Mozilla Ichnaea
 - [cuckoo](https://github.com/cuckoosandbox/cuckoo) - Cuckoo Sandbox is an automated dynamic malware analysis system
 - [django-front](https://github.com/mbi/django-front) - Django-front is a front-end editing Django application
 - [cabot](https://github.com/arachnys/cabot) - Self-hosted, easily-deployable monitoring and alerts service - like a lightweight PagerDuty
@@ -5142,6 +5139,7 @@
 - [conf2017slides](https://github.com/pydataberlin/conf2017slides) - 
 - [Deep-Learning](https://github.com/aditya-AI/Deep-Learning) - This repository contains Deep Learning examples using Tensorflow. This repository will be useful for Deep Learning starters who find difficulty in understanding the example codes.
 - [The_Math_of_Intelligence](https://github.com/alberduris/The_Math_of_Intelligence) - Code for each week's short video of Siraj Raval Course "Math of Intelligence"
+- [lasio](https://github.com/kinverarity1/lasio) - Python library for reading and writing well data using Log ASCII Standard (LAS) files
 - [scikit-allel](https://github.com/cggh/scikit-allel) - A Python package for exploring and analysing genetic variation data
 - [C3D](https://github.com/facebookarchive/C3D) - C3D is a modified version of BVLC caffe to support 3D ConvNets.
 - [RoboND-Rover-Project](https://github.com/udacity/RoboND-Rover-Project) - Project repository for the Unity rover search and sample return project.
@@ -5633,10 +5631,6 @@
 - [architecture-components-samples](https://github.com/android/architecture-components-samples) - Samples for Android Architecture Components.
 - [flexbox-layout](https://github.com/google/flexbox-layout) - Flexbox for Android
 - [architecture-samples](https://github.com/android/architecture-samples) - A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.
-
-## Lasso 
-
-- [lasio](https://github.com/kinverarity1/lasio) - Python library for reading and writing well data using Log ASCII Standard (LAS) files
 
 ## Less 
 
@@ -6746,6 +6740,7 @@
 
 ## Perl 
 
+- [openfortivpn](https://github.com/adrienverge/openfortivpn) - Client for PPP+SSL VPN tunnel services
 - [repo-info](https://github.com/docker-library/repo-info) - Extended information (especially license and layer details) about the published Official Images
 - [FlameGraph](https://github.com/brendangregg/FlameGraph) - Stack trace visualizer
 - [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:
@@ -6883,7 +6878,7 @@
 - [Aslan](https://github.com/project-aslan/Aslan) - Open source self-driving software for low speed environments
 - [MolecularTransformer](https://github.com/pschwllr/MolecularTransformer) - 
 - [TopicNet](https://github.com/machine-intelligence-laboratory/TopicNet) - Interface for easier topic modelling.
-- [datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use open-access datasets for ML models with fast, easy-to-use and efficient data manipulation tools
+- [datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use NLP datasets for ML models with fast, easy-to-use and efficient data manipulation tools
 - [TensorFlowTTS](https://github.com/TensorSpeech/TensorFlowTTS) - :stuck_out_tongue_closed_eyes: TensorFlowTTS: Real-Time State-of-the-art Speech Synthesis for Tensorflow 2 (supported including English, Korean, Chinese, German and Easy to adapt for other languages)
 - [tuya-convert](https://github.com/ct-Open-Source/tuya-convert) - A collection of scripts to flash Tuya IoT devices to alternative firmwares
 - [rich](https://github.com/willmcgugan/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
@@ -9843,7 +9838,7 @@
 - [lift](https://github.com/bhuztez/lift) - LIsp Flavoured Tensor
 - [manage](https://github.com/python-manage/manage) - Command Line Manager + Interactive Shell for Python Projects
 - [geoviews](https://github.com/holoviz/geoviews) - Simple, concise geographical visualization in Python
-- [bambi](https://github.com/bambinos/bambi) - BAyesian Model-Building Interface (BAMBI) in Python.
+- [bambi](https://github.com/bambinos/bambi) - BAyesian Model-Building Interface (Bambi) in Python.
 - [Responder](https://github.com/lgandx/Responder) - Responder is a LLMNR, NBT-NS and MDNS poisoner, with built-in HTTP/SMB/MSSQL/FTP/LDAP rogue authentication server supporting NTLMv1/NTLMv2/LMv2, Extended Security NTLMSSP and Basic HTTP authentication.
 - [automatron](https://github.com/madflojo/automatron) - Infrastructure monitoring framework turning DevOps runbooks into automated actions
 - [NakedTensor](https://github.com/jostmey/NakedTensor) - Bare bone examples of machine learning in TensorFlow
@@ -11334,7 +11329,7 @@
 - [DidYouMean-Python](https://github.com/SylvainDe/DidYouMean-Python) - Module to have suggestions in case of errors (NameError, AttributeError, etc).
 - [command-line-chess](https://github.com/marcusbuffett/command-line-chess) - A python program to play chess against an AI in the terminal.
 - [db.py](https://github.com/yhat/db.py) - db.py is an easier way to interact with your databases
-- [core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first
+- [core](https://github.com/home-assistant/core) - WE ARE ON HOLIDAY. REVIEWS WILL TAKE A WHILE. HAPPY HOLIDAYS! ✨ :house_with_garden: Open source home automation that puts local control and privacy first
 - [timesketch](https://github.com/google/timesketch) - Collaborative forensic timeline analysis
 - [cyordereddict](https://github.com/shoyer/cyordereddict) - Cython implementation of OrderedDict
 - [RxPY](https://github.com/ReactiveX/RxPY) - Reactive Extensions for Python, https://rxpy.rtfd.io
@@ -11976,6 +11971,7 @@
 - [tord](https://github.com/abhinavsingh/tord) - Websocket + PubSub based web framework built over Tornado, Redis, ZMQ, SockJS
 - [sympy_gamma](https://github.com/sympy/sympy_gamma) - A SymPy version of WolframAlpha.
 - [PynamoDB](https://github.com/pynamodb/PynamoDB) - A pythonic interface to Amazon's DynamoDB
+- [ichnaea](https://github.com/mozilla/ichnaea) - Mozilla Ichnaea
 - [dominate](https://github.com/Knio/dominate) - Dominate is a Python library for creating and manipulating HTML documents using an elegant DOM API.  It allows you to write HTML pages in pure Python very concisely, which eliminate the need to learn another template language, and to take advantage of the more powerful features of Python.
 - [mixpanel-python-async](https://github.com/jessepollak/mixpanel-python-async) - :zap: Batch and send your Mixpanel API calls asynchronously in Python
 - [cryptography](https://github.com/pyca/cryptography) - cryptography is a package designed to expose cryptographic primitives and recipes to Python developers.
