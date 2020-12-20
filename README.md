@@ -6288,7 +6288,7 @@
 - [machine-learning-mindmap](https://github.com/dformoso/machine-learning-mindmap) - A mindmap summarising Machine Learning concepts, from Data Analysis to Deep Learning.
 - [DefCon25](https://github.com/FuzzySecurity/DefCon25) - UAC 0day, all day!
 - [books](https://github.com/learn-anything/books) - Awesome Books
-- [go-styleguide](https://github.com/bahlo/go-styleguide) - Opinionated Styleguide for the Go language
+- [go-styleguide](https://github.com/bahlo/go-styleguide) - 🏆 Opinionated Styleguide for the Go language
 - [wifi-cracking](https://github.com/brannondorsey/wifi-cracking) - Crack WPA/WPA2 Wi-Fi Routers with Airodump-ng and Aircrack-ng/Hashcat
 - [learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
 - [thejsway](https://github.com/thejsway/thejsway) - The JavaScript Way book
