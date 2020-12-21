@@ -1504,7 +1504,7 @@
 - [ultimate-go](https://github.com/hoanhan101/ultimate-go) - The Ultimate Go Study Guide
 - [act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [runc](https://github.com/opencontainers/runc) - CLI tool for spawning and running containers according to the OCI specification
-- [nightingale](https://github.com/didi/nightingale) - 💡 A Distributed and High-Performance Monitoring System
+- [nightingale](https://github.com/didi/nightingale) - 💡 A Distributed and High-Performance Monitoring System 可以看做Open-Falcon的下一代，不止运维监控，更是要做一款生产级运维平台
 - [Prometheus-Basics](https://github.com/yolossn/Prometheus-Basics) - A beginner friendly introduction to prometheus 🔥
 - [client_golang](https://github.com/prometheus/client_golang) - Prometheus instrumentation library for Go applications
 - [cloud-on-k8s](https://github.com/elastic/cloud-on-k8s) - Elastic Cloud on Kubernetes
@@ -1532,7 +1532,6 @@
 - [nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
 - [migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
 - [aws-nuke](https://github.com/rebuy-de/aws-nuke) - Nuke a whole AWS account and delete all its resources.
-- [statping](https://github.com/statping/statping) - Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.
 - [terraform-provider-azurerm](https://github.com/terraform-providers/terraform-provider-azurerm) - Terraform provider for Azure Resource Manager
 - [external-dns](https://github.com/kubernetes-sigs/external-dns) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
 - [cli](https://github.com/cli/cli) - GitHub’s official command line tool
@@ -1570,7 +1569,7 @@
 - [lindb](https://github.com/lindb/lindb) - LinDB is a scalable, high performance, high availability distributed time series database.
 - [buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
 - [gotraining](https://github.com/ardanlabs/gotraining) - Go Training Class Material :
-- [go-micro](https://github.com/asim/go-micro) - Go Micro is a framework for microservices development
+- [go-micro](https://github.com/asim/go-micro) - Go Micro is a framework for distributed systems development
 - [pipeline](https://github.com/tektoncd/pipeline) - A K8s-native Pipeline resource.
 - [prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
 - [k3v](https://github.com/ibuildthecloud/k3v) - Virtual Kubernetes
@@ -5972,7 +5971,6 @@
 - [ui-libraries](https://github.com/jefflombard/ui-libraries) - A collection of UI Frameworks and their platform implementations.
 - [datascience](https://github.com/r0f1/datascience) - Curated list of Python resources for data science.
 - [golang-developer-roadmap](https://github.com/Alikhll/golang-developer-roadmap) - Roadmap to becoming a Go developer in 2020
-- [pytorch-styleguide](https://github.com/IgorSusmelj/pytorch-styleguide) - An unofficial styleguide and best practices summary for PyTorch
 - [resilience-engineering](https://github.com/lorin/resilience-engineering) - Resilience engineering papers
 - [app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
 - [commit-messages-guide](https://github.com/RomuloOliveira/commit-messages-guide) - A guide to understand the importance of commit messages and how to write them well
@@ -7603,6 +7601,7 @@
 - [DeepSwarm](https://github.com/Pattio/DeepSwarm) - Neural Architecture Search Powered by Swarm Intelligence 🐜
 - [botorch](https://github.com/pytorch/botorch) - Bayesian optimization in PyTorch
 - [keras-contrib](https://github.com/keras-team/keras-contrib) - Keras community contributions
+- [pytorch-styleguide](https://github.com/IgorSusmelj/pytorch-styleguide) - An unofficial styleguide and best practices summary for PyTorch
 - [OUCML](https://github.com/OUCMachineLearning/OUCML) - 
 - [dephell](https://github.com/dephell/dephell) - :package: :fire: Python project management. Manage packages: convert between formats, lock, install, resolve, isolate, test, build graph, show outdated, audit. Manage venvs, build package, bump version.
 - [koalas](https://github.com/databricks/koalas) - Koalas: pandas API on Apache Spark
@@ -9558,7 +9557,7 @@
 - [pynamical](https://github.com/gboeing/pynamical) - Pynamical is a Python package for modeling and visualizing discrete nonlinear dynamical systems, chaos, and fractals.
 - [container-images](https://github.com/IntelPython/container-images) - Dockerfiles for building docker images
 - [Wifi-Dumper](https://github.com/Viralmaniar/Wifi-Dumper) - This is an open source tool to dump the wifi profiles and cleartext passwords of the connected access points on the Windows machine. This tool will help you in a Wifi penetration testing. Furthermore, it is useful while performing red team or an internal infrastructure engagements.
-- [harmonicConvolutions](https://github.com/deworrall92/harmonicConvolutions) - Deep Translation and Rotation Equivariance
+- [harmonicConvolutions](https://github.com/danielewworrall/harmonicConvolutions) - Deep Translation and Rotation Equivariance
 - [RogueBot](https://github.com/YogurtTheHorse/RogueBot) - My simple rogue-like game for Telegram
 - [electricitymap-contrib](https://github.com/tmrowco/electricitymap-contrib) - A real-time visualisation of the CO2 emissions of electricity consumption
 - [git-reviewers](https://github.com/johnnadratowski/git-reviewers) - 
@@ -13395,6 +13394,7 @@
 - [documentation](https://github.com/pterodactyl/documentation) - Pterodactyl's documentation is open source! This repository contains the documentation for installing and updating both the panel and the daemon.
 - [ui](https://github.com/staart/ui) - 🏁🌐 Frontend Vue PWA starter for SaaS startups
 - [amazon-api-gateway-url-shortener](https://github.com/aws-samples/amazon-api-gateway-url-shortener) - Creates a serverless URL shortener on AWS without using AWS Lambda or any other compute.
+- [statping](https://github.com/statping/statping) - Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.
 - [HYMall](https://github.com/coderwhy/HYMall) - A vue.js mall application.
 - [vue-kinesis](https://github.com/Aminerman/vue-kinesis) - Easily create complex interactive animations with Vue.js
 - [awake-template](https://github.com/danielkellyio/awake-template) - 
