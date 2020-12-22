@@ -511,7 +511,6 @@
 - [srt](https://github.com/Haivision/srt) - Secure, Reliable, Transport
 - [MultiMC5](https://github.com/MultiMC/MultiMC5) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once
 - [zeal](https://github.com/zealdocs/zeal) - Offline documentation browser inspired by Dash
-- [tink](https://github.com/google/tink) - Tink is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.
 - [udp2raw-tunnel](https://github.com/wangyu-/udp2raw-tunnel) - A Tunnel which Turns UDP Traffic into Encrypted UDP/FakeTCP/ICMP Traffic by using Raw Socket,helps you Bypass UDP FireWalls(or Unstable UDP Environment)
 - [re2](https://github.com/google/re2) - RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.
 - [box2d](https://github.com/erincatto/box2d) - Box2D is a 2D physics engine for games
@@ -2702,6 +2701,7 @@
 
 - [cassandra-workshop-series](https://github.com/DataStax-Academy/cassandra-workshop-series) - All materials for the Cassandra Workshop Series in a single place
 - [spring-cloud-alibaba](https://github.com/alibaba/spring-cloud-alibaba) - Spring Cloud Alibaba provides a one-stop solution for application development for the distributed solutions of Alibaba middleware.
+- [tink](https://github.com/google/tink) - Tink is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.
 - [piranha](https://github.com/uber/piranha) - A tool for refactoring code related to feature flag APIs
 - [Algorithms](https://github.com/williamfiset/Algorithms) - A collection of algorithms and data structures
 - [tutorials](https://github.com/eugenp/tutorials) - Just Announced - "Learn Spring Security OAuth":
@@ -6273,7 +6273,7 @@
 - [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
 - [DeepRLHacks](https://github.com/williamFalcon/DeepRLHacks) - Hacks for training RL systems from John Schulman's lecture at Deep RL Bootcamp  (Aug 2017)
 - [awesome-coins](https://github.com/Zheaoli/awesome-coins) - ₿ A guide (for humans!) to cryto-currencies and their algos.
-- [awesome-product-design](https://github.com/teoga/awesome-product-design) - A collection of bookmarks, resources, articles for product designers.
+- [awesome-product-design](https://github.com/matttga/awesome-product-design) - A collection of bookmarks, resources, articles for product designers.
 - [my-mac-os](https://github.com/nikitavoloboev/my-mac-os) - List of applications and tools that make my macOS experience even more amazing
 - [DockerCheatSheet](https://github.com/eon01/DockerCheatSheet) - 🐋 Docker Cheat Sheet 🐋
 - [awesome-sre](https://github.com/dastergon/awesome-sre) - A curated list of Site Reliability and Production Engineering resources.
@@ -6897,7 +6897,7 @@
 - [SegLoss](https://github.com/JunMa11/SegLoss) - A collection of loss functions for medical image segmentation
 - [SymJAX](https://github.com/SymJAX/SymJAX) - Documentation:
 - [container-best-practices](https://github.com/projectatomic/container-best-practices) - Container Best Practices
-- [stable-baselines3](https://github.com/DLR-RM/stable-baselines3) - PyTorch version of Stable Baselines, improved implementations of reinforcement learning algorithms.
+- [stable-baselines3](https://github.com/DLR-RM/stable-baselines3) - PyTorch version of Stable Baselines, reliable implementations of reinforcement learning algorithms.
 - [shotlooter](https://github.com/utkusen/shotlooter) - a recon tool that finds sensitive data inside the screenshots uploaded to prnt.sc
 - [TENER](https://github.com/fastnlp/TENER) - Codes for "TENER: Adapting Transformer Encoder for Named Entity Recognition"
 - [Realtime_PyAudio_FFT](https://github.com/tr1pzz/Realtime_PyAudio_FFT) - Realtime audio analysis in Python, using PyAudio and Numpy to extract and visualize FFT features from streaming audio.
@@ -13489,7 +13489,7 @@
 - [gitlab-monitor](https://github.com/timoschwarzer/gitlab-monitor) - A web-based monitor dashboard for GitLab CI
 - [ebbx](https://github.com/ebb-io/ebbx) - A Vue.js project that powers a certain magical website
 - [vue-clamp](https://github.com/Justineo/vue-clamp) - Clamping multiline text with ease.
-- [formvuelar](https://github.com/janiskelemen/formvuelar) - Vue form components with server side validation in mind
+- [formvuelar](https://github.com/janiskelemen/formvuelar) - Vue form components with server-side validation in mind
 - [vue](https://github.com/redtubelabs/vue) - Touch yourself on the Vue way.
 - [d3vue](https://github.com/leofle/d3vue) - Vue app with D3 graph
 - [vue-patternfly](https://github.com/mtorromeo/vue-patternfly) - PatternFly components for Vue 2
