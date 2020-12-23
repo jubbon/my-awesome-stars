@@ -383,7 +383,7 @@
 - [u2f-zero](https://github.com/conorpp/u2f-zero) - U2F USB token optimized for physical security, affordability, and style
 - [xmake](https://github.com/xmake-io/xmake) - 🔥 A cross-platform build utility based on Lua
 - [FFmpeg](https://github.com/FFmpeg/FFmpeg) - Mirror of https://git.ffmpeg.org/ffmpeg.git
-- [curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting HTTP, HTTPS, FTP, FTPS, GOPHER, TFTP, SCP, SFTP, SMB, TELNET, DICT, LDAP, LDAPS, MQTT, FILE, IMAP, SMTP, POP3, RTSP and RTMP. libcurl offers a myriad of powerful features
+- [curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET and TFTP. libcurl offers a myriad of powerful features
 - [quals-2016](https://github.com/legitbs/quals-2016) - 2016 DEF CON Qualifier Challenges
 - [Scan-T](https://github.com/nanshihui/Scan-T) - a new crawler based on python with more function including Network fingerprint search
 - [traildb](https://github.com/traildb/traildb) - TrailDB is an efficient tool for storing and querying series of events
@@ -3081,7 +3081,7 @@
 - [code2](https://github.com/AWSinAction/code2) - Code of Amazon Web Services in Action, Second Edition
 - [screenshoteer](https://github.com/vladocar/screenshoteer) - Make website screenshots and mobile emulations from the command line.
 - [forgJs](https://github.com/oussamahamdaoui/forgJs) - ForgJs is a javascript lightweight object validator. Go check the Quick start section and start coding with love
-- [sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP and TIFF images. Uses the libvips library.
+- [sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.
 - [awesome-ui-component-library](https://github.com/anubhavsrivastava/awesome-ui-component-library) - Curated list of framework component libraries for UI styles/toolkit
 - [mpx](https://github.com/didi/mpx) - Mpx，一款具有优秀开发体验和深度性能优化的增强型小程序开发框架
 - [Buka](https://github.com/oguzhaninan/Buka) - Buka is a modern software that helps you manage your ebook at ease.
@@ -6309,7 +6309,7 @@
 - [Good-Papers](https://github.com/hoangcuong2011/Good-Papers) - I try my best to keep updated cutting-edge knowledge in Machine Learning/Deep Learning and Natural Language Processing. These are  my notes on some good papers
 - [awesome-serverless](https://github.com/pmuens/awesome-serverless) - DEPRECATED: Curated list of resources related to serverless computing and serverless architectures.
 - [The_Math_of_Intelligence](https://github.com/llSourcell/The_Math_of_Intelligence) - This is the Syllabus for Siraj Raval's new course "The Math of Intelligence"
-- [Index-2020](https://github.com/SamPutnam/Index-2020) - The Putnam Company D/B/A Sam Putnam Engineering
+- [Index-2020](https://github.com/SamPutnam/Index-2020) - 
 - [golang-internals-resources](https://github.com/emluque/golang-internals-resources) - A collection of articles and videos to understand Golang internals.
 - [spellbook-of-modern-webdev](https://github.com/dexteryy/spellbook-of-modern-webdev) - A Big Picture, Thesaurus, and Taxonomy of Modern JavaScript Web Development
 - [Probable-Wordlists](https://github.com/berzerk0/Probable-Wordlists) - Version 2 is live! Wordlists sorted by probability originally created for password generation and testing - make sure your passwords aren't popular!
@@ -7523,7 +7523,7 @@
 - [pyrobot](https://github.com/facebookresearch/pyrobot) - PyRobot: An Open Source Robotics Research Platform
 - [mmaction](https://github.com/open-mmlab/mmaction) - An open-source toolbox for action understanding based on PyTorch
 - [RLTrader](https://github.com/notadamking/RLTrader) - A cryptocurrency trading environment using deep reinforcement learning and OpenAI's gym
-- [trains](https://github.com/allegroai/trains) - TRAINS - Auto-Magical Experiment Manager & Version Control for AI - NOW WITH AUTO-MAGICAL DEVOPS!
+- [clearml](https://github.com/allegroai/clearml) - ClearML - Auto-Magical Suite of tools to streamline your ML workflow. Experiment Manager, ML-Ops and Data-Management
 - [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [alice-word-by-word](https://github.com/x6b726173/alice-word-by-word) - 
 - [doubles](https://github.com/uber/doubles) - Test doubles for Python.
@@ -13247,7 +13247,7 @@
 - [github-file-icons](https://github.com/homerchen19/github-file-icons) - 🌈 🗂 A browser extension which gives different filetypes different icons to GitHub, GitLab, gitea and gogs.
 - [caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [boardgame.io](https://github.com/boardgameio/boardgame.io) - State Management for Turn-Based Games
-- [stimulus](https://github.com/stimulusjs/stimulus) - A modest JavaScript framework for the HTML you already have
+- [stimulus](https://github.com/hotwired/stimulus) - A modest JavaScript framework for the HTML you already have
 - [vscode-terminals](https://github.com/fabiospampinato/vscode-terminals) - An extension for setting-up multiple terminals at once, or just running some commands.
 - [docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [alva](https://github.com/meetalva/alva) - Create living prototypes with code components.
