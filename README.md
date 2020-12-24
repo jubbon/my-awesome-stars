@@ -1237,7 +1237,6 @@
 - [bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
 - [hint.css](https://github.com/chinchang/hint.css) - A CSS only tooltip library for your lovely websites.
 - [heroku-flask](https://github.com/abhiomkar/heroku-flask) - Flask starter kit for Heroku
-- [paperless](https://github.com/the-paperless-project/paperless) - Scan, index, and archive all of your paper documents
 - [ionic-leafletjs-map-demo](https://github.com/calendee/ionic-leafletjs-map-demo) - Simple Ionic Framework mapping application.
 - [docker-curriculum](https://github.com/prakhar1989/docker-curriculum) - :dolphin: A comprehensive tutorial on getting started with Docker!
 - [graphene](https://github.com/jondot/graphene) - Graphene is a realtime dashboard & graphing toolkit based on D3 and Backbone.
@@ -1717,7 +1716,7 @@
 - [fathom](https://github.com/usefathom/fathom) - Fathom Lite. Simple, privacy-focused website analytics. Built with Golang & Preact.
 - [ppds](https://github.com/shivamMg/ppds) - Pretty Print Data Structures
 - [tor-controller](https://github.com/kragniz/tor-controller) - Run Tor onion services on Kubernetes
-- [pigo](https://github.com/esimov/pigo) - Pure Go face detection, pupil/eyes localization and facial landmark points detection library
+- [pigo](https://github.com/esimov/pigo) - Pure Go face detection, pupil/eyes localization and facial landmark points detection library.
 - [revive](https://github.com/mgechev/revive) - 🔥 ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint.
 - [google-ctf](https://github.com/google/google-ctf) - Google CTF
 - [discovery](https://github.com/bilibili/discovery) - A registry for resilient mid-tier load balancing and failover.
@@ -2222,7 +2221,6 @@
 - [website](https://github.com/letsencrypt/website) - Let's Encrypt Website and Documentation
 - [Phishing-Simulation](https://github.com/jenyraval/Phishing-Simulation) - Phishing Simulation mainly aims to increase phishing awareness by providing an intuitive tutorial and customized assessment
 - [elements-examples](https://github.com/stripe/elements-examples) - Stripe Elements examples.
-- [PowerBI-visuals](https://github.com/microsoft/PowerBI-visuals) - Documentation for creating visuals for Power BI
 - [webdevbootcamp](https://github.com/nax3t/webdevbootcamp) - All source code for back-end projects from the Web Developer Bootcamp
 - [Intro-to-Data-APIs-JS](https://github.com/CodingTrain/Intro-to-Data-APIs-JS) - Working with Data and APIs in JavaScript
 - [pcc_2e](https://github.com/ehmatthes/pcc_2e) - Online resources for Python Crash Course (Second Edition), from No Starch Press
@@ -3896,7 +3894,7 @@
 - [vuejs-AdminLTE](https://github.com/r0r1/vuejs-AdminLTE) - Admin LTE Starter for Vue JS
 - [vue-echarts](https://github.com/ecomfe/vue-echarts) - Apache ECharts (incubating) component for Vue.js.
 - [vue-mugen-scroll](https://github.com/egoist/vue-mugen-scroll) - Infinite scroll component for Vue.js 2
-- [sortablejs](https://github.com/SortableJS/sortablejs) - Create and reorder lists with drag-and-drop. For use with modern browsers and touch devices
+- [Sortable](https://github.com/SortableJS/Sortable) - Create and reorder lists with drag-and-drop. For use with modern browsers and touch devices
 - [django-react-redux-base](https://github.com/Seedstars/django-react-redux-base) - Seedstars Labs Base Django React Redux Project
 - [next.js](https://github.com/vercel/next.js) - The React Framework
 - [flv.js](https://github.com/bilibili/flv.js) - HTML5 FLV Player
@@ -4653,7 +4651,7 @@
 - [single-cell-tutorial](https://github.com/theislab/single-cell-tutorial) - Single cell current best practices tutorial case study for the paper:Luecken and Theis, "Current best practices in single-cell RNA-seq analysis: a tutorial"
 - [awesome-industrial-machine-datasets](https://github.com/makinarocks/awesome-industrial-machine-datasets) - 
 - [InsightFace_Pytorch](https://github.com/TreB1eN/InsightFace_Pytorch) - Pytorch0.4.1 codes for InsightFace
-- [jupyters_and_slides](https://github.com/HCIT-Computing-Intelligence/jupyters_and_slides) - 
+- [jupyters_and_slides](https://github.com/computing-intelligence/jupyters_and_slides) - 
 - [CVPR-2019-Paper-Statistics](https://github.com/hoya012/CVPR-2019-Paper-Statistics) - Statistics and Visualization of acceptance rate, main keyword of CVPR 2019 accepted papers for the main Computer Vision conference (CVPR)
 - [h3-py-notebooks](https://github.com/uber/h3-py-notebooks) - Jupyter notebooks for h3-py, a hierarchical hexagonal geospatial indexing system
 - [materials](https://github.com/realpython/materials) - Bonus materials, exercises, and example projects for our Python tutorials
@@ -4756,7 +4754,7 @@
 - [Me_Bot](https://github.com/Spandan-Madan/Me_Bot) - Build a bot that speaks like you!
 - [photomosaic](https://github.com/worldveil/photomosaic) - Creating fun photomosaics, GIFs, and murals from your family pictures using ML & similarity search
 - [google-research](https://github.com/google-research/google-research) - Google Research
-- [basics](https://github.com/madewithml/basics) - 📚 Learn ML with clean code, simplified math and illustrative visuals.
+- [madewithml](https://github.com/GokuMohandas/madewithml) - Learn how to responsibly deliver value with applied ML.
 - [DL-workshop-series](https://github.com/Machine-Learning-Tokyo/DL-workshop-series) - Material used for Deep Learning related workshops for Machine Learning Tokyo (MLT)
 - [PRML](https://github.com/ctgk/PRML) - PRML algorithms implemented in Python
 - [Time_Series_Prediction](https://github.com/llSourcell/Time_Series_Prediction) - This is the code for "Time Series Prediction" By Siraj Raval on Youtube
@@ -5636,6 +5634,7 @@
 - [docs.influxdata.com-ARCHIVE](https://github.com/influxdata/docs.influxdata.com-ARCHIVE) - ARCHIVE - 1.x docs for InfluxData
 - [Fork-Awesome](https://github.com/ForkAwesome/Fork-Awesome) - A fork of the iconic font and CSS toolkit
 - [codeheat.org](https://github.com/fossasia/codeheat.org) - Codeheat Coding Contest Website https://codeheat.org
+- [ng-alain](https://github.com/ng-alain/ng-alain) - NG-ZORRO admin panel front-end framework (surge mirror https://ng-alain-doc.surge.sh)
 - [documentation-user](https://github.com/odoo/documentation-user) - Sources For Odoo Enterprise Business Apps User Manual
 - [QGIS-Website](https://github.com/qgis/QGIS-Website) - QGIS-Website
 - [monokai](https://github.com/kevinsawicki/monokai) - Monokai Atom Syntax theme
@@ -7443,7 +7442,7 @@
 - [neural-networks-and-deep-learning](https://github.com/mnielsen/neural-networks-and-deep-learning) - Code samples for my book "Neural Networks and Deep Learning"
 - [apple_bleee](https://github.com/hexway/apple_bleee) - Apple BLE research
 - [APT_REPORT](https://github.com/blackorbird/APT_REPORT) - Interesting apt report collection and some special ioc express
-- [TecoGAN](https://github.com/thunil/TecoGAN) - This repo will contain source code and materials for the TecoGAN project, i.e. code for a TEmporally COherent GAN
+- [TecoGAN](https://github.com/thunil/TecoGAN) - This repo contains source code and materials for the TEmporally COherent GAN SIGGRAPH project.
 - [serverless-telegram-bot](https://github.com/jonatasbaldin/serverless-telegram-bot) - This example demonstrates how to setup an echo Telegram Bot using the Serverless Framework ⚡🤖
 - [UGATIT-pytorch](https://github.com/znxlwm/UGATIT-pytorch) - Official PyTorch implementation of U-GAT-IT: Unsupervised Generative Attentional Networks with Adaptive Layer-Instance Normalization for Image-to-Image Translation
 - [goop](https://github.com/s0md3v/goop) - Google Search Scraper
@@ -10061,7 +10060,7 @@
 - [punch](https://github.com/lgiordani/punch) - Update your version while having a drink
 - [liota](https://github.com/vmware/liota) - 
 - [leather](https://github.com/wireservice/leather) - Python charting for 80% of humans.
-- [sklearn-evaluation](https://github.com/edublancas/sklearn-evaluation) - scikit-learn model evaluation made easy: plots, tables and markdown reports.
+- [sklearn-evaluation](https://github.com/edublancas/sklearn-evaluation) - Machine learning model evaluation made easy: plots, tables, HTML reports, experiment tracking and Jupyter notebook analysis.
 - [digit-classifier](https://github.com/kdexd/digit-classifier) - A single handwritten digit classifier, using the MNIST dataset. Pure Numpy.
 - [flappybird-qlearning-bot](https://github.com/chncyhn/flappybird-qlearning-bot) - Flappy Bird Bot using Reinforcement Learning
 - [waybackpack](https://github.com/jsvine/waybackpack) - Download the entire Wayback Machine archive for a given URL.
@@ -10369,6 +10368,7 @@
 - [ete](https://github.com/etetoolkit/ete) - Python package for building, comparing, annotating, manipulating and visualising trees. It provides a comprehensive API and a collection of command line tools, including utilities to work with the NCBI taxonomy tree.
 - [WiFi-Pumpkin-deprecated](https://github.com/P0cL4bs/WiFi-Pumpkin-deprecated) - DEPRECATED, wifipumpkin3 -&gt; https://github.com/P0cL4bs/wifipumpkin3
 - [walrus](https://github.com/coleifer/walrus) - Lightweight Python utilities for working with Redis
+- [paperless](https://github.com/the-paperless-project/paperless) - Scan, index, and archive all of your paper documents
 - [PyExPool](https://github.com/eXascaleInfolab/PyExPool) - Python Multi-Process Execution Pool: concurrent asynchronous execution pool with custom resource constraints (memory, timeouts, affinity, CPU cores and caching), load balancing and profiling capabilities of the external apps on NUMA architecture
 - [python-elevator-challenge](https://github.com/mshang/python-elevator-challenge) - So You Think You Can Program An Elevator
 - [geocoder](https://github.com/DenisCarriere/geocoder) - :earth_asia: Python Geocoder
@@ -13258,7 +13258,6 @@
 - [gdbgui](https://github.com/cs01/gdbgui) - Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will open in your browser.
 - [ant-design-pro](https://github.com/ant-design/ant-design-pro) - 👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!
 - [bottender](https://github.com/Yoctol/bottender) - ⚡️ A framework for building conversational user interfaces.
-- [ng-alain](https://github.com/ng-alain/ng-alain) - NG-ZORRO admin panel front-end framework (surge mirror https://ng-alain-doc.surge.sh)
 - [hint](https://github.com/webhintio/hint) - 💡 A hinting engine for the web
 - [vue-storefront](https://github.com/vuestorefront/vue-storefront) - The open-source frontend for any eCommerce. Built with a PWA and headless approach, using a modern JS stack. We have custom integrations with Magento, commercetools, Shopware and Shopify and total coverage is just a matter of time. The API approach also allows you to merge VSF with any third-party tool like CMS, payment gateways or analytics. Newest updates: https://blog.vuestorefront.io. Always Open Source, MIT license.
 - [hackernews-react-graphql](https://github.com/clintonwoo/hackernews-react-graphql) - Hacker News clone rewritten with universal JavaScript, using React and GraphQL.
