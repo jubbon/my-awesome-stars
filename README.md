@@ -5416,7 +5416,6 @@
 - [teaching-material](https://github.com/kuleshov/teaching-material) - Teaching materials for the machine learning and deep learning classes at Stanford and Cornell
 - [Algorithms-and-Data-structures](https://github.com/pattu777/Algorithms-and-Data-structures) - IPython notebooks of common data structures and algorithms
 - [PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook) - Python Data Science Handbook: full text in Jupyter Notebooks
-- [ml4a](https://github.com/ml4a/ml4a) - practical guides, tutorials, and code samples for ml4a
 - [scikit-learn-videos](https://github.com/justmarkham/scikit-learn-videos) - Jupyter notebooks from the scikit-learn video series
 - [DeepLearning-NLP](https://github.com/rouseguy/DeepLearning-NLP) - Introduction to Deep Learning for Natural Language Processing
 - [summerschool2016](https://github.com/mila-iqia/summerschool2016) - Montréal Deep Learning Summer School 2016 material
@@ -9903,6 +9902,7 @@
 - [redis-dump-load](https://github.com/p/redis-dump-load) - Dump redis databases, load data into redis - in Python
 - [metame](https://github.com/a0rtega/metame) - metame is a metamorphic code engine for arbitrary executables
 - [omnihash](https://github.com/Miserlou/omnihash) - Hash files, strings, input streams and network resources in various common algorithms simultaneously
+- [ml4a](https://github.com/ml4a/ml4a) - practical guides, tutorials, and code samples for ml4a
 - [ExplainToMe](https://github.com/jjangsangy/ExplainToMe) - Automatic Web Article Summarizer
 - [needle](https://github.com/FSecureLABS/needle) - The iOS Security Testing Framework
 - [deep-regex](https://github.com/nicholaslocascio/deep-regex) - Code for the paper Neural Generation of Regular Expressions from Natural Language with Minimal Domain Knowledge (EMNLP 2016). http://arxiv.org/abs/1608.03000
@@ -10969,7 +10969,7 @@
 - [procedural_city_generation](https://github.com/josauder/procedural_city_generation) - Procedural City Generation program implemented in Python and Visualized with Blender.
 - [dnsteal](https://github.com/m57/dnsteal) - DNS Exfiltration tool for stealthily sending files over DNS requests.
 - [rc-data](https://github.com/deepmind/rc-data) - Question answering dataset featured in "Teaching Machines to Read and Comprehend
-- [receipt-parser](https://github.com/ReceiptManager/receipt-parser) - A supermarket receipt parser written in Python using tesseract OCR
+- [receipt-parser-legacy](https://github.com/ReceiptManager/receipt-parser-legacy) - A supermarket receipt parser written in Python using tesseract OCR
 - [invatar](https://github.com/Bekt/invatar) - Invatar is a free service for generating fully customizable avatars with initials.
 - [jupyter-themer](https://github.com/transcranial/jupyter-themer) - Apply custom CSS styling to your jupyter notebooks
 - [safe-commit-hook](https://github.com/jandre/safe-commit-hook) - pre-commit hook for Git that checks for suspicious files.
