@@ -1498,6 +1498,7 @@
 
 ## Go 
 
+- [hetty](https://github.com/dstotijn/hetty) - Hetty is an HTTP toolkit for security research.
 - [ali](https://github.com/nakabonne/ali) - Generate HTTP load and plot the results in real-time
 - [ultimate-go](https://github.com/hoanhan101/ultimate-go) - The Ultimate Go Study Guide
 - [act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
@@ -7673,7 +7674,7 @@
 - [nni](https://github.com/microsoft/nni) - An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.
 - [lazynlp](https://github.com/chiphuyen/lazynlp) - Library to scrape and clean web pages to create massive datasets.
 - [AdaBound](https://github.com/Luolc/AdaBound) - An optimizer that trains as fast as Adam and as good as SGD.
-- [Awesome-WAF](https://github.com/0xInfection/Awesome-WAF) - 🔥 Everything awesome about web-application firewalls (WAF).
+- [Awesome-WAF](https://github.com/0xInfection/Awesome-WAF) - 🔥 Everything you'll need to know about web-application firewalls (WAF).
 - [bullet](https://github.com/bchao1/bullet) - 🚅 Interactive prompts made simple. Build a prompt like stacking blocks.
 - [Smart-Park-with-YOLO-V3](https://github.com/ankit1khare/Smart-Park-with-YOLO-V3) - Maintaining empty parking spot count using YOLO real-time vehicle detection. Code readily runnable in google colab.
 - [python-reinforcement-learning](https://github.com/vihar/python-reinforcement-learning) - 
@@ -13076,7 +13077,6 @@
 - [actionsflow](https://github.com/actionsflow/actionsflow) - The free Zapier/IFTTT alternative for developers to automate your workflows based on Github actions
 - [streetmerchant](https://github.com/jef/streetmerchant) - 🤖 The world's easiest, most powerful stock checker
 - [desktop](https://github.com/desktop/desktop) - Simple collaboration from your desktop
-- [hetty](https://github.com/dstotijn/hetty) - Hetty is an HTTP toolkit for security research.
 - [lit](https://github.com/PAIR-code/lit) - The Language Interpretability Tool: Interactively analyze NLP models for model understanding in an extensible and framework agnostic interface.
 - [vscode-realtime-debugging](https://github.com/hediet/vscode-realtime-debugging) - An extension for VS Code that visualizes how a program is being executed in real time.
 - [n8n](https://github.com/n8n-io/n8n) - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
