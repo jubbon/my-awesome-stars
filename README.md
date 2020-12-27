@@ -5869,7 +5869,7 @@
 - [awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) - A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning
 - [25-days-of-serverless](https://github.com/microsoft/25-days-of-serverless) - Repository responsible for 25 days of Serverless challenges
 - [LiteratureDL4Graph](https://github.com/DeepGraphLearning/LiteratureDL4Graph) - A comprehensive collection of recent papers on graph deep learning
-- [Ultimate-Facebook-Scraper](https://github.com/harismuneer/Ultimate-Facebook-Scraper) - 🤖 A bot that automates your social media interactions to collect posts, photos, videos, interests, friends, followers, and much more from a user's profile on Facebook.
+- [Ultimate-Facebook-Scraper](https://github.com/harismuneer/Ultimate-Facebook-Scraper) - 🤖 A bot that automates your social media interactions to collect posts, photos, videos, interests, friends, followers, and much more on Facebook.
 - [InfoSec-Black-Friday](https://github.com/0x90n/InfoSec-Black-Friday) - All the deals for InfoSec related software/tools this Black Friday
 - [Production-Level-Deep-Learning](https://github.com/alirezadir/Production-Level-Deep-Learning) - A guideline for building practical production-level deep learning systems to be deployed in real world applications.
 - [tvt](https://github.com/deepmind/tvt) - 
@@ -7542,7 +7542,7 @@
 - [text](https://github.com/tensorflow/text) - Making text a first-class citizen in TensorFlow.
 - [football](https://github.com/google-research/football) - Check out the new game server:
 - [TensorNetwork](https://github.com/google/TensorNetwork) - A library for easy and efficient manipulation of tensor networks.
-- [kedro](https://github.com/quantumblacklabs/kedro) - A Python library that helps you create reproducible, maintainable and modular data science code.
+- [kedro](https://github.com/quantumblacklabs/kedro) - A Python framework for creating reproducible, maintainable and modular data science code.
 - [EfficientNets-PyTorch](https://github.com/zsef123/EfficientNets-PyTorch) - A PyTorch implementation of " EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks."
 - [pystache](https://github.com/defunkt/pystache) - Mustache in Python
 - [reinforcement-learning-an-introduction](https://github.com/JaeDukSeo/reinforcement-learning-an-introduction) - Python Implementation of Reinforcement Learning: An Introduction
@@ -10153,7 +10153,6 @@
 - [livescrape](https://github.com/ondergetekende/livescrape) - A toolkit to build pythonic web scraper libraries
 - [GraphvizAnim](https://github.com/mapio/GraphvizAnim) - A tool to create animated graph visualizations, based on graphviz.
 - [PyDataset](https://github.com/iamaziz/PyDataset) - Instant access to many datasets in Python.
-- [VisualSearchServer](https://github.com/AKSHAYUBHAT/VisualSearchServer) - This project is NO longer maintained! Please see Deep Video Analytics
 - [AutoRCCar](https://github.com/hamuchiwa/AutoRCCar) - OpenCV Python Neural Network Autonomous RC Car
 - [pip-update-requirements](https://github.com/alanhamlett/pip-update-requirements) - Update the packages in a requirements.txt file.
 - [fierce](https://github.com/mschwager/fierce) - A DNS reconnaissance tool for locating non-contiguous IP space.
@@ -10611,6 +10610,7 @@
 - [CTFd](https://github.com/CTFd/CTFd) - CTFs as you need them
 - [PCV](https://github.com/jesolem/PCV) - Open source Python module for computer vision
 - [spyder](https://github.com/spyder-ide/spyder) - Official repository for Spyder - The Scientific Python Development Environment
+- [jedi-vim](https://github.com/davidhalter/jedi-vim) - Using the jedi autocompletion library for VIM.
 - [YouCompleteMe](https://github.com/ycm-core/YouCompleteMe) - A code-completion engine for Vim
 - [jedi](https://github.com/davidhalter/jedi) - Awesome autocompletion, static analysis and refactoring library for python
 - [SublimeJEDI](https://github.com/srusskih/SublimeJEDI) - awesome Python autocompletion with SublimeText
@@ -13366,7 +13366,6 @@
 - [til](https://github.com/jwworth/til) - 📗 A collection of short articles about things I have learned
 - [til](https://github.com/jbranchaud/til) - :memo: Today I Learned
 - [vim-galore](https://github.com/mhinz/vim-galore) - :mortar_board: All things Vim!
-- [jedi-vim](https://github.com/davidhalter/jedi-vim) - Using the jedi autocompletion library for VIM.
 - [python-mode](https://github.com/python-mode/python-mode) - Vim python-mode. PyLint, Rope, Pydoc, breakpoints from box.
 - [Vundle.vim](https://github.com/VundleVim/Vundle.vim) - Vundle, the plug-in manager for Vim
 - [vim-isort](https://github.com/fisadev/vim-isort) - Vim plugin to sort python imports using https://github.com/timothycrosley/isort
