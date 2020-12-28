@@ -1721,6 +1721,7 @@
 - [revive](https://github.com/mgechev/revive) - 🔥 ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint.
 - [google-ctf](https://github.com/google/google-ctf) - Google CTF
 - [discovery](https://github.com/bilibili/discovery) - A registry for resilient mid-tier load balancing and failover.
+- [supervisord](https://github.com/ochinchina/supervisord) - a go-lang supervisor implementation
 - [kmeans](https://github.com/muesli/kmeans) - k-means clustering algorithm implementation written in Go
 - [dry](https://github.com/moncho/dry) - dry - A Docker manager for the terminal @
 - [kustomize](https://github.com/kubernetes-sigs/kustomize) - Customization of kubernetes YAML configurations
@@ -3188,7 +3189,7 @@
 - [pwa](https://github.com/lukeed/pwa) - (WIP) Universal PWA Builder
 - [reminiscence](https://github.com/kanishka-linux/reminiscence) - Self-Hosted Bookmark And Archive Manager
 - [F2](https://github.com/antvis/F2) - 📱📈An elegant, interactive and flexible charting library for mobile.
-- [ky](https://github.com/sindresorhus/ky) - 🌳 Tiny & elegant HTTP client based on window.fetch
+- [ky](https://github.com/sindresorhus/ky) - 🌳 Tiny & elegant JavaScript HTTP client based on the browser Fetch API
 - [WatermelonDB](https://github.com/Nozbe/WatermelonDB) - 🍉 Reactive & asynchronous database for powerful React and React Native apps ⚡️
 - [nlp.js](https://github.com/axa-group/nlp.js) - An NLP library for building bots, with entity extraction, sentiment analysis, automatic language identify, and so more
 - [tink](https://github.com/npm/tink) - a dependency unwinder for javascript
@@ -3285,7 +3286,6 @@
 - [JSUI](https://github.com/kitze/JSUI) - A powerful UI toolkit for managing JavaScript apps
 - [plainbudget](https://github.com/galvez/plainbudget) - Minimalist Plain Text Budgeting
 - [d2-admin](https://github.com/d2-projects/d2-admin) - An elegant dashboard
-- [supervisord](https://github.com/ochinchina/supervisord) - a go-lang supervisor implementation
 - [critters](https://github.com/GoogleChromeLabs/critters) - 🦔 A Webpack plugin to inline your critical CSS and lazy-load the rest.
 - [learntocrypto](https://github.com/sodium-friends/learntocrypto) - Learn to crypto workshop
 - [prerender-loader](https://github.com/GoogleChromeLabs/prerender-loader) - 📰 Painless universal pre-rendering for Webpack.
@@ -7212,7 +7212,7 @@
 - [reinforcement-learning](https://github.com/carla-simulator/reinforcement-learning) - Reinforcement learning baseline agent trained with the Actor-critic (A3C) algorithm.
 - [Yolact_minimal](https://github.com/feiyuhuahuo/Yolact_minimal) - Minimal PyTorch implementation of YOLACT.
 - [meta_seq2seq](https://github.com/facebookresearch/meta_seq2seq) - Compositional generalization through meta sequence-to-sequence learning
-- [Pytorch-Networks](https://github.com/H-Liu1997/Pytorch-Networks) - 
+- [2004P_Pytorch-Networks](https://github.com/H-Liu1997/2004P_Pytorch-Networks) - 
 - [pytorch-distributed](https://github.com/tczhangzhi/pytorch-distributed) - A quickstart and benchmark for pytorch distributed training.
 - [KAIR](https://github.com/cszn/KAIR) - Image Restoration Toolbox (PyTorch). Training and testing codes for USRNet, DnCNN, FFDNet, SRMD, DPSR, MSRResNet, ESRGAN, IMDN
 - [StyleGAN2-Tensorflow-2.0](https://github.com/manicman1999/StyleGAN2-Tensorflow-2.0) - StyleGAN 2 in Tensorflow 2.0
@@ -9663,7 +9663,6 @@
 - [django-traffic](https://github.com/koslib/django-traffic) - Django middleware that helps visualize your app's traffic in Kibana
 - [pyhooks](https://github.com/Shir0kamii/pyhooks) - Python hooks for methods
 - [flasksr](https://github.com/arpitbbhayani/flasksr) - Make flask pages load faster and better by streaming partial HTTP Responses :boom:
-- [fTerm](https://github.com/fTerm/fTerm) - The Bourne Again Shell, but for Humans.
 - [fast-weights](https://github.com/jiamings/fast-weights) - Implementation of the paper [Using Fast Weights to Attend to the Recent Past](https://arxiv.org/abs/1610.06258)
 - [saleor](https://github.com/mirumee/saleor) - A modular, high performance, headless e-commerce platform built with Python, GraphQL, Django, and ReactJS.
 - [painters](https://github.com/inejc/painters) - :art: Winning solution for the Painter by Numbers competition on Kaggle.
