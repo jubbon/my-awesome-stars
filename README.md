@@ -1507,7 +1507,7 @@
 - [Prometheus-Basics](https://github.com/yolossn/Prometheus-Basics) - A beginner friendly introduction to prometheus 🔥
 - [client_golang](https://github.com/prometheus/client_golang) - Prometheus instrumentation library for Go applications
 - [cloud-on-k8s](https://github.com/elastic/cloud-on-k8s) - Elastic Cloud on Kubernetes
-- [gardener](https://github.com/gardener/gardener) - Kubernetes-native system managing the full lifecycle of conformant Kubernetes clusters as a service on Alicloud, AWS, Azure, GCP, OpenStack, Packet,vSphere, MetalStack, and kubevirt with minimal TCO.
+- [gardener](https://github.com/gardener/gardener) - Kubernetes-native system managing the full lifecycle of conformant Kubernetes clusters as a service on Alicloud, AWS, Azure, GCP, OpenStack, Packet, vSphere, MetalStack, and Kubevirt with minimal TCO.
 - [argo-cd](https://github.com/argoproj/argo-cd) - Declarative continuous deployment for Kubernetes.
 - [rook](https://github.com/rook/rook) - Storage Orchestration for Kubernetes
 - [cortex](https://github.com/cortexproject/cortex) - A horizontally scalable, highly available, multi-tenant, long term Prometheus.
@@ -2264,6 +2264,7 @@
 - [vscode](https://github.com/DankNeon/vscode) - A danker, more neon theme for VS Code
 - [python](https://github.com/Show-Me-the-Code/python) - Show Me the Code Python version.
 - [kubernetes-failure-stories](https://github.com/hjacobs/kubernetes-failure-stories) - Compilation of public failure/horror stories related to Kubernetes
+- [typedoc](https://github.com/TypeStrong/typedoc) - Documentation generator for TypeScript projects.
 - [build-your-own-mint](https://github.com/yyx990803/build-your-own-mint) - Build your own personal finance analytics using Plaid, Google Sheets and CircleCI.
 - [apidoc](https://github.com/apidoc/apidoc) - RESTful web API Documentation Generator.
 - [opencvjs](https://github.com/haoking/opencvjs) - Complete opencvjs (With the lastest OpenCV 4.0.0+)
@@ -3797,7 +3798,7 @@
 - [Flat-UI](https://github.com/designmodo/Flat-UI) - Flat UI Free - Design Framework (html/css3/less/js). Flat UI is based on Bootstrap, a comfortable, responsive, and functional framework that simplifies the development of websites.
 - [simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
 - [react-trend](https://github.com/unsplash/react-trend) - 📈 Simple, elegant spark lines
-- [TagUI](https://github.com/kelaberetiv/TagUI) - Command-line tool for digital process automation (RPA)
+- [TagUI](https://github.com/kelaberetiv/TagUI) - Command-line tool for digital process automation (RPA) by AI Singapore
 - [uber-cli](https://github.com/jaebradley/uber-cli) - 🚗Uber, at your fingertips
 - [git-tips](https://github.com/Imangazaliev/git-tips) - Часто используемые трюки и советы при работе с Git
 - [data-selfie](https://github.com/d4t4x/data-selfie) - Data Selfie - a browser extension to track yourself on Facebook and analyze your data.
@@ -4877,7 +4878,6 @@
 - [Grokking-Deep-Learning](https://github.com/iamtrask/Grokking-Deep-Learning) - this repository accompanies the book "Grokking Deep Learning"
 - [2048-deep-reinforcement-learning](https://github.com/navjindervirdee/2048-deep-reinforcement-learning) - Trained A Convolutional Neural Network To Play 2048 using Deep-Reinforcement Learning
 - [MemeProject](https://github.com/alpv95/MemeProject) - Dank Learning codebase, generate a meme from any image using AI. Uses a modified version of the Show and Tell image captioning network
-- [Speech_Recognition_with_Tensorflow](https://github.com/thomasschmied/Speech_Recognition_with_Tensorflow) - Implementation of a seq2seq model for Speech Recognition using the latest version of TensorFlow. Architecture similar to Listen, Attend and Spell.
 - [Interview](https://github.com/apachecn/Interview) - Interview = 简历指南 + LeetCode + Kaggle
 - [notes-python](https://github.com/lijin-THU/notes-python) - 中文 Python 笔记
 - [WorldModelsExperiments](https://github.com/hardmaru/WorldModelsExperiments) - World Models Experiments
@@ -13145,7 +13145,6 @@
 - [functional-typescript](https://github.com/transitive-bullshit/functional-typescript) - TypeScript standard for rock solid serverless functions.
 - [vscode-browser-preview](https://github.com/auchenberg/vscode-browser-preview) - A real browser preview inside your editor that you can debug.
 - [TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
-- [typedoc](https://github.com/TypeStrong/typedoc) - Documentation generator for TypeScript projects.
 - [vscode-gitlens](https://github.com/eamodio/vscode-gitlens) - Supercharge the Git capabilities built into Visual Studio Code — Visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more
 - [noty](https://github.com/fabiospampinato/noty) - Autosaving sticky note with support for multiple notes without needing multiple windows.
 - [rrweb](https://github.com/rrweb-io/rrweb) - record and replay the web
@@ -13405,7 +13404,7 @@
 - [massCode](https://github.com/antonreshetov/massCode) - A free and open source code snippets manager for developers.
 - [vue-ctk-date-time-picker](https://github.com/chronotruck/vue-ctk-date-time-picker) - VueJS component to select dates & time, including a range mode
 - [vue-indoor](https://github.com/mudin/vue-indoor) - VueJS wrapper for indoorjs
-- [hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 A free, fast and beautiful API request builder used by 100k+ developers. https://hoppscotch.io
+- [hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 A free, fast and beautiful API request builder used by 120k+ developers. https://hoppscotch.io
 - [Scriptis](https://github.com/WeBankFinTech/Scriptis) - Scriptis is for interactive data analysis with script development(SQL, Pyspark, HiveQL), task submission(Spark, Hive), UDF, function, resource management and intelligent diagnosis.
 - [Scout](https://github.com/tevora-threat/Scout) - Surveillance Detection Scout: Your Lookout on Autopilot
 - [DynamoDb-GUI-Client](https://github.com/Arattian/DynamoDb-GUI-Client) - DynamoDb GUI Client
