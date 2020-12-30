@@ -1681,7 +1681,7 @@
 - [zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go.
 - [goawk](https://github.com/benhoyt/goawk) - A POSIX-compliant AWK interpreter written in Go
 - [OpenMetrics](https://github.com/OpenObservability/OpenMetrics) - Evolving the Prometheus exposition format into a standard.
-- [benthos](https://github.com/Jeffail/benthos) - A stream processor for mundane tasks written in Go
+- [benthos](https://github.com/Jeffail/benthos) - Declarative streaming ETL for mundane tasks, written in Go
 - [git-bug](https://github.com/MichaelMure/git-bug) - Distributed, offline-first bug tracker embedded in git, with bridges
 - [gobeansdb](https://github.com/douban/gobeansdb) - Distributed object storage server from Douban Inc.
 - [atlantis](https://github.com/runatlantis/atlantis) - Terraform Pull Request Automation
@@ -4043,7 +4043,7 @@
 - [impress.js](https://github.com/impress/impress.js) - It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com.
 - [p5.js](https://github.com/processing/p5.js) - p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processing. http://twitter.com/p5xjs —
 - [p5.geolocation](https://github.com/bmoren/p5.geolocation) - a geolocation and geofencing library for p5.js
-- [Awesome-Unicode](https://github.com/Wisdom/Awesome-Unicode) - :joy: :ok_hand: A curated list of delightful Unicode tidbits, packages and resources.
+- [Awesome-Unicode](https://github.com/jagracey/Awesome-Unicode) - :joy: :ok_hand: A curated list of delightful Unicode tidbits, packages and resources.
 - [calcite-maps](https://github.com/Esri/calcite-maps) - A Bootstrap theme for designing, styling and creating modern map apps.
 - [speech-to-text-nodejs](https://github.com/watson-developer-cloud/speech-to-text-nodejs) - :microphone: Sample Node.js Application for the IBM Watson Speech to Text Service
 - [ng-material-floating-button](https://github.com/nobitagit/ng-material-floating-button) - Material design floating menu with action buttons implemented as an Angularjs directive.
@@ -8560,7 +8560,7 @@
 - [py2bpf](https://github.com/facebookresearch/py2bpf) - A python to bpf (Berkeley Packet Filter bytecode) converter
 - [authlib](https://github.com/lepture/authlib) - The ultimate Python library in building OAuth, OpenID Connect clients and servers. JWS,JWE,JWK,JWA,JWT included.
 - [qgrid](https://github.com/quantopian/qgrid) - An interactive grid for sorting, filtering, and editing DataFrames in Jupyter notebooks
-- [cronicle](https://github.com/Kraymer/cronicle) - Use cron to rotate files and keep time-spaced copies using symlinks
+- [cronicle](https://github.com/Kraymer/cronicle) - Use cron to rotate files and keep time-spaced copies using symlinks.
 - [stereo_ptam](https://github.com/uoip/stereo_ptam) - Python implementation of SLAM algorithm Stereo-PTAM
 - [crontabs](https://github.com/robdmc/crontabs) - :alarm_clock: A cron-like utility for Python
 - [financeager](https://github.com/pylipp/financeager) - Organize your finances easily - from the command line!
@@ -9784,7 +9784,7 @@
 - [ck-tensorflow](https://github.com/ctuning/ck-tensorflow) - Collective Knowledge components for TensorFlow (code, data sets, models, packages, workflows):
 - [python-web-pdb](https://github.com/romanvm/python-web-pdb) - Web-based remote UI for Python's PDB debugger
 - [ck-autotuning](https://github.com/ctuning/ck-autotuning) - CK automation actions to let users implement portable, customizable and reusable program workflows for reproducible, collaborative and multi-objective benchmarking, optimization and SW/HW co-design:
-- [ck](https://github.com/ctuning/ck) - Collective Knowledge framework (CK) helps to organize any software project as a database of reusable components and micro-services with common APIs, automation actions and extensible meta descriptions. See real-world use cases from MLPerf, Arm, General Motors, IBM, Raspberry Pi and ACM:
+- [ck](https://github.com/ctuning/ck) - Collective Knowledge framework (CK) helps to organize any software project as a database of reusable components and micro-services with common APIs, automation actions and extensible meta descriptions. See real-world use cases from Arm, General Motors, ACM, Raspberry Pi foundation and others:
 - [deconvfaces](https://github.com/somewacko/deconvfaces) - Generating faces with deconvolution networks
 - [whereami](https://github.com/kootenpv/whereami) - Uses WiFi signals :signal_strength: and machine learning to predict where you are
 - [dataset](https://github.com/openimages/dataset) - The Open Images dataset
@@ -10121,7 +10121,7 @@
 - [setuptools-tasks](https://github.com/pbs/setuptools-tasks) - 
 - [lexiconjure](https://github.com/rossgoodwin/lexiconjure) - Twitter bot generating invented words and definitions using RNN + genetic algorithm
 - [sidomo](https://github.com/deepgram/sidomo) - Simple Docker Python Module
-- [lifter](https://github.com/EliotBerriot/lifter) - A generic query engine, inspired by Django ORM
+- [lifter](https://github.com/agateblue/lifter) - A generic query engine, inspired by Django ORM
 - [django-machina](https://github.com/ellmetha/django-machina) - A Django forum engine for building powerful community driven websites.
 - [defopt](https://github.com/anntzer/defopt) - Effortless argument parser
 - [conn-check](https://github.com/canonical-ols/conn-check) - git mirror of lp:conn-check, PRs welcome and will be merged into trunk
@@ -10915,7 +10915,7 @@
 - [cookiecutter-pypackage](https://github.com/audreyfeldroy/cookiecutter-pypackage) - Cookiecutter template for a Python package.
 - [trendvis](https://github.com/matplotlib/trendvis) - 
 - [bolt](https://github.com/bolt-project/bolt) - Unified interface for local and distributed ndarrays
-- [django-dynamic-preferences](https://github.com/EliotBerriot/django-dynamic-preferences) - Dynamic global and instance settings for your django project
+- [django-dynamic-preferences](https://github.com/agateblue/django-dynamic-preferences) - Dynamic global and instance settings for your django project
 - [xs-vm](https://github.com/GedRap/xs-vm) - eXtremely small virtual machine -- for educational purposes :)
 - [django-postgres-copy](https://github.com/california-civic-data-coalition/django-postgres-copy) - Quickly import and export delimited data with Django support for PostgreSQL's COPY command
 - [ibis](https://github.com/ibis-project/ibis) - A pandas-like deferred expression system, with first-class SQL support
