@@ -1050,7 +1050,6 @@
 - [ui-snippets-menu-animations](https://github.com/tamino-martinius/ui-snippets-menu-animations) - Four different menu animations for menu button toggle between hamburger, cross and back icon.
 - [advanced-css-course](https://github.com/jonasschmedtmann/advanced-css-course) - Starter files, final projects and FAQ for my Advanced CSS course
 - [vue-snippets](https://github.com/phanan/vue-snippets) - ✂️A collection of Vue snippets
-- [teutonic-css](https://github.com/fortrabbit/teutonic-css) - A modern CSS framework — versatile, well documented.
 - [hands-on-ml-zh](https://github.com/apachecn/hands-on-ml-zh) - :book: [译] Sklearn 与 TensorFlow 机器学习实用指南【版权问题，网站已下线！！】
 - [shards-dashboard](https://github.com/DesignRevision/shards-dashboard) - 🔥A beautiful Bootstrap 4 admin dashboard templates pack.
 - [clock-shop](https://github.com/drawcall/clock-shop) - 🕙⏰🕰 Clock Shop is a website that collects beautiful clock codes
@@ -3772,7 +3771,7 @@
 - [awaiting](https://github.com/hunterloftis/awaiting) - The async/await utility for browsers and Node.js.
 - [Boostnote](https://github.com/BoostIO/Boostnote) - A markdown editor for developers on Mac, Windows and Linux.
 - [SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
-- [tamperchrome](https://github.com/google/tamperchrome) - Tamper Chrome is a Chrome extension that allows you to modify HTTP requests on the fly and aid on web security testing. Tamper Chrome works across all operating systems (including Chrome OS).
+- [tamperchrome](https://github.com/google/tamperchrome) - Tamper Dev is an extension that allows you to intercept and edit HTTP/HTTPS requests and responses as they happen without the need of a proxy. Tamper Chrome works across all operating systems (including Chrome OS).
 - [realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
 - [passport-vkontakte](https://github.com/stevebest/passport-vkontakte) - VK.com authentication strategy for Passport and Node.js
 - [nightmare](https://github.com/segmentio/nightmare) - A high-level browser automation library.
@@ -4584,7 +4583,7 @@
 - [mellotron](https://github.com/NVIDIA/mellotron) - Mellotron: a multispeaker voice synthesis model based on Tacotron 2 GST that can make a voice emote and sing without emotive or singing training data
 - [deepmind-research](https://github.com/deepmind/deepmind-research) - This repository contains implementations and illustrative code to accompany DeepMind publications
 - [colab-tricks](https://github.com/shawwn/colab-tricks) - Tricks for Colab power users
-- [TensorFlow2.0-Examples](https://github.com/YunYang1994/TensorFlow2.0-Examples) - 🙄 Difficult algorithm, simple code.
+- [TensorFlow2.0-Examples](https://github.com/YunYang1994/TensorFlow2.0-Examples) - 🙄 Difficult algorithm, Simple code.
 - [pytorch-faster-rcnn](https://github.com/ruotianluo/pytorch-faster-rcnn) - pytorch1.0 updated. Support cpu test and demo. (Use detectron2, it's a masterpiece)
 - [stat479-machine-learning-fs19](https://github.com/rasbt/stat479-machine-learning-fs19) - Course material for STAT 479: Machine Learning (FS 2019) taught by Sebastian Raschka at University Wisconsin-Madison
 - [AcademicContent](https://github.com/microsoft/AcademicContent) - Free tech resources for faculty, students, researchers, life-long learners, and academic community builders for use in tech based courses, workshops, and hackathons.
@@ -6508,7 +6507,7 @@
 - [react-functional-css-protips](https://github.com/chibicode/react-functional-css-protips) - :sunglasses: Functional CSS - The Good, The Bad, and Some Protips for React.js Users
 - [awesome-paid-open-source](https://github.com/mrjoelkemp/awesome-paid-open-source) - Collection of links around paid/sustainable open source development
 - [react-fiber-architecture](https://github.com/acdlite/react-fiber-architecture) - A description of React's new core algorithm, React Fiber
-- [urban-data-science](https://github.com/gboeing/urban-data-science) - Course series on urban data science with Python and Jupyter
+- [ppd599](https://github.com/gboeing/ppd599) - USC urban data science course series with Python and Jupyter
 - [docs](https://github.com/dev-sec/docs) - ⛔ DEPRECATED, migrated to dev-sec/dev-sec.github.io
 - [deepframeworks](https://github.com/zer0n/deepframeworks) - Evaluation of Deep Learning Frameworks
 - [awesome-iot](https://github.com/HQarroum/awesome-iot) - 🤖 A curated list of awesome Internet of Things projects and resources.
@@ -7002,7 +7001,7 @@
 - [django-rest-marshmallow](https://github.com/marshmallow-code/django-rest-marshmallow) - Marshmallow schemas for Django REST framework
 - [marshmallow-sqlalchemy](https://github.com/marshmallow-code/marshmallow-sqlalchemy) - SQLAlchemy integration with marshmallow
 - [marshmallow-jsonapi](https://github.com/marshmallow-code/marshmallow-jsonapi) - JSON API 1.0 (https://jsonapi.org/) formatting with marshmallow
-- [imgclsmob](https://github.com/osmr/imgclsmob) - Sandbox for training convolutional networks for computer vision
+- [imgclsmob](https://github.com/osmr/imgclsmob) - Sandbox for training deep learning networks
 - [udify](https://github.com/Hyperparticle/udify) - A single model that parses Universal Dependencies across 75 languages. Given a sentence, jointly predicts part-of-speech tags, morphology tags, lemmas, and dependency trees.
 - [camphr](https://github.com/PKSHATechnology-Research/camphr) - spaCy plugin for  Transformers , Udify, ELmo, etc.
 - [rl-baselines-zoo](https://github.com/araffin/rl-baselines-zoo) - A collection of 100+ pre-trained RL agents using Stable Baselines, training and hyperparameter optimization included.
@@ -7744,7 +7743,7 @@
 - [arbitrary_style_transfer](https://github.com/elleryqueenhomels/arbitrary_style_transfer) - Fast Neural Style Transfer with Arbitrary Style using AdaIN Layer - Based on Huang et al. "Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization"
 - [pytorch-AdaIN](https://github.com/naoto0804/pytorch-AdaIN) - Unofficial pytorch implementation of 'Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization' [Huang+, ICCV2017]
 - [flow](https://github.com/flow-project/flow) - Computational framework for reinforcement learning in traffic control
-- [Machine-Learning-with-Python](https://github.com/devAmoghS/Machine-Learning-with-Python) - Small scale machine learning projects to understand the core concepts
+- [Machine-Learning-with-Python](https://github.com/devAmoghS/Machine-Learning-with-Python) - Small scale machine learning projects to understand the core concepts . Give a Star 🌟If it helps you
 - [nsfw](https://github.com/rockyzhengwu/nsfw) - Suitable for Work (NSFW) classification
 - [LASER](https://github.com/facebookresearch/LASER) - Language-Agnostic SEntence Representations
 - [TorchSeg](https://github.com/ycszen/TorchSeg) - Fast, modular reference implementation and easy training of Semantic Segmentation algorithms in PyTorch.
@@ -7853,7 +7852,7 @@
 - [pipelines](https://github.com/kubeflow/pipelines) - Machine Learning Pipelines for Kubeflow
 - [pampy](https://github.com/santinic/pampy) - Pampy: The Pattern Matching for Python you always dreamed of.
 - [pysaml2](https://github.com/IdentityPython/pysaml2) - Python implementation of SAML2
-- [einops](https://github.com/arogozhnikov/einops) - Deep learning operations reinvented (for pytorch, tensorflow, chainer, gluon and others)
+- [einops](https://github.com/arogozhnikov/einops) - Deep learning operations reinvented (for pytorch, tensorflow, jax and others)
 - [ariadne](https://github.com/mirumee/ariadne) - Ariadne is a Python library for implementing GraphQL servers using schema-first approach.
 - [bert_language_understanding](https://github.com/brightmart/bert_language_understanding) - Pre-training of Deep Bidirectional Transformers for Language Understanding: pre-train TextCNN
 - [torchstat](https://github.com/Swall0w/torchstat) - Model analyzer in PyTorch
@@ -9429,7 +9428,7 @@
 - [parrot](https://github.com/sotelo/parrot) - RNN-based generative models for speech.
 - [securitybot](https://github.com/dropbox/securitybot) - Distributed alerting for the masses!
 - [stethoscope](https://github.com/Netflix-Skunkworks/stethoscope) - Personalized, user-focused recommendations for employee information security.
-- [pottery](https://github.com/brainix/pottery) - Redis for humans.
+- [pottery](https://github.com/brainix/pottery) - Redis for humans. 🌎🌍🌏
 - [homework](https://github.com/berkeleydeeprlcourse/homework) - Assignments for CS294-112.
 - [youtube-8m](https://github.com/google/youtube-8m) - Starter code for working with the YouTube-8M dataset.
 - [tensorflow-101](https://github.com/burness/tensorflow-101) - learn code with tensorflow
@@ -12773,6 +12772,7 @@
 - [vapid](https://github.com/vapid/vapid) - Vapid is an intentionally simple content management system built on the idea that you can create a custom dashboard without ever leaving the HTML.
 - [modern_portfolio](https://github.com/bradtraversy/modern_portfolio) - Responsive portfolio website
 - [twofactorauth](https://github.com/2factorauth/twofactorauth) - List of sites with two factor auth support which includes SMS, email, phone calls, hardware, and software.
+- [teutonic-css](https://github.com/fortrabbit/teutonic-css) - A modern CSS framework — versatile, well documented.
 - [three-dots](https://github.com/nzbin/three-dots) - 🔮 CSS loading animations made by single element.
 - [Cirrus](https://github.com/Spiderpig86/Cirrus) - :cloud: The CSS framework for the modern web.
 - [mustard-ui](https://github.com/kylelogue/mustard-ui) - A starter CSS framework that actually looks good.
