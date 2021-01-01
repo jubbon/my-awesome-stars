@@ -710,7 +710,7 @@
 - [uTensor](https://github.com/uTensor/uTensor) - TinyML AI inference library
 - [td](https://github.com/tdlib/td) - Cross-platform library for building Telegram clients
 - [verge](https://github.com/vergecurrency/verge) - Official Verge Core Source Code Repository :muscle:
-- [flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software
+- [flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
 - [thundersvm](https://github.com/Xtra-Computing/thundersvm) - ThunderSVM: A Fast SVM Library on GPUs and CPUs
 - [blackbird](https://github.com/butor/blackbird) - Blackbird Bitcoin Arbitrage: a long/short market-neutral strategy
 - [wav2letter](https://github.com/facebookresearch/wav2letter) - Facebook AI Research's Automatic Speech Recognition Toolkit
@@ -1020,7 +1020,6 @@
 - [course-starter-python](https://github.com/ines/course-starter-python) - 👩‍🏫🐍 Starter repo for building interactive Python courses
 - [RemixIcon](https://github.com/Remix-Design/RemixIcon) - Open source neutral style icon system
 - [css-effects-snippets](https://github.com/emilkowalski/css-effects-snippets) - ☁️ A collection of CSS effects made with Vue.js.
-- [automatic-app-landing-page](https://github.com/emilbaehr/automatic-app-landing-page) - A Jekyll theme for automatically generating and deploying landing page sites for mobile apps.
 - [notes](https://github.com/hiromis/notes) - 
 - [tris-webpack-boilerplate](https://github.com/tr1s/tris-webpack-boilerplate) - A Webpack boilerplate for static websites that has all the necessary modern tools and optimizations built-in. Score a perfect 10/10 on performance.
 - [AWSConsoleRecorder](https://github.com/iann0036/AWSConsoleRecorder) - Records actions made in the AWS Management Console and outputs the equivalent CLI/SDK commands and CloudFormation/Terraform templates.
@@ -1513,7 +1512,7 @@
 - [Yearning](https://github.com/cookieY/Yearning) - 🐳 A most popular sql audit platform for mysql
 - [kpt](https://github.com/GoogleContainerTools/kpt) - 
 - [slack](https://github.com/slack-go/slack) - Slack API in Go - community-maintained fork created by the original author, @nlopes
-- [matterbridge](https://github.com/42wim/matterbridge) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, steam, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble and more with REST API (mattermost not required!)
+- [matterbridge](https://github.com/42wim/matterbridge) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble and more with REST API (mattermost not required!)
 - [node_exporter](https://github.com/prometheus/node_exporter) - Exporter for machine metrics
 - [ion](https://github.com/pion/ion) - Distributed RTC System by pure Go and Flutter
 - [operator-sdk](https://github.com/operator-framework/operator-sdk) - SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding.
@@ -7032,7 +7031,7 @@
 - [forecasting](https://github.com/microsoft/forecasting) - Time Series Forecasting Best Practices & Examples
 - [avatarify](https://github.com/alievk/avatarify) - Avatars for Zoom, Skype and other video-conferencing apps.
 - [uwsgi-nginx-flask-docker](https://github.com/tiangolo/uwsgi-nginx-flask-docker) - Docker image with uWSGI and Nginx for Flask applications in Python running in a single container. Optionally with Alpine Linux.
-- [pytube](https://github.com/nficano/pytube) - A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos.
+- [pytube](https://github.com/pytube/pytube) - A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos.
 - [SPFlow](https://github.com/SPFlow/SPFlow) - Sum Product Flow: An Easy and Extensible Library for Sum-Product Networks
 - [leela-zero-pytorch](https://github.com/yukw777/leela-zero-pytorch) - A simple PyTorch + PyTorch Lightning training pipeline for Leela Zero
 - [PALM](https://github.com/PaddlePaddle/PALM) - a Fast, Flexible, Extensible and Easy-to-use NLP Large-scale Pretraining and Multi-task Learning Framework.
@@ -12767,6 +12766,7 @@
 
 ## SCSS 
 
+- [automatic-app-landing-page](https://github.com/emilbaehr/automatic-app-landing-page) - A Jekyll theme for automatically generating and deploying landing page sites for mobile apps.
 - [website](https://github.com/flutter/website) - Flutter web site
 - [conventionalcommits.org](https://github.com/conventional-commits/conventionalcommits.org) - The conventional commits specification
 - [vapid](https://github.com/vapid/vapid) - Vapid is an intentionally simple content management system built on the idea that you can create a custom dashboard without ever leaving the HTML.
