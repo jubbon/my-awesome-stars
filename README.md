@@ -2033,7 +2033,7 @@
 - [samaritan](https://github.com/miaolz123/samaritan) - An Algorithmic Trading Framework for Digital Currency.
 - [whalebrew](https://github.com/whalebrew/whalebrew) - Homebrew, but with Docker images
 - [drone](https://github.com/drone/drone) - Drone is a Container-Native, Continuous Delivery Platform
-- [go-callvis](https://github.com/ofabry/go-callvis) - Visualize call graph of a Go program using dot (Graphviz)
+- [go-callvis](https://github.com/ofabry/go-callvis) - Visualize call graph of a Go program using Graphviz
 - [cherami-server](https://github.com/uber-archive/cherami-server) - Distributed, scalable, durable, and highly available message queue system. This project is deprecated and not maintained.
 - [chisel](https://github.com/jpillora/chisel) - A fast TCP/UDP tunnel over HTTP
 - [when](https://github.com/olebedev/when) - A natural language date/time parser with pluggable rules
@@ -2833,6 +2833,7 @@
 
 ## JavaScript 
 
+- [maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) - MapLibre GL is a free and open-source fork of @mapbox/mapbox-gl
 - [sova-asr](https://github.com/sovaai/sova-asr) - SOVA ASR (Automatic Speech Recognition)
 - [AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) - Roadmap to becoming an Artificial Intelligence Expert in 2020
 - [gpt3-sandbox](https://github.com/shreyashankar/gpt3-sandbox) - The goal of this project is to enable users to create cool web demos using the newly released OpenAI GPT-3 API with just a few lines of Python.
@@ -4404,6 +4405,8 @@
 
 ## Jupyter Notebook 
 
+- [recipenlg](https://github.com/Glorf/recipenlg) - Set of scripts and notebooks used to produce results visible in RecipeNLG paper
+- [ArtLine](https://github.com/vijishmadhavan/ArtLine) - A Deep Learning based project for creating line art portraits.
 - [prospr](https://github.com/dellacortelab/prospr) - ProSPr: Protein Structure Prediction
 - [RussianSuperGLUE](https://github.com/RussianNLP/RussianSuperGLUE) - Russian SuperGLUE benchmark
 - [2020_benfords](https://github.com/cjph8914/2020_benfords) - 
@@ -5066,7 +5069,7 @@
 - [demo-docker](https://github.com/gpuopenanalytics/demo-docker) - Demo notebooks inside a docker for end-to-end examples
 - [automl_service](https://github.com/crawles/automl_service) - Deploy AutoML as a service using Flask
 - [numerical-computing-is-fun](https://github.com/eka-foundation/numerical-computing-is-fun) - Learning numerical computing with notebooks for all ages.
-- [fastai](https://github.com/fastai/fastai) - The fastai deep learning library, plus lessons and tutorials
+- [fastai](https://github.com/fastai/fastai) - The fastai deep learning library
 - [pytudes](https://github.com/norvig/pytudes) - Python programs, usually short, of considerable difficulty, to perfect particular skills.
 - [Urban-Sound-Classification](https://github.com/aqibsaeed/Urban-Sound-Classification) - Urban sound classification using Deep Learning
 - [afinn](https://github.com/fnielsen/afinn) - AFINN sentiment analysis in Python
@@ -5751,6 +5754,11 @@
 
 ## Others 
 
+- [awesome-implicit-representations](https://github.com/vsitzmann/awesome-implicit-representations) - A curated list of resources on implicit neural representations.
+- [Cracking-The-Coding-Interview-Python-Solutions-and-Explanations](https://github.com/arpan74/Cracking-The-Coding-Interview-Python-Solutions-and-Explanations) - Cracking the Coding Interview in Python 3. The solutions all have detailed explanations with visuals.
+- [Best_AI_paper_2020](https://github.com/louisfb01/Best_AI_paper_2020) - A curated list of the latest breakthroughs in AI by release date with a clear video explanation, link to a more in-depth article, and code
+- [awesome-ml-tracking](https://github.com/srush/awesome-ml-tracking) - 
+- [thgtoa](https://github.com/AnonymousPlanet/thgtoa) - The Hitchhiker’s Guide to Online Anonymity
 - [MSU](https://github.com/Dyakonov/MSU) - описание тем исследовательских работ для студентов
 - [ScaledYOLOv4](https://github.com/WongKinYiu/ScaledYOLOv4) - 
 - [awesome-ML-projects-guide](https://github.com/dair-ai/awesome-ML-projects-guide) - A guide to building awesome machine learning projects.
@@ -6446,7 +6454,7 @@
 - [comver](https://github.com/staltz/comver) - MIGRATED TO https://gitlab.com/staltz/comver
 - [material-remixer](https://github.com/material-foundation/material-remixer) - A set of cross-platform libraries and protocols to allow the sharing of design values and live refinement of apps during the development process.
 - [TheRemoteFreelancer](https://github.com/engineerapart/TheRemoteFreelancer) - Listing of community-curated resources to find topical remote freelance & contract work for software developers, web designers, and more!
-- [.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh My Tmux! Pretty & versatile tmux configuration made with ❤️
+- [.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
 - [games](https://github.com/leereilly/games) - :video_game: A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
 - [franz-app-legacy](https://github.com/meetfranz/franz-app-legacy) - 
 - [asyncio](https://github.com/python/asyncio) - asyncio historical repository
@@ -6792,6 +6800,13 @@
 
 ## Python 
 
+- [PCT](https://github.com/MenghaoGuo/PCT) - Jittor implementation of PCT:Point Cloud Transformer
+- [DeFCN](https://github.com/Megvii-BaseDetection/DeFCN) - End-to-End Object Detection with Fully Convolutional Network
+- [GuitarLSTM](https://github.com/GuitarML/GuitarLSTM) - Deep learning models for guitar amp/pedal emulation using LSTM with Keras.
+- [OneNet](https://github.com/PeizeSun/OneNet) - OneNet: End-to-End One-Stage Object Detection
+- [centerX](https://github.com/JDAI-CV/centerX) - This repo is implemented based on detectron2 and centernet
+- [Deformable-DETR](https://github.com/fundamentalvision/Deformable-DETR) - Deformable DETR: Deformable Transformers for End-to-End Object Detection.
+- [TinyCheck](https://github.com/KasperskyLab/TinyCheck) - TinyCheck allows you to easily capture network communications from a smartphone or any device which can be associated to a Wi-Fi access point in order to quickly analyze them. This can be used to check if any suspect or malicious communication is outgoing from a smartphone, by using heuristics or specific Indicators of Compromise (IoCs). In order to make it working, you need a computer with a Debian-like operating system and two Wi-Fi interfaces. The best choice is to use a Raspberry Pi (2+) a Wi-Fi dongle and a small touch screen. This tiny configuration (for less than $50) allows you to tap any Wi-Fi device, anywhere.
 - [fluence](https://github.com/prajjwal1/fluence) - A deep learning library based on Pytorch focussed on low resource language research and robustness
 - [MolBERT](https://github.com/BenevolentAI/MolBERT) - 
 - [SparseR-CNN](https://github.com/PeizeSun/SparseR-CNN) - End-to-End Object Detection with Learnable Proposal
@@ -7742,7 +7757,7 @@
 - [arbitrary_style_transfer](https://github.com/elleryqueenhomels/arbitrary_style_transfer) - Fast Neural Style Transfer with Arbitrary Style using AdaIN Layer - Based on Huang et al. "Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization"
 - [pytorch-AdaIN](https://github.com/naoto0804/pytorch-AdaIN) - Unofficial pytorch implementation of 'Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization' [Huang+, ICCV2017]
 - [flow](https://github.com/flow-project/flow) - Computational framework for reinforcement learning in traffic control
-- [Machine-Learning-with-Python](https://github.com/devAmoghS/Machine-Learning-with-Python) - Small scale machine learning projects to understand the core concepts . Give a Star 🌟If it helps you
+- [Machine-Learning-with-Python](https://github.com/devAmoghS/Machine-Learning-with-Python) - Small scale machine learning projects to understand the core concepts . Give a Star 🌟If it helps you. BONUS: Interview Bank coming up..!
 - [nsfw](https://github.com/rockyzhengwu/nsfw) - Suitable for Work (NSFW) classification
 - [LASER](https://github.com/facebookresearch/LASER) - Language-Agnostic SEntence Representations
 - [TorchSeg](https://github.com/ycszen/TorchSeg) - Fast, modular reference implementation and easy training of Semantic Segmentation algorithms in PyTorch.
@@ -8856,7 +8871,7 @@
 - [SQLCell](https://github.com/tmthyjames/SQLCell) - SQLCell is a magic function for the Jupyter Notebook that executes raw, parallel, parameterized SQL queries with the ability to accept Python values as parameters and assign output data to Python variables while concurrently running Python code. And *much* more.
 - [geonotebook](https://github.com/OpenGeoscience/geonotebook) - A Jupyter notebook extension for geospatial visualization and analysis
 - [geopyspark](https://github.com/locationtech-labs/geopyspark) - GeoTrellis for PySpark
-- [pysimplechain](https://github.com/EricAlcaide/pysimplechain) - A Python Implementation of a simple blockchain
+- [pysimplechain](https://github.com/hypnopump/pysimplechain) - A Python Implementation of a simple blockchain
 - [SniffAir](https://github.com/Tylous/SniffAir) - A framework for wireless pentesting.
 - [SigThief](https://github.com/secretsquirrel/SigThief) - Stealing Signatures and Making One Invalid Signature at a Time
 - [minimap](https://github.com/Ivoah/minimap) - Generate minimaps of your code
@@ -9154,7 +9169,7 @@
 - [pydantic](https://github.com/samuelcolvin/pydantic) - Data parsing and validation using Python type hints
 - [NeuroNER](https://github.com/Franck-Dernoncourt/NeuroNER) - Named-entity recognition using neural networks. Easy-to-use and state-of-the-art results.
 - [scattertext](https://github.com/JasonKessler/scattertext) - Beautiful visualizations of how language differs among document types.
-- [deepnet](https://github.com/parasdahal/deepnet) - Implementations of CNNs, RNNs and deep learning techniques in pure Numpy
+- [deepnet](https://github.com/parasdahal/deepnet) - Implementation of CNNs, RNNs, and many deep learning techniques in plain Numpy.
 - [odin-pytorch](https://github.com/ShiyuLiang/odin-pytorch) - Principled Detection of Out-of-Distribution Examples in Neural Networks
 - [tools](https://github.com/standardebooks/tools) - The Standard Ebooks toolset for producing our ebook files.
 - [calibre](https://github.com/kovidgoyal/calibre) - The official source code repository for the calibre ebook manager
@@ -12776,7 +12791,7 @@
 - [three-dots](https://github.com/nzbin/three-dots) - 🔮 CSS loading animations made by single element.
 - [Cirrus](https://github.com/Spiderpig86/Cirrus) - :cloud: The CSS framework for the modern web.
 - [mustard-ui](https://github.com/kylelogue/mustard-ui) - A starter CSS framework that actually looks good.
-- [pasztor.at](https://github.com/janoszen/pasztor.at) - 
+- [debugged.it](https://github.com/debugged-it/debugged.it) - 
 - [hacker101](https://github.com/Hacker0x01/hacker101) - Source code for Hacker101.com - a free online web and mobile security class.
 - [startbootstrap-coming-soon](https://github.com/StartBootstrap/startbootstrap-coming-soon) - A coming soon theme with a video background for Bootstrap 4
 - [vue-light-bootstrap-dashboard](https://github.com/creativetimofficial/vue-light-bootstrap-dashboard) - Vue Light Bootstrap Dashboard - FREE BOOTSTRAP 4 VUEJS ADMIN TEMPLATE
