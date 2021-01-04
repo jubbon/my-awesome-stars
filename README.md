@@ -209,6 +209,7 @@
 - [litetree](https://github.com/aergoio/litetree) - SQLite with Branches
 - [upx](https://github.com/upx/upx) - UPX - the Ultimate Packer for eXecutables
 - [OSCPRepo](https://github.com/rewardone/OSCPRepo) - A list of commands, scripts, resources, and more that I have gathered and attempted to consolidate for use as OSCP (and more) study material. Commands in 'Usefulcommands' Keepnote. Bookmarks and reading material in 'BookmarkList' CherryTree. Reconscan Py2 and Py3. Custom ISO building.
+- [v86](https://github.com/copy/v86) - x86 virtualization in JavaScript, running in your browser and NodeJS
 - [graphd](https://github.com/google/graphd) - The Metaweb graph repository server
 - [V-EZ](https://github.com/GPUOpen-LibrariesAndSDKs/V-EZ) - 
 - [Craft](https://github.com/fogleman/Craft) - A simple Minecraft clone written in C using modern OpenGL (shaders).
@@ -2592,6 +2593,7 @@
 - [awesome-cpus](https://github.com/larsbrinkhoff/awesome-cpus) - All CPU and MCU documentation in one place
 - [Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) - A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.
 - [awesome-modern-cpp](https://github.com/rigtorp/awesome-modern-cpp) - A collection of resources on modern C++
+- [AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - AdminLTE - Free admin dashboard template based on Bootstrap 4
 - [grd](https://github.com/1000ch/grd) - A CSS grid framework using Flexbox. Only 321 bytes (Gzipped).
 - [ecma262](https://github.com/tc39/ecma262) - Status, process, and documents for ECMA-262
 - [awesome-br.github.io](https://github.com/awesome-br/awesome-br.github.io) - 
@@ -3179,7 +3181,6 @@
 - [lyo](https://github.com/bokub/lyo) - 📦 Node.js to browser - The easy way
 - [worker-plugin](https://github.com/GoogleChromeLabs/worker-plugin) - 👩‍🏭 Adds native Web Worker bundling support to Webpack.
 - [headless-recorder](https://github.com/checkly/headless-recorder) - Headless recorder is a Chrome extension that records your browser interactions and generates a Puppeteer or Playwright script.
-- [v86](https://github.com/copy/v86) - x86 virtualization in JavaScript, running in your browser and NodeJS
 - [wwwbasic](https://github.com/google/wwwbasic) - wwwBASIC is an implementation of BASIC that runs on Node.js and the Web.
 - [idlize](https://github.com/GoogleChromeLabs/idlize) - Helper classes and methods for implementing the idle-until-urgent pattern
 - [vue-context](https://github.com/rawilk/vue-context) - A simple vue context menu component.
@@ -3935,7 +3936,7 @@
 - [nodejs-dashboard](https://github.com/FormidableLabs/nodejs-dashboard) - Telemetry dashboard for node.js apps from the terminal!
 - [styled-components](https://github.com/styled-components/styled-components) - Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅
 - [keras-js](https://github.com/transcranial/keras-js) - Run Keras models in the browser, with GPU support using WebGL
-- [yarn](https://github.com/yarnpkg/yarn) - 📦🐈 Fast, reliable, and secure dependency management.
+- [yarn](https://github.com/yarnpkg/yarn) - The 1.x line is frozen - features and bugfixes now happen on https://github.com/yarnpkg/berry
 - [tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for more than 100 Languages 📖🎉🖥
 - [django-map-widgets](https://github.com/erdem/django-map-widgets) - Pluggable map widgets for Django Postgis fields
 - [materialize](https://github.com/Dogfalo/materialize) - Materialize, a CSS Framework based on Material Design
@@ -4101,7 +4102,6 @@
 - [react-native-macos](https://github.com/ptmt/react-native-macos) - [deprecated in favor of https://microsoft.github.io/react-native-windows/] React Native for macOS is an experimental fork for writing desktop apps using Cocoa
 - [select2](https://github.com/select2/select2) - Select2 is a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results.
 - [flask-AdminLTE](https://github.com/a0726h77/flask-AdminLTE) - Bootstrap AdminLTE template with Flask framework
-- [AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - AdminLTE - Free admin dashboard template based on Bootstrap 4
 - [geojsonio-cli](https://github.com/mapbox/geojsonio-cli) - a cli for geojson.io
 - [query-overpass](https://github.com/perliedman/query-overpass) - Make queries to OpenStreetMap's overpass API and output as GeoJSON
 - [connect-modrewrite](https://github.com/tinganho/connect-modrewrite) - Modrewrite middleware for connect/express
@@ -5755,7 +5755,7 @@
 ## Others 
 
 - [awesome-implicit-representations](https://github.com/vsitzmann/awesome-implicit-representations) - A curated list of resources on implicit neural representations.
-- [Cracking-The-Coding-Interview-Python-Solutions-and-Explanations](https://github.com/arpan74/Cracking-The-Coding-Interview-Python-Solutions-and-Explanations) - Cracking the Coding Interview in Python 3. The solutions all have detailed explanations with visuals.
+- [ctci-python-solutions](https://github.com/arpan74/ctci-python-solutions) - Cracking the Coding Interview in Python 3. The solutions all have detailed explanations with visuals.
 - [Best_AI_paper_2020](https://github.com/louisfb01/Best_AI_paper_2020) - A curated list of the latest breakthroughs in AI by release date with a clear video explanation, link to a more in-depth article, and code
 - [awesome-ml-tracking](https://github.com/srush/awesome-ml-tracking) - 
 - [thgtoa](https://github.com/AnonymousPlanet/thgtoa) - The Hitchhiker’s Guide to Online Anonymity
@@ -6375,7 +6375,7 @@
 - [awesome-deeplearning-resources](https://github.com/endymecy/awesome-deeplearning-resources) - Deep Learning and deep reinforcement learning research papers and some codes
 - [resources](https://github.com/gopherdata/resources) - Resources for Go-based data analysis, visualization, machine learning, etc.
 - [git_commit_message](https://github.com/joelparkerhenderson/git_commit_message) - Git commit message: how to write a great git commit message and commit template for version control
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2020
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2021
 - [Become-A-Full-Stack-Web-Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer) - Free resources for learning Full Stack Web Development
 - [scrapers](https://github.com/cassidoo/scrapers) - A list of scrapers from around the web.
 - [DeepLearningProjectWorkflow](https://github.com/thomasj02/DeepLearningProjectWorkflow) - Machine Learning Workflow, from Andrew Ng's lecture at Deep Learning Summer School 2016
@@ -8003,7 +8003,7 @@
 - [100-Days-of-ML-Code-Chinese-Version](https://github.com/Avik-Jain/100-Days-of-ML-Code-Chinese-Version) - Chinese Translation for Machine Learning Infographics
 - [python-nubia](https://github.com/facebookincubator/python-nubia) - A command-line and interactive shell framework.
 - [imagenet18_old](https://github.com/cybertronai/imagenet18_old) - Code to reproduce "imagenet in 18 minutes" DAWN-benchmark entry
-- [ruia](https://github.com/howie6879/ruia) - Async Python 3.6+ web scraping micro-framework based on asyncio（Python3.6+异步爬虫框架）
+- [ruia](https://github.com/howie6879/ruia) - Async Python 3.6+ web scraping micro-framework based on asyncio
 - [zero](https://github.com/KonstantinSchubert/zero) - Local file system transparently swapping to the cloud
 - [jupytext](https://github.com/mwouts/jupytext) - Jupyter Notebooks as Markdown Documents, Julia, Python or R scripts
 - [rescuekerala](https://github.com/raksha-life/rescuekerala) - Website for coordinating rehabilitation of people affected in the Kerala Floods
