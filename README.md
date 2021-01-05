@@ -145,7 +145,7 @@
 - [XNNPACK](https://github.com/google/XNNPACK) - High-efficiency floating-point neural network inference operators for mobile, server, and Web
 - [rt-thread](https://github.com/RT-Thread/rt-thread) - RT-Thread is an open source IoT operating system.
 - [DOOM](https://github.com/id-Software/DOOM) - DOOM Open Source Release
-- [mongoose](https://github.com/cesanta/mongoose) - Mongoose Embedded Web Server Library - Mongoose is more than an embedded webserver. It is a multi-protocol embedded networking library with functions including TCP, HTTP client and server, WebSocket client and server,  MQTT client and broker and much more.
+- [mongoose](https://github.com/cesanta/mongoose) - Mongoose Embedded Web Server Library - a multi-protocol embedded networking library with TCP/UDP, HTTP, WebSocket,  MQTT built-in protocols, async DNS resolver, and non-blocking API.
 - [unicorn](https://github.com/unicorn-engine/unicorn) - Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, X86)
 - [julius](https://github.com/bvschaik/julius) - An open source re-implementation of Caesar III
 - [RetroArch](https://github.com/libretro/RetroArch) - Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.
@@ -209,7 +209,7 @@
 - [litetree](https://github.com/aergoio/litetree) - SQLite with Branches
 - [upx](https://github.com/upx/upx) - UPX - the Ultimate Packer for eXecutables
 - [OSCPRepo](https://github.com/rewardone/OSCPRepo) - A list of commands, scripts, resources, and more that I have gathered and attempted to consolidate for use as OSCP (and more) study material. Commands in 'Usefulcommands' Keepnote. Bookmarks and reading material in 'BookmarkList' CherryTree. Reconscan Py2 and Py3. Custom ISO building.
-- [v86](https://github.com/copy/v86) - x86 virtualization in JavaScript, running in your browser and NodeJS
+- [v86](https://github.com/copy/v86) - x86 virtualization in your browser, recompiling x86 to wasm on the fly
 - [graphd](https://github.com/google/graphd) - The Metaweb graph repository server
 - [V-EZ](https://github.com/GPUOpen-LibrariesAndSDKs/V-EZ) - 
 - [Craft](https://github.com/fogleman/Craft) - A simple Minecraft clone written in C using modern OpenGL (shaders).
@@ -3772,7 +3772,6 @@
 - [awaiting](https://github.com/hunterloftis/awaiting) - The async/await utility for browsers and Node.js.
 - [Boostnote](https://github.com/BoostIO/Boostnote) - A markdown editor for developers on Mac, Windows and Linux.
 - [SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
-- [tamperchrome](https://github.com/google/tamperchrome) - Tamper Dev is an extension that allows you to intercept and edit HTTP/HTTPS requests and responses as they happen without the need of a proxy. Works across all operating systems (including Chrome OS).
 - [realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
 - [passport-vkontakte](https://github.com/stevebest/passport-vkontakte) - VK.com authentication strategy for Passport and Node.js
 - [nightmare](https://github.com/segmentio/nightmare) - A high-level browser automation library.
@@ -4121,7 +4120,7 @@
 - [nw.js](https://github.com/nwjs/nw.js) - Call all Node.js modules directly from DOM/WebWorker and enable a new way of writing applications with all Web technologies.
 - [amazeui](https://github.com/amazeui/amazeui) - Amaze UI, a mobile-first and modular front-end framework.
 - [ora](https://github.com/sindresorhus/ora) - Elegant terminal spinner
-- [klassify](https://github.com/fatiherikli/klassify) - Bayesian Text classification service based on Redis. Built on top of Tornado and React.js
+- [klassify](https://github.com/fatiherikli/klassify) - Bayesian Text classification service based on Redis and Python/Tornado
 - [cash](https://github.com/dthree/cash) - Cross-platform Linux commands in ES6
 - [react-vis](https://github.com/uber/react-vis) - Data Visualization Components
 - [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers
@@ -5754,6 +5753,7 @@
 
 ## Others 
 
+- [500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code) - 500 AI Machine learning Deep learning Computer vision NLP Projects with code
 - [awesome-implicit-representations](https://github.com/vsitzmann/awesome-implicit-representations) - A curated list of resources on implicit neural representations.
 - [ctci-python-solutions](https://github.com/arpan74/ctci-python-solutions) - Cracking the Coding Interview in Python 3. The solutions all have detailed explanations with visuals.
 - [Best_AI_paper_2020](https://github.com/louisfb01/Best_AI_paper_2020) - A curated list of the latest breakthroughs in AI by release date with a clear video explanation, link to a more in-depth article, and code
@@ -7087,7 +7087,7 @@
 - [CDCN](https://github.com/ZitongYu/CDCN) - Central Difference Convolutional Networks
 - [Transformer-OCR](https://github.com/fengxinjie/Transformer-OCR) - 
 - [AdelaiDet](https://github.com/aim-uofa/AdelaiDet) - AdelaiDet is an open source toolbox for multiple instance-level detection and recognition tasks.
-- [Games](https://github.com/CharlesPikachu/Games) - Some games created by python code.
+- [Games](https://github.com/CharlesPikachu/Games) - Some games created by pure python.
 - [dreamer](https://github.com/google-research/dreamer) - Dream to Control: Learning Behaviors by Latent Imagination
 - [stylegan2-distillation](https://github.com/EvgenyKashin/stylegan2-distillation) - 
 - [ppo-pytorch](https://github.com/adik993/ppo-pytorch) - Proximal Policy Optimization(PPO) with Intrinsic Curiosity Module(ICM)
@@ -7778,7 +7778,7 @@
 - [sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [Super-SloMo](https://github.com/avinashpaliwal/Super-SloMo) - PyTorch implementation of Super SloMo by Jiang et al.
 - [python-cheatsheet](https://github.com/gto76/python-cheatsheet) - Comprehensive Python Cheatsheet
-- [mars](https://github.com/mars-project/mars) - Mars is a tensor-based unified framework for large-scale data computation which scales Numpy, Pandas and Scikit-learn.
+- [mars](https://github.com/mars-project/mars) - Mars is a tensor-based unified framework for large-scale data computation which scales Numpy, pandas, Scikit-learn and Python functions.
 - [bocadillo](https://github.com/bocadilloproject/bocadillo) - (UNMAINTAINED) Fast, scalable and real-time capable web APIs for everyone
 - [recommenders](https://github.com/microsoft/recommenders) - Best Practices on Recommendation Systems
 - [torchgan](https://github.com/torchgan/torchgan) - Research Framework for easy and efficient training of GANs based on Pytorch
@@ -9748,7 +9748,7 @@
 - [MacSetup](https://github.com/CNKCQ/MacSetup) - a tool to setup your mac os
 - [gpgsync](https://github.com/firstlookmedia/gpgsync) - :lock: GPG Sync is designed to let users always have up-to-date public keys for other members of their organization
 - [ssh-audit](https://github.com/arthepsy/ssh-audit) - SSH server auditing (banner, key exchange, encryption, mac, compression, compatibility, security, etc)
-- [sanic](https://github.com/huge-success/sanic) - Async Python 3.6+ web server/framework | Build fast. Run fast.
+- [sanic](https://github.com/sanic-org/sanic) - Async Python 3.6+ web server/framework | Build fast. Run fast.
 - [Deep-Learning-TensorFlow](https://github.com/gabrieleangeletti/Deep-Learning-TensorFlow) - Ready to use implementations of various Deep Learning algorithms using TensorFlow.
 - [galaxy](https://github.com/ansible/galaxy) - Source code behind the Galaxy hub at http://galaxy.ansible.com
 - [nlquery](https://github.com/ayoungprogrammer/nlquery) - Natural Language Engine on WikiData
@@ -11341,7 +11341,7 @@
 - [DidYouMean-Python](https://github.com/SylvainDe/DidYouMean-Python) - Module to have suggestions in case of errors (NameError, AttributeError, etc).
 - [command-line-chess](https://github.com/marcusbuffett/command-line-chess) - A python program to play chess against an AI in the terminal.
 - [db.py](https://github.com/yhat/db.py) - db.py is an easier way to interact with your databases
-- [core](https://github.com/home-assistant/core) - WE ARE ON HOLIDAY. REVIEWS WILL TAKE A WHILE. HAPPY HOLIDAYS! ✨ :house_with_garden: Open source home automation that puts local control and privacy first
+- [core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first
 - [timesketch](https://github.com/google/timesketch) - Collaborative forensic timeline analysis
 - [cyordereddict](https://github.com/shoyer/cyordereddict) - Cython implementation of OrderedDict
 - [RxPY](https://github.com/ReactiveX/RxPY) - Reactive Extensions for Python, https://rxpy.rtfd.io
@@ -13301,6 +13301,7 @@
 - [visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components
 - [learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
 - [countUp.js](https://github.com/inorganik/countUp.js) - Animates a numerical value by counting to it
+- [tamperchrome](https://github.com/google/tamperchrome) - Tamper Dev is an extension that allows you to intercept and edit HTTP/HTTPS requests and responses as they happen without the need of a proxy. Works across all operating systems (including Chrome OS).
 - [electron-forge](https://github.com/electron-userland/electron-forge) - A complete tool for creating, publishing, and installing modern Electron applications
 - [vscodeJupyter](https://github.com/DonJayamanne/vscodeJupyter) - Jupyter for Visual Studio Code
 - [jsonview](https://github.com/bhollis/jsonview) - A web extension that helps you view JSON documents in the browser.
