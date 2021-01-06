@@ -209,7 +209,6 @@
 - [litetree](https://github.com/aergoio/litetree) - SQLite with Branches
 - [upx](https://github.com/upx/upx) - UPX - the Ultimate Packer for eXecutables
 - [OSCPRepo](https://github.com/rewardone/OSCPRepo) - A list of commands, scripts, resources, and more that I have gathered and attempted to consolidate for use as OSCP (and more) study material. Commands in 'Usefulcommands' Keepnote. Bookmarks and reading material in 'BookmarkList' CherryTree. Reconscan Py2 and Py3. Custom ISO building.
-- [v86](https://github.com/copy/v86) - x86 virtualization in your browser, recompiling x86 to wasm on the fly
 - [graphd](https://github.com/google/graphd) - The Metaweb graph repository server
 - [V-EZ](https://github.com/GPUOpen-LibrariesAndSDKs/V-EZ) - 
 - [Craft](https://github.com/fogleman/Craft) - A simple Minecraft clone written in C using modern OpenGL (shaders).
@@ -2232,6 +2231,7 @@
 - [summer-institute](https://github.com/compsocialscience/summer-institute) - Summer Institutes in Computational Social Science
 - [glTF](https://github.com/KhronosGroup/glTF) - glTF – Runtime 3D Asset Delivery
 - [istio.io](https://github.com/istio/istio.io) - Source for the istio.io site
+- [ansible-conda-env](https://github.com/andrewrothstein/ansible-conda-env) - 
 - [ml-workshop-2-of-4](https://github.com/amueller/ml-workshop-2-of-4) - Intermediate Machine Learning with Scikit-learn, 4h interactive workshop
 - [My-Learning-Tracker](https://github.com/Syknapse/My-Learning-Tracker) - Keeping track of my web development skills and learning in one place along with resources, highlights, interests, and everything to do with my learning.
 - [ml-workshop-4-of-4](https://github.com/amueller/ml-workshop-4-of-4) - Advanced Machine Learning with Scikit-learn part II
@@ -2306,6 +2306,7 @@
 - [inpycon2018](https://github.com/pythonindia/inpycon2018) - PyCon India 2018 site
 - [frontend](https://github.com/guardian/frontend) - The Guardian Dot Com.
 - [python-vs-javascript](https://github.com/sayazamurai/python-vs-javascript) - 
+- [deltatech](https://github.com/dhongu/deltatech) - Terrabit addons for Odoo
 - [quickstart-js](https://github.com/firebase/quickstart-js) - Firebase Quickstart Samples for Web
 - [MATRIX_Etherscan](https://github.com/MatrixAINetwork/MATRIX_Etherscan) - This is a crawler used to visit Ehterscan and obtain smartcontract related info
 - [uikit-ecommerce-template](https://github.com/chekromul/uikit-ecommerce-template) - E-commerce template built with UIKIt
@@ -3181,6 +3182,7 @@
 - [lyo](https://github.com/bokub/lyo) - 📦 Node.js to browser - The easy way
 - [worker-plugin](https://github.com/GoogleChromeLabs/worker-plugin) - 👩‍🏭 Adds native Web Worker bundling support to Webpack.
 - [headless-recorder](https://github.com/checkly/headless-recorder) - Headless recorder is a Chrome extension that records your browser interactions and generates a Puppeteer or Playwright script.
+- [v86](https://github.com/copy/v86) - x86 virtualization in your browser, recompiling x86 to wasm on the fly
 - [wwwbasic](https://github.com/google/wwwbasic) - wwwBASIC is an implementation of BASIC that runs on Node.js and the Web.
 - [idlize](https://github.com/GoogleChromeLabs/idlize) - Helper classes and methods for implementing the idle-until-urgent pattern
 - [vue-context](https://github.com/rawilk/vue-context) - A simple vue context menu component.
@@ -3598,7 +3600,7 @@
 - [vue2-editor](https://github.com/davidroyer/vue2-editor) - A text editor using Vue.js and Quill
 - [groceries-ns-vue](https://github.com/tralves/groceries-ns-vue) - 🍏 🍍 🍓 A NativeScript+Vue iOS and Android app for managing grocery lists
 - [file-upload-with-preview](https://github.com/promosis/file-upload-with-preview) - 🖼 A simple file-upload utility that shows a preview of the uploaded image. Written in pure JavaScript. No dependencies. Works well with Bootstrap 4 or without a framework.
-- [web3.js](https://github.com/ethereum/web3.js) - Ethereum JavaScript API
+- [web3.js](https://github.com/ChainSafe/web3.js) - Ethereum JavaScript API
 - [vuera](https://github.com/akxcv/vuera) - :eyes: Vue in React, React in Vue. Seamless integration of the two. :dancers:
 - [browser-compat-data](https://github.com/mdn/browser-compat-data) - This repository contains compatibility data for Web technologies as displayed on MDN
 - [node-chakracore](https://github.com/nodejs/node-chakracore) - Node.js on ChakraCore :sparkles::turtle::rocket::sparkles:
@@ -5959,7 +5961,6 @@
 - [The-Documentation-Compendium](https://github.com/kylelobo/The-Documentation-Compendium) - 📢 Various README templates & tips on writing high-quality documentation that people want to read.
 - [security](https://github.com/numirias/security) - Some of my security stuff and vulnerabilities. Nothing advanced. More to come.
 - [Mathematics_for_Beginners](https://github.com/llSourcell/Mathematics_for_Beginners) - This is the formula sheet for "Mathematics for Beginners" by Siraj Raval on Youtube
-- [ansible-conda-env](https://github.com/andrewrothstein/ansible-conda-env) - 
 - [otv2-platform](https://github.com/opentraffic/otv2-platform) - An overview of the entire Open Traffic v2 platform and its components
 - [The-Hackers-Hardware-Toolkit](https://github.com/yadox666/The-Hackers-Hardware-Toolkit) - The best hacker's gadgets for Red Team pentesters and security researchers.
 - [awesome-opensource-documents](https://github.com/44bits/awesome-opensource-documents) - :blue_book: A curated list of awesome open source or open source licensed documents, guides, books.
@@ -7822,7 +7823,7 @@
 - [lambda-runtime-pypy3.5](https://github.com/iopipe/lambda-runtime-pypy3.5) - AWS Lambda Runtime for PyPy 3.5
 - [Mumbai-slum-segmentation](https://github.com/cbsudux/Mumbai-slum-segmentation) - Mumbai slum segmentation and change detection on statellite images.
 - [gandissect](https://github.com/CSAILVision/gandissect) - Pytorch-based tools for visualizing and understanding the neurons of a GAN.  https://gandissect.csail.mit.edu/
-- [d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with code, math, and discussions. Available in multi-frameworks. Adopted at 140 universities.
+- [d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with code, math, and discussions. Available in multi-frameworks. Adopted at 175 universities.
 - [satpy](https://github.com/pytroll/satpy) - Python package for earth-observing satellite data processing
 - [celluloid](https://github.com/jwkvam/celluloid) - :movie_camera: Matplotlib animations made easy
 - [redis-namespace](https://github.com/guokr/redis-namespace) - namespaced subset of your redis keyspace
@@ -8035,7 +8036,6 @@
 - [human-pose-estimation.pytorch](https://github.com/microsoft/human-pose-estimation.pytorch) - The project is an official implement of our ECCV2018 paper  "Simple Baselines for Human Pose Estimation and Tracking(https://arxiv.org/abs/1804.06208)"
 - [pyodide](https://github.com/iodide-project/pyodide) - The Python scientific stack, compiled to WebAssembly
 - [book](https://github.com/SystemsApproach/book) - Meta-data and Makefile needed to build the book. Main starting point.
-- [deltatech](https://github.com/dhongu/deltatech) - Terrabit addons for Odoo
 - [odoo-addons](https://github.com/acysos/odoo-addons) - Addons modules for Odoo
 - [relational-rnn-pytorch](https://github.com/L0SG/relational-rnn-pytorch) - An implementation of DeepMind's Relational Recurrent Neural Networks in PyTorch.
 - [large-scale-curiosity](https://github.com/openai/large-scale-curiosity) - Code for the paper "Large-Scale Study of Curiosity-Driven Learning"
@@ -8606,7 +8606,7 @@
 - [cutelog](https://github.com/busimus/cutelog) - GUI for logging
 - [simcoin](https://github.com/sbaresearch/simcoin) - Blockchain simulation framework with Docker and Python.
 - [plaitpy](https://github.com/plaitpy/plaitpy) - plait.py - a fake data modeler
-- [Eel](https://github.com/samuelhwilliams/Eel) - A little Python library for making simple Electron-like HTML/JS GUI apps
+- [Eel](https://github.com/ChrisKnott/Eel) - A little Python library for making simple Electron-like HTML/JS GUI apps
 - [pystatsd](https://github.com/jsocol/pystatsd) - A Python client for statsd
 - [transformer-tensorflow](https://github.com/DongjunLee/transformer-tensorflow) - TensorFlow implementation of 'Attention Is All You Need (2017. 6)'
 - [bottom-up-attention-vqa](https://github.com/hengyuan-hu/bottom-up-attention-vqa) - An efficient PyTorch implementation of the winning entry of the 2017 VQA Challenge.
@@ -9375,7 +9375,7 @@
 - [seq2seq](https://github.com/google/seq2seq) - A general-purpose encoder-decoder framework for Tensorflow
 - [pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial) - PyTorch Tutorial for Deep Learning Researchers
 - [face_recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line
-- [visdom](https://github.com/facebookresearch/visdom) - A flexible tool for creating, organizing, and sharing visualizations of live, rich data. Supports Torch and Numpy.
+- [visdom](https://github.com/fossasia/visdom) - A flexible tool for creating, organizing, and sharing visualizations of live, rich data. Supports Torch and Numpy.
 - [pyformat.info](https://github.com/ulope/pyformat.info) - Single page cheat-sheet about Python string formatting
 - [sha1collider](https://github.com/nneonneo/sha1collider) - Build two PDFs that have different content but identical SHA1 sums.
 - [simon](https://github.com/half0wl/simon) - Simple menubar system monitor for macOS, written in Python with pyobjc.
@@ -10261,7 +10261,7 @@
 - [dplython](https://github.com/dodger487/dplython) - dplyr for python
 - [pytrader](https://github.com/owocki/pytrader) - cryptocurrency trading robot
 - [public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs for use in software and web development.
-- [incubator-superset](https://github.com/apache/incubator-superset) - Apache Superset is a Data Visualization and Data Exploration Platform
+- [superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [rwrapper](https://github.com/dparlevliet/rwrapper) - A python wrapper class for RethinkDB
 - [cookiecutter-Flask-Foundation](https://github.com/JackStouffer/cookiecutter-Flask-Foundation) - Cookiecutter fork of Flask Foundation
 - [orgmode](https://github.com/danielmagnussons/orgmode) - orgmode is for keeping notes, maintaining TODO lists, planning projects, and authoring documents with a fast and effective plain-text system.
