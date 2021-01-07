@@ -811,7 +811,7 @@
 - [httpflow](https://github.com/six-ddc/httpflow) - A command line utility helps to capture and dump HTTP stream
 - [RedisDesktopManager](https://github.com/uglide/RedisDesktopManager) - :wrench: Cross-platform GUI management tool for Redis
 - [muon](https://github.com/brave/muon) - [DEPRECATED] Build browsers and browser like applications with HTML, CSS, and JavaScript
-- [envoy](https://github.com/envoyproxy/envoy) - **ATTENTION: Holiday vacation Dec-23 - Jan-4. Responses delayed.** Cloud-native high-performance edge/middle/service proxy
+- [envoy](https://github.com/envoyproxy/envoy) - Cloud-native high-performance edge/middle/service proxy
 - [sentencepiece](https://github.com/google/sentencepiece) - Unsupervised text tokenizer for Neural Network-based text generation.
 - [notepad-plus-plus](https://github.com/notepad-plus-plus/notepad-plus-plus) - Notepad++ official repository
 - [evpp](https://github.com/Qihoo360/evpp) - A modern C++ network library for developing high performance network services in TCP/UDP/HTTP protocols.
@@ -2236,7 +2236,6 @@
 - [My-Learning-Tracker](https://github.com/Syknapse/My-Learning-Tracker) - Keeping track of my web development skills and learning in one place along with resources, highlights, interests, and everything to do with my learning.
 - [ml-workshop-4-of-4](https://github.com/amueller/ml-workshop-4-of-4) - Advanced Machine Learning with Scikit-learn part II
 - [devops-essentials-sample-app](https://github.com/linuxacademy/devops-essentials-sample-app) - 
-- [ctf-wiki](https://github.com/ctf-wiki/ctf-wiki) - CTF Wiki Online. Come and join us, we need you!
 - [openweb](https://github.com/good/openweb) - 
 - [ru.javascript.info](https://github.com/javascript-tutorial/ru.javascript.info) - Современный учебник JavaScript
 - [vue-particle-effect-buttons](https://github.com/dreambo8563/vue-particle-effect-buttons) - A bursting particles effects buttons component ✨💥❄️🌋
@@ -4422,7 +4421,7 @@
 - [dash-sample-apps](https://github.com/plotly/dash-sample-apps) - Apps hosted in the Dash Gallery
 - [2020](https://github.com/epfl-ada/2020) - Materials for Applied Data Analysis CS-401, fall 2020
 - [pixel2style2pixel](https://github.com/eladrich/pixel2style2pixel) - Official Implementation for "Encoding in Style: a StyleGAN Encoder for Image-to-Image Translation"
-- [Deep-Reinforcement-Learning-for-Automated-Stock-Trading-Ensemble-Strategy-ICAIF-2020](https://github.com/AI4Finance-LLC/Deep-Reinforcement-Learning-for-Automated-Stock-Trading-Ensemble-Strategy-ICAIF-2020) - Deep Reinforcement Learning for Automated Stock Trading: An Ensemble Strategy. ICAIF 2020.
+- [Deep-Reinforcement-Learning-for-Automated-Stock-Trading-Ensemble-Strategy-ICAIF-2020](https://github.com/AI4Finance-LLC/Deep-Reinforcement-Learning-for-Automated-Stock-Trading-Ensemble-Strategy-ICAIF-2020) - Deep Reinforcement Learning for Automated Stock Trading: An Ensemble Strategy. ICAIF 2020. Please star.
 - [nlp_profiler](https://github.com/neomatrix369/nlp_profiler) - A simple NLP library allows profiling datasets with one or more text columns. When given a dataset and a column name containing text data, NLP Profiler will return either high-level insights or low-level/granular statistical information about the text in that column.
 - [FinancePy](https://github.com/domokane/FinancePy) - A Python Finance Library that focuses on the pricing and risk-management of Financial Derivatives, including fixed-income, equity, FX and credit derivatives.
 - [spark-nlp-workshop](https://github.com/JohnSnowLabs/spark-nlp-workshop) - Public runnable examples of using John Snow Labs' NLP for Apache Spark.
@@ -4430,7 +4429,6 @@
 - [DP100](https://github.com/MicrosoftLearning/DP100) - Labs for Course DP-100: Designing and Implementing Data Science Solutions on Microsoft Azure
 - [natasha-usage](https://github.com/natasha/natasha-usage) - 
 - [ClariQ](https://github.com/aliannejadi/ClariQ) - ClariQ: SCAI Workshop data challenge on conversational search clarification.
-- [CenterPoint](https://github.com/tianweiy/CenterPoint) - 
 - [Feature-Engineering-Live-sessions](https://github.com/krishnaik06/Feature-Engineering-Live-sessions) - 
 - [desafio-6-2020](https://github.com/maratonadev-br/desafio-6-2020) - 
 - [course20](https://github.com/fastai/course20) - Deep Learning for Coders, 2020, the website
@@ -6801,6 +6799,7 @@
 
 ## Python 
 
+- [TransTrack](https://github.com/PeizeSun/TransTrack) - Multiple-Object Tracking with Transformer
 - [PCT](https://github.com/MenghaoGuo/PCT) - Jittor implementation of PCT:Point Cloud Transformer
 - [DeFCN](https://github.com/Megvii-BaseDetection/DeFCN) - End-to-End Object Detection with Fully Convolutional Network
 - [GuitarLSTM](https://github.com/GuitarML/GuitarLSTM) - Deep learning models for guitar amp/pedal emulation using LSTM with Keras.
@@ -6855,6 +6854,7 @@
 - [mmdetection3d](https://github.com/open-mmlab/mmdetection3d) - OpenMMLab's next-generation platform for general 3D object detection.
 - [torchsde](https://github.com/google-research/torchsde) - Differentiable SDE solvers with GPU support and efficient sensitivity analysis.
 - [rexnet](https://github.com/clovaai/rexnet) - Official Pytorch implementation of ReXNet (Rank eXpansion Network) with pretrained models
+- [CenterPoint](https://github.com/tianweiy/CenterPoint) - 
 - [gpt-2](https://github.com/nshepperd/gpt-2) - Code for the paper "Language Models are Unsupervised Multitask Learners"
 - [faiss-wheels](https://github.com/kyamagu/faiss-wheels) - Unofficial faiss wheel builder
 - [faiss-server](https://github.com/daangn/faiss-server) - faiss similarity search server
@@ -7562,6 +7562,7 @@
 - [reinforcement-learning-an-introduction](https://github.com/JaeDukSeo/reinforcement-learning-an-introduction) - Python Implementation of Reinforcement Learning: An Introduction
 - [CIKM-AnalytiCup-2018](https://github.com/zake7749/CIKM-AnalytiCup-2018) - [ACM-CIKM] 2nd place solution at CIKM AnalytiCup 2018, a task for determining short text similarities.
 - [EfficientNet-PyTorch](https://github.com/lukemelas/EfficientNet-PyTorch) - A PyTorch implementation of EfficientNet
+- [ctf-wiki](https://github.com/ctf-wiki/ctf-wiki) - A new start for CTF Wiki! Come and join us, we need you!
 - [chineseocr](https://github.com/chineseocr/chineseocr) - yolo3+ocr
 - [SATNet](https://github.com/locuslab/SATNet) - Bridging deep learning and logical reasoning using a differentiable satisfiability solver.
 - [EdgeRealtimeVideoAnalytics](https://github.com/RedisGears/EdgeRealtimeVideoAnalytics) - An example of using Redis Streams, RedisGears, RedisAI and RedisTimeSeries for Realtime Video Analytics (i.e. counting people)
@@ -12757,7 +12758,7 @@
 - [navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line and application launchers
 - [RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [PyOxidizer](https://github.com/indygreg/PyOxidizer) - A modern Python application packaging and distribution tool
-- [diem](https://github.com/diem/diem) - Diem’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.
+- [diem](https://github.com/diem/diem) - Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world.
 - [emu](https://github.com/calebwin/emu) - The write-once-run-anywhere GPGPU library for Rust
 - [wasmer-python](https://github.com/wasmerio/wasmer-python) - 🐍🕸 WebAssembly runtime for Python
 - [fluence](https://github.com/fluencelabs/fluence) - Peer-to-peer computing protocol and licensing system
