@@ -1664,7 +1664,7 @@
 - [meshbird](https://github.com/meshbird/meshbird) - Distributed private networking
 - [kubespy](https://github.com/pulumi/kubespy) - Tools for observing Kubernetes resources in real time, powered by Pulumi.
 - [TarsGo](https://github.com/TarsCloud/TarsGo) - A  high performance microservice  framework  in golang. A linux foundation project.
-- [arduino-cli](https://github.com/arduino/arduino-cli) - Arduino command line interface
+- [arduino-cli](https://github.com/arduino/arduino-cli) - Arduino command line tool
 - [devspace](https://github.com/devspace-cloud/devspace) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
 - [gorm](https://github.com/go-gorm/gorm) - The fantastic ORM library for Golang, aims to be developer friendly
 - [pdfcpu](https://github.com/pdfcpu/pdfcpu) - A PDF processor written in Go.
@@ -2104,7 +2104,7 @@
 - [httpstat](https://github.com/davecheney/httpstat) - It's like curl -v, with colours.
 - [influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
 - [minio](https://github.com/minio/minio) - High Performance, Kubernetes Native Object Storage
-- [rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files
+- [rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 - [open-lambda](https://github.com/open-lambda/open-lambda) - An open source serverless computing platform
 - [kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
 - [web-dev-golang-anti-textbook](https://github.com/thewhitetulip/web-dev-golang-anti-textbook) - Learn how to write webapps without a framework in Go.
@@ -3429,7 +3429,7 @@
 - [doctor](https://github.com/propellant/doctor) - quick and easy documentation of Vue.js components - DEPRECATED
 - [vue-tweezing](https://github.com/posva/vue-tweezing) - 💃 Easy, customizable and automatic tweening nicely served in scoped slots
 - [vue-raven](https://github.com/anteriovieira/vue-raven) - vue-raven automatically reports uncaught JavaScript exceptions triggered from vue component
-- [vue-routisan](https://github.com/mikerockett/vue-routisan) - Elegant, fluent route definitions for Vue Router, inspired by Laravel. See https://github.com/mikerockett/vue-routisan/tree/develop for the alpha release.
+- [vue-routisan](https://github.com/mikerockett/vue-routisan) - Elegant, fluent route definitions for Vue Router, inspired by Laravel. Version 3 is currently in beta.
 - [vue-session](https://github.com/victorsferreira/vue-session) - A simplistic session plugin for VueJS backed by SessionStorage and LocalStorage
 - [vue-cordova-demo](https://github.com/kartsims/vue-cordova-demo) - Demo for vue-cordova NPM package
 - [terriajs](https://github.com/TerriaJS/terriajs) - A library for building rich, web-based geospatial data platforms.
@@ -5753,6 +5753,7 @@
 
 ## Others 
 
+- [awesome-transformer-for-vision](https://github.com/lijiaman/awesome-transformer-for-vision) - 
 - [500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code) - 500 AI Machine learning Deep learning Computer vision NLP Projects with code
 - [awesome-implicit-representations](https://github.com/vsitzmann/awesome-implicit-representations) - A curated list of resources on implicit neural representations.
 - [ctci-python-solutions](https://github.com/arpan74/ctci-python-solutions) - Cracking the Coding Interview in Python 3. The solutions all have detailed explanations with visuals.
@@ -6799,6 +6800,7 @@
 
 ## Python 
 
+- [DALLE-pytorch](https://github.com/lucidrains/DALLE-pytorch) - Implementation / replication of DALL-E, OpenAI's Text to Image Transformer, in Pytorch
 - [TransTrack](https://github.com/PeizeSun/TransTrack) - Multiple-Object Tracking with Transformer
 - [PCT](https://github.com/MenghaoGuo/PCT) - Jittor implementation of PCT:Point Cloud Transformer
 - [DeFCN](https://github.com/Megvii-BaseDetection/DeFCN) - End-to-End Object Detection with Fully Convolutional Network
