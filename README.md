@@ -2067,7 +2067,7 @@
 - [github-trending](https://github.com/josephyzhou/github-trending) - Tracking the most popular Github repos, updated daily
 - [beego](https://github.com/beego/beego) - beego is an open-source, high-performance web framework for the Go programming language.
 - [minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
-- [chain](https://github.com/chain/chain) - Chain Core Developer Edition (Archive)
+- [chain](https://github.com/chain/chain) - Chain Core
 - [learn-chaincode](https://github.com/IBM-Blockchain-Archive/learn-chaincode) - Learn how to write chaincode.  (For the latest information, see http://hyperledger-fabric.readthedocs.io/en/latest/chaincode.html)
 - [DBShield](https://github.com/nim4/DBShield) - Database firewall written in Go
 - [tidb](https://github.com/pingcap/tidb) - TiDB is an open source distributed HTAP database compatible with the MySQL protocol
@@ -3660,7 +3660,7 @@
 - [notifme-sdk](https://github.com/notifme/notifme-sdk) - A Node.js library to send all kinds of transactional notifications.
 - [trust](https://github.com/ncase/trust) - An interactive guide to the game theory of cooperation
 - [gtop](https://github.com/aksakalli/gtop) - System monitoring dashboard for terminal
-- [wekan](https://github.com/wekan/wekan) - The open-source kanban (built with Meteor). Keep variable/table/field names camelCase. For translations, only add Pull Request changes to wekan/i18n/en.i18n.json , other translations are done at https://transifex.com/wekan/wekan only.
+- [wekan](https://github.com/wekan/wekan) - The Open Source kanban (built with Meteor). Docs at https://github.com/wekan/wekan-doc/wiki . Keep variable/table/field names camelCase. For translations, only add Pull Request changes to wekan/i18n/en.i18n.json , other translations are done at https://transifex.com/wekan/wekan only.
 - [electron-webpack-dashboard](https://github.com/FormidableLabs/electron-webpack-dashboard) - Electron Desktop GUI for Webpack Dashboard
 - [git-point](https://github.com/gitpoint/git-point) - GitHub in your pocket :iphone:
 - [spacetime](https://github.com/spencermountain/spacetime) - A lightweight javascript timezone library
@@ -10937,7 +10937,7 @@
 - [ibis](https://github.com/ibis-project/ibis) - A pandas-like deferred expression system, with first-class SQL support
 - [pymaybe](https://github.com/ekampf/pymaybe) - A Python implementation of the Maybe pattern
 - [codemod](https://github.com/facebook/codemod) - Codemod is a tool/library to assist you with large-scale codebase refactors that can be partially automated but still require human oversight and occasional intervention. Codemod was developed at Facebook and released as open source.
-- [magic-wormhole](https://github.com/warner/magic-wormhole) - get things from one computer to another, safely
+- [magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) - get things from one computer to another, safely
 - [qfc](https://github.com/pindexis/qfc) - Quick Command-line File Completion
 - [semisup-learn](https://github.com/tmadl/semisup-learn) - Semi-supervised learning frameworks for python, which allow fitting scikit-learn classifiers to partially labeled data
 - [hitch](https://github.com/hitchtest/hitch) - Loosely coupled testing framework
