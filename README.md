@@ -94,6 +94,7 @@
   - [Smarty](#smarty)
   - [Starlark](#starlark)
   - [Stylus](#stylus)
+  - [Svelte](#svelte)
   - [Swift](#swift)
   - [TSQL](#tsql)
   - [TeX](#tex)
@@ -5230,7 +5231,7 @@
 - [AdaptiveAttention](https://github.com/jiasenlu/AdaptiveAttention) - Implementation of "Knowing When to Look: Adaptive Attention via A Visual Sentinel for Image Captioning"
 - [CS570](https://github.com/mbernico/CS570) - Code for CS570, Essentials of Data Science
 - [BayesMadeSimple](https://github.com/AllenDowney/BayesMadeSimple) - Code for a tutorial on Bayesian Statistics by Allen Downey.
-- [lectures-labs](https://github.com/m2dsupsdlclass/lectures-labs) - Slides and Jupyter notebooks for the Deep Learning lectures at M2 Data Science Université Paris Saclay
+- [lectures-labs](https://github.com/m2dsupsdlclass/lectures-labs) - Slides and Jupyter notebooks for the Deep Learning lectures at Master Year 2 Data Science from Institut Polytechnique de Paris
 - [digital_video_introduction](https://github.com/leandromoreira/digital_video_introduction) - A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding).
 - [dsp](https://github.com/thisismetis/dsp) - Metis Data Science Bootcamp - Official Prework Repository
 - [Installations_Mac_Ubuntu_Windows](https://github.com/mGalarnyk/Installations_Mac_Ubuntu_Windows) - Installations for Data Science. Anaconda, RStudio, Spark, TensorFlow, AWS (Amazon Web Services).
@@ -5771,7 +5772,7 @@
 - [machine-learning-roadmap](https://github.com/mrdbourke/machine-learning-roadmap) - A roadmap connecting many of the most important concepts in machine learning, how to learn them and what tools to use to perform them.
 - [QA_bible](https://github.com/Vladislav610/QA_bible) - Библия QA/тестировщика это 200++ страниц обновляемой смеси ответов на вопросы с реальных собеседований на QA, перевода интересного контента с зарубежных ресурсов и агрегации материала с отечественных.
 - [sql-server-samples](https://github.com/microsoft/sql-server-samples) - Azure Data SQL Samples - Official Microsoft GitHub Repository containing code samples for SQL Server, Azure SQL, Azure Synapse, and Azure SQL Edge
-- [data-engineer-roadmap](https://github.com/datastacktv/data-engineer-roadmap) - Roadmap to becoming a data engineer in 2020
+- [data-engineer-roadmap](https://github.com/datastacktv/data-engineer-roadmap) - Roadmap to becoming a data engineer in 2021
 - [NLP-pretrained-model](https://github.com/balavenkatesh3322/NLP-pretrained-model) - A collection of Natural language processing pre-trained models.
 - [CV-pretrained-model](https://github.com/balavenkatesh3322/CV-pretrained-model) - A collection of computer vision pre-trained models.
 - [awesome-real-world-rl](https://github.com/ugurkanates/awesome-real-world-rl) - Great resources for making Reinforcement Learning work in Real Life situations. Papers,projects and more.
@@ -13036,6 +13037,10 @@
 
 - [site](https://github.com/learning-rust/site) - 🎓 Rust Programming Language Tutorials for Everyone!
 
+## Svelte 
+
+- [ui](https://github.com/staart/ui) - 🏁🌐 Frontend Svelte PWA starter for SaaS startups
+
 ## Swift 
 
 - [CombineFeedback](https://github.com/sergdort/CombineFeedback) - Unidirectional reactive architecture using new Apple Combine framework https://developer.apple.com/documentation/combine
@@ -13293,7 +13298,7 @@
 - [chromeless](https://github.com/prisma-archive/chromeless) - 🖥  Chrome automation made simple. Runs locally or headless on AWS Lambda.
 - [howtographql](https://github.com/howtographql/howtographql) - The Fullstack Tutorial for GraphQL
 - [apollo-fetch](https://github.com/apollographql/apollo-fetch) - :dog: Lightweight GraphQL client that supports middleware and afterware
-- [incubator-echarts](https://github.com/apache/incubator-echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
+- [echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
 - [vue-awesome-swiper](https://github.com/surmon-china/vue-awesome-swiper) - 🏆 Swiper component for @vuejs
 - [BlockchainStore](https://github.com/brakmic/BlockchainStore) - :moneybag: Retail Store that runs on Ethereum
 - [vue-typed](https://github.com/vue-typed/vue-typed) - Sets of ECMAScript / Typescript decorators that helps you write Vue component easily.
@@ -13407,7 +13412,6 @@
 - [hackathon-app-template](https://github.com/oslokommune/hackathon-app-template) - 
 - [vue-page-designer](https://github.com/fireyy/vue-page-designer) - Vue component for drag-and-drop to design and build mobile website.
 - [documentation](https://github.com/pterodactyl/documentation) - Pterodactyl's documentation is open source! This repository contains the documentation for installing and updating both the panel and the daemon.
-- [ui](https://github.com/staart/ui) - 🏁🌐 Frontend Vue PWA starter for SaaS startups
 - [amazon-api-gateway-url-shortener](https://github.com/aws-samples/amazon-api-gateway-url-shortener) - Creates a serverless URL shortener on AWS without using AWS Lambda or any other compute.
 - [statping](https://github.com/statping/statping) - Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.
 - [HYMall](https://github.com/coderwhy/HYMall) - A vue.js mall application.
