@@ -1350,7 +1350,7 @@
 - [nvParse](https://github.com/antonmks/nvParse) - Fast, gpu-based CSV parser
 - [Alenka](https://github.com/antonmks/Alenka) - GPU database engine
 - [CUDA-CNN](https://github.com/zhxfl/CUDA-CNN) - CNN accelerated by cuda. Test on mnist and finilly get 99.76%
-- [cub](https://github.com/NVIDIA/cub) - Cooperative primitives for CUDA C++ kernel authors.
+- [cub](https://github.com/NVIDIA/cub) - Cooperative primitives for CUDA C++.
 - [cs344](https://github.com/udacity/cs344) - Introduction to Parallel Programming class code
 - [convnet](https://github.com/TorontoDeepLearning/convnet) - A GPU implementation of Convolutional Neural Nets in C++
 - [cuda-convnet2](https://github.com/akrizhevsky/cuda-convnet2) - Automatically exported from code.google.com/p/cuda-convnet2
@@ -1717,7 +1717,7 @@
 - [ppds](https://github.com/shivamMg/ppds) - Pretty Print Data Structures
 - [tor-controller](https://github.com/kragniz/tor-controller) - Run Tor onion services on Kubernetes
 - [pigo](https://github.com/esimov/pigo) - Pure Go face detection, pupil/eyes localization and facial landmark points detection library.
-- [revive](https://github.com/mgechev/revive) - 🔥 ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint.
+- [revive](https://github.com/mgechev/revive) - 🔥 ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint
 - [google-ctf](https://github.com/google/google-ctf) - Google CTF
 - [discovery](https://github.com/bilibili/discovery) - A registry for resilient mid-tier load balancing and failover.
 - [supervisord](https://github.com/ochinchina/supervisord) - a go-lang supervisor implementation
@@ -2838,7 +2838,7 @@
 
 - [maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) - MapLibre GL is a free and open-source fork of @mapbox/mapbox-gl
 - [sova-asr](https://github.com/sovaai/sova-asr) - SOVA ASR (Automatic Speech Recognition)
-- [AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) - Roadmap to becoming an Artificial Intelligence Expert in 2020
+- [AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) - Roadmap to becoming an Artificial Intelligence Expert in 2021
 - [gpt3-sandbox](https://github.com/shreyashankar/gpt3-sandbox) - The goal of this project is to enable users to create cool web demos using the newly released OpenAI GPT-3 API with just a few lines of Python.
 - [docs](https://github.com/github/docs) - The open-source repo for docs.github.com
 - [Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates) - A collection of awesome readme templates to display on your profile
@@ -2887,6 +2887,7 @@
 - [manifold](https://github.com/uber/manifold) - A model-agnostic visual debugging tool for machine learning
 - [ferdi](https://github.com/getferdi/ferdi) - 🧔🏽 Ferdi  helps you organize how you use your favourite apps by combining them into one application
 - [flowy](https://github.com/alyssaxuu/flowy) - The minimal javascript library to create flowcharts ✨
+- [Tutorials](https://github.com/SAPDocuments/Tutorials) - Tutorials on sap.com
 - [shhgit](https://github.com/eth0izzle/shhgit) - Ah shhgit! Find GitHub secrets in real time
 - [fabric-samples](https://github.com/hyperledger/fabric-samples) - 
 - [BullshitGenerator](https://github.com/menzi11/BullshitGenerator) - Needs to generate some texts to test if my GUI rendering codes good or not. so I made this.
@@ -3799,7 +3800,7 @@
 - [Flat-UI](https://github.com/designmodo/Flat-UI) - Flat UI Free - Design Framework (html/css3/less/js). Flat UI is based on Bootstrap, a comfortable, responsive, and functional framework that simplifies the development of websites.
 - [simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
 - [react-trend](https://github.com/unsplash/react-trend) - 📈 Simple, elegant spark lines
-- [TagUI](https://github.com/kelaberetiv/TagUI) - Command-line tool for digital process automation (RPA) by AI Singapore
+- [TagUI](https://github.com/kelaberetiv/TagUI) - Command-line tool for robotic process automation (RPA) by AI Singapore
 - [uber-cli](https://github.com/jaebradley/uber-cli) - 🚗Uber, at your fingertips
 - [git-tips](https://github.com/Imangazaliev/git-tips) - Часто используемые трюки и советы при работе с Git
 - [data-selfie](https://github.com/d4t4x/data-selfie) - Data Selfie - a browser extension to track yourself on Facebook and analyze your data.
@@ -5131,7 +5132,7 @@
 - [facets](https://github.com/PAIR-code/facets) - Visualizations for machine learning datasets
 - [mxnet-the-straight-dope](https://github.com/zackchase/mxnet-the-straight-dope) - An interactive book on deep learning. Much easy, so MXNet. Wow. [Straight Dope is growing up] ---&gt; Much of this content has been incorporated into the new Dive into Deep Learning Book available at https://d2l.ai/.
 - [tensorflow-nlp](https://github.com/zhedongzheng/tensorflow-nlp) - NLP and Text Generation Experiments in TensorFlow 2.x / 1.x
-- [quilt](https://github.com/quiltdata/quilt) - Quilt is a versioned data portal for S3
+- [quilt](https://github.com/quiltdata/quilt) - Quilt is a self-organizing data hub for S3
 - [InferSent](https://github.com/facebookresearch/InferSent) - InferSent sentence embeddings
 - [analyze-citymobil](https://github.com/kuk/analyze-citymobil) - 
 - [saliency](https://github.com/PAIR-code/saliency) - TensorFlow implementation for SmoothGrad, Grad-CAM, Guided backprop, Integrated Gradients and other saliency techniques
@@ -6494,7 +6495,7 @@
 - [debugger](https://github.com/firefox-devtools/debugger) - The faster and smarter Debugger for Firefox DevTools 🔥🦊🛠
 - [ddd-dynamic](https://github.com/valignatev/ddd-dynamic) - Domain Driven Design in Python, Ruby and other dynamic languages resources
 - [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision) - A curated list of deep learning resources for computer vision
-- [angular-performance-checklist](https://github.com/mgechev/angular-performance-checklist) - ⚡ Cheatsheet for developing lightning fast progressive Angular applications.
+- [angular-performance-checklist](https://github.com/mgechev/angular-performance-checklist) - ⚡ Cheatsheet for developing lightning fast progressive Angular applications
 - [materia-designer-public](https://github.com/materiahq/materia-designer-public) - A modern development environment to build advanced mobile and web applications.
 - [awesome-cmake](https://github.com/onqtam/awesome-cmake) - A curated list of awesome CMake resources, scripts, modules and examples.
 - [awesome-design](https://github.com/gztchan/awesome-design) - 🌟Curated design resources
@@ -7117,7 +7118,7 @@
 - [MAST](https://github.com/zlai0/MAST) - MAST: A Memory-Augmented Self-supervised Tracker (CVPR 2020)
 - [self-adaptive-training](https://github.com/LayneH/self-adaptive-training) - Official implementation of the NeurIPS'2020 paper 'Self-Adaptive Training: beyond Empirical Risk Minimization'
 - [FreezeD](https://github.com/sangwoomo/FreezeD) - Freeze the Discriminator: a Simple Baseline for Fine-Tuning GANs (CVPRW 2020)
-- [centermask2](https://github.com/youngwanLEE/centermask2) - CenterMask2 on top of detectron2, in CVPR 2020
+- [centermask2](https://github.com/youngwanLEE/centermask2) - Real-time Anchor-Free Instance Segmentation, in CVPR 2020
 - [CenterNet-better](https://github.com/FateScript/CenterNet-better) - An easy to understand and better performance version of CenterNet
 - [apex](https://github.com/osudrl/apex) - A continuous deep reinforcement learning framework for robotics
 - [retinanet-examples](https://github.com/NVIDIA/retinanet-examples) - Fast and accurate object detection with end-to-end GPU optimization
@@ -9488,7 +9489,6 @@
 - [Theano](https://github.com/intel/Theano) - This fork of Theano/Theano is dedicated to improve its performance on CPU device, in particular Intel® Xeon® processors and Intel® Xeon Phi™ processors.
 - [gpod](https://github.com/EvgenyNekrasov/gpod) - GPOD - General Purpose Object Detector in Python
 - [Xvision](https://github.com/ayush1997/Xvision) - Chest Xray image analysis using Deep learning !
-- [style-transfer](https://github.com/kevinzakka/style-transfer) - A Keras Implementation of "A Neural Algorithm of Artistic Style"
 - [keras-squeezenet](https://github.com/rcmalli/keras-squeezenet) - SqueezeNet implementation with Keras Framework
 - [GpxTrackPoster](https://github.com/flopp/GpxTrackPoster) - Create a visually appealing poster from your GPX tracks
 - [face-identification-tpe](https://github.com/meownoid/face-identification-tpe) - Face identification with CNN + TPE using Keras
@@ -9537,7 +9537,7 @@
 - [pylint](https://github.com/PyCQA/pylint) - It's not just a linter that annoys you!
 - [pyexcel](https://github.com/pyexcel/pyexcel) - Single API for reading, manipulating and writing data in csv, ods, xls, xlsx and xlsm files
 - [flake8](https://github.com/PyCQA/flake8) - The official GitHub mirror of https://gitlab.com/pycqa/flake8
-- [kitty](https://github.com/kovidgoyal/kitty) - A cross-platform, fast, feature full, GPU based terminal emulator
+- [kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
 - [py_hypergolix](https://github.com/Muterra/py_hypergolix) - Programmable Dropbox for secure IoT
 - [itermplot](https://github.com/daleroberts/itermplot) - An awesome iTerm2 backend for Matplotlib, so you can plot directly in your terminal.
 - [predictron](https://github.com/zhongwen/predictron) - Tensorflow implementation of "The Predictron: End-To-End Learning and Planning"
@@ -12865,7 +12865,6 @@
 - [docker-selenium](https://github.com/SeleniumHQ/docker-selenium) - Docker images for the Selenium Grid Server
 - [vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) - A repository of development container definitions for the VS Code Remote - Containers extension and GitHub Codespaces
 - [shlide](https://github.com/icyphox/shlide) - :framed_picture: a slide deck presentation tool written in pure bash
-- [Tutorials](https://github.com/SAPDocuments/Tutorials) - Tutorials on sap.com
 - [bitnami-docker-kafka](https://github.com/bitnami/bitnami-docker-kafka) - Bitnami Docker Image for Kafka
 - [docker-odoo-project](https://github.com/camptocamp/docker-odoo-project) - Base images for Odoo projects
 - [docker-pi-hole](https://github.com/pi-hole/docker-pi-hole) - Pi-hole in a docker container
