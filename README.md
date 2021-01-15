@@ -7589,7 +7589,6 @@
 - [garage](https://github.com/rlworkgroup/garage) - A toolkit for reproducible reinforcement learning research.
 - [agents](https://github.com/tensorflow/agents) - TF-Agents is a library for Reinforcement Learning in TensorFlow
 - [ERNIE](https://github.com/thunlp/ERNIE) - Source code and dataset for ACL 2019 paper "ERNIE: Enhanced Language Representation with Informative Entities"
-- [sonicNEAT](https://github.com/Vedant-Gupta523/sonicNEAT) - 
 - [odoo-client-api](https://github.com/jam-odoo/odoo-client-api) - Odoo - Python Client API
 - [odooku](https://github.com/odooku/odooku) - Run Odoo as a service
 - [tensor2robot](https://github.com/google-research/tensor2robot) - Distributed machine learning infrastructure for large-scale robotics research
@@ -8358,7 +8357,7 @@
 - [modAL](https://github.com/modAL-python/modAL) - A modular active learning framework for Python
 - [kubesanity](https://github.com/brendandburns/kubesanity) - KubeSanity a sanity checking framework for Kubernetes
 - [bounty-monitor](https://github.com/nashcontrol/bounty-monitor) - Leverage certificate transparency live feed to monitor for newly issued subdomain certificates (last 90 days, configurable), for domains participating in bug bounty programs.
-- [youtube-video-face-swap](https://github.com/DerWaldi/youtube-video-face-swap) - The aim of this project ist to perform a face swap on a youtube video almost automatically.
+- [youtube-video-face-swap](https://github.com/DerWaldi/youtube-video-face-swap) - The aim of this project is to perform a face swap on a youtube video almost automatically.
 - [Sickle](https://github.com/wetw0rk/Sickle) - Payload development tool
 - [multidiff](https://github.com/juhakivekas/multidiff) - Binary data diffing for multiple objects or streams of data
 - [Crypto_Trader](https://github.com/bshaw19/Crypto_Trader) - Q-Learning Based Cryptocurrency Trader and Portfolio Optimizer for the Poloniex Exchange
@@ -10814,7 +10813,7 @@
 - [cement](https://github.com/datafolklabs/cement) - Application Framework for Python
 - [python-decouple](https://github.com/henriquebastos/python-decouple) - Strict separation of config from code.
 - [pycco](https://github.com/pycco-docs/pycco) - Literate-style documentation generator.
-- [pdoc](https://github.com/mitmproxy/pdoc) - A simple command line tool and library to auto generate API documentation for Python libraries.
+- [pdoc](https://github.com/mitmproxy/pdoc) - Auto-generate API documentation for Python projects.
 - [langid.py](https://github.com/saffsd/langid.py) - Stand-alone language identification system
 - [unp](https://github.com/mitsuhiko/unp) - Unpacks things.
 - [markdown](https://github.com/Python-Markdown/markdown) - A Python implementation of John Gruber’s Markdown with Extension support.
@@ -12795,7 +12794,7 @@
 - [three-dots](https://github.com/nzbin/three-dots) - 🔮 CSS loading animations made by single element.
 - [Cirrus](https://github.com/Spiderpig86/Cirrus) - :cloud: The CSS framework for the modern web.
 - [mustard-ui](https://github.com/kylelogue/mustard-ui) - A starter CSS framework that actually looks good.
-- [debugged.it](https://github.com/debugged-it/debugged.it) - 
+- [debugged.it](https://github.com/haveyoudebuggedit/debugged.it) - 
 - [hacker101](https://github.com/Hacker0x01/hacker101) - Source code for Hacker101.com - a free online web and mobile security class.
 - [startbootstrap-coming-soon](https://github.com/StartBootstrap/startbootstrap-coming-soon) - A coming soon theme with a video background for Bootstrap 4
 - [vue-light-bootstrap-dashboard](https://github.com/creativetimofficial/vue-light-bootstrap-dashboard) - Vue Light Bootstrap Dashboard - FREE BOOTSTRAP 4 VUEJS ADMIN TEMPLATE
@@ -12960,7 +12959,7 @@
 - [veewee](https://github.com/jedi4ever/veewee) - Easing the building of vagrant boxes
 - [awesome-no-login-web-apps](https://github.com/aviaryan/awesome-no-login-web-apps) - 🚀 Awesome (free) web apps that work without login
 - [notes](https://github.com/pimterry/notes) - :pencil: Simple delightful note taking, with more unix and less lock-in.
-- [oss-fuzz](https://github.com/google/oss-fuzz) - OSS-Fuzz - continuous fuzzing of open source software.
+- [oss-fuzz](https://github.com/google/oss-fuzz) - OSS-Fuzz - continuous fuzzing for open source software.
 - [lynis](https://github.com/CISOfy/lynis) - Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.
 - [ansible-nginx](https://github.com/debops/ansible-nginx) - Install and manage nginx webserver
 - [gitkurwa](https://github.com/jakubnabrdalik/gitkurwa) - A sample project containing usefull verbose aliases, for those who feel lost and angry at git. Basically for those Polish folks, who scream "Git, kurwa!".
