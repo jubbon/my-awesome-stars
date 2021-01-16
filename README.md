@@ -4512,7 +4512,7 @@
 - [first-order-model](https://github.com/AliaksandrSiarohin/first-order-model) - This repository contains the source code for the paper First Order Motion Model for Image Animation
 - [capsule_net_pytorch](https://github.com/cezannec/capsule_net_pytorch) - Readable implementation of a Capsule Network as described in "Dynamic Routing Between Capsules" [Hinton et. al.]
 - [ABD](https://github.com/malrev/ABD) - Course materials for Advanced Binary Deobfuscation by NTT Secure Platform Laboratories
-- [graph_nets](https://github.com/dsgiitr/graph_nets) - PyTorch Implementation and Explanation of Graph Representation Learning papers involving DeepWalk, GCN, GraphSAGE, ChebNet & GAT.
+- [graph_nets](https://github.com/dsgiitr/graph_nets) - PyTorch Implementation and Explanation of Graph Representation Learning papers: DeepWalk, GCN, GraphSAGE, ChebNet & GAT.
 - [public_workshop](https://github.com/ShT3ch/public_workshop) - Это репозиторий, куда я складываю материалы с разных своих докладов. Тут пока грязновато, но я приберусь.
 - [Data-Structure-and-Algorithm-Using-Python](https://github.com/soumyadip007/Data-Structure-and-Algorithm-Using-Python) - In computer science, a data structure is a data organization, management, and storage format that enables efficient access and modification. More precisely, a data structure is a collection of data values, the relationships among them, and the functions or operations that can be applied to the data. (Using Python 3)
 - [Object-Oriented-Programming-Using-Python](https://github.com/soumyadip007/Object-Oriented-Programming-Using-Python) - Python is a multi-paradigm programming language. Meaning, it supports different programming approach. One of the popular approach to solve a programming problem is by creating objects. This is known as Object-Oriented Programming (OOP).
@@ -5755,6 +5755,10 @@
 
 ## Others 
 
+- [best-of-python](https://github.com/ml-tooling/best-of-python) - 🏆 A ranked list of awesome Python open-source libraries and tools. Updated weekly.
+- [lecture_notes](https://github.com/popgenmethods/lecture_notes) - Lecture Notes on Computational and Mathematical Population Genetics
+- [Cloud-DevSecOps-Learning](https://github.com/chughes29/Cloud-DevSecOps-Learning) - Collection of Cloud and DevSecOps learning resources
+- [awesome-distributed-transactions](https://github.com/rystsov/awesome-distributed-transactions) - Awesome list of distributed transactions
 - [awesome-transformer-for-vision](https://github.com/lijiaman/awesome-transformer-for-vision) - 
 - [500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code) - 500 AI Machine learning Deep learning Computer vision NLP Projects with code
 - [awesome-implicit-representations](https://github.com/vsitzmann/awesome-implicit-representations) - A curated list of resources on implicit neural representations.
@@ -6384,7 +6388,7 @@
 - [vuejs-component-style-guide](https://github.com/pablohpsilva/vuejs-component-style-guide) - Vue.js Component Style Guide
 - [awesome-grid](https://github.com/FancyGrid/awesome-grid) - A curated list of grid(table) libraries and resources that developers may find useful.
 - [security-101-for-saas-startups](https://github.com/forter/security-101-for-saas-startups) - security tips for startups
-- [awesome-bots](https://github.com/invocable/awesome-bots) - The most awesome list about bots ⭐️🤖
+- [awesome-bots](https://github.com/MaximAbramchuck/awesome-bots) - The most awesome list about bots ⭐️🤖
 - [perspectiveapi](https://github.com/conversationai/perspectiveapi) - Perspective is an API that uses machine learning models to score the perceived impact a comment might have on a conversation. For support, see: https://support.perspectiveapi.com/
 - [awesome-graphics](https://github.com/ericjang/awesome-graphics) - Curated list of computer graphics tutorials and resources
 - [awesome-hacking](https://github.com/carpedm20/awesome-hacking) - A curated list of awesome Hacking tutorials, tools and resources
@@ -6802,6 +6806,10 @@
 
 ## Python 
 
+- [trankit](https://github.com/nlp-uoregon/trankit) - Trankit is a Light-Weight Transformer-based Python Toolkit for Multilingual Natural Language Processing
+- [FaceX-Zoo](https://github.com/JDAI-CV/FaceX-Zoo) - A PyTorch Toolbox for Face Recognition
+- [Pytorch-Medical-Segmentation](https://github.com/MontaEllis/Pytorch-Medical-Segmentation) - This repository is an unoffical PyTorch implementation of Medical segmentation in 3D and 2D.
+- [DALLE-mtf](https://github.com/EleutherAI/DALLE-mtf) - Open-AI's DALL-E for large scale training in mesh-tensorflow.
 - [DALLE-pytorch](https://github.com/lucidrains/DALLE-pytorch) - Implementation / replication of DALL-E, OpenAI's Text to Image Transformer, in Pytorch
 - [TransTrack](https://github.com/PeizeSun/TransTrack) - Multiple-Object Tracking with Transformer
 - [PCT](https://github.com/MenghaoGuo/PCT) - Jittor implementation of PCT:Point Cloud Transformer
@@ -7147,7 +7155,7 @@
 - [mAP](https://github.com/Cartucho/mAP) - mean Average Precision - This code evaluates the performance of your neural net for object recognition.
 - [ursina](https://github.com/pokepetter/ursina) - A game engine powered by python and panda3d.
 - [sepconv-slomo](https://github.com/sniklaus/sepconv-slomo) - an implementation of Video Frame Interpolation via Adaptive Separable Convolution using PyTorch
-- [fast-bert](https://github.com/kaushaltrivedi/fast-bert) - Super easy library for BERT based NLP models
+- [fast-bert](https://github.com/utterworks/fast-bert) - Super easy library for BERT based NLP models
 - [pre-commit-hooks](https://github.com/pre-commit/pre-commit-hooks) - Some out-of-the-box hooks for pre-commit
 - [full-stack-fastapi-postgresql](https://github.com/tiangolo/full-stack-fastapi-postgresql) - Full stack, modern web application generator. Using FastAPI, PostgreSQL as database, Docker, automatic HTTPS and more.
 - [binwalk](https://github.com/ReFirmLabs/binwalk) - Firmware Analysis Tool
@@ -9918,7 +9926,7 @@
 - [redis-dump-load](https://github.com/p/redis-dump-load) - Dump redis databases, load data into redis - in Python
 - [metame](https://github.com/a0rtega/metame) - metame is a metamorphic code engine for arbitrary executables
 - [omnihash](https://github.com/Miserlou/omnihash) - Hash files, strings, input streams and network resources in various common algorithms simultaneously
-- [ml4a](https://github.com/ml4a/ml4a) - practical guides, tutorials, and code samples for ml4a
+- [ml4a](https://github.com/ml4a/ml4a) - A python library and collection of notebooks for making art with machine learning.
 - [ExplainToMe](https://github.com/jjangsangy/ExplainToMe) - Automatic Web Article Summarizer
 - [needle](https://github.com/FSecureLABS/needle) - The iOS Security Testing Framework
 - [deep-regex](https://github.com/nicholaslocascio/deep-regex) - Code for the paper Neural Generation of Regular Expressions from Natural Language with Minimal Domain Knowledge (EMNLP 2016). http://arxiv.org/abs/1608.03000
@@ -11339,7 +11347,7 @@
 - [coastermelt](https://github.com/scanlime/coastermelt) - An effort to make open source firmware for burning anything other than Blu-Ray data onto plastic discs with a BD-R drive.
 - [ccm](https://github.com/riptano/ccm) - A script to easily create and destroy an Apache Cassandra cluster on localhost
 - [lima](https://github.com/b6d/lima) - Lightweight Marshalling of Python 3 Objects.
-- [exitmap](https://github.com/NullHypothesis/exitmap) - A fast and modular scanner for Tor exit relays.
+- [exitmap](https://github.com/NullHypothesis/exitmap) - A fast and modular scanner for Tor exit relays. The canonical repository (including issue tracker) is at https://gitlab.torproject.org/tpo/network-health/exitmap
 - [Hash-Algorithm-Identifier](https://github.com/AnimeshShaw/Hash-Algorithm-Identifier) - A python tool to identify different Hash Function Algorithms
 - [DidYouMean-Python](https://github.com/SylvainDe/DidYouMean-Python) - Module to have suggestions in case of errors (NameError, AttributeError, etc).
 - [command-line-chess](https://github.com/marcusbuffett/command-line-chess) - A python program to play chess against an AI in the terminal.
@@ -12411,7 +12419,7 @@
 - [elephant](https://github.com/not-kennethreitz/elephant) - A persistent, full-text searchable key-value store. Powered by Flask, ElasticSearch, S3, and good intentions.
 - [SublimeWebInspector](https://github.com/sokolovstas/SublimeWebInspector) - Web Inspector allow you debug Javascript right in the editor
 - [Benjen](https://github.com/daeken/Benjen) - Blog engine
-- [nginxparser](https://github.com/fatiherikli/nginxparser) - Parses nginx configuration with Pyparsing
+- [nginxparser](https://github.com/fatiherikli/nginxparser) - Parses nginx configuration with Pyparsing — Used in Letsencrypt
 - [scales](https://github.com/Cue/scales) - scales - Metrics for Python
 - [toro](https://github.com/ajdavis/toro) - Synchronization primitives for Tornado coroutines
 - [django-best-practices](https://github.com/lincolnloop/django-best-practices) - Documentation regarding Django best practices
