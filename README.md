@@ -2720,7 +2720,6 @@
 - [flutter_boost](https://github.com/alibaba/flutter_boost) - FlutterBoost is a Flutter plugin which enables hybrid integration of Flutter for your existing native apps with minimum efforts
 - [fission-workflow-sample](https://github.com/fission/fission-workflow-sample) - A simple carpool application built using Fission Workflows
 - [dynamodb-janusgraph-storage-backend](https://github.com/awslabs/dynamodb-janusgraph-storage-backend) - The Amazon DynamoDB Storage Backend for JanusGraph
-- [OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue) - A render management system you can deploy for visual effects and animation productions.
 - [gtfs-realtime-validator](https://github.com/CUTR-at-USF/gtfs-realtime-validator) - Java-based tool that validates General Transit Feed Specification (GTFS)-realtime feeds
 - [aws-sam-java-rest](https://github.com/aws-samples/aws-sam-java-rest) - A sample REST application built on SAM and DynamoDB that demonstrates testing with DynamoDB Local.
 - [dynamodb-geo](https://github.com/amazon-archives/dynamodb-geo) - 
@@ -4501,7 +4500,6 @@
 - [ParallelWaveGAN](https://github.com/kan-bayashi/ParallelWaveGAN) - Unofficial Parallel WaveGAN (+ MelGAN & Multi-band MelGAN) with Pytorch
 - [nlp-in-python-tutorial](https://github.com/adashofdata/nlp-in-python-tutorial) - comparing stand up comedians using natural language processing
 - [automl](https://github.com/google/automl) - Google Brain AutoML
-- [lagrangian_nns](https://github.com/MilesCranmer/lagrangian_nns) - Lagrangian Neural Networks
 - [TTS](https://github.com/mozilla/TTS) - :robot: :speech_balloon: Deep learning for Text to Speech  (Discussion forum: https://discourse.mozilla.org/c/tts)
 - [Pytorch_Tutorial](https://github.com/Tessellate-Imaging/Pytorch_Tutorial) - A set of jupyter notebooks on pytorch functions with examples
 - [Monk_Object_Detection](https://github.com/Tessellate-Imaging/Monk_Object_Detection) - A one-stop repository for low-code easily-installable object detection pipelines.
@@ -5755,7 +5753,6 @@
 
 ## Others 
 
-- [best-of-python](https://github.com/ml-tooling/best-of-python) - 🏆 A ranked list of awesome Python open-source libraries and tools. Updated weekly.
 - [lecture_notes](https://github.com/popgenmethods/lecture_notes) - Lecture Notes on Computational and Mathematical Population Genetics
 - [Cloud-DevSecOps-Learning](https://github.com/chughes29/Cloud-DevSecOps-Learning) - Collection of Cloud and DevSecOps learning resources
 - [awesome-distributed-transactions](https://github.com/rystsov/awesome-distributed-transactions) - Awesome list of distributed transactions
@@ -5882,7 +5879,7 @@
 - [awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) - A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning
 - [25-days-of-serverless](https://github.com/microsoft/25-days-of-serverless) - Repository responsible for 25 days of Serverless challenges
 - [LiteratureDL4Graph](https://github.com/DeepGraphLearning/LiteratureDL4Graph) - A comprehensive collection of recent papers on graph deep learning
-- [Ultimate-Facebook-Scraper](https://github.com/harismuneer/Ultimate-Facebook-Scraper) - 🤖 A bot that automates your social media interactions to collect posts, photos, videos, interests, friends, followers, and much more on Facebook.
+- [Ultimate-Facebook-Scraper](https://github.com/harismuneer/Ultimate-Facebook-Scraper) - 🤖 A Software that automates your social media interactions to collect posts, photos, videos, interests, friends, followers, and much more on Facebook.
 - [InfoSec-Black-Friday](https://github.com/0x90n/InfoSec-Black-Friday) - All the deals for InfoSec related software/tools this Black Friday
 - [Production-Level-Deep-Learning](https://github.com/alirezadir/Production-Level-Deep-Learning) - A guideline for building practical production-level deep learning systems to be deployed in real world applications.
 - [tvt](https://github.com/deepmind/tvt) - 
@@ -6001,7 +5998,7 @@
 - [awesome-deep-text-detection-recognition](https://github.com/hwalsuklee/awesome-deep-text-detection-recognition) - A curated list of resources for text detection/recognition (optical character recognition ) with deep learning methods.
 - [awesome-lite-websites](https://github.com/mdibaiee/awesome-lite-websites) - A list of awesome lightweight websites without all the bloat
 - [Nodejs-Developer-Roadmap](https://github.com/aliyr/Nodejs-Developer-Roadmap) - A Developer Roadmap to becoming a Node.js developer in 2019
-- [thisrepositorydoesnotexist](https://github.com/paubric/thisrepositorydoesnotexist) - A curated list of awesome projects which use Machine Learning to generate synthetic content.
+- [thisrepositorydoesnotexist](https://github.com/paulbricman/thisrepositorydoesnotexist) - A curated list of awesome projects which use Machine Learning to generate synthetic content.
 - [docker-rl-gym](https://github.com/jaimeps/docker-rl-gym) - A Docker environment for RL & OpenAI Gym
 - [100-days-of-code-frontend](https://github.com/nas5w/100-days-of-code-frontend) - Curriculum for learning front-end development during #100DaysOfCode.
 - [nsfw_data_source_urls](https://github.com/EBazarov/nsfw_data_source_urls) - Collection of NSFW images URLs for the purposes of training an NSFW Image Classifier
@@ -6806,6 +6803,7 @@
 
 ## Python 
 
+- [best-of-python](https://github.com/ml-tooling/best-of-python) - 🏆 A ranked list of awesome Python open-source libraries and tools. Updated weekly.
 - [trankit](https://github.com/nlp-uoregon/trankit) - Trankit is a Light-Weight Transformer-based Python Toolkit for Multilingual Natural Language Processing
 - [FaceX-Zoo](https://github.com/JDAI-CV/FaceX-Zoo) - A PyTorch Toolbox for Face Recognition
 - [Pytorch-Medical-Segmentation](https://github.com/MontaEllis/Pytorch-Medical-Segmentation) - This repository is an unoffical PyTorch implementation of Medical segmentation in 3D and 2D.
@@ -7105,6 +7103,7 @@
 - [stylegan2-distillation](https://github.com/EvgenyKashin/stylegan2-distillation) - 
 - [ppo-pytorch](https://github.com/adik993/ppo-pytorch) - Proximal Policy Optimization(PPO) with Intrinsic Curiosity Module(ICM)
 - [tensorboard](https://github.com/dmlc/tensorboard) - Standalone TensorBoard for visualizing in deep learning
+- [lagrangian_nns](https://github.com/MilesCranmer/lagrangian_nns) - Lagrangian Neural Networks
 - [electra](https://github.com/google-research/electra) - ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators
 - [OpenSeq2Seq](https://github.com/NVIDIA/OpenSeq2Seq) - Toolkit for efficient experimentation with Speech Recognition, Text2Speech and NLP
 - [melgan-neurips](https://github.com/descriptinc/melgan-neurips) - GAN-based Mel-Spectrogram Inversion Network for Text-to-Speech Synthesis
@@ -7356,7 +7355,7 @@
 - [Catalyst-CamVid-Segmentation-Example](https://github.com/BloodAxe/Catalyst-CamVid-Segmentation-Example) - Example of semantic segmentation for CamVid dataset
 - [Catalyst-Inria-Segmentation-Example](https://github.com/BloodAxe/Catalyst-Inria-Segmentation-Example) - An example project showing the power of Catalyst for training segmentation model for Inria Sattelite Segmentation Challenge
 - [greenatom-ml-2019-11](https://github.com/jubbon/greenatom-ml-2019-11) - Source code for Greenatom Hackathon
-- [python-sirajnet](https://github.com/paubric/python-sirajnet) - Using deep complicated NLP to turn your text into my text by arbitrarily swapping words for their synonyms /s
+- [python-sirajnet](https://github.com/paulbricman/python-sirajnet) - Using deep complicated NLP to turn your text into my text by arbitrarily swapping words for their synonyms /s
 - [Deep-Reinforcement-Learning-Hands-On](https://github.com/PacktPublishing/Deep-Reinforcement-Learning-Hands-On) - Hands-on Deep Reinforcement Learning, published by Packt
 - [XlsxWriter](https://github.com/jmcnamara/XlsxWriter) - A Python module for creating Excel XLSX files.
 - [ciso8601](https://github.com/closeio/ciso8601) - Fast ISO8601 date time parser for Python written in C
@@ -7773,6 +7772,7 @@
 - [Machine-Learning-with-Python](https://github.com/devAmoghS/Machine-Learning-with-Python) - Small scale machine learning projects to understand the core concepts . Give a Star 🌟If it helps you. BONUS: Interview Bank coming up..!
 - [nsfw](https://github.com/rockyzhengwu/nsfw) - Suitable for Work (NSFW) classification
 - [LASER](https://github.com/facebookresearch/LASER) - Language-Agnostic SEntence Representations
+- [OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue) - A render management system you can deploy for visual effects and animation productions.
 - [TorchSeg](https://github.com/ycszen/TorchSeg) - Fast, modular reference implementation and easy training of Semantic Segmentation algorithms in PyTorch.
 - [pymapd](https://github.com/omnisci/pymapd) - Python client for OmniSci GPU-accelerated SQL engine and analytics platform
 - [datastore](https://github.com/opentraffic/datastore) - OTv2: centralized ingest and aggregation of anonymous traffic data
@@ -12598,7 +12598,7 @@
 - [goodpractice](https://github.com/MangoTheCat/goodpractice) - Advice on R Package Building
 - [VisualResume](https://github.com/ndphillips/VisualResume) - An R package for creating a visual resume
 - [purrr-tutorial](https://github.com/cwickham/purrr-tutorial) - A introduction to purrr
-- [timevis](https://github.com/daattali/timevis) - Create interactive timeline visualizations in R
+- [timevis](https://github.com/daattali/timevis) - 📅 Create interactive timeline visualizations in R
 - [awesome-network-analysis](https://github.com/briatte/awesome-network-analysis) - A curated list of awesome network analysis resources.
 - [ggbash](https://github.com/caprice-j/ggbash) - A simpler ggplot2 syntax, saving half of your typing.
 - [ggmap](https://github.com/dkahle/ggmap) - A package for plotting maps in R with ggplot2
