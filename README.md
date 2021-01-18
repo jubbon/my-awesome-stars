@@ -2430,7 +2430,6 @@
 - [ai-deadlines](https://github.com/abhshkdz/ai-deadlines) - :alarm_clock: AI conference deadline countdowns
 - [samples](https://github.com/GoogleChrome/samples) - A repo containing samples tied to new functionality in each release of Google Chrome.
 - [docker.github.io](https://github.com/docker/docker.github.io) - Source repo for Docker's Documentation
-- [Sparta](https://github.com/mweagle/Sparta) - go microservices, powered by AWS Lambda
 - [RoutePlanner](https://github.com/Kasheftin/RoutePlanner) - Simple free and open source tool for planning routes
 - [viz-pub](https://github.com/halhen/viz-pub) - A place to publish data-vizes
 - [angular-material-dashboard](https://github.com/wangdicoder/angular-material-dashboard) - A material-design dashboard by using angular
@@ -3670,9 +3669,10 @@
 - [django-vue-simplenote](https://github.com/apirobot/django-vue-simplenote) - 
 - [cfn-api-gateway-custom-domain](https://github.com/jed/cfn-api-gateway-custom-domain) - API Gateway custom domains as CloudFormation resources, backed by Let's Encrypt
 - [examples](https://github.com/serverless/examples) - Serverless Examples – A collection of boilerplates and examples of serverless architectures built with the Serverless Framework on AWS Lambda, Microsoft Azure, Google Cloud Functions, and more.
+- [Sparta](https://github.com/mweagle/Sparta) - go microservices, powered by AWS Lambda
 - [lambda-refarch-webapp](https://github.com/aws-samples/lambda-refarch-webapp) - The Web Application reference architecture is a general-purpose, event-driven, web application back-end that uses AWS Lambda, Amazon API Gateway for its business logic. It also uses Amazon DynamoDB as its database and Amazon Cognito for user management. All static content is hosted using AWS Amplify Console.
 - [sketch-material](https://github.com/websiddu/sketch-material) - Sketch material is a sketch plugin that will help you generate complex material components like tables, chips, forms etc…
-- [vue-axios-example](https://github.com/alanbuchanan/vue-axios-example) - 
+- [vue-axios-example](https://github.com/ror-y/vue-axios-example) - 
 - [vue-numeric](https://github.com/kevinongko/vue-numeric) - Input field component to display a formatted currency value based on Vue.js
 - [poi](https://github.com/egoist/poi) - ⚡A zero-config bundler for JavaScript applications.
 - [vuepack](https://github.com/egoist/vuepack) - :package: A modern starter  which uses Vue 2, Vuex, Vue-router and Webpack 2 (and even Electron)
@@ -6867,7 +6867,7 @@
 - [CenterPoint](https://github.com/tianweiy/CenterPoint) - 
 - [gpt-2](https://github.com/nshepperd/gpt-2) - Code for the paper "Language Models are Unsupervised Multitask Learners"
 - [faiss-wheels](https://github.com/kyamagu/faiss-wheels) - Unofficial faiss wheel builder
-- [faiss-server](https://github.com/daangn/faiss-server) - faiss similarity search server
+- [faiss-server](https://github.com/daangn/faiss-server) - faiss 기반의 벡터 유사 검색 서버
 - [libra](https://github.com/Palashio/libra) - Ergonomic machine learning for everyone.
 - [Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [discord.py](https://github.com/Rapptz/discord.py) - An API wrapper for Discord written in Python.
@@ -8872,7 +8872,7 @@
 - [Color-Tracker](https://github.com/gaborvecsei/Color-Tracker) - Color tracking with OpenCV
 - [flameprof](https://github.com/baverman/flameprof) - Flamegraph generator for cProfile stats
 - [memunit](https://github.com/mschwager/memunit) - A testing library for ensuring memory usage levels in Python.
-- [mitogen](https://github.com/dw/mitogen) - Distributed self-replicating programs in Python
+- [mitogen](https://github.com/mitogen-hq/mitogen) - Distributed self-replicating programs in Python
 - [isnuts](https://github.com/iogf/isnuts) - A naive approach to test python code.
 - [Subscene-Subtitle-Grabber](https://github.com/RafayGhafoor/Subscene-Subtitle-Grabber) - SubGrab is a utility that allows you to automate subtitles downloading for your media files.
 - [grav](https://github.com/epickrram/grav) - Performance visualisation tools
@@ -13328,7 +13328,7 @@
 - [botpress](https://github.com/botpress/botpress) - 🤖 The Conversational Platform with built-in language understanding (NLU), beautiful graphical interface and Dialog Manager (DM). Easily create chatbots and AI-based virtual assistants.
 - [vuetify](https://github.com/vuetifyjs/vuetify) - 🐉 Material Component Framework for Vue
 - [material-components-web](https://github.com/material-components/material-components-web) - Modular and customizable Material Design UI components for the web
-- [rxdb](https://github.com/pubkey/rxdb) - :computer: 🔄 :iphone: A realtime Database for JavaScript Applications
+- [rxdb](https://github.com/pubkey/rxdb) - 🔄 A realtime Database for JavaScript Applications
 - [chartify](https://github.com/kis/chartify) - 📊 📈 📉 React.js plugin for building charts using CSS
 - [cyclejs](https://github.com/cyclejs/cyclejs) - A functional and reactive JavaScript framework for predictable code
 - [md2googleslides](https://github.com/googleworkspace/md2googleslides) - Generate Google Slides from markdown
