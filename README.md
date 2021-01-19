@@ -1716,7 +1716,7 @@
 - [fathom](https://github.com/usefathom/fathom) - Fathom Lite. Simple, privacy-focused website analytics. Built with Golang & Preact.
 - [ppds](https://github.com/shivamMg/ppds) - Pretty Print Data Structures
 - [tor-controller](https://github.com/kragniz/tor-controller) - Run Tor onion services on Kubernetes
-- [pigo](https://github.com/esimov/pigo) - Pure Go face detection, pupil/eyes localization and facial landmark points detection library.
+- [pigo](https://github.com/esimov/pigo) - Fast face detection, pupil/eyes localization and facial landmark points detection library in pure Go.
 - [revive](https://github.com/mgechev/revive) - 🔥 ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint
 - [google-ctf](https://github.com/google/google-ctf) - Google CTF
 - [discovery](https://github.com/bilibili/discovery) - A registry for resilient mid-tier load balancing and failover.
@@ -2879,7 +2879,7 @@
 - [pipedream](https://github.com/PipedreamHQ/pipedream) - Serverless integration and compute platform.  Free for developers.
 - [1920-s2](https://github.com/nus-cs2030/1920-s2) - The website of CS2030, 19/20 Sem 2.
 - [pino](https://github.com/pinojs/pino) - 🌲 super fast, all natural json logger 🌲
-- [30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - 30 days of JavaScript programming challenge is a step by step guide to learn JavaScript programming language in 30 days
+- [30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - 30 days of JavaScript programming challenge is a step by step guide to learn JavaScript programming language in 30 days. This challenge may take up to 100 days, follow your own pace.
 - [city-roads](https://github.com/anvaka/city-roads) - Visualization of all roads within any city
 - [ganlab](https://github.com/poloclub/ganlab) - GAN Lab: An Interactive, Visual Experimentation Tool for Generative Adversarial Networks
 - [manifold](https://github.com/uber/manifold) - A model-agnostic visual debugging tool for machine learning
@@ -3096,7 +3096,7 @@
 - [LambdAuth](https://github.com/danilop/LambdAuth) - A sample authentication service implemented with a server-less architecture, using AWS Lambda to host and execute the code and Amazon DynamoDB as persistent storage. This provides a cost-efficient solution that is scalable and highly available and can be used with Amazon Cognito for Developer Authenticated Identities.
 - [claudia-bot-builder](https://github.com/claudiajs/claudia-bot-builder) - Create chat bots for Facebook Messenger, Slack, Amazon Alexa, Skype, Telegram, Viber, Line, GroupMe, Kik and Twilio and deploy to AWS Lambda in minutes
 - [claudia](https://github.com/claudiajs/claudia) - Deploy Node.js projects to AWS Lambda and API Gateway easily
-- [leaflet.TravelNotes](https://github.com/wwwouaiebe/leaflet.TravelNotes) - Editable markers and routing engine for leaflet
+- [leaflet.TravelNotes](https://github.com/wwwouaiebe/leaflet.TravelNotes) - A complete mapping application. With this, you prepare a complete travel, adding itineraries and personnal notes to the map. When you travel is complete, you can save it to a file, export the itineraries to a gpx files, print the itineraries and a roadbook with the notes and itineraries description.
 - [cms.js](https://github.com/chrisdiana/cms.js) - Client-Side JavaScript Site Generator
 - [serverless-boilerplate](https://github.com/harijoe/serverless-boilerplate) - Minimal yet super-functional serverless boilerplate
 - [imba](https://github.com/imba/imba) - 🐤 The friendly full-stack language
@@ -3414,7 +3414,7 @@
 - [pg-promise](https://github.com/vitaly-t/pg-promise) - PostgreSQL interface for Node.js
 - [bookshelf](https://github.com/bookshelf/bookshelf) - A simple Node.js ORM for PostgreSQL, MySQL and SQLite3 built on top of Knex.js
 - [knex](https://github.com/knex/knex) - A query builder for PostgreSQL, MySQL and SQLite3, designed to be flexible, portable, and fun to use.
-- [sequelize](https://github.com/sequelize/sequelize) - An easy-to-use multi SQL dialect ORM for Node.js
+- [sequelize](https://github.com/sequelize/sequelize) - An easy-to-use multi SQL dialect ORM tool for Node.js
 - [react-app-rewired](https://github.com/timarney/react-app-rewired) - Override create-react-app webpack configs without ejecting
 - [abricotine](https://github.com/brrd/abricotine) - Markdown editor with inline preview
 - [gateway](https://github.com/WebThingsIO/gateway) - WebThings Gateway
@@ -3861,7 +3861,6 @@
 - [CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
 - [RegexHub](https://github.com/lukehaas/RegexHub) - A collection of useful regex patterns
 - [gem](https://github.com/appbaseio/gem) - 💎  GUI for Data Modeling with Elasticsearch
-- [svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
 - [Conversation.js](https://github.com/muaz-khan/Conversation.js) - Conversation.js is inspired by skype; and it provides simple events-like API to manage conversations, enable/disable media devices; add/download files; and do anything supported by Skype. It allows you open data conversation between two or more users using their user-ids.
 - [quiver](https://github.com/keplr-io/quiver) - Interactive convnet features visualization for Keras
 - [csslint](https://github.com/CSSLint/csslint) - Automated linting of Cascading Stylesheets
@@ -4077,7 +4076,7 @@
 - [You-Dont-Know-JS](https://github.com/cezaraugusto/You-Dont-Know-JS) - :green_book::ledger: (PT-BR translation) JS Book Series.
 - [yakbak](https://github.com/flickr/yakbak) - Record and playback HTTP responses
 - [studio](https://github.com/ericholiveira/studio) - A nodejs framework to create decoupled and scalable applications
-- [material-ui](https://github.com/mui-org/material-ui) - React components for faster and simpler web development. Build your own design system, or start with Material Design.
+- [material-ui](https://github.com/mui-org/material-ui) - Material-UI is a simple and customizable component library to build faster, beautiful, and more accessible React applications. Follow your own design system, or start with Material Design.
 - [parse-server](https://github.com/parse-community/parse-server) - API server module for Node/Express
 - [OmniDB](https://github.com/OmniDB/OmniDB) - Web tool for database management
 - [json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
@@ -4406,6 +4405,7 @@
 
 ## Jupyter Notebook 
 
+- [text_expansion](https://github.com/dilyararimovna/text_expansion) - Russian Text Expansion based on ruGPT3Large
 - [recipenlg](https://github.com/Glorf/recipenlg) - Set of scripts and notebooks used to produce results visible in RecipeNLG paper
 - [ArtLine](https://github.com/vijishmadhavan/ArtLine) - A Deep Learning based project for creating line art portraits.
 - [prospr](https://github.com/dellacortelab/prospr) - ProSPr: Protein Structure Prediction
@@ -6517,7 +6517,6 @@
 - [react-functional-css-protips](https://github.com/chibicode/react-functional-css-protips) - :sunglasses: Functional CSS - The Good, The Bad, and Some Protips for React.js Users
 - [awesome-paid-open-source](https://github.com/mrjoelkemp/awesome-paid-open-source) - Collection of links around paid/sustainable open source development
 - [react-fiber-architecture](https://github.com/acdlite/react-fiber-architecture) - A description of React's new core algorithm, React Fiber
-- [ppd599](https://github.com/gboeing/ppd599) - USC urban data science course series with Python and Jupyter
 - [docs](https://github.com/dev-sec/docs) - ⛔ DEPRECATED, migrated to dev-sec/dev-sec.github.io
 - [deepframeworks](https://github.com/zer0n/deepframeworks) - Evaluation of Deep Learning Frameworks
 - [awesome-iot](https://github.com/HQarroum/awesome-iot) - 🤖 A curated list of awesome Internet of Things projects and resources.
@@ -6803,6 +6802,7 @@
 
 ## Python 
 
+- [EasyMocap](https://github.com/zju3dv/EasyMocap) - Make human motion capture easier.
 - [best-of-python](https://github.com/ml-tooling/best-of-python) - 🏆 A ranked list of awesome Python open-source libraries and tools. Updated weekly.
 - [trankit](https://github.com/nlp-uoregon/trankit) - Trankit is a Light-Weight Transformer-based Python Toolkit for Multilingual Natural Language Processing
 - [FaceX-Zoo](https://github.com/JDAI-CV/FaceX-Zoo) - A PyTorch Toolbox for Face Recognition
@@ -7292,7 +7292,7 @@
 - [freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
 - [awspx](https://github.com/FSecureLABS/awspx) - A graph-based tool for visualizing effective access and resource relationships in AWS environments.
 - [EfficientDet](https://github.com/xuannianz/EfficientDet) - EfficientDet (Scalable and Efficient Object Detection)  implementation in Keras and Tensorflow
-- [30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step by step guide to learn Python programming language in 30 days.
+- [30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step by step guide to learn the Python programming language in 30 days. This challenge may take up to 100 days, follow your own pace.
 - [simpletransformers](https://github.com/ThilinaRajapakse/simpletransformers) - Transformers for Classification, NER, QA, Language Modelling, Language Generation, T5, Multi-Modal, and Conversational AI
 - [RDSNet](https://github.com/wangsr126/RDSNet) - implement for paper: "RDSNet: A New Deep Architecture for Reciprocal Object Detection and Instance Segmentation"
 - [batea](https://github.com/delvelabs/batea) - AI-based, context-driven network device ranking
@@ -13085,6 +13085,7 @@
 - [happy-git-with-r](https://github.com/jennybc/happy-git-with-r) - Using Git and GitHub with R, Rstudio, and R Markdown
 - [gt-nlp-class](https://github.com/jacobeisenstein/gt-nlp-class) - Course materials for Georgia Tech CS 4650 and 7650, "Natural Language"
 - [tidy-text-mining](https://github.com/dgrtwo/tidy-text-mining) - Manuscript of the book "Tidy Text Mining with R" by Julia Silge and David Robinson
+- [ppd599](https://github.com/gboeing/ppd599) - USC urban data science course series with Python and Jupyter
 - [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) - The most cited deep learning papers
 - [efficientR](https://github.com/csgillespie/efficientR) - Efficient R programming: a book
 - [depsy-research](https://github.com/ourresearch/depsy-research) - Documentation and research output for Depsy (see https://github.com/impactstory/depsy for source of Depsy itself)
@@ -13330,6 +13331,7 @@
 - [material-components-web](https://github.com/material-components/material-components-web) - Modular and customizable Material Design UI components for the web
 - [rxdb](https://github.com/pubkey/rxdb) - 🔄 A realtime Database for JavaScript Applications
 - [chartify](https://github.com/kis/chartify) - 📊 📈 📉 React.js plugin for building charts using CSS
+- [svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
 - [cyclejs](https://github.com/cyclejs/cyclejs) - A functional and reactive JavaScript framework for predictable code
 - [md2googleslides](https://github.com/googleworkspace/md2googleslides) - Generate Google Slides from markdown
 - [stanza](https://github.com/legastero/stanza) - Modern XMPP, with a JSON API
