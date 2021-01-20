@@ -492,7 +492,7 @@
 - [fmm](https://github.com/cyang-kth/fmm) - Fast map matching, an open source framework in C++
 - [neoml](https://github.com/neoml-lib/neoml) - Machine learning framework for both deep learning and traditional algorithms
 - [xeus-python](https://github.com/jupyter-xeus/xeus-python) - Jupyter kernel for the Python programming language
-- [xeus](https://github.com/jupyter-xeus/xeus) - C++ implementation of the Jupyter kernel protocol
+- [xeus](https://github.com/jupyter-xeus/xeus) - Implementation of the Jupyter kernel protocol in C++
 - [s3fs-fuse](https://github.com/s3fs-fuse/s3fs-fuse) - FUSE-based file system backed by Amazon S3
 - [TurboTransformers](https://github.com/Tencent/TurboTransformers) - a fast and user-friendly runtime for transformer inference (Bert, Albert, GPT2, Decoders, etc) on CPU and GPU.
 - [mindspore](https://github.com/mindspore-ai/mindspore) - MindSpore is a new open source deep learning training/inference framework that could be used for mobile, edge and cloud scenarios.
@@ -1306,6 +1306,7 @@
 - [webgl-heatmap](https://github.com/pyalot/webgl-heatmap) - A high performance WebGL/JS heatmap display library
 - [angular-simple-logger](https://github.com/nmccready/angular-simple-logger) - Basic logger with level logging which can also be independent.
 - [angular-google-maps](https://github.com/angular-ui/angular-google-maps) - AngularJS directives for the Google Maps Javascript API
+- [autocomplete-python](https://github.com/autocomplete-python/autocomplete-python) - Jedi based Python autocomplete for Atom
 - [cloudtunes](https://github.com/jakubroztocil/cloudtunes) - Web-based music player for the cloud :cloud: :notes: Play music from YouTube, Dropbox, etc.
 - [pyregex](https://github.com/rscarvalho/pyregex) - pyregex is a Python Regular Expression Online Tester
 - [butterfly](https://github.com/paradoxxxzero/butterfly) - A web terminal based on websocket and tornado
@@ -1568,7 +1569,7 @@
 - [buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
 - [gotraining](https://github.com/ardanlabs/gotraining) - Go Training Class Material :
 - [go-micro](https://github.com/asim/go-micro) - Go Micro is a framework for distributed systems development
-- [pipeline](https://github.com/tektoncd/pipeline) - A K8s-native Pipeline resource.
+- [pipeline](https://github.com/tektoncd/pipeline) - A cloud-native Pipeline resource.
 - [prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
 - [k3v](https://github.com/ibuildthecloud/k3v) - Virtual Kubernetes
 - [monday](https://github.com/eko/monday) - ⚡️ A dev tool for microservice developers to run local applications and/or forward others from/to Kubernetes SSH or TCP
@@ -2621,6 +2622,7 @@
 - [python-goose](https://github.com/grangier/python-goose) - Html Content / Article Extractor, web scrapping lib in Python
 - [lassie](https://github.com/michaelhelmick/lassie) - Web Content Retrieval for Humans™
 - [rdkit](https://github.com/rdkit/rdkit) - The official sources for the RDKit library
+- [pdoc](https://github.com/mitmproxy/pdoc) - Auto-generate API documentation for Python projects.
 - [mlai](https://github.com/chrisalbon/mlai) - Notes on machine learning and artificial intelligence.
 - [dataviz-course](https://github.com/brandomr/dataviz-course) - A course on data visualization
 - [nyc_taxis](https://github.com/brandomr/nyc_taxis) - 
@@ -4124,7 +4126,7 @@
 - [klassify](https://github.com/fatiherikli/klassify) - Bayesian Text classification service based on Redis and Python/Tornado
 - [cash](https://github.com/dthree/cash) - Cross-platform Linux commands in ES6
 - [react-vis](https://github.com/uber/react-vis) - Data Visualization Components
-- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers
+- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [turf-node-example](https://github.com/Turfjs/turf-node-example) - an example of how to use Turf for a scripting task with node.
 - [Leaflet.label](https://github.com/Leaflet/Leaflet.label) - Leaflet.label is plugin for adding labels to markers & shapes on leaflet powered maps.
 - [leaflet-maskcanvas](https://github.com/domoritz/leaflet-maskcanvas) - A leaflet canvas layer for displaying large coverage data sets
@@ -8047,7 +8049,7 @@
 - [osm-python-tools](https://github.com/mocnik-science/osm-python-tools) - A library to access OpenStreetMap related services
 - [human-pose-estimation.pytorch](https://github.com/microsoft/human-pose-estimation.pytorch) - The project is an official implement of our ECCV2018 paper  "Simple Baselines for Human Pose Estimation and Tracking(https://arxiv.org/abs/1804.06208)"
 - [pyodide](https://github.com/iodide-project/pyodide) - The Python scientific stack, compiled to WebAssembly
-- [book](https://github.com/SystemsApproach/book) - Meta-data and Makefile needed to build the book. Main starting point.
+- [book](https://github.com/SystemsApproach/book) - Main repo for "Computer Networks: A Systems Approach", including everything needed to build the book. Main starting point.
 - [odoo-addons](https://github.com/acysos/odoo-addons) - Addons modules for Odoo
 - [relational-rnn-pytorch](https://github.com/L0SG/relational-rnn-pytorch) - An implementation of DeepMind's Relational Recurrent Neural Networks in PyTorch.
 - [large-scale-curiosity](https://github.com/openai/large-scale-curiosity) - Code for the paper "Large-Scale Study of Curiosity-Driven Learning"
@@ -10569,7 +10571,6 @@
 - [callipy](https://github.com/damiendr/callipy) - Call IPython notebooks with arguments
 - [bookmarkd](https://github.com/ryansb/bookmarkd) - Markdown -&gt; IPython conversion tool
 - [pyzo5](https://github.com/pyzo/pyzo5) - Maybe next gen of Pyzo IDE based on Flexx
-- [autocomplete-python](https://github.com/autocomplete-python/autocomplete-python) - Jedi based Python autocomplete for Atom
 - [scisphinx](https://github.com/numfocus/scisphinx) - Sphinx extensions common to the scientific computing ecosystem.
 - [pythontex](https://github.com/gpoore/pythontex) - A LaTeX package that executes Python and other code in LaTeX documents, and includes the output
 - [python-webpack](https://github.com/markfinger/python-webpack) - Python bindings to webpack
@@ -10617,7 +10618,6 @@
 - [propagator.py](https://github.com/lucastx/propagator.py) - A propagator network in Python, inspired by Radul & Sussman's The Art of the Propagator
 - [netcdf4-python](https://github.com/Unidata/netcdf4-python) - netcdf4-python: python/numpy interface to the netCDF C library
 - [la](https://github.com/kwgoodman/la) - Meet larry, the labeled numpy array
-- [distarray](https://github.com/enthought/distarray) - Distributed NumPy-like arrays, ufuncs, and more.  Think globally, act locally.
 - [datarray](https://github.com/BIDS/datarray) - Prototyping numpy arrays with named axes for data management.
 - [PyMarkovChain](https://github.com/TehMillhouse/PyMarkovChain) - Simple markov chain implementation in python
 - [canvas](https://github.com/canvasnetworks/canvas) - Canv.as backend and frontend
@@ -10821,7 +10821,6 @@
 - [cement](https://github.com/datafolklabs/cement) - Application Framework for Python
 - [python-decouple](https://github.com/henriquebastos/python-decouple) - Strict separation of config from code.
 - [pycco](https://github.com/pycco-docs/pycco) - Literate-style documentation generator.
-- [pdoc](https://github.com/mitmproxy/pdoc) - Auto-generate API documentation for Python projects.
 - [langid.py](https://github.com/saffsd/langid.py) - Stand-alone language identification system
 - [unp](https://github.com/mitsuhiko/unp) - Unpacks things.
 - [markdown](https://github.com/Python-Markdown/markdown) - A Python implementation of John Gruber’s Markdown with Extension support.
@@ -13514,7 +13513,6 @@
 - [Align](https://github.com/dendoink/Align) - a single static blog generater use vue components and markdown files
 - [robotframework.github.com](https://github.com/robotframework/robotframework.github.com) - Robot Framework ecosystem from page
 - [gitlab-monitor](https://github.com/timoschwarzer/gitlab-monitor) - A web-based monitor dashboard for GitLab CI
-- [ebbx](https://github.com/ebb-io/ebbx) - A Vue.js project that powers a certain magical website
 - [vue-clamp](https://github.com/Justineo/vue-clamp) - Clamping multiline text with ease.
 - [formvuelar](https://github.com/janiskelemen/formvuelar) - Vue form components with server-side validation in mind
 - [vue](https://github.com/redtubelabs/vue) - Touch yourself on the Vue way.
