@@ -180,7 +180,7 @@
 - [dsvpn](https://github.com/jedisct1/dsvpn) - A Dead Simple VPN.
 - [quickjs](https://github.com/horhof/quickjs) - The official repo is at bellard/quickjs.
 - [TDengine](https://github.com/taosdata/TDengine) - An open-source big data platform designed and optimized for the Internet of Things (IoT).
-- [core](https://github.com/metacall/core) - A library for providing inter-language foreign function interface calls.
+- [core](https://github.com/metacall/core) - MetaCall: The ultimate polyglot programming experience.
 - [blurhash](https://github.com/woltapp/blurhash) - A very compact representation of a placeholder for an image.
 - [h3-go](https://github.com/uber/h3-go) - Go bindings for H3, a hierarchical hexagonal geospatial indexing system
 - [skynet](https://github.com/cloudwu/skynet) - A lightweight online game framework
@@ -455,6 +455,7 @@
 ## C# # 
 
 - [acr-tasks](https://github.com/Azure-Samples/acr-tasks) - A collection samples for ACR Tasks, including acr-task.yaml and Dockerfiles.
+- [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [Microsoft-Rocketbox](https://github.com/microsoft/Microsoft-Rocketbox) - Microsoft Rocketbox is now available for research and academic use! The library of 115 rigged avatars offers flexibility, enabling the easy use of facial animations across characters and the mixing and matching of texture elements.
 - [v3](https://github.com/exercism/v3) - The work-in-progress project for developing v3 tracks
 - [furniture](https://github.com/clvrai/furniture) - IKEA Furniture Assembly Environment for Long-Horizon Complex Manipulation Tasks
@@ -505,7 +506,6 @@
 - [snappy](https://github.com/google/snappy) - A fast compressor/decompressor
 - [InsectRobotSimulation](https://github.com/neuroprod/InsectRobotSimulation) - hexapod
 - [SeetaFace6](https://github.com/seetafaceengine/SeetaFace6) - SeetaFace 6: Newest open and free, full stack face recognization toolkit.
-- [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [domoticz](https://github.com/domoticz/domoticz) - Open source Home Automation System
 - [subconverter](https://github.com/tindy2013/subconverter) - Utility to convert between various subscription format
 - [minetest](https://github.com/minetest/minetest) - Minetest is an open source voxel game engine with easy modding and game creation
@@ -2862,7 +2862,7 @@
 - [jsdoc](https://github.com/jsdoc/jsdoc) - An API documentation generator for JavaScript.
 - [vscode-plugin](https://github.com/kiteco/vscode-plugin) - Kite Autocomplete Plugin for Visual Studio Code
 - [express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
-- [tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 950 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 1250 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [lime](https://github.com/marcotcr/lime) - Lime: Explaining the predictions of any machine learning classifier
 - [botframework-sdk](https://github.com/microsoft/botframework-sdk) - Bot Framework provides the most comprehensive experience for building conversation applications.
 - [uuid](https://github.com/lukeed/uuid) - A tiny (~230B)and fast UUID (V4) generator for Node and the browser
@@ -4407,6 +4407,7 @@
 
 ## Jupyter Notebook 
 
+- [evidently](https://github.com/evidentlyai/evidently) - Interactive reports to analyze machine learning models during validation or production monitoring.
 - [text_expansion](https://github.com/dilyararimovna/text_expansion) - Russian Text Expansion based on ruGPT3Large
 - [recipenlg](https://github.com/Glorf/recipenlg) - Set of scripts and notebooks used to produce results visible in RecipeNLG paper
 - [ArtLine](https://github.com/vijishmadhavan/ArtLine) - A Deep Learning based project for creating line art portraits.
@@ -10327,7 +10328,7 @@
 - [syncer](https://github.com/miyakogi/syncer) - Async to sync converter
 - [BloomFilter](https://github.com/m00dy/BloomFilter) - BloomFilter in python
 - [draw](https://github.com/ericjang/draw) - TensorFlow Implementation of "DRAW: A Recurrent Neural Network For Image Generation"
-- [bytecode](https://github.com/vstinner/bytecode) - Python module to modify bytecode
+- [bytecode](https://github.com/MatthieuDartiailh/bytecode) - Python module to modify bytecode
 - [jshint-scanner](https://github.com/chrisspen/jshint-scanner) - 
 - [pygemony](https://github.com/Ianleeclark/pygemony) - Python: A tool written to parse files for "TODO" and to raise an issue in the github repository with the todo message.
 - [awesome-cheatsheet](https://github.com/detailyang/awesome-cheatsheet) - :beers: awesome cheatsheet
