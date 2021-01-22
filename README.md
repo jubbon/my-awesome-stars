@@ -455,7 +455,6 @@
 ## C# # 
 
 - [acr-tasks](https://github.com/Azure-Samples/acr-tasks) - A collection samples for ACR Tasks, including acr-task.yaml and Dockerfiles.
-- [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [Microsoft-Rocketbox](https://github.com/microsoft/Microsoft-Rocketbox) - Microsoft Rocketbox is now available for research and academic use! The library of 115 rigged avatars offers flexibility, enabling the easy use of facial animations across characters and the mixing and matching of texture elements.
 - [v3](https://github.com/exercism/v3) - The work-in-progress project for developing v3 tracks
 - [furniture](https://github.com/clvrai/furniture) - IKEA Furniture Assembly Environment for Long-Horizon Complex Manipulation Tasks
@@ -502,10 +501,11 @@
 - [rpcs3](https://github.com/RPCS3/rpcs3) - PS3 emulator/debugger
 - [onnx-tensorrt](https://github.com/onnx/onnx-tensorrt) - ONNX-TensorRT: TensorRT backend for ONNX
 - [xbmc](https://github.com/xbmc/xbmc) - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS and Windows.
-- [graph-learn](https://github.com/alibaba/graph-learn) - graph-learn
+- [graph-learn](https://github.com/alibaba/graph-learn) - An Industrial Graph Neural Network Framework
 - [snappy](https://github.com/google/snappy) - A fast compressor/decompressor
 - [InsectRobotSimulation](https://github.com/neuroprod/InsectRobotSimulation) - hexapod
 - [SeetaFace6](https://github.com/seetafaceengine/SeetaFace6) - SeetaFace 6: Newest open and free, full stack face recognization toolkit.
+- [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [domoticz](https://github.com/domoticz/domoticz) - Open source Home Automation System
 - [subconverter](https://github.com/tindy2013/subconverter) - Utility to convert between various subscription format
 - [minetest](https://github.com/minetest/minetest) - Minetest is an open source voxel game engine with easy modding and game creation
@@ -3812,7 +3812,7 @@
 - [micro-github](https://github.com/mxstbr/micro-github) - A tiny microservice that makes adding authentication with GitHub to your application easy.
 - [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - :bathtub: Clean Code concepts adapted for JavaScript
 - [volkswagen](https://github.com/auchenberg/volkswagen) - :see_no_evil: Volkswagen detects when your tests are being run in a CI server, and makes them pass.
-- [Lepton](https://github.com/hackjutsu/Lepton) - 💻    Democratizing Snippet Management (macOS/Win/Linux)
+- [Lepton](https://github.com/hackjutsu/Lepton) - 💻     Democratizing Snippet Management (macOS/Win/Linux)
 - [DejaVue](https://github.com/MiCottOn/DejaVue) - Visualization and debugging tool built for Vue.js
 - [reactivemaps](https://github.com/appbaseio/reactivemaps) - A data aware UI components library for building realtime maps
 - [mnemonist](https://github.com/Yomguithereal/mnemonist) - Curated collection of data structures for the JavaScript/TypeScript language.
@@ -4407,6 +4407,7 @@
 
 ## Jupyter Notebook 
 
+- [wavelet_networks](https://github.com/dwromero/wavelet_networks) - Code repository of the paper "Wavelet Networks: Scale Equivariant Learning From Raw Waveforms"  https://arxiv.org/abs/2006.05259
 - [evidently](https://github.com/evidentlyai/evidently) - Interactive reports to analyze machine learning models during validation or production monitoring.
 - [text_expansion](https://github.com/dilyararimovna/text_expansion) - Russian Text Expansion based on ruGPT3Large
 - [recipenlg](https://github.com/Glorf/recipenlg) - Set of scripts and notebooks used to produce results visible in RecipeNLG paper
@@ -6805,6 +6806,7 @@
 
 ## Python 
 
+- [momentum2-teacher](https://github.com/zengarden/momentum2-teacher) - Implementation of momentum^2 teacher
 - [EasyMocap](https://github.com/zju3dv/EasyMocap) - Make human motion capture easier.
 - [best-of-python](https://github.com/ml-tooling/best-of-python) - 🏆 A ranked list of awesome Python open-source libraries and tools. Updated weekly.
 - [trankit](https://github.com/nlp-uoregon/trankit) - Trankit is a Light-Weight Transformer-based Python Toolkit for Multilingual Natural Language Processing
@@ -9750,7 +9752,7 @@
 - [garden.mapview](https://github.com/kivy-garden/garden.mapview) - Migrated to https://github.com/kivy-garden/mapview
 - [flask-scaffold](https://github.com/realpython/flask-scaffold) - 
 - [mr.bob](https://github.com/domenkozar/mr.bob) - Mister Bob (the builder) is filesystem template renderer
-- [redis-collections](https://github.com/honzajavorek/redis-collections) - Set of basic Python collections backed by Redis
+- [redis-collections](https://github.com/redis-collections/redis-collections) - Set of basic Python collections backed by Redis
 - [parse](https://github.com/r1chardj0n3s/parse) - Parse strings using a specification based on the Python format() syntax.
 - [validr](https://github.com/guyskk/validr) - A simple, fast, extensible python library for data validation.
 - [dist-keras](https://github.com/cerndb/dist-keras) - Distributed Deep Learning, with a focus on distributed training, using Keras and Apache Spark.
@@ -11219,7 +11221,7 @@
 - [spiderfoot](https://github.com/smicallef/spiderfoot) - SpiderFoot automates OSINT collection so that you can focus on analysis.
 - [django-defender](https://github.com/jazzband/django-defender) - A simple super fast django reusable app that blocks people from brute forcing login attempts
 - [muffin](https://github.com/klen/muffin) - Muffin is a fast, simple and asyncronous web-framework for Python 3
-- [django-hijack](https://github.com/arteria/django-hijack) - With Django Hijack, admins can log in and work on behalf of other users without having to know their credentials.
+- [django-hijack](https://github.com/django-hijack/django-hijack) - With Django Hijack, admins can log in and work on behalf of other users without having to know their credentials.
 - [platter](https://github.com/mitsuhiko/platter) - A useful helper for wheel deployments.
 - [matplotlib_for_papers](https://github.com/jbmouret/matplotlib_for_papers) - Handout for the tutorial "Creating publication-quality figures with matplotlib"
 - [WeasyPrint](https://github.com/Kozea/WeasyPrint) - The awesome document factory
