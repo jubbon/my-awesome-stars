@@ -210,7 +210,7 @@
 - [litetree](https://github.com/aergoio/litetree) - SQLite with Branches
 - [upx](https://github.com/upx/upx) - UPX - the Ultimate Packer for eXecutables
 - [OSCPRepo](https://github.com/rewardone/OSCPRepo) - A list of commands, scripts, resources, and more that I have gathered and attempted to consolidate for use as OSCP (and more) study material. Commands in 'Usefulcommands' Keepnote. Bookmarks and reading material in 'BookmarkList' CherryTree. Reconscan Py2 and Py3. Custom ISO building.
-- [graphd](https://github.com/google/graphd) - The Metaweb graph repository server
+- [graphd](https://github.com/googlearchive/graphd) - The Metaweb graph repository server
 - [V-EZ](https://github.com/GPUOpen-LibrariesAndSDKs/V-EZ) - 
 - [Craft](https://github.com/fogleman/Craft) - A simple Minecraft clone written in C using modern OpenGL (shaders).
 - [hstr](https://github.com/dvorka/hstr) - bash and zsh shell history suggest box - easily view, navigate, search and manage your command history.
@@ -2622,7 +2622,6 @@
 - [python-goose](https://github.com/grangier/python-goose) - Html Content / Article Extractor, web scrapping lib in Python
 - [lassie](https://github.com/michaelhelmick/lassie) - Web Content Retrieval for Humans™
 - [rdkit](https://github.com/rdkit/rdkit) - The official sources for the RDKit library
-- [pdoc](https://github.com/mitmproxy/pdoc) - Auto-generate API documentation for Python projects.
 - [mlai](https://github.com/chrisalbon/mlai) - Notes on machine learning and artificial intelligence.
 - [dataviz-course](https://github.com/brandomr/dataviz-course) - A course on data visualization
 - [nyc_taxis](https://github.com/brandomr/nyc_taxis) - 
@@ -2911,7 +2910,6 @@
 - [joi](https://github.com/sideway/joi) - The most powerful data validation library for JS
 - [node-red](https://github.com/node-red/node-red) - Low-code programming for event-driven applications
 - [uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
-- [api-platform](https://github.com/api-platform/api-platform) - REST and GraphQL framework to build modern API-driven projects (server-side and client-side)
 - [Hygieia](https://github.com/Hygieia/Hygieia) - CapitalOne  DevOps Dashboard
 - [Fomantic-UI](https://github.com/fomantic/Fomantic-UI) - Fomantic-UI is a community fork of Semantic-UI
 - [iptv](https://github.com/iptv-org/iptv) - Collection of 5000+ publicly available IPTV channels from all over the world
@@ -3259,7 +3257,7 @@
 - [microstates](https://github.com/thefrontside/microstates) - Composable state primitives for JavaScript
 - [carbon-now-cli](https://github.com/mixn/carbon-now-cli) - 🎨 Beautiful images of your code — from right inside your terminal.
 - [react-developer-roadmap](https://github.com/adam-golab/react-developer-roadmap) - Roadmap to becoming a React developer
-- [breezy-pdf-lite](https://github.com/danielwestendorf/breezy-pdf-lite) - Simplified, self-hosted, version of breezypdf.com. HTML/CSS/JS in, PDF out, via Chrome
+- [breezy-pdf-lite](https://github.com/danielwestendorf/breezy-pdf-lite) - HTML/CSS/JS in, PDF out, via Chrome
 - [xgplayer](https://github.com/bytedance/xgplayer) - A HTML5 video player with a parser that saves traffic
 - [just-api](https://github.com/kiranz/just-api) - :boom: Test REST, GraphQL APIs
 - [rest-hapi](https://github.com/JKHeadley/rest-hapi) - 🚀 A RESTful API generator for Node.js
@@ -3419,7 +3417,6 @@
 - [sequelize](https://github.com/sequelize/sequelize) - An easy-to-use multi SQL dialect ORM tool for Node.js
 - [react-app-rewired](https://github.com/timarney/react-app-rewired) - Override create-react-app webpack configs without ejecting
 - [abricotine](https://github.com/brrd/abricotine) - Markdown editor with inline preview
-- [gateway](https://github.com/WebThingsIO/gateway) - WebThings Gateway
 - [perspective](https://github.com/finos/perspective) - Streaming pivot visualization via WebAssembly
 - [hygen](https://github.com/jondot/hygen) - The simple, fast, and scalable code generator that lives in your project.
 - [automerge](https://github.com/automerge/automerge) - A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.
@@ -3998,7 +3995,7 @@
 - [node-rdkafka](https://github.com/Blizzard/node-rdkafka) - Node.js bindings for librdkafka
 - [rekit](https://github.com/rekit/rekit) - IDE and toolkit for building scalable web applications with React, Redux and React-router
 - [async-to-gen](https://github.com/leebyron/async-to-gen) - ⌛ Use async functions in your JavaScript today with speed and simplicity.
-- [react-native-web](https://github.com/necolas/react-native-web) - React Native for Web
+- [react-native-web](https://github.com/necolas/react-native-web) - React Native Components and APIs for the Web
 - [react-server](https://github.com/redfin/react-server) - :rocket: Blazing fast page load and seamless navigation.
 - [cinnamon-pomodoro](https://github.com/gfreeau/cinnamon-pomodoro) - 
 - [NG6-starter](https://github.com/PatrickJS/NG6-starter) - :ng: An AngularJS Starter repo for AngularJS + ES6 + Webpack
@@ -7019,7 +7016,7 @@
 - [spacy-transformers](https://github.com/explosion/spacy-transformers) - 🛸 Use pretrained transformers like BERT, XLNet and GPT-2 in spaCy
 - [thinc](https://github.com/explosion/thinc) - 🔮 A refreshing functional take on deep learning, compatible with your favorite libraries
 - [pytorch-optimizer](https://github.com/jettify/pytorch-optimizer) - torch-optimizer -- collection of optimizers for Pytorch
-- [ckan](https://github.com/ckan/ckan) - CKAN is an open-source DMS (data management system) for powering data hubs and data portals. CKAN makes it easy to publish, share and use data. It powers catalog.data.gov, europeandataportal.eu/data, data.humdata.org among many other sites.
+- [ckan](https://github.com/ckan/ckan) - CKAN is an open-source DMS (data management system) for powering data hubs and data portals. CKAN makes it easy to publish, share and use data. It powers catalog.data.gov, open.canada.ca/data, data.humdata.org among many other sites.
 - [universal_robot](https://github.com/ros-industrial/universal_robot) - ROS-Industrial Universal Robots support (http://wiki.ros.org/universal_robot)
 - [BERT-BiLSTM-CRF-NER](https://github.com/macanv/BERT-BiLSTM-CRF-NER) - Tensorflow solution of NER task Using BiLSTM-CRF model with Google BERT Fine-tuning And private Server services
 - [spack](https://github.com/spack/spack) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers.
@@ -8197,7 +8194,7 @@
 - [darts](https://github.com/quark0/darts) - Differentiable architecture search for convolutional and recurrent networks
 - [NLP-progress](https://github.com/sebastianruder/NLP-progress) - Repository to track the progress in Natural Language Processing (NLP), including the datasets and the current state-of-the-art for the most common NLP tasks.
 - [nonoCAPTCHA](https://github.com/mikeyy/nonoCAPTCHA) - An asynchronized Python library to automate solving ReCAPTCHA v2 using audio
-- [pyod](https://github.com/yzhao062/pyod) - A Python Toolbox for Scalable Outlier Detection (Anomaly Detection)
+- [pyod](https://github.com/yzhao062/pyod) - (JMLR'19) A Python Toolbox for Scalable Outlier Detection (Anomaly Detection)
 - [m00dbot](https://github.com/dizballanze/m00dbot) - Telegram bot for self-testing of anxiety and depression
 - [supervision-by-registration](https://github.com/facebookresearch/supervision-by-registration) - Supervision-by-Registration: An Unsupervised Approach to Improve the Precision of Facial Landmark Detectors
 - [masonite](https://github.com/MasoniteFramework/masonite) - The Modern And Developer Centric Python Web Framework. Be sure to read the documentation and join the Slack channel questions: http://slack.masoniteproject.com
@@ -10450,7 +10447,7 @@
 - [pyosm](https://github.com/iandees/pyosm) - A Python library for parsing OSM streams.
 - [docker-graphite-statsd](https://github.com/hopsoft/docker-graphite-statsd) - Docker image for Graphite & Statsd
 - [synthesize](https://github.com/obfuscurity/synthesize) - Easy installer for Graphite and StatsD
-- [pygogo](https://github.com/reubano/pygogo) - A Python logging library with super powers
+- [pygogo](https://github.com/reubano/pygogo) - A Python logging library with superpowers
 - [CRCN](https://github.com/cesc-park/CRCN) - Coherence + Recurrent Neural Network +  Convolutional Neural Network
 - [fpage](https://github.com/fy0/fpage) - Tornado project generator. Start a project with tornado, mako/jinjia2 and sqlalchemy/peewee in a minute.
 - [numexpr](https://github.com/pydata/numexpr) - Fast numerical array expression evaluator for Python, NumPy, PyTables, pandas, bcolz and more
@@ -10526,9 +10523,9 @@
 - [sssgen](https://github.com/edmund-huber/sssgen) - simple static site generator
 - [prettytensor](https://github.com/google/prettytensor) - Pretty Tensor: Fluent Networks in TensorFlow
 - [braindump](https://github.com/levlaz/braindump) - BrainDump is a simple, powerful, and open note taking platform that makes it easy to organize your life.
-- [zerodb-server](https://github.com/zerodb/zerodb-server) - ZeroDB server and client-side example of using it
+- [zerodb-server](https://github.com/nucypher/zerodb-server) - ZeroDB server and client-side example of using it
 - [acme-nosudo](https://github.com/diafygi/acme-nosudo) - Free HTTPS certificates without having to trust the letsencrypt cli with sudo/root
-- [zerodb](https://github.com/zerodb/zerodb) - *This project is no longer actively maintained. If you'd like to become the maintainer, please let us know.* ZeroDB is an end-to-end encrypted database. Data can be stored and queried on untrusted database servers without ever exposing the encryption key. Clients can execute remote queries against the encrypted data without downloading all of it or suffering an excessive performance hit.
+- [zerodb](https://github.com/nucypher/zerodb) - *This project is no longer actively maintained. If you'd like to become the maintainer, please let us know.* ZeroDB is an end-to-end encrypted database. Data can be stored and queried on untrusted database servers without ever exposing the encryption key. Clients can execute remote queries against the encrypted data without downloading all of it or suffering an excessive performance hit.
 - [tcollector](https://github.com/OpenTSDB/tcollector) - Data collection framework for OpenTSDB
 - [whisper](https://github.com/graphite-project/whisper) - Whisper is a file-based time-series database format for Graphite.
 - [microservices](https://github.com/umermansoor/microservices) - Example of Microservices written using Flask.
@@ -10824,6 +10821,7 @@
 - [cement](https://github.com/datafolklabs/cement) - Application Framework for Python
 - [python-decouple](https://github.com/henriquebastos/python-decouple) - Strict separation of config from code.
 - [pycco](https://github.com/pycco-docs/pycco) - Literate-style documentation generator.
+- [pdoc](https://github.com/mitmproxy/pdoc) - Auto-generate API documentation for Python projects.
 - [langid.py](https://github.com/saffsd/langid.py) - Stand-alone language identification system
 - [unp](https://github.com/mitsuhiko/unp) - Unpacks things.
 - [markdown](https://github.com/Python-Markdown/markdown) - A Python implementation of John Gruber’s Markdown with Extension support.
@@ -13129,6 +13127,7 @@
 - [gistpad](https://github.com/codespaces-contrib/gistpad) - VS Code extension for managing and sharing code snippets, notes and interactive samples using GitHub Gists
 - [cvat](https://github.com/openvinotoolkit/cvat) - Powerful and efficient Computer Vision Annotation Tool (CVAT)
 - [tfjs-models](https://github.com/tensorflow/tfjs-models) - Pretrained models for TensorFlow.js
+- [api-platform](https://github.com/api-platform/api-platform) - REST and GraphQL framework to build modern API-driven projects (server-side and client-side)
 - [vue-next](https://github.com/vuejs/vue-next) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 - [microsoft-authentication-library-for-js](https://github.com/AzureAD/microsoft-authentication-library-for-js) - Microsoft Authentication Library (MSAL) for JS
 - [typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
@@ -13256,6 +13255,7 @@
 - [propel](https://github.com/propelml/propel) - Differential Programming in JavaScript.
 - [kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
 - [node-pg-migrate](https://github.com/salsita/node-pg-migrate) - Node.js database migration management for Postgresql
+- [gateway](https://github.com/WebThingsIO/gateway) - WebThings Gateway
 - [tsed](https://github.com/TypedProject/tsed) - :triangular_ruler:  Ts.ED is a Node.js and TypeScript framework on top of Express to write your application with TypeScript (or ES6). It provides a lot of decorators and guideline to make your code more readable and less error-prone.
 - [tasktimer](https://github.com/onury/tasktimer) - An accurate timer utility for running periodic tasks on the given interval ticks or dates. (Node and Browser)
 - [vue-promised](https://github.com/posva/vue-promised) - 💝 Promises as components
