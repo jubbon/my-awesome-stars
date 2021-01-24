@@ -2720,6 +2720,7 @@
 - [flutter_boost](https://github.com/alibaba/flutter_boost) - FlutterBoost is a Flutter plugin which enables hybrid integration of Flutter for your existing native apps with minimum efforts
 - [fission-workflow-sample](https://github.com/fission/fission-workflow-sample) - A simple carpool application built using Fission Workflows
 - [dynamodb-janusgraph-storage-backend](https://github.com/awslabs/dynamodb-janusgraph-storage-backend) - The Amazon DynamoDB Storage Backend for JanusGraph
+- [OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue) - A render management system you can deploy for visual effects and animation productions.
 - [gtfs-realtime-validator](https://github.com/CUTR-at-USF/gtfs-realtime-validator) - Java-based tool that validates General Transit Feed Specification (GTFS)-realtime feeds
 - [aws-sam-java-rest](https://github.com/aws-samples/aws-sam-java-rest) - A sample REST application built on SAM and DynamoDB that demonstrates testing with DynamoDB Local.
 - [dynamodb-geo](https://github.com/amazon-archives/dynamodb-geo) - 
@@ -3227,7 +3228,7 @@
 - [luma.gl](https://github.com/visgl/luma.gl) - High-performance Toolkit for WebGL-based Data Visualization
 - [traffic-simulation-cluj-napoca](https://github.com/MarcusGitAccount/traffic-simulation-cluj-napoca) - Prototyping a traffic simulator for Cluj-Napoca using html5 canvas and a lot of maths and basic AI.
 - [Leaflet.FreeDraw](https://github.com/Wildhoney/Leaflet.FreeDraw) - :earth_asia: FreeDraw allows the free-hand drawing of shapes on your Leaflet.js map layer – providing an intuitive and familiar UX for creating geospatial boundaries similar to Zoopla and others. Included out-of-the-box is the concaving of polygons, polygon merging and simplifying, as well as the ability to add edges and modify existing shapes.
-- [WebODM](https://github.com/OpenDroneMap/WebODM) - User-friendly, commercial grade software for processing aerial imagery. 🛩
+- [WebODM](https://github.com/OpenDroneMap/WebODM) - User-friendly, commercial-grade software for processing aerial imagery. 🛩
 - [supercluster](https://github.com/mapbox/supercluster) - A very fast geospatial point clustering library for browsers and Node.
 - [eon-map](https://github.com/pubnub/eon-map) - Realtime maps with PubNub and MapBox.
 - [simplebar](https://github.com/Grsmto/simplebar) - Custom scrollbars vanilla javascript library with native scroll, done simple, lightweight, easy to use and cross-browser.
@@ -7774,7 +7775,6 @@
 - [Machine-Learning-with-Python](https://github.com/devAmoghS/Machine-Learning-with-Python) - Small scale machine learning projects to understand the core concepts . Give a Star 🌟If it helps you. BONUS: Interview Bank coming up..!
 - [nsfw](https://github.com/rockyzhengwu/nsfw) - Suitable for Work (NSFW) classification
 - [LASER](https://github.com/facebookresearch/LASER) - Language-Agnostic SEntence Representations
-- [OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue) - A render management system you can deploy for visual effects and animation productions.
 - [TorchSeg](https://github.com/ycszen/TorchSeg) - Fast, modular reference implementation and easy training of Semantic Segmentation algorithms in PyTorch.
 - [pymapd](https://github.com/omnisci/pymapd) - Python client for OmniSci GPU-accelerated SQL engine and analytics platform
 - [datastore](https://github.com/opentraffic/datastore) - OTv2: centralized ingest and aggregation of anonymous traffic data
