@@ -1078,6 +1078,7 @@
 - [30-seconds-of-css](https://github.com/30-seconds/30-seconds-of-css) - Short CSS code snippets for all your development needs
 - [serverboards](https://github.com/serverboards/serverboards) - Serverboards is a microservices based service monitoring, alerting and management system.
 - [CSS-Keylogging](https://github.com/maxchehab/CSS-Keylogging) - Chrome extension and Express server that exploits keylogging abilities of CSS.
+- [scratches](https://github.com/heapwolf/scratches) - A scratchpad with node & browser apis.
 - [lit](https://github.com/ajusa/lit) - World's smallest responsive 🔥 css framework (395 bytes)
 - [direction-reveal](https://github.com/NigelOToole/direction-reveal) - Direction aware content reveals via hover or tab on an element.
 - [SocialFish](https://github.com/UndeadSec/SocialFish) - Automated Phishing Tool & Information Collector
@@ -1667,7 +1668,7 @@
 - [kubespy](https://github.com/pulumi/kubespy) - Tools for observing Kubernetes resources in real time, powered by Pulumi.
 - [TarsGo](https://github.com/TarsCloud/TarsGo) - A  high performance microservice  framework  in golang. A linux foundation project.
 - [arduino-cli](https://github.com/arduino/arduino-cli) - Arduino command line tool
-- [devspace](https://github.com/devspace-cloud/devspace) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
+- [devspace](https://github.com/loft-sh/devspace) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
 - [gorm](https://github.com/go-gorm/gorm) - The fantastic ORM library for Golang, aims to be developer friendly
 - [pdfcpu](https://github.com/pdfcpu/pdfcpu) - A PDF processor written in Go.
 - [sso](https://github.com/buzzfeed/sso) - sso, aka S.S.Octopus, aka octoboi, is a single sign-on solution for securing internal services
@@ -2881,7 +2882,7 @@
 - [pipedream](https://github.com/PipedreamHQ/pipedream) - Serverless integration and compute platform.  Free for developers.
 - [1920-s2](https://github.com/nus-cs2030/1920-s2) - The website of CS2030, 19/20 Sem 2.
 - [pino](https://github.com/pinojs/pino) - 🌲 super fast, all natural json logger 🌲
-- [30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - 30 days of JavaScript programming challenge is a step by step guide to learn JavaScript programming language in 30 days. This challenge may take up to 100 days, follow your own pace.
+- [30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - 30 days of JavaScript programming challenge is a step by step guide to learn JavaScript programming language in 30 days. This challenge may take up to 100 days,  please just follow your own pace.
 - [city-roads](https://github.com/anvaka/city-roads) - Visualization of all roads within any city
 - [ganlab](https://github.com/poloclub/ganlab) - GAN Lab: An Interactive, Visual Experimentation Tool for Generative Adversarial Networks
 - [manifold](https://github.com/uber/manifold) - A model-agnostic visual debugging tool for machine learning
@@ -3187,7 +3188,7 @@
 - [idlize](https://github.com/GoogleChromeLabs/idlize) - Helper classes and methods for implementing the idle-until-urgent pattern
 - [vue-context](https://github.com/rawilk/vue-context) - A simple vue context menu component.
 - [taiko](https://github.com/getgauge/taiko) - A node.js library for testing modern web applications
-- [highway](https://github.com/Dogstudio/highway) - Highway - A Modern Javascript Transitions Manager
+- [Highway](https://github.com/Dogstudio/Highway) - Highway - A Modern Javascript Transitions Manager
 - [sqorn](https://github.com/sqorn/sqorn) - A Javascript library for building SQL queries
 - [pwa](https://github.com/lukeed/pwa) - (WIP) Universal PWA Builder
 - [reminiscence](https://github.com/kanishka-linux/reminiscence) - Self-Hosted Bookmark And Archive Manager
@@ -3394,7 +3395,6 @@
 - [headless-chrome-crawler](https://github.com/yujiosaka/headless-chrome-crawler) - Distributed crawler powered by Headless Chrome
 - [swag-for-dev](https://github.com/swapagarwal/swag-for-dev) - 😎 swag opportunities for developers
 - [velocity](https://github.com/julianshapiro/velocity) - Accelerated JavaScript animation.
-- [scratches](https://github.com/heapwolf/scratches) - A scratchpad with node & browser apis.
 - [metallb](https://github.com/metallb/metallb) - A network load-balancer implementation for Kubernetes using standard routing protocols
 - [min](https://github.com/minbrowser/min) - A fast, minimal browser that protects your privacy
 - [unstated](https://github.com/jamiebuilds/unstated) - State so simple, it goes without saying
