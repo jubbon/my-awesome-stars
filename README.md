@@ -455,6 +455,7 @@
 ## C# # 
 
 - [acr-tasks](https://github.com/Azure-Samples/acr-tasks) - A collection samples for ACR Tasks, including acr-task.yaml and Dockerfiles.
+- [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [Microsoft-Rocketbox](https://github.com/microsoft/Microsoft-Rocketbox) - Microsoft Rocketbox is now available for research and academic use! The library of 115 rigged avatars offers flexibility, enabling the easy use of facial animations across characters and the mixing and matching of texture elements.
 - [v3](https://github.com/exercism/v3) - The work-in-progress project for developing v3 tracks
 - [furniture](https://github.com/clvrai/furniture) - IKEA Furniture Assembly Environment for Long-Horizon Complex Manipulation Tasks
@@ -505,7 +506,6 @@
 - [snappy](https://github.com/google/snappy) - A fast compressor/decompressor
 - [InsectRobotSimulation](https://github.com/neuroprod/InsectRobotSimulation) - hexapod
 - [SeetaFace6](https://github.com/seetafaceengine/SeetaFace6) - SeetaFace 6: Newest open and free, full stack face recognization toolkit.
-- [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [domoticz](https://github.com/domoticz/domoticz) - Open source Home Automation System
 - [subconverter](https://github.com/tindy2013/subconverter) - Utility to convert between various subscription format
 - [minetest](https://github.com/minetest/minetest) - Minetest is an open source voxel game engine with easy modding and game creation
@@ -2501,7 +2501,6 @@
 - [light-bootstrap-dashboard-angular2](https://github.com/creativetimofficial/light-bootstrap-dashboard-angular2) - Light Bootstrap Dashboard Angular 2
 - [docs](https://github.com/prometheus/docs) - Prometheus documentation: content and static site generator
 - [JavaScript30](https://github.com/wesbos/JavaScript30) - 30 Day Vanilla JS Challenge
-- [server-tools](https://github.com/OCA/server-tools) - Tools for Odoo Administrators to improve some technical features on Odoo.
 - [loopback.io](https://github.com/strongloop/loopback.io) - LoopBack project site - now with documentation!
 - [gopypi](https://github.com/phonkee/gopypi) - Private python package index written in golang
 - [restc](https://github.com/ElemeFE/restc) - A server-side middleware to visualize REST requests.
@@ -2779,7 +2778,7 @@
 - [tgboost](https://github.com/wepe/tgboost) - Tiny Gradient Boosting Tree
 - [blox](https://github.com/blox/blox) - Open source tools for building custom schedulers on Amazon ECS
 - [AlgorithmVisualizer-Android](https://github.com/naman14/AlgorithmVisualizer-Android) - Visualize algorithms and data structures using animations
-- [elasticsearch](https://github.com/elastic/elasticsearch) - Open Source, Distributed, RESTful Search Engine
+- [elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open, Distributed, RESTful Search Engine
 - [DiagonalLayout](https://github.com/florent37/DiagonalLayout) - With Diagonal Layout explore new styles and approaches on material design
 - [Ngram-Graphs](https://github.com/ayushoriginal/Ngram-Graphs) - :mortar_board:RESEARCH [NLP] Analysis of N-gram Graphs and their applications in the domain of Text Classification and Extraction based Summarization
 - [bazel](https://github.com/bazelbuild/bazel) - a fast, scalable, multi-language and extensible build system
@@ -3361,7 +3360,6 @@
 - [workly](https://github.com/pshihn/workly) - A really simple way to move a function or class to a web worker. 🏋️‍♀️→ 😄
 - [cube-application-guide](https://github.com/cube-ui/cube-application-guide) - A guild for cube-ui application
 - [video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 & Flash video player
-- [tui.chart](https://github.com/nhn/tui.chart) - 🍞📊  Beautiful chart for data visualization.
 - [driver.js](https://github.com/kamranahmedse/driver.js) - A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page
 - [fkill-cli](https://github.com/sindresorhus/fkill-cli) - Fabulously kill processes. Cross-platform.
 - [Framer](https://github.com/koenbok/Framer) - Framer - Design Everything
@@ -5755,6 +5753,7 @@
 
 ## Others 
 
+- [awesome-ai-awesomeness](https://github.com/amusi/awesome-ai-awesomeness) - A curated list of awesome awesomeness about artificial intelligence
 - [lecture_notes](https://github.com/popgenmethods/lecture_notes) - Lecture Notes on Computational and Mathematical Population Genetics
 - [Cloud-DevSecOps-Learning](https://github.com/chughes29/Cloud-DevSecOps-Learning) - Collection of Cloud and DevSecOps learning resources
 - [awesome-distributed-transactions](https://github.com/rystsov/awesome-distributed-transactions) - Awesome list of distributed transactions
@@ -6804,6 +6803,7 @@
 
 ## Python 
 
+- [deep-daze](https://github.com/lucidrains/deep-daze) - Simple command line tool for text to image generation using OpenAI's CLIP and Siren (Implicit neural representation network)
 - [momentum2-teacher](https://github.com/zengarden/momentum2-teacher) - Implementation of momentum^2 teacher
 - [EasyMocap](https://github.com/zju3dv/EasyMocap) - Make human motion capture easier.
 - [best-of-python](https://github.com/ml-tooling/best-of-python) - 🏆 A ranked list of awesome Python open-source libraries and tools. Updated weekly.
@@ -8982,7 +8982,7 @@
 - [wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python?
 - [jmespath.py](https://github.com/jmespath/jmespath.py) - JMESPath is a query language for JSON.
 - [jasmin](https://github.com/jookies/jasmin) - Jasmin - Open source SMS gateway
-- [tsrc](https://github.com/TankerHQ/tsrc) - Manage groups of git repositories
+- [tsrc](https://github.com/dmerejkowsky/tsrc) - Manage groups of git repositories
 - [textgenrnn](https://github.com/minimaxir/textgenrnn) - Easily train your own text-generating neural network of any size and complexity on any text dataset with a few lines of code.
 - [deep-photo-styletransfer-tf](https://github.com/LouieYang/deep-photo-styletransfer-tf) - Tensorflow (Python API) implementation of Deep Photo Style Transfer
 - [np-to-tf-embeddings-visualiser](https://github.com/nlml/np-to-tf-embeddings-visualiser) - Quick function to go from a dictionary of sets of (images, labels, feature vectors) to checkpoints that can be opened in Tensorboard
@@ -9006,7 +9006,6 @@
 - [nider](https://github.com/pythad/nider) - Python package to add text to images, textures and different backgrounds
 - [mistletoe](https://github.com/miyuchina/mistletoe) - A fast, extensible and spec-compliant Markdown parser in pure Python.
 - [abootool](https://github.com/alephsecurity/abootool) - Simple tool to dynamically discover hidden fastboot OEM commands based on static knowledge
-- [WAScan](https://github.com/m4ll0k/WAScan) - WAScan - Web Application Scanner
 - [droidbot](https://github.com/honeynet/droidbot) - A lightweight test input generator for Android. Similar to Monkey, but with more intelligence and cool features!
 - [keras_weight_animator](https://github.com/brannondorsey/keras_weight_animator) - Save keras weight matrices as short animated videos during training
 - [covertutils](https://github.com/operatorequals/covertutils) - A framework for Backdoor development!
@@ -9629,6 +9628,7 @@
 - [learning-to-learn](https://github.com/deepmind/learning-to-learn) - Learning to Learn in TensorFlow
 - [TensorFlow-example](https://github.com/FlyElephantNet/TensorFlow-example) - 
 - [odoo_ezdoo](https://github.com/ezdoo/odoo_ezdoo) - Custom Odoo modules used in Ezdoo hosting service for Odoo
+- [server-tools](https://github.com/OCA/server-tools) - Tools for Odoo Administrators to improve some technical features on Odoo.
 - [python-moira-client](https://github.com/moira-alert/python-moira-client) - Python client for Moira
 - [github-trending-cli](https://github.com/taranjeet/github-trending-cli) - A Python package which lists trending repositories and developers from Github
 - [deepjets](https://github.com/deepjets/deepjets) - Main repository for image generation and CNN training https://arxiv.org/abs/1609.00607
@@ -11234,7 +11234,6 @@
 - [django-watson](https://github.com/etianen/django-watson) - Full-text multi-table search application for Django. Easy to install and use, with good performance.
 - [djoser](https://github.com/sunscrapers/djoser) - REST implementation of Django authentication system.
 - [linux-insides](https://github.com/0xAX/linux-insides) - A little bit about a linux kernel
-- [Meetup-Fall-2013](https://github.com/ResearchComputing/Meetup-Fall-2013) - Slides, code, and other information relating to the Fall 2013 Meetups
 - [machine_learning](https://github.com/masinoa/machine_learning) - Python coded examples and documentation of machine learning algorithms.
 - [Shapely](https://github.com/Toblerity/Shapely) - Manipulation and analysis of geometric objects
 - [python-geodata-bffs](https://github.com/pdxmele/python-geodata-bffs) - Repo for my PyCon 2014 talk
@@ -13127,7 +13126,7 @@
 - [gistpad](https://github.com/codespaces-contrib/gistpad) - VS Code extension for managing and sharing code snippets, notes and interactive samples using GitHub Gists
 - [cvat](https://github.com/openvinotoolkit/cvat) - Powerful and efficient Computer Vision Annotation Tool (CVAT)
 - [tfjs-models](https://github.com/tensorflow/tfjs-models) - Pretrained models for TensorFlow.js
-- [api-platform](https://github.com/api-platform/api-platform) - REST and GraphQL framework to build modern API-driven projects (server-side and client-side)
+- [api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [vue-next](https://github.com/vuejs/vue-next) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 - [microsoft-authentication-library-for-js](https://github.com/AzureAD/microsoft-authentication-library-for-js) - Microsoft Authentication Library (MSAL) for JS
 - [typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
@@ -13242,6 +13241,7 @@
 - [react-morph](https://github.com/brunnolou/react-morph) - Morphing Ui transitions made simple
 - [brain.js](https://github.com/BrainJS/brain.js) - 🤖 GPU accelerated Neural networks in JavaScript for Browsers and Node.js
 - [emma-cli](https://github.com/maticzav/emma-cli) - 📦 Terminal assistant to find and install node packages.
+- [tui.chart](https://github.com/nhn/tui.chart) - 🍞📊  Beautiful chart for data visualization.
 - [rough](https://github.com/rough-stuff/rough) - Create graphics with a hand-drawn, sketchy, appearance
 - [xstate](https://github.com/davidkpiano/xstate) - State machines and statecharts for the modern web.
 - [Front-End-Wizard](https://github.com/kieranmv95/Front-End-Wizard) - A comprehensive collection of front end tutorials and resources for developers
