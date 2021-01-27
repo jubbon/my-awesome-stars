@@ -138,6 +138,8 @@
 
 ## C 
 
+- [julius](https://github.com/julius-speech/julius) - Open-Source Large Vocabulary Continuous Speech Recognition Engine
+- [pocketsphinx](https://github.com/cmusphinx/pocketsphinx) - PocketSphinx is a lightweight speech recognition engine, specifically tuned for handheld and mobile devices, though it works equally well on the desktop
 - [pypostal](https://github.com/openvenues/pypostal) - Python bindings to libpostal for fast international address parsing/normalization
 - [GloVe](https://github.com/stanfordnlp/GloVe) - GloVe model for distributed word representation
 - [IoTGoat](https://github.com/OWASP/IoTGoat) - IoTGoat is a deliberately insecure firmware created to educate software developers and security professionals with testing commonly found vulnerabilities in IoT devices.
@@ -256,7 +258,7 @@
 - [system-bus-radio](https://github.com/fulldecent/system-bus-radio) - Transmits AM radio on computers without radio transmitting hardware.
 - [h3](https://github.com/uber/h3) - Hexagonal hierarchical geospatial indexing system
 - [dysk](https://github.com/khenidak/dysk) - Attach Azure disks in &lt; 1 second. Attach as many as you want. Attach them where ever you want. dysk mounts Azure disks as Linux block devices directly on VMs without dependency on the host.
-- [ProcDump-for-Linux](https://github.com/microsoft/ProcDump-for-Linux) - A Linux version of the ProcDump Sysinternals tool
+- [ProcDump-for-Linux](https://github.com/Sysinternals/ProcDump-for-Linux) - A Linux version of the ProcDump Sysinternals tool
 - [dustcloud](https://github.com/dgiese/dustcloud) - Xiaomi Smart Home Device Reverse Engineering and Hacking
 - [amazon-freertos](https://github.com/aws/amazon-freertos) - IoT operating system for microcontrollers.
 - [pspg](https://github.com/okbob/pspg) - Unix pager designed for work with tables. Designed for PostgreSQL, but MySQL is supported too. Now it can be used as CSV or TSV viewer. Works well with pgcli too.
@@ -1158,7 +1160,6 @@
 - [iziToast](https://github.com/marcelodolza/iziToast) - Elegant, responsive, flexible and lightweight notification plugin with no dependencies.
 - [flex.css](https://github.com/lzxb/flex.css) - flex.css is declarative layout which is compatible with wechat, UC, webview and other main-stream mobile browser and surpports react, vue, angular.
 - [office-ui-fabric-js](https://github.com/OfficeDev/office-ui-fabric-js) - JavaScript components for building experiences for Office and Office 365.
-- [office-ui-fabric-core](https://github.com/OfficeDev/office-ui-fabric-core) - The front-end CSS framework for building experiences for Office and Office 365.
 - [devfreebooks.github.io](https://github.com/devfreebooks/devfreebooks.github.io) - A huge collection of free books for developers
 - [code-nasa-gov](https://github.com/nasa/code-nasa-gov) - code.nasa.gov site leveraging the Open Source Catalog on github.com, powered by Polymer
 - [odoo-material](https://github.com/Vauxoo/odoo-material) - FrontEnd Theme using material design
@@ -1431,6 +1432,7 @@
 
 ## Dockerfile 
 
+- [docker-kaldi-gstreamer-server](https://github.com/jcsilva/docker-kaldi-gstreamer-server) - Dockerfile for kaldi-gstreamer-server.
 - [stand_kubernetes_cluster](https://github.com/deepmipt/stand_kubernetes_cluster) - 
 - [docker_images](https://github.com/osrf/docker_images) - A repository to hold definitions of docker images maintained by OSRF
 - [code-with-engineering-playbook](https://github.com/microsoft/code-with-engineering-playbook) - This is the playbook for "code-with" customer or partner engagements
@@ -6803,6 +6805,23 @@
 
 ## Python 
 
+- [asr-evaluation](https://github.com/belambert/asr-evaluation) - Python module for evaluating ASR hypotheses (e.g. word error rate, word recognition rate).
+- [KerasDeepSpeech](https://github.com/robmsmt/KerasDeepSpeech) - A Keras CTC implementation of Baidu's DeepSpeech for model experimentation
+- [vosk-server](https://github.com/alphacep/vosk-server) - WebSocket, gRPC and WebRTC speech recognition server based on Vosk and Kaldi libraries
+- [tensorflow_end2end_speech_recognition](https://github.com/hirofumi0810/tensorflow_end2end_speech_recognition) - End-to-End speech recognition implementation base on TensorFlow (CTC, Attention, and MTL training)
+- [zamia-speech](https://github.com/gooofy/zamia-speech) - Open tools and data for cloudless automatic speech recognition
+- [cheetah](https://github.com/Picovoice/cheetah) - On-device streaming speech-to-text engine powered by deep learning
+- [Speech-Transformer](https://github.com/kaituoxu/Speech-Transformer) - A PyTorch implementation of Speech Transformer, an End-to-End ASR with Transformer network on Mandarin Chinese.
+- [LibreASR](https://github.com/iceychris/LibreASR) - :speech_balloon: An On-Premises, Streaming Speech Recognition System
+- [SincNet](https://github.com/mravanelli/SincNet) - SincNet is a neural architecture for efficiently processing raw audio samples.
+- [pytorch_geometric_temporal](https://github.com/benedekrozemberczki/pytorch_geometric_temporal) - A Temporal Extension Library for PyTorch Geometric
+- [espresso](https://github.com/freewym/espresso) - Espresso: A Fast End-to-End Neural Speech Recognition Toolkit
+- [audio](https://github.com/pytorch/audio) - Data manipulation and transformation for audio signal processing, powered by PyTorch
+- [wavenet_vocoder](https://github.com/r9y9/wavenet_vocoder) - WaveNet vocoder
+- [pykaldi](https://github.com/pykaldi/pykaldi) - A Python wrapper for Kaldi
+- [kaldi-gstreamer-server](https://github.com/alumae/kaldi-gstreamer-server) - Real-time full-duplex speech recognition server, based on the Kaldi toolkit and the GStreamer framwork.
+- [DeepSpeech](https://github.com/PaddlePaddle/DeepSpeech) - A PaddlePaddle implementation of DeepSpeech2 architecture for ASR.
+- [ml-road](https://github.com/yanshengjia/ml-road) - Machine Learning Resources, Practice and Research
 - [deep-daze](https://github.com/lucidrains/deep-daze) - Simple command line tool for text to image generation using OpenAI's CLIP and Siren (Implicit neural representation network)
 - [momentum2-teacher](https://github.com/zengarden/momentum2-teacher) - Implementation of momentum^2 teacher
 - [EasyMocap](https://github.com/zju3dv/EasyMocap) - Make human motion capture easier.
@@ -11981,7 +12000,6 @@
 - [coursera-dl](https://github.com/coursera-dl/coursera-dl) - Script for downloading Coursera.org videos and naming them.
 - [coursera](https://github.com/jplehmann/coursera) - Script for downloading Coursera.org videos and naming them.
 - [moviepy](https://github.com/Zulko/moviepy) - Video editing with Python
-- [django-writingfield](https://github.com/jamiecurle/django-writingfield) - A fullscreen Textarea form widget for django
 - [django-daydreamer](https://github.com/skibblenybbles/django-daydreamer) - A Django class-based view utility library
 - [django-backupdb](https://github.com/fusionbox/django-backupdb) - Management commands for automatically backing up and restoring databases in Django
 - [django-cli-query](https://github.com/seveas/django-cli-query) - Django management command to use the ORM from the command line
@@ -12817,6 +12835,7 @@
 - [devportfolio](https://github.com/RyanFitzgerald/devportfolio) - A lightweight, customizable single-page personal portfolio website template built with JavaScript and Sass
 - [papers-I-read](https://github.com/shagunsodhani/papers-I-read) - A-Paper-A-Week
 - [card](https://github.com/jessepollak/card) - :credit_card: make your credit card form better in one line of code
+- [office-ui-fabric-core](https://github.com/OfficeDev/office-ui-fabric-core) - The front-end CSS framework for building experiences for Office and Office 365.
 - [grav-plugin-admin](https://github.com/getgrav/grav-plugin-admin) - Grav Admin Plugin
 - [calcite-web](https://github.com/Esri/calcite-web) - Authoritative front-end development resources for Calcite design initiative. Includes extendable base components and styles, as well as a modular and efficient framework for ArcGIS properties.
 - [uswds](https://github.com/uswds/uswds) - The U.S. Web Design System helps the federal government build fast, accessible, mobile-friendly websites.
@@ -12830,7 +12849,7 @@
 
 ## Scala 
 
-- [mleap](https://github.com/combust/mleap) - MLeap: Deploy Spark Pipelines to Production
+- [mleap](https://github.com/combust/mleap) - MLeap: Deploy ML Pipelines to Production
 - [spark-nlp](https://github.com/JohnSnowLabs/spark-nlp) - State of the Art Natural Language Processing
 - [polynote](https://github.com/polynote/polynote) - A better notebook for Scala (and more)
 - [Vegas](https://github.com/vegas-viz/Vegas) - The missing MatPlotLib for Scala + Spark
@@ -12859,6 +12878,7 @@
 
 ## Shell 
 
+- [kaldi-voices](https://github.com/freewym/kaldi-voices) - 
 - [axiom](https://github.com/pry0cc/axiom) - The dynamic infrastructure framework for anybody! Distribute the workload of many different tools with ease, including nmap, ffuf, masscan, nuclei and many more!
 - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
 - [monorepoize](https://github.com/gigamonkey/monorepoize) - Bash scripts for creating a monorepo out of smaller repos.
