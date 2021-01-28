@@ -484,6 +484,8 @@
 
 ## C++ 
 
+- [asr24](https://github.com/uiuc-sst/asr24) - 24-hour Automatic Speech Recognition
+- [eesen](https://github.com/srvk/eesen) - The official repository of the Eesen project
 - [JamSpell](https://github.com/bakwc/JamSpell) - Modern spell checking library - accurate, fast, multi-language
 - [aot](https://github.com/sokirko74/aot) - Seman is a set of linguistic tools to analyze Russian or German texts, it contains lexicons and grammars. The project is interesting as a base line for many research projects in computer linguistics area.
 - [ORB_SLAM3](https://github.com/UZ-SLAMLab/ORB_SLAM3) - ORB-SLAM3: An Accurate Open-Source Library for Visual, Visual-Inertial and Multi-Map SLAM
@@ -1617,7 +1619,7 @@
 - [ghp](https://github.com/CurtisLusmore/ghp) - A simple web server for serving static GitHub Pages locally
 - [training](https://github.com/cloud-annotations/training) - 🐝 Custom Object Detection and Classification Training
 - [aresdb](https://github.com/uber/aresdb) - A GPU-powered real-time analytics storage and query engine.
-- [aws-lambda-container-image-converter](https://github.com/awslabs/aws-lambda-container-image-converter) - The AWS Lambda container image converter tool (img2lambda) repackages container images (such as Docker images) into AWS Lambda function deployment packages and Lambda layers.
+- [aws-lambda-container-image-converter](https://github.com/amazon-archives/aws-lambda-container-image-converter) - The AWS Lambda container image converter tool (img2lambda) repackages container images (such as Docker images) into AWS Lambda function deployment packages and Lambda layers.
 - [gunk](https://github.com/gunk/gunk) - Modern frontend and syntax for Protocol Buffers
 - [aminal](https://github.com/liamg/aminal) - A modern cross-platform terminal emulator in Go
 - [sourcegraph](https://github.com/sourcegraph/sourcegraph) - Universal code search (self-hosted)
@@ -2161,6 +2163,7 @@
 
 ## HTML 
 
+- [speechbrain.github.io](https://github.com/speechbrain/speechbrain.github.io) - The SpeechBrain project aims to build a novel speech toolkit fully based on PyTorch. With SpeechBrain users can easily create speech processing systems, ranging from speech recognition (both HMM/DNN and end-to-end), speaker recognition, speech enhancement, speech separation, multi-microphone speech processing, and many others.
 - [introduction-to-bash-scripting](https://github.com/bobbyiliev/introduction-to-bash-scripting) - Free Introduction to Bash Scripting eBook
 - [kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
 - [turndown](https://github.com/domchristie/turndown) - 🛏 An HTML to Markdown converter written in JavaScript
@@ -2722,7 +2725,6 @@
 - [flutter_boost](https://github.com/alibaba/flutter_boost) - FlutterBoost is a Flutter plugin which enables hybrid integration of Flutter for your existing native apps with minimum efforts
 - [fission-workflow-sample](https://github.com/fission/fission-workflow-sample) - A simple carpool application built using Fission Workflows
 - [dynamodb-janusgraph-storage-backend](https://github.com/awslabs/dynamodb-janusgraph-storage-backend) - The Amazon DynamoDB Storage Backend for JanusGraph
-- [OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue) - A render management system you can deploy for visual effects and animation productions.
 - [gtfs-realtime-validator](https://github.com/CUTR-at-USF/gtfs-realtime-validator) - Java-based tool that validates General Transit Feed Specification (GTFS)-realtime feeds
 - [aws-sam-java-rest](https://github.com/aws-samples/aws-sam-java-rest) - A sample REST application built on SAM and DynamoDB that demonstrates testing with DynamoDB Local.
 - [dynamodb-geo](https://github.com/amazon-archives/dynamodb-geo) - 
@@ -4364,7 +4366,6 @@
 - [graphite-web](https://github.com/dkulikovsky/graphite-web) - 
 - [diveintopython3](https://github.com/joshgachnang/diveintopython3) - [Mirror] Dive Into Python 3 online book
 - [pycon.ru](https://github.com/pyconru/pycon.ru) - pycon.ru website
-- [surfiki-refine-elasticsearch](https://github.com/mobomo/surfiki-refine-elasticsearch) - Python Map-Reduce for Elasticsearch Indices
 - [sigal](https://github.com/saimn/sigal) - yet another simple static gallery generator
 - [django-angular](https://github.com/jrief/django-angular) - Let AngularJS play well with Django
 - [chartkick.py](https://github.com/mher/chartkick.py) - Create beautiful Javascript charts with minimal code
@@ -4405,6 +4406,8 @@
 
 ## Jupyter Notebook 
 
+- [kaldi-for-russian](https://github.com/grib0ed0v/kaldi-for-russian) - 
+- [speech-to-text](https://github.com/yh1008/speech-to-text) - mixlingual speech recognition system; hybrid (GMM+NNet) model; Kaldi + Keras
 - [wavelet_networks](https://github.com/dwromero/wavelet_networks) - Code repository of the paper "Wavelet Networks: Scale Equivariant Learning From Raw Waveforms"  https://arxiv.org/abs/2006.05259
 - [evidently](https://github.com/evidentlyai/evidently) - Interactive reports to analyze machine learning models during validation or production monitoring.
 - [text_expansion](https://github.com/dilyararimovna/text_expansion) - Russian Text Expansion based on ruGPT3Large
@@ -5755,6 +5758,9 @@
 
 ## Others 
 
+- [voice_datasets](https://github.com/jim-schwoebel/voice_datasets) - 🔊 A comprehensive list of open-source datasets for voice and sound computing (50+ datasets).
+- [sova-dataset](https://github.com/sovaai/sova-dataset) - 
+- [awesome-kaldi](https://github.com/YoavRamon/awesome-kaldi) - This is a list of features, scripts, blogs and resources for better using Kaldi ( http://kaldi-asr.org/ )
 - [awesome-ai-awesomeness](https://github.com/amusi/awesome-ai-awesomeness) - A curated list of awesome awesomeness about artificial intelligence
 - [lecture_notes](https://github.com/popgenmethods/lecture_notes) - Lecture Notes on Computational and Mathematical Population Genetics
 - [Cloud-DevSecOps-Learning](https://github.com/chughes29/Cloud-DevSecOps-Learning) - Collection of Cloud and DevSecOps learning resources
@@ -6186,7 +6192,7 @@
 - [tensorflow-tutorial](https://github.com/wagamamaz/tensorflow-tutorial) - TensorFlow and Deep Learning Tutorials
 - [how-products-got-their-name](https://github.com/amitmerchant1990/how-products-got-their-name) - Collection of products/projects and the stories of how they got their name
 - [high-school-guide-to-machine-learning](https://github.com/kjaisingh/high-school-guide-to-machine-learning) - Being a high schooler myself and having studied Machine Learning and Artificial Intelligence for a year now, I believe that there fails to exist a learning path in this field for High School students. This is my attempt at creating one.
-- [sicp-course](https://github.com/creactiviti/sicp-course) - SICP Course
+- [sicp-course](https://github.com/okayrunner/sicp-course) - SICP Course
 - [awesome-dev-podcasts](https://github.com/sw-yx/awesome-dev-podcasts) - a curated list of awesome dev podcasts and why they are awesome
 - [my-awesome-AI-bookmarks](https://github.com/goodrahstar/my-awesome-AI-bookmarks) - Curated list of my reads, implementations and core concepts of Artificial Intelligence, Deep Learning, Machine Learning by best folk in the world.
 - [cypherpunk-research](https://github.com/tombusby/cypherpunk-research) - This repository is essentially for compiling information about Cypherpunks, the history of the movement, and the people/events of note.
@@ -6748,6 +6754,8 @@
 
 ## Perl 
 
+- [pytorch_MLP_for_ASR](https://github.com/mravanelli/pytorch_MLP_for_ASR) - This code implements a basic MLP for speech recognition. The MLP  is trained  with pytorch, while feature extraction, alignments, and decoding are performed with Kaldi.  The current implementation supports dropout and batch normalization. An example for phoneme recognition using the standard TIMIT dataset is provided.
+- [pytorch-kaldi-neural-speaker-embeddings](https://github.com/jefflai108/pytorch-kaldi-neural-speaker-embeddings) - A light weight neural speaker embeddings extraction based on Kaldi and PyTorch.
 - [openfortivpn](https://github.com/adrienverge/openfortivpn) - Client for PPP+SSL VPN tunnel services
 - [repo-info](https://github.com/docker-library/repo-info) - Extended information (especially license and layer details) about the published Official Images
 - [FlameGraph](https://github.com/brendangregg/FlameGraph) - Stack trace visualizer
@@ -6805,6 +6813,19 @@
 
 ## Python 
 
+- [PLDA](https://github.com/RicherMans/PLDA) - An LDA/PLDA estimator using KALDI in python for speaker verification tasks
+- [elpis](https://github.com/CoEDL/elpis) - 🙊 WIP software for creating speech recognition models.
+- [pytorch-asr](https://github.com/jinserk/pytorch-asr) - ASR with PyTorch
+- [kaldi-onnx](https://github.com/XiaoMi/kaldi-onnx) - Kaldi model converter to ONNX
+- [CTC_pytorch](https://github.com/Diamondfan/CTC_pytorch) - CTC end -to-end ASR for timit and 863 corpus.
+- [pykaldi2](https://github.com/jzlianglu/pykaldi2) - Yet another speech toolkit based on Kaldi and PyTorch
+- [kaldi-active-grammar](https://github.com/daanzu/kaldi-active-grammar) - Python Kaldi speech recognition with grammars that can be set active/inactive dynamically at decode-time
+- [tensorflow-speech-recognition](https://github.com/pannous/tensorflow-speech-recognition) - 🎙Speech recognition using the tensorflow deep learning framework, sequence-to-sequence neural networks
+- [Voice_ChatBot](https://github.com/Desklop/Voice_ChatBot) - Chatbot in russian with speech recognition using PocketSphinx and speech synthesis using RHVoice. The AttentionSeq2Seq model is used. Imlemented using Python3+TensorFlow+Keras.
+- [Speech-to-Text-Russian](https://github.com/SergeyShk/Speech-to-Text-Russian) - Проект для распознавания речи на русском языке на основе pykaldi.
+- [Speaker-Recognition](https://github.com/Anwarvic/Speaker-Recognition) - This repo contains my attempt to create a Speaker Recognition and Verification system using SideKit-1.3.1
+- [PyTorch_Speaker_Verification](https://github.com/HarryVolek/PyTorch_Speaker_Verification) - PyTorch implementation of "Generalized End-to-End Loss for Speaker Verification" by Wan, Li et al.
+- [pyannote-audio](https://github.com/pyannote/pyannote-audio) - Neural building blocks for speaker diarization: speech activity detection, speaker change detection, overlapped speech detection, speaker embedding
 - [asr-evaluation](https://github.com/belambert/asr-evaluation) - Python module for evaluating ASR hypotheses (e.g. word error rate, word recognition rate).
 - [KerasDeepSpeech](https://github.com/robmsmt/KerasDeepSpeech) - A Keras CTC implementation of Baidu's DeepSpeech for model experimentation
 - [vosk-server](https://github.com/alphacep/vosk-server) - WebSocket, gRPC and WebRTC speech recognition server based on Vosk and Kaldi libraries
@@ -7794,6 +7815,7 @@
 - [Machine-Learning-with-Python](https://github.com/devAmoghS/Machine-Learning-with-Python) - Small scale machine learning projects to understand the core concepts . Give a Star 🌟If it helps you. BONUS: Interview Bank coming up..!
 - [nsfw](https://github.com/rockyzhengwu/nsfw) - Suitable for Work (NSFW) classification
 - [LASER](https://github.com/facebookresearch/LASER) - Language-Agnostic SEntence Representations
+- [OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue) - A render management system you can deploy for visual effects and animation productions.
 - [TorchSeg](https://github.com/ycszen/TorchSeg) - Fast, modular reference implementation and easy training of Semantic Segmentation algorithms in PyTorch.
 - [pymapd](https://github.com/omnisci/pymapd) - Python client for OmniSci GPU-accelerated SQL engine and analytics platform
 - [datastore](https://github.com/opentraffic/datastore) - OTv2: centralized ingest and aggregation of anonymous traffic data
