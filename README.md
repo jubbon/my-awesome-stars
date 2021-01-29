@@ -55,6 +55,7 @@
   - [MATLAB](#matlab)
   - [MLIR](#mlir)
   - [Makefile](#makefile)
+  - [Markdown](#markdown)
   - [Matlab](#matlab)
   - [NASL](#nasl)
   - [Nginx](#nginx)
@@ -428,7 +429,6 @@
 - [pipelinedb](https://github.com/pipelinedb/pipelinedb) - High-performance time-series aggregation for PostgreSQL
 - [geoip-api-python](https://github.com/maxmind/geoip-api-python) - GeoIP Legacy Python API
 - [python-Levenshtein](https://github.com/miohtama/python-Levenshtein) - The Levenshtein Python C extension module contains functions for fast computation of Levenshtein distance and string similarity
-- [scancode-toolkit](https://github.com/nexB/scancode-toolkit) - :mag_right: ScanCode detects licenses, copyrights, package manifests & dependencies and more by scanning code ... to discover and inventory open source and third-party packages used in your code.
 - [borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption.
 - [tomita-parser](https://github.com/yandex/tomita-parser) - 
 - [postgres](https://github.com/postgres/postgres) - Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don't work with pull requests on github. To contribute, please see https://wiki.postgresql.org/wiki/Submitting_a_Patch
@@ -526,7 +526,6 @@
 - [moveit](https://github.com/ros-planning/moveit) - :robot: The MoveIt motion planning framework
 - [Polygames](https://github.com/facebookincubator/Polygames) - The project is a platform of zero learning with a library of games.
 - [FreeCAD](https://github.com/FreeCAD/FreeCAD) - This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler. Issues are managed on our own bug tracker at https://www.freecadweb.org/tracker
-- [newton-dynamics](https://github.com/MADEAPPS/newton-dynamics) - Newton Dynamics is an integrated solution for real time simulation of physics environments.
 - [tigervnc](https://github.com/TigerVNC/tigervnc) - High performance, multi-platform VNC client and server
 - [opencv_contrib](https://github.com/opencv/opencv_contrib) - Repository for OpenCV's extra modules
 - [GPCS4](https://github.com/Inori/GPCS4) - A Playstation 4 emulator just begin
@@ -806,7 +805,6 @@
 - [omniscidb](https://github.com/omnisci/omniscidb) - OmniSciDB (formerly MapD Core)
 - [xtensor-python](https://github.com/xtensor-stack/xtensor-python) - Python bindings for xtensor
 - [face_swap](https://github.com/YuvalNirkin/face_swap) - End-to-end, automatic face swapping pipeline
-- [clif](https://github.com/google/clif) - Binding generator to wrap C++ for Python using LLVM.
 - [node-packer](https://github.com/pmq20/node-packer) - Packing your Node.js application into a single executable.
 - [lnav](https://github.com/tstack/lnav) - Log file navigator
 - [ORB_SLAM2](https://github.com/raulmur/ORB_SLAM2) - Real-Time SLAM for Monocular, Stereo and RGB-D Cameras, with Loop Detection and Relocalization Capabilities
@@ -1075,7 +1073,6 @@
 - [security](https://github.com/xapax/security) - Stuff about it-security that might be good to know
 - [dejavu](https://github.com/appbaseio/dejavu) - The Missing Web UI for Elasticsearch: Import, browse and edit data with rich filters and query views, create search UIs visually.
 - [shards-ui](https://github.com/DesignRevision/shards-ui) - 🎨Shards is a beautiful & modern Bootstrap 4 UI kit packed with extra templates and components.
-- [requestbin](https://github.com/Runscope/requestbin) - Inspect HTTP requests. Debug webhooks. Originally created by @progrium.
 - [dev-landing-page](https://github.com/flexdinesh/dev-landing-page) - Minimal landing page for developers
 - [You-need-to-know-css](https://github.com/l-hammer/You-need-to-know-css) - 💄CSS tricks for web developers~
 - [qualy-presenter](https://github.com/Qualy-org/qualy-presenter) - A boilerplate to create presentations using Reveal.JS, Gulp, Stylus and more.
@@ -2199,6 +2196,7 @@
 - [Most-recommended-programming-books](https://github.com/daolf/Most-recommended-programming-books) - The most recommended programming books of all-time.
 - [HelloFace](https://github.com/becauseofAI/HelloFace) - An awesome face technology repository.
 - [LearnCS8-Resume](https://github.com/JordanSchuetz/LearnCS8-Resume) - Resume template website for the LearnCS8 Lab 3
+- [newton-dynamics](https://github.com/MADEAPPS/newton-dynamics) - Newton Dynamics is an integrated solution for real time simulation of physics environments.
 - [esm244-w2020-lab5](https://github.com/allisonhorst/esm244-w2020-lab5) - Lab week 5: exploring time series data, intro to forecasting
 - [tiny-helpers](https://github.com/stefanjudis/tiny-helpers) - A collection of useful online web development tools
 - [intro-to-ml-tidy](https://github.com/rstudio-conf-2020/intro-to-ml-tidy) - Intro to Machine Learning with the Tidyverse
@@ -2342,7 +2340,6 @@
 - [fastclick](https://github.com/ftlabs/fastclick) - Polyfill to remove click delays on browsers with touch UIs
 - [hyperHTML](https://github.com/WebReflection/hyperHTML) - A Fast & Light Virtual DOM Alternative
 - [SB-Admin-BS4-Angular-8](https://github.com/start-angular/SB-Admin-BS4-Angular-8) - Simple Dashboard Admin App built using Angular 8 and Bootstrap 4
-- [CLRS](https://github.com/walkccc/CLRS) - 📚 Solutions to Introduction to Algorithms Third Edition
 - [GTFOBins.github.io](https://github.com/GTFOBins/GTFOBins.github.io) - GTFOBins is a curated list of Unix binaries that can used to bypass local security restrictions in misconfigured systems
 - [Intro_to_ML-FutureLabs](https://github.com/InsightDataScience/Intro_to_ML-FutureLabs) - ML primer workshop @ Future Labs AI Summit
 - [crowds](https://github.com/ncase/crowds) - The Wisdom and/or Madness of the Crowds
@@ -4879,7 +4876,7 @@
 - [tutorial_examples](https://github.com/bethke/tutorial_examples) - A repository for various Jupyter notebooks and other tutorial material
 - [Lyft-Perception-Challenge](https://github.com/NikolasEnt/Lyft-Perception-Challenge) - The 4th place and the fastest solution of the Lyft Perception Challenge (Image semantic segmentation with PyTorch)
 - [program_synthesis](https://github.com/nearai/program_synthesis) - Program Synthesis
-- [PyDataRoad](https://github.com/liyangbit/PyDataRoad) - open source for wechat-official-account (ID: PythonDataLab)
+- [PyDataRoad](https://github.com/liyangbit/PyDataRoad) - open source for wechat-official-account (ID: PyDataLab)
 - [Grokking-Deep-Learning](https://github.com/iamtrask/Grokking-Deep-Learning) - this repository accompanies the book "Grokking Deep Learning"
 - [2048-deep-reinforcement-learning](https://github.com/navjindervirdee/2048-deep-reinforcement-learning) - Trained A Convolutional Neural Network To Play 2048 using Deep-Reinforcement Learning
 - [MemeProject](https://github.com/alpv95/MemeProject) - Dank Learning codebase, generate a meme from any image using AI. Uses a modified version of the Show and Tell image captioning network
@@ -5706,6 +5703,10 @@
 - [nvidia-docker](https://github.com/NVIDIA/nvidia-docker) - Build and run Docker containers leveraging NVIDIA GPUs
 - [datasciencetoolbox](https://github.com/datasciencetoolbox/datasciencetoolbox) - Complete environments for busy polyglot data scientists
 - [7XX-rfc](https://github.com/joho/7XX-rfc) - An RFC for a new series of HTTP status codes covering developer fouls.
+
+## Markdown 
+
+- [CLRS](https://github.com/walkccc/CLRS) - 📚 Solutions to Introduction to Algorithms Third Edition
 
 ## Matlab 
 
@@ -6813,6 +6814,9 @@
 
 ## Python 
 
+- [wifi-password](https://github.com/sdushantha/wifi-password) - Quickly fetch your WiFi password and if needed, generate a QR code of your WiFi to allow phones to easily connect
+- [Scrapera](https://github.com/DarshanDeshpande/Scrapera) - A universal package of scraper scripts for humans
+- [rebiber](https://github.com/yuchenlin/rebiber) - A simple tool in Python to fix incorrect bib entries automatically, based on their official information from the full ACL anthology and DBLP (for ICLR and other conferences)!
 - [PLDA](https://github.com/RicherMans/PLDA) - An LDA/PLDA estimator using KALDI in python for speaker verification tasks
 - [elpis](https://github.com/CoEDL/elpis) - 🙊 WIP software for creating speech recognition models.
 - [pytorch-asr](https://github.com/jinserk/pytorch-asr) - ASR with PyTorch
@@ -9338,6 +9342,7 @@
 - [tensorflow-resources](https://github.com/skcript/tensorflow-resources) - Curated Tensorflow code resources to help you get started with Deep Learning.
 - [Perceptron](https://github.com/casparwylie/Perceptron) - A flexible artificial neural network builder to analyse performance, and optimise the best model.
 - [SeqBox](https://github.com/MarcoPon/SeqBox) - A single file container/archive that can be reconstructed even after total loss of file system structures
+- [clif](https://github.com/google/clif) - Binding generator to wrap C++ for Python using LLVM.
 - [vps-comparison](https://github.com/joedicastro/vps-comparison) - A comparison between some VPS providers. It uses Ansible to perform a series of automated benchmark tests over the VPS servers that you specify. It allows the reproducibility of those tests by anyone that wanted to compare these results to their own. All the tests results are available in order to provide independence and transparency.
 - [Automatic_Speech_Recognition](https://github.com/zzw922cn/Automatic_Speech_Recognition) - End-to-end Automatic Speech Recognition for Madarian and English in Tensorflow
 - [ParlAI](https://github.com/facebookresearch/ParlAI) - A framework for training and evaluating AI models on a variety of openly available dialogue datasets.
@@ -10364,7 +10369,7 @@
 - [ProxyBroker](https://github.com/constverum/ProxyBroker) - Proxy [Finder | Checker | Server]. HTTP(S) & SOCKS :performing_arts:
 - [ntm-lasagne](https://github.com/snipsco/ntm-lasagne) - Neural Turing Machines library in Theano with Lasagne
 - [workdir-python](https://github.com/ajk8/workdir-python) - A simple module for easily isolating temporary file I/O to a directory
-- [slackbot](https://github.com/lins05/slackbot) - A chat bot for Slack (https://slack.com).
+- [slackbot](https://github.com/scrapinghub/slackbot) - A chat bot for Slack (https://slack.com).
 - [syncer](https://github.com/miyakogi/syncer) - Async to sync converter
 - [BloomFilter](https://github.com/m00dy/BloomFilter) - BloomFilter in python
 - [draw](https://github.com/ericjang/draw) - TensorFlow Implementation of "DRAW: A Recurrent Neural Network For Image Generation"
@@ -10986,6 +10991,7 @@
 - [ibis](https://github.com/ibis-project/ibis) - A pandas-like deferred expression system, with first-class SQL support
 - [pymaybe](https://github.com/ekampf/pymaybe) - A Python implementation of the Maybe pattern
 - [codemod](https://github.com/facebook/codemod) - Codemod is a tool/library to assist you with large-scale codebase refactors that can be partially automated but still require human oversight and occasional intervention. Codemod was developed at Facebook and released as open source.
+- [scancode-toolkit](https://github.com/nexB/scancode-toolkit) - :mag_right: ScanCode detects licenses, copyrights, package manifests & dependencies and more by scanning code ... to discover and inventory open source and third-party packages used in your code.
 - [magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) - get things from one computer to another, safely
 - [qfc](https://github.com/pindexis/qfc) - Quick Command-line File Completion
 - [semisup-learn](https://github.com/tmadl/semisup-learn) - Semi-supervised learning frameworks for python, which allow fitting scikit-learn classifiers to partially labeled data
@@ -12798,6 +12804,7 @@
 
 ## Rust 
 
+- [chess-engine](https://github.com/adam-mcdaniel/chess-engine) - A dependency-free chess engine library built to run anywhere.
 - [desed](https://github.com/SoptikHa2/desed) - Debugger for Sed: demystify and debug your sed scripts, from comfort of your terminal.
 - [nomino](https://github.com/yaa110/nomino) - Batch rename utility for developers
 - [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
