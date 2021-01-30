@@ -2879,7 +2879,7 @@
 - [ai-lab](https://github.com/tlkh/ai-lab) - All-in-one AI container for rapid prototyping
 - [react-redux-realworld-example-app](https://github.com/gothinkster/react-redux-realworld-example-app) - Exemplary real world application built with React + Redux
 - [coreui-free-react-admin-template](https://github.com/coreui/coreui-free-react-admin-template) - CoreUI React is free React admin template based on Bootstrap 4
-- [pipedream](https://github.com/PipedreamHQ/pipedream) - Serverless integration and compute platform.  Free for developers.
+- [pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
 - [1920-s2](https://github.com/nus-cs2030/1920-s2) - The website of CS2030, 19/20 Sem 2.
 - [pino](https://github.com/pinojs/pino) - 🌲 super fast, all natural json logger 🌲
 - [30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - 30 days of JavaScript programming challenge is a step by step guide to learn JavaScript programming language in 30 days. This challenge may take up to 100 days,  please just follow your own pace.
@@ -3207,7 +3207,7 @@
 - [rnset](https://github.com/suijunqiang/rnset) - rnset is a framework based on the react native & integrated a lot very good RN components to easy for verifying/using/picking in your projects
 - [iguazu](https://github.com/americanexpress/iguazu) - ✨ Iguazu is a simple Redux-powered Async Query engine
 - [algorithms-javascript](https://github.com/IamManchanda/algorithms-javascript) - Algorithms & Data Structures! [WIP] More questions are getting added!
-- [SpaceX-API](https://github.com/r-spacex/SpaceX-API) - :rocket: Open Source REST API for rocket, core, capsule, pad, and launch data
+- [SpaceX-API](https://github.com/r-spacex/SpaceX-API) - :rocket: Open Source REST API for SpaceX launch, rocket, core, capsule, starlink, launchpad, and landing pad data.
 - [zaidalyafeai.github.io](https://github.com/zaidalyafeai/zaidalyafeai.github.io) - Implementation of web friendly ML models using TensorFlow.js. pix2pix, face segmentation, fast style transfer and many more ...
 - [http2-wrapper](https://github.com/szmarczak/http2-wrapper) - Use HTTP2 the same way like HTTP1
 - [Imagvue](https://github.com/runkids/Imagvue) - :rice_scene:  Imagvue is an image component for Vue.js
@@ -4403,6 +4403,8 @@
 
 ## Jupyter Notebook 
 
+- [HistSumm](https://github.com/Pzoom522/HistSumm) - Code and data for "Summarising Historical Text in Modern Languages" (EACL 2021)
+- [silero-models](https://github.com/snakers4/silero-models) - Silero Models: pre-trained STT models and benchmarks made embarrassingly simple
 - [kaldi-for-russian](https://github.com/grib0ed0v/kaldi-for-russian) - 
 - [speech-to-text](https://github.com/yh1008/speech-to-text) - mixlingual speech recognition system; hybrid (GMM+NNet) model; Kaldi + Keras
 - [wavelet_networks](https://github.com/dwromero/wavelet_networks) - Code repository of the paper "Wavelet Networks: Scale Equivariant Learning From Raw Waveforms"  https://arxiv.org/abs/2006.05259
@@ -6814,6 +6816,8 @@
 
 ## Python 
 
+- [DeBERTa](https://github.com/microsoft/DeBERTa) - The implementation of DeBERTa
+- [bottleneck-transformer-pytorch](https://github.com/lucidrains/bottleneck-transformer-pytorch) - Implementation of Bottleneck Transformer in Pytorch
 - [wifi-password](https://github.com/sdushantha/wifi-password) - Quickly fetch your WiFi password and if needed, generate a QR code of your WiFi to allow phones to easily connect
 - [Scrapera](https://github.com/DarshanDeshpande/Scrapera) - A universal package of scraper scripts for humans
 - [rebiber](https://github.com/yuchenlin/rebiber) - A simple tool in Python to fix incorrect bib entries automatically, based on their official information from the full ACL anthology and DBLP (for ICLR and other conferences)!
@@ -7882,7 +7886,7 @@
 - [lambda-runtime-pypy3.5](https://github.com/iopipe/lambda-runtime-pypy3.5) - AWS Lambda Runtime for PyPy 3.5
 - [Mumbai-slum-segmentation](https://github.com/cbsudux/Mumbai-slum-segmentation) - Mumbai slum segmentation and change detection on statellite images.
 - [gandissect](https://github.com/CSAILVision/gandissect) - Pytorch-based tools for visualizing and understanding the neurons of a GAN.  https://gandissect.csail.mit.edu/
-- [d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with code, math, and discussions. Available in multi-frameworks. Adopted at 175 universities.
+- [d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 175 universities.
 - [satpy](https://github.com/pytroll/satpy) - Python package for earth-observing satellite data processing
 - [celluloid](https://github.com/jwkvam/celluloid) - :movie_camera: Matplotlib animations made easy
 - [redis-namespace](https://github.com/guokr/redis-namespace) - namespaced subset of your redis keyspace
@@ -9289,7 +9293,7 @@
 - [BoopSuite](https://github.com/MisterBianco/BoopSuite) - A Suite of Tools written in Python for wireless auditing and security testing.
 - [devol](https://github.com/joeddav/devol) - Genetic neural architecture search with Keras
 - [XX-Net](https://github.com/XX-net/XX-Net) - A proxy tool to bypass GFW.
-- [ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 The open source self-hosted web archive. Takes browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
+- [ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [face_classification](https://github.com/oarriaga/face_classification) - Real-time face detection and emotion/gender classification using fer2013/imdb datasets with a keras CNN model and openCV.
 - [Chaos](https://github.com/Chaosthebot/Chaos) - A social coding experiment that updates its own code democratically.
 - [baselines](https://github.com/openai/baselines) - OpenAI Baselines: high-quality implementations of reinforcement learning algorithms
@@ -10867,7 +10871,7 @@
 - [cement](https://github.com/datafolklabs/cement) - Application Framework for Python
 - [python-decouple](https://github.com/henriquebastos/python-decouple) - Strict separation of config from code.
 - [pycco](https://github.com/pycco-docs/pycco) - Literate-style documentation generator.
-- [pdoc](https://github.com/mitmproxy/pdoc) - Auto-generate API documentation for Python projects.
+- [pdoc](https://github.com/mitmproxy/pdoc) - API Documentation for Python Projects
 - [langid.py](https://github.com/saffsd/langid.py) - Stand-alone language identification system
 - [unp](https://github.com/mitsuhiko/unp) - Unpacks things.
 - [markdown](https://github.com/Python-Markdown/markdown) - A Python implementation of John Gruber’s Markdown with Extension support.
@@ -11308,7 +11312,7 @@
 - [scrapyrt](https://github.com/scrapinghub/scrapyrt) - Scrapy realtime
 - [x84](https://github.com/jquast/x84) - A python telnet/ssh server for modern terminals. In spirit of classic software such as ami/x, teleguard, renegade, iniquity.
 - [django-sheets](https://github.com/georgewhewell/django-sheets) - Use Google Sheets as context variables in Django templates
-- [spaCy](https://github.com/explosion/spaCy) - 💫 Industrial-strength Natural Language Processing (NLP) with Python and Cython
+- [spaCy](https://github.com/explosion/spaCy) - 💫 Industrial-strength Natural Language Processing (NLP) in Python
 - [pytimecop](https://github.com/bluekelp/pytimecop) - A port of the most excellent TimeCop Ruby Gem for Python
 - [beeswithmachineguns](https://github.com/newsapps/beeswithmachineguns) - A utility for arming (creating) many bees (micro EC2 instances) to attack (load test) targets (web applications).
 - [rdbms-subsetter](https://github.com/18F/rdbms-subsetter) - Generates a subset of a relational database that respects foreign key constraints
@@ -11386,7 +11390,7 @@
 - [ws](https://github.com/Fiedzia/ws) - ws - one tools that brings all kinds of webservices to command-line. Your command-line.
 - [monufacture](https://github.com/gamechanger/monufacture) - A Python library for setting up Mongo documents for testing
 - [glove-python](https://github.com/maciejkula/glove-python) - Toy Python implementation of http://www-nlp.stanford.edu/projects/glove/
-- [djangae](https://github.com/potatolondon/djangae) - The best way to run Django on Google Cloud
+- [djangae](https://github.com/potatolondon/djangae) - The best way to run Django on Google Cloud. This project is now on GitLab: https://gitlab.com/potato-oss/djangae/djangae
 - [django-pushy](https://github.com/rakanalh/django-pushy) - Your push notifications handled at scale.
 - [vimswitch](https://github.com/priomsrb/vimswitch) - Use your vim settings anywhere
 - [pixie](https://github.com/pixie-lang/pixie) - A small, fast, native lisp with "magical" powers
@@ -13420,7 +13424,7 @@
 - [feathers](https://github.com/feathersjs/feathers) - A framework for real-time applications and REST APIs with JavaScript and TypeScript
 - [storybook](https://github.com/storybookjs/storybook) - 📓 The UI component explorer. Develop, document, & test for React, Vue, Angular, Ember, Web Components, & more!
 - [growth-ionic](https://github.com/phodal/growth-ionic) - [v2.0 DEPRECATED, please update to Growth 3.0] Growth - App to help you Be Awesome Developer & Awesome Hacker
-- [nativefier](https://github.com/jiahaog/nativefier) - Make any web page a desktop application
+- [nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
 - [ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 - [react-leaflet](https://github.com/PaulLeCam/react-leaflet) - React components for Leaflet maps
 - [line-chart](https://github.com/n3-charts/line-chart) - Awesome charts for AngularJS.
