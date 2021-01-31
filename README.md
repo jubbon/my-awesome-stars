@@ -6816,6 +6816,7 @@
 
 ## Python 
 
+- [T2T-ViT](https://github.com/yitu-opensource/T2T-ViT) - 
 - [DeBERTa](https://github.com/microsoft/DeBERTa) - The implementation of DeBERTa
 - [bottleneck-transformer-pytorch](https://github.com/lucidrains/bottleneck-transformer-pytorch) - Implementation of Bottleneck Transformer in Pytorch
 - [wifi-password](https://github.com/sdushantha/wifi-password) - Quickly fetch your WiFi password and if needed, generate a QR code of your WiFi to allow phones to easily connect
