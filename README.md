@@ -6816,6 +6816,7 @@
 
 ## Python 
 
+- [PlayableVideoGeneration](https://github.com/willi-menapace/PlayableVideoGeneration) - Official Pytorch implementation of "Playable Video Generation"
 - [T2T-ViT](https://github.com/yitu-opensource/T2T-ViT) - 
 - [DeBERTa](https://github.com/microsoft/DeBERTa) - The implementation of DeBERTa
 - [bottleneck-transformer-pytorch](https://github.com/lucidrains/bottleneck-transformer-pytorch) - Implementation of Bottleneck Transformer in Pytorch
@@ -13423,7 +13424,7 @@
 - [bricklayer](https://github.com/ademilter/bricklayer) - Lightweight and independent Pinterest-like cascading grid layout library
 - [postgraphile](https://github.com/graphile/postgraphile) - Execute one command (or mount one Node.js middleware) and get an instant high-performance GraphQL API for your PostgreSQL database!
 - [feathers](https://github.com/feathersjs/feathers) - A framework for real-time applications and REST APIs with JavaScript and TypeScript
-- [storybook](https://github.com/storybookjs/storybook) - 📓 The UI component explorer. Develop, document, & test for React, Vue, Angular, Ember, Web Components, & more!
+- [storybook](https://github.com/storybookjs/storybook) - 📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!
 - [growth-ionic](https://github.com/phodal/growth-ionic) - [v2.0 DEPRECATED, please update to Growth 3.0] Growth - App to help you Be Awesome Developer & Awesome Hacker
 - [nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
 - [ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
