@@ -316,7 +316,6 @@
 - [rufus](https://github.com/pbatard/rufus) - The Reliable USB Formatting Utility
 - [DoubleAgent](https://github.com/Cybellum/DoubleAgent) - Zero-Day Code Injection and Persistence Technique
 - [portable-snippets](https://github.com/nemequ/portable-snippets) - Collection of miscellaneous portable C snippets.
-- [miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
 - [s2n](https://github.com/awslabs/s2n) - s2n : an implementation of the TLS/SSL protocols
 - [sha1collisiondetection](https://github.com/cr-marcstevens/sha1collisiondetection) - Library and command line tool to detect SHA-1 collision in a file
 - [tig](https://github.com/jonas/tig) - Text-mode interface for git
@@ -1462,7 +1461,7 @@
 
 ## Elixir 
 
-- [analytics](https://github.com/plausible/analytics) - Simple and privacy-friendly alternative to Google Analytics
+- [analytics](https://github.com/plausible/analytics) - Simple, open-source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
 - [rank](https://github.com/awesomerank/rank) - awesomerank.github.io builder
 
 ## Emacs Lisp 
@@ -1491,7 +1490,7 @@
 
 ## Gherkin 
 
-- [web](https://github.com/owncloud/web) - Next generation frontend for ownCloud
+- [web](https://github.com/owncloud/web) - :dragon_face: Next generation frontend for ownCloud X and Infinite Scale
 - [git-town](https://github.com/git-town/git-town) - Generic, high-level Git workflow support!
 
 ## Gnuplot 
@@ -1516,7 +1515,7 @@
 - [Yearning](https://github.com/cookieY/Yearning) - 🐳 A most popular sql audit platform for mysql
 - [kpt](https://github.com/GoogleContainerTools/kpt) - 
 - [slack](https://github.com/slack-go/slack) - Slack API in Go - community-maintained fork created by the original author, @nlopes
-- [matterbridge](https://github.com/42wim/matterbridge) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble and more with REST API (mattermost not required!)
+- [matterbridge](https://github.com/42wim/matterbridge) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (mattermost not required!)
 - [node_exporter](https://github.com/prometheus/node_exporter) - Exporter for machine metrics
 - [ion](https://github.com/pion/ion) - Distributed RTC System by pure Go and Flutter
 - [operator-sdk](https://github.com/operator-framework/operator-sdk) - SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding.
@@ -2021,6 +2020,7 @@
 - [ladon](https://github.com/ory/ladon) - A SDK for access control policies: authorization for the microservice and IoT age. Inspired by AWS IAM policies. Written for Go.
 - [machma](https://github.com/fd0/machma) - Easy parallel execution of commands with live feedback
 - [pet](https://github.com/knqyf263/pet) - Simple command-line snippet manager, written in Go.
+- [miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
 - [httplab](https://github.com/gchaincl/httplab) - The interactive web server
 - [ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics
 - [task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go
@@ -3560,7 +3560,7 @@
 - [magic_paper](https://github.com/mnielsen/magic_paper) - Experiments in an explorable visual medium for mathematics
 - [tikzcd-editor](https://github.com/yishn/tikzcd-editor) - A simple visual editor for creating commutative diagrams.
 - [server](https://github.com/franciscop/server) - :desktop_computer: Simple and powerful server for Node.js
-- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (January 2021)
+- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (February 2021)
 - [charts](https://github.com/frappe/charts) - Simple, responsive, modern SVG Charts with zero dependencies
 - [leaflet-control-orderlayers](https://github.com/elesdoar/leaflet-control-orderlayers) - Leaflet control with order functionality
 - [bottery](https://github.com/google/bottery) - 
@@ -6236,7 +6236,6 @@
 - [pywat](https://github.com/cosmologicon/pywat) - Python wats
 - [nips2017](https://github.com/hindupuravinash/nips2017) - A list of resources for all invited talks, tutorials, workshops and presentations at NIPS 2017
 - [book](https://github.com/KeKe-Li/book) - :books: All programming languages books
-- [2017-Security-ppt](https://github.com/lovesec/2017-Security-ppt) - 
 - [SmartContract](https://github.com/MOBILINK-COIN/SmartContract) - MOBILINK SMART CONTRACT
 - [tutorial](https://github.com/KeKe-Li/tutorial) - Deeplearning Algorithms Tutorial
 - [awesome-cold-showers](https://github.com/hwayne/awesome-cold-showers) - For when people get too hyped up about things
@@ -6816,6 +6815,9 @@
 
 ## Python 
 
+- [Deep-Forest](https://github.com/LAMDA-NJU/Deep-Forest) - An implementation of Deep Forest 2021.2.1.
+- [sorting_algo_visualizer](https://github.com/mportesi/sorting_algo_visualizer) - Python script to generate a visualization of various sorting algorithms, image or video.
+- [gpt3-instruct-sandbox](https://github.com/bkane1/gpt3-instruct-sandbox) - Interactive Jupyter Notebook Environment for using the GPT-3 Instruct API
 - [PlayableVideoGeneration](https://github.com/willi-menapace/PlayableVideoGeneration) - Official Pytorch implementation of "Playable Video Generation"
 - [T2T-ViT](https://github.com/yitu-opensource/T2T-ViT) - 
 - [DeBERTa](https://github.com/microsoft/DeBERTa) - The implementation of DeBERTa
