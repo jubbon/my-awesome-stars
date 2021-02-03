@@ -2837,7 +2837,7 @@
 
 ## JavaScript 
 
-- [maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) - MapLibre GL is a free and open-source fork of @mapbox/mapbox-gl
+- [maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) - MapLibre GL is a free and open-source fork of mapbox-gl-js
 - [sova-asr](https://github.com/sovaai/sova-asr) - SOVA ASR (Automatic Speech Recognition)
 - [AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) - Roadmap to becoming an Artificial Intelligence Expert in 2021
 - [gpt3-sandbox](https://github.com/shreyashankar/gpt3-sandbox) - The goal of this project is to enable users to create cool web demos using the newly released OpenAI GPT-3 API with just a few lines of Python.
@@ -4418,7 +4418,6 @@
 - [vision_transformer](https://github.com/google-research/vision_transformer) - 
 - [fastdoc](https://github.com/fastai/fastdoc) - Create publication-quality books from Jupyter notebooks
 - [jupyter-text2code](https://github.com/deepklarity/jupyter-text2code) - A proof-of-concept jupyter extension which converts english queries into relevant python code
-- [colabcode](https://github.com/abhishekkrthakur/colabcode) - Run VSCode (codeserver) on Google Colab or Kaggle Notebooks
 - [Python-for-Data-Analytics](https://github.com/ItsAwSM/Python-for-Data-Analytics) - This course will teach you only the relevant topics in Python for starting your career in Data Analytics. There are also a bunch of tips and tricks throughout for resume writing, solving case studies, interviews etc. The idea is to help you land a job in analytics and not just teach you Python.
 - [minGPT](https://github.com/karpathy/minGPT) - A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training
 - [python-for-data-science](https://github.com/blobcity/python-for-data-science) - A collection of Jupyter Notebooks for learning Python for Data Science.
@@ -6815,6 +6814,7 @@
 
 ## Python 
 
+- [pororo](https://github.com/kakaobrain/pororo) - Pororo: A Deep Learning based Multilingual Natural Language Processing Library
 - [Deep-Forest](https://github.com/LAMDA-NJU/Deep-Forest) - An implementation of Deep Forest 2021.2.1.
 - [sorting_algo_visualizer](https://github.com/mportesi/sorting_algo_visualizer) - Python script to generate a visualization of various sorting algorithms, image or video.
 - [gpt3-instruct-sandbox](https://github.com/bkane1/gpt3-instruct-sandbox) - Interactive Jupyter Notebook Environment for using the GPT-3 Instruct API
@@ -6890,6 +6890,7 @@
 - [kaggle-landmark-recognition-2020-1st-place](https://github.com/psinger/kaggle-landmark-recognition-2020-1st-place) - 
 - [vit-pytorch](https://github.com/lucidrains/vit-pytorch) - Implementation of Vision Transformer, a simple way to achieve SOTA in vision classification with only a single transformer encoder, in Pytorch
 - [genforce](https://github.com/genforce/genforce) - GenForce: an efficient PyTorch library for deep generative modeling (StyleGANv1v2, PGGAN, etc)
+- [colabcode](https://github.com/abhishekkrthakur/colabcode) - Run VSCode (codeserver) on Google Colab or Kaggle Notebooks
 - [3DDFA_V2](https://github.com/cleardusk/3DDFA_V2) - The official PyTorch implementation of Towards Fast, Accurate and Stable 3D Dense Face Alignment, ECCV 2020.
 - [expose](https://github.com/vchoutas/expose) - ExPose - EXpressive POse and Shape rEgression
 - [kopf](https://github.com/nolar/kopf) - A Python framework to write Kubernetes operators in just a few lines of code
@@ -10252,7 +10253,7 @@
 - [httptools](https://github.com/MagicStack/httptools) - Fast HTTP parser
 - [dnsdiag](https://github.com/farrokhi/dnsdiag) - DNS Diagnostics and Performance Measurement Tools
 - [expan](https://github.com/zalando/expan) - Open-source Python library for statistical analysis of randomised control trials (A/B tests)
-- [pystan](https://github.com/stan-dev/pystan) - PyStan, the Python interface to Stan
+- [pystan2](https://github.com/stan-dev/pystan2) - PyStan, the Python interface to Stan
 - [sqlitebiter](https://github.com/thombashi/sqlitebiter) - A CLI tool to convert CSV / Excel / HTML / JSON / Jupyter Notebook / LDJSON / LTSV / Markdown / SQLite / SSV / TSV / Google-Sheets to a SQLite database file.
 - [featherduster](https://github.com/nccgroup/featherduster) - An automated, modular cryptanalysis tool; i.e., a Weapon of Math Destruction
 - [deep-anpr](https://github.com/matthewearl/deep-anpr) - Using neural networks to build an automatic number plate recognition system
@@ -10435,7 +10436,7 @@
 - [heatmap](https://github.com/sethoscope/heatmap) - Python script for generating high quality heatmaps based on any coordinate data (GPS tracks, eye tracking, etc).
 - [dateutil](https://github.com/dateutil/dateutil) - Useful extensions to the standard Python datetime features
 - [scapy](https://github.com/secdev/scapy) - Scapy: the Python-based interactive packet manipulation program & library. Supports Python 2 & Python 3.
-- [tornaREST](https://github.com/nekocode/tornaREST) - A simple RESTful Web Service build with Tornado.
+- [tornaREST](https://github.com/nekocode/tornaREST) - A simple RESTful Web Service built with Tornado.
 - [python-streamexpect](https://github.com/digidotcom/python-streamexpect) - Python library providing cross-platform text matching for generic streams and sockets
 - [lda2vec](https://github.com/cemoody/lda2vec) - 
 - [letsencrypt-aws](https://github.com/alex/letsencrypt-aws) - 
@@ -10456,7 +10457,7 @@
 - [Flask-Boost](https://github.com/hustlzp/Flask-Boost) - Flask application generator for boosting your development.
 - [bidict](https://github.com/jab/bidict) - The bidirectional mapping library for Python.
 - [chcli](https://github.com/architv/chcli) - :computer: Programming challenges for Hackers - A command line tool for all programming challenges
-- [pigar](https://github.com/damnever/pigar) - :coffee: A fantastic tool to generate requirements.txt for your Python project, and more than that.
+- [pigar](https://github.com/damnever/pigar) - :coffee: A fantastic tool to generate requirements.txt for your Python project, and more than that. (IT IS NOT A PACKAGE MANAGEMENT TOOL)
 - [Pylsy](https://github.com/Leviathan1995/Pylsy) - Pylsy is a simple python library draw tables in the Terminal. Just two lines of code .
 - [yagmail](https://github.com/kootenpv/yagmail) - Send email in Python conveniently for gmail using yagmail
 - [python-semantic-release](https://github.com/relekang/python-semantic-release) - Automatic semantic versioning for python projects
@@ -12831,6 +12832,7 @@
 - [firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 - [martin](https://github.com/urbica/martin) - Blazing fast and lightweight PostGIS vector tiles server
 - [py-spy](https://github.com/benfred/py-spy) - Sampling profiler for Python programs
+- [deno](https://github.com/denoland/deno) - A secure JavaScript and TypeScript runtime
 - [xray](https://github.com/atom-archive/xray) - An experimental next-generation Electron-based text editor
 - [sit](https://github.com/sit-fyi/sit) - Serverless (offline-first, merge-friendly) Information Tracker
 - [parity-ethereum](https://github.com/openethereum/parity-ethereum) - The fast, light, and robust client for Ethereum-like networks.
@@ -13283,7 +13285,6 @@
 - [vscode-pull-request-github](https://github.com/microsoft/vscode-pull-request-github) - GitHub Pull Requests for Visual Studio Code
 - [G6](https://github.com/antvis/G6) - ♾ A Graph Visualization Framework in JavaScript
 - [comlink](https://github.com/GoogleChromeLabs/comlink) - Comlink makes WebWorkers enjoyable.
-- [deno](https://github.com/denoland/deno) - A secure JavaScript and TypeScript runtime
 - [wired-elements](https://github.com/rough-stuff/wired-elements) - Collection of custom elements that appear hand drawn. Great for wireframes or a fun look.
 - [vsc-material-theme](https://github.com/material-theme/vsc-material-theme) - Material Theme, the most epic theme for Visual Studio Code
 - [css-blocks](https://github.com/linkedin/css-blocks) - High performance, maintainable stylesheets.
@@ -13315,7 +13316,7 @@
 - [gateway](https://github.com/WebThingsIO/gateway) - WebThings Gateway
 - [tsed](https://github.com/TypedProject/tsed) - :triangular_ruler:  Ts.ED is a Node.js and TypeScript framework on top of Express to write your application with TypeScript (or ES6). It provides a lot of decorators and guideline to make your code more readable and less error-prone.
 - [tasktimer](https://github.com/onury/tasktimer) - An accurate timer utility for running periodic tasks on the given interval ticks or dates. (Node and Browser)
-- [vue-promised](https://github.com/posva/vue-promised) - 💝 Promises as components
+- [vue-promised](https://github.com/posva/vue-promised) - 💝 Composable Promises & Promises as components
 - [PruneCluster](https://github.com/SINTEF-9012/PruneCluster) - Fast and realtime marker clustering for Leaflet
 - [leaflet-geosearch](https://github.com/smeijer/leaflet-geosearch) - (Leaflet) GeoSearch / GeoCode provider
 - [vscode-python](https://github.com/microsoft/vscode-python) - Python extension for Visual Studio Code
