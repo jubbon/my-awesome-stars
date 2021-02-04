@@ -1113,7 +1113,6 @@
 - [pev](https://github.com/AlexTatiyants/pev) - Postgres Explain Visualizer
 - [vue-notifyjs](https://github.com/BinarCode/vue-notifyjs) - Minimalist 1kb Notification component
 - [awesome-bootstrap-checkbox](https://github.com/flatlogic/awesome-bootstrap-checkbox) - ✔️Font Awesome Bootstrap Checkboxes & Radios. Pure css way to make inputs look prettier
-- [docco](https://github.com/jashkenas/docco) - Literate Programming can be Quick and Dirty.
 - [git](https://github.com/dariubs/git) - Fast git tutorial in farsi
 - [one-vibrancy](https://github.com/simurai/one-vibrancy) - Vibrancy effect for Atom One themes
 - [reshifter](https://github.com/mhausenblas/reshifter) - Kubernetes cluster state management
@@ -2436,6 +2435,7 @@
 - [docker.github.io](https://github.com/docker/docker.github.io) - Source repo for Docker's Documentation
 - [RoutePlanner](https://github.com/Kasheftin/RoutePlanner) - Simple free and open source tool for planning routes
 - [viz-pub](https://github.com/halhen/viz-pub) - A place to publish data-vizes
+- [docco](https://github.com/jashkenas/docco) - Literate Programming can be Quick and Dirty.
 - [angular-material-dashboard](https://github.com/wangdicoder/angular-material-dashboard) - A material-design dashboard by using angular
 - [DeepLearningProject](https://github.com/Spandan-Madan/DeepLearningProject) - An in-depth machine learning tutorial introducing readers to a whole machine learning pipeline from scratch.
 - [drek](https://github.com/chrisallenlane/drek) - A static-code-analysis tool for performing security-focused code reviews. It enables an auditor to swiftly map the attack-surface of a large application, with an emphasis on identifying development anti-patterns and footguns.
@@ -3182,7 +3182,7 @@
 - [underrun](https://github.com/phoboslab/underrun) - Twin stick shooter game in 13kb of JavaScript/WebGL
 - [lyo](https://github.com/bokub/lyo) - 📦 Node.js to browser - The easy way
 - [worker-plugin](https://github.com/GoogleChromeLabs/worker-plugin) - 👩‍🏭 Adds native Web Worker bundling support to Webpack.
-- [headless-recorder](https://github.com/checkly/headless-recorder) - Headless recorder is a Chrome extension that records your browser interactions and generates a Puppeteer or Playwright script.
+- [headless-recorder](https://github.com/checkly/headless-recorder) - 🎥 Headless recorder is a Chrome extension that records your browser interactions and generates a Puppeteer or Playwright script.
 - [v86](https://github.com/copy/v86) - x86 virtualization in your browser, recompiling x86 to wasm on the fly
 - [wwwbasic](https://github.com/google/wwwbasic) - wwwBASIC is an implementation of BASIC that runs on Node.js and the Web.
 - [idlize](https://github.com/GoogleChromeLabs/idlize) - Helper classes and methods for implementing the idle-until-urgent pattern
@@ -5022,7 +5022,7 @@
 - [vehicle-detection](https://github.com/tatsuyah/vehicle-detection) - Vehicle detection using machine learning and computer vision techniques for Udacity's Self-Driving Car Engineer Nanodegree.
 - [al-go-rithms](https://github.com/ZoranPandovski/al-go-rithms) - :musical_note: Algorithms written in different programming languages -  https://zoranpandovski.github.io/al-go-rithms/
 - [gmseg](https://github.com/neuropoly/gmseg) - Spinal cord gray matter segmentation using deep dilated convolutions.
-- [PyTorch-Tutorial](https://github.com/MorvanZhou/PyTorch-Tutorial) - Build your neural network easy and fast
+- [PyTorch-Tutorial](https://github.com/MorvanZhou/PyTorch-Tutorial) - Build your neural network easy and fast, 莫烦Python中文教学
 - [learnopencv](https://github.com/spmallick/learnopencv) - Learn OpenCV  : C++ and Python Examples
 - [synthetic_gradients_explained](https://github.com/llSourcell/synthetic_gradients_explained) - This is the code for "Synthetic Gradients Explained" by Siraj Raval on Youtube
 - [talks](https://github.com/soumith/talks) - 
@@ -5421,6 +5421,7 @@
 - [Algorithms-and-Data-structures](https://github.com/pattu777/Algorithms-and-Data-structures) - IPython notebooks of common data structures and algorithms
 - [PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook) - Python Data Science Handbook: full text in Jupyter Notebooks
 - [scikit-learn-videos](https://github.com/justmarkham/scikit-learn-videos) - Jupyter notebooks from the scikit-learn video series
+- [ppd599](https://github.com/gboeing/ppd599) - USC urban data science course series with Python and Jupyter
 - [DeepLearning-NLP](https://github.com/rouseguy/DeepLearning-NLP) - Introduction to Deep Learning for Natural Language Processing
 - [summerschool2016](https://github.com/mila-iqia/summerschool2016) - Montréal Deep Learning Summer School 2016 material
 - [tensorflow-tutorial](https://github.com/martinwicke/tensorflow-tutorial) - A tutorial on TensorFlow
@@ -6814,7 +6815,8 @@
 
 ## Python 
 
-- [pororo](https://github.com/kakaobrain/pororo) - Pororo: A Deep Learning based Multilingual Natural Language Processing Library
+- [lightning-flash](https://github.com/PyTorchLightning/lightning-flash) - Collection of tasks for fast prototyping, baselining, finetuning and solving problems with deep learning.
+- [pororo](https://github.com/kakaobrain/pororo) - PORORO: Platform Of neuRal mOdels for natuRal language prOcessing
 - [Deep-Forest](https://github.com/LAMDA-NJU/Deep-Forest) - An implementation of Deep Forest 2021.2.1.
 - [sorting_algo_visualizer](https://github.com/mportesi/sorting_algo_visualizer) - Python script to generate a visualization of various sorting algorithms, image or video.
 - [gpt3-instruct-sandbox](https://github.com/bkane1/gpt3-instruct-sandbox) - Interactive Jupyter Notebook Environment for using the GPT-3 Instruct API
@@ -6824,7 +6826,7 @@
 - [bottleneck-transformer-pytorch](https://github.com/lucidrains/bottleneck-transformer-pytorch) - Implementation of Bottleneck Transformer in Pytorch
 - [wifi-password](https://github.com/sdushantha/wifi-password) - Quickly fetch your WiFi password and if needed, generate a QR code of your WiFi to allow phones to easily connect
 - [Scrapera](https://github.com/DarshanDeshpande/Scrapera) - A universal package of scraper scripts for humans
-- [rebiber](https://github.com/yuchenlin/rebiber) - A simple tool in Python to fix incorrect bib entries automatically, based on their official information from the full ACL anthology and DBLP (for ICLR and other conferences)!
+- [rebiber](https://github.com/yuchenlin/rebiber) - A simple tool to update bib entries with their official information (e.g., DBLP or the ACL anthology).
 - [PLDA](https://github.com/RicherMans/PLDA) - An LDA/PLDA estimator using KALDI in python for speaker verification tasks
 - [elpis](https://github.com/CoEDL/elpis) - 🙊 WIP software for creating speech recognition models.
 - [pytorch-asr](https://github.com/jinserk/pytorch-asr) - ASR with PyTorch
@@ -7135,7 +7137,7 @@
 - [remi](https://github.com/YatingMusic/remi) - "Pop Music Transformer: Beat-based Modeling and Generation of Expressive Pop Piano Compositions", ACM Multimedia 2020
 - [tianshou](https://github.com/thu-ml/tianshou) - An elegant PyTorch deep reinforcement learning platform.
 - [pycls](https://github.com/facebookresearch/pycls) - Codebase for Image Classification Research, written in PyTorch.
-- [PaddleHub](https://github.com/PaddlePaddle/PaddleHub) - Awesome pre-trained models toolkit based on PaddlePaddle.（180+ models including Image, Text, Audio and Video with Easy Inference & Serving deployment)
+- [PaddleHub](https://github.com/PaddlePaddle/PaddleHub) - Awesome pre-trained models toolkit based on PaddlePaddle.（200+ models including Image, Text, Audio and Video with Easy Inference & Serving deployment)
 - [CurveFit](https://github.com/ihmeuw-msca/CurveFit) - Generic curve fitting package with nonlinear mixed effects model
 - [aristo-mini](https://github.com/allenai/aristo-mini) - Aristo mini is a light-weight question answering system that can quickly evaluate Aristo science questions with an evaluation web server and the provided baseline solvers.
 - [gym-gridworld](https://github.com/xinleipan/gym-gridworld) - Simple grid-world environment compatible with OpenAI-gym
@@ -9199,7 +9201,7 @@
 - [rtfm](https://github.com/leostat/rtfm) - A database of common, interesting or useful commands, in one handy referable form
 - [goSecure](https://github.com/nsacyber/goSecure) - An easy to use and portable Virtual Private Network (VPN) system built with Linux and a Raspberry Pi. #nsacyber
 - [dash](https://github.com/plotly/dash) - Analytical Web Apps for Python, R, Julia, and Jupyter. No JavaScript Required.
-- [Reinforcement-learning-with-tensorflow](https://github.com/MorvanZhou/Reinforcement-learning-with-tensorflow) - Simple Reinforcement learning tutorials
+- [Reinforcement-learning-with-tensorflow](https://github.com/MorvanZhou/Reinforcement-learning-with-tensorflow) - Simple Reinforcement learning tutorials, 莫烦Python 中文AI教学
 - [DocumentClassification](https://github.com/liu-nlper/DocumentClassification) - This code implements a simple CNN model for document classification with tensorflow.
 - [now.httpbin.org](https://github.com/not-kennethreitz/now.httpbin.org) - An API (for Humans) for converting timestamps.
 - [How_to_simulate_a_self_driving_car](https://github.com/llSourcell/How_to_simulate_a_self_driving_car) - This is the code for "How to Simulate a Self-Driving Car" by Siraj Raval on Youtube
@@ -9312,7 +9314,7 @@
 - [ssh-mitm](https://github.com/jtesta/ssh-mitm) - SSH man-in-the-middle tool
 - [howmanypeoplearearound](https://github.com/schollz/howmanypeoplearearound) - Count the number of people around you :family_man_man_boy: by monitoring wifi signals :satellite:
 - [interactive-deep-colorization](https://github.com/junyanz/interactive-deep-colorization) - Deep learning software for colorizing black and white images with a few clicks.
-- [Tensorflow-Tutorial](https://github.com/MorvanZhou/Tensorflow-Tutorial) - Tensorflow tutorial from basic to hard
+- [Tensorflow-Tutorial](https://github.com/MorvanZhou/Tensorflow-Tutorial) - Tensorflow tutorial from basic to hard, 莫烦Python 中文AI教学
 - [Deep-Feature-Flow](https://github.com/msracver/Deep-Feature-Flow) - Deep Feature Flow for Video Recognition
 - [OnlineSchemaChange](https://github.com/facebookincubator/OnlineSchemaChange) - A tool for performing online schema changes on MySQL.
 - [AssistantPi](https://github.com/xtools-at/AssistantPi) - Bring both Google Assistant and Alexa to your Raspberry Pi
@@ -12227,7 +12229,7 @@
 - [crate.web](https://github.com/crateio/crate.web) - Django Application Providing a Python Package Index
 - [basic_sentiment_analysis](https://github.com/fjavieralba/basic_sentiment_analysis) - Code of the blog post: http://fjavieralba.com/basic-sentiment-analysis-with-python.html
 - [django-layout](https://github.com/lincolnloop/django-layout) - Django 1.4+ project template layout. Run: django-admin.py startproject --template=https://github.com/lincolnloop/django-layout/zipball/master --extension=py,rst project_name
-- [markbox](https://github.com/myfreeweb/markbox) - [DEPRECATED] A blogging engine for Dropbox based on Markdown
+- [markbox](https://github.com/unrelentingtech/markbox) - [DEPRECATED] A blogging engine for Dropbox based on Markdown
 - [appypi](https://github.com/stephanepechard/appypi) - Sandboxing apps from Pypi packages
 - [PyT](https://github.com/dogada/PyT) - High-performance Python DSL for generation of (X)HTML with preprocessing and template inheritance.
 - [gitpress](https://github.com/joeyespo/gitpress) - Blissful blogging for hackers.
@@ -13143,7 +13145,6 @@
 - [happy-git-with-r](https://github.com/jennybc/happy-git-with-r) - Using Git and GitHub with R, Rstudio, and R Markdown
 - [gt-nlp-class](https://github.com/jacobeisenstein/gt-nlp-class) - Course materials for Georgia Tech CS 4650 and 7650, "Natural Language"
 - [tidy-text-mining](https://github.com/dgrtwo/tidy-text-mining) - Manuscript of the book "Tidy Text Mining with R" by Julia Silge and David Robinson
-- [ppd599](https://github.com/gboeing/ppd599) - USC urban data science course series with Python and Jupyter
 - [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) - The most cited deep learning papers
 - [efficientR](https://github.com/csgillespie/efficientR) - Efficient R programming: a book
 - [depsy-research](https://github.com/ourresearch/depsy-research) - Documentation and research output for Depsy (see https://github.com/impactstory/depsy for source of Depsy itself)
