@@ -729,7 +729,6 @@
 - [bigflow](https://github.com/baidu/bigflow) - Baidu Bigflow is an interface that allows for writing distributed computing programs and provides lots of simple, flexible, powerful APIs. Using Bigflow, you can easily handle data of any scale. Bigflow processes 4P+ data inside Baidu and runs about 10k jobs every day.
 - [carla](https://github.com/carla-simulator/carla) - Open-source simulator for autonomous driving research.
 - [sling](https://github.com/google/sling) - SLING - A natural language frame semantics parser
-- [vcpkg](https://github.com/microsoft/vcpkg) - C++ Library Manager for Windows, Linux, and MacOS
 - [Tars](https://github.com/TarsCloud/Tars) - Tars is a high-performance RPC framework based on name service and Tars protocol, also integrated administration platform, and implemented hosting-service via flexible schedule.
 - [taco](https://github.com/tensor-compiler/taco) - The Tensor Algebra Compiler (taco) computes sparse tensor expressions on CPUs and GPUs
 - [TileDB](https://github.com/TileDB-Inc/TileDB) - The Universal Storage Engine
@@ -997,6 +996,7 @@
 ## CMake 
 
 - [geometry-processing-introduction](https://github.com/alecjacobson/geometry-processing-introduction) - Introductory assignment for Geometry Processing course
+- [vcpkg](https://github.com/microsoft/vcpkg) - C++ Library Manager for Windows, Linux, and MacOS
 - [ck-caffe](https://github.com/dividiti/ck-caffe) - Collective Knowledge workflow for Caffe to automate installation across diverse platforms and to collaboratively evaluate and optimize Caffe-based workloads across diverse hardware, software and data sets (compilers, libraries, tools, models, inputs):
 
 ## CSS 
@@ -1081,7 +1081,7 @@
 - [scratches](https://github.com/heapwolf/scratches) - A scratchpad with node & browser apis.
 - [lit](https://github.com/ajusa/lit) - World's smallest responsive 🔥 css framework (395 bytes)
 - [direction-reveal](https://github.com/NigelOToole/direction-reveal) - Direction aware content reveals via hover or tab on an element.
-- [SocialFish](https://github.com/UndeadSec/SocialFish) - Automated Phishing Tool & Information Collector
+- [SocialFish](https://github.com/UndeadSec/SocialFish) - Educational Phishing Tool & Information Collector
 - [epoch](https://github.com/dinkbit/epoch) - A simple but powerful Epoch converter
 - [micron](https://github.com/webkul/micron) - a [μ] microInteraction library built with CSS Animations and controlled by JavaScript Power
 - [CrookedStyleSheets](https://github.com/jbtronics/CrookedStyleSheets) - Webpage tracking only using CSS (and no JS)
@@ -1603,7 +1603,7 @@
 - [pipe-to-me](https://github.com/jpschroeder/pipe-to-me) - Stream data over http using curl.
 - [kraken](https://github.com/uber/kraken) - P2P Docker registry capable of distributing TBs of data in seconds
 - [astro](https://github.com/uber/astro) - Astro is a tool for managing multiple Terraform executions as a single command
-- [cortex](https://github.com/cortexlabs/cortex) - Run inference at scale
+- [cortex](https://github.com/cortexlabs/cortex) - Model serving at scale
 - [cds](https://github.com/ovh/cds) - Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform
 - [k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes
 - [docui](https://github.com/skanehira/docui) - TUI Client for Docker
@@ -2160,6 +2160,7 @@
 ## HTML 
 
 - [speechbrain.github.io](https://github.com/speechbrain/speechbrain.github.io) - The SpeechBrain project aims to build a novel speech toolkit fully based on PyTorch. With SpeechBrain users can easily create speech processing systems, ranging from speech recognition (both HMM/DNN and end-to-end), speaker recognition, speech enhancement, speech separation, multi-microphone speech processing, and many others.
+- [thgtoa](https://github.com/AnonymousPlanet/thgtoa) - The Hitchhiker’s Guide to Online Anonymity
 - [introduction-to-bash-scripting](https://github.com/bobbyiliev/introduction-to-bash-scripting) - Free Introduction to Bash Scripting eBook
 - [kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
 - [turndown](https://github.com/domchristie/turndown) - 🛏 An HTML to Markdown converter written in JavaScript
@@ -2889,7 +2890,7 @@
 - [ferdi](https://github.com/getferdi/ferdi) - 🧔🏽 Ferdi  helps you organize how you use your favourite apps by combining them into one application
 - [flowy](https://github.com/alyssaxuu/flowy) - The minimal javascript library to create flowcharts ✨
 - [Tutorials](https://github.com/SAPDocuments/Tutorials) - Tutorials on sap.com
-- [shhgit](https://github.com/eth0izzle/shhgit) - Ah shhgit! Find GitHub secrets in real time
+- [shhgit](https://github.com/eth0izzle/shhgit) - Ah shhgit! Find secrets in your GitHub, GitLab and Bitbucket repositories.
 - [fabric-samples](https://github.com/hyperledger/fabric-samples) - 
 - [BullshitGenerator](https://github.com/menzi11/BullshitGenerator) - Needs to generate some texts to test if my GUI rendering codes good or not. so I made this.
 - [moment-timezone](https://github.com/moment/moment-timezone) - Timezone support for moment.js
@@ -4377,7 +4378,7 @@
 - [pydashie](https://github.com/evolvedlight/pydashie) - Port of Dashing to python
 - [chromelogger](https://github.com/ccampbell/chromelogger) - chrome extension for server side console logging
 - [bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
-- [dropzone](https://github.com/enyo/dropzone) - Dropzone is an easy to use drag'n'drop library. It supports image previews and shows nice progress bars.
+- [dropzone](https://github.com/dropzone/dropzone) - Dropzone is an easy to use drag'n'drop library. It supports image previews and shows nice progress bars.
 - [crowy](https://github.com/co-meeting/crowy) - Crowy is a communication dashboard supports multiple group communications services, incluging Twitter (with hashtag support), Facebook profile/page/group, Yammer, LinkedIn, Cybozu Live and youRoom.
 - [compilers-webpage](https://github.com/pydata/compilers-webpage) - Webpage source for compilers-webpage
 - [sigma.js](https://github.com/jacomyal/sigma.js) - A JavaScript library dedicated to graph drawing
@@ -4460,7 +4461,7 @@
 - [course-content](https://github.com/NeuromatchAcademy/course-content) - Summer course content for Neuromatch Academy
 - [machine-learning-experiments](https://github.com/trekhleb/machine-learning-experiments) - 🤖 Interactive Machine Learning experiments: 🏋️models training + 🎨models demo
 - [yargy-examples](https://github.com/natasha/yargy-examples) - 
-- [nel](https://github.com/wikilinks/nel) - Entity linking framework
+- [nel](https://github.com/andychisholm/nel) - Entity linking framework
 - [Practical_RL](https://github.com/sshkhr/Practical_RL) - My solutions to Yandex Practical Reinforcement Learning course in PyTorch and Tensorflow
 - [video-scene-detection](https://github.com/ivi-ru/video-scene-detection) - Video Scene Detection Based on the Optimal Sequential Grouping algorithm
 - [tutorials](https://github.com/krittikaiitb/tutorials) - Set of Jupyter Notebooks, along with datafiles, to get started with Scientific Computing in Astronomy
@@ -5774,7 +5775,6 @@
 - [ctci-python-solutions](https://github.com/arpan74/ctci-python-solutions) - Cracking the Coding Interview in Python 3. The solutions all have detailed explanations with visuals.
 - [Best_AI_paper_2020](https://github.com/louisfb01/Best_AI_paper_2020) - A curated list of the latest breakthroughs in AI by release date with a clear video explanation, link to a more in-depth article, and code
 - [awesome-ml-tracking](https://github.com/srush/awesome-ml-tracking) - 
-- [thgtoa](https://github.com/AnonymousPlanet/thgtoa) - The Hitchhiker’s Guide to Online Anonymity
 - [MSU](https://github.com/Dyakonov/MSU) - описание тем исследовательских работ для студентов
 - [ScaledYOLOv4](https://github.com/WongKinYiu/ScaledYOLOv4) - 
 - [awesome-ML-projects-guide](https://github.com/dair-ai/awesome-ML-projects-guide) - A guide to building awesome machine learning projects.
@@ -12255,7 +12255,7 @@
 - [trequests](https://github.com/1stvamp/trequests) - A Tornado async HTTP/HTTPS client adaptor for python-requests
 - [mplstyle](https://github.com/jsvine/mplstyle) - A simple API for setting matplotlib styles, as well as a repository of nice styles.
 - [django-redisboard](https://github.com/ionelmc/django-redisboard) - Redis monitoring and inspection tool in django admin.
-- [wq.db](https://github.com/wq/wq.db) - ☁🌐 wq's db library, extending Django REST framework and Mustache with database models to support design patterns common to field data collection systems for citizen science, crowdsourcing, and VGI.
+- [wq.db](https://github.com/wq/wq.db) - ☁🌐 wq's db library, extending Django REST framework to support apps for geospatial field data collection, citizen science, and crowdsourcing.
 - [curdling](https://github.com/clarete/curdling) - Concurrent package manager for Python
 - [acid](https://github.com/dw/acid) - SQLite for NoSQL (WORK IN PROGRESS)
 - [Fiona](https://github.com/Toblerity/Fiona) - Fiona reads and writes geographic data files
@@ -12962,7 +12962,7 @@
 - [ansible-tuto-rus](https://github.com/freetonik/ansible-tuto-rus) - Ansible tutorial (Russian)
 - [ansible-docker](https://github.com/debops/ansible-docker) - Install and configure Docker Engine
 - [docker-selenium](https://github.com/elgalu/docker-selenium) - Selenium in Docker with Chrome & Firefox plus video recording support. Also check: Zalenium
-- [setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) - Scripts to build your own IPsec VPN server, with IPsec/L2TP and Cisco IPsec on Ubuntu, Debian and CentOS
+- [setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) - Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2
 - [docker-compose-letsencrypt-nginx-proxy-companion](https://github.com/evertramos/docker-compose-letsencrypt-nginx-proxy-companion) - Automated docker nginx proxy integrated with letsencrypt.
 - [docker-letsencrypt-nginx-proxy-companion](https://github.com/nginx-proxy/docker-letsencrypt-nginx-proxy-companion) - LetsEncrypt companion container for nginx-proxy
 - [Interview-Book](https://github.com/Mountain-Buzhou/Interview-Book) - It's not just interview questions, it's an engineer's career path.
