@@ -2888,7 +2888,7 @@
 - [ferdi](https://github.com/getferdi/ferdi) - 🧔🏽 Ferdi  helps you organize how you use your favourite apps by combining them into one application
 - [flowy](https://github.com/alyssaxuu/flowy) - The minimal javascript library to create flowcharts ✨
 - [Tutorials](https://github.com/SAPDocuments/Tutorials) - Tutorials on sap.com
-- [shhgit](https://github.com/eth0izzle/shhgit) - Ah shhgit! Find secrets in your GitHub, GitLab and Bitbucket repositories.
+- [shhgit](https://github.com/eth0izzle/shhgit) - Ah shhgit! Secret detection for your GitHub, GitLab and Bitbucket repositories.
 - [fabric-samples](https://github.com/hyperledger/fabric-samples) - 
 - [BullshitGenerator](https://github.com/menzi11/BullshitGenerator) - Needs to generate some texts to test if my GUI rendering codes good or not. so I made this.
 - [moment-timezone](https://github.com/moment/moment-timezone) - Timezone support for moment.js
@@ -3427,7 +3427,7 @@
 - [doctor](https://github.com/propellant/doctor) - quick and easy documentation of Vue.js components - DEPRECATED
 - [vue-tweezing](https://github.com/posva/vue-tweezing) - 💃 Easy, customizable and automatic tweening nicely served in scoped slots
 - [vue-raven](https://github.com/anteriovieira/vue-raven) - vue-raven automatically reports uncaught JavaScript exceptions triggered from vue component
-- [vue-routisan](https://github.com/mikerockett/vue-routisan) - Elegant, fluent route definitions for Vue Router, inspired by Laravel. Version 3 is currently in beta.
+- [vue-routisan](https://github.com/mikerockett/vue-routisan) - Elegant, fluent route definitions for Vue Router, inspired by Laravel. v3 is currently in beta. vue-routisan@next
 - [vue-session](https://github.com/victorsferreira/vue-session) - A simplistic session plugin for VueJS backed by SessionStorage and LocalStorage
 - [vue-cordova-demo](https://github.com/kartsims/vue-cordova-demo) - Demo for vue-cordova NPM package
 - [terriajs](https://github.com/TerriaJS/terriajs) - A library for building rich, web-based geospatial data platforms.
@@ -5760,6 +5760,7 @@
 
 ## Others 
 
+- [free-developer-resources](https://github.com/codeSTACKr/free-developer-resources) - Free Developer Resources
 - [voice_datasets](https://github.com/jim-schwoebel/voice_datasets) - 🔊 A comprehensive list of open-source datasets for voice and sound computing (50+ datasets).
 - [sova-dataset](https://github.com/sovaai/sova-dataset) - 
 - [awesome-kaldi](https://github.com/YoavRamon/awesome-kaldi) - This is a list of features, scripts, blogs and resources for better using Kaldi ( http://kaldi-asr.org/ )
@@ -6813,6 +6814,7 @@
 
 ## Python 
 
+- [PaddleNLP](https://github.com/PaddlePaddle/PaddleNLP) - NLP Core Library and Model Zoo based on PaddlePaddle 2.0
 - [lightning-flash](https://github.com/PyTorchLightning/lightning-flash) - Collection of tasks for fast prototyping, baselining, finetuning and solving problems with deep learning.
 - [pororo](https://github.com/kakaobrain/pororo) - PORORO: Platform Of neuRal mOdels for natuRal language prOcessing
 - [Deep-Forest](https://github.com/LAMDA-NJU/Deep-Forest) - An implementation of Deep Forest 2021.2.1.
@@ -9596,7 +9598,7 @@
 - [kickthemout](https://github.com/k4m4/kickthemout) - 💤 Kick devices off your network by performing an ARP Spoof attack.
 - [pywonderland](https://github.com/neozhaoliang/pywonderland) - A tour in the wonderland of math with python.
 - [hodor](https://github.com/CompileInc/hodor) - 🕷Configuration based html scraper
-- [argos](https://github.com/titusjan/argos) - Argos Panoptes HDF/NCDF/scientific data viewer.
+- [argos](https://github.com/titusjan/argos) - Argos: a data viewer that can read HDF5, NetCDF4, and other file formats.
 - [pylint](https://github.com/PyCQA/pylint) - It's not just a linter that annoys you!
 - [pyexcel](https://github.com/pyexcel/pyexcel) - Single API for reading, manipulating and writing data in csv, ods, xls, xlsx and xlsm files
 - [flake8](https://github.com/PyCQA/flake8) - The official GitHub mirror of https://gitlab.com/pycqa/flake8
