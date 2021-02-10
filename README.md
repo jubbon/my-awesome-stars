@@ -455,6 +455,7 @@
 
 ## C# # 
 
+- [resin](https://github.com/kreeben/resin) - Hardware-accelerated vector-based search engine. Available as a HTTP service or as an embedded library.
 - [acr-tasks](https://github.com/Azure-Samples/acr-tasks) - A collection samples for ACR Tasks, including acr-task.yaml and Dockerfiles.
 - [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [Microsoft-Rocketbox](https://github.com/microsoft/Microsoft-Rocketbox) - Microsoft Rocketbox is now available for research and academic use! The library of 115 rigged avatars offers flexibility, enabling the easy use of facial animations across characters and the mixing and matching of texture elements.
@@ -483,6 +484,8 @@
 
 ## C++ 
 
+- [graphvite](https://github.com/DeepGraphLearning/graphvite) - GraphVite: A General and High-performance Graph Embedding System
+- [sf1r-lite](https://github.com/izenecloud/sf1r-lite) - Search Formula-1——A distributed high performance massive data engine for enterprise/vertical search
 - [asr24](https://github.com/uiuc-sst/asr24) - 24-hour Automatic Speech Recognition
 - [eesen](https://github.com/srvk/eesen) - The official repository of the Eesen project
 - [JamSpell](https://github.com/bakwc/JamSpell) - Modern spell checking library - accurate, fast, multi-language
@@ -1366,7 +1369,7 @@
 
 - [flutter_ecommerce_app](https://github.com/TheAlphamerc/flutter_ecommerce_app) - E-Commerce App built in flutter
 - [flutter_smart_course](https://github.com/TheAlphamerc/flutter_smart_course) - Smart course app built in flutter.
-- [chyker-foods](https://github.com/OLayemii/chyker-foods) - A food ordering app built with flutter and firebase
+- [chyker-foods](https://github.com/olayemii/chyker-foods) - A food ordering app built with flutter and firebase
 - [flutterfire](https://github.com/FirebaseExtended/flutterfire) - 🔥 A collection of Firebase plugins for Flutter apps.
 - [timy-messenger](https://github.com/janoodleFTW/timy-messenger) - Timy - open source mobile app for groups to communicate and organize themselves. Built with flutter.
 - [Flutter-Todolist](https://github.com/LiveLikeCounter/Flutter-Todolist) - A Flutter based to do list app (yes, another to do list... but... this time based on a beautiful design)
@@ -1917,7 +1920,7 @@
 - [faas-netes](https://github.com/openfaas/faas-netes) - Kubernetes controller for OpenFaaS
 - [kubeless](https://github.com/kubeless/kubeless) - Kubernetes Native Serverless Framework
 - [sup3rS3cretMes5age](https://github.com/algolia/sup3rS3cretMes5age) - Simple to use, simple to deploy, one time self destruct messaging service, with hashicorp vault as a backend
-- [argo](https://github.com/argoproj/argo) - Argo Workflows: Get stuff done with Kubernetes.
+- [argo-workflows](https://github.com/argoproj/argo-workflows) - Argo Workflows: Get stuff done with Kubernetes.
 - [powerline-go](https://github.com/justjanne/powerline-go) - A beautiful and useful low-latency prompt for your shell, written in go
 - [pprof](https://github.com/google/pprof) - pprof is a tool for visualization and analysis of profiling data
 - [raven](https://github.com/0x09AL/raven) - raven is a Linkedin information gathering tool that  can be used by pentesters to gather information about an organization employees using Linkedin.
@@ -2699,9 +2702,13 @@
 ## Hy 
 
 - [siringa](https://github.com/h2non/siringa) - Minimalist dependency injection library for Python that embraces type annotations syntax
+- [hy](https://github.com/hylang/hy) - A dialect of Lisp that's embedded in Python
 
 ## Java 
 
+- [fess](https://github.com/codelibs/fess) - Fess is very powerful and easily deployable Enterprise Search Server.
+- [vespa](https://github.com/vespa-engine/vespa) - Vespa is an engine for low-latency computation over large data sets.
+- [lucene-solr](https://github.com/apache/lucene-solr) - Apache Lucene and Solr open-source search software
 - [cassandra-workshop-series](https://github.com/DataStax-Academy/cassandra-workshop-series) - All materials for the Cassandra Workshop Series in a single place
 - [spring-cloud-alibaba](https://github.com/alibaba/spring-cloud-alibaba) - Spring Cloud Alibaba provides a one-stop solution for application development for the distributed solutions of Alibaba middleware.
 - [tink](https://github.com/google/tink) - Tink is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.
@@ -2836,6 +2843,8 @@
 
 ## JavaScript 
 
+- [neuralqa](https://github.com/victordibia/neuralqa) - NeuralQA: A Usable Library for Question Answering on Large Datasets with BERT
+- [knowledge-graphs](https://github.com/shaoxiongji/knowledge-graphs) - A collection of research on knowledge graphs
 - [maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) - MapLibre GL is a free and open-source fork of mapbox-gl-js
 - [sova-asr](https://github.com/sovaai/sova-asr) - SOVA ASR (Automatic Speech Recognition)
 - [AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) - Roadmap to becoming an Artificial Intelligence Expert in 2021
@@ -2888,7 +2897,7 @@
 - [ferdi](https://github.com/getferdi/ferdi) - 🧔🏽 Ferdi  helps you organize how you use your favourite apps by combining them into one application
 - [flowy](https://github.com/alyssaxuu/flowy) - The minimal javascript library to create flowcharts ✨
 - [Tutorials](https://github.com/SAPDocuments/Tutorials) - Tutorials on sap.com
-- [shhgit](https://github.com/eth0izzle/shhgit) - Ah shhgit! Secret detection for your GitHub, GitLab and Bitbucket repositories.
+- [shhgit](https://github.com/eth0izzle/shhgit) - Ah shhgit! Secrets detection for your GitHub, GitLab and Bitbucket repositories: www.shhgit.com
 - [fabric-samples](https://github.com/hyperledger/fabric-samples) - 
 - [BullshitGenerator](https://github.com/menzi11/BullshitGenerator) - Needs to generate some texts to test if my GUI rendering codes good or not. so I made this.
 - [moment-timezone](https://github.com/moment/moment-timezone) - Timezone support for moment.js
@@ -3830,7 +3839,7 @@
 - [illustrated-algorithms](https://github.com/skidding/illustrated-algorithms) - Interactive algorithm visualizations
 - [easyvpn](https://github.com/rodrigogs/easyvpn) - Easily connect to a VPN in a country of your choice.
 - [creative-portfolios](https://github.com/iRaul/creative-portfolios) - 🌀  A curated list of Creative Portfolios
-- [cerebro](https://github.com/KELiON/cerebro) - Open-source productivity booster with a brain
+- [cerebro](https://github.com/cerebroapp/cerebro) - Open-source productivity booster with a brain
 - [home-automation](https://github.com/deepsyx/home-automation) - Raspberry Pi 3 based home automation with NodeJS and React Native.
 - [startbootstrap-creative](https://github.com/StartBootstrap/startbootstrap-creative) - A one page HTML theme for creatives by Start Bootstrap
 - [ava](https://github.com/avajs/ava) - Node.js test runner that lets you develop with confidence 🚀
@@ -4402,6 +4411,11 @@
 
 ## Jupyter Notebook 
 
+- [VL-BERT](https://github.com/jackroos/VL-BERT) - Code for ICLR 2020 paper "VL-BERT: Pre-training of Generic Visual-Linguistic Representations".
+- [CodeSearchNet](https://github.com/github/CodeSearchNet) - Datasets, tools, and benchmarks for representation learning of code.
+- [data_science_blogs](https://github.com/MLWhiz/data_science_blogs) - A repository to keep track of all the code that I end up writing for my blog posts.
+- [python-education-v2](https://github.com/globalaihub/python-education-v2) - 
+- [T2T-ViT](https://github.com/yitu-opensource/T2T-ViT) - 
 - [HistSumm](https://github.com/Pzoom522/HistSumm) - Code and data for "Summarising Historical Text in Modern Languages" (EACL 2021)
 - [silero-models](https://github.com/snakers4/silero-models) - Silero Models: pre-trained STT models and benchmarks made embarrassingly simple
 - [kaldi-for-russian](https://github.com/grib0ed0v/kaldi-for-russian) - 
@@ -5754,12 +5768,16 @@
 
 ## OpenEdge ABL 
 
+- [NLP-Projects](https://github.com/gaoisbest/NLP-Projects) - word2vec, sentence2vec, machine reading comprehension, dialog system, text classification, pretrained language model (i.e., XLNet, BERT, ELMo, GPT), sequence labeling, information retrieval, information extraction (i.e., entity, relation and event extraction), knowledge graph, text generation, network embedding
 - [musicmood](https://github.com/rasbt/musicmood) - A machine learning approach to classify songs by mood.
 - [politeness](https://github.com/sudhof/politeness) - Sample implementation of a politeness model, trained on the Stanford Politeness Corpus
 - [nodebox-opengl](https://github.com/nodebox/nodebox-opengl) - Free, cross-platform library for generating 2D animations with Python programming code.
 
 ## Others 
 
+- [Awesome-VAEs](https://github.com/matthewvowels1/Awesome-VAEs) - A curated list of awesome work on VAEs, disentanglement, representation learning, and generative models.
+- [awesome-network-embedding](https://github.com/chihming/awesome-network-embedding) - A curated list of network embedding techniques.
+- [best-of-streamlit](https://github.com/jrieke/best-of-streamlit) - 🏆 A ranked gallery of awesome streamlit apps built by the community
 - [free-developer-resources](https://github.com/codeSTACKr/free-developer-resources) - Free Developer Resources
 - [voice_datasets](https://github.com/jim-schwoebel/voice_datasets) - 🔊 A comprehensive list of open-source datasets for voice and sound computing (50+ datasets).
 - [sova-dataset](https://github.com/sovaai/sova-dataset) - 
@@ -6535,7 +6553,7 @@
 - [awesome-bitcoin](https://github.com/igorbarinov/awesome-bitcoin) - A curated list of bitcoin services and tools for software developers
 - [awesome-speaking](https://github.com/matteofigus/awesome-speaking) - Resources about public speaking
 - [awesome-rethinkdb](https://github.com/d3viant0ne/awesome-rethinkdb) - A curated list of awesome RethinkDB resources, libraries, tools and applications
-- [awesome-software-quality](https://github.com/ligurio/awesome-software-quality) - Software Quality Wiki
+- [software-quality-wiki](https://github.com/ligurio/software-quality-wiki) - Software Quality Wiki
 - [awesome-hyper](https://github.com/bnb/awesome-hyper) - 🖥 Delightful Hyper plugins, themes, and resources
 - [dl_tutorials](https://github.com/sjchoi86/dl_tutorials) - Deep learning tutorials (2nd ed.)
 - [awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
@@ -6814,6 +6832,22 @@
 
 ## Python 
 
+- [Autoregressive-Predictive-Coding](https://github.com/iamyuanchung/Autoregressive-Predictive-Coding) - Autoregressive Predictive Coding: An unsupervised autoregressive model for speech representation learning
+- [CPC_audio](https://github.com/facebookresearch/CPC_audio) - An implementation of the Contrast Predictive Coding (CPC) method to train audio features in an unsupervised fashion.
+- [s3prl](https://github.com/s3prl/s3prl) - Self-Supervised Speech Pre-training and Representation Learning Toolkit.
+- [SERT](https://github.com/cvangysel/SERT) - Semantic Entity Retrieval Toolkit
+- [OpenMatch](https://github.com/thunlp/OpenMatch) - An Open-Source Package for Information Retrieval.
+- [vec4ir](https://github.com/lgalke/vec4ir) - Word Embeddings for Information Retrieval
+- [Sequence-Semantic-Embedding](https://github.com/eBay/Sequence-Semantic-Embedding) - Tools and recipes to train deep learning models and build services for NLP tasks such as text classification, semantic search ranking and recall fetching, cross-lingual information retrieval, and question answering etc.
+- [cdQA](https://github.com/cdqa-suite/cdQA) - ⛔ [NOT MAINTAINED] An End-To-End Closed Domain Question Answering System.
+- [Deep-Semantic-Similarity-Model](https://github.com/airalcorn2/Deep-Semantic-Similarity-Model) - My Keras implementation of the Deep Semantic Similarity Model (DSSM)/Convolutional Latent Semantic Model (CLSM) described here: http://research.microsoft.com/pubs/226585/cikm2014_cdssm_final.pdf.
+- [InvoiceNet](https://github.com/naiveHobo/InvoiceNet) - Deep neural network to extract intelligent information from invoice documents.
+- [nboost](https://github.com/koursaros-ai/nboost) - NBoost is a scalable, search-api-boosting platform for deploying transformer models to improve the relevance of search results on different platforms (i.e. Elasticsearch)
+- [bertsearch](https://github.com/Hironsan/bertsearch) - Elasticsearch with BERT for advanced document search.
+- [whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
+- [streamlit-fastapi-model-serving](https://github.com/davidefiocco/streamlit-fastapi-model-serving) - Simple web app example using streamlit and FastAPI to serve a PyTorch model
+- [insight](https://github.com/abhimishra91/insight) - Repository for Project Insight: NLP as a Service
+- [wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) - The strictest and most opinionated python linter ever!
 - [PaddleNLP](https://github.com/PaddlePaddle/PaddleNLP) - NLP Core Library and Model Zoo based on PaddlePaddle 2.0
 - [lightning-flash](https://github.com/PyTorchLightning/lightning-flash) - Collection of tasks for fast prototyping, baselining, finetuning and solving problems with deep learning.
 - [pororo](https://github.com/kakaobrain/pororo) - PORORO: Platform Of neuRal mOdels for natuRal language prOcessing
@@ -6821,7 +6855,6 @@
 - [sorting_algo_visualizer](https://github.com/mportesi/sorting_algo_visualizer) - Python script to generate a visualization of various sorting algorithms, image or video.
 - [gpt3-instruct-sandbox](https://github.com/bkane1/gpt3-instruct-sandbox) - Interactive Jupyter Notebook Environment for using the GPT-3 Instruct API
 - [PlayableVideoGeneration](https://github.com/willi-menapace/PlayableVideoGeneration) - Official Pytorch implementation of "Playable Video Generation"
-- [T2T-ViT](https://github.com/yitu-opensource/T2T-ViT) - 
 - [DeBERTa](https://github.com/microsoft/DeBERTa) - The implementation of DeBERTa
 - [bottleneck-transformer-pytorch](https://github.com/lucidrains/bottleneck-transformer-pytorch) - Implementation of Bottleneck Transformer in Pytorch
 - [wifi-password](https://github.com/sdushantha/wifi-password) - Quickly fetch your WiFi password and if needed, generate a QR code of your WiFi to allow phones to easily connect
@@ -7297,7 +7330,7 @@
 - [meta_seq2seq](https://github.com/facebookresearch/meta_seq2seq) - Compositional generalization through meta sequence-to-sequence learning
 - [2004P_Pytorch-Networks](https://github.com/H-Liu1997/2004P_Pytorch-Networks) - 
 - [pytorch-distributed](https://github.com/tczhangzhi/pytorch-distributed) - A quickstart and benchmark for pytorch distributed training.
-- [KAIR](https://github.com/cszn/KAIR) - Image Restoration Toolbox (PyTorch). Training and testing codes for USRNet, DnCNN, FFDNet, SRMD, DPSR, MSRResNet, ESRGAN, IMDN
+- [KAIR](https://github.com/cszn/KAIR) - Image Restoration Toolbox (PyTorch). Training and testing codes for USRNet, DnCNN, FFDNet, SRMD, DPSR, ESRGAN
 - [StyleGAN2-Tensorflow-2.0](https://github.com/manicman1999/StyleGAN2-Tensorflow-2.0) - StyleGAN 2 in Tensorflow 2.0
 - [BMW-TensorFlow-Inference-API-GPU](https://github.com/BMW-InnovationLab/BMW-TensorFlow-Inference-API-GPU) - This is a repository for an object detection inference API using the Tensorflow framework.
 - [BMW-TensorFlow-Training-GUI](https://github.com/BMW-InnovationLab/BMW-TensorFlow-Training-GUI) - This repository allows you to get started with a gui based training a State-of-the-art Deep Learning model with little to no configuration needed! NoCode training with TensorFlow has never been so easy.
@@ -10872,7 +10905,7 @@
 - [pygram](https://github.com/ajknzhol/pygram) - Instagram-like image filters.
 - [s4cmd](https://github.com/bloomreach/s4cmd) - Super S3 command line tool
 - [s3cmd](https://github.com/s3tools/s3cmd) - Official s3cmd repo -- Command line tool for managing Amazon S3 and CloudFront services
-- [PathPicker](https://github.com/facebook/PathPicker) - PathPicker accepts a wide range of input -- output from git commands, grep results, searches -- pretty much anything.After parsing the input, PathPicker presents you with a nice UI to select which files you're interested in. After that you can open them in your favorite editor or execute arbitrary commands.
+- [PathPicker](https://github.com/facebook/PathPicker) - PathPicker accepts a wide range of input -- output from git commands, grep results, searches -- pretty much anything. After parsing the input, PathPicker presents you with a nice UI to select which files you're interested in. After that you can open them in your favorite editor or execute arbitrary commands.
 - [bashplotlib](https://github.com/glamp/bashplotlib) - plotting in the terminal
 - [clime](https://github.com/moskytw/clime) - Convert functions into multi-command program breezily.
 - [cement](https://github.com/datafolklabs/cement) - Application Framework for Python
@@ -11850,7 +11883,6 @@
 - [aiodns](https://github.com/saghul/aiodns) - Simple DNS resolver for asyncio
 - [scipy-data_fitting](https://github.com/razor-x/scipy-data_fitting) - Complete pipeline for easy data fitting with Python.
 - [irco](https://github.com/GaretJax/irco) - International Research Collaboration graphs utility
-- [Flask-CAS](https://github.com/cameronbwhite/Flask-CAS) - Flask extension for CAS
 - [Pompem](https://github.com/rfunix/Pompem) - Find exploit tool
 - [PyUPC-EAN](https://github.com/GameMaker2k/PyUPC-EAN) - PyUPC-EAN is a barcode library/module for Python.
 - [configobj](https://github.com/DiffSK/configobj) - Python 3+ compatible port of the configobj library
@@ -12110,7 +12142,6 @@
 - [sublime-text-git](https://github.com/kemayo/sublime-text-git) - Plugin for some git integration into sublime text
 - [galry](https://github.com/rossant/galry) - [deprecated] High-performance interactive visualization in Python
 - [ipython-minibook](https://github.com/rossant/ipython-minibook) - UPDATE (2015): This is an old repo, go here for the new edition
-- [hy](https://github.com/hylang/hy) - A dialect of Lisp that's embedded in Python
 - [stackstrap](https://github.com/stackstrap/stackstrap) - The template parsing command line tool.
 - [halite](https://github.com/saltstack/halite) - DEPRECATED: A client-side web application interface to a running Salt infrastructure
 - [salt](https://github.com/saltstack/salt) - Software to automate the management and configuration of any infrastructure or application at scale. Get access to the Salt software package repository here:
@@ -12815,6 +12846,8 @@
 
 ## Rust 
 
+- [cleora](https://github.com/Synerise/cleora) - Cleora AI is a general-purpose model for efficient, scalable learning of stable and inductive entity embeddings for heterogeneous relational data.
+- [MeiliSearch](https://github.com/meilisearch/MeiliSearch) - Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine
 - [chess-engine](https://github.com/adam-mcdaniel/chess-engine) - A dependency-free chess engine library built to run anywhere.
 - [desed](https://github.com/SoptikHa2/desed) - Debugger for Sed: demystify and debug your sed scripts, from comfort of your terminal.
 - [nomino](https://github.com/yaa110/nomino) - Batch rename utility for developers
@@ -12921,6 +12954,7 @@
 
 ## Shell 
 
+- [vespa-quickstart](https://github.com/pmuens/vespa-quickstart) - Scripts for the vespa.ai quick start guide
 - [kaldi-voices](https://github.com/freewym/kaldi-voices) - 
 - [axiom](https://github.com/pry0cc/axiom) - The dynamic infrastructure framework for everybody! Distribute the workload of many different scanning tools with ease, including nmap, ffuf, masscan, nuclei, meg and many more!
 - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
@@ -13164,6 +13198,8 @@
 
 ## TypeScript 
 
+- [vscode-live-frame](https://github.com/jevakallio/vscode-live-frame) - Run your web app inside VS Code
+- [streamlit-drawable-canvas](https://github.com/andfanilo/streamlit-drawable-canvas) - Do you like Quick, Draw? Well what if you could train/predict doodles drawn inside Streamlit? Also draws lines, circles and boxes over background images for annotation.
 - [actionsflow](https://github.com/actionsflow/actionsflow) - The free Zapier/IFTTT alternative for developers to automate your workflows based on Github actions
 - [streetmerchant](https://github.com/jef/streetmerchant) - 🤖 The world's easiest, most powerful stock checker
 - [desktop](https://github.com/desktop/desktop) - Simple collaboration from your desktop
@@ -13305,7 +13341,6 @@
 - [tui.chart](https://github.com/nhn/tui.chart) - 🍞📊  Beautiful chart for data visualization.
 - [rough](https://github.com/rough-stuff/rough) - Create graphics with a hand-drawn, sketchy, appearance
 - [xstate](https://github.com/davidkpiano/xstate) - State machines and statecharts for the modern web.
-- [Front-End-Wizard](https://github.com/kieranmv95/Front-End-Wizard) - A comprehensive collection of front end tutorials and resources for developers
 - [mkdocs-material](https://github.com/squidfunk/mkdocs-material) - A Material Design theme for MkDocs
 - [chrome](https://github.com/browserless/chrome) - Chrome as a service in docker. Run on our cloud, or bring your own
 - [proton-native](https://github.com/kusti8/proton-native) - A React environment for cross platform desktop apps
