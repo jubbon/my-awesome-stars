@@ -1419,7 +1419,7 @@
 - [sdk](https://github.com/dart-lang/sdk) - The Dart SDK, including the VM, dart2js, core libraries, and more.
 - [FlutterExampleApps](https://github.com/iampawan/FlutterExampleApps) - [Example APPS] Basic Flutter apps, for flutter devs.
 - [plugins](https://github.com/flutter/plugins) - Plugins for Flutter maintained by the Flutter team
-- [flutter-ui-nice](https://github.com/nb312/flutter-ui-nice) - More than 130+ pages in this beautiful app and more than 45 developers has contributed to it.
+- [flutter-ui-nice](https://github.com/FlutterOpen/flutter-ui-nice) - More than 130+ pages in this beautiful app and more than 45 developers has contributed to it.
 - [HistoryOfEverything](https://github.com/2d-inc/HistoryOfEverything) - Flutter Launch Timeline Demo
 - [awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
 - [flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond.
@@ -2373,6 +2373,7 @@
 - [aws-inventory](https://github.com/devops-israel/aws-inventory) - AWS Inventory in a single HTML file using JS AWS-SDK & Bootstrap
 - [blockshell](https://github.com/daxeel/blockshell) - 🎉  Minimal Blockchain Learning CLI
 - [ansible-role-nginx](https://github.com/geerlingguy/ansible-role-nginx) - Ansible Role - Nginx
+- [postgresql](https://github.com/ANXS/postgresql) - Fairly full featured Ansible role for Postgresql.
 - [ansible-collection-hardening](https://github.com/dev-sec/ansible-collection-hardening) - This Ansible collection provides battle tested hardening for Linux, SSH, nginx, MySQL
 - [OpenCode-Collaborative](https://github.com/opencode18/OpenCode-Collaborative) - Best place to start Open Source and learn development.
 - [html](https://github.com/whatwg/html) - HTML Standard
@@ -2531,7 +2532,7 @@
 - [ai-on.org](https://github.com/AI-ON/ai-on.org) - AI•ON projects repository and website source.
 - [retread](https://github.com/ryanfox/retread) - Detect reused frames in video
 - [computer-science-flash-cards](https://github.com/jwasham/computer-science-flash-cards) - Mini website for testing both general CS knowledge and enforce coding practice and common algorithm/data structure memorization.
-- [ec2instances.info](https://github.com/powdahound/ec2instances.info) - Amazon EC2 instance comparison site
+- [ec2instances.info](https://github.com/vantage-sh/ec2instances.info) - Amazon EC2 instance comparison site
 - [socialmedia-leak](https://github.com/RobinLinus/socialmedia-leak) - A demo of cross-origin login detection for most major web platforms
 - [YouMightNotNeedJS](https://github.com/una/YouMightNotNeedJS) - 
 - [beeware.github.io](https://github.com/beeware/beeware.github.io) - 🐍🐝
@@ -6832,6 +6833,7 @@
 
 ## Python 
 
+- [SAM](https://github.com/yuval-alaluf/SAM) - Official Implementation for "Only a Matter of Style: Age Transformation Using a Style-Based Regression Model"
 - [Autoregressive-Predictive-Coding](https://github.com/iamyuanchung/Autoregressive-Predictive-Coding) - Autoregressive Predictive Coding: An unsupervised autoregressive model for speech representation learning
 - [CPC_audio](https://github.com/facebookresearch/CPC_audio) - An implementation of the Contrast Predictive Coding (CPC) method to train audio features in an unsupervised fashion.
 - [s3prl](https://github.com/s3prl/s3prl) - Self-Supervised Speech Pre-training and Representation Learning Toolkit.
@@ -7061,7 +7063,7 @@
 - [slovnet](https://github.com/natasha/slovnet) - Deep Learning based NLP modeling for Russian language
 - [HRNet-Semantic-Segmentation](https://github.com/HRNet/HRNet-Semantic-Segmentation) - This is an official implementation of semantic segmentation for our TPAMI paper "Deep High-Resolution Representation Learning for Visual Recognition". https://arxiv.org/abs/1908.07919
 - [apex](https://github.com/NVIDIA/apex) - A PyTorch Extension:  Tools for easy mixed precision and distributed training in Pytorch
-- [mplfinance](https://github.com/matplotlib/mplfinance) - New mplfinance package (replacement for mpl-finance).
+- [mplfinance](https://github.com/matplotlib/mplfinance) - Financial Markets Data Visualization using Matplotlib
 - [volatility](https://github.com/volatilityfoundation/volatility) - An advanced memory forensics framework
 - [springer_free_books](https://github.com/alexgand/springer_free_books) - Python script to download all Springer books released for free during the 2020 COVID-19 quarantine
 - [data-scientist-roadmap](https://github.com/MrMimic/data-scientist-roadmap) - Toturial coming with "data science roadmap" graphe.
@@ -7231,7 +7233,7 @@
 - [Zooming-Slow-Mo-CVPR-2020](https://github.com/Mukosame/Zooming-Slow-Mo-CVPR-2020) - Fast and Accurate One-Stage Space-Time Video Super-Resolution (accepted in CVPR 2020)
 - [selenium-python-helium](https://github.com/mherrmann/selenium-python-helium) - Selenium-python but lighter: Helium is the best Python library for web automation.
 - [PIFu](https://github.com/shunsukesaito/PIFu) - This repository contains the code for the paper "PIFu: Pixel-Aligned Implicit Function for High-Resolution Clothed Human Digitization"
-- [akshare](https://github.com/jindaxiang/akshare) - AkShare is an elegant and simple financial data interface library for Python, built for human beings! 开源财经数据接口库
+- [akshare](https://github.com/jindaxiang/akshare) - AKShare is an elegant and simple financial data interface library for Python, built for human beings! 开源财经数据接口库
 - [tf-gnn-samples](https://github.com/microsoft/tf-gnn-samples) - TensorFlow implementations of Graph Neural Networks
 - [tf2-gnn](https://github.com/microsoft/tf2-gnn) - TensorFlow 2 library implementing Graph Neural Networks
 - [Fast_Sentence_Embeddings](https://github.com/oborchers/Fast_Sentence_Embeddings) - Compute Sentence Embeddings Fast!
@@ -8138,7 +8140,7 @@
 - [osm-python-tools](https://github.com/mocnik-science/osm-python-tools) - A library to access OpenStreetMap related services
 - [human-pose-estimation.pytorch](https://github.com/microsoft/human-pose-estimation.pytorch) - The project is an official implement of our ECCV2018 paper  "Simple Baselines for Human Pose Estimation and Tracking(https://arxiv.org/abs/1804.06208)"
 - [pyodide](https://github.com/iodide-project/pyodide) - The Python scientific stack, compiled to WebAssembly
-- [book](https://github.com/SystemsApproach/book) - Main repo for "Computer Networks: A Systems Approach", including everything needed to build the book. Main starting point.
+- [book](https://github.com/SystemsApproach/book) - Computer Networks: A Systems Approach -- Textbook
 - [odoo-addons](https://github.com/acysos/odoo-addons) - Addons modules for Odoo
 - [relational-rnn-pytorch](https://github.com/L0SG/relational-rnn-pytorch) - An implementation of DeepMind's Relational Recurrent Neural Networks in PyTorch.
 - [large-scale-curiosity](https://github.com/openai/large-scale-curiosity) - Code for the paper "Large-Scale Study of Curiosity-Driven Learning"
@@ -13008,7 +13010,6 @@
 - [alpine-postgre](https://github.com/Nebo15/alpine-postgre) - PostgreSQL Docker Images based on Alpine Linux and with the same API as official repo has.
 - [tf_openailab_gpu_docker](https://github.com/pascalwhoop/tf_openailab_gpu_docker) - 
 - [ansible-role-firewall](https://github.com/geerlingguy/ansible-role-firewall) - Ansible Role - iptables Firewall configuration.
-- [postgresql](https://github.com/ANXS/postgresql) - Fairly full featured Ansible role for Postgresql.
 - [ansible-best-practises](https://github.com/enginyoyen/ansible-best-practises) - A project structure that outlines some best practises of how to use ansible
 - [ansible-interactive-tutorial](https://github.com/turkenh/ansible-interactive-tutorial) - Interactive Ansible tutorials with dead simple setup via Docker
 - [ansible-tuto](https://github.com/leucos/ansible-tuto) - Ansible tutorial
