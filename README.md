@@ -1869,7 +1869,7 @@
 - [gocrack](https://github.com/fireeye/gocrack) - GoCrack is a management frontend for password cracking tools written in Go
 - [tui-go](https://github.com/marcusolsson/tui-go) - A UI library for terminal applications.
 - [cuckoo-filter](https://github.com/vedhavyas/cuckoo-filter) - Cuckoo Filter: Practically better than bloom filter
-- [brigade](https://github.com/brigadecore/brigade) - Event-based Scripting for Kubernetes.
+- [brigade](https://github.com/brigadecore/brigade) - Event-driven scripting for Kubernetes
 - [promviz](https://github.com/nghialv/promviz) - Visualize the traffic of your clusters in realtime from Prometheus data
 - [skylark](https://github.com/google/skylark) - Skylark in Go: the Skylark configuration language, implemented in Go [MOVED to go.starlark.net]
 - [riot](https://github.com/go-ego/riot) - Go Open Source, Distributed, Simple and efficient Search Engine
@@ -2898,7 +2898,7 @@
 - [ferdi](https://github.com/getferdi/ferdi) - 🧔🏽 Ferdi  helps you organize how you use your favourite apps by combining them into one application
 - [flowy](https://github.com/alyssaxuu/flowy) - The minimal javascript library to create flowcharts ✨
 - [Tutorials](https://github.com/SAPDocuments/Tutorials) - Tutorials on sap.com
-- [shhgit](https://github.com/eth0izzle/shhgit) - Ah shhgit! Secrets detection for your GitHub, GitLab and Bitbucket repositories: www.shhgit.com
+- [shhgit](https://github.com/eth0izzle/shhgit) - Ah shhgit! Find secrets in your code. Secrets detection for your GitHub, GitLab and Bitbucket repositories: www.shhgit.com
 - [fabric-samples](https://github.com/hyperledger/fabric-samples) - 
 - [BullshitGenerator](https://github.com/menzi11/BullshitGenerator) - Needs to generate some texts to test if my GUI rendering codes good or not. so I made this.
 - [moment-timezone](https://github.com/moment/moment-timezone) - Timezone support for moment.js
