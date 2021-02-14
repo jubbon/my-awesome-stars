@@ -7489,7 +7489,7 @@
 - [camelot](https://github.com/camelot-dev/camelot) - A Python library to extract tabular data from PDFs
 - [torchbeast](https://github.com/facebookresearch/torchbeast) - A PyTorch Platform for Distributed RL
 - [impersonator](https://github.com/svip-lab/impersonator) - PyTorch implementation of our ICCV 2019 paper:  Liquid Warping GAN: A Unified Framework for Human Motion Imitation, Appearance Transfer and Novel View Synthesis
-- [ziopy](https://github.com/harveywi/ziopy) - ZIO for Python
+- [ziopy](https://github.com/miiohio/ziopy) - ZIO for Python
 - [Towards-Realtime-MOT](https://github.com/Zhongdao/Towards-Realtime-MOT) - Joint Detection and Embedding for fast multi-object tracking
 - [RLBench](https://github.com/stepjam/RLBench) - A large-scale benchmark and learning environment.
 - [redqueen](https://github.com/RUB-SysSec/redqueen) - 
@@ -9071,7 +9071,7 @@
 - [fashion-mnist](https://github.com/zalandoresearch/fashion-mnist) - A MNIST-like fashion product database. Benchmark :point_right:
 - [Awesome-Chatbot](https://github.com/fendouai/Awesome-Chatbot) - Awesome Chatbot Projects,Corpus,Papers,Tutorials.Chinese Chatbot =&gt;:
 - [setup.py](https://github.com/navdeep-G/setup.py) - 📦 A Human's Ultimate Guide to setup.py.
-- [wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python?
+- [wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python? 😱
 - [jmespath.py](https://github.com/jmespath/jmespath.py) - JMESPath is a query language for JSON.
 - [jasmin](https://github.com/jookies/jasmin) - Jasmin - Open source SMS gateway
 - [tsrc](https://github.com/dmerejkowsky/tsrc) - Manage groups of git repositories
