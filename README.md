@@ -316,6 +316,7 @@
 - [rufus](https://github.com/pbatard/rufus) - The Reliable USB Formatting Utility
 - [DoubleAgent](https://github.com/Cybellum/DoubleAgent) - Zero-Day Code Injection and Persistence Technique
 - [portable-snippets](https://github.com/nemequ/portable-snippets) - Collection of miscellaneous portable C snippets.
+- [miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
 - [s2n](https://github.com/awslabs/s2n) - s2n : an implementation of the TLS/SSL protocols
 - [sha1collisiondetection](https://github.com/cr-marcstevens/sha1collisiondetection) - Library and command line tool to detect SHA-1 collision in a file
 - [tig](https://github.com/jonas/tig) - Text-mode interface for git
@@ -2021,7 +2022,6 @@
 - [ladon](https://github.com/ory/ladon) - A SDK for access control policies: authorization for the microservice and IoT age. Inspired by AWS IAM policies. Written for Go.
 - [machma](https://github.com/fd0/machma) - Easy parallel execution of commands with live feedback
 - [pet](https://github.com/knqyf263/pet) - Simple command-line snippet manager, written in Go.
-- [miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
 - [httplab](https://github.com/gchaincl/httplab) - The interactive web server
 - [ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics
 - [task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go
@@ -13458,7 +13458,6 @@
 - [flatpickr](https://github.com/flatpickr/flatpickr) - lightweight, powerful javascript datetimepicker with no dependencies
 - [hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
-- [ant-design](https://github.com/ant-design/ant-design) - 🌈  A UI Design Language and React UI library
 - [Leaflet.timeline](https://github.com/skeate/Leaflet.timeline) - Display arbitrary GeoJSON on a map with a timeline slider and play button
 - [ngx-admin](https://github.com/akveo/ngx-admin) - Customizable admin dashboard template based on Angular 10+
 - [atoms](https://github.com/BlazeSoftware/atoms) - Atoms for Blaze UI
