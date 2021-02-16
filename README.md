@@ -972,6 +972,7 @@
 - [mapnik](https://github.com/mapnik/mapnik) - Mapnik is an open source toolkit for developing mapping applications
 - [osrm-backend](https://github.com/Project-OSRM/osrm-backend) - Open Source Routing Machine - C++ backend
 - [omim](https://github.com/mapsme/omim) - 🗺️ MAPS.ME — Offline OpenStreetMap maps for iOS and Android
+- [george](https://github.com/dfm/george) - Fast and flexible Gaussian Process regression in Python
 - [MOE](https://github.com/Yelp/MOE) - A global, black box optimization engine for real world metric optimization.
 - [phantompy](https://github.com/niwinz/phantompy) - Phantompy is a headless WebKit engine with powerful pythonic api build on top of Qt5 Webkit
 - [thrift](https://github.com/apache/thrift) - Apache Thrift
@@ -3159,7 +3160,7 @@
 - [johnnydepp](https://github.com/muicss/johnnydepp) - A tiny dependency manager for modern browsers (992 bytes)
 - [bellwoods](https://github.com/mattdesl/bellwoods) - 
 - [tiny-care-terminal](https://github.com/notwaldorf/tiny-care-terminal) - 💖💻 A little dashboard that tries to take care of you when you're using your terminal.
-- [noty](https://github.com/needim/noty) - Dependency-free notification library that makes it easy to create alert - success - error - warning - information - confirmation messages as an alternative the standard alert dialog.
+- [noty](https://github.com/needim/noty) - ⛔️ DEPRECATED - Dependency-free notification library that makes it easy to create alert - success - error - warning - information - confirmation messages as an alternative the standard alert dialog.
 - [Vue-js-2-Web-Development-Projects](https://github.com/PacktPublishing/Vue-js-2-Web-Development-Projects) - Vue js 2 Web Development Projects, published by Packt
 - [lvovich](https://github.com/nodkz/lvovich) - Склонение названий городов, определения пола по ФИО, склонения имен по падежам
 - [project-explorer](https://github.com/sdras/project-explorer) - 🎋A CLI tool to create an annotated tree visualization of any project
@@ -3625,7 +3626,6 @@
 - [vue-a11y-calendar](https://github.com/IBM/vue-a11y-calendar) - Accessible, internationalized Vue calendar
 - [hivemind](https://github.com/littlstar/hivemind) - For creating distributed jobs using AWS Lambda functions
 - [carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
-- [vant](https://github.com/youzan/vant) - Lightweight Mobile UI Components built on Vue
 - [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Materials to help you rock your next coding interview
 - [bosket](https://github.com/elbywan/bosket) - Collection of tree view components for front-end frameworks. :deciduous_tree:
 - [coin-hive](https://github.com/cazala/coin-hive) - CoinHive cryptocurrency miner for node.js
@@ -3999,7 +3999,6 @@
 - [react-dates](https://github.com/airbnb/react-dates) - An easily internationalizable, mobile-friendly datepicker library for the web
 - [webpack-dashboard](https://github.com/FormidableLabs/webpack-dashboard) - A CLI dashboard for webpack dev server
 - [react-native-voximplant](https://github.com/voximplant/react-native-voximplant) - Voximplant mobile SDK for React Native (iOS/Android)
-- [nbviewer.js](https://github.com/kokes/nbviewer.js) - Client side rendering of Jupyter notebooks
 - [cesium](https://github.com/CesiumGS/cesium) - An open-source JavaScript library for world-class 3D globes and maps :earth_americas:
 - [node-rdkafka](https://github.com/Blizzard/node-rdkafka) - Node.js bindings for librdkafka
 - [rekit](https://github.com/rekit/rekit) - IDE and toolkit for building scalable web applications with React, Redux and React-router
@@ -4081,7 +4080,7 @@
 - [Js2Py](https://github.com/PiotrDabkowski/Js2Py) - JavaScript to Python Translator & JavaScript interpreter written in 100% pure Python🚀 Try it online:
 - [markmap](https://github.com/dundalek/markmap) - Visualize markdown documents as mindmaps
 - [express-print-routes](https://github.com/analog-nico/express-print-routes) - Prints the tree of Express routes and middlewares to a file
-- [You-Dont-Know-JS](https://github.com/cezaraugusto/You-Dont-Know-JS) - :green_book::ledger: (PT-BR translation) JS Book Series.
+- [You-Dont-Know-JS](https://github.com/cezaraugusto/You-Dont-Know-JS) - 📗📒 (PT-Br translation) JS Book Series.
 - [yakbak](https://github.com/flickr/yakbak) - Record and playback HTTP responses
 - [studio](https://github.com/ericholiveira/studio) - A nodejs framework to create decoupled and scalable applications
 - [material-ui](https://github.com/mui-org/material-ui) - Material-UI is a simple and customizable component library to build faster, beautiful, and more accessible React applications. Follow your own design system, or start with Material Design.
@@ -5434,6 +5433,7 @@
 - [teaching-material](https://github.com/kuleshov/teaching-material) - Teaching materials for the machine learning and deep learning classes at Stanford and Cornell
 - [Algorithms-and-Data-structures](https://github.com/pattu777/Algorithms-and-Data-structures) - IPython notebooks of common data structures and algorithms
 - [PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook) - Python Data Science Handbook: full text in Jupyter Notebooks
+- [nbviewer.js](https://github.com/kokes/nbviewer.js) - Client side rendering of Jupyter notebooks
 - [scikit-learn-videos](https://github.com/justmarkham/scikit-learn-videos) - Jupyter notebooks from the scikit-learn video series
 - [ppd599](https://github.com/gboeing/ppd599) - USC urban data science course series with Python and Jupyter
 - [DeepLearning-NLP](https://github.com/rouseguy/DeepLearning-NLP) - Introduction to Deep Learning for Natural Language Processing
@@ -7655,7 +7655,7 @@
 - [automagica](https://github.com/automagica/automagica) - AI-powered Smart Robotic Process Automation 🤖
 - [DeepGlobe-Road-Extraction-Challenge](https://github.com/zlkanata/DeepGlobe-Road-Extraction-Challenge) - D-LinkNet: LinkNet with Pretrained Encoder and Dilated Convolution for High Resolution Satellite Imagery Road Extraction
 - [ijson](https://github.com/isagalaev/ijson) - Iterative JSON parser with Pythonic interface
-- [gitdir](https://github.com/sdushantha/gitdir) - 📁 Download a single directory/folder from a GitHub repo
+- [gitdir](https://github.com/sdushantha/gitdir) - Download a single directory/folder from a GitHub repo
 - [3DOD_thesis](https://github.com/fregu856/3DOD_thesis) - 3D Object Detection for Autonomous Driving in PyTorch, trained on the KITTI dataset.
 - [GPT2](https://github.com/ConnorJL/GPT2) - An implementation of training for GPT2, supports TPUs
 - [text](https://github.com/tensorflow/text) - Making text a first-class citizen in TensorFlow.
@@ -8140,7 +8140,7 @@
 - [apps-store](https://github.com/OCA/apps-store) - OCA Apps store module repository
 - [osm-python-tools](https://github.com/mocnik-science/osm-python-tools) - A library to access OpenStreetMap related services
 - [human-pose-estimation.pytorch](https://github.com/microsoft/human-pose-estimation.pytorch) - The project is an official implement of our ECCV2018 paper  "Simple Baselines for Human Pose Estimation and Tracking(https://arxiv.org/abs/1804.06208)"
-- [pyodide](https://github.com/iodide-project/pyodide) - The Python scientific stack, compiled to WebAssembly
+- [pyodide](https://github.com/iodide-project/pyodide) - Python with the scientific stack, compiled to WebAssembly.
 - [book](https://github.com/SystemsApproach/book) - Computer Networks: A Systems Approach -- Textbook
 - [odoo-addons](https://github.com/acysos/odoo-addons) - Addons modules for Odoo
 - [relational-rnn-pytorch](https://github.com/L0SG/relational-rnn-pytorch) - An implementation of DeepMind's Relational Recurrent Neural Networks in PyTorch.
@@ -11144,7 +11144,6 @@
 - [Flake8Lint](https://github.com/dreadatour/Flake8Lint) - Sublime Text plugin for lint Python files
 - [nolearn](https://github.com/dnouri/nolearn) - Combines the ease of use of scikit-learn with the power of Theano/Lasagne
 - [bat-country](https://github.com/jrosebr1/bat-country) - A lightweight, extendible, easy to use Python package for deep dreaming and image generation with Caffe and CNNs.
-- [george](https://github.com/dfm/george) - Fast and flexible Gaussian Process regression in Python
 - [intermediatePython](https://github.com/yasoob/intermediatePython) - 
 - [CredCrack](https://github.com/gojhonny/CredCrack) - A fast and stealthy credential harvester
 - [hask](https://github.com/billpmurphy/hask) - Haskell language features and standard libraries in pure Python.
@@ -13392,6 +13391,7 @@
 - [fast-style-transfer-deeplearnjs](https://github.com/reiinakano/fast-style-transfer-deeplearnjs) - Demo of in-browser Fast Neural Style Transfer with deeplearn.js library
 - [autorest](https://github.com/Azure/autorest) - OpenAPI (f.k.a Swagger) Specification code generator. Supports C#, PowerShell, Go, Java, Node.js, TypeScript, Python, Ruby
 - [graphql-playground](https://github.com/graphql/graphql-playground) - 🎮  GraphQL IDE for better development workflows (GraphQL Subscriptions, interactive docs & collaboration)
+- [vant](https://github.com/youzan/vant) - Lightweight Mobile UI Components built on Vue
 - [nebular](https://github.com/akveo/nebular) - :boom: Customizable Angular UI Library based on Eva Design System :new_moon_with_face::sparkles:Dark Mode
 - [upterm](https://github.com/railsware/upterm) - A terminal emulator for the 21st century.
 - [p-progress](https://github.com/sindresorhus/p-progress) - Create a promise that reports progress
