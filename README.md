@@ -459,7 +459,6 @@
 - [resin](https://github.com/kreeben/resin) - Hardware-accelerated vector-based search engine. Available as a HTTP service or as an embedded library.
 - [acr-tasks](https://github.com/Azure-Samples/acr-tasks) - A collection samples for ACR Tasks, including acr-task.yaml and Dockerfiles.
 - [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
-- [Microsoft-Rocketbox](https://github.com/microsoft/Microsoft-Rocketbox) - Microsoft Rocketbox is now available for research and academic use! The library of 115 rigged avatars offers flexibility, enabling the easy use of facial animations across characters and the mixing and matching of texture elements.
 - [v3](https://github.com/exercism/v3) - The work-in-progress project for developing v3 tracks
 - [furniture](https://github.com/clvrai/furniture) - IKEA Furniture Assembly Environment for Long-Horizon Complex Manipulation Tasks
 - [Reinforcement-Learning-Based-Decision-Tree](https://github.com/chriswblake/Reinforcement-Learning-Based-Decision-Tree) - Generation and evaluation of a decision tree using reinforcement learning.
@@ -620,6 +619,7 @@
 - [Game-Networking-Resources](https://github.com/MFatihMAR/Game-Networking-Resources) - A Curated List of Game Network Programming Resources
 - [tinykaboom](https://github.com/ssloy/tinykaboom) - A brief computer graphics / rendering course
 - [tinyraytracer](https://github.com/ssloy/tinyraytracer) - A brief computer graphics / rendering course
+- [neo-ai-dlr](https://github.com/neo-ai/neo-ai-dlr) - Neo-AI-DLR is a common runtime for machine learning models compiled by AWS SageMaker Neo, TVM, or TreeLite.
 - [euler](https://github.com/alibaba/euler) - A distributed graph deep learning framework.
 - [spectrum](https://github.com/facebookincubator/spectrum) - A client-side image transcoding library.
 - [VINS-Fusion](https://github.com/HKUST-Aerial-Robotics/VINS-Fusion) - An optimization-based multi-sensor state estimator
@@ -2555,6 +2555,7 @@
 - [essential-electron](https://github.com/jlord/essential-electron) - Concise plain-speak about Electron
 - [swagger-codegen](https://github.com/swagger-api/swagger-codegen) - swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.
 - [IsometricBlocks](https://github.com/shaunlebron/IsometricBlocks) - A tutorial on how to render isometric blocks in the correct order.
+- [nbviewer.js](https://github.com/kokes/nbviewer.js) - Client side rendering of Jupyter notebooks
 - [flexboxgrid](https://github.com/kristoferjoseph/flexboxgrid) - Grid based on CSS3 flexbox
 - [svgwg](https://github.com/w3c/svgwg) - SVG Working Group specifications
 - [coreui-free-bootstrap-admin-template](https://github.com/coreui/coreui-free-bootstrap-admin-template) - CoreUI is free bootstrap admin template
@@ -4742,7 +4743,6 @@
 - [anlp19](https://github.com/dbamman/anlp19) - Course repo for Applied Natural Language Processing (Spring 2019)
 - [Generative_Models_Tutorial_with_Demo](https://github.com/omerbsezer/Generative_Models_Tutorial_with_Demo) - Generative Models Tutorial with Demo: Bayesian Classifier Sampling, Variational Auto Encoder (VAE), Generative Adversial Networks (GANs), Popular GANs Architectures, Auto-Regressive Models, Important Generative Model Papers, Courses, etc..
 - [berkeley-stat-157](https://github.com/d2l-ai/berkeley-stat-157) - Homepage for STAT 157 at UC Berkeley
-- [neo-ai-dlr](https://github.com/neo-ai/neo-ai-dlr) - Neo-AI-DLR is a common runtime for machine learning models compiled by AWS SageMaker Neo, TVM, or TreeLite.
 - [Girls-In-AI](https://github.com/girls-in-ai/Girls-In-AI) - 免费学代码系列：小白python入门、数据分析data analyst、机器学习machine learning、深度学习deep learning、kaggle实战
 - [namedtensor](https://github.com/harvardnlp/namedtensor) - Named Tensor implementation for Torch
 - [tf2_course](https://github.com/ageron/tf2_course) - Notebooks for my "Deep Learning with TensorFlow 2 and Keras" course
@@ -5433,7 +5433,6 @@
 - [teaching-material](https://github.com/kuleshov/teaching-material) - Teaching materials for the machine learning and deep learning classes at Stanford and Cornell
 - [Algorithms-and-Data-structures](https://github.com/pattu777/Algorithms-and-Data-structures) - IPython notebooks of common data structures and algorithms
 - [PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook) - Python Data Science Handbook: full text in Jupyter Notebooks
-- [nbviewer.js](https://github.com/kokes/nbviewer.js) - Client side rendering of Jupyter notebooks
 - [scikit-learn-videos](https://github.com/justmarkham/scikit-learn-videos) - Jupyter notebooks from the scikit-learn video series
 - [ppd599](https://github.com/gboeing/ppd599) - USC urban data science course series with Python and Jupyter
 - [DeepLearning-NLP](https://github.com/rouseguy/DeepLearning-NLP) - Introduction to Deep Learning for Natural Language Processing
@@ -6006,7 +6005,7 @@
 - [aws_breaking_changes](https://github.com/SummitRoute/aws_breaking_changes) - List of changes announced for AWS that may break existing code
 - [antialiased-cnns](https://github.com/richzhang/antialiased-cnns) - Repository has been moved: https://github.com/adobe/antialiased-cnns
 - [Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
-- [ui-libraries](https://github.com/jefflombard/ui-libraries) - A collection of UI Frameworks and their platform implementations.
+- [ui-libraries](https://github.com/Zaelot-Inc/ui-libraries) - A collection of UI Frameworks and their platform implementations.
 - [datascience](https://github.com/r0f1/datascience) - Curated list of Python resources for data science.
 - [golang-developer-roadmap](https://github.com/Alikhll/golang-developer-roadmap) - Roadmap to becoming a Go developer in 2020
 - [resilience-engineering](https://github.com/lorin/resilience-engineering) - Resilience engineering papers
@@ -6916,7 +6915,7 @@
 - [create-ml-app](https://github.com/shreyashankar/create-ml-app) - Template Makefile for ML projects in Python.
 - [haven-ai](https://github.com/haven-ai/haven-ai) - 
 - [tn2-wg](https://github.com/alphacep/tn2-wg) - Tacotron2 + Waveglow Russian
-- [haystack](https://github.com/deepset-ai/haystack) - :mag: Transformers at scale for question answering & neural search. Using NLP via a modular Retriever-Reader-Pipeline. Supporting DPR, Elasticsearch, HuggingFace's Modelhub...
+- [haystack](https://github.com/deepset-ai/haystack) - :mag: End-to-End Framework for building natural language search interfaces to data by utilizing Transformers and the State-of-the-Art of NLP. Supporting DPR, Elasticsearch, HuggingFace’s Modelhub and much more!
 - [BentoML](https://github.com/bentoml/BentoML) - Model Serving Made Easy
 - [eisen-core](https://github.com/eisen-ai/eisen-core) - Core functionality of Eisen
 - [vectorhub](https://github.com/vector-ai/vectorhub) - Vector Hub - Library for easy discovery, and consumption of State-of-the-art models to turn data into vectors. (text2vec, image2vec, video2vec, graph2vec, bert, inception, etc)
@@ -7025,7 +7024,7 @@
 - [nnsvs](https://github.com/r9y9/nnsvs) - Neural network-based singing voice synthesis library for research
 - [pytorch-pfn-extras](https://github.com/pfnet/pytorch-pfn-extras) - Supplementary components to accelerate research and development in PyTorch
 - [graphene-django](https://github.com/graphql-python/graphene-django) - Integrate GraphQL into your Django project.
-- [U-2-Net](https://github.com/NathanUA/U-2-Net) - The code for our newly accepted paper in Pattern Recognition 2020: "U^2-Net: Going Deeper with Nested U-Structure for Salient Object Detection."
+- [U-2-Net](https://github.com/xuebinqin/U-2-Net) - The code for our newly accepted paper in Pattern Recognition 2020: "U^2-Net: Going Deeper with Nested U-Structure for Salient Object Detection."
 - [checkov](https://github.com/bridgecrewio/checkov) - Prevent cloud misconfigurations during build-time for Terraform, Cloudformation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew.
 - [NeuralCDE](https://github.com/patrick-kidger/NeuralCDE) - Code for "Neural Controlled Differential Equations for Irregular Time Series"
 - [GithubDataVisTool](https://github.com/Garfinkel/GithubDataVisTool) - 
@@ -7176,6 +7175,7 @@
 - [PaddleHub](https://github.com/PaddlePaddle/PaddleHub) - Awesome pre-trained models toolkit based on PaddlePaddle.（200+ models including Image, Text, Audio and Video with Easy Inference & Serving deployment)
 - [CurveFit](https://github.com/ihmeuw-msca/CurveFit) - Generic curve fitting package with nonlinear mixed effects model
 - [aristo-mini](https://github.com/allenai/aristo-mini) - Aristo mini is a light-weight question answering system that can quickly evaluate Aristo science questions with an evaluation web server and the provided baseline solvers.
+- [Microsoft-Rocketbox](https://github.com/microsoft/Microsoft-Rocketbox) - Microsoft Rocketbox is now available for research and academic use! The library of 115 rigged avatars offers flexibility, enabling the easy use of facial animations across characters and the mixing and matching of texture elements.
 - [gym-gridworld](https://github.com/xinleipan/gym-gridworld) - Simple grid-world environment compatible with OpenAI-gym
 - [asteroid](https://github.com/asteroid-team/asteroid) - The PyTorch-based audio source separation toolkit for researchers
 - [deap](https://github.com/DEAP/deap) - Distributed Evolutionary Algorithms in Python
@@ -13078,7 +13078,7 @@
 - [rethinkdb-vagrant](https://github.com/RyanAmos/rethinkdb-vagrant) - Install RethinkDB using Vagrant.
 - [microservices-demo](https://github.com/microservices-demo/microservices-demo) - Deployment scripts & config for Sock Shop
 - [octo.ai](https://github.com/octoai/octo.ai) - The analytics hypervisor, an operating system to manage all your analytics needs and licensed under Apache 2.0 License.
-- [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃  A delightful community-driven (with 1700+ contributors) framework for managing your zsh configuration. Includes nearly 300 optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+- [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 1800+ contributors) framework for managing your zsh configuration. Includes nearly 300 optional plugins (rails, git, OSX, hub, docker, homebrew, node, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [ansible-odoo](https://github.com/OCA/ansible-odoo) - Ansible role for Odoo
 - [zsh-autoswitch-virtualenv](https://github.com/MichaelAquilina/zsh-autoswitch-virtualenv) - 🐍 ZSH plugin to automatically switch python virtualenvs (including pipenv and poetry) as you move between directories
 - [m-cli](https://github.com/rgcr/m-cli) -  Swiss Army Knife for macOS
@@ -13238,6 +13238,7 @@
 - [harp-map-editor](https://github.com/heremaps/harp-map-editor) - Simple map editor for harp.gl map styles
 - [docs](https://github.com/aws-amplify/docs) - Amplify Framework Documentation
 - [react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design
+- [directus](https://github.com/directus/directus) - Open-Source Data Platform — Directus wraps your new or existing SQL database with a realtime GraphQL+REST API for developers, and an intuitive admin app for non-technical users. 🐰
 - [harp.gl](https://github.com/heremaps/harp.gl) - harp.gl - web map rendering engine
 - [mds-core](https://github.com/openmobilityfoundation/mds-core) - An implementation of an MDS Agency Server written in Typescript
 - [composition-api](https://github.com/vuejs/composition-api) - Composition API plugin for Vue 2
@@ -13539,7 +13540,6 @@
 - [Scout](https://github.com/tevora-threat/Scout) - Surveillance Detection Scout: Your Lookout on Autopilot
 - [DynamoDb-GUI-Client](https://github.com/Arattian/DynamoDb-GUI-Client) - DynamoDb GUI Client
 - [example-auth0](https://github.com/nuxt/example-auth0) - A simple example that shows how to use Nuxt.js with Auth0.
-- [directus](https://github.com/directus/directus) - Open-Source Data Platform — Directus wraps your new or existing SQL database with a realtime GraphQL+REST API for developers, and an intuitive admin app for non-technical users. 🐰
 - [Vuemmerce](https://github.com/ivanlori/Vuemmerce) - 👉 Responsive ecommerce template 🛒 built with Vue.js and Nuxt.js
 - [sing-app-vue-dashboard](https://github.com/flatlogic/sing-app-vue-dashboard) - Vue.js admin dashboard template built with Bootstrap 4.5
 - [light-blue-vue-admin](https://github.com/flatlogic/light-blue-vue-admin) - 🤘Vue admin dashboard template with stylish transparent design
@@ -13802,7 +13802,7 @@
 - [ketherhomepage](https://github.com/thousandetherhomepage/ketherhomepage) - Own a piece of blockchain history!
 - [vue-quasar-admin-example](https://github.com/odranoelBR/vue-quasar-admin-example) - Example of quasar admin
 - [Vue-Mini-Social-Network](https://github.com/yTakkar/Vue-Mini-Social-Network) - A reactive mini-social-network created with Vue!! 🏳️‍🌈🤞
-- [wiki](https://github.com/Requarks/wiki) - Wiki.js | A modern, lightweight and powerful wiki app built on Node.js
+- [wiki](https://github.com/Requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
 - [nicelinks-vue-client](https://github.com/nicejade/nicelinks-vue-client) - 🐬 很棒的 Web 应用——倾城之链（NICE LINKS），基于 Vue2.*（Webpack、Es6、Element-ui）所构建
 - [vue-event-calendar](https://github.com/GeoffZhu/vue-event-calendar) - A simple events calendar for Vue2, no dependencies except Vue2.
 - [vue-js-grid](https://github.com/euvl/vue-js-grid) - :bento:  Vue.js 2.x responsive grid system with smooth sorting, drag-n-drop and reordering
@@ -13869,7 +13869,6 @@
 - [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin
 - [buefy](https://github.com/buefy/buefy) - Lightweight UI components for Vue.js based on Bulma
 - [vue-loop](https://github.com/JosephSmith127/vue-loop) - Infinite content loop for Vue
-- [vms](https://github.com/ericjjj/vms) - A Vue.js 2.0 Content Management System
 - [d3vue](https://github.com/CorpGlory/d3vue) - D3.js vs Vue.js examples
 - [tmdb-app](https://github.com/dmtrbrl/tmdb-app) - TMDb Vue.js app
 - [vue-manage-system](https://github.com/lin-xin/vue-manage-system) - 基于vue + element的后台管理系统解决方案
