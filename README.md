@@ -93,6 +93,7 @@
   - [Scheme](#scheme)
   - [Shell](#shell)
   - [Smarty](#smarty)
+  - [Solidity](#solidity)
   - [Starlark](#starlark)
   - [Stylus](#stylus)
   - [Svelte](#svelte)
@@ -143,6 +144,7 @@
 - [pocketsphinx](https://github.com/cmusphinx/pocketsphinx) - PocketSphinx is a lightweight speech recognition engine, specifically tuned for handheld and mobile devices, though it works equally well on the desktop
 - [pypostal](https://github.com/openvenues/pypostal) - Python bindings to libpostal for fast international address parsing/normalization
 - [GloVe](https://github.com/stanfordnlp/GloVe) - GloVe model for distributed word representation
+- [praat](https://github.com/praat/praat) - Praat: Doing Phonetics By Computer
 - [IoTGoat](https://github.com/OWASP/IoTGoat) - IoTGoat is a deliberately insecure firmware created to educate software developers and security professionals with testing commonly found vulnerabilities in IoT devices.
 - [cuda-samples](https://github.com/NVIDIA/cuda-samples) - Samples for CUDA Developers which demonstrates features in CUDA Toolkit
 - [concorde](https://github.com/matthelb/concorde) - Concorde is a computer code for the symmetric traveling salesman problem (TSP) and some related network optimization problems. It was created by David Applegate, Robert E. Bixby, Vašek Chvátal, and William J. Cook.
@@ -167,7 +169,6 @@
 - [pygame](https://github.com/pygame/pygame) - pygame (the library) is a Free and Open Source python programming language library for making multimedia applications like games built on top of the excellent SDL library. C, Python, Native, OpenGL.
 - [yara](https://github.com/VirusTotal/yara) - The pattern matching swiss knife
 - [aq](https://github.com/rxi/aq) - A lightweight framework for creating audio toys
-- [betaflight](https://github.com/betaflight/betaflight) - Open Source Flight Controller Firmware
 - [azure-iot-sdk-c](https://github.com/Azure/azure-iot-sdk-c) - A C99 SDK for connecting devices to Microsoft Azure IoT services
 - [gpu-monitoring-tools](https://github.com/NVIDIA/gpu-monitoring-tools) - Tools for monitoring NVIDIA GPUs on Linux
 - [FreeRDP](https://github.com/FreeRDP/FreeRDP) - FreeRDP is a free remote desktop protocol library and clients
@@ -557,6 +558,7 @@
 - [TensorRT](https://github.com/NVIDIA/TensorRT) - TensorRT is a C++ library for high performance inference on NVIDIA GPUs and deep learning accelerators.
 - [ton](https://github.com/ton-blockchain/ton) - 
 - [Kimera-VIO](https://github.com/MIT-SPARK/Kimera-VIO) - Visual Inertial Odometry with SLAM capabilities and 3D Mesh generation.
+- [betaflight](https://github.com/betaflight/betaflight) - Open Source Flight Controller Firmware
 - [Multitarget-tracker](https://github.com/Smorodov/Multitarget-tracker) - Multiple Object Tracker, Based on  Hungarian algorithm + Kalman filter.
 - [open_spiel](https://github.com/deepmind/open_spiel) - OpenSpiel is a collection of environments and algorithms for research in general reinforcement learning and search/planning in games.
 - [RRS](https://github.com/maisvendoo/RRS) - Russian Railway Simulator
@@ -941,6 +943,7 @@
 - [osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
 - [FaceSwap](https://github.com/hrastnik/FaceSwap) - Real-time FaceSwap application built with OpenCV and dlib
 - [rocksdb](https://github.com/facebook/rocksdb) - A library that provides an embeddable, persistent key-value store for fast storage.
+- [realm-js](https://github.com/realm/realm-js) - Realm is a mobile database: an alternative to SQLite & key-value stores
 - [serving](https://github.com/tensorflow/serving) - A flexible, high-performance serving system for machine learning models
 - [caffe](https://github.com/microsoft/caffe) - Caffe on both Linux and Windows
 - [CNTK](https://github.com/microsoft/CNTK) - Microsoft Cognitive Toolkit (CNTK), an open source deep-learning toolkit
@@ -1164,7 +1167,6 @@
 - [devfreebooks.github.io](https://github.com/devfreebooks/devfreebooks.github.io) - A huge collection of free books for developers
 - [code-nasa-gov](https://github.com/nasa/code-nasa-gov) - code.nasa.gov site leveraging the Open Source Catalog on github.com, powered by Polymer
 - [odoo-material](https://github.com/Vauxoo/odoo-material) - FrontEnd Theme using material design
-- [styleguide](https://github.com/auth0/styleguide) - 🖌 Conjunction of design patterns, components and resources used across our products.
 - [tabula](https://github.com/tabulapdf/tabula) - Tabula is a tool for liberating data tables trapped inside PDF files
 - [startbootstrap-new-age](https://github.com/StartBootstrap/startbootstrap-new-age) - A web app landing page theme created by Start Bootstrap
 - [iconoo](https://github.com/qieguo2016/iconoo) - A Flexible Pure CSS Icon Pack! One Tag One Icon! https://qieguo2016.github.io/iconoo/
@@ -1395,7 +1397,7 @@
 - [developer_quest](https://github.com/2d-inc/developer_quest) - Respository for the I/O 2019 demo: Become a tech lead, slay bugs, and don't get fired.
 - [flutter_pokedex](https://github.com/scitbiz/flutter_pokedex) - Pokedex app built with Flutter (with lots of animations)
 - [FlutterSocialAppUIKit](https://github.com/JideGuru/FlutterSocialAppUIKit) - Flutter representation of a Social App Concept.
-- [chat_app](https://github.com/singhbhavneet/chat_app) - A flutter chat app built with firestore. It is clone of messenger.User can create stories,chat and search in real time.
+- [chat_app](https://github.com/developerpaaji/chat_app) - A flutter chat app built with firestore. It is clone of messenger.User can create stories,chat and search in real time.
 - [FlutterFoodybite](https://github.com/JideGuru/FlutterFoodybite) - Flutter representation of a Restaurant app UI.
 - [flutter-boilerplate-project](https://github.com/zubairehman/flutter-boilerplate-project) - A boilerplate project created in flutter using MobX and Provider.
 - [flutter_device_preview](https://github.com/aloisdeniel/flutter_device_preview) - Approximate how your app looks and performs on another device.
@@ -2092,7 +2094,7 @@
 - [flynn](https://github.com/flynn/flynn) - A next generation open source platform as a service (PaaS)
 - [hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [noms](https://github.com/attic-labs/noms) - The versioned, forkable, syncable database
-- [flannel](https://github.com/coreos/flannel) - flannel is a network fabric for containers, designed for Kubernetes
+- [flannel](https://github.com/flannel-io/flannel) - flannel is a network fabric for containers, designed for Kubernetes
 - [summitdb](https://github.com/tidwall/summitdb) - In-memory NoSQL database with ACID transactions, Raft consensus, and Redis API
 - [gorgonia](https://github.com/gorgonia/gorgonia) - Gorgonia is a library that helps facilitate machine learning in Go.
 - [go-patterns](https://github.com/tmrts/go-patterns) - Curated list of Go design patterns, recipes and idioms
@@ -2162,6 +2164,7 @@
 
 ## HTML 
 
+- [howtheysre](https://github.com/upgundecha/howtheysre) - A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)
 - [speechbrain.github.io](https://github.com/speechbrain/speechbrain.github.io) - The SpeechBrain project aims to build a novel speech toolkit fully based on PyTorch. With SpeechBrain users can easily create speech processing systems, ranging from speech recognition (both HMM/DNN and end-to-end), speaker recognition, speech enhancement, speech separation, multi-microphone speech processing, and many others.
 - [thgtoa](https://github.com/AnonymousPlanet/thgtoa) - The Hitchhiker’s Guide to Online Anonymity
 - [introduction-to-bash-scripting](https://github.com/bobbyiliev/introduction-to-bash-scripting) - Free Introduction to Bash Scripting eBook
@@ -2365,7 +2368,6 @@
 - [proposal-optional-chaining](https://github.com/tc39/proposal-optional-chaining) - 
 - [github-trending-repos](https://github.com/vitalets/github-trending-repos) - Track GitHub trending repositories in your favorite programming language by native GitHub notifications!
 - [kv-storage](https://github.com/WICG/kv-storage) - A proposal for an async key/value storage API for the web
-- [EIPs](https://github.com/ethereum/EIPs) - The Ethereum Improvement Proposal repository
 - [country-list](https://github.com/umpirsky/country-list) - :globe_with_meridians: List of all countries with names and ISO 3166-1 codes in all languages and data formats.
 - [website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:
 - [rstudio-conf](https://github.com/rstudio/rstudio-conf) - Materials for rstudio::conf
@@ -4116,7 +4118,6 @@
 - [grunt-connect-rewrite](https://github.com/viart/grunt-connect-rewrite) - Provides RewriteRules middleware for the grunt connect / express.
 - [ui-leaflet-layers](https://github.com/elesdoar/ui-leaflet-layers) - Angular UI Leaflet Layers Plugin
 - [flask-classy](https://github.com/apiguy/flask-classy) - Class based views for Flask
-- [realm-js](https://github.com/realm/realm-js) - Realm is a mobile database: an alternative to SQLite & key-value stores
 - [quickstart](https://github.com/angular/quickstart) - Angular QuickStart - source from the documentation
 - [visual-recognition-nodejs](https://github.com/germanattanasio/visual-recognition-nodejs) - DEPRECATED: this repo is no longer actively maintained
 - [bootswatch](https://github.com/thomaspark/bootswatch) - Themes for Bootstrap
@@ -5754,7 +5755,6 @@
 
 ## Objective-C 
 
-- [praat](https://github.com/praat/praat) - Praat: Doing Phonetics By Computer
 - [cordova-background-geolocation-lt](https://github.com/transistorsoft/cordova-background-geolocation-lt) - The most sophisticated background location-tracking & geofencing module with battery-conscious motion-detection intelligence for iOS and Android.
 - [detect.location](https://github.com/KrauseFx/detect.location) - An easy way to access the user's iOS location data without actually having access
 - [titanium_mobile](https://github.com/appcelerator/titanium_mobile) - 🚀 Native iOS- and Android- Apps with JavaScript
@@ -5775,6 +5775,7 @@
 
 ## Others 
 
+- [git-commands](https://github.com/gabrieldejesus/git-commands) - 👨🏾‍💻 The main git commands that every developer should know.
 - [Awesome-VAEs](https://github.com/matthewvowels1/Awesome-VAEs) - A curated list of awesome work on VAEs, disentanglement, representation learning, and generative models.
 - [awesome-network-embedding](https://github.com/chihming/awesome-network-embedding) - A curated list of network embedding techniques.
 - [best-of-streamlit](https://github.com/jrieke/best-of-streamlit) - 🏆 A ranked gallery of awesome streamlit apps built by the community
@@ -6832,6 +6833,7 @@
 
 ## Python 
 
+- [TransGAN](https://github.com/VITA-Group/TransGAN) - [Preprint] "TransGAN: Two Transformers Can Make One Strong GAN", Yifan Jiang, Shiyu Chang, Zhangyang Wang
 - [SSD-pytorch](https://github.com/uvipen/SSD-pytorch) - SSD: Single Shot MultiBox Detector pytorch implementation focusing on simplicity
 - [SAM](https://github.com/yuval-alaluf/SAM) - Official Implementation for "Only a Matter of Style: Age Transformation Using a Style-Based Regression Model"
 - [Autoregressive-Predictive-Coding](https://github.com/iamyuanchung/Autoregressive-Predictive-Coding) - Autoregressive Predictive Coding: An unsupervised autoregressive model for speech representation learning
@@ -7016,7 +7018,7 @@
 - [stable-baselines3](https://github.com/DLR-RM/stable-baselines3) - PyTorch version of Stable Baselines, reliable implementations of reinforcement learning algorithms.
 - [shotlooter](https://github.com/utkusen/shotlooter) - a recon tool that finds sensitive data inside the screenshots uploaded to prnt.sc
 - [TENER](https://github.com/fastnlp/TENER) - Codes for "TENER: Adapting Transformer Encoder for Named Entity Recognition"
-- [Realtime_PyAudio_FFT](https://github.com/tr1pzz/Realtime_PyAudio_FFT) - Realtime audio analysis in Python, using PyAudio and Numpy to extract and visualize FFT features from streaming audio.
+- [Realtime_PyAudio_FFT](https://github.com/aiXander/Realtime_PyAudio_FFT) - Realtime audio analysis in Python, using PyAudio and Numpy to extract and visualize FFT features from streaming audio.
 - [motion_imitation](https://github.com/google-research/motion_imitation) - Code accompanying the paper "Learning Agile Robotic Locomotion Skills by Imitating Animals"
 - [kiss-headers](https://github.com/Ousret/kiss-headers) - 💡Python package for HTTP/1.1 style headers. Parse headers to objects. Most advanced available structure for http headers.
 - [xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh
@@ -12956,6 +12958,7 @@
 
 ## Shell 
 
+- [tuxi](https://github.com/Bugswriter/tuxi) - Tuxi is a cli assistant. Get answers of your questions instantly.
 - [vespa-quickstart](https://github.com/pmuens/vespa-quickstart) - Scripts for the vespa.ai quick start guide
 - [kaldi-voices](https://github.com/freewym/kaldi-voices) - 
 - [axiom](https://github.com/pry0cc/axiom) - The dynamic infrastructure framework for everybody! Distribute the workload of many different scanning tools with ease, including nmap, ffuf, masscan, nuclei, meg and many more!
@@ -13130,6 +13133,10 @@
 - [temporalpw](https://github.com/tkooda/temporalpw) - Temporary secure password storage for transmission over insecure channels
 - [YaC2014](https://github.com/koldunovn/YaC2014) - Files for Yandex YaC2014 conference talk
 
+## Solidity 
+
+- [EIPs](https://github.com/ethereum/EIPs) - The Ethereum Improvement Proposal repository
+
 ## Starlark 
 
 - [googleapis](https://github.com/googleapis/googleapis) - Public interface definitions of Google APIs.
@@ -13139,6 +13146,7 @@
 ## Stylus 
 
 - [site](https://github.com/learning-rust/site) - 🎓 Rust Programming Language Tutorials for Everyone!
+- [styleguide](https://github.com/auth0/styleguide) - 🖌 Conjunction of design patterns, components and resources used across our products.
 
 ## Svelte 
 
