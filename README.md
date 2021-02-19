@@ -60,6 +60,7 @@
   - [NASL](#nasl)
   - [Nginx](#nginx)
   - [Nim](#nim)
+  - [Nunjucks](#nunjucks)
   - [OCaml](#ocaml)
   - [Objective-C](#objective-c)
   - [Open Policy Agent](#open-policy-agent)
@@ -318,7 +319,7 @@
 - [DoubleAgent](https://github.com/Cybellum/DoubleAgent) - Zero-Day Code Injection and Persistence Technique
 - [portable-snippets](https://github.com/nemequ/portable-snippets) - Collection of miscellaneous portable C snippets.
 - [miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
-- [s2n](https://github.com/awslabs/s2n) - s2n : an implementation of the TLS/SSL protocols
+- [s2n-tls](https://github.com/aws/s2n-tls) - s2n : an implementation of the TLS/SSL protocols
 - [sha1collisiondetection](https://github.com/cr-marcstevens/sha1collisiondetection) - Library and command line tool to detect SHA-1 collision in a file
 - [tig](https://github.com/jonas/tig) - Text-mode interface for git
 - [CMake](https://github.com/Kitware/CMake) - Mirror of CMake upstream repository
@@ -2091,7 +2092,7 @@
 - [gocui](https://github.com/jroimartin/gocui) - Minimalist Go package aimed at creating Console User Interfaces.
 - [traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 - [gorram](https://github.com/natefinch/gorram) - It's like go run for any go function
-- [flynn](https://github.com/flynn/flynn) - A next generation open source platform as a service (PaaS)
+- [flynn](https://github.com/flynn/flynn) - [UNMAINTAINED] A next generation open source platform as a service (PaaS)
 - [hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [noms](https://github.com/attic-labs/noms) - The versioned, forkable, syncable database
 - [flannel](https://github.com/flannel-io/flannel) - flannel is a network fabric for containers, designed for Kubernetes
@@ -2188,7 +2189,6 @@
 - [chatcord](https://github.com/bradtraversy/chatcord) - Realtime chat app with rooms
 - [Bart_T5-summarization](https://github.com/renatoviolin/Bart_T5-summarization) - Summarization Task using Bart and T5 models.
 - [geektime-ELK](https://github.com/onebirdrocks/geektime-ELK) - ELK Training
-- [fast-srt-subtitle](https://github.com/wiwikuan/fast-srt-subtitle) - Make SRT Caption Fast!!!!
 - [awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [repo-badges](https://github.com/dwyl/repo-badges) - :star: Use repo badges (build passing, coverage, etc) in your readme/markdown file to signal code quality in a project.
 - [kubelabs](https://github.com/collabnix/kubelabs) - Kubernetes - Beginners | Intermediate | Advanced
@@ -2204,7 +2204,6 @@
 - [LearnCS8-Resume](https://github.com/JordanSchuetz/LearnCS8-Resume) - Resume template website for the LearnCS8 Lab 3
 - [newton-dynamics](https://github.com/MADEAPPS/newton-dynamics) - Newton Dynamics is an integrated solution for real time simulation of physics environments.
 - [esm244-w2020-lab5](https://github.com/allisonhorst/esm244-w2020-lab5) - Lab week 5: exploring time series data, intro to forecasting
-- [tiny-helpers](https://github.com/stefanjudis/tiny-helpers) - A collection of useful online web development tools
 - [intro-to-ml-tidy](https://github.com/rstudio-conf-2020/intro-to-ml-tidy) - Intro to Machine Learning with the Tidyverse
 - [WhatTheHack](https://github.com/microsoft/WhatTheHack) - A collection of challenge based hack-a-thons including student guide, coach guide, lecture presentations, sample/instructional code and templates.
 - [samesite-examples](https://github.com/GoogleChromeLabs/samesite-examples) - Examples of using the SameSite cookie attribute in a variety of language, libraries, and frameworks.
@@ -2872,6 +2871,7 @@
 - [headless-cat-n-mouse](https://github.com/paulirish/headless-cat-n-mouse) - Is headless chrome currently detectable? Let's pit the detections and detection evasions against eachother.
 - [label-studio](https://github.com/heartexlabs/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format
 - [webviz](https://github.com/cruise-automation/webviz) - web-based visualization libraries
+- [fast-srt-subtitle](https://github.com/wiwikuan/fast-srt-subtitle) - Make SRT Caption Fast!!!!
 - [fullstack-course4](https://github.com/jhu-ep-coursera/fullstack-course4) - Example code for HTML, CSS, and Javascript for Web Developers Coursera Course
 - [jsdoc](https://github.com/jsdoc/jsdoc) - An API documentation generator for JavaScript.
 - [vscode-plugin](https://github.com/kiteco/vscode-plugin) - Kite Autocomplete Plugin for Visual Studio Code
@@ -3905,7 +3905,7 @@
 - [vue-grid-layout](https://github.com/jbaysolutions/vue-grid-layout) - A draggable and resizable grid layout, for Vue.js.
 - [vue-video-player](https://github.com/surmon-china/vue-video-player) - 🎞 @videojs component for @vuejs
 - [vuejs-AdminLTE](https://github.com/r0r1/vuejs-AdminLTE) - Admin LTE Starter for Vue JS
-- [vue-echarts](https://github.com/ecomfe/vue-echarts) - Apache ECharts (incubating) component for Vue.js.
+- [vue-echarts](https://github.com/ecomfe/vue-echarts) - Apache ECharts component for Vue.js.
 - [vue-mugen-scroll](https://github.com/egoist/vue-mugen-scroll) - Infinite scroll component for Vue.js 2
 - [Sortable](https://github.com/SortableJS/Sortable) - Create and reorder lists with drag-and-drop. For use with modern browsers and touch devices
 - [django-react-redux-base](https://github.com/Seedstars/django-react-redux-base) - Seedstars Labs Base Django React Redux Project
@@ -4413,6 +4413,8 @@
 
 ## Jupyter Notebook 
 
+- [StyleCLIP](https://github.com/orpatashnik/StyleCLIP) - 
+- [deep-vector-quantization](https://github.com/karpathy/deep-vector-quantization) - VQVAEs, GumbelSoftmaxes and friends
 - [VL-BERT](https://github.com/jackroos/VL-BERT) - Code for ICLR 2020 paper "VL-BERT: Pre-training of Generic Visual-Linguistic Representations".
 - [CodeSearchNet](https://github.com/github/CodeSearchNet) - Datasets, tools, and benchmarks for representation learning of code.
 - [data_science_blogs](https://github.com/MLWhiz/data_science_blogs) - A repository to keep track of all the code that I end up writing for my blog posts.
@@ -5748,6 +5750,10 @@
 ## Nim 
 
 - [pipelines](https://github.com/calebwin/pipelines) - An experimental programming language for data flow
+
+## Nunjucks 
+
+- [tiny-helpers](https://github.com/stefanjudis/tiny-helpers) - A collection of useful online web development tools
 
 ## OCaml 
 
@@ -9310,7 +9316,7 @@
 - [IPpy](https://github.com/shivammathur/IPpy) - :rocket: Parallel testing of IP addresses and domains in python to find the accessible and inaccessible ones.
 - [Persimmon](https://github.com/AlvarBer/Persimmon) - A visual dataflow programming language for sklearn
 - [tinynumpy](https://github.com/wadetb/tinynumpy) - A lightweight, pure Python, numpy compliant ndarray class.
-- [binsnitch](https://github.com/NVISO-BE/binsnitch) - Detect silent (unwanted) changes to files on your system
+- [binsnitch](https://github.com/NVISOsecurity/binsnitch) - Detect silent (unwanted) changes to files on your system
 - [Reconnoitre](https://github.com/codingo/Reconnoitre) - A security tool for multithreaded information gathering and service enumeration whilst building directory structures to store results, along with writing out recommendations for further testing.
 - [semilive](https://github.com/toji/semilive) - A Sublime Text plugin for "Live" coding
 - [scikit-garden](https://github.com/scikit-garden/scikit-garden) - A garden for scikit-learn compatible trees
@@ -12909,7 +12915,7 @@
 - [documentation](https://github.com/codeship/documentation) - Documentation for Codeship CI & CD service
 - [bojler](https://github.com/Slicejack/bojler) - Bojler is an email framework
 - [TypeScript-Node-Starter](https://github.com/microsoft/TypeScript-Node-Starter) - A reference example for TypeScript and Node with a detailed README describing how to use the two together.
-- [serverless-stack-com](https://github.com/AnomalyInnovations/serverless-stack-com) - Serverless Stack is an open source guide for building and deploying full-stack apps using Serverless and React on AWS.
+- [serverless-stack-com](https://github.com/AnomalyInnovations/serverless-stack-com) - An open source guide for building and deploying full-stack apps using Serverless and React on AWS.
 - [cs228-notes](https://github.com/ermongroup/cs228-notes) - Course notes for CS228: Probabilistic Graphical Models.
 - [devportfolio](https://github.com/RyanFitzgerald/devportfolio) - A lightweight, customizable single-page personal portfolio website template built with JavaScript and Sass
 - [papers-I-read](https://github.com/shagunsodhani/papers-I-read) - A-Paper-A-Week
