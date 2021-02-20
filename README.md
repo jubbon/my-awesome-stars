@@ -253,6 +253,7 @@
 - [scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [CTTK](https://github.com/pornin/CTTK) - Constant-Time Toolkit
 - [LCUI](https://github.com/lc-soft/LCUI) - A small C library for building user interfaces with C, XML and CSS.
+- [arcore-android-sdk](https://github.com/google-ar/arcore-android-sdk) - ARCore SDK for Android Studio
 - [masscan](https://github.com/robertdavidgraham/masscan) - TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
 - [3snake](https://github.com/blendin/3snake) - Tool for extracting information from newly spawned processes
 - [h2o](https://github.com/h2o/h2o) - H2O - the optimized HTTP/1, HTTP/2, HTTP/3 server
@@ -702,7 +703,6 @@
 - [zroya](https://github.com/malja/zroya) - [Partialy working][Stale] Python extension for creating native Windows notifications.
 - [Extended-Kalman-Filter](https://github.com/NikolasEnt/Extended-Kalman-Filter) - Udacity Self-Driving Car Engineer Nanodegree. Project: Extended Kalman Filters
 - [self-driving-car](https://github.com/ndrplz/self-driving-car) - Udacity Self-Driving Car Engineer Nanodegree projects.
-- [arcore-android-sdk](https://github.com/google-ar/arcore-android-sdk) - ARCore SDK for Android Studio
 - [openauto](https://github.com/f1xpl/openauto) - AndroidAuto headunit emulator
 - [Model-Predictive-Control](https://github.com/apolanco3225/Model-Predictive-Control) - Implementation of Model Predictive Control to drive a car in a virtual environment with 100 millisecond latency.
 - [fg](https://github.com/acdemiralp/fg) - Rendering abstraction which describes a frame as a directed acyclic graph of render tasks and resources.
@@ -2165,6 +2165,7 @@
 
 ## HTML 
 
+- [howtheyaws](https://github.com/upgundecha/howtheyaws) - A curated collection of publicly available resources on how technology and tech-savvy organizations around the world use Amazon Web Services (AWS)
 - [howtheysre](https://github.com/upgundecha/howtheysre) - A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)
 - [speechbrain.github.io](https://github.com/speechbrain/speechbrain.github.io) - The SpeechBrain project aims to build a novel speech toolkit fully based on PyTorch. With SpeechBrain users can easily create speech processing systems, ranging from speech recognition (both HMM/DNN and end-to-end), speaker recognition, speech enhancement, speech separation, multi-microphone speech processing, and many others.
 - [thgtoa](https://github.com/AnonymousPlanet/thgtoa) - The Hitchhiker’s Guide to Online Anonymity
@@ -2273,7 +2274,6 @@
 - [vscode](https://github.com/DankNeon/vscode) - A danker, more neon theme for VS Code
 - [python](https://github.com/Show-Me-the-Code/python) - Show Me the Code Python version.
 - [kubernetes-failure-stories](https://github.com/hjacobs/kubernetes-failure-stories) - Compilation of public failure/horror stories related to Kubernetes
-- [typedoc](https://github.com/TypeStrong/typedoc) - Documentation generator for TypeScript projects.
 - [build-your-own-mint](https://github.com/yyx990803/build-your-own-mint) - Build your own personal finance analytics using Plaid, Google Sheets and CircleCI.
 - [apidoc](https://github.com/apidoc/apidoc) - RESTful web API Documentation Generator.
 - [opencvjs](https://github.com/haoking/opencvjs) - Complete opencvjs (With the lastest OpenCV 4.0.0+)
@@ -2318,6 +2318,7 @@
 - [python-vs-javascript](https://github.com/sayazamurai/python-vs-javascript) - 
 - [deltatech](https://github.com/dhongu/deltatech) - Terrabit addons for Odoo
 - [quickstart-js](https://github.com/firebase/quickstart-js) - Firebase Quickstart Samples for Web
+- [wowchemy-hugo-modules](https://github.com/wowchemy/wowchemy-hugo-modules) - 📝 The website builder for Hugo. Build and deploy a beautiful website in minutes!
 - [MATRIX_Etherscan](https://github.com/MatrixAINetwork/MATRIX_Etherscan) - This is a crawler used to visit Ehterscan and obtain smartcontract related info
 - [uikit-ecommerce-template](https://github.com/chekromul/uikit-ecommerce-template) - E-commerce template built with UIKIt
 - [alexa-auto-sdk](https://github.com/alexa/alexa-auto-sdk) - The Alexa Auto SDK is for automotive OEMs to integrate Alexa directly into vehicles.
@@ -3216,7 +3217,6 @@
 - [umbrella](https://github.com/franciscop/umbrella) - :umbrella: Lightweight javascript library for DOM manipulation and events
 - [svg-3d-builder](https://github.com/captainwz/svg-3d-builder) - an elaborate tool to create 3d model with svg
 - [TheoremJS](https://github.com/arguiot/TheoremJS) - A Math library for computation in JavaScript 📕
-- [wowchemy-hugo-modules](https://github.com/wowchemy/wowchemy-hugo-modules) - 📝 The website builder for Hugo. Build and deploy a beautiful website in minutes!
 - [rnset](https://github.com/suijunqiang/rnset) - rnset is a framework based on the react native & integrated a lot very good RN components to easy for verifying/using/picking in your projects
 - [iguazu](https://github.com/americanexpress/iguazu) - ✨ Iguazu is a simple Redux-powered Async Query engine
 - [algorithms-javascript](https://github.com/IamManchanda/algorithms-javascript) - Algorithms & Data Structures! [WIP] More questions are getting added!
@@ -8552,7 +8552,7 @@
 - [cacheout](https://github.com/dgilland/cacheout) - A caching library for Python
 - [jsonmodels](https://github.com/jazzband/jsonmodels) - jsonmodels is library to make it easier for you to deal with structures that are converted to, or read from JSON.
 - [SublimeNotebook](https://github.com/aviaryan/SublimeNotebook) - 📝 Make Sublime Text your favorite note taking/journal application
-- [authenticatorpy](https://github.com/abdullahselek/authenticatorpy) - Generate 2FA tokens like Google Authenticator.
+- [authenticatorpy](https://github.com/abdullahselek/authenticatorpy) - A Python library that provide unique keys for 2FA with given secret.
 - [vidsum](https://github.com/OpenGenus/vidsum) - Generate summary of any video :tv: anywhere and anytime
 - [Simple-OpenCV-Calculator](https://github.com/EvilPort2/Simple-OpenCV-Calculator) - A gesture controlled calculator.
 - [augmented-reality](https://github.com/glennglennglenn/augmented-reality) - Snapchat-like augmented reality filters
@@ -9750,7 +9750,7 @@
 - [pipfile](https://github.com/pypa/pipfile) - 
 - [gcn](https://github.com/tkipf/gcn) - Implementation of Graph Convolutional Networks in TensorFlow
 - [speech-to-text-wavenet](https://github.com/buriburisuri/speech-to-text-wavenet) - Speech-to-Text-WaveNet : End-to-end sentence level English speech recognition based on DeepMind's WaveNet and tensorflow
-- [dependencies](https://github.com/proofit404/dependencies) - Dependency Injection for Humans.
+- [dependencies](https://github.com/proofit404/dependencies) - Constructor injection designed with OOP in mind.
 - [rt-bot](https://github.com/radio-t/rt-bot) - Мета-репо для движения "создай своего бота"
 - [ByteNet](https://github.com/buriburisuri/ByteNet) - A tensorflow implementation of French-to-English machine translation using DeepMind's ByteNet .
 - [altify](https://github.com/ParhamP/altify) - Uses deep learning to caption images in an HTML file and fills out its alternative text attributes with the related caption
@@ -12780,6 +12780,7 @@
 - [pudzu](https://github.com/Udzu/pudzu) - Various python scripts, mostly geared towards dataviz.
 - [cmdchallenge](https://github.com/jarv/cmdchallenge) - This repo is mirror of https://gitlab.com/jarv/cmdchallenge
 - [facebook-tunnel](https://github.com/matiasinsaurralde/facebook-tunnel) - Tunneling Internet traffic over Facebook chat.
+- [pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 - [scalpel](https://github.com/barmalei/scalpel) - 
 
 ## Ruby 
@@ -13132,7 +13133,6 @@
 - [papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [aws](https://github.com/astrostl/aws) - Eases SSH management of Linux EC2 Hosts.  Supports multiple accounts.
 - [OpenStack-Grizzly-Install-Guide](https://github.com/bilelmsekni/OpenStack-Grizzly-Install-Guide) - A full install guide for OpenStack Grizzly
-- [pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 
 ## Smarty 
 
@@ -13252,7 +13252,7 @@
 - [harp-map-editor](https://github.com/heremaps/harp-map-editor) - Simple map editor for harp.gl map styles
 - [docs](https://github.com/aws-amplify/docs) - Amplify Framework Documentation
 - [react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design
-- [directus](https://github.com/directus/directus) - Open-Source Data Platform — Directus wraps your new or existing SQL database with a realtime GraphQL+REST API for developers, and an intuitive admin app for non-technical users. 🐰
+- [directus](https://github.com/directus/directus) - Open-Source Data Platform 🐰  — Directus wraps any SQL database with a real-time GraphQL+REST API and an intuitive app for non-technical users.
 - [harp.gl](https://github.com/heremaps/harp.gl) - harp.gl - web map rendering engine
 - [mds-core](https://github.com/openmobilityfoundation/mds-core) - An implementation of an MDS Agency Server written in Typescript
 - [composition-api](https://github.com/vuejs/composition-api) - Composition API plugin for Vue 2
@@ -13289,6 +13289,7 @@
 - [functional-typescript](https://github.com/transitive-bullshit/functional-typescript) - TypeScript standard for rock solid serverless functions.
 - [vscode-browser-preview](https://github.com/auchenberg/vscode-browser-preview) - A real browser preview inside your editor that you can debug.
 - [TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
+- [typedoc](https://github.com/TypeStrong/typedoc) - Documentation generator for TypeScript projects.
 - [vscode-gitlens](https://github.com/eamodio/vscode-gitlens) - Supercharge the Git capabilities built into Visual Studio Code — Visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more
 - [noty](https://github.com/fabiospampinato/noty) - Autosaving sticky note with support for multiple notes without needing multiple windows.
 - [rrweb](https://github.com/rrweb-io/rrweb) - record and replay the web
