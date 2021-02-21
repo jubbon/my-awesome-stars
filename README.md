@@ -1964,7 +1964,7 @@
 - [liblb](https://github.com/lafikl/liblb) - A golang library that implements load balancing algorithms.
 - [macaron](https://github.com/go-macaron/macaron) - Package macaron is a high productive and modular web framework in Go.
 - [hub](https://github.com/github/hub) - A command-line tool that makes git easier to use with GitHub.
-- [rqlite](https://github.com/rqlite/rqlite) - The lightweight, distributed relational database built on SQLite.
+- [rqlite](https://github.com/rqlite/rqlite) - The lightweight, distributed relational database built on SQLite
 - [up](https://github.com/apex/up) - Deploy infinitely scalable serverless apps, apis, and sites in seconds to AWS.
 - [go-non-trivial-apps](https://github.com/gophersgang/go-non-trivial-apps) - List of non-trivial golang applications / libraries
 - [simple-httpd](https://github.com/briandowns/simple-httpd) - Drop-in replacement for Python SimpleHTTPServer. Provides TLS via Let's Encrypt over HTTP2, and auto generated self-signed certificates.
@@ -2166,7 +2166,6 @@
 ## HTML 
 
 - [howtheyaws](https://github.com/upgundecha/howtheyaws) - A curated collection of publicly available resources on how technology and tech-savvy organizations around the world use Amazon Web Services (AWS)
-- [howtheysre](https://github.com/upgundecha/howtheysre) - A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)
 - [speechbrain.github.io](https://github.com/speechbrain/speechbrain.github.io) - The SpeechBrain project aims to build a novel speech toolkit fully based on PyTorch. With SpeechBrain users can easily create speech processing systems, ranging from speech recognition (both HMM/DNN and end-to-end), speaker recognition, speech enhancement, speech separation, multi-microphone speech processing, and many others.
 - [thgtoa](https://github.com/AnonymousPlanet/thgtoa) - The Hitchhiker’s Guide to Online Anonymity
 - [introduction-to-bash-scripting](https://github.com/bobbyiliev/introduction-to-bash-scripting) - Free Introduction to Bash Scripting eBook
@@ -2848,6 +2847,7 @@
 
 ## JavaScript 
 
+- [howtheysre](https://github.com/upgundecha/howtheysre) - A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)
 - [neuralqa](https://github.com/victordibia/neuralqa) - NeuralQA: A Usable Library for Question Answering on Large Datasets with BERT
 - [knowledge-graphs](https://github.com/shaoxiongji/knowledge-graphs) - A collection of research on knowledge graphs
 - [maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) - MapLibre GL is a free and open-source fork of mapbox-gl-js
@@ -8470,7 +8470,7 @@
 - [youtube-video-face-swap](https://github.com/DerWaldi/youtube-video-face-swap) - The aim of this project is to perform a face swap on a youtube video almost automatically.
 - [Sickle](https://github.com/wetw0rk/Sickle) - Payload development tool
 - [multidiff](https://github.com/juhakivekas/multidiff) - Binary data diffing for multiple objects or streams of data
-- [Crypto_Trader](https://github.com/bshaw19/Crypto_Trader) - Q-Learning Based Cryptocurrency Trader and Portfolio Optimizer for the Poloniex Exchange
+- [Crypto_Trader](https://github.com/bshaw2019/Crypto_Trader) - Q-Learning Based Cryptocurrency Trader and Portfolio Optimizer for the Poloniex Exchange
 - [ctfr](https://github.com/UnaPibaGeek/ctfr) - Abusing Certificate Transparency logs for getting HTTPS websites subdomains.
 - [Memcrashed-DDoS-Exploit](https://github.com/649/Memcrashed-DDoS-Exploit) - DDoS attack tool for sending forged UDP packets to vulnerable Memcached servers obtained using Shodan API
 - [ForceNap](https://github.com/omikun/ForceNap) - Suspend any one Mac OS apps when not in focus
@@ -13622,7 +13622,7 @@
 - [maeve](https://github.com/antrancs/maeve) - Maeve, a PWA Apple Music web player with Last.fm support. Built with Vue & Typescript
 - [vue-typescript-admin-template](https://github.com/Armour/vue-typescript-admin-template) - 🖖 A vue-cli 3.0 + typescript minimal admin template
 - [vue-avatar-editor](https://github.com/fpluquet/vue-avatar-editor) - Avatar editor for Vue.js. Demo on : https://fpluquet.github.io/vue-avatar-editor/
-- [coco-annotator](https://github.com/jsbroks/coco-annotator) - :pencil2: Web-based image segmentation tool for object detection, localization and keypoints
+- [coco-annotator](https://github.com/jsbroks/coco-annotator) - :pencil2: Web-based image segmentation tool for object detection, localization, and keypoints
 - [vue-support-chat](https://github.com/ajb413/vue-support-chat) - A website support chat interface example using Vue Beautiful Chat and PubNub ChatEngine
 - [vuetify-confirm](https://github.com/yariksav/vuetify-confirm) - Extends vuetify.js confirm dialog
 - [Align](https://github.com/dendoink/Align) - a single static blog generater use vue components and markdown files
