@@ -2165,7 +2165,6 @@
 
 ## HTML 
 
-- [howtheyaws](https://github.com/upgundecha/howtheyaws) - A curated collection of publicly available resources on how technology and tech-savvy organizations around the world use Amazon Web Services (AWS)
 - [speechbrain.github.io](https://github.com/speechbrain/speechbrain.github.io) - The SpeechBrain project aims to build a novel speech toolkit fully based on PyTorch. With SpeechBrain users can easily create speech processing systems, ranging from speech recognition (both HMM/DNN and end-to-end), speaker recognition, speech enhancement, speech separation, multi-microphone speech processing, and many others.
 - [thgtoa](https://github.com/AnonymousPlanet/thgtoa) - The Hitchhiker’s Guide to Online Anonymity
 - [introduction-to-bash-scripting](https://github.com/bobbyiliev/introduction-to-bash-scripting) - Free Introduction to Bash Scripting eBook
@@ -2847,6 +2846,8 @@
 
 ## JavaScript 
 
+- [OpenClubhouse](https://github.com/ai-eks/OpenClubhouse) - A third-part web application based on flask to play Clubhouse audio.
+- [howtheyaws](https://github.com/upgundecha/howtheyaws) - A curated collection of publicly available resources on how technology and tech-savvy organizations around the world use Amazon Web Services (AWS)
 - [howtheysre](https://github.com/upgundecha/howtheysre) - A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)
 - [neuralqa](https://github.com/victordibia/neuralqa) - NeuralQA: A Usable Library for Question Answering on Large Datasets with BERT
 - [knowledge-graphs](https://github.com/shaoxiongji/knowledge-graphs) - A collection of research on knowledge graphs
@@ -5808,7 +5809,7 @@
 - [scientific-visualization-book](https://github.com/rougier/scientific-visualization-book) - ❗️WIP❗️An open access book on scientific visualization using python and matplotlib
 - [awesome-mlops](https://github.com/visenger/awesome-mlops) - A curated list of references for MLOps
 - [machine-learning-roadmap](https://github.com/mrdbourke/machine-learning-roadmap) - A roadmap connecting many of the most important concepts in machine learning, how to learn them and what tools to use to perform them.
-- [QA_bible](https://github.com/Vladislav610/QA_bible) - Библия QA/тестировщика это 200++ страниц обновляемой смеси ответов на вопросы с реальных собеседований на QA, перевода интересного контента с зарубежных ресурсов и агрегации материала с отечественных.
+- [QA_bible](https://github.com/VladislavEremeev/QA_bible) - Библия QA это почти 300 страниц обновляемой смеси ответов на вопросы с реальных собеседований на QA, полезных ресурсов и статей, перевода интересного контента с зарубежных ресурсов и агрегации материала с отечественных.
 - [sql-server-samples](https://github.com/microsoft/sql-server-samples) - Azure Data SQL Samples - Official Microsoft GitHub Repository containing code samples for SQL Server, Azure SQL, Azure Synapse, and Azure SQL Edge
 - [data-engineer-roadmap](https://github.com/datastacktv/data-engineer-roadmap) - Roadmap to becoming a data engineer in 2021
 - [NLP-pretrained-model](https://github.com/balavenkatesh3322/NLP-pretrained-model) - A collection of Natural language processing pre-trained models.
@@ -6582,6 +6583,7 @@
 - [ES6-for-humans](https://github.com/metagrover/ES6-for-humans) - A kickstarter guide to writing ES6
 - [awesome-gov](https://github.com/govdesign/awesome-gov) - 
 - [es6features](https://github.com/lukehoban/es6features) - Overview of ECMAScript 6 features
+- [servo](https://github.com/servo/servo) - The Servo Browser Engine
 - [awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) - Use your macOS terminal shell to do awesome things.
 - [posters](https://github.com/UKHomeOffice/posters) - Home Office Digital repository of posters covering different topics - research, access needs, accessibility, design.
 - [startup-checklist](https://github.com/leonar15/startup-checklist) - A checklist for incorporation so you can get back to building your product, fundraising, etc.
@@ -6839,6 +6841,7 @@
 
 ## Python 
 
+- [nfnets-pytorch](https://github.com/vballoli/nfnets-pytorch) - NFNets and Adaptive Gradient Clipping for SGD implemented in PyTorch
 - [TransGAN](https://github.com/VITA-Group/TransGAN) - [Preprint] "TransGAN: Two Transformers Can Make One Strong GAN", Yifan Jiang, Shiyu Chang, Zhangyang Wang
 - [SSD-pytorch](https://github.com/uvipen/SSD-pytorch) - SSD: Single Shot MultiBox Detector pytorch implementation focusing on simplicity
 - [SAM](https://github.com/yuval-alaluf/SAM) - Official Implementation for "Only a Matter of Style: Age Transformation Using a Style-Based Regression Model"
@@ -7236,7 +7239,7 @@
 - [docker-python](https://github.com/Kaggle/docker-python) - Kaggle Python docker image
 - [muzero-general](https://github.com/werner-duvaud/muzero-general) - MuZero
 - [book](https://github.com/cosmicpython/book) - A Book about Pythonic Application Architecture Patterns for Managing Complexity.  Cosmos is the Opposite of Chaos you see. O'R. wouldn't actually let us call it "Cosmic Python" tho.
-- [vectorbt](https://github.com/polakowo/vectorbt) - Python library for backtesting and analyzing trading strategies at scale
+- [vectorbt](https://github.com/polakowo/vectorbt) - Python library for time series analysis and backtesting at scale
 - [pytorch-yolo-v3](https://github.com/ayooshkathuria/pytorch-yolo-v3) - A PyTorch implementation of the YOLO v3 object detection algorithm
 - [newscatcher](https://github.com/kotartemiy/newscatcher) - Programmatically collect normalized news from (almost) any website.
 - [Zooming-Slow-Mo-CVPR-2020](https://github.com/Mukosame/Zooming-Slow-Mo-CVPR-2020) - Fast and Accurate One-Stage Space-Time Video Super-Resolution (accepted in CVPR 2020)
@@ -8125,7 +8128,7 @@
 - [awesome-reactnative-ui](https://github.com/madhavanmalolan/awesome-reactnative-ui) - Awesome React Native UI components updated weekly
 - [learn-python](https://github.com/trekhleb/learn-python) - 📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations.
 - [Bowler](https://github.com/facebookincubator/Bowler) - Safe code refactoring for modern Python.
-- [hyper-h2](https://github.com/python-hyper/hyper-h2) - HTTP/2 State-Machine based protocol implementation
+- [h2](https://github.com/python-hyper/h2) - HTTP/2 State-Machine based protocol implementation
 - [odoo-addons](https://github.com/avanzosc/odoo-addons) - Modules for Odoo/OpenERP
 - [gin-config](https://github.com/google/gin-config) - Gin provides a lightweight configuration framework for Python
 - [aiojobs](https://github.com/aio-libs/aiojobs) - Jobs scheduler for managing background task (asyncio)
@@ -9901,7 +9904,7 @@
 - [azure-cli](https://github.com/Azure/azure-cli) - Azure Command-Line Interface
 - [mock-import](https://github.com/posener/mock-import) - A helper mocking function to mask ImportErrors
 - [clairvoyant](https://github.com/anfederico/clairvoyant) - Software designed to identify and monitor social/historical cues for short term stock movement
-- [erpnext](https://github.com/frappe/erpnext) - Free and Open Source Alternative to SAP
+- [erpnext](https://github.com/frappe/erpnext) - World's best free and open source ERP.
 - [flask-jwt-extended](https://github.com/vimalloc/flask-jwt-extended) - An open source Flask extension that provides JWT support (with batteries included)!
 - [streamlink](https://github.com/streamlink/streamlink) - Streamlink is a CLI utility which pipes video streams from various services into a video player
 - [numpy](https://github.com/numpy/numpy) - The fundamental package for scientific computing with Python.
@@ -12558,7 +12561,7 @@
 - [DataGristle](https://github.com/kenfar/DataGristle) - Tough and flexible tools for data analysis, transformation, validation and movement.
 - [moto](https://github.com/spulec/moto) - A library that allows you to easily mock out tests based on AWS infrastructure.
 - [gevent](https://github.com/gevent/gevent) - Coroutine-based concurrency library for Python
-- [twitter](https://github.com/sixohsix/twitter) - Python Twitter API
+- [twitter](https://github.com/python-twitter-tools/twitter) - Python Twitter API
 - [spinoff](https://github.com/erikkaplun/spinoff) - THIS REPO IS UNMAINTAINED. Spinoff is a framework for writing distributed, fault tolerant and scalable applications in Python. Spinoff is based on the Actor Model and borrows from Akka (location transparency, actor references, etc) and Erlang (process-like actors).
 - [butler](https://github.com/140am/butler) - ØMQ based Service Oriented RPC Framework
 - [stringtheory](https://github.com/pydanny/stringtheory) - Adds critically unimportant functionality to Python's str type.
@@ -12886,7 +12889,6 @@
 - [static-analysis](https://github.com/analysis-tools-dev/static-analysis) - A curated list of static analysis (SAST) tools for all programming languages, config files, build tools, and more.
 - [exonum](https://github.com/exonum/exonum) - An extensible open-source framework for creating private/permissioned blockchain applications
 - [rediSQL](https://github.com/RedBeardLab/rediSQL) - Redis module that provides a completely functional SQL database
-- [servo](https://github.com/servo/servo) - The Servo Browser Engine
 - [imageflow](https://github.com/imazen/imageflow) - High-performance image manipulation for web servers. Includes imageflow_server, imageflow_tool, and libimageflow
 - [gping](https://github.com/orf/gping) - Ping, but with a graph
 - [stacks-blockchain](https://github.com/blockstack/stacks-blockchain) - The Stacks 2.0 blockchain implementation
