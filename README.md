@@ -57,6 +57,7 @@
   - [Makefile](#makefile)
   - [Markdown](#markdown)
   - [Matlab](#matlab)
+  - [Mustache](#mustache)
   - [NASL](#nasl)
   - [Nginx](#nginx)
   - [Nim](#nim)
@@ -292,8 +293,8 @@
 - [pgsql-ogr-fdw](https://github.com/pramsey/pgsql-ogr-fdw) - PostgreSQL foreign data wrapper for OGR
 - [vlc](https://github.com/videolan/vlc) - VLC media player - All pull requests are ignored, please follow https://wiki.videolan.org/Sending_Patches_VLC/
 - [lua](https://github.com/lua/lua) - The Lua repo, as seen by the Lua team. Mirrored irregularly. Please DO NOT send pull requests. Send any issue to the Lua mailing list https://www.lua.org/lua-l.html
-- [panda](https://github.com/commaai/panda) - code powering the comma.ai panda
 - [casync](https://github.com/systemd/casync) - Content-Addressable Data Synchronization Tool
+- [neuralcoref](https://github.com/huggingface/neuralcoref) - ✨Fast Coreference Resolution in spaCy with Neural Networks
 - [timescaledb](https://github.com/timescale/timescaledb) - An open-source time-series SQL database optimized for fast ingest and complex queries.  Packaged as a PostgreSQL extension.
 - [openvpn](https://github.com/OpenVPN/openvpn) - OpenVPN  is  an open source VPN daemon
 - [DCP](https://github.com/NationalSecurityAgency/DCP) - Digest, stat, and copy files from one location to another in the same read pass
@@ -778,6 +779,7 @@
 - [catboost](https://github.com/catboost/catboost) - A fast, scalable, high performance Gradient Boosting on Decision Trees library, used for ranking, classification, regression and other machine learning tasks for Python, R, Java, C++. Supports computation on CPU and GPU.
 - [MaterialX](https://github.com/materialx/MaterialX) - MaterialX is an open standard for transfer of rich material and look-development content between applications and renderers.
 - [lolremez](https://github.com/samhocevar/lolremez) - 📈 Polynomial Approximations using the Remez Algorithm
+- [panda](https://github.com/commaai/panda) - code powering the comma.ai panda
 - [apollo-platform](https://github.com/ApolloAuto/apollo-platform) - Collections of Apollo Platform Software
 - [eos](https://github.com/EOSIO/eos) - An open source smart contract platform
 - [EternalTerminal](https://github.com/MisterTea/EternalTerminal) - Re-Connectable secure remote shell
@@ -1248,7 +1250,6 @@
 - [gdash](https://github.com/ripienaar/gdash) - A dashboard for Graphite
 - [djedi-cms](https://github.com/5monkeys/djedi-cms) - Django content management as it should be
 - [PyWorkshop2](https://github.com/araastat/PyWorkshop2) - 
-- [OSS4DS](https://github.com/altamiracorp/OSS4DS) - Open Source Software for Data Scientists
 - [nodeguide.ru](https://github.com/ekalinin/nodeguide.ru) - nodeguide.ru
 - [crime](https://github.com/ChrisBeaumont/crime) - Demo exploration of FBI crime statistics using Glue and plotly
 - [d3po](https://github.com/adrn/d3po) - 
@@ -1925,7 +1926,7 @@
 - [faas-netes](https://github.com/openfaas/faas-netes) - Kubernetes controller for OpenFaaS
 - [kubeless](https://github.com/kubeless/kubeless) - Kubernetes Native Serverless Framework
 - [sup3rS3cretMes5age](https://github.com/algolia/sup3rS3cretMes5age) - Simple to use, simple to deploy, one time self destruct messaging service, with hashicorp vault as a backend
-- [argo-workflows](https://github.com/argoproj/argo-workflows) - Argo Workflows: Get stuff done with Kubernetes.
+- [argo-workflows](https://github.com/argoproj/argo-workflows) - Workflow engine for Kubernetes
 - [powerline-go](https://github.com/justjanne/powerline-go) - A beautiful and useful low-latency prompt for your shell, written in go
 - [pprof](https://github.com/google/pprof) - pprof is a tool for visualization and analysis of profiling data
 - [raven](https://github.com/0x09AL/raven) - raven is a Linkedin information gathering tool that  can be used by pentesters to gather information about an organization employees using Linkedin.
@@ -2179,7 +2180,6 @@
 - [30-Days-of-Python](https://github.com/codingforentrepreneurs/30-Days-of-Python) - A New Version of 30 Days of Python is nearly here. Get started today.
 - [CNN-Architectures](https://github.com/Machine-Learning-Tokyo/CNN-Architectures) - 
 - [docsy](https://github.com/google/docsy) - A set of Hugo doc templates for launching open source content.
-- [amundsen](https://github.com/amundsen-io/amundsen) - Amundsen is a metadata driven application for improving the productivity of data analysts, data scientists and engineers when interacting with data.
 - [ml-workshop-3-of-4](https://github.com/amueller/ml-workshop-3-of-4) - Advanced Machine Learning with Scikit-learn part I
 - [nlpbuddy](https://github.com/eellak/nlpbuddy) - A text analysis application for performing common NLP tasks through a web dashboard interface and an API
 - [rwi_executive_dashboard](https://github.com/splunk/rwi_executive_dashboard) - Splunk Remote Work Insights - Executive Dashboard
@@ -3832,7 +3832,7 @@
 - [vue-masked-input](https://github.com/niksmr/vue-masked-input) - Masked input component for Vue.js
 - [vue-places](https://github.com/Gomah/vue-places) - Places component is based on places.js for Vue 2.x. Turn any &lt;input&gt; into an address autocomplete.
 - [front-end-handbook-2017](https://github.com/FrontendMasters/front-end-handbook-2017) - 2017 edition of our front-end development guide
-- [raw](https://github.com/rawgraphs/raw) - The missing link between spreadsheets and data visualization
+- [rawgraphs-app](https://github.com/rawgraphs/rawgraphs-app) - The missing link between spreadsheets and data visualization
 - [clickhouse](https://github.com/TimonKK/clickhouse) - NodeJS client for ClickHouse
 - [kurento-tutorial-js](https://github.com/Kurento/kurento-tutorial-js) - kurento-tutorial-js
 - [jitsi-meet](https://github.com/jitsi/jitsi-meet) - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
@@ -4155,6 +4155,7 @@
 - [generator-ionic](https://github.com/diegonetto/generator-ionic) - Build hybrid mobile apps using the Ionic Framework
 - [piwigo-openstreetmap](https://github.com/xbgmsharp/piwigo-openstreetmap) - OpenStreetMap integration for Piwigo
 - [Leaflet.EasyButton](https://github.com/CliffCloud/Leaflet.EasyButton) - leaflet control buttons with icons and callbacks
+- [mdb-ui-kit](https://github.com/mdbootstrap/mdb-ui-kit) - Bootstrap 5 & Material Design 2.0 UI KIT
 - [lumX](https://github.com/lumapps/lumX) - The first responsive front-end framework based on Angular & Google Material Design specifications
 - [karma](https://github.com/karma-runner/karma) - Spectacular Test Runner for JavaScript
 - [rethinkdb-cli](https://github.com/tengla/rethinkdb-cli) - CLI and REPL for Rethinkdb
@@ -5734,6 +5735,10 @@
 - [combining-machine-learning-with-decision-making](https://github.com/thejat/combining-machine-learning-with-decision-making) - Machine Learning and the Traveling Repairman Problem
 - [rembo](https://github.com/ziyuw/rembo) - Bayesian optimization in high-dimensions via random embedding.
 
+## Mustache 
+
+- [amundsen](https://github.com/amundsen-io/amundsen) - Amundsen is a metadata driven application for improving the productivity of data analysts, data scientists and engineers when interacting with data.
+
 ## NASL 
 
 - [MIOpen](https://github.com/ROCmSoftwarePlatform/MIOpen) - AMD's Machine Intelligence Library
@@ -6841,6 +6846,7 @@
 
 ## Python 
 
+- [GSDT](https://github.com/yongxinw/GSDT) - Official PyTorch implementation of "Joint Object Detection and Multi-Object Tracking with Graph Neural Networks"
 - [nfnets-pytorch](https://github.com/vballoli/nfnets-pytorch) - NFNets and Adaptive Gradient Clipping for SGD implemented in PyTorch
 - [TransGAN](https://github.com/VITA-Group/TransGAN) - [Preprint] "TransGAN: Two Transformers Can Make One Strong GAN", Yifan Jiang, Shiyu Chang, Zhangyang Wang
 - [SSD-pytorch](https://github.com/uvipen/SSD-pytorch) - SSD: Single Shot MultiBox Detector pytorch implementation focusing on simplicity
@@ -8670,7 +8676,7 @@
 - [tensorflow-1.4-billion-password-analysis](https://github.com/philipperemy/tensorflow-1.4-billion-password-analysis) - Deep Learning model to analyze a large corpus of clear text passwords.
 - [Age-Gender-Estimate-TF](https://github.com/BoyuanJiang/Age-Gender-Estimate-TF) - Face age and gender estimate using TensorFlow
 - [asciietch](https://github.com/linkedin/asciietch) - A graphing library with the goal of making it simple to graphs using ascii characters.
-- [fossor](https://github.com/linkedin/fossor) - A plugin-oriented tool for automating the investigation of broken hosts and services.
+- [fossor](https://github.com/LinkedInAttic/fossor) - A plugin-oriented tool for automating the investigation of broken hosts and services.
 - [opencensus-python](https://github.com/census-instrumentation/opencensus-python) - A stats collection and distributed tracing framework
 - [ignite](https://github.com/pytorch/ignite) - High-level library to help with training and evaluating neural networks in PyTorch flexibly and transparently.
 - [keras-text](https://github.com/raghakot/keras-text) - Text Classification Library in Keras
@@ -9186,7 +9192,6 @@
 - [SentEval](https://github.com/facebookresearch/SentEval) - A python tool for evaluating the quality of sentence embeddings.
 - [crocs](https://github.com/iogf/crocs) - Python to Regex.  Regex to Python. The yRegex for humans.
 - [crackcoin](https://github.com/beurtschipper/crackcoin) - Very basic blockchain-free cryptocurrency PoC in Python
-- [neuralcoref](https://github.com/huggingface/neuralcoref) - ✨Fast Coreference Resolution in spaCy with Neural Networks
 - [pillow-simd](https://github.com/uploadcare/pillow-simd) - The friendly PIL fork
 - [honeyLambda](https://github.com/0x4D31/honeyLambda) - honeyλ - a simple, serverless application designed to create and monitor fake HTTP endpoints (i.e. URL honeytokens) automatically, on top of AWS Lambda and Amazon API Gateway
 - [RON](https://github.com/taokong/RON) - RON: Reverse Connection with Objectness Prior Networks for Object Detection, CVPR 2017
@@ -12930,7 +12935,6 @@
 - [flight-manual.atom.io](https://github.com/atom/flight-manual.atom.io) - 📖 Documentation for Atom, generated by nanoc, hosted by GitHub Pages
 - [minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
 - [css](https://github.com/primer/css) - The CSS design system that powers GitHub
-- [mdb-ui-kit](https://github.com/mdbootstrap/mdb-ui-kit) - Bootstrap 5 & Material Design 2.0 UI KIT
 
 ## Sass 
 
