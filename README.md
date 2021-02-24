@@ -2108,7 +2108,7 @@
 - [habitus](https://github.com/cloud66-oss/habitus) - A build flow tool for Docker.
 - [armor](https://github.com/labstack/armor) - Uncomplicated, modern HTTP server
 - [vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices
-- [teleport](https://github.com/gravitational/teleport) - Secure Access for Developers that doesn't get in the way.
+- [teleport](https://github.com/gravitational/teleport) - Unified access for SSH servers, Kubernetes, web applications, and databases written in Go
 - [gallium](https://github.com/alexflint/gallium) - Build desktop applications in Go and HTML.
 - [eliasdb](https://github.com/krotik/eliasdb) - EliasDB a graph-based database.
 - [httpstat](https://github.com/davecheney/httpstat) - It's like curl -v, with colours.
@@ -3220,7 +3220,7 @@
 - [TheoremJS](https://github.com/arguiot/TheoremJS) - A Math library for computation in JavaScript 📕
 - [rnset](https://github.com/suijunqiang/rnset) - rnset is a framework based on the react native & integrated a lot very good RN components to easy for verifying/using/picking in your projects
 - [iguazu](https://github.com/americanexpress/iguazu) - ✨ Iguazu is a simple Redux-powered Async Query engine
-- [algorithms-javascript](https://github.com/IamManchanda/algorithms-javascript) - Algorithms & Data Structures! [WIP] More questions are getting added!
+- [algorithms-javascript](https://github.com/IamManchanda/algorithms-javascript) - 2018: Algorithms & Data Structures!
 - [SpaceX-API](https://github.com/r-spacex/SpaceX-API) - :rocket: Open Source REST API for SpaceX launch, rocket, core, capsule, starlink, launchpad, and landing pad data.
 - [zaidalyafeai.github.io](https://github.com/zaidalyafeai/zaidalyafeai.github.io) - Implementation of web friendly ML models using TensorFlow.js. pix2pix, face segmentation, fast style transfer and many more ...
 - [http2-wrapper](https://github.com/szmarczak/http2-wrapper) - Use HTTP2 the same way like HTTP1
@@ -3455,7 +3455,7 @@
 - [cors](https://github.com/expressjs/cors) - Node.js CORS middleware
 - [vue-auth](https://github.com/websanova/vue-auth) - A simple light-weight authentication library for Vue.js
 - [test-cors.org](https://github.com/monsur/test-cors.org) - A tool to help test CORS requests
-- [starhackit](https://github.com/FredericHeem/starhackit) - StarHackIt: React/Native/Node fullstack starter kit with authentication and authorisation, data backed by SQL.
+- [starhackit](https://github.com/FredericHeem/starhackit) - StarHackIt: React/Native/Node fullstack starter kit with authentication and authorisation, data backed by SQL, the infrastructure deployed with GruCloud
 - [nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
 - [UglifyJS](https://github.com/mishoo/UglifyJS) - JavaScript parser / mangler / compressor / beautifier toolkit
 - [node-clinic](https://github.com/clinicjs/node-clinic) - Clinic.js diagnoses your Node.js performance issues
@@ -6932,7 +6932,7 @@
 - [create-ml-app](https://github.com/shreyashankar/create-ml-app) - Template Makefile for ML projects in Python.
 - [haven-ai](https://github.com/haven-ai/haven-ai) - 
 - [tn2-wg](https://github.com/alphacep/tn2-wg) - Tacotron2 + Waveglow Russian
-- [haystack](https://github.com/deepset-ai/haystack) - :mag: End-to-End Framework for building natural language search interfaces to data by utilizing Transformers and the State-of-the-Art of NLP. Supporting DPR, Elasticsearch, HuggingFace’s Modelhub and much more!
+- [haystack](https://github.com/deepset-ai/haystack) - :mag: End-to-end Python framework for building natural language search interfaces to data. Leverages Transformers and the State-of-the-Art of NLP. Supports DPR, Elasticsearch, HuggingFace’s Modelhub, and much more!
 - [BentoML](https://github.com/bentoml/BentoML) - Model Serving Made Easy
 - [eisen-core](https://github.com/eisen-ai/eisen-core) - Core functionality of Eisen
 - [vectorhub](https://github.com/vector-ai/vectorhub) - Vector Hub - Library for easy discovery, and consumption of State-of-the-art models to turn data into vectors. (text2vec, image2vec, video2vec, graph2vec, bert, inception, etc)
@@ -9059,7 +9059,7 @@
 - [asyncio-ftwpd](https://github.com/yeraydiazdiaz/asyncio-ftwpd) - Code for the examples on my article in Medium AsyncIO for the Working Python Developer
 - [console-logging](https://github.com/pshah123/console-logging) - Better, prettier commandline logging for Python--with colors! :ghost:
 - [sdnpwn](https://github.com/smythtech/sdnpwn) - An SDN penetration testing toolkit
-- [CSrankings](https://github.com/emeryberger/CSrankings) - A web app for ranking computer science departments according to their research output in selective venues.
+- [CSrankings](https://github.com/emeryberger/CSrankings) - A web app for ranking computer science departments according to their research output in selective venues, and for finding active faculty across a wide range of areas.
 - [speechpy](https://github.com/astorfi/speechpy) - :speech_balloon: SpeechPy - A Library for Speech Processing and Recognition: http://speechpy.readthedocs.io/en/latest/
 - [btcpy](https://github.com/chainside/btcpy) - A Python3 SegWit-compliant library which provides tools to handle Bitcoin data structures in a simple fashion.
 - [nili](https://github.com/niloofarkheirkhah/nili) - Nili is a Tool for Network Scan, Man in the Middle, Protocol Reverse Engineering and Fuzzing.
@@ -11022,7 +11022,7 @@
 - [neural-storyteller](https://github.com/ryankiros/neural-storyteller) - A recurrent neural network for generating little stories about images
 - [worldengine](https://github.com/Mindwerks/worldengine) - World generator using simulation of plates, rain shadow, erosion, etc.
 - [confidant](https://github.com/lyft/confidant) - Confidant: your secret keeper. https://lyft.github.io/confidant
-- [curio](https://github.com/dabeaz/curio) - Curio - Dead Body Reported!
+- [curio](https://github.com/dabeaz/curio) - Curio - "with 0.022% adoption of asyncio."
 - [python-phonenumbers](https://github.com/daviddrysdale/python-phonenumbers) - Python port of Google's libphonenumber
 - [cli-github](https://github.com/harshasrinivas/cli-github) - Github within the CLI :computer:
 - [nplusone](https://github.com/jmcarp/nplusone) - Auto-detecting the n+1 queries problem in Python
