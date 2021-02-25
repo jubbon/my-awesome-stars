@@ -595,7 +595,6 @@
 - [xleaflet](https://github.com/jupyter-xeus/xleaflet) - C++ backend for the jupyter leaflet widget
 - [ELF](https://github.com/pytorch/ELF) - ELF: a platform for game research with AlphaGoZero/AlphaZero reimplementation
 - [basis_universal](https://github.com/BinomialLLC/basis_universal) - Basis Universal GPU Texture Codec
-- [openvslam](https://github.com/xdspacelab/openvslam) - OpenVSLAM: A Versatile Visual SLAM Framework
 - [serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞
 - [ELF](https://github.com/facebookresearch/ELF) - An End-To-End, Lightweight and Flexible Platform for Game Research
 - [ViZDoom](https://github.com/mwydmuch/ViZDoom) - Doom-based AI Research Platform for Reinforcement Learning from Raw Visual Information. :godmode:
@@ -1585,7 +1584,7 @@
 - [olivia](https://github.com/olivia-ai/olivia) - 💁‍♀️Your new best friend powered by an artificial neural network
 - [cloud-builders-community](https://github.com/GoogleCloudPlatform/cloud-builders-community) - Community-contributed images for Google Cloud Build
 - [geziyor](https://github.com/geziyor/geziyor) - Geziyor, a fast web crawling & scraping framework for Go. Supports JS rendering.
-- [devdash](https://github.com/Phantas0s/devdash) - :bento: Highly Configurable Terminal Dashboard for Developers
+- [devdash](https://github.com/Phantas0s/devdash) - :bento: Highly Configurable Terminal Dashboard for Developers and Creators
 - [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database
 - [go-docker-compose](https://github.com/callicoder/go-docker-compose) - Golang Docker Compose Example
 - [mr2](https://github.com/txthinking/mr2) - Mr.2 can help you expose local server to external network. Support both TCP/UDP, of course support HTTP.  Zero-Configuration.
@@ -2108,7 +2107,7 @@
 - [habitus](https://github.com/cloud66-oss/habitus) - A build flow tool for Docker.
 - [armor](https://github.com/labstack/armor) - Uncomplicated, modern HTTP server
 - [vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices
-- [teleport](https://github.com/gravitational/teleport) - Unified access for SSH servers, Kubernetes, web applications, and databases written in Go
+- [teleport](https://github.com/gravitational/teleport) - Certificate authority and Identity aware proxy for SSH, Kubernetes, web applications, and databases
 - [gallium](https://github.com/alexflint/gallium) - Build desktop applications in Go and HTML.
 - [eliasdb](https://github.com/krotik/eliasdb) - EliasDB a graph-based database.
 - [httpstat](https://github.com/davecheney/httpstat) - It's like curl -v, with colours.
@@ -2130,7 +2129,7 @@
 - [ipify-api](https://github.com/rdegges/ipify-api) - A public IP API service.
 - [git-appraise](https://github.com/google/git-appraise) - Distributed code review system for Git repos
 - [fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
-- [semaphore](https://github.com/ansible-semaphore/semaphore) - Open Source alternative to Ansible Tower
+- [semaphore](https://github.com/ansible-semaphore/semaphore) - Modern UI for Ansible
 - [pick](https://github.com/bndw/pick) - A secure and easy-to-use CLI password manager for macOS and Linux
 - [find](https://github.com/schollz/find) - High-precision indoor positioning framework for most wifi-enabled devices.
 - [cayley](https://github.com/cayleygraph/cayley) - An open-source graph database
@@ -2166,6 +2165,7 @@
 
 ## HTML 
 
+- [shower](https://github.com/shower/shower) - Shower HTML presentation engine
 - [speechbrain.github.io](https://github.com/speechbrain/speechbrain.github.io) - The SpeechBrain project aims to build a novel speech toolkit fully based on PyTorch. With SpeechBrain users can easily create speech processing systems, ranging from speech recognition (both HMM/DNN and end-to-end), speaker recognition, speech enhancement, speech separation, multi-microphone speech processing, and many others.
 - [thgtoa](https://github.com/AnonymousPlanet/thgtoa) - The Hitchhiker’s Guide to Online Anonymity
 - [introduction-to-bash-scripting](https://github.com/bobbyiliev/introduction-to-bash-scripting) - Free Introduction to Bash Scripting eBook
@@ -4441,7 +4441,7 @@
 - [minGPT](https://github.com/karpathy/minGPT) - A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training
 - [python-for-data-science](https://github.com/blobcity/python-for-data-science) - A collection of Jupyter Notebooks for learning Python for Data Science.
 - [deepsvg](https://github.com/alexandre01/deepsvg) - Official code for the paper "DeepSVG: A Hierarchical Generative Network for Vector Graphics Animation". Includes a PyTorch library for deep learning with SVG data.
-- [dash-sample-apps](https://github.com/plotly/dash-sample-apps) - Apps hosted in the Dash Gallery
+- [dash-sample-apps](https://github.com/plotly/dash-sample-apps) - Open-source demos hosted on Dash Gallery
 - [2020](https://github.com/epfl-ada/2020) - Materials for Applied Data Analysis CS-401, fall 2020
 - [pixel2style2pixel](https://github.com/eladrich/pixel2style2pixel) - Official Implementation for "Encoding in Style: a StyleGAN Encoder for Image-to-Image Translation"
 - [Deep-Reinforcement-Learning-for-Automated-Stock-Trading-Ensemble-Strategy-ICAIF-2020](https://github.com/AI4Finance-LLC/Deep-Reinforcement-Learning-for-Automated-Stock-Trading-Ensemble-Strategy-ICAIF-2020) - Deep Reinforcement Learning for Automated Stock Trading: An Ensemble Strategy. ICAIF 2020. Please star.
@@ -5401,6 +5401,7 @@
 - [subpixel](https://github.com/atriumlts/subpixel) - subpixel: A subpixel convnet for super resolution with Tensorflow
 - [reinforcement-learning](https://github.com/dennybritz/reinforcement-learning) - Implementation of Reinforcement Learning Algorithms. Python, OpenAI Gym, Tensorflow. Exercises and Solutions to accompany Sutton's Book and David Silver's course.
 - [self-driving-car](https://github.com/udacity/self-driving-car) - The Udacity open source self-driving car project
+- [cleverhans](https://github.com/cleverhans-lab/cleverhans) - An adversarial example library for constructing attacks, building defenses, and benchmarking both
 - [pymc3_quickstart_guide](https://github.com/parsing-science/pymc3_quickstart_guide) - 
 - [tensorflow-workshop](https://github.com/random-forests/tensorflow-workshop) - Slides and code from our TensorFlow workshop.
 - [movie-plots-by-genre](https://github.com/RaRe-Technologies/movie-plots-by-genre) - Movie plots by genre tutorial at PyData Berlin 2016
@@ -5755,6 +5756,7 @@
 
 ## Nim 
 
+- [faster-than-requests](https://github.com/juancarlospaco/faster-than-requests) - Faster requests on Python 3
 - [pipelines](https://github.com/calebwin/pipelines) - An experimental programming language for data flow
 
 ## Nunjucks 
@@ -6012,6 +6014,7 @@
 - [your-dns](https://github.com/yegle/your-dns) - A docker-compose file to provide a secure adblocking DNS server
 - [awesome-react-hooks](https://github.com/glauberfc/awesome-react-hooks) - A curated list about React Hooks
 - [Must-read-papers-and-continuous-tracking-on-Graph-Neural-Network-GNN-progress](https://github.com/jdlc105/Must-read-papers-and-continuous-tracking-on-Graph-Neural-Network-GNN-progress) - Papers on Graph neural network(GNN)
+- [openvslam](https://github.com/xdspacelab/openvslam) - OpenVSLAM: A Versatile Visual SLAM Framework
 - [stanford-cs-221-artificial-intelligence](https://github.com/afshinea/stanford-cs-221-artificial-intelligence) - VIP cheatsheets for Stanford's CS 221 Artificial Intelligence
 - [StanfordDoggoProject](https://github.com/Nate711/StanfordDoggoProject) - Stanford Doggo is an open source quadruped robot that jumps, flips, and trots!
 - [Learn_Physics_in_2_Months](https://github.com/llSourcell/Learn_Physics_in_2_Months) - This is the curriculum for "Learn Physics in 2 Months" by Siraj Raval on Youtube
@@ -6846,6 +6849,7 @@
 
 ## Python 
 
+- [model_search](https://github.com/google/model_search) - 
 - [GSDT](https://github.com/yongxinw/GSDT) - Official PyTorch implementation of "Joint Object Detection and Multi-Object Tracking with Graph Neural Networks"
 - [nfnets-pytorch](https://github.com/vballoli/nfnets-pytorch) - NFNets and Adaptive Gradient Clipping for SGD implemented in PyTorch
 - [TransGAN](https://github.com/VITA-Group/TransGAN) - [Preprint] "TransGAN: Two Transformers Can Make One Strong GAN", Yifan Jiang, Shiyu Chang, Zhangyang Wang
@@ -7378,7 +7382,6 @@
 - [stargan-v2](https://github.com/clovaai/stargan-v2) - StarGAN v2 - Official PyTorch Implementation (CVPR 2020)
 - [gym-bandits](https://github.com/JKCooper2/gym-bandits) - Bandits Environments for the OpenAI Gym
 - [PrettyErrors](https://github.com/onelivesleft/PrettyErrors) - Prettify Python exception output to make it legible.
-- [faster-than-requests](https://github.com/juancarlospaco/faster-than-requests) - Faster requests on Python 3
 - [seed_rl](https://github.com/google-research/seed_rl) - SEED RL: Scalable and Efficient Deep-RL with Accelerated Central Inference. Implements IMPALA and R2D2 algorithms in TF2 with SEED's architecture.
 - [alchemy](https://github.com/catalyst-team/alchemy) - Experiments logging & visualization
 - [reaction](https://github.com/catalyst-team/reaction) - Convenient DL serving
@@ -9904,7 +9907,6 @@
 - [simulacrum](https://github.com/jbrambleDC/simulacrum) - 
 - [motorway](https://github.com/plecto/motorway) - Cloud ready pure-python streaming data pipeline library
 - [flowblade](https://github.com/jliljebl/flowblade) - Video Editor for Linux
-- [cleverhans](https://github.com/cleverhans-lab/cleverhans) - An adversarial example library for constructing attacks, building defenses, and benchmarking both
 - [mimesis](https://github.com/lk-geimfari/mimesis) - Mimesis is a high-performance fake data generator for Python, which provides data for a variety of purposes in a variety of languages.
 - [azure-cli](https://github.com/Azure/azure-cli) - Azure Command-Line Interface
 - [mock-import](https://github.com/posener/mock-import) - A helper mocking function to mask ImportErrors
@@ -13258,7 +13260,6 @@
 - [harp-map-editor](https://github.com/heremaps/harp-map-editor) - Simple map editor for harp.gl map styles
 - [docs](https://github.com/aws-amplify/docs) - Amplify Framework Documentation
 - [react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design
-- [directus](https://github.com/directus/directus) - Open-Source Data Platform 🐰  — Directus wraps any SQL database with a real-time GraphQL+REST API and an intuitive app for non-technical users.
 - [harp.gl](https://github.com/heremaps/harp.gl) - harp.gl - web map rendering engine
 - [mds-core](https://github.com/openmobilityfoundation/mds-core) - An implementation of an MDS Agency Server written in Typescript
 - [composition-api](https://github.com/vuejs/composition-api) - Composition API plugin for Vue 2
@@ -13561,6 +13562,7 @@
 - [Scout](https://github.com/tevora-threat/Scout) - Surveillance Detection Scout: Your Lookout on Autopilot
 - [DynamoDb-GUI-Client](https://github.com/Arattian/DynamoDb-GUI-Client) - DynamoDb GUI Client
 - [example-auth0](https://github.com/nuxt/example-auth0) - A simple example that shows how to use Nuxt.js with Auth0.
+- [directus](https://github.com/directus/directus) - Open-Source Data Platform 🐰  — Directus wraps any SQL database with a real-time GraphQL+REST API and an intuitive app for non-technical users.
 - [Vuemmerce](https://github.com/ivanlori/Vuemmerce) - 👉 Responsive ecommerce template 🛒 built with Vue.js and Nuxt.js
 - [sing-app-vue-dashboard](https://github.com/flatlogic/sing-app-vue-dashboard) - Vue.js admin dashboard template built with Bootstrap 4.5
 - [light-blue-vue-admin](https://github.com/flatlogic/light-blue-vue-admin) - 🤘Vue admin dashboard template with stylish transparent design
