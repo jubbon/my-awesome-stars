@@ -5198,7 +5198,7 @@
 - [numerical-linear-algebra](https://github.com/fastai/numerical-linear-algebra) - Free online textbook of Jupyter notebooks for fast.ai Computational Linear Algebra course
 - [PythonFromSpace](https://github.com/kscottz/PythonFromSpace) - Python Examples for Remote Sensing
 - [pycon2017-optimizing-pandas](https://github.com/s-heisler/pycon2017-optimizing-pandas) - Materials for PyCon 2017 presentation on optimizing Pandas code
-- [zat](https://github.com/SuperCowPowers/zat) - Zeek Analysis Tools (ZAT):  Processing and analysis of Zeek network data with Pandas, scikit-learn, and Spark
+- [zat](https://github.com/SuperCowPowers/zat) - Zeek Analysis Tools (ZAT):  Processing and analysis of Zeek network data with Pandas, scikit-learn, Kafka and Spark
 - [tiepvupsu.github.io](https://github.com/tiepvupsu/tiepvupsu.github.io) - My Machine Learning blog
 - [Neural-Net-with-Financial-Time-Series-Data](https://github.com/BenjiKCF/Neural-Net-with-Financial-Time-Series-Data) - This solution presents an accessible, non-trivial example of machine learning (Deep learning) with financial time series using TensorFlow
 - [numerical-tours](https://github.com/gpeyre/numerical-tours) - Numerical Tours of Signal Processing
