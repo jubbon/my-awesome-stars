@@ -6849,6 +6849,7 @@
 
 ## Python 
 
+- [PVT](https://github.com/whai362/PVT) - 
 - [DALL-E](https://github.com/openai/DALL-E) - PyTorch package for the discrete VAE used for DALL·E.
 - [model_search](https://github.com/google/model_search) - 
 - [GSDT](https://github.com/yongxinw/GSDT) - Official PyTorch implementation of "Joint Object Detection and Multi-Object Tracking with Graph Neural Networks"
@@ -11273,7 +11274,7 @@
 - [Django--an-app-at-a-time](https://github.com/sametmax/Django--an-app-at-a-time) - A heavily commented Django project dedicated to teaching the framework or refresh one's memory.
 - [boltons](https://github.com/mahmoud/boltons) - 🔩 Like builtins, but boltons. 250+ constructs, recipes, and snippets which extend (and rely on nothing but) the Python standard library.  Nothing like Michael Bolton.
 - [suplemon](https://github.com/richrd/suplemon) - :lemon: Console (CLI) text editor with multi cursor support. Suplemon replicates Sublime Text like functionality in the terminal. Try it out, give feedback, fork it!
-- [commix](https://github.com/commixproject/commix) - Automated All-in-One OS command injection and exploitation tool.
+- [commix](https://github.com/commixproject/commix) - Automatic All-in-One OS command injection exploitation tool.
 - [carroll](https://github.com/adamchalmers/carroll) - Carroll is a command-line tool for classical logic.
 - [flit](https://github.com/takluyver/flit) - Simplified packaging of Python modules
 - [oTree](https://github.com/oTree-org/oTree) - Python framework for multiplayer decision games, behavioral experiments, and surveys
