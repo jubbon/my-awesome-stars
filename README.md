@@ -3402,7 +3402,7 @@
 - [leaflet-tracksymbol](https://github.com/lethexa/leaflet-tracksymbol) - A rotatable symbol for leaflet
 - [django-drf-react-quickstart](https://github.com/valentinogagliardi/django-drf-react-quickstart) - Django REST framework/React quickstart
 - [Front-End-Toolkit](https://github.com/devbridge/Front-End-Toolkit) - A collection of resources, useful tools and technologies for front-end web development.
-- [vue-enterprise-boilerplate](https://github.com/chrisvfritz/vue-enterprise-boilerplate) - An ever-evolving, very opinionated architecture and dev environment for new Vue SPA projects using Vue CLI.
+- [vue-enterprise-boilerplate](https://github.com/bencodezen/vue-enterprise-boilerplate) - An ever-evolving, very opinionated architecture and dev environment for new Vue SPA projects using Vue CLI.
 - [vue-ethereum-ipfs](https://github.com/redacademy/vue-ethereum-ipfs) - Distributed Application Starter: Vue front-end, Ethereum / IPFS Backend
 - [cloudmapper](https://github.com/duo-labs/cloudmapper) - CloudMapper helps you analyze your Amazon Web Services (AWS) environments.
 - [headless-chrome-crawler](https://github.com/yujiosaka/headless-chrome-crawler) - Distributed crawler powered by Headless Chrome
@@ -7234,7 +7234,7 @@
 - [ForwardTacotron](https://github.com/as-ideas/ForwardTacotron) - ⏩ Generating speech in a single forward pass without any attention!
 - [libfacedetection.train](https://github.com/ShiqiYu/libfacedetection.train) - The training program for libfacedetection for face detection and 5-landmark detection.
 - [pymystem3](https://github.com/nlpub/pymystem3) - A Python wrapper of the Yandex Mystem 3.1 morphological analyzer (http://api.yandex.ru/mystem). The original tool is shipped as a binary and this library makes it easy to integrate it in Python projects. Let us know in the issues if you would like to be involved into the developments or maintenance of this project. If you have any fix or suggestion, please make a pull request. We are very open to accepting any contributions.
-- [misc](https://github.com/ruizhaogit/misc) - Mutual Information-based State-Control for Intrinsically Motivated Reinforcement Learning
+- [music](https://github.com/ruizhaogit/music) - Mutual Information State Intrinsic Control (ICLR 2021 Spotlight)
 - [ganilla](https://github.com/giddyyupp/ganilla) - Official Pytorch implementation of GANILLA
 - [UnsupervisedLandmarkLearning](https://github.com/NVIDIA/UnsupervisedLandmarkLearning) - Implementation for the unsupervised latent landmark learning work from NVIDIA Applied Deep Learning Research
 - [RIMs](https://github.com/anirudh9119/RIMs) - Code for "Recurrent Independent Mechanisms"
@@ -8403,7 +8403,7 @@
 - [catt](https://github.com/skorokithakis/catt) - Cast All The Things allows you to send videos from many, many online sources to your Chromecast.
 - [semantic-segmentation-pytorch](https://github.com/CSAILVision/semantic-segmentation-pytorch) - Pytorch implementation for Semantic Segmentation/Scene Parsing on MIT ADE20K dataset
 - [monkey](https://github.com/guardicore/monkey) - Infection Monkey - An automated pentest tool
-- [scvi-tools](https://github.com/YosefLab/scvi-tools) - Deep generative models for single-cell omics data
+- [scvi-tools](https://github.com/YosefLab/scvi-tools) - Deep probabilistic analysis of single-cell omics data
 - [gluon-nlp](https://github.com/dmlc/gluon-nlp) - NLP made easy
 - [Gitmails](https://github.com/giovanifss/Gitmails) - An information gathering tool to collect git commit emails in version control host services
 - [keras-yolo3](https://github.com/qqwweee/keras-yolo3) - A Keras implementation of YOLOv3 (Tensorflow backend)
@@ -9357,7 +9357,7 @@
 - [BoopSuite](https://github.com/MisterBianco/BoopSuite) - A Suite of Tools written in Python for wireless auditing and security testing.
 - [devol](https://github.com/joeddav/devol) - Genetic neural architecture search with Keras
 - [XX-Net](https://github.com/XX-net/XX-Net) - A proxy tool to bypass GFW.
-- [ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
+- [ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [face_classification](https://github.com/oarriaga/face_classification) - Real-time face detection and emotion/gender classification using fer2013/imdb datasets with a keras CNN model and openCV.
 - [Chaos](https://github.com/Chaosthebot/Chaos) - A social coding experiment that updates its own code democratically.
 - [baselines](https://github.com/openai/baselines) - OpenAI Baselines: high-quality implementations of reinforcement learning algorithms
@@ -9875,7 +9875,7 @@
 - [MacSetup](https://github.com/CNKCQ/MacSetup) - a tool to setup your mac os
 - [gpgsync](https://github.com/firstlookmedia/gpgsync) - :lock: GPG Sync is designed to let users always have up-to-date public keys for other members of their organization
 - [ssh-audit](https://github.com/arthepsy/ssh-audit) - SSH server auditing (banner, key exchange, encryption, mac, compression, compatibility, security, etc)
-- [sanic](https://github.com/sanic-org/sanic) - Async Python 3.6+ web server/framework | Build fast. Run fast.
+- [sanic](https://github.com/sanic-org/sanic) - Async Python 3.7+ web server/framework | Build fast. Run fast.
 - [Deep-Learning-TensorFlow](https://github.com/gabrieleangeletti/Deep-Learning-TensorFlow) - Ready to use implementations of various Deep Learning algorithms using TensorFlow.
 - [galaxy](https://github.com/ansible/galaxy) - Source code behind the Galaxy hub at http://galaxy.ansible.com
 - [nlquery](https://github.com/ayoungprogrammer/nlquery) - Natural Language Engine on WikiData
@@ -11274,7 +11274,7 @@
 - [Django--an-app-at-a-time](https://github.com/sametmax/Django--an-app-at-a-time) - A heavily commented Django project dedicated to teaching the framework or refresh one's memory.
 - [boltons](https://github.com/mahmoud/boltons) - 🔩 Like builtins, but boltons. 250+ constructs, recipes, and snippets which extend (and rely on nothing but) the Python standard library.  Nothing like Michael Bolton.
 - [suplemon](https://github.com/richrd/suplemon) - :lemon: Console (CLI) text editor with multi cursor support. Suplemon replicates Sublime Text like functionality in the terminal. Try it out, give feedback, fork it!
-- [commix](https://github.com/commixproject/commix) - Automatic All-in-One OS command injection exploitation tool.
+- [commix](https://github.com/commixproject/commix) - Automated All-in-One OS Command Injection Exploitation Tool
 - [carroll](https://github.com/adamchalmers/carroll) - Carroll is a command-line tool for classical logic.
 - [flit](https://github.com/takluyver/flit) - Simplified packaging of Python modules
 - [oTree](https://github.com/oTree-org/oTree) - Python framework for multiplayer decision games, behavioral experiments, and surveys
@@ -13010,7 +13010,7 @@
 - [generate-ssl-certs-for-local-development](https://github.com/kingkool68/generate-ssl-certs-for-local-development) - A bash script for generating trusted self-signed SSL certs for local development on your Mac
 - [torchcv](https://github.com/donnyyou/torchcv) - A PyTorch-Based Framework for Deep Learning in Computer Vision
 - [git-extra-status](https://github.com/sandeep1995/git-extra-status) - Get more information for a single or batch of git repositories with a single command
-- [bash-oo-framework](https://github.com/niieani/bash-oo-framework) - Bash Infinity is a modern boilerplate / framework / standard library for bash
+- [bash-oo-framework](https://github.com/niieani/bash-oo-framework) - Bash Infinity is a modern standard library / framework / boilerplate for Bash
 - [eon](https://github.com/pubnub/eon) - An open-source chart and map framework for realtime data.
 - [my-arsenal-of-aws-security-tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools) - List of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc.
 - [ansible-yaml-inventory](https://github.com/senorsmile/ansible-yaml-inventory) - example yaml based inventory for ansible
@@ -13336,7 +13336,7 @@
 - [fiddle](https://github.com/electron/fiddle) - :electron: 🚀 The easiest way to get started with Electron
 - [voyager](https://github.com/vega/voyager) - Visualization Tool for Data Exploration
 - [vue-class-component](https://github.com/vuejs/vue-class-component) - ES / TypeScript decorator for class-style Vue components.
-- [fiora](https://github.com/yinxin630/fiora) - An interesting chat application power by socket.io, koa, mongodb and react
+- [fiora](https://github.com/yinxin630/fiora) - An interesting open source chat application. Developed with node.js, mongoDB, socket.io and react
 - [evermonkey](https://github.com/michalyao/evermonkey) - Evernote Editing. Redefined.  关于 token 的问题请去 https://github.com/michalyao/evermonkey/issues/94 中查看！
 - [reakit](https://github.com/reakit/reakit) - Toolkit for building accessible rich web apps with React
 - [draco](https://github.com/uwdata/draco) - Visualization Constraints and Weight Learning
