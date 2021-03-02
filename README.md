@@ -4246,7 +4246,6 @@
 - [polymer-starter-kit](https://github.com/Polymer/polymer-starter-kit) - A starting point for Polymer apps
 - [pure](https://github.com/pure-css/pure) - A set of small, responsive CSS modules that you can use in every web project.
 - [hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story
-- [highcharts](https://github.com/highcharts/highcharts) - Highcharts JS, the JavaScript charting framework
 - [vIPer](https://github.com/damianavila/vIPer) - vIPer: a new tool for IPython notebooks.
 - [hackathon-starter](https://github.com/sahat/hackathon-starter) - A boilerplate for Node.js web applications
 - [vizicities](https://github.com/UDST/vizicities) - A framework for 3D geospatial visualization in the browser
@@ -5666,6 +5665,7 @@
 
 ## Lua 
 
+- [torch-rnn](https://github.com/jcjohnson/torch-rnn) - Efficient, reusable RNNs and LSTMs for torch
 - [bAbI-tasks](https://github.com/facebookarchive/bAbI-tasks) - Task generation for testing text understanding and reasoning
 - [Hierarchical-Attention-Model](https://github.com/sunprinceS/Hierarchical-Attention-Model) - :page_facing_up: HierAttModel for Question Answering
 - [docker-jitsi-meet](https://github.com/jitsi/docker-jitsi-meet) - Jitsi Meet on Docker
@@ -6429,7 +6429,7 @@
 - [vuejs-component-style-guide](https://github.com/pablohpsilva/vuejs-component-style-guide) - Vue.js Component Style Guide
 - [awesome-grid](https://github.com/FancyGrid/awesome-grid) - A curated list of grid(table) libraries and resources that developers may find useful.
 - [security-101-for-saas-startups](https://github.com/forter/security-101-for-saas-startups) - security tips for startups
-- [awesome-bots](https://github.com/MaximAbramchuck/awesome-bots) - The most awesome list about bots ⭐️🤖
+- [awesome-bots](https://github.com/DopplerHQ/awesome-bots) - The most awesome list about bots ⭐️🤖
 - [perspectiveapi](https://github.com/conversationai/perspectiveapi) - Perspective is an API that uses machine learning models to score the perceived impact a comment might have on a conversation. For support, see: https://support.perspectiveapi.com/
 - [awesome-graphics](https://github.com/ericjang/awesome-graphics) - Curated list of computer graphics tutorials and resources
 - [awesome-hacking](https://github.com/carpedm20/awesome-hacking) - A curated list of awesome Hacking tutorials, tools and resources
@@ -6673,7 +6673,7 @@
 - [sf-city-lots-json](https://github.com/zemirco/sf-city-lots-json) - really big json file representing san francisco's subdivision parcels
 - [websummit_2015](https://github.com/AYLIEN/websummit_2015) - 
 - [bad-data-guide](https://github.com/Quartz/bad-data-guide) - An exhaustive reference to problems seen in real-world data along with suggestions on how to resolve them.
-- [awesome-interview-questions](https://github.com/MaximAbramchuck/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:
+- [awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:
 - [governance](https://github.com/jupyter/governance) - The governance process and model for Project Jupyter
 - [GraphLab_Practice](https://github.com/nyghtowl/GraphLab_Practice) - 
 - [k-means-clustering](https://github.com/sarguido/k-means-clustering) - Repository for my 'K-Means Clustering with Scikit-Learn' talk materials.
@@ -6849,6 +6849,7 @@
 
 ## Python 
 
+- [UniDet](https://github.com/xingyizhou/UniDet) - Object detection on multiple datasets with an automatically learned unified label space.
 - [PVT](https://github.com/whai362/PVT) - 
 - [DALL-E](https://github.com/openai/DALL-E) - PyTorch package for the discrete VAE used for DALL·E.
 - [model_search](https://github.com/google/model_search) - 
@@ -9433,7 +9434,7 @@
 - [opensnitch](https://github.com/evilsocket/opensnitch) - OpenSnitch is a GNU/Linux port of the Little Snitch application firewall
 - [NoDB](https://github.com/Miserlou/NoDB) - NoDB isn't a database.. but it sort of looks like one.
 - [evilginx](https://github.com/kgretzky/evilginx) - PLEASE USE NEW VERSION: https://github.com/kgretzky/evilginx2
-- [focuson](https://github.com/uber/focuson) - A tool to surface security issues in python code
+- [focuson](https://github.com/uber-archive/focuson) - A tool to surface security issues in python code
 - [userline](https://github.com/THIBER-ORG/userline) - Query and report user logons relations from MS Windows Security Events
 - [timestrap](https://github.com/overshard/timestrap) - Time tracking you can host anywhere. Full export support in multiple formats and easily extensible.
 - [PyMedium](https://github.com/enginebai/PyMedium) - Unofficial Medium Python Flask API and SDK
@@ -9901,7 +9902,7 @@
 - [suiron](https://github.com/kendricktan/suiron) - Machine Learning for RC Cars
 - [snorkel](https://github.com/snorkel-team/snorkel) - A system for quickly generating training data with weak supervision
 - [icnn](https://github.com/locuslab/icnn) - Input Convex Neural Networks
-- [frappe](https://github.com/frappe/frappe) - Low Code Open Source Framework in Python and JS
+- [frappe](https://github.com/frappe/frappe) - Low code web framework for real world applications, in Python and Javascript
 - [natasha](https://github.com/natasha/natasha) - Solves basic Russian NLP tasks, API for lower level Natasha projects
 - [fixnc](https://github.com/koldunovn/fixnc) - easy edit of netCDF files
 - [trestus](https://github.com/canonical-ols/trestus) - Static status page generator that uses a Trello board as a data source
@@ -13342,7 +13343,7 @@
 - [draco](https://github.com/uwdata/draco) - Visualization Constraints and Weight Learning
 - [rete](https://github.com/retejs/rete) - JavaScript framework for visual programming and creating node editor
 - [phenomenon](https://github.com/vaneenige/phenomenon) - ⚡️ A fast 2kB low-level WebGL API.
-- [bit](https://github.com/teambit/bit) - Build, distribute, and collaborate on components.
+- [bit](https://github.com/teambit/bit) - Develop modular web applications with components - fast, together, and at scale.
 - [face-api.js](https://github.com/justadudewhohacks/face-api.js) - JavaScript API for face detection and face recognition in the browser and nodejs with tensorflow.js
 - [xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
 - [probot](https://github.com/probot/probot) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
@@ -13500,6 +13501,7 @@
 - [botkit](https://github.com/howdyai/botkit) - Botkit is an open source developer tool for building chat bots, apps and custom integrations for major messaging platforms.
 - [grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [vscode](https://github.com/microsoft/vscode) - Visual Studio Code
+- [highcharts](https://github.com/highcharts/highcharts) - Highcharts JS, the JavaScript charting framework
 - [vega-lite](https://github.com/vega/vega-lite) - A concise grammar of interactive graphics, built on Vega.
 - [bqplot](https://github.com/bqplot/bqplot) - Plotting library for IPython/Jupyter notebooks
 - [datalab](https://github.com/googledatalab/datalab) - Interactive tools and developer experiences for Big Data on Google Cloud Platform.
