@@ -606,7 +606,7 @@
 - [terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [MNN](https://github.com/alibaba/MNN) - MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba
 - [stk-code](https://github.com/supertuxkart/stk-code) - The code base of supertuxkart
-- [KeyDB](https://github.com/JohnSully/KeyDB) - A Multithreaded Fork of Redis
+- [KeyDB](https://github.com/EQ-Alpha/KeyDB) - A Multithreaded Fork of Redis
 - [TerrainEngine-OpenGL](https://github.com/fede-vaccaro/TerrainEngine-OpenGL) - An OpenGL 4 and C++ program which renders a procedural scene.
 - [PSENet](https://github.com/whai362/PSENet) - 
 - [libfacedetection](https://github.com/ShiqiYu/libfacedetection) - An open source library for face detection in images. The face detection speed can reach 1000FPS.
@@ -2316,7 +2316,7 @@
 - [python-vs-javascript](https://github.com/sayazamurai/python-vs-javascript) - 
 - [deltatech](https://github.com/dhongu/deltatech) - Terrabit addons for Odoo
 - [quickstart-js](https://github.com/firebase/quickstart-js) - Firebase Quickstart Samples for Web
-- [wowchemy-hugo-modules](https://github.com/wowchemy/wowchemy-hugo-modules) - 📝 The website builder for Hugo. Build and deploy a beautiful website in minutes!
+- [wowchemy-hugo-modules](https://github.com/wowchemy/wowchemy-hugo-modules) - 🔥 The website builder for Hugo. Build and deploy a beautiful website in minutes!
 - [MATRIX_Etherscan](https://github.com/MatrixAINetwork/MATRIX_Etherscan) - This is a crawler used to visit Ehterscan and obtain smartcontract related info
 - [uikit-ecommerce-template](https://github.com/chekromul/uikit-ecommerce-template) - E-commerce template built with UIKIt
 - [alexa-auto-sdk](https://github.com/alexa/alexa-auto-sdk) - The Alexa Auto SDK is for automotive OEMs to integrate Alexa directly into vehicles.
@@ -2553,7 +2553,6 @@
 - [ansible-django-stack](https://github.com/jcalazan/ansible-django-stack) - Ansible Playbook for setting up a Django app with Nginx, Gunicorn, PostgreSQL, Celery, RabbitMQ, Supervisor, Virtualenv, and Memcached. A Vagrantfile for provisioning a VirtualBox virtual machine is included as well.
 - [aws-week-in-review](https://github.com/amazon-archives/aws-week-in-review) - ARCHIVED: These files are used to produce the AWS Week in Review.
 - [essential-electron](https://github.com/jlord/essential-electron) - Concise plain-speak about Electron
-- [swagger-codegen](https://github.com/swagger-api/swagger-codegen) - swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.
 - [IsometricBlocks](https://github.com/shaunlebron/IsometricBlocks) - A tutorial on how to render isometric blocks in the correct order.
 - [nbviewer.js](https://github.com/kokes/nbviewer.js) - Client side rendering of Jupyter notebooks
 - [flexboxgrid](https://github.com/kristoferjoseph/flexboxgrid) - Grid based on CSS3 flexbox
@@ -2846,6 +2845,7 @@
 
 ## JavaScript 
 
+- [gitbook](https://github.com/wandb/gitbook) - Documentation synced with GitBook. For all issues with the wandb library, please use https://github.com/wandb/client/issues
 - [OpenClubhouse](https://github.com/ai-eks/OpenClubhouse) - A third-part web application based on flask to play Clubhouse audio.
 - [howtheyaws](https://github.com/upgundecha/howtheyaws) - A curated collection of publicly available resources on how technology and tech-savvy organizations around the world use Amazon Web Services (AWS)
 - [howtheysre](https://github.com/upgundecha/howtheysre) - A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)
@@ -3984,7 +3984,6 @@
 - [react-faq](https://github.com/timarney/react-faq) - A collection of links to help answer your questions about React.js
 - [pibakery](https://github.com/davidferguson/pibakery) - The blocks based, easy to use setup tool for Raspberry Pi
 - [react-with-styles](https://github.com/airbnb/react-with-styles) - Use CSS-in-JavaScript with themes for React without being tightly coupled to one implementation
-- [react-native-elements](https://github.com/react-native-elements/react-native-elements) - Cross-Platform React Native UI Toolkit
 - [material-design-for-bootstrap](https://github.com/mdbootstrap/material-design-for-bootstrap) - Important! A new UI Kit version for Bootstrap 5 is available. Access the latest free version via the link below.
 - [react-native-material-design](https://github.com/invertase/react-native-material-design) - React Native UI Components for Material Design
 - [egg](https://github.com/eggjs/egg) - 🥚 Born to build better enterprise frameworks and apps with Node.js & Koa
@@ -5739,6 +5738,7 @@
 ## Mustache 
 
 - [amundsen](https://github.com/amundsen-io/amundsen) - Amundsen is a metadata driven application for improving the productivity of data analysts, data scientists and engineers when interacting with data.
+- [swagger-codegen](https://github.com/swagger-api/swagger-codegen) - swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.
 
 ## NASL 
 
@@ -6849,6 +6849,7 @@
 
 ## Python 
 
+- [client](https://github.com/wandb/client) - 🔥 A tool for visualizing and tracking your machine learning experiments. This repo contains the CLI and Python API.
 - [UniDet](https://github.com/xingyizhou/UniDet) - Object detection on multiple datasets with an automatically learned unified label space.
 - [PVT](https://github.com/whai362/PVT) - 
 - [DALL-E](https://github.com/openai/DALL-E) - PyTorch package for the discrete VAE used for DALL·E.
@@ -13224,6 +13225,7 @@
 
 ## TypeScript 
 
+- [git-notify](https://github.com/jevakallio/git-notify) - 🙉 📣 Communicate important updates to your team via git commit messages
 - [vscode-live-frame](https://github.com/jevakallio/vscode-live-frame) - Run your web app inside VS Code
 - [streamlit-drawable-canvas](https://github.com/andfanilo/streamlit-drawable-canvas) - Do you like Quick, Draw? Well what if you could train/predict doodles drawn inside Streamlit? Also draws lines, circles and boxes over background images for annotation.
 - [actionsflow](https://github.com/actionsflow/actionsflow) - The free Zapier/IFTTT alternative for developers to automate your workflows based on Github actions
@@ -13475,6 +13477,7 @@
 - [deepstream.io](https://github.com/deepstreamIO/deepstream.io) - deepstream.io server
 - [jest](https://github.com/facebook/jest) - Delightful JavaScript Testing.
 - [timeago.js](https://github.com/hustcc/timeago.js) - :clock8: :hourglass: timeago.js is a tiny(2.0 kb) library used to format date with `*** time ago` statement.
+- [react-native-elements](https://github.com/react-native-elements/react-native-elements) - Cross-Platform React Native UI Toolkit
 - [google-maps-services-js](https://github.com/googlemaps/google-maps-services-js) - Node.js client library for Google Maps API Web Services
 - [recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
 - [phosphor](https://github.com/phosphorjs/phosphor) - The PhosphorJS Library
