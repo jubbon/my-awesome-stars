@@ -1405,6 +1405,7 @@
 - [flutter_web](https://github.com/flutter/flutter_web) - Bring your Flutter code to web browsers
 - [uber_clone](https://github.com/MarcioQuimbundo/uber_clone) - 
 - [dynamic_widget](https://github.com/dengyin2000/dynamic_widget) - A Backend-Driven UI toolkit, build your dynamic UI with json, and the json format is very similar with flutter widget code.
+- [flutter_boost](https://github.com/alibaba/flutter_boost) - FlutterBoost is a Flutter plugin which enables hybrid integration of Flutter for your existing native apps with minimum efforts
 - [awesome-flutter-packages](https://github.com/leisim/awesome-flutter-packages) - A curated list of awesome Flutter packages.
 - [angular](https://github.com/angulardart/angular) - Fast and productive web framework provided by Dart
 - [flutter-permission-handler](https://github.com/Baseflow/flutter-permission-handler) - Permission plugin for Flutter. This plugin provides a cross-platform (iOS, Android) API to request and check permissions.
@@ -1688,7 +1689,7 @@
 - [zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go.
 - [goawk](https://github.com/benhoyt/goawk) - A POSIX-compliant AWK interpreter written in Go
 - [OpenMetrics](https://github.com/OpenObservability/OpenMetrics) - Evolving the Prometheus exposition format into a standard.
-- [benthos](https://github.com/Jeffail/benthos) - Declarative streaming ETL for mundane tasks, written in Go
+- [benthos](https://github.com/Jeffail/benthos) - Declarative stream processing for mundane tasks and ETL, written in Go
 - [git-bug](https://github.com/MichaelMure/git-bug) - Distributed, offline-first bug tracker embedded in git, with bridges
 - [gobeansdb](https://github.com/douban/gobeansdb) - Distributed object storage server from Douban Inc.
 - [atlantis](https://github.com/runatlantis/atlantis) - Terraform Pull Request Automation
@@ -2272,6 +2273,7 @@
 - [vscode](https://github.com/DankNeon/vscode) - A danker, more neon theme for VS Code
 - [python](https://github.com/Show-Me-the-Code/python) - Show Me the Code Python version.
 - [kubernetes-failure-stories](https://github.com/hjacobs/kubernetes-failure-stories) - Compilation of public failure/horror stories related to Kubernetes
+- [typedoc](https://github.com/TypeStrong/typedoc) - Documentation generator for TypeScript projects.
 - [build-your-own-mint](https://github.com/yyx990803/build-your-own-mint) - Build your own personal finance analytics using Plaid, Google Sheets and CircleCI.
 - [apidoc](https://github.com/apidoc/apidoc) - RESTful web API Documentation Generator.
 - [opencvjs](https://github.com/haoking/opencvjs) - Complete opencvjs (With the lastest OpenCV 4.0.0+)
@@ -2361,7 +2363,7 @@
 - [Droid-Application-Fuzz-Framework](https://github.com/ajinabraham/Droid-Application-Fuzz-Framework) - Android application fuzzing framework with fuzzers and crash monitor.
 - [AIDL_KB](https://github.com/arthchan2003/AIDL_KB) - A Knowledge Base for the FB Group Artificial Intelligence and Deep Learning (AIDL)
 - [smart-contract-best-practices](https://github.com/ConsenSys/smart-contract-best-practices) - A guide to smart contract security best practices
-- [fonts](https://github.com/google/fonts) - Font files available from Google Fonts
+- [fonts](https://github.com/google/fonts) - Font files available from Google Fonts, and a public issue tracker for all things Google Fonts
 - [core](https://github.com/stackblitz/core) - Online IDE powered by Visual Studio Code ⚡️
 - [proposal-optional-chaining](https://github.com/tc39/proposal-optional-chaining) - 
 - [github-trending-repos](https://github.com/vitalets/github-trending-repos) - Track GitHub trending repositories in your favorite programming language by native GitHub notifications!
@@ -2508,6 +2510,7 @@
 - [light-bootstrap-dashboard-angular2](https://github.com/creativetimofficial/light-bootstrap-dashboard-angular2) - Light Bootstrap Dashboard Angular 2
 - [docs](https://github.com/prometheus/docs) - Prometheus documentation: content and static site generator
 - [JavaScript30](https://github.com/wesbos/JavaScript30) - 30 Day Vanilla JS Challenge
+- [server-tools](https://github.com/OCA/server-tools) - Tools for Odoo Administrators to improve some technical features on Odoo.
 - [loopback.io](https://github.com/strongloop/loopback.io) - LoopBack project site - now with documentation!
 - [gopypi](https://github.com/phonkee/gopypi) - Private python package index written in golang
 - [restc](https://github.com/ElemeFE/restc) - A server-side middleware to visualize REST requests.
@@ -2598,7 +2601,6 @@
 - [html](https://github.com/w3c/html) - Deliverables of the HTML Working Group until October 2018
 - [hjson](https://github.com/hjson/hjson) - Hjson, a user interface for JSON
 - [awesome-cpus](https://github.com/larsbrinkhoff/awesome-cpus) - All CPU and MCU documentation in one place
-- [Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) - A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.
 - [awesome-modern-cpp](https://github.com/rigtorp/awesome-modern-cpp) - A collection of resources on modern C++
 - [AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - AdminLTE - Free admin dashboard template based on Bootstrap 4
 - [grd](https://github.com/1000ch/grd) - A CSS grid framework using Flexbox. Only 321 bytes (Gzipped).
@@ -2727,7 +2729,6 @@
 - [thingsboard](https://github.com/thingsboard/thingsboard) - Open-source IoT Platform - Device management, data collection, processing and visualization.
 - [Build-an-AI-Startup-with-PyTorch](https://github.com/llSourcell/Build-an-AI-Startup-with-PyTorch) - This is the code for 'Build an AI Startup with Pytorch" by Siraj Raval
 - [yandexmapkit-android](https://github.com/yandexmobile/yandexmapkit-android) - Yandex Map Kit for Android
-- [flutter_boost](https://github.com/alibaba/flutter_boost) - FlutterBoost is a Flutter plugin which enables hybrid integration of Flutter for your existing native apps with minimum efforts
 - [fission-workflow-sample](https://github.com/fission/fission-workflow-sample) - A simple carpool application built using Fission Workflows
 - [dynamodb-janusgraph-storage-backend](https://github.com/awslabs/dynamodb-janusgraph-storage-backend) - The Amazon DynamoDB Storage Backend for JanusGraph
 - [gtfs-realtime-validator](https://github.com/CUTR-at-USF/gtfs-realtime-validator) - Java-based tool that validates General Transit Feed Specification (GTFS)-realtime feeds
@@ -3574,7 +3575,7 @@
 - [magic_paper](https://github.com/mnielsen/magic_paper) - Experiments in an explorable visual medium for mathematics
 - [tikzcd-editor](https://github.com/yishn/tikzcd-editor) - A simple visual editor for creating commutative diagrams.
 - [server](https://github.com/franciscop/server) - :desktop_computer: Simple and powerful server for Node.js
-- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (February 2021)
+- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (March 2021)
 - [charts](https://github.com/frappe/charts) - Simple, responsive, modern SVG Charts with zero dependencies
 - [leaflet-control-orderlayers](https://github.com/elesdoar/leaflet-control-orderlayers) - Leaflet control with order functionality
 - [bottery](https://github.com/google/bottery) - 
@@ -5762,6 +5763,7 @@
 ## Nunjucks 
 
 - [tiny-helpers](https://github.com/stefanjudis/tiny-helpers) - A collection of useful online web development tools
+- [Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) - A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.
 
 ## OCaml 
 
@@ -6849,6 +6851,7 @@
 
 ## Python 
 
+- [gansformer](https://github.com/dorarad/gansformer) - Generative Adversarial Transformers
 - [client](https://github.com/wandb/client) - 🔥 A tool for visualizing and tracking your machine learning experiments. This repo contains the CLI and Python API.
 - [UniDet](https://github.com/xingyizhou/UniDet) - Object detection on multiple datasets with an automatically learned unified label space.
 - [PVT](https://github.com/whai362/PVT) - 
@@ -9744,7 +9747,6 @@
 - [learning-to-learn](https://github.com/deepmind/learning-to-learn) - Learning to Learn in TensorFlow
 - [TensorFlow-example](https://github.com/FlyElephantNet/TensorFlow-example) - 
 - [odoo_ezdoo](https://github.com/ezdoo/odoo_ezdoo) - Custom Odoo modules used in Ezdoo hosting service for Odoo
-- [server-tools](https://github.com/OCA/server-tools) - Tools for Odoo Administrators to improve some technical features on Odoo.
 - [python-moira-client](https://github.com/moira-alert/python-moira-client) - Python client for Moira
 - [github-trending-cli](https://github.com/taranjeet/github-trending-cli) - A Python package which lists trending repositories and developers from Github
 - [deepjets](https://github.com/deepjets/deepjets) - Main repository for image generation and CNN training https://arxiv.org/abs/1609.00607
@@ -13301,7 +13303,6 @@
 - [functional-typescript](https://github.com/transitive-bullshit/functional-typescript) - TypeScript standard for rock solid serverless functions.
 - [vscode-browser-preview](https://github.com/auchenberg/vscode-browser-preview) - A real browser preview inside your editor that you can debug.
 - [TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
-- [typedoc](https://github.com/TypeStrong/typedoc) - Documentation generator for TypeScript projects.
 - [vscode-gitlens](https://github.com/eamodio/vscode-gitlens) - Supercharge the Git capabilities built into Visual Studio Code — Visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more
 - [noty](https://github.com/fabiospampinato/noty) - Autosaving sticky note with support for multiple notes without needing multiple windows.
 - [rrweb](https://github.com/rrweb-io/rrweb) - record and replay the web
