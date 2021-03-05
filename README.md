@@ -209,7 +209,7 @@
 - [RedisGraph](https://github.com/RedisGraph/RedisGraph) - A graph database as a Redis module
 - [nginx-link-function](https://github.com/Taymindis/nginx-link-function) - It is a NGINX module that provides dynamic linking to your application in server context and call the function of your application in location directive
 - [ttyplot](https://github.com/tenox7/ttyplot) - a realtime plotting utility for terminal/console with data input from stdin
-- [nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager.
+- [nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 - [opengl-framework](https://github.com/jdupuy/opengl-framework) - Cross-platform OpenGL demos
 - [nvtop](https://github.com/Syllo/nvtop) - NVIDIA GPUs htop like monitoring tool
 - [Logan](https://github.com/Meituan-Dianping/Logan) - Logan is a lightweight case logging system based on mobile platform.
@@ -404,7 +404,7 @@
 - [vis](https://github.com/martanne/vis) - A vi-like editor based on Plan 9's structural regular expressions
 - [quick2wire-gpio-admin](https://github.com/quick2wire/quick2wire-gpio-admin) - Use the GPIO pins on the Raspberry Pi without running as root
 - [BMW-OpenSource](https://github.com/edent/BMW-OpenSource) - All the Open Source Software provided by BMW for their i3
-- [citus](https://github.com/citusdata/citus) - Distributed PostgreSQL as an extension - for multi-tenant and real-time analytics workloads
+- [citus](https://github.com/citusdata/citus) - Distributed PostgreSQL as an extension
 - [Collections-C](https://github.com/srdja/Collections-C) - A library of generic data structures.
 - [NyuziProcessor](https://github.com/jbush001/NyuziProcessor) - GPGPU microprocessor architecture
 - [netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud
@@ -1396,7 +1396,7 @@
 - [samples](https://github.com/flutter/samples) - A collection of Flutter examples and demos.
 - [snappable](https://github.com/MarcinusX/snappable) - Thanos snap effect in Flutter
 - [developer_quest](https://github.com/2d-inc/developer_quest) - Respository for the I/O 2019 demo: Become a tech lead, slay bugs, and don't get fired.
-- [flutter_pokedex](https://github.com/scitbiz/flutter_pokedex) - Pokedex app built with Flutter (with lots of animations)
+- [flutter_pokedex](https://github.com/scitbiz/flutter_pokedex) - Pokedex app built with Flutter (with lots of animations) using Clean Architecture
 - [FlutterSocialAppUIKit](https://github.com/JideGuru/FlutterSocialAppUIKit) - Flutter representation of a Social App Concept.
 - [chat_app](https://github.com/developerpaaji/chat_app) - A flutter chat app built with firestore. It is clone of messenger.User can create stories,chat and search in real time.
 - [FlutterFoodybite](https://github.com/JideGuru/FlutterFoodybite) - Flutter representation of a Restaurant app UI.
@@ -2318,7 +2318,7 @@
 - [python-vs-javascript](https://github.com/sayazamurai/python-vs-javascript) - 
 - [deltatech](https://github.com/dhongu/deltatech) - Terrabit addons for Odoo
 - [quickstart-js](https://github.com/firebase/quickstart-js) - Firebase Quickstart Samples for Web
-- [wowchemy-hugo-modules](https://github.com/wowchemy/wowchemy-hugo-modules) - 🔥 The website builder for Hugo. Build and deploy a beautiful website in minutes!
+- [wowchemy-hugo-modules](https://github.com/wowchemy/wowchemy-hugo-modules) - 🔥 The website builder for Hugo. No code, build with widgets! 创建在线课程，学术简历或初创网站。
 - [MATRIX_Etherscan](https://github.com/MatrixAINetwork/MATRIX_Etherscan) - This is a crawler used to visit Ehterscan and obtain smartcontract related info
 - [uikit-ecommerce-template](https://github.com/chekromul/uikit-ecommerce-template) - E-commerce template built with UIKIt
 - [alexa-auto-sdk](https://github.com/alexa/alexa-auto-sdk) - The Alexa Auto SDK is for automotive OEMs to integrate Alexa directly into vehicles.
@@ -2846,6 +2846,7 @@
 
 ## JavaScript 
 
+- [juniper](https://github.com/ines/juniper) - 🍇 Edit and execute code snippets in the browser using Jupyter kernels
 - [gitbook](https://github.com/wandb/gitbook) - Documentation synced with GitBook. For all issues with the wandb library, please use https://github.com/wandb/client/issues
 - [OpenClubhouse](https://github.com/ai-eks/OpenClubhouse) - A third-part web application based on flask to play Clubhouse audio.
 - [howtheyaws](https://github.com/upgundecha/howtheyaws) - A curated collection of publicly available resources on how technology and tech-savvy organizations around the world use Amazon Web Services (AWS)
@@ -4567,7 +4568,7 @@
 - [deepbayes-2019](https://github.com/bayesgroup/deepbayes-2019) - Practical assignments of the Deep|Bayes summer school 2019
 - [pytorch-normalizing-flows](https://github.com/karpathy/pytorch-normalizing-flows) - Normalizing flows in PyTorch. Current intended use is education not production.
 - [IBA-paper-code](https://github.com/BioroboticsLab/IBA-paper-code) - Code for the Paper "Restricting the Flow: Information Bottlenecks for Attribution"
-- [ml-mipt](https://github.com/girafe-ai/ml-mipt) - Machine learning course at MIPT
+- [ml-mipt](https://github.com/girafe-ai/ml-mipt) - Open Machine Learning course at MIPT
 - [Attention-Basics](https://github.com/alsoj/Attention-Basics) - Description Projects and exercises for Deep Learning Nano Degree program of Udacity (Mini Project)
 - [UdacityNLPND_MiniProject_AttentionBasics](https://github.com/MrGeislinger/UdacityNLPND_MiniProject_AttentionBasics) - Optional Mini-Project for Udacity's NLPND about attention learning
 - [Udacity-Deep-Learning-Nanodegree](https://github.com/MrinmoiHossain/Udacity-Deep-Learning-Nanodegree) - The course is contained knowledge that are useful to work on deep learning as an engineer. Simple neural networks & training, CNN, Autoencoders and feature extraction, Transfer learning, RNN, LSTM, NLP, Data augmentation, GANs, Hyperparameter tuning, Model deployment and serving are included in the course.
@@ -5317,7 +5318,6 @@
 - [DSB3Tutorial](https://github.com/booz-allen-hamilton/DSB3Tutorial) - 
 - [functional-zoo](https://github.com/szagoruyko/functional-zoo) - PyTorch and Tensorflow functional model definitions
 - [deep-learning-traffic-lights](https://github.com/davidbrai/deep-learning-traffic-lights) - Code and files of the deep learning model used to win the Nexar Traffic Light Recognition challenge
-- [tutorials](https://github.com/pytorch/tutorials) - PyTorch tutorials.
 - [ds30_6](https://github.com/thedataincubator/ds30_6) - Data Science in 30 minutes with Jess from Quantopian
 - [nn_from_scratch](https://github.com/ishank26/nn_from_scratch) - Multilayer Neural Network using numpy.
 - [Python_Tutorials](https://github.com/mGalarnyk/Python_Tutorials) - Python tutorials in both Jupyter Notebook and youtube format.
@@ -5819,7 +5819,6 @@
 - [awesome-mlops](https://github.com/visenger/awesome-mlops) - A curated list of references for MLOps
 - [machine-learning-roadmap](https://github.com/mrdbourke/machine-learning-roadmap) - A roadmap connecting many of the most important concepts in machine learning, how to learn them and what tools to use to perform them.
 - [QA_bible](https://github.com/VladislavEremeev/QA_bible) - Библия QA это почти 300 страниц обновляемой смеси ответов на вопросы с реальных собеседований на QA, полезных ресурсов и статей, перевода интересного контента с зарубежных ресурсов и агрегации материала с отечественных.
-- [sql-server-samples](https://github.com/microsoft/sql-server-samples) - Azure Data SQL Samples - Official Microsoft GitHub Repository containing code samples for SQL Server, Azure SQL, Azure Synapse, and Azure SQL Edge
 - [data-engineer-roadmap](https://github.com/datastacktv/data-engineer-roadmap) - Roadmap to becoming a data engineer in 2021
 - [NLP-pretrained-model](https://github.com/balavenkatesh3322/NLP-pretrained-model) - A collection of Natural language processing pre-trained models.
 - [CV-pretrained-model](https://github.com/balavenkatesh3322/CV-pretrained-model) - A collection of computer vision pre-trained models.
@@ -6813,6 +6812,7 @@
 
 ## PowerShell 
 
+- [sql-server-samples](https://github.com/microsoft/sql-server-samples) - Azure Data SQL Samples - Official Microsoft GitHub Repository containing code samples for SQL Server, Azure SQL, Azure Synapse, and Azure SQL Edge
 - [virtual-environments](https://github.com/actions/virtual-environments) - GitHub Actions virtual environments
 - [awesome-azure-learning](https://github.com/ddneves/awesome-azure-learning) - This repo includes plenty of references for Azure learning, especially for the Azure certs and Azure architecture, and any other learning materials e.g. security and automation topics.
 - [azure-docs](https://github.com/MicrosoftDocs/azure-docs) - Open source documentation of Microsoft Azure
@@ -9648,6 +9648,7 @@
 - [AlienVaultLabs](https://github.com/AlienVault-Labs/AlienVaultLabs) - Alienvault Labs Projects Random Stuff
 - [stanford-tensorflow-tutorials](https://github.com/chiphuyen/stanford-tensorflow-tutorials) - This repository contains code examples for the Stanford's course: TensorFlow for Deep Learning Research.
 - [vision](https://github.com/pytorch/vision) - Datasets, Transforms and Models specific to Computer Vision
+- [tutorials](https://github.com/pytorch/tutorials) - PyTorch tutorials.
 - [pipenv](https://github.com/pypa/pipenv) - Python Development Workflow for Humans.
 - [kur](https://github.com/deepgram/kur) - Descriptive Deep Learning
 - [delegator.py](https://github.com/amitt001/delegator.py) - Subprocesses for Humans 2.0.
@@ -11316,7 +11317,7 @@
 - [tddspry](https://github.com/playpauseandstop/tddspry) - Collection of testcases and helpers to test Django projects and applications with nose and twill libraries.
 - [django-appsettings](https://github.com/jaredly/django-appsettings) - A unified settings system for reusable django apps
 - [django-compressor](https://github.com/django-compressor/django-compressor) - Compresses linked and inline javascript or CSS into a single cached file.
-- [django-token-auth](https://github.com/robmoggach/django-token-auth) - Django reusable app for securing and providing access to URLs via a token or hash style URL.
+- [django-token-auth](https://github.com/rjmoggach/django-token-auth) - Django reusable app for securing and providing access to URLs via a token or hash style URL.
 - [huBarcode](https://github.com/hudora/huBarcode) - huBarcode is a Python Library to generate 1D and 2D Barcodes
 - [django-debug-toolbar](https://github.com/jazzband/django-debug-toolbar) - A configurable set of panels that display various debug information about the current request/response.
 - [bucky](https://github.com/trbs/bucky) - UDP frontend to Graphite
