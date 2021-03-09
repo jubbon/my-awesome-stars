@@ -142,6 +142,7 @@
 
 ## C 
 
+- [rolling-quantiles](https://github.com/marmarelis/rolling-quantiles) - Blazing fast, composable, Pythonic quantile filters.
 - [julius](https://github.com/julius-speech/julius) - Open-Source Large Vocabulary Continuous Speech Recognition Engine
 - [pocketsphinx](https://github.com/cmusphinx/pocketsphinx) - PocketSphinx is a lightweight speech recognition engine, specifically tuned for handheld and mobile devices, though it works equally well on the desktop
 - [pypostal](https://github.com/openvenues/pypostal) - Python bindings to libpostal for fast international address parsing/normalization
@@ -470,6 +471,7 @@
 - [qsharp-compiler](https://github.com/microsoft/qsharp-compiler) - Q# compiler, command line tool, and Q# language server
 - [FASTER](https://github.com/microsoft/FASTER) - Fast persistent recoverable log and key-value store + cache, in C# and C++.
 - [ailab](https://github.com/microsoft/ailab) - Experience, Learn and Code the latest breakthrough innovations with Microsoft AI
+- [ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region is a offline IP location library with accuracy rate of 99.9% and 0.0x millseconds searching performance. DB file is ONLY a few megabytes with all IP address stored. binding for Java,PHP,C,Python,Nodejs,Golang,C#,lua. Binary,B-tree,Memory searching algorithm
 - [DRL_based_SelfDrivingCarControl](https://github.com/MLJejuCamp2017/DRL_based_SelfDrivingCarControl) - Deep Reinforcement Learning (DQN) based Self Driving Car Control with Vehicle Simulator
 - [blockchain](https://github.com/dvf/blockchain) - A simple Blockchain in Python
 - [ml-agents](https://github.com/Unity-Technologies/ml-agents) - Unity Machine Learning Agents Toolkit
@@ -1097,7 +1099,6 @@
 - [CrookedStyleSheets](https://github.com/jbtronics/CrookedStyleSheets) - Webpage tracking only using CSS (and no JS)
 - [VueTheme](https://github.com/rtCamp/VueTheme) - WordPress theme using Rest API and Vue.js
 - [lib4dev](https://github.com/amitmishrg/lib4dev) - Find awesome libraries and make your development fast.
-- [Flake8Rules](https://github.com/grantmcconnaughey/Flake8Rules) - Descriptions and examples for the rules in Flake8 (pyflakes, pycodestyle, and mccabe).
 - [pragmatic-functional-javascript](https://github.com/haskellcamargo/pragmatic-functional-javascript) - The "Pragmatic Functional JavaScript" book
 - [principles.design](https://github.com/benbrignell/principles.design) - An open source collection of design principles and methods.
 - [instagram.css](https://github.com/picturepan2/instagram.css) - Instagram.css - Complete set of Instagram filters in pure CSS
@@ -1380,7 +1381,7 @@
 - [timy-messenger](https://github.com/janoodleFTW/timy-messenger) - Timy - open source mobile app for groups to communicate and organize themselves. Built with flutter.
 - [Flutter-Todolist](https://github.com/LiveLikeCounter/Flutter-Todolist) - A Flutter based to do list app (yes, another to do list... but... this time based on a beautiful design)
 - [Best-Flutter-UI-Templates](https://github.com/mitesh77/Best-Flutter-UI-Templates) - completely free for everyone. Its build-in Flutter Dart.
-- [FlutterGrocery-ShoppingAppUI](https://github.com/ahkohd/FlutterGrocery-ShoppingAppUI) - Fryo - Grocery Shopping  App template UI kit in Flutter 🍔😋
+- [FlutterGrocery-ShoppingAppUI](https://github.com/ahkohd/FlutterGrocery-ShoppingAppUI) - 🍔😋 Grocery Shopping  App template UI kit in Flutter
 - [dashboard](https://github.com/Ivaskuu/dashboard) - Dashboard concept made with Flutter.
 - [Build-a-Retail-Startup](https://github.com/llSourcell/Build-a-Retail-Startup) - This is the code for "How to Build a Retail Startup" by Siraj Raval on Youtube
 - [flutter-todos](https://github.com/asjqkkkk/flutter-todos) - 📝 one day list app created by flutter!
@@ -2281,7 +2282,6 @@
 - [build-your-own-mint](https://github.com/yyx990803/build-your-own-mint) - Build your own personal finance analytics using Plaid, Google Sheets and CircleCI.
 - [apidoc](https://github.com/apidoc/apidoc) - RESTful web API Documentation Generator.
 - [opencvjs](https://github.com/haoking/opencvjs) - Complete opencvjs (With the lastest OpenCV 4.0.0+)
-- [flutter-in-action](https://github.com/flutterchina/flutter-in-action) - 《Flutter实战》电子书
 - [proposal-built-in-modules](https://github.com/tc39/proposal-built-in-modules) - 
 - [frontend-tech-list](https://github.com/alienzhou/frontend-tech-list) - 📝 Frontend Tech List for Developers 💡
 - [deep-rules](https://github.com/Benjamin-Lee/deep-rules) - Ten Quick Tips for Deep Learning in Biology
@@ -2398,6 +2398,7 @@
 - [pi-router-admin](https://github.com/EveAeternam/pi-router-admin) - Admin Dashboard for PiRouter
 - [amp-letter.github.io](https://github.com/amp-letter/amp-letter.github.io) - 
 - [Screenshot-to-code](https://github.com/emilwallner/Screenshot-to-code) - A neural network that transforms a design mock-up into a static website.
+- [Flake8Rules](https://github.com/grantmcconnaughey/Flake8Rules) - Descriptions and examples for the rules in Flake8 (pyflakes, pycodestyle, and mccabe).
 - [goose3](https://github.com/goose3/goose3) - A Python 3 compatible version of goose http://goose3.readthedocs.io/en/latest/index.html
 - [learning-area](https://github.com/mdn/learning-area) - Github repo for the MDN Learning Area.
 - [bootstrap.build](https://github.com/bootstrap-build/bootstrap.build) - 🔥 Powerful Bootstrap theme builder for your next project
@@ -2750,7 +2751,6 @@
 - [openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 - [zalenium](https://github.com/zalando/zalenium) - A flexible and scalable container based Selenium Grid with video recording, live preview, basic auth & dashboard.
 - [capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
-- [ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region is a offline IP location library with accuracy rate of 99.9% and 0.0x millseconds searching performance. DB file is ONLY a few megabytes with all IP address stored. binding for Java,PHP,C,Python,Nodejs,Golang,C#,lua. Binary,B-tree,Memory searching algorithm
 - [activemq](https://github.com/apache/activemq) - Mirror of Apache ActiveMQ
 - [porcupine](https://github.com/Picovoice/porcupine) - On-device wake word detection powered by deep learning.
 - [onebusaway-android](https://github.com/OneBusAway/onebusaway-android) - The official Android/Fire Phone app for OneBusAway
@@ -3097,6 +3097,7 @@
 - [node-security](https://github.com/matthaywardwebdesign/node-security) - :key: The easiest way to control what npm modules can access
 - [galton](https://github.com/urbica/galton) - Lightweight Node.js isochrone map server
 - [bootstrap-table](https://github.com/wenzhixin/bootstrap-table) - An extended table to integration with some of the most widely used CSS frameworks. (Supports Bootstrap, Semantic UI, Bulma, Material Design, Foundation, Vue.js)
+- [flutter-in-action](https://github.com/flutterchina/flutter-in-action) - 《Flutter实战》电子书
 - [Magic-Grid](https://github.com/e-oj/Magic-Grid) - A simple, lightweight Javascript library for dynamic grid layouts.
 - [fiddly](https://github.com/SaraVieira/fiddly) - Create beautiful and simple HTML pages from your Readme.md files
 - [strapi](https://github.com/strapi/strapi) - 🚀 Open source Node.js Headless CMS to easily build customisable APIs
@@ -3300,7 +3301,7 @@
 - [vue-native-core](https://github.com/GeekyAnts/vue-native-core) - Vue Native is a framework to build cross platform native mobile apps using JavaScript
 - [pollyjs](https://github.com/Netflix/pollyjs) - Record, Replay, and Stub HTTP Interactions.
 - [Flaskerizer](https://github.com/brettvanderwerff/Flaskerizer) - Automatically create Flask apps from Bootstrap templates
-- [Jadesktop](https://github.com/codesardine/Jadesktop) - Linux desktop environment built with HTML5, CSS, JavaScript and Python.
+- [jde](https://github.com/codesardine/jde) - Linux desktop environment built with HTML5, CSS, JavaScript and Python.
 - [ml5-library](https://github.com/ml5js/ml5-library) - Friendly machine learning for the web! 🤖
 - [lumin](https://github.com/pshihn/lumin) - A JavaScript library to progressively highlight any text on a page.
 - [Photon](https://github.com/alanzhangzm/Photon) - A lightweight multi-threaded downloader based on aria2.
@@ -3544,7 +3545,7 @@
 - [Checklist-Checklist](https://github.com/huyingjie/Checklist-Checklist) - 🌈  A Curated List of Checklists ✔︎✔︎
 - [taskr](https://github.com/bukinoshita/taskr) - A simple task manager app
 - [browsh](https://github.com/browsh-org/browsh) - A fully-modern text-based browser, rendering to TTY and browsers
-- [chatbots](https://github.com/intelligo-io/chatbots) - Chatbots build with Intelligo Framework.
+- [chatbots](https://github.com/intelligo-mn/chatbots) - Chatbots build with Intelligo Framework.
 - [hopscotch](https://github.com/LinkedInAttic/hopscotch) - A framework to make it easy for developers to add product tours to their pages.
 - [cordova-plugin-device](https://github.com/apache/cordova-plugin-device) - Apache Cordova Plugin device
 - [markdown-here](https://github.com/adam-p/markdown-here) - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
@@ -6273,7 +6274,7 @@
 - [awesome-developer-streams](https://github.com/bnb/awesome-developer-streams) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻 Awesome Developers, Streaming
 - [infrastructure-as-code-tutorial](https://github.com/Artemmkin/infrastructure-as-code-tutorial) - Infrastructure As Code Tutorial. Covers Packer, Terraform, Ansible, Vagrant, Docker, Docker Compose, Kubernetes
 - [awesome-computer-science-opportunities](https://github.com/anu0012/awesome-computer-science-opportunities) - An awesome list of events and fellowship opportunities for Computer Science students
-- [Infosec_Reference](https://github.com/rmusser01/Infosec_Reference) - An Information Security Reference That Doesn't Suck
+- [Infosec_Reference](https://github.com/rmusser01/Infosec_Reference) - An Information Security Reference That Doesn't Suck; https://rmusser.net/git/admin-2/Infosec_Reference for non-MS Git hosted version.
 - [roadmap](https://github.com/vuejs/roadmap) - 🗺️ Roadmap for the Vue.js project (archive)
 - [meetup-help](https://github.com/VueMeetups/meetup-help) - Help for starting up and running a local Vue.js Meetup group
 - [awesome-threat-detection](https://github.com/0x4D31/awesome-threat-detection) - A curated list of awesome threat detection and hunting resources
@@ -6449,7 +6450,7 @@
 - [awesome-grid](https://github.com/FancyGrid/awesome-grid) - A curated list of grid(table) libraries and resources that developers may find useful.
 - [security-101-for-saas-startups](https://github.com/forter/security-101-for-saas-startups) - security tips for startups
 - [awesome-bots](https://github.com/DopplerHQ/awesome-bots) - The most awesome list about bots ⭐️🤖
-- [perspectiveapi](https://github.com/conversationai/perspectiveapi) - Perspective is an API that uses machine learning models to score the perceived impact a comment might have on a conversation. For support, see: https://support.perspectiveapi.com/
+- [perspectiveapi](https://github.com/conversationai/perspectiveapi) - Perspective is an API that uses machine learning models to score the perceived impact a comment might have on a conversation. See https://developers.perspectiveapi.com for more information.
 - [awesome-graphics](https://github.com/ericjang/awesome-graphics) - Curated list of computer graphics tutorials and resources
 - [awesome-hacking](https://github.com/carpedm20/awesome-hacking) - A curated list of awesome Hacking tutorials, tools and resources
 - [Auth-Boss](https://github.com/teesloane/Auth-Boss) - 🔒 Become an Auth Boss. Learn about different authentication methodologies on the web.
@@ -6869,6 +6870,7 @@
 
 ## Python 
 
+- [transformer-in-transformer](https://github.com/lucidrains/transformer-in-transformer) - Implementation of Transformer in Transformer, pixel level attention paired with patch level attention for image classification, in Pytorch
 - [speech-emotion-recognition](https://github.com/xuanjihe/speech-emotion-recognition) - speech emotion recognition using a convolutional recurrent networks based on IEMOCAP
 - [torch-ac](https://github.com/lcswillems/torch-ac) - Recurrent and multi-process PyTorch implementation of deep reinforcement Actor-Critic algorithms A2C and PPO
 - [python-docs-samples](https://github.com/GoogleCloudPlatform/python-docs-samples) - Code samples used on cloud.google.com
@@ -6879,7 +6881,7 @@
 - [microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) - Sample cloud-native application with 10 microservices showcasing Kubernetes, Istio, gRPC and OpenCensus.
 - [BackgroundMattingV2](https://github.com/PeterL1n/BackgroundMattingV2) - Real-Time High-Resolution Background Matting
 - [PyTorch-StudioGAN](https://github.com/POSTECH-CVLab/PyTorch-StudioGAN) - StudioGAN is a Pytorch library providing implementations of representative Generative Adversarial Networks (GANs) for conditional/unconditional image generation.
-- [PaddleGAN](https://github.com/PaddlePaddle/PaddleGAN) - PaddlePaddle GAN library, including lots of interesting applications like DeepFake First-Order motion transfer, Mai-ha-hi（蚂蚁呀嘿), faceswap wav2lip, picture repair, image editing, photo2cartoon, image style transfer, and so on.
+- [PaddleGAN](https://github.com/PaddlePaddle/PaddleGAN) - PaddlePaddle GAN library, including lots of interesting applications like First-Order motion transfer,  wav2lip, picture repair, image editing, photo2cartoon, image style transfer, and so on.
 - [BIG-bench](https://github.com/google/BIG-bench) - Beyond the Imitation Game collaborative benchmark for enormous language models
 - [fairscale](https://github.com/facebookresearch/fairscale) - PyTorch extensions for high performance and large scale training.
 - [openchat](https://github.com/hyunwoongko/openchat) - Opensource chatting framework for generative models
@@ -7208,7 +7210,7 @@
 - [kivy](https://github.com/kivy/kivy) - Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS
 - [eat_tensorflow2_in_30_days](https://github.com/lyhue1991/eat_tensorflow2_in_30_days) - Tensorflow2.0 🍎🍊 is delicious, just eat it! 😋😋
 - [forecasting](https://github.com/microsoft/forecasting) - Time Series Forecasting Best Practices & Examples
-- [avatarify](https://github.com/alievk/avatarify) - Avatars for Zoom, Skype and other video-conferencing apps.
+- [avatarify-python](https://github.com/alievk/avatarify-python) - Avatars for Zoom, Skype and other video-conferencing apps.
 - [uwsgi-nginx-flask-docker](https://github.com/tiangolo/uwsgi-nginx-flask-docker) - Docker image with uWSGI and Nginx for Flask applications in Python running in a single container. Optionally with Alpine Linux.
 - [pytube](https://github.com/pytube/pytube) - A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos.
 - [SPFlow](https://github.com/SPFlow/SPFlow) - Sum Product Flow: An Easy and Extensible Library for Sum-Product Networks
@@ -7558,7 +7560,7 @@
 - [learn2learn](https://github.com/learnables/learn2learn) - A PyTorch Library for Meta-learning Research
 - [PyGlow](https://github.com/spino17/PyGlow) - This package is an attempt to implement Keras like API functionalities on PyTorch backend with functionalities supporting information theoretic methods which are relevant for understanding neural network dynamics.
 - [hypothesis-auto](https://github.com/timothycrosley/hypothesis-auto) - An extensions for Hypothesis that provides fully automatic testing for type hinted functions
-- [bake](https://github.com/kennethreitz42/bake) - Bake — the strangely familiar workflow utility.
+- [bake](https://github.com/kenreitz42/bake) - Bake — the strangely familiar workflow utility.
 - [multi-agent-emergence-environments](https://github.com/openai/multi-agent-emergence-environments) - Environment generation code for the paper "Emergent Tool Use From Multi-Agent Autocurricula"
 - [Topical-Chat](https://github.com/alexa/Topical-Chat) - A dataset containing human-human knowledge-grounded open-domain conversations.
 - [case-212](https://github.com/developers-against-repressions/case-212) - Открытое письмо специалистов IT-индустрии в защиту фигурантов «московского дела»
@@ -7736,7 +7738,7 @@
 - [posenet-python](https://github.com/rwightman/posenet-python) - A Python port of Google TensorFlow.js PoseNet (Real-time Human Pose Estimation)
 - [pytorch-image-models](https://github.com/rwightman/pytorch-image-models) - PyTorch image models, scripts, pretrained weights -- (SE)ResNet/ResNeXT, DPN, EfficientNet, MixNet, MobileNet-V3/V2, MNASNet, Single-Path NAS, FBNet, and more
 - [minimalRL](https://github.com/seungeunrho/minimalRL) - Implementations of basic RL algorithms with minimal lines of codes! (pytorch based)
-- [pykka](https://github.com/jodal/pykka) - Pykka is a Python implementation of the actor model, which makes it easier to build concurrent applications
+- [pykka](https://github.com/jodal/pykka) - 🌀 Pykka makes it easier to build concurrent applications.
 - [boids](https://github.com/roholazandie/boids) - 
 - [Learning_to_Learn_via_Self-Critique](https://github.com/AntreasAntoniou/Learning_to_Learn_via_Self-Critique) - The original code for the paper "Learning to Learn via Self-Critique".
 - [ansible-run_playbook](https://github.com/jtyr/ansible-run_playbook) - An example of how to run an Ansible Playbook programatically
@@ -7747,7 +7749,7 @@
 - [torchgpipe](https://github.com/kakaobrain/torchgpipe) - A GPipe implementation in PyTorch
 - [videoflow](https://github.com/videoflow/videoflow) - Python framework that facilitates the quick development of complex video analysis applications and other series-processing based applications in a multiprocessing environment.
 - [garage](https://github.com/rlworkgroup/garage) - A toolkit for reproducible reinforcement learning research.
-- [agents](https://github.com/tensorflow/agents) - TF-Agents is a library for Reinforcement Learning in TensorFlow
+- [agents](https://github.com/tensorflow/agents) - TF-Agents: A reliable, scalable and easy to use TensorFlow library for Contextual Bandits and Reinforcement Learning.
 - [ERNIE](https://github.com/thunlp/ERNIE) - Source code and dataset for ACL 2019 paper "ERNIE: Enhanced Language Representation with Informative Entities"
 - [odoo-client-api](https://github.com/jam-odoo/odoo-client-api) - Odoo - Python Client API
 - [odooku](https://github.com/odooku/odooku) - Run Odoo as a service
@@ -8161,7 +8163,7 @@
 - [stable-baselines](https://github.com/hill-a/stable-baselines) - A fork of OpenAI Baselines, implementations of reinforcement learning algorithms
 - [Hash-Buster](https://github.com/s0md3v/Hash-Buster) - Crack hashes in seconds.
 - [Semantic-Segmentation-Suite](https://github.com/GeorgeSeif/Semantic-Segmentation-Suite) - Semantic Segmentation Suite in TensorFlow. Implement, train, and test new Semantic Segmentation models easily!
-- [pytheory](https://github.com/kennethreitz42/pytheory) - Music Theory for Humans.
+- [pytheory](https://github.com/kenreitz42/pytheory) - Music Theory for Humans.
 - [mmdetection](https://github.com/open-mmlab/mmdetection) - OpenMMLab Detection Toolbox and Benchmark
 - [AIF360](https://github.com/Trusted-AI/AIF360) - A comprehensive set of fairness metrics for datasets and machine learning models, explanations for these metrics, and algorithms to mitigate bias in datasets and models.
 - [DANet](https://github.com/junfu1115/DANet) - Dual Attention Network for Scene Segmentation (CVPR2019)
@@ -9138,7 +9140,7 @@
 - [deep-photo-styletransfer-tf](https://github.com/LouieYang/deep-photo-styletransfer-tf) - Tensorflow (Python API) implementation of Deep Photo Style Transfer
 - [np-to-tf-embeddings-visualiser](https://github.com/nlml/np-to-tf-embeddings-visualiser) - Quick function to go from a dictionary of sets of (images, labels, feature vectors) to checkpoints that can be opened in Tensorboard
 - [awesome-apistar](https://github.com/awesometoolbox/awesome-apistar) - A curated list of awesome packages, articles, and other cool resources from the API Star community.
-- [coinbin.org](https://github.com/kennethreitz42/coinbin.org) - ₿ A Human–Friendly API Service for Crypto Currency Information.
+- [coinbin.org](https://github.com/kenreitz42/coinbin.org) - ₿ A Human–Friendly API Service for Crypto Currency Information.
 - [Pytorch_fine_tuning_Tutorial](https://github.com/Spandan-Madan/Pytorch_fine_tuning_Tutorial) - A short tutorial on performing fine tuning or transfer learning in PyTorch.
 - [uwsgiconf](https://github.com/idlesign/uwsgiconf) - Configure uWSGI from your Python code
 - [aptos](https://github.com/pennsignals/aptos) - :sunny: A tool for validating data using JSON Schema and converting JSON Schema documents into different data-interchange formats
@@ -9676,7 +9678,7 @@
 - [deprecation](https://github.com/briancurtin/deprecation) - A library to handle automated deprecations
 - [WaterNet](https://github.com/treigerm/WaterNet) - A convolutional neural network that identifies water in  satellite images.
 - [systemdlogger](https://github.com/techjacker/systemdlogger) - Exports systemd logs to an external service, eg cloudwatch, elasticsearch
-- [python-github3](https://github.com/kennethreitz42/python-github3) - [In Progress] Python wrapper for the new GitHub API.
+- [python-github3](https://github.com/kenreitz42/python-github3) - [In Progress] Python wrapper for the new GitHub API.
 - [AlienVaultLabs](https://github.com/AlienVault-Labs/AlienVaultLabs) - Alienvault Labs Projects Random Stuff
 - [stanford-tensorflow-tutorials](https://github.com/chiphuyen/stanford-tensorflow-tutorials) - This repository contains code examples for the Stanford's course: TensorFlow for Deep Learning Research.
 - [vision](https://github.com/pytorch/vision) - Datasets, Transforms and Models specific to Computer Vision
@@ -10507,7 +10509,7 @@
 - [later](https://github.com/qznc/later) - Command-line issue tracker for a lazy developer
 - [generator-angular-flask](https://github.com/rayokota/generator-angular-flask) - Yeoman generator for AngularJS + Flask
 - [bigchaindb](https://github.com/bigchaindb/bigchaindb) - Meet BigchainDB. The blockchain database.
-- [records](https://github.com/kennethreitz42/records) - SQL for Humans™
+- [records](https://github.com/kenreitz42/records) - SQL for Humans™
 - [laboratory](https://github.com/joealcorn/laboratory) - Achieving confident refactoring through experimentation with Python 2.7 & 3.3+
 - [maybe](https://github.com/p-e-w/maybe) - :open_file_folder: :rabbit2: :tophat: See what a program does before deciding whether you really want it to happen (NO LONGER MAINTAINED)
 - [corner.py](https://github.com/dfm/corner.py) - Make some beautiful corner plots
@@ -11408,7 +11410,7 @@
 - [slid](https://github.com/arvinddoraiswamy/slid) - Statically linked Library detector
 - [pompei](https://github.com/Zulko/pompei) - Mosaics generation from movie frames
 - [smart_open](https://github.com/RaRe-Technologies/smart_open) - Utils for streaming large files (S3, HDFS, gzip, bz2...)
-- [scrapyrt](https://github.com/scrapinghub/scrapyrt) - Scrapy realtime
+- [scrapyrt](https://github.com/scrapinghub/scrapyrt) - HTTP API for Scrapy spiders
 - [x84](https://github.com/jquast/x84) - A python telnet/ssh server for modern terminals. In spirit of classic software such as ami/x, teleguard, renegade, iniquity.
 - [django-sheets](https://github.com/georgewhewell/django-sheets) - Use Google Sheets as context variables in Django templates
 - [spaCy](https://github.com/explosion/spaCy) - 💫 Industrial-strength Natural Language Processing (NLP) in Python
@@ -12969,7 +12971,7 @@
 - [devportfolio](https://github.com/RyanFitzgerald/devportfolio) - A lightweight, customizable single-page personal portfolio website template built with JavaScript and Sass
 - [papers-I-read](https://github.com/shagunsodhani/papers-I-read) - A-Paper-A-Week
 - [card](https://github.com/jessepollak/card) - :credit_card: make your credit card form better in one line of code
-- [office-ui-fabric-core](https://github.com/OfficeDev/office-ui-fabric-core) - The front-end CSS framework for building experiences for Office and Office 365.
+- [office-ui-fabric-core](https://github.com/OfficeDev/office-ui-fabric-core) - The front-end CSS framework for building experiences for Office and Microsoft 365.
 - [grav-plugin-admin](https://github.com/getgrav/grav-plugin-admin) - Grav Admin Plugin
 - [calcite-web](https://github.com/Esri/calcite-web) - Authoritative front-end development resources for Calcite design initiative. Includes extendable base components and styles, as well as a modular and efficient framework for ArcGIS properties.
 - [uswds](https://github.com/uswds/uswds) - The U.S. Web Design System helps the federal government build fast, accessible, mobile-friendly websites.
@@ -13517,7 +13519,7 @@
 - [phosphor](https://github.com/phosphorjs/phosphor) - The PhosphorJS Library
 - [slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors. (Currently in beta.)
 - [spa-github-pages](https://github.com/rafgraph/spa-github-pages) - Host single page apps with GitHub Pages
-- [ignite](https://github.com/infinitered/ignite) - The hottest CLI for React Native, boilerplates, plugins, generators, and more!
+- [ignite](https://github.com/infinitered/ignite) - Infinite Red's cutting edge React Native project boilerplate, along with a CLI, component/model generators, and more!
 - [flatpickr](https://github.com/flatpickr/flatpickr) - lightweight, powerful javascript datetimepicker with no dependencies
 - [hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
@@ -13577,7 +13579,7 @@
 - [cdQA-annotator](https://github.com/cdqa-suite/cdQA-annotator) - ⛔ [NOT MAINTAINED] A web-based annotator for closed-domain question answering datasets with SQuAD format.
 - [MQTTX](https://github.com/emqx/MQTTX) - MQTT X - Elegant MQTT 5.0 Client Tool of Cross-platform
 - [flask-frontend-docker](https://github.com/tiangolo/flask-frontend-docker) - Minimal project generator with a Flask backend, a modern frontend (Vue, React or Angular), a Traefik load balancer with HTTPS, all based on Docker.
-- [vuepress-theme-reco](https://github.com/vue-reco/vuepress-theme-reco) - 💥 A simple and beautiful vuepress Blog & Doc theme.
+- [vuepress-theme-reco](https://github.com/recoluan/vuepress-theme-reco) - 💥 A simple and beautiful vuepress Blog & Doc theme.
 - [sub-web](https://github.com/CareyWang/sub-web) - 
 - [beauty-vuejs-boilerplate](https://github.com/zmts/beauty-vuejs-boilerplate) - ❤️ Real world base Vue.js app. Access/refresh tokens auth, api services, http client, vuex modules
 - [hackathon-app-template](https://github.com/oslokommune/hackathon-app-template) - 
