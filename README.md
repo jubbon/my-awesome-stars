@@ -181,7 +181,7 @@
 - [matrix](https://github.com/Tencent/matrix) - Matrix is a plugin style, non-invasive APM system developed by WeChat.
 - [yugabyte-db](https://github.com/yugabyte/yugabyte-db) - The high-performance distributed SQL database for global, internet-scale apps.
 - [john](https://github.com/openwall/john) - John the Ripper jumbo - advanced offline password cracker, which supports hundreds of hash and cipher types, and runs on many operating systems, CPUs, GPUs, and even some FPGAs
-- [gpdb](https://github.com/greenplum-db/gpdb) - Greenplum Database
+- [gpdb](https://github.com/greenplum-db/gpdb) - Greenplum Database - Massively Parallel PostgreSQL for Analytics. An open-source massively parallel data platform for analytics, machine learning and AI.
 - [libsodium](https://github.com/jedisct1/libsodium) - A modern, portable, easy to use crypto library.
 - [librdkafka](https://github.com/edenhill/librdkafka) - The Apache Kafka C/C++ library
 - [gcc](https://github.com/gcc-mirror/gcc) - 
@@ -700,7 +700,7 @@
 - [profilo](https://github.com/facebookincubator/profilo) - A library for performance traces from production.
 - [gdal](https://github.com/OSGeo/gdal) - GDAL is an open source X/MIT licensed translator library for raster and vector geospatial data formats.
 - [ngraph](https://github.com/NervanaSystems/ngraph) - nGraph has moved to OpenVINO
-- [timer-benchmarks](https://github.com/slimccq/timer-benchmarks) - Benchmark of different timer queue implementation(min-heap, red-black tree, timer vector)
+- [timer-benchmarks](https://github.com/cheadaq/timer-benchmarks) - Benchmark of different timer queue implementation(min-heap, red-black tree, timer vector)
 - [service-fabric](https://github.com/microsoft/service-fabric) - Service Fabric is a distributed systems platform for packaging, deploying, and managing stateless and stateful distributed applications and containers at large scale.
 - [cquery](https://github.com/jacobdufault/cquery) - C/C++ language server supporting multi-million line code base, powered by libclang. Emacs, Vim, VSCode, and others with language server protocol support. Cross references, completion, diagnostics, semantic highlighting and more
 - [msix-packaging](https://github.com/microsoft/msix-packaging) - MSIX SDK
@@ -1507,6 +1507,7 @@
 
 ## Go 
 
+- [kratos](https://github.com/ory/kratos) - Next-gen identity server (think Auth0, Okta, Firebase) with ORY-hardened authentication, MFA, FIDO2, profile management, identity schemas, social sign in, registration, account recovery, service-to-service and IoT auth. Can work as an OAuth2 / OpenID Connect Provider. Golang, headles, API-only - without templating or themeing headaches.
 - [dolt](https://github.com/dolthub/dolt) - Dolt – It's Git for Data
 - [hetty](https://github.com/dstotijn/hetty) - Hetty is an HTTP toolkit for security research.
 - [ali](https://github.com/nakabonne/ali) - Generate HTTP load and plot the results in real-time
@@ -2169,7 +2170,7 @@
 ## HTML 
 
 - [SER-datasets](https://github.com/SuperKogito/SER-datasets) - A collection of datasets for the purpose of emotion recognition/detection in speech.
-- [JavaScriptONLY](https://github.com/sohamsshah/JavaScriptONLY) - Knowledge Resource of core fundamentals of JavaScript explained in simple way!
+- [JavaScriptONLY](https://github.com/codesONLY/JavaScriptONLY) - Knowledge Resource of core fundamentals of JavaScript explained in simple way!
 - [shower](https://github.com/shower/shower) - Shower HTML presentation engine
 - [speechbrain.github.io](https://github.com/speechbrain/speechbrain.github.io) - The SpeechBrain project aims to build a novel speech toolkit fully based on PyTorch. With SpeechBrain users can easily create speech processing systems, ranging from speech recognition (both HMM/DNN and end-to-end), speaker recognition, speech enhancement, speech separation, multi-microphone speech processing, and many others.
 - [thgtoa](https://github.com/AnonymousPlanet/thgtoa) - The Hitchhiker’s Guide to Online Anonymity
@@ -4513,7 +4514,6 @@
 - [mlmachine](https://github.com/petersontylerd/mlmachine) - mlmachine accelerates machine learning experimentation
 - [ipymarkup](https://github.com/natasha/ipymarkup) - NER, syntax markup visualizations
 - [Question-Generation](https://github.com/KristiyanVachev/Question-Generation) - Generating multiple choice questions from text using Machine Learning.
-- [projects](https://github.com/explosion/projects) - 🪐 End-to-end NLP workflows from prototype to production
 - [nlp-python-deep-learning](https://github.com/NirantK/nlp-python-deep-learning) - NLP in Python with Deep Learning
 - [dsc-python-operators-functions-and-methods-lab-onl01-dtsc-ft-041320](https://github.com/learn-co-students/dsc-python-operators-functions-and-methods-lab-onl01-dtsc-ft-041320) - 
 - [Data-Science-Hacks](https://github.com/kunalj101/Data-Science-Hacks) - Data Science Hacks consists of tips, tricks to help you become a better data scientist. Data science hacks are for all - beginner to advanced. Data science hacks consist of python, jupyter notebook, pandas hacks and so on.
@@ -6870,6 +6870,10 @@
 
 ## Python 
 
+- [up-detr](https://github.com/dddzg/up-detr) - [CVPR2021 Oral] UP-DETR: Unsupervised Pre-training for Object Detection with Transformers
+- [keepsake](https://github.com/replicate/keepsake) - Version control for machine learning
+- [pennylane](https://github.com/PennyLaneAI/pennylane) - PennyLane is a cross-platform Python library for differentiable programming of quantum computers.  Train a quantum computer the same way as a neural network.
+- [EDCNN](https://github.com/workingcoder/EDCNN) - EDCNN: Edge enhancement-based Densely Connected Network with Compound Loss for Low-Dose CT Denoising
 - [HiSD](https://github.com/imlixinyang/HiSD) - Official pytorch implementation of paper "Image-to-image Translation via Hierarchical Style Disentanglement" (CVPR 2021 Oral).
 - [GraphGallery](https://github.com/EdisonLeeeee/GraphGallery) - GraphGallery is a gallery for benchmarking Graph Neural Networks (GNNs) and Graph Adversarial Learning with TensorFlow 2.x and PyTorch backend.
 - [transformer-in-transformer](https://github.com/lucidrains/transformer-in-transformer) - Implementation of Transformer in Transformer, pixel level attention paired with patch level attention for image classification, in Pytorch
@@ -6954,7 +6958,7 @@
 - [wavenet_vocoder](https://github.com/r9y9/wavenet_vocoder) - WaveNet vocoder
 - [pykaldi](https://github.com/pykaldi/pykaldi) - A Python wrapper for Kaldi
 - [kaldi-gstreamer-server](https://github.com/alumae/kaldi-gstreamer-server) - Real-time full-duplex speech recognition server, based on the Kaldi toolkit and the GStreamer framwork.
-- [DeepSpeech](https://github.com/PaddlePaddle/DeepSpeech) - A PaddlePaddle implementation of DeepSpeech2 architecture for ASR.
+- [DeepSpeech](https://github.com/PaddlePaddle/DeepSpeech) - A PaddlePaddle implementation of ASR.
 - [ml-road](https://github.com/yanshengjia/ml-road) - Machine Learning Resources, Practice and Research
 - [deep-daze](https://github.com/lucidrains/deep-daze) - Simple command line tool for text to image generation using OpenAI's CLIP and Siren (Implicit neural representation network)
 - [momentum2-teacher](https://github.com/zengarden/momentum2-teacher) - Implementation of momentum^2 teacher
@@ -6975,7 +6979,7 @@
 - [TinyCheck](https://github.com/KasperskyLab/TinyCheck) - TinyCheck allows you to easily capture network communications from a smartphone or any device which can be associated to a Wi-Fi access point in order to quickly analyze them. This can be used to check if any suspect or malicious communication is outgoing from a smartphone, by using heuristics or specific Indicators of Compromise (IoCs). In order to make it working, you need a computer with a Debian-like operating system and two Wi-Fi interfaces. The best choice is to use a Raspberry Pi (2+) a Wi-Fi dongle and a small touch screen. This tiny configuration (for less than $50) allows you to tap any Wi-Fi device, anywhere.
 - [fluence](https://github.com/prajjwal1/fluence) - A deep learning library based on Pytorch focussed on low resource language research and robustness
 - [MolBERT](https://github.com/BenevolentAI/MolBERT) - 
-- [SparseR-CNN](https://github.com/PeizeSun/SparseR-CNN) - End-to-End Object Detection with Learnable Proposal
+- [SparseR-CNN](https://github.com/PeizeSun/SparseR-CNN) - End-to-End Object Detection with Learnable Proposal, CVPR2021
 - [create-ml-app](https://github.com/shreyashankar/create-ml-app) - Template Makefile for ML projects in Python.
 - [haven-ai](https://github.com/haven-ai/haven-ai) - 
 - [tn2-wg](https://github.com/alphacep/tn2-wg) - Tacotron2 + Waveglow Russian
@@ -7162,6 +7166,7 @@
 - [negspacy](https://github.com/jenojp/negspacy) - spaCy pipeline object for negating concepts in text
 - [spacy-dev-resources](https://github.com/explosion/spacy-dev-resources) - 💫  Scripts, tools and resources for developing spaCy
 - [spacy-wordnet](https://github.com/recognai/spacy-wordnet) - spacy-wordnet creates annotations that easily allow the use of wordnet and wordnet domains by using the nltk wordnet interface
+- [projects](https://github.com/explosion/projects) - 🪐 End-to-end NLP workflows from prototype to production
 - [prodigy-recipes](https://github.com/explosion/prodigy-recipes) - 🍳 Recipes for the Prodigy, our fully scriptable annotation tool
 - [spacy-api-docker](https://github.com/jgontrum/spacy-api-docker) - spaCy REST API, wrapped in a Docker container.
 - [spacy-services](https://github.com/explosion/spacy-services) - 💫 REST microservices for various spaCy-related tasks
@@ -13065,7 +13070,7 @@
 - [ansible-docker](https://github.com/debops/ansible-docker) - Install and configure Docker Engine
 - [docker-selenium](https://github.com/elgalu/docker-selenium) - Selenium in Docker with Chrome & Firefox plus video recording support. Also check: Zalenium
 - [setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) - Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2
-- [docker-compose-letsencrypt-nginx-proxy-companion](https://github.com/evertramos/docker-compose-letsencrypt-nginx-proxy-companion) - Automated docker nginx proxy integrated with letsencrypt.
+- [nginx-proxy-automation](https://github.com/evertramos/nginx-proxy-automation) - Automated docker nginx proxy integrated with letsencrypt.
 - [docker-letsencrypt-nginx-proxy-companion](https://github.com/nginx-proxy/docker-letsencrypt-nginx-proxy-companion) - LetsEncrypt companion container for nginx-proxy
 - [Interview-Book](https://github.com/Mountain-Buzhou/Interview-Book) - It's not just interview questions, it's an engineer's career path.
 - [CarND-Vehicle-Detection](https://github.com/udacity/CarND-Vehicle-Detection) - Vehicle Detection Project
