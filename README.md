@@ -289,7 +289,6 @@
 - [gjk.c](https://github.com/kroitor/gjk.c) - Gilbert-Johnson-Keerthi (GJK) collision detection algorithm in 200 lines of clean plain C
 - [openresty](https://github.com/openresty/openresty) - High Performance Web Platform Based on Nginx and LuaJIT
 - [zapret](https://github.com/bol-van/zapret) - Обход DPI в linux
-- [MineCraft-One-Week-Challenge](https://github.com/Hopson97/MineCraft-One-Week-Challenge) - I challenged myself to see if I could create a voxel game (Minecraft-like) in just one week using C++ and OpenGL, and here is the result
 - [fast-histogram](https://github.com/astrofrog/fast-histogram) - :zap: Fast 1D and 2D histogram functions in Python :zap:
 - [pyrebox](https://github.com/Cisco-Talos/pyrebox) - Python scriptable Reverse Engineering Sandbox, a Virtual Machine instrumentation and inspection framework based on QEMU
 - [pgsql-ogr-fdw](https://github.com/pramsey/pgsql-ogr-fdw) - PostgreSQL foreign data wrapper for OGR
@@ -748,7 +747,7 @@
 - [incubator-pegasus](https://github.com/apache/incubator-pegasus) - ['pɛgəsəs] A distributed key-value storage system developed and maintained by Xiaomi Cloud Storage Team.
 - [plaidml](https://github.com/plaidml/plaidml) - PlaidML is a framework for making deep learning work everywhere.
 - [EdgeML](https://github.com/microsoft/EdgeML) - This repository provides code for machine learning algorithms for edge devices developed at Microsoft Research India.
-- [cosmos](https://github.com/OpenGenus/cosmos) - | Contribute toward Hacktoberfest and enjoy 🌱 | Algorithms that run our universe | Your personal library of every algorithm and data structure code that you will ever encounter | Ask us anything at our forum |
+- [cosmos](https://github.com/OpenGenus/cosmos) - World's largest Contributor driven code dataset | Join our Internship and enjoy 🌱 | Algorithms that run our universe | Your personal library of every algorithm and data structure code that you will ever encounter |
 - [napajs](https://github.com/microsoft/napajs) - Napa.js: a multi-threaded JavaScript runtime
 - [dll](https://github.com/wichtounet/dll) - Fast Deep Learning Library (DLL) for C++ (ANNs, CNNs, RBMs, DBNs...)
 - [Algo_Ds](https://github.com/srbcheema1/Algo_Ds) - Repository for cool algorithms and Datastructures
@@ -773,6 +772,7 @@
 - [paxosstore](https://github.com/Tencent/paxosstore) - PaxosStore has been deployed in WeChat production for more than two years, providing storage services for the core businesses of WeChat backend. Now PaxosStore is running on thousands of machines, and is able to afford billions of peak TPS.
 - [xmr-stak-cpu](https://github.com/fireice-uk/xmr-stak-cpu) - Monero CPU miner
 - [cpp-sort](https://github.com/Morwenn/cpp-sort) - Sorting algorithms & related tools for C++14
+- [MineCraft-One-Week-Challenge](https://github.com/Hopson97/MineCraft-One-Week-Challenge) - I challenged myself to see if I could create a voxel game (Minecraft-like) in just one week using C++ and OpenGL, and here is the result
 - [sqlcheck](https://github.com/jarulraj/sqlcheck) - Automatically identify anti-patterns in SQL queries
 - [s2client-api](https://github.com/Blizzard/s2client-api) - StarCraft II Client - C++ library supported on Windows, Linux and Mac designed for building scripted bots and research using the SC2API.
 - [ncnn](https://github.com/Tencent/ncnn) - ncnn is a high-performance neural network inference framework optimized for the mobile platform
@@ -978,7 +978,6 @@
 - [tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
 - [xgboost](https://github.com/dmlc/xgboost) - Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library,  for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Dask, Flink and DataFlow
 - [RHVoice](https://github.com/RHVoice/RHVoice) - a free and open source speech synthesizer for Russian and other languages
-- [mapnik](https://github.com/mapnik/mapnik) - Mapnik is an open source toolkit for developing mapping applications
 - [osrm-backend](https://github.com/Project-OSRM/osrm-backend) - Open Source Routing Machine - C++ backend
 - [omim](https://github.com/mapsme/omim) - 🗺️ MAPS.ME — Offline OpenStreetMap maps for iOS and Android
 - [george](https://github.com/dfm/george) - Fast and flexible Gaussian Process regression in Python
@@ -4420,6 +4419,7 @@
 
 ## Jupyter Notebook 
 
+- [TorchDrift](https://github.com/TorchDrift/TorchDrift) - Drift Detection for your PyTorch Models
 - [SemSketches](https://github.com/dialogue-evaluation/SemSketches) - SemSketches 2021
 - [corus](https://github.com/natasha/corus) - Links to Russian corpora + Python functions for loading and parsing
 - [Speech-Emotion-Analyzer](https://github.com/MITESHPUTHRANNEU/Speech-Emotion-Analyzer) - The neural network model is capable of detecting five different male/female emotions from audio speeches. (Deep Learning, NLP, Python)
@@ -6870,6 +6870,9 @@
 
 ## Python 
 
+- [ActionServerless](https://github.com/gitx-io/ActionServerless) - Use GitHub Actions to create a serverless service.
+- [api-client-example](https://github.com/datasaur-ai/api-client-example) - Sample Script for Datasaur Integration
+- [ctc-segmentation](https://github.com/lumaku/ctc-segmentation) - CTC segmentation python package
 - [up-detr](https://github.com/dddzg/up-detr) - [CVPR2021 Oral] UP-DETR: Unsupervised Pre-training for Object Detection with Transformers
 - [keepsake](https://github.com/replicate/keepsake) - Version control for machine learning
 - [pennylane](https://github.com/PennyLaneAI/pennylane) - PennyLane is a cross-platform Python library for differentiable programming of quantum computers.  Train a quantum computer the same way as a neural network.
@@ -7241,7 +7244,7 @@
 - [remi](https://github.com/YatingMusic/remi) - "Pop Music Transformer: Beat-based Modeling and Generation of Expressive Pop Piano Compositions", ACM Multimedia 2020
 - [tianshou](https://github.com/thu-ml/tianshou) - An elegant PyTorch deep reinforcement learning platform.
 - [pycls](https://github.com/facebookresearch/pycls) - Codebase for Image Classification Research, written in PyTorch.
-- [PaddleHub](https://github.com/PaddlePaddle/PaddleHub) - Awesome pre-trained models toolkit based on PaddlePaddle.（260+ models including Image, Text, Audio and Video with Easy Inference & Serving deployment)
+- [PaddleHub](https://github.com/PaddlePaddle/PaddleHub) - Awesome pre-trained models toolkit based on PaddlePaddle.（270+ models including Image, Text, Audio and Video with Easy Inference & Serving deployment)
 - [CurveFit](https://github.com/ihmeuw-msca/CurveFit) - Generic curve fitting package with nonlinear mixed effects model
 - [aristo-mini](https://github.com/allenai/aristo-mini) - Aristo mini is a light-weight question answering system that can quickly evaluate Aristo science questions with an evaluation web server and the provided baseline solvers.
 - [Microsoft-Rocketbox](https://github.com/microsoft/Microsoft-Rocketbox) - Microsoft Rocketbox is now available for research and academic use! The library of 115 rigged avatars offers flexibility, enabling the easy use of facial animations across characters and the mixing and matching of texture elements.
@@ -7472,7 +7475,7 @@
 - [Deep-Learning-Based-ECG-Annotator](https://github.com/niekverw/Deep-Learning-Based-ECG-Annotator) - Annotation of ECG signals using deep learning, tensorflow’ Keras
 - [keras-apache-mxnet](https://github.com/awslabs/keras-apache-mxnet) - [DEPRECATED] Amazon Deep Learning's Keras with Apache MXNet support
 - [benchmarking-keras-pytorch](https://github.com/cgnorthcutt/benchmarking-keras-pytorch) - 🔥 Reproducibly benchmarking Keras and PyTorch models
-- [keract](https://github.com/philipperemy/keract) - Activation Maps (Layers Outputs) and Gradients in Keras.
+- [keract](https://github.com/philipperemy/keract) - Layers Outputs and Gradients in Keras. Made easy.
 - [Google-Coral-Edge-TPU](https://github.com/TannerGilbert/Google-Coral-Edge-TPU) - Use the Google Coral USB Accelerator for deep learning.
 - [geo-heatmap](https://github.com/luka1199/geo-heatmap) - :world_map: Generate an interactive geo heatmap from your Google location data
 - [sagemaker-python-sdk](https://github.com/aws/sagemaker-python-sdk) - A library for training and deploying machine learning models on Amazon SageMaker
@@ -13013,7 +13016,7 @@
 - [spark](https://github.com/apache/spark) - Apache Spark - A unified analytics engine for large-scale data processing
 - [scalding](https://github.com/twitter/scalding) - A Scala API for Cascading
 - [shark](https://github.com/amplab/shark) - Development in Shark has been ended.
-- [predictionio](https://github.com/apache/predictionio) - PredictionIO, a machine learning server for developers and ML engineers.
+- [attic-predictionio](https://github.com/apache/attic-predictionio) - PredictionIO, a machine learning server for developers and ML engineers.
 - [ganitha](https://github.com/tresata/ganitha) - scalding powered machine learning
 
 ## Scheme 
@@ -14005,6 +14008,7 @@
 ## XSLT 
 
 - [practical-modern-javascript](https://github.com/mjavascript/practical-modern-javascript) - 🏊 Dive into ES6 and the future of JavaScript
+- [mapnik](https://github.com/mapnik/mapnik) - Mapnik is an open source toolkit for developing mapping applications
 
 ## YAML 
 
