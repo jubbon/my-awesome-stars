@@ -1229,7 +1229,7 @@
 - [flexbox-patterns](https://github.com/cjcenizal/flexbox-patterns) - Patterns for using flexbox CSS to build awesome UI components.
 - [SpinKit](https://github.com/tobiasahlin/SpinKit) - A collection of loading indicators animated with CSS
 - [Skeleton](https://github.com/dhg/Skeleton) - Skeleton: A Dead Simple, Responsive Boilerplate for Mobile-Friendly Development
-- [ProgrammingFonts](https://github.com/ProgrammingFonts/ProgrammingFonts) - This is a collection of programming fonts,just share this with the programmers.Now there are 101 kinds of fantastic fonts!
+- [ProgrammingFonts](https://github.com/ProgrammingFonts/ProgrammingFonts) - This is a collection of programming fonts,just share this with the programmers.Now there are 102 kinds of fantastic fonts!
 - [arc-theme](https://github.com/horst3180/arc-theme) - A flat theme with transparent elements
 - [normalize.css](https://github.com/necolas/normalize.css) - A modern alternative to CSS resets
 - [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
@@ -2277,7 +2277,6 @@
 - [vscode](https://github.com/DankNeon/vscode) - A danker, more neon theme for VS Code
 - [python](https://github.com/Show-Me-the-Code/python) - Show Me the Code Python version.
 - [kubernetes-failure-stories](https://github.com/hjacobs/kubernetes-failure-stories) - Compilation of public failure/horror stories related to Kubernetes
-- [typedoc](https://github.com/TypeStrong/typedoc) - Documentation generator for TypeScript projects.
 - [build-your-own-mint](https://github.com/yyx990803/build-your-own-mint) - Build your own personal finance analytics using Plaid, Google Sheets and CircleCI.
 - [apidoc](https://github.com/apidoc/apidoc) - RESTful web API Documentation Generator.
 - [opencvjs](https://github.com/haoking/opencvjs) - Complete opencvjs (With the lastest OpenCV 4.0.0+)
@@ -3963,7 +3962,6 @@
 - [time](https://github.com/anvaka/time) - Simple Google Sheets interface to track time
 - [js-stack-from-scratch](https://github.com/verekia/js-stack-from-scratch) - 🛠️⚡ Step-by-step tutorial to build a modern JavaScript stack.
 - [DBGlass](https://github.com/web-pal/DBGlass) - PostgreSQL client built with Electron.
-- [Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
 - [hashi-ui](https://github.com/jippi/hashi-ui) - A modern user interface for @hashicorp Consul & Nomad
 - [React-For-Beginners-Starter-Files](https://github.com/wesbos/React-For-Beginners-Starter-Files) - Starter files for learning React.js with React for Beginners
 - [text-mask](https://github.com/text-mask/text-mask) - Input mask for React, Angular, Ember, Vue, & plain JavaScript
@@ -13350,6 +13348,7 @@
 - [functional-typescript](https://github.com/transitive-bullshit/functional-typescript) - TypeScript standard for rock solid serverless functions.
 - [vscode-browser-preview](https://github.com/auchenberg/vscode-browser-preview) - A real browser preview inside your editor that you can debug.
 - [TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
+- [typedoc](https://github.com/TypeStrong/typedoc) - Documentation generator for TypeScript projects.
 - [vscode-gitlens](https://github.com/eamodio/vscode-gitlens) - Supercharge the Git capabilities built into Visual Studio Code — Visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more
 - [noty](https://github.com/fabiospampinato/noty) - Autosaving sticky note with support for multiple notes without needing multiple windows.
 - [rrweb](https://github.com/rrweb-io/rrweb) - record and replay the web
@@ -13518,6 +13517,7 @@
 - [peerjs](https://github.com/peers/peerjs) - Simple peer-to-peer with WebRTC
 - [mobx](https://github.com/mobxjs/mobx) - Simple, scalable state management.
 - [ayu](https://github.com/dempfi/ayu) - 🎨🖌 Modern Sublime Text theme
+- [Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
 - [snabbdom](https://github.com/snabbdom/snabbdom) - A virtual DOM library with focus on simplicity, modularity, powerful features and performance.
 - [redux](https://github.com/reduxjs/redux) - Predictable state container for JavaScript apps
 - [angular2-hn](https://github.com/housseindjirdeh/angular2-hn) - :boom: Progressive Hacker News client built with Angular
