@@ -647,7 +647,6 @@
 - [Algojammer](https://github.com/ChrisKnott/Algojammer) - An experimental code editor for writing algorithms
 - [mindforger](https://github.com/dvorka/mindforger) - Thinking notebook and Markdown editor.
 - [lux](https://github.com/LUX-Core/lux) - LUX - Hybrid PoW/PoS & Unique PHI2 Algorithm | Masternode | Parallel masternode | Segwit | Smartcontract | Luxgate | Proof of file storage (Decentralised distributed file storage)
-- [grpc-web](https://github.com/grpc/grpc-web) - gRPC for Web Clients
 - [oatpp](https://github.com/oatpp/oatpp) - 🌱Light and powerful C++ web framework for highly scalable and resource-efficient web application. It's zero-dependency and easy-portable.
 - [Algorithms](https://github.com/VAR-solutions/Algorithms) - A repository of different Algorithms and Data Structures implemented in many programming languages.
 - [openvino](https://github.com/openvinotoolkit/openvino) - OpenVINO™ Toolkit repository
@@ -3149,6 +3148,7 @@
 - [vue-api-query](https://github.com/robsontenorio/vue-api-query) - 💎 Elegant and simple way to build requests for REST API
 - [react-hooks](https://github.com/nikgraf/react-hooks) - Collection of React Hooks
 - [awesome-nodejs-security](https://github.com/lirantal/awesome-nodejs-security) - Awesome Node.js Security resources
+- [grpc-web](https://github.com/grpc/grpc-web) - gRPC for Web Clients
 - [vue-slides](https://github.com/znck/vue-slides) - Present with Vue
 - [idevice](https://github.com/dieulot/idevice) - Discover which iOS devices are used on your site
 - [vue-carousel](https://github.com/SSENSE/vue-carousel) - A flexible, responsive, touch-friendly carousel for Vue.js
@@ -13613,7 +13613,7 @@
 - [massCode](https://github.com/antonreshetov/massCode) - A free and open source code snippets manager for developers.
 - [vue-ctk-date-time-picker](https://github.com/chronotruck/vue-ctk-date-time-picker) - VueJS component to select dates & time, including a range mode
 - [vue-indoor](https://github.com/mudin/vue-indoor) - VueJS wrapper for indoorjs
-- [hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 A free, fast and beautiful API request builder used by 150k+ developers. https://hoppscotch.io
+- [hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem used by 150k+ developers. https://hoppscotch.io
 - [Scriptis](https://github.com/WeBankFinTech/Scriptis) - Scriptis is for interactive data analysis with script development(SQL, Pyspark, HiveQL), task submission(Spark, Hive), UDF, function, resource management and intelligent diagnosis.
 - [Scout](https://github.com/tevora-threat/Scout) - Surveillance Detection Scout: Your Lookout on Autopilot
 - [DynamoDb-GUI-Client](https://github.com/Arattian/DynamoDb-GUI-Client) - DynamoDb GUI Client
