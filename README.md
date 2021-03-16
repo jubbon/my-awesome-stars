@@ -2183,7 +2183,6 @@
 - [Introduction-to-Web-Development](https://github.com/WebDevSimplified/Introduction-to-Web-Development) - 
 - [30-Days-of-Python](https://github.com/codingforentrepreneurs/30-Days-of-Python) - A New Version of 30 Days of Python is nearly here. Get started today.
 - [CNN-Architectures](https://github.com/Machine-Learning-Tokyo/CNN-Architectures) - 
-- [docsy](https://github.com/google/docsy) - A set of Hugo doc templates for launching open source content.
 - [ml-workshop-3-of-4](https://github.com/amueller/ml-workshop-3-of-4) - Advanced Machine Learning with Scikit-learn part I
 - [nlpbuddy](https://github.com/eellak/nlpbuddy) - A text analysis application for performing common NLP tasks through a web dashboard interface and an API
 - [rwi_executive_dashboard](https://github.com/splunk/rwi_executive_dashboard) - Splunk Remote Work Insights - Executive Dashboard
@@ -2286,7 +2285,6 @@
 - [quicklink](https://github.com/GoogleChromeLabs/quicklink) - ⚡️Faster subsequent page-loads by prefetching in-viewport links during idle time
 - [excalibur](https://github.com/camelot-dev/excalibur) - A web interface to extract tabular data from PDFs
 - [http2priorities](https://github.com/pmeenan/http2priorities) - Test Page for HTTP/2 prioritization (server and browser)
-- [Publii](https://github.com/GetPublii/Publii) - Publii is a desktop-based CMS for Windows, Mac and Linux that makes creating static websites fast and hassle-free, even for beginners.
 - [BabySploit](https://github.com/M4cs/BabySploit) - :baby: BabySploit Beginner Pentesting Toolkit/Framework Written in Python :snake:
 - [parcel-by-sample](https://github.com/Lemoncode/parcel-by-sample) - Learn parcel by sample, each of the samples contains a readme.md file that indicates the purpose of the sample plus an step by step guide to reproduce it.
 - [proposal-bigint](https://github.com/tc39/proposal-bigint) - Arbitrary precision integers in JavaScript
@@ -2855,7 +2853,6 @@
 - [neuralqa](https://github.com/victordibia/neuralqa) - NeuralQA: A Usable Library for Question Answering on Large Datasets with BERT
 - [knowledge-graphs](https://github.com/shaoxiongji/knowledge-graphs) - A collection of research on knowledge graphs
 - [maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) - MapLibre GL is a free and open-source fork of mapbox-gl-js
-- [sova-asr](https://github.com/sovaai/sova-asr) - SOVA ASR (Automatic Speech Recognition)
 - [AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) - Roadmap to becoming an Artificial Intelligence Expert in 2021
 - [gpt3-sandbox](https://github.com/shreyashankar/gpt3-sandbox) - The goal of this project is to enable users to create cool web demos using the newly released OpenAI GPT-3 API with just a few lines of Python.
 - [docs](https://github.com/github/docs) - The open-source repo for docs.github.com
@@ -2871,6 +2868,7 @@
 - [displacy](https://github.com/explosion/displacy) - :boom: displaCy.js: An open-source NLP visualiser for the modern web
 - [javascript-interview-questions](https://github.com/sudheerj/javascript-interview-questions) - List of 1000 JavaScript Interview Questions
 - [endpoints-example](https://github.com/endpoints/endpoints-example) - an example api written using endpoints
+- [docsy](https://github.com/google/docsy) - A set of Hugo doc templates for launching open source content.
 - [node-ytdl-core](https://github.com/fent/node-ytdl-core) - YouTube video downloader in javascript.
 - [web-skills](https://github.com/andreasbm/web-skills) - A visual overview of useful skills to learn as a web developer
 - [headless-cat-n-mouse](https://github.com/paulirish/headless-cat-n-mouse) - Is headless chrome currently detectable? Let's pit the detections and detection evasions against eachother.
@@ -3127,6 +3125,7 @@
 - [serverless-webpack](https://github.com/serverless-heaven/serverless-webpack) - Serverless plugin to bundle your lambdas with Webpack
 - [aws-serverless-workshops](https://github.com/aws-samples/aws-serverless-workshops) - Code and walkthrough labs to set up serverless applications for Wild Rydes workshops
 - [react-firebase-starter](https://github.com/kriasoft/react-firebase-starter) - Boilerplate (seed) project for creating web apps with React.js, GraphQL.js and Relay
+- [Publii](https://github.com/GetPublii/Publii) - Publii is a desktop-based CMS for Windows, Mac and Linux that makes creating static websites fast and hassle-free, even for beginners.
 - [vue-lazy-image-loading](https://github.com/subotkevic/vue-lazy-image-loading) - Vue lazy image and background loading plugin.
 - [unified](https://github.com/unifiedjs/unified) - ☔️ interface for parsing, inspecting, transforming, and serializing content through syntax trees
 - [tensorspace](https://github.com/tensorspace-team/tensorspace) - Neural network 3D visualization framework, build interactive and intuitive model in browsers, support pre-trained deep learning models from TensorFlow, Keras, TensorFlow.js
@@ -4455,7 +4454,7 @@
 - [Python-for-Data-Analytics](https://github.com/ItsAwSM/Python-for-Data-Analytics) - This course will teach you only the relevant topics in Python for starting your career in Data Analytics. There are also a bunch of tips and tricks throughout for resume writing, solving case studies, interviews etc. The idea is to help you land a job in analytics and not just teach you Python.
 - [minGPT](https://github.com/karpathy/minGPT) - A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training
 - [python-for-data-science](https://github.com/blobcity/python-for-data-science) - A collection of Jupyter Notebooks for learning Python for Data Science.
-- [deepsvg](https://github.com/alexandre01/deepsvg) - Official code for the paper "DeepSVG: A Hierarchical Generative Network for Vector Graphics Animation". Includes a PyTorch library for deep learning with SVG data.
+- [deepsvg](https://github.com/alexandre01/deepsvg) - [NeurIPS 2020] Official code for the paper "DeepSVG: A Hierarchical Generative Network for Vector Graphics Animation". Includes a PyTorch library for deep learning with SVG data.
 - [dash-sample-apps](https://github.com/plotly/dash-sample-apps) - Open-source demos hosted on Dash Gallery
 - [2020](https://github.com/epfl-ada/2020) - Materials for Applied Data Analysis CS-401, fall 2020
 - [pixel2style2pixel](https://github.com/eladrich/pixel2style2pixel) - Official Implementation for "Encoding in Style: a StyleGAN Encoder for Image-to-Image Translation"
@@ -5410,6 +5409,7 @@
 - [parallel-tutorial](https://github.com/pydata/parallel-tutorial) - Parallel computing in Python tutorial materials
 - [cnn_graph](https://github.com/mdeff/cnn_graph) - Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering
 - [chatbot-retrieval](https://github.com/dennybritz/chatbot-retrieval) - Dual LSTM Encoder for Dialog Response Generation
+- [pytextrank](https://github.com/DerwenAI/pytextrank) - Python implementation of TextRank for phrase extraction and summarization of text documents
 - [subpixel](https://github.com/atriumlts/subpixel) - subpixel: A subpixel convnet for super resolution with Tensorflow
 - [reinforcement-learning](https://github.com/dennybritz/reinforcement-learning) - Implementation of Reinforcement Learning Algorithms. Python, OpenAI Gym, Tensorflow. Exercises and Solutions to accompany Sutton's Book and David Silver's course.
 - [self-driving-car](https://github.com/udacity/self-driving-car) - The Udacity open source self-driving car project
@@ -6868,6 +6868,8 @@
 
 ## Python 
 
+- [cuad](https://github.com/TheAtticusProject/cuad) - CUAD
+- [VisTR](https://github.com/Epiphqny/VisTR) - [CVPR2021 Oral] End-to-End Video Instance Segmentation with Transformers
 - [ActionServerless](https://github.com/gitx-io/ActionServerless) - Use GitHub Actions to create a serverless service.
 - [api-client-example](https://github.com/datasaur-ai/api-client-example) - Sample Script for Datasaur Integration
 - [ctc-segmentation](https://github.com/lumaku/ctc-segmentation) - CTC segmentation python package
@@ -6984,6 +6986,7 @@
 - [create-ml-app](https://github.com/shreyashankar/create-ml-app) - Template Makefile for ML projects in Python.
 - [haven-ai](https://github.com/haven-ai/haven-ai) - 
 - [tn2-wg](https://github.com/alphacep/tn2-wg) - Tacotron2 + Waveglow Russian
+- [sova-asr](https://github.com/sovaai/sova-asr) - SOVA ASR (Automatic Speech Recognition)
 - [haystack](https://github.com/deepset-ai/haystack) - :mag: End-to-end Python framework for building natural language search interfaces to data. Leverages Transformers and the State-of-the-Art of NLP. Supports DPR, Elasticsearch, HuggingFace’s Modelhub, and much more!
 - [BentoML](https://github.com/bentoml/BentoML) - Model Serving Made Easy
 - [eisen-core](https://github.com/eisen-ai/eisen-core) - Core functionality of Eisen
@@ -8477,7 +8480,7 @@
 - [deep-person-reid](https://github.com/KaiyangZhou/deep-person-reid) - Torchreid: Deep learning person re-identification in PyTorch.
 - [Powershell-RAT](https://github.com/Viralmaniar/Powershell-RAT) - Python based backdoor that uses Gmail to exfiltrate data through attachment. This RAT will help during red team engagements to backdoor any Windows machines. It tracks the user activity using screen capture and sends it to an attacker as an e-mail attachment.
 - [PyTorch-NLP](https://github.com/PetrochukM/PyTorch-NLP) - Basic Utilities for PyTorch Natural Language Processing (NLP)
-- [tern](https://github.com/tern-tools/tern) - Open Source compliance for containers
+- [tern](https://github.com/tern-tools/tern) - Tern is a software composition analysis tool and Python library that generates a Software Bill of Materials for container images and Dockerfiles. The SBoM that Tern generates will give you a layer-by-layer view of what's inside your container in a variety of formats including human-readable, JSON, HTML, SPDX and more.
 - [parallel-ssh](https://github.com/ParallelSSH/parallel-ssh) - Asynchronous parallel SSH client library.
 - [requests-xml](https://github.com/erinxocon/requests-xml) - Requests-XML: XML Parsing for Humans
 - [dacite](https://github.com/konradhalas/dacite) - Simple creation of data classes from dictionaries.
@@ -9939,7 +9942,6 @@
 - [qcache](https://github.com/tobgu/qcache) - In memory cache server with query capabilities
 - [altair](https://github.com/ellisonbg/altair) - Declarative statistical visualization library for Python
 - [Autopilot-TensorFlow](https://github.com/SullyChen/Autopilot-TensorFlow) - A TensorFlow implementation of this Nvidia paper: https://arxiv.org/pdf/1604.07316.pdf with some changes
-- [pytextrank](https://github.com/DerwenAI/pytextrank) - Python implementation of TextRank for phrase extraction and summarization of text documents
 - [pgmigrate](https://github.com/yandex/pgmigrate) - Simple tool to evolve PostgreSQL schema easily.
 - [django-micro](https://github.com/maxpoletaev/django-micro) - Django as a microframework
 - [hues](https://github.com/prashnts/hues) - Colored terminal text made easy for Python and happiness.
@@ -10245,7 +10247,7 @@
 - [silly](https://github.com/cube-drone/silly) - A python library for producing fanciful test data.
 - [DO-runin](https://github.com/blha303/DO-runin) - A tool that starts a DigitalOcean droplet in a given region and runs a given command, displaying the output.
 - [punch](https://github.com/lgiordani/punch) - Update your version while having a drink
-- [liota](https://github.com/vmware/liota) - 
+- [liota](https://github.com/vmware-archive/liota) - 
 - [leather](https://github.com/wireservice/leather) - Python charting for 80% of humans.
 - [sklearn-evaluation](https://github.com/edublancas/sklearn-evaluation) - Machine learning model evaluation made easy: plots, tables, HTML reports, experiment tracking and Jupyter notebook analysis.
 - [digit-classifier](https://github.com/kdexd/digit-classifier) - A single handwritten digit classifier, using the MNIST dataset. Pure Numpy.
@@ -13950,7 +13952,7 @@
 - [vue-loop](https://github.com/JosephSmith127/vue-loop) - Infinite content loop for Vue
 - [d3vue](https://github.com/CorpGlory/d3vue) - D3.js vs Vue.js examples
 - [tmdb-app](https://github.com/dmtrbrl/tmdb-app) - TMDb Vue.js app
-- [vue-manage-system](https://github.com/lin-xin/vue-manage-system) - 基于vue + element的后台管理系统解决方案
+- [vue-manage-system](https://github.com/lin-xin/vue-manage-system) - 基于Vue3 + Element Plus 的后台管理系统解决方案
 - [iview](https://github.com/iview/iview) - A high quality UI Toolkit built on Vue.js 2.0
 - [DataVisualization](https://github.com/SimonZhangITer/DataVisualization) - :smiling_imp: by vue2.x with echarts3.3.2
 - [vue-picture-input](https://github.com/alessiomaffeis/vue-picture-input) - Mobile-friendly picture file input Vue.js component with image preview, drag and drop, EXIF orientation, and more
