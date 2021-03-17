@@ -677,7 +677,7 @@
 - [TSeer](https://github.com/Tencent/TSeer) - A high available service discovery & registration & fault-tolerance framework
 - [mace](https://github.com/XiaoMi/mace) - MACE is a deep learning inference framework optimized for mobile heterogeneous computing platforms.
 - [menoh](https://github.com/pfnet-research/menoh) - Menoh: fast DNN inference library with multiple programming language support
-- [DALI](https://github.com/NVIDIA/DALI) - A library containing both highly optimized building blocks and an execution engine for data pre-processing in deep learning applications
+- [DALI](https://github.com/NVIDIA/DALI) - A GPU-accelerated library containing highly optimized building blocks and an execution engine for data processing to accelerate deep learning training and inference applications.
 - [anbox](https://github.com/anbox/anbox) - Anbox is a container-based approach to boot a full Android system on a regular GNU/Linux system
 - [bsf](https://github.com/GameFoundry/bsf) - Modern C++14 library for the development of real-time graphical applications
 - [Anakin](https://github.com/PaddlePaddle/Anakin) - High performance  Cross-platform Inference-engine, you could run Anakin on x86-cpu,arm, nv-gpu, amd-gpu,bitmain and cambricon devices.
@@ -2181,7 +2181,7 @@
 - [AttackVectors](https://github.com/MassMove/AttackVectors) - A repository to monitor attack vectors from state-backed information operations
 - [ASVS](https://github.com/OWASP/ASVS) - Application Security Verification Standard
 - [Introduction-to-Web-Development](https://github.com/WebDevSimplified/Introduction-to-Web-Development) - 
-- [30-Days-of-Python](https://github.com/codingforentrepreneurs/30-Days-of-Python) - A New Version of 30 Days of Python is nearly here. Get started today.
+- [30-Days-of-Python](https://github.com/codingforentrepreneurs/30-Days-of-Python) - Learn Python for the next 30 (or so) Days.
 - [CNN-Architectures](https://github.com/Machine-Learning-Tokyo/CNN-Architectures) - 
 - [ml-workshop-3-of-4](https://github.com/amueller/ml-workshop-3-of-4) - Advanced Machine Learning with Scikit-learn part I
 - [nlpbuddy](https://github.com/eellak/nlpbuddy) - A text analysis application for performing common NLP tasks through a web dashboard interface and an API
@@ -2872,7 +2872,6 @@
 - [node-ytdl-core](https://github.com/fent/node-ytdl-core) - YouTube video downloader in javascript.
 - [web-skills](https://github.com/andreasbm/web-skills) - A visual overview of useful skills to learn as a web developer
 - [headless-cat-n-mouse](https://github.com/paulirish/headless-cat-n-mouse) - Is headless chrome currently detectable? Let's pit the detections and detection evasions against eachother.
-- [label-studio](https://github.com/heartexlabs/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format
 - [webviz](https://github.com/cruise-automation/webviz) - web-based visualization libraries
 - [fast-srt-subtitle](https://github.com/wiwikuan/fast-srt-subtitle) - Make SRT Caption Fast!!!!
 - [fullstack-course4](https://github.com/jhu-ep-coursera/fullstack-course4) - Example code for HTML, CSS, and Javascript for Web Developers Coursera Course
@@ -4573,7 +4572,7 @@
 - [earthengine-py-notebooks](https://github.com/giswqs/earthengine-py-notebooks) - A collection of 360+ Jupyter Python notebook examples for using Google Earth Engine with interactive mapping
 - [h2o-3](https://github.com/h2oai/h2o-3) - H2O is an Open Source, Distributed, Fast & Scalable Machine Learning Platform: Deep Learning, Gradient Boosting (GBM) & XGBoost, Random Forest, Generalized Linear Modeling (GLM with Elastic Net), K-Means, PCA, Generalized Additive Models (GAM), RuleFit, Support Vector Machine (SVM), Stacked Ensembles, Automatic Machine Learning (AutoML), etc.
 - [deep_learning_2018-19](https://github.com/DLSchool/deep_learning_2018-19) - Официальный репозиторий курса Deep Learning (2018-2019) от Deep Learning School при ФПМИ МФТИ
-- [Algorithms-and-Coding-Interviews](https://github.com/liyin2015/Algorithms-and-Coding-Interviews) - Open source content from a book in progress, Hands-on Algorithmic Problem Solving
+- [Hands-on-Algorithmic-Problem-Solving](https://github.com/liyin2015/Hands-on-Algorithmic-Problem-Solving) - A middle-to-high level algorithm book designed with coding interview at heart!
 - [c9-python-getting-started](https://github.com/microsoft/c9-python-getting-started) - Sample code for Channel 9 Python for Beginners course
 - [stat453-deep-learning-ss20](https://github.com/rasbt/stat453-deep-learning-ss20) - STAT 453: Intro to Deep Learning @ UW-Madison (Spring 2020)
 - [ml-workspace](https://github.com/ml-tooling/ml-workspace) - 🛠 All-in-one web-based IDE specialized for machine learning and data science.
@@ -6868,6 +6867,7 @@
 
 ## Python 
 
+- [CenterNet2](https://github.com/xingyizhou/CenterNet2) - Two-stage CenterNet
 - [cuad](https://github.com/TheAtticusProject/cuad) - CUAD
 - [VisTR](https://github.com/Epiphqny/VisTR) - [CVPR2021 Oral] End-to-End Video Instance Segmentation with Transformers
 - [ActionServerless](https://github.com/gitx-io/ActionServerless) - Use GitHub Actions to create a serverless service.
@@ -7232,6 +7232,7 @@
 - [Complex-YOLO](https://github.com/AI-liu/Complex-YOLO) - Complex-YOLO: Real-time 3D Object Detection on Point Clouds   pytorch  Darknet
 - [Pytorch_Mask_RCNN](https://github.com/soeaver/Pytorch_Mask_RCNN) - Converted from [tf+keras version MASK-RCNN](https://github.com/matterport/Mask_RCNN)
 - [schemathesis](https://github.com/schemathesis/schemathesis) - A modern API testing tool for web applications built with Open API and GraphQL specifications.
+- [label-studio](https://github.com/heartexlabs/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format
 - [doc2vec](https://github.com/ibrahimsharaf/doc2vec) - :notebook: Long(er) text representation and classification using Doc2Vec embeddings
 - [role2vec](https://github.com/benedekrozemberczki/role2vec) - A scalable Gensim implementation of "Learning Role-based Graph Embeddings" (IJCAI 2018).
 - [webvectors](https://github.com/akutuzov/webvectors) - Web-ify your word2vec: framework to serve distributional semantic models online
@@ -7248,7 +7249,7 @@
 - [PaddleHub](https://github.com/PaddlePaddle/PaddleHub) - Awesome pre-trained models toolkit based on PaddlePaddle.（270+ models including Image, Text, Audio and Video with Easy Inference & Serving deployment)
 - [CurveFit](https://github.com/ihmeuw-msca/CurveFit) - Generic curve fitting package with nonlinear mixed effects model
 - [aristo-mini](https://github.com/allenai/aristo-mini) - Aristo mini is a light-weight question answering system that can quickly evaluate Aristo science questions with an evaluation web server and the provided baseline solvers.
-- [Microsoft-Rocketbox](https://github.com/microsoft/Microsoft-Rocketbox) - Microsoft Rocketbox is now available for research and academic use! The library of 115 rigged avatars offers flexibility, enabling the easy use of facial animations across characters and the mixing and matching of texture elements.
+- [Microsoft-Rocketbox](https://github.com/microsoft/Microsoft-Rocketbox) - Microsoft Rocketbox is now available with MIT license! The library of 115 rigged avatars offers flexibility, enabling the easy use of facial animations across characters and the mixing and matching of texture elements.
 - [gym-gridworld](https://github.com/xinleipan/gym-gridworld) - Simple grid-world environment compatible with OpenAI-gym
 - [asteroid](https://github.com/asteroid-team/asteroid) - The PyTorch-based audio source separation toolkit for researchers
 - [deap](https://github.com/DEAP/deap) - Distributed Evolutionary Algorithms in Python
@@ -7705,7 +7706,7 @@
 - [confluent-kafka-python](https://github.com/confluentinc/confluent-kafka-python) - Confluent's Kafka Python Client
 - [aws-well-architected-labs](https://github.com/awslabs/aws-well-architected-labs) - Hands on labs and code to help you learn, measure, and build using architectural best practices.
 - [professional-services](https://github.com/GoogleCloudPlatform/professional-services) - Common solutions and tools developed by Google Cloud's Professional Services team
-- [insightface](https://github.com/deepinsight/insightface) - Face Analysis Project on MXNet
+- [insightface](https://github.com/deepinsight/insightface) - Face Analysis Project on MXNet and PyTorch
 - [keras-retinanet](https://github.com/fizyr/keras-retinanet) - Keras implementation of RetinaNet object detection.
 - [sacred](https://github.com/IDSIA/sacred) - Sacred is a tool to help you configure, organize, log and reproduce experiments developed at IDSIA.
 - [tensorflow-yolov3](https://github.com/YunYang1994/tensorflow-yolov3) - 🔥 TensorFlow Code for technical report: "YOLOv3: An Incremental Improvement"
@@ -10359,7 +10360,7 @@
 - [doorman](https://github.com/mwielgoszewski/doorman) - an osquery fleet manager
 - [toil](https://github.com/DataBiosphere/toil) - A scalable, efficient, cross-platform (Linux/macOS) and easy-to-use workflow engine in pure Python.
 - [httptools](https://github.com/MagicStack/httptools) - Fast HTTP parser
-- [dnsdiag](https://github.com/farrokhi/dnsdiag) - DNS Diagnostics and Performance Measurement Tools
+- [dnsdiag](https://github.com/farrokhi/dnsdiag) - DNS Measurement, Troubleshooting and Security Auditing Toolset
 - [expan](https://github.com/zalando/expan) - Open-source Python library for statistical analysis of randomised control trials (A/B tests)
 - [pystan2](https://github.com/stan-dev/pystan2) - PyStan, the Python interface to Stan
 - [sqlitebiter](https://github.com/thombashi/sqlitebiter) - A CLI tool to convert CSV / Excel / HTML / JSON / Jupyter Notebook / LDJSON / LTSV / Markdown / SQLite / SSV / TSV / Google-Sheets to a SQLite database file.
@@ -12331,7 +12332,7 @@
 - [psiTurk](https://github.com/NYUCCL/psiTurk) - An open platform for science on Amazon Mechanical Turk.
 - [crate.web](https://github.com/crateio/crate.web) - Django Application Providing a Python Package Index
 - [basic_sentiment_analysis](https://github.com/fjavieralba/basic_sentiment_analysis) - Code of the blog post: http://fjavieralba.com/basic-sentiment-analysis-with-python.html
-- [django-layout](https://github.com/lincolnloop/django-layout) - Django 1.4+ project template layout. Run: django-admin.py startproject --template=https://github.com/lincolnloop/django-layout/zipball/master --extension=py,rst project_name
+- [django-layout](https://github.com/lincolnloop/django-layout) - Django project template layout
 - [markbox](https://github.com/unrelentingtech/markbox) - [DEPRECATED] A blogging engine for Dropbox based on Markdown
 - [appypi](https://github.com/stephanepechard/appypi) - Sandboxing apps from Pypi packages
 - [PyT](https://github.com/dogada/PyT) - High-performance Python DSL for generation of (X)HTML with preprocessing and template inheritance.
@@ -13940,7 +13941,7 @@
 - [adminify](https://github.com/topfullstack/adminify) - An Admin Dashboard based on Vuetify material
 - [mavonEditor](https://github.com/hinesboy/mavonEditor) - mavonEditor - A markdown editor based on Vue that supports a variety of personalized features
 - [goldfish](https://github.com/Caiyeon/goldfish) - A HashiCorp Vault UI written with VueJS and Vault native Go API
-- [dashboard](https://github.com/zce/dashboard) - A dashboard scaffolding based on Vue.js created by Vue CLI.
+- [dashboard](https://github.com/zce/dashboard) - A dashboard scaffolding based on Vue.js 3.0 created by Vite.
 - [v-autocomplete](https://github.com/paliari/v-autocomplete) - Autocomplete component for Vue.js
 - [vue-ydui](https://github.com/ydcss/vue-ydui) - A mobile components Library with Vue2.js. 一只基于Vue2.x的移动端组件库。
 - [vue-loading](https://github.com/jkchao/vue-loading) - 😄 vue-loading 😊
