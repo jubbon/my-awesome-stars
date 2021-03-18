@@ -1690,7 +1690,7 @@
 - [zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go.
 - [goawk](https://github.com/benhoyt/goawk) - A POSIX-compliant AWK interpreter written in Go
 - [OpenMetrics](https://github.com/OpenObservability/OpenMetrics) - Evolving the Prometheus exposition format into a standard.
-- [benthos](https://github.com/Jeffail/benthos) - Declarative stream processing for mundane tasks and ETL, written in Go
+- [benthos](https://github.com/Jeffail/benthos) - Declarative stream processing for mundane tasks and data engineering
 - [git-bug](https://github.com/MichaelMure/git-bug) - Distributed, offline-first bug tracker embedded in git, with bridges
 - [gobeansdb](https://github.com/douban/gobeansdb) - Distributed object storage server from Douban Inc.
 - [atlantis](https://github.com/runatlantis/atlantis) - Terraform Pull Request Automation
@@ -2927,7 +2927,7 @@
 - [joi](https://github.com/sideway/joi) - The most powerful data validation library for JS
 - [node-red](https://github.com/node-red/node-red) - Low-code programming for event-driven applications
 - [uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
-- [Hygieia](https://github.com/Hygieia/Hygieia) - CapitalOne  DevOps Dashboard
+- [Hygieia](https://github.com/hygieia/Hygieia) - CapitalOne  DevOps Dashboard
 - [Fomantic-UI](https://github.com/fomantic/Fomantic-UI) - Fomantic-UI is a community fork of Semantic-UI
 - [iptv](https://github.com/iptv-org/iptv) - Collection of 5000+ publicly available IPTV channels from all over the world
 - [Mock](https://github.com/nuysoft/Mock) - A simulation data generator
@@ -3030,7 +3030,6 @@
 - [Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 - [zero](https://github.com/remoteinterview/zero) - Zero is a web server to simplify web development.
 - [eslint-config-wesbos](https://github.com/wesbos/eslint-config-wesbos) - No-Sweat™ Eslint and Prettier Setup - with or without VS Code
-- [cube.js](https://github.com/cube-js/cube.js) - 📊 Cube.js — Open-Source Analytical API Platform
 - [nsfwjs](https://github.com/infinitered/nsfwjs) - NSFW detection on the client-side via TensorFlow.js
 - [apachecn-algo-zh](https://github.com/apachecn/apachecn-algo-zh) - ApacheCN 数据结构与算法译文集
 - [Vue.Draggable](https://github.com/SortableJS/Vue.Draggable) - Vue drag-and-drop component based on Sortable.js
@@ -3295,7 +3294,7 @@
 - [vue-native-core](https://github.com/GeekyAnts/vue-native-core) - Vue Native is a framework to build cross platform native mobile apps using JavaScript
 - [pollyjs](https://github.com/Netflix/pollyjs) - Record, Replay, and Stub HTTP Interactions.
 - [Flaskerizer](https://github.com/brettvanderwerff/Flaskerizer) - Automatically create Flask apps from Bootstrap templates
-- [jde](https://github.com/codesardine/jde) - Linux desktop environment built with HTML5, CSS, JavaScript and Python.
+- [jde](https://github.com/Manjaro-WebDad/jde) - Linux desktop environment built with HTML5, CSS, JavaScript and Python.
 - [ml5-library](https://github.com/ml5js/ml5-library) - Friendly machine learning for the web! 🤖
 - [lumin](https://github.com/pshihn/lumin) - A JavaScript library to progressively highlight any text on a page.
 - [Photon](https://github.com/alanzhangzm/Photon) - A lightweight multi-threaded downloader based on aria2.
@@ -4473,7 +4472,7 @@
 - [fastcore](https://github.com/fastai/fastcore) - Python supercharged for the fastai library
 - [Deeplearning.ai-Natural-Language-Processing-Specialization](https://github.com/ibrahimjelliti/Deeplearning.ai-Natural-Language-Processing-Specialization) - This repository contains my full work and notes on Coursera's NLP Specialization (Natural Language Processing) taught by the instructor Younes Bensouda Mourri and Łukasz Kaiser offered by deeplearning.ai
 - [Getting-Things-Done-with-Pytorch](https://github.com/curiousily/Getting-Things-Done-with-Pytorch) - Jupyter Notebook tutorials on solving real-world problems with Machine Learning & Deep Learning using PyTorch. Topics: Face detection with Detectron 2, Time Series anomaly detection with LSTM Autoencoders, Object Detection with YOLO v5, Build your first Neural Network, Time Series forecasting for Coronavirus daily cases, Sentiment Analysis with BERT.
-- [machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading) - Code and resources for Machine Learning for Algorithmic Trading, 2nd edition.
+- [machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading) - Code for Machine Learning for Algorithmic Trading, 2nd edition.
 - [workshop](https://github.com/data-science-on-aws/workshop) - AI and Machine Learning with Kubeflow, Amazon EKS, and SageMaker
 - [Python-Essentials](https://github.com/LetsUpgrade/Python-Essentials) - 
 - [Style-Transfer-Collection](https://github.com/tg-bomze/Style-Transfer-Collection) - Colabs Collection of style transfer in photo and video
@@ -9647,7 +9646,7 @@
 - [hypertools](https://github.com/ContextLab/hypertools) - A Python toolbox for gaining geometric insights into high-dimensional data
 - [wsstat](https://github.com/Fitblip/wsstat) - Websocket stress testing made beautiful
 - [W.I.L.L](https://github.com/ironman5366/W.I.L.L) - A python written personal assistant
-- [imgkit](https://github.com/jarrekk/imgkit) - 🎆 Wkhtmltoimage python wrapper to convert html to image
+- [imgkit](https://github.com/jarrekk/imgkit) - 🌁 Wkhtmltoimage python wrapper to convert HTML to image
 - [deep-makeover](https://github.com/david-gpu/deep-makeover) - Deep learning project to transform male portraits into female and vice versa
 - [sceptre](https://github.com/Sceptre/sceptre) - Build better AWS infrastructure
 - [DeepLearningImplementations](https://github.com/tdeboissiere/DeepLearningImplementations) - Implementation of recent Deep Learning papers
@@ -11580,7 +11579,7 @@
 - [poseidon](https://github.com/changhiskhan/poseidon) - Python CLI for Digital Ocean API v2
 - [pyleus](https://github.com/Yelp/pyleus) - Pyleus is a Python framework for developing and launching Storm topologies.
 - [stream-django](https://github.com/GetStream/stream-django) - Django Client - Build Activity Feeds & Streams with GetStream.io
-- [pymc3](https://github.com/pymc-devs/pymc3) - Probabilistic Programming in Python: Bayesian Modeling and Probabilistic Machine Learning with Theano
+- [pymc3](https://github.com/pymc-devs/pymc3) - Probabilistic Programming in Python: Bayesian Modeling and Probabilistic Machine Learning with Aesara
 - [statsmodels](https://github.com/statsmodels/statsmodels) - Statsmodels: statistical modeling and econometrics in Python
 - [scipy](https://github.com/scipy/scipy) - Scipy library main repository
 - [seaborn](https://github.com/mwaskom/seaborn) - Statistical data visualization using matplotlib
@@ -13342,6 +13341,7 @@
 - [vue-dev-server](https://github.com/vuejs/vue-dev-server) - A POC dev server that allows you to import `*.vue` files via native ES modules imports.
 - [nodejs.dev](https://github.com/nodejs/nodejs.dev) - A new Node.js resource built using Gatsby.js with React.js, TypeScript, and Remark.
 - [frontend-bootcamp](https://github.com/microsoft/frontend-bootcamp) - Frontend Workshop from HTML/CSS/JS to TypeScript/React/Redux
+- [cube.js](https://github.com/cube-js/cube.js) - 📊 Cube.js — Open-Source Analytical API Platform
 - [vscode-leetcode](https://github.com/LeetCode-OpenSource/vscode-leetcode) - Solve LeetCode problems in VS Code
 - [linaria](https://github.com/callstack/linaria) - Zero-runtime CSS in JS library
 - [clean-code-typescript](https://github.com/labs42io/clean-code-typescript) - Clean Code concepts adapted for TypeScript
@@ -13616,7 +13616,7 @@
 - [massCode](https://github.com/antonreshetov/massCode) - A free and open source code snippets manager for developers.
 - [vue-ctk-date-time-picker](https://github.com/chronotruck/vue-ctk-date-time-picker) - VueJS component to select dates & time, including a range mode
 - [vue-indoor](https://github.com/mudin/vue-indoor) - VueJS wrapper for indoorjs
-- [hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem used by 150k+ developers. https://hoppscotch.io
+- [hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem used by 170k+ developers. https://hoppscotch.io
 - [Scriptis](https://github.com/WeBankFinTech/Scriptis) - Scriptis is for interactive data analysis with script development(SQL, Pyspark, HiveQL), task submission(Spark, Hive), UDF, function, resource management and intelligent diagnosis.
 - [Scout](https://github.com/tevora-threat/Scout) - Surveillance Detection Scout: Your Lookout on Autopilot
 - [DynamoDb-GUI-Client](https://github.com/Arattian/DynamoDb-GUI-Client) - DynamoDb GUI Client
