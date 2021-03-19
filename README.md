@@ -489,6 +489,7 @@
 
 ## C++ 
 
+- [Forward](https://github.com/Tencent/Forward) - A library for high performance deep learning inference on NVIDIA GPUs.
 - [visual-dijkstra](https://github.com/Samuele458/visual-dijkstra) - Open-source graph editor, with built-it step-by-step Dijkstra's Algorithm.
 - [graphvite](https://github.com/DeepGraphLearning/graphvite) - GraphVite: A General and High-performance Graph Embedding System
 - [sf1r-lite](https://github.com/izenecloud/sf1r-lite) - Search Formula-1——A distributed high performance massive data engine for enterprise/vertical search
@@ -4417,9 +4418,9 @@
 - [SemSketches](https://github.com/dialogue-evaluation/SemSketches) - SemSketches 2021
 - [corus](https://github.com/natasha/corus) - Links to Russian corpora + Python functions for loading and parsing
 - [Speech-Emotion-Analyzer](https://github.com/MITESHPUTHRANNEU/Speech-Emotion-Analyzer) - The neural network model is capable of detecting five different male/female emotions from audio speeches. (Deep Learning, NLP, Python)
-- [google-it-automation](https://github.com/elmoallistair/google-it-automation) - google it automation with python professional certificate program
+- [google-it-automation](https://github.com/elmoallistair/google-it-automation) - google it automation with python professional certificate
 - [mtcnn](https://github.com/ipazc/mtcnn) - MTCNN face detection implementation for TensorFlow, as a PIP package.
-- [Harvestify](https://github.com/Gladiator07/Harvestify) - A machine learning based website which recommends the best crop to grow, fertilizers to use and the diseases caught by your crops.
+- [Harvestify](https://github.com/Gladiator07/Harvestify) - A machine learning based website that recommends the best crop to grow, fertilizers to use, and the diseases caught by your crops.
 - [CLIP](https://github.com/openai/CLIP) - Contrastive Language-Image Pretraining
 - [shapash](https://github.com/MAIF/shapash) - Shapash makes Machine Learning models transparent and understandable by everyone
 - [vissl](https://github.com/facebookresearch/vissl) - VISSL is FAIR's library of extensible, modular and scalable components for SOTA Self-Supervised Learning with images.
@@ -6923,7 +6924,7 @@
 - [PaddleNLP](https://github.com/PaddlePaddle/PaddleNLP) - NLP Core Library and Model Zoo based on PaddlePaddle 2.0
 - [lightning-flash](https://github.com/PyTorchLightning/lightning-flash) - Collection of tasks for fast prototyping, baselining, finetuning and solving problems with deep learning.
 - [pororo](https://github.com/kakaobrain/pororo) - PORORO: Platform Of neuRal mOdels for natuRal language prOcessing
-- [Deep-Forest](https://github.com/LAMDA-NJU/Deep-Forest) - An implementation of Deep Forest 2021.2.1.
+- [Deep-Forest](https://github.com/LAMDA-NJU/Deep-Forest) - An Efficient, Scalable and Optimized Python Framework for Deep Forest (2021.2.1)
 - [sorting_algo_visualizer](https://github.com/mportesi/sorting_algo_visualizer) - Python script to generate a visualization of various sorting algorithms, image or video.
 - [gpt3-instruct-sandbox](https://github.com/bkane1/gpt3-instruct-sandbox) - Interactive Jupyter Notebook Environment for using the GPT-3 Instruct API
 - [PlayableVideoGeneration](https://github.com/willi-menapace/PlayableVideoGeneration) - Official Pytorch implementation of "Playable Video Generation"
@@ -12935,6 +12936,7 @@
 - [diem](https://github.com/diem/diem) - Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world.
 - [emu](https://github.com/calebwin/emu) - The write-once-run-anywhere GPGPU library for Rust
 - [wasmer-python](https://github.com/wasmerio/wasmer-python) - 🐍🕸 WebAssembly runtime for Python
+- [cube.js](https://github.com/cube-js/cube.js) - 📊 Cube.js — Open-Source Analytical API Platform
 - [fluence](https://github.com/fluencelabs/fluence) - Peer-to-peer computing protocol and licensing system
 - [mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott!
 - [atlasr](https://github.com/atlasr-org/atlasr) - Atlasr is a truly open-source and free map browser.
@@ -13341,7 +13343,6 @@
 - [vue-dev-server](https://github.com/vuejs/vue-dev-server) - A POC dev server that allows you to import `*.vue` files via native ES modules imports.
 - [nodejs.dev](https://github.com/nodejs/nodejs.dev) - A new Node.js resource built using Gatsby.js with React.js, TypeScript, and Remark.
 - [frontend-bootcamp](https://github.com/microsoft/frontend-bootcamp) - Frontend Workshop from HTML/CSS/JS to TypeScript/React/Redux
-- [cube.js](https://github.com/cube-js/cube.js) - 📊 Cube.js — Open-Source Analytical API Platform
 - [vscode-leetcode](https://github.com/LeetCode-OpenSource/vscode-leetcode) - Solve LeetCode problems in VS Code
 - [linaria](https://github.com/callstack/linaria) - Zero-runtime CSS in JS library
 - [clean-code-typescript](https://github.com/labs42io/clean-code-typescript) - Clean Code concepts adapted for TypeScript
