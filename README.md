@@ -2712,7 +2712,7 @@
 ## Java 
 
 - [fess](https://github.com/codelibs/fess) - Fess is very powerful and easily deployable Enterprise Search Server.
-- [vespa](https://github.com/vespa-engine/vespa) - Vespa is an engine for low-latency computation over large data sets.
+- [vespa](https://github.com/vespa-engine/vespa) - The open big data serving engine. https://vespa.ai
 - [cassandra-workshop-series](https://github.com/DataStax-Academy/cassandra-workshop-series) - All materials for the Cassandra Workshop Series in a single place
 - [spring-cloud-alibaba](https://github.com/alibaba/spring-cloud-alibaba) - Spring Cloud Alibaba provides a one-stop solution for application development for the distributed solutions of Alibaba middleware.
 - [tink](https://github.com/google/tink) - Tink is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.
@@ -2919,7 +2919,6 @@
 - [serverless-offline](https://github.com/dherault/serverless-offline) - Emulate AWS λ and API Gateway locally when developing your Serverless project
 - [serverless-aws-static-file-handler](https://github.com/activescott/serverless-aws-static-file-handler) - Easily serve static files with the Serverless Framework on AWS Lambda.
 - [Leaflet.Control.Layers.Tree](https://github.com/jjimenezshaw/Leaflet.Control.Layers.Tree) - a Tree Layers Control for Leaflet
-- [TheHive](https://github.com/TheHive-Project/TheHive) - TheHive: a Scalable, Open Source and Free Security Incident Response Platform
 - [zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt) - Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨
 - [tsdx](https://github.com/formium/tsdx) - Zero-config CLI for TypeScript package development
 - [react](https://github.com/typescript-cheatsheets/react) - Cheatsheets for experienced React developers getting started with TypeScript
@@ -5265,7 +5264,6 @@
 - [BayesMadeSimple](https://github.com/AllenDowney/BayesMadeSimple) - Code for a tutorial on Bayesian Statistics by Allen Downey.
 - [lectures-labs](https://github.com/m2dsupsdlclass/lectures-labs) - Slides and Jupyter notebooks for the Deep Learning lectures at Master Year 2 Data Science from Institut Polytechnique de Paris
 - [digital_video_introduction](https://github.com/leandromoreira/digital_video_introduction) - A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding).
-- [dsp](https://github.com/thisismetis/dsp) - Metis Data Science Bootcamp - Official Prework Repository
 - [Installations_Mac_Ubuntu_Windows](https://github.com/mGalarnyk/Installations_Mac_Ubuntu_Windows) - Installations for Data Science. Anaconda, RStudio, Spark, TensorFlow, AWS (Amazon Web Services).
 - [continuous_analysis](https://github.com/greenelab/continuous_analysis) - Computational reproducibility using Continuous Integration to produce verifiable end-to-end runs of scientific analysis.
 - [master](https://github.com/ML-course/master) - A machine learning course using Python, Jupyter Notebooks, and OpenML
@@ -9532,7 +9530,7 @@
 - [evolution-strategies-starter](https://github.com/openai/evolution-strategies-starter) - Code for the paper "Evolution Strategies as a Scalable Alternative to Reinforcement Learning"
 - [explainshell](https://github.com/idank/explainshell) - match command-line arguments to their help text
 - [algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
-- [polyline](https://github.com/hicsail/polyline) - A Python implementation of Google's Encoded Polyline Algorithm Format.
+- [polyline](https://github.com/frederickjansen/polyline) - A Python implementation of Google's Encoded Polyline Algorithm Format.
 - [bulbea](https://github.com/achillesrasquinha/bulbea) - :boar: :bear: Deep Learning based Python Library for Stock Market Prediction and Modelling
 - [trio](https://github.com/python-trio/trio) - Trio – a friendly Python library for async concurrency and I/O
 - [pytorch-es](https://github.com/atgambardella/pytorch-es) - Evolution Strategies in PyTorch
@@ -13003,6 +13001,7 @@
 - [spark-nlp](https://github.com/JohnSnowLabs/spark-nlp) - State of the Art Natural Language Processing
 - [polynote](https://github.com/polynote/polynote) - A better notebook for Scala (and more)
 - [Vegas](https://github.com/vegas-viz/Vegas) - The missing MatPlotLib for Scala + Spark
+- [TheHive](https://github.com/TheHive-Project/TheHive) - TheHive: a Scalable, Open Source and Free Security Incident Response Platform
 - [delta](https://github.com/delta-io/delta) - An open-source storage layer that brings scalable, ACID transactions to Apache Spark™ and big data workloads.
 - [TransmogrifAI](https://github.com/salesforce/TransmogrifAI) - TransmogrifAI (pronounced trăns-mŏgˈrə-fī) is an AutoML library for building modular, reusable, strongly typed machine learning workflows on Apache Spark with minimal hand-tuning
 - [mmlspark](https://github.com/Azure/mmlspark) - Microsoft Machine Learning for Apache Spark
