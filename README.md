@@ -4432,7 +4432,6 @@
 - [jackroos/VL-BERT](https://github.com/jackroos/VL-BERT) - Code for ICLR 2020 paper "VL-BERT: Pre-training of Generic Visual-Linguistic Representations".
 - [github/CodeSearchNet](https://github.com/github/CodeSearchNet) - Datasets, tools, and benchmarks for representation learning of code.
 - [MLWhiz/data_science_blogs](https://github.com/MLWhiz/data_science_blogs) - A repository to keep track of all the code that I end up writing for my blog posts.
-- [globalaihub/python-education-v2](https://github.com/globalaihub/python-education-v2) - 
 - [yitu-opensource/T2T-ViT](https://github.com/yitu-opensource/T2T-ViT) - 
 - [Pzoom522/HistSumm](https://github.com/Pzoom522/HistSumm) - Code and data for "Summarising Historical Text in Modern Languages" (EACL 2021)
 - [snakers4/silero-models](https://github.com/snakers4/silero-models) - Silero Models: pre-trained STT models and benchmarks made embarrassingly simple
@@ -6865,6 +6864,9 @@
 
 ## Python 
 
+- [cisagov/CHIRP](https://github.com/cisagov/CHIRP) - A forensic collection tool written in Python.
+- [JialianW/TraDeS](https://github.com/JialianW/TraDeS) - Track to Detect and Segment: An Online Multi-Object Tracker (CVPR 2021)
+- [megvii-model/YOLOF](https://github.com/megvii-model/YOLOF) - 
 - [xingyizhou/CenterNet2](https://github.com/xingyizhou/CenterNet2) - Two-stage CenterNet
 - [TheAtticusProject/cuad](https://github.com/TheAtticusProject/cuad) - CUAD
 - [Epiphqny/VisTR](https://github.com/Epiphqny/VisTR) - [CVPR2021 Oral] End-to-End Video Instance Segmentation with Transformers
