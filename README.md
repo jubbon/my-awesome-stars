@@ -1506,6 +1506,7 @@
 
 ## Go 
 
+- [mattermost/mattermost-server](https://github.com/mattermost/mattermost-server) - Open source Slack-alternative in Golang and React - Mattermost
 - [ory/kratos](https://github.com/ory/kratos) - Next-gen identity server (think Auth0, Okta, Firebase) with ORY-hardened authentication, MFA, FIDO2, profile management, identity schemas, social sign in, registration, account recovery, service-to-service and IoT auth. Can work as an OAuth2 / OpenID Connect Provider. Golang, headles, API-only - without templating or themeing headaches.
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – It's Git for Data
 - [dstotijn/hetty](https://github.com/dstotijn/hetty) - Hetty is an HTTP toolkit for security research.
@@ -3502,7 +3503,7 @@
 - [scaccogatto/vue-waypoint](https://github.com/scaccogatto/vue-waypoint) - trigger functions and events based on the element position on the screen
 - [calirojas506/vue-inspector](https://github.com/calirojas506/vue-inspector) - Vue.js Inspector for Mobile Devices
 - [gajus/swing](https://github.com/gajus/swing) - A swipeable cards interface. The swipe-left/swipe-right for yes/no input. As seen in apps like Jelly and Tinder.
-- [LinusBorg/portal-vue](https://github.com/LinusBorg/portal-vue) - A feature-rich Portal Plugin for Vue 2, for rendering DOM outside of a component, anywhere our app or the entire document.
+- [LinusBorg/portal-vue](https://github.com/LinusBorg/portal-vue) - A feature-rich Portal Plugin for Vue 2, for rendering DOM outside of a component, anywhere in your app or the entire document.
 - [egoist/vue-final-form](https://github.com/egoist/vue-final-form) - 🏁 High performance subscription-based form state management for Vue.js.
 - [brunosimon/keppler](https://github.com/brunosimon/keppler) - Real time code sharing for your lectures and presentations.
 - [ankurk91/vue-cleave-component](https://github.com/ankurk91/vue-cleave-component) - Vue.js component for Cleave.js :keyboard:
@@ -8330,7 +8331,7 @@
 - [djudman/evernote-telegram-bot](https://github.com/djudman/evernote-telegram-bot) - Telegram bot for Evernote
 - [accelero-cloud/appkernel](https://github.com/accelero-cloud/appkernel) - API development made easy: a smart Python 3 API framework
 - [pytest-dev/pytest-testinfra](https://github.com/pytest-dev/pytest-testinfra) - Testinfra test your infrastructures
-- [albumentations-team/albumentations](https://github.com/albumentations-team/albumentations) - Fast image augmentation library and easy to use wrapper around other libraries. Documentation:  https://albumentations.ai/docs/ Paper about library: https://www.mdpi.com/2078-2489/11/2/125
+- [albumentations-team/albumentations](https://github.com/albumentations-team/albumentations) - Fast image augmentation library and an easy-to-use wrapper around other libraries. Documentation:  https://albumentations.ai/docs/ Paper about the library: https://www.mdpi.com/2078-2489/11/2/125
 - [titu1994/keras-coordconv](https://github.com/titu1994/keras-coordconv) - Keras implementation of CoordConv for all Convolution layers
 - [google/compare_gan](https://github.com/google/compare_gan) - Compare GAN code.
 - [randy3k/Terminus](https://github.com/randy3k/Terminus) - Bring a real terminal to Sublime Text
@@ -11478,7 +11479,7 @@
 - [edne/pineal](https://github.com/edne/pineal) - Graphic Synthesis Engine, for live coding performances
 - [santiagobasulto/smartcsv](https://github.com/santiagobasulto/smartcsv) - CSVs are awesome, yet they're pretty dumb. Let's get them smarter!
 - [chriskiehl/Gooey](https://github.com/chriskiehl/Gooey) - Turn (almost) any Python command line program into a full GUI application with one line
-- [prohippo/pyelly](https://github.com/prohippo/pyelly) - A multifaceted natural language tool written in Python 2.7.*. A release written in Python 3.8 has been uploaded.
+- [prohippo/pyelly](https://github.com/prohippo/pyelly) - A multifaceted natural language tool written in Python 2.7.*. A release written in Python 3.8 has been uploaded in the GitHub project pyellytoo.
 - [digidotcom/epoxy](https://github.com/digidotcom/epoxy) - A  Dependency Injection framework for Python applications
 - [colour-science/colour](https://github.com/colour-science/colour) - Colour Science for Python
 - [jsonpickle/jsonpickle](https://github.com/jsonpickle/jsonpickle) - Python library for serializing any arbitrary object graph into JSON. It can take almost any Python object and turn the object into JSON. Additionally, it can reconstitute the object back into Python.
