@@ -1309,6 +1309,7 @@
 - [pyalot/webgl-heatmap](https://github.com/pyalot/webgl-heatmap) - A high performance WebGL/JS heatmap display library
 - [nmccready/angular-simple-logger](https://github.com/nmccready/angular-simple-logger) - Basic logger with level logging which can also be independent.
 - [angular-ui/angular-google-maps](https://github.com/angular-ui/angular-google-maps) - AngularJS directives for the Google Maps Javascript API
+- [mojs/mojs](https://github.com/mojs/mojs) - The motion graphics toolbelt for the web
 - [autocomplete-python/autocomplete-python](https://github.com/autocomplete-python/autocomplete-python) - Jedi based Python autocomplete for Atom
 - [jakubroztocil/cloudtunes](https://github.com/jakubroztocil/cloudtunes) - Web-based music player for the cloud :cloud: :notes: Play music from YouTube, Dropbox, etc.
 - [rscarvalho/pyregex](https://github.com/rscarvalho/pyregex) - pyregex is a Python Regular Expression Online Tester
@@ -1327,6 +1328,7 @@
 
 ## Cuda 
 
+- [teddykoker/torchsort](https://github.com/teddykoker/torchsort) - Fast, differentiable sorting and ranking in PyTorch
 - [NVIDIA/nv-wavenet](https://github.com/NVIDIA/nv-wavenet) - Reference implementation of real-time autoregressive wavenet inference
 - [leoxiaobin/deep-high-resolution-net.pytorch](https://github.com/leoxiaobin/deep-high-resolution-net.pytorch) - The project is an official implementation of our CVPR2019 paper "Deep High-Resolution Representation Learning for Human Pose Estimation"
 - [rapidsai/cuml](https://github.com/rapidsai/cuml) - cuML - RAPIDS Machine Learning Library
@@ -2284,6 +2286,7 @@
 - [GoogleChromeLabs/quicklink](https://github.com/GoogleChromeLabs/quicklink) - ⚡️Faster subsequent page-loads by prefetching in-viewport links during idle time
 - [camelot-dev/excalibur](https://github.com/camelot-dev/excalibur) - A web interface to extract tabular data from PDFs
 - [pmeenan/http2priorities](https://github.com/pmeenan/http2priorities) - Test Page for HTTP/2 prioritization (server and browser)
+- [GetPublii/Publii](https://github.com/GetPublii/Publii) - Publii is a desktop-based CMS for Windows, Mac and Linux that makes creating static websites fast and hassle-free, even for beginners.
 - [M4cs/BabySploit](https://github.com/M4cs/BabySploit) - :baby: BabySploit Beginner Pentesting Toolkit/Framework Written in Python :snake:
 - [Lemoncode/parcel-by-sample](https://github.com/Lemoncode/parcel-by-sample) - Learn parcel by sample, each of the samples contains a readme.md file that indicates the purpose of the sample plus an step by step guide to reproduce it.
 - [tc39/proposal-bigint](https://github.com/tc39/proposal-bigint) - Arbitrary precision integers in JavaScript
@@ -2344,7 +2347,7 @@
 - [ftlabs/fastclick](https://github.com/ftlabs/fastclick) - Polyfill to remove click delays on browsers with touch UIs
 - [WebReflection/hyperHTML](https://github.com/WebReflection/hyperHTML) - A Fast & Light Virtual DOM Alternative
 - [start-angular/SB-Admin-BS4-Angular-8](https://github.com/start-angular/SB-Admin-BS4-Angular-8) - Simple Dashboard Admin App built using Angular 8 and Bootstrap 4
-- [GTFOBins/GTFOBins.github.io](https://github.com/GTFOBins/GTFOBins.github.io) - GTFOBins is a curated list of Unix binaries that can used to bypass local security restrictions in misconfigured systems
+- [GTFOBins/GTFOBins.github.io](https://github.com/GTFOBins/GTFOBins.github.io) - GTFOBins is a curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems
 - [InsightDataScience/Intro_to_ML-FutureLabs](https://github.com/InsightDataScience/Intro_to_ML-FutureLabs) - ML primer workshop @ Future Labs AI Summit
 - [ncase/crowds](https://github.com/ncase/crowds) - The Wisdom and/or Madness of the Crowds
 - [asatarin/testing-distributed-systems](https://github.com/asatarin/testing-distributed-systems) - Curated list of resources on testing distributed systems
@@ -3122,7 +3125,6 @@
 - [serverless-heaven/serverless-webpack](https://github.com/serverless-heaven/serverless-webpack) - Serverless plugin to bundle your lambdas with Webpack
 - [aws-samples/aws-serverless-workshops](https://github.com/aws-samples/aws-serverless-workshops) - Code and walkthrough labs to set up serverless applications for Wild Rydes workshops
 - [kriasoft/react-firebase-starter](https://github.com/kriasoft/react-firebase-starter) - Boilerplate (seed) project for creating web apps with React.js, GraphQL.js and Relay
-- [GetPublii/Publii](https://github.com/GetPublii/Publii) - Publii is a desktop-based CMS for Windows, Mac and Linux that makes creating static websites fast and hassle-free, even for beginners.
 - [subotkevic/vue-lazy-image-loading](https://github.com/subotkevic/vue-lazy-image-loading) - Vue lazy image and background loading plugin.
 - [unifiedjs/unified](https://github.com/unifiedjs/unified) - ☔️ interface for parsing, inspecting, transforming, and serializing content through syntax trees
 - [tensorspace-team/tensorspace](https://github.com/tensorspace-team/tensorspace) - Neural network 3D visualization framework, build interactive and intuitive model in browsers, support pre-trained deep learning models from TensorFlow, Keras, TensorFlow.js
@@ -4231,7 +4233,6 @@
 - [vuejs/vue](https://github.com/vuejs/vue) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 - [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent) - ⚡️ Streaming torrent client for the web
 - [plotly/plotly.js](https://github.com/plotly/plotly.js) - Open-source JavaScript charting library behind Plotly and Dash
-- [mojs/mojs](https://github.com/mojs/mojs) - The motion graphics toolbelt for the web
 - [jaredreich/notie](https://github.com/jaredreich/notie) - 🔔 a clean and simple notification, input, and selection suite for javascript, with no dependencies
 - [fengyuanchen/cropperjs](https://github.com/fengyuanchen/cropperjs) - JavaScript image cropper.
 - [diafygi/gethttpsforfree](https://github.com/diafygi/gethttpsforfree) - Source code for https://gethttpsforfree.com/
@@ -5799,6 +5800,7 @@
 
 ## Others 
 
+- [ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide](https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide) - Detailed and tailored guide for undergraduate students or anybody want to dig deep into the field of AI with solid foundation.
 - [tBaxter/questions-for-employers](https://github.com/tBaxter/questions-for-employers) - 
 - [therealsreehari/Learn-Data-Science-For-Free](https://github.com/therealsreehari/Learn-Data-Science-For-Free) - This repositary is a combination of different resources lying scattered all over the internet. The reason for making such an repositary is to combine all the valuable resources in a sequential manner, so that it helps every beginners who are in a search of free and structured learning resource for Data Science. For Constant Updates Follow me in Twitter.
 - [52CV/CVPR-2021-Papers](https://github.com/52CV/CVPR-2021-Papers) - 
@@ -6864,6 +6866,7 @@
 
 ## Python 
 
+- [pfnet/pysen](https://github.com/pfnet/pysen) - Python linting made easy. Also a casual yet honorific way to address individuals who have entered an organization prior to you.
 - [alan-turing-institute/sktime](https://github.com/alan-turing-institute/sktime) - A unified framework for machine learning with time series
 - [cisagov/CHIRP](https://github.com/cisagov/CHIRP) - A forensic collection tool written in Python.
 - [JialianW/TraDeS](https://github.com/JialianW/TraDeS) - Track to Detect and Segment: An Online Multi-Object Tracker (CVPR 2021)
@@ -7505,7 +7508,7 @@
 - [Softwarepark/exercises](https://github.com/Softwarepark/exercises) - SoftwarePark exercises and dojos
 - [altsoph/wcw_bot](https://github.com/altsoph/wcw_bot) - WebCamWatcher bot and pipeline
 - [BloodAxe/Kaggle-Salt](https://github.com/BloodAxe/Kaggle-Salt) - 
-- [MicroPyramid/Django-CRM](https://github.com/MicroPyramid/Django-CRM) - Open Source Python CRM based on Django
+- [MicroPyramid/Django-CRM](https://github.com/MicroPyramid/Django-CRM) - Open Source CRM based on Django
 - [microsoft/DialoGPT](https://github.com/microsoft/DialoGPT) - Large-scale pretraining for dialogue
 - [minimaxir/gpt-2-simple](https://github.com/minimaxir/gpt-2-simple) - Python package to easily retrain OpenAI's GPT-2 text-generating model on new texts
 - [megvii-model/DetNAS](https://github.com/megvii-model/DetNAS) - 
@@ -13620,7 +13623,7 @@
 - [antonreshetov/massCode](https://github.com/antonreshetov/massCode) - A free and open source code snippets manager for developers.
 - [chronotruck/vue-ctk-date-time-picker](https://github.com/chronotruck/vue-ctk-date-time-picker) - VueJS component to select dates & time, including a range mode
 - [mudin/vue-indoor](https://github.com/mudin/vue-indoor) - VueJS wrapper for indoorjs
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem used by 170k+ developers. https://hoppscotch.io
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem used by 180k+ developers. https://hoppscotch.io
 - [WeBankFinTech/Scriptis](https://github.com/WeBankFinTech/Scriptis) - Scriptis is for interactive data analysis with script development(SQL, Pyspark, HiveQL), task submission(Spark, Hive), UDF, function, resource management and intelligent diagnosis.
 - [tevora-threat/Scout](https://github.com/tevora-threat/Scout) - Surveillance Detection Scout: Your Lookout on Autopilot
 - [Arattian/DynamoDb-GUI-Client](https://github.com/Arattian/DynamoDb-GUI-Client) - DynamoDb GUI Client
