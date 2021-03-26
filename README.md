@@ -1262,7 +1262,6 @@
 - [tankywoo/wiki.tankywoo.com](https://github.com/tankywoo/wiki.tankywoo.com) - My personal wiki, powered by simiki ( https://github.com/tankywoo/simiki )
 - [ckcollab/chin-up](https://github.com/ckcollab/chin-up) - Track your metrics (motivation, happiness, relationships) and find correlations in your behaviors
 - [nsonnad/base16-ipython-notebook](https://github.com/nsonnad/base16-ipython-notebook) - Themes for your IPython Notebook
-- [A/largescaleJS_ru](https://github.com/A/largescaleJS_ru) - Russian translation of Addy Osmani book.
 - [exaroth/subrosa](https://github.com/exaroth/subrosa) - Small and elegant blogging platform.
 - [zachcp/quickD3map](https://github.com/zachcp/quickD3map) - Generate quick d3 maps from location data in pandas
 - [derek3x/PryNotes](https://github.com/derek3x/PryNotes) - Web based note application. Save your ideas, notes, todo lists, recipes, news articles or anything you find online. Keep it safe and secure with encryption and in a database that won't be mined or sold.
@@ -1590,7 +1589,7 @@
 - [Phantas0s/devdash](https://github.com/Phantas0s/devdash) - :bento: Highly Configurable Terminal Dashboard for Developers and Creators
 - [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database
 - [callicoder/go-docker-compose](https://github.com/callicoder/go-docker-compose) - Golang Docker Compose Example
-- [txthinking/mr2](https://github.com/txthinking/mr2) - Mr.2 can help you expose local server to external network. Support both TCP/UDP, of course support HTTP.  Zero-Configuration.
+- [txthinking/mr2](https://github.com/txthinking/mr2) - mr2 can help you expose local server to external network. Support both TCP/UDP, of course support HTTP.  Zero-Configuration. mr2 帮助你将本地端口暴露在外网.支持TCP/UDP, 当然也支持HTTP.
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - A Simple and Comprehensive Vulnerability Scanner for Container Images, Git Repositories and Filesystems. Suitable for CI
 - [ProtonMail/gopenpgp](https://github.com/ProtonMail/gopenpgp) - A high-level OpenPGP library
 - [liamg/tml](https://github.com/liamg/tml) - :rainbow::computer::art: A tiny markup language for terminal output. Makes formatting output in CLI apps easier!
@@ -2000,7 +1999,7 @@
 - [qvl/sleepto](https://github.com/qvl/sleepto) - An alternative to traditional task schedulers
 - [dominikh/go-tools](https://github.com/dominikh/go-tools) - Staticcheck - The advanced Go linter
 - [open-falcon/falcon-plus](https://github.com/open-falcon/falcon-plus) - An open-source and enterprise-level monitoring system.
-- [loadimpact/k6](https://github.com/loadimpact/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
+- [k6io/k6](https://github.com/k6io/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
 - [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB - the open source, cloud-native distributed SQL database.
 - [speijnik/go-errortree](https://github.com/speijnik/go-errortree) - Go library for handling errors organized as a tree
 - [joshbetz/config](https://github.com/joshbetz/config) - 🛠 A configuration library for Go that parses environment variables, JSON files, and reloads automatically on SIGHUP
@@ -2502,6 +2501,7 @@
 - [samdutton/simpl](https://github.com/samdutton/simpl) - Simplest possible examples of HTML, CSS and Javascript:
 - [PagerDuty/incident-response-docs](https://github.com/PagerDuty/incident-response-docs) - PagerDuty's Incident Response Documentation.
 - [CodeBrauer/27daysofcode](https://github.com/CodeBrauer/27daysofcode) - A repo with small projects
+- [sovereign/sovereign](https://github.com/sovereign/sovereign) - A set of Ansible playbooks to build and maintain your own private cloud: email, calendar, contacts, file sync, IRC bouncer, VPN, and more.
 - [nndl/nndl.github.io](https://github.com/nndl/nndl.github.io) - 《神经网络与深度学习》 邱锡鹏著 Neural Network and Deep Learning
 - [ianw/bottomupcs](https://github.com/ianw/bottomupcs) - Bottom Up Computer Science
 - [fossasia/gci16.fossasia.org](https://github.com/fossasia/gci16.fossasia.org) - FOSSASIA Google Code-In Website 2016/17 http://gci16.fossasia.org
@@ -4413,6 +4413,7 @@
 
 ## Jupyter Notebook 
 
+- [MarcSkovMadsen/awesome-analytics-apps](https://github.com/MarcSkovMadsen/awesome-analytics-apps) - A repository for sharing knowledge and resources on awesome analytics apps in python
 - [TorchDrift/TorchDrift](https://github.com/TorchDrift/TorchDrift) - Drift Detection for your PyTorch Models
 - [dialogue-evaluation/SemSketches](https://github.com/dialogue-evaluation/SemSketches) - SemSketches 2021
 - [natasha/corus](https://github.com/natasha/corus) - Links to Russian corpora + Python functions for loading and parsing
@@ -6866,6 +6867,7 @@
 
 ## Python 
 
+- [EleutherAI/gpt-neo](https://github.com/EleutherAI/gpt-neo) - An implementation of model parallel GPT2& GPT3-like models, with the ability to scale up to full GPT3 sizes (and possibly more!), using the mesh-tensorflow library.
 - [pfnet/pysen](https://github.com/pfnet/pysen) - Python linting made easy. Also a casual yet honorific way to address individuals who have entered an organization prior to you.
 - [alan-turing-institute/sktime](https://github.com/alan-turing-institute/sktime) - A unified framework for machine learning with time series
 - [cisagov/CHIRP](https://github.com/cisagov/CHIRP) - A forensic collection tool written in Python.
@@ -9719,7 +9721,6 @@
 - [Muterra/py_hypergolix](https://github.com/Muterra/py_hypergolix) - Programmable Dropbox for secure IoT
 - [daleroberts/itermplot](https://github.com/daleroberts/itermplot) - An awesome iTerm2 backend for Matplotlib, so you can plot directly in your terminal.
 - [zhongwen/predictron](https://github.com/zhongwen/predictron) - Tensorflow implementation of "The Predictron: End-To-End Learning and Planning"
-- [sovereign/sovereign](https://github.com/sovereign/sovereign) - A set of Ansible playbooks to build and maintain your own private cloud: email, calendar, contacts, file sync, IRC bouncer, VPN, and more.
 - [baruchel/lambdascript](https://github.com/baruchel/lambdascript) - A new pure functional language built on the top of Python
 - [atpaino/deep-text-corrector](https://github.com/atpaino/deep-text-corrector) - Deep learning models trained to correct input errors in short, message-like text
 - [Hironsan/BossSensor](https://github.com/Hironsan/BossSensor) - Hide screen when boss is approaching.
@@ -11963,7 +11964,6 @@
 - [rfunix/Pompem](https://github.com/rfunix/Pompem) - Find exploit tool
 - [GameMaker2k/PyUPC-EAN](https://github.com/GameMaker2k/PyUPC-EAN) - PyUPC-EAN is a barcode library/module for Python.
 - [DiffSK/configobj](https://github.com/DiffSK/configobj) - Python 3+ compatible port of the configobj library
-- [cloudera/hue](https://github.com/cloudera/hue) - Hue Editor: Open source SQL Query Assistant for Databases/Warehouses
 - [gmjosack/gsh](https://github.com/gmjosack/gsh) - Pluggable version of Distributed Shell
 - [alerta/alerta](https://github.com/alerta/alerta) - Alerta monitoring system
 - [aio-libs/aiohttp](https://github.com/aio-libs/aiohttp) - Asynchronous HTTP client/server framework for asyncio and Python
@@ -13221,6 +13221,7 @@
 
 - [learning-rust/site](https://github.com/learning-rust/site) - 🎓 Rust Programming Language Tutorials for Everyone!
 - [auth0/styleguide](https://github.com/auth0/styleguide) - 🖌 Conjunction of design patterns, components and resources used across our products.
+- [A/largescaleJS_ru](https://github.com/A/largescaleJS_ru) - Russian translation of Addy Osmani book.
 
 ## Svelte 
 
