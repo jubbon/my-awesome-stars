@@ -155,7 +155,7 @@
 - [google/XNNPACK](https://github.com/google/XNNPACK) - High-efficiency floating-point neural network inference operators for mobile, server, and Web
 - [RT-Thread/rt-thread](https://github.com/RT-Thread/rt-thread) - RT-Thread is an open source IoT operating system.
 - [id-Software/DOOM](https://github.com/id-Software/DOOM) - DOOM Open Source Release
-- [cesanta/mongoose](https://github.com/cesanta/mongoose) - Mongoose Embedded Web Server Library - a multi-protocol embedded networking library with TCP/UDP, HTTP, WebSocket,  MQTT built-in protocols, async DNS resolver, and non-blocking API.
+- [cesanta/mongoose](https://github.com/cesanta/mongoose) - Embedded Web Server
 - [unicorn-engine/unicorn](https://github.com/unicorn-engine/unicorn) - Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, X86)
 - [bvschaik/julius](https://github.com/bvschaik/julius) - An open source re-implementation of Caesar III
 - [libretro/RetroArch](https://github.com/libretro/RetroArch) - Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.
@@ -487,6 +487,8 @@
 
 ## C++ 
 
+- [qgis/QGIS](https://github.com/qgis/QGIS) - QGIS is a free, open source, cross platform (lin/win/mac) geographical information system (GIS)
+- [an-tao/drogon](https://github.com/an-tao/drogon) - Drogon: A C++14/17 based HTTP web application framework running on Linux/macOS/Unix/Windows
 - [Tencent/Forward](https://github.com/Tencent/Forward) - A library for high performance deep learning inference on NVIDIA GPUs.
 - [Samuele458/visual-dijkstra](https://github.com/Samuele458/visual-dijkstra) - Open-source graph editor, with built-it step-by-step Dijkstra's Algorithm.
 - [DeepGraphLearning/graphvite](https://github.com/DeepGraphLearning/graphvite) - GraphVite: A General and High-performance Graph Embedding System
@@ -1501,6 +1503,7 @@
 ## Gnuplot 
 
 - [nasa-jpl/open-source-rover](https://github.com/nasa-jpl/open-source-rover) - A build-it-yourself, 6-wheel rover based on the rovers on Mars!
+- [googlefonts/noto-fonts](https://github.com/googlefonts/noto-fonts) - Noto fonts, except for CJK and emoji
 
 ## Go 
 
@@ -1799,6 +1802,7 @@
 - [golang/vgo](https://github.com/golang/vgo) - [mirror] Versioned Go Prototype
 - [genuinetools/img](https://github.com/genuinetools/img) - Standalone, daemon-less, unprivileged Dockerfile and OCI compatible container image builder.
 - [werf/werf](https://github.com/werf/werf) - GitOps delivery tool
+- [metallb/metallb](https://github.com/metallb/metallb) - A network load-balancer implementation for Kubernetes using standard routing protocols
 - [containers/virtcontainers](https://github.com/containers/virtcontainers) - A Go package for building hardware virtualized container runtimes
 - [zricethezav/gitleaks](https://github.com/zricethezav/gitleaks) - Scan git repos (or files) for secrets using regex and entropy 🔑
 - [udhos/goben](https://github.com/udhos/goben) - goben is a golang tool to measure TCP/UDP transport layer throughput between hosts.
@@ -2847,6 +2851,7 @@
 
 ## JavaScript 
 
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite is a secure end-to-end backend server for Web, Mobile, and Flutter developers that is packaged as a set of Docker containers for easy deployment 🚀
 - [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
 - [ines/juniper](https://github.com/ines/juniper) - 🍇 Edit and execute code snippets in the browser using Jupyter kernels
 - [wandb/gitbook](https://github.com/wandb/gitbook) - Documentation synced with GitBook. For all issues with the wandb library, please use https://github.com/wandb/client/issues
@@ -2948,7 +2953,7 @@
 - [heremaps/maps-api-for-javascript-examples](https://github.com/heremaps/maps-api-for-javascript-examples) - Self-contained examples for Maps API for JavaScript v3.
 - [heremaps/developer-blog](https://github.com/heremaps/developer-blog) - Examples and projects featured on the HERE developer blog.
 - [heremaps/here-cli](https://github.com/heremaps/here-cli) - A command-line interface to work with HERE XYZ Hub and other HERE APIs
-- [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (January 2021)
+- [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (March 2021)
 - [aws/aws-sdk-js](https://github.com/aws/aws-sdk-js) - AWS SDK for JavaScript in the browser and Node.js
 - [google/blockly](https://github.com/google/blockly) - The web-based visual programming editor.
 - [ian13456/mc.js](https://github.com/ian13456/mc.js) - Open source Minecraft clone built with ThreeJS, ReactJS, GraphQL, and NodeJS.
@@ -3410,7 +3415,6 @@
 - [yujiosaka/headless-chrome-crawler](https://github.com/yujiosaka/headless-chrome-crawler) - Distributed crawler powered by Headless Chrome
 - [swapagarwal/swag-for-dev](https://github.com/swapagarwal/swag-for-dev) - 😎 swag opportunities for developers
 - [julianshapiro/velocity](https://github.com/julianshapiro/velocity) - Accelerated JavaScript animation.
-- [metallb/metallb](https://github.com/metallb/metallb) - A network load-balancer implementation for Kubernetes using standard routing protocols
 - [minbrowser/min](https://github.com/minbrowser/min) - A fast, minimal browser that protects your privacy
 - [jamiebuilds/unstated](https://github.com/jamiebuilds/unstated) - State so simple, it goes without saying
 - [feross/thanks](https://github.com/feross/thanks) - 🙌 Give thanks to the open source maintainers you depend on! ✨
@@ -3666,7 +3670,7 @@
 - [esbenp/pdf-bot](https://github.com/esbenp/pdf-bot) - 🤖 A Node queue API for generating PDFs using headless Chrome. Comes with a CLI, S3 storage and webhooks for notifying subscribers about generated PDFs
 - [ayojs/ayo](https://github.com/ayojs/ayo) - A fork of Node.js. Humans before technology.
 - [trufflesuite/truffle](https://github.com/trufflesuite/truffle) - A tool for developing smart contracts. Crafted with the finest cacaos.
-- [ectoflow/vue-stripe-elements](https://github.com/ectoflow/vue-stripe-elements) - A Vue 2 component collection for StripeElements
+- [ectoflow/vue-stripe-elements](https://github.com/ectoflow/vue-stripe-elements) - A Vue 2 component collection for Stripe.js
 - [standard-things/esm](https://github.com/standard-things/esm) - Tomorrow's ECMAScript modules today!
 - [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
 - [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of diagrams.net
@@ -3998,7 +4002,6 @@
 - [nasa/openmct](https://github.com/nasa/openmct) - A web based mission control framework.
 - [jamiebuilds/itsy-bitsy-data-structures](https://github.com/jamiebuilds/itsy-bitsy-data-structures) - :european_castle: All the things you didn't know you wanted to know about data structures
 - [getify/Functional-Light-JS](https://github.com/getify/Functional-Light-JS) - Pragmatic, balanced FP in JavaScript. @FLJSBook on twitter.
-- [sqlectron/sqlectron-gui](https://github.com/sqlectron/sqlectron-gui) - A simple and lightweight SQL client desktop with cross database and platform support.
 - [JamesTheHacker/Neuron](https://github.com/JamesTheHacker/Neuron) - Neuron - Electron, ES6, React, PouchDB, Sass, Webpack
 - [airbnb/react-dates](https://github.com/airbnb/react-dates) - An easily internationalizable, mobile-friendly datepicker library for the web
 - [FormidableLabs/webpack-dashboard](https://github.com/FormidableLabs/webpack-dashboard) - A CLI dashboard for webpack dev server
@@ -4153,7 +4156,7 @@
 - [shootaroo/jit-grunt](https://github.com/shootaroo/jit-grunt) - JIT(Just In Time) plugin loader for Grunt.
 - [heynemann/generator-python-package](https://github.com/heynemann/generator-python-package) - yeoman generator to create new python packages
 - [diegonetto/generator-ionic](https://github.com/diegonetto/generator-ionic) - Build hybrid mobile apps using the Ionic Framework
-- [xbgmsharp/piwigo-openstreetmap](https://github.com/xbgmsharp/piwigo-openstreetmap) - OpenStreetMap integration for Piwigo
+- [Piwigo/piwigo-openstreetmap](https://github.com/Piwigo/piwigo-openstreetmap) - OpenStreetMap integration for Piwigo
 - [CliffCloud/Leaflet.EasyButton](https://github.com/CliffCloud/Leaflet.EasyButton) - leaflet control buttons with icons and callbacks
 - [mdbootstrap/mdb-ui-kit](https://github.com/mdbootstrap/mdb-ui-kit) - Bootstrap 5 & Material Design 2.0 UI KIT
 - [lumapps/lumX](https://github.com/lumapps/lumX) - The first responsive front-end framework based on Angular & Google Material Design specifications
@@ -4413,6 +4416,9 @@
 
 ## Jupyter Notebook 
 
+- [qiskit-community/qiskit-community-tutorials](https://github.com/qiskit-community/qiskit-community-tutorials) - A collection of Jupyter notebooks developed by the community showing how to use Qiskit
+- [ShapeAI/PYTHON-AND-DATA-ANALYTICS-7-DAYS](https://github.com/ShapeAI/PYTHON-AND-DATA-ANALYTICS-7-DAYS) - 
+- [globalaihub/introduction-to-machine-learning](https://github.com/globalaihub/introduction-to-machine-learning) - 
 - [MarcSkovMadsen/awesome-analytics-apps](https://github.com/MarcSkovMadsen/awesome-analytics-apps) - A repository for sharing knowledge and resources on awesome analytics apps in python
 - [TorchDrift/TorchDrift](https://github.com/TorchDrift/TorchDrift) - Drift Detection for your PyTorch Models
 - [dialogue-evaluation/SemSketches](https://github.com/dialogue-evaluation/SemSketches) - SemSketches 2021
@@ -5183,7 +5189,7 @@
 - [savan77/Practical-Machine-Learning-With-Python](https://github.com/savan77/Practical-Machine-Learning-With-Python) - Machine Learning Tutorials in Python
 - [rasbt/data-science-tutorial](https://github.com/rasbt/data-science-tutorial) - Code material for a data science tutorial
 - [rjurney/Agile_Data_Code_2](https://github.com/rjurney/Agile_Data_Code_2) - Code for Agile Data Science 2.0, O'Reilly 2017, Second Edition
-- [ageron/tensorflow-safari-course](https://github.com/ageron/tensorflow-safari-course) - Exercises and solutions to accompany my Safari course introducing TensorFlow.
+- [ageron/tensorflow-safari-course](https://github.com/ageron/tensorflow-safari-course) - ⛔️ DEPRECATED — Exercises and solutions to accompany my Safari course introducing TensorFlow.
 - [mzaradzki/factorization-machine-for-prediction](https://github.com/mzaradzki/factorization-machine-for-prediction) - Factorization Machine for regression and classification
 - [Atcold/pytorch-CortexNet](https://github.com/Atcold/pytorch-CortexNet) - PyTorch implementation of the CortexNet predictive model
 - [DeepLearningDTU/02456-deep-learning](https://github.com/DeepLearningDTU/02456-deep-learning) - Exercises and supplementary material for the deep learning course 02456.
@@ -5801,6 +5807,12 @@
 
 ## Others 
 
+- [microsoft/Swin-Transformer](https://github.com/microsoft/Swin-Transformer) - a general-purpose Transformer based vision backbone
+- [WeareSoft/tech-interview](https://github.com/WeareSoft/tech-interview) - :loudspeaker:🙍 tech interview
+- [PlayerForever/CS_eBooks](https://github.com/PlayerForever/CS_eBooks) - 
+- [chanakaudaya/solution-architecture-patterns](https://github.com/chanakaudaya/solution-architecture-patterns) - Reusable, vendor-neutral, industry-specific, vendor-specific solution architecture patterns for enterprise
+- [trexminer/T-Rex](https://github.com/trexminer/T-Rex) - T-Rex NVIDIA GPU miner with web control monitoring page
+- [eugeneyan/applied-ml](https://github.com/eugeneyan/applied-ml) - 📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.
 - [ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide](https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide) - Detailed and tailored guide for undergraduate students or anybody want to dig deep into the field of AI with solid foundation.
 - [tBaxter/questions-for-employers](https://github.com/tBaxter/questions-for-employers) - 
 - [therealsreehari/Learn-Data-Science-For-Free](https://github.com/therealsreehari/Learn-Data-Science-For-Free) - This repositary is a combination of different resources lying scattered all over the internet. The reason for making such an repositary is to combine all the valuable resources in a sequential manner, so that it helps every beginners who are in a search of free and structured learning resource for Data Science. For Constant Updates Follow me in Twitter.
@@ -6526,7 +6538,6 @@
 - [jareware/css-architecture](https://github.com/jareware/css-architecture) - 8 simple rules for a robust, scalable CSS architecture
 - [open-source-ideas/open-source-ideas](https://github.com/open-source-ideas/open-source-ideas) - 💡Ever had a cool idea for an Open Source project but didn't have the time to implement it yourself? Let someone else give it a try!
 - [lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
-- [googlefonts/noto-fonts](https://github.com/googlefonts/noto-fonts) - Noto fonts, except for CJK and emoji
 - [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - 😱 Falsehoods Programmers Believe in
 - [Xel/Blockchain-stuff](https://github.com/Xel/Blockchain-stuff) - Blockchain and Crytocurrency Resources
 - [thefinn93/ansible-letsencrypt](https://github.com/thefinn93/ansible-letsencrypt) - An ansible role to generate TLS certificates and get them signed by Let's Encrypt
@@ -6867,6 +6878,14 @@
 
 ## Python 
 
+- [huggingface/knockknock](https://github.com/huggingface/knockknock) - 🚪✊Knock Knock: Get notified when your training ends with only two additional lines of code
+- [microsoft/Bringing-Old-Photos-Back-to-Life](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life) - Bringing Old Photo Back to Life (CVPR 2020 oral)
+- [WZMIAOMIAO/deep-learning-for-image-processing](https://github.com/WZMIAOMIAO/deep-learning-for-image-processing) - deep learning for image processing including classification and object-detection etc.
+- [owid/covid-19-data](https://github.com/owid/covid-19-data) - Data on COVID-19 (coronavirus) cases, deaths, hospitalizations, tests • All countries • Updated daily by Our World in Data
+- [Hari-Nagarajan/fairgame](https://github.com/Hari-Nagarajan/fairgame) - Tool to help us buy hard to find items.
+- [lucidrains/big-sleep](https://github.com/lucidrains/big-sleep) - A simple command line tool for text to image generation, using OpenAI's CLIP and a BigGAN
+- [yaml/pyyaml](https://github.com/yaml/pyyaml) - Canonical source repository for PyYAML
+- [divelab/DIG](https://github.com/divelab/DIG) - A library for graph deep learning research
 - [EleutherAI/gpt-neo](https://github.com/EleutherAI/gpt-neo) - An implementation of model parallel GPT2& GPT3-like models, with the ability to scale up to full GPT3 sizes (and possibly more!), using the mesh-tensorflow library.
 - [pfnet/pysen](https://github.com/pfnet/pysen) - Python linting made easy. Also a casual yet honorific way to address individuals who have entered an organization prior to you.
 - [alan-turing-institute/sktime](https://github.com/alan-turing-institute/sktime) - A unified framework for machine learning with time series
@@ -6899,7 +6918,7 @@
 - [PaddlePaddle/PaddleGAN](https://github.com/PaddlePaddle/PaddleGAN) - PaddlePaddle GAN library, including lots of interesting applications like First-Order motion transfer,  wav2lip, picture repair, image editing, photo2cartoon, image style transfer, and so on.
 - [google/BIG-bench](https://github.com/google/BIG-bench) - Beyond the Imitation Game collaborative benchmark for enormous language models
 - [facebookresearch/fairscale](https://github.com/facebookresearch/fairscale) - PyTorch extensions for high performance and large scale training.
-- [hyunwoongko/openchat](https://github.com/hyunwoongko/openchat) - Opensource chatting framework for generative models
+- [hyunwoongko/openchat](https://github.com/hyunwoongko/openchat) - Easy to use opensource chatting framework via neural networks
 - [dorarad/gansformer](https://github.com/dorarad/gansformer) - Generative Adversarial Transformers
 - [wandb/client](https://github.com/wandb/client) - 🔥 A tool for visualizing and tracking your machine learning experiments. This repo contains the CLI and Python API.
 - [xingyizhou/UniDet](https://github.com/xingyizhou/UniDet) - Object detection on multiple datasets with an automatically learned unified label space.
@@ -7252,7 +7271,7 @@
 - [YatingMusic/remi](https://github.com/YatingMusic/remi) - "Pop Music Transformer: Beat-based Modeling and Generation of Expressive Pop Piano Compositions", ACM Multimedia 2020
 - [thu-ml/tianshou](https://github.com/thu-ml/tianshou) - An elegant PyTorch deep reinforcement learning platform.
 - [facebookresearch/pycls](https://github.com/facebookresearch/pycls) - Codebase for Image Classification Research, written in PyTorch.
-- [PaddlePaddle/PaddleHub](https://github.com/PaddlePaddle/PaddleHub) - Awesome pre-trained models toolkit based on PaddlePaddle.（270+ models including Image, Text, Audio and Video with Easy Inference & Serving deployment)
+- [PaddlePaddle/PaddleHub](https://github.com/PaddlePaddle/PaddleHub) - Awesome pre-trained models toolkit based on PaddlePaddle.（300+ models including Image, Text, Audio and Video with Easy Inference & Serving deployment)
 - [ihmeuw-msca/CurveFit](https://github.com/ihmeuw-msca/CurveFit) - Generic curve fitting package with nonlinear mixed effects model
 - [allenai/aristo-mini](https://github.com/allenai/aristo-mini) - Aristo mini is a light-weight question answering system that can quickly evaluate Aristo science questions with an evaluation web server and the provided baseline solvers.
 - [microsoft/Microsoft-Rocketbox](https://github.com/microsoft/Microsoft-Rocketbox) - Microsoft Rocketbox is now available with MIT license! The library of 115 rigged avatars offers flexibility, enabling the easy use of facial animations across characters and the mixing and matching of texture elements.
@@ -8078,7 +8097,6 @@
 - [svishnu88/TGS-SaltNet](https://github.com/svishnu88/TGS-SaltNet) - Kaggle | 21st place solution for TGS Salt Identification Challenge
 - [fossasia/meilix](https://github.com/fossasia/meilix) - Beautiful Linux System https://meilix.org | APT Repo: http://meilix.fossasia.org
 - [modin-project/modin](https://github.com/modin-project/modin) - Modin: Speed up your Pandas workflows by changing a single line of code
-- [deeppomf/DeepCreamPy](https://github.com/deeppomf/DeepCreamPy) - Decensoring Hentai with Deep Neural Networks
 - [Tencent/Metis](https://github.com/Tencent/Metis) - Metis is a learnware platform in the field of AIOps.
 - [r0oth3x49/udemy-dl](https://github.com/r0oth3x49/udemy-dl) - A cross-platform python based utility to download courses from udemy for personal offline use.
 - [SummitKwan/transparent_latent_gan](https://github.com/SummitKwan/transparent_latent_gan) - Use supervised learning to illuminate the latent space of GAN for controlled generation and edit
@@ -8219,7 +8237,7 @@
 - [OCA/apps-store](https://github.com/OCA/apps-store) - OCA Apps store module repository
 - [mocnik-science/osm-python-tools](https://github.com/mocnik-science/osm-python-tools) - A library to access OpenStreetMap related services
 - [microsoft/human-pose-estimation.pytorch](https://github.com/microsoft/human-pose-estimation.pytorch) - The project is an official implement of our ECCV2018 paper  "Simple Baselines for Human Pose Estimation and Tracking(https://arxiv.org/abs/1804.06208)"
-- [iodide-project/pyodide](https://github.com/iodide-project/pyodide) - Python with the scientific stack, compiled to WebAssembly.
+- [pyodide/pyodide](https://github.com/pyodide/pyodide) - Python with the scientific stack, compiled to WebAssembly.
 - [SystemsApproach/book](https://github.com/SystemsApproach/book) - Computer Networks: A Systems Approach -- Textbook
 - [acysos/odoo-addons](https://github.com/acysos/odoo-addons) - Addons modules for Odoo
 - [L0SG/relational-rnn-pytorch](https://github.com/L0SG/relational-rnn-pytorch) - An implementation of DeepMind's Relational Recurrent Neural Networks in PyTorch.
@@ -10521,7 +10539,7 @@
 - [rhiever/datacleaner](https://github.com/rhiever/datacleaner) - A Python tool that automatically cleans data sets and readies them for analysis.
 - [UnkL4b/GitMiner](https://github.com/UnkL4b/GitMiner) - Tool for advanced mining for content on Github
 - [awentzonline/image-analogies](https://github.com/awentzonline/image-analogies) - Generate image analogies using neural matching and blending.
-- [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - Consolidating and extending hosts files from several well-curated sources. You can optionally pick extensions to block pornography, social media, and other categories.
+- [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 - [guerremdq/ansible-graphite-events](https://github.com/guerremdq/ansible-graphite-events) - Send events to graphite using ansible
 - [qznc/later](https://github.com/qznc/later) - Command-line issue tracker for a lazy developer
 - [rayokota/generator-angular-flask](https://github.com/rayokota/generator-angular-flask) - Yeoman generator for AngularJS + Flask
@@ -11027,6 +11045,7 @@
 - [scikit-image/scikit-image](https://github.com/scikit-image/scikit-image) - Image processing in Python
 - [atpy/atpy](https://github.com/atpy/atpy) - Astronomical Tables in Python
 - [ChrisBeaumont/joblog](https://github.com/ChrisBeaumont/joblog) - Job management for scikit learn classifiers
+- [scipy-conference/scipy_proceedings](https://github.com/scipy-conference/scipy_proceedings) - Tools used to generate the SciPy conference proceedings
 - [astrofrog/wcsaxes](https://github.com/astrofrog/wcsaxes) - wcsaxes has been merged into astropy!
 - [ChrisBeaumont/mplfacet](https://github.com/ChrisBeaumont/mplfacet) - Faceted plots in matplotlib. Because nature abhors boilerplate code.
 - [dendrograms/astrodendro](https://github.com/dendrograms/astrodendro) - Generate a dendrogram from a dataset
@@ -11082,7 +11101,7 @@
 - [ryankiros/neural-storyteller](https://github.com/ryankiros/neural-storyteller) - A recurrent neural network for generating little stories about images
 - [Mindwerks/worldengine](https://github.com/Mindwerks/worldengine) - World generator using simulation of plates, rain shadow, erosion, etc.
 - [lyft/confidant](https://github.com/lyft/confidant) - Confidant: your secret keeper. https://lyft.github.io/confidant
-- [dabeaz/curio](https://github.com/dabeaz/curio) - Curio - "with 0.022% adoption of asyncio."
+- [dabeaz/curio](https://github.com/dabeaz/curio) - What are you awaiting for?
 - [daviddrysdale/python-phonenumbers](https://github.com/daviddrysdale/python-phonenumbers) - Python port of Google's libphonenumber
 - [harshasrinivas/cli-github](https://github.com/harshasrinivas/cli-github) - Github within the CLI :computer:
 - [jmcarp/nplusone](https://github.com/jmcarp/nplusone) - Auto-detecting the n+1 queries problem in Python
@@ -13269,7 +13288,6 @@
 - [csgillespie/efficientR](https://github.com/csgillespie/efficientR) - Efficient R programming: a book
 - [ourresearch/depsy-research](https://github.com/ourresearch/depsy-research) - Documentation and research output for Depsy (see https://github.com/impactstory/depsy for source of Depsy itself)
 - [davidwhogg/DataAnalysisRecipes](https://github.com/davidwhogg/DataAnalysisRecipes) - chapters of a book Hogg will never write
-- [scipy-conference/scipy_proceedings](https://github.com/scipy-conference/scipy_proceedings) - Tools used to generate the SciPy conference proceedings
 - [lintool/MapReduceAlgorithms](https://github.com/lintool/MapReduceAlgorithms) - Data-Intensive Text Processing with MapReduce
 - [s9w/preTeX](https://github.com/s9w/preTeX) - LaTeX preprocessor to simplify math typesetting
 - [bamos/latex-templates](https://github.com/bamos/latex-templates) - Website for personal collection and previewing of LaTeX templates. Presented with Python/Jinja2.
@@ -13282,6 +13300,7 @@
 
 ## TypeScript 
 
+- [benawad/dogehouse](https://github.com/benawad/dogehouse) - Taking voice conversations to the moon 🚀
 - [jevakallio/git-notify](https://github.com/jevakallio/git-notify) - 🙉 📣 Communicate important updates to your team via git commit messages
 - [jevakallio/vscode-live-frame](https://github.com/jevakallio/vscode-live-frame) - Run your web app inside VS Code
 - [andfanilo/streamlit-drawable-canvas](https://github.com/andfanilo/streamlit-drawable-canvas) - Do you like Quick, Draw? Well what if you could train/predict doodles drawn inside Streamlit? Also draws lines, circles and boxes over background images for annotation.
@@ -13538,6 +13557,7 @@
 - [facebook/jest](https://github.com/facebook/jest) - Delightful JavaScript Testing.
 - [hustcc/timeago.js](https://github.com/hustcc/timeago.js) - :clock8: :hourglass: timeago.js is a tiny(2.0 kb) library used to format date with `*** time ago` statement.
 - [react-native-elements/react-native-elements](https://github.com/react-native-elements/react-native-elements) - Cross-Platform React Native UI Toolkit
+- [sqlectron/sqlectron-gui](https://github.com/sqlectron/sqlectron-gui) - A simple and lightweight SQL client desktop with cross database and platform support.
 - [googlemaps/google-maps-services-js](https://github.com/googlemaps/google-maps-services-js) - Node.js client library for Google Maps API Web Services
 - [recharts/recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
 - [phosphorjs/phosphor](https://github.com/phosphorjs/phosphor) - The PhosphorJS Library
@@ -13603,7 +13623,7 @@
 - [cdqa-suite/cdQA-annotator](https://github.com/cdqa-suite/cdQA-annotator) - ⛔ [NOT MAINTAINED] A web-based annotator for closed-domain question answering datasets with SQuAD format.
 - [emqx/MQTTX](https://github.com/emqx/MQTTX) - MQTT X - Elegant MQTT 5.0 Client Tool of Cross-platform
 - [tiangolo/flask-frontend-docker](https://github.com/tiangolo/flask-frontend-docker) - Minimal project generator with a Flask backend, a modern frontend (Vue, React or Angular), a Traefik load balancer with HTTPS, all based on Docker.
-- [recoluan/vuepress-theme-reco](https://github.com/recoluan/vuepress-theme-reco) - 💥 A simple and beautiful vuepress Blog & Doc theme.
+- [vuepress-reco/vuepress-theme-reco](https://github.com/vuepress-reco/vuepress-theme-reco) - 💥 A simple and beautiful vuepress Blog & Doc theme.
 - [CareyWang/sub-web](https://github.com/CareyWang/sub-web) - 
 - [zmts/beauty-vuejs-boilerplate](https://github.com/zmts/beauty-vuejs-boilerplate) - ❤️ Real world base Vue.js app. Access/refresh tokens auth, api services, http client, vuex modules
 - [oslokommune/hackathon-app-template](https://github.com/oslokommune/hackathon-app-template) - 
@@ -13624,7 +13644,7 @@
 - [antonreshetov/massCode](https://github.com/antonreshetov/massCode) - A free and open source code snippets manager for developers.
 - [chronotruck/vue-ctk-date-time-picker](https://github.com/chronotruck/vue-ctk-date-time-picker) - VueJS component to select dates & time, including a range mode
 - [mudin/vue-indoor](https://github.com/mudin/vue-indoor) - VueJS wrapper for indoorjs
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem used by 180k+ developers. https://hoppscotch.io
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem used by 200k+ developers. https://hoppscotch.io
 - [WeBankFinTech/Scriptis](https://github.com/WeBankFinTech/Scriptis) - Scriptis is for interactive data analysis with script development(SQL, Pyspark, HiveQL), task submission(Spark, Hive), UDF, function, resource management and intelligent diagnosis.
 - [tevora-threat/Scout](https://github.com/tevora-threat/Scout) - Surveillance Detection Scout: Your Lookout on Autopilot
 - [Arattian/DynamoDb-GUI-Client](https://github.com/Arattian/DynamoDb-GUI-Client) - DynamoDb GUI Client
