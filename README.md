@@ -2027,7 +2027,7 @@
 - [aelsabbahy/goss](https://github.com/aelsabbahy/goss) - Quick and Easy server testing/validation
 - [myntra/pipeline](https://github.com/myntra/pipeline) - Pipeline is a package to build multi-staged concurrent workflows with a centralized logging output.
 - [imroc/req](https://github.com/imroc/req) - a golang http request library for humans
-- [txthinking/brook](https://github.com/txthinking/brook) - Brook is a cross-platform strong encryption and not detectable proxy. Zero-Configuration.
+- [txthinking/brook](https://github.com/txthinking/brook) - Brook is a cross-platform strong encryption and not detectable proxy. Zero-Configuration. Brook 是一个跨平台的强加密无特征的代理软件. 零配置.
 - [gokrazy/gokrazy](https://github.com/gokrazy/gokrazy) - a pure-Go userland for your Raspberry Pi 3 or 4 appliances
 - [ory/ladon](https://github.com/ory/ladon) - A SDK for access control policies: authorization for the microservice and IoT age. Inspired by AWS IAM policies. Written for Go.
 - [fd0/machma](https://github.com/fd0/machma) - Easy parallel execution of commands with live feedback
@@ -6661,6 +6661,7 @@
 - [chassing/linux-sysadmin-interview-questions](https://github.com/chassing/linux-sysadmin-interview-questions) - Collection of Linux Sysadmin/DevOps interview questions
 - [uhub/awesome-c](https://github.com/uhub/awesome-c) - A curated list of awesome C frameworks, libraries and software.
 - [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) - 🎉 A curated list of awesome things related to Vue.js
+- [WICG/webusb](https://github.com/WICG/webusb) - Connecting hardware to the web.
 - [joshbuchea/HEAD](https://github.com/joshbuchea/HEAD) - 🗿 A list of everything that *could* go in the head of your document
 - [Junnplus/awesome-python-books](https://github.com/Junnplus/awesome-python-books) - :books: Directory of Python books
 - [xgrommx/awesome-redux](https://github.com/xgrommx/awesome-redux) - Awesome list of Redux examples and middlewares
@@ -6878,6 +6879,7 @@
 
 ## Python 
 
+- [nsu-ai/russian_g2p](https://github.com/nsu-ai/russian_g2p) - Accentor and transcriptor for Russian language
 - [huggingface/knockknock](https://github.com/huggingface/knockknock) - 🚪✊Knock Knock: Get notified when your training ends with only two additional lines of code
 - [microsoft/Bringing-Old-Photos-Back-to-Life](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life) - Bringing Old Photo Back to Life (CVPR 2020 oral)
 - [WZMIAOMIAO/deep-learning-for-image-processing](https://github.com/WZMIAOMIAO/deep-learning-for-image-processing) - deep learning for image processing including classification and object-detection etc.
@@ -10102,7 +10104,7 @@
 - [mzucker/page_dewarp](https://github.com/mzucker/page_dewarp) - Text page dewarping using a "cubic sheet" model
 - [nextma/addons_nextma](https://github.com/nextma/addons_nextma) - Odoo Customs Addons and tools from NEXTMA, HORIYASOFT
 - [thcipriani/stdgif](https://github.com/thcipriani/stdgif) - Standard output for gifs
-- [sqreen/PyMiniRacer](https://github.com/sqreen/PyMiniRacer) - Python Mini Racer
+- [sqreen/PyMiniRacer](https://github.com/sqreen/PyMiniRacer) - PyMiniRacer
 - [pytest-dev/pytest-qt](https://github.com/pytest-dev/pytest-qt) - pytest plugin for Qt (PyQt4, PyQt5 and PySide) application testing
 - [ayush1997/visualize_ML](https://github.com/ayush1997/visualize_ML) - Python package for consolidated and extensive Univariate,Bivariate Data Analysis and Visualization catering to both categorical and continuous datasets.
 - [kirankoduru/arachne](https://github.com/kirankoduru/arachne) - A flask API for running your scrapy spiders
@@ -12418,7 +12420,6 @@
 - [dreikanter/pyke](https://github.com/dreikanter/pyke) - Python make tool based on function annotations (PEP 3107)
 - [mattdennewitz/hash-ring-ctypes](https://github.com/mattdennewitz/hash-ring-ctypes) - Fast ctypes-based wrapper around libhashring
 - [realgam3/pymultitor](https://github.com/realgam3/pymultitor) - PyMultitor - Python Multi Threaded Tor Proxy
-- [mutantturkey/PyFeast](https://github.com/mutantturkey/PyFeast) - A Python interface to the Feature Selection Toolkit, contains JMI, BetaGamma, CMIM, CondMI, DISR, ICAP, and mRMR
 - [pypa/twine](https://github.com/pypa/twine) - Utilities for interacting with PyPI
 - [heroku-python/flask-sockets](https://github.com/heroku-python/flask-sockets) - Elegant WebSockets for your Flask apps.
 - [deis/deis](https://github.com/deis/deis) - Deis v1, the CoreOS and Docker PaaS: Your PaaS. Your Rules.
@@ -13185,7 +13186,6 @@
 - [facebookarchive/caffe2](https://github.com/facebookarchive/caffe2) - Caffe2 is a lightweight, modular, and scalable deep learning framework.
 - [StreisandEffect/streisand](https://github.com/StreisandEffect/streisand) - Streisand sets up a new server running your choice of WireGuard, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, or a Tor bridge. It also generates custom instructions for all of these services. At the end of the run you are given an HTML file with instructions that can be shared with friends, family members, and fellow activists.
 - [guysoft/FullPageOS](https://github.com/guysoft/FullPageOS) - A raspberrypi distro to display a full page browser on boot
-- [WICG/webusb](https://github.com/WICG/webusb) - Connecting hardware to the web.
 - [dmichel1/ansible-graphite](https://github.com/dmichel1/ansible-graphite) - Use Ansible to install and configure Graphite
 - [nicholsn/ansible-role-miniconda](https://github.com/nicholsn/ansible-role-miniconda) - Ansilbe role to install the anaconda python distribution
 - [zenoamaro/ansible-supervisord](https://github.com/zenoamaro/ansible-supervisord) - An Ansible role for deploying and configuring Supervisor on unix hosts.
@@ -13891,7 +13891,7 @@
 - [xaksis/vue-good-table](https://github.com/xaksis/vue-good-table) - An easy to use powerful data table for vuejs with advanced customizations including sorting, column filtering, pagination, grouping etc
 - [facebesidewyj/takeaway_demo](https://github.com/facebesidewyj/takeaway_demo) - :fire:A demo based on Vue.js, just for learning.
 - [myliang/fish-ui](https://github.com/myliang/fish-ui) - A Vue.js 2.0 UI Toolkit for Web
-- [bmfe/eros](https://github.com/bmfe/eros) - 📱一套 Vue 代码，两端原生应用 ，或许可以叫我 weex-native。【已停止维护】
+- [bmfe/eros](https://github.com/bmfe/eros) - 📱 一套 Vue 代码，两端原生应用 ，或许可以叫我 weex-native。
 - [vuetwo/vuetron](https://github.com/vuetwo/vuetron) - A tool for testing and debugging your Vue + Vuex applications. 是一個可以幫助您 Vue.js 的項目測試及偵錯的工具, 也同時支持 Vuex及 Vue-Router.
 - [ratiw/vuetable-2](https://github.com/ratiw/vuetable-2) - data table simplify! -- datatable component for Vue 2.x. See documentation at
 - [egoist/aimer](https://github.com/egoist/aimer) - The UI Development Framework
