@@ -53,7 +53,6 @@
   - [Lua](#lua)
   - [M4](#m4)
   - [MATLAB](#matlab)
-  - [MLIR](#mlir)
   - [Makefile](#makefile)
   - [Markdown](#markdown)
   - [Matlab](#matlab)
@@ -505,6 +504,7 @@
 - [borglab/gtsam](https://github.com/borglab/gtsam) - GTSAM is a library of C++ classes that implement smoothing and mapping (SAM) in robotics and vision, using factor graphs and Bayes networks as the underlying computing paradigm rather than sparse matrices.
 - [cyang-kth/fmm](https://github.com/cyang-kth/fmm) - Fast map matching, an open source framework in C++
 - [neoml-lib/neoml](https://github.com/neoml-lib/neoml) - Machine learning framework for both deep learning and traditional algorithms
+- [tensorflow/runtime](https://github.com/tensorflow/runtime) - A performant and modular runtime for TensorFlow
 - [jupyter-xeus/xeus-python](https://github.com/jupyter-xeus/xeus-python) - Jupyter kernel for the Python programming language
 - [jupyter-xeus/xeus](https://github.com/jupyter-xeus/xeus) - Implementation of the Jupyter kernel protocol in C++
 - [s3fs-fuse/s3fs-fuse](https://github.com/s3fs-fuse/s3fs-fuse) - FUSE-based file system backed by Amazon S3
@@ -857,7 +857,7 @@
 - [leegao/float-hacks](https://github.com/leegao/float-hacks) - Floating Point Hacks
 - [baidu/tera](https://github.com/baidu/tera) - An Internet-Scale Database.
 - [phaistos-networks/TANK](https://github.com/phaistos-networks/TANK) - A very high performance distributed log service
-- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 85 supported car makes and models.
+- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 100 supported car makes and models.
 - [NVIDIA/nccl](https://github.com/NVIDIA/nccl) - Optimized primitives for collective multi-GPU communication
 - [weiliu89/caffe](https://github.com/weiliu89/caffe) - Caffe: a fast open framework for deep learning.
 - [nadavbh12/Retro-Learning-Environment](https://github.com/nadavbh12/Retro-Learning-Environment) - The Retro Learning Environment (RLE) -- a learning framework for AI
@@ -2113,7 +2113,7 @@
 - [cloud66-oss/habitus](https://github.com/cloud66-oss/habitus) - A build flow tool for Docker.
 - [labstack/armor](https://github.com/labstack/armor) - Uncomplicated, modern HTTP server
 - [future-architect/vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices
-- [gravitational/teleport](https://github.com/gravitational/teleport) - Certificate authority and Identity aware proxy for SSH, Kubernetes, web applications, and databases
+- [gravitational/teleport](https://github.com/gravitational/teleport) - Certificate authority and access plane for SSH, Kubernetes, web applications, and databases
 - [alexflint/gallium](https://github.com/alexflint/gallium) - Build desktop applications in Go and HTML.
 - [krotik/eliasdb](https://github.com/krotik/eliasdb) - EliasDB a graph-based database.
 - [davecheney/httpstat](https://github.com/davecheney/httpstat) - It's like curl -v, with colours.
@@ -4306,7 +4306,6 @@
 - [saghul/CallRoulette](https://github.com/saghul/CallRoulette) - A WebRTC demo using Python (asyncio + aiohttp) as the backend
 - [prahladyeri/VisualAlchemist](https://github.com/prahladyeri/VisualAlchemist) - Open source database diagramming and automation tool
 - [realpython/flask-angular-auth](https://github.com/realpython/flask-angular-auth) - Handling User Authentication With Angular and Flask
-- [infobyte/faraday](https://github.com/infobyte/faraday) - Collaborative Penetration Test and Vulnerability Management Platform
 - [yhat/rodeo](https://github.com/yhat/rodeo) - A data science IDE for Python
 - [better/crossfader](https://github.com/better/crossfader) - Autoencoders to find structure in arbitrary datasets
 - [adobe/brackets](https://github.com/adobe/brackets) - An open source code editor for the web, written in JavaScript, HTML and CSS.
@@ -4424,6 +4423,7 @@
 - [dialogue-evaluation/SemSketches](https://github.com/dialogue-evaluation/SemSketches) - SemSketches 2021
 - [natasha/corus](https://github.com/natasha/corus) - Links to Russian corpora + Python functions for loading and parsing
 - [MITESHPUTHRANNEU/Speech-Emotion-Analyzer](https://github.com/MITESHPUTHRANNEU/Speech-Emotion-Analyzer) - The neural network model is capable of detecting five different male/female emotions from audio speeches. (Deep Learning, NLP, Python)
+- [google/BIG-bench](https://github.com/google/BIG-bench) - Beyond the Imitation Game collaborative benchmark for enormous language models
 - [elmoallistair/google-it-automation](https://github.com/elmoallistair/google-it-automation) - google it automation with python professional certificate
 - [ipazc/mtcnn](https://github.com/ipazc/mtcnn) - MTCNN face detection implementation for TensorFlow, as a PIP package.
 - [Gladiator07/Harvestify](https://github.com/Gladiator07/Harvestify) - A machine learning based website that recommends the best crop to grow, fertilizers to use, and the diseases caught by your crops.
@@ -5722,10 +5722,6 @@
 - [TimChinenov/FarmPlotter](https://github.com/TimChinenov/FarmPlotter) - The following is a Matlab script that uses image processing to determine the number of farm plots in an image and print their area in pixels
 - [TadasBaltrusaitis/OpenFace](https://github.com/TadasBaltrusaitis/OpenFace) - OpenFace – a state-of-the art tool intended for facial landmark detection, head pose estimation, facial action unit recognition, and eye-gaze estimation.
 
-## MLIR 
-
-- [tensorflow/runtime](https://github.com/tensorflow/runtime) - A performant and modular runtime for TensorFlow
-
 ## Makefile 
 
 - [amaysim-au/docker-serverless](https://github.com/amaysim-au/docker-serverless) - Docker image containing NodeJS, Serverless Framework and Yarn.
@@ -5958,7 +5954,7 @@
 - [deepmind/tvt](https://github.com/deepmind/tvt) - 
 - [shashank88/system_design](https://github.com/shashank88/system_design) - Preparation links and resources for system design questions
 - [zero-to-mastery/start-here-guidelines](https://github.com/zero-to-mastery/start-here-guidelines) - Lets Git started in the world of opensource, starting in the Zero To Mastery's opensource playground. Especially designed for education and practical experience purposes.
-- [oam-dev/spec](https://github.com/oam-dev/spec) - The Open Application Model specification
+- [oam-dev/spec](https://github.com/oam-dev/spec) - The Open Application Model (OAM)
 - [Niraj-Lunavat/Artificial-Intelligence](https://github.com/Niraj-Lunavat/Artificial-Intelligence) - Awesome AI Learning with +100 AI Cheat-Sheets, Free online Books, Top Courses, Best Videos and Lectures, Papers, Tutorials, +99 Researchers, Premium Websites, +121 Datasets, Conferences, Frameworks, Tools
 - [palash25/best-practices-checklist](https://github.com/palash25/best-practices-checklist) - A list of awesome idiomatic code resources. Rust:crab:, Go, Ruby:gem:, Pony :horse:, Ocaml :camel:, Erlang and more
 - [yizhen20133868/MIT-Linear-Algebra-Notes](https://github.com/yizhen20133868/MIT-Linear-Algebra-Notes) - Notes for MIT-Linear-Algebra
@@ -6918,7 +6914,6 @@
 - [PeterL1n/BackgroundMattingV2](https://github.com/PeterL1n/BackgroundMattingV2) - Real-Time High-Resolution Background Matting
 - [POSTECH-CVLab/PyTorch-StudioGAN](https://github.com/POSTECH-CVLab/PyTorch-StudioGAN) - StudioGAN is a Pytorch library providing implementations of representative Generative Adversarial Networks (GANs) for conditional/unconditional image generation.
 - [PaddlePaddle/PaddleGAN](https://github.com/PaddlePaddle/PaddleGAN) - PaddlePaddle GAN library, including lots of interesting applications like First-Order motion transfer,  wav2lip, picture repair, image editing, photo2cartoon, image style transfer, and so on.
-- [google/BIG-bench](https://github.com/google/BIG-bench) - Beyond the Imitation Game collaborative benchmark for enormous language models
 - [facebookresearch/fairscale](https://github.com/facebookresearch/fairscale) - PyTorch extensions for high performance and large scale training.
 - [hyunwoongko/openchat](https://github.com/hyunwoongko/openchat) - Easy to use opensource chatting framework via neural networks
 - [dorarad/gansformer](https://github.com/dorarad/gansformer) - Generative Adversarial Transformers
@@ -10462,7 +10457,7 @@
 - [tweekmonster/tmux2html](https://github.com/tweekmonster/tmux2html) - :cat2: Render full tmux windows or individual panes as HTML
 - [dodger487/dplython](https://github.com/dodger487/dplython) - dplyr for python
 - [owocki/pytrader](https://github.com/owocki/pytrader) - cryptocurrency trading robot
-- [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs such as http://ipstack.com, http://fixer.io/, https://numverify.com/, etc. for use in software and web development.
+- [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [dparlevliet/rwrapper](https://github.com/dparlevliet/rwrapper) - A python wrapper class for RethinkDB
 - [JackStouffer/cookiecutter-Flask-Foundation](https://github.com/JackStouffer/cookiecutter-Flask-Foundation) - Cookiecutter fork of Flask Foundation
@@ -11338,6 +11333,7 @@
 - [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
 - [DrkSephy/django-hackathon-starter](https://github.com/DrkSephy/django-hackathon-starter) - A boilerplate for Django web applications
 - [NervanaSystems/neon](https://github.com/NervanaSystems/neon) - Intel® Nervana™ reference deep learning framework committed to best performance on all hardware
+- [infobyte/faraday](https://github.com/infobyte/faraday) - Collaborative Penetration Test and Vulnerability Management Platform
 - [Capgemini/Apollo](https://github.com/Capgemini/Apollo) - :rocket: An open-source platform for cloud native applications based on Apache Mesos and Docker.
 - [infoculture/ruhistorydata](https://github.com/infoculture/ruhistorydata) - Russian historical database from different sources / База российских исторических данных
 - [djmuhlestein/csv2ofx](https://github.com/djmuhlestein/csv2ofx) - Convert CSV files from Yodlee (or other sources) into OFX files for import into other financial software.
@@ -13026,6 +13022,7 @@
 
 - [combust/mleap](https://github.com/combust/mleap) - MLeap: Deploy ML Pipelines to Production
 - [JohnSnowLabs/spark-nlp](https://github.com/JohnSnowLabs/spark-nlp) - State of the Art Natural Language Processing
+- [polynote/polynote](https://github.com/polynote/polynote) - A better notebook for Scala (and more)
 - [vegas-viz/Vegas](https://github.com/vegas-viz/Vegas) - The missing MatPlotLib for Scala + Spark
 - [TheHive-Project/TheHive](https://github.com/TheHive-Project/TheHive) - TheHive: a Scalable, Open Source and Free Security Incident Response Platform
 - [delta-io/delta](https://github.com/delta-io/delta) - An open-source storage layer that brings scalable, ACID transactions to Apache Spark™ and big data workloads.
@@ -13328,7 +13325,6 @@
 - [lostintangent/gistpad](https://github.com/lostintangent/gistpad) - VS Code extension for managing and sharing code snippets, notes and interactive samples using GitHub Gists
 - [openvinotoolkit/cvat](https://github.com/openvinotoolkit/cvat) - Powerful and efficient Computer Vision Annotation Tool (CVAT)
 - [tensorflow/tfjs-models](https://github.com/tensorflow/tfjs-models) - Pretrained models for TensorFlow.js
-- [polynote/polynote](https://github.com/polynote/polynote) - A better notebook for Scala (and more)
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [vuejs/vue-next](https://github.com/vuejs/vue-next) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 - [AzureAD/microsoft-authentication-library-for-js](https://github.com/AzureAD/microsoft-authentication-library-for-js) - Microsoft Authentication Library (MSAL) for JS
