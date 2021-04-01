@@ -764,6 +764,7 @@
 - [openframeworks/openFrameworks](https://github.com/openframeworks/openFrameworks) - openFrameworks is a community-developed cross platform toolkit for creative coding in C++.
 - [yue/yue](https://github.com/yue/yue) - A library for creating native cross-platform GUI apps
 - [codilime/veles](https://github.com/codilime/veles) - Binary data analysis and visualization tool
+- [onnx/onnx](https://github.com/onnx/onnx) - Open standard for machine learning interoperability
 - [apache/incubator-doris](https://github.com/apache/incubator-doris) - Apache Doris (Incubating)
 - [versatica/mediasoup](https://github.com/versatica/mediasoup) - Cutting Edge WebRTC Video Conferencing
 - [numworks/epsilon](https://github.com/numworks/epsilon) - Modern graphing calculator operating system.
@@ -2422,6 +2423,7 @@
 - [hunzaboy/Light-Modal](https://github.com/hunzaboy/Light-Modal) - A new lightweight, powerful and easy to use CSS Modal.
 - [OWASP/Top10](https://github.com/OWASP/Top10) - Official OWASP Top 10 Document Repository
 - [LouisPlisso/pytomo](https://github.com/LouisPlisso/pytomo) - Youtube crawler to measure end-to-end video reception quality
+- [pocketjoso/penthouse](https://github.com/pocketjoso/penthouse) - Generate critical css for your web pages
 - [Nguyen17/Hacktoberfest-Sign-In](https://github.com/Nguyen17/Hacktoberfest-Sign-In) - Beginner friendly. Easy Pull Request! .
 - [mjavascript/mastering-modular-javascript](https://github.com/mjavascript/mastering-modular-javascript) - 📦 Module thinking, principles, design patterns and best practices.
 - [AliceWonderland/hacktoberfest](https://github.com/AliceWonderland/hacktoberfest) - Participate in Hacktoberfest by contributing to any Open Source project on GitHub! Here is a starter project for first time contributors. #hacktoberfest
@@ -3600,7 +3602,6 @@
 - [apache/cordova-plugin-geolocation](https://github.com/apache/cordova-plugin-geolocation) - Apache Cordova Plugin geolocation
 - [mengxiong10/vue2-datepicker](https://github.com/mengxiong10/vue2-datepicker) - A datepicker / datetimepicker component for Vue2
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
-- [pocketjoso/penthouse](https://github.com/pocketjoso/penthouse) - Generate critical css for your web pages
 - [ghosh/Micromodal](https://github.com/ghosh/Micromodal) - ⭕   Tiny javascript library for creating accessible modal dialogs
 - [GoogleChromeLabs/tasklets](https://github.com/GoogleChromeLabs/tasklets) - 
 - [SelectTransform/st.js](https://github.com/SelectTransform/st.js) - JSON template over JSON
@@ -6516,7 +6517,7 @@
 - [sbrugman/deep-learning-papers](https://github.com/sbrugman/deep-learning-papers) - Papers about deep learning ordered by task, date. Current state-of-the-art papers are labelled.
 - [dhamaniasad/HeadlessBrowsers](https://github.com/dhamaniasad/HeadlessBrowsers) - A list of (almost) all headless web browsers in existence
 - [AnthonyCalandra/modern-cpp-features](https://github.com/AnthonyCalandra/modern-cpp-features) - A cheatsheet of modern C++ language and library features.
-- [Templarian/MaterialDesign](https://github.com/Templarian/MaterialDesign) - ✒5600+ Material Design Icons from the Community
+- [Templarian/MaterialDesign](https://github.com/Templarian/MaterialDesign) - ✒5900+ Material Design Icons from the Community
 - [Miej/GoDeeper](https://github.com/Miej/GoDeeper) - 
 - [markerikson/react-redux-links](https://github.com/markerikson/react-redux-links) - Curated tutorial and resource links I've collected on React, Redux, ES6, and more
 - [sqreen/awesome-nodejs-projects](https://github.com/sqreen/awesome-nodejs-projects) - Curated list of awesome open-source applications made with Node.js
@@ -6867,7 +6868,6 @@
 
 - [facebookresearch/DeepFovea](https://github.com/facebookresearch/DeepFovea) - Neural Reconstruction for Foveated Rendering and Video Compression using Learned Statistics of Natural Videos
 - [alibaba/x-deeplearning](https://github.com/alibaba/x-deeplearning) - An industrial deep learning framework for high-dimension sparse data
-- [onnx/onnx](https://github.com/onnx/onnx) - Open standard for machine learning interoperability
 
 ## PureScript 
 
@@ -7113,7 +7113,7 @@
 - [aiXander/Realtime_PyAudio_FFT](https://github.com/aiXander/Realtime_PyAudio_FFT) - Realtime audio analysis in Python, using PyAudio and Numpy to extract and visualize FFT features from streaming audio.
 - [google-research/motion_imitation](https://github.com/google-research/motion_imitation) - Code accompanying the paper "Learning Agile Robotic Locomotion Skills by Imitating Animals"
 - [Ousret/kiss-headers](https://github.com/Ousret/kiss-headers) - 💡Python package for HTTP/1.1 style headers. Parse headers to objects. Most advanced available structure for http headers.
-- [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh
+- [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh.
 - [econchick/interrogate](https://github.com/econchick/interrogate) - Explain yourself! Interrogate a codebase for docstring coverage.
 - [r9y9/nnsvs](https://github.com/r9y9/nnsvs) - Neural network-based singing voice synthesis library for research
 - [pfnet/pytorch-pfn-extras](https://github.com/pfnet/pytorch-pfn-extras) - Supplementary components to accelerate research and development in PyTorch
@@ -7700,7 +7700,7 @@
 - [NVlabs/DG-Net](https://github.com/NVlabs/DG-Net) - Joint Discriminative and Generative Learning for Person Re-identification. CVPR'19 (Oral)
 - [open-deepnude/open-deepnude](https://github.com/open-deepnude/open-deepnude) - Open source reverse-engineered clone of DeepNude
 - [dry-python/bookshelf](https://github.com/dry-python/bookshelf) - Code examples to learn dry-python with Django at the project scale.
-- [proofit404/stories](https://github.com/proofit404/stories) - Define a user story in the business transaction DSL.
+- [proofit404/stories](https://github.com/proofit404/stories) - Service objects designed with OOP in mind.
 - [erayerdin/sos-django-template](https://github.com/erayerdin/sos-django-template) - A Django starter template that separates the settings to development and production environments, hence the name.
 - [facebookresearch/dlrm](https://github.com/facebookresearch/dlrm) - An implementation of a deep learning recommendation model (DLRM)
 - [Igoorx/PyRoyale](https://github.com/Igoorx/PyRoyale) - A open-source server emulator for Mario Royale browser game.
@@ -11098,7 +11098,7 @@
 - [ryankiros/neural-storyteller](https://github.com/ryankiros/neural-storyteller) - A recurrent neural network for generating little stories about images
 - [Mindwerks/worldengine](https://github.com/Mindwerks/worldengine) - World generator using simulation of plates, rain shadow, erosion, etc.
 - [lyft/confidant](https://github.com/lyft/confidant) - Confidant: your secret keeper. https://lyft.github.io/confidant
-- [dabeaz/curio](https://github.com/dabeaz/curio) - What are you awaiting for?
+- [dabeaz/curio](https://github.com/dabeaz/curio) - Get that harness ready and hold on tight--Curio is gonna take YOU for a walk.
 - [daviddrysdale/python-phonenumbers](https://github.com/daviddrysdale/python-phonenumbers) - Python port of Google's libphonenumber
 - [harshasrinivas/cli-github](https://github.com/harshasrinivas/cli-github) - Github within the CLI :computer:
 - [jmcarp/nplusone](https://github.com/jmcarp/nplusone) - Auto-detecting the n+1 queries problem in Python
@@ -11860,7 +11860,7 @@
 - [dropbox/pyxl](https://github.com/dropbox/pyxl) - A Python extension for writing structured and reusable inline HTML.
 - [kimmobrunfeldt/football-score-detector](https://github.com/kimmobrunfeldt/football-score-detector) - Detect table football score from camera image with machine vision
 - [mozilla-releng/redo](https://github.com/mozilla-releng/redo) - Utilities to retry Python callables
-- [spoqa/geofront](https://github.com/spoqa/geofront) - Simple SSH key management service
+- [geofront-auth/geofront](https://github.com/geofront-auth/geofront) - Simple SSH key management service
 - [hit9/skylark](https://github.com/hit9/skylark) - No longer maintained. A micro python orm for mysql and sqlite3.
 - [AliLozano/django-messages-extends](https://github.com/AliLozano/django-messages-extends) - A Django app for extends Django's messages framework (django.contrib.messages). framework, adds sticky messages and persistent messages and multistorage. This is a rebuild of django-persistent-messages.
 - [wrobstory/sticky](https://github.com/wrobstory/sticky) - IPython Notebook + D3
@@ -13640,7 +13640,7 @@
 - [antonreshetov/massCode](https://github.com/antonreshetov/massCode) - A free and open source code snippets manager for developers.
 - [chronotruck/vue-ctk-date-time-picker](https://github.com/chronotruck/vue-ctk-date-time-picker) - VueJS component to select dates & time, including a range mode
 - [mudin/vue-indoor](https://github.com/mudin/vue-indoor) - VueJS wrapper for indoorjs
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem used by 200k+ developers. https://hoppscotch.io
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem. https://hoppscotch.io
 - [WeBankFinTech/Scriptis](https://github.com/WeBankFinTech/Scriptis) - Scriptis is for interactive data analysis with script development(SQL, Pyspark, HiveQL), task submission(Spark, Hive), UDF, function, resource management and intelligent diagnosis.
 - [tevora-threat/Scout](https://github.com/tevora-threat/Scout) - Surveillance Detection Scout: Your Lookout on Autopilot
 - [Arattian/DynamoDb-GUI-Client](https://github.com/Arattian/DynamoDb-GUI-Client) - DynamoDb GUI Client
