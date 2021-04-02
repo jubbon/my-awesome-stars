@@ -611,7 +611,6 @@
 - [supertuxkart/stk-code](https://github.com/supertuxkart/stk-code) - The code base of supertuxkart
 - [EQ-Alpha/KeyDB](https://github.com/EQ-Alpha/KeyDB) - A Multithreaded Fork of Redis
 - [fede-vaccaro/TerrainEngine-OpenGL](https://github.com/fede-vaccaro/TerrainEngine-OpenGL) - An OpenGL 4 and C++ program which renders a procedural scene.
-- [whai362/PSENet](https://github.com/whai362/PSENet) - 
 - [ShiqiYu/libfacedetection](https://github.com/ShiqiYu/libfacedetection) - An open source library for face detection in images. The face detection speed can reach 1000FPS.
 - [chanyn/3Dpose_ssl](https://github.com/chanyn/3Dpose_ssl) - 3D Human Pose Machines with Self-supervised Learning
 - [NVlabs/intrinsic3d](https://github.com/NVlabs/intrinsic3d) - Intrinsic3D - High-Quality 3D Reconstruction by Joint Appearance and Geometry Optimization with Spatially-Varying Lighting (ICCV 2017)
@@ -1767,7 +1766,7 @@
 - [centrifugal/centrifugo](https://github.com/centrifugal/centrifugo) - Scalable real-time messaging server in language-agnostic way
 - [heroiclabs/nakama](https://github.com/heroiclabs/nakama) - Distributed server for social and realtime games and apps.
 - [schollz/find3](https://github.com/schollz/find3) - High-precision indoor positioning framework, version 3.
-- [jenkins-x/jx](https://github.com/jenkins-x/jx) - Jenkins X provides automated CI+CD for Kubernetes with Preview Environments on Pull Requests using Tekton, Knative, Lighthouse, Skaffold and Helm
+- [jenkins-x/jx](https://github.com/jenkins-x/jx) - Jenkins X provides automated CI+CD for Kubernetes with Preview Environments on Pull Requests using Cloud Native pipelines from Tekton
 - [mlabouardy/komiser](https://github.com/mlabouardy/komiser) - :cloud: Cloud Environment Inspector 👮:lock: :moneybag:
 - [Rican7/define](https://github.com/Rican7/define) - A command-line dictionary (thesaurus) app, with access to multiple sources, written in Go.
 - [sgreben/jp](https://github.com/sgreben/jp) - dead simple terminal plots from JSON data. single binary, no dependencies. linux, osx, windows.
@@ -2363,6 +2362,7 @@
 - [jadjoubran/webdash](https://github.com/jadjoubran/webdash) - 🔥 Orchestrate your web project with Webdash the customizable web dashboard
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 - [WICG/import-maps](https://github.com/WICG/import-maps) - How to control the behavior of JavaScript imports
+- [AirtestProject/Airtest](https://github.com/AirtestProject/Airtest) - UI Automation Framework for Games and Apps
 - [udacity/frontend-nanodegree-styleguide](https://github.com/udacity/frontend-nanodegree-styleguide) - Official FEND style guides
 - [govau/design-system-components](https://github.com/govau/design-system-components) - 🛠 Component code and tests for the Australian Government design system
 - [ajinabraham/Droid-Application-Fuzz-Framework](https://github.com/ajinabraham/Droid-Application-Fuzz-Framework) - Android application fuzzing framework with fuzzers and crash monitor.
@@ -4442,7 +4442,7 @@
 - [MLWhiz/data_science_blogs](https://github.com/MLWhiz/data_science_blogs) - A repository to keep track of all the code that I end up writing for my blog posts.
 - [yitu-opensource/T2T-ViT](https://github.com/yitu-opensource/T2T-ViT) - 
 - [Pzoom522/HistSumm](https://github.com/Pzoom522/HistSumm) - Code and data for "Summarising Historical Text in Modern Languages" (EACL 2021)
-- [snakers4/silero-models](https://github.com/snakers4/silero-models) - Silero Models: pre-trained STT models and benchmarks made embarrassingly simple
+- [snakers4/silero-models](https://github.com/snakers4/silero-models) - Silero Models: pre-trained speech-to-text (STT) and text-to-speech models (TTS) / benchmarks made embarrassingly simple
 - [grib0ed0v/kaldi-for-russian](https://github.com/grib0ed0v/kaldi-for-russian) - 
 - [yh1008/speech-to-text](https://github.com/yh1008/speech-to-text) - mixlingual speech recognition system; hybrid (GMM+NNet) model; Kaldi + Keras
 - [dwromero/wavelet_networks](https://github.com/dwromero/wavelet_networks) - Code repository of the paper "Wavelet Networks: Scale Equivariant Learning From Raw Waveforms"  https://arxiv.org/abs/2006.05259
@@ -4618,6 +4618,7 @@
 - [hamelsmu/Seq2Seq_Tutorial](https://github.com/hamelsmu/Seq2Seq_Tutorial) - Code For Medium Article "How To Create Data Products That Are Magical Using Sequence-to-Sequence Models"
 - [tgjeon/Keras-Tutorials](https://github.com/tgjeon/Keras-Tutorials) - Simple tutorials using Keras Framework
 - [ypwhs/dogs_vs_cats](https://github.com/ypwhs/dogs_vs_cats) - 猫狗大战
+- [TannerGilbert/Google-Coral-Edge-TPU](https://github.com/TannerGilbert/Google-Coral-Edge-TPU) - Use the Google Coral USB Accelerator for deep learning.
 - [TannerGilbert/Tensorflow-Object-Detection-API-Train-Model](https://github.com/TannerGilbert/Tensorflow-Object-Detection-API-Train-Model) - Train a object detection model with the Tensorflow Object Detection API and Tensorflow 2.
 - [TannerGilbert/Object-Detection-and-Image-Segmentation-with-Detectron2](https://github.com/TannerGilbert/Object-Detection-and-Image-Segmentation-with-Detectron2) - Object Detection and Image Segmentation with Detectron2
 - [TannerGilbert/Tutorials](https://github.com/TannerGilbert/Tutorials) - Code for some of my tutorials
@@ -5741,6 +5742,7 @@
 ## Markdown 
 
 - [walkccc/CLRS](https://github.com/walkccc/CLRS) - 📚 Solutions to Introduction to Algorithms Third Edition
+- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 
 ## Matlab 
 
@@ -6427,7 +6429,7 @@
 - [gu-app-club/lets-learn-jobs](https://github.com/gu-app-club/lets-learn-jobs) - The open archive of GU-MAD's advice for CS majors
 - [jkup/javascript-interview](https://github.com/jkup/javascript-interview) - A list of JavaScript interview resources
 - [jfilter/Sublime-Text-Plugins-for-Frontend-Web-Development](https://github.com/jfilter/Sublime-Text-Plugins-for-Frontend-Web-Development) - 📝 Collection of plugins for Frontend Web Development
-- [tahmid-choyon/free-tech-ebooks-from-packtpub](https://github.com/tahmid-choyon/free-tech-ebooks-from-packtpub) - A collection of free ebooks from Packt Publishing [Regularly Updated]
+- [goldenrati0/free-tech-ebooks-from-packtpub](https://github.com/goldenrati0/free-tech-ebooks-from-packtpub) - A collection of free ebooks from Packt Publishing [Regularly Updated]
 - [wwdc/2017](https://github.com/wwdc/2017) - Student Submissions for the WWDC 2017 Scholarship
 - [debops-contrib/ansible-openvpn](https://github.com/debops-contrib/ansible-openvpn) - Configure and manage OpenVPN.
 - [kbrebanov/ansible-openvpn](https://github.com/kbrebanov/ansible-openvpn) - Ansible OpenVPN role
@@ -6923,7 +6925,7 @@
 - [openai/DALL-E](https://github.com/openai/DALL-E) - PyTorch package for the discrete VAE used for DALL·E.
 - [google/model_search](https://github.com/google/model_search) - 
 - [yongxinw/GSDT](https://github.com/yongxinw/GSDT) - Official PyTorch implementation of "Joint Object Detection and Multi-Object Tracking with Graph Neural Networks"
-- [vballoli/nfnets-pytorch](https://github.com/vballoli/nfnets-pytorch) - NFNets and Adaptive Gradient Clipping for SGD implemented in PyTorch
+- [vballoli/nfnets-pytorch](https://github.com/vballoli/nfnets-pytorch) - NFNets and Adaptive Gradient Clipping for SGD implemented in PyTorch. Find explanation at tourdeml.github.io/blog/
 - [VITA-Group/TransGAN](https://github.com/VITA-Group/TransGAN) - [Preprint] "TransGAN: Two Transformers Can Make One Strong GAN", Yifan Jiang, Shiyu Chang, Zhangyang Wang
 - [uvipen/SSD-pytorch](https://github.com/uvipen/SSD-pytorch) - SSD: Single Shot MultiBox Detector pytorch implementation focusing on simplicity
 - [yuval-alaluf/SAM](https://github.com/yuval-alaluf/SAM) - Official Implementation for "Only a Matter of Style: Age Transformation Using a Style-Based Regression Model"
@@ -7288,7 +7290,7 @@
 - [ZitongYu/CDCN](https://github.com/ZitongYu/CDCN) - Central Difference Convolutional Networks
 - [fengxinjie/Transformer-OCR](https://github.com/fengxinjie/Transformer-OCR) - 
 - [aim-uofa/AdelaiDet](https://github.com/aim-uofa/AdelaiDet) - AdelaiDet is an open source toolbox for multiple instance-level detection and recognition tasks.
-- [CharlesPikachu/Games](https://github.com/CharlesPikachu/Games) - Some games created by pure python.
+- [CharlesPikachu/Games](https://github.com/CharlesPikachu/Games) - Create interesting games by pure python.
 - [google-research/dreamer](https://github.com/google-research/dreamer) - Dream to Control: Learning Behaviors by Latent Imagination
 - [EvgenyKashin/stylegan2-distillation](https://github.com/EvgenyKashin/stylegan2-distillation) - 
 - [adik993/ppo-pytorch](https://github.com/adik993/ppo-pytorch) - Proximal Policy Optimization(PPO) with Intrinsic Curiosity Module(ICM)
@@ -7500,7 +7502,6 @@
 - [awslabs/keras-apache-mxnet](https://github.com/awslabs/keras-apache-mxnet) - [DEPRECATED] Amazon Deep Learning's Keras with Apache MXNet support
 - [cgnorthcutt/benchmarking-keras-pytorch](https://github.com/cgnorthcutt/benchmarking-keras-pytorch) - 🔥 Reproducibly benchmarking Keras and PyTorch models
 - [philipperemy/keract](https://github.com/philipperemy/keract) - Layers Outputs and Gradients in Keras. Made easy.
-- [TannerGilbert/Google-Coral-Edge-TPU](https://github.com/TannerGilbert/Google-Coral-Edge-TPU) - Use the Google Coral USB Accelerator for deep learning.
 - [luka1199/geo-heatmap](https://github.com/luka1199/geo-heatmap) - :world_map: Generate an interactive geo heatmap from your Google location data
 - [aws/sagemaker-python-sdk](https://github.com/aws/sagemaker-python-sdk) - A library for training and deploying machine learning models on Amazon SageMaker
 - [Smerity/sha-rnn](https://github.com/Smerity/sha-rnn) - Single Headed Attention RNN - "Stop thinking with your head"
@@ -7761,7 +7762,7 @@
 - [defunkt/pystache](https://github.com/defunkt/pystache) - Mustache in Python
 - [JaeDukSeo/reinforcement-learning-an-introduction](https://github.com/JaeDukSeo/reinforcement-learning-an-introduction) - Python Implementation of Reinforcement Learning: An Introduction
 - [zake7749/CIKM-AnalytiCup-2018](https://github.com/zake7749/CIKM-AnalytiCup-2018) - [ACM-CIKM] 2nd place solution at CIKM AnalytiCup 2018, a task for determining short text similarities.
-- [lukemelas/EfficientNet-PyTorch](https://github.com/lukemelas/EfficientNet-PyTorch) - A PyTorch implementation of EfficientNet
+- [lukemelas/EfficientNet-PyTorch](https://github.com/lukemelas/EfficientNet-PyTorch) - A PyTorch implementation of EfficientNet and EfficientNetV2 (coming soon!)
 - [ctf-wiki/ctf-wiki](https://github.com/ctf-wiki/ctf-wiki) - A new start for CTF Wiki! Come and join us, we need you!
 - [chineseocr/chineseocr](https://github.com/chineseocr/chineseocr) - yolo3+ocr
 - [locuslab/SATNet](https://github.com/locuslab/SATNet) - Bridging deep learning and logical reasoning using a differentiable satisfiability solver.
@@ -7852,6 +7853,7 @@
 - [Accenture/AmpliGraph](https://github.com/Accenture/AmpliGraph) - Python library for Representation Learning on Knowledge Graphs https://docs.ampligraph.org
 - [docker/docker-py](https://github.com/docker/docker-py) - A Python library for the Docker Engine API
 - [facebookresearch/PyTorch-BigGraph](https://github.com/facebookresearch/PyTorch-BigGraph) - Generate embeddings from large-scale graph-structured data.
+- [whai362/PSENet](https://github.com/whai362/PSENet) - 
 - [plotly/plotly_express](https://github.com/plotly/plotly_express) - Plotly Express - Simple syntax for complex charts. Now integrated into plotly.py!
 - [idealo/image-super-resolution](https://github.com/idealo/image-super-resolution) - 🔎 Super-scale your images and run experiments with Residual Dense and Adversarial Networks.
 - [yampelo/beagle](https://github.com/yampelo/beagle) - Beagle is an incident response and digital forensics tool which transforms security logs and data into graphs.
@@ -8540,7 +8542,6 @@
 - [Blazemeter/taurus](https://github.com/Blazemeter/taurus) - Automation-friendly framework for Continuous Testing by
 - [nccgroup/tcpprox](https://github.com/nccgroup/tcpprox) - A small command-line TCP proxy utility written in Python
 - [vrntrans/vrnbus](https://github.com/vrntrans/vrnbus) - Прогноз прибытия автобусов в Воронеже. Веб-версия: https://vrnbus.herokuapp.com Телеграм-бот: https://t.me/vrnbusbot
-- [AirtestProject/Airtest](https://github.com/AirtestProject/Airtest) - UI Automation Framework for Games and Apps
 - [typeintandem/tandem](https://github.com/typeintandem/tandem) - Typing in Tandem. Decentralized, cross-editor, collaborative text-editing!
 - [wuhuikai/DeepGuidedFilter](https://github.com/wuhuikai/DeepGuidedFilter) - Official Implementation of Fast End-to-End Trainable Guided Filter, CVPR 2018
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
@@ -13097,7 +13098,7 @@
 - [elgalu/docker-selenium](https://github.com/elgalu/docker-selenium) - Selenium in Docker with Chrome & Firefox plus video recording support. Also check: Zalenium
 - [hwdsl2/setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) - Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2
 - [evertramos/nginx-proxy-automation](https://github.com/evertramos/nginx-proxy-automation) - Automated docker nginx proxy integrated with letsencrypt.
-- [nginx-proxy/docker-letsencrypt-nginx-proxy-companion](https://github.com/nginx-proxy/docker-letsencrypt-nginx-proxy-companion) - LetsEncrypt companion container for nginx-proxy
+- [nginx-proxy/docker-letsencrypt-nginx-proxy-companion](https://github.com/nginx-proxy/docker-letsencrypt-nginx-proxy-companion) - Automated ACME SSL certificate generation for nginx-proxy
 - [Mountain-Buzhou/Interview-Book](https://github.com/Mountain-Buzhou/Interview-Book) - It's not just interview questions, it's an engineer's career path.
 - [udacity/CarND-Vehicle-Detection](https://github.com/udacity/CarND-Vehicle-Detection) - Vehicle Detection Project
 - [cknadler/vim-anywhere](https://github.com/cknadler/vim-anywhere) - Use Vim everywhere you've always wanted to
@@ -13187,7 +13188,6 @@
 - [nicholsn/ansible-role-miniconda](https://github.com/nicholsn/ansible-role-miniconda) - Ansilbe role to install the anaconda python distribution
 - [zenoamaro/ansible-supervisord](https://github.com/zenoamaro/ansible-supervisord) - An Ansible role for deploying and configuring Supervisor on unix hosts.
 - [jpadilla/juicebox](https://github.com/jpadilla/juicebox) - A virtual machine designed for programming workshops.
-- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [magicmonty/bash-git-prompt](https://github.com/magicmonty/bash-git-prompt) - An informative and fancy bash prompt for Git users
 - [tj/git-extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
 - [ftao/vpn-deploy-playbook](https://github.com/ftao/vpn-deploy-playbook) - A Collection of Ansible Playbook for deploy vpn services
@@ -13459,7 +13459,7 @@
 - [onury/tasktimer](https://github.com/onury/tasktimer) - An accurate timer utility for running periodic tasks on the given interval ticks or dates. (Node and Browser)
 - [posva/vue-promised](https://github.com/posva/vue-promised) - 💝 Composable Promises & Promises as components
 - [SINTEF-9012/PruneCluster](https://github.com/SINTEF-9012/PruneCluster) - Fast and realtime marker clustering for Leaflet
-- [smeijer/leaflet-geosearch](https://github.com/smeijer/leaflet-geosearch) - (Leaflet) GeoSearch / GeoCode provider
+- [smeijer/leaflet-geosearch](https://github.com/smeijer/leaflet-geosearch) - A geocoding/address-lookup library supporting various api providers.
 - [microsoft/vscode-python](https://github.com/microsoft/vscode-python) - Python extension for Visual Studio Code
 - [rx-ts/types](https://github.com/rx-ts/types) - TypeScript Type Definitions same as DefinitelyTyped.
 - [vuex-orm/vuex-orm](https://github.com/vuex-orm/vuex-orm) - The Vuex plugin to enable Object-Relational Mapping access to the Vuex Store.
