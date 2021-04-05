@@ -1762,7 +1762,7 @@
 - [tomnomnom/gron](https://github.com/tomnomnom/gron) - Make JSON greppable!
 - [coreos/vault-operator](https://github.com/coreos/vault-operator) - Run and manage Vault on Kubernetes simply and securely
 - [yunabe/lgo](https://github.com/yunabe/lgo) - Interactive Go programming with Jupyter
-- [centrifugal/centrifugo](https://github.com/centrifugal/centrifugo) - Scalable real-time messaging server in language-agnostic way
+- [centrifugal/centrifugo](https://github.com/centrifugal/centrifugo) - Scalable real-time messaging server in language-agnostic way. Set up once and forever.
 - [heroiclabs/nakama](https://github.com/heroiclabs/nakama) - Distributed server for social and realtime games and apps.
 - [schollz/find3](https://github.com/schollz/find3) - High-precision indoor positioning framework, version 3.
 - [jenkins-x/jx](https://github.com/jenkins-x/jx) - Jenkins X provides automated CI+CD for Kubernetes with Preview Environments on Pull Requests using Cloud Native pipelines from Tekton
@@ -2851,6 +2851,7 @@
 
 ## JavaScript 
 
+- [olivierloverde/minutes-of-javascript](https://github.com/olivierloverde/minutes-of-javascript) - ⭐ Collection of Javascript snippets to make you discover new exciting features, useful tips or anything that will give you a better understanding of the subtleties of JS.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite is a secure end-to-end backend server for Web, Mobile, and Flutter developers that is packaged as a set of Docker containers for easy deployment 🚀
 - [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
 - [ines/juniper](https://github.com/ines/juniper) - 🍇 Edit and execute code snippets in the browser using Jupyter kernels
@@ -6711,7 +6712,7 @@
 - [Pestov/best-of-awesomeness-and-usefulness-for-webdev](https://github.com/Pestov/best-of-awesomeness-and-usefulness-for-webdev) - The best of awesomeness and usefulness for web developers for year
 - [PharkMillups/beautiful-docs](https://github.com/PharkMillups/beautiful-docs) - Pointers to useful, well-written, and otherwise beautiful documentation.
 - [enjalot/algovis](https://github.com/enjalot/algovis) - collection of projects and links about algorithm visualization
-- [onurakpolat/awesome-analytics](https://github.com/onurakpolat/awesome-analytics) - A curated list of analytics frameworks, software and other tools.
+- [0xnr/awesome-analytics](https://github.com/0xnr/awesome-analytics) - A curated list of analytics frameworks, software and other tools.
 - [jnv/lists](https://github.com/jnv/lists) - The definitive list of lists (of lists) curated on GitHub and elsewhere
 - [fasouto/awesome-dataviz](https://github.com/fasouto/awesome-dataviz) - :chart_with_upwards_trend:  A curated list of awesome data visualization libraries and resources.
 - [checkcheckzz/python-github-projects](https://github.com/checkcheckzz/python-github-projects) - Collect and classify python projects on Github (deprecated)
@@ -6762,7 +6763,7 @@
 - [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google
 - [pombredanne/us-address-parser](https://github.com/pombredanne/us-address-parser) - US address parsing
 - [humiaozuzu/awesome-flask](https://github.com/humiaozuzu/awesome-flask) - A curated list of awesome Flask resources and plugins
-- [onurakpolat/awesome-bigdata](https://github.com/onurakpolat/awesome-bigdata) - A curated list of awesome big data frameworks, ressources and other awesomeness.
+- [0xnr/awesome-bigdata](https://github.com/0xnr/awesome-bigdata) - A curated list of awesome big data frameworks, ressources and other awesomeness.
 - [jhwhite/datasceinceblogs](https://github.com/jhwhite/datasceinceblogs) - Collection of blogs dedicated to Data Science, Analytics, Big Data and other popular Data Science topics
 - [sujitpal/statlearning-notebooks](https://github.com/sujitpal/statlearning-notebooks) - Python notebooks for exercises covered in Stanford statlearning class (where exercises were in R).
 - [bundestag/gesetze](https://github.com/bundestag/gesetze) - Bundesgesetze und -verordnungen
@@ -6883,7 +6884,7 @@
 - [WZMIAOMIAO/deep-learning-for-image-processing](https://github.com/WZMIAOMIAO/deep-learning-for-image-processing) - deep learning for image processing including classification and object-detection etc.
 - [owid/covid-19-data](https://github.com/owid/covid-19-data) - Data on COVID-19 (coronavirus) cases, deaths, hospitalizations, tests • All countries • Updated daily by Our World in Data
 - [Hari-Nagarajan/fairgame](https://github.com/Hari-Nagarajan/fairgame) - Tool to help us buy hard to find items.
-- [lucidrains/big-sleep](https://github.com/lucidrains/big-sleep) - A simple command line tool for text to image generation, using OpenAI's CLIP and a BigGAN
+- [lucidrains/big-sleep](https://github.com/lucidrains/big-sleep) - A simple command line tool for text to image generation, using OpenAI's CLIP and a BigGAN. Technique was originally created by https://twitter.com/advadnoun
 - [yaml/pyyaml](https://github.com/yaml/pyyaml) - Canonical source repository for PyYAML
 - [divelab/DIG](https://github.com/divelab/DIG) - A library for graph deep learning research
 - [EleutherAI/gpt-neo](https://github.com/EleutherAI/gpt-neo) - An implementation of model parallel GPT-2 and GPT-3-style models using the mesh-tensorflow library.
@@ -6987,7 +6988,7 @@
 - [alumae/kaldi-gstreamer-server](https://github.com/alumae/kaldi-gstreamer-server) - Real-time full-duplex speech recognition server, based on the Kaldi toolkit and the GStreamer framwork.
 - [PaddlePaddle/DeepSpeech](https://github.com/PaddlePaddle/DeepSpeech) - A PaddlePaddle implementation of ASR.
 - [yanshengjia/ml-road](https://github.com/yanshengjia/ml-road) - Machine Learning Resources, Practice and Research
-- [lucidrains/deep-daze](https://github.com/lucidrains/deep-daze) - Simple command line tool for text to image generation using OpenAI's CLIP and Siren (Implicit neural representation network)
+- [lucidrains/deep-daze](https://github.com/lucidrains/deep-daze) - Simple command line tool for text to image generation using OpenAI's CLIP and Siren (Implicit neural representation network). Technique was originally created by https://twitter.com/advadnoun
 - [zengarden/momentum2-teacher](https://github.com/zengarden/momentum2-teacher) - Implementation of momentum^2 teacher
 - [zju3dv/EasyMocap](https://github.com/zju3dv/EasyMocap) - Make human motion capture easier.
 - [ml-tooling/best-of-python](https://github.com/ml-tooling/best-of-python) - 🏆 A ranked list of awesome Python open-source libraries and tools. Updated weekly.
@@ -13420,7 +13421,7 @@
 - [uwdata/draco](https://github.com/uwdata/draco) - Visualization Constraints and Weight Learning
 - [retejs/rete](https://github.com/retejs/rete) - JavaScript framework for visual programming and creating node editor
 - [vaneenige/phenomenon](https://github.com/vaneenige/phenomenon) - ⚡️ A fast 2kB low-level WebGL API.
-- [teambit/bit](https://github.com/teambit/bit) - Develop modular web applications with components - fast, together, and at scale.
+- [teambit/bit](https://github.com/teambit/bit) - Build modular projects with components in harmony.
 - [justadudewhohacks/face-api.js](https://github.com/justadudewhohacks/face-api.js) - JavaScript API for face detection and face recognition in the browser and nodejs with tensorflow.js
 - [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
 - [probot/probot](https://github.com/probot/probot) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
