@@ -1537,7 +1537,7 @@
 - [cucumber/godog](https://github.com/cucumber/godog) - Cucumber for golang
 - [99designs/aws-vault](https://github.com/99designs/aws-vault) - A vault for securely storing and accessing AWS credentials in development environments
 - [xanzy/go-gitlab](https://github.com/xanzy/go-gitlab) - A GitLab API client enabling Go programs to interact with GitLab in a simple and uniform way
-- [micro/micro](https://github.com/micro/micro) - Micro is a cloud platform for API development
+- [micro/micro](https://github.com/micro/micro) - Micro is a cloud native development platform
 - [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub API
 - [slackhq/nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
 - [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
@@ -2081,7 +2081,7 @@
 - [josephyzhou/github-trending](https://github.com/josephyzhou/github-trending) - Tracking the most popular Github repos, updated daily
 - [beego/beego](https://github.com/beego/beego) - beego is an open-source, high-performance web framework for the Go programming language.
 - [kubernetes/minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
-- [chain/chain](https://github.com/chain/chain) - Chain Core
+- [chain/chain](https://github.com/chain/chain) - Chain Core - Ledger-as-a-Service
 - [IBM-Blockchain-Archive/learn-chaincode](https://github.com/IBM-Blockchain-Archive/learn-chaincode) - Learn how to write chaincode.  (For the latest information, see http://hyperledger-fabric.readthedocs.io/en/latest/chaincode.html)
 - [nim4/DBShield](https://github.com/nim4/DBShield) - Database firewall written in Go
 - [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is an open source distributed HTAP database compatible with the MySQL protocol
@@ -2284,7 +2284,6 @@
 - [tc39/proposal-built-in-modules](https://github.com/tc39/proposal-built-in-modules) - 
 - [alienzhou/frontend-tech-list](https://github.com/alienzhou/frontend-tech-list) - 📝 Frontend Tech List for Developers 💡
 - [Benjamin-Lee/deep-rules](https://github.com/Benjamin-Lee/deep-rules) - Ten Quick Tips for Deep Learning in Biology
-- [webpro/programming-principles](https://github.com/webpro/programming-principles) - Categorized overview of Programming Principles & Patterns
 - [GoogleChromeLabs/quicklink](https://github.com/GoogleChromeLabs/quicklink) - ⚡️Faster subsequent page-loads by prefetching in-viewport links during idle time
 - [camelot-dev/excalibur](https://github.com/camelot-dev/excalibur) - A web interface to extract tabular data from PDFs
 - [pmeenan/http2priorities](https://github.com/pmeenan/http2priorities) - Test Page for HTTP/2 prioritization (server and browser)
@@ -4206,7 +4205,7 @@
 - [square/cubism](https://github.com/square/cubism) - Cubism.js: A JavaScript library for time series visualization.
 - [plouc/mozaik](https://github.com/plouc/mozaik) - Mozaïk is a tool based on nodejs / react / redux / nivo / d3 to easily craft beautiful dashboards
 - [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - 📝 Modern documentation format and toolchain using Git and Markdown
-- [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D library.
+- [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
 - [aurelia/framework](https://github.com/aurelia/framework) - The Aurelia 1 framework entry point, bringing together all the required sub-modules of Aurelia.
 - [OnsenUI/OnsenUI](https://github.com/OnsenUI/OnsenUI) - Mobile app development framework and SDK using HTML5 and JavaScript. Create beautiful and performant cross-platform mobile apps. Based on Web Components, and provides bindings for Angular 1, 2, React and Vue.js.
 - [angular-ui/ui-map](https://github.com/angular-ui/ui-map) - Google Maps
@@ -4441,7 +4440,7 @@
 - [MLWhiz/data_science_blogs](https://github.com/MLWhiz/data_science_blogs) - A repository to keep track of all the code that I end up writing for my blog posts.
 - [yitu-opensource/T2T-ViT](https://github.com/yitu-opensource/T2T-ViT) - 
 - [Pzoom522/HistSumm](https://github.com/Pzoom522/HistSumm) - Code and data for "Summarising Historical Text in Modern Languages" (EACL 2021)
-- [snakers4/silero-models](https://github.com/snakers4/silero-models) - Silero Models: pre-trained speech-to-text (STT) and text-to-speech models (TTS) / benchmarks made embarrassingly simple
+- [snakers4/silero-models](https://github.com/snakers4/silero-models) - Silero Models: pre-trained speech-to-text, text-to-speech models and benchmarks made embarrassingly simple
 - [grib0ed0v/kaldi-for-russian](https://github.com/grib0ed0v/kaldi-for-russian) - 
 - [yh1008/speech-to-text](https://github.com/yh1008/speech-to-text) - mixlingual speech recognition system; hybrid (GMM+NNet) model; Kaldi + Keras
 - [dwromero/wavelet_networks](https://github.com/dwromero/wavelet_networks) - Code repository of the paper "Wavelet Networks: Scale Equivariant Learning From Raw Waveforms"  https://arxiv.org/abs/2006.05259
@@ -6121,6 +6120,7 @@
 - [Mybridge/machine-learning-articles](https://github.com/Mybridge/machine-learning-articles) - Monthly Series - Top 10 Machine Learning Articles
 - [yeyintminthuhtut/Awesome-Red-Teaming](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming) - List of Awesome Red Teaming Resources
 - [mthenw/awesome-layers](https://github.com/mthenw/awesome-layers) - λ A curated list of awesome AWS Lambda Layers.
+- [webpro/programming-principles](https://github.com/webpro/programming-principles) - Categorized overview of programming principles & design patterns
 - [FAQGURU/FAQGURU](https://github.com/FAQGURU/FAQGURU) - :school_satchel: :rocket: :tada: A list of interview questions. This repository is everything you need to prepare for your technical interview.
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [guillaume-chevalier/How-to-Grow-Neat-Software-Architecture-out-of-Jupyter-Notebooks](https://github.com/guillaume-chevalier/How-to-Grow-Neat-Software-Architecture-out-of-Jupyter-Notebooks) - Growing the code out of your notebooks - the right way.
@@ -13619,7 +13619,7 @@
 ## Vue 
 
 - [cdqa-suite/cdQA-annotator](https://github.com/cdqa-suite/cdQA-annotator) - ⛔ [NOT MAINTAINED] A web-based annotator for closed-domain question answering datasets with SQuAD format.
-- [emqx/MQTTX](https://github.com/emqx/MQTTX) - MQTT X - Elegant MQTT 5.0 Client Tool of Cross-platform
+- [emqx/MQTTX](https://github.com/emqx/MQTTX) - MQTT X - Elegant Cross-platform MQTT 5.0 Desktop Client
 - [tiangolo/flask-frontend-docker](https://github.com/tiangolo/flask-frontend-docker) - Minimal project generator with a Flask backend, a modern frontend (Vue, React or Angular), a Traefik load balancer with HTTPS, all based on Docker.
 - [vuepress-reco/vuepress-theme-reco](https://github.com/vuepress-reco/vuepress-theme-reco) - 💥 A simple and beautiful vuepress Blog & Doc theme.
 - [CareyWang/sub-web](https://github.com/CareyWang/sub-web) - 
