@@ -53,6 +53,7 @@
   - [Lua](#lua)
   - [M4](#m4)
   - [MATLAB](#matlab)
+  - [MLIR](#mlir)
   - [Makefile](#makefile)
   - [Markdown](#markdown)
   - [Matlab](#matlab)
@@ -504,7 +505,6 @@
 - [borglab/gtsam](https://github.com/borglab/gtsam) - GTSAM is a library of C++ classes that implement smoothing and mapping (SAM) in robotics and vision, using factor graphs and Bayes networks as the underlying computing paradigm rather than sparse matrices.
 - [cyang-kth/fmm](https://github.com/cyang-kth/fmm) - Fast map matching, an open source framework in C++
 - [neoml-lib/neoml](https://github.com/neoml-lib/neoml) - Machine learning framework for both deep learning and traditional algorithms
-- [tensorflow/runtime](https://github.com/tensorflow/runtime) - A performant and modular runtime for TensorFlow
 - [jupyter-xeus/xeus-python](https://github.com/jupyter-xeus/xeus-python) - Jupyter kernel for the Python programming language
 - [jupyter-xeus/xeus](https://github.com/jupyter-xeus/xeus) - Implementation of the Jupyter kernel protocol in C++
 - [s3fs-fuse/s3fs-fuse](https://github.com/s3fs-fuse/s3fs-fuse) - FUSE-based file system backed by Amazon S3
@@ -2108,7 +2108,7 @@
 - [kataras/iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. AWS Lambda, gRPC, MVC, Unique Router, Websockets, Sessions, Test suite, Dependency Injection and more. A true successor of expressjs and laravel | 谢谢 https://github.com/kataras/iris/issues/1329 |
 - [fogleman/primitive](https://github.com/fogleman/primitive) - Reproducing images with geometric primitives.
 - [PalmStoneGames/kube-cert-manager](https://github.com/PalmStoneGames/kube-cert-manager) - Manage Lets Encrypt certificates for a Kubernetes cluster.
-- [docker/deploykit](https://github.com/docker/deploykit) - A toolkit for creating and managing declarative, self-healing infrastructure.
+- [docker-archive/deploykit](https://github.com/docker-archive/deploykit) - A toolkit for creating and managing declarative, self-healing infrastructure.
 - [cloud66-oss/habitus](https://github.com/cloud66-oss/habitus) - A build flow tool for Docker.
 - [labstack/armor](https://github.com/labstack/armor) - Uncomplicated, modern HTTP server
 - [future-architect/vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices
@@ -4518,7 +4518,7 @@
 - [kunalj101/Data-Science-Hacks](https://github.com/kunalj101/Data-Science-Hacks) - Data Science Hacks consists of tips, tricks to help you become a better data scientist. Data science hacks are for all - beginner to advanced. Data science hacks consist of python, jupyter notebook, pandas hacks and so on.
 - [Sshanu/Bidirectional-Attention-Flow-for-Machine-Comprehension](https://github.com/Sshanu/Bidirectional-Attention-Flow-for-Machine-Comprehension) - Machine Comprehension using Squad and Triviqa Data sets
 - [AnatoliiPotapov/squad](https://github.com/AnatoliiPotapov/squad) - 
-- [aiscientist/nlp_ryan](https://github.com/aiscientist/nlp_ryan) - Study for Natural Language Processing & Deep Learning Framework
+- [ryanshin712/nlp_ryan](https://github.com/ryanshin712/nlp_ryan) - Study for Natural Language Processing & Deep Learning Framework
 - [NVIDIA/TRTorch](https://github.com/NVIDIA/TRTorch) - PyTorch/TorchScript compiler for NVIDIA GPUs using TensorRT
 - [selfteaching/the-craft-of-selfteaching](https://github.com/selfteaching/the-craft-of-selfteaching) - One has no future if one couldn't teach themself.
 - [justmarkham/scikit-learn-tips](https://github.com/justmarkham/scikit-learn-tips) - :robot::zap: scikit-learn tips
@@ -5722,6 +5722,10 @@
 - [TimChinenov/FarmPlotter](https://github.com/TimChinenov/FarmPlotter) - The following is a Matlab script that uses image processing to determine the number of farm plots in an image and print their area in pixels
 - [TadasBaltrusaitis/OpenFace](https://github.com/TadasBaltrusaitis/OpenFace) - OpenFace – a state-of-the art tool intended for facial landmark detection, head pose estimation, facial action unit recognition, and eye-gaze estimation.
 
+## MLIR 
+
+- [tensorflow/runtime](https://github.com/tensorflow/runtime) - A performant and modular runtime for TensorFlow
+
 ## Makefile 
 
 - [amaysim-au/docker-serverless](https://github.com/amaysim-au/docker-serverless) - Docker image containing NodeJS, Serverless Framework and Yarn.
@@ -6395,7 +6399,7 @@
 - [iliakan/javascript-tutorial](https://github.com/iliakan/javascript-tutorial) - The Modern JavaScript Tutorial
 - [kallaway/100-days-of-code](https://github.com/kallaway/100-days-of-code) - Fork this template for the 100 days journal - to keep yourself accountable (multiple languages available)
 - [kailashahirwar/cheatsheets-ai](https://github.com/kailashahirwar/cheatsheets-ai) - Essential Cheat Sheets for deep learning and machine learning researchers https://medium.com/@kailashahirwar/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5
-- [relatedcode/ParseAlternatives](https://github.com/relatedcode/ParseAlternatives) - A collaborative list of Parse alternative backend service providers.
+- [relatedcode/GraphQLBackends](https://github.com/relatedcode/GraphQLBackends) - A collaborative list of GraphQL backend service providers.
 - [xgrommx/awesome-functional-programming](https://github.com/xgrommx/awesome-functional-programming) - Yet another resource for collecting articles, videos etc. regarding functional programming
 - [Scanate/EthList](https://github.com/Scanate/EthList) - The Comprehensive Ethereum Reading List
 - [npm/npm](https://github.com/npm/npm) - This repository is moving to: https://github.com/npm/cli
