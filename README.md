@@ -3969,6 +3969,7 @@
 - [vuejs/vue-hackernews-2.0](https://github.com/vuejs/vue-hackernews-2.0) - HackerNews clone built with Vue 2.0, vue-router & vuex, with server-side rendering
 - [FormidableLabs/react-animations](https://github.com/FormidableLabs/react-animations) - 🎊 A collection of animations for inline style libraries
 - [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet) - :leaves: JavaScript library for mobile-friendly interactive maps
+- [ankane/pghero](https://github.com/ankane/pghero) - A performance dashboard for Postgres
 - [christinecha/choreographer-js](https://github.com/christinecha/choreographer-js) - A simple library to take care of complicated animations.
 - [samizdatco/arbor](https://github.com/samizdatco/arbor) - a graph visualization library using web workers and jQuery
 - [shipshapecode/shepherd](https://github.com/shipshapecode/shepherd) - Guide your users through a tour of your app
@@ -5171,7 +5172,7 @@
 - [quiltdata/quilt](https://github.com/quiltdata/quilt) - Quilt is a self-organizing data hub for S3
 - [facebookresearch/InferSent](https://github.com/facebookresearch/InferSent) - InferSent sentence embeddings
 - [kuk/analyze-citymobil](https://github.com/kuk/analyze-citymobil) - 
-- [PAIR-code/saliency](https://github.com/PAIR-code/saliency) - TensorFlow implementation for SmoothGrad, Grad-CAM, Guided backprop, Integrated Gradients and other saliency techniques
+- [PAIR-code/saliency](https://github.com/PAIR-code/saliency) - Framework-agnostic implementation for state-of-the-art saliency methods (XRAI, BlurIG, SmoothGrad, and more).
 - [pydataberlin/conf2017slides](https://github.com/pydataberlin/conf2017slides) - 
 - [aditya-AI/Deep-Learning](https://github.com/aditya-AI/Deep-Learning) - This repository contains Deep Learning examples using Tensorflow. This repository will be useful for Deep Learning starters who find difficulty in understanding the example codes.
 - [alberduris/The_Math_of_Intelligence](https://github.com/alberduris/The_Math_of_Intelligence) - Code for each week's short video of Siraj Raval Course "Math of Intelligence"
@@ -5720,6 +5721,7 @@
 
 - [OpenOCL/OpenOCL](https://github.com/OpenOCL/OpenOCL) - Open Optimal Control Library for Matlab. Trajectory Optimization and non-linear Model Predictive Control (MPC)  toolbox.
 - [TimChinenov/FarmPlotter](https://github.com/TimChinenov/FarmPlotter) - The following is a Matlab script that uses image processing to determine the number of farm plots in an image and print their area in pixels
+- [AaronJackson/vrn](https://github.com/AaronJackson/vrn) - :man:  Code for "Large Pose 3D Face Reconstruction from a Single Image via Direct Volumetric CNN Regression"
 - [TadasBaltrusaitis/OpenFace](https://github.com/TadasBaltrusaitis/OpenFace) - OpenFace – a state-of-the art tool intended for facial landmark detection, head pose estimation, facial action unit recognition, and eye-gaze estimation.
 
 ## MLIR 
@@ -6877,6 +6879,7 @@
 
 ## Python 
 
+- [open-mmlab/mmocr](https://github.com/open-mmlab/mmocr) - OpenMMLab Text Detection and Recognition Toolbox
 - [berniwal/swin-transformer-pytorch](https://github.com/berniwal/swin-transformer-pytorch) - Implementation of the Swin Transformer in PyTorch.
 - [nsu-ai/russian_g2p](https://github.com/nsu-ai/russian_g2p) - Accentor and transcriptor for Russian language
 - [huggingface/knockknock](https://github.com/huggingface/knockknock) - 🚪✊Knock Knock: Get notified when your training ends with only two additional lines of code
@@ -12903,7 +12906,6 @@
 - [BerlinVagrant/vagrant-dns](https://github.com/BerlinVagrant/vagrant-dns) - A plugin to manage DNS records for vagrant environments
 - [emyl/vagrant-triggers](https://github.com/emyl/vagrant-triggers) - Allow the definition of arbitrary scripts that will run on the host before and/or after Vagrant commands.
 - [fgrehm/vagrant-lxc](https://github.com/fgrehm/vagrant-lxc) - LXC provider for Vagrant
-- [ankane/pghero](https://github.com/ankane/pghero) - A performance dashboard for Postgres
 - [LionSec/xerosploit](https://github.com/LionSec/xerosploit) - Efficient and advanced man in the middle framework
 - [dev-sec/ansible-mysql-hardening](https://github.com/dev-sec/ansible-mysql-hardening) - This Ansible role provides security configuration for MySQL.
 - [kciter/awesome-style-guide](https://github.com/kciter/awesome-style-guide) - A list of awesome:star:style guide.
@@ -13127,7 +13129,6 @@
 - [awslabs/git-secrets](https://github.com/awslabs/git-secrets) - Prevents you from committing secrets and credentials into git repositories
 - [learnbyexample/Command-line-text-processing](https://github.com/learnbyexample/Command-line-text-processing) - :zap: From finding text to search and replace, from sorting to beautifying text and more :art:
 - [nginx-le/nginx-le](https://github.com/nginx-le/nginx-le) - Nginx with automatic let's encrypt (docker image)
-- [AaronJackson/vrn](https://github.com/AaronJackson/vrn) - :man:  Code for "Large Pose 3D Face Reconstruction from a Single Image via Direct Volumetric CNN Regression"
 - [vincentchu/eth-private-net](https://github.com/vincentchu/eth-private-net) - Create your own Ethereum private net
 - [kaldi-asr/kaldi](https://github.com/kaldi-asr/kaldi) - kaldi-asr/kaldi is the official location of the Kaldi project.
 - [serverless/guide](https://github.com/serverless/guide) - Serverless Guide - An open-source definitive guide to serverless architectures.
@@ -13299,6 +13300,7 @@
 
 ## TypeScript 
 
+- [common-voice/common-voice](https://github.com/common-voice/common-voice) - Common Voice is part of Mozilla's initiative to help teach machines how real people speak.
 - [benawad/dogehouse](https://github.com/benawad/dogehouse) - Taking voice conversations to the moon 🚀
 - [jevakallio/git-notify](https://github.com/jevakallio/git-notify) - 🙉 📣 Communicate important updates to your team via git commit messages
 - [jevakallio/vscode-live-frame](https://github.com/jevakallio/vscode-live-frame) - Run your web app inside VS Code
@@ -13642,7 +13644,7 @@
 - [antonreshetov/massCode](https://github.com/antonreshetov/massCode) - A free and open source code snippets manager for developers.
 - [chronotruck/vue-ctk-date-time-picker](https://github.com/chronotruck/vue-ctk-date-time-picker) - VueJS component to select dates & time, including a range mode
 - [mudin/vue-indoor](https://github.com/mudin/vue-indoor) - VueJS wrapper for indoorjs
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem. https://hoppscotch.io
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem https://hoppscotch.io
 - [WeBankFinTech/Scriptis](https://github.com/WeBankFinTech/Scriptis) - Scriptis is for interactive data analysis with script development(SQL, Pyspark, HiveQL), task submission(Spark, Hive), UDF, function, resource management and intelligent diagnosis.
 - [tevora-threat/Scout](https://github.com/tevora-threat/Scout) - Surveillance Detection Scout: Your Lookout on Autopilot
 - [Arattian/DynamoDb-GUI-Client](https://github.com/Arattian/DynamoDb-GUI-Client) - DynamoDb GUI Client
