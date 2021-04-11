@@ -6878,8 +6878,9 @@
 
 ## Python 
 
+- [yuval-alaluf/restyle-encoder](https://github.com/yuval-alaluf/restyle-encoder) - Official Implementation for "ReStyle: A Residual-Based StyleGAN Encoder via Iterative Refinement" https://arxiv.org/abs/2104.02699
 - [textflint/textflint](https://github.com/textflint/textflint) - Text Robustness Evaluation Platform
-- [open-mmlab/mmocr](https://github.com/open-mmlab/mmocr) - OpenMMLab Text Detection and Recognition Toolbox
+- [open-mmlab/mmocr](https://github.com/open-mmlab/mmocr) - OpenMMLab Text Detection, Recognition and Understanding Toolbox
 - [berniwal/swin-transformer-pytorch](https://github.com/berniwal/swin-transformer-pytorch) - Implementation of the Swin Transformer in PyTorch.
 - [nsu-ai/russian_g2p](https://github.com/nsu-ai/russian_g2p) - Accentor and transcriptor for Russian language
 - [huggingface/knockknock](https://github.com/huggingface/knockknock) - 🚪✊Knock Knock: Get notified when your training ends with only two additional lines of code
