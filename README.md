@@ -1655,6 +1655,7 @@
 - [gravitational/gravity](https://github.com/gravitational/gravity) - Kubernetes application deployments for restricted, regulated or remote environments.
 - [iov-one/weave](https://github.com/iov-one/weave) - Easy-to-use SDK to build Tendermint ABCI applications
 - [gophish/gophish](https://github.com/gophish/gophish) - Open-Source Phishing Toolkit
+- [madneal/gshark](https://github.com/madneal/gshark) - Scan for sensitive information easily and effectively.
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [umputun/remark42](https://github.com/umputun/remark42) - comment engine
 - [tricksterproxy/trickster](https://github.com/tricksterproxy/trickster) - Open Source HTTP Reverse Proxy Cache and Time Series Dashboard Accelerator
@@ -2296,7 +2297,6 @@
 - [piterjs/piterjs.org.0](https://github.com/piterjs/piterjs.org.0) - PiterJS site
 - [Azure-Samples/blockchain](https://github.com/Azure-Samples/blockchain) - Azure Blockchain Content and Samples
 - [NaturalIntelligence/imglab](https://github.com/NaturalIntelligence/imglab) - To speedup and simplify image labeling/ annotation process with multiple supported formats.
-- [madneal/gshark](https://github.com/madneal/gshark) - Scan for sensitive information easily and effectively.
 - [amueller/ml-workshop-1-of-4](https://github.com/amueller/ml-workshop-1-of-4) - Introduction to Machine learning with Python, 4h interactive workshop
 - [creative-computing-society/creative-computing-society.github.io](https://github.com/creative-computing-society/creative-computing-society.github.io) - This is the Hacktoberfest first contribution website of CCS
 - [Syknapse/My-Learning-Tracker-first-ten-months](https://github.com/Syknapse/My-Learning-Tracker-first-ten-months) - A copy of my learning tracker frozen in time at the 10 month mark. It shows my learning process from the beginning of my front end journey, up to the moment I got my first job. Full tracker is at: https://github.com/Syknapse/My-Learning-Tracker
@@ -8011,7 +8011,7 @@
 - [micah5/sneaker-generator](https://github.com/micah5/sneaker-generator) - 👟 DCGAN that generates shoes
 - [facebookresearch/VideoPose3D](https://github.com/facebookresearch/VideoPose3D) - Efficient 3D human pose estimation in video using 2D keypoint trajectories
 - [Refefer/Dampr](https://github.com/Refefer/Dampr) - Python Data Processing library
-- [TypeError/secure.py](https://github.com/TypeError/secure.py) - Secure 🔒  headers and cookies for Python web frameworks
+- [TypeError/secure](https://github.com/TypeError/secure) - Secure 🔒  headers and cookies for Python web frameworks
 - [decentfox/nginxpy](https://github.com/decentfox/nginxpy) - Embed Python in NGINX.
 - [MinaOTP/MinaOTP-Shell](https://github.com/MinaOTP/MinaOTP-Shell) - TOTP authenticator implement as a terminal tool
 - [Separius/awesome-sentence-embedding](https://github.com/Separius/awesome-sentence-embedding) - A curated list of pretrained sentence and word embedding models
@@ -9737,7 +9737,7 @@
 - [titusjan/argos](https://github.com/titusjan/argos) - Argos: a data viewer that can read HDF5, NetCDF4, and other file formats.
 - [PyCQA/pylint](https://github.com/PyCQA/pylint) - It's not just a linter that annoys you!
 - [pyexcel/pyexcel](https://github.com/pyexcel/pyexcel) - Single API for reading, manipulating and writing data in csv, ods, xls, xlsx and xlsm files
-- [PyCQA/flake8](https://github.com/PyCQA/flake8) - flake8 is a python tool that glues together pep8, pyflakes, mccabe, and third-party plugins to check the style and quality of some python code.
+- [PyCQA/flake8](https://github.com/PyCQA/flake8) - flake8 is a python tool that glues together pycodestyle, pyflakes, mccabe, and third-party plugins to check the style and quality of some python code.
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
 - [Muterra/py_hypergolix](https://github.com/Muterra/py_hypergolix) - Programmable Dropbox for secure IoT
 - [daleroberts/itermplot](https://github.com/daleroberts/itermplot) - An awesome iTerm2 backend for Matplotlib, so you can plot directly in your terminal.
@@ -13712,7 +13712,7 @@
 - [officert/vue-slideout-panel](https://github.com/officert/vue-slideout-panel) - Vue JS component for stackable slideout panels
 - [antonreshetov/mysigmail](https://github.com/antonreshetov/mysigmail) - UI Email Signature Generator - Make easy to create your email signature
 - [chiflix/splayerx](https://github.com/chiflix/splayerx) - SPlayerX@2018
-- [mazipan/vue2-simplert-plugin](https://github.com/mazipan/vue2-simplert-plugin) - ⚠️  Vue2-Simplert as Vue.js Plugins
+- [mazipan/vue2-simplert-plugin](https://github.com/mazipan/vue2-simplert-plugin) - ⚠️  Vue 2 Simple Alert Plugin (SweetAlert Inspired)
 - [antoniandre/vue-cal](https://github.com/antoniandre/vue-cal) - A Vue JS full calendar, no dependency, no BS. :metal:
 - [Yubisaki/vuepress-theme-yubisaki](https://github.com/Yubisaki/vuepress-theme-yubisaki) - :sparkles: A blog theme for vuepress
 - [DCzajkowski/vue-pure-lightbox](https://github.com/DCzajkowski/vue-pure-lightbox) - Very simple lightbox plugin (without any dependencies) for Vuejs 🌅
