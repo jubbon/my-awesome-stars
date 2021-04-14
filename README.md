@@ -251,6 +251,7 @@
 - [CoolerVoid/firefox_tunnel](https://github.com/CoolerVoid/firefox_tunnel) - The way to use firefox to make a tunnel to remote communication, bypass  any firewall
 - [pervognsen/bitwise](https://github.com/pervognsen/bitwise) - Bitwise is an educational project where we create the software/hardware stack for a computer from scratch.
 - [cfenollosa/os-tutorial](https://github.com/cfenollosa/os-tutorial) - How to create an OS from scratch
+- [microsoft/msix-packaging](https://github.com/microsoft/msix-packaging) - MSIX SDK
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [pornin/CTTK](https://github.com/pornin/CTTK) - Constant-Time Toolkit
 - [lc-soft/LCUI](https://github.com/lc-soft/LCUI) - A small C library for building user interfaces with C, XML and CSS.
@@ -702,7 +703,6 @@
 - [cheadaq/timer-benchmarks](https://github.com/cheadaq/timer-benchmarks) - Benchmark of different timer queue implementation(min-heap, red-black tree, timer vector)
 - [microsoft/service-fabric](https://github.com/microsoft/service-fabric) - Service Fabric is a distributed systems platform for packaging, deploying, and managing stateless and stateful distributed applications and containers at large scale.
 - [jacobdufault/cquery](https://github.com/jacobdufault/cquery) - C/C++ language server supporting multi-million line code base, powered by libclang. Emacs, Vim, VSCode, and others with language server protocol support. Cross references, completion, diagnostics, semantic highlighting and more
-- [microsoft/msix-packaging](https://github.com/microsoft/msix-packaging) - MSIX SDK
 - [malja/zroya](https://github.com/malja/zroya) - [Partialy working][Stale] Python extension for creating native Windows notifications.
 - [NikolasEnt/Extended-Kalman-Filter](https://github.com/NikolasEnt/Extended-Kalman-Filter) - Udacity Self-Driving Car Engineer Nanodegree. Project: Extended Kalman Filters
 - [ndrplz/self-driving-car](https://github.com/ndrplz/self-driving-car) - Udacity Self-Driving Car Engineer Nanodegree projects.
@@ -2173,6 +2173,7 @@
 ## HTML 
 
 - [SuperKogito/SER-datasets](https://github.com/SuperKogito/SER-datasets) - A collection of datasets for the purpose of emotion recognition/detection in speech.
+- [MAIF/shapash](https://github.com/MAIF/shapash) - Shapash makes Machine Learning models transparent and understandable by everyone
 - [codesONLY/JavaScriptONLY](https://github.com/codesONLY/JavaScriptONLY) - Knowledge Resource of core fundamentals of JavaScript explained in simple way!
 - [shower/shower](https://github.com/shower/shower) - Shower HTML presentation engine
 - [speechbrain/speechbrain.github.io](https://github.com/speechbrain/speechbrain.github.io) - The SpeechBrain project aims to build a novel speech toolkit fully based on PyTorch. With SpeechBrain users can easily create speech processing systems, ranging from speech recognition (both HMM/DNN and end-to-end), speaker recognition, speech enhancement, speech separation, multi-microphone speech processing, and many others.
@@ -2379,7 +2380,6 @@
 - [tc39/proposal-partial-application](https://github.com/tc39/proposal-partial-application) - Proposal to add partial application to ECMAScript
 - [devops-israel/aws-inventory](https://github.com/devops-israel/aws-inventory) - AWS Inventory in a single HTML file using JS AWS-SDK & Bootstrap
 - [daxeel/blockshell](https://github.com/daxeel/blockshell) - 🎉  Minimal Blockchain Learning CLI
-- [geerlingguy/ansible-role-nginx](https://github.com/geerlingguy/ansible-role-nginx) - Ansible Role - Nginx
 - [ANXS/postgresql](https://github.com/ANXS/postgresql) - Fairly full featured Ansible role for Postgresql.
 - [dev-sec/ansible-collection-hardening](https://github.com/dev-sec/ansible-collection-hardening) - This Ansible collection provides battle tested hardening for Linux, SSH, nginx, MySQL
 - [opencode18/OpenCode-Collaborative](https://github.com/opencode18/OpenCode-Collaborative) - Best place to start Open Source and learn development.
@@ -3752,6 +3752,7 @@
 - [xitu/front-end-handbook-2017](https://github.com/xitu/front-end-handbook-2017) - 2017 edition of our front-end development guide
 - [lodash/lodash](https://github.com/lodash/lodash) - A modern JavaScript utility library delivering modularity, performance, & extras.
 - [Justineo/vue-awesome](https://github.com/Justineo/vue-awesome) - Awesome SVG icon component for Vue.js, built-in with Font Awesome icons.
+- [rstudio/bookdown](https://github.com/rstudio/bookdown) - Authoring Books and Technical Documents with R Markdown
 - [slap-editor/slap](https://github.com/slap-editor/slap) - Sublime-like terminal-based text editor
 - [gitsummore/nile.js](https://github.com/gitsummore/nile.js) - Scalable peer to peer live video streaming built on torrents and webRTC
 - [metrofun/machine-learning-surveys](https://github.com/metrofun/machine-learning-surveys) - A curated list of Machine Learning Surveys, Tutorials and Books.
@@ -4398,6 +4399,7 @@
 ## Jinja 
 
 - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
+- [geerlingguy/ansible-role-nginx](https://github.com/geerlingguy/ansible-role-nginx) - Ansible Role - Nginx
 
 ## Jsonnet 
 
@@ -4418,6 +4420,7 @@
 
 ## Jupyter Notebook 
 
+- [vijishmadhavan/SkinDeep](https://github.com/vijishmadhavan/SkinDeep) - Get Deinked!!
 - [qiskit-community/qiskit-community-tutorials](https://github.com/qiskit-community/qiskit-community-tutorials) - A collection of Jupyter notebooks developed by the community showing how to use Qiskit
 - [ShapeAI/PYTHON-AND-DATA-ANALYTICS-7-DAYS](https://github.com/ShapeAI/PYTHON-AND-DATA-ANALYTICS-7-DAYS) - 
 - [globalaihub/introduction-to-machine-learning](https://github.com/globalaihub/introduction-to-machine-learning) - 
@@ -4431,7 +4434,6 @@
 - [ipazc/mtcnn](https://github.com/ipazc/mtcnn) - MTCNN face detection implementation for TensorFlow, as a PIP package.
 - [Gladiator07/Harvestify](https://github.com/Gladiator07/Harvestify) - A machine learning based website that recommends the best crop to grow, fertilizers to use, and the diseases caught by your crops.
 - [openai/CLIP](https://github.com/openai/CLIP) - Contrastive Language-Image Pretraining
-- [MAIF/shapash](https://github.com/MAIF/shapash) - Shapash makes Machine Learning models transparent and understandable by everyone
 - [facebookresearch/vissl](https://github.com/facebookresearch/vissl) - VISSL is FAIR's library of extensible, modular and scalable components for SOTA Self-Supervised Learning with images.
 - [robertmartin8/PyPortfolioOpt](https://github.com/robertmartin8/PyPortfolioOpt) - Financial portfolio optimisation in python, including classical efficient frontier, Black-Litterman, Hierarchical Risk Parity
 - [CompVis/taming-transformers](https://github.com/CompVis/taming-transformers) - 
@@ -4832,7 +4834,7 @@
 - [pukkapies/dl-imperial-maths](https://github.com/pukkapies/dl-imperial-maths) - Code and assignment repository for the Imperial College Mathematics department Deep Learning course
 - [TheEconomist/big-mac-data](https://github.com/TheEconomist/big-mac-data) - Data and methodology for the Big Mac index
 - [Aniket965/Hello-world](https://github.com/Aniket965/Hello-world) - Add any  Program in any language you like or add a hello world Program ❣️ if you like give us :star:
-- [ironmussa/Optimus](https://github.com/ironmussa/Optimus) - :truck: Agile Data Preparation Workflows made easy with dask, cudf, dask_cudf and pyspark
+- [ironmussa/Optimus](https://github.com/ironmussa/Optimus) - :truck: Agile Data Preparation Workflows made easy with pandas, dask, cudf, dask_cudf and pyspark
 - [arditsulceteaching/thepythonmegacourse](https://github.com/arditsulceteaching/thepythonmegacourse) - 
 - [MagNet-DL/magnet](https://github.com/MagNet-DL/magnet) - Deep Learning Projects that Build Themselves
 - [RedstoneWill/MachineLearningInAction-Camp](https://github.com/RedstoneWill/MachineLearningInAction-Camp) - 
@@ -5690,6 +5692,7 @@
 - [sunprinceS/Hierarchical-Attention-Model](https://github.com/sunprinceS/Hierarchical-Attention-Model) - :page_facing_up: HierAttModel for Question Answering
 - [jitsi/docker-jitsi-meet](https://github.com/jitsi/docker-jitsi-meet) - Jitsi Meet on Docker
 - [garythung/trashnet](https://github.com/garythung/trashnet) - Dataset of images of trash; Torch-based CNN for garbage image classification
+- [apache/apisix](https://github.com/apache/apisix) - The Cloud-Native API Gateway
 - [facebookarchive/MazeBase](https://github.com/facebookarchive/MazeBase) - Simple environment for creating very simple 2D games and training neural network models to perform tasks within them
 - [inters/vita](https://github.com/inters/vita) - Vita: simple and fast VPN gateway
 - [xunhuang1995/AdaIN-style](https://github.com/xunhuang1995/AdaIN-style) - Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization
@@ -5957,7 +5960,7 @@
 - [deepmind/tvt](https://github.com/deepmind/tvt) - 
 - [shashank88/system_design](https://github.com/shashank88/system_design) - Preparation links and resources for system design questions
 - [zero-to-mastery/start-here-guidelines](https://github.com/zero-to-mastery/start-here-guidelines) - Lets Git started in the world of opensource, starting in the Zero To Mastery's opensource playground. Especially designed for education and practical experience purposes.
-- [oam-dev/spec](https://github.com/oam-dev/spec) - The Open Application Model (OAM)
+- [oam-dev/spec](https://github.com/oam-dev/spec) - The Open Application Model (OAM) Specification
 - [Niraj-Lunavat/Artificial-Intelligence](https://github.com/Niraj-Lunavat/Artificial-Intelligence) - Awesome AI Learning with +100 AI Cheat-Sheets, Free online Books, Top Courses, Best Videos and Lectures, Papers, Tutorials, +99 Researchers, Premium Websites, +121 Datasets, Conferences, Frameworks, Tools
 - [palash25/best-practices-checklist](https://github.com/palash25/best-practices-checklist) - A list of awesome idiomatic code resources. Rust:crab:, Go, Ruby:gem:, Pony :horse:, Ocaml :camel:, Erlang and more
 - [yizhen20133868/MIT-Linear-Algebra-Notes](https://github.com/yizhen20133868/MIT-Linear-Algebra-Notes) - Notes for MIT-Linear-Algebra
@@ -6823,7 +6826,6 @@
 - [mravanelli/pytorch_MLP_for_ASR](https://github.com/mravanelli/pytorch_MLP_for_ASR) - This code implements a basic MLP for speech recognition. The MLP  is trained  with pytorch, while feature extraction, alignments, and decoding are performed with Kaldi.  The current implementation supports dropout and batch normalization. An example for phoneme recognition using the standard TIMIT dataset is provided.
 - [jefflai108/pytorch-kaldi-neural-speaker-embeddings](https://github.com/jefflai108/pytorch-kaldi-neural-speaker-embeddings) - A light weight neural speaker embeddings extraction based on Kaldi and PyTorch.
 - [adrienverge/openfortivpn](https://github.com/adrienverge/openfortivpn) - Client for PPP+SSL VPN tunnel services
-- [apache/apisix](https://github.com/apache/apisix) - The Cloud-Native API Gateway
 - [docker-library/repo-info](https://github.com/docker-library/repo-info) - Extended information (especially license and layer details) about the published Official Images
 - [brendangregg/FlameGraph](https://github.com/brendangregg/FlameGraph) - Stack trace visualizer
 - [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:
@@ -6880,6 +6882,7 @@
 
 ## Python 
 
+- [mikey96/reflection-public](https://github.com/mikey96/reflection-public) - 
 - [yuval-alaluf/restyle-encoder](https://github.com/yuval-alaluf/restyle-encoder) - Official Implementation for "ReStyle: A Residual-Based StyleGAN Encoder via Iterative Refinement" https://arxiv.org/abs/2104.02699
 - [textflint/textflint](https://github.com/textflint/textflint) - Unified Multilingual Robustness Evaluation Toolkit for Natural Language Processing
 - [open-mmlab/mmocr](https://github.com/open-mmlab/mmocr) - OpenMMLab Text Detection, Recognition and Understanding Toolbox
@@ -6896,7 +6899,6 @@
 - [divelab/DIG](https://github.com/divelab/DIG) - A library for graph deep learning research
 - [EleutherAI/gpt-neo](https://github.com/EleutherAI/gpt-neo) - An implementation of model parallel GPT-2 and GPT-3-style models using the mesh-tensorflow library.
 - [pfnet/pysen](https://github.com/pfnet/pysen) - Python linting made easy. Also a casual yet honorific way to address individuals who have entered an organization prior to you.
-- [alan-turing-institute/sktime](https://github.com/alan-turing-institute/sktime) - A unified framework for machine learning with time series
 - [cisagov/CHIRP](https://github.com/cisagov/CHIRP) - A forensic collection tool written in Python.
 - [JialianW/TraDeS](https://github.com/JialianW/TraDeS) - Track to Detect and Segment: An Online Multi-Object Tracker (CVPR 2021)
 - [megvii-model/YOLOF](https://github.com/megvii-model/YOLOF) - 
@@ -9666,7 +9668,6 @@
 - [ergonomica/ergonomica](https://github.com/ergonomica/ergonomica) - 🖥️ a cross-platform modern shell.
 - [yahoo/TensorFlowOnSpark](https://github.com/yahoo/TensorFlowOnSpark) - TensorFlowOnSpark brings TensorFlow programs to Apache Spark clusters.
 - [python/cpython](https://github.com/python/cpython) - The Python programming language
-- [maartenbreddels/ipyvolume](https://github.com/maartenbreddels/ipyvolume) - 3d plotting for Python in the Jupyter notebook based on IPython widgets using WebGL
 - [hyperopt/hyperopt-sklearn](https://github.com/hyperopt/hyperopt-sklearn) - Hyper-parameter optimization for sklearn
 - [not-kennethreitz/typy.io](https://github.com/not-kennethreitz/typy.io) - just type™
 - [Edinburgh-Genome-Foundry/Flametree](https://github.com/Edinburgh-Genome-Foundry/Flametree) - :fire: Python file and zip operations made easy
@@ -12772,7 +12773,6 @@
 - [r-lib/available](https://github.com/r-lib/available) - Check if a package name is available to use
 - [tidyverse/googledrive](https://github.com/tidyverse/googledrive) - Google Drive R API
 - [pablobarbera/Rfacebook](https://github.com/pablobarbera/Rfacebook) - Dev version of Rfacebook package: Access to Facebook API via R
-- [rstudio/bookdown](https://github.com/rstudio/bookdown) - Authoring Books and Technical Documents with R Markdown
 - [tidyverse/purrr](https://github.com/tidyverse/purrr) - A functional programming toolkit for R
 - [ThinkR-open/prompt](https://github.com/ThinkR-open/prompt) - Dynamic prompt
 - [rstudio/keras](https://github.com/rstudio/keras) - R Interface to Keras
@@ -13307,6 +13307,7 @@
 
 - [common-voice/common-voice](https://github.com/common-voice/common-voice) - Common Voice is part of Mozilla's initiative to help teach machines how real people speak.
 - [benawad/dogehouse](https://github.com/benawad/dogehouse) - Taking voice conversations to the moon 🚀
+- [alan-turing-institute/sktime](https://github.com/alan-turing-institute/sktime) - A unified framework for machine learning with time series
 - [jevakallio/git-notify](https://github.com/jevakallio/git-notify) - 🙉 📣 Communicate important updates to your team via git commit messages
 - [jevakallio/vscode-live-frame](https://github.com/jevakallio/vscode-live-frame) - Run your web app inside VS Code
 - [andfanilo/streamlit-drawable-canvas](https://github.com/andfanilo/streamlit-drawable-canvas) - Do you like Quick, Draw? Well what if you could train/predict doodles drawn inside Streamlit? Also draws lines, circles and boxes over background images for annotation.
@@ -13534,6 +13535,7 @@
 - [mattallty/Caporal.js](https://github.com/mattallty/Caporal.js) - A full-featured framework for building command line applications (cli) with node.js
 - [jupyter-widgets/ipywidgets](https://github.com/jupyter-widgets/ipywidgets) - Interactive Widgets for the Jupyter Notebook
 - [DonJayamanne/pythonVSCode](https://github.com/DonJayamanne/pythonVSCode) - This extension is now maintained in the Microsoft fork.
+- [maartenbreddels/ipyvolume](https://github.com/maartenbreddels/ipyvolume) - 3d plotting for Python in the Jupyter notebook based on IPython widgets using WebGL
 - [bdash-app/bdash](https://github.com/bdash-app/bdash) - Simple SQL Client for lightweight data analysis.
 - [react-navigation/react-navigation](https://github.com/react-navigation/react-navigation) - Routing and navigation for your React Native apps
 - [parrot-translate/parrot](https://github.com/parrot-translate/parrot) - Self-hosted Localization Management Platform built with Go and Angular
