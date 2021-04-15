@@ -246,6 +246,7 @@
 - [citusdata/postgresql-topn](https://github.com/citusdata/postgresql-topn) - TopN is an open source PostgreSQL extension that returns the top values in a database according to some criteria
 - [glouw/tinn](https://github.com/glouw/tinn) - A tiny neural network library
 - [jakogut/tinyvm](https://github.com/jakogut/tinyvm) - TinyVM is a small, fast, lightweight virtual machine written in pure ANSI C.
+- [facebookincubator/profilo](https://github.com/facebookincubator/profilo) - A library for performance traces from production.
 - [vakuum/tcptunnel](https://github.com/vakuum/tcptunnel) - A simple TCP port forwarder.
 - [McoyJiang/Android-WebP](https://github.com/McoyJiang/Android-WebP) - this is a demo showing how to display WebP image on Android using framesequence & libgif & libwebp
 - [CoolerVoid/firefox_tunnel](https://github.com/CoolerVoid/firefox_tunnel) - The way to use firefox to make a tunnel to remote communication, bypass  any firewall
@@ -697,7 +698,6 @@
 - [simsong/tcpflow](https://github.com/simsong/tcpflow) - TCP/IP packet demultiplexer. Download from:
 - [stestagg/pytubes](https://github.com/stestagg/pytubes) - A module for getting data into python from large data sources
 - [aras-p/ToyPathTracer](https://github.com/aras-p/ToyPathTracer) - Toy path tracer for my own learning purposes (CPU/GPU, C++/C#, Win/Mac/Wasm, DX11/Metal, also Unity)
-- [facebookincubator/profilo](https://github.com/facebookincubator/profilo) - A library for performance traces from production.
 - [OSGeo/gdal](https://github.com/OSGeo/gdal) - GDAL is an open source X/MIT licensed translator library for raster and vector geospatial data formats.
 - [NervanaSystems/ngraph](https://github.com/NervanaSystems/ngraph) - nGraph has moved to OpenVINO
 - [cheadaq/timer-benchmarks](https://github.com/cheadaq/timer-benchmarks) - Benchmark of different timer queue implementation(min-heap, red-black tree, timer vector)
@@ -1440,6 +1440,7 @@
 - [jcsilva/docker-kaldi-gstreamer-server](https://github.com/jcsilva/docker-kaldi-gstreamer-server) - Dockerfile for kaldi-gstreamer-server.
 - [deepmipt/stand_kubernetes_cluster](https://github.com/deepmipt/stand_kubernetes_cluster) - 
 - [osrf/docker_images](https://github.com/osrf/docker_images) - A repository to hold definitions of docker images maintained by OSRF
+- [microsoft/code-with-engineering-playbook](https://github.com/microsoft/code-with-engineering-playbook) - This is the playbook for "code-with" customer or partner engagements
 - [docker-library/python](https://github.com/docker-library/python) - Docker Official Image packaging for Python
 - [microsoft/mssql-docker](https://github.com/microsoft/mssql-docker) - Official Microsoft repository for SQL Server in Docker resources
 - [appleboy/ssh-action](https://github.com/appleboy/ssh-action) - GitHub Actions for executing remote ssh commands.
@@ -2502,6 +2503,7 @@
 - [jgthms/html-reference](https://github.com/jgthms/html-reference) - HTML Reference: a free guide to all HTML5 elements and attributes
 - [github/training-kit](https://github.com/github/training-kit) - Open source cheat sheets for Git and GitHub
 - [Kurento/doc-kurento-readthedocs](https://github.com/Kurento/doc-kurento-readthedocs) - [READ-ONLY] Auto-generated documentation sources for ReadTheDocs
+- [xlwings/xlwings](https://github.com/xlwings/xlwings) - xlwings is a BSD-licensed Python library that makes it easy to call Python from Excel and vice versa. It works with Microsoft Excel on Windows and macOS. Sign up for the newsletter or follow us on twitter via
 - [samdutton/simpl](https://github.com/samdutton/simpl) - Simplest possible examples of HTML, CSS and Javascript:
 - [CodeBrauer/27daysofcode](https://github.com/CodeBrauer/27daysofcode) - A repo with small projects
 - [sovereign/sovereign](https://github.com/sovereign/sovereign) - A set of Ansible playbooks to build and maintain your own private cloud: email, calendar, contacts, file sync, IRC bouncer, VPN, and more.
@@ -3271,6 +3273,7 @@
 - [joshwcomeau/guppy](https://github.com/joshwcomeau/guppy) - 🐠A friendly application manager and task runner for React.js
 - [imbrn/v8n](https://github.com/imbrn/v8n) - ☑️ JavaScript fluent validation library
 - [segmentio/evergreen](https://github.com/segmentio/evergreen) - 🌲 Evergreen React UI Framework by Segment
+- [malwaredllc/byob](https://github.com/malwaredllc/byob) - An open-source post-exploitation framework for students, researchers and developers.
 - [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
 - [GoogleChromeLabs/ndb](https://github.com/GoogleChromeLabs/ndb) - ndb is an improved debugging experience for Node.js, enabled by Chrome DevTools
 - [mourner/road-orientation-map](https://github.com/mourner/road-orientation-map) - A visualization of road orientations on an interactive map
@@ -4454,7 +4457,6 @@
 - [dilyararimovna/text_expansion](https://github.com/dilyararimovna/text_expansion) - Russian Text Expansion based on ruGPT3Large
 - [Glorf/recipenlg](https://github.com/Glorf/recipenlg) - Set of scripts and notebooks used to produce results visible in RecipeNLG paper
 - [vijishmadhavan/ArtLine](https://github.com/vijishmadhavan/ArtLine) - A Deep Learning based project for creating line art portraits.
-- [dellacortelab/prospr](https://github.com/dellacortelab/prospr) - ProSPr: Protein Structure Prediction
 - [RussianNLP/RussianSuperGLUE](https://github.com/RussianNLP/RussianSuperGLUE) - Russian SuperGLUE benchmark
 - [cjph8914/2020_benfords](https://github.com/cjph8914/2020_benfords) - 
 - [google-research/vision_transformer](https://github.com/google-research/vision_transformer) - 
@@ -6899,6 +6901,7 @@
 - [divelab/DIG](https://github.com/divelab/DIG) - A library for graph deep learning research
 - [EleutherAI/gpt-neo](https://github.com/EleutherAI/gpt-neo) - An implementation of model parallel GPT-2 and GPT-3-style models using the mesh-tensorflow library.
 - [pfnet/pysen](https://github.com/pfnet/pysen) - Python linting made easy. Also a casual yet honorific way to address individuals who have entered an organization prior to you.
+- [alan-turing-institute/sktime](https://github.com/alan-turing-institute/sktime) - A unified framework for machine learning with time series
 - [cisagov/CHIRP](https://github.com/cisagov/CHIRP) - A forensic collection tool written in Python.
 - [JialianW/TraDeS](https://github.com/JialianW/TraDeS) - Track to Detect and Segment: An Online Multi-Object Tracker (CVPR 2021)
 - [megvii-model/YOLOF](https://github.com/megvii-model/YOLOF) - 
@@ -7014,6 +7017,7 @@
 - [JDAI-CV/centerX](https://github.com/JDAI-CV/centerX) - This repo is implemented based on detectron2 and centernet
 - [fundamentalvision/Deformable-DETR](https://github.com/fundamentalvision/Deformable-DETR) - Deformable DETR: Deformable Transformers for End-to-End Object Detection.
 - [KasperskyLab/TinyCheck](https://github.com/KasperskyLab/TinyCheck) - TinyCheck allows you to easily capture network communications from a smartphone or any device which can be associated to a Wi-Fi access point in order to quickly analyze them. This can be used to check if any suspect or malicious communication is outgoing from a smartphone, by using heuristics or specific Indicators of Compromise (IoCs). In order to make it working, you need a computer with a Debian-like operating system and two Wi-Fi interfaces. The best choice is to use a Raspberry Pi (2+) a Wi-Fi dongle and a small touch screen. This tiny configuration (for less than $50) allows you to tap any Wi-Fi device, anywhere.
+- [dellacortelab/prospr](https://github.com/dellacortelab/prospr) - ProSPr: Protein Structure Prediction
 - [prajjwal1/fluence](https://github.com/prajjwal1/fluence) - A deep learning library based on Pytorch focussed on low resource language research and robustness
 - [BenevolentAI/MolBERT](https://github.com/BenevolentAI/MolBERT) - 
 - [PeizeSun/SparseR-CNN](https://github.com/PeizeSun/SparseR-CNN) - End-to-End Object Detection with Learnable Proposal, CVPR2021
@@ -7881,7 +7885,7 @@
 - [huggingface/pytorch-pretrained-BigGAN](https://github.com/huggingface/pytorch-pretrained-BigGAN) - 🦋A PyTorch implementation of BigGAN with pretrained weights and conversion scripts.
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [Wookai/paper-tips-and-tricks](https://github.com/Wookai/paper-tips-and-tricks) - Best practice and tips & tricks to write scientific papers in LaTeX, with figures generated in Python or Matlab.
-- [SharpAI/DeepCamera](https://github.com/SharpAI/DeepCamera) - Open source face recognition on Raspberry Pi. SharpAI is open source stack for machine learning engineering with private deployment and AutoML for edge computing.  DeepCamera is application of SharpAI designed for connecting computer vision model to surveillance camera. Developers can run same code on Raspberry Pi/Android/PC/AWS to boost your AI production development.
+- [SharpAI/DeepCamera](https://github.com/SharpAI/DeepCamera) - Open Source Object Detection/Face Recognition on AIoT devices.
 - [singh-shreya6/Navigation-Assistant](https://github.com/singh-shreya6/Navigation-Assistant) - A Navigation Assistant for the visually impaired using Speech to Text, Object Detection and Text to Speech in python
 - [sharif1093/digideep](https://github.com/sharif1093/digideep) - A Deep Reinforcement Learning (DeepRL) package for RL algorithm developers.
 - [zjhuang22/maskscoring_rcnn](https://github.com/zjhuang22/maskscoring_rcnn) - Codes for paper "Mask Scoring R-CNN".
@@ -8357,7 +8361,6 @@
 - [techbanca/coinai](https://github.com/techbanca/coinai) - Seed applications based on AI for digital currency quantitative analysis, medium-term forecast and asset allocation for the secondary market of the BANCA community
 - [quantumlib/Cirq](https://github.com/quantumlib/Cirq) - A python framework for creating, editing, and invoking Noisy Intermediate Scale Quantum (NISQ) circuits.
 - [s0md3v/Photon](https://github.com/s0md3v/Photon) - Incredibly fast crawler designed for OSINT.
-- [malwaredllc/byob](https://github.com/malwaredllc/byob) - An open-source post-exploitation framework for students, researchers and developers.
 - [mkaz/termgraph](https://github.com/mkaz/termgraph) - a python command-line tool which draws basic graphs in the terminal
 - [DinoTools/python-overpy](https://github.com/DinoTools/python-overpy) - Python Wrapper to access the Overpass API
 - [Grokzen/pykwalify](https://github.com/Grokzen/pykwalify) - Python YAML/JSON schema validation library
@@ -9702,7 +9705,6 @@
 - [willkg/everett](https://github.com/willkg/everett) - configuration library for python projects
 - [autorope/donkeycar](https://github.com/autorope/donkeycar) - Open source hardware and software platform to build a small scale self driving car.
 - [adtac/exterminate](https://github.com/adtac/exterminate) - Break Python programs with a single import
-- [xlwings/xlwings](https://github.com/xlwings/xlwings) - xlwings is a BSD-licensed Python library that makes it easy to call Python from Excel and vice versa. It works with Microsoft Excel on Windows and macOS. Sign up for the newsletter or follow us on twitter via
 - [number5/cloud-init](https://github.com/number5/cloud-init) - unofficial mirror of Ubuntu's  cloud-init
 - [jpetrucciani/bucketstore](https://github.com/jpetrucciani/bucketstore) - A simple library for interacting with Amazon S3.
 - [yunjey/domain-transfer-network](https://github.com/yunjey/domain-transfer-network) - TensorFlow Implementation of Unsupervised Cross-Domain Image Generation
@@ -12879,7 +12881,6 @@
 
 ## Ruby 
 
-- [microsoft/code-with-engineering-playbook](https://github.com/microsoft/code-with-engineering-playbook) - This is the playbook for "code-with" customer or partner engagements
 - [alexeygrigorev/data-science-interviews](https://github.com/alexeygrigorev/data-science-interviews) - Data science interview questions and answers
 - [tompng/air_hockey_quine](https://github.com/tompng/air_hockey_quine) - Network Battle Air Hockey Quine
 - [brotandgames/ciao](https://github.com/brotandgames/ciao) - HTTP checks & tests (private & public) monitoring - check the status of your URL
@@ -13307,7 +13308,6 @@
 
 - [common-voice/common-voice](https://github.com/common-voice/common-voice) - Common Voice is part of Mozilla's initiative to help teach machines how real people speak.
 - [benawad/dogehouse](https://github.com/benawad/dogehouse) - Taking voice conversations to the moon 🚀
-- [alan-turing-institute/sktime](https://github.com/alan-turing-institute/sktime) - A unified framework for machine learning with time series
 - [jevakallio/git-notify](https://github.com/jevakallio/git-notify) - 🙉 📣 Communicate important updates to your team via git commit messages
 - [jevakallio/vscode-live-frame](https://github.com/jevakallio/vscode-live-frame) - Run your web app inside VS Code
 - [andfanilo/streamlit-drawable-canvas](https://github.com/andfanilo/streamlit-drawable-canvas) - Do you like Quick, Draw? Well what if you could train/predict doodles drawn inside Streamlit? Also draws lines, circles and boxes over background images for annotation.
