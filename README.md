@@ -529,6 +529,7 @@
 - [Haivision/srt](https://github.com/Haivision/srt) - Secure, Reliable, Transport
 - [MultiMC/MultiMC5](https://github.com/MultiMC/MultiMC5) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once
 - [zealdocs/zeal](https://github.com/zealdocs/zeal) - Offline documentation browser inspired by Dash
+- [google/tink](https://github.com/google/tink) - Tink is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.
 - [wangyu-/udp2raw-tunnel](https://github.com/wangyu-/udp2raw-tunnel) - A Tunnel which Turns UDP Traffic into Encrypted UDP/FakeTCP/ICMP Traffic by using Raw Socket,helps you Bypass UDP FireWalls(or Unstable UDP Environment)
 - [google/re2](https://github.com/google/re2) - RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.
 - [erincatto/box2d](https://github.com/erincatto/box2d) - Box2D is a 2D physics engine for games
@@ -560,7 +561,7 @@
 - [OpenTTD/OpenTTD](https://github.com/OpenTTD/OpenTTD) - OpenTTD is an open source simulation game based upon Transport Tycoon Deluxe
 - [Errichto/youtube](https://github.com/Errichto/youtube) - codes for my streams and YT videos
 - [openscenegraph/OpenSceneGraph](https://github.com/openscenegraph/OpenSceneGraph) - OpenSceneGraph git repository
-- [ossrs/srs](https://github.com/ossrs/srs) - SRS is a RTMP/HLS/WebRTC/SRT/GB28181 streaming cluster, high efficiency, stable and simple.
+- [ossrs/srs](https://github.com/ossrs/srs) - SRS is a simple, high efficiency and realtime video server, supports RTMP/WebRTC/HLS/HTTP-FLV/SRT/GB28181/RTSP.
 - [JoeyDeVries/LearnOpenGL](https://github.com/JoeyDeVries/LearnOpenGL) - Code repository of all OpenGL chapters from the book and its accompanying website https://learnopengl.com
 - [GraphIt-DSL/graphit](https://github.com/GraphIt-DSL/graphit) - GraphIt - A High-Performance Domain Specific Language for Graph Analytics
 - [milvus-io/milvus](https://github.com/milvus-io/milvus) - An open source embedding vector similarity search engine powered by Faiss, NMSLIB and Annoy
@@ -638,7 +639,7 @@
 - [arrayfire/arrayfire](https://github.com/arrayfire/arrayfire) - ArrayFire: a general purpose GPU library.
 - [NVIDIAGameWorks/PhysX](https://github.com/NVIDIAGameWorks/PhysX) - NVIDIA PhysX SDK
 - [sfzhang15/FaceBoxes](https://github.com/sfzhang15/FaceBoxes) - FaceBoxes: A CPU Real-time Face Detector with High Accuracy, IJCB, 2017
-- [facebookresearch/flashlight](https://github.com/facebookresearch/flashlight) - A C++ standalone library for machine learning
+- [flashlight/flashlight](https://github.com/flashlight/flashlight) - A C++ standalone library for machine learning
 - [huxingyi/dust3d](https://github.com/huxingyi/dust3d) - :dromedary_camel: Dust3D is a cross-platform open-source 3D modeling software. Auto UV unwrapping, auto rigging with PBR Material support, pose and motion authoring all in one.
 - [PX4/PX4-Autopilot](https://github.com/PX4/PX4-Autopilot) - PX4 Autopilot Software
 - [ucbrise/confluo](https://github.com/ucbrise/confluo) - Real-time Monitoring and Analysis of Data Streams
@@ -2381,7 +2382,6 @@
 - [tc39/proposal-partial-application](https://github.com/tc39/proposal-partial-application) - Proposal to add partial application to ECMAScript
 - [devops-israel/aws-inventory](https://github.com/devops-israel/aws-inventory) - AWS Inventory in a single HTML file using JS AWS-SDK & Bootstrap
 - [daxeel/blockshell](https://github.com/daxeel/blockshell) - 🎉  Minimal Blockchain Learning CLI
-- [ANXS/postgresql](https://github.com/ANXS/postgresql) - Fairly full featured Ansible role for Postgresql.
 - [dev-sec/ansible-collection-hardening](https://github.com/dev-sec/ansible-collection-hardening) - This Ansible collection provides battle tested hardening for Linux, SSH, nginx, MySQL
 - [opencode18/OpenCode-Collaborative](https://github.com/opencode18/OpenCode-Collaborative) - Best place to start Open Source and learn development.
 - [whatwg/html](https://github.com/whatwg/html) - HTML Standard
@@ -2720,7 +2720,6 @@
 - [vespa-engine/vespa](https://github.com/vespa-engine/vespa) - The open big data serving engine. https://vespa.ai
 - [DataStax-Academy/cassandra-workshop-series](https://github.com/DataStax-Academy/cassandra-workshop-series) - All materials for the Cassandra Workshop Series in a single place
 - [alibaba/spring-cloud-alibaba](https://github.com/alibaba/spring-cloud-alibaba) - Spring Cloud Alibaba provides a one-stop solution for application development for the distributed solutions of Alibaba middleware.
-- [google/tink](https://github.com/google/tink) - Tink is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.
 - [uber/piranha](https://github.com/uber/piranha) - A tool for refactoring code related to feature flag APIs
 - [williamfiset/Algorithms](https://github.com/williamfiset/Algorithms) - A collection of algorithms and data structures
 - [eugenp/tutorials](https://github.com/eugenp/tutorials) - Just Announced - "Learn Spring Security OAuth":
@@ -2937,7 +2936,7 @@
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [hygieia/Hygieia](https://github.com/hygieia/Hygieia) - CapitalOne  DevOps Dashboard
 - [fomantic/Fomantic-UI](https://github.com/fomantic/Fomantic-UI) - Fomantic-UI is a community fork of Semantic-UI
-- [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of 5000+ publicly available IPTV channels from all over the world
+- [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [nuysoft/Mock](https://github.com/nuysoft/Mock) - A simulation data generator
 - [iSa1vatore/vk-mini-app-boilerplate](https://github.com/iSa1vatore/vk-mini-app-boilerplate) - Стартовый кит для создания сервиса на платформе VK Mini Apps с использованием React + Redux
 - [mapbox/geojson.io](https://github.com/mapbox/geojson.io) - IMPORTANT: development of this project has been paused, see the README (fast, simple map creation)
@@ -4209,7 +4208,7 @@
 - [square/cubism](https://github.com/square/cubism) - Cubism.js: A JavaScript library for time series visualization.
 - [plouc/mozaik](https://github.com/plouc/mozaik) - Mozaïk is a tool based on nodejs / react / redux / nivo / d3 to easily craft beautiful dashboards
 - [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - 📝 Modern documentation format and toolchain using Git and Markdown
-- [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
+- [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D library.
 - [aurelia/framework](https://github.com/aurelia/framework) - The Aurelia 1 framework entry point, bringing together all the required sub-modules of Aurelia.
 - [OnsenUI/OnsenUI](https://github.com/OnsenUI/OnsenUI) - Mobile app development framework and SDK using HTML5 and JavaScript. Create beautiful and performant cross-platform mobile apps. Based on Web Components, and provides bindings for Angular 1, 2, React and Vue.js.
 - [angular-ui/ui-map](https://github.com/angular-ui/ui-map) - Google Maps
@@ -4403,6 +4402,7 @@
 
 - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
 - [geerlingguy/ansible-role-nginx](https://github.com/geerlingguy/ansible-role-nginx) - Ansible Role - Nginx
+- [ANXS/postgresql](https://github.com/ANXS/postgresql) - Fairly full featured Ansible role for Postgresql.
 
 ## Jsonnet 
 
@@ -6884,6 +6884,7 @@
 
 ## Python 
 
+- [nalgeon/dataviz](https://github.com/nalgeon/dataviz) - Data visualization guide for presentations, reports, and dashboards
 - [mikey96/reflection-public](https://github.com/mikey96/reflection-public) - 
 - [yuval-alaluf/restyle-encoder](https://github.com/yuval-alaluf/restyle-encoder) - Official Implementation for "ReStyle: A Residual-Based StyleGAN Encoder via Iterative Refinement" https://arxiv.org/abs/2104.02699
 - [textflint/textflint](https://github.com/textflint/textflint) - Unified Multilingual Robustness Evaluation Toolkit for Natural Language Processing
@@ -7025,7 +7026,7 @@
 - [haven-ai/haven-ai](https://github.com/haven-ai/haven-ai) - 
 - [alphacep/tn2-wg](https://github.com/alphacep/tn2-wg) - Tacotron2 + Waveglow Russian
 - [sovaai/sova-asr](https://github.com/sovaai/sova-asr) - SOVA ASR (Automatic Speech Recognition)
-- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: End-to-end Python framework for building natural language search interfaces to data. Leverages Transformers and the State-of-the-Art of NLP. Supports DPR, Elasticsearch, HuggingFace’s Modelhub, and much more!
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: End-to-end Python framework for building natural language search interfaces to data. Leverages Transformers and the State-of-the-Art of NLP. Supports DPR, Elasticsearch, Hugging Face’s Hub, and much more!
 - [bentoml/BentoML](https://github.com/bentoml/BentoML) - Model Serving Made Easy
 - [eisen-ai/eisen-core](https://github.com/eisen-ai/eisen-core) - Core functionality of Eisen
 - [vector-ai/vectorhub](https://github.com/vector-ai/vectorhub) - Vector Hub - Library for easy discovery, and consumption of State-of-the-art models to turn data into vectors. (text2vec, image2vec, video2vec, graph2vec, bert, inception, etc)
@@ -7037,7 +7038,7 @@
 - [psinger/kaggle-landmark-recognition-2020-1st-place](https://github.com/psinger/kaggle-landmark-recognition-2020-1st-place) - 
 - [lucidrains/vit-pytorch](https://github.com/lucidrains/vit-pytorch) - Implementation of Vision Transformer, a simple way to achieve SOTA in vision classification with only a single transformer encoder, in Pytorch
 - [genforce/genforce](https://github.com/genforce/genforce) - GenForce: an efficient PyTorch library for deep generative modeling (StyleGANv1v2, PGGAN, etc)
-- [abhishekkrthakur/colabcode](https://github.com/abhishekkrthakur/colabcode) - Run VSCode (codeserver) on Google Colab or Kaggle Notebooks
+- [abhi1thakur/colabcode](https://github.com/abhi1thakur/colabcode) - Run VSCode (codeserver) on Google Colab or Kaggle Notebooks
 - [cleardusk/3DDFA_V2](https://github.com/cleardusk/3DDFA_V2) - The official PyTorch implementation of Towards Fast, Accurate and Stable 3D Dense Face Alignment, ECCV 2020.
 - [vchoutas/expose](https://github.com/vchoutas/expose) - ExPose - EXpressive POse and Shape rEgression
 - [nolar/kopf](https://github.com/nolar/kopf) - A Python framework to write Kubernetes operators in just a few lines of code
@@ -10008,7 +10009,7 @@
 - [ctuning/ck-tensorflow](https://github.com/ctuning/ck-tensorflow) - Collective Knowledge components for TensorFlow (code, data sets, models, packages, workflows):
 - [romanvm/python-web-pdb](https://github.com/romanvm/python-web-pdb) - Web-based remote UI for Python's PDB debugger
 - [ctuning/ck-autotuning](https://github.com/ctuning/ck-autotuning) - CK automation actions to let users implement portable, customizable and reusable program workflows for reproducible, collaborative and multi-objective benchmarking, optimization and SW/HW co-design:
-- [ctuning/ck](https://github.com/ctuning/ck) - Collective Knowledge framework (CK) helps to organize black-box research software as a database of reusable components and micro-services with common APIs, automation actions and extensible meta descriptions. See real-world use cases from Arm, General Motors, ACM, Raspberry Pi foundation and others:
+- [ctuning/ck](https://github.com/ctuning/ck) - Collective Knowledge framework (CK) helps to organize black-box research software as a database of reusable components and micro-services with common APIs, automation actions and extensible meta descriptions. See real-world use cases from Arm, General Motors, ACM, Raspberry Pi foundation and other partners:
 - [somewacko/deconvfaces](https://github.com/somewacko/deconvfaces) - Generating faces with deconvolution networks
 - [kootenpv/whereami](https://github.com/kootenpv/whereami) - Uses WiFi signals :signal_strength: and machine learning to predict where you are
 - [openimages/dataset](https://github.com/openimages/dataset) - The Open Images dataset
@@ -12959,7 +12960,7 @@
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [huggingface/tokenizers](https://github.com/huggingface/tokenizers) - 💥 Fast State-of-the-Art Tokenizers optimized for Research and Production
 - [MailRuChamps/raic-2019](https://github.com/MailRuChamps/raic-2019) - Russian AI Cup — artificial intelligence programming contest. Official website: http://russianaicup.ru
-- [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line and application launchers
+- [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [indygreg/PyOxidizer](https://github.com/indygreg/PyOxidizer) - A modern Python application packaging and distribution tool
 - [diem/diem](https://github.com/diem/diem) - Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world.
 - [calebwin/emu](https://github.com/calebwin/emu) - The write-once-run-anywhere GPGPU library for Rust
