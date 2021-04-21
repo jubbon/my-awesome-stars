@@ -124,6 +124,7 @@
 
 - [nanochess/Invaders](https://github.com/nanochess/Invaders) - Invaders game in 512 bytes (boot sector)
 - [algorithm-archivists/algorithm-archive](https://github.com/algorithm-archivists/algorithm-archive) - A collaborative book on algorithms
+- [versatica/mediasoup](https://github.com/versatica/mediasoup) - Cutting Edge WebRTC Video Conferencing
 - [ROCmSoftwarePlatform/MIOpen](https://github.com/ROCmSoftwarePlatform/MIOpen) - AMD's Machine Intelligence Library
 
 ## Awk 
@@ -765,7 +766,6 @@
 - [codilime/veles](https://github.com/codilime/veles) - Binary data analysis and visualization tool
 - [onnx/onnx](https://github.com/onnx/onnx) - Open standard for machine learning interoperability
 - [apache/incubator-doris](https://github.com/apache/incubator-doris) - Apache Doris (Incubating)
-- [versatica/mediasoup](https://github.com/versatica/mediasoup) - Cutting Edge WebRTC Video Conferencing
 - [numworks/epsilon](https://github.com/numworks/epsilon) - Modern graphing calculator operating system.
 - [warmspringwinds/pytorch-cpp](https://github.com/warmspringwinds/pytorch-cpp) - Pytorch C++ Library
 - [Tencent/paxosstore](https://github.com/Tencent/paxosstore) - PaxosStore has been deployed in WeChat production for more than two years, providing storage services for the core businesses of WeChat backend. Now PaxosStore is running on thousands of machines, and is able to afford billions of peak TPS.
@@ -1438,7 +1438,6 @@
 - [jcsilva/docker-kaldi-gstreamer-server](https://github.com/jcsilva/docker-kaldi-gstreamer-server) - Dockerfile for kaldi-gstreamer-server.
 - [deepmipt/stand_kubernetes_cluster](https://github.com/deepmipt/stand_kubernetes_cluster) - 
 - [osrf/docker_images](https://github.com/osrf/docker_images) - A repository to hold definitions of docker images maintained by OSRF
-- [microsoft/code-with-engineering-playbook](https://github.com/microsoft/code-with-engineering-playbook) - This is the playbook for "code-with" customer or partner engagements
 - [docker-library/python](https://github.com/docker-library/python) - Docker Official Image packaging for Python
 - [microsoft/mssql-docker](https://github.com/microsoft/mssql-docker) - Official Microsoft repository for SQL Server in Docker resources
 - [appleboy/ssh-action](https://github.com/appleboy/ssh-action) - GitHub Actions for executing remote ssh commands.
@@ -2484,7 +2483,6 @@
 - [greenelab/deep-review](https://github.com/greenelab/deep-review) - A collaboratively written review paper on deep learning, genomics, and precision medicine
 - [khan4019/angular-interview-questions](https://github.com/khan4019/angular-interview-questions) - Most extensive Angular interview questions based on your level.
 - [ElemeFE/node-interview](https://github.com/ElemeFE/node-interview) - How to pass the Node.js interview of ElemeFE.
-- [Stouts/Stouts.openvpn](https://github.com/Stouts/Stouts.openvpn) - Ansible role to install and configure OpenVPN server
 - [geerlingguy/ansible-role-nodejs](https://github.com/geerlingguy/ansible-role-nodejs) - Ansible Role - Node.js
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [chromium/badssl.com](https://github.com/chromium/badssl.com) - :lock: Memorable site for testing clients against bad SSL configs.
@@ -4402,6 +4400,7 @@
 - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
 - [geerlingguy/ansible-role-nginx](https://github.com/geerlingguy/ansible-role-nginx) - Ansible Role - Nginx
 - [ANXS/postgresql](https://github.com/ANXS/postgresql) - Fairly full featured Ansible role for Postgresql.
+- [Stouts/Stouts.openvpn](https://github.com/Stouts/Stouts.openvpn) - Ansible role to install and configure OpenVPN server
 
 ## Jsonnet 
 
@@ -6877,6 +6876,7 @@
 
 ## Python 
 
+- [princeton-nlp/SimCSE](https://github.com/princeton-nlp/SimCSE) - 
 - [jorgehpo/notebookJS](https://github.com/jorgehpo/notebookJS) - notebookJS: seamless JavaScript integration in Python Notebooks
 - [open-mmlab/mmgeneration](https://github.com/open-mmlab/mmgeneration) - MMGeneration is a powerful toolkit for generative models, based on PyTorch and MMCV.
 - [nalgeon/dataviz](https://github.com/nalgeon/dataviz) - Data visualization guide for presentations, reports, and dashboards
@@ -8574,7 +8574,7 @@
 - [649/Memcrashed-DDoS-Exploit](https://github.com/649/Memcrashed-DDoS-Exploit) - DDoS attack tool for sending forged UDP packets to vulnerable Memcached servers obtained using Shodan API
 - [omikun/ForceNap](https://github.com/omikun/ForceNap) - Suspend any one Mac OS apps when not in focus
 - [jaywink/socialhome](https://github.com/jaywink/socialhome) - A federated social home
-- [sa7mon/S3Scanner](https://github.com/sa7mon/S3Scanner) - Scan for open AWS S3 buckets and dump the contents
+- [sa7mon/S3Scanner](https://github.com/sa7mon/S3Scanner) - Scan for open S3 buckets and dump the contents
 - [netromdk/vermin](https://github.com/netromdk/vermin) - Concurrently detect the minimum Python versions needed to run code
 - [thonmakerformvp/econ-sim](https://github.com/thonmakerformvp/econ-sim) - An attempt to simulate markets and economies in python.
 - [tomahim/py-image-dataset-generator](https://github.com/tomahim/py-image-dataset-generator) - Get a large image dataset with minimal effort by grabbing image through the web and generate new ones by image augmentation.
@@ -12685,7 +12685,7 @@
 - [python-pillow/Pillow](https://github.com/python-pillow/Pillow) - The friendly PIL fork (Python Imaging Library)
 - [mathics/Mathics](https://github.com/mathics/Mathics) - A general-purpose computer algebra system.
 - [NahimNasser/django-unchained](https://github.com/NahimNasser/django-unchained) - Introduction to Python and Django
-- [BuongiornoMIP/Reding](https://github.com/BuongiornoMIP/Reding) - Rating on Redis - REST API on Flask
+- [DVS-devtools/Reding](https://github.com/DVS-devtools/Reding) - Rating on Redis - REST API on Flask
 - [alonho/pql](https://github.com/alonho/pql) - A python expression to MongoDB query translator
 - [licenses/lice](https://github.com/licenses/lice) - Generate license files for your projects
 - [jtauber/quantumpy](https://github.com/jtauber/quantumpy) - basic quantum computing concepts implemented in Python
@@ -12800,7 +12800,7 @@
 - [google/CausalImpact](https://github.com/google/CausalImpact) - An R package for causal inference in time series
 - [swirldev/swirl](https://github.com/swirldev/swirl) - :cyclone: Learn R, in R.
 - [rstudio/ggvis](https://github.com/rstudio/ggvis) - Interactive grammar of graphics for R
-- [hadley/nycflights13](https://github.com/hadley/nycflights13) - An R data package containing all out-bound flights from NYC in 2013 + useful metdata
+- [tidyverse/nycflights13](https://github.com/tidyverse/nycflights13) - An R data package containing all out-bound flights from NYC in 2013 + useful metdata
 - [dankelley/oce](https://github.com/dankelley/oce) - R package for oceanographic processing
 - [ndphillips/yarrr](https://github.com/ndphillips/yarrr) - An R package for conducting all sorts of R piratery
 - [USGS-VIZLAB/CIDA-Viz](https://github.com/USGS-VIZLAB/CIDA-Viz) - Datasets and docs for CIDA's data visualization challenge
@@ -12876,6 +12876,7 @@
 
 ## Ruby 
 
+- [microsoft/code-with-engineering-playbook](https://github.com/microsoft/code-with-engineering-playbook) - This is the playbook for "code-with" customer or partner engagements
 - [alexeygrigorev/data-science-interviews](https://github.com/alexeygrigorev/data-science-interviews) - Data science interview questions and answers
 - [tompng/air_hockey_quine](https://github.com/tompng/air_hockey_quine) - Network Battle Air Hockey Quine
 - [brotandgames/ciao](https://github.com/brotandgames/ciao) - HTTP checks & tests (private & public) monitoring - check the status of your URL
