@@ -369,6 +369,7 @@
 - [tsl0922/ttyd](https://github.com/tsl0922/ttyd) - Share your terminal over the web
 - [offensive-security/exploitdb](https://github.com/offensive-security/exploitdb) - The official Exploit Database repository
 - [nbs-system/naxsi](https://github.com/nbs-system/naxsi) - NAXSI is an open-source, high performance, low rules maintenance WAF for NGINX
+- [psycopg/psycopg2](https://github.com/psycopg/psycopg2) - PostgreSQL database adapter for the Python programming language
 - [GlacierW/MBA](https://github.com/GlacierW/MBA) - Malware Behavior Analyzer
 - [citusdata/pg_cron](https://github.com/citusdata/pg_cron) - Run periodic jobs in PostgreSQL
 - [espressif/esp-idf](https://github.com/espressif/esp-idf) - Espressif IoT Development Framework. Official development framework for ESP32.
@@ -2277,7 +2278,6 @@
 - [tc39/proposal-promise-any](https://github.com/tc39/proposal-promise-any) - ECMAScript proposal: Promise.any
 - [tc39/proposal-promise-allSettled](https://github.com/tc39/proposal-promise-allSettled) - ECMAScript Proposal, specs, and reference implementation for Promise.allSettled
 - [tc39/proposal-optional-catch-binding](https://github.com/tc39/proposal-optional-catch-binding) - proposal for ECMAScript to allow omission of the catch binding
-- [ansible/workshops](https://github.com/ansible/workshops) - Training Course for Ansible Automation Platform
 - [DankNeon/vscode](https://github.com/DankNeon/vscode) - A danker, more neon theme for VS Code
 - [Show-Me-the-Code/python](https://github.com/Show-Me-the-Code/python) - Show Me the Code Python version.
 - [hjacobs/kubernetes-failure-stories](https://github.com/hjacobs/kubernetes-failure-stories) - Compilation of public failure/horror stories related to Kubernetes
@@ -2772,7 +2772,7 @@
 - [llSourcell/A_Guide_to_Running_Tensorflow_Models_on_Android](https://github.com/llSourcell/A_Guide_to_Running_Tensorflow_Models_on_Android) - This is the code for"A Guide to Running Tensorflow Models on Android" By SIraj Raval on Youtube
 - [olacabs/jackhammer](https://github.com/olacabs/jackhammer) - Jackhammer - One Security vulnerability assessment/management tool to solve all the security team problems.
 - [ICT-BDA/EasyML](https://github.com/ICT-BDA/EasyML) - Easy Machine Learning is a general-purpose dataflow-based system for easing the process of applying machine learning algorithms to real world tasks.
-- [apache/systemds](https://github.com/apache/systemds) - Mirror of Apache SystemML
+- [apache/systemds](https://github.com/apache/systemds) - Apache SystemDS - A versatile system for the end-to-end data science lifecycle
 - [firebase/FirebaseUI-Android](https://github.com/firebase/FirebaseUI-Android) - Optimized UI components for Firebase
 - [MindorksOpenSource/from-java-to-kotlin](https://github.com/MindorksOpenSource/from-java-to-kotlin) - From Java To Kotlin - Your Cheat Sheet For Java To Kotlin
 - [sherxon/AlgoDS](https://github.com/sherxon/AlgoDS) - Implementation of Algorithms and Data Structures, Problems and Solutions
@@ -3189,7 +3189,6 @@
 - [alexkim205/G-Desktop-Suite](https://github.com/alexkim205/G-Desktop-Suite) - Google Suite as a desktop app. Made possible with Electron.
 - [radonjs/Radon](https://github.com/radonjs/Radon) - Object oriented state management solution for front-end development.
 - [wesbos/Advanced-React](https://github.com/wesbos/Advanced-React) - Starter Files and Solutions for Full Stack Advanced React and GraphQL
-- [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - A renderless rich-text editor for Vue.js
 - [ballercat/walt](https://github.com/ballercat/walt) - :zap: Walt is a JavaScript-like syntax for WebAssembly text format :zap:
 - [FortAwesome/vue-fontawesome](https://github.com/FortAwesome/vue-fontawesome) - Font Awesome 5 Vue component
 - [kineticadb/kinetica-kickbox-mapbox-gl](https://github.com/kineticadb/kinetica-kickbox-mapbox-gl) - A code-acceleration and interoperability library for Kinetica and Mapbox
@@ -3690,6 +3689,7 @@
 - [websiddu/sketch-material](https://github.com/websiddu/sketch-material) - Sketch material is a sketch plugin that will help you generate complex material components like tables, chips, forms etc…
 - [ror-y/vue-axios-example](https://github.com/ror-y/vue-axios-example) - 
 - [kevinongko/vue-numeric](https://github.com/kevinongko/vue-numeric) - Input field component to display a formatted currency value based on Vue.js
+- [overtrue/vue-avatar-cropper](https://github.com/overtrue/vue-avatar-cropper) - :girl: A simple and elegant avatar cropping and upload plugin.
 - [egoist/poi](https://github.com/egoist/poi) - ⚡A zero-config bundler for JavaScript applications.
 - [egoist/vuepack](https://github.com/egoist/vuepack) - :package: A modern starter  which uses Vue 2, Vuex, Vue-router and Webpack 2 (and even Electron)
 - [alanshaw/markdown-pdf](https://github.com/alanshaw/markdown-pdf) - :page_facing_up: Markdown to PDF converter
@@ -4398,6 +4398,7 @@
 ## Jinja 
 
 - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
+- [ansible/workshops](https://github.com/ansible/workshops) - Training Course for Ansible Automation Platform
 - [geerlingguy/ansible-role-nginx](https://github.com/geerlingguy/ansible-role-nginx) - Ansible Role - Nginx
 - [ANXS/postgresql](https://github.com/ANXS/postgresql) - Fairly full featured Ansible role for Postgresql.
 - [Stouts/Stouts.openvpn](https://github.com/Stouts/Stouts.openvpn) - Ansible role to install and configure OpenVPN server
@@ -4595,7 +4596,7 @@
 - [MrGeislinger/UdacityNLPND_MiniProject_AttentionBasics](https://github.com/MrGeislinger/UdacityNLPND_MiniProject_AttentionBasics) - Optional Mini-Project for Udacity's NLPND about attention learning
 - [MrinmoiHossain/Udacity-Deep-Learning-Nanodegree](https://github.com/MrinmoiHossain/Udacity-Deep-Learning-Nanodegree) - The course is contained knowledge that are useful to work on deep learning as an engineer. Simple neural networks & training, CNN, Autoencoders and feature extraction, Transfer learning, RNN, LSTM, NLP, Data augmentation, GANs, Hyperparameter tuning, Model deployment and serving are included in the course.
 - [joanby/masters-desarrollo-udemy](https://github.com/joanby/masters-desarrollo-udemy) - 
-- [onnx/tensorflow-onnx](https://github.com/onnx/tensorflow-onnx) - Convert TensorFlow models to ONNX
+- [onnx/tensorflow-onnx](https://github.com/onnx/tensorflow-onnx) - Convert TensorFlow, Keras and Tflite models to ONNX
 - [flow-project/ITSC2018_Workshop](https://github.com/flow-project/ITSC2018_Workshop) - 
 - [KyleBanks/conways-gol-cnn](https://github.com/KyleBanks/conways-gol-cnn) - A convolutional neural network that plays Conway's Game of Life.
 - [criteo-research/reco-gym](https://github.com/criteo-research/reco-gym) - Code for reco-gym: A Reinforcement Learning Environment for the problem of Product Recommendation in Online Advertising
@@ -6876,7 +6877,8 @@
 
 ## Python 
 
-- [princeton-nlp/SimCSE](https://github.com/princeton-nlp/SimCSE) - 
+- [microsoft/ProphetNet](https://github.com/microsoft/ProphetNet) - ProphetNet: Predicting Future N-gram for Sequence-to-Sequence Pre-training https://arxiv.org/pdf/2001.04063.pdf
+- [princeton-nlp/SimCSE](https://github.com/princeton-nlp/SimCSE) - SimCSE: Simple Contrastive Learning of Sentence Embeddings
 - [jorgehpo/notebookJS](https://github.com/jorgehpo/notebookJS) - notebookJS: seamless JavaScript integration in Python Notebooks
 - [open-mmlab/mmgeneration](https://github.com/open-mmlab/mmgeneration) - MMGeneration is a powerful toolkit for generative models, based on PyTorch and MMCV.
 - [nalgeon/dataviz](https://github.com/nalgeon/dataviz) - Data visualization guide for presentations, reports, and dashboards
@@ -7606,7 +7608,7 @@
 - [learnables/learn2learn](https://github.com/learnables/learn2learn) - A PyTorch Library for Meta-learning Research
 - [spino17/PyGlow](https://github.com/spino17/PyGlow) - This package is an attempt to implement Keras like API functionalities on PyTorch backend with functionalities supporting information theoretic methods which are relevant for understanding neural network dynamics.
 - [timothycrosley/hypothesis-auto](https://github.com/timothycrosley/hypothesis-auto) - An extensions for Hypothesis that provides fully automatic testing for type hinted functions
-- [kenreitz42/bake](https://github.com/kenreitz42/bake) - Bake — the strangely familiar workflow utility.
+- [kennethreitz/bake](https://github.com/kennethreitz/bake) - Bake — the strangely familiar workflow utility.
 - [openai/multi-agent-emergence-environments](https://github.com/openai/multi-agent-emergence-environments) - Environment generation code for the paper "Emergent Tool Use From Multi-Agent Autocurricula"
 - [alexa/Topical-Chat](https://github.com/alexa/Topical-Chat) - A dataset containing human-human knowledge-grounded open-domain conversations.
 - [developers-against-repressions/case-212](https://github.com/developers-against-repressions/case-212) - Открытое письмо специалистов IT-индустрии в защиту фигурантов «московского дела»
@@ -8210,7 +8212,7 @@
 - [hill-a/stable-baselines](https://github.com/hill-a/stable-baselines) - A fork of OpenAI Baselines, implementations of reinforcement learning algorithms
 - [s0md3v/Hash-Buster](https://github.com/s0md3v/Hash-Buster) - Crack hashes in seconds.
 - [GeorgeSeif/Semantic-Segmentation-Suite](https://github.com/GeorgeSeif/Semantic-Segmentation-Suite) - Semantic Segmentation Suite in TensorFlow. Implement, train, and test new Semantic Segmentation models easily!
-- [kenreitz42/pytheory](https://github.com/kenreitz42/pytheory) - Music Theory for Humans.
+- [kennethreitz/pytheory](https://github.com/kennethreitz/pytheory) - Music Theory for Humans.
 - [open-mmlab/mmdetection](https://github.com/open-mmlab/mmdetection) - OpenMMLab Detection Toolbox and Benchmark
 - [Trusted-AI/AIF360](https://github.com/Trusted-AI/AIF360) - A comprehensive set of fairness metrics for datasets and machine learning models, explanations for these metrics, and algorithms to mitigate bias in datasets and models.
 - [junfu1115/DANet](https://github.com/junfu1115/DANet) - Dual Attention Network for Scene Segmentation (CVPR2019)
@@ -9186,7 +9188,7 @@
 - [LouieYang/deep-photo-styletransfer-tf](https://github.com/LouieYang/deep-photo-styletransfer-tf) - Tensorflow (Python API) implementation of Deep Photo Style Transfer
 - [nlml/np-to-tf-embeddings-visualiser](https://github.com/nlml/np-to-tf-embeddings-visualiser) - Quick function to go from a dictionary of sets of (images, labels, feature vectors) to checkpoints that can be opened in Tensorboard
 - [awesometoolbox/awesome-apistar](https://github.com/awesometoolbox/awesome-apistar) - A curated list of awesome packages, articles, and other cool resources from the API Star community.
-- [kenreitz42/coinbin.org](https://github.com/kenreitz42/coinbin.org) - ₿ A Human–Friendly API Service for Crypto Currency Information.
+- [kennethreitz/coinbin.org](https://github.com/kennethreitz/coinbin.org) - ₿ A Human–Friendly API Service for Crypto Currency Information.
 - [Spandan-Madan/Pytorch_fine_tuning_Tutorial](https://github.com/Spandan-Madan/Pytorch_fine_tuning_Tutorial) - A short tutorial on performing fine tuning or transfer learning in PyTorch.
 - [idlesign/uwsgiconf](https://github.com/idlesign/uwsgiconf) - Configure uWSGI from your Python code
 - [pennsignals/aptos](https://github.com/pennsignals/aptos) - :sunny: A tool for validating data using JSON Schema and converting JSON Schema documents into different data-interchange formats
@@ -9721,7 +9723,7 @@
 - [briancurtin/deprecation](https://github.com/briancurtin/deprecation) - A library to handle automated deprecations
 - [treigerm/WaterNet](https://github.com/treigerm/WaterNet) - A convolutional neural network that identifies water in  satellite images.
 - [techjacker/systemdlogger](https://github.com/techjacker/systemdlogger) - Exports systemd logs to an external service, eg cloudwatch, elasticsearch
-- [kenreitz42/python-github3](https://github.com/kenreitz42/python-github3) - [In Progress] Python wrapper for the new GitHub API.
+- [kennethreitz/python-github3](https://github.com/kennethreitz/python-github3) - [In Progress] Python wrapper for the new GitHub API.
 - [AlienVault-Labs/AlienVaultLabs](https://github.com/AlienVault-Labs/AlienVaultLabs) - Alienvault Labs Projects Random Stuff
 - [chiphuyen/stanford-tensorflow-tutorials](https://github.com/chiphuyen/stanford-tensorflow-tutorials) - This repository contains code examples for the Stanford's course: TensorFlow for Deep Learning Research.
 - [pytorch/vision](https://github.com/pytorch/vision) - Datasets, Transforms and Models specific to Computer Vision
@@ -10037,7 +10039,6 @@
 - [tylerlaberge/PyPattyrn](https://github.com/tylerlaberge/PyPattyrn) - A simple library for implementing common design patterns.
 - [basveeling/wavenet](https://github.com/basveeling/wavenet) - Keras WaveNet implementation
 - [ibab/tensorflow-wavenet](https://github.com/ibab/tensorflow-wavenet) - A TensorFlow implementation of DeepMind's WaveNet paper
-- [psycopg/psycopg2](https://github.com/psycopg/psycopg2) - PostgreSQL database adapter for the Python programming language
 - [shekkizh/TensorflowProjects](https://github.com/shekkizh/TensorflowProjects) - Deep learning using tensorflow
 - [raspberrypi/documentation](https://github.com/raspberrypi/documentation) - Official documentation for the Raspberry Pi
 - [paarthneekhara/neural-vqa-tensorflow](https://github.com/paarthneekhara/neural-vqa-tensorflow) - Visual Question Answering in Tensorflow.
@@ -10551,7 +10552,7 @@
 - [qznc/later](https://github.com/qznc/later) - Command-line issue tracker for a lazy developer
 - [rayokota/generator-angular-flask](https://github.com/rayokota/generator-angular-flask) - Yeoman generator for AngularJS + Flask
 - [bigchaindb/bigchaindb](https://github.com/bigchaindb/bigchaindb) - Meet BigchainDB. The blockchain database.
-- [kenreitz42/records](https://github.com/kenreitz42/records) - SQL for Humans™
+- [kennethreitz/records](https://github.com/kennethreitz/records) - SQL for Humans™
 - [joealcorn/laboratory](https://github.com/joealcorn/laboratory) - Achieving confident refactoring through experimentation with Python 2.7 & 3.3+
 - [p-e-w/maybe](https://github.com/p-e-w/maybe) - :open_file_folder: :rabbit2: :tophat: See what a program does before deciding whether you really want it to happen (NO LONGER MAINTAINED)
 - [dfm/corner.py](https://github.com/dfm/corner.py) - Make some beautiful corner plots
@@ -13406,6 +13407,7 @@
 - [vscode-org-mode/vscode-org-mode](https://github.com/vscode-org-mode/vscode-org-mode) - Emacs Org Mode for Visual Studio Code
 - [championswimmer/vuex-persist](https://github.com/championswimmer/vuex-persist) - A Vuex plugin to persist the store. (Fully Typescript enabled)
 - [BartoszLiburski/vsf-prismic](https://github.com/BartoszLiburski/vsf-prismic) - Headless Prismic CMS implementation to Vue-storefront
+- [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless editor framework for web artisans.
 - [wilk/microjob](https://github.com/wilk/microjob) - A tiny wrapper for turning Node.js worker threads into easy-to-use routines for heavy CPU loads.
 - [mariusandra/pigeon-maps](https://github.com/mariusandra/pigeon-maps) - ReactJS Maps without external dependencies
 - [felixrieseberg/windows95](https://github.com/felixrieseberg/windows95) - 💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.
@@ -13951,7 +13953,6 @@
 - [uikit/uikit-site](https://github.com/uikit/uikit-site) - 🌎 Website and Documentation
 - [eddiemf/vue-affix](https://github.com/eddiemf/vue-affix) - A Vue.js plugin that affixes an element on the window while scrolling based on a relative element
 - [lucefer/ellipsis-plus](https://github.com/lucefer/ellipsis-plus) - a text-overflow vue component
-- [overtrue/vue-avatar-cropper](https://github.com/overtrue/vue-avatar-cropper) - :girl: A simple and elegant avatar cropping and upload plugin.
 - [octref/veturpack](https://github.com/octref/veturpack) - Project based on vuepack to try Vetur.
 - [Kasheftin/route-planner-vue](https://github.com/Kasheftin/route-planner-vue) - Simple hello-world-vue route planner built to deeply understand vue.js
 - [PygmySlowLoris/vue-notify-me](https://github.com/PygmySlowLoris/vue-notify-me) - Stackable notification Alert for Vue
