@@ -463,7 +463,7 @@
 
 ## C# # 
 
-- [kreeben/resin](https://github.com/kreeben/resin) - Hardware-accelerated vector-based search engine. Available as a HTTP service or as an embedded library.
+- [kreeben/resin](https://github.com/kreeben/resin) - Hardware-accelerated vector similarity search engine. Available as a HTTP service or as an embedded library.
 - [Azure-Samples/acr-tasks](https://github.com/Azure-Samples/acr-tasks) - A collection samples for ACR Tasks, including acr-task.yaml and Dockerfiles.
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [exercism/v3](https://github.com/exercism/v3) - The work-in-progress project for developing v3 tracks
@@ -794,7 +794,7 @@
 - [emscripten-core/emscripten](https://github.com/emscripten-core/emscripten) - Emscripten: An LLVM-to-WebAssembly Compiler
 - [ethereum/aleth](https://github.com/ethereum/aleth) - Aleth – Ethereum C++ client, tools and libraries
 - [apache/incubator-weex](https://github.com/apache/incubator-weex) - Apache Weex (Incubating)
-- [ethereum/solidity](https://github.com/ethereum/solidity) - Solidity, the Contract-Oriented Programming Language
+- [ethereum/solidity](https://github.com/ethereum/solidity) - Solidity, the Smart Contract Programming Language
 - [Genoil/cpp-ethereum](https://github.com/Genoil/cpp-ethereum) - [Warning: Repo inactive] Ethereum GPU miner with OpenCL, CUDA and stratum support
 - [nokiatech/heif](https://github.com/nokiatech/heif) - High Efficiency Image File Format
 - [google/lullaby](https://github.com/google/lullaby) - A collection of C++ libraries designed to help teams develop virtual and augmented reality experiences
@@ -6877,6 +6877,7 @@
 
 ## Python 
 
+- [wilson1yan/VideoGPT](https://github.com/wilson1yan/VideoGPT) - 
 - [microsoft/ProphetNet](https://github.com/microsoft/ProphetNet) - ProphetNet: Predicting Future N-gram for Sequence-to-Sequence Pre-training https://arxiv.org/pdf/2001.04063.pdf
 - [princeton-nlp/SimCSE](https://github.com/princeton-nlp/SimCSE) - SimCSE: Simple Contrastive Learning of Sentence Embeddings
 - [jorgehpo/notebookJS](https://github.com/jorgehpo/notebookJS) - notebookJS: seamless JavaScript integration in Python Notebooks
@@ -7068,7 +7069,6 @@
 - [tianweiy/CenterPoint](https://github.com/tianweiy/CenterPoint) - 
 - [nshepperd/gpt-2](https://github.com/nshepperd/gpt-2) - Code for the paper "Language Models are Unsupervised Multitask Learners"
 - [kyamagu/faiss-wheels](https://github.com/kyamagu/faiss-wheels) - Unofficial faiss wheel builder
-- [daangn/faiss-server](https://github.com/daangn/faiss-server) - faiss 기반의 벡터 유사 검색 서버
 - [Palashio/libra](https://github.com/Palashio/libra) - Ergonomic machine learning for everyone.
 - [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [Rapptz/discord.py](https://github.com/Rapptz/discord.py) - An API wrapper for Discord written in Python.
@@ -7415,7 +7415,7 @@
 - [oxwhirl/pymarl](https://github.com/oxwhirl/pymarl) - Python Multi-Agent Reinforcement Learning framework
 - [SFTtech/openage](https://github.com/SFTtech/openage) - Free (as in freedom) open source clone of the Age of Empires II engine :rocket:
 - [uber/causalml](https://github.com/uber/causalml) - Uplift modeling and causal inference with machine learning algorithms
-- [google/flax](https://github.com/google/flax) - Flax is a neural network ecosystem for JAX that is designed for flexibility.
+- [google/flax](https://github.com/google/flax) - Flax is a neural network library for JAX that is designed for flexibility.
 - [wizyoung/YOLOv3_TensorFlow](https://github.com/wizyoung/YOLOv3_TensorFlow) - Complete YOLO v3 TensorFlow implementation. Support training on your own dataset.
 - [great-expectations/great_expectations](https://github.com/great-expectations/great_expectations) - Always know what to expect from your data.
 - [visionml/pytracking](https://github.com/visionml/pytracking) - Visual tracking library based on PyTorch.
@@ -7883,7 +7883,7 @@
 - [huggingface/pytorch-pretrained-BigGAN](https://github.com/huggingface/pytorch-pretrained-BigGAN) - 🦋A PyTorch implementation of BigGAN with pretrained weights and conversion scripts.
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [Wookai/paper-tips-and-tricks](https://github.com/Wookai/paper-tips-and-tricks) - Best practice and tips & tricks to write scientific papers in LaTeX, with figures generated in Python or Matlab.
-- [SharpAI/DeepCamera](https://github.com/SharpAI/DeepCamera) - Open Source Object Detection/Face Recognition on AIoT devices.
+- [SharpAI/DeepCamera](https://github.com/SharpAI/DeepCamera) - Privacy is the most important issue for the AI face recognition camera. Open source and BYOD is the only way to solve privacy issue. SharpAI DeepCamera provides private deployment architecture to save all your information on your own devices.
 - [singh-shreya6/Navigation-Assistant](https://github.com/singh-shreya6/Navigation-Assistant) - A Navigation Assistant for the visually impaired using Speech to Text, Object Detection and Text to Speech in python
 - [sharif1093/digideep](https://github.com/sharif1093/digideep) - A Deep Reinforcement Learning (DeepRL) package for RL algorithm developers.
 - [zjhuang22/maskscoring_rcnn](https://github.com/zjhuang22/maskscoring_rcnn) - Codes for paper "Mask Scoring R-CNN".
