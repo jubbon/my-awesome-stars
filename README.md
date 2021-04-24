@@ -1523,7 +1523,7 @@
 - [rook/rook](https://github.com/rook/rook) - Storage Orchestration for Kubernetes
 - [cortexproject/cortex](https://github.com/cortexproject/cortex) - A horizontally scalable, highly available, multi-tenant, long term Prometheus.
 - [cookieY/Yearning](https://github.com/cookieY/Yearning) - 🐳 A most popular sql audit platform for mysql
-- [GoogleContainerTools/kpt](https://github.com/GoogleContainerTools/kpt) - 
+- [GoogleContainerTools/kpt](https://github.com/GoogleContainerTools/kpt) - A toolkit to help you manage, manipulate, customize, and apply Kubernetes Resource configuration files
 - [slack-go/slack](https://github.com/slack-go/slack) - Slack API in Go - community-maintained fork created by the original author, @nlopes
 - [42wim/matterbridge](https://github.com/42wim/matterbridge) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (mattermost not required!)
 - [prometheus/node_exporter](https://github.com/prometheus/node_exporter) - Exporter for machine metrics
@@ -1615,7 +1615,7 @@
 - [jpschroeder/pipe-to-me](https://github.com/jpschroeder/pipe-to-me) - Stream data over http using curl.
 - [uber/kraken](https://github.com/uber/kraken) - P2P Docker registry capable of distributing TBs of data in seconds
 - [uber/astro](https://github.com/uber/astro) - Astro is a tool for managing multiple Terraform executions as a single command
-- [cortexlabs/cortex](https://github.com/cortexlabs/cortex) - Cost-effective serverless computing at scale
+- [cortexlabs/cortex](https://github.com/cortexlabs/cortex) - Serverless computing at scale
 - [ovh/cds](https://github.com/ovh/cds) - Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform
 - [k3s-io/k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes
 - [skanehira/docui](https://github.com/skanehira/docui) - TUI Client for Docker
@@ -2318,7 +2318,7 @@
 - [mciastek/sal](https://github.com/mciastek/sal) - 🚀 Performance focused, lightweight scroll animation library 🚀
 - [radareorg/r2con2018](https://github.com/radareorg/r2con2018) - 
 - [pythonindia/inpycon2018](https://github.com/pythonindia/inpycon2018) - PyCon India 2018 site
-- [guardian/frontend](https://github.com/guardian/frontend) - The Guardian Dot Com.
+- [guardian/frontend](https://github.com/guardian/frontend) - The Guardian DotCom.
 - [sayazamurai/python-vs-javascript](https://github.com/sayazamurai/python-vs-javascript) - 
 - [dhongu/deltatech](https://github.com/dhongu/deltatech) - Terrabit addons for Odoo
 - [firebase/quickstart-js](https://github.com/firebase/quickstart-js) - Firebase Quickstart Samples for Web
@@ -2380,7 +2380,6 @@
 - [tc39/proposal-partial-application](https://github.com/tc39/proposal-partial-application) - Proposal to add partial application to ECMAScript
 - [devops-israel/aws-inventory](https://github.com/devops-israel/aws-inventory) - AWS Inventory in a single HTML file using JS AWS-SDK & Bootstrap
 - [daxeel/blockshell](https://github.com/daxeel/blockshell) - 🎉  Minimal Blockchain Learning CLI
-- [dev-sec/ansible-collection-hardening](https://github.com/dev-sec/ansible-collection-hardening) - This Ansible collection provides battle tested hardening for Linux, SSH, nginx, MySQL
 - [opencode18/OpenCode-Collaborative](https://github.com/opencode18/OpenCode-Collaborative) - Best place to start Open Source and learn development.
 - [whatwg/html](https://github.com/whatwg/html) - HTML Standard
 - [sgs006/Udacity-Yearbook-Project](https://github.com/sgs006/Udacity-Yearbook-Project) - Optional Yearbook Collaboration for Udacity Front-End Scholarship Participants
@@ -4401,6 +4400,7 @@
 - [ansible/workshops](https://github.com/ansible/workshops) - Training Course for Ansible Automation Platform
 - [geerlingguy/ansible-role-nginx](https://github.com/geerlingguy/ansible-role-nginx) - Ansible Role - Nginx
 - [ANXS/postgresql](https://github.com/ANXS/postgresql) - Fairly full featured Ansible role for Postgresql.
+- [dev-sec/ansible-collection-hardening](https://github.com/dev-sec/ansible-collection-hardening) - This Ansible collection provides battle tested hardening for Linux, SSH, nginx, MySQL
 - [Stouts/Stouts.openvpn](https://github.com/Stouts/Stouts.openvpn) - Ansible role to install and configure OpenVPN server
 
 ## Jsonnet 
@@ -4422,6 +4422,7 @@
 
 ## Jupyter Notebook 
 
+- [yobibyte/prettyplots](https://github.com/yobibyte/prettyplots) - Design your own matplotlib stylefile interactively
 - [vijishmadhavan/SkinDeep](https://github.com/vijishmadhavan/SkinDeep) - Get Deinked!!
 - [qiskit-community/qiskit-community-tutorials](https://github.com/qiskit-community/qiskit-community-tutorials) - A collection of Jupyter notebooks developed by the community showing how to use Qiskit
 - [ShapeAI/PYTHON-AND-DATA-ANALYTICS-7-DAYS](https://github.com/ShapeAI/PYTHON-AND-DATA-ANALYTICS-7-DAYS) - 
@@ -6909,7 +6910,7 @@
 - [Epiphqny/VisTR](https://github.com/Epiphqny/VisTR) - [CVPR2021 Oral] End-to-End Video Instance Segmentation with Transformers
 - [gitx-io/ActionServerless](https://github.com/gitx-io/ActionServerless) - Use GitHub Actions to create a serverless service.
 - [datasaur-ai/api-client-example](https://github.com/datasaur-ai/api-client-example) - Sample Script for Datasaur Integration
-- [lumaku/ctc-segmentation](https://github.com/lumaku/ctc-segmentation) - CTC segmentation python package
+- [lumaku/ctc-segmentation](https://github.com/lumaku/ctc-segmentation) - Segment an audio file and obtain utterance alignments. (Python package)
 - [dddzg/up-detr](https://github.com/dddzg/up-detr) - [CVPR2021 Oral] UP-DETR: Unsupervised Pre-training for Object Detection with Transformers
 - [replicate/keepsake](https://github.com/replicate/keepsake) - Version control for machine learning
 - [PennyLaneAI/pennylane](https://github.com/PennyLaneAI/pennylane) - PennyLane is a cross-platform Python library for differentiable programming of quantum computers.  Train a quantum computer the same way as a neural network.
@@ -7716,7 +7717,7 @@
 - [open-deepnude/open-deepnude](https://github.com/open-deepnude/open-deepnude) - Open source reverse-engineered clone of DeepNude
 - [dry-python/bookshelf](https://github.com/dry-python/bookshelf) - Code examples to learn dry-python with Django at the project scale.
 - [proofit404/stories](https://github.com/proofit404/stories) - Service objects designed with OOP in mind.
-- [erayerdin/sos-django-template](https://github.com/erayerdin/sos-django-template) - A Django starter template that separates the settings to development and production environments, hence the name.
+- [erayerdin/sos-django-template](https://github.com/erayerdin/sos-django-template) - A Django starter template with a sound foundation.
 - [facebookresearch/dlrm](https://github.com/facebookresearch/dlrm) - An implementation of a deep learning recommendation model (DLRM)
 - [Igoorx/PyRoyale](https://github.com/Igoorx/PyRoyale) - A open-source server emulator for Mario Royale browser game.
 - [googleapis/oauth2client](https://github.com/googleapis/oauth2client) - This is a Python library for accessing resources protected by OAuth 2.0.
@@ -10148,6 +10149,7 @@
 - [tinyerp/erppeek](https://github.com/tinyerp/erppeek) - A versatile tool for Odoo / OpenERP.     ***  Forked as Odooly  ⟶
 - [jupyter/nbdime](https://github.com/jupyter/nbdime) - Tools for diffing and merging of Jupyter notebooks.
 - [lebinh/aq](https://github.com/lebinh/aq) - Query AWS resources with SQL
+- [microservices-demo/microservices-demo](https://github.com/microservices-demo/microservices-demo) - Deployment scripts & config for Sock Shop
 - [richzhang/colorization](https://github.com/richzhang/colorization) - Automatic colorization using deep neural networks. "Colorful Image Colorization." In ECCV, 2016.
 - [defaultnamehere/tinder-detective](https://github.com/defaultnamehere/tinder-detective) - Find your Facebook friends' Tinder profiles. Don't actually use this by the way that's weird. Not even in a good way.
 - [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
@@ -11748,7 +11750,6 @@
 - [kevin1024/pytest-httpbin](https://github.com/kevin1024/pytest-httpbin) - Easily test your HTTP library against a local copy of httpbin.org
 - [python-effect/effect](https://github.com/python-effect/effect) - effect isolation in Python, to facilitate more purely functional code
 - [crowdata/crowdata](https://github.com/crowdata/crowdata) - Easily crowdsource the analysis of your documents
-- [ryanccn/hypermark](https://github.com/ryanccn/hypermark) - Markdown for Humans.
 - [twisted/newsbuilder](https://github.com/twisted/newsbuilder) - Automatically generate and manage a NEWS file from snippets stored in per-ticket text files.
 - [averagesecurityguy/alias](https://github.com/averagesecurityguy/alias) - 
 - [studio-ousia/mprpc](https://github.com/studio-ousia/mprpc) - A fast Python RPC library
@@ -13178,7 +13179,6 @@
 - [michaelrigart/ansible-role-odoo](https://github.com/michaelrigart/ansible-role-odoo) - An ansible role for installing and configuring Odoo.
 - [bufferapp/android-guidelines](https://github.com/bufferapp/android-guidelines) - Project Guidelines for the Android Buffer App
 - [RyanAmos/rethinkdb-vagrant](https://github.com/RyanAmos/rethinkdb-vagrant) - Install RethinkDB using Vagrant.
-- [microservices-demo/microservices-demo](https://github.com/microservices-demo/microservices-demo) - Deployment scripts & config for Sock Shop
 - [octoai/octo.ai](https://github.com/octoai/octo.ai) - The analytics hypervisor, an operating system to manage all your analytics needs and licensed under Apache 2.0 License.
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 1800+ contributors) framework for managing your zsh configuration. Includes nearly 300 optional plugins (rails, git, OSX, hub, docker, homebrew, node, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [OCA/ansible-odoo](https://github.com/OCA/ansible-odoo) - Ansible role for Odoo
@@ -13692,7 +13692,7 @@
 - [egoist/video2gif](https://github.com/egoist/video2gif) - Convert Video (MP4/OGG/WEBM) to GIF.
 - [Akryum/vue-9-perf-secrets](https://github.com/Akryum/vue-9-perf-secrets) - Demos from my talk "9 performance secrets revealed"
 - [open-source-labs/PreVue](https://github.com/open-source-labs/PreVue) - 🎨 All in One Prototyping Tool For Vue Developers.
-- [creativetimofficial/vuetify-material-dashboard](https://github.com/creativetimofficial/vuetify-material-dashboard) - Vuetify Material Dashboard - Open Source Material Design Admin
+- [creativetimofficial/vuetify-material-dashboard](https://github.com/creativetimofficial/vuetify-material-dashboard) - Vuetify Material Dashboard - Open Source Material Design Admin by Creative Tim
 - [renestalder/nuxt-netlify-cms-starter-template](https://github.com/renestalder/nuxt-netlify-cms-starter-template) - ⚡ Build server-less, static websites with Vue.js and Netlify CMS.
 - [gridsome/gridsome-starter-blog](https://github.com/gridsome/gridsome-starter-blog) - A simple, hackable & minimalistic starter for Gridsome that uses Markdown for content.
 - [hello-efficiency-inc/raven-reader](https://github.com/hello-efficiency-inc/raven-reader) - 📖 All your articles in one place. Beautiful.
