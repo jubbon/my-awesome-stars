@@ -3108,7 +3108,7 @@
 - [oussamahamdaoui/forgJs](https://github.com/oussamahamdaoui/forgJs) - ForgJs is a javascript lightweight object validator. Go check the Quick start section and start coding with love
 - [lovell/sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.
 - [anubhavsrivastava/awesome-ui-component-library](https://github.com/anubhavsrivastava/awesome-ui-component-library) - Curated list of framework component libraries for UI styles/toolkit
-- [didi/mpx](https://github.com/didi/mpx) - Mpx，一款具有优秀开发体验和深度性能优化的增强型小程序开发框架
+- [didi/mpx](https://github.com/didi/mpx) - Mpx，一款具有优秀开发体验和深度性能优化的增强型跨端小程序框架
 - [oguzhaninan/Buka](https://github.com/oguzhaninan/Buka) - Buka is a modern software that helps you manage your ebook at ease.
 - [gaearon/overreacted.io](https://github.com/gaearon/overreacted.io) - Personal blog by Dan Abramov.
 - [pim-book/programmers-introduction-to-mathematics](https://github.com/pim-book/programmers-introduction-to-mathematics) - Code for A Programmer's Introduction to Mathematics
@@ -3304,7 +3304,7 @@
 - [ustbhuangyi/vue-analysis](https://github.com/ustbhuangyi/vue-analysis) - :thumbsup: Vue.js 源码分析
 - [pod4g/hiper](https://github.com/pod4g/hiper) - 🚀 A statistical analysis tool for performance testing
 - [BoxFactura/pulltorefresh.js](https://github.com/BoxFactura/pulltorefresh.js) - A quick and powerful plugin for your pull-to-refresh needs in your webapp.
-- [HcySunYang/vue-design](https://github.com/HcySunYang/vue-design) - 📖 master分支：《渲染器》 elegant分支：逐行级别的源码分析
+- [HcySunYang/vue-design](https://github.com/HcySunYang/vue-design) - 📖 master分支：《渲染器》
 - [kitze/JSUI](https://github.com/kitze/JSUI) - A powerful UI toolkit for managing JavaScript apps
 - [galvez/plainbudget](https://github.com/galvez/plainbudget) - Minimalist Plain Text Budgeting
 - [d2-projects/d2-admin](https://github.com/d2-projects/d2-admin) - An elegant dashboard
@@ -4478,6 +4478,7 @@
 - [MicrosoftLearning/DP100](https://github.com/MicrosoftLearning/DP100) - Labs for Course DP-100: Designing and Implementing Data Science Solutions on Microsoft Azure
 - [natasha/natasha-usage](https://github.com/natasha/natasha-usage) - 
 - [aliannejadi/ClariQ](https://github.com/aliannejadi/ClariQ) - ClariQ: SCAI Workshop data challenge on conversational search clarification.
+- [open-mmlab/mmclassification](https://github.com/open-mmlab/mmclassification) - OpenMMLab Image Classification Toolbox and Benchmark
 - [krishnaik06/Feature-Engineering-Live-sessions](https://github.com/krishnaik06/Feature-Engineering-Live-sessions) - 
 - [maratonadev-br/desafio-6-2020](https://github.com/maratonadev-br/desafio-6-2020) - 
 - [fastai/course20](https://github.com/fastai/course20) - Deep Learning for Coders, 2020, the website
@@ -5809,6 +5810,7 @@
 
 ## Others 
 
+- [Eyadhamza/Eng-Hammad-Recommendations](https://github.com/Eyadhamza/Eng-Hammad-Recommendations) - The repo contains books, tutorials and resources based on the recommendations of Eng Mohammed Hammad.
 - [WeareSoft/tech-interview](https://github.com/WeareSoft/tech-interview) - :loudspeaker:🙍 tech interview
 - [PlayerForever/CS_eBooks](https://github.com/PlayerForever/CS_eBooks) - 
 - [chanakaudaya/solution-architecture-patterns](https://github.com/chanakaudaya/solution-architecture-patterns) - Reusable, vendor-neutral, industry-specific, vendor-specific solution architecture patterns for enterprise
@@ -6878,6 +6880,7 @@
 
 ## Python 
 
+- [GaParmar/clean-fid](https://github.com/GaParmar/clean-fid) - FID calculation with proper image resizing and quantization steps
 - [wilson1yan/VideoGPT](https://github.com/wilson1yan/VideoGPT) - 
 - [microsoft/ProphetNet](https://github.com/microsoft/ProphetNet) - ProphetNet: Predicting Future N-gram for Sequence-to-Sequence Pre-training https://arxiv.org/pdf/2001.04063.pdf
 - [princeton-nlp/SimCSE](https://github.com/princeton-nlp/SimCSE) - SimCSE: Simple Contrastive Learning of Sentence Embeddings
@@ -7063,7 +7066,6 @@
 - [kyzhouhzau/BERT-NER](https://github.com/kyzhouhzau/BERT-NER) - Use Google's BERT for named entity recognition （CoNLL-2003 as the dataset）.
 - [deepset-ai/FARM](https://github.com/deepset-ai/FARM) - :house_with_garden: Fast & easy transfer learning for NLP. Harvesting language models for the industry. Focus on Question Answering.
 - [guillaumegenthial/sequence_tagging](https://github.com/guillaumegenthial/sequence_tagging) - Named Entity Recognition (LSTM + CRF) - Tensorflow
-- [open-mmlab/mmclassification](https://github.com/open-mmlab/mmclassification) - OpenMMLab Image Classification Toolbox and Benchmark
 - [open-mmlab/mmdetection3d](https://github.com/open-mmlab/mmdetection3d) - OpenMMLab's next-generation platform for general 3D object detection.
 - [google-research/torchsde](https://github.com/google-research/torchsde) - Differentiable SDE solvers with GPU support and efficient sensitivity analysis.
 - [clovaai/rexnet](https://github.com/clovaai/rexnet) - Official Pytorch implementation of ReXNet (Rank eXpansion Network) with pretrained models
@@ -7971,7 +7973,7 @@
 - [stanfordnlp/stanza](https://github.com/stanfordnlp/stanza) - Official Stanford NLP Python Library for Many Human Languages
 - [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
 - [araffin/learning-to-drive-in-5-minutes](https://github.com/araffin/learning-to-drive-in-5-minutes) - Implementation of reinforcement learning approach to make a car learn to drive smoothly in minutes
-- [doccano/doccano](https://github.com/doccano/doccano) - Open source text annotation tool for machine learning practitioner.
+- [doccano/doccano](https://github.com/doccano/doccano) - Open source text annotation tool for machine learning practitioners.
 - [elleryqueenhomels/arbitrary_style_transfer](https://github.com/elleryqueenhomels/arbitrary_style_transfer) - Fast Neural Style Transfer with Arbitrary Style using AdaIN Layer - Based on Huang et al. "Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization"
 - [naoto0804/pytorch-AdaIN](https://github.com/naoto0804/pytorch-AdaIN) - Unofficial pytorch implementation of 'Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization' [Huang+, ICCV2017]
 - [flow-project/flow](https://github.com/flow-project/flow) - Computational framework for reinforcement learning in traffic control
@@ -9423,7 +9425,7 @@
 - [scikit-garden/scikit-garden](https://github.com/scikit-garden/scikit-garden) - A garden for scikit-learn compatible trees
 - [controlscanmdr/cyphon](https://github.com/controlscanmdr/cyphon) - Open source incident management and response platform.
 - [tox-dev/tox-docker](https://github.com/tox-dev/tox-docker) - A tox plugin to run one or more Docker containers during tests
-- [polyaxon/polyaxon](https://github.com/polyaxon/polyaxon) - Machine Learning Platform for Kubernetes
+- [polyaxon/polyaxon](https://github.com/polyaxon/polyaxon) - Machine Learning Platform for Kubernetes (MLOps tools for experimentation and automation)
 - [rakhimov/cppdep](https://github.com/rakhimov/cppdep) - C/C++ Dependency Analyzer: a rewrite of John Lakos' dep_utils (adep/cdep/ldep) from "Large-Scale C++ Software Design"
 - [timmahrt/praatIO](https://github.com/timmahrt/praatIO) - A python library for working with praat, textgrids, time aligned audio transcripts, and audio files. It is primarily used for extracting features from and making manipulations on audio files given hierarchical time-aligned transcriptions (utterance &gt; word &gt; syllable &gt; phone, etc).
 - [dbcli/mycli](https://github.com/dbcli/mycli) - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
