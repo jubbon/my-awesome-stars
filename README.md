@@ -445,7 +445,6 @@
 - [swiperproxy/swiperproxy](https://github.com/swiperproxy/swiperproxy) - A Python-based HTTP/HTTPS-proxy.
 - [torch/torch7](https://github.com/torch/torch7) - http://torch.ch
 - [redis/redis](https://github.com/redis/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.
-- [astropy/astropy](https://github.com/astropy/astropy) - Repository for the Astropy core package
 - [coleifer/unqlite-python](https://github.com/coleifer/unqlite-python) - Python bindings for the UnQLite embedded NoSQL database
 - [robertdavidgraham/heartleech](https://github.com/robertdavidgraham/heartleech) - Demonstrates the "heartbleed" problem using full OpenSSL stack
 - [chipsec/chipsec](https://github.com/chipsec/chipsec) - Platform Security Assessment Framework
@@ -959,7 +958,7 @@
 - [python-rapidjson/python-rapidjson](https://github.com/python-rapidjson/python-rapidjson) - Python wrapper around rapidjson
 - [thp/pyotherside](https://github.com/thp/pyotherside) - Asynchronous Python 3 Bindings for Qt 5
 - [chezou/Mykytea-python](https://github.com/chezou/Mykytea-python) - Python wrapper for KyTea
-- [google/googletest](https://github.com/google/googletest) - Googletest - Google Testing and Mocking Framework
+- [google/googletest](https://github.com/google/googletest) - GoogleTest - Google Testing and Mocking Framework
 - [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree
 - [google/leveldb](https://github.com/google/leveldb) - LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
 - [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
@@ -1615,7 +1614,7 @@
 - [jpschroeder/pipe-to-me](https://github.com/jpschroeder/pipe-to-me) - Stream data over http using curl.
 - [uber/kraken](https://github.com/uber/kraken) - P2P Docker registry capable of distributing TBs of data in seconds
 - [uber/astro](https://github.com/uber/astro) - Astro is a tool for managing multiple Terraform executions as a single command
-- [cortexlabs/cortex](https://github.com/cortexlabs/cortex) - Serverless computing at scale
+- [cortexlabs/cortex](https://github.com/cortexlabs/cortex) - Scale compute-intensive serverless workloads
 - [ovh/cds](https://github.com/ovh/cds) - Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform
 - [k3s-io/k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes
 - [skanehira/docui](https://github.com/skanehira/docui) - TUI Client for Docker
@@ -2594,7 +2593,6 @@
 - [elbamos/largeVis](https://github.com/elbamos/largeVis) - An implementation of the largeVis algorithm for visualizing large, high-dimensional datasets, for R
 - [google/ioweb2016](https://github.com/google/ioweb2016) - I/O web app 2016
 - [eliangcs/pystock-data](https://github.com/eliangcs/pystock-data) - (UNMAINTAINED) US stock market data since 2009
-- [brownhci/WebGazer](https://github.com/brownhci/WebGazer) - WebGazer.js: Scalable Webcam EyeTracking Using User Interactions
 - [jlord/patchwork](https://github.com/jlord/patchwork) - All the Git-it Workshop completers!
 - [electron/electron-api-demos](https://github.com/electron/electron-api-demos) - Explore the Electron APIs
 - [akoumjian/datefinder](https://github.com/akoumjian/datefinder) - Find dates inside text using Python and get back datetime objects
@@ -3185,7 +3183,7 @@
 - [danburzo/percollate](https://github.com/danburzo/percollate) - A command-line tool to turn web pages into beautiful, readable PDF, EPUB, or HTML docs.
 - [glennreyes/graphpack](https://github.com/glennreyes/graphpack) - ☄️ A minimalistic zero-config GraphQL server.
 - [Tencent/omi](https://github.com/Tencent/omi) - Front End Cross-Frameworks Framework - 前端跨框架跨平台框架
-- [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 concepts every JavaScript developer should know.
+- [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
 - [gilyes/docker-nginx-letsencrypt-sample](https://github.com/gilyes/docker-nginx-letsencrypt-sample) - Dockerized Nginx + Let's Encrypt sample
 - [alexkim205/G-Desktop-Suite](https://github.com/alexkim205/G-Desktop-Suite) - Google Suite as a desktop app. Made possible with Electron.
 - [radonjs/Radon](https://github.com/radonjs/Radon) - Object oriented state management solution for front-end development.
@@ -3522,6 +3520,7 @@
 - [lukeed/polka](https://github.com/lukeed/polka) - A micro web server so fast, it'll make you dance! :dancers:
 - [zouhir/jarvis](https://github.com/zouhir/jarvis) - A very intelligent browser based Webpack dashboard
 - [developit/stockroom](https://github.com/developit/stockroom) - 🗃 Offload your store management to a worker easily.
+- [StartBootstrap/startbootstrap-coming-soon](https://github.com/StartBootstrap/startbootstrap-coming-soon) - A coming soon theme with a video background for Bootstrap 4
 - [justadudewhohacks/face-recognition.js](https://github.com/justadudewhohacks/face-recognition.js) - Simple Node.js package for robust face detection and face recognition. JavaScript and TypeScript API.
 - [developit/workerize-loader](https://github.com/developit/workerize-loader) - 🏗️ Automatically move a module into a Web Worker (Webpack loader)
 - [checkly/puppeteer-examples](https://github.com/checkly/puppeteer-examples) - Puppeteer example scripts for running Headless Chrome from Node.
@@ -4077,6 +4076,7 @@
 - [sampotts/plyr](https://github.com/sampotts/plyr) - A simple HTML5, YouTube and Vimeo player
 - [secgroundzero/warberry](https://github.com/secgroundzero/warberry) - WarBerryPi - Tactical Exploitation
 - [Nickersoft/push.js](https://github.com/Nickersoft/push.js) - The world's most versatile desktop notifications framework :earth_americas:
+- [brownhci/WebGazer](https://github.com/brownhci/WebGazer) - WebGazer.js: Scalable Webcam EyeTracking Using User Interactions
 - [algorithm-visualizer/algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) - :fireworks:Interactive Online Platform that Visualizes Algorithms from Code
 - [decosoftware/deco-ide](https://github.com/decosoftware/deco-ide) - The React Native IDE
 - [rethinkdb/horizon](https://github.com/rethinkdb/horizon) - Horizon is a realtime, open-source backend for JavaScript apps.
@@ -6881,6 +6881,7 @@
 
 ## Python 
 
+- [karpathy/cryptos](https://github.com/karpathy/cryptos) - crypto utilities as a way of learning
 - [zihangJiang/TokenLabeling](https://github.com/zihangJiang/TokenLabeling) - Pytorch implementation of "Training a 85.4% Top-1 Accuracy Vision Transformer with 56M Parameters on ImageNet"
 - [GaParmar/clean-fid](https://github.com/GaParmar/clean-fid) - FID calculation with proper image resizing and quantization steps
 - [wilson1yan/VideoGPT](https://github.com/wilson1yan/VideoGPT) - 
@@ -7288,7 +7289,7 @@
 - [YatingMusic/remi](https://github.com/YatingMusic/remi) - "Pop Music Transformer: Beat-based Modeling and Generation of Expressive Pop Piano Compositions", ACM Multimedia 2020
 - [thu-ml/tianshou](https://github.com/thu-ml/tianshou) - An elegant PyTorch deep reinforcement learning platform.
 - [facebookresearch/pycls](https://github.com/facebookresearch/pycls) - Codebase for Image Classification Research, written in PyTorch.
-- [PaddlePaddle/PaddleHub](https://github.com/PaddlePaddle/PaddleHub) - Awesome pre-trained models toolkit based on PaddlePaddle.（300+ models including Image, Text, Audio and Video with Easy Inference & Serving deployment)
+- [PaddlePaddle/PaddleHub](https://github.com/PaddlePaddle/PaddleHub) - Awesome pre-trained models toolkit based on PaddlePaddle.(300+ models including Image, Text, Audio and Video with Easy Inference & Serving deployment)
 - [ihmeuw-msca/CurveFit](https://github.com/ihmeuw-msca/CurveFit) - Generic curve fitting package with nonlinear mixed effects model
 - [allenai/aristo-mini](https://github.com/allenai/aristo-mini) - Aristo mini is a light-weight question answering system that can quickly evaluate Aristo science questions with an evaluation web server and the provided baseline solvers.
 - [microsoft/Microsoft-Rocketbox](https://github.com/microsoft/Microsoft-Rocketbox) - Microsoft Rocketbox is now available with MIT license! The library of 115 rigged avatars offers flexibility, enabling the easy use of facial animations across characters and the mixing and matching of texture elements.
@@ -7335,7 +7336,7 @@
 - [zlai0/MAST](https://github.com/zlai0/MAST) - MAST: A Memory-Augmented Self-supervised Tracker (CVPR 2020)
 - [LayneH/self-adaptive-training](https://github.com/LayneH/self-adaptive-training) - Official implementation of the NeurIPS'2020 paper 'Self-Adaptive Training: beyond Empirical Risk Minimization'
 - [sangwoomo/FreezeD](https://github.com/sangwoomo/FreezeD) - Freeze the Discriminator: a Simple Baseline for Fine-Tuning GANs (CVPRW 2020)
-- [youngwanLEE/centermask2](https://github.com/youngwanLEE/centermask2) - Real-time Anchor-Free Instance Segmentation, in CVPR 2020
+- [youngwanLEE/centermask2](https://github.com/youngwanLEE/centermask2) - CenterMask : Real-time Anchor-Free Instance Segmentation, in CVPR 2020
 - [FateScript/CenterNet-better](https://github.com/FateScript/CenterNet-better) - An easy to understand and better performance version of CenterNet
 - [osudrl/apex](https://github.com/osudrl/apex) - A continuous deep reinforcement learning framework for robotics
 - [NVIDIA/retinanet-examples](https://github.com/NVIDIA/retinanet-examples) - Fast and accurate object detection with end-to-end GPU optimization
@@ -9766,7 +9767,7 @@
 - [pender/chatbot-rnn](https://github.com/pender/chatbot-rnn) - A toy chatbot powered by deep learning and trained on data from Reddit
 - [YearOfProgramming/2017Challenges](https://github.com/YearOfProgramming/2017Challenges) - Join our slack channel
 - [jekil/awesome-hacking](https://github.com/jekil/awesome-hacking) - Awesome hacking is an awesome collection of hacking tools.
-- [dxa4481/truffleHog](https://github.com/dxa4481/truffleHog) - Searches through git repositories for high entropy strings and secrets, digging deep into commit history
+- [trufflesecurity/truffleHog](https://github.com/trufflesecurity/truffleHog) - Searches through git repositories for high entropy strings and secrets, digging deep into commit history
 - [kevinhughes27/TensorKart](https://github.com/kevinhughes27/TensorKart) - self-driving MarioKart with TensorFlow
 - [humphd/have-fun-with-machine-learning](https://github.com/humphd/have-fun-with-machine-learning) - An absolute beginner's guide to Machine Learning and Image Classification with Neural Networks
 - [udacity/CarND-Term1-Starter-Kit](https://github.com/udacity/CarND-Term1-Starter-Kit) - 
@@ -11674,6 +11675,7 @@
 - [noplay/python-mysql-replication](https://github.com/noplay/python-mysql-replication) - Pure Python Implementation of MySQL replication protocol build on top of PyMYSQL
 - [miha-stopar/nnets](https://github.com/miha-stopar/nnets) - Python neural network library
 - [menegazzo/travispy](https://github.com/menegazzo/travispy) - LOOKING FOR SOMEONE TO TRANSFER OWNERSHIP - Travis CI API for Python
+- [astropy/astropy](https://github.com/astropy/astropy) - Repository for the Astropy core package
 - [cloudflare/bpftools](https://github.com/cloudflare/bpftools) - BPF Tools - packet analyst toolkit
 - [rdegges/simpleq](https://github.com/rdegges/simpleq) - A simple, infinitely scalable, SQS based queue.
 - [jtauber/blockchain](https://github.com/jtauber/blockchain) - a bitcoin blockchain parser in Python
@@ -13002,7 +13004,6 @@
 - [kylelogue/mustard-ui](https://github.com/kylelogue/mustard-ui) - A starter CSS framework that actually looks good.
 - [haveyoudebuggedit/debugged.it](https://github.com/haveyoudebuggedit/debugged.it) - 
 - [Hacker0x01/hacker101](https://github.com/Hacker0x01/hacker101) - Source code for Hacker101.com - a free online web and mobile security class.
-- [StartBootstrap/startbootstrap-coming-soon](https://github.com/StartBootstrap/startbootstrap-coming-soon) - A coming soon theme with a video background for Bootstrap 4
 - [creativetimofficial/vue-light-bootstrap-dashboard](https://github.com/creativetimofficial/vue-light-bootstrap-dashboard) - Vue Light Bootstrap Dashboard - FREE BOOTSTRAP 4 VUEJS ADMIN TEMPLATE
 - [papercss/papercss](https://github.com/papercss/papercss) - The Less Formal CSS Framework
 - [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - My cheatsheets
