@@ -5809,6 +5809,7 @@
 
 ## Others 
 
+- [singularseclab/Slides](https://github.com/singularseclab/Slides) - A collection of slides from Singular Security Lab.
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers (Alpha)
 - [Eyadhamza/Eng-Hammad-Recommendations](https://github.com/Eyadhamza/Eng-Hammad-Recommendations) - The repo contains books, tutorials and resources based on the recommendations of Eng Mohammed Hammad.
 - [WeareSoft/tech-interview](https://github.com/WeareSoft/tech-interview) - :loudspeaker:🙍 tech interview
@@ -6787,7 +6788,7 @@
 - [BrightcoveOS/Diamond](https://github.com/BrightcoveOS/Diamond) - 
 - [scrapy/slybot](https://github.com/scrapy/slybot) - 
 - [karan/Projects](https://github.com/karan/Projects) - :page_with_curl: A list of practical projects that anyone can solve in any programming language.
-- [shipyard/shipyard](https://github.com/shipyard/shipyard) - Composable Docker Management
+- [ehazlett/shipyard](https://github.com/ehazlett/shipyard) - Composable Docker Management
 - [garethr/vagrantboxes-heroku](https://github.com/garethr/vagrantboxes-heroku) - Repository for http://www.vagrantbox.es
 - [bobuk/islands](https://github.com/bobuk/islands) - Yandex.Islands proposal specification
 - [itaifrenkel/elasticsearch-ec2-fabric](https://github.com/itaifrenkel/elasticsearch-ec2-fabric) - Fabric (python) commands for setting up your first elasticsearch machine instance on ec2
@@ -6880,6 +6881,8 @@
 
 ## Python 
 
+- [sentinelsat/sentinelsat](https://github.com/sentinelsat/sentinelsat) - Search and download Copernicus Sentinel satellite images
+- [sentinel-hub/sentinelhub-py](https://github.com/sentinel-hub/sentinelhub-py) - Download and process satellite imagery in Python using Sentinel Hub services.
 - [ternaus/kaggle_dstl_submission](https://github.com/ternaus/kaggle_dstl_submission) - Code for a winning model (3 out of 419) in a Dstl Satellite Imagery Feature Detection challenge
 - [karpathy/cryptos](https://github.com/karpathy/cryptos) - crypto utilities as a way of learning
 - [zihangJiang/TokenLabeling](https://github.com/zihangJiang/TokenLabeling) - Pytorch implementation of "Training a 85.4% Top-1 Accuracy Vision Transformer with 56M Parameters on ImageNet"
@@ -7028,7 +7031,7 @@
 - [BenevolentAI/MolBERT](https://github.com/BenevolentAI/MolBERT) - 
 - [PeizeSun/SparseR-CNN](https://github.com/PeizeSun/SparseR-CNN) - End-to-End Object Detection with Learnable Proposal, CVPR2021
 - [shreyashankar/create-ml-app](https://github.com/shreyashankar/create-ml-app) - Template Makefile for ML projects in Python.
-- [haven-ai/haven-ai](https://github.com/haven-ai/haven-ai) - 
+- [haven-ai/haven-ai](https://github.com/haven-ai/haven-ai) - To Run, Manage and Visualize Large Scale Experiments
 - [alphacep/tn2-wg](https://github.com/alphacep/tn2-wg) - Tacotron2 + Waveglow Russian
 - [sovaai/sova-asr](https://github.com/sovaai/sova-asr) - SOVA ASR (Automatic Speech Recognition)
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: End-to-end Python framework for building natural language search interfaces to data. Leverages Transformers and the State-of-the-Art of NLP. Supports DPR, Elasticsearch, Hugging Face’s Hub, and much more!
