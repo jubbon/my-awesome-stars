@@ -1100,7 +1100,6 @@
 - [apas/athena](https://github.com/apas/athena) - Minimalist static blog generator written in Python
 - [microsoft/vscode-docs](https://github.com/microsoft/vscode-docs) - Public documentation for Visual Studio Code
 - [worldsong/vue2-shop](https://github.com/worldsong/vue2-shop) - A shop developed with Vue2 + Vue-router + Axios + Vuex + Node + Express + MongoDB + Webpack
-- [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [tmcw/docbox](https://github.com/tmcw/docbox) - REST API documentation generator
 - [waylybaye/HyperApp-Guide](https://github.com/waylybaye/HyperApp-Guide) - HyperApp user's manual
 - [picturepan2/devices.css](https://github.com/picturepan2/devices.css) - Devices.css - Modern devices in pure CSS
@@ -3574,6 +3573,7 @@
 - [mnielsen/magic_paper](https://github.com/mnielsen/magic_paper) - Experiments in an explorable visual medium for mathematics
 - [yishn/tikzcd-editor](https://github.com/yishn/tikzcd-editor) - A simple visual editor for creating commutative diagrams.
 - [franciscop/server](https://github.com/franciscop/server) - :desktop_computer: Simple and powerful server for Node.js
+- [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (April 2021)
 - [frappe/charts](https://github.com/frappe/charts) - Simple, responsive, modern SVG Charts with zero dependencies
 - [elesdoar/leaflet-control-orderlayers](https://github.com/elesdoar/leaflet-control-orderlayers) - Leaflet control with order functionality
@@ -3722,6 +3722,7 @@
 - [vuejs-tips/vue-the-mask](https://github.com/vuejs-tips/vue-the-mask) - Tiny (&lt;2k gzipped) and dependency free mask input for Vue.js
 - [shentao/vue-multiselect](https://github.com/shentao/vue-multiselect) - Universal select/multiselect/tagging component for Vue.js
 - [vuejs/eslint-plugin-vue](https://github.com/vuejs/eslint-plugin-vue) - Official ESLint plugin for Vue.js
+- [indrajithi/mgc-django](https://github.com/indrajithi/mgc-django) - Machine learning approach to classify music based on genres
 - [ecrmnn/collect.js](https://github.com/ecrmnn/collect.js) - 💎  Convenient and dependency free wrapper for working with arrays and objects
 - [robinmoisson/staticrypt](https://github.com/robinmoisson/staticrypt) - Password protect a static HTML page
 - [serversideup/amplitudejs](https://github.com/serversideup/amplitudejs) - AmplitudeJS: Open Source HTML5 Web Audio Library. Design your web audio player, the way you want. No dependencies required.
@@ -9397,7 +9398,6 @@
 - [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre) - The official source code repository for the calibre ebook manager
 - [tensorflow/tensor2tensor](https://github.com/tensorflow/tensor2tensor) - Library of deep learning models and datasets designed to make deep learning more accessible and accelerate ML research.
 - [mitsuhiko/snaek](https://github.com/mitsuhiko/snaek) - DEPRECATED: Being replaced with milksnake: https://github.com/getsentry/milksnake
-- [indrajithi/mgc-django](https://github.com/indrajithi/mgc-django) - Machine learning approach to classify music based on genres
 - [JoseTomasTocino/yotaq](https://github.com/JoseTomasTocino/yotaq) - yotaq - Your Own Task Queue for Python
 - [Kyubyong/sudoku](https://github.com/Kyubyong/sudoku) - Can Neural Networks Crack Sudoku?
 - [csujedihy/lc-all-solutions](https://github.com/csujedihy/lc-all-solutions) - My own leetcode solutions by python
@@ -13727,7 +13727,7 @@
 - [antonreshetov/mysigmail](https://github.com/antonreshetov/mysigmail) - UI Email Signature Generator - Make easy to create your email signature
 - [chiflix/splayerx](https://github.com/chiflix/splayerx) - SPlayerX@2018
 - [mazipan/vue2-simplert-plugin](https://github.com/mazipan/vue2-simplert-plugin) - ⚠️  Vue 2 Simple Alert Plugin (SweetAlert Inspired)
-- [antoniandre/vue-cal](https://github.com/antoniandre/vue-cal) - A Vue JS full calendar, no dependency, no BS. :metal:
+- [antoniandre/vue-cal](https://github.com/antoniandre/vue-cal) - A Vue 2 & 3 full calendar, no dependency, no BS. :metal:
 - [Yubisaki/vuepress-theme-yubisaki](https://github.com/Yubisaki/vuepress-theme-yubisaki) - :sparkles: A blog theme for vuepress
 - [DCzajkowski/vue-pure-lightbox](https://github.com/DCzajkowski/vue-pure-lightbox) - Very simple lightbox plugin (without any dependencies) for Vuejs 🌅
 - [antrancs/maeve](https://github.com/antrancs/maeve) - Maeve, a PWA Apple Music web player with Last.fm support. Built with Vue & Typescript
