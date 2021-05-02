@@ -4381,7 +4381,6 @@
 - [agiliq/django-graphos](https://github.com/agiliq/django-graphos) - Django charting made *really* easy.
 - [wrobstory/bearcart](https://github.com/wrobstory/bearcart) - Creating Rickshaw.js visualizations with Python Pandas
 - [novus/nvd3](https://github.com/novus/nvd3) - A reusable charting library written in d3.js
-- [skulpt/skulpt](https://github.com/skulpt/skulpt) - Skulpt is a Javascript implementation of the Python programming language
 - [fergiemcdowall/pumbledb](https://github.com/fergiemcdowall/pumbledb) - PumbleDB is a Node.js key-value server that uses LevelDB
 - [Automattic/monk](https://github.com/Automattic/monk) - The wise MongoDB API
 - [evolvedlight/pydashie](https://github.com/evolvedlight/pydashie) - Port of Dashing to python
@@ -4476,6 +4475,7 @@
 - [JohnSnowLabs/spark-nlp-workshop](https://github.com/JohnSnowLabs/spark-nlp-workshop) - Public runnable examples of using John Snow Labs' NLP for Apache Spark.
 - [dafriedman97/mlbook](https://github.com/dafriedman97/mlbook) - Repository for the free online book Machine Learning from Scratch (link below!)
 - [MicrosoftLearning/DP100](https://github.com/MicrosoftLearning/DP100) - Labs for Course DP-100: Designing and Implementing Data Science Solutions on Microsoft Azure
+- [koaning/human-learn](https://github.com/koaning/human-learn) - Natural Intelligence is still a pretty good idea.
 - [natasha/natasha-usage](https://github.com/natasha/natasha-usage) - 
 - [aliannejadi/ClariQ](https://github.com/aliannejadi/ClariQ) - ClariQ: SCAI Workshop data challenge on conversational search clarification.
 - [open-mmlab/mmclassification](https://github.com/open-mmlab/mmclassification) - OpenMMLab Image Classification Toolbox and Benchmark
@@ -7063,7 +7063,6 @@
 - [Python-World/Python_and_the_Web](https://github.com/Python-World/Python_and_the_Web) - Build Bots, Scrape a website or use an API to solve a problem.
 - [trumpowen/All-Programming-E-Books-PDF](https://github.com/trumpowen/All-Programming-E-Books-PDF) - A Curated List Of Programming Books For C, C++ , Python, JavaScript, NodeJs, ReactJs, Web, JQuery, Flask, Dom, Angular, CSS, HTML for beginners, intermediate, advanced and experts
 - [timoschick/pet](https://github.com/timoschick/pet) - This repository contains the code for "Exploiting Cloze Questions for Few-Shot Text Classification and Natural Language Inference"
-- [koaning/human-learn](https://github.com/koaning/human-learn) - Natural Intelligence is still a pretty good idea.
 - [jsonresume/jsonresume-fake](https://github.com/jsonresume/jsonresume-fake) - Fully generated fake resumes using machine learning models trained off ~6000 JSON resumes.
 - [NVlabs/stylegan2-ada](https://github.com/NVlabs/stylegan2-ada) - StyleGAN2 with adaptive discriminator augmentation (ADA) - Official TensorFlow implementation
 - [MatthiasSchinzel/sysmon](https://github.com/MatthiasSchinzel/sysmon) - Graphical system monitor for linux, including information about CPU, GPU, Memory, HDD/SDD and your network connections. Similar to windows task manager.
@@ -12578,6 +12577,7 @@
 - [kz26/PyExcelerate](https://github.com/kz26/PyExcelerate) - Accelerated Excel XLSX Writing Library for Python 2/3
 - [areski/python-nvd3](https://github.com/areski/python-nvd3) - Python Wrapper for NVD3 - It's time for beautiful charts
 - [bryancatanzaro/copperhead](https://github.com/bryancatanzaro/copperhead) - Data Parallel Python
+- [skulpt/skulpt](https://github.com/skulpt/skulpt) - Skulpt is a Javascript implementation of the Python programming language
 - [falconry/falcon](https://github.com/falconry/falcon) - The no-nonsense, minimalist REST and app backend framework for Python developers, with a focus on reliability, correctness, and performance at scale.
 - [thomst/logscan](https://github.com/thomst/logscan) - logscan is a command-line-tool to get time-specific access to logfiles. It can handle rotated and gzipped logfiles or reads from stdin. The log   is automatically checked for different timecodes.
 - [thomst/timeparser](https://github.com/thomst/timeparser) - Parse strings to objects of the datetime-module.  This module intends to make string-parsing to objects of the datetime-module as easy as possible while allowing a fine configuration about which kind of formats are supported.
