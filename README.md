@@ -2637,7 +2637,6 @@
 - [kdheepak/c3.py](https://github.com/kdheepak/c3.py) - Commit Counter Chart is a Python Flask app to view git history using D3.js
 - [tambetm/simple_dqn](https://github.com/tambetm/simple_dqn) - Simple deep Q-learning agent.
 - [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) - DefectDojo is an open-source application vulnerability correlation and security orchestration tool.
-- [peterroelants/peterroelants.github.io](https://github.com/peterroelants/peterroelants.github.io) - Blog
 - [ben-albrecht/PythonWorkshop2015](https://github.com/ben-albrecht/PythonWorkshop2015) - This is the repository for the Simulations and Modeling (SaM) Python Workshop, Spring 2015.
 - [moyaproject/moya](https://github.com/moyaproject/moya) - Web development platform
 - [chrisalbon/code_py](https://github.com/chrisalbon/code_py) - A collection of well-commented code snippets for data science
@@ -3118,6 +3117,7 @@
 - [harijoe/serverless-boilerplate](https://github.com/harijoe/serverless-boilerplate) - Minimal yet super-functional serverless boilerplate
 - [imba/imba](https://github.com/imba/imba) - 🐤 The friendly full-stack language
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
+- [vgshenoy/vue-scrollama](https://github.com/vgshenoy/vue-scrollama) - Vue component to easily setup scroll-driven interactions (aka scrollytelling)
 - [chrisvfritz/vue-monolith-example](https://github.com/chrisvfritz/vue-monolith-example) - Simple example of how to structure a monolithic Vue application
 - [pagekit/vue-resource](https://github.com/pagekit/vue-resource) - The HTTP client for Vue.js
 - [dawson-org/dawson-cli](https://github.com/dawson-org/dawson-cli) - A serverless web framework for Node.js on AWS (CloudFormation, CloudFront, API Gateway, Lambda)
@@ -5613,6 +5613,7 @@
 - [whitehorn/Scientific_graphics_in_python](https://github.com/whitehorn/Scientific_graphics_in_python) - Электронный учебник-пособие по научной графике в python
 - [yandex/rep](https://github.com/yandex/rep) - Machine Learning toolbox for Humans
 - [bmabey/pyLDAvis](https://github.com/bmabey/pyLDAvis) - Python library for interactive topic model visualization. Port of the R LDAvis package.
+- [peterroelants/peterroelants.github.io](https://github.com/peterroelants/peterroelants.github.io) - Blog
 - [jseabold/depy](https://github.com/jseabold/depy) - DePy 2015 Talk
 - [barbagroup/AeroPython](https://github.com/barbagroup/AeroPython) - Classical Aerodynamics of potential flow using Python and Jupyter Notebooks
 - [jakevdp/sklearn_pycon2015](https://github.com/jakevdp/sklearn_pycon2015) - Materials for my Pycon 2015 scikit-learn tutorial.
@@ -6813,7 +6814,6 @@
 - [Graphite-Tattle/Tattle](https://github.com/Graphite-Tattle/Tattle) - Tattle is a lightweight self-service dashboards web-application for Graphite and Ganglia monitoring tools
 - [garakh/kladrapi](https://github.com/garakh/kladrapi) - Проект переведен в прориетарный статус. Дальнейшее его развитие будет осуществляться компанией-разработчиком, исходные коды не будут выкладываться на github
 - [CachetHQ/Cachet](https://github.com/CachetHQ/Cachet) - 📛 An open source status page system for everyone.
-- [osm-search/Nominatim](https://github.com/osm-search/Nominatim) - Open Source search based on OpenStreetMap data
 - [komarserjio/notejam](https://github.com/komarserjio/notejam) - Unified sample web app. The easy way to learn web frameworks.
 - [emuravjev/mdash](https://github.com/emuravjev/mdash) - Muravjev Typograph
 
@@ -6882,6 +6882,7 @@
 
 ## Python 
 
+- [xxxsssyyy/DeepNER](https://github.com/xxxsssyyy/DeepNER) - An Easy-to-use, Modular and Prolongable package of deep-learning based Named Entity Recognition Models.
 - [sentinelsat/sentinelsat](https://github.com/sentinelsat/sentinelsat) - Search and download Copernicus Sentinel satellite images
 - [sentinel-hub/sentinelhub-py](https://github.com/sentinel-hub/sentinelhub-py) - Download and process satellite imagery in Python using Sentinel Hub services.
 - [ternaus/kaggle_dstl_submission](https://github.com/ternaus/kaggle_dstl_submission) - Code for a winning model (3 out of 419) in a Dstl Satellite Imagery Feature Detection challenge
@@ -8729,7 +8730,7 @@
 - [logileifs/shellson](https://github.com/logileifs/shellson) - JSON command line parser
 - [Dowwie/pyfakers](https://github.com/Dowwie/pyfakers) - py-fake-rs:  a fake data generator for python, backed by fake-rs in rust
 - [profusion/sgqlc](https://github.com/profusion/sgqlc) - Simple GraphQL Client
-- [sandovsky/auditor](https://github.com/sandovsky/auditor) - Script for tracking file system changes
+- [zijaanzij/auditor](https://github.com/zijaanzij/auditor) - Script for tracking file system changes
 - [PortSwigger/aws-security-checks](https://github.com/PortSwigger/aws-security-checks) - AWS Security Checks
 - [kenogo/spotify-lyrics-cli](https://github.com/kenogo/spotify-lyrics-cli) - Migrated to Gitlab, this Github repo will not receive updates.
 - [sammchardy/python-bigone](https://github.com/sammchardy/python-bigone) - BigONE Exchange API python implementation for automated trading
@@ -11229,6 +11230,7 @@
 - [mila-iqia/fuel](https://github.com/mila-iqia/fuel) - A data pipeline framework for machine learning
 - [joschu/cgt](https://github.com/joschu/cgt) - Computation Graph Toolkit
 - [ei-grad/geocoder](https://github.com/ei-grad/geocoder) - ElasticSearch geocoder service for HERE® NavStreets using Flask.
+- [osm-search/Nominatim](https://github.com/osm-search/Nominatim) - Open Source search based on OpenStreetMap data
 - [damianbraun/nominatim](https://github.com/damianbraun/nominatim) - OSM Nominatim API module
 - [mvexel/overpass-api-python-wrapper](https://github.com/mvexel/overpass-api-python-wrapper) - Python bindings for the OpenStreetMap Overpass API
 - [html5lib/html5lib-python](https://github.com/html5lib/html5lib-python) - Standards-compliant library for parsing and serializing HTML documents and fragments in Python
@@ -13745,7 +13747,6 @@
 - [leofle/d3vue](https://github.com/leofle/d3vue) - Vue app with D3 graph
 - [mtorromeo/vue-patternfly](https://github.com/mtorromeo/vue-patternfly) - PatternFly components for Vue 2
 - [sanity-io/example-frontend-vue-js](https://github.com/sanity-io/example-frontend-vue-js) - An example of a Sanity powered frontend using Vue.js
-- [vgshenoy/vue-scrollama](https://github.com/vgshenoy/vue-scrollama) - Vue component to easily setup scroll-driven interactions (aka scrollytelling)
 - [euvl/vue-js-toggle-button](https://github.com/euvl/vue-js-toggle-button) - :fish_cake: Vue.js 2 toggle / switch button - simple, pretty, customizable
 - [apache/skywalking-rocketbot-ui](https://github.com/apache/skywalking-rocketbot-ui) - SkyWalking RocketBot UI
 - [danijelh/aspnetcore-vue-typescript-template](https://github.com/danijelh/aspnetcore-vue-typescript-template) - Template AspNetCore with Vue, Vue router, Vuex, TypeScript, Bulma, Sass and Jest
