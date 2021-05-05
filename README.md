@@ -3560,6 +3560,7 @@
 - [moment/luxon](https://github.com/moment/luxon) - ⏱ A library for working with dates and times in JS
 - [bendc/animateplus](https://github.com/bendc/animateplus) - A+ animation module for the modern web
 - [WeiChiaChang/stacks-cli](https://github.com/WeiChiaChang/stacks-cli) - 📊 Analyze website stack from the terminal  💻
+- [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
 - [ZeroOneStudio/node-yandex-kassa](https://github.com/ZeroOneStudio/node-yandex-kassa) - Node.js utilities to integrate Yandex.Kassa with your app
 - [vuejs-templates/pwa](https://github.com/vuejs-templates/pwa) - PWA template for vue-cli based on the webpack template
 - [nightwatchjs/nightwatch](https://github.com/nightwatchjs/nightwatch) - End-to-end testing framework written in Node.js and using the Webdriver API
@@ -3734,6 +3735,7 @@
 - [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies in tech.
 - [datproject/docs](https://github.com/datproject/docs) - Documentation resources for dat and the surrounding ecosystem
 - [rhiokim/flybook](https://github.com/rhiokim/flybook) - :airplane: FlyBook is a simple utility to generate static website such as gh-pages, manual of you projects
+- [odoo/documentation](https://github.com/odoo/documentation) - Odoo documentation sources
 - [wavebox/waveboxapp](https://github.com/wavebox/waveboxapp) - Wavebox Classic has been updated to Wavebox 10. Learn more Wavebox.io
 - [medatc/vuet](https://github.com/medatc/vuet) - 允许你定义飙车过程的集中式状态管理模式
 - [intercellular/cell](https://github.com/intercellular/cell) - A self-driving web app framework
@@ -5683,7 +5685,6 @@
 - [ForkAwesome/Fork-Awesome](https://github.com/ForkAwesome/Fork-Awesome) - A fork of the iconic font and CSS toolkit
 - [fossasia/codeheat.org](https://github.com/fossasia/codeheat.org) - Codeheat Coding Contest Website https://codeheat.org
 - [ng-alain/ng-alain](https://github.com/ng-alain/ng-alain) - NG-ZORRO admin panel front-end framework (surge mirror https://ng-alain-doc.surge.sh)
-- [odoo/documentation-user](https://github.com/odoo/documentation-user) - Sources For Odoo Enterprise Business Apps User Manual
 - [qgis/QGIS-Website](https://github.com/qgis/QGIS-Website) - QGIS-Website
 - [kevinsawicki/monokai](https://github.com/kevinsawicki/monokai) - Monokai Atom Syntax theme
 - [jesseweed/seti-ui](https://github.com/jesseweed/seti-ui) - A subtle dark colored UI theme for Atom.
@@ -5810,7 +5811,6 @@
 ## Others 
 
 - [singularseclab/Slides](https://github.com/singularseclab/Slides) - A collection of slides from Singular Security Lab.
-- [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers (Alpha)
 - [Eyadhamza/Eng-Hammad-Recommendations](https://github.com/Eyadhamza/Eng-Hammad-Recommendations) - The repo contains books, tutorials and resources based on the recommendations of Eng Mohammed Hammad.
 - [WeareSoft/tech-interview](https://github.com/WeareSoft/tech-interview) - :loudspeaker:🙍 tech interview
 - [PlayerForever/CS_eBooks](https://github.com/PlayerForever/CS_eBooks) - 
@@ -7020,7 +7020,7 @@
 - [MontaEllis/Pytorch-Medical-Segmentation](https://github.com/MontaEllis/Pytorch-Medical-Segmentation) - This repository is an unoffical PyTorch implementation of Medical segmentation in 3D and 2D.
 - [EleutherAI/DALLE-mtf](https://github.com/EleutherAI/DALLE-mtf) - Open-AI's DALL-E for large scale training in mesh-tensorflow.
 - [lucidrains/DALLE-pytorch](https://github.com/lucidrains/DALLE-pytorch) - Implementation / replication of DALL-E, OpenAI's Text to Image Transformer, in Pytorch
-- [PeizeSun/TransTrack](https://github.com/PeizeSun/TransTrack) - Multiple-Object Tracking with Transformer
+- [PeizeSun/TransTrack](https://github.com/PeizeSun/TransTrack) - Multiple Object Tracking with Transformer
 - [MenghaoGuo/PCT](https://github.com/MenghaoGuo/PCT) - Jittor implementation of PCT:Point Cloud Transformer
 - [Megvii-BaseDetection/DeFCN](https://github.com/Megvii-BaseDetection/DeFCN) - End-to-End Object Detection with Fully Convolutional Network
 - [GuitarML/GuitarLSTM](https://github.com/GuitarML/GuitarLSTM) - Deep learning models for guitar amp/pedal emulation using LSTM with Keras.
@@ -13314,6 +13314,7 @@
 
 ## TypeScript 
 
+- [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers (Public Beta 🎉)
 - [common-voice/common-voice](https://github.com/common-voice/common-voice) - Common Voice is part of Mozilla's initiative to help teach machines how real people speak.
 - [benawad/dogehouse](https://github.com/benawad/dogehouse) - Taking voice conversations to the moon 🚀
 - [jevakallio/git-notify](https://github.com/jevakallio/git-notify) - 🙉 📣 Communicate important updates to your team via git commit messages
@@ -13504,7 +13505,6 @@
 - [aws-amplify/amplify-js](https://github.com/aws-amplify/amplify-js) - A declarative JavaScript library for application development using cloud services.
 - [antvis/G2](https://github.com/antvis/G2) - 📊 A highly interactive data-driven visualization grammar for statistical charts.
 - [ianstormtaylor/superstruct](https://github.com/ianstormtaylor/superstruct) - A simple and composable way to validate data in JavaScript (and TypeScript).
-- [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
 - [cs01/gdbgui](https://github.com/cs01/gdbgui) - Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will open in your browser.
 - [ant-design/ant-design-pro](https://github.com/ant-design/ant-design-pro) - 👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!
 - [Yoctol/bottender](https://github.com/Yoctol/bottender) - ⚡️ A framework for building conversational user interfaces.
