@@ -2184,7 +2184,6 @@
 - [WebDevSimplified/Introduction-to-Web-Development](https://github.com/WebDevSimplified/Introduction-to-Web-Development) - 
 - [codingforentrepreneurs/30-Days-of-Python](https://github.com/codingforentrepreneurs/30-Days-of-Python) - Learn Python for the next 30 (or so) Days.
 - [Machine-Learning-Tokyo/CNN-Architectures](https://github.com/Machine-Learning-Tokyo/CNN-Architectures) - 
-- [amundsen-io/amundsen](https://github.com/amundsen-io/amundsen) - Amundsen is a metadata driven application for improving the productivity of data analysts, data scientists and engineers when interacting with data.
 - [amueller/ml-workshop-3-of-4](https://github.com/amueller/ml-workshop-3-of-4) - Advanced Machine Learning with Scikit-learn part I
 - [eellak/nlpbuddy](https://github.com/eellak/nlpbuddy) - A text analysis application for performing common NLP tasks through a web dashboard interface and an API
 - [splunk/rwi_executive_dashboard](https://github.com/splunk/rwi_executive_dashboard) - Splunk Remote Work Insights - Executive Dashboard
@@ -2427,6 +2426,7 @@
 - [xbresson/spectral_graph_convnets](https://github.com/xbresson/spectral_graph_convnets) - PyTorch implementation of spectral graph ConvNets, NIPS’16
 - [alvarcarto/url-to-pdf-api](https://github.com/alvarcarto/url-to-pdf-api) - Web page PDF/PNG rendering done right. Self-hosted service for rendering receipts, invoices, or any content.
 - [atotic/event-loop](https://github.com/atotic/event-loop) - event loop docs
+- [NorthwoodsSoftware/GoJS](https://github.com/NorthwoodsSoftware/GoJS) - JavaScript diagramming library for interactive flowcharts, org charts, design tools, planning tools, visual languages.
 - [ThePacielloGroup/cupper](https://github.com/ThePacielloGroup/cupper) - An inclusive pattern library builder.
 - [hunzaboy/CSS-Checkbox-Library](https://github.com/hunzaboy/CSS-Checkbox-Library) - A huge library of Pure CSS Checkboxes for every taste.
 - [CHYbeta/Software-Security-Learning](https://github.com/CHYbeta/Software-Security-Learning) - Software-Security-Learning
@@ -3621,7 +3621,6 @@
 - [lllyasviel/style2paints](https://github.com/lllyasviel/style2paints) - sketch + style = paints :art: (TOG2018/SIGGRAPH2018ASIA)
 - [graphql/graphql-js](https://github.com/graphql/graphql-js) - A reference implementation of GraphQL for JavaScript
 - [facebook/relay](https://github.com/facebook/relay) - Relay is a JavaScript framework for building data-driven React applications.
-- [NorthwoodsSoftware/GoJS](https://github.com/NorthwoodsSoftware/GoJS) - JavaScript diagramming library for interactive flowcharts, org charts, design tools, planning tools, visual languages.
 - [kodie/npm-gif](https://github.com/kodie/npm-gif) - Replace NPM install's progress bar with a GIF!
 - [vuejs/vue-test-utils](https://github.com/vuejs/vue-test-utils) - 🔬 Utilities for testing Vue components
 - [eclipsesource/tabris-js](https://github.com/eclipsesource/tabris-js) - Create native mobile apps in JavaScript or TypeScript.
@@ -4204,7 +4203,7 @@
 - [square/cubism](https://github.com/square/cubism) - Cubism.js: A JavaScript library for time series visualization.
 - [plouc/mozaik](https://github.com/plouc/mozaik) - Mozaïk is a tool based on nodejs / react / redux / nivo / d3 to easily craft beautiful dashboards
 - [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - 📝 Modern documentation format and toolchain using Git and Markdown
-- [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D library.
+- [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
 - [aurelia/framework](https://github.com/aurelia/framework) - The Aurelia 1 framework entry point, bringing together all the required sub-modules of Aurelia.
 - [OnsenUI/OnsenUI](https://github.com/OnsenUI/OnsenUI) - Mobile app development framework and SDK using HTML5 and JavaScript. Create beautiful and performant cross-platform mobile apps. Based on Web Components, and provides bindings for Angular 1, 2, React and Vue.js.
 - [angular-ui/ui-map](https://github.com/angular-ui/ui-map) - Google Maps
@@ -6771,7 +6770,7 @@
 - [jhwhite/datasceinceblogs](https://github.com/jhwhite/datasceinceblogs) - Collection of blogs dedicated to Data Science, Analytics, Big Data and other popular Data Science topics
 - [sujitpal/statlearning-notebooks](https://github.com/sujitpal/statlearning-notebooks) - Python notebooks for exercises covered in Stanford statlearning class (where exercises were in R).
 - [bundestag/gesetze](https://github.com/bundestag/gesetze) - Bundesgesetze und -verordnungen
-- [pyston/pyston](https://github.com/pyston/pyston) - A faster and highly-compatible implementation of the Python programming language. The code here is out of date, please follow our blog
+- [pyston/pyston_v1](https://github.com/pyston/pyston_v1) - A faster and highly-compatible implementation of the Python programming language. The code here is out of date, please follow our blog
 - [limetext/lime](https://github.com/limetext/lime) - Open source API-compatible alternative to the text editor Sublime Text
 - [nealcaren/workshop_2014](https://github.com/nealcaren/workshop_2014) - Files for workshop at Center for Research on Inequalities and the Life Course
 - [django/deps](https://github.com/django/deps) - Django Enhancement Proposals
@@ -7267,6 +7266,7 @@
 - [ifzhang/FairMOT](https://github.com/ifzhang/FairMOT) - A simple baseline for one-shot multi-object tracking
 - [kivy/kivy](https://github.com/kivy/kivy) - Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS
 - [lyhue1991/eat_tensorflow2_in_30_days](https://github.com/lyhue1991/eat_tensorflow2_in_30_days) - Tensorflow2.0 🍎🍊 is delicious, just eat it! 😋😋
+- [amundsen-io/amundsen](https://github.com/amundsen-io/amundsen) - Amundsen is a metadata driven application for improving the productivity of data analysts, data scientists and engineers when interacting with data.
 - [microsoft/forecasting](https://github.com/microsoft/forecasting) - Time Series Forecasting Best Practices & Examples
 - [alievk/avatarify-python](https://github.com/alievk/avatarify-python) - Avatars for Zoom, Skype and other video-conferencing apps.
 - [tiangolo/uwsgi-nginx-flask-docker](https://github.com/tiangolo/uwsgi-nginx-flask-docker) - Docker image with uWSGI and Nginx for Flask applications in Python running in a single container. Optionally with Alpine Linux.
