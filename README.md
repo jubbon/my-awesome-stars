@@ -6412,7 +6412,7 @@
 - [virajkulkarni14/WebDeveloperSecurityChecklist](https://github.com/virajkulkarni14/WebDeveloperSecurityChecklist) - A checklist of important security issues you should consider when creating a web application.
 - [aalhour/awesome-compilers](https://github.com/aalhour/awesome-compilers) - :sunglasses: Curated list of awesome resources on Compilers, Interpreters and Runtimes
 - [googlecreativelab/quickdraw-dataset](https://github.com/googlecreativelab/quickdraw-dataset) - Documentation on how to access and use the Quick, Draw! Dataset.
-- [JetBrains/kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language
+- [JetBrains/kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language. Join Kotlin release event: https://kotl.in/15-event
 - [nayafia/microgrants](https://github.com/nayafia/microgrants) - A list of microgrant programs for your good ideas
 - [qazbnm456/awesome-web-security](https://github.com/qazbnm456/awesome-web-security) - 🐶 A curated list of Web Security materials and resources.
 - [stacygohyunsi/algorithms-primer](https://github.com/stacygohyunsi/algorithms-primer) - A consolidated collection of resources for you to learn and understand algorithms and data structures easily.
@@ -6769,7 +6769,7 @@
 - [jhwhite/datasceinceblogs](https://github.com/jhwhite/datasceinceblogs) - Collection of blogs dedicated to Data Science, Analytics, Big Data and other popular Data Science topics
 - [sujitpal/statlearning-notebooks](https://github.com/sujitpal/statlearning-notebooks) - Python notebooks for exercises covered in Stanford statlearning class (where exercises were in R).
 - [bundestag/gesetze](https://github.com/bundestag/gesetze) - Bundesgesetze und -verordnungen
-- [pyston/pyston_v1](https://github.com/pyston/pyston_v1) - A faster and highly-compatible implementation of the Python programming language. The code here is out of date, please follow our blog
+- [pyston/pyston_v1](https://github.com/pyston/pyston_v1) - The previous version of Pyston, a faster implementation of the Python programming language.  Please use this link for the new repository:
 - [limetext/lime](https://github.com/limetext/lime) - Open source API-compatible alternative to the text editor Sublime Text
 - [nealcaren/workshop_2014](https://github.com/nealcaren/workshop_2014) - Files for workshop at Center for Research on Inequalities and the Life Course
 - [django/deps](https://github.com/django/deps) - Django Enhancement Proposals
