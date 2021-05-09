@@ -923,7 +923,6 @@
 - [bharadwaj-raju/TextSuggest](https://github.com/bharadwaj-raju/TextSuggest) - MOVED: https://gitlab.com/bharadwaj-raju/TextSuggest
 - [charto/nbind](https://github.com/charto/nbind) - :sparkles: Magical headers that make your C++ library accessible from JavaScript :rocket:
 - [parro-it/libui-node](https://github.com/parro-it/libui-node) - Node bindings for libui, an awesome native UI library for Unix, OSX and Windows
-- [SaschaWillems/Vulkan](https://github.com/SaschaWillems/Vulkan) - Examples and demos for the new Vulkan API
 - [baidu-research/persistent-rnn](https://github.com/baidu-research/persistent-rnn) - Fast Recurrent Networks Library
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a free analytics DBMS for big data
 - [keepassx/keepassx](https://github.com/keepassx/keepassx) - KeePassX is a cross platform port of the windows application “Keepass Password Safe”.
@@ -1485,6 +1484,7 @@
 ## GLSL 
 
 - [bloc97/Anime4K](https://github.com/bloc97/Anime4K) - A High-Quality Real Time Upscaler for Anime Video
+- [SaschaWillems/Vulkan](https://github.com/SaschaWillems/Vulkan) - Examples and demos for the new Vulkan API
 
 ## Game Maker Language 
 
@@ -1885,7 +1885,7 @@
 - [infinitbyte/gopa](https://github.com/infinitbyte/gopa) - [WIP] GOPA, a spider written in Golang, for Elasticsearch. DEMO: http://index.elasticsearch.cn
 - [nuclio/nuclio](https://github.com/nuclio/nuclio) - High-Performance Serverless event and data processing platform
 - [v2ray/v2ray-core](https://github.com/v2ray/v2ray-core) - A platform for building proxies to bypass network restrictions.
-- [golang/lint](https://github.com/golang/lint) - [mirror] This is a linter for Go source code.
+- [golang/lint](https://github.com/golang/lint) - [mirror] This is a linter for Go source code. (deprecated)
 - [hybridgroup/gocv](https://github.com/hybridgroup/gocv) - Go package for computer vision using OpenCV 4 and beyond.
 - [Ullaakut/cameradar](https://github.com/Ullaakut/cameradar) - Cameradar hacks its way into RTSP videosurveillance cameras
 - [grafeas/grafeas](https://github.com/grafeas/grafeas) - Artifact Metadata API
@@ -3571,7 +3571,7 @@
 - [yishn/tikzcd-editor](https://github.com/yishn/tikzcd-editor) - A simple visual editor for creating commutative diagrams.
 - [franciscop/server](https://github.com/franciscop/server) - :desktop_computer: Simple and powerful server for Node.js
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (April 2021)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (May 2021)
 - [frappe/charts](https://github.com/frappe/charts) - Simple, responsive, modern SVG Charts with zero dependencies
 - [elesdoar/leaflet-control-orderlayers](https://github.com/elesdoar/leaflet-control-orderlayers) - Leaflet control with order functionality
 - [google/bottery](https://github.com/google/bottery) - 
@@ -4779,7 +4779,6 @@
 - [ageron/tf2_course](https://github.com/ageron/tf2_course) - Notebooks for my "Deep Learning with TensorFlow 2 and Keras" course
 - [pytroll/pytroll-examples](https://github.com/pytroll/pytroll-examples) - Collection of examples for pytroll satellite data processing
 - [gautam1858/python-awesome](https://github.com/gautam1858/python-awesome) - Learn Python, Easy to learn, Awesome
-- [jessevig/bertviz](https://github.com/jessevig/bertviz) - Tool for visualizing attention in the Transformer model (BERT, GPT-2, Albert, XLNet, RoBERTa, CTRL, etc.)
 - [YuliangXiu/MobilePose-pytorch](https://github.com/YuliangXiu/MobilePose-pytorch) - Light-weight Single Person Pose Estimator
 - [tlatlbtle/pose_estimation_CVPR_ECCV_2018](https://github.com/tlatlbtle/pose_estimation_CVPR_ECCV_2018) - 
 - [christophershultz/StaticGIFGen](https://github.com/christophershultz/StaticGIFGen) - A series of steps to generate fully customizable 'static' (or completely random) images.
@@ -7997,6 +7996,7 @@
 - [knazeri/edge-connect](https://github.com/knazeri/edge-connect) - EdgeConnect: Structure Guided Image Inpainting using Edge Prediction, ICCV  2019 https://arxiv.org/abs/1901.00212
 - [kimiyoung/transformer-xl](https://github.com/kimiyoung/transformer-xl) - 
 - [aws-samples/cookiecutter-aws-sam-python](https://github.com/aws-samples/cookiecutter-aws-sam-python) - A Cookiecutter template to create a Serverless App based on Serverless Application Model (SAM) and Python 3.6
+- [jessevig/bertviz](https://github.com/jessevig/bertviz) - Tool for visualizing attention in the Transformer model (BERT, GPT-2, Albert, XLNet, RoBERTa, CTRL, etc.)
 - [ecthros/uncaptcha2](https://github.com/ecthros/uncaptcha2) - defeating the latest version of ReCaptcha with 91% accuracy
 - [hrpan/tetris_mcts](https://github.com/hrpan/tetris_mcts) - MCTS project for Tetris
 - [THUFutureLab/gluon-face](https://github.com/THUFutureLab/gluon-face) - An unofficial Gluon FR Toolkit for face recognition. https://gluon-face.readthedocs.io
