@@ -6876,12 +6876,13 @@
 
 ## Python 
 
+- [ourownstory/neural_prophet](https://github.com/ourownstory/neural_prophet) - NeuralProphet - A simple forecasting model based on Neural Networks in PyTorch
 - [Lesha17/Punctuation](https://github.com/Lesha17/Punctuation) - Training BERT for punctuation task
 - [xxxsssyyy/DeepNER](https://github.com/xxxsssyyy/DeepNER) - An Easy-to-use, Modular and Prolongable package of deep-learning based Named Entity Recognition Models.
 - [sentinelsat/sentinelsat](https://github.com/sentinelsat/sentinelsat) - Search and download Copernicus Sentinel satellite images
 - [sentinel-hub/sentinelhub-py](https://github.com/sentinel-hub/sentinelhub-py) - Download and process satellite imagery in Python using Sentinel Hub services.
 - [ternaus/kaggle_dstl_submission](https://github.com/ternaus/kaggle_dstl_submission) - Code for a winning model (3 out of 419) in a Dstl Satellite Imagery Feature Detection challenge
-- [karpathy/cryptos](https://github.com/karpathy/cryptos) - crypto utilities as a way of learning
+- [karpathy/cryptos](https://github.com/karpathy/cryptos) - Pure Python from-scratch zero-dependency implementation of Bitcoin for educational purposes
 - [zihangJiang/TokenLabeling](https://github.com/zihangJiang/TokenLabeling) - Pytorch implementation of "Training a 85.4% Top-1 Accuracy Vision Transformer with 56M Parameters on ImageNet"
 - [GaParmar/clean-fid](https://github.com/GaParmar/clean-fid) - FID calculation with proper image resizing and quantization steps
 - [wilson1yan/VideoGPT](https://github.com/wilson1yan/VideoGPT) - 
@@ -13003,7 +13004,7 @@
 - [2factorauth/twofactorauth](https://github.com/2factorauth/twofactorauth) - List of sites with two factor auth support which includes SMS, email, phone calls, hardware, and software.
 - [fortrabbit/teutonic-css](https://github.com/fortrabbit/teutonic-css) - A modern CSS framework — versatile, well documented.
 - [nzbin/three-dots](https://github.com/nzbin/three-dots) - 🔮 CSS loading animations made by single element.
-- [Spiderpig86/Cirrus](https://github.com/Spiderpig86/Cirrus) - :cloud: The CSS framework for the modern web.
+- [Spiderpig86/Cirrus](https://github.com/Spiderpig86/Cirrus) - :cloud: The SCSS framework for the modern web.
 - [kylelogue/mustard-ui](https://github.com/kylelogue/mustard-ui) - A starter CSS framework that actually looks good.
 - [haveyoudebuggedit/debugged.it](https://github.com/haveyoudebuggedit/debugged.it) - 
 - [Hacker0x01/hacker101](https://github.com/Hacker0x01/hacker101) - Source code for Hacker101.com - a free online web and mobile security class.
