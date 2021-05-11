@@ -301,6 +301,7 @@
 - [OpenVPN/openvpn](https://github.com/OpenVPN/openvpn) - OpenVPN  is  an open source VPN daemon
 - [NationalSecurityAgency/DCP](https://github.com/NationalSecurityAgency/DCP) - Digest, stat, and copy files from one location to another in the same read pass
 - [kovidgoyal/html5-parser](https://github.com/kovidgoyal/html5-parser) - Fast C based HTML 5 parsing for python
+- [emscripten-core/emscripten](https://github.com/emscripten-core/emscripten) - Emscripten: An LLVM-to-WebAssembly Compiler
 - [HypoPG/hypopg](https://github.com/HypoPG/hypopg) - Hypothetical Indexes for PostgreSQL
 - [Tencent/wcdb](https://github.com/Tencent/wcdb) - WCDB is a cross-platform database framework developed by WeChat.
 - [memcached/memcached](https://github.com/memcached/memcached) - memcached development tree
@@ -485,6 +486,7 @@
 - [Demid-Rakhmatullin/passtobus](https://github.com/Demid-Rakhmatullin/passtobus) - 
 - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
 - [lambci/docker-lambda](https://github.com/lambci/docker-lambda) - Docker images and test runners that replicate the live AWS Lambda environment
+- [microsoft/PTVS](https://github.com/microsoft/PTVS) - Python Tools for Visual Studio
 - [pythonnet/pythonnet](https://github.com/pythonnet/pythonnet) - Python for .NET is a package that gives Python programmers nearly seamless integration with the .NET Common Language Runtime (CLR) and provides a powerful application scripting tool for .NET developers.
 - [Monnoroch/ColorHighlighter](https://github.com/Monnoroch/ColorHighlighter) - ColorHighlighter - is a plugin for the Sublime text 2 and 3, which underlays selected hexadecimal colorcodes (like "#FFFFFF", "rgb(255,255,255)", "white", etc.) with their real color. Also, plugin adds color picker to easily modify colors. Documentation: https://monnoroch.github.io/ColorHighlighter.
 
@@ -790,7 +792,6 @@
 - [emmjaykay/stanford_self_driving_car_code](https://github.com/emmjaykay/stanford_self_driving_car_code) - Stanford Code From Cars That Entered DARPA Grand Challenges
 - [microsoft/ELL](https://github.com/microsoft/ELL) - Embedded Learning Library
 - [tbodt/v8py](https://github.com/tbodt/v8py) - Write Python APIs, then call them from JavaScript using the V8 engine.
-- [emscripten-core/emscripten](https://github.com/emscripten-core/emscripten) - Emscripten: An LLVM-to-WebAssembly Compiler
 - [ethereum/aleth](https://github.com/ethereum/aleth) - Aleth – Ethereum C++ client, tools and libraries
 - [apache/incubator-weex](https://github.com/apache/incubator-weex) - Apache Weex (Incubating)
 - [ethereum/solidity](https://github.com/ethereum/solidity) - Solidity, the Smart Contract Programming Language
@@ -3558,7 +3559,6 @@
 - [moment/luxon](https://github.com/moment/luxon) - ⏱ A library for working with dates and times in JS
 - [bendc/animateplus](https://github.com/bendc/animateplus) - A+ animation module for the modern web
 - [WeiChiaChang/stacks-cli](https://github.com/WeiChiaChang/stacks-cli) - 📊 Analyze website stack from the terminal  💻
-- [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
 - [ZeroOneStudio/node-yandex-kassa](https://github.com/ZeroOneStudio/node-yandex-kassa) - Node.js utilities to integrate Yandex.Kassa with your app
 - [vuejs-templates/pwa](https://github.com/vuejs-templates/pwa) - PWA template for vue-cli based on the webpack template
 - [nightwatchjs/nightwatch](https://github.com/nightwatchjs/nightwatch) - End-to-end testing framework written in Node.js and using the Webdriver API
@@ -4529,7 +4529,7 @@
 - [ryanshin712/nlp_ryan](https://github.com/ryanshin712/nlp_ryan) - Study for Natural Language Processing & Deep Learning Framework
 - [NVIDIA/TRTorch](https://github.com/NVIDIA/TRTorch) - PyTorch/TorchScript compiler for NVIDIA GPUs using TensorRT
 - [selfteaching/the-craft-of-selfteaching](https://github.com/selfteaching/the-craft-of-selfteaching) - One has no future if one couldn't teach themself.
-- [justmarkham/scikit-learn-tips](https://github.com/justmarkham/scikit-learn-tips) - :robot::zap: scikit-learn tips
+- [justmarkham/scikit-learn-tips](https://github.com/justmarkham/scikit-learn-tips) - :robot::zap: 50 scikit-learn tips
 - [mitmath/6S083](https://github.com/mitmath/6S083) - Materials for MIT 6.S083 / 18.S190: Computational thinking with Julia + application to the COVID-19 pandemic
 - [google-research/simclr](https://github.com/google-research/simclr) - SimCLRv2 - Big Self-Supervised Models are Strong Semi-Supervised Learners
 - [mannefedov/compling_nlp_hse_course](https://github.com/mannefedov/compling_nlp_hse_course) - Материалы курса по компьютерной лингвистике Школы Лингвистики НИУ ВШЭ
@@ -6876,6 +6876,7 @@
 
 ## Python 
 
+- [lightly-ai/lightly](https://github.com/lightly-ai/lightly) - A python library for self-supervised learning on images.
 - [ourownstory/neural_prophet](https://github.com/ourownstory/neural_prophet) - NeuralProphet - A simple forecasting model based on Neural Networks in PyTorch
 - [Lesha17/Punctuation](https://github.com/Lesha17/Punctuation) - Training BERT for punctuation task
 - [xxxsssyyy/DeepNER](https://github.com/xxxsssyyy/DeepNER) - An Easy-to-use, Modular and Prolongable package of deep-learning based Named Entity Recognition Models.
@@ -7142,7 +7143,7 @@
 - [graphql-python/graphene-django](https://github.com/graphql-python/graphene-django) - Integrate GraphQL into your Django project.
 - [xuebinqin/U-2-Net](https://github.com/xuebinqin/U-2-Net) - The code for our newly accepted paper in Pattern Recognition 2020: "U^2-Net: Going Deeper with Nested U-Structure for Salient Object Detection."
 - [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) - Prevent cloud misconfigurations during build-time for Terraform, Cloudformation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew.
-- [patrick-kidger/NeuralCDE](https://github.com/patrick-kidger/NeuralCDE) - Code for "Neural Controlled Differential Equations for Irregular Time Series"
+- [patrick-kidger/NeuralCDE](https://github.com/patrick-kidger/NeuralCDE) - Code for "Neural Controlled Differential Equations for Irregular Time Series" (Neurips 2020 Spotlight)
 - [Garfinkel/GithubDataVisTool](https://github.com/Garfinkel/GithubDataVisTool) - 
 - [as-ideas/TransformerTTS](https://github.com/as-ideas/TransformerTTS) - 🤖💬 Transformer TTS: Implementation of a non-autoregressive Transformer based neural network for text to speech.
 - [nccgroup/ScoutSuite](https://github.com/nccgroup/ScoutSuite) - Multi-Cloud Security Auditing Tool
@@ -10516,7 +10517,7 @@
 - [tensorflow/models](https://github.com/tensorflow/models) - Models and examples built with TensorFlow
 - [StijnMiroslav/top-starred-devs-and-repos-to-follow](https://github.com/StijnMiroslav/top-starred-devs-and-repos-to-follow) - The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Trending)
 - [syrusakbary/gdom](https://github.com/syrusakbary/gdom) - DOM Traversing and Scraping using GraphQL
-- [EdjoLabs/image-match](https://github.com/EdjoLabs/image-match) - 🎇 Quickly search over billions of images
+- [ProvenanceLabs/image-match](https://github.com/ProvenanceLabs/image-match) - 🎇 Quickly search over billions of images
 - [alexjc/neural-doodle](https://github.com/alexjc/neural-doodle) - Turn your two-bit doodles into fine artworks with deep neural networks, generate seamless textures from photos, transfer style from one image to another, perform example-based upscaling, but wait... there's more! (An implementation of Semantic Style Transfer.)
 - [mklauber/pygame-hex-grid](https://github.com/mklauber/pygame-hex-grid) - A Hex grid implementation for managing units in pygame.
 - [chris1610/barnum-proj](https://github.com/chris1610/barnum-proj) - Python application for generating pseudo-random data
@@ -10836,7 +10837,6 @@
 - [CTFd/CTFd](https://github.com/CTFd/CTFd) - CTFs as you need them
 - [jesolem/PCV](https://github.com/jesolem/PCV) - Open source Python module for computer vision
 - [spyder-ide/spyder](https://github.com/spyder-ide/spyder) - Official repository for Spyder - The Scientific Python Development Environment
-- [microsoft/PTVS](https://github.com/microsoft/PTVS) - Python Tools for Visual Studio
 - [davidhalter/jedi-vim](https://github.com/davidhalter/jedi-vim) - Using the jedi autocompletion library for VIM.
 - [ycm-core/YouCompleteMe](https://github.com/ycm-core/YouCompleteMe) - A code-completion engine for Vim
 - [davidhalter/jedi](https://github.com/davidhalter/jedi) - Awesome autocompletion, static analysis and refactoring library for python
@@ -13506,6 +13506,7 @@
 - [aws-amplify/amplify-js](https://github.com/aws-amplify/amplify-js) - A declarative JavaScript library for application development using cloud services.
 - [antvis/G2](https://github.com/antvis/G2) - 📊 A highly interactive data-driven visualization grammar for statistical charts.
 - [ianstormtaylor/superstruct](https://github.com/ianstormtaylor/superstruct) - A simple and composable way to validate data in JavaScript (and TypeScript).
+- [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
 - [cs01/gdbgui](https://github.com/cs01/gdbgui) - Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will open in your browser.
 - [ant-design/ant-design-pro](https://github.com/ant-design/ant-design-pro) - 👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!
 - [Yoctol/bottender](https://github.com/Yoctol/bottender) - ⚡️ A framework for building conversational user interfaces.
