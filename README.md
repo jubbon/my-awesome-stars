@@ -1643,7 +1643,7 @@
 - [zserge/lorca](https://github.com/zserge/lorca) - Build cross-platform modern desktop apps in Go + HTML5
 - [kubeedge/kubeedge](https://github.com/kubeedge/kubeedge) - Kubernetes Native Edge Computing Framework (project under CNCF)
 - [maxmcd/webtty](https://github.com/maxmcd/webtty) - Share a terminal session over WebRTC
-- [devopsfaith/krakend](https://github.com/devopsfaith/krakend) - Ultra performant API Gateway with middlewares
+- [luraproject/lura](https://github.com/luraproject/lura) - Ultra performant API Gateway with middlewares
 - [Dreamacro/clash](https://github.com/Dreamacro/clash) - A rule-based tunnel in Go.
 - [karldoenitz/Tigo](https://github.com/karldoenitz/Tigo) - Tigo is an HTTP web framework written in Go (Golang).It features a Tornado-like API with better performance.  Tigo是一款用Go语言开发的web应用框架，API特性类似于Tornado并且拥有比Tornado更好的性能。
 - [txn2/kubefwd](https://github.com/txn2/kubefwd) - Bulk port forwarding Kubernetes services for local development.
@@ -2755,7 +2755,7 @@
 - [graphhopper/graphhopper](https://github.com/graphhopper/graphhopper) - Open source routing engine for OpenStreetMap. Use it as Java library or server.
 - [gocd/gocd](https://github.com/gocd/gocd) - Main repository for GoCD - Continuous Delivery server
 - [tomthecarrot/arcore-for-all](https://github.com/tomthecarrot/arcore-for-all) - Google ARCore (dev preview 1) for "unsupported" Android devices
-- [confluentinc/ksql](https://github.com/confluentinc/ksql) - The event streaming database purpose-built for stream processing applications
+- [confluentinc/ksql](https://github.com/confluentinc/ksql) - The database purpose-built for stream processing applications.
 - [andreynovikov/Androzic](https://github.com/andreynovikov/Androzic) - Android navigation application that uses oziexplorer maps (ozf2, ozfx3)
 - [floatinghotpot/cordova-plugin-sms](https://github.com/floatinghotpot/cordova-plugin-sms) - Plugin to operate SMS, send / list / intercept / delete / restore
 - [cordova-sms/cordova-sms-plugin](https://github.com/cordova-sms/cordova-sms-plugin) - Cross-platform plugin for Cordova / PhoneGap to send SMS. Available for Android, iOS, and Windows Phone 8.
@@ -3477,7 +3477,6 @@
 - [ktquez/vue2-sentry](https://github.com/ktquez/vue2-sentry) - Plugin Vue.js for error tracking with Sentry
 - [BrockReece/vue-heatmapjs](https://github.com/BrockReece/vue-heatmapjs) - Heatmap directive for tracking user activity
 - [sahibalejandro/form-object](https://github.com/sahibalejandro/form-object) - Form object to use with Vue components for sending data to a Laravel application using axios.
-- [formschema/native](https://github.com/formschema/native) - Generate a form using JSON Schema and Vue.js
 - [vuejs/vue-apollo](https://github.com/vuejs/vue-apollo) - 🚀 Apollo/GraphQL integration for VueJS
 - [jeweltheme/basix-admin](https://github.com/jeweltheme/basix-admin) - Get Free and Premium Vue.js Bootstrap v4 Admin Dashboard Templates
 - [SabatinoMasala/vue-text-glitch](https://github.com/SabatinoMasala/vue-text-glitch) - Vue text glitch component
@@ -4450,6 +4449,7 @@
 - [snakers4/silero-models](https://github.com/snakers4/silero-models) - Silero Models: pre-trained speech-to-text, text-to-speech models and benchmarks made embarrassingly simple
 - [grib0ed0v/kaldi-for-russian](https://github.com/grib0ed0v/kaldi-for-russian) - 
 - [yh1008/speech-to-text](https://github.com/yh1008/speech-to-text) - mixlingual speech recognition system; hybrid (GMM+NNet) model; Kaldi + Keras
+- [PaddlePaddle/DeepSpeech](https://github.com/PaddlePaddle/DeepSpeech) - A PaddlePaddle ASR toolkit.
 - [dwromero/wavelet_networks](https://github.com/dwromero/wavelet_networks) - Code repository of the paper "Wavelet Networks: Scale Equivariant Learning From Raw Waveforms"  https://arxiv.org/abs/2006.05259
 - [evidentlyai/evidently](https://github.com/evidentlyai/evidently) - Interactive reports to analyze machine learning models during validation or production monitoring.
 - [dilyararimovna/text_expansion](https://github.com/dilyararimovna/text_expansion) - Russian Text Expansion based on ruGPT3Large
@@ -7007,7 +7007,6 @@
 - [r9y9/wavenet_vocoder](https://github.com/r9y9/wavenet_vocoder) - WaveNet vocoder
 - [pykaldi/pykaldi](https://github.com/pykaldi/pykaldi) - A Python wrapper for Kaldi
 - [alumae/kaldi-gstreamer-server](https://github.com/alumae/kaldi-gstreamer-server) - Real-time full-duplex speech recognition server, based on the Kaldi toolkit and the GStreamer framwork.
-- [PaddlePaddle/DeepSpeech](https://github.com/PaddlePaddle/DeepSpeech) - A PaddlePaddle implementation of ASR.
 - [yanshengjia/ml-road](https://github.com/yanshengjia/ml-road) - Machine Learning Resources, Practice and Research
 - [lucidrains/deep-daze](https://github.com/lucidrains/deep-daze) - Simple command line tool for text to image generation using OpenAI's CLIP and Siren (Implicit neural representation network). Technique was originally created by https://twitter.com/advadnoun
 - [zengarden/momentum2-teacher](https://github.com/zengarden/momentum2-teacher) - Implementation of momentum^2 teacher
@@ -10015,7 +10014,7 @@
 - [ctuning/ck-tensorflow](https://github.com/ctuning/ck-tensorflow) - Collective Knowledge components for TensorFlow (code, data sets, models, packages, workflows):
 - [romanvm/python-web-pdb](https://github.com/romanvm/python-web-pdb) - Web-based remote UI for Python's PDB debugger
 - [ctuning/ck-autotuning](https://github.com/ctuning/ck-autotuning) - CK automation actions to let users implement portable, customizable and reusable program workflows for reproducible, collaborative and multi-objective benchmarking, optimization and SW/HW co-design:
-- [ctuning/ck](https://github.com/ctuning/ck) - Collective Knowledge framework (CK) helps to organize GitHub projects, Docker images and Jupyter Notebooks as a database of reusable components and micro-services with common APIs, automation actions and extensible meta descriptions based on FAIR principles. See real-world use cases from Arm, GM, the Raspberry Pi foundation, ACM and MLPerf:
+- [ctuning/ck](https://github.com/ctuning/ck) - Collective Knowledge framework (CK) helps to organize software projects as a database of reusable components and micro-services with common APIs, automation actions and extensible meta descriptions based on FAIR principles. See real-world use cases from MLPerf, Arm, GM, the Raspberry Pi foundation and ACM:
 - [somewacko/deconvfaces](https://github.com/somewacko/deconvfaces) - Generating faces with deconvolution networks
 - [kootenpv/whereami](https://github.com/kootenpv/whereami) - Uses WiFi signals :signal_strength: and machine learning to predict where you are
 - [openimages/dataset](https://github.com/openimages/dataset) - The Open Images dataset
@@ -13486,6 +13485,7 @@
 - [rx-ts/types](https://github.com/rx-ts/types) - TypeScript Type Definitions same as DefinitelyTyped.
 - [vuex-orm/vuex-orm](https://github.com/vuex-orm/vuex-orm) - The Vuex plugin to enable Object-Relational Mapping access to the Vuex Store.
 - [michitaro/vue-window](https://github.com/michitaro/vue-window) - Window component for vue2
+- [formschema/native](https://github.com/formschema/native) - Generate a form using JSON Schema and Vue.js
 - [ducksoupdev/vue-webpack-typescript](https://github.com/ducksoupdev/vue-webpack-typescript) - A Vue, Webpack, Typescript, Bootstrap setup with hot reload, dynamic imports, unit testing, code coverage, sass, uncss and bundling/minification.
 - [vue-styleguidist/vue-styleguidist](https://github.com/vue-styleguidist/vue-styleguidist) - Created from react styleguidist for Vue Components with a living style guide
 - [doodyparizada/word2vec-spam-filter](https://github.com/doodyparizada/word2vec-spam-filter) - Using word vectors to classify spam messages
