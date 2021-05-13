@@ -2169,6 +2169,7 @@
 
 ## HTML 
 
+- [intel-isl/PhotorealismEnhancement](https://github.com/intel-isl/PhotorealismEnhancement) - Code & Data for Enhancing Photorealism Enhancement
 - [SuperKogito/SER-datasets](https://github.com/SuperKogito/SER-datasets) - A collection of datasets for the purpose of emotion recognition/detection in speech.
 - [codesONLY/JavaScriptONLY](https://github.com/codesONLY/JavaScriptONLY) - Knowledge Resource of core fundamentals of JavaScript explained in simple way!
 - [shower/shower](https://github.com/shower/shower) - Shower HTML presentation engine
@@ -4418,6 +4419,8 @@
 
 ## Jupyter Notebook 
 
+- [tomek-l/fire-detect-nn](https://github.com/tomek-l/fire-detect-nn) - Wildfire Detection with Deep Neural Networks
+- [santiagxf/prometheus](https://github.com/santiagxf/prometheus) - Prometheus is a machine learning powered solution for early detection of fires in national parks
 - [yobibyte/prettyplots](https://github.com/yobibyte/prettyplots) - Design your own matplotlib stylefile interactively
 - [vijishmadhavan/SkinDeep](https://github.com/vijishmadhavan/SkinDeep) - Get Deinked!!
 - [qiskit-community/qiskit-community-tutorials](https://github.com/qiskit-community/qiskit-community-tutorials) - A collection of Jupyter notebooks developed by the community showing how to use Qiskit
@@ -4673,7 +4676,7 @@
 - [adventuresinML/adventures-in-ml-code](https://github.com/adventuresinML/adventures-in-ml-code) - This repository holds all the code for the site http://www.adventuresinmachinelearning.com
 - [kavgan/nlp-in-practice](https://github.com/kavgan/nlp-in-practice) - Starter code to solve real world text data problems. Includes: Gensim Word2Vec, phrase embeddings, Text Classification with Logistic Regression, word count with pyspark, simple text preprocessing, pre-trained embeddings and more.
 - [davidADSP/GDL_code](https://github.com/davidADSP/GDL_code) - The official code repository for examples in the O'Reilly book 'Generative Deep Learning'
-- [dsgiitr/d2l-pytorch](https://github.com/dsgiitr/d2l-pytorch) - This project reproduces the book Dive Into Deep Learning (www.d2l.ai), adapting the code from MXNet into PyTorch.
+- [dsgiitr/d2l-pytorch](https://github.com/dsgiitr/d2l-pytorch) - This project reproduces the book Dive Into Deep Learning (https://d2l.ai/), adapting the code from MXNet into PyTorch.
 - [tkrabel/bamboolib](https://github.com/tkrabel/bamboolib) - bamboolib - a GUI for pandas DataFrames
 - [suragnair/alpha-zero-general](https://github.com/suragnair/alpha-zero-general) - A clean implementation based on AlphaZero for any game in any framework + tutorial + Othello/Gobang/TicTacToe/Connect4 and more
 - [deepmipt/dlschl](https://github.com/deepmipt/dlschl) - 
@@ -5654,6 +5657,7 @@
 - [damontallen/IPython-quick-ref-sheets](https://github.com/damontallen/IPython-quick-ref-sheets) - This is ongoing work developing quick reference sheets for IPython
 - [CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) - aka "Bayesian Methods for Hackers": An introduction to Bayesian methods + probabilistic programming with a computation/understanding-first, mathematics-second point of view. All in pure Python ;)
 - [epmoyer/ipy_table](https://github.com/epmoyer/ipy_table) - Richly formatted data tables in IPython
+- [gleitz/howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
 
 ## Kotlin 
 
@@ -6876,6 +6880,9 @@
 
 ## Python 
 
+- [AlirezaShamsoshoara/Fire-Detection-UAV-Aerial-Image-Classification-Segmentation-UnmannedAerialVehicle](https://github.com/AlirezaShamsoshoara/Fire-Detection-UAV-Aerial-Image-Classification-Segmentation-UnmannedAerialVehicle) - Aerial Imagery dataset for fire detection: classification and segmentation (Unmanned Aerial Vehicle (UAV))
+- [intel-isl/DPT](https://github.com/intel-isl/DPT) - Dense Prediction Transformers
+- [intel-isl/Open3D-ML](https://github.com/intel-isl/Open3D-ML) - An extension of Open3D to address 3D Machine Learning tasks
 - [lightly-ai/lightly](https://github.com/lightly-ai/lightly) - A python library for self-supervised learning on images.
 - [ourownstory/neural_prophet](https://github.com/ourownstory/neural_prophet) - NeuralProphet - A simple forecasting model based on Neural Networks in PyTorch
 - [Lesha17/Punctuation](https://github.com/Lesha17/Punctuation) - Training BERT for punctuation task
@@ -12675,7 +12682,7 @@
 - [an0/Letterpress](https://github.com/an0/Letterpress) - A minimal, Markdown based blogging system written in Python.
 - [josephturnerjr/pywin-boilerplate](https://github.com/josephturnerjr/pywin-boilerplate) - Boilerplate code for a complete build of a native Windows application in Python.
 - [logpy/logpy](https://github.com/logpy/logpy) - Logic Programming in Python
-- [integricho/path-of-a-pyqter](https://github.com/integricho/path-of-a-pyqter) - lessons on using python and qt
+- [n0phx/path-of-a-pyqter](https://github.com/n0phx/path-of-a-pyqter) - lessons on using python and qt
 - [cyberdelia/metrology](https://github.com/cyberdelia/metrology) - A library to easily measure what's going on in your python.
 - [omab/python-social-auth](https://github.com/omab/python-social-auth) - Social auth made simple
 - [f-prime/MatchBox](https://github.com/f-prime/MatchBox) - Project now called IonicBackup
@@ -12710,7 +12717,6 @@
 - [viveksjain/pypush](https://github.com/viveksjain/pypush) - Continuously push local changes to a remote server
 - [bbrodriges/pholcidae](https://github.com/bbrodriges/pholcidae) - Tiny python web crawler
 - [machinalis/quepy](https://github.com/machinalis/quepy) - A python framework to transform natural language questions to queries in a database query language.
-- [gleitz/howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
 - [aws/aws-cli](https://github.com/aws/aws-cli) - Universal Command Line Interface for Amazon Web Services
 - [arrow-py/arrow](https://github.com/arrow-py/arrow) - Better dates & times for Python
 - [blaze/blaze](https://github.com/blaze/blaze) - NumPy and Pandas interface to Big Data
@@ -13055,7 +13061,7 @@
 - [apache/spark](https://github.com/apache/spark) - Apache Spark - A unified analytics engine for large-scale data processing
 - [twitter/scalding](https://github.com/twitter/scalding) - A Scala API for Cascading
 - [amplab/shark](https://github.com/amplab/shark) - Development in Shark has been ended.
-- [apache/attic-predictionio](https://github.com/apache/attic-predictionio) - PredictionIO, a machine learning server for developers and ML engineers.
+- [apache/predictionio](https://github.com/apache/predictionio) - PredictionIO, a machine learning server for developers and ML engineers.
 - [tresata/ganitha](https://github.com/tresata/ganitha) - scalding powered machine learning
 
 ## Scheme 
@@ -13357,6 +13363,7 @@
 - [heremaps/harp-map-editor](https://github.com/heremaps/harp-map-editor) - Simple map editor for harp.gl map styles
 - [aws-amplify/docs](https://github.com/aws-amplify/docs) - Amplify Framework Documentation
 - [marmelab/react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design
+- [directus/directus](https://github.com/directus/directus) - Open-Source Data Platform 🐰  — Directus wraps any SQL database with a real-time GraphQL+REST API and an intuitive app for non-technical users.
 - [heremaps/harp.gl](https://github.com/heremaps/harp.gl) - harp.gl - web map rendering engine
 - [openmobilityfoundation/mds-core](https://github.com/openmobilityfoundation/mds-core) - An implementation of an MDS Agency Server written in Typescript
 - [vuejs/composition-api](https://github.com/vuejs/composition-api) - Composition API plugin for Vue 2
@@ -13476,7 +13483,7 @@
 - [thedevs-network/kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
 - [salsita/node-pg-migrate](https://github.com/salsita/node-pg-migrate) - Node.js database migration management for Postgresql
 - [WebThingsIO/gateway](https://github.com/WebThingsIO/gateway) - WebThings Gateway
-- [TypedProject/tsed](https://github.com/TypedProject/tsed) - :triangular_ruler:  Ts.ED is a Node.js and TypeScript framework on top of Express to write your application with TypeScript (or ES6). It provides a lot of decorators and guideline to make your code more readable and less error-prone.
+- [tsedio/tsed](https://github.com/tsedio/tsed) - :triangular_ruler:  Ts.ED is a Node.js and TypeScript framework on top of Express to write your application with TypeScript (or ES6). It provides a lot of decorators and guideline to make your code more readable and less error-prone.
 - [onury/tasktimer](https://github.com/onury/tasktimer) - An accurate timer utility for running periodic tasks on the given interval ticks or dates. (Node and Browser)
 - [posva/vue-promised](https://github.com/posva/vue-promised) - 💝 Composable Promises & Promises as components
 - [SINTEF-9012/PruneCluster](https://github.com/SINTEF-9012/PruneCluster) - Fast and realtime marker clustering for Leaflet
@@ -13671,7 +13678,6 @@
 - [tevora-threat/Scout](https://github.com/tevora-threat/Scout) - Surveillance Detection Scout: Your Lookout on Autopilot
 - [Arattian/DynamoDb-GUI-Client](https://github.com/Arattian/DynamoDb-GUI-Client) - DynamoDb GUI Client
 - [nuxt/example-auth0](https://github.com/nuxt/example-auth0) - A simple example that shows how to use Nuxt.js with Auth0.
-- [directus/directus](https://github.com/directus/directus) - Open-Source Data Platform 🐰  — Directus wraps any SQL database with a real-time GraphQL+REST API and an intuitive app for non-technical users.
 - [ivanlori/Vuemmerce](https://github.com/ivanlori/Vuemmerce) - 👉 Responsive ecommerce template 🛒 built with Vue.js and Nuxt.js
 - [flatlogic/sing-app-vue-dashboard](https://github.com/flatlogic/sing-app-vue-dashboard) - Vue.js admin dashboard template built with Bootstrap 4.5
 - [flatlogic/light-blue-vue-admin](https://github.com/flatlogic/light-blue-vue-admin) - 🤘Vue admin dashboard template with stylish transparent design
