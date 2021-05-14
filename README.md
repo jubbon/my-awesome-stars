@@ -470,7 +470,7 @@
 - [clvrai/furniture](https://github.com/clvrai/furniture) - IKEA Furniture Assembly Environment for Long-Horizon Complex Manipulation Tasks
 - [chriswblake/Reinforcement-Learning-Based-Decision-Tree](https://github.com/chriswblake/Reinforcement-Learning-Based-Decision-Tree) - Generation and evaluation of a decision tree using reinforcement learning.
 - [Koziev/NLP_Datasets](https://github.com/Koziev/NLP_Datasets) - My NLP datasets for Russian language
-- [microsoft/qsharp-compiler](https://github.com/microsoft/qsharp-compiler) - Q# compiler, command line tool, and Q# language server
+- [microsoft/qsharp-compiler](https://github.com/microsoft/qsharp-compiler) - Q# compiler, command line tool, and Q# language server, unitaryhack
 - [microsoft/FASTER](https://github.com/microsoft/FASTER) - Fast persistent recoverable log and key-value store + cache, in C# and C++.
 - [microsoft/ailab](https://github.com/microsoft/ailab) - Experience, Learn and Code the latest breakthrough innovations with Microsoft AI
 - [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region is a offline IP location library with accuracy rate of 99.9% and 0.0x millseconds searching performance. DB file is ONLY a few megabytes with all IP address stored. binding for Java,PHP,C,Python,Nodejs,Golang,C#,lua. Binary,B-tree,Memory searching algorithm
@@ -5097,6 +5097,7 @@
 - [llSourcell/7_Research_Directions_Deep_Learning](https://github.com/llSourcell/7_Research_Directions_Deep_Learning) - This is the code for "The Future of Deep Learning Research" by Siraj Raval on Youtube
 - [tjwei/GANotebooks](https://github.com/tjwei/GANotebooks) - wgan, wgan2(improved, gp), infogan, and dcgan implementation in  lasagne, keras, pytorch
 - [loudinthecloud/pytorch-ntm](https://github.com/loudinthecloud/pytorch-ntm) - Neural Turing Machines (NTM) - PyTorch Implementation
+- [OpenMined/PySyft](https://github.com/OpenMined/PySyft) - A library for answering questions using data you cannot see
 - [marsauto/europilot](https://github.com/marsauto/europilot) - A toolkit for controlling Euro Truck Simulator 2 with python to develop self-driving algorithms.
 - [zygmuntz/goodbooks-10k](https://github.com/zygmuntz/goodbooks-10k) - Ten thousand books, six million ratings
 - [radekosmulski/dogs_vs_cats](https://github.com/radekosmulski/dogs_vs_cats) - 
@@ -6971,7 +6972,7 @@
 - [koursaros-ai/nboost](https://github.com/koursaros-ai/nboost) - NBoost is a scalable, search-api-boosting platform for deploying transformer models to improve the relevance of search results on different platforms (i.e. Elasticsearch)
 - [Hironsan/bertsearch](https://github.com/Hironsan/bertsearch) - Elasticsearch with BERT for advanced document search.
 - [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
-- [davidefiocco/streamlit-fastapi-model-serving](https://github.com/davidefiocco/streamlit-fastapi-model-serving) - Simple web app example using streamlit and FastAPI to serve a PyTorch model
+- [davidefiocco/streamlit-fastapi-model-serving](https://github.com/davidefiocco/streamlit-fastapi-model-serving) - Simple web app example serving a PyTorch model using streamlit and FastAPI
 - [abhimishra91/insight](https://github.com/abhimishra91/insight) - Repository for Project Insight: NLP as a Service
 - [wemake-services/wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) - The strictest and most opinionated python linter ever!
 - [PaddlePaddle/PaddleNLP](https://github.com/PaddlePaddle/PaddleNLP) - NLP Core Library and Model Zoo based on PaddlePaddle 2.0
@@ -9075,7 +9076,6 @@
 - [mingyuliutw/UNIT](https://github.com/mingyuliutw/UNIT) - Unsupervised Image-to-Image Translation
 - [jullrich/pcap2curl](https://github.com/jullrich/pcap2curl) - Read a packet capture, extract HTTP requests and turn them into cURL commands for replay.
 - [RasaHQ/rasa_core](https://github.com/RasaHQ/rasa_core) - Rasa Core is now part of the Rasa repo: An open source machine learning framework to automate text-and voice-based conversations
-- [OpenMined/PySyft](https://github.com/OpenMined/PySyft) - A library for answering questions using data you cannot see
 - [apple/coremltools](https://github.com/apple/coremltools) - Core ML tools contain supporting tools for Core ML model conversion, editing, and validation.
 - [manrajgrover/halo](https://github.com/manrajgrover/halo) - 💫 Beautiful spinners for terminal, IPython and Jupyter
 - [tammoippen/plotille](https://github.com/tammoippen/plotille) - Plot in the terminal using braille dots.
@@ -11429,7 +11429,7 @@
 - [AlexMathew/scrapple](https://github.com/AlexMathew/scrapple) - A framework for creating semi-automatic web content extractors
 - [krisfields/django-baker](https://github.com/krisfields/django-baker) - Adds a management command that generates views, forms, urls, admin, and templates based off the contents of models.py
 - [dmchoull/cdeploy](https://github.com/dmchoull/cdeploy) - Simple python program for managing Cassandra schema migrations
-- [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) - SpiderFoot automates OSINT collection so that you can focus on analysis.
+- [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) - SpiderFoot automates OSINT so you can focus on analysis.
 - [jazzband/django-defender](https://github.com/jazzband/django-defender) - A simple super fast django reusable app that blocks people from brute forcing login attempts
 - [klen/muffin](https://github.com/klen/muffin) - Muffin is a fast, simple and asyncronous web-framework for Python 3
 - [django-hijack/django-hijack](https://github.com/django-hijack/django-hijack) - With Django Hijack, admins can log in and work on behalf of other users without having to know their credentials.
