@@ -3732,7 +3732,7 @@
 - [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies in tech.
 - [datproject/docs](https://github.com/datproject/docs) - Documentation resources for dat and the surrounding ecosystem
 - [rhiokim/flybook](https://github.com/rhiokim/flybook) - :airplane: FlyBook is a simple utility to generate static website such as gh-pages, manual of you projects
-- [odoo/documentation](https://github.com/odoo/documentation) - Odoo documentation sources
+- [odoo/documentation](https://github.com/odoo/documentation) - 📚 Odoo documentation sources
 - [wavebox/waveboxapp](https://github.com/wavebox/waveboxapp) - Wavebox Classic has been updated to Wavebox 10. Learn more Wavebox.io
 - [medatc/vuet](https://github.com/medatc/vuet) - 允许你定义飙车过程的集中式状态管理模式
 - [intercellular/cell](https://github.com/intercellular/cell) - A self-driving web app framework
@@ -4253,7 +4253,6 @@
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
 - [Pylons/deform](https://github.com/Pylons/deform) - A Python HTML form library.
 - [flask-debugtoolbar/flask-debugtoolbar](https://github.com/flask-debugtoolbar/flask-debugtoolbar) - A toolbar overlay for debugging Flask applications
-- [scottrogowski/code2flow](https://github.com/scottrogowski/code2flow) - Turn your Python and Javascript code into DOT flowcharts
 - [moment/moment](https://github.com/moment/moment) - Parse, validate, manipulate, and display dates in javascript.
 - [Lab41/Dendrite](https://github.com/Lab41/Dendrite) - People. Places. Things. Graphs.
 - [handlebars-lang/handlebars.js](https://github.com/handlebars-lang/handlebars.js) - 
@@ -5632,6 +5631,7 @@
 - [twosigma/beakerx](https://github.com/twosigma/beakerx) - Beaker Extensions for Jupyter Notebook
 - [numerical-mooc/numerical-mooc](https://github.com/numerical-mooc/numerical-mooc) - A course in numerical methods with Python for engineers and scientists: currently 5 learning modules, with student assignments.
 - [rasbt/datacollect](https://github.com/rasbt/datacollect) - A collection of tools to collect and download various data.
+- [ianozsvald/ipython_memory_usage](https://github.com/ianozsvald/ipython_memory_usage) - IPython tool to report memory usage deltas for every command you type
 - [GoogleCloudPlatform/ipython-soccer-predictions](https://github.com/GoogleCloudPlatform/ipython-soccer-predictions) - Sample iPython notebook with soccer predictions
 - [mbakker7/exploratory_computing_with_python](https://github.com/mbakker7/exploratory_computing_with_python) - 
 - [DrSkippy/Data-Science-45min-Intros](https://github.com/DrSkippy/Data-Science-45min-Intros) - Ipython notebook presentations for getting starting with basic programming, statistics and machine learning techniques
@@ -6881,6 +6881,7 @@
 
 ## Python 
 
+- [Azure/counterfit](https://github.com/Azure/counterfit) - a CLI that provides a generic automation layer for assessing the security of ML models
 - [AlirezaShamsoshoara/Fire-Detection-UAV-Aerial-Image-Classification-Segmentation-UnmannedAerialVehicle](https://github.com/AlirezaShamsoshoara/Fire-Detection-UAV-Aerial-Image-Classification-Segmentation-UnmannedAerialVehicle) - Aerial Imagery dataset for fire detection: classification and segmentation (Unmanned Aerial Vehicle (UAV))
 - [intel-isl/DPT](https://github.com/intel-isl/DPT) - Dense Prediction Transformers
 - [intel-isl/Open3D-ML](https://github.com/intel-isl/Open3D-ML) - An extension of Open3D to address 3D Machine Learning tasks
@@ -10021,7 +10022,7 @@
 - [ctuning/ck-tensorflow](https://github.com/ctuning/ck-tensorflow) - Collective Knowledge components for TensorFlow (code, data sets, models, packages, workflows):
 - [romanvm/python-web-pdb](https://github.com/romanvm/python-web-pdb) - Web-based remote UI for Python's PDB debugger
 - [ctuning/ck-autotuning](https://github.com/ctuning/ck-autotuning) - CK automation actions to let users implement portable, customizable and reusable program workflows for reproducible, collaborative and multi-objective benchmarking, optimization and SW/HW co-design:
-- [ctuning/ck](https://github.com/ctuning/ck) - Collective Knowledge framework (CK) helps to organize software projects as a database of reusable components and micro-services with common APIs, automation actions and extensible meta descriptions based on FAIR principles. See real-world use cases from MLPerf, Arm, GM, the Raspberry Pi foundation and ACM:
+- [ctuning/ck](https://github.com/ctuning/ck) - Collective Knowledge framework (CK) helps to organize software projects as a database of reusable components and micro-services with common APIs, automation actions and extensible meta descriptions based on FAIR principles. See real-world use cases from MLPerf(tm), General Motors, Arm,, the Raspberry Pi foundation and ACM:
 - [somewacko/deconvfaces](https://github.com/somewacko/deconvfaces) - Generating faces with deconvolution networks
 - [kootenpv/whereami](https://github.com/kootenpv/whereami) - Uses WiFi signals :signal_strength: and machine learning to predict where you are
 - [openimages/dataset](https://github.com/openimages/dataset) - The Open Images dataset
@@ -10965,6 +10966,7 @@
 - [rkern/line_profiler](https://github.com/rkern/line_profiler) - (OLD REPO) Line-by-line profiling for Python - Current repo -&gt;
 - [dcramer/django-devserver](https://github.com/dcramer/django-devserver) - A drop-in replacement for Django's runserver.
 - [klen/pylama](https://github.com/klen/pylama) - Code audit tool for python.
+- [scottrogowski/code2flow](https://github.com/scottrogowski/code2flow) - Turn your Python and Javascript code into DOT flowcharts
 - [klbostee/dumbo](https://github.com/klbostee/dumbo) - Python module that allows one to easily write and run Hadoop programs.
 - [josephreisinger/vowpal_porpoise](https://github.com/josephreisinger/vowpal_porpoise) - lightweight python wrapper for vowpal wabbit
 - [ocelma/python-recsys](https://github.com/ocelma/python-recsys) - A python library for implementing a recommender system
@@ -11657,7 +11659,6 @@
 - [viewflow/viewflow](https://github.com/viewflow/viewflow) - Reusable workflow library for Django
 - [ncouture/MockSSH](https://github.com/ncouture/MockSSH) - Mock an SSH server and define all commands it supports (Python, Twisted)
 - [HHammond/kcbo](https://github.com/HHammond/kcbo) - A Bayesian testing framework written in Python.
-- [ianozsvald/ipython_memory_usage](https://github.com/ianozsvald/ipython_memory_usage) - IPython tool to report memory usage deltas for every command you type
 - [beeware/toga](https://github.com/beeware/toga) - A Python native, OS native GUI toolkit.
 - [terrible-ideas/butterdb](https://github.com/terrible-ideas/butterdb) - butterdb is a Python object mapper for Google Drive Spreadsheets. Still in development, but usable.
 - [infoculture/plainrussian](https://github.com/infoculture/plainrussian) - Plain Russian Language / Понятный (простой) русский язык.
