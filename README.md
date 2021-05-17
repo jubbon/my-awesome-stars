@@ -1604,7 +1604,7 @@
 - [skx/tunneller](https://github.com/skx/tunneller) - Allow internal services, running on localhost, to be accessed over the internet..
 - [cdr/sshcode](https://github.com/cdr/sshcode) - Run VS Code on any server over SSH.
 - [dvassallo/s3-benchmark](https://github.com/dvassallo/s3-benchmark) - Measure Amazon S3's performance from any location.
-- [spaceuptech/space-cloud](https://github.com/spaceuptech/space-cloud) - Open source Firebase + Heroku to develop, scale and secure serverless apps on Kubernetes
+- [spacecloud-io/space-cloud](https://github.com/spacecloud-io/space-cloud) - Open source Firebase + Heroku to develop, scale and secure serverless apps on Kubernetes
 - [awslabs/amazon-ecs-local-container-endpoints](https://github.com/awslabs/amazon-ecs-local-container-endpoints) - A container that provides local versions of the ECS Task Metadata Endpoint and ECS Task IAM Roles Endpoint.
 - [google/crfs](https://github.com/google/crfs) - CRFS: Container Registry Filesystem
 - [crawlab-team/crawlab](https://github.com/crawlab-team/crawlab) - Distributed web crawler admin platform for spiders management regardless of languages and frameworks. 分布式爬虫管理平台，支持任何语言和框架
@@ -1643,7 +1643,7 @@
 - [zserge/lorca](https://github.com/zserge/lorca) - Build cross-platform modern desktop apps in Go + HTML5
 - [kubeedge/kubeedge](https://github.com/kubeedge/kubeedge) - Kubernetes Native Edge Computing Framework (project under CNCF)
 - [maxmcd/webtty](https://github.com/maxmcd/webtty) - Share a terminal session over WebRTC
-- [luraproject/lura](https://github.com/luraproject/lura) - Ultra performant API Gateway with middlewares
+- [luraproject/lura](https://github.com/luraproject/lura) - Ultra performant API Gateway with middlewares. A project hosted at The Linux Foundation
 - [Dreamacro/clash](https://github.com/Dreamacro/clash) - A rule-based tunnel in Go.
 - [karldoenitz/Tigo](https://github.com/karldoenitz/Tigo) - Tigo is an HTTP web framework written in Go (Golang).It features a Tornado-like API with better performance.  Tigo是一款用Go语言开发的web应用框架，API特性类似于Tornado并且拥有比Tornado更好的性能。
 - [txn2/kubefwd](https://github.com/txn2/kubefwd) - Bulk port forwarding Kubernetes services for local development.
@@ -1666,7 +1666,7 @@
 - [syncsynchalt/illustrated-tls](https://github.com/syncsynchalt/illustrated-tls) - The Illustrated TLS Connection: Every byte explained
 - [yinheli/sshw](https://github.com/yinheli/sshw) - 🐝  ssh client wrapper for automatic login
 - [cloudflare/tableflip](https://github.com/cloudflare/tableflip) - Graceful process restarts in Go
-- [photoprism/photoprism](https://github.com/photoprism/photoprism) - Personal Photo Management powered by Go and Google TensorFlow
+- [photoprism/photoprism](https://github.com/photoprism/photoprism) - Open-Source Photo Management powered by Go and Google TensorFlow
 - [davrodpin/mole](https://github.com/davrodpin/mole) - CLI application to create ssh tunnels focused on resiliency and user experience.
 - [sipt/shuttle](https://github.com/sipt/shuttle) - A web proxy in Golang with amazing features.
 - [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation
@@ -3962,7 +3962,6 @@
 - [vuejs/vue-hackernews-2.0](https://github.com/vuejs/vue-hackernews-2.0) - HackerNews clone built with Vue 2.0, vue-router & vuex, with server-side rendering
 - [FormidableLabs/react-animations](https://github.com/FormidableLabs/react-animations) - 🎊 A collection of animations for inline style libraries
 - [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet) - :leaves: JavaScript library for mobile-friendly interactive maps
-- [ankane/pghero](https://github.com/ankane/pghero) - A performance dashboard for Postgres
 - [christinecha/choreographer-js](https://github.com/christinecha/choreographer-js) - A simple library to take care of complicated animations.
 - [samizdatco/arbor](https://github.com/samizdatco/arbor) - a graph visualization library using web workers and jQuery
 - [shipshapecode/shepherd](https://github.com/shipshapecode/shepherd) - Guide your users through a tour of your app
@@ -4418,6 +4417,8 @@
 
 ## Jupyter Notebook 
 
+- [czaloumi/transformers](https://github.com/czaloumi/transformers) - A lecture-style exploration of transformers.
+- [ngeorgis/ca-fire-detector](https://github.com/ngeorgis/ca-fire-detector) - Wildfire Detection enabled camera using the NVIDIA Jetson TX2
 - [tomek-l/fire-detect-nn](https://github.com/tomek-l/fire-detect-nn) - Wildfire Detection with Deep Neural Networks
 - [santiagxf/prometheus](https://github.com/santiagxf/prometheus) - Prometheus is a machine learning powered solution for early detection of fires in national parks
 - [yobibyte/prettyplots](https://github.com/yobibyte/prettyplots) - Design your own matplotlib stylefile interactively
@@ -5812,6 +5813,7 @@
 
 ## Others 
 
+- [DLopatkin/Heracleum-Dataset](https://github.com/DLopatkin/Heracleum-Dataset) - Dataset of aerial images of hogweed gathered in Moscow Region.
 - [singularseclab/Slides](https://github.com/singularseclab/Slides) - A collection of slides from Singular Security Lab.
 - [Eyadhamza/Eng-Hammad-Recommendations](https://github.com/Eyadhamza/Eng-Hammad-Recommendations) - The repo contains books, tutorials and resources based on the recommendations of Eng Mohammed Hammad.
 - [WeareSoft/tech-interview](https://github.com/WeareSoft/tech-interview) - :loudspeaker:🙍 tech interview
@@ -6397,7 +6399,7 @@
 - [hoangcuong2011/Good-Papers](https://github.com/hoangcuong2011/Good-Papers) - I try my best to keep updated cutting-edge knowledge in Machine Learning/Deep Learning and Natural Language Processing. These are  my notes on some good papers
 - [pmuens/awesome-serverless](https://github.com/pmuens/awesome-serverless) - DEPRECATED: Curated list of resources related to serverless computing and serverless architectures.
 - [llSourcell/The_Math_of_Intelligence](https://github.com/llSourcell/The_Math_of_Intelligence) - This is the Syllabus for Siraj Raval's new course "The Math of Intelligence"
-- [SamPutnam/Index-2020](https://github.com/SamPutnam/Index-2020) - 
+- [SamPutnam/Index-2021](https://github.com/SamPutnam/Index-2021) - 
 - [emluque/golang-internals-resources](https://github.com/emluque/golang-internals-resources) - A collection of articles and videos to understand Golang internals.
 - [dexteryy/spellbook-of-modern-webdev](https://github.com/dexteryy/spellbook-of-modern-webdev) - A Big Picture, Thesaurus, and Taxonomy of Modern JavaScript Web Development
 - [berzerk0/Probable-Wordlists](https://github.com/berzerk0/Probable-Wordlists) - Version 2 is live! Wordlists sorted by probability originally created for password generation and testing - make sure your passwords aren't popular!
@@ -6959,7 +6961,7 @@
 - [vballoli/nfnets-pytorch](https://github.com/vballoli/nfnets-pytorch) - NFNets and Adaptive Gradient Clipping for SGD implemented in PyTorch. Find explanation at tourdeml.github.io/blog/
 - [VITA-Group/TransGAN](https://github.com/VITA-Group/TransGAN) - [Preprint] "TransGAN: Two Transformers Can Make One Strong GAN", Yifan Jiang, Shiyu Chang, Zhangyang Wang
 - [uvipen/SSD-pytorch](https://github.com/uvipen/SSD-pytorch) - SSD: Single Shot MultiBox Detector pytorch implementation focusing on simplicity
-- [yuval-alaluf/SAM](https://github.com/yuval-alaluf/SAM) - Official Implementation for "Only a Matter of Style: Age Transformation Using a Style-Based Regression Model" https://arxiv.org/abs/2102.02754
+- [yuval-alaluf/SAM](https://github.com/yuval-alaluf/SAM) - Official Implementation for "Only a Matter of Style: Age Transformation Using a Style-Based Regression Model" (SIGGRAPH 2021) https://arxiv.org/abs/2102.02754
 - [iamyuanchung/Autoregressive-Predictive-Coding](https://github.com/iamyuanchung/Autoregressive-Predictive-Coding) - Autoregressive Predictive Coding: An unsupervised autoregressive model for speech representation learning
 - [facebookresearch/CPC_audio](https://github.com/facebookresearch/CPC_audio) - An implementation of the Contrast Predictive Coding (CPC) method to train audio features in an unsupervised fashion.
 - [s3prl/s3prl](https://github.com/s3prl/s3prl) - Self-Supervised Speech Pre-training and Representation Learning Toolkit.
@@ -8957,7 +8959,7 @@
 - [simon-v/minipos](https://github.com/simon-v/minipos) - A self-hosted, 0-confirmation Bitcoin Cash point-of-sale server (GitHub mirror)
 - [xingyizhou/pytorch-pose-hg-3d](https://github.com/xingyizhou/pytorch-pose-hg-3d) - PyTorch implementation for 3D human pose estimation
 - [heroku/django-heroku](https://github.com/heroku/django-heroku) - A Django library for Heroku apps.
-- [jonluca/Anubis](https://github.com/jonluca/Anubis) - 🔓Subdomain enumeration and information gathering tool
+- [jonluca/Anubis](https://github.com/jonluca/Anubis) - 🔓 Subdomain enumeration and information gathering tool
 - [tadejmagajna/HereIsWally](https://github.com/tadejmagajna/HereIsWally) - Deep learning project that solves Where's Wally puzzles by finding Wally in an image
 - [Godley/colour-detection](https://github.com/Godley/colour-detection) - python module for doing colour detection
 - [shawnanastasio/firefox-privacy-restorer](https://github.com/shawnanastasio/firefox-privacy-restorer) - A script to modify your Firefox preferences to disable telemetry, built-in advertisements, and data collection anti-features
@@ -12924,6 +12926,7 @@
 - [BerlinVagrant/vagrant-dns](https://github.com/BerlinVagrant/vagrant-dns) - A plugin to manage DNS records for vagrant environments
 - [emyl/vagrant-triggers](https://github.com/emyl/vagrant-triggers) - Allow the definition of arbitrary scripts that will run on the host before and/or after Vagrant commands.
 - [fgrehm/vagrant-lxc](https://github.com/fgrehm/vagrant-lxc) - LXC provider for Vagrant
+- [ankane/pghero](https://github.com/ankane/pghero) - A performance dashboard for Postgres
 - [LionSec/xerosploit](https://github.com/LionSec/xerosploit) - Efficient and advanced man in the middle framework
 - [dev-sec/ansible-mysql-hardening](https://github.com/dev-sec/ansible-mysql-hardening) - This Ansible role provides security configuration for MySQL.
 - [kciter/awesome-style-guide](https://github.com/kciter/awesome-style-guide) - A list of awesome:star:style guide.
@@ -13320,6 +13323,7 @@
 
 ## TypeScript 
 
+- [ant-design/ant-design](https://github.com/ant-design/ant-design) - 🌈  A UI Design Language and React UI library
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers (Public Beta 🎉)
 - [common-voice/common-voice](https://github.com/common-voice/common-voice) - Common Voice is part of Mozilla's initiative to help teach machines how real people speak.
 - [benawad/dogehouse](https://github.com/benawad/dogehouse) - Taking voice conversations to the moon 🚀
