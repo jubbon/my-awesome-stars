@@ -1612,7 +1612,7 @@
 - [jpschroeder/pipe-to-me](https://github.com/jpschroeder/pipe-to-me) - Stream data over http using curl.
 - [uber/kraken](https://github.com/uber/kraken) - P2P Docker registry capable of distributing TBs of data in seconds
 - [uber/astro](https://github.com/uber/astro) - Astro is a tool for managing multiple Terraform executions as a single command
-- [cortexlabs/cortex](https://github.com/cortexlabs/cortex) - Scale compute-intensive serverless workloads
+- [cortexlabs/cortex](https://github.com/cortexlabs/cortex) - Build scalable backends faster
 - [ovh/cds](https://github.com/ovh/cds) - Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform
 - [k3s-io/k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes
 - [skanehira/docui](https://github.com/skanehira/docui) - TUI Client for Docker
@@ -2080,7 +2080,7 @@
 - [josephyzhou/github-trending](https://github.com/josephyzhou/github-trending) - Tracking the most popular Github repos, updated daily
 - [beego/beego](https://github.com/beego/beego) - beego is an open-source, high-performance web framework for the Go programming language.
 - [kubernetes/minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
-- [chain/chain](https://github.com/chain/chain) - Chain Core - Ledger-as-a-Service
+- [chain/chain](https://github.com/chain/chain) - Chain Core - Open Source Ledger-as-a-Service
 - [IBM-Blockchain-Archive/learn-chaincode](https://github.com/IBM-Blockchain-Archive/learn-chaincode) - Learn how to write chaincode.  (For the latest information, see http://hyperledger-fabric.readthedocs.io/en/latest/chaincode.html)
 - [nim4/DBShield](https://github.com/nim4/DBShield) - Database firewall written in Go
 - [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is an open source distributed HTAP database compatible with the MySQL protocol
@@ -2706,6 +2706,7 @@
 
 ## Java 
 
+- [azkaban/azkaban](https://github.com/azkaban/azkaban) - Azkaban workflow manager.
 - [codelibs/fess](https://github.com/codelibs/fess) - Fess is very powerful and easily deployable Enterprise Search Server.
 - [vespa-engine/vespa](https://github.com/vespa-engine/vespa) - The open big data serving engine. https://vespa.ai
 - [DataStax-Academy/cassandra-workshop-series](https://github.com/DataStax-Academy/cassandra-workshop-series) - All materials for the Cassandra Workshop Series in a single place
@@ -2827,7 +2828,7 @@
 - [crate/crate](https://github.com/crate/crate) - CrateDB is a distributed SQL database that makes it simple to store and analyze massive amounts of machine data in real-time.
 - [tito/2048](https://github.com/tito/2048) - 2048 Game with Kivy
 - [Netflix/curator](https://github.com/Netflix/curator) - ZooKeeper client wrapper and rich ZooKeeper framework
-- [hazelcast/hazelcast](https://github.com/hazelcast/hazelcast) - Open Source In-Memory Data Grid
+- [hazelcast/hazelcast](https://github.com/hazelcast/hazelcast) - Open Source Streaming Data Platform
 - [nimbusproject/nimbus](https://github.com/nimbusproject/nimbus) - Nimbus - Open Source Cloud Computing Software - 100% Apache2 licensed
 - [twitter-archive/commons](https://github.com/twitter-archive/commons) - Twitter common libraries for python and the JVM (deprecated)
 - [apache/zookeeper](https://github.com/apache/zookeeper) - Apache ZooKeeper
@@ -6883,6 +6884,7 @@
 
 ## Python 
 
+- [soggycactus/airflow-repo-template](https://github.com/soggycactus/airflow-repo-template) - The easiest way to run Airflow locally, with linting & tests for valid DAGs and Plugins.
 - [Azure/counterfit](https://github.com/Azure/counterfit) - a CLI that provides a generic automation layer for assessing the security of ML models
 - [AlirezaShamsoshoara/Fire-Detection-UAV-Aerial-Image-Classification-Segmentation-UnmannedAerialVehicle](https://github.com/AlirezaShamsoshoara/Fire-Detection-UAV-Aerial-Image-Classification-Segmentation-UnmannedAerialVehicle) - Aerial Imagery dataset for fire detection: classification and segmentation (Unmanned Aerial Vehicle (UAV))
 - [intel-isl/DPT](https://github.com/intel-isl/DPT) - Dense Prediction Transformers
@@ -6896,7 +6898,7 @@
 - [ternaus/kaggle_dstl_submission](https://github.com/ternaus/kaggle_dstl_submission) - Code for a winning model (3 out of 419) in a Dstl Satellite Imagery Feature Detection challenge
 - [karpathy/cryptos](https://github.com/karpathy/cryptos) - Pure Python from-scratch zero-dependency implementation of Bitcoin for educational purposes
 - [zihangJiang/TokenLabeling](https://github.com/zihangJiang/TokenLabeling) - Pytorch implementation of "Training a 85.4% Top-1 Accuracy Vision Transformer with 56M Parameters on ImageNet"
-- [GaParmar/clean-fid](https://github.com/GaParmar/clean-fid) - FID calculation with proper image resizing and quantization steps
+- [GaParmar/clean-fid](https://github.com/GaParmar/clean-fid) - PyTorch - FID calculation with proper image resizing and quantization steps
 - [wilson1yan/VideoGPT](https://github.com/wilson1yan/VideoGPT) - 
 - [microsoft/ProphetNet](https://github.com/microsoft/ProphetNet) - ProphetNet: Predicting Future N-gram for Sequence-to-Sequence Pre-training https://arxiv.org/pdf/2001.04063.pdf
 - [princeton-nlp/SimCSE](https://github.com/princeton-nlp/SimCSE) - SimCSE: Simple Contrastive Learning of Sentence Embeddings
@@ -7989,7 +7991,7 @@
 - [stanfordnlp/stanza](https://github.com/stanfordnlp/stanza) - Official Stanford NLP Python Library for Many Human Languages
 - [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
 - [araffin/learning-to-drive-in-5-minutes](https://github.com/araffin/learning-to-drive-in-5-minutes) - Implementation of reinforcement learning approach to make a car learn to drive smoothly in minutes
-- [doccano/doccano](https://github.com/doccano/doccano) - Open source text annotation tool for machine learning practitioners.
+- [doccano/doccano](https://github.com/doccano/doccano) - Open source annotation tool for machine learning practitioners.
 - [elleryqueenhomels/arbitrary_style_transfer](https://github.com/elleryqueenhomels/arbitrary_style_transfer) - Fast Neural Style Transfer with Arbitrary Style using AdaIN Layer - Based on Huang et al. "Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization"
 - [naoto0804/pytorch-AdaIN](https://github.com/naoto0804/pytorch-AdaIN) - Unofficial pytorch implementation of 'Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization' [Huang+, ICCV2017]
 - [flow-project/flow](https://github.com/flow-project/flow) - Computational framework for reinforcement learning in traffic control
@@ -13076,6 +13078,8 @@
 
 ## Shell 
 
+- [puckel/docker-airflow](https://github.com/puckel/docker-airflow) - Docker Apache Airflow
+- [jghoman/awesome-apache-airflow](https://github.com/jghoman/awesome-apache-airflow) - Curated list of resources about Apache Airflow
 - [Bugswriter/tuxi](https://github.com/Bugswriter/tuxi) - Tuxi is a cli assistant. Get answers of your questions instantly.
 - [pmuens/vespa-quickstart](https://github.com/pmuens/vespa-quickstart) - Scripts for the vespa.ai quick start guide
 - [freewym/kaldi-voices](https://github.com/freewym/kaldi-voices) - 
@@ -13481,7 +13485,7 @@
 - [browserless/chrome](https://github.com/browserless/chrome) - Chrome as a service in docker. Run on our cloud, or bring your own
 - [kusti8/proton-native](https://github.com/kusti8/proton-native) - A React environment for cross platform desktop apps
 - [captbaritone/webamp](https://github.com/captbaritone/webamp) - Winamp 2 reimplemented for the browser
-- [rematch/rematch](https://github.com/rematch/rematch) - A Redux Framework
+- [rematch/rematch](https://github.com/rematch/rematch) - The Redux Framework
 - [midwayjs/pandora](https://github.com/midwayjs/pandora) - A Manageable, Measurable and Traceable Node.js Application Manager represented by Alibaba powered by TypeScript
 - [SimonBiggs/scriptedforms](https://github.com/SimonBiggs/scriptedforms) - Quickly create live-update GUIs for Python packages using Markdown and simple HTML elements.
 - [propelml/propel](https://github.com/propelml/propel) - Differential Programming in JavaScript.
