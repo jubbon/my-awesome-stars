@@ -1095,7 +1095,6 @@
 - [rtCamp/VueTheme](https://github.com/rtCamp/VueTheme) - WordPress theme using Rest API and Vue.js
 - [amitmishrg/lib4dev](https://github.com/amitmishrg/lib4dev) - Find awesome libraries and make your development fast.
 - [haskellcamargo/pragmatic-functional-javascript](https://github.com/haskellcamargo/pragmatic-functional-javascript) - The "Pragmatic Functional JavaScript" book
-- [benbrignell/principles.design](https://github.com/benbrignell/principles.design) - An open source collection of design principles and methods.
 - [picturepan2/instagram.css](https://github.com/picturepan2/instagram.css) - Instagram.css - Complete set of Instagram filters in pure CSS
 - [apas/athena](https://github.com/apas/athena) - Minimalist static blog generator written in Python
 - [microsoft/vscode-docs](https://github.com/microsoft/vscode-docs) - Public documentation for Visual Studio Code
@@ -2612,7 +2611,7 @@
 - [milligram/milligram](https://github.com/milligram/milligram) - A minimalist CSS framework.
 - [viljamis/feature.js](https://github.com/viljamis/feature.js) - Feature.js is a fast, simple and lightweight browser feature detection library in 1kb.
 - [Leo-G/Flask-Scaffold](https://github.com/Leo-G/Flask-Scaffold) - Prototype Database driven Web apps in Angular 6, Bootstrap 4 and REST API's with Flask (Python 3 framework)
-- [usablica/intro.js](https://github.com/usablica/intro.js) - A better way for new feature introduction and step-by-step users guide for your website and project.
+- [usablica/intro.js](https://github.com/usablica/intro.js) - Lightweight, user-friendly onboarding tour library
 - [google/material-design-lite](https://github.com/google/material-design-lite) - Material Design Components in HTML/CSS/JS
 - [Foxandxss/angular-tips](https://github.com/Foxandxss/angular-tips) - My angular-tips blog code
 - [jseppi/Leaflet.MakiMarkers](https://github.com/jseppi/Leaflet.MakiMarkers) - Leaflet plugin to create map icons using Maki Icons from Mapbox.
@@ -5669,7 +5668,7 @@
 - [MindorksOpenSource/ridesharing-uber-lyft-app](https://github.com/MindorksOpenSource/ridesharing-uber-lyft-app) - Ride-Sharing Uber Lyft Android App - Learn to build a ride-sharing Android Taxi Clone App like Uber, Lyft - Open-Source Project By MindOrks
 - [mozilla-mobile/fenix](https://github.com/mozilla-mobile/fenix) - Firefox for Android
 - [DroidKaigi/conference-app-2019](https://github.com/DroidKaigi/conference-app-2019) - The Official Conference App for DroidKaigi 2019 Tokyo
-- [google/iosched](https://github.com/google/iosched) - The Google I/O 2019 Android App
+- [google/iosched](https://github.com/google/iosched) - The Google I/O Android App
 - [android/sunflower](https://github.com/android/sunflower) - A gardening app illustrating Android development best practices with Android Jetpack.
 - [bufferapp/android-clean-architecture-boilerplate](https://github.com/bufferapp/android-clean-architecture-boilerplate) - An android boilerplate project using clean architecture
 - [Kotlin/kotlinx.coroutines](https://github.com/Kotlin/kotlinx.coroutines) - Library support for Kotlin coroutines
@@ -5999,7 +5998,7 @@
 - [jianzhu/dl-notes](https://github.com/jianzhu/dl-notes) - 
 - [firmai/data-science-career](https://github.com/firmai/data-science-career) - Career Resources for Data Science, Machine Learning, Big Data and Business Analytics Career Repository
 - [jaintj95/Math_by_Richard_Feynman](https://github.com/jaintj95/Math_by_Richard_Feynman) - A repo of curated links to Math lectures by Prof. Richard Feynman
-- [aws-cloudformation/aws-cloudformation-coverage-roadmap](https://github.com/aws-cloudformation/aws-cloudformation-coverage-roadmap) - The AWS CloudFormation Public Coverage Roadmap
+- [aws-cloudformation/cloudformation-coverage-roadmap](https://github.com/aws-cloudformation/cloudformation-coverage-roadmap) - The AWS CloudFormation Public Coverage Roadmap
 - [cmackenzie1/new-grads-2020](https://github.com/cmackenzie1/new-grads-2020) - A collection of new grad roles for 2020
 - [hmaverickadams/Beginner-Network-Pentesting](https://github.com/hmaverickadams/Beginner-Network-Pentesting) - Notes for Beginner Network Pentesting Course
 - [mapbox/DEPRECATED-patrol](https://github.com/mapbox/DEPRECATED-patrol) - DEPRECATED - An AWS Lambda powered monitoring framework for security, compliance, and best practices.
@@ -8217,7 +8216,7 @@
 - [uber/petastorm](https://github.com/uber/petastorm) - Petastorm library enables single machine or distributed training and evaluation of deep learning models from datasets in Apache Parquet format. It supports ML frameworks such as Tensorflow, Pytorch, and PySpark and can be used from pure Python code.
 - [polyaxon/polyaxon-hub](https://github.com/polyaxon/polyaxon-hub) - Public reusable components
 - [zh217/aiochan](https://github.com/zh217/aiochan) - CSP-style concurrency for Python
-- [nschloe/tuna](https://github.com/nschloe/tuna) - Python profile viewer
+- [nschloe/tuna](https://github.com/nschloe/tuna) - :fish: Python profile viewer
 - [si9int/Acamar](https://github.com/si9int/Acamar) - A Python3 based single-file subdomain enumerator
 - [stellargraph/stellargraph](https://github.com/stellargraph/stellargraph) - StellarGraph - Machine Learning on Graphs
 - [andreasveit/convnet-aig](https://github.com/andreasveit/convnet-aig) - PyTorch implementation for Convolutional Networks with Adaptive Inference Graphs
@@ -13019,6 +13018,7 @@
 - [kylelogue/mustard-ui](https://github.com/kylelogue/mustard-ui) - A starter CSS framework that actually looks good.
 - [haveyoudebuggedit/debugged.it](https://github.com/haveyoudebuggedit/debugged.it) - 
 - [Hacker0x01/hacker101](https://github.com/Hacker0x01/hacker101) - Source code for Hacker101.com - a free online web and mobile security class.
+- [benbrignell/principles.design](https://github.com/benbrignell/principles.design) - An open source collection of design principles and methods.
 - [creativetimofficial/vue-light-bootstrap-dashboard](https://github.com/creativetimofficial/vue-light-bootstrap-dashboard) - Vue Light Bootstrap Dashboard - FREE BOOTSTRAP 4 VUEJS ADMIN TEMPLATE
 - [papercss/papercss](https://github.com/papercss/papercss) - The Less Formal CSS Framework
 - [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - My cheatsheets
