@@ -542,6 +542,7 @@
 - [ros-planning/moveit](https://github.com/ros-planning/moveit) - :robot: The MoveIt motion planning framework
 - [facebookincubator/Polygames](https://github.com/facebookincubator/Polygames) - The project is a platform of zero learning with a library of games.
 - [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler. Issues are managed on our own bug tracker at https://www.freecadweb.org/tracker
+- [MADEAPPS/newton-dynamics](https://github.com/MADEAPPS/newton-dynamics) - Newton Dynamics is an integrated solution for real time simulation of physics environments.
 - [TigerVNC/tigervnc](https://github.com/TigerVNC/tigervnc) - High performance, multi-platform VNC client and server
 - [opencv/opencv_contrib](https://github.com/opencv/opencv_contrib) - Repository for OpenCV's extra modules
 - [Inori/GPCS4](https://github.com/Inori/GPCS4) - A Playstation 4 emulator just begin
@@ -1611,7 +1612,7 @@
 - [jpschroeder/pipe-to-me](https://github.com/jpschroeder/pipe-to-me) - Stream data over http using curl.
 - [uber/kraken](https://github.com/uber/kraken) - P2P Docker registry capable of distributing TBs of data in seconds
 - [uber/astro](https://github.com/uber/astro) - Astro is a tool for managing multiple Terraform executions as a single command
-- [cortexlabs/cortex](https://github.com/cortexlabs/cortex) - Build scalable backends faster
+- [cortexlabs/cortex](https://github.com/cortexlabs/cortex) - Serverless containers on AWS
 - [ovh/cds](https://github.com/ovh/cds) - Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform
 - [k3s-io/k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes
 - [skanehira/docui](https://github.com/skanehira/docui) - TUI Client for Docker
@@ -1832,7 +1833,7 @@
 - [go-chassis/go-chassis](https://github.com/go-chassis/go-chassis) - a microservice framework for rapid development of micro services in Go with rich eco-system
 - [bradleyjkemp/memviz](https://github.com/bradleyjkemp/memviz) - Visualize your Go data structures using graphviz
 - [solo-io/squash](https://github.com/solo-io/squash) - The debugger for microservices
-- [jwilder/docker-gen](https://github.com/jwilder/docker-gen) - Generate files from docker container meta-data
+- [nginx-proxy/docker-gen](https://github.com/nginx-proxy/docker-gen) - Generate files from docker container meta-data
 - [vmware-archive/dispatch](https://github.com/vmware-archive/dispatch) - Dispatch is a framework for deploying and managing serverless style applications.
 - [azer/crud](https://github.com/azer/crud) - Relational database library for SQL databases & Go.
 - [deepfabric/elasticell](https://github.com/deepfabric/elasticell) - Elastic Key-Value Storage With Strong Consistency and Reliability
@@ -2205,7 +2206,6 @@
 - [daolf/Most-recommended-programming-books](https://github.com/daolf/Most-recommended-programming-books) - The most recommended programming books of all-time.
 - [becauseofAI/HelloFace](https://github.com/becauseofAI/HelloFace) - An awesome face technology repository.
 - [JordanSchuetz/LearnCS8-Resume](https://github.com/JordanSchuetz/LearnCS8-Resume) - Resume template website for the LearnCS8 Lab 3
-- [MADEAPPS/newton-dynamics](https://github.com/MADEAPPS/newton-dynamics) - Newton Dynamics is an integrated solution for real time simulation of physics environments.
 - [allisonhorst/esm244-w2020-lab5](https://github.com/allisonhorst/esm244-w2020-lab5) - Lab week 5: exploring time series data, intro to forecasting
 - [rstudio-conf-2020/intro-to-ml-tidy](https://github.com/rstudio-conf-2020/intro-to-ml-tidy) - Intro to Machine Learning with the Tidyverse
 - [microsoft/WhatTheHack](https://github.com/microsoft/WhatTheHack) - A collection of challenge based hack-a-thons including student guide, coach guide, lecture presentations, sample/instructional code and templates.
@@ -4504,7 +4504,7 @@
 - [codenation-dev/Data-Science-Online](https://github.com/codenation-dev/Data-Science-Online) - 
 - [christophM/interpretable-ml-book](https://github.com/christophM/interpretable-ml-book) - Book about interpretable machine learning
 - [PaddlePaddle/Quantum](https://github.com/PaddlePaddle/Quantum) - 
-- [NeuromatchAcademy/course-content](https://github.com/NeuromatchAcademy/course-content) - Summer course content for Neuromatch Academy
+- [NeuromatchAcademy/course-content](https://github.com/NeuromatchAcademy/course-content) - Content for NMA Computational Neuroscience course
 - [trekhleb/machine-learning-experiments](https://github.com/trekhleb/machine-learning-experiments) - 🤖 Interactive Machine Learning experiments: 🏋️models training + 🎨models demo
 - [natasha/yargy-examples](https://github.com/natasha/yargy-examples) - 
 - [andychisholm/nel](https://github.com/andychisholm/nel) - Entity linking framework
@@ -6883,6 +6883,7 @@
 
 ## Python 
 
+- [sentinel-hub/sentinel2-cloud-detector](https://github.com/sentinel-hub/sentinel2-cloud-detector) - Sentinel Hub Cloud Detector for Sentinel-2 images in Python
 - [soggycactus/airflow-repo-template](https://github.com/soggycactus/airflow-repo-template) - The easiest way to run Airflow locally, with linting & tests for valid DAGs and Plugins.
 - [Azure/counterfit](https://github.com/Azure/counterfit) - a CLI that provides a generic automation layer for assessing the security of ML models
 - [AlirezaShamsoshoara/Fire-Detection-UAV-Aerial-Image-Classification-Segmentation-UnmannedAerialVehicle](https://github.com/AlirezaShamsoshoara/Fire-Detection-UAV-Aerial-Image-Classification-Segmentation-UnmannedAerialVehicle) - Aerial Imagery dataset for fire detection: classification and segmentation (Unmanned Aerial Vehicle (UAV))
@@ -7698,7 +7699,7 @@
 - [facebookresearch/M3RL](https://github.com/facebookresearch/M3RL) - Mind-aware Multi-agent Management Reinforcement Learning
 - [google-research/tf-slim](https://github.com/google-research/tf-slim) - 
 - [sicara/tf-explain](https://github.com/sicara/tf-explain) - Interpretability Methods for tf.keras models with Tensorflow 2.x
-- [PaddlePaddle/ERNIE](https://github.com/PaddlePaddle/ERNIE) - An Implementation of ERNIE For Language Understanding (including Pre-training models and Fine-tuning tools)
+- [PaddlePaddle/ERNIE](https://github.com/PaddlePaddle/ERNIE) - Official implementations for various pre-training models of ERNIE-family, covering topics of Language Understanding & Generation, Multimodal Understanding & Generation, and beyond.
 - [taki0112/UGATIT](https://github.com/taki0112/UGATIT) - Official Tensorflow implementation of U-GAT-IT: Unsupervised Generative Attentional Networks with Adaptive Layer-Instance Normalization for Image-to-Image Translation (ICLR 2020)
 - [PengyiZhang/SlimYOLOv3](https://github.com/PengyiZhang/SlimYOLOv3) - This page is for the SlimYOLOv3: Narrower, Faster and Better for UAV Real-Time Applications
 - [encode/httpx](https://github.com/encode/httpx) - A next generation HTTP client for Python. 🦋
@@ -9486,7 +9487,7 @@
 - [vesche/scanless](https://github.com/vesche/scanless) - online port scan scraper
 - [onejgordon/flow-dashboard](https://github.com/onejgordon/flow-dashboard) - A goal, task & habit tracker + personal dashboard to focus on what matters
 - [dmytrostriletskyi/Rutetider](https://github.com/dmytrostriletskyi/Rutetider) - iOS, Android, Web-based and Telegram-bots timetable framework for universities. [not supported]
-- [joerick/cibuildwheel](https://github.com/joerick/cibuildwheel) - 🎡 Build Python wheels for all the platforms on CI with minimal configuration.
+- [pypa/cibuildwheel](https://github.com/pypa/cibuildwheel) - 🎡 Build Python wheels for all the platforms on CI with minimal configuration.
 - [grappa-py/grappa](https://github.com/grappa-py/grappa) - Behavior-oriented, expressive, human-friendly Python assertion library for the 21st century
 - [Mahi/EzPyGame](https://github.com/Mahi/EzPyGame) - An easier way to use pygame
 - [cr0hn/aiotasks](https://github.com/cr0hn/aiotasks) - A Celery like task manager that distributes Asyncio coroutines
@@ -13382,7 +13383,7 @@
 - [nwtgck/gh-card](https://github.com/nwtgck/gh-card) - :octocat: GitHub Repository Card for Any Web Site
 - [FormidableLabs/urql](https://github.com/FormidableLabs/urql) - The highly customizable and versatile GraphQL client with which you add on features like normalized caching as you grow.
 - [peaceiris/actions-gh-pages](https://github.com/peaceiris/actions-gh-pages) - GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly.
-- [pixijs/pixi.js](https://github.com/pixijs/pixi.js) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
+- [pixijs/pixijs](https://github.com/pixijs/pixijs) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
 - [Eugeny/terminus](https://github.com/Eugeny/terminus) - A terminal for a more modern age
 - [microsoft/TypeScript-New-Handbook](https://github.com/microsoft/TypeScript-New-Handbook) - Incubation repository for the new TypeScript handbook 🐣
 - [faastjs/faast.js](https://github.com/faastjs/faast.js) - Serverless batch computing made simple.
@@ -13589,7 +13590,7 @@
 - [reduxjs/redux](https://github.com/reduxjs/redux) - Predictable state container for JavaScript apps
 - [housseindjirdeh/angular2-hn](https://github.com/housseindjirdeh/angular2-hn) - :boom: Progressive Hacker News client built with Angular
 - [shlomiassaf/ngx-modialog](https://github.com/shlomiassaf/ngx-modialog) - Modal / Dialog for Angular
-- [angular/angular](https://github.com/angular/angular) - One framework. Mobile & desktop.
+- [angular/angular](https://github.com/angular/angular) - The modern web developer’s platform
 - [deepstreamIO/deepstream.io](https://github.com/deepstreamIO/deepstream.io) - deepstream.io server
 - [facebook/jest](https://github.com/facebook/jest) - Delightful JavaScript Testing.
 - [hustcc/timeago.js](https://github.com/hustcc/timeago.js) - :clock8: :hourglass: timeago.js is a tiny(2.0 kb) library used to format date with `*** time ago` statement.
