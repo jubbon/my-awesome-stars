@@ -1722,7 +1722,6 @@
 - [dutchcoders/transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
 - [moul/assh](https://github.com/moul/assh) - :computer: make your ssh client smarter
 - [tinrab/spidey](https://github.com/tinrab/spidey) - A Microservices and GraphQL based online store
-- [influxdata/platform](https://github.com/influxdata/platform) - Archived incubation repo for InfluxDB 2.0
 - [docker/app](https://github.com/docker/app) - Make your Docker Compose applications reusable, and share them on Docker Hub
 - [usefathom/fathom](https://github.com/usefathom/fathom) - Fathom Lite. Simple, privacy-focused website analytics. Built with Golang & Preact.
 - [shivamMg/ppds](https://github.com/shivamMg/ppds) - Pretty Print Data Structures
@@ -2965,7 +2964,6 @@
 - [openlayers/ol-mapbox-style](https://github.com/openlayers/ol-mapbox-style) - Use Mapbox Style objects with OpenLayers
 - [maputnik/editor](https://github.com/maputnik/editor) - An open source visual editor for the 'Mapbox Style Specification'
 - [mapbox/concaveman](https://github.com/mapbox/concaveman) - A very fast 2D concave hull algorithm in JavaScript
-- [StartBootstrap/startbootstrap-freelancer](https://github.com/StartBootstrap/startbootstrap-freelancer) - A flat design, one page, MIT licensed Bootstrap portfolio theme created by Start Bootstrap
 - [jonasschmedtmann/complete-node-bootcamp](https://github.com/jonasschmedtmann/complete-node-bootcamp) - Starter files, final projects and FAQ for my Complete Node.js Bootcamp
 - [neuland/micro-frontends](https://github.com/neuland/micro-frontends) - extending the microservice paradigms to web development
 - [flatlogic/react-material-admin](https://github.com/flatlogic/react-material-admin) - ☄️React Material Admin is a React template built with Material-UI
@@ -3788,6 +3786,7 @@
 - [stevebest/passport-vkontakte](https://github.com/stevebest/passport-vkontakte) - VK.com authentication strategy for Passport and Node.js
 - [segmentio/nightmare](https://github.com/segmentio/nightmare) - A high-level browser automation library.
 - [atomiks/tippyjs](https://github.com/atomiks/tippyjs) - Tooltip, popover, dropdown, and menu library
+- [StartBootstrap/startbootstrap-landing-page](https://github.com/StartBootstrap/startbootstrap-landing-page) - A responsive, Bootstrap landing page template created by Start Bootstrap
 - [BlueHatbRit/mdpdf](https://github.com/BlueHatbRit/mdpdf) - Markdown to PDF command line app with support for stylesheets
 - [lhartikk/simple-chess-ai](https://github.com/lhartikk/simple-chess-ai) - A simple chess AI
 - [ncase/loopy](https://github.com/ncase/loopy) - A tool for thinking in systems
@@ -3844,7 +3843,6 @@
 - [iRaul/creative-portfolios](https://github.com/iRaul/creative-portfolios) - 🌀  A curated list of Creative Portfolios
 - [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro) - Open-source productivity booster with a brain
 - [deepsyx/home-automation](https://github.com/deepsyx/home-automation) - Raspberry Pi 3 based home automation with NodeJS and React Native.
-- [StartBootstrap/startbootstrap-creative](https://github.com/StartBootstrap/startbootstrap-creative) - A one page HTML theme for creatives by Start Bootstrap
 - [avajs/ava](https://github.com/avajs/ava) - Node.js test runner that lets you develop with confidence 🚀
 - [google/mathsteps](https://github.com/google/mathsteps) - Step by step math solutions for everyone
 - [pcbje/ggraph](https://github.com/pcbje/ggraph) - Graph visualization of big messy data
@@ -6863,9 +6861,11 @@
 
 ## Pug 
 
+- [StartBootstrap/startbootstrap-freelancer](https://github.com/StartBootstrap/startbootstrap-freelancer) - A flat design, one page, MIT licensed Bootstrap portfolio theme created by Start Bootstrap
 - [StartBootstrap/startbootstrap-resume](https://github.com/StartBootstrap/startbootstrap-resume) - A Bootstrap 4 resume/CV theme created by Start Bootstrap
-- [StartBootstrap/startbootstrap-landing-page](https://github.com/StartBootstrap/startbootstrap-landing-page) - A responsive, Bootstrap landing page template created by Start Bootstrap
 - [anders94/blockchain-demo](https://github.com/anders94/blockchain-demo) - A web-based demonstration of blockchain concepts.
+- [StartBootstrap/startbootstrap-creative](https://github.com/StartBootstrap/startbootstrap-creative) - A one page HTML theme for creatives by Start Bootstrap
+- [StartBootstrap/startbootstrap-new-age](https://github.com/StartBootstrap/startbootstrap-new-age) - A web app landing page theme created by Start Bootstrap
 - [StartBootstrap/startbootstrap-sb-admin](https://github.com/StartBootstrap/startbootstrap-sb-admin) - A free, open source, Bootstrap admin theme created by Start Bootstrap
 
 ## Puppet 
@@ -7725,7 +7725,7 @@
 - [vpj/python_autocomplete](https://github.com/vpj/python_autocomplete) - A simple neural network for python autocompletion
 - [microsoft/MASS](https://github.com/microsoft/MASS) - MASS: Masked Sequence to Sequence Pre-training for Language Generation
 - [getsentry/sentry-python](https://github.com/getsentry/sentry-python) - The new Python SDK for Sentry.io
-- [Trusted-AI/adversarial-robustness-toolbox](https://github.com/Trusted-AI/adversarial-robustness-toolbox) - Adversarial Robustness Toolbox (ART) - Python Library for Machine Learning Security - Evasion, Poisoning, Extraction, Inference
+- [Trusted-AI/adversarial-robustness-toolbox](https://github.com/Trusted-AI/adversarial-robustness-toolbox) - Adversarial Robustness Toolbox (ART) - Python Library for Machine Learning Security - Evasion, Poisoning, Extraction, Inference - Red and Blue Teams
 - [Mjrovai/OpenCV-Face-Recognition](https://github.com/Mjrovai/OpenCV-Face-Recognition) - Real-time face recognition project with OpenCV and Python
 - [tensorpack/tensorpack](https://github.com/tensorpack/tensorpack) - A Neural Net Training Interface on TensorFlow, with focus on speed + flexibility
 - [kubernetes-client/python](https://github.com/kubernetes-client/python) - Official Python client library for kubernetes
@@ -8623,7 +8623,6 @@
 - [jcesarstef/dotdotslash](https://github.com/jcesarstef/dotdotslash) - Search for Directory Traversal Vulnerabilities
 - [MentatInnovations/datastream.io](https://github.com/MentatInnovations/datastream.io) - An open-source framework for real-time anomaly detection using Python, ElasticSearch and Kibana
 - [adonisnafeh/iconf](https://github.com/adonisnafeh/iconf) - Simple method used to load configuration variables from different sources.
-- [heroku-python/heroku-platform](https://github.com/heroku-python/heroku-platform) - [DEPRECATED] Heroku Platform API client for Python.
 - [littlecolumns/little-geocoder](https://github.com/littlecolumns/little-geocoder) - A tool to allow US addresses to be geocoded/georeferenced easily, without using Python or the command line or paid services or anything.
 - [zaytoun/cursor-tracking-css](https://github.com/zaytoun/cursor-tracking-css) - Tracking a cursor across a webpage using only CSS
 - [heroku/heroku-jupyterlab](https://github.com/heroku/heroku-jupyterlab) - An example of running JupyterLab on Heroku, with Amazon S3.
@@ -11970,7 +11969,6 @@
 - [cool-RR/git-cascade](https://github.com/cool-RR/git-cascade) - Two extension scripts for merging in Git
 - [ellisonleao/Flask-Gist](https://github.com/ellisonleao/Flask-Gist) - :octocat: A simple flask extension to render Github Gists on the template
 - [nskrypnik/kivy3](https://github.com/nskrypnik/kivy3) - 3D graphics framework for Kivy.
-- [heroku-python/pycon-heroku-tutorial](https://github.com/heroku-python/pycon-heroku-tutorial) - Heroku Sponsor Tutorial for PyCon 2013.
 - [mapbox/vector-tile-py](https://github.com/mapbox/vector-tile-py) - DEPRECATED - Parses vector tiles with Python
 - [andreasvc/readability](https://github.com/andreasvc/readability) - Measure the readability of a given text using surface characteristics
 - [Polyconseil/getconf](https://github.com/Polyconseil/getconf) - Simple Python configuration utilities.
@@ -13036,7 +13034,6 @@
 - [prometheus/docs](https://github.com/prometheus/docs) - Prometheus documentation: content and static site generator
 - [jessepollak/card](https://github.com/jessepollak/card) - :credit_card: make your credit card form better in one line of code
 - [OfficeDev/office-ui-fabric-core](https://github.com/OfficeDev/office-ui-fabric-core) - The front-end CSS framework for building experiences for Office and Microsoft 365.
-- [StartBootstrap/startbootstrap-new-age](https://github.com/StartBootstrap/startbootstrap-new-age) - A web app landing page theme created by Start Bootstrap
 - [getgrav/grav-plugin-admin](https://github.com/getgrav/grav-plugin-admin) - Grav Admin Plugin
 - [Esri/calcite-web](https://github.com/Esri/calcite-web) - Authoritative front-end development resources for Calcite design initiative. Includes extendable base components and styles, as well as a modular and efficient framework for ArcGIS properties.
 - [uswds/uswds](https://github.com/uswds/uswds) - The U.S. Web Design System helps the federal government build fast, accessible, mobile-friendly websites.
