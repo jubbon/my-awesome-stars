@@ -30,6 +30,7 @@
   - [Emacs Lisp](#emacs-lisp)
   - [Erlang](#erlang)
   - [Fortran](#fortran)
+  - [FreeMarker](#freemarker)
   - [GLSL](#glsl)
   - [Game Maker Language](#game-maker-language)
   - [Gherkin](#gherkin)
@@ -1482,6 +1483,10 @@
 
 - [pymc-devs/pymc](https://github.com/pymc-devs/pymc) - THIS IS THE **OLD** PYMC PROJECT. PLEASE USE PYMC3 INSTEAD:
 
+## FreeMarker 
+
+- [mozilla/send](https://github.com/mozilla/send) - Simple, private file sharing from the makers of Firefox
+
 ## GLSL 
 
 - [bloc97/Anime4K](https://github.com/bloc97/Anime4K) - A High-Quality Real Time Upscaler for Anime Video
@@ -2177,7 +2182,6 @@
 - [bobbyiliev/introduction-to-bash-scripting](https://github.com/bobbyiliev/introduction-to-bash-scripting) - Free Introduction to Bash Scripting eBook
 - [domchristie/turndown](https://github.com/domchristie/turndown) - 🛏 An HTML to Markdown converter written in JavaScript
 - [Azure/actions](https://github.com/Azure/actions) - Automate your GitHub workflows using Azure Actions
-- [wblakecannon/DataCamp](https://github.com/wblakecannon/DataCamp) - DataCamp data-science courses
 - [buriy/nlp_workshop](https://github.com/buriy/nlp_workshop) - nlp workshop at datafest siberia 2019
 - [MassMove/AttackVectors](https://github.com/MassMove/AttackVectors) - A repository to monitor attack vectors from state-backed information operations
 - [OWASP/ASVS](https://github.com/OWASP/ASVS) - Application Security Verification Standard
@@ -3013,7 +3017,6 @@
 - [lindeloev/tests-as-linear](https://github.com/lindeloev/tests-as-linear) - Common statistical tests are linear models (or: how to teach stats)
 - [spatie/form-backend-validation](https://github.com/spatie/form-backend-validation) - An easy way to validate forms using back end logic
 - [electinth/election-live](https://github.com/electinth/election-live) - Live Scoreboard for Thai General Election 2562 (2019)
-- [mozilla/send](https://github.com/mozilla/send) - Simple, private file sharing from the makers of Firefox
 - [alexfoxy/lax.js](https://github.com/alexfoxy/lax.js) - Simple & lightweight (&lt;4kb gzipped) vanilla JavaScript library to create smooth & beautiful animations when you scroll.
 - [Webang/yus](https://github.com/Webang/yus) - vue components based on VueJS
 - [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses) - A list of /uses pages detailing developer setups, gear, software and configs.
@@ -5811,6 +5814,7 @@
 
 ## Others 
 
+- [sberdevices/golos](https://github.com/sberdevices/golos) - 
 - [DLopatkin/Heracleum-Dataset](https://github.com/DLopatkin/Heracleum-Dataset) - Dataset of aerial images of hogweed gathered in Moscow Region.
 - [singularseclab/Slides](https://github.com/singularseclab/Slides) - A collection of slides from Singular Security Lab.
 - [Eyadhamza/Eng-Hammad-Recommendations](https://github.com/Eyadhamza/Eng-Hammad-Recommendations) - The repo contains books, tutorials and resources based on the recommendations of Eng Mohammed Hammad.
@@ -9474,7 +9478,6 @@
 - [LanceGin/haishoku](https://github.com/LanceGin/haishoku) - A development tool for grabbing the dominant color or representative color palette from an image
 - [merantix/picasso](https://github.com/merantix/picasso) - :art: A CNN visualizer
 - [openai/roboschool](https://github.com/openai/roboschool) - DEPRECATED: Open-source software for robot simulation, integrated with OpenAI Gym.
-- [jtesta/ssh-mitm](https://github.com/jtesta/ssh-mitm) - SSH man-in-the-middle tool
 - [schollz/howmanypeoplearearound](https://github.com/schollz/howmanypeoplearearound) - Count the number of people around you :family_man_man_boy: by monitoring wifi signals :satellite:
 - [junyanz/interactive-deep-colorization](https://github.com/junyanz/interactive-deep-colorization) - Deep learning software for colorizing black and white images with a few clicks.
 - [MorvanZhou/Tensorflow-Tutorial](https://github.com/MorvanZhou/Tensorflow-Tutorial) - Tensorflow tutorial from basic to hard, 莫烦Python 中文AI教学
@@ -11867,7 +11870,7 @@
 - [rmcgibbo/figshare](https://github.com/rmcgibbo/figshare) - Command line client for figshare
 - [bear/python-twitter](https://github.com/bear/python-twitter) - A Python wrapper around the Twitter API.
 - [lisa-lab/pylearn2](https://github.com/lisa-lab/pylearn2) - Warning: This project does not have any current developer. See bellow.
-- [Theano/Theano](https://github.com/Theano/Theano) - Theano is a Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently. It can use GPUs and perform efficient symbolic differentiation.
+- [Theano/Theano](https://github.com/Theano/Theano) - Theano was a Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently. It is being continued as aesara: www.github.com/pymc-devs/aesara
 - [Kozea/wdb](https://github.com/Kozea/wdb) - An improbable web debugger through WebSockets
 - [antiboredom/patent-generator](https://github.com/antiboredom/patent-generator) - Transforms literary/philosophical texts into patent applications
 - [toudi/porter](https://github.com/toudi/porter) - general-purpose deployment system
@@ -13162,6 +13165,7 @@
 - [Langhalsdino/Kubernetes-GPU-Guide](https://github.com/Langhalsdino/Kubernetes-GPU-Guide) - This guide should help fellow researchers and hobbyists to easily automate and accelerate there deep leaning training with their own Kubernetes GPU cluster.
 - [EOSIO/eos-token-distribution](https://github.com/EOSIO/eos-token-distribution) - 
 - [OWASP/owasp-mstg](https://github.com/OWASP/owasp-mstg) - The Mobile Security Testing Guide (MSTG) is a comprehensive manual for mobile app security development, testing and reverse engineering.
+- [jtesta/ssh-mitm](https://github.com/jtesta/ssh-mitm) - SSH man-in-the-middle tool
 - [rust-lang-nursery/rust-cookbook](https://github.com/rust-lang-nursery/rust-cookbook) - https://rust-lang-nursery.github.io/rust-cookbook
 - [MichielDerhaeg/build-linux](https://github.com/MichielDerhaeg/build-linux) - A short tutorial about building Linux based operating systems.
 - [OpenVPN/easy-rsa](https://github.com/OpenVPN/easy-rsa) - easy-rsa - Simple shell based CA utility
@@ -13361,7 +13365,7 @@
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [vuejs/vue-next](https://github.com/vuejs/vue-next) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 - [typeorm/typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
-- [apollographql/apollo-server](https://github.com/apollographql/apollo-server) - 🌍 GraphQL server for Express, Connect, Hapi, Koa and more
+- [apollographql/apollo-server](https://github.com/apollographql/apollo-server) - 🌍  Spec-compliant and production ready JavaScript GraphQL server that lets you develop in a schema-first way. Built for Express, Connect, Hapi, Koa, and more.
 - [actions/typescript-action](https://github.com/actions/typescript-action) - Create a TypeScript Action with tests, linting, workflow, publishing, and versioning
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀
 - [actions/toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
