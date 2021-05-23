@@ -1539,7 +1539,7 @@
 - [cucumber/godog](https://github.com/cucumber/godog) - Cucumber for golang
 - [99designs/aws-vault](https://github.com/99designs/aws-vault) - A vault for securely storing and accessing AWS credentials in development environments
 - [xanzy/go-gitlab](https://github.com/xanzy/go-gitlab) - A GitLab API client enabling Go programs to interact with GitLab in a simple and uniform way
-- [micro/micro](https://github.com/micro/micro) - Distributed OS built for the Cloud
+- [micro/micro](https://github.com/micro/micro) - Micro is a distributed OS built for the Cloud
 - [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub API
 - [slackhq/nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
 - [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
@@ -2978,7 +2978,6 @@
 - [kamranahmedse/git-pending](https://github.com/kamranahmedse/git-pending) - Git plugin to list TODO, FIXME, TESTME, DOCME comments in a repository
 - [carbon-design-system/carbon](https://github.com/carbon-design-system/carbon) - A design system built by IBM
 - [dangrossman/daterangepicker](https://github.com/dangrossman/daterangepicker) - JavaScript Date Range, Date and Time Picker Component
-- [hyjiacan/vue-slideout](https://github.com/hyjiacan/vue-slideout) - A Slide-Out component for Vue.js 2.0
 - [uber/geojson2h3](https://github.com/uber/geojson2h3) - Conversion utilities between H3 indexes and GeoJSON
 - [uber/grafana-dash-gen](https://github.com/uber/grafana-dash-gen) - grafana dash dash dash gen
 - [ByronHsu/Never-Blink](https://github.com/ByronHsu/Never-Blink) - 👀Blink and lose.
@@ -4408,6 +4407,7 @@
 
 ## Julia 
 
+- [probcomp/PClean](https://github.com/probcomp/PClean) - A domain-specific probabilistic programming language for scalable Bayesian data cleaning
 - [tpoisot/ScientificComputingForTheRestOfUs](https://github.com/tpoisot/ScientificComputingForTheRestOfUs) - Introduction to Scientific Computing  🦊
 - [TuringLang/Turing.jl](https://github.com/TuringLang/Turing.jl) - Bayesian inference with probabilistic programming.
 - [dfdx/Faceless.jl](https://github.com/dfdx/Faceless.jl) - Facial emotion recognition from an image
@@ -6096,7 +6096,7 @@
 - [trimstray/technical-whitepapers](https://github.com/trimstray/technical-whitepapers) - Collection of IT whitepapers, presentations, pdfs; hacking, web app security, db, reverse engineering and more; EN/PL.
 - [myshov/awesome-mobile-web-development](https://github.com/myshov/awesome-mobile-web-development) - All that you need to create a great mobile web experience
 - [kmario23/deep-learning-drizzle](https://github.com/kmario23/deep-learning-drizzle) - Drench yourself in Deep Learning, Reinforcement Learning, Machine Learning, Computer Vision, and NLP by learning from these exciting lectures!!
-- [joelparkerhenderson/queueing_theory](https://github.com/joelparkerhenderson/queueing_theory) - Queueing theory: an introduction for software development
+- [joelparkerhenderson/queueing-theory](https://github.com/joelparkerhenderson/queueing-theory) - Queueing theory: an introduction for software development
 - [trimstray/the-practical-linux-hardening-guide](https://github.com/trimstray/the-practical-linux-hardening-guide) - This guide details creating a secure Linux production system. OpenSCAP (C2S/CIS, STIG).
 - [opentraffic/architecture](https://github.com/opentraffic/architecture) - OTv1 overview
 - [sharedstreets/sharedstreets-ref-system](https://github.com/sharedstreets/sharedstreets-ref-system) - Making maps connectable: stable, non-proprietary IDs and data standards for streets
@@ -6199,7 +6199,7 @@
 - [Kaixhin/grokking-pytorch](https://github.com/Kaixhin/grokking-pytorch) - The Hitchiker's Guide to PyTorch
 - [InterviewMap/CS-Interview-Knowledge-Map](https://github.com/InterviewMap/CS-Interview-Knowledge-Map) - Build the best interview map. The current content includes JS, network, browser related, performance optimization, security, framework, Git, data structure, algorithm, etc.
 - [thedaviddias/Front-End-Performance-Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist) - 🎮 The only Front-End Performance Checklist that runs faster than the others
-- [joelparkerhenderson/architecture_decision_record](https://github.com/joelparkerhenderson/architecture_decision_record) - Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation
+- [joelparkerhenderson/architecture-decision-record](https://github.com/joelparkerhenderson/architecture-decision-record) - Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation
 - [llSourcell/How-to-Use-GitHub](https://github.com/llSourcell/How-to-Use-GitHub) - This is the supplementary material for "How to Use GitHub" By Siraj Raval on Youtube
 - [XiaoMi/mace-models](https://github.com/XiaoMi/mace-models) - Mobile AI Compute Engine Model Zoo
 - [amolood/Uber-map-style](https://github.com/amolood/Uber-map-style) - This is uber map style
@@ -6461,7 +6461,7 @@
 - [topper-123/Articles](https://github.com/topper-123/Articles) - Programming articles (Python mostly)
 - [endymecy/awesome-deeplearning-resources](https://github.com/endymecy/awesome-deeplearning-resources) - Deep Learning and deep reinforcement learning research papers and some codes
 - [gopherdata/resources](https://github.com/gopherdata/resources) - Resources for Go-based data analysis, visualization, machine learning, etc.
-- [joelparkerhenderson/git_commit_message](https://github.com/joelparkerhenderson/git_commit_message) - Git commit message: how to write a great git commit message and commit template for version control
+- [joelparkerhenderson/git-commit-message](https://github.com/joelparkerhenderson/git-commit-message) - Git commit message: how to write a great git commit message and commit template for version control
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2021
 - [bmorelli25/Become-A-Full-Stack-Web-Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer) - Free resources for learning Full Stack Web Development
 - [cassidoo/scrapers](https://github.com/cassidoo/scrapers) - A list of scrapers from around the web.
@@ -6689,7 +6689,7 @@
 - [zenoamaro/ansible-role-template](https://github.com/zenoamaro/ansible-role-template) - An annotated template for quickly producing testable Ansible roles.
 - [lorin/ansible-quickref](https://github.com/lorin/ansible-quickref) - Quick reference for Ansible variables
 - [robinandeer/ansible-miniconda](https://github.com/robinandeer/ansible-miniconda) - Ansible role to install the Miniconda Python distribution
-- [lvoogdt/Leaflet.awesome-markers](https://github.com/lvoogdt/Leaflet.awesome-markers) - Colorful, iconic & retina-proof markers for Leaflet, based on the Font Awesome/Twitter Bootstrap icons.
+- [lennardv2/Leaflet.awesome-markers](https://github.com/lennardv2/Leaflet.awesome-markers) - Colorful, iconic & retina-proof markers for Leaflet, based on the Font Awesome/Twitter Bootstrap icons.
 - [jdauphant/ansible-role-nginx](https://github.com/jdauphant/ansible-role-nginx) - Ansible role to install and manage nginx configuration
 - [dorianpula/ansible-nginx-uwsgi-supervisor](https://github.com/dorianpula/ansible-nginx-uwsgi-supervisor) - An Ansible role to setup and manage a UWSGI app via supervisor, and served up on a NGINX web server.
 - [rabbitmq/internals](https://github.com/rabbitmq/internals) - High level architecture overview
@@ -7788,7 +7788,7 @@
 - [clovaai/CRAFT-pytorch](https://github.com/clovaai/CRAFT-pytorch) - Official implementation of Character Region Awareness for Text Detection (CRAFT)
 - [voila-dashboards/voila](https://github.com/voila-dashboards/voila) - Voilà turns Jupyter notebooks into standalone web applications
 - [automagica/automagica](https://github.com/automagica/automagica) - AI-powered Smart Robotic Process Automation 🤖
-- [zlkanata/DeepGlobe-Road-Extraction-Challenge](https://github.com/zlkanata/DeepGlobe-Road-Extraction-Challenge) - D-LinkNet: LinkNet with Pretrained Encoder and Dilated Convolution for High Resolution Satellite Imagery Road Extraction
+- [zlckanata/DeepGlobe-Road-Extraction-Challenge](https://github.com/zlckanata/DeepGlobe-Road-Extraction-Challenge) - D-LinkNet: LinkNet with Pretrained Encoder and Dilated Convolution for High Resolution Satellite Imagery Road Extraction
 - [isagalaev/ijson](https://github.com/isagalaev/ijson) - Iterative JSON parser with Pythonic interface
 - [sdushantha/gitdir](https://github.com/sdushantha/gitdir) - Download a single directory/folder from a GitHub repo
 - [fregu856/3DOD_thesis](https://github.com/fregu856/3DOD_thesis) - 3D Object Detection for Autonomous Driving in PyTorch, trained on the KITTI dataset.
@@ -8296,7 +8296,7 @@
 - [lancifollia/tinygbt](https://github.com/lancifollia/tinygbt) - A Tiny, Pure Python implementation of Gradient Boosted Trees.
 - [dongjun-Lee/text-classification-models-tf](https://github.com/dongjun-Lee/text-classification-models-tf) - Tensorflow implementations of Text Classification Models.
 - [mkocabas/CoordConv-pytorch](https://github.com/mkocabas/CoordConv-pytorch) - Pytorch implementation of CoordConv introduced in 'An intriguing failing of convolutional neural networks and the CoordConv solution' paper. (https://arxiv.org/pdf/1807.03247.pdf)
-- [akshaybahadur21/Autopilot](https://github.com/akshaybahadur21/Autopilot) - A self driving car model for humans.
+- [akshaybahadur21/Autopilot](https://github.com/akshaybahadur21/Autopilot) - A simple self-driving car module for humans 🚘 🛣️
 - [llSourcell/Neural_Arithmetic_Logic_Units](https://github.com/llSourcell/Neural_Arithmetic_Logic_Units) - This is the code for "Neural Arithmetic Logic Units" By Siraj Raval on Youtube
 - [UIUC-PPL/charm4py](https://github.com/UIUC-PPL/charm4py) - Parallel Programming with Python and Charm++
 - [virtualabs/btlejack](https://github.com/virtualabs/btlejack) - Bluetooth Low Energy Swiss-army knife
@@ -13697,6 +13697,7 @@
 - [webgems/webgems](https://github.com/webgems/webgems) - A curated list of resources for devs and designers. Join me on devcord.com if you are up for a chit chat :)
 - [dongsuo/vue-data-board](https://github.com/dongsuo/vue-data-board) - A Data Analysis Board in Vue.
 - [rubjo/victor-mono](https://github.com/rubjo/victor-mono) - A free programming font with cursive italics and ligatures. Donations welcome ❤️
+- [hyjiacan/vue-slideout](https://github.com/hyjiacan/vue-slideout) - A Slide-Out component for Vue.js 2.0
 - [what-crud/vue-crud](https://github.com/what-crud/vue-crud) - Vue.js based REST-ful CRUD system
 - [caijinyc/vue-music-webapp](https://github.com/caijinyc/vue-music-webapp) - A Music WebApp based on the Vue.
 - [youzan/vant-demo](https://github.com/youzan/vant-demo) - Collection of vant demos.
