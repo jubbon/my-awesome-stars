@@ -1138,6 +1138,7 @@
 - [dargullin/icheck](https://github.com/dargullin/icheck) - Highly customizable checkboxes and radio buttons (jQuery & Zepto)
 - [phodal/ebook-boilerplate](https://github.com/phodal/ebook-boilerplate) - A Markdown convert to Ebook :arrow_right: html、mobi、epub、pdf、rtf Template
 - [spymastermatt/thunderbird-monterail](https://github.com/spymastermatt/thunderbird-monterail) - A set of themes for thunderbird inspired by a Monterail blog post
+- [oxalorg/sakura](https://github.com/oxalorg/sakura) - :cherry_blossom: a minimal css framework/theme.
 - [deis/workflow](https://github.com/deis/workflow) - The open source PaaS for Kubernetes.
 - [tidyverse/style](https://github.com/tidyverse/style) - The tidyverse style guide for R code
 - [progit/progit2](https://github.com/progit/progit2) - Pro Git 2nd Edition
@@ -2473,7 +2474,6 @@
 - [danielhomola/science_flask](https://github.com/danielhomola/science_flask) - ScienceFlask: an open-source template for scientific web-app development
 - [braziljs/js-the-right-way](https://github.com/braziljs/js-the-right-way) - An easy-to-read, quick reference for JS best practices, accepted coding standards, and links around the Web
 - [amueller/ml-training-intro](https://github.com/amueller/ml-training-intro) - Materials for the "Introduction to Machine Learning" class
-- [oxalorg/sakura](https://github.com/oxalorg/sakura) - :cherry_blossom: a minimal css framework/theme.
 - [microsoft/dotnet](https://github.com/microsoft/dotnet) - This repo is the official home of .NET on GitHub. It's a great starting point to find many .NET OSS projects from Microsoft and the community, including many that are part of the .NET Foundation.
 - [google/styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
 - [anfederico/flaskex](https://github.com/anfederico/flaskex) - Simple flask example for quick prototypes and small applications
@@ -11382,7 +11382,7 @@
 - [sametmax/Django--an-app-at-a-time](https://github.com/sametmax/Django--an-app-at-a-time) - A heavily commented Django project dedicated to teaching the framework or refresh one's memory.
 - [mahmoud/boltons](https://github.com/mahmoud/boltons) - 🔩 Like builtins, but boltons. 250+ constructs, recipes, and snippets which extend (and rely on nothing but) the Python standard library.  Nothing like Michael Bolton.
 - [richrd/suplemon](https://github.com/richrd/suplemon) - :lemon: Console (CLI) text editor with multi cursor support. Suplemon replicates Sublime Text like functionality in the terminal. Try it out, give feedback, fork it!
-- [commixproject/commix](https://github.com/commixproject/commix) - Automated All-in-One OS Command Injection Exploitation Tool
+- [commixproject/commix](https://github.com/commixproject/commix) - Automated All-in-One OS Command Injection Exploitation Tool.
 - [adamchalmers/carroll](https://github.com/adamchalmers/carroll) - Carroll is a command-line tool for classical logic.
 - [takluyver/flit](https://github.com/takluyver/flit) - Simplified packaging of Python modules
 - [oTree-org/oTree](https://github.com/oTree-org/oTree) - Python framework for multiplayer decision games, behavioral experiments, and surveys
@@ -13458,7 +13458,7 @@
 - [uwdata/draco](https://github.com/uwdata/draco) - Visualization Constraints and Weight Learning
 - [retejs/rete](https://github.com/retejs/rete) - JavaScript framework for visual programming and creating node editor
 - [vaneenige/phenomenon](https://github.com/vaneenige/phenomenon) - ⚡️ A fast 2kB low-level WebGL API.
-- [teambit/bit](https://github.com/teambit/bit) - Build modular projects with components in harmony.
+- [teambit/bit](https://github.com/teambit/bit) - A lightweight and highly extendible tool for component-driven development.
 - [justadudewhohacks/face-api.js](https://github.com/justadudewhohacks/face-api.js) - JavaScript API for face detection and face recognition in the browser and nodejs with tensorflow.js
 - [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
 - [probot/probot](https://github.com/probot/probot) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
