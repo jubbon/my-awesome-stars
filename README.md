@@ -272,7 +272,7 @@
 - [okbob/pspg](https://github.com/okbob/pspg) - Unix pager (with very rich functionality) designed for work with tables. Designed for PostgreSQL, but MySQL is supported too. Works well with pgcli too. Can be used as CSV or TSV viewer too. It supports searching, selecting rows, columns, or block and export selected area to clipboard.
 - [s-macke/VoxelSpace](https://github.com/s-macke/VoxelSpace) - Terrain rendering algorithm in less than 20 lines of code
 - [brannondorsey/naive-hashcat](https://github.com/brannondorsey/naive-hashcat) - Crack password hashes without the fuss :cat2:
-- [alibaba/AliOS-Things](https://github.com/alibaba/AliOS-Things) - AliOS Things latest version: https://github.com/alibaba/AliOS-Things/tree/rel_3.1.0 Please go to  https://aliosthings.iot.aliyun.com to get your minimal code.
+- [alibaba/AliOS-Things](https://github.com/alibaba/AliOS-Things) - AliOS Things latest version: https://github.com/alibaba/AliOS-Things/tree/rel_3.3.0 Please go to  https://aliosthings.iot.aliyun.com to get your minimal code.
 - [nongiach/CVE](https://github.com/nongiach/CVE) - 
 - [blkchain/pg_blkchain](https://github.com/blkchain/pg_blkchain) - PostgreSQL Blockchain Extension
 - [systemd/systemd](https://github.com/systemd/systemd) - The systemd System and Service Manager
@@ -2894,7 +2894,7 @@
 - [alpinejs/alpine](https://github.com/alpinejs/alpine) - A rugged, minimal framework for composing JavaScript behavior in your markup.
 - [tlkh/ai-lab](https://github.com/tlkh/ai-lab) - All-in-one AI container for rapid prototyping
 - [gothinkster/react-redux-realworld-example-app](https://github.com/gothinkster/react-redux-realworld-example-app) - Exemplary real world application built with React + Redux
-- [coreui/coreui-free-react-admin-template](https://github.com/coreui/coreui-free-react-admin-template) - CoreUI React is free React admin template based on Bootstrap 4
+- [coreui/coreui-free-react-admin-template](https://github.com/coreui/coreui-free-react-admin-template) - CoreUI React is a free React admin template based on Bootstrap 5
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
 - [nus-cs2030/1920-s2](https://github.com/nus-cs2030/1920-s2) - The website of CS2030, 19/20 Sem 2.
 - [pinojs/pino](https://github.com/pinojs/pino) - 🌲 super fast, all natural json logger 🌲
@@ -3617,7 +3617,6 @@
 - [googlecreativelab/teachable-machine-v1](https://github.com/googlecreativelab/teachable-machine-v1) - Explore how machine learning works, live in the browser. No coding required.
 - [IonicaBizau/made-in-russia](https://github.com/IonicaBizau/made-in-russia) - 🇷🇺 Amazing projects made in Russia.
 - [lllyasviel/style2paints](https://github.com/lllyasviel/style2paints) - sketch + style = paints :art: (TOG2018/SIGGRAPH2018ASIA)
-- [graphql/graphql-js](https://github.com/graphql/graphql-js) - A reference implementation of GraphQL for JavaScript
 - [facebook/relay](https://github.com/facebook/relay) - Relay is a JavaScript framework for building data-driven React applications.
 - [kodie/npm-gif](https://github.com/kodie/npm-gif) - Replace NPM install's progress bar with a GIF!
 - [vuejs/vue-test-utils](https://github.com/vuejs/vue-test-utils) - 🔬 Utilities for testing Vue components
@@ -3755,7 +3754,6 @@
 - [hilongjw/vue-recyclerview](https://github.com/hilongjw/vue-recyclerview) - Mastering Large Lists with the vue-recyclerview
 - [feathericons/feather](https://github.com/feathericons/feather) - Simply beautiful open source icons
 - [PNKBizz/vue-yandex-map](https://github.com/PNKBizz/vue-yandex-map) - Yandex Maps Component for VueJS
-- [vuejs/vue-devtools](https://github.com/vuejs/vue-devtools) - ⚙️ Browser devtools extension for debugging Vue.js applications.
 - [brandonxiang/vueleaflet](https://github.com/brandonxiang/vueleaflet) - Vue components for Leaflet maps
 - [kidGodzilla/Chattr](https://github.com/kidGodzilla/Chattr) - iOS, JavaScript, Firebase & Framework7 Chat App
 - [scriptPilot/app-framework](https://github.com/scriptPilot/app-framework) - Applications for any device with HTML, CSS and JavaScript - free and open source!
@@ -6512,7 +6510,6 @@
 - [lightSky/Awesome-MaterialDesign](https://github.com/lightSky/Awesome-MaterialDesign) - Collection of material design libs and res.
 - [material-components/material-components](https://github.com/material-components/material-components) - Documentation and policies for Material Components (all platforms)
 - [hindupuravinash/nips2016](https://github.com/hindupuravinash/nips2016) - A list of resources for all invited talks, tutorials, workshops and presentations at NIPS 2016
-- [melnik909/favorite-frontend-resources-from-melnik909](https://github.com/melnik909/favorite-frontend-resources-from-melnik909) - Frontend WhiteList — это список полезных ресурсов для разработчиков интерфейсов
 - [microsoft/DMTK](https://github.com/microsoft/DMTK) - Microsoft Distributed Machine Learning Toolkit
 - [diogomoretti/awesome-stylus](https://github.com/diogomoretti/awesome-stylus) - ✨ A curated list of awesome Stylus
 - [awslabs/awscli-aliases](https://github.com/awslabs/awscli-aliases) - Repository for AWS CLI aliases.
@@ -6887,6 +6884,7 @@
 
 ## Python 
 
+- [geopython/OWSLib](https://github.com/geopython/OWSLib) - OWSLib is a Python package for client programming with Open Geospatial Consortium (OGC) web service (hence OWS) interface standards, and their related content models.
 - [sentinel-hub/sentinel2-cloud-detector](https://github.com/sentinel-hub/sentinel2-cloud-detector) - Sentinel Hub Cloud Detector for Sentinel-2 images in Python
 - [soggycactus/airflow-repo-template](https://github.com/soggycactus/airflow-repo-template) - The easiest way to run Airflow locally, with linting & tests for valid DAGs and Plugins.
 - [Azure/counterfit](https://github.com/Azure/counterfit) - a CLI that provides a generic automation layer for assessing the security of ML models
@@ -9452,7 +9450,7 @@
 - [petersn/six-char-max](https://github.com/petersn/six-char-max) - 80 characters per line is waaaay too many. All Python programs should have at most six characters per line.
 - [mil-tokyo/webdnn](https://github.com/mil-tokyo/webdnn) - The Fastest DNN Running Framework on Web Browser
 - [kingfengji/gcForest](https://github.com/kingfengji/gcForest) - This is the official implementation for the paper 'Deep forest: Towards an alternative to deep neural networks'
-- [cupy/cupy](https://github.com/cupy/cupy) - A NumPy-compatible array library accelerated by CUDA
+- [cupy/cupy](https://github.com/cupy/cupy) - NumPy & SciPy for GPU
 - [gaojiuli/gain](https://github.com/gaojiuli/gain) - Web crawling framework  based on asyncio.
 - [Kyubyong/tacotron](https://github.com/Kyubyong/tacotron) - A TensorFlow Implementation of Tacotron: A Fully End-to-End Text-To-Speech Synthesis Model
 - [thu-ml/zhusuan](https://github.com/thu-ml/zhusuan) - A probabilistic programming library for Bayesian deep learning, generative models, based on Tensorflow
@@ -13533,6 +13531,7 @@
 - [clintonwoo/hackernews-react-graphql](https://github.com/clintonwoo/hackernews-react-graphql) - Hacker News clone rewritten with universal JavaScript, using React and GraphQL.
 - [reiinakano/fast-style-transfer-deeplearnjs](https://github.com/reiinakano/fast-style-transfer-deeplearnjs) - Demo of in-browser Fast Neural Style Transfer with deeplearn.js library
 - [Azure/autorest](https://github.com/Azure/autorest) - OpenAPI (f.k.a Swagger) Specification code generator. Supports C#, PowerShell, Go, Java, Node.js, TypeScript, Python, Ruby
+- [graphql/graphql-js](https://github.com/graphql/graphql-js) - A reference implementation of GraphQL for JavaScript
 - [graphql/graphql-playground](https://github.com/graphql/graphql-playground) - 🎮  GraphQL IDE for better development workflows (GraphQL Subscriptions, interactive docs & collaboration)
 - [youzan/vant](https://github.com/youzan/vant) - Lightweight Mobile UI Components built on Vue
 - [akveo/nebular](https://github.com/akveo/nebular) - :boom: Customizable Angular UI Library based on Eva Design System :new_moon_with_face::sparkles:Dark Mode
@@ -13554,6 +13553,7 @@
 - [vue-typed/vue-typed](https://github.com/vue-typed/vue-typed) - Sets of ECMAScript / Typescript decorators that helps you write Vue component easily.
 - [naver/billboard.js](https://github.com/naver/billboard.js) - :bar_chart: Re-usable, easy interface JavaScript chart library based on D3.js
 - [ForbesLindesay/taxi-rank](https://github.com/ForbesLindesay/taxi-rank) - A JSDom based Selenium Webdriver API
+- [vuejs/vue-devtools](https://github.com/vuejs/vue-devtools) - ⚙️ Browser devtools extension for debugging Vue.js applications.
 - [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - NativeScript empowers you to access native api's from JavaScript directly. Angular, Capacitor, Ionic, React, Svelte, Vue and you name it compatible.
 - [sindresorhus/caprine](https://github.com/sindresorhus/caprine) - Elegant Facebook Messenger desktop app
 - [airbnb/visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components
