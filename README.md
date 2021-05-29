@@ -8361,7 +8361,7 @@
 - [avidLearnerInProgress/pyCAIR](https://github.com/avidLearnerInProgress/pyCAIR) - Content aware image resizing
 - [ProjectQ-Framework/ProjectQ](https://github.com/ProjectQ-Framework/ProjectQ) - ProjectQ: An open source software framework for quantum computing
 - [Netflix-Skunkworks/diffy](https://github.com/Netflix-Skunkworks/diffy) - Diffy is a triage tool used during cloud-centric security incidents, to help digital forensics and incident response (DFIR) teams quickly identify suspicious hosts on which to focus their response.
-- [iterative/dvc](https://github.com/iterative/dvc) - 🦉Data Version Control | Git for Data & Models
+- [iterative/dvc](https://github.com/iterative/dvc) - 🦉Data Version Control | Git for Data & Models | ML Experiments Management
 - [mapa17/configfy](https://github.com/mapa17/configfy) - Decorator library to configure function arguments
 - [crumpstrr33/Utter-More](https://github.com/crumpstrr33/Utter-More) - Adding verbosity to Amazon Alexa's utterances can be tedious. This creates them automatically from a given template.
 - [dabeaz/thredo](https://github.com/dabeaz/thredo) - Thredo was an experiment - It's dead.  Feel free to look around.
@@ -10028,7 +10028,7 @@
 - [ctuning/ck-tensorflow](https://github.com/ctuning/ck-tensorflow) - Collective Knowledge components for TensorFlow (code, data sets, models, packages, workflows):
 - [romanvm/python-web-pdb](https://github.com/romanvm/python-web-pdb) - Web-based remote UI for Python's PDB debugger
 - [ctuning/ck-autotuning](https://github.com/ctuning/ck-autotuning) - CK automation actions to let users implement portable, customizable and reusable program workflows for reproducible, collaborative and multi-objective benchmarking, optimization and SW/HW co-design:
-- [ctuning/ck](https://github.com/ctuning/ck) - Collective Knowledge framework (CK) helps to organize software projects as a database of reusable components and micro-services with common APIs, automation actions and extensible meta descriptions based on FAIR principles. See real-world use cases from MLPerf(tm), General Motors, Arm, Qualcomm, the Raspberry Pi foundation and ACM:
+- [ctuning/ck](https://github.com/ctuning/ck) - Collective Knowledge framework (CK) helps to organize software projects as a database of reusable components and micro-services with common APIs, automation actions and extensible meta descriptions based on FAIR principles. See real-world use cases from MLPerf, General Motors, Arm, Qualcomm, the Raspberry Pi foundation and ACM:
 - [somewacko/deconvfaces](https://github.com/somewacko/deconvfaces) - Generating faces with deconvolution networks
 - [kootenpv/whereami](https://github.com/kootenpv/whereami) - Uses WiFi signals :signal_strength: and machine learning to predict where you are
 - [openimages/dataset](https://github.com/openimages/dataset) - The Open Images dataset
@@ -12915,7 +12915,7 @@
 - [flant/loghouse](https://github.com/flant/loghouse) - Ready to use log management solution for Kubernetes storing data in ClickHouse and providing web UI.
 - [jpmckinney/tf-idf-similarity](https://github.com/jpmckinney/tf-idf-similarity) - Ruby gem to calculate the similarity between texts using tf*idf
 - [igrigorik/decisiontree](https://github.com/igrigorik/decisiontree) - ID3-based implementation of the ML Decision Tree algorithm
-- [boxcutter/windows](https://github.com/boxcutter/windows) - Virtual machine templates for Windows
+- [boxcutter/windows](https://github.com/boxcutter/windows) - Virtual machine templates for Windows written in legacy JSON and Batch Scripting/JScript
 - [WinRb/vagrant-windows](https://github.com/WinRb/vagrant-windows) - 
 - [defunkt/gist](https://github.com/defunkt/gist) - Potentially the best command line gister.
 - [jekyll/jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
@@ -12982,6 +12982,7 @@
 - [diem/diem](https://github.com/diem/diem) - Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world.
 - [calebwin/emu](https://github.com/calebwin/emu) - The write-once-run-anywhere GPGPU library for Rust
 - [wasmerio/wasmer-python](https://github.com/wasmerio/wasmer-python) - 🐍🕸 WebAssembly runtime for Python
+- [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊 Cube.js — Open-Source Analytical API Platform
 - [fluencelabs/fluence](https://github.com/fluencelabs/fluence) - Peer-to-peer computing protocol and licensing system
 - [cantino/mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott!
 - [atlasr-org/atlasr](https://github.com/atlasr-org/atlasr) - Atlasr is a truly open-source and free map browser.
@@ -13400,7 +13401,6 @@
 - [vuejs/vue-dev-server](https://github.com/vuejs/vue-dev-server) - A POC dev server that allows you to import `*.vue` files via native ES modules imports.
 - [nodejs/nodejs.dev](https://github.com/nodejs/nodejs.dev) - A new Node.js resource built using Gatsby.js with React.js, TypeScript, and Remark.
 - [microsoft/frontend-bootcamp](https://github.com/microsoft/frontend-bootcamp) - Frontend Workshop from HTML/CSS/JS to TypeScript/React/Redux
-- [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊 Cube.js — Open-Source Analytical API Platform
 - [LeetCode-OpenSource/vscode-leetcode](https://github.com/LeetCode-OpenSource/vscode-leetcode) - Solve LeetCode problems in VS Code
 - [callstack/linaria](https://github.com/callstack/linaria) - Zero-runtime CSS in JS library
 - [labs42io/clean-code-typescript](https://github.com/labs42io/clean-code-typescript) - Clean Code concepts adapted for TypeScript
