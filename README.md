@@ -2284,7 +2284,6 @@
 - [tc39/proposal-built-in-modules](https://github.com/tc39/proposal-built-in-modules) - 
 - [alienzhou/frontend-tech-list](https://github.com/alienzhou/frontend-tech-list) - 📝 Frontend Tech List for Developers 💡
 - [Benjamin-Lee/deep-rules](https://github.com/Benjamin-Lee/deep-rules) - Ten Quick Tips for Deep Learning in Biology
-- [GoogleChromeLabs/quicklink](https://github.com/GoogleChromeLabs/quicklink) - ⚡️Faster subsequent page-loads by prefetching in-viewport links during idle time
 - [camelot-dev/excalibur](https://github.com/camelot-dev/excalibur) - A web interface to extract tabular data from PDFs
 - [pmeenan/http2priorities](https://github.com/pmeenan/http2priorities) - Test Page for HTTP/2 prioritization (server and browser)
 - [GetPublii/Publii](https://github.com/GetPublii/Publii) - Publii is a desktop-based CMS for Windows, Mac and Linux that makes creating static websites fast and hassle-free, even for beginners.
@@ -3832,7 +3831,6 @@
 - [TimonKK/clickhouse](https://github.com/TimonKK/clickhouse) - NodeJS client for ClickHouse
 - [Kurento/kurento-tutorial-js](https://github.com/Kurento/kurento-tutorial-js) - kurento-tutorial-js
 - [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet) - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
-- [mozilla/pontoon](https://github.com/mozilla/pontoon) - Mozilla's Localization Platform
 - [lgpage/nbtutor](https://github.com/lgpage/nbtutor) - Visualize Python code execution (line-by-line) in Jupyter Notebook cells.
 - [marko-js/marko](https://github.com/marko-js/marko) - A declarative, HTML-based language that makes building web apps fun
 - [affinelayer/pix2pix-tensorflow](https://github.com/affinelayer/pix2pix-tensorflow) - Tensorflow port of Image-to-Image Translation with Conditional Adversarial Nets https://phillipi.github.io/pix2pix/
@@ -4414,6 +4412,7 @@
 
 ## Jupyter Notebook 
 
+- [sentinel-hub/multi-temporal-super-resolution](https://github.com/sentinel-hub/multi-temporal-super-resolution) - Multi-temporal Super-Resolution on Sentinel-2 Imagery using Deimos
 - [czaloumi/transformers](https://github.com/czaloumi/transformers) - A lecture-style exploration of transformers.
 - [ngeorgis/ca-fire-detector](https://github.com/ngeorgis/ca-fire-detector) - Wildfire Detection enabled camera using the NVIDIA Jetson TX2
 - [tomek-l/fire-detect-nn](https://github.com/tomek-l/fire-detect-nn) - Wildfire Detection with Deep Neural Networks
@@ -5782,6 +5781,7 @@
 ## Nunjucks 
 
 - [stefanjudis/tiny-helpers](https://github.com/stefanjudis/tiny-helpers) - A collection of useful online web development tools
+- [GoogleChromeLabs/quicklink](https://github.com/GoogleChromeLabs/quicklink) - ⚡️Faster subsequent page-loads by prefetching in-viewport links during idle time
 - [h5bp/Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) - A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.
 
 ## OCaml 
@@ -9721,6 +9721,7 @@
 - [intel/Theano](https://github.com/intel/Theano) - This fork of Theano/Theano is dedicated to improve its performance on CPU device, in particular Intel® Xeon® processors and Intel® Xeon Phi™ processors.
 - [EvgenyNekrasov/gpod](https://github.com/EvgenyNekrasov/gpod) - GPOD - General Purpose Object Detector in Python
 - [ayush1997/Xvision](https://github.com/ayush1997/Xvision) - Chest Xray image analysis using Deep learning !
+- [mozilla/pontoon](https://github.com/mozilla/pontoon) - Mozilla's Localization Platform
 - [rcmalli/keras-squeezenet](https://github.com/rcmalli/keras-squeezenet) - SqueezeNet implementation with Keras Framework
 - [flopp/GpxTrackPoster](https://github.com/flopp/GpxTrackPoster) - Create a visually appealing poster from your GPX tracks
 - [meownoid/face-identification-tpe](https://github.com/meownoid/face-identification-tpe) - Face identification with CNN + TPE using Keras
@@ -13700,7 +13701,7 @@
 - [flatlogic/light-blue-vue-admin](https://github.com/flatlogic/light-blue-vue-admin) - 🤘Vue admin dashboard template with stylish transparent design
 - [ClintOxx/vuetify-admin-dashboard](https://github.com/ClintOxx/vuetify-admin-dashboard) - A Crud Admin panel made from Vue js and Vuetify
 - [pydanny/pydanny.com](https://github.com/pydanny/pydanny.com) - 
-- [webgems/webgems](https://github.com/webgems/webgems) - A curated list of resources for devs and designers. Join me on devcord.com if you are up for a chit chat :)
+- [lostdesign/webgems](https://github.com/lostdesign/webgems) - A curated list of resources for devs and designers. Join me on devcord.com if you are up for a chit chat :)
 - [dongsuo/vue-data-board](https://github.com/dongsuo/vue-data-board) - A Data Analysis Board in Vue.
 - [rubjo/victor-mono](https://github.com/rubjo/victor-mono) - A free programming font with cursive italics and ligatures. Donations welcome ❤️
 - [hyjiacan/vue-slideout](https://github.com/hyjiacan/vue-slideout) - A Slide-Out component for Vue.js 2.0
