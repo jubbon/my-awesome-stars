@@ -298,6 +298,7 @@
 - [catboost/catboost](https://github.com/catboost/catboost) - A fast, scalable, high performance Gradient Boosting on Decision Trees library, used for ranking, classification, regression and other machine learning tasks for Python, R, Java, C++. Supports computation on CPU and GPU.
 - [videolan/vlc](https://github.com/videolan/vlc) - VLC media player - All pull requests are ignored, please follow https://wiki.videolan.org/Sending_Patches_VLC/
 - [lua/lua](https://github.com/lua/lua) - The Lua repo, as seen by the Lua team. Mirrored irregularly. Please DO NOT send pull requests. Send any issue to the Lua mailing list https://www.lua.org/lua-l.html
+- [commaai/panda](https://github.com/commaai/panda) - code powering the comma.ai panda
 - [systemd/casync](https://github.com/systemd/casync) - Content-Addressable Data Synchronization Tool
 - [huggingface/neuralcoref](https://github.com/huggingface/neuralcoref) - ✨Fast Coreference Resolution in spaCy with Neural Networks
 - [timescale/timescaledb](https://github.com/timescale/timescaledb) - An open-source time-series SQL database optimized for fast ingest and complex queries.  Packaged as a PostgreSQL extension.
@@ -779,7 +780,6 @@
 - [moderngl/moderngl](https://github.com/moderngl/moderngl) - Modern OpenGL binding for python
 - [materialx/MaterialX](https://github.com/materialx/MaterialX) - MaterialX is an open standard for transfer of rich material and look-development content between applications and renderers.
 - [samhocevar/lolremez](https://github.com/samhocevar/lolremez) - 📈 Polynomial Approximations using the Remez Algorithm
-- [commaai/panda](https://github.com/commaai/panda) - code powering the comma.ai panda
 - [ApolloAuto/apollo-platform](https://github.com/ApolloAuto/apollo-platform) - Collections of Apollo Platform Software
 - [EOSIO/eos](https://github.com/EOSIO/eos) - An open source smart contract platform
 - [MisterTea/EternalTerminal](https://github.com/MisterTea/EternalTerminal) - Re-Connectable secure remote shell
@@ -2175,7 +2175,7 @@
 - [AnonymousPlanet/thgtoa](https://github.com/AnonymousPlanet/thgtoa) - The Hitchhiker’s Guide to Online Anonymity
 - [bobbyiliev/introduction-to-bash-scripting](https://github.com/bobbyiliev/introduction-to-bash-scripting) - Free Introduction to Bash Scripting eBook
 - [domchristie/turndown](https://github.com/domchristie/turndown) - 🛏 An HTML to Markdown converter written in JavaScript
-- [Azure/actions](https://github.com/Azure/actions) - Automate your GitHub workflows using Azure Actions
+- [Azure/actions](https://github.com/Azure/actions) - Author and use Azure Actions to automate your GitHub workflows
 - [buriy/nlp_workshop](https://github.com/buriy/nlp_workshop) - nlp workshop at datafest siberia 2019
 - [MassMove/AttackVectors](https://github.com/MassMove/AttackVectors) - A repository to monitor attack vectors from state-backed information operations
 - [OWASP/ASVS](https://github.com/OWASP/ASVS) - Application Security Verification Standard
@@ -7308,7 +7308,7 @@
 - [RaRe-Technologies/gensim-data](https://github.com/RaRe-Technologies/gensim-data) - Data repository for pretrained NLP models and NLP corpora.
 - [explosion/sense2vec](https://github.com/explosion/sense2vec) - 🦆 Contextually-keyed word vectors
 - [YatingMusic/remi](https://github.com/YatingMusic/remi) - "Pop Music Transformer: Beat-based Modeling and Generation of Expressive Pop Piano Compositions", ACM Multimedia 2020
-- [thu-ml/tianshou](https://github.com/thu-ml/tianshou) - An elegant PyTorch deep reinforcement learning platform.
+- [thu-ml/tianshou](https://github.com/thu-ml/tianshou) - An elegant PyTorch deep reinforcement learning library.
 - [facebookresearch/pycls](https://github.com/facebookresearch/pycls) - Codebase for Image Classification Research, written in PyTorch.
 - [PaddlePaddle/PaddleHub](https://github.com/PaddlePaddle/PaddleHub) - Awesome pre-trained models toolkit based on PaddlePaddle.(300+ models including Image, Text, Audio and Video with Easy Inference & Serving deployment)
 - [ihmeuw-msca/CurveFit](https://github.com/ihmeuw-msca/CurveFit) - Generic curve fitting package with nonlinear mixed effects model
@@ -11644,7 +11644,7 @@
 - [scipy/scipy](https://github.com/scipy/scipy) - Scipy library main repository
 - [mwaskom/seaborn](https://github.com/mwaskom/seaborn) - Statistical data visualization using matplotlib
 - [maxcountryman/atomos](https://github.com/maxcountryman/atomos) - Atomic primitives for Python.
-- [LuminosoInsight/langcodes](https://github.com/LuminosoInsight/langcodes) - A Python library for working with and comparing language codes.
+- [rspeer/langcodes](https://github.com/rspeer/langcodes) - A Python library for working with and comparing language codes.
 - [hayd/ctox](https://github.com/hayd/ctox) - tox for conda
 - [arteymix/benchpy](https://github.com/arteymix/benchpy) - Benchmark Python code
 - [jakeret/hope](https://github.com/jakeret/hope) - HOPE: A Python Just-In-Time compiler for astrophysical computations
@@ -13462,7 +13462,7 @@
 - [uwdata/draco](https://github.com/uwdata/draco) - Visualization Constraints and Weight Learning
 - [retejs/rete](https://github.com/retejs/rete) - JavaScript framework for visual programming and creating node editor
 - [vaneenige/phenomenon](https://github.com/vaneenige/phenomenon) - ⚡️ A fast 2kB low-level WebGL API.
-- [teambit/bit](https://github.com/teambit/bit) - A lightweight and highly extendible tool for component-driven development.
+- [teambit/bit](https://github.com/teambit/bit) - A lightweight and highly extendible Polyrepo for component-driven development.
 - [justadudewhohacks/face-api.js](https://github.com/justadudewhohacks/face-api.js) - JavaScript API for face detection and face recognition in the browser and nodejs with tensorflow.js
 - [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
 - [probot/probot](https://github.com/probot/probot) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
