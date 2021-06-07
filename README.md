@@ -919,6 +919,7 @@
 - [nlohmann/json](https://github.com/nlohmann/json) - JSON for Modern C++
 - [davisking/dlib](https://github.com/davisking/dlib) - A toolkit for making real world machine learning and data analysis applications in C++
 - [facebook/folly](https://github.com/facebook/folly) - An open-source C++ library developed and used at Facebook.
+- [alibaba/weex](https://github.com/alibaba/weex) - A framework for building Mobile cross-platform UI
 - [bharadwaj-raju/TextSuggest](https://github.com/bharadwaj-raju/TextSuggest) - MOVED: https://gitlab.com/bharadwaj-raju/TextSuggest
 - [charto/nbind](https://github.com/charto/nbind) - :sparkles: Magical headers that make your C++ library accessible from JavaScript :rocket:
 - [parro-it/libui-node](https://github.com/parro-it/libui-node) - Node bindings for libui, an awesome native UI library for Unix, OSX and Windows
@@ -6625,7 +6626,6 @@
 - [UKHomeOffice/posters](https://github.com/UKHomeOffice/posters) - Home Office Digital repository of posters covering different topics - research, access needs, accessibility, design.
 - [leonar15/startup-checklist](https://github.com/leonar15/startup-checklist) - A checklist for incorporation so you can get back to building your product, fundraising, etc.
 - [ossu/data-science](https://github.com/ossu/data-science) - :bar_chart: Path to a free self-taught education in Data Science!
-- [alibaba/weex](https://github.com/alibaba/weex) - A framework for building Mobile cross-platform UI
 - [AllThingsSmitty/must-watch-javascript](https://github.com/AllThingsSmitty/must-watch-javascript) - A useful list of must-watch talks about JavaScript
 - [kelseyhightower/kubernetes-cluster-federation](https://github.com/kelseyhightower/kubernetes-cluster-federation) - Kubernetes cluster federation tutorial
 - [alanjames1987/Node.js-Best-Practices](https://github.com/alanjames1987/Node.js-Best-Practices) - If you want to improve these best practices in any way please don't hesitate to create a pull request.
@@ -7275,7 +7275,7 @@
 - [HKUST-KnowComp/R-Net](https://github.com/HKUST-KnowComp/R-Net) - Tensorflow Implementation of R-Net
 - [localminimum/QANet](https://github.com/localminimum/QANet) - A Tensorflow implementation of QANet for machine reading comprehension
 - [rmountjoy92/DashMachine](https://github.com/rmountjoy92/DashMachine) - Another web application bookmark dashboard, with fun features.
-- [giswqs/geemap](https://github.com/giswqs/geemap) - A Python package for interactive mapping with Google Earth Engine, ipyleaflet, and folium
+- [giswqs/geemap](https://github.com/giswqs/geemap) - A Python package for interactive mapping with Google Earth Engine, ipyleaflet, and ipywidgets.
 - [TCM-Course-Resources/Practical-Ethical-Hacking-Resources](https://github.com/TCM-Course-Resources/Practical-Ethical-Hacking-Resources) - Compilation of Resources from TCM's Practical Ethical Hacking Udemy Course
 - [NVlabs/SSV](https://github.com/NVlabs/SSV) - Pytorch implementation of SSV: Self-Supervised Viewpoint Learning from Image Collections (CVPR 2020)
 - [alibaba/alimama-common-performance-platform-acp](https://github.com/alibaba/alimama-common-performance-platform-acp) - common-performance platform&tools(acp)   c++/python.  分布式性能测试工具
@@ -7998,6 +7998,7 @@
 - [stanfordnlp/stanza](https://github.com/stanfordnlp/stanza) - Official Stanford NLP Python Library for Many Human Languages
 - [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
 - [araffin/learning-to-drive-in-5-minutes](https://github.com/araffin/learning-to-drive-in-5-minutes) - Implementation of reinforcement learning approach to make a car learn to drive smoothly in minutes
+- [doccano/doccano](https://github.com/doccano/doccano) - Open source annotation tool for machine learning practitioners.
 - [elleryqueenhomels/arbitrary_style_transfer](https://github.com/elleryqueenhomels/arbitrary_style_transfer) - Fast Neural Style Transfer with Arbitrary Style using AdaIN Layer - Based on Huang et al. "Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization"
 - [naoto0804/pytorch-AdaIN](https://github.com/naoto0804/pytorch-AdaIN) - Unofficial pytorch implementation of 'Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization' [Huang+, ICCV2017]
 - [flow-project/flow](https://github.com/flow-project/flow) - Computational framework for reinforcement learning in traffic control
@@ -13754,7 +13755,6 @@
 - [sdras/vue-hooks-foodapp](https://github.com/sdras/vue-hooks-foodapp) - A food app using a few hooks in Vue to show how they can work (experimental)
 - [officert/vue-slideout-panel](https://github.com/officert/vue-slideout-panel) - Vue JS component for stackable slideout panels
 - [antonreshetov/mysigmail](https://github.com/antonreshetov/mysigmail) - UI Email Signature Generator - Make easy to create your email signature
-- [doccano/doccano](https://github.com/doccano/doccano) - Open source annotation tool for machine learning practitioners.
 - [chiflix/splayerx](https://github.com/chiflix/splayerx) - SPlayerX@2018
 - [mazipan/vue2-simplert-plugin](https://github.com/mazipan/vue2-simplert-plugin) - ⚠️  Vue 2 Simple Alert Plugin (SweetAlert Inspired)
 - [antoniandre/vue-cal](https://github.com/antoniandre/vue-cal) - A Vue 2 & 3 full calendar, no dependency, no BS. :metal:
@@ -13956,7 +13956,7 @@
 - [fuse-box/fuse-box-vue-seed](https://github.com/fuse-box/fuse-box-vue-seed) - Get started with Vue.js using FuseBox module loader and bundler
 - [thousandetherhomepage/ketherhomepage](https://github.com/thousandetherhomepage/ketherhomepage) - Own a piece of blockchain history!
 - [odranoelBR/vue-quasar-admin-example](https://github.com/odranoelBR/vue-quasar-admin-example) - Example of quasar admin
-- [yTakkar/Vue-Mini-Social-Network](https://github.com/yTakkar/Vue-Mini-Social-Network) - A reactive mini-social-network created with Vue!! 🏳️‍🌈🤞
+- [yTakkar/Vue-Mini-Social-Network](https://github.com/yTakkar/Vue-Mini-Social-Network) - A reactive mini-social-network created with Vue!! 🏳️‍🌈🤞 - No longer maintained.
 - [Requarks/wiki](https://github.com/Requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
 - [nicejade/nicelinks-vue-client](https://github.com/nicejade/nicelinks-vue-client) - 🐬 很棒的 Web 应用——倾城之链（NICE LINKS），基于 Vue2.*（Webpack、Es6、Element-ui）所构建
 - [GeoffZhu/vue-event-calendar](https://github.com/GeoffZhu/vue-event-calendar) - A simple events calendar for Vue2, no dependencies except Vue2.
