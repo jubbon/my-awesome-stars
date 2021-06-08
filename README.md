@@ -26,6 +26,7 @@
   - [Dart](#dart)
   - [Dhall](#dhall)
   - [Dockerfile](#dockerfile)
+  - [EJS](#ejs)
   - [Elixir](#elixir)
   - [Emacs Lisp](#emacs-lisp)
   - [Erlang](#erlang)
@@ -581,6 +582,7 @@
 - [heremaps/pptk](https://github.com/heremaps/pptk) - The Point Processing Toolkit (pptk) is a Python package for visualizing and processing 2-d/3-d point clouds.
 - [JVictorDias/DeepCars](https://github.com/JVictorDias/DeepCars) - 
 - [lava/matplotlib-cpp](https://github.com/lava/matplotlib-cpp) - Extremely simple yet powerful header-only C++ plotting library built on the popular matplotlib
+- [Tencent/matrix](https://github.com/Tencent/matrix) - Matrix is a plugin style, non-invasive APM system developed by WeChat.
 - [fmtlib/fmt](https://github.com/fmtlib/fmt) - A modern formatting library
 - [ros-planning/navigation2](https://github.com/ros-planning/navigation2) - ROS2 Navigation Framework and System
 - [openalpr/openalpr](https://github.com/openalpr/openalpr) - Automatic License Plate Recognition library
@@ -1459,6 +1461,10 @@
 - [monitoringartist/grafana-xxl](https://github.com/monitoringartist/grafana-xxl) - :bar_chart: Dockerized Grafana with all preinstalled (community) plugins from grafana.net
 - [kamon-io/docker-grafana-graphite](https://github.com/kamon-io/docker-grafana-graphite) - Docker image with StatsD, Graphite, Grafana 2 and a Kamon Dashboard
 
+## EJS 
+
+- [Gioni06/terminal.css](https://github.com/Gioni06/terminal.css) - Modern and minimalistic CSS framework for terminal enthusiasts
+
 ## Elixir 
 
 - [plausible/analytics](https://github.com/plausible/analytics) - Simple, open-source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
@@ -2268,7 +2274,6 @@
 - [dmengelt/google-pay-heatmap](https://github.com/dmengelt/google-pay-heatmap) - :pushpin: A heatmap of your Google Pay payments
 - [web-platform-tests/wpt](https://github.com/web-platform-tests/wpt) - Test suites for Web platform specs — including WHATWG, W3C, and others
 - [ldct/isicp](https://github.com/ldct/isicp) - Interactive Structure and Interpretation of Computer Programs
-- [Gioni06/terminal.css](https://github.com/Gioni06/terminal.css) - Modern and minimalistic CSS framework for terminal enthusiasts
 - [clauswilke/dataviz](https://github.com/clauswilke/dataviz) - A book covering the fundamentals of data visualization
 - [tc39/proposal-promise-any](https://github.com/tc39/proposal-promise-any) - ECMAScript proposal: Promise.any
 - [tc39/proposal-promise-allSettled](https://github.com/tc39/proposal-promise-allSettled) - ECMAScript Proposal, specs, and reference implementation for Promise.allSettled
@@ -2718,7 +2723,6 @@
 - [zavtech/morpheus-core](https://github.com/zavtech/morpheus-core) - The foundational library of the Morpheus data science framework
 - [Tencent/TubeMQ](https://github.com/Tencent/TubeMQ) - TubeMQ focuses on high-performance storage and transmission of massive data in big data scenarios
 - [volk1674/paperio](https://github.com/volk1674/paperio) - Strategy for https://github.com/MailRuChamps/miniaicups/tree/master/paperio
-- [Tencent/matrix](https://github.com/Tencent/matrix) - Matrix is a plugin style, non-invasive APM system developed by WeChat.
 - [rabbitmq/rabbitmq-tutorials](https://github.com/rabbitmq/rabbitmq-tutorials) - Tutorials for using RabbitMQ in various ways
 - [thingsboard/thingsboard](https://github.com/thingsboard/thingsboard) - Open-source IoT Platform - Device management, data collection, processing and visualization.
 - [llSourcell/Build-an-AI-Startup-with-PyTorch](https://github.com/llSourcell/Build-an-AI-Startup-with-PyTorch) - This is the code for 'Build an AI Startup with Pytorch" by Siraj Raval
@@ -2876,7 +2880,6 @@
 - [jsdoc/jsdoc](https://github.com/jsdoc/jsdoc) - An API documentation generator for JavaScript.
 - [kiteco/vscode-plugin](https://github.com/kiteco/vscode-plugin) - Kite Autocomplete Plugin for Visual Studio Code
 - [expressjs/express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
-- [jitsi/docker-jitsi-meet](https://github.com/jitsi/docker-jitsi-meet) - Jitsi Meet on Docker
 - [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 1250 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [marcotcr/lime](https://github.com/marcotcr/lime) - Lime: Explaining the predictions of any machine learning classifier
 - [microsoft/botframework-sdk](https://github.com/microsoft/botframework-sdk) - Bot Framework provides the most comprehensive experience for building conversation applications.
@@ -4519,7 +4522,7 @@
 - [petersontylerd/mlmachine](https://github.com/petersontylerd/mlmachine) - mlmachine accelerates machine learning experimentation
 - [natasha/ipymarkup](https://github.com/natasha/ipymarkup) - NER, syntax markup visualizations
 - [KristiyanVachev/Question-Generation](https://github.com/KristiyanVachev/Question-Generation) - Generating multiple choice questions from text using Machine Learning.
-- [NirantK/nlp-python-deep-learning](https://github.com/NirantK/nlp-python-deep-learning) - NLP in Python with Deep Learning
+- [NirantK/NLP_Quickbook](https://github.com/NirantK/NLP_Quickbook) - NLP in Python with Deep Learning
 - [learn-co-students/dsc-python-operators-functions-and-methods-lab-onl01-dtsc-ft-041320](https://github.com/learn-co-students/dsc-python-operators-functions-and-methods-lab-onl01-dtsc-ft-041320) - 
 - [kunalj101/Data-Science-Hacks](https://github.com/kunalj101/Data-Science-Hacks) - Data Science Hacks consists of tips, tricks to help you become a better data scientist. Data science hacks are for all - beginner to advanced. Data science hacks consist of python, jupyter notebook, pandas hacks and so on.
 - [Sshanu/Bidirectional-Attention-Flow-for-Machine-Comprehension](https://github.com/Sshanu/Bidirectional-Attention-Flow-for-Machine-Comprehension) - Machine Comprehension using Squad and Triviqa Data sets
@@ -5092,7 +5095,6 @@
 - [llSourcell/7_Research_Directions_Deep_Learning](https://github.com/llSourcell/7_Research_Directions_Deep_Learning) - This is the code for "The Future of Deep Learning Research" by Siraj Raval on Youtube
 - [tjwei/GANotebooks](https://github.com/tjwei/GANotebooks) - wgan, wgan2(improved, gp), infogan, and dcgan implementation in  lasagne, keras, pytorch
 - [loudinthecloud/pytorch-ntm](https://github.com/loudinthecloud/pytorch-ntm) - Neural Turing Machines (NTM) - PyTorch Implementation
-- [OpenMined/PySyft](https://github.com/OpenMined/PySyft) - A library for answering questions using data you cannot see
 - [marsauto/europilot](https://github.com/marsauto/europilot) - A toolkit for controlling Euro Truck Simulator 2 with python to develop self-driving algorithms.
 - [zygmuntz/goodbooks-10k](https://github.com/zygmuntz/goodbooks-10k) - Ten thousand books, six million ratings
 - [radekosmulski/dogs_vs_cats](https://github.com/radekosmulski/dogs_vs_cats) - 
@@ -5693,6 +5695,7 @@
 - [jcjohnson/torch-rnn](https://github.com/jcjohnson/torch-rnn) - Efficient, reusable RNNs and LSTMs for torch
 - [facebookarchive/bAbI-tasks](https://github.com/facebookarchive/bAbI-tasks) - Task generation for testing text understanding and reasoning
 - [sunprinceS/Hierarchical-Attention-Model](https://github.com/sunprinceS/Hierarchical-Attention-Model) - :page_facing_up: HierAttModel for Question Answering
+- [jitsi/docker-jitsi-meet](https://github.com/jitsi/docker-jitsi-meet) - Jitsi Meet on Docker
 - [garythung/trashnet](https://github.com/garythung/trashnet) - Dataset of images of trash; Torch-based CNN for garbage image classification
 - [apache/apisix](https://github.com/apache/apisix) - The Cloud-Native API Gateway
 - [facebookarchive/MazeBase](https://github.com/facebookarchive/MazeBase) - Simple environment for creating very simple 2D games and training neural network models to perform tasks within them
@@ -6984,7 +6987,7 @@
 - [davidefiocco/streamlit-fastapi-model-serving](https://github.com/davidefiocco/streamlit-fastapi-model-serving) - Simple web app example serving a PyTorch model using streamlit and FastAPI
 - [abhimishra91/insight](https://github.com/abhimishra91/insight) - Repository for Project Insight: NLP as a Service
 - [wemake-services/wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) - The strictest and most opinionated python linter ever!
-- [PaddlePaddle/PaddleNLP](https://github.com/PaddlePaddle/PaddleNLP) - NLP Core Library and Model Zoo based on PaddlePaddle 2.0
+- [PaddlePaddle/PaddleNLP](https://github.com/PaddlePaddle/PaddleNLP) - An NLP library with Awesome pre-trained Transformer models and easy-to-use interface,  supporting wide-range of NLP tasks from research to industrial applications.
 - [PyTorchLightning/lightning-flash](https://github.com/PyTorchLightning/lightning-flash) - Collection of tasks for fast prototyping, baselining, finetuning and solving problems with deep learning.
 - [kakaobrain/pororo](https://github.com/kakaobrain/pororo) - PORORO: Platform Of neuRal mOdels for natuRal language prOcessing
 - [LAMDA-NJU/Deep-Forest](https://github.com/LAMDA-NJU/Deep-Forest) - An Efficient, Scalable and Optimized Python Framework for Deep Forest (2021.2.1)
@@ -9087,6 +9090,7 @@
 - [mingyuliutw/UNIT](https://github.com/mingyuliutw/UNIT) - Unsupervised Image-to-Image Translation
 - [jullrich/pcap2curl](https://github.com/jullrich/pcap2curl) - Read a packet capture, extract HTTP requests and turn them into cURL commands for replay.
 - [RasaHQ/rasa_core](https://github.com/RasaHQ/rasa_core) - Rasa Core is now part of the Rasa repo: An open source machine learning framework to automate text-and voice-based conversations
+- [OpenMined/PySyft](https://github.com/OpenMined/PySyft) - A library for answering questions using data you cannot see
 - [apple/coremltools](https://github.com/apple/coremltools) - Core ML tools contain supporting tools for Core ML model conversion, editing, and validation.
 - [manrajgrover/halo](https://github.com/manrajgrover/halo) - 💫 Beautiful spinners for terminal, IPython and Jupyter
 - [tammoippen/plotille](https://github.com/tammoippen/plotille) - Plot in the terminal using braille dots.
@@ -12593,7 +12597,7 @@
 - [areski/python-nvd3](https://github.com/areski/python-nvd3) - Python Wrapper for NVD3 - It's time for beautiful charts
 - [bryancatanzaro/copperhead](https://github.com/bryancatanzaro/copperhead) - Data Parallel Python
 - [skulpt/skulpt](https://github.com/skulpt/skulpt) - Skulpt is a Javascript implementation of the Python programming language
-- [falconry/falcon](https://github.com/falconry/falcon) - The no-nonsense, minimalist REST and app backend framework for Python developers, with a focus on reliability, correctness, and performance at scale.
+- [falconry/falcon](https://github.com/falconry/falcon) - The no-nonsense REST API and microservices framework for Python developers, with a focus on reliability, correctness, and performance at scale.
 - [thomst/logscan](https://github.com/thomst/logscan) - logscan is a command-line-tool to get time-specific access to logfiles. It can handle rotated and gzipped logfiles or reads from stdin. The log   is automatically checked for different timecodes.
 - [thomst/timeparser](https://github.com/thomst/timeparser) - Parse strings to objects of the datetime-module.  This module intends to make string-parsing to objects of the datetime-module as easy as possible while allowing a fine configuration about which kind of formats are supported.
 - [thomst/timeparse](https://github.com/thomst/timeparse) - An argparse-extension for parsing command-line arguments as time-, date-, datetime-, or timedelta-objects.
@@ -13281,7 +13285,7 @@
 
 - [sergdort/CombineFeedback](https://github.com/sergdort/CombineFeedback) - Unidirectional reactive architecture using new Apple Combine framework https://developer.apple.com/documentation/combine
 - [samkhawase/LooLocator](https://github.com/samkhawase/LooLocator) - A simple iOS app that fetches the crowd-sourced data from OpenStreetMaps, and shows toilets within walking distance.
-- [airbnb/Lona](https://github.com/airbnb/Lona) - A tool for defining design systems and using them to generate cross-platform UI code, Sketch files, and other artifacts.
+- [Lona/Lona](https://github.com/Lona/Lona) - A tool for defining design systems and using them to generate cross-platform UI code, Sketch files, and other artifacts.
 - [levantAJ/Measure](https://github.com/levantAJ/Measure) - Using ARKit to make calculate the distance of real-world objects
 - [ProjectDent/ARKit-CoreLocation](https://github.com/ProjectDent/ARKit-CoreLocation) - Combines the high accuracy of AR with the scale of GPS data.
 - [olucurious/Awesome-ARKit](https://github.com/olucurious/Awesome-ARKit) - A curated list of awesome ARKit projects and resources. Feel free to contribute!
