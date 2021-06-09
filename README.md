@@ -932,7 +932,7 @@
 - [mldbai/mldb](https://github.com/mldbai/mldb) - MLDB is the Machine Learning Database
 - [nmslib/nmslib](https://github.com/nmslib/nmslib) - Non-Metric Space Library (NMSLIB): An efficient similarity search library and a toolkit for evaluation of k-NN methods for generic non-metric spaces.
 - [Qihoo360/logkafka](https://github.com/Qihoo360/logkafka) - Collect logs and send lines to Apache Kafka
-- [Qihoo360/pika](https://github.com/Qihoo360/pika) - Pika is a nosql compatible with redis, it is developed by Qihoo's DBA and infrastructure team
+- [OpenAtomFoundation/pika](https://github.com/OpenAtomFoundation/pika) - Pika is a nosql compatible with redis, it is developed by Qihoo's DBA and infrastructure team
 - [uNetworking/uWebSockets](https://github.com/uNetworking/uWebSockets) - Simple, secure & standards compliant web server for the most demanding of applications
 - [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) - Telegram Desktop messaging app
 - [mongodb/mongo](https://github.com/mongodb/mongo) - The MongoDB Database
