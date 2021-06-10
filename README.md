@@ -4074,6 +4074,7 @@
 - [spencermountain/compromise](https://github.com/spencermountain/compromise) - modest natural-language processing
 - [PiotrDabkowski/Js2Py](https://github.com/PiotrDabkowski/Js2Py) - JavaScript to Python Translator & JavaScript interpreter written in 100% pure Python🚀 Try it online:
 - [dundalek/markmap](https://github.com/dundalek/markmap) - Visualize markdown documents as mindmaps
+- [jupyter-widgets/ipyleaflet](https://github.com/jupyter-widgets/ipyleaflet) - A Jupyter - Leaflet.js bridge
 - [analog-nico/express-print-routes](https://github.com/analog-nico/express-print-routes) - Prints the tree of Express routes and middlewares to a file
 - [cezaraugusto/You-Dont-Know-JS](https://github.com/cezaraugusto/You-Dont-Know-JS) - 📗📒 (PT-Br translation) JS Book Series.
 - [flickr/yakbak](https://github.com/flickr/yakbak) - Record and playback HTTP responses
@@ -4413,12 +4414,13 @@
 
 ## Jupyter Notebook 
 
+- [khuyentran1401/Data-science](https://github.com/khuyentran1401/Data-science) - Collection of useful data science topics along with code and articles
 - [sentinel-hub/multi-temporal-super-resolution](https://github.com/sentinel-hub/multi-temporal-super-resolution) - Multi-temporal Super-Resolution on Sentinel-2 Imagery using Deimos
 - [czaloumi/transformers](https://github.com/czaloumi/transformers) - A lecture-style exploration of transformers.
 - [ngeorgis/ca-fire-detector](https://github.com/ngeorgis/ca-fire-detector) - Wildfire Detection enabled camera using the NVIDIA Jetson TX2
 - [tomek-l/fire-detect-nn](https://github.com/tomek-l/fire-detect-nn) - Wildfire Detection with Deep Neural Networks
 - [santiagxf/prometheus](https://github.com/santiagxf/prometheus) - Prometheus is a machine learning powered solution for early detection of fires in national parks
-- [zihangJiang/TokenLabeling](https://github.com/zihangJiang/TokenLabeling) - Pytorch implementation of "Training a 85.4% Top-1 Accuracy Vision Transformer with 56M Parameters on ImageNet"
+- [zihangJiang/TokenLabeling](https://github.com/zihangJiang/TokenLabeling) - Pytorch implementation of "All Tokens Matter: Token Labeling for Training Better Vision Transformers"
 - [yobibyte/prettyplots](https://github.com/yobibyte/prettyplots) - Design your own matplotlib stylefile interactively
 - [vijishmadhavan/SkinDeep](https://github.com/vijishmadhavan/SkinDeep) - Get Deinked!!
 - [qiskit-community/qiskit-community-tutorials](https://github.com/qiskit-community/qiskit-community-tutorials) - A collection of Jupyter notebooks developed by the community showing how to use Qiskit
@@ -10411,7 +10413,6 @@
 - [mirri66/xgbmagic](https://github.com/mirri66/xgbmagic) - 
 - [eugene-eeo/closurepr](https://github.com/eugene-eeo/closurepr) - a better repr for closures
 - [donnemartin/gitsome](https://github.com/donnemartin/gitsome) - A supercharged Git/GitHub command line interface (CLI).  An official integration for GitHub and GitHub Enterprise: https://github.com/works-with/category/desktop-tools
-- [jupyter-widgets/ipyleaflet](https://github.com/jupyter-widgets/ipyleaflet) - A Jupyter - Leaflet.js bridge
 - [dmlc/mxnet-memonger](https://github.com/dmlc/mxnet-memonger) - Sublinear memory optimization for deep learning, reduce GPU memory cost to train deeper nets
 - [celery/cyanide](https://github.com/celery/cyanide) - Celery stress testing and integration test support
 - [svenkreiss/databench](https://github.com/svenkreiss/databench) - Data analysis tool.
