@@ -2444,7 +2444,6 @@
 - [abhshkdz/ai-deadlines](https://github.com/abhshkdz/ai-deadlines) - :alarm_clock: AI conference deadline countdowns
 - [GoogleChrome/samples](https://github.com/GoogleChrome/samples) - A repo containing samples tied to new functionality in each release of Google Chrome.
 - [docker/docker.github.io](https://github.com/docker/docker.github.io) - Source repo for Docker's Documentation
-- [anfederico/gemini](https://github.com/anfederico/gemini) - Backtesting for sleepless cryptocurrency markets
 - [Kasheftin/RoutePlanner](https://github.com/Kasheftin/RoutePlanner) - Simple free and open source tool for planning routes
 - [halhen/viz-pub](https://github.com/halhen/viz-pub) - A place to publish data-vizes
 - [jashkenas/docco](https://github.com/jashkenas/docco) - Literate Programming can be Quick and Dirty.
@@ -2477,7 +2476,6 @@
 - [amueller/ml-training-intro](https://github.com/amueller/ml-training-intro) - Materials for the "Introduction to Machine Learning" class
 - [microsoft/dotnet](https://github.com/microsoft/dotnet) - This repo is the official home of .NET on GitHub. It's a great starting point to find many .NET OSS projects from Microsoft and the community, including many that are part of the .NET Foundation.
 - [google/styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
-- [anfederico/flaskex](https://github.com/anfederico/flaskex) - Simple flask example for quick prototypes and small applications
 - [minikarma/geotalk](https://github.com/minikarma/geotalk) - Онлайн-курс «Визуализация геоданных»
 - [greenelab/deep-review](https://github.com/greenelab/deep-review) - A collaboratively written review paper on deep learning, genomics, and precision medicine
 - [khan4019/angular-interview-questions](https://github.com/khan4019/angular-interview-questions) - Most extensive Angular interview questions based on your level.
@@ -3323,7 +3321,7 @@
 - [vuejs/vue-loader](https://github.com/vuejs/vue-loader) - 📦 Webpack loader for Vue.js components
 - [iqiyi/LiteApp](https://github.com/iqiyi/LiteApp) - LiteApp is a high performance mobile cross-platform implementation, The realization of cross-platform functionality is base on webview and provides different ideas and solutions for improve webview performance.
 - [nhn/tui.calendar](https://github.com/nhn/tui.calendar) - 🍞📅A JavaScript calendar that has everything you need.
-- [iamkun/dayjs](https://github.com/iamkun/dayjs) - ⏰ Day.js 2KB immutable date-time library alternative to Moment.js with the same modern API
+- [iamkun/dayjs](https://github.com/iamkun/dayjs) - ⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API
 - [sindresorhus/slugify](https://github.com/sindresorhus/slugify) - Slugify a string
 - [vzhou842/faster.js](https://github.com/vzhou842/faster.js) - faster.js is a Babel plugin that compiles idiomatic Javascript to faster, micro-optimized Javascript.
 - [glidejs/glide](https://github.com/glidejs/glide) - A dependency-free JavaScript ES6 slider and carousel. It’s lightweight, flexible and fast. Designed to slide. No less, no more
@@ -6885,6 +6883,8 @@
 
 ## Python 
 
+- [compphoto/BoostingMonocularDepth](https://github.com/compphoto/BoostingMonocularDepth) - 
+- [google/uncertainty-baselines](https://github.com/google/uncertainty-baselines) - High-quality implementations of standard and SOTA methods on a variety of tasks.
 - [sberdevices/smartspeech](https://github.com/sberdevices/smartspeech) - 
 - [IBM/Project_CodeNet](https://github.com/IBM/Project_CodeNet) - This repository is to support contributions for tools for the Project CodeNet dataset hosted in DAX
 - [voxel51/fiftyone](https://github.com/voxel51/fiftyone) - The open-source tool for building high-quality datasets and computer vision models
@@ -9266,6 +9266,7 @@
 - [facebookresearch/DrQA](https://github.com/facebookresearch/DrQA) - Reading Wikipedia to Answer Open-Domain Questions
 - [pyecharts/pyecharts](https://github.com/pyecharts/pyecharts) - 🎨 Python Echarts Plotting Library
 - [Telmediq/django-rest-easy](https://github.com/Telmediq/django-rest-easy) - django-rest-easy is an extension to DRF providing QOL improvements to serializers and views.
+- [anfederico/gemini](https://github.com/anfederico/gemini) - Backtesting for sleepless cryptocurrency markets
 - [joeyespo/grip](https://github.com/joeyespo/grip) - Preview GitHub README.md files locally before committing them.
 - [mingrammer/funmath](https://github.com/mingrammer/funmath) - :umbrella: Implementations of mathematical functions, formulas and concepts
 - [amitbeka/conda-merge](https://github.com/amitbeka/conda-merge) - Tool to merge environment files of the conda package manager
@@ -9559,6 +9560,7 @@
 - [shaildeliwala/delbot](https://github.com/shaildeliwala/delbot) - It understands your voice commands, searches news and knowledge sources, and summarizes and reads out content to you.
 - [mingrammer/pyreportcard](https://github.com/mingrammer/pyreportcard) - :traffic_light: A report card for Python application
 - [dask/dask-xgboost](https://github.com/dask/dask-xgboost) - 
+- [anfederico/flaskex](https://github.com/anfederico/flaskex) - Simple flask example for quick prototypes and small applications
 - [glennzw/DevOops](https://github.com/glennzw/DevOops) - Python script to monitor services, dispatch SMS on fail, and attempt restart.
 - [octodns/octodns](https://github.com/octodns/octodns) - Tools for managing DNS across multiple providers
 - [utkusen/leviathan](https://github.com/utkusen/leviathan) - wide range mass audit toolkit
@@ -11171,7 +11173,7 @@
 - [california-civic-data-coalition/django-postgres-copy](https://github.com/california-civic-data-coalition/django-postgres-copy) - Quickly import and export delimited data with Django support for PostgreSQL's COPY command
 - [ibis-project/ibis](https://github.com/ibis-project/ibis) - A pandas-like deferred expression system, with first-class SQL support
 - [ekampf/pymaybe](https://github.com/ekampf/pymaybe) - A Python implementation of the Maybe pattern
-- [facebook/codemod](https://github.com/facebook/codemod) - Codemod is a tool/library to assist you with large-scale codebase refactors that can be partially automated but still require human oversight and occasional intervention. Codemod was developed at Facebook and released as open source.
+- [facebookarchive/codemod](https://github.com/facebookarchive/codemod) - Codemod is a tool/library to assist you with large-scale codebase refactors that can be partially automated but still require human oversight and occasional intervention. Codemod was developed at Facebook and released as open source.
 - [nexB/scancode-toolkit](https://github.com/nexB/scancode-toolkit) - :mag_right: ScanCode detects licenses, copyrights, package manifests & dependencies and more by scanning code ... to discover and inventory open source and third-party packages used in your code.
 - [magic-wormhole/magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) - get things from one computer to another, safely
 - [pindexis/qfc](https://github.com/pindexis/qfc) - Quick Command-line File Completion
