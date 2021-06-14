@@ -5126,7 +5126,7 @@
 - [QuantScientist/Deep-Learning-Boot-Camp](https://github.com/QuantScientist/Deep-Learning-Boot-Camp) - A  community run, 5-day PyTorch Deep Learning Bootcamp
 - [fchollet/deep-learning-with-python-notebooks](https://github.com/fchollet/deep-learning-with-python-notebooks) - Jupyter notebooks for the code samples of the book "Deep Learning with Python"
 - [exacity/simplified-deeplearning](https://github.com/exacity/simplified-deeplearning) - Simplified implementations of deep learning related works
-- [sbebo/joypy](https://github.com/sbebo/joypy) - Joyplots in Python with matplotlib & pandas :chart_with_upwards_trend:
+- [leotac/joypy](https://github.com/leotac/joypy) - Joyplots in Python with matplotlib & pandas :chart_with_upwards_trend:
 - [amitkaps/full-stack-data-science](https://github.com/amitkaps/full-stack-data-science) - Full Stack Data Science in Python
 - [shwars/NeuroWorkshop](https://github.com/shwars/NeuroWorkshop) - Neural Network Workshop Materials
 - [lesley2958/deep-learning-python](https://github.com/lesley2958/deep-learning-python) - Intro to Deep Learning, including recurrent, convolution, and feed forward neural networks.
@@ -5867,7 +5867,7 @@
 - [ForrestKnight/open-source-cs-python](https://github.com/ForrestKnight/open-source-cs-python) - Video discussing this curriculum:
 - [microsoft/pylance-release](https://github.com/microsoft/pylance-release) - Documentation and issues for Pylance
 - [loveunk/Deep-learning-books](https://github.com/loveunk/Deep-learning-books) - Books for machine learning, deep learning, math, NLP, CV, RL, etc
-- [FlameOfIgnis/Pwdb-Public](https://github.com/FlameOfIgnis/Pwdb-Public) - A collection of all the data i could extract from 1 billion leaked credentials from internet.
+- [ignis-sec/Pwdb-Public](https://github.com/ignis-sec/Pwdb-Public) - A collection of all the data i could extract from 1 billion leaked credentials from internet.
 - [openai/gpt-3](https://github.com/openai/gpt-3) - GPT-3: Language Models are Few-Shot Learners
 - [Rolstenhouse/unofficial-apis](https://github.com/Rolstenhouse/unofficial-apis) - A collection of unofficial apis. Designed to inspire your next Friday night hack
 - [jupyter/enhancement-proposals](https://github.com/jupyter/enhancement-proposals) - Enhancement proposals for the Jupyter Ecosystem
@@ -6579,7 +6579,7 @@
 - [mgechev/angular-performance-checklist](https://github.com/mgechev/angular-performance-checklist) - ⚡ Cheatsheet for developing lightning fast progressive Angular applications
 - [materiahq/materia-designer-public](https://github.com/materiahq/materia-designer-public) - A modern development environment to build advanced mobile and web applications.
 - [onqtam/awesome-cmake](https://github.com/onqtam/awesome-cmake) - A curated list of awesome CMake resources, scripts, modules and examples.
-- [gztchan/awesome-design](https://github.com/gztchan/awesome-design) - 🌟Curated design resources
+- [gztchan/awesome-design](https://github.com/gztchan/awesome-design) - 🌟 Curated design resources from all over the world.
 - [HiFaraz/node-playbook](https://github.com/HiFaraz/node-playbook) - Get started fast with Node.js
 - [heynickc/awesome-ddd](https://github.com/heynickc/awesome-ddd) - A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming resources
 - [brillout/awesome-react-components](https://github.com/brillout/awesome-react-components) - Curated List of React Components & Libraries.
@@ -6972,7 +6972,7 @@
 - [google/model_search](https://github.com/google/model_search) - 
 - [yongxinw/GSDT](https://github.com/yongxinw/GSDT) - Official PyTorch implementation of "Joint Object Detection and Multi-Object Tracking with Graph Neural Networks"
 - [vballoli/nfnets-pytorch](https://github.com/vballoli/nfnets-pytorch) - NFNets and Adaptive Gradient Clipping for SGD implemented in PyTorch. Find explanation at tourdeml.github.io/blog/
-- [VITA-Group/TransGAN](https://github.com/VITA-Group/TransGAN) - [Preprint] "TransGAN: Two Transformers Can Make One Strong GAN", Yifan Jiang, Shiyu Chang, Zhangyang Wang
+- [VITA-Group/TransGAN](https://github.com/VITA-Group/TransGAN) - [Preprint] "TransGAN: Two Pure Transformers Can Make One Strong GAN, and That Can Scale Up", Yifan Jiang, Shiyu Chang, Zhangyang Wang
 - [uvipen/SSD-pytorch](https://github.com/uvipen/SSD-pytorch) - SSD: Single Shot MultiBox Detector pytorch implementation focusing on simplicity
 - [yuval-alaluf/SAM](https://github.com/yuval-alaluf/SAM) - Official Implementation for "Only a Matter of Style: Age Transformation Using a Style-Based Regression Model" (SIGGRAPH 2021) https://arxiv.org/abs/2102.02754
 - [iamyuanchung/Autoregressive-Predictive-Coding](https://github.com/iamyuanchung/Autoregressive-Predictive-Coding) - Autoregressive Predictive Coding: An unsupervised autoregressive model for speech representation learning
@@ -11651,7 +11651,7 @@
 - [pymc-devs/pymc3](https://github.com/pymc-devs/pymc3) - Probabilistic Programming in Python: Bayesian Modeling and Probabilistic Machine Learning with Aesara
 - [statsmodels/statsmodels](https://github.com/statsmodels/statsmodels) - Statsmodels: statistical modeling and econometrics in Python
 - [scipy/scipy](https://github.com/scipy/scipy) - Scipy library main repository
-- [mwaskom/seaborn](https://github.com/mwaskom/seaborn) - Statistical data visualization using matplotlib
+- [mwaskom/seaborn](https://github.com/mwaskom/seaborn) - Statistical data visualization in Python
 - [maxcountryman/atomos](https://github.com/maxcountryman/atomos) - Atomic primitives for Python.
 - [rspeer/langcodes](https://github.com/rspeer/langcodes) - A Python library for working with and comparing language codes.
 - [hayd/ctox](https://github.com/hayd/ctox) - tox for conda
