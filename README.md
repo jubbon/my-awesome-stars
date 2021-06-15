@@ -189,7 +189,6 @@
 - [edenhill/librdkafka](https://github.com/edenhill/librdkafka) - The Apache Kafka C/C++ library
 - [gcc-mirror/gcc](https://github.com/gcc-mirror/gcc) - 
 - [jedisct1/dsvpn](https://github.com/jedisct1/dsvpn) - A Dead Simple VPN.
-- [horhof/quickjs](https://github.com/horhof/quickjs) - The official repo is at bellard/quickjs.
 - [taosdata/TDengine](https://github.com/taosdata/TDengine) - An open-source big data platform designed and optimized for the Internet of Things (IoT).
 - [metacall/core](https://github.com/metacall/core) - MetaCall: The ultimate polyglot programming experience.
 - [woltapp/blurhash](https://github.com/woltapp/blurhash) - A very compact representation of a placeholder for an image.
@@ -1440,6 +1439,7 @@
 - [appleboy/ssh-action](https://github.com/appleboy/ssh-action) - GitHub Actions for executing remote ssh commands.
 - [vulhub/vulhub](https://github.com/vulhub/vulhub) - Pre-Built Vulnerable Environments Based on Docker-Compose
 - [odoo/docker](https://github.com/odoo/docker) - 
+- [amaysim-au/docker-serverless](https://github.com/amaysim-au/docker-serverless) - Docker image containing NodeJS, Serverless Framework and Yarn.
 - [mapsme/dockerfiles](https://github.com/mapsme/dockerfiles) - 
 - [mediagis/nominatim-docker](https://github.com/mediagis/nominatim-docker) - 100% working container for Nominatim
 - [crazycapivara/docker-kepler.gl](https://github.com/crazycapivara/docker-kepler.gl) - kepler.gl in a box
@@ -5738,7 +5738,6 @@
 
 ## Makefile 
 
-- [amaysim-au/docker-serverless](https://github.com/amaysim-au/docker-serverless) - Docker image containing NodeJS, Serverless Framework and Yarn.
 - [w3c/webappsec-change-password-url](https://github.com/w3c/webappsec-change-password-url) - A Well-Known URL for Changing Passwords
 - [oracle/graphpipe](https://github.com/oracle/graphpipe) - Machine Learning Model Deployment Made Simple
 - [gifford-lab/jupyter-docker-stacks](https://github.com/gifford-lab/jupyter-docker-stacks) - Opinionated stacks of ready-to-run Jupyter applications in Docker.  Forked to add GPU capabilities.
@@ -10258,7 +10257,7 @@
 - [bcicen/wikitables](https://github.com/bcicen/wikitables) - Import tables from any Wikipedia article as a dataset in Python
 - [biolab/orange3](https://github.com/biolab/orange3) - 🍊 :bar_chart: :bulb: Orange: Interactive data analysis
 - [AmadeusITGroup/GraphDash](https://github.com/AmadeusITGroup/GraphDash) - A web-based dashboard built on graphs and their metadata.
-- [netbox-community/netbox](https://github.com/netbox-community/netbox) - IP address management (IPAM) and data center infrastructure management (DCIM) tool.
+- [netbox-community/netbox](https://github.com/netbox-community/netbox) - Infrastructure resource modeling for network automation. Open source under Apache 2. Public demo: https://demo.netbox.dev
 - [sunary/ank](https://github.com/sunary/ank) - Python data pipeline
 - [D3xterjs/pydexter](https://github.com/D3xterjs/pydexter) - Simple plotting for Python. Python wrapper for D3xter - render charts in the browser with simple Python syntax.
 - [kootenpv/cant](https://github.com/kootenpv/cant) - For those who can't remember how to get a result
