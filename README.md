@@ -6884,6 +6884,7 @@
 
 ## Python 
 
+- [IBM/pytorchpipe](https://github.com/IBM/pytorchpipe) - PyTorchPipe (PTP) is a component-oriented framework for rapid prototyping and training of computational pipelines combining vision and language
 - [compphoto/BoostingMonocularDepth](https://github.com/compphoto/BoostingMonocularDepth) - 
 - [google/uncertainty-baselines](https://github.com/google/uncertainty-baselines) - High-quality implementations of standard and SOTA methods on a variety of tasks.
 - [sberdevices/smartspeech](https://github.com/sberdevices/smartspeech) - 
@@ -10683,7 +10684,7 @@
 - [girishramnani/hacking-tools](https://github.com/girishramnani/hacking-tools) - tools which can be used by forensics experts and ethical hackers
 - [nvdv/vprof](https://github.com/nvdv/vprof) - Visual profiler for Python
 - [nikitasrivatsan/DeepLearningVideoGames](https://github.com/nikitasrivatsan/DeepLearningVideoGames) - 
-- [capensis/canopsis](https://github.com/capensis/canopsis) - Canopsis is an open-source hypervisor whose goal is to aggregate informations and events coming from multiple sources to create a global solution for monitoring and resources administration -- https://git.canopsis.net/ --
+- [capensis/canopsis](https://github.com/capensis/canopsis) - Canopsis is an open-source hypervisor whose goal is to aggregate informations and events coming from multiple sources to create a global solution for monitoring and resources administration -- MIRROR of https://git.canopsis.net/canopsis/canopsis-community --
 - [python-diamond/Diamond](https://github.com/python-diamond/Diamond) - Diamond is a python daemon that collects system metrics and publishes them to Graphite (and others). It is capable of collecting cpu, memory, network, i/o, load and disk metrics. Additionally, it features an API for implementing custom collectors for gathering metrics from almost any source.
 - [uralbash/Python-lectures](https://github.com/uralbash/Python-lectures) - Лекции по яп Python - УГТУ-УПИ, кафедра ИИТ.
 - [dellis23/ispy](https://github.com/dellis23/ispy) - Monitor the output of terminals and processes.
@@ -12992,7 +12993,6 @@
 - [diem/diem](https://github.com/diem/diem) - Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world.
 - [calebwin/emu](https://github.com/calebwin/emu) - The write-once-run-anywhere GPGPU library for Rust
 - [wasmerio/wasmer-python](https://github.com/wasmerio/wasmer-python) - 🐍🕸 WebAssembly runtime for Python
-- [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊 Cube.js — Open-Source Analytical API Platform
 - [fluencelabs/fluence](https://github.com/fluencelabs/fluence) - Peer-to-peer computing protocol and licensing system
 - [cantino/mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott!
 - [atlasr-org/atlasr](https://github.com/atlasr-org/atlasr) - Atlasr is a truly open-source and free map browser.
@@ -13213,7 +13213,7 @@
 - [bufferapp/android-guidelines](https://github.com/bufferapp/android-guidelines) - Project Guidelines for the Android Buffer App
 - [RyanAmos/rethinkdb-vagrant](https://github.com/RyanAmos/rethinkdb-vagrant) - Install RethinkDB using Vagrant.
 - [octoai/octo.ai](https://github.com/octoai/octo.ai) - The analytics hypervisor, an operating system to manage all your analytics needs and licensed under Apache 2.0 License.
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 1800+ contributors) framework for managing your zsh configuration. Includes nearly 300 optional plugins (rails, git, OSX, hub, docker, homebrew, node, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 1800+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, OSX, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [OCA/ansible-odoo](https://github.com/OCA/ansible-odoo) - Ansible role for Odoo
 - [MichaelAquilina/zsh-autoswitch-virtualenv](https://github.com/MichaelAquilina/zsh-autoswitch-virtualenv) - 🐍 ZSH plugin to automatically switch python virtualenvs (including pipenv and poetry) as you move between directories
 - [rgcr/m-cli](https://github.com/rgcr/m-cli) -  Swiss Army Knife for macOS
@@ -13412,6 +13412,7 @@
 - [vuejs/vue-dev-server](https://github.com/vuejs/vue-dev-server) - A POC dev server that allows you to import `*.vue` files via native ES modules imports.
 - [nodejs/nodejs.dev](https://github.com/nodejs/nodejs.dev) - A new Node.js resource built using Gatsby.js with React.js, TypeScript, and Remark.
 - [microsoft/frontend-bootcamp](https://github.com/microsoft/frontend-bootcamp) - Frontend Workshop from HTML/CSS/JS to TypeScript/React/Redux
+- [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊 Cube.js — Open-Source Analytical API Platform
 - [LeetCode-OpenSource/vscode-leetcode](https://github.com/LeetCode-OpenSource/vscode-leetcode) - Solve LeetCode problems in VS Code
 - [callstack/linaria](https://github.com/callstack/linaria) - Zero-runtime CSS in JS library
 - [labs42io/clean-code-typescript](https://github.com/labs42io/clean-code-typescript) - Clean Code concepts adapted for TypeScript
