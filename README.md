@@ -496,6 +496,7 @@
 
 ## C++ 
 
+- [sberdevices/smartspeech](https://github.com/sberdevices/smartspeech) - 
 - [qgis/QGIS](https://github.com/qgis/QGIS) - QGIS is a free, open source, cross platform (lin/win/mac) geographical information system (GIS)
 - [an-tao/drogon](https://github.com/an-tao/drogon) - Drogon: A C++14/17 based HTTP web application framework running on Linux/macOS/Unix/Windows
 - [Tencent/Forward](https://github.com/Tencent/Forward) - A library for high performance deep learning inference on NVIDIA GPUs.
@@ -1325,7 +1326,6 @@
 
 - [NVIDIA/nv-wavenet](https://github.com/NVIDIA/nv-wavenet) - Reference implementation of real-time autoregressive wavenet inference
 - [leoxiaobin/deep-high-resolution-net.pytorch](https://github.com/leoxiaobin/deep-high-resolution-net.pytorch) - The project is an official implementation of our CVPR2019 paper "Deep High-Resolution Representation Learning for Human Pose Estimation"
-- [rapidsai/cuml](https://github.com/rapidsai/cuml) - cuML - RAPIDS Machine Learning Library
 - [CannyLab/tsne-cuda](https://github.com/CannyLab/tsne-cuda) - GPU Accelerated t-SNE for CUDA with Python bindings
 - [luanfujun/deep-painterly-harmonization](https://github.com/luanfujun/deep-painterly-harmonization) - Code and data for paper "Deep Painterly Harmonization": https://arxiv.org/abs/1804.03189
 - [LitLeo/OpenCUDA](https://github.com/LitLeo/OpenCUDA) - 
@@ -2615,7 +2615,6 @@
 - [milligram/milligram](https://github.com/milligram/milligram) - A minimalist CSS framework.
 - [viljamis/feature.js](https://github.com/viljamis/feature.js) - Feature.js is a fast, simple and lightweight browser feature detection library in 1kb.
 - [Leo-G/Flask-Scaffold](https://github.com/Leo-G/Flask-Scaffold) - Prototype Database driven Web apps in Angular 6, Bootstrap 4 and REST API's with Flask (Python 3 framework)
-- [usablica/intro.js](https://github.com/usablica/intro.js) - Lightweight, user-friendly onboarding tour library
 - [google/material-design-lite](https://github.com/google/material-design-lite) - Material Design Components in HTML/CSS/JS
 - [Foxandxss/angular-tips](https://github.com/Foxandxss/angular-tips) - My angular-tips blog code
 - [jseppi/Leaflet.MakiMarkers](https://github.com/jseppi/Leaflet.MakiMarkers) - Leaflet plugin to create map icons using Maki Icons from Mapbox.
@@ -3519,7 +3518,6 @@
 - [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 120 bitcoin/altcoin exchanges
 - [developit/workerize](https://github.com/developit/workerize) - 🏗️ Run a module in a Web Worker.
 - [baidu/san](https://github.com/baidu/san) - A fast, portable, flexible JavaScript component framework
-- [nhn/tui.editor](https://github.com/nhn/tui.editor) - 🍞📝 Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.
 - [kwk/docker-registry-frontend](https://github.com/kwk/docker-registry-frontend) - Browse and modify your Docker registry in a browser.
 - [simonepri/geo-maps](https://github.com/simonepri/geo-maps) - 🗺 High Quality GeoJSON maps programmatically generated.
 - [htmlhint/HTMLHint](https://github.com/htmlhint/HTMLHint) - ⚙️ The static code analysis tool you need for your HTML
@@ -4203,6 +4201,7 @@
 - [Semantic-Org/Semantic-UI](https://github.com/Semantic-Org/Semantic-UI) - Semantic is a UI component framework based around useful principles from natural language.
 - [jlmakes/scrollreveal](https://github.com/jlmakes/scrollreveal) - Animate elements as they scroll into view.
 - [mendhak/angular-intro.js](https://github.com/mendhak/angular-intro.js) - AngularJS directives for intro.js
+- [usablica/intro.js](https://github.com/usablica/intro.js) - Lightweight, user-friendly onboarding tour library
 - [grevory/angular-local-storage](https://github.com/grevory/angular-local-storage) - An AngularJS module that gives you access to the browsers local storage with cookie fallback
 - [thejsj/rethinkdb-angular](https://github.com/thejsj/rethinkdb-angular) - A demo using RethinkDB and Angular.js to create a simple chat app
 - [angular-ui/bootstrap](https://github.com/angular-ui/bootstrap) - PLEASE READ THE PROJECT STATUS BELOW.  Native AngularJS (Angular) directives for Bootstrap. Smaller footprint (20kB gzipped), no 3rd party JS dependencies (jQuery, bootstrap JS) required. Please read the README.md file before submitting an issue!
@@ -6887,7 +6886,6 @@
 - [IBM/pytorchpipe](https://github.com/IBM/pytorchpipe) - PyTorchPipe (PTP) is a component-oriented framework for rapid prototyping and training of computational pipelines combining vision and language
 - [compphoto/BoostingMonocularDepth](https://github.com/compphoto/BoostingMonocularDepth) - 
 - [google/uncertainty-baselines](https://github.com/google/uncertainty-baselines) - High-quality implementations of standard and SOTA methods on a variety of tasks.
-- [sberdevices/smartspeech](https://github.com/sberdevices/smartspeech) - 
 - [IBM/Project_CodeNet](https://github.com/IBM/Project_CodeNet) - This repository is to support contributions for tools for the Project CodeNet dataset hosted in DAX
 - [voxel51/fiftyone](https://github.com/voxel51/fiftyone) - The open-source tool for building high-quality datasets and computer vision models
 - [lukemelas/do-you-even-need-attention](https://github.com/lukemelas/do-you-even-need-attention) - Exploring whether attention is necessary for vision transformers
@@ -6955,7 +6953,7 @@
 - [lcswillems/torch-ac](https://github.com/lcswillems/torch-ac) - Recurrent and multi-process PyTorch implementation of deep reinforcement Actor-Critic algorithms A2C and PPO
 - [GoogleCloudPlatform/python-docs-samples](https://github.com/GoogleCloudPlatform/python-docs-samples) - Code samples used on cloud.google.com
 - [freqtrade/freqtrade-strategies](https://github.com/freqtrade/freqtrade-strategies) - Free trading strategies for Freqtrade bot
-- [jina-ai/jina](https://github.com/jina-ai/jina) - An easier way to build neural search on the cloud
+- [jina-ai/jina](https://github.com/jina-ai/jina) - Cloud-Native Neural Search Framework for Any Kind of Data
 - [danijar/dreamerv2](https://github.com/danijar/dreamerv2) - Mastering Atari with Discrete World Models
 - [hzwer/arXiv2020-RIFE](https://github.com/hzwer/arXiv2020-RIFE) - RIFE: Real-Time Intermediate Flow Estimation for Video Frame Interpolation
 - [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) - Sample cloud-native application with 10 microservices showcasing Kubernetes, Istio, gRPC and OpenCensus.
@@ -7070,7 +7068,7 @@
 - [psinger/kaggle-landmark-recognition-2020-1st-place](https://github.com/psinger/kaggle-landmark-recognition-2020-1st-place) - 
 - [lucidrains/vit-pytorch](https://github.com/lucidrains/vit-pytorch) - Implementation of Vision Transformer, a simple way to achieve SOTA in vision classification with only a single transformer encoder, in Pytorch
 - [genforce/genforce](https://github.com/genforce/genforce) - GenForce: an efficient PyTorch library for deep generative modeling (StyleGANv1v2, PGGAN, etc)
-- [abhi1thakur/colabcode](https://github.com/abhi1thakur/colabcode) - Run VSCode (codeserver) on Google Colab or Kaggle Notebooks
+- [abhishekkrthakur/colabcode](https://github.com/abhishekkrthakur/colabcode) - Run VSCode (codeserver) on Google Colab or Kaggle Notebooks
 - [cleardusk/3DDFA_V2](https://github.com/cleardusk/3DDFA_V2) - The official PyTorch implementation of Towards Fast, Accurate and Stable 3D Dense Face Alignment, ECCV 2020.
 - [vchoutas/expose](https://github.com/vchoutas/expose) - ExPose - EXpressive POse and Shape rEgression
 - [nolar/kopf](https://github.com/nolar/kopf) - A Python framework to write Kubernetes operators in just a few lines of code
@@ -8112,6 +8110,7 @@
 - [Kamik423/cutie](https://github.com/Kamik423/cutie) - Command line User Tools for Input Easification
 - [spotify/chartify](https://github.com/spotify/chartify) - Python library that makes it easy for data scientists to create charts.
 - [sentinel-hub/eo-learn](https://github.com/sentinel-hub/eo-learn) - Earth observation processing framework for machine learning in Python
+- [rapidsai/cuml](https://github.com/rapidsai/cuml) - cuML - RAPIDS Machine Learning Library
 - [waleedka/hiddenlayer](https://github.com/waleedka/hiddenlayer) - Neural network graphs and training metrics for PyTorch, Tensorflow, and Keras.
 - [ksw0306/FloWaveNet](https://github.com/ksw0306/FloWaveNet) - A Pytorch implementation of "FloWaveNet: A Generative Flow for Raw Audio"
 - [openai/spinningup](https://github.com/openai/spinningup) - An educational resource to help anyone learn deep reinforcement learning.
@@ -10101,7 +10100,7 @@
 - [fake-name/ReadableWebProxy](https://github.com/fake-name/ReadableWebProxy) - Rewriting web proxy and archival tool. At this point, it just tries to download all the things.
 - [cuttlesoft/flask-bitmapist](https://github.com/cuttlesoft/flask-bitmapist) - Flask extension that creates a simple interface to the Bitmapist analytics library.
 - [juanpabloaj/omdb-cli](https://github.com/juanpabloaj/omdb-cli) - A command line tool for omdb
-- [jarun/imgp](https://github.com/jarun/imgp) - :camera_flash: High-performance cli batch image resizer and rotator
+- [jarun/imgp](https://github.com/jarun/imgp) - :camera_flash: Fast batch image resizer and rotator
 - [jwkvam/bowtie](https://github.com/jwkvam/bowtie) - :bowtie: Create a dashboard with python!
 - [huseyinyilmaz/placebo](https://github.com/huseyinyilmaz/placebo) - Highly reusable API mocks for python applications
 - [mschwager/cohesion](https://github.com/mschwager/cohesion) - A tool for measuring Python class cohesion.
@@ -11118,7 +11117,7 @@
 - [retext-project/retext](https://github.com/retext-project/retext) - ReText: Simple but powerful editor for Markdown and reStructuredText
 - [kahunalu/pwnbin](https://github.com/kahunalu/pwnbin) - Python Pastebin Webcrawler that returns list of public pastebins containing keywords
 - [jmcarp/flask-apispec](https://github.com/jmcarp/flask-apispec) - 
-- [jarun/buku](https://github.com/jarun/buku) - :bookmark: Browser-independent bookmark manager
+- [jarun/buku](https://github.com/jarun/buku) - :bookmark: Personal mini-web in text
 - [gsalvatori/tredify](https://github.com/gsalvatori/tredify) - A Python framework to plot 2D and 3D structures from JSON data.
 - [nkoub/multinetx](https://github.com/nkoub/multinetx) - multiNetX is a python package for the manipulation and visualization of multilayer networks. It is build on NetworkX
 - [ufora/ufora](https://github.com/ufora/ufora) - Compiled, automatically parallel Python for data science
@@ -12993,6 +12992,7 @@
 - [diem/diem](https://github.com/diem/diem) - Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world.
 - [calebwin/emu](https://github.com/calebwin/emu) - The write-once-run-anywhere GPGPU library for Rust
 - [wasmerio/wasmer-python](https://github.com/wasmerio/wasmer-python) - 🐍🕸 WebAssembly runtime for Python
+- [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊 Cube.js — Open-Source Analytical API Platform
 - [fluencelabs/fluence](https://github.com/fluencelabs/fluence) - Peer-to-peer computing protocol and licensing system
 - [cantino/mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott!
 - [atlasr-org/atlasr](https://github.com/atlasr-org/atlasr) - Atlasr is a truly open-source and free map browser.
@@ -13412,7 +13412,6 @@
 - [vuejs/vue-dev-server](https://github.com/vuejs/vue-dev-server) - A POC dev server that allows you to import `*.vue` files via native ES modules imports.
 - [nodejs/nodejs.dev](https://github.com/nodejs/nodejs.dev) - A new Node.js resource built using Gatsby.js with React.js, TypeScript, and Remark.
 - [microsoft/frontend-bootcamp](https://github.com/microsoft/frontend-bootcamp) - Frontend Workshop from HTML/CSS/JS to TypeScript/React/Redux
-- [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊 Cube.js — Open-Source Analytical API Platform
 - [LeetCode-OpenSource/vscode-leetcode](https://github.com/LeetCode-OpenSource/vscode-leetcode) - Solve LeetCode problems in VS Code
 - [callstack/linaria](https://github.com/callstack/linaria) - Zero-runtime CSS in JS library
 - [labs42io/clean-code-typescript](https://github.com/labs42io/clean-code-typescript) - Clean Code concepts adapted for TypeScript
@@ -13522,6 +13521,7 @@
 - [prettier/prettier-vscode](https://github.com/prettier/prettier-vscode) - Visual Studio Code extension for Prettier
 - [snyk/snyk](https://github.com/snyk/snyk) - CLI and build-time tool to find & fix known vulnerabilities in open-source dependencies
 - [PaddlePaddle/VisualDL](https://github.com/PaddlePaddle/VisualDL) - Deep Learning Visualization Toolkit（『飞桨』深度学习可视化工具 ）
+- [nhn/tui.editor](https://github.com/nhn/tui.editor) - 🍞📝 Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.
 - [Sammons/pluggable-autocomplete](https://github.com/Sammons/pluggable-autocomplete) - Allows writing simple extensions to get suggestions for values from external data sources
 - [Raathigesh/majestic](https://github.com/Raathigesh/majestic) - ⚡ Zero config GUI for Jest
 - [vuesion/vuesion](https://github.com/vuesion/vuesion) - The most complete boilerplate for production-ready PWAs. With focus on performance, development speed, and best practices
