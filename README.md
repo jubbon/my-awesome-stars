@@ -3855,7 +3855,6 @@
 - [artf/grapesjs](https://github.com/artf/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding
 - [muicss/loadjs](https://github.com/muicss/loadjs) - A tiny async loader / dependency manager for modern browsers (899 bytes)
 - [kubek2k/lambdoku](https://github.com/kubek2k/lambdoku) - Heroku-like experience when using AWS Lambda
-- [samgozman/YoptaScript](https://github.com/samgozman/YoptaScript) - Скриптовый язык программирования для гопников и реальных пацанов
 - [andywer/webpack-blocks](https://github.com/andywer/webpack-blocks) - 📦 Configure webpack using functional feature blocks.
 - [figs-lab/datalegreya](https://github.com/figs-lab/datalegreya) - Datalegreya, the typeface that melts text and data visualisation
 - [vuelidate/vuelidate](https://github.com/vuelidate/vuelidate) - Simple, lightweight model-based validation for Vue.js
@@ -9887,7 +9886,7 @@
 - [kootenpv/loco](https://github.com/kootenpv/loco) - Share localhost through SSH. Local/Remote port forwarding made safe and easy.
 - [boppreh/keyboard](https://github.com/boppreh/keyboard) - Hook and simulate global keyboard events on Windows and Linux.
 - [saulpw/visidata](https://github.com/saulpw/visidata) - A terminal spreadsheet multitool for discovering and arranging data
-- [py2neo-org/py2neo](https://github.com/py2neo-org/py2neo) - Py2neo is a comprehensive toolkit for working with Neo4j from within Python applications.
+- [py2neo-org/py2neo](https://github.com/py2neo-org/py2neo) - Py2neo is a comprehensive Neo4j driver library and toolkit for Python.
 - [jay0lee/got-your-back](https://github.com/jay0lee/got-your-back) - Got Your Back (GYB) is a command line tool for backing up your Gmail messages to your computer using Gmail's API over HTTPS.
 - [bharadwaj-raju/cligenerator](https://github.com/bharadwaj-raju/cligenerator) - MOVED: https://gitlab.com/bharadwaj-raju/cligenerator
 - [holoviz/colorcet](https://github.com/holoviz/colorcet) - A set of useful perceptually uniform colormaps for plotting scientific data
@@ -13589,6 +13588,7 @@
 - [material-components/material-components-web](https://github.com/material-components/material-components-web) - Modular and customizable Material Design UI components for the web
 - [pubkey/rxdb](https://github.com/pubkey/rxdb) - 🔄 A realtime Database for JavaScript Applications
 - [kis/chartify](https://github.com/kis/chartify) - 📊 📈 📉 React.js plugin for building charts using CSS
+- [samgozman/YoptaScript](https://github.com/samgozman/YoptaScript) - Скриптовый язык программирования для гопников и реальных пацанов
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
 - [cyclejs/cyclejs](https://github.com/cyclejs/cyclejs) - A functional and reactive JavaScript framework for predictable code
 - [googleworkspace/md2googleslides](https://github.com/googleworkspace/md2googleslides) - Generate Google Slides from markdown
