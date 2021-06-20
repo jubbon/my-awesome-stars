@@ -365,7 +365,6 @@
 - [postgrespro/zson](https://github.com/postgrespro/zson) - ZSON is a PostgreSQL extension for transparent JSONB compression
 - [coturn/coturn](https://github.com/coturn/coturn) - coturn TURN server project
 - [shellphish/how2heap](https://github.com/shellphish/how2heap) - A repository for learning various heap exploitation techniques.
-- [cpmech/gosl](https://github.com/cpmech/gosl) - Linear algebra, eigenvalues, FFT, Bessel, elliptic, orthogonal polys, geometry, NURBS, numerical quadrature, 3D transfinite interpolation, random numbers, Mersenne twister, probability distributions, optimisation, differential equations.
 - [stedolan/jq](https://github.com/stedolan/jq) - Command-line JSON processor
 - [ctuning/ctuning-programs](https://github.com/ctuning/ctuning-programs) - Collective Knowledge extension with unified and customizable benchmarks (with extensible JSON meta information) to be easily integrated with customizable and portable Collective Knowledge workflows. You can easily compile and run these benchmarks using different compilers, environments, hardware and OS (Linux, MacOS, Windows, Android). More info:
 - [ctuning/ck-crowdnode](https://github.com/ctuning/ck-crowdnode) - Standalone, thin and portable server to let users participate in experiment crowdsourcing using Windows devices via Collective Knowledge Framework:
@@ -2112,6 +2111,7 @@
 - [ok-borg/borg](https://github.com/ok-borg/borg) - Search and save shell snippets without leaving your terminal
 - [kataras/iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. AWS Lambda, gRPC, MVC, Unique Router, Websockets, Sessions, Test suite, Dependency Injection and more. A true successor of expressjs and laravel | 谢谢 https://github.com/kataras/iris/issues/1329 |
 - [fogleman/primitive](https://github.com/fogleman/primitive) - Reproducing images with geometric primitives.
+- [cpmech/gosl](https://github.com/cpmech/gosl) - Linear algebra, eigenvalues, FFT, Bessel, elliptic, orthogonal polys, geometry, NURBS, numerical quadrature, 3D transfinite interpolation, random numbers, Mersenne twister, probability distributions, optimisation, differential equations.
 - [PalmStoneGames/kube-cert-manager](https://github.com/PalmStoneGames/kube-cert-manager) - Manage Lets Encrypt certificates for a Kubernetes cluster.
 - [docker-archive/deploykit](https://github.com/docker-archive/deploykit) - A toolkit for creating and managing declarative, self-healing infrastructure.
 - [cloud66-oss/habitus](https://github.com/cloud66-oss/habitus) - A build flow tool for Docker.
@@ -2507,7 +2507,7 @@
 - [ianw/bottomupcs](https://github.com/ianw/bottomupcs) - Bottom Up Computer Science
 - [fossasia/gci16.fossasia.org](https://github.com/fossasia/gci16.fossasia.org) - FOSSASIA Google Code-In Website 2016/17 http://gci16.fossasia.org
 - [utom/sketch-measure](https://github.com/utom/sketch-measure) - Make it a fun to create spec for developers and teammates
-- [YerevaNN/A-Guide-to-Deep-Learning](https://github.com/YerevaNN/A-Guide-to-Deep-Learning) - A detailed guide to deep learning: http://yerevann.com/a-guide-to-deep-learning/
+- [YerevaNN/A-Guide-to-Deep-Learning](https://github.com/YerevaNN/A-Guide-to-Deep-Learning) - 📚 A detailed guide to deep learning: http://yerevann.com/a-guide-to-deep-learning/
 - [dhparkhub/resume-for-web-developer](https://github.com/dhparkhub/resume-for-web-developer) - HTML5 Résumé Template for Web Developer
 - [heremaps/examples](https://github.com/heremaps/examples) - Self-contained examples for the legacy Maps API for JavaScript.
 - [creativetimofficial/light-bootstrap-dashboard-angular2](https://github.com/creativetimofficial/light-bootstrap-dashboard-angular2) - Light Bootstrap Dashboard Angular 2
@@ -6881,6 +6881,9 @@
 
 ## Python 
 
+- [deep-nlp-spring-2020/bert-distillation](https://github.com/deep-nlp-spring-2020/bert-distillation) - Proposal is to try to distill DeepPavlov RuBERT. Main paper is from huggingface https://arxiv.org/pdf/1910.01108.pdf
+- [andreasveit/densenet-pytorch](https://github.com/andreasveit/densenet-pytorch) - A PyTorch Implementation for Densely Connected Convolutional Networks (DenseNets)
+- [deepinsight/densenet-pytorch](https://github.com/deepinsight/densenet-pytorch) - A PyTorch Implementation for Densely Connected Convolutional Networks (DenseNets)
 - [IBM/pytorchpipe](https://github.com/IBM/pytorchpipe) - PyTorchPipe (PTP) is a component-oriented framework for rapid prototyping and training of computational pipelines combining vision and language
 - [compphoto/BoostingMonocularDepth](https://github.com/compphoto/BoostingMonocularDepth) - 
 - [google/uncertainty-baselines](https://github.com/google/uncertainty-baselines) - High-quality implementations of standard and SOTA methods on a variety of tasks.
@@ -10624,7 +10627,7 @@
 - [eXascaleInfolab/PyExPool](https://github.com/eXascaleInfolab/PyExPool) - Python Multi-Process Execution Pool: concurrent asynchronous execution pool with custom resource constraints (memory, timeouts, affinity, CPU cores and caching), load balancing and profiling capabilities of the external apps on NUMA architecture
 - [mshang/python-elevator-challenge](https://github.com/mshang/python-elevator-challenge) - So You Think You Can Program An Elevator
 - [DenisCarriere/geocoder](https://github.com/DenisCarriere/geocoder) - :earth_asia: Python Geocoder
-- [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and webapp - powerful open source team chat
+- [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web app—powerful open source team chat
 - [f-prime/HTTPLang](https://github.com/f-prime/HTTPLang) - A scripting langauge to do HTTP routines.
 - [hustlzp/Flask-Boost](https://github.com/hustlzp/Flask-Boost) - Flask application generator for boosting your development.
 - [jab/bidict](https://github.com/jab/bidict) - The bidirectional mapping library for Python.
