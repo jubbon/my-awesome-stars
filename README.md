@@ -1028,7 +1028,6 @@
 - [oleg-koval/counter-interview.dev](https://github.com/oleg-koval/counter-interview.dev) - a collaborative collection of interview questions collected from both sides of the game: Interviewer(s) and Interviewee.
 - [ines/course-starter-python](https://github.com/ines/course-starter-python) - 👩‍🏫🐍 Starter repo for building interactive Python courses
 - [Remix-Design/RemixIcon](https://github.com/Remix-Design/RemixIcon) - Open source neutral style icon system
-- [emilkowalski/css-effects-snippets](https://github.com/emilkowalski/css-effects-snippets) - ☁️ A collection of CSS effects made with Vue.js.
 - [hiromis/notes](https://github.com/hiromis/notes) - 
 - [iann0036/AWSConsoleRecorder](https://github.com/iann0036/AWSConsoleRecorder) - Records actions made in the AWS Management Console and outputs the equivalent CLI/SDK commands and CloudFormation/Terraform templates.
 - [realLiangshiwei/LogDashboard](https://github.com/realLiangshiwei/LogDashboard) - Log Dashboard
@@ -3016,6 +3015,7 @@
 - [electinth/election-live](https://github.com/electinth/election-live) - Live Scoreboard for Thai General Election 2562 (2019)
 - [alexfoxy/lax.js](https://github.com/alexfoxy/lax.js) - Simple & lightweight (&lt;4kb gzipped) vanilla JavaScript library to create smooth & beautiful animations when you scroll.
 - [Webang/yus](https://github.com/Webang/yus) - vue components based on VueJS
+- [emilkowalski/ui-snippets](https://github.com/emilkowalski/ui-snippets) - A collection of CSS effects made with Next.js.
 - [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses) - A list of /uses pages detailing developer setups, gear, software and configs.
 - [AlexandreBonaventure/vue-mq](https://github.com/AlexandreBonaventure/vue-mq) - 📱 💻   Define your breakpoints and build responsive design semantically and declaratively in a mobile-first way with Vue.
 - [ehmicky/cross-platform-node-guide](https://github.com/ehmicky/cross-platform-node-guide) - 📗 How to write cross-platform Node.js code
@@ -4417,6 +4417,7 @@
 - [ngeorgis/ca-fire-detector](https://github.com/ngeorgis/ca-fire-detector) - Wildfire Detection enabled camera using the NVIDIA Jetson TX2
 - [tomek-l/fire-detect-nn](https://github.com/tomek-l/fire-detect-nn) - Wildfire Detection with Deep Neural Networks
 - [santiagxf/prometheus](https://github.com/santiagxf/prometheus) - Prometheus is a machine learning powered solution for early detection of fires in national parks
+- [karpathy/cryptos](https://github.com/karpathy/cryptos) - Pure Python from-scratch zero-dependency implementation of Bitcoin for educational purposes
 - [zihangJiang/TokenLabeling](https://github.com/zihangJiang/TokenLabeling) - Pytorch implementation of "All Tokens Matter: Token Labeling for Training Better Vision Transformers"
 - [yobibyte/prettyplots](https://github.com/yobibyte/prettyplots) - Design your own matplotlib stylefile interactively
 - [vijishmadhavan/SkinDeep](https://github.com/vijishmadhavan/SkinDeep) - Get Deinked!!
@@ -6907,7 +6908,6 @@
 - [sentinelsat/sentinelsat](https://github.com/sentinelsat/sentinelsat) - Search and download Copernicus Sentinel satellite images
 - [sentinel-hub/sentinelhub-py](https://github.com/sentinel-hub/sentinelhub-py) - Download and process satellite imagery in Python using Sentinel Hub services.
 - [ternaus/kaggle_dstl_submission](https://github.com/ternaus/kaggle_dstl_submission) - Code for a winning model (3 out of 419) in a Dstl Satellite Imagery Feature Detection challenge
-- [karpathy/cryptos](https://github.com/karpathy/cryptos) - Pure Python from-scratch zero-dependency implementation of Bitcoin for educational purposes
 - [GaParmar/clean-fid](https://github.com/GaParmar/clean-fid) - PyTorch - FID calculation with proper image resizing and quantization steps
 - [wilson1yan/VideoGPT](https://github.com/wilson1yan/VideoGPT) - 
 - [microsoft/ProphetNet](https://github.com/microsoft/ProphetNet) - ProphetNet: Predicting Future N-gram for Sequence-to-Sequence Pre-training https://arxiv.org/pdf/2001.04063.pdf
@@ -13386,7 +13386,7 @@
 - [aws-amplify/docs](https://github.com/aws-amplify/docs) - Amplify Framework Documentation
 - [marmelab/react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design
 - [directus/directus](https://github.com/directus/directus) - Open-Source Data Platform 🐰  — Directus wraps any SQL database with a real-time GraphQL+REST API and an intuitive app for non-technical users.
-- [heremaps/harp.gl](https://github.com/heremaps/harp.gl) - harp.gl - web map rendering engine
+- [heremaps/harp.gl](https://github.com/heremaps/harp.gl) - 3D web map rendering engine written in TypeScript using three.js
 - [openmobilityfoundation/mds-core](https://github.com/openmobilityfoundation/mds-core) - An implementation of an MDS Agency Server written in Typescript
 - [vuejs/composition-api](https://github.com/vuejs/composition-api) - Composition API plugin for Vue 2
 - [umijs/umi](https://github.com/umijs/umi) - 🌋 Pluggable enterprise-level react application framework.
