@@ -1539,7 +1539,7 @@
 - [keel-hq/keel](https://github.com/keel-hq/keel) - Kubernetes Operator to automate Helm, DaemonSet, StatefulSet & Deployment updates
 - [cucumber/godog](https://github.com/cucumber/godog) - Cucumber for golang
 - [99designs/aws-vault](https://github.com/99designs/aws-vault) - A vault for securely storing and accessing AWS credentials in development environments
-- [xanzy/go-gitlab](https://github.com/xanzy/go-gitlab) - A GitLab API client enabling Go programs to interact with GitLab in a simple and uniform way
+- [xanzy/go-gitlab](https://github.com/xanzy/go-gitlab) - GitLab Go SDK
 - [micro/micro](https://github.com/micro/micro) - Micro is a distributed OS built for the Cloud
 - [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub API
 - [slackhq/nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
@@ -2375,6 +2375,7 @@
 - [WICG/kv-storage](https://github.com/WICG/kv-storage) - A proposal for an async key/value storage API for the web
 - [umpirsky/country-list](https://github.com/umpirsky/country-list) - :globe_with_meridians: List of all countries with names and ISO 3166-1 codes in all languages and data formats.
 - [kubernetes/website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:
+- [haveyoudebuggedit/debugged.it](https://github.com/haveyoudebuggedit/debugged.it) - 
 - [rstudio/rstudio-conf](https://github.com/rstudio/rstudio-conf) - Materials for rstudio::conf
 - [dxa4481/cssInjection](https://github.com/dxa4481/cssInjection) - Stealing CSRF tokens with CSS injection (without iFrames)
 - [tc39/proposal-partial-application](https://github.com/tc39/proposal-partial-application) - Proposal to add partial application to ECMAScript
@@ -3492,13 +3493,12 @@
 - [dope/freddy](https://github.com/dope/freddy) - A simple JSON viewer
 - [MatteoGabriele/vue-analytics](https://github.com/MatteoGabriele/vue-analytics) - Google Analytics plugin for Vue
 - [nativescript-vue/nativescript-vue](https://github.com/nativescript-vue/nativescript-vue) - Native mobile applications using Vue and NativeScript.
-- [scaccogatto/vue-waypoint](https://github.com/scaccogatto/vue-waypoint) - trigger functions and events based on the element position on the screen
 - [calirojas506/vue-inspector](https://github.com/calirojas506/vue-inspector) - Vue.js Inspector for Mobile Devices
 - [gajus/swing](https://github.com/gajus/swing) - A swipeable cards interface. The swipe-left/swipe-right for yes/no input. As seen in apps like Jelly and Tinder.
 - [LinusBorg/portal-vue](https://github.com/LinusBorg/portal-vue) - A feature-rich Portal Plugin for Vue 2, for rendering DOM outside of a component, anywhere in your app or the entire document.
 - [egoist/vue-final-form](https://github.com/egoist/vue-final-form) - 🏁 High performance subscription-based form state management for Vue.js.
 - [brunosimon/keppler](https://github.com/brunosimon/keppler) - Real time code sharing for your lectures and presentations.
-- [ankurk91/vue-cleave-component](https://github.com/ankurk91/vue-cleave-component) - Vue.js component for Cleave.js :keyboard:
+- [ankurk91/vue-cleave-component](https://github.com/ankurk91/vue-cleave-component) - Vue.js component for Cleave.js input mask library :keyboard:
 - [vfeskov/vanilla-back-to-top](https://github.com/vfeskov/vanilla-back-to-top) - Simple and smooth Back To Top button
 - [saintplay/vue-swatches](https://github.com/saintplay/vue-swatches) - :art: Help the user picking beautiful colors!
 - [simplesmiler/vue-focus](https://github.com/simplesmiler/vue-focus) - A reusable focus directive for reusable Vue.js components
@@ -9884,7 +9884,7 @@
 - [proofit404/dependencies](https://github.com/proofit404/dependencies) - Constructor injection designed with OOP in mind.
 - [radio-t/rt-bot](https://github.com/radio-t/rt-bot) - Мета-репо для движения "создай своего бота"
 - [buriburisuri/ByteNet](https://github.com/buriburisuri/ByteNet) - A tensorflow implementation of French-to-English machine translation using DeepMind's ByteNet .
-- [ParhamP/altify](https://github.com/ParhamP/altify) - Uses deep learning to caption images in an HTML file and fills out its alternative text attributes with the related caption
+- [ParhamP/altify](https://github.com/ParhamP/altify) - Uses Microsoft Computer Vision API to caption images in an HTML file and fills out its alternative text attributes with the related caption
 - [nchammas/flintrock](https://github.com/nchammas/flintrock) - A command-line tool for launching Apache Spark clusters.
 - [kootenpv/loco](https://github.com/kootenpv/loco) - Share localhost through SSH. Local/Remote port forwarding made safe and easy.
 - [boppreh/keyboard](https://github.com/boppreh/keyboard) - Hook and simulate global keyboard events on Windows and Linux.
@@ -13028,7 +13028,6 @@
 - [nzbin/three-dots](https://github.com/nzbin/three-dots) - 🔮 CSS loading animations made by single element.
 - [Spiderpig86/Cirrus](https://github.com/Spiderpig86/Cirrus) - :cloud: The SCSS framework for the modern web.
 - [kylelogue/mustard-ui](https://github.com/kylelogue/mustard-ui) - A starter CSS framework that actually looks good.
-- [haveyoudebuggedit/debugged.it](https://github.com/haveyoudebuggedit/debugged.it) - 
 - [Hacker0x01/hacker101](https://github.com/Hacker0x01/hacker101) - Source code for Hacker101.com - a free online web and mobile security class.
 - [benbrignell/principles.design](https://github.com/benbrignell/principles.design) - An open source collection of design principles and methods.
 - [creativetimofficial/vue-light-bootstrap-dashboard](https://github.com/creativetimofficial/vue-light-bootstrap-dashboard) - Vue Light Bootstrap Dashboard - FREE BOOTSTRAP 4 VUEJS ADMIN TEMPLATE
@@ -13520,6 +13519,7 @@
 - [ducksoupdev/vue-webpack-typescript](https://github.com/ducksoupdev/vue-webpack-typescript) - A Vue, Webpack, Typescript, Bootstrap setup with hot reload, dynamic imports, unit testing, code coverage, sass, uncss and bundling/minification.
 - [vue-styleguidist/vue-styleguidist](https://github.com/vue-styleguidist/vue-styleguidist) - Created from react styleguidist for Vue Components with a living style guide
 - [doodyparizada/word2vec-spam-filter](https://github.com/doodyparizada/word2vec-spam-filter) - Using word vectors to classify spam messages
+- [scaccogatto/vue-waypoint](https://github.com/scaccogatto/vue-waypoint) - trigger functions and events based on the element position on the screen
 - [prettier/prettier-vscode](https://github.com/prettier/prettier-vscode) - Visual Studio Code extension for Prettier
 - [snyk/snyk](https://github.com/snyk/snyk) - CLI and build-time tool to find & fix known vulnerabilities in open-source dependencies
 - [PaddlePaddle/VisualDL](https://github.com/PaddlePaddle/VisualDL) - Deep Learning Visualization Toolkit（『飞桨』深度学习可视化工具 ）
