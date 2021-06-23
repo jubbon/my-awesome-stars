@@ -1565,7 +1565,7 @@
 - [grpc-ecosystem/grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway) - gRPC to JSON proxy generator following the gRPC HTTP spec
 - [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo) - Go compiler for small places. Microcontrollers, WebAssembly, and command-line tools. Based on LLVM.
 - [grpc/grpc-go](https://github.com/grpc/grpc-go) - The Go language implementation of gRPC. HTTP/2 based RPC
-- [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods
+- [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
 - [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - A reverse proxy that provides authentication with Google, Github or other providers.
 - [jetstack/cert-manager](https://github.com/jetstack/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes
 - [dapr/dapr](https://github.com/dapr/dapr) - Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
@@ -2841,6 +2841,8 @@
 
 ## JavaScript 
 
+- [strongloop/strong-soap](https://github.com/strongloop/strong-soap) - SOAP driver for Node.js (A complete rewrite of node-soap)
+- [vpulim/node-soap](https://github.com/vpulim/node-soap) - A SOAP client and server for node.js.
 - [olivierloverde/minutes-of-javascript](https://github.com/olivierloverde/minutes-of-javascript) - ⭐ Collection of Javascript snippets to make you discover new exciting features, useful tips or anything that will give you a better understanding of the subtleties of JS.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite is a secure end-to-end backend server for Web, Mobile, and Flutter developers that is packaged as a set of Docker containers for easy deployment 🚀
 - [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
@@ -5821,7 +5823,7 @@
 - [trexminer/T-Rex](https://github.com/trexminer/T-Rex) - T-Rex NVIDIA GPU miner with web control monitoring page
 - [eugeneyan/applied-ml](https://github.com/eugeneyan/applied-ml) - 📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.
 - [ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide](https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide) - Detailed and tailored guide for undergraduate students or anybody want to dig deep into the field of AI with solid foundation.
-- [tBaxter/questions-for-employers](https://github.com/tBaxter/questions-for-employers) - 
+- [tBaxter/questions-for-employers](https://github.com/tBaxter/questions-for-employers) - A big collection of useful questions to ask potential employers.
 - [therealsreehari/Learn-Data-Science-For-Free](https://github.com/therealsreehari/Learn-Data-Science-For-Free) - This repositary is a combination of different resources lying scattered all over the internet. The reason for making such an repositary is to combine all the valuable resources in a sequential manner, so that it helps every beginners who are in a search of free and structured learning resource for Data Science. For Constant Updates Follow me in Twitter.
 - [52CV/CVPR-2021-Papers](https://github.com/52CV/CVPR-2021-Papers) - 
 - [gabrieldejesus/git-commands](https://github.com/gabrieldejesus/git-commands) - 👨🏾‍💻 The main git commands that every developer should know.
@@ -6892,7 +6894,7 @@
 - [voxel51/fiftyone](https://github.com/voxel51/fiftyone) - The open-source tool for building high-quality datasets and computer vision models
 - [lukemelas/do-you-even-need-attention](https://github.com/lukemelas/do-you-even-need-attention) - Exploring whether attention is necessary for vision transformers
 - [facebookresearch/dino](https://github.com/facebookresearch/dino) - PyTorch code for Vision Transformers training with the Self-Supervised learning method DINO
-- [giswqs/leafmap](https://github.com/giswqs/leafmap) - A Python package for geospatial analysis and interactive mapping with minimal coding in a Jupyter environment
+- [giswqs/leafmap](https://github.com/giswqs/leafmap) - A Python package for interactive mapping and geospatial analysis  with minimal coding in a Jupyter environment
 - [linkedin/greykite](https://github.com/linkedin/greykite) - A flexible, intuitive and fast forecasting library
 - [geopython/OWSLib](https://github.com/geopython/OWSLib) - OWSLib is a Python package for client programming with Open Geospatial Consortium (OGC) web service (hence OWS) interface standards, and their related content models.
 - [sentinel-hub/sentinel2-cloud-detector](https://github.com/sentinel-hub/sentinel2-cloud-detector) - Sentinel Hub Cloud Detector for Sentinel-2 images in Python
@@ -6910,7 +6912,7 @@
 - [ternaus/kaggle_dstl_submission](https://github.com/ternaus/kaggle_dstl_submission) - Code for a winning model (3 out of 419) in a Dstl Satellite Imagery Feature Detection challenge
 - [GaParmar/clean-fid](https://github.com/GaParmar/clean-fid) - PyTorch - FID calculation with proper image resizing and quantization steps
 - [wilson1yan/VideoGPT](https://github.com/wilson1yan/VideoGPT) - 
-- [microsoft/ProphetNet](https://github.com/microsoft/ProphetNet) - ProphetNet: Predicting Future N-gram for Sequence-to-Sequence Pre-training https://arxiv.org/pdf/2001.04063.pdf
+- [microsoft/ProphetNet](https://github.com/microsoft/ProphetNet) - Code for EMNLP20 paper: "ProphetNet: Predicting Future N-gram for Sequence-to-Sequence Pre-training"
 - [princeton-nlp/SimCSE](https://github.com/princeton-nlp/SimCSE) - SimCSE: Simple Contrastive Learning of Sentence Embeddings
 - [jorgehpo/notebookJS](https://github.com/jorgehpo/notebookJS) - notebookJS: seamless JavaScript integration in Python Notebooks
 - [open-mmlab/mmgeneration](https://github.com/open-mmlab/mmgeneration) - MMGeneration is a powerful toolkit for generative models, based on PyTorch and MMCV.
