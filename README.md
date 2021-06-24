@@ -291,7 +291,6 @@
 - [kroitor/gjk.c](https://github.com/kroitor/gjk.c) - Gilbert-Johnson-Keerthi (GJK) collision detection algorithm in 200 lines of clean plain C
 - [openresty/openresty](https://github.com/openresty/openresty) - High Performance Web Platform Based on Nginx and LuaJIT
 - [bol-van/zapret](https://github.com/bol-van/zapret) - Обход DPI в linux
-- [Tencent/ncnn](https://github.com/Tencent/ncnn) - ncnn is a high-performance neural network inference framework optimized for the mobile platform
 - [astrofrog/fast-histogram](https://github.com/astrofrog/fast-histogram) - :zap: Fast 1D and 2D histogram functions in Python :zap:
 - [Cisco-Talos/pyrebox](https://github.com/Cisco-Talos/pyrebox) - Python scriptable Reverse Engineering Sandbox, a Virtual Machine instrumentation and inspection framework based on QEMU
 - [pramsey/pgsql-ogr-fdw](https://github.com/pramsey/pgsql-ogr-fdw) - PostgreSQL foreign data wrapper for OGR
@@ -778,6 +777,7 @@
 - [Hopson97/MineCraft-One-Week-Challenge](https://github.com/Hopson97/MineCraft-One-Week-Challenge) - I challenged myself to see if I could create a voxel game (Minecraft-like) in just one week using C++ and OpenGL, and here is the result
 - [jarulraj/sqlcheck](https://github.com/jarulraj/sqlcheck) - Automatically identify anti-patterns in SQL queries
 - [Blizzard/s2client-api](https://github.com/Blizzard/s2client-api) - StarCraft II Client - C++ library supported on Windows, Linux and Mac designed for building scripted bots and research using the SC2API.
+- [Tencent/ncnn](https://github.com/Tencent/ncnn) - ncnn is a high-performance neural network inference framework optimized for the mobile platform
 - [argman/EAST](https://github.com/argman/EAST) - A tensorflow implementation of EAST text detector
 - [moderngl/moderngl](https://github.com/moderngl/moderngl) - Modern OpenGL binding for python
 - [materialx/MaterialX](https://github.com/materialx/MaterialX) - MaterialX is an open standard for transfer of rich material and look-development content between applications and renderers.
@@ -1509,6 +1509,7 @@
 
 ## Go 
 
+- [george-e-shaw-iv/integration-tests-example](https://github.com/george-e-shaw-iv/integration-tests-example) - An example project showcasing how Ardan Labs writes integration tests
 - [mattermost/mattermost-server](https://github.com/mattermost/mattermost-server) - Open source Slack-alternative in Golang and React - Mattermost
 - [ory/kratos](https://github.com/ory/kratos) - Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, profile management, identity schemas, social sign in, registration, account recovery, service-to-service and IoT auth. Can work as an OAuth2 / OpenID Connect Provider. Golang, headless, API-only - without templating or theming headaches.
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – It's Git for Data
@@ -2512,7 +2513,6 @@
 - [heremaps/examples](https://github.com/heremaps/examples) - Self-contained examples for the legacy Maps API for JavaScript.
 - [creativetimofficial/light-bootstrap-dashboard-angular2](https://github.com/creativetimofficial/light-bootstrap-dashboard-angular2) - Light Bootstrap Dashboard Angular 2
 - [wesbos/JavaScript30](https://github.com/wesbos/JavaScript30) - 30 Day Vanilla JS Challenge
-- [OCA/server-tools](https://github.com/OCA/server-tools) - Tools for Odoo Administrators to improve some technical features on Odoo.
 - [strongloop/loopback.io](https://github.com/strongloop/loopback.io) - LoopBack project site - now with documentation!
 - [phonkee/gopypi](https://github.com/phonkee/gopypi) - Private python package index written in golang
 - [ElemeFE/restc](https://github.com/ElemeFE/restc) - A server-side middleware to visualize REST requests.
@@ -3018,7 +3018,7 @@
 - [electinth/election-live](https://github.com/electinth/election-live) - Live Scoreboard for Thai General Election 2562 (2019)
 - [alexfoxy/lax.js](https://github.com/alexfoxy/lax.js) - Simple & lightweight (&lt;4kb gzipped) vanilla JavaScript library to create smooth & beautiful animations when you scroll.
 - [Webang/yus](https://github.com/Webang/yus) - vue components based on VueJS
-- [emilkowalski/ui-snippets](https://github.com/emilkowalski/ui-snippets) - A collection of CSS effects made with Next.js.
+- [emilkowalski/ui-snippets](https://github.com/emilkowalski/ui-snippets) - A collection of UI Snippets.
 - [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses) - A list of /uses pages detailing developer setups, gear, software and configs.
 - [AlexandreBonaventure/vue-mq](https://github.com/AlexandreBonaventure/vue-mq) - 📱 💻   Define your breakpoints and build responsive design semantically and declaratively in a mobile-first way with Vue.
 - [ehmicky/cross-platform-node-guide](https://github.com/ehmicky/cross-platform-node-guide) - 📗 How to write cross-platform Node.js code
@@ -4439,7 +4439,7 @@
 - [MAIF/shapash](https://github.com/MAIF/shapash) - 🔅 Shapash makes Machine Learning models transparent and understandable by everyone
 - [facebookresearch/vissl](https://github.com/facebookresearch/vissl) - VISSL is FAIR's library of extensible, modular and scalable components for SOTA Self-Supervised Learning with images.
 - [robertmartin8/PyPortfolioOpt](https://github.com/robertmartin8/PyPortfolioOpt) - Financial portfolio optimisation in python, including classical efficient frontier, Black-Litterman, Hierarchical Risk Parity
-- [CompVis/taming-transformers](https://github.com/CompVis/taming-transformers) - 
+- [CompVis/taming-transformers](https://github.com/CompVis/taming-transformers) - Taming Transformers for High-Resolution Image Synthesis
 - [gaih/introduction-to-python](https://github.com/gaih/introduction-to-python) - 
 - [AI4Finance-LLC/FinRL](https://github.com/AI4Finance-LLC/FinRL) - A Deep Reinforcement Learning Library for Automated Trading in Quantitative Finance. NeurIPS 2020. 🔥
 - [orpatashnik/StyleCLIP](https://github.com/orpatashnik/StyleCLIP) - 
@@ -6886,7 +6886,6 @@
 
 - [deep-nlp-spring-2020/bert-distillation](https://github.com/deep-nlp-spring-2020/bert-distillation) - Proposal is to try to distill DeepPavlov RuBERT. Main paper is from huggingface https://arxiv.org/pdf/1910.01108.pdf
 - [andreasveit/densenet-pytorch](https://github.com/andreasveit/densenet-pytorch) - A PyTorch Implementation for Densely Connected Convolutional Networks (DenseNets)
-- [deepinsight/densenet-pytorch](https://github.com/deepinsight/densenet-pytorch) - A PyTorch Implementation for Densely Connected Convolutional Networks (DenseNets)
 - [IBM/pytorchpipe](https://github.com/IBM/pytorchpipe) - PyTorchPipe (PTP) is a component-oriented framework for rapid prototyping and training of computational pipelines combining vision and language
 - [compphoto/BoostingMonocularDepth](https://github.com/compphoto/BoostingMonocularDepth) - 
 - [google/uncertainty-baselines](https://github.com/google/uncertainty-baselines) - High-quality implementations of standard and SOTA methods on a variety of tasks.
@@ -9463,7 +9462,6 @@
 - [timmahrt/praatIO](https://github.com/timmahrt/praatIO) - A python library for working with praat, textgrids, time aligned audio transcripts, and audio files. It is primarily used for extracting features from and making manipulations on audio files given hierarchical time-aligned transcriptions (utterance &gt; word &gt; syllable &gt; phone, etc).
 - [dbcli/mycli](https://github.com/dbcli/mycli) - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
 - [petersn/six-char-max](https://github.com/petersn/six-char-max) - 80 characters per line is waaaay too many. All Python programs should have at most six characters per line.
-- [mil-tokyo/webdnn](https://github.com/mil-tokyo/webdnn) - The Fastest DNN Running Framework on Web Browser
 - [kingfengji/gcForest](https://github.com/kingfengji/gcForest) - This is the official implementation for the paper 'Deep forest: Towards an alternative to deep neural networks'
 - [cupy/cupy](https://github.com/cupy/cupy) - NumPy & SciPy for GPU
 - [gaojiuli/gain](https://github.com/gaojiuli/gain) - Web crawling framework  based on asyncio.
@@ -9863,6 +9861,7 @@
 - [deepmind/learning-to-learn](https://github.com/deepmind/learning-to-learn) - Learning to Learn in TensorFlow
 - [FlyElephantNet/TensorFlow-example](https://github.com/FlyElephantNet/TensorFlow-example) - 
 - [ezdoo/odoo_ezdoo](https://github.com/ezdoo/odoo_ezdoo) - Custom Odoo modules used in Ezdoo hosting service for Odoo
+- [OCA/server-tools](https://github.com/OCA/server-tools) - Tools for Odoo Administrators to improve some technical features on Odoo.
 - [moira-alert/python-moira-client](https://github.com/moira-alert/python-moira-client) - Python client for Moira
 - [taranjeet/github-trending-cli](https://github.com/taranjeet/github-trending-cli) - A Python package which lists trending repositories and developers from Github
 - [deepjets/deepjets](https://github.com/deepjets/deepjets) - Main repository for image generation and CNN training https://arxiv.org/abs/1609.00607
@@ -12996,6 +12995,7 @@
 - [diem/diem](https://github.com/diem/diem) - Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world.
 - [calebwin/emu](https://github.com/calebwin/emu) - The write-once-run-anywhere GPGPU library for Rust
 - [wasmerio/wasmer-python](https://github.com/wasmerio/wasmer-python) - 🐍🕸 WebAssembly runtime for Python
+- [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊 Cube.js — Open-Source Analytical API Platform
 - [fluencelabs/fluence](https://github.com/fluencelabs/fluence) - Peer-to-peer computing protocol and licensing system
 - [cantino/mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott!
 - [atlasr-org/atlasr](https://github.com/atlasr-org/atlasr) - Atlasr is a truly open-source and free map browser.
@@ -13414,7 +13414,6 @@
 - [vuejs/vue-dev-server](https://github.com/vuejs/vue-dev-server) - A POC dev server that allows you to import `*.vue` files via native ES modules imports.
 - [nodejs/nodejs.dev](https://github.com/nodejs/nodejs.dev) - A new Node.js resource built using Gatsby.js with React.js, TypeScript, and Remark.
 - [microsoft/frontend-bootcamp](https://github.com/microsoft/frontend-bootcamp) - Frontend Workshop from HTML/CSS/JS to TypeScript/React/Redux
-- [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊 Cube.js — Open-Source Analytical API Platform
 - [LeetCode-OpenSource/vscode-leetcode](https://github.com/LeetCode-OpenSource/vscode-leetcode) - Solve LeetCode problems in VS Code
 - [callstack/linaria](https://github.com/callstack/linaria) - Zero-runtime CSS in JS library
 - [labs42io/clean-code-typescript](https://github.com/labs42io/clean-code-typescript) - Clean Code concepts adapted for TypeScript
@@ -13571,6 +13570,7 @@
 - [vue-typed/vue-typed](https://github.com/vue-typed/vue-typed) - Sets of ECMAScript / Typescript decorators that helps you write Vue component easily.
 - [naver/billboard.js](https://github.com/naver/billboard.js) - :bar_chart: Re-usable, easy interface JavaScript chart library based on D3.js
 - [ForbesLindesay/taxi-rank](https://github.com/ForbesLindesay/taxi-rank) - A JSDom based Selenium Webdriver API
+- [mil-tokyo/webdnn](https://github.com/mil-tokyo/webdnn) - The Fastest DNN Running Framework on Web Browser
 - [vuejs/vue-devtools](https://github.com/vuejs/vue-devtools) - ⚙️ Browser devtools extension for debugging Vue.js applications.
 - [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - NativeScript empowers you to access native api's from JavaScript directly. Angular, Capacitor, Ionic, React, Svelte, Vue and you name it compatible.
 - [sindresorhus/caprine](https://github.com/sindresorhus/caprine) - Elegant Facebook Messenger desktop app
