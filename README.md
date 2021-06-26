@@ -939,7 +939,6 @@
 - [falcosecurity/falco](https://github.com/falcosecurity/falco) - Cloud Native Runtime Security
 - [sqlitebrowser/sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at:
 - [amazon-archives/amazon-dsstne](https://github.com/amazon-archives/amazon-dsstne) - Deep Scalable Sparse Tensor Network Engine (DSSTNE) is an Amazon developed library for building Deep Learning (DL) machine learning (ML) models
-- [DrKLO/Telegram](https://github.com/DrKLO/Telegram) - Telegram for Android source
 - [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
 - [haptork/easyLambda](https://github.com/haptork/easyLambda) - distributed dataflows with functional list operations for data processing with C++14
 - [moderngpu/moderngpu](https://github.com/moderngpu/moderngpu) - Patterns and behaviors for GPU computing
@@ -2376,7 +2375,6 @@
 - [WICG/kv-storage](https://github.com/WICG/kv-storage) - A proposal for an async key/value storage API for the web
 - [umpirsky/country-list](https://github.com/umpirsky/country-list) - :globe_with_meridians: List of all countries with names and ISO 3166-1 codes in all languages and data formats.
 - [kubernetes/website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:
-- [haveyoudebuggedit/debugged.it](https://github.com/haveyoudebuggedit/debugged.it) - 
 - [rstudio/rstudio-conf](https://github.com/rstudio/rstudio-conf) - Materials for rstudio::conf
 - [dxa4481/cssInjection](https://github.com/dxa4481/cssInjection) - Stealing CSRF tokens with CSS injection (without iFrames)
 - [tc39/proposal-partial-application](https://github.com/tc39/proposal-partial-application) - Proposal to add partial application to ECMAScript
@@ -2407,7 +2405,7 @@
 - [reshamas/fastai_deeplearn_part1](https://github.com/reshamas/fastai_deeplearn_part1) - Notes for Fastai Deep Learning Course
 - [lambsteak/collab-ide](https://github.com/lambsteak/collab-ide) - An online real-time collaborative IDE for teams to work together efficiently in a fast-paced project.
 - [clong/DetectionLab](https://github.com/clong/DetectionLab) - Automate the creation of a lab environment complete with security tooling and logging best practices
-- [puikinsh/Adminator-admin-dashboard](https://github.com/puikinsh/Adminator-admin-dashboard) - Adminator is a easy to use and well design admin dashboard template for web apps, websites, services and more
+- [puikinsh/Adminator-admin-dashboard](https://github.com/puikinsh/Adminator-admin-dashboard) - Adminator is easy to use and well design admin dashboard template based on Bootstrap 5 for web apps, websites, services and more
 - [Anna-Assistant/Anna](https://github.com/Anna-Assistant/Anna) - Virtual Assistant on Google Chrome :elephant:
 - [Ranchero-Software/RSParser](https://github.com/Ranchero-Software/RSParser) - Parser for RSS, Atom, JSON Feed, RSS-inJSON, OPML, and HTML.
 - [iaolo/iA-Fonts](https://github.com/iaolo/iA-Fonts) - Free variable writing fonts from iA
@@ -2802,6 +2800,7 @@
 - [gshevtsov/TroikaDumper](https://github.com/gshevtsov/TroikaDumper) - Дампер и парсер памяти карты Тройка
 - [apache/incubator-heron](https://github.com/apache/incubator-heron) - Apache Heron (Incubating) is a realtime, distributed, fault-tolerant stream processing engine from Twitter
 - [orientechnologies/orientdb](https://github.com/orientechnologies/orientdb) - OrientDB is the most versatile DBMS supporting Graph, Document, Reactive, Full-Text, Geospatial and Key-Value models in one Multi-Model product. OrientDB can run distributed (Multi-Master), supports SQL, ACID Transactions, Full-Text indexing and Reactive Queries. OrientDB Community Edition is Open Source using a liberal Apache 2 license.
+- [DrKLO/Telegram](https://github.com/DrKLO/Telegram) - Telegram for Android source
 - [google/gson](https://github.com/google/gson) - A Java serialization/deserialization library to convert Java Objects into JSON and back
 - [apache/flink](https://github.com/apache/flink) - Apache Flink
 - [linkedin/databus](https://github.com/linkedin/databus) - Source-agnostic distributed change data capture system
@@ -6884,6 +6883,7 @@
 
 ## Python 
 
+- [Sentdex/GANTheftAuto](https://github.com/Sentdex/GANTheftAuto) - 
 - [deep-nlp-spring-2020/bert-distillation](https://github.com/deep-nlp-spring-2020/bert-distillation) - Proposal is to try to distill DeepPavlov RuBERT. Main paper is from huggingface https://arxiv.org/pdf/1910.01108.pdf
 - [andreasveit/densenet-pytorch](https://github.com/andreasveit/densenet-pytorch) - A PyTorch Implementation for Densely Connected Convolutional Networks (DenseNets)
 - [IBM/pytorchpipe](https://github.com/IBM/pytorchpipe) - PyTorchPipe (PTP) is a component-oriented framework for rapid prototyping and training of computational pipelines combining vision and language
