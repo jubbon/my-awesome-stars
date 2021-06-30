@@ -1009,6 +1009,7 @@
 
 ## CSS 
 
+- [dataflowr/website](https://github.com/dataflowr/website) - code for the website
 - [clementmihailescu/Pathfinding-Visualizer](https://github.com/clementmihailescu/Pathfinding-Visualizer) - A visualization tool for various pathfinding algorithms.
 - [appsecco/breaking-and-pwning-apps-and-servers-aws-azure-training](https://github.com/appsecco/breaking-and-pwning-apps-and-servers-aws-azure-training) - Course content, lab setup instructions and documentation of our very popular Breaking and Pwning Apps and Servers on AWS and Azure hands on training!
 - [wsvincent/awesome-django](https://github.com/wsvincent/awesome-django) - A curated list of awesome things related to Django
@@ -3779,7 +3780,6 @@
 - [stevebest/passport-vkontakte](https://github.com/stevebest/passport-vkontakte) - VK.com authentication strategy for Passport and Node.js
 - [segmentio/nightmare](https://github.com/segmentio/nightmare) - A high-level browser automation library.
 - [atomiks/tippyjs](https://github.com/atomiks/tippyjs) - Tooltip, popover, dropdown, and menu library
-- [StartBootstrap/startbootstrap-landing-page](https://github.com/StartBootstrap/startbootstrap-landing-page) - A responsive, Bootstrap landing page template created by Start Bootstrap
 - [BlueHatbRit/mdpdf](https://github.com/BlueHatbRit/mdpdf) - Markdown to PDF command line app with support for stylesheets
 - [lhartikk/simple-chess-ai](https://github.com/lhartikk/simple-chess-ai) - A simple chess AI
 - [ncase/loopy](https://github.com/ncase/loopy) - A tool for thinking in systems
@@ -4500,7 +4500,7 @@
 - [codenation-dev/Data-Science-Online](https://github.com/codenation-dev/Data-Science-Online) - 
 - [christophM/interpretable-ml-book](https://github.com/christophM/interpretable-ml-book) - Book about interpretable machine learning
 - [PaddlePaddle/Quantum](https://github.com/PaddlePaddle/Quantum) - 
-- [NeuromatchAcademy/course-content](https://github.com/NeuromatchAcademy/course-content) - Content for NMA Computational Neuroscience course
+- [NeuromatchAcademy/course-content](https://github.com/NeuromatchAcademy/course-content) - NMA Computational Neuroscience course
 - [trekhleb/machine-learning-experiments](https://github.com/trekhleb/machine-learning-experiments) - 🤖 Interactive Machine Learning experiments: 🏋️models training + 🎨models demo
 - [natasha/yargy-examples](https://github.com/natasha/yargy-examples) - 
 - [andychisholm/nel](https://github.com/andychisholm/nel) - Entity linking framework
@@ -6859,6 +6859,7 @@
 
 - [StartBootstrap/startbootstrap-freelancer](https://github.com/StartBootstrap/startbootstrap-freelancer) - A flat design, one page, MIT licensed Bootstrap portfolio theme created by Start Bootstrap
 - [StartBootstrap/startbootstrap-resume](https://github.com/StartBootstrap/startbootstrap-resume) - A Bootstrap 4 resume/CV theme created by Start Bootstrap
+- [StartBootstrap/startbootstrap-landing-page](https://github.com/StartBootstrap/startbootstrap-landing-page) - A responsive, Bootstrap landing page template created by Start Bootstrap
 - [anders94/blockchain-demo](https://github.com/anders94/blockchain-demo) - A web-based demonstration of blockchain concepts.
 - [StartBootstrap/startbootstrap-creative](https://github.com/StartBootstrap/startbootstrap-creative) - A one page HTML theme for creatives by Start Bootstrap
 - [StartBootstrap/startbootstrap-new-age](https://github.com/StartBootstrap/startbootstrap-new-age) - A web app landing page theme created by Start Bootstrap
@@ -6951,7 +6952,7 @@
 - [lcswillems/torch-ac](https://github.com/lcswillems/torch-ac) - Recurrent and multi-process PyTorch implementation of deep reinforcement Actor-Critic algorithms A2C and PPO
 - [GoogleCloudPlatform/python-docs-samples](https://github.com/GoogleCloudPlatform/python-docs-samples) - Code samples used on cloud.google.com
 - [freqtrade/freqtrade-strategies](https://github.com/freqtrade/freqtrade-strategies) - Free trading strategies for Freqtrade bot
-- [jina-ai/jina](https://github.com/jina-ai/jina) - Cloud-native neural search framework for any kind of data
+- [jina-ai/jina](https://github.com/jina-ai/jina) - Cloud-native neural search framework for 𝙖𝙣𝙮 kind of data
 - [danijar/dreamerv2](https://github.com/danijar/dreamerv2) - Mastering Atari with Discrete World Models
 - [hzwer/arXiv2020-RIFE](https://github.com/hzwer/arXiv2020-RIFE) - RIFE: Real-Time Intermediate Flow Estimation for Video Frame Interpolation
 - [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) - Sample cloud-native application with 10 microservices showcasing Kubernetes, Istio, gRPC and OpenCensus.
@@ -8270,7 +8271,7 @@
 - [man-group/arctic](https://github.com/man-group/arctic) - High performance datastore for time series and tick data
 - [bbli/ml_board](https://github.com/bbli/ml_board) - a machine learning dashboard that displays hyperparameter settings alongside visualizations, and logs the scientist's thoughts throughout the training process
 - [rootVIII/proxy_requests](https://github.com/rootVIII/proxy_requests) - a class that uses scraped proxies to make http GET/POST requests (Python requests)
-- [fishtown-analytics/dbt](https://github.com/fishtown-analytics/dbt) - dbt (data build tool) enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.
+- [dbt-labs/dbt](https://github.com/dbt-labs/dbt) - dbt (data build tool) enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.
 - [foolwood/DaSiamRPN](https://github.com/foolwood/DaSiamRPN) - [ECCV2018] Distractor-aware Siamese Networks for Visual Object Tracking
 - [awesto/cookiecutter-django-shop](https://github.com/awesto/cookiecutter-django-shop) - Cookiecutter django-SHOP is a blueprint for an e-commerce site based on django-CMS.
 - [loisaidasam/csv-position-reader](https://github.com/loisaidasam/csv-position-reader) - A custom CSV reader implementation with direct file access
@@ -13382,7 +13383,7 @@
 - [actions/starter-workflows](https://github.com/actions/starter-workflows) - Accelerating new GitHub Actions workflows
 - [microsoft/WebTemplateStudio](https://github.com/microsoft/WebTemplateStudio) - Microsoft Web Template Studio quickly builds web applications using a wizard-based UI to turn your needs into a foundation of best patterns and practices
 - [heremaps/harp-map-editor](https://github.com/heremaps/harp-map-editor) - Simple map editor for harp.gl map styles
-- [aws-amplify/docs](https://github.com/aws-amplify/docs) - Amplify Framework Documentation
+- [aws-amplify/docs](https://github.com/aws-amplify/docs) - AWS Amplify Framework Documentation
 - [marmelab/react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design
 - [directus/directus](https://github.com/directus/directus) - Open-Source Data Platform 🐰  — Directus wraps any SQL database with a real-time GraphQL+REST API and an intuitive app for non-technical users.
 - [heremaps/harp.gl](https://github.com/heremaps/harp.gl) - 3D web map rendering engine written in TypeScript using three.js
@@ -13415,6 +13416,7 @@
 - [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊 Cube.js — Open-Source Analytical API Platform
 - [LeetCode-OpenSource/vscode-leetcode](https://github.com/LeetCode-OpenSource/vscode-leetcode) - Solve LeetCode problems in VS Code
 - [callstack/linaria](https://github.com/callstack/linaria) - Zero-runtime CSS in JS library
+- [pwa-builder/PWABuilder](https://github.com/pwa-builder/PWABuilder) - The front-end for PWABuilder!
 - [labs42io/clean-code-typescript](https://github.com/labs42io/clean-code-typescript) - Clean Code concepts adapted for TypeScript
 - [fabiospampinato/bump](https://github.com/fabiospampinato/bump) - Bump updates the project's version, updates/creates the changelog, makes the bump commit, tags the bump commit and makes the release to GitHub. Opinionated but configurable.
 - [cloud-annotations/cloud-annotations](https://github.com/cloud-annotations/cloud-annotations) - 🐝 A fast, easy and collaborative open source image annotation tool for teams and individuals.
@@ -13471,7 +13473,7 @@
 - [uwdata/draco](https://github.com/uwdata/draco) - Visualization Constraints and Weight Learning
 - [retejs/rete](https://github.com/retejs/rete) - JavaScript framework for visual programming and creating node editor
 - [vaneenige/phenomenon](https://github.com/vaneenige/phenomenon) - ⚡️ A fast 2kB low-level WebGL API.
-- [teambit/bit](https://github.com/teambit/bit) - A lightweight and highly extendible Polyrepo for component-driven development.
+- [teambit/bit](https://github.com/teambit/bit) - A tool for component-driven application development.
 - [justadudewhohacks/face-api.js](https://github.com/justadudewhohacks/face-api.js) - JavaScript API for face detection and face recognition in the browser and nodejs with tensorflow.js
 - [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
 - [probot/probot](https://github.com/probot/probot) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
@@ -13756,7 +13758,6 @@
 - [Shreerang/Vue-Nuggets](https://github.com/Shreerang/Vue-Nuggets) - E-commerce UI Nuggets based on Vue
 - [FatGe/UI-Library](https://github.com/FatGe/UI-Library) - Fat Ge UI-Library
 - [Akryum/meteor-vue-example](https://github.com/Akryum/meteor-vue-example) - Simple meteor example with vue
-- [pwa-builder/PWABuilder](https://github.com/pwa-builder/PWABuilder) - Vue / Nuxt frontend site for PWABuilder
 - [finspin/gotodevops.org](https://github.com/finspin/gotodevops.org) - Source code for gotodevops.org.
 - [alexurquhart/vue-bootstrap-typeahead](https://github.com/alexurquhart/vue-bootstrap-typeahead) - An autocomplete/typeahead component for Vue 2 and Bootstrap 4
 - [DoritoBandito/vuetify-upload-button](https://github.com/DoritoBandito/vuetify-upload-button) - Vue.js component for adding a file upload button for Vuetify.
