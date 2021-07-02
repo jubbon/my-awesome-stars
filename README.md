@@ -1618,7 +1618,7 @@
 - [jpschroeder/pipe-to-me](https://github.com/jpschroeder/pipe-to-me) - Stream data over http using curl.
 - [uber/kraken](https://github.com/uber/kraken) - P2P Docker registry capable of distributing TBs of data in seconds
 - [uber/astro](https://github.com/uber/astro) - Astro is a tool for managing multiple Terraform executions as a single command
-- [cortexlabs/cortex](https://github.com/cortexlabs/cortex) - Serverless containers on AWS
+- [cortexlabs/cortex](https://github.com/cortexlabs/cortex) - Cost-effective serverless computing
 - [ovh/cds](https://github.com/ovh/cds) - Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform
 - [k3s-io/k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes
 - [skanehira/docui](https://github.com/skanehira/docui) - TUI Client for Docker
@@ -2552,7 +2552,6 @@
 - [foundation/foundation-emails](https://github.com/foundation/foundation-emails) - Quickly create responsive HTML emails that work on any device and client. Even Outlook.
 - [elendirx/web2web](https://github.com/elendirx/web2web) - P2P web powered by torrents and blockchain.
 - [jhu-ep-coursera/fullstack-course5](https://github.com/jhu-ep-coursera/fullstack-course5) - All of the source code for the Single Page Web Applications with AngularJS course.
-- [jcalazan/ansible-django-stack](https://github.com/jcalazan/ansible-django-stack) - Ansible Playbook for setting up a Django app with Nginx, Gunicorn, PostgreSQL, Celery, RabbitMQ, Supervisor, Virtualenv, and Memcached. A Vagrantfile for provisioning a VirtualBox virtual machine is included as well.
 - [amazon-archives/aws-week-in-review](https://github.com/amazon-archives/aws-week-in-review) - ARCHIVED: These files are used to produce the AWS Week in Review.
 - [jlord/essential-electron](https://github.com/jlord/essential-electron) - Concise plain-speak about Electron
 - [shaunlebron/IsometricBlocks](https://github.com/shaunlebron/IsometricBlocks) - A tutorial on how to render isometric blocks in the correct order.
@@ -3603,7 +3602,7 @@
 - [aarondfrancis/vue-model](https://github.com/aarondfrancis/vue-model) - Model component for Vue.js
 - [davidroyer/vue2-editor](https://github.com/davidroyer/vue2-editor) - A text editor using Vue.js and Quill
 - [tralves/groceries-ns-vue](https://github.com/tralves/groceries-ns-vue) - 🍏 🍍 🍓 A NativeScript+Vue iOS and Android app for managing grocery lists
-- [promosis/file-upload-with-preview](https://github.com/promosis/file-upload-with-preview) - 🖼 A simple file-upload utility that shows a preview of the uploaded image. Written in pure JavaScript. No dependencies. Works well with Bootstrap 4 or without a framework.
+- [johndatserakis/file-upload-with-preview](https://github.com/johndatserakis/file-upload-with-preview) - 🖼 A simple file-upload utility that shows a preview of the uploaded image. Written in pure JavaScript. No dependencies. Works well with Bootstrap 4 or without a framework.
 - [ChainSafe/web3.js](https://github.com/ChainSafe/web3.js) - Ethereum JavaScript API
 - [akxcv/vuera](https://github.com/akxcv/vuera) - :eyes: Vue in React, React in Vue. Seamless integration of the two. :dancers:
 - [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) - This repository contains compatibility data for Web technologies as displayed on MDN
@@ -4386,6 +4385,7 @@
 - [ANXS/postgresql](https://github.com/ANXS/postgresql) - Fairly full featured Ansible role for Postgresql.
 - [dev-sec/ansible-collection-hardening](https://github.com/dev-sec/ansible-collection-hardening) - This Ansible collection provides battle tested hardening for Linux, SSH, nginx, MySQL
 - [Stouts/Stouts.openvpn](https://github.com/Stouts/Stouts.openvpn) - Ansible role to install and configure OpenVPN server
+- [jcalazan/ansible-django-stack](https://github.com/jcalazan/ansible-django-stack) - Ansible Playbook for setting up a Django app with Nginx, Gunicorn, PostgreSQL, Celery, RabbitMQ, Supervisor, Virtualenv, and Memcached. A Vagrantfile for provisioning a VirtualBox virtual machine is included as well.
 - [galaxyproject/ansible-galaxy](https://github.com/galaxyproject/ansible-galaxy) - An Ansible role for managing a Galaxy server
 
 ## Jsonnet 
@@ -4844,7 +4844,7 @@
 - [Santosh-Gupta/Lit2Vec](https://github.com/Santosh-Gupta/Lit2Vec) - Representing Books as vectors using the Word2Vec algorithm
 - [deepmind/symplectic-gradient-adjustment](https://github.com/deepmind/symplectic-gradient-adjustment) - A colab that implements the Symplectic Gradient Adjustment optimizer from "The mechanics of n-player differentiable games"
 - [jmschrei/apricot](https://github.com/jmschrei/apricot) - apricot implements submodular optimization for the purpose of selecting subsets of massive data sets to train machine learning models quickly. See the documentation page: https://apricot-select.readthedocs.io/en/latest/index.html
-- [uwdata/falcon](https://github.com/uwdata/falcon) - Brushing and linking for big data
+- [vega/falcon](https://github.com/vega/falcon) - Brushing and linking for big data
 - [shayneobrien/generative-models](https://github.com/shayneobrien/generative-models) - Annotated, understandable, and visually interpretable PyTorch implementations of: VAE, BIRVAE, NSGAN, MMGAN, WGAN, WGANGP, LSGAN, DRAGAN, BEGAN, RaGAN, InfoGAN, fGAN, FisherGAN
 - [parrt/dtreeviz](https://github.com/parrt/dtreeviz) - A python library for decision tree visualization and model interpretation.
 - [SimonKohl/probabilistic_unet](https://github.com/SimonKohl/probabilistic_unet) - A U-Net combined with a variational auto-encoder that is able to learn conditional distributions over semantic segmentations.
@@ -5810,6 +5810,7 @@
 
 ## Others 
 
+- [benthecoder/yt-channels-DS-AI-ML-CS](https://github.com/benthecoder/yt-channels-DS-AI-ML-CS) - A comprehensive list of 160+ YouTube Channels for Data Science,  Data Engineering, Machine Learning, Deep learning, Computer Science, programming, software engineering, etc.
 - [sberdevices/golos](https://github.com/sberdevices/golos) - 
 - [DLopatkin/Heracleum-Dataset](https://github.com/DLopatkin/Heracleum-Dataset) - Dataset of aerial images of hogweed gathered in Moscow Region.
 - [singularseclab/Slides](https://github.com/singularseclab/Slides) - A collection of slides from Singular Security Lab.
@@ -6882,6 +6883,9 @@
 
 ## Python 
 
+- [sail-sg/volo](https://github.com/sail-sg/volo) - VOLO: Vision Outlooker for Visual Recognition
+- [couler-proj/couler](https://github.com/couler-proj/couler) - Unified Interface for Constructing and Managing Workflows on different workflow engines, such as Argo Workflows, Tekton Pipelines, and Apache Airflow.
+- [google-research/deeplab2](https://github.com/google-research/deeplab2) - DeepLab2 is a TensorFlow library for deep labeling, aiming to provide a unified and state-of-the-art TensorFlow codebase for dense pixel labeling tasks.
 - [Sentdex/GANTheftAuto](https://github.com/Sentdex/GANTheftAuto) - 
 - [deep-nlp-spring-2020/bert-distillation](https://github.com/deep-nlp-spring-2020/bert-distillation) - Proposal is to try to distill DeepPavlov RuBERT. Main paper is from huggingface https://arxiv.org/pdf/1910.01108.pdf
 - [andreasveit/densenet-pytorch](https://github.com/andreasveit/densenet-pytorch) - A PyTorch Implementation for Densely Connected Convolutional Networks (DenseNets)
@@ -7274,7 +7278,7 @@
 - [emorynlp/character-mining](https://github.com/emorynlp/character-mining) - Mining individual characters in multiparty dialogue
 - [unilight/R-NET-in-Tensorflow](https://github.com/unilight/R-NET-in-Tensorflow) - R-NET implementation in TensorFlow.
 - [laddie132/Match-LSTM](https://github.com/laddie132/Match-LSTM) - A PyTorch implemention of Match-LSTM, R-NET and M-Reader for Machine Reading Comprehension
-- [momohuang/FusionNet-NLI](https://github.com/momohuang/FusionNet-NLI) - An example for applying FusionNet to Natural Language Inference
+- [hsinyuan-huang/FusionNet-NLI](https://github.com/hsinyuan-huang/FusionNet-NLI) - An example for applying FusionNet to Natural Language Inference
 - [HKUST-KnowComp/MnemonicReader](https://github.com/HKUST-KnowComp/MnemonicReader) - A PyTorch implementation of Mnemonic Reader for the Machine Comprehension task
 - [kamalkraj/ALBERT-TF2.0](https://github.com/kamalkraj/ALBERT-TF2.0) - ALBERT model Pretraining and Fine Tuning using TF2.0
 - [HKUST-KnowComp/R-Net](https://github.com/HKUST-KnowComp/R-Net) - Tensorflow Implementation of R-Net
@@ -10040,7 +10044,7 @@
 - [ctuning/ck-tensorflow](https://github.com/ctuning/ck-tensorflow) - Collective Knowledge components for TensorFlow (code, data sets, models, packages, workflows):
 - [romanvm/python-web-pdb](https://github.com/romanvm/python-web-pdb) - Web-based remote UI for Python's PDB debugger
 - [ctuning/ck-autotuning](https://github.com/ctuning/ck-autotuning) - CK automation actions to let users implement portable, customizable and reusable program workflows for reproducible, collaborative and multi-objective benchmarking, optimization and SW/HW co-design:
-- [ctuning/ck](https://github.com/ctuning/ck) - Collective Knowledge framework (CK) helps to organize software projects as a database of reusable components and micro-services with common APIs, automation actions and extensible meta descriptions based on FAIR principles. See real-world use cases from MLPerf, General Motors, Arm, Qualcomm, the Raspberry Pi foundation and ACM:
+- [ctuning/ck](https://github.com/ctuning/ck) - Collective Knowledge framework (CK) helps to organize software projects as a database of reusable components, automation recipes and portable workflows with common APIs and extensible meta descriptions based on FAIR principles. See real-world use cases from our partners to enable portable MLOps and automate ML/SW/HW co-design:
 - [somewacko/deconvfaces](https://github.com/somewacko/deconvfaces) - Generating faces with deconvolution networks
 - [kootenpv/whereami](https://github.com/kootenpv/whereami) - Uses WiFi signals :signal_strength: and machine learning to predict where you are
 - [openimages/dataset](https://github.com/openimages/dataset) - The Open Images dataset
@@ -13397,7 +13401,7 @@
 - [FormidableLabs/urql](https://github.com/FormidableLabs/urql) - The highly customizable and versatile GraphQL client with which you add on features like normalized caching as you grow.
 - [peaceiris/actions-gh-pages](https://github.com/peaceiris/actions-gh-pages) - GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly.
 - [pixijs/pixijs](https://github.com/pixijs/pixijs) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
-- [Eugeny/terminus](https://github.com/Eugeny/terminus) - A terminal for a more modern age
+- [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age (formerly Terminus)
 - [microsoft/TypeScript-New-Handbook](https://github.com/microsoft/TypeScript-New-Handbook) - Incubation repository for the new TypeScript handbook 🐣
 - [faastjs/faast.js](https://github.com/faastjs/faast.js) - Serverless batch computing made simple.
 - [Novvum/graphql-birdseye](https://github.com/Novvum/graphql-birdseye) - View any GraphQL schema as a dynamic and interactive graph. 🦅
