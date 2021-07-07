@@ -770,7 +770,6 @@
 - [yue/yue](https://github.com/yue/yue) - A library for creating native cross-platform GUI apps
 - [codilime/veles](https://github.com/codilime/veles) - Binary data analysis and visualization tool
 - [onnx/onnx](https://github.com/onnx/onnx) - Open standard for machine learning interoperability
-- [apache/incubator-doris](https://github.com/apache/incubator-doris) - Apache Doris (Incubating)
 - [numworks/epsilon](https://github.com/numworks/epsilon) - Modern graphing calculator operating system.
 - [warmspringwinds/pytorch-cpp](https://github.com/warmspringwinds/pytorch-cpp) - Pytorch C++ Library
 - [Tencent/paxosstore](https://github.com/Tencent/paxosstore) - PaxosStore has been deployed in WeChat production for more than two years, providing storage services for the core businesses of WeChat backend. Now PaxosStore is running on thousands of machines, and is able to afford billions of peak TPS.
@@ -2758,6 +2757,7 @@
 - [graphhopper/graphhopper](https://github.com/graphhopper/graphhopper) - Open source routing engine for OpenStreetMap. Use it as Java library or server.
 - [gocd/gocd](https://github.com/gocd/gocd) - Main repository for GoCD - Continuous Delivery server
 - [tomthecarrot/arcore-for-all](https://github.com/tomthecarrot/arcore-for-all) - Google ARCore (dev preview 1) for "unsupported" Android devices
+- [apache/incubator-doris](https://github.com/apache/incubator-doris) - Apache Doris (Incubating)
 - [confluentinc/ksql](https://github.com/confluentinc/ksql) - The database purpose-built for stream processing applications.
 - [andreynovikov/Androzic](https://github.com/andreynovikov/Androzic) - Android navigation application that uses oziexplorer maps (ozf2, ozfx3)
 - [floatinghotpot/cordova-plugin-sms](https://github.com/floatinghotpot/cordova-plugin-sms) - Plugin to operate SMS, send / list / intercept / delete / restore
@@ -4411,6 +4411,7 @@
 
 ## Jupyter Notebook 
 
+- [ITMO-NSS-team/nas-fedot](https://github.com/ITMO-NSS-team/nas-fedot) - The implementation of the Neural Architecture Search based at the Fedot framework
 - [sail-sg/volo](https://github.com/sail-sg/volo) - VOLO: Vision Outlooker for Visual Recognition
 - [nccr-itmo/FEDOT](https://github.com/nccr-itmo/FEDOT) - Automated modeling and machine learning framework FEDOT
 - [khuyentran1401/Data-science](https://github.com/khuyentran1401/Data-science) - Collection of useful data science topics along with code and articles
@@ -5696,6 +5697,7 @@
 
 ## Lua 
 
+- [ramprs/grad-cam](https://github.com/ramprs/grad-cam) - [ICCV 2017] Torch code for Grad-CAM
 - [jcjohnson/torch-rnn](https://github.com/jcjohnson/torch-rnn) - Efficient, reusable RNNs and LSTMs for torch
 - [facebookarchive/bAbI-tasks](https://github.com/facebookarchive/bAbI-tasks) - Task generation for testing text understanding and reasoning
 - [sunprinceS/Hierarchical-Attention-Model](https://github.com/sunprinceS/Hierarchical-Attention-Model) - :page_facing_up: HierAttModel for Question Answering
@@ -5968,7 +5970,7 @@
 - [deepmind/tvt](https://github.com/deepmind/tvt) - 
 - [shashank88/system_design](https://github.com/shashank88/system_design) - Preparation links and resources for system design questions
 - [zero-to-mastery/start-here-guidelines](https://github.com/zero-to-mastery/start-here-guidelines) - Lets Git started in the world of opensource, starting in the Zero To Mastery's opensource playground. Especially designed for education and practical experience purposes.
-- [oam-dev/spec](https://github.com/oam-dev/spec) - The Open Application Model (OAM) Specification
+- [oam-dev/spec](https://github.com/oam-dev/spec) - The Open Application Model (OAM)
 - [Niraj-Lunavat/Artificial-Intelligence](https://github.com/Niraj-Lunavat/Artificial-Intelligence) - Awesome AI Learning with +100 AI Cheat-Sheets, Free online Books, Top Courses, Best Videos and Lectures, Papers, Tutorials, +99 Researchers, Premium Websites, +121 Datasets, Conferences, Frameworks, Tools
 - [palash25/best-practices-checklist](https://github.com/palash25/best-practices-checklist) - A list of awesome idiomatic code resources. Rust:crab:, Go, Ruby:gem:, Pony :horse:, Ocaml :camel:, Erlang and more
 - [yizhen20133868/MIT-Linear-Algebra-Notes](https://github.com/yizhen20133868/MIT-Linear-Algebra-Notes) - Notes for MIT-Linear-Algebra
@@ -6889,6 +6891,7 @@
 
 ## Python 
 
+- [jacobgil/pytorch-grad-cam](https://github.com/jacobgil/pytorch-grad-cam) - Many Class Activation Map methods implemented in Pytorch for CNNs and Vision Transformers. Including Grad-CAM, Grad-CAM++, Score-CAM, Ablation-CAM and XGrad-CAM
 - [jupyterhub/jupyterhub-deploy-docker](https://github.com/jupyterhub/jupyterhub-deploy-docker) - Reference deployment of JupyterHub with docker
 - [alexmojaki/snoop](https://github.com/alexmojaki/snoop) - A powerful set of Python debugging tools, based on PySnooper
 - [couler-proj/couler](https://github.com/couler-proj/couler) - Unified Interface for Constructing and Managing Workflows on different workflow engines, such as Argo Workflows, Tekton Pipelines, and Apache Airflow.
@@ -13909,7 +13912,7 @@
 - [byteboomers/vue-prom](https://github.com/byteboomers/vue-prom) - Vue promise wrapper component
 - [mattrothenberg/vue-overdrive](https://github.com/mattrothenberg/vue-overdrive) - Super easy magic-move transitions for Vue apps
 - [ais-one/vue2-leaflet-tracksymbol](https://github.com/ais-one/vue2-leaflet-tracksymbol) - tracksymbol plugin extension for vue2-leaflet (Updated to use vue2-leaflet v2.x.x)
-- [ArkEcosystem/explorer](https://github.com/ArkEcosystem/explorer) - A Blockchain Explorer for ARK using Vue.js and Tailwind CSS.
+- [ArkEcosystemArchive/explorer](https://github.com/ArkEcosystemArchive/explorer) - A Blockchain Explorer for ARK using Vue.js and Tailwind CSS.
 - [8788/vue-date-picker](https://github.com/8788/vue-date-picker) - datepicker component for Vue 2.x
 - [semisleep/simple-vue-validator](https://github.com/semisleep/simple-vue-validator) - A simple yet flexible validator library for vue.js
 - [ridewn/vue-date-picker](https://github.com/ridewn/vue-date-picker) - A vue date picker component inspired by material design
@@ -13976,7 +13979,7 @@
 - [OneWayTech/vue2-datatable](https://github.com/OneWayTech/vue2-datatable) - The best Datatable for Vue.js 2.x which never sucks. Give us a star 🌟 if you like it! (DEPRECATED. As I, @kenberkeley, the only maintainer, no longer works for OneWay. Bugs may be fixed but new features or breaking changes might not be merged. However, it's still the best in my mind because of its extremely flexible usage of dynamic components)
 - [vue-bulma/tabs](https://github.com/vue-bulma/tabs) - Tabs Component for Vue Bulma
 - [krystalcampioni/vue-hotel-datepicker](https://github.com/krystalcampioni/vue-hotel-datepicker) - Vue date range picker component
-- [adeptoas/sweet-modal-vue](https://github.com/adeptoas/sweet-modal-vue) - The sweetest library to happen to modals.
+- [visma-meglerfront/sweet-modal-vue](https://github.com/visma-meglerfront/sweet-modal-vue) - The sweetest library to happen to modals.
 - [fuse-box/fuse-box-vue-seed](https://github.com/fuse-box/fuse-box-vue-seed) - Get started with Vue.js using FuseBox module loader and bundler
 - [thousandetherhomepage/ketherhomepage](https://github.com/thousandetherhomepage/ketherhomepage) - Own a piece of blockchain history!
 - [odranoelBR/vue-quasar-admin-example](https://github.com/odranoelBR/vue-quasar-admin-example) - Example of quasar admin
