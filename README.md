@@ -426,7 +426,7 @@
 - [satori-com/tcpkali](https://github.com/satori-com/tcpkali) - Fast multi-core TCP and WebSockets load generator.
 - [pmwkaa/sophia](https://github.com/pmwkaa/sophia) - Modern transactional key-value/row storage library.
 - [coleifer/sophy](https://github.com/coleifer/sophy) - Fast Python bindings to Sophia Database
-- [ContinuumIO/pycosat](https://github.com/ContinuumIO/pycosat) - Python bindings to picosat (a SAT solver)
+- [conda/pycosat](https://github.com/conda/pycosat) - Python bindings to picosat (a SAT solver)
 - [wg/wrk](https://github.com/wg/wrk) - Modern HTTP benchmarking tool
 - [JoeDog/siege](https://github.com/JoeDog/siege) - Siege is an http load tester and benchmarking utility
 - [hashcat/hashcat-legacy](https://github.com/hashcat/hashcat-legacy) - Advanced CPU-based password recovery utility
@@ -945,6 +945,7 @@
 - [osquery/osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
 - [hrastnik/FaceSwap](https://github.com/hrastnik/FaceSwap) - Real-time FaceSwap application built with OpenCV and dlib
 - [facebook/rocksdb](https://github.com/facebook/rocksdb) - A library that provides an embeddable, persistent key-value store for fast storage.
+- [realm/realm-js](https://github.com/realm/realm-js) - Realm is a mobile database: an alternative to SQLite & key-value stores
 - [tensorflow/serving](https://github.com/tensorflow/serving) - A flexible, high-performance serving system for machine learning models
 - [microsoft/caffe](https://github.com/microsoft/caffe) - Caffe on both Linux and Windows
 - [microsoft/CNTK](https://github.com/microsoft/CNTK) - Microsoft Cognitive Toolkit (CNTK), an open source deep-learning toolkit
@@ -1411,7 +1412,6 @@
 - [iampawan/Flutter-UI-Kit](https://github.com/iampawan/Flutter-UI-Kit) - Flutter app for collection of UI in a UIKit
 - [brianegan/flutter_architecture_samples](https://github.com/brianegan/flutter_architecture_samples) - TodoMVC for Flutter
 - [flutterchina/dio](https://github.com/flutterchina/dio) - A powerful Http client for Dart, which supports Interceptors, FormData, Request Cancellation, File Downloading, Timeout etc.
-- [flutter/website](https://github.com/flutter/website) - Flutter web site
 - [flutter/udacity-course](https://github.com/flutter/udacity-course) - Build native mobile apps with Flutter
 - [dart-lang/sdk](https://github.com/dart-lang/sdk) - The Dart SDK, including the VM, dart2js, core libraries, and more.
 - [iampawan/FlutterExampleApps](https://github.com/iampawan/FlutterExampleApps) - [Example APPS] Basic Flutter apps, for flutter devs.
@@ -4107,7 +4107,6 @@
 - [viart/grunt-connect-rewrite](https://github.com/viart/grunt-connect-rewrite) - Provides RewriteRules middleware for the grunt connect / express.
 - [elesdoar/ui-leaflet-layers](https://github.com/elesdoar/ui-leaflet-layers) - Angular UI Leaflet Layers Plugin
 - [apiguy/flask-classy](https://github.com/apiguy/flask-classy) - Class based views for Flask
-- [realm/realm-js](https://github.com/realm/realm-js) - Realm is a mobile database: an alternative to SQLite & key-value stores
 - [angular/quickstart](https://github.com/angular/quickstart) - Angular QuickStart - source from the documentation
 - [germanattanasio/visual-recognition-nodejs](https://github.com/germanattanasio/visual-recognition-nodejs) - DEPRECATED: this repo is no longer actively maintained
 - [thomaspark/bootswatch](https://github.com/thomaspark/bootswatch) - Themes for Bootstrap
@@ -4700,7 +4699,7 @@
 - [SlinkoIgor/data_mining_course](https://github.com/SlinkoIgor/data_mining_course) - 
 - [SlinkoIgor/express_ml](https://github.com/SlinkoIgor/express_ml) - Express course of machine learning
 - [sdhnshu/Pytorch-Model-Zoo](https://github.com/sdhnshu/Pytorch-Model-Zoo) - A collection of deep learning models implemented in PyTorch
-- [zju3dv/mvpose](https://github.com/zju3dv/mvpose) - Code for "Fast and Robust Multi-Person 3D Pose Estimation from Multiple Views" in CVPR'19
+- [zju3dv/mvpose](https://github.com/zju3dv/mvpose) - Code for "Fast and Robust Multi-Person 3D Pose Estimation from Multiple Views", CVPR 2019
 - [cgpotts/cs224u](https://github.com/cgpotts/cs224u) - Code for Stanford CS224u
 - [theislab/single-cell-tutorial](https://github.com/theislab/single-cell-tutorial) - Single cell current best practices tutorial case study for the paper:Luecken and Theis, "Current best practices in single-cell RNA-seq analysis: a tutorial"
 - [makinarocks/awesome-industrial-machine-datasets](https://github.com/makinarocks/awesome-industrial-machine-datasets) - 
@@ -8127,7 +8126,7 @@
 - [waleedka/hiddenlayer](https://github.com/waleedka/hiddenlayer) - Neural network graphs and training metrics for PyTorch, Tensorflow, and Keras.
 - [ksw0306/FloWaveNet](https://github.com/ksw0306/FloWaveNet) - A Pytorch implementation of "FloWaveNet: A Generative Flow for Raw Audio"
 - [openai/spinningup](https://github.com/openai/spinningup) - An educational resource to help anyone learn deep reinforcement learning.
-- [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗Transformers: State-of-the-art Natural Language Processing for Pytorch, TensorFlow, and JAX.
+- [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Natural Language Processing for Pytorch, TensorFlow, and JAX.
 - [NVIDIA/waveglow](https://github.com/NVIDIA/waveglow) - A Flow-based Generative Network for Speech Synthesis
 - [kubeflow/pipelines](https://github.com/kubeflow/pipelines) - Machine Learning Pipelines for Kubeflow
 - [santinic/pampy](https://github.com/santinic/pampy) - Pampy: The Pattern Matching for Python you always dreamed of.
@@ -9822,7 +9821,7 @@
 - [deepgraph/deepgraph](https://github.com/deepgraph/deepgraph) - Analyze Data with Pandas-based Networks. Documentation:
 - [pcbje/gransk](https://github.com/pcbje/gransk) - Document processing for investigations
 - [GoSecure/malboxes](https://github.com/GoSecure/malboxes) - Builds malware analysis Windows VMs so that you don't have to.
-- [oilshell/oil](https://github.com/oilshell/oil) - A new Unix shell.  Our upgrade path from bash to a better language and runtime.
+- [oilshell/oil](https://github.com/oilshell/oil) - Oil is a new Unix shell.  It's our upgrade path from bash to a better language and runtime.  It's also for Python and JavaScript users who avoid shell!
 - [gboeing/pynamical](https://github.com/gboeing/pynamical) - Pynamical is a Python package for modeling and visualizing discrete nonlinear dynamical systems, chaos, and fractals.
 - [IntelPython/container-images](https://github.com/IntelPython/container-images) - Dockerfiles for building docker images
 - [Viralmaniar/Wifi-Dumper](https://github.com/Viralmaniar/Wifi-Dumper) - This is an open source tool to dump the wifi profiles and cleartext passwords of the connected access points on the Windows machine. This tool will help you in a Wifi penetration testing. Furthermore, it is useful while performing red team or an internal infrastructure engagements.
@@ -13032,6 +13031,7 @@
 - [cobidev/simplefolio](https://github.com/cobidev/simplefolio) - ⚡️ A minimal portfolio template for Developers
 - [emilbaehr/automatic-app-landing-page](https://github.com/emilbaehr/automatic-app-landing-page) - A Jekyll theme for automatically generating and deploying landing page sites for mobile apps.
 - [tr1s/tris-webpack-boilerplate](https://github.com/tr1s/tris-webpack-boilerplate) - A Webpack boilerplate for static websites that has all the necessary modern tools and optimizations built-in. Score a perfect 10/10 on performance.
+- [flutter/website](https://github.com/flutter/website) - Flutter web site
 - [conventional-commits/conventionalcommits.org](https://github.com/conventional-commits/conventionalcommits.org) - The conventional commits specification
 - [vapid/vapid](https://github.com/vapid/vapid) - Vapid is an intentionally simple content management system built on the idea that you can create a custom dashboard without ever leaving the HTML.
 - [bradtraversy/modern_portfolio](https://github.com/bradtraversy/modern_portfolio) - Responsive portfolio website
@@ -13351,6 +13351,7 @@
 
 ## TypeScript 
 
+- [mrjackphil/obsidian-note-uid](https://github.com/mrjackphil/obsidian-note-uid) - 
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers (Beta)
 - [common-voice/common-voice](https://github.com/common-voice/common-voice) - Common Voice is part of Mozilla's initiative to help teach machines how real people speak.
