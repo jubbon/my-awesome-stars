@@ -1324,6 +1324,7 @@
 
 - [NVIDIA/nv-wavenet](https://github.com/NVIDIA/nv-wavenet) - Reference implementation of real-time autoregressive wavenet inference
 - [leoxiaobin/deep-high-resolution-net.pytorch](https://github.com/leoxiaobin/deep-high-resolution-net.pytorch) - The project is an official implementation of our CVPR2019 paper "Deep High-Resolution Representation Learning for Human Pose Estimation"
+- [rapidsai/cuml](https://github.com/rapidsai/cuml) - cuML - RAPIDS Machine Learning Library
 - [CannyLab/tsne-cuda](https://github.com/CannyLab/tsne-cuda) - GPU Accelerated t-SNE for CUDA with Python bindings
 - [luanfujun/deep-painterly-harmonization](https://github.com/luanfujun/deep-painterly-harmonization) - Code and data for paper "Deep Painterly Harmonization": https://arxiv.org/abs/1804.03189
 - [LitLeo/OpenCUDA](https://github.com/LitLeo/OpenCUDA) - 
@@ -1510,7 +1511,7 @@
 
 ## Go 
 
-- [onepanelio/onepanel](https://github.com/onepanelio/onepanel) - The open and extensible end-to-end computer vision platform with built-in modules for model building, automated labeling, data processing, model training, hyperparameter tuning, workflow orchestration and serverless inference.
+- [onepanelio/onepanel](https://github.com/onepanelio/onepanel) - The open source, end-to-end computer vision platform. Label, build, train, tune, deploy and automate, all in one platform that runs on any cloud and on-premises.
 - [george-e-shaw-iv/integration-tests-example](https://github.com/george-e-shaw-iv/integration-tests-example) - An example project showcasing how Ardan Labs writes integration tests
 - [mattermost/mattermost-server](https://github.com/mattermost/mattermost-server) - Open source Slack-alternative in Golang and React - Mattermost
 - [ory/kratos](https://github.com/ory/kratos) - Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, profile management, identity schemas, social sign in, registration, account recovery, service-to-service and IoT auth. Can work as an OAuth2 / OpenID Connect Provider. Golang, headless, API-only - without templating or theming headaches.
@@ -2072,7 +2073,7 @@
 - [oelmekki/pgrebase](https://github.com/oelmekki/pgrebase) - Easy postgres codebase injection - aka postgres non data live reload
 - [qieangel2013/livego](https://github.com/qieangel2013/livego) - go Implementation of live streaming services
 - [Qihoo360/poseidon](https://github.com/Qihoo360/poseidon) - A search engine which can hold 100 trillion lines of log data.
-- [prest/prest](https://github.com/prest/prest) - pREST (PostgreSQL REST), simplify and accelerate development, ⚡ instant, realtime, high-performance on any Postgres application, existing or new
+- [prest/prest](https://github.com/prest/prest) - pREST (PostgreSQL REST), low-code, simplify and accelerate development, ⚡ instant, realtime, high-performance on any Postgres application, existing or new
 - [maddevsio/ariadna](https://github.com/maddevsio/ariadna) - Geocoder Ariadna on ElasticSearch with OpenStreetMap
 - [mholt/archiver](https://github.com/mholt/archiver) - Easily create & extract archives, and compress & decompress files of various formats
 - [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
@@ -7056,7 +7057,7 @@
 - [MenghaoGuo/PCT](https://github.com/MenghaoGuo/PCT) - Jittor implementation of PCT:Point Cloud Transformer
 - [Megvii-BaseDetection/DeFCN](https://github.com/Megvii-BaseDetection/DeFCN) - End-to-End Object Detection with Fully Convolutional Network
 - [GuitarML/GuitarLSTM](https://github.com/GuitarML/GuitarLSTM) - Deep learning models for guitar amp/pedal emulation using LSTM with Keras.
-- [PeizeSun/OneNet](https://github.com/PeizeSun/OneNet) - OneNet: End-to-End One-Stage Object Detection
+- [PeizeSun/OneNet](https://github.com/PeizeSun/OneNet) - What Makes for End-to-End Object Detection, ICML2021
 - [JDAI-CV/centerX](https://github.com/JDAI-CV/centerX) - This repo is implemented based on detectron2 and centernet
 - [fundamentalvision/Deformable-DETR](https://github.com/fundamentalvision/Deformable-DETR) - Deformable DETR: Deformable Transformers for End-to-End Object Detection.
 - [KasperskyLab/TinyCheck](https://github.com/KasperskyLab/TinyCheck) - TinyCheck allows you to easily capture network communications from a smartphone or any device which can be associated to a Wi-Fi access point in order to quickly analyze them. This can be used to check if any suspect or malicious communication is outgoing from a smartphone, by using heuristics or specific Indicators of Compromise (IoCs). In order to make it working, you need a computer with a Debian-like operating system and two Wi-Fi interfaces. The best choice is to use a Raspberry Pi (2+) a Wi-Fi dongle and a small touch screen. This tiny configuration (for less than $50) allows you to tap any Wi-Fi device, anywhere.
@@ -7120,7 +7121,7 @@
 - [vinayak-mehta/present](https://github.com/vinayak-mehta/present) - A terminal-based presentation tool with colors and effects.
 - [lyft/l5kit](https://github.com/lyft/l5kit) - L5Kit - level5.lyft.com
 - [UKPLab/sentence-transformers](https://github.com/UKPLab/sentence-transformers) - Multilingual Sentence & Image Embeddings with BERT
-- [ultralytics/yolov5](https://github.com/ultralytics/yolov5) - YOLOv5 in PyTorch &gt; ONNX &gt; CoreML &gt; TFLite
+- [ultralytics/yolov5](https://github.com/ultralytics/yolov5) - YOLOv5 🚀 in PyTorch &gt; ONNX &gt; CoreML &gt; TFLite
 - [aristocratos/bpytop](https://github.com/aristocratos/bpytop) - Linux/OSX/FreeBSD resource monitor
 - [Rudrabha/Wav2Lip](https://github.com/Rudrabha/Wav2Lip) - This repository contains the codes of "A Lip Sync Expert Is All You Need for Speech to Lip Generation In the Wild", published at ACM Multimedia 2020.
 - [alirezamika/autoscraper](https://github.com/alirezamika/autoscraper) - A Smart, Automatic, Fast and Lightweight Web Scraper for Python
@@ -7441,7 +7442,7 @@
 - [Mebus/cupp](https://github.com/Mebus/cupp) - Common User Passwords Profiler (CUPP)
 - [lorenzodifuccia/safaribooks](https://github.com/lorenzodifuccia/safaribooks) - Download and generate EPUB of your favorite books from O'Reilly Learning (aka Safari Books Online) library.
 - [charlesq34/pointnet](https://github.com/charlesq34/pointnet) - PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation
-- [DeepLabCut/DeepLabCut](https://github.com/DeepLabCut/DeepLabCut) - Official implementation of DeepLabCut: Markerless pose estimation of user-defined features with deep learning for all animals
+- [DeepLabCut/DeepLabCut](https://github.com/DeepLabCut/DeepLabCut) - Official implementation of DeepLabCut: Markerless pose estimation of user-defined features with deep learning for all animals incl. humans
 - [quantumblacklabs/causalnex](https://github.com/quantumblacklabs/causalnex) - A Python library that helps data scientists to infer causation rather than observing correlation.
 - [Tivix/django-rest-auth](https://github.com/Tivix/django-rest-auth) - This app makes it extremely easy to build Django powered SPA's (Single Page App) or Mobile apps exposing all registration and authentication related functionality as CBV's (Class Base View) and REST (JSON)
 - [rish-16/sight](https://github.com/rish-16/sight) - 👁 Sightseer: TensorFlow library for state-of-the-art Computer Vision and Object Detection models
@@ -8122,7 +8123,6 @@
 - [Kamik423/cutie](https://github.com/Kamik423/cutie) - Command line User Tools for Input Easification
 - [spotify/chartify](https://github.com/spotify/chartify) - Python library that makes it easy for data scientists to create charts.
 - [sentinel-hub/eo-learn](https://github.com/sentinel-hub/eo-learn) - Earth observation processing framework for machine learning in Python
-- [rapidsai/cuml](https://github.com/rapidsai/cuml) - cuML - RAPIDS Machine Learning Library
 - [waleedka/hiddenlayer](https://github.com/waleedka/hiddenlayer) - Neural network graphs and training metrics for PyTorch, Tensorflow, and Keras.
 - [ksw0306/FloWaveNet](https://github.com/ksw0306/FloWaveNet) - A Pytorch implementation of "FloWaveNet: A Generative Flow for Raw Audio"
 - [openai/spinningup](https://github.com/openai/spinningup) - An educational resource to help anyone learn deep reinforcement learning.
