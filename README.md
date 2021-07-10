@@ -3330,7 +3330,7 @@
 - [sindresorhus/slugify](https://github.com/sindresorhus/slugify) - Slugify a string
 - [vzhou842/faster.js](https://github.com/vzhou842/faster.js) - faster.js is a Babel plugin that compiles idiomatic Javascript to faster, micro-optimized Javascript.
 - [glidejs/glide](https://github.com/glidejs/glide) - A dependency-free JavaScript ES6 slider and carousel. It’s lightweight, flexible and fast. Designed to slide. No less, no more
-- [dinerojs/dinero.js](https://github.com/dinerojs/dinero.js) - An immutable JavaScript library to create, calculate and format money.
+- [dinerojs/dinero.js](https://github.com/dinerojs/dinero.js) - Create, calculate, and format money in JavaScript.
 - [FrontendMasters/front-end-handbook-2018](https://github.com/FrontendMasters/front-end-handbook-2018) - 2018 edition of our front-end development handbook
 - [Canner/canner-slate-editor](https://github.com/Canner/canner-slate-editor) - 📝Rich Text / WYSIWYG Editor built for Modularity and Extensibility.
 - [vuejs/vuepress](https://github.com/vuejs/vuepress) - 📝 Minimalistic Vue-powered static site generator
