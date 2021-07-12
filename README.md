@@ -346,6 +346,7 @@
 - [blacksphere/blackmagic](https://github.com/blacksphere/blackmagic) - In application debugger for ARM Cortex microcontrollers.
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [go-vgo/robotgo](https://github.com/go-vgo/robotgo) - RobotGo, Go Native cross-platform GUI automation  @vcaesar
+- [RedBeardLab/rediSQL](https://github.com/RedBeardLab/rediSQL) - Redis module that provides a completely functional SQL database
 - [Taeung/git-training](https://github.com/Taeung/git-training) - :octocat:  Don't think about git, just do git
 - [mattrajca/sudo-touchid](https://github.com/mattrajca/sudo-touchid) - A fork of `sudo` with Touch ID support.
 - [visit1985/mdp](https://github.com/visit1985/mdp) - A command-line based markdown presentation tool.
@@ -1600,7 +1601,7 @@
 - [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database
 - [callicoder/go-docker-compose](https://github.com/callicoder/go-docker-compose) - Golang Docker Compose Example
 - [txthinking/mr2](https://github.com/txthinking/mr2) - mr2 can help you expose local server to external network. Support both TCP/UDP, of course support HTTP.  Zero-Configuration. mr2 帮助你将本地端口暴露在外网.支持TCP/UDP, 当然也支持HTTP.
-- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - A Simple and Comprehensive Vulnerability Scanner for Container Images, Git Repositories and Filesystems. Suitable for CI
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues
 - [ProtonMail/gopenpgp](https://github.com/ProtonMail/gopenpgp) - A high-level OpenPGP library
 - [liamg/tml](https://github.com/liamg/tml) - :rainbow::computer::art: A tiny markup language for terminal output. Makes formatting output in CLI apps easier!
 - [markphelps/flipt](https://github.com/markphelps/flipt) - An open-source, on-prem feature flag solution
@@ -4144,6 +4145,7 @@
 - [diegonetto/generator-ionic](https://github.com/diegonetto/generator-ionic) - Build hybrid mobile apps using the Ionic Framework
 - [Piwigo/piwigo-openstreetmap](https://github.com/Piwigo/piwigo-openstreetmap) - OpenStreetMap integration for Piwigo
 - [CliffCloud/Leaflet.EasyButton](https://github.com/CliffCloud/Leaflet.EasyButton) - leaflet control buttons with icons and callbacks
+- [mdbootstrap/mdb-ui-kit](https://github.com/mdbootstrap/mdb-ui-kit) - Bootstrap 5 & Material Design 2.0 UI KIT
 - [lumapps/lumX](https://github.com/lumapps/lumX) - The first responsive front-end framework based on Angular & Google Material Design specifications
 - [karma-runner/karma](https://github.com/karma-runner/karma) - Spectacular Test Runner for JavaScript
 - [tengla/rethinkdb-cli](https://github.com/tengla/rethinkdb-cli) - CLI and REPL for Rethinkdb
@@ -7616,7 +7618,7 @@
 - [volfpeter/localclustering](https://github.com/volfpeter/localclustering) - Python 3 implementation and documentation of the Hermina-Janos local graph clustering algorithm.
 - [Ashish7129/Graph_Sampling](https://github.com/Ashish7129/Graph_Sampling) - Graph Sampling is a python package containing various approaches which samples the original graph according to different sample sizes.
 - [dbolya/yolact](https://github.com/dbolya/yolact) - A simple, fully convolutional model for real-time instance segmentation.
-- [mimesis-lab/mimesis-factory](https://github.com/mimesis-lab/mimesis-factory) - Mimesis integration with factory_boy
+- [lk-geimfari/mimesis-factory](https://github.com/lk-geimfari/mimesis-factory) - Mimesis integration with factory_boy
 - [Prerna237/SocialNetworkAnalysis](https://github.com/Prerna237/SocialNetworkAnalysis) - 
 - [XuezheMax/flowseq](https://github.com/XuezheMax/flowseq) - Generative Flow based Sequence-to-Sequence Toolkit written in Python.
 - [vitchyr/viskit](https://github.com/vitchyr/viskit) - rllab's viskit with some added features
@@ -9495,7 +9497,7 @@
 - [openai/baselines](https://github.com/openai/baselines) - OpenAI Baselines: high-quality implementations of reinforcement learning algorithms
 - [tonybeltramelli/pix2code](https://github.com/tonybeltramelli/pix2code) - pix2code: Generating Code from a Graphical User Interface Screenshot
 - [Qix-/flexicon](https://github.com/Qix-/flexicon) - A lightweight, regex-based lexer framework for Python
-- [wasiher/chrome_remote_interface_python](https://github.com/wasiher/chrome_remote_interface_python) - Chrome Debugging Protocol interface for Python
+- [pokemonish/chrome_remote_interface_python](https://github.com/pokemonish/chrome_remote_interface_python) - Chrome Debugging Protocol interface for Python
 - [ctuning/ck-caffe2](https://github.com/ctuning/ck-caffe2) - Integration of Caffe2 to Collective Knowledge workflow framework to provide unified CK JSON API for AI (customized builds across diverse libraries and hardware, unified AI API, collaborative experiments, performance optimization and model/data set tuning):
 - [LanceGin/haishoku](https://github.com/LanceGin/haishoku) - A development tool for grabbing the dominant color or representative color palette from an image
 - [merantix/picasso](https://github.com/merantix/picasso) - :art: A CNN visualizer
@@ -13019,7 +13021,6 @@
 - [PyO3/pyo3](https://github.com/PyO3/pyo3) - Rust bindings for the Python interpreter
 - [analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis) - A curated list of static analysis (SAST) tools for all programming languages, config files, build tools, and more.
 - [exonum/exonum](https://github.com/exonum/exonum) - An extensible open-source framework for creating private/permissioned blockchain applications
-- [RedBeardLab/rediSQL](https://github.com/RedBeardLab/rediSQL) - Redis module that provides a completely functional SQL database
 - [imazen/imageflow](https://github.com/imazen/imageflow) - High-performance image manipulation for web servers. Includes imageflow_server, imageflow_tool, and libimageflow
 - [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
 - [blockstack/stacks-blockchain](https://github.com/blockstack/stacks-blockchain) - The Stacks 2.0 blockchain implementation
@@ -13064,7 +13065,6 @@
 - [uswds/uswds](https://github.com/uswds/uswds) - The U.S. Web Design System helps the federal government build fast, accessible, mobile-friendly websites.
 - [atom/flight-manual.atom.io](https://github.com/atom/flight-manual.atom.io) - 📖 Documentation for Atom, generated by nanoc, hosted by GitHub Pages
 - [primer/css](https://github.com/primer/css) - The CSS design system that powers GitHub
-- [mdbootstrap/mdb-ui-kit](https://github.com/mdbootstrap/mdb-ui-kit) - Bootstrap 5 & Material Design 2.0 UI KIT
 - [prakhar1989/docker-curriculum](https://github.com/prakhar1989/docker-curriculum) - :dolphin: A comprehensive tutorial on getting started with Docker!
 
 ## Sass 
