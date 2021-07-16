@@ -963,7 +963,6 @@
 - [google/leveldb](https://github.com/google/leveldb) - LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
 - [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
 - [rethinkdb/rethinkdb](https://github.com/rethinkdb/rethinkdb) - The open-source database for the realtime web.
-- [flutter/engine](https://github.com/flutter/engine) - The Flutter engine
 - [Samsung/veles](https://github.com/Samsung/veles) - Distributed machine learning platform
 - [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) - Protocol Buffers - Google's data interchange format
 - [BVLC/caffe](https://github.com/BVLC/caffe) - Caffe: a fast open framework for deep learning.
@@ -1423,6 +1422,7 @@
 - [2d-inc/HistoryOfEverything](https://github.com/2d-inc/HistoryOfEverything) - Flutter Launch Timeline Demo
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond.
+- [flutter/engine](https://github.com/flutter/engine) - The Flutter engine
 
 ## Dhall 
 
@@ -2830,7 +2830,7 @@
 - [crate/crate](https://github.com/crate/crate) - CrateDB is a distributed SQL database that makes it simple to store and analyze massive amounts of machine data in real-time.
 - [tito/2048](https://github.com/tito/2048) - 2048 Game with Kivy
 - [Netflix/curator](https://github.com/Netflix/curator) - ZooKeeper client wrapper and rich ZooKeeper framework
-- [hazelcast/hazelcast](https://github.com/hazelcast/hazelcast) - Open Source Streaming Data Platform
+- [hazelcast/hazelcast](https://github.com/hazelcast/hazelcast) - Open-source distributed computation and storage platform
 - [nimbusproject/nimbus](https://github.com/nimbusproject/nimbus) - Nimbus - Open Source Cloud Computing Software - 100% Apache2 licensed
 - [twitter-archive/commons](https://github.com/twitter-archive/commons) - Twitter common libraries for python and the JVM (deprecated)
 - [apache/zookeeper](https://github.com/apache/zookeeper) - Apache ZooKeeper
@@ -4799,7 +4799,7 @@
 - [aws-samples/serverless-ai-workshop](https://github.com/aws-samples/serverless-ai-workshop) - This workshop demonstrates two methods of machine learning inference for global production using AWS Lambda and Amazon SageMaker
 - [JSeam2/Neural-Ordinary-Differential-Equations](https://github.com/JSeam2/Neural-Ordinary-Differential-Equations) - Sample implementation of Neural Ordinary Differential Equations
 - [thuml/CDAN](https://github.com/thuml/CDAN) - Code release for "Conditional Adversarial Domain Adaptation" (NIPS 2018)
-- [Azure/MachineLearningNotebooks](https://github.com/Azure/MachineLearningNotebooks) - This is a publish-only repository. All pull requests are ignored. Python notebooks with ML and deep learning examples with Azure Machine Learning Python SDK | Microsoft
+- [Azure/MachineLearningNotebooks](https://github.com/Azure/MachineLearningNotebooks) - Python notebooks with ML and deep learning examples with Azure Machine Learning Python SDK | Microsoft
 - [radekosmulski/quickdraw](https://github.com/radekosmulski/quickdraw) - 
 - [anopara/patch-based-texture-synthesis](https://github.com/anopara/patch-based-texture-synthesis) - Based on "Image Quilting for Texture Synthesis and Transfer" and "Real-Time Texture Synthesis by Patch-Based Sampling" papers
 - [pascal1129/kaggle_airbus_ship_detection](https://github.com/pascal1129/kaggle_airbus_ship_detection) - Kaggle airbus ship detection challenge 21st solution
@@ -10889,7 +10889,7 @@
 - [sdn-ixp/internet2award](https://github.com/sdn-ixp/internet2award) - 
 - [winpython/winpython](https://github.com/winpython/winpython) - A free Python-distribution for Windows platform, including prebuilt packages for Scientific Python.
 - [Maratyszcza/PeachPy](https://github.com/Maratyszcza/PeachPy) - x86-64 assembler embedded in Python
-- [knipknap/SpiffWorkflow](https://github.com/knipknap/SpiffWorkflow) - A powerful workflow engine implemented in pure Python
+- [sartography/SpiffWorkflow](https://github.com/sartography/SpiffWorkflow) - A powerful workflow engine implemented in pure Python
 - [gunnery/gunnery](https://github.com/gunnery/gunnery) - Remote task execution tool
 - [thauber/django-schedule](https://github.com/thauber/django-schedule) - A calendaring app for Django.  It is now stable, Please feel free to use it now. Active development has been taken over by bartekgorny.
 - [Supervisor/supervisor](https://github.com/Supervisor/supervisor) - Supervisor process control system for UNIX
