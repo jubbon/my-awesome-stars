@@ -1623,7 +1623,7 @@
 - [jpschroeder/pipe-to-me](https://github.com/jpschroeder/pipe-to-me) - Stream data over http using curl.
 - [uber/kraken](https://github.com/uber/kraken) - P2P Docker registry capable of distributing TBs of data in seconds
 - [uber/astro](https://github.com/uber/astro) - Astro is a tool for managing multiple Terraform executions as a single command
-- [cortexlabs/cortex](https://github.com/cortexlabs/cortex) - Cost-effective serverless computing
+- [cortexlabs/cortex](https://github.com/cortexlabs/cortex) - Containers as a service on AWS
 - [ovh/cds](https://github.com/ovh/cds) - Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform
 - [k3s-io/k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes
 - [skanehira/docui](https://github.com/skanehira/docui) - TUI Client for Docker
@@ -2372,6 +2372,7 @@
 - [ajinabraham/Droid-Application-Fuzz-Framework](https://github.com/ajinabraham/Droid-Application-Fuzz-Framework) - Android application fuzzing framework with fuzzers and crash monitor.
 - [arthchan2003/AIDL_KB](https://github.com/arthchan2003/AIDL_KB) - A Knowledge Base for the FB Group Artificial Intelligence and Deep Learning (AIDL)
 - [ConsenSys/smart-contract-best-practices](https://github.com/ConsenSys/smart-contract-best-practices) - A guide to smart contract security best practices
+- [SeldonIO/seldon-core](https://github.com/SeldonIO/seldon-core) - An MLOps framework to package, deploy, monitor and manage thousands of production machine learning models
 - [google/fonts](https://github.com/google/fonts) - Font files available from Google Fonts, and a public issue tracker for all things Google Fonts
 - [stackblitz/core](https://github.com/stackblitz/core) - Online IDE powered by Visual Studio Code ⚡️
 - [tc39/proposal-optional-chaining](https://github.com/tc39/proposal-optional-chaining) - 
@@ -4984,7 +4985,6 @@
 - [wilfredinni/python-cheatsheet](https://github.com/wilfredinni/python-cheatsheet) - Basic Cheat Sheet for Python (PDF, Markdown and Jupyter Notebook)
 - [ternaus/robot-surgery-segmentation](https://github.com/ternaus/robot-surgery-segmentation) - Wining solution and its improvement for MICCAI 2017 Robotic Instrument Segmentation Sub-Challenge
 - [ignacio-rocco/detectorch](https://github.com/ignacio-rocco/detectorch) - Detectorch - detectron for PyTorch
-- [SeldonIO/seldon-core](https://github.com/SeldonIO/seldon-core) - An MLOps framework to package, deploy, monitor and manage thousands of production machine learning models
 - [microsoft/Quantum](https://github.com/microsoft/Quantum) - Microsoft Quantum Development Kit Samples
 - [AtsushiSakai/PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) - Python sample codes for robotics algorithms.
 - [kuk/parallel-cell](https://github.com/kuk/parallel-cell) - 
@@ -5382,7 +5382,6 @@
 - [BinRoot/TensorFlow-Book](https://github.com/BinRoot/TensorFlow-Book) - Accompanying source code for Machine Learning with TensorFlow. Refer to the book for step-by-step explanations.
 - [Mostafa-Samir/DNC-tensorflow](https://github.com/Mostafa-Samir/DNC-tensorflow) - A TensorFlow implementation of DeepMind's Differential Neural Computers (DNC)
 - [QuantEcon/QuantEcon.notebooks](https://github.com/QuantEcon/QuantEcon.notebooks) - Jupyter notebooks contributed by QuantEcon developers, users and the community
-- [probml/pyprobml](https://github.com/probml/pyprobml) - Python code for "Machine learning: a probabilistic perspective" (2nd edition)
 - [yandexdataschool/Practical_DL](https://github.com/yandexdataschool/Practical_DL) - DL course co-developed by YSDA, HSE and Skoltech
 - [dmlc/mxnet-notebooks](https://github.com/dmlc/mxnet-notebooks) - Notebooks for MXNet
 - [udacity/CarND-TensorFlow-Lab](https://github.com/udacity/CarND-TensorFlow-Lab) - TensorFlow Lab for Self-Driving Car ND
@@ -6892,6 +6891,7 @@
 
 ## Python 
 
+- [instadeepai/Mava](https://github.com/instadeepai/Mava) - A library of multi-agent reinforcement learning components and systems
 - [jacobgil/pytorch-grad-cam](https://github.com/jacobgil/pytorch-grad-cam) - Many Class Activation Map methods implemented in Pytorch for CNNs and Vision Transformers. Including Grad-CAM, Grad-CAM++, Score-CAM, Ablation-CAM and XGrad-CAM
 - [jupyterhub/jupyterhub-deploy-docker](https://github.com/jupyterhub/jupyterhub-deploy-docker) - Reference deployment of JupyterHub with docker
 - [alexmojaki/snoop](https://github.com/alexmojaki/snoop) - A powerful set of Python debugging tools, based on PySnooper
@@ -7538,7 +7538,7 @@
 - [haarnoja/sac](https://github.com/haarnoja/sac) - Soft Actor-Critic
 - [vitchyr/multiworld](https://github.com/vitchyr/multiworld) - Multitask Environments for RL
 - [rlworkgroup/dowel](https://github.com/rlworkgroup/dowel) - A little logger for machine learning research
-- [facebookresearch/fastMRI](https://github.com/facebookresearch/fastMRI) - A large-scale dataset of both raw MRI measurements and clinical MRI images
+- [facebookresearch/fastMRI](https://github.com/facebookresearch/fastMRI) - A large-scale dataset of both raw MRI measurements and clinical MRI images.
 - [huawei-noah/Pretrained-Language-Model](https://github.com/huawei-noah/Pretrained-Language-Model) - Pretrained language model and its related optimization techniques developed by Huawei Noah's Ark Lab.
 - [microsoft/nlp-recipes](https://github.com/microsoft/nlp-recipes) - Natural Language Processing Best Practices & Examples
 - [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
@@ -9864,6 +9864,7 @@
 - [pengpaiSH/Kaggle_NCFM](https://github.com/pengpaiSH/Kaggle_NCFM) - Using Keras+TensorFlow to solve NCFM-Leadboard Top 5%
 - [llSourcell/tensorflow_chatbot](https://github.com/llSourcell/tensorflow_chatbot) - Tensorflow chatbot demo by @Sirajology on Youtube
 - [StackStorm/st2](https://github.com/StackStorm/st2) - StackStorm (aka "IFTTT for Ops") is event-driven automation for auto-remediation, security responses, troubleshooting, deployments, and more. Includes rules engine, workflow, 160 integration packs with 6000+ actions (see https://exchange.stackstorm.org) and ChatOps. Installer at https://docs.stackstorm.com/install/index.html. Questions? https://forum.stackstorm.com/.
+- [probml/pyprobml](https://github.com/probml/pyprobml) - Python code for "Machine learning: a probabilistic perspective" (2nd edition)
 - [elfi-dev/elfi](https://github.com/elfi-dev/elfi) - ELFI - Engine for Likelihood-Free Inference
 - [Logicmn/pyx](https://github.com/Logicmn/pyx) - Real-time stock trading program using a basic mean reversion algorithm
 - [PyFilesystem/pyfilesystem2](https://github.com/PyFilesystem/pyfilesystem2) - Python's Filesystem abstraction layer
@@ -13727,7 +13728,7 @@
 - [ivanlori/Vuemmerce](https://github.com/ivanlori/Vuemmerce) - 👉 Responsive ecommerce template 🛒 built with Vue.js and Nuxt.js
 - [flatlogic/sing-app-vue-dashboard](https://github.com/flatlogic/sing-app-vue-dashboard) - Vue.js admin dashboard template built with Bootstrap 4.5
 - [flatlogic/light-blue-vue-admin](https://github.com/flatlogic/light-blue-vue-admin) - 🤘Vue admin dashboard template with stylish transparent design
-- [ClintOxx/M-Dashboard-Materialfy](https://github.com/ClintOxx/M-Dashboard-Materialfy) - A Crud Admin panel made from Vue, Vuex, Vue-Router and Vuetify. Features working Notification system, Login system, JWT system, Store, Data tables
+- [Materialfy/M-Dash](https://github.com/Materialfy/M-Dash) - A Crud Admin Dash made from Vue, Vuex, Vue-Router and Vuetify. Features working Notification system, Login system, JWT system, Store, Data tables
 - [tlbootcamp/tlroadmap](https://github.com/tlbootcamp/tlroadmap) - Тимлид – это ❄️, потому что в каждой компании он уникален и неповторим.
 - [pydanny/pydanny.com](https://github.com/pydanny/pydanny.com) - 
 - [lostdesign/webgems](https://github.com/lostdesign/webgems) - A curated list of resources for devs and designers. Join me on devcord.com if you are up for a chit chat :)
