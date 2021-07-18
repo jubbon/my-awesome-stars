@@ -498,7 +498,7 @@
 
 - [sberdevices/smartspeech](https://github.com/sberdevices/smartspeech) - 
 - [qgis/QGIS](https://github.com/qgis/QGIS) - QGIS is a free, open source, cross platform (lin/win/mac) geographical information system (GIS)
-- [an-tao/drogon](https://github.com/an-tao/drogon) - Drogon: A C++14/17 based HTTP web application framework running on Linux/macOS/Unix/Windows
+- [drogonframework/drogon](https://github.com/drogonframework/drogon) - Drogon: A C++14/17 based HTTP web application framework running on Linux/macOS/Unix/Windows
 - [Tencent/Forward](https://github.com/Tencent/Forward) - A library for high performance deep learning inference on NVIDIA GPUs.
 - [Samuele458/visual-dijkstra](https://github.com/Samuele458/visual-dijkstra) - Open-source graph editor, with built-it step-by-step Dijkstra's Algorithm.
 - [DeepGraphLearning/graphvite](https://github.com/DeepGraphLearning/graphvite) - GraphVite: A General and High-performance Graph Embedding System
@@ -4700,7 +4700,7 @@
 - [SlinkoIgor/data_mining_course](https://github.com/SlinkoIgor/data_mining_course) - 
 - [SlinkoIgor/express_ml](https://github.com/SlinkoIgor/express_ml) - Express course of machine learning
 - [sdhnshu/Pytorch-Model-Zoo](https://github.com/sdhnshu/Pytorch-Model-Zoo) - A collection of deep learning models implemented in PyTorch
-- [zju3dv/mvpose](https://github.com/zju3dv/mvpose) - Code for "Fast and Robust Multi-Person 3D Pose Estimation from Multiple Views", CVPR 2019
+- [zju3dv/mvpose](https://github.com/zju3dv/mvpose) - Code for "Fast and Robust Multi-Person 3D Pose Estimation from Multiple Views" (CVPR 2019, T-PAMI 2021)
 - [cgpotts/cs224u](https://github.com/cgpotts/cs224u) - Code for Stanford CS224u
 - [theislab/single-cell-tutorial](https://github.com/theislab/single-cell-tutorial) - Single cell current best practices tutorial case study for the paper:Luecken and Theis, "Current best practices in single-cell RNA-seq analysis: a tutorial"
 - [makinarocks/awesome-industrial-machine-datasets](https://github.com/makinarocks/awesome-industrial-machine-datasets) - 
@@ -5424,7 +5424,6 @@
 - [pydata/parallel-tutorial](https://github.com/pydata/parallel-tutorial) - Parallel computing in Python tutorial materials
 - [mdeff/cnn_graph](https://github.com/mdeff/cnn_graph) - Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering
 - [dennybritz/chatbot-retrieval](https://github.com/dennybritz/chatbot-retrieval) - Dual LSTM Encoder for Dialog Response Generation
-- [DerwenAI/pytextrank](https://github.com/DerwenAI/pytextrank) - Python implementation of TextRank for phrase extraction and summarization of text documents
 - [atriumlts/subpixel](https://github.com/atriumlts/subpixel) - subpixel: A subpixel convnet for super resolution with Tensorflow
 - [dennybritz/reinforcement-learning](https://github.com/dennybritz/reinforcement-learning) - Implementation of Reinforcement Learning Algorithms. Python, OpenAI Gym, Tensorflow. Exercises and Solutions to accompany Sutton's Book and David Silver's course.
 - [udacity/self-driving-car](https://github.com/udacity/self-driving-car) - The Udacity open source self-driving car project
@@ -7940,7 +7939,7 @@
 - [traveller59/torchplus](https://github.com/traveller59/torchplus) - additional functions and modules for pytorch. will be a submodule of my deeplearning project.
 - [d6t/d6tflow](https://github.com/d6t/d6tflow) - Python library for building highly effective data science workflows
 - [privacyidea/privacyidea](https://github.com/privacyidea/privacyidea) - :closed_lock_with_key: multi factor authentication system (2FA, MFA, OTP Server)
-- [BayesWitnesses/m2cgen](https://github.com/BayesWitnesses/m2cgen) - Transform ML models into a native code (Java, C, Python, Go, JavaScript, Visual Basic, C#, R, PowerShell, PHP, Dart, Haskell, Ruby) with zero dependencies
+- [BayesWitnesses/m2cgen](https://github.com/BayesWitnesses/m2cgen) - Transform ML models into a native code (Java, C, Python, Go, JavaScript, Visual Basic, C#, R, PowerShell, PHP, Dart, Haskell, Ruby, F#, Rust) with zero dependencies
 - [encode/databases](https://github.com/encode/databases) - Async database support for Python. 🗄
 - [facebookincubator/ptr](https://github.com/facebookincubator/ptr) - Python Test Runner.
 - [pytest-dev/pytest-play](https://github.com/pytest-dev/pytest-play) - pytest plugin that let you automate actions and assertions with test metrics reporting executing plain YAML files
@@ -10024,6 +10023,7 @@
 - [tobgu/qcache](https://github.com/tobgu/qcache) - In memory cache server with query capabilities
 - [ellisonbg/altair](https://github.com/ellisonbg/altair) - Declarative statistical visualization library for Python
 - [SullyChen/Autopilot-TensorFlow](https://github.com/SullyChen/Autopilot-TensorFlow) - A TensorFlow implementation of this Nvidia paper: https://arxiv.org/pdf/1604.07316.pdf with some changes
+- [DerwenAI/pytextrank](https://github.com/DerwenAI/pytextrank) - Python implementation of TextRank for phrase extraction and summarization of text documents
 - [yandex/pgmigrate](https://github.com/yandex/pgmigrate) - Simple tool to evolve PostgreSQL schema easily.
 - [maxpoletaev/django-micro](https://github.com/maxpoletaev/django-micro) - Django as a microframework
 - [prashnts/hues](https://github.com/prashnts/hues) - Colored terminal text made easy for Python and happiness.
@@ -13216,7 +13216,7 @@
 - [CISOfy/lynis](https://github.com/CISOfy/lynis) - Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.
 - [debops/ansible-nginx](https://github.com/debops/ansible-nginx) - Install and manage nginx webserver
 - [jakubnabrdalik/gitkurwa](https://github.com/jakubnabrdalik/gitkurwa) - A sample project containing usefull verbose aliases, for those who feel lost and angry at git. Basically for those Polish folks, who scream "Git, kurwa!".
-- [Screetsec/Dracnmap](https://github.com/Screetsec/Dracnmap) - Dracnmap is an open source program which is using to exploit the network and gathering information with nmap help. Nmap command comes with lots of options that can make the utility more robust and difficult to follow for new users. Hence Dracnmap is designed to perform fast scaning with the utilizing script engine of nmap and nmap can perform various automatic scanning techniques with the advanced commands.
+- [screetsec/Dracnmap](https://github.com/screetsec/Dracnmap) - Dracnmap is an open source program which is using to exploit the network and gathering information with nmap help. Nmap command comes with lots of options that can make the utility more robust and difficult to follow for new users. Hence Dracnmap is designed to perform fast scaning with the utilizing script engine of nmap and nmap can perform various automatic scanning techniques with the advanced commands.
 - [open-guides/og-aws](https://github.com/open-guides/og-aws) - 📙 Amazon Web Services — a practical guide
 - [mikeblum/redis-playbook](https://github.com/mikeblum/redis-playbook) - Ansible playbook for deploying, securing, and optimizing a Redis instance
 - [thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) - 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
@@ -13873,7 +13873,7 @@
 - [slimkit/plus-small-screen-client](https://github.com/slimkit/plus-small-screen-client) - 本库已经合并进入 https://github.com/slimkit/plus 中，仅提供 2.1 及以前版本下载使用！
 - [stasson/vue-mdc-adapter](https://github.com/stasson/vue-mdc-adapter) - DEPRECATED
 - [watch-devtube/web](https://github.com/watch-devtube/web) - 🍿 Free and open-source tech video hub.
-- [scalia/vuejs-tree](https://github.com/scalia/vuejs-tree) - A highly customizable and blazing fast Vue tree component ⚡🌲
+- [vinz3872/vuejs-tree](https://github.com/vinz3872/vuejs-tree) - A highly customizable and blazing fast Vue tree component ⚡🌲
 - [Edinburgh-Genome-Foundry/CAB](https://github.com/Edinburgh-Genome-Foundry/CAB) - :oncoming_taxi:  The friendly Computational App Boilerplate. Django + Vue.JS + Redis queues + NginX
 - [GeekyAnts/KitchenSink-Vue-Native](https://github.com/GeekyAnts/KitchenSink-Vue-Native) - KitchenSink app for Vue Native (using NativeBase)
 - [SevenOutman/Hubble](https://github.com/SevenOutman/Hubble) - :telescope: Travel through GitHub Stars' history
