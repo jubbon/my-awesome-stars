@@ -2140,6 +2140,7 @@
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
 - [omniscale/imposm3](https://github.com/omniscale/imposm3) - Imposm imports OpenStreetMap data into PostGIS
 - [aptly-dev/aptly](https://github.com/aptly-dev/aptly) - aptly - Debian repository management tool
+- [capensis/canopsis](https://github.com/capensis/canopsis) - Canopsis is an open-source hypervisor whose goal is to aggregate informations and events coming from multiple sources to create a global solution for monitoring and resources administration -- MIRROR of https://git.canopsis.net/canopsis/canopsis-community --
 - [rdegges/ipify-api](https://github.com/rdegges/ipify-api) - A public IP API service.
 - [google/git-appraise](https://github.com/google/git-appraise) - Distributed code review system for Git repos
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
@@ -3199,7 +3200,7 @@
 - [phoboslab/underrun](https://github.com/phoboslab/underrun) - Twin stick shooter game in 13kb of JavaScript/WebGL
 - [bokub/lyo](https://github.com/bokub/lyo) - 📦 Node.js to browser - The easy way
 - [GoogleChromeLabs/worker-plugin](https://github.com/GoogleChromeLabs/worker-plugin) - 👩‍🏭 Adds native Web Worker bundling support to Webpack.
-- [checkly/headless-recorder](https://github.com/checkly/headless-recorder) - 🎥 Headless recorder is a Chrome extension that records your browser interactions and generates a Puppeteer or Playwright script.
+- [checkly/headless-recorder](https://github.com/checkly/headless-recorder) - 🎥 Headless recorder is a Chrome extension that records your browser interactions and generates a Playwright or Puppeteer script.
 - [google/wwwbasic](https://github.com/google/wwwbasic) - wwwBASIC is an implementation of BASIC that runs on Node.js and the Web.
 - [GoogleChromeLabs/idlize](https://github.com/GoogleChromeLabs/idlize) - Helper classes and methods for implementing the idle-until-urgent pattern
 - [rawilk/vue-context](https://github.com/rawilk/vue-context) - A simple vue context menu component.
@@ -4433,7 +4434,6 @@
 - [dialogue-evaluation/SemSketches](https://github.com/dialogue-evaluation/SemSketches) - SemSketches 2021
 - [natasha/corus](https://github.com/natasha/corus) - Links to Russian corpora + Python functions for loading and parsing
 - [MITESHPUTHRANNEU/Speech-Emotion-Analyzer](https://github.com/MITESHPUTHRANNEU/Speech-Emotion-Analyzer) - The neural network model is capable of detecting five different male/female emotions from audio speeches. (Deep Learning, NLP, Python)
-- [google/BIG-bench](https://github.com/google/BIG-bench) - Beyond the Imitation Game collaborative benchmark for enormous language models
 - [elmoallistair/google-it-automation](https://github.com/elmoallistair/google-it-automation) - google it automation with python professional certificate
 - [ipazc/mtcnn](https://github.com/ipazc/mtcnn) - MTCNN face detection implementation for TensorFlow, as a PIP package.
 - [Gladiator07/Harvestify](https://github.com/Gladiator07/Harvestify) - A machine learning based website that recommends the best crop to grow, fertilizers to use, and the diseases caught by your crops.
@@ -4454,7 +4454,7 @@
 - [snakers4/silero-models](https://github.com/snakers4/silero-models) - Silero Models: pre-trained speech-to-text, text-to-speech models and benchmarks made embarrassingly simple
 - [grib0ed0v/kaldi-for-russian](https://github.com/grib0ed0v/kaldi-for-russian) - 
 - [yh1008/speech-to-text](https://github.com/yh1008/speech-to-text) - mixlingual speech recognition system; hybrid (GMM+NNet) model; Kaldi + Keras
-- [PaddlePaddle/DeepSpeech](https://github.com/PaddlePaddle/DeepSpeech) - A PaddlePaddle Speech to Text toolkit.
+- [PaddlePaddle/DeepSpeech](https://github.com/PaddlePaddle/DeepSpeech) - A PaddlePaddle Speech to Any toolkit.
 - [dwromero/wavelet_networks](https://github.com/dwromero/wavelet_networks) - Code repository of the paper "Wavelet Networks: Scale Equivariant Learning From Raw Waveforms"  https://arxiv.org/abs/2006.05259
 - [evidentlyai/evidently](https://github.com/evidentlyai/evidently) - Interactive reports to analyze machine learning models during validation or production monitoring.
 - [dilyararimovna/text_expansion](https://github.com/dilyararimovna/text_expansion) - Russian Text Expansion based on ruGPT3Large
@@ -5815,6 +5815,7 @@
 
 ## Others 
 
+- [sberbank-ai/model-zoo](https://github.com/sberbank-ai/model-zoo) - NLP model zoo for Russian
 - [markusschanta/awesome-jupyter](https://github.com/markusschanta/awesome-jupyter) - A curated list of awesome Jupyter projects, libraries and resources
 - [benthecoder/yt-channels-DS-AI-ML-CS](https://github.com/benthecoder/yt-channels-DS-AI-ML-CS) - A comprehensive list of 180+ YouTube Channels for Data Science,  Data Engineering, Machine Learning, Deep learning, Computer Science, programming, software engineering, etc.
 - [sberdevices/golos](https://github.com/sberdevices/golos) - 
@@ -6890,6 +6891,8 @@
 
 ## Python 
 
+- [deepmind/alphafold](https://github.com/deepmind/alphafold) - Open source code for AlphaFold.
+- [facebookresearch/covid19_spread](https://github.com/facebookresearch/covid19_spread) - Modeling the spread of COVID-19
 - [instadeepai/Mava](https://github.com/instadeepai/Mava) - A library of multi-agent reinforcement learning components and systems
 - [jacobgil/pytorch-grad-cam](https://github.com/jacobgil/pytorch-grad-cam) - Many Class Activation Map methods implemented in Pytorch for CNNs and Vision Transformers. Including Grad-CAM, Grad-CAM++, Score-CAM, Ablation-CAM and XGrad-CAM
 - [jupyterhub/jupyterhub-deploy-docker](https://github.com/jupyterhub/jupyterhub-deploy-docker) - Reference deployment of JupyterHub with docker
@@ -6975,6 +6978,7 @@
 - [PeterL1n/BackgroundMattingV2](https://github.com/PeterL1n/BackgroundMattingV2) - Real-Time High-Resolution Background Matting
 - [POSTECH-CVLab/PyTorch-StudioGAN](https://github.com/POSTECH-CVLab/PyTorch-StudioGAN) - StudioGAN is a Pytorch library providing implementations of representative Generative Adversarial Networks (GANs) for conditional/unconditional image generation.
 - [PaddlePaddle/PaddleGAN](https://github.com/PaddlePaddle/PaddleGAN) - PaddlePaddle GAN library, including lots of interesting applications like First-Order motion transfer,  wav2lip, picture repair, image editing, photo2cartoon, image style transfer, and so on.
+- [google/BIG-bench](https://github.com/google/BIG-bench) - Beyond the Imitation Game collaborative benchmark for enormous language models
 - [facebookresearch/fairscale](https://github.com/facebookresearch/fairscale) - PyTorch extensions for high performance and large scale training.
 - [hyunwoongko/openchat](https://github.com/hyunwoongko/openchat) - Easy to use opensource chatting framework via neural networks
 - [dorarad/gansformer](https://github.com/dorarad/gansformer) - Generative Adversarial Transformers
@@ -10699,7 +10703,6 @@
 - [girishramnani/hacking-tools](https://github.com/girishramnani/hacking-tools) - tools which can be used by forensics experts and ethical hackers
 - [nvdv/vprof](https://github.com/nvdv/vprof) - Visual profiler for Python
 - [nikitasrivatsan/DeepLearningVideoGames](https://github.com/nikitasrivatsan/DeepLearningVideoGames) - 
-- [capensis/canopsis](https://github.com/capensis/canopsis) - Canopsis is an open-source hypervisor whose goal is to aggregate informations and events coming from multiple sources to create a global solution for monitoring and resources administration -- MIRROR of https://git.canopsis.net/canopsis/canopsis-community --
 - [python-diamond/Diamond](https://github.com/python-diamond/Diamond) - Diamond is a python daemon that collects system metrics and publishes them to Graphite (and others). It is capable of collecting cpu, memory, network, i/o, load and disk metrics. Additionally, it features an API for implementing custom collectors for gathering metrics from almost any source.
 - [uralbash/Python-lectures](https://github.com/uralbash/Python-lectures) - Лекции по яп Python - УГТУ-УПИ, кафедра ИИТ.
 - [dellis23/ispy](https://github.com/dellis23/ispy) - Monitor the output of terminals and processes.
