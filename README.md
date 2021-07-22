@@ -558,7 +558,7 @@
 - [1technophile/OpenMQTTGateway](https://github.com/1technophile/OpenMQTTGateway) - MQTT gateway for ESP8266, ESP32, Sonoff RF Bridge or Arduino with bidirectional 433mhz/315mhz/868mhz, Infrared communications, BLE, beacons detection, mi flora, mi jia, LYWSD02, LYWSD03MMC, Mi Scale compatibility, SMS & LORA.
 - [endless-sky/endless-sky](https://github.com/endless-sky/endless-sky) - Space exploration, trading, and combat game.
 - [Hopson97/open-builder](https://github.com/Hopson97/open-builder) - Open  "Minecraft-like" game with multiplayer support and Lua scripting support for the both client and server
-- [Tencent/Hippy](https://github.com/Tencent/Hippy) - A cross platform framework designed for Web developer. Introduction video - https://v.qq.com/x/page/i3038urj2mt.html
+- [Tencent/Hippy](https://github.com/Tencent/Hippy) - Hippy is designed for Web developer to easily build cross-platform and high-performance awesome apps. 👏
 - [Tencent/plato](https://github.com/Tencent/plato) - 腾讯高性能分布式图计算框架Plato
 - [vesoft-inc/nebula](https://github.com/vesoft-inc/nebula) - A distributed, fast open-source graph database featuring horizontal scalability and high availability
 - [mmp/pbrt-v3](https://github.com/mmp/pbrt-v3) - Source code for pbrt, the renderer described in the third edition of "Physically Based Rendering: From Theory To Implementation", by Matt Pharr, Wenzel Jakob, and Greg Humphreys.
@@ -5678,6 +5678,7 @@
 - [Kotlin/anko](https://github.com/Kotlin/anko) - Pleasant Android application development
 - [wangjiegulu/kotlin-for-android-developers-zh](https://github.com/wangjiegulu/kotlin-for-android-developers-zh) - Kotlin for android developers in chinese.
 - [android/architecture-components-samples](https://github.com/android/architecture-components-samples) - Samples for Android Architecture Components.
+- [JetBrains/kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.
 - [google/flexbox-layout](https://github.com/google/flexbox-layout) - Flexbox for Android
 - [android/architecture-samples](https://github.com/android/architecture-samples) - A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.
 
@@ -6422,7 +6423,6 @@
 - [virajkulkarni14/WebDeveloperSecurityChecklist](https://github.com/virajkulkarni14/WebDeveloperSecurityChecklist) - A checklist of important security issues you should consider when creating a web application.
 - [aalhour/awesome-compilers](https://github.com/aalhour/awesome-compilers) - :sunglasses: Curated list of awesome resources on Compilers, Interpreters and Runtimes
 - [googlecreativelab/quickdraw-dataset](https://github.com/googlecreativelab/quickdraw-dataset) - Documentation on how to access and use the Quick, Draw! Dataset.
-- [JetBrains/kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.
 - [nayafia/microgrants](https://github.com/nayafia/microgrants) - A list of microgrant programs for your good ideas
 - [qazbnm456/awesome-web-security](https://github.com/qazbnm456/awesome-web-security) - 🐶 A curated list of Web Security materials and resources.
 - [stacygohyunsi/algorithms-primer](https://github.com/stacygohyunsi/algorithms-primer) - A consolidated collection of resources for you to learn and understand algorithms and data structures easily.
@@ -7994,7 +7994,7 @@
 - [lutris/lutris](https://github.com/lutris/lutris) - Lutris desktop client in Python / PyGObject
 - [uvipen/QuickDraw](https://github.com/uvipen/QuickDraw) - Implementation of Quickdraw - an online game developed by Google
 - [krocki/dnc](https://github.com/krocki/dnc) - Simple RNN, LSTM and Differentiable Neural Computer in pure Numpy
-- [ZhaoJ9014/face.evoLVe.PyTorch](https://github.com/ZhaoJ9014/face.evoLVe.PyTorch) - 🔥🔥High-Performance Face Recognition Library on PyTorch🔥🔥
+- [ZhaoJ9014/face.evoLVe.PyTorch](https://github.com/ZhaoJ9014/face.evoLVe.PyTorch) - 🔥🔥High-Performance Face Recognition Library on PyTorch & PaddlePaddle🔥🔥
 - [05bit/peewee-async](https://github.com/05bit/peewee-async) - Asynchronous interface for peewee ORM powered by asyncio
 - [NUAA-AL/ALiPy](https://github.com/NUAA-AL/ALiPy) - ALiPy: Active Learning in Python is an active learning python toolbox, which allows users to conveniently evaluate, compare and analyze the performance of active learning methods.
 - [FKLC/IGQL](https://github.com/FKLC/IGQL) - Unofficial Instagram GraphQL API to collet data without authentication
@@ -8062,7 +8062,7 @@
 - [opsmop/opsmop](https://github.com/opsmop/opsmop) - DISCONTINUED: permanent copy of fork lives at github.com/mpdehaan/opsmop
 - [vojtamolda/autodrome](https://github.com/vojtamolda/autodrome) - Framework and OpenAI Gym Environment for Autonomous Vehicle Development
 - [Jerry2001Qu/Self-Driving-Car](https://github.com/Jerry2001Qu/Self-Driving-Car) - A Reinforcement Learning algorithm that drives a self driving car
-- [vitchyr/rlkit](https://github.com/vitchyr/rlkit) - Collection of reinforcement learning algorithms
+- [rail-berkeley/rlkit](https://github.com/rail-berkeley/rlkit) - Collection of reinforcement learning algorithms
 - [cloudtools/stacker](https://github.com/cloudtools/stacker) - An AWS CloudFormation Stack orchestrator/manager.
 - [lufficc/SSD](https://github.com/lufficc/SSD) - High quality, fast, modular reference implementation of SSD in PyTorch
 - [DHI-GRAS/terracotta](https://github.com/DHI-GRAS/terracotta) - A light-weight, versatile XYZ tile server, built with Flask and Rasterio :earth_africa:
@@ -9353,7 +9353,7 @@
 - [jd/daiquiri](https://github.com/jd/daiquiri) - Python library to easily setup basic logging functionality
 - [cloudnativelabs/kube-shell](https://github.com/cloudnativelabs/kube-shell) - Kubernetes shell: An integrated shell for working with the Kubernetes
 - [pywinauto/SWAPY](https://github.com/pywinauto/SWAPY) - not maintained any more (will be replaced by py_inspect)
-- [selectel/ansible-selvpc-modules](https://github.com/selectel/ansible-selvpc-modules) - Ansible modules for Selectel VPC service
+- [selectel/ansible-selvpc-modules](https://github.com/selectel/ansible-selvpc-modules) - [Official] Ansible modules for Selectel Cloud
 - [UDST/orca](https://github.com/UDST/orca) - Python library for task orchestration
 - [UDST/urbansim](https://github.com/UDST/urbansim) - Platform for building statistical models of cities and regions
 - [Kyubyong/tacotron_asr](https://github.com/Kyubyong/tacotron_asr) - Speech Recognition Using Tacotron
