@@ -1512,7 +1512,7 @@
 
 ## Go 
 
-- [onepanelio/onepanel](https://github.com/onepanelio/onepanel) - The open source, end-to-end computer vision platform. Label, build, train, tune, deploy and automate, all in one platform that runs on any cloud and on-premises.
+- [onepanelio/onepanel](https://github.com/onepanelio/onepanel) - The open source, end-to-end computer vision platform. Label, build, train, tune, deploy and automate in a unified platform that runs on any cloud and on-premises.
 - [george-e-shaw-iv/integration-tests-example](https://github.com/george-e-shaw-iv/integration-tests-example) - An example project showcasing how Ardan Labs writes integration tests
 - [mattermost/mattermost-server](https://github.com/mattermost/mattermost-server) - Open source Slack-alternative in Golang and React - Mattermost
 - [ory/kratos](https://github.com/ory/kratos) - Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, profile management, identity schemas, social sign in, registration, account recovery, and IoT auth. Golang, headless, API-only - without templating or theming headaches.
@@ -3256,7 +3256,7 @@
 - [apexcharts/apexcharts.js](https://github.com/apexcharts/apexcharts.js) - 📊 Interactive JavaScript Charts built on SVG
 - [klaussinani/taskbook](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat
 - [redxtech/vue-plyr](https://github.com/redxtech/vue-plyr) - A Vue component for the plyr (https://github.com/sampotts/plyr) video & audio player.
-- [ais-one/vue-crud-x](https://github.com/ais-one/vue-crud-x) - Vue+Express Cookbook & CRUD Component (with Vite and Web Components)
+- [ais-one/cookbook](https://github.com/ais-one/cookbook) - VueJS + NodeJS Evergreen Cookbook
 - [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - 👻 The #1 headless Node.js CMS for professional publishing
 - [mattdesl/canvas-sketch](https://github.com/mattdesl/canvas-sketch) - [beta] A framework for making generative artwork in JavaScript and the browser.
 - [github/fetch](https://github.com/github/fetch) - A window.fetch JavaScript polyfill.
@@ -4449,7 +4449,7 @@
 - [jackroos/VL-BERT](https://github.com/jackroos/VL-BERT) - Code for ICLR 2020 paper "VL-BERT: Pre-training of Generic Visual-Linguistic Representations".
 - [github/CodeSearchNet](https://github.com/github/CodeSearchNet) - Datasets, tools, and benchmarks for representation learning of code.
 - [MLWhiz/data_science_blogs](https://github.com/MLWhiz/data_science_blogs) - A repository to keep track of all the code that I end up writing for my blog posts.
-- [yitu-opensource/T2T-ViT](https://github.com/yitu-opensource/T2T-ViT) - 
+- [yitu-opensource/T2T-ViT](https://github.com/yitu-opensource/T2T-ViT) - ICCV2021, Tokens-to-Token ViT: Training Vision Transformers from Scratch on ImageNet
 - [Pzoom522/HistSumm](https://github.com/Pzoom522/HistSumm) - Code and data for "Summarising Historical Text in Modern Languages" (EACL 2021)
 - [snakers4/silero-models](https://github.com/snakers4/silero-models) - Silero Models: pre-trained speech-to-text, text-to-speech models and benchmarks made embarrassingly simple
 - [grib0ed0v/kaldi-for-russian](https://github.com/grib0ed0v/kaldi-for-russian) - 
@@ -4501,7 +4501,7 @@
 - [DanielDaCosta/RNN-Keras](https://github.com/DanielDaCosta/RNN-Keras) - Building a Multi-Label Classifier doesn't seem a difficult task using Keras, but when you are dealing with a highly imbalanced dataset with more than 30 different labels and with multiple losses it can become quite tricky.
 - [deepmipt/dp_tutorials](https://github.com/deepmipt/dp_tutorials) - 
 - [denisyarats/drq](https://github.com/denisyarats/drq) - DrQ: Data regularized Q
-- [DiffEqML/torchdyn](https://github.com/DiffEqML/torchdyn) - A PyTorch based library for all things neural differential equations
+- [DiffEqML/torchdyn](https://github.com/DiffEqML/torchdyn) - A PyTorch based library for all things neural differential equations and implicit neural models.
 - [NVIDIA/flowtron](https://github.com/NVIDIA/flowtron) - Flowtron is an auto-regressive flow-based generative network for text to speech synthesis with control over speech variation and style transfer
 - [codenation-dev/Data-Science-Online](https://github.com/codenation-dev/Data-Science-Online) - 
 - [christophM/interpretable-ml-book](https://github.com/christophM/interpretable-ml-book) - Book about interpretable machine learning
@@ -4841,7 +4841,6 @@
 - [pukkapies/dl-imperial-maths](https://github.com/pukkapies/dl-imperial-maths) - Code and assignment repository for the Imperial College Mathematics department Deep Learning course
 - [TheEconomist/big-mac-data](https://github.com/TheEconomist/big-mac-data) - Data and methodology for the Big Mac index
 - [Aniket965/Hello-world](https://github.com/Aniket965/Hello-world) - Add any  Program in any language you like or add a hello world Program ❣️ if you like give us :star:
-- [hi-primus/optimus](https://github.com/hi-primus/optimus) - :truck: Agile Data Preparation Workflows made easy with Pandas, Dask, cuDF, Dask-cuDF and PySpark
 - [arditsulceteaching/thepythonmegacourse](https://github.com/arditsulceteaching/thepythonmegacourse) - 
 - [MagNet-DL/magnet](https://github.com/MagNet-DL/magnet) - Deep Learning Projects that Build Themselves
 - [RedstoneWill/MachineLearningInAction-Camp](https://github.com/RedstoneWill/MachineLearningInAction-Camp) - 
@@ -5848,7 +5847,7 @@
 - [lijiaman/awesome-transformer-for-vision](https://github.com/lijiaman/awesome-transformer-for-vision) - 
 - [ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code) - 500 AI Machine learning Deep learning Computer vision NLP Projects with code
 - [vsitzmann/awesome-implicit-representations](https://github.com/vsitzmann/awesome-implicit-representations) - A curated list of resources on implicit neural representations.
-- [arpan74/ctci-python-solutions](https://github.com/arpan74/ctci-python-solutions) - Cracking the Coding Interview in Python 3. The solutions all have detailed explanations with visuals.
+- [arpankg/ctci-python-solutions](https://github.com/arpankg/ctci-python-solutions) - Cracking the Coding Interview in Python 3. The solutions all have detailed explanations with visuals.
 - [louisfb01/Best_AI_paper_2020](https://github.com/louisfb01/Best_AI_paper_2020) - A curated list of the latest breakthroughs in AI by release date with a clear video explanation, link to a more in-depth article, and code
 - [srush/awesome-ml-tracking](https://github.com/srush/awesome-ml-tracking) - 
 - [Dyakonov/MSU](https://github.com/Dyakonov/MSU) - описание тем исследовательских работ для студентов
@@ -6578,6 +6577,7 @@
 - [speaking-for-hackers/speaking-for-hackers-book](https://github.com/speaking-for-hackers/speaking-for-hackers-book) - Tips for giving good conference talks by Ben Orenstein
 - [datasciencemasters/go](https://github.com/datasciencemasters/go) - The Open Source Data Science Masters
 - [firefox-devtools/debugger](https://github.com/firefox-devtools/debugger) - The faster and smarter Debugger for Firefox DevTools 🔥🦊🛠
+- [raspberrypi/documentation](https://github.com/raspberrypi/documentation) - Official documentation for the Raspberry Pi
 - [valignatev/ddd-dynamic](https://github.com/valignatev/ddd-dynamic) - Domain Driven Design in Python, Ruby and other dynamic languages resources
 - [kjw0612/awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision) - A curated list of deep learning resources for computer vision
 - [mgechev/angular-performance-checklist](https://github.com/mgechev/angular-performance-checklist) - ⚡ Cheatsheet for developing lightning fast progressive Angular applications
@@ -8237,6 +8237,7 @@
 - [wemake-services/flake8-eradicate](https://github.com/wemake-services/flake8-eradicate) - Flake8 plugin to find commented out or dead code
 - [HunterMcGushion/hyperparameter_hunter](https://github.com/HunterMcGushion/hyperparameter_hunter) - Easy hyperparameter optimization and automatic result saving across machine learning algorithms and libraries
 - [alicevision/meshroom](https://github.com/alicevision/meshroom) - 3D Reconstruction Software
+- [hi-primus/optimus](https://github.com/hi-primus/optimus) - :truck: Agile Data Preparation Workflows made easy with Pandas, Dask, cuDF, Dask-cuDF and PySpark
 - [tortoise/tortoise-orm](https://github.com/tortoise/tortoise-orm) - Familiar asyncio ORM for python, built with relations in mind
 - [asyml/texar](https://github.com/asyml/texar) - Toolkit for Machine Learning, Natural Language Processing, and Text Generation, in TensorFlow.  This is part of the CASL project: http://casl-project.ai/
 - [python-trio/trio-asyncio](https://github.com/python-trio/trio-asyncio) - a re-implementation of the asyncio mainloop on top of Trio
@@ -10092,7 +10093,6 @@
 - [basveeling/wavenet](https://github.com/basveeling/wavenet) - Keras WaveNet implementation
 - [ibab/tensorflow-wavenet](https://github.com/ibab/tensorflow-wavenet) - A TensorFlow implementation of DeepMind's WaveNet paper
 - [shekkizh/TensorflowProjects](https://github.com/shekkizh/TensorflowProjects) - Deep learning using tensorflow
-- [raspberrypi/documentation](https://github.com/raspberrypi/documentation) - Official documentation for the Raspberry Pi
 - [paarthneekhara/neural-vqa-tensorflow](https://github.com/paarthneekhara/neural-vqa-tensorflow) - Visual Question Answering in Tensorflow.
 - [golemfactory/clay](https://github.com/golemfactory/clay) - Golem is creating a global market for computing power.
 - [mosquito/cysystemd](https://github.com/mosquito/cysystemd) - SystemD wrapper on Cython
