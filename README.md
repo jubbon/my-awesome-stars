@@ -623,7 +623,7 @@
 - [ShiqiYu/libfacedetection](https://github.com/ShiqiYu/libfacedetection) - An open source library for face detection in images. The face detection speed can reach 1000FPS.
 - [chanyn/3Dpose_ssl](https://github.com/chanyn/3Dpose_ssl) - 3D Human Pose Machines with Self-supervised Learning
 - [NVlabs/intrinsic3d](https://github.com/NVlabs/intrinsic3d) - Intrinsic3D - High-Quality 3D Reconstruction by Joint Appearance and Geometry Optimization with Spatially-Varying Lighting (ICCV 2017)
-- [generalized-intelligence/GAAS](https://github.com/generalized-intelligence/GAAS) - Generalized Aviation: Open source autonomous aviation software platform, designed for fully autonomous drones and flying cars.
+- [generalized-intelligence/GAAS](https://github.com/generalized-intelligence/GAAS) - GAAS is an open-source program designed for fully autonomous VTOL(a.k.a flying cars) and drones. GAAS stands for Generalized Autonomy Aviation System.
 - [shrubb/box-convolutions](https://github.com/shrubb/box-convolutions) - PyTorch code for the "Deep Neural Networks with Box Convolutions" paper
 - [simdjson/simdjson](https://github.com/simdjson/simdjson) - Parsing gigabytes of JSON per second
 - [secrary/idenLib](https://github.com/secrary/idenLib) - idenLib - Library Function Identification [This project is not maintained anymore]
@@ -696,7 +696,7 @@
 - [google/asylo](https://github.com/google/asylo) - An open and flexible framework for developing enclave applications
 - [pytorch/glow](https://github.com/pytorch/glow) - Compiler for Neural Network hardware accelerators
 - [apache/arrow](https://github.com/apache/arrow) - Apache Arrow is a multi-language toolbox for accelerated data interchange and in-memory processing
-- [MagicRock100/FaceKit](https://github.com/MagicRock100/FaceKit) - Implementations of PCN (an accurate real-time rotation-invariant face detector) and other face-related algorithms
+- [Rock-100/FaceKit](https://github.com/Rock-100/FaceKit) - Implementations of PCN (an accurate real-time rotation-invariant face detector) and other face-related algorithms
 - [changkun/modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial) - 📚 Modern C++ Tutorial: C++11/14/17/20 On the Fly | https://changkun.de/modern-cpp/
 - [apple/foundationdb](https://github.com/apple/foundationdb) - FoundationDB - the open source, distributed, transactional key-value store
 - [nucleic/kiwi](https://github.com/nucleic/kiwi) - Efficient C++ implementation of the Cassowary constraint solving algorithm
@@ -3427,7 +3427,7 @@
 - [nuxt-community/axios-module](https://github.com/nuxt-community/axios-module) - Secure and easy axios integration with Nuxt.js
 - [vitaly-t/pg-promise](https://github.com/vitaly-t/pg-promise) - PostgreSQL interface for Node.js
 - [bookshelf/bookshelf](https://github.com/bookshelf/bookshelf) - A simple Node.js ORM for PostgreSQL, MySQL and SQLite3 built on top of Knex.js
-- [knex/knex](https://github.com/knex/knex) - A query builder for PostgreSQL, MySQL and SQLite3, designed to be flexible, portable, and fun to use.
+- [knex/knex](https://github.com/knex/knex) - A query builder for PostgreSQL, MySQL, SQL Server, SQLite3 and Oracle, designed to be flexible, portable, and fun to use.
 - [sequelize/sequelize](https://github.com/sequelize/sequelize) - An easy-to-use multi SQL dialect ORM tool for Node.js
 - [timarney/react-app-rewired](https://github.com/timarney/react-app-rewired) - Override create-react-app webpack configs without ejecting
 - [brrd/abricotine](https://github.com/brrd/abricotine) - Markdown editor with inline preview
@@ -7948,7 +7948,7 @@
 - [facebookincubator/ptr](https://github.com/facebookincubator/ptr) - Python Test Runner.
 - [pytest-dev/pytest-play](https://github.com/pytest-dev/pytest-play) - pytest plugin that let you automate actions and assertions with test metrics reporting executing plain YAML files
 - [Wizaron/coord-conv-pytorch](https://github.com/Wizaron/coord-conv-pytorch) - An intriguing failing of convolutional neural networks and the CoordConv solution in PyTorch
-- [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book) - Build beautiful, publication-quality books and documents from computational content.
+- [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book) - Create beautiful, publication-quality books and documents from computational content.
 - [GauravBh1010tt/DL-Seq2Seq](https://github.com/GauravBh1010tt/DL-Seq2Seq) - Implementation of papers on Deep Seq2seq learning using Pytorch.
 - [aiven/pghoard](https://github.com/aiven/pghoard) - PostgreSQL backup and restore service
 - [smacke/ffsubsync](https://github.com/smacke/ffsubsync) - Automagically synchronize subtitles with video.
@@ -8092,7 +8092,7 @@
 - [iopipe/lambda-runtime-pypy3.5](https://github.com/iopipe/lambda-runtime-pypy3.5) - AWS Lambda Runtime for PyPy 3.5
 - [cbsudux/Mumbai-slum-segmentation](https://github.com/cbsudux/Mumbai-slum-segmentation) - Mumbai slum segmentation and change detection on statellite images.
 - [CSAILVision/gandissect](https://github.com/CSAILVision/gandissect) - Pytorch-based tools for visualizing and understanding the neurons of a GAN.  https://gandissect.csail.mit.edu/
-- [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 175 universities.
+- [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 200 universities.
 - [pytroll/satpy](https://github.com/pytroll/satpy) - Python package for earth-observing satellite data processing
 - [jwkvam/celluloid](https://github.com/jwkvam/celluloid) - :movie_camera: Matplotlib animations made easy
 - [guokr/redis-namespace](https://github.com/guokr/redis-namespace) - namespaced subset of your redis keyspace
