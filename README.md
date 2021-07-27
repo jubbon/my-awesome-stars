@@ -2289,6 +2289,7 @@
 - [hjacobs/kubernetes-failure-stories](https://github.com/hjacobs/kubernetes-failure-stories) - Compilation of public failure/horror stories related to Kubernetes
 - [yyx990803/build-your-own-mint](https://github.com/yyx990803/build-your-own-mint) - Build your own personal finance analytics using Plaid, Google Sheets and CircleCI.
 - [apidoc/apidoc](https://github.com/apidoc/apidoc) - RESTful web API Documentation Generator.
+- [flutter/website](https://github.com/flutter/website) - Flutter web site
 - [haoking/opencvjs](https://github.com/haoking/opencvjs) - Complete opencvjs (With the lastest OpenCV 4.0.0+)
 - [tc39/proposal-built-in-modules](https://github.com/tc39/proposal-built-in-modules) - 
 - [alienzhou/frontend-tech-list](https://github.com/alienzhou/frontend-tech-list) - 📝 Frontend Tech List for Developers 💡
@@ -6891,6 +6892,7 @@
 
 ## Python 
 
+- [iperov/DeepFaceLive](https://github.com/iperov/DeepFaceLive) - 
 - [deepmind/alphafold](https://github.com/deepmind/alphafold) - Open source code for AlphaFold.
 - [facebookresearch/covid19_spread](https://github.com/facebookresearch/covid19_spread) - Modeling the spread of COVID-19
 - [instadeepai/Mava](https://github.com/instadeepai/Mava) - A library of multi-agent reinforcement learning components and systems
@@ -8231,7 +8233,7 @@
 - [ultralytics/yolov3](https://github.com/ultralytics/yolov3) - YOLOv3 in PyTorch &gt; ONNX &gt; CoreML &gt; TFLite
 - [lunarwings/haps](https://github.com/lunarwings/haps) - Pure Python dependency injection library
 - [Twangist/prelogging](https://github.com/Twangist/prelogging) - A streamlined, consistent API for configuring logging
-- [fperazzi/proSR](https://github.com/fperazzi/proSR) - Repository containing an independent implementation of the paper: "A Fully Progressive Approach to Single-Image Super-Resolution"
+- [fperazzi-zz/proSR](https://github.com/fperazzi-zz/proSR) - Repository containing an independent implementation of the paper: "A Fully Progressive Approach to Single-Image Super-Resolution"
 - [catalyst-team/catalyst](https://github.com/catalyst-team/catalyst) - Accelerated deep learning R&D
 - [kkyon/botflow](https://github.com/kkyon/botflow) - Python Fast Dataflow programming  framework for Data pipeline work( Web Crawler,Machine Learning,Quantitative Trading.etc)
 - [wemake-services/flake8-eradicate](https://github.com/wemake-services/flake8-eradicate) - Flake8 plugin to find commented out or dead code
@@ -13035,7 +13037,6 @@
 - [cobidev/simplefolio](https://github.com/cobidev/simplefolio) - ⚡️ A minimal portfolio template for Developers
 - [emilbaehr/automatic-app-landing-page](https://github.com/emilbaehr/automatic-app-landing-page) - A Jekyll theme for automatically generating and deploying landing page sites for mobile apps.
 - [tr1s/tris-webpack-boilerplate](https://github.com/tr1s/tris-webpack-boilerplate) - A Webpack boilerplate for static websites that has all the necessary modern tools and optimizations built-in. Score a perfect 10/10 on performance.
-- [flutter/website](https://github.com/flutter/website) - Flutter web site
 - [conventional-commits/conventionalcommits.org](https://github.com/conventional-commits/conventionalcommits.org) - The conventional commits specification
 - [vapid/vapid](https://github.com/vapid/vapid) - Vapid is an intentionally simple content management system built on the idea that you can create a custom dashboard without ever leaving the HTML.
 - [bradtraversy/modern_portfolio](https://github.com/bradtraversy/modern_portfolio) - Responsive portfolio website
