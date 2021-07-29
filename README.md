@@ -3175,7 +3175,6 @@
 - [nodkz/lvovich](https://github.com/nodkz/lvovich) - Склонение названий городов, определения пола по ФИО, склонения имен по падежам
 - [sdras/project-explorer](https://github.com/sdras/project-explorer) - 🎋A CLI tool to create an annotated tree visualization of any project
 - [gothinkster/vue-realworld-example-app](https://github.com/gothinkster/vue-realworld-example-app) - An exemplary real-world application built with Vue.js, Vuex, axios and different other technologies. This is a good example to discover Vue for beginners.
-- [reduxjs/react-redux](https://github.com/reduxjs/react-redux) - Official React bindings for Redux
 - [gridsome/gridsome](https://github.com/gridsome/gridsome) - ⚡️ The Jamstack framework for Vue.js
 - [galio-org/galio](https://github.com/galio-org/galio) - Galio is a beautifully designed, Free and Open Source React Native Framework
 - [dongyuanxin/webpack-demos](https://github.com/dongyuanxin/webpack-demos) - 📦 Demos && Courses for Webpack 4
@@ -13465,6 +13464,7 @@
 - [eykrehbein/strest](https://github.com/eykrehbein/strest) - ⚡️ CI-ready tests for REST APIs configured in YAML
 - [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 A interplanetary communication platform 🚀
 - [Yancey-Blog/BLOG_DESKTOP](https://github.com/Yancey-Blog/BLOG_DESKTOP) - Yancey Official Blog for PC.
+- [reduxjs/react-redux](https://github.com/reduxjs/react-redux) - Official React bindings for Redux
 - [vscode-org-mode/vscode-org-mode](https://github.com/vscode-org-mode/vscode-org-mode) - Emacs Org Mode for Visual Studio Code
 - [championswimmer/vuex-persist](https://github.com/championswimmer/vuex-persist) - A Vuex plugin to persist the store. (Fully Typescript enabled)
 - [BartoszLiburski/vsf-prismic](https://github.com/BartoszLiburski/vsf-prismic) - Headless Prismic CMS implementation to Vue-storefront
@@ -13517,7 +13517,7 @@
 - [nhn/tui.chart](https://github.com/nhn/tui.chart) - 🍞📊  Beautiful chart for data visualization.
 - [rough-stuff/rough](https://github.com/rough-stuff/rough) - Create graphics with a hand-drawn, sketchy, appearance
 - [statelyai/xstate](https://github.com/statelyai/xstate) - State machines and statecharts for the modern web.
-- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - A Material Design theme for MkDocs
+- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Technical documentation that just works
 - [browserless/chrome](https://github.com/browserless/chrome) - Chrome as a service in docker. Run on our cloud, or bring your own
 - [kusti8/proton-native](https://github.com/kusti8/proton-native) - A React environment for cross platform desktop apps
 - [captbaritone/webamp](https://github.com/captbaritone/webamp) - Winamp 2 reimplemented for the browser
