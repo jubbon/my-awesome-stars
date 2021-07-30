@@ -2501,7 +2501,7 @@
 - [digicorp/propeller](https://github.com/digicorp/propeller) - Propeller - Develop more, Code less. Propeller is a front-end responsive framework based on Google's Material Design Standards & Bootstrap.
 - [jeromeetienne/AR.js](https://github.com/jeromeetienne/AR.js) - Efficient Augmented Reality for the Web - 60fps on mobile!
 - [jgthms/html-reference](https://github.com/jgthms/html-reference) - HTML Reference: a free guide to all HTML5 elements and attributes
-- [github/training-kit](https://github.com/github/training-kit) - Open source cheat sheets for Git and GitHub
+- [github/training-kit](https://github.com/github/training-kit) - Open source courseware for Git and GitHub
 - [Kurento/doc-kurento-readthedocs](https://github.com/Kurento/doc-kurento-readthedocs) - [READ-ONLY] Auto-generated documentation sources for ReadTheDocs
 - [samdutton/simpl](https://github.com/samdutton/simpl) - Simplest possible examples of HTML, CSS and Javascript:
 - [CodeBrauer/27daysofcode](https://github.com/CodeBrauer/27daysofcode) - A repo with small projects
@@ -3215,6 +3215,7 @@
 - [npm/tink](https://github.com/npm/tink) - a dependency unwinder for javascript
 - [you-dont-need/You-Dont-Need-Momentjs](https://github.com/you-dont-need/You-Dont-Need-Momentjs) - List of functions which you can use to replace moment.js + ESLint Plugin
 - [mapbox/mapbox-gl-js](https://github.com/mapbox/mapbox-gl-js) - Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL
+- [OCA/reporting-engine](https://github.com/OCA/reporting-engine) - Odoo Alternative Reporting Engine
 - [rwaldron/johnny-five](https://github.com/rwaldron/johnny-five) - JavaScript Robotics and IoT programming framework, developed at Bocoup.
 - [franciscop/umbrella](https://github.com/franciscop/umbrella) - :umbrella: Lightweight javascript library for DOM manipulation and events
 - [captainwz/svg-3d-builder](https://github.com/captainwz/svg-3d-builder) - an elaborate tool to create 3d model with svg
@@ -3831,7 +3832,6 @@
 - [TimonKK/clickhouse](https://github.com/TimonKK/clickhouse) - NodeJS client for ClickHouse
 - [Kurento/kurento-tutorial-js](https://github.com/Kurento/kurento-tutorial-js) - kurento-tutorial-js
 - [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet) - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
-- [lgpage/nbtutor](https://github.com/lgpage/nbtutor) - Visualize Python code execution (line-by-line) in Jupyter Notebook cells.
 - [marko-js/marko](https://github.com/marko-js/marko) - A declarative, HTML-based language that makes building web apps fun
 - [affinelayer/pix2pix-tensorflow](https://github.com/affinelayer/pix2pix-tensorflow) - Tensorflow port of Image-to-Image Translation with Conditional Adversarial Nets https://phillipi.github.io/pix2pix/
 - [alephdata/aleph](https://github.com/alephdata/aleph) - Search and browse documents and data; find the people and companies you look for.
@@ -8299,7 +8299,6 @@
 - [amaanabbasi/3DmapsDjango](https://github.com/amaanabbasi/3DmapsDjango) - How to Add Maps + 3D buildings to Django Web App
 - [jerry-git/learn-python3](https://github.com/jerry-git/learn-python3) - Jupyter notebooks for teaching/learning Python 3
 - [apockill/DRLPlayground](https://github.com/apockill/DRLPlayground) - A deep reinforcement learning playground with Unity running the game physics, and Python handling the reinforcement learning algorithms.
-- [OCA/reporting-engine](https://github.com/OCA/reporting-engine) - Odoo Alternative Reporting Engine
 - [OCA/apps-store](https://github.com/OCA/apps-store) - OCA Apps store module repository
 - [mocnik-science/osm-python-tools](https://github.com/mocnik-science/osm-python-tools) - A library to access OpenStreetMap related services
 - [microsoft/human-pose-estimation.pytorch](https://github.com/microsoft/human-pose-estimation.pytorch) - The project is an official implement of our ECCV2018 paper  "Simple Baselines for Human Pose Estimation and Tracking(https://arxiv.org/abs/1804.06208)"
@@ -9185,7 +9184,6 @@
 - [nvdv/atq](https://github.com/nvdv/atq) - distributed task queue for asyncio
 - [sanyam5/arc-pytorch](https://github.com/sanyam5/arc-pytorch) - The first public PyTorch implementation of Attentive Recurrent Comparators
 - [MichaelKim0407/mk-ls-git](https://github.com/MichaelKim0407/mk-ls-git) - `ls` command w/ git branch
-- [TwentyBN/GulpIO](https://github.com/TwentyBN/GulpIO) - Binary storage format for deep learning on videos.
 - [mattjegan/django-gamification](https://github.com/mattjegan/django-gamification) - The missing Django Gamification Package
 - [Hironsan/anago](https://github.com/Hironsan/anago) - Bidirectional LSTM-CRF and ELMo for Named-Entity Recognition, Part-of-Speech Tagging and so on.
 - [tensorly/tensorly](https://github.com/tensorly/tensorly) - TensorLy: Tensor Learning in Python.
@@ -11601,7 +11599,7 @@
 - [SylvainDe/DidYouMean-Python](https://github.com/SylvainDe/DidYouMean-Python) - Module to have suggestions in case of errors (NameError, AttributeError, etc).
 - [marcusbuffett/command-line-chess](https://github.com/marcusbuffett/command-line-chess) - A python program to play chess against an AI in the terminal.
 - [yhat/db.py](https://github.com/yhat/db.py) - db.py is an easier way to interact with your databases
-- [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first
+- [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation and energy management that puts local control and privacy first.
 - [google/timesketch](https://github.com/google/timesketch) - Collaborative forensic timeline analysis
 - [shoyer/cyordereddict](https://github.com/shoyer/cyordereddict) - Cython implementation of OrderedDict
 - [ReactiveX/RxPY](https://github.com/ReactiveX/RxPY) - Reactive Extensions for Python, https://rxpy.rtfd.io
@@ -13608,6 +13606,7 @@
 - [DonJayamanne/pythonVSCode](https://github.com/DonJayamanne/pythonVSCode) - This extension is now maintained in the Microsoft fork.
 - [maartenbreddels/ipyvolume](https://github.com/maartenbreddels/ipyvolume) - 3d plotting for Python in the Jupyter notebook based on IPython widgets using WebGL
 - [bdash-app/bdash](https://github.com/bdash-app/bdash) - Simple SQL Client for lightweight data analysis.
+- [lgpage/nbtutor](https://github.com/lgpage/nbtutor) - Visualize Python code execution (line-by-line) in Jupyter Notebook cells.
 - [react-navigation/react-navigation](https://github.com/react-navigation/react-navigation) - Routing and navigation for your React Native apps
 - [parrot-translate/parrot](https://github.com/parrot-translate/parrot) - Self-hosted Localization Management Platform built with Go and Angular
 - [botpress/botpress](https://github.com/botpress/botpress) - 🤖 The Conversational Platform with built-in language understanding (NLU), beautiful graphical interface and Dialog Manager (DM). Easily create chatbots and AI-based virtual assistants.
