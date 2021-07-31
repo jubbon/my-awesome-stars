@@ -56,6 +56,7 @@
   - [Lua](#lua)
   - [M4](#m4)
   - [MATLAB](#matlab)
+  - [MLIR](#mlir)
   - [Makefile](#makefile)
   - [Markdown](#markdown)
   - [Matlab](#matlab)
@@ -515,7 +516,6 @@
 - [borglab/gtsam](https://github.com/borglab/gtsam) - GTSAM is a library of C++ classes that implement smoothing and mapping (SAM) in robotics and vision, using factor graphs and Bayes networks as the underlying computing paradigm rather than sparse matrices.
 - [cyang-kth/fmm](https://github.com/cyang-kth/fmm) - Fast map matching, an open source framework in C++
 - [neoml-lib/neoml](https://github.com/neoml-lib/neoml) - Machine learning framework for both deep learning and traditional algorithms
-- [tensorflow/runtime](https://github.com/tensorflow/runtime) - A performant and modular runtime for TensorFlow
 - [jupyter-xeus/xeus-python](https://github.com/jupyter-xeus/xeus-python) - Jupyter kernel for the Python programming language
 - [jupyter-xeus/xeus](https://github.com/jupyter-xeus/xeus) - Implementation of the Jupyter kernel protocol in C++
 - [s3fs-fuse/s3fs-fuse](https://github.com/s3fs-fuse/s3fs-fuse) - FUSE-based file system backed by Amazon S3
@@ -1636,7 +1636,7 @@
 - [uber/aresdb](https://github.com/uber/aresdb) - A GPU-powered real-time analytics storage and query engine.
 - [amazon-archives/aws-lambda-container-image-converter](https://github.com/amazon-archives/aws-lambda-container-image-converter) - The AWS Lambda container image converter tool (img2lambda) repackages container images (such as Docker images) into AWS Lambda function deployment packages and Lambda layers.
 - [gunk/gunk](https://github.com/gunk/gunk) - Modern frontend and syntax for Protocol Buffers
-- [liamg/aminal](https://github.com/liamg/aminal) - A modern cross-platform terminal emulator in Go
+- [liamg/darktile](https://github.com/liamg/darktile) - Darktile is a GPU rendered terminal emulator designed for tiling window managers.
 - [sourcegraph/sourcegraph](https://github.com/sourcegraph/sourcegraph) - Universal code search (self-hosted)
 - [crossplane/crossplane](https://github.com/crossplane/crossplane) - Manage any infrastructure your applications need directly from Kubernetes
 - [dreadl0ck/netcap](https://github.com/dreadl0ck/netcap) - A framework for secure and scalable network traffic analysis - https://netcap.io
@@ -5736,6 +5736,10 @@
 - [TimChinenov/FarmPlotter](https://github.com/TimChinenov/FarmPlotter) - The following is a Matlab script that uses image processing to determine the number of farm plots in an image and print their area in pixels
 - [AaronJackson/vrn](https://github.com/AaronJackson/vrn) - :man:  Code for "Large Pose 3D Face Reconstruction from a Single Image via Direct Volumetric CNN Regression"
 - [TadasBaltrusaitis/OpenFace](https://github.com/TadasBaltrusaitis/OpenFace) - OpenFace – a state-of-the art tool intended for facial landmark detection, head pose estimation, facial action unit recognition, and eye-gaze estimation.
+
+## MLIR 
+
+- [tensorflow/runtime](https://github.com/tensorflow/runtime) - A performant and modular runtime for TensorFlow
 
 ## Makefile 
 
