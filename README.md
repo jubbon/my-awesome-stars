@@ -2845,6 +2845,7 @@
 
 ## JavaScript 
 
+- [node-fetch/node-fetch](https://github.com/node-fetch/node-fetch) - A light-weight module that brings the Fetch API to Node.js
 - [loopbackio/strong-soap](https://github.com/loopbackio/strong-soap) - SOAP driver for Node.js (A complete rewrite of node-soap)
 - [vpulim/node-soap](https://github.com/vpulim/node-soap) - A SOAP client and server for node.js.
 - [olivierloverde/minutes-of-javascript](https://github.com/olivierloverde/minutes-of-javascript) - ⭐ Collection of Javascript snippets to make you discover new exciting features, useful tips or anything that will give you a better understanding of the subtleties of JS.
@@ -13764,7 +13765,7 @@
 - [microsoft/AzureTipsAndTricks](https://github.com/microsoft/AzureTipsAndTricks) - Learn some of our favorite Azure tips and tricks—some long-standing, and new ones that have recently been added to become more productive with Azure. Star the repo now to shave hours off your coding tasks tomorrow.
 - [Simonwep/candy](https://github.com/Simonwep/candy) - 🍭 Cross-platform YouTube-downloader with playlist and channel support as well as build-in audio / video converter.
 - [adamwathan/vue-tailwind-examples](https://github.com/adamwathan/vue-tailwind-examples) - 
-- [arkokoley/pdfvuer](https://github.com/arkokoley/pdfvuer) - A PDF viewer for Vue using Mozilla's PDF.js
+- [arkokoley/pdfvuer](https://github.com/arkokoley/pdfvuer) - A PDF viewer for Vue using Mozilla's PDF.js that supports both Vue2 and Vue3
 - [egoist/video2gif](https://github.com/egoist/video2gif) - Convert Video (MP4/OGG/WEBM) to GIF.
 - [Akryum/vue-9-perf-secrets](https://github.com/Akryum/vue-9-perf-secrets) - Demos from my talk "9 performance secrets revealed"
 - [open-source-labs/PreVue](https://github.com/open-source-labs/PreVue) - 🎨 All in One Prototyping Tool For Vue Developers.
@@ -14012,7 +14013,7 @@
 - [luosijie/vm-editor](https://github.com/luosijie/vm-editor) - Editor for Vue
 - [simple-uploader/vue-uploader](https://github.com/simple-uploader/vue-uploader) - A Vue.js upload component powered by simple-uploader.js
 - [github1586/nuxt-bnhcp](https://github.com/github1586/nuxt-bnhcp) - nuxt、express、vue、mysql、redis、nginx、socket.io (实战商城)
-- [AT-UI/at-ui](https://github.com/AT-UI/at-ui) - A fresh and flat UI-Kit specially for desktop application, made with ♥ by Vue.js 2.0
+- [AT-UI/at-ui](https://github.com/AT-UI/at-ui) - A fresh and flat UI-Kit specially for desktop application, made with ♥ by Vue.js 2.0 (DEPRECATED)
 - [dangvanthanh/vue-ckeditor2](https://github.com/dangvanthanh/vue-ckeditor2) - CKEditor 4 wrapper by Vue.js
 - [vue-bulma/lory](https://github.com/vue-bulma/lory) - Vue Slider Component is based on lory
 - [andrewcourtice/vuetiful](https://github.com/andrewcourtice/vuetiful) - Vuetiful is a component framework written on top of the Vue reactive library. It is primarily designed for creating business/administration applications where the displaying of data is paramount.
