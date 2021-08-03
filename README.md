@@ -1619,7 +1619,6 @@
 - [spacecloud-io/space-cloud](https://github.com/spacecloud-io/space-cloud) - Open source Firebase + Heroku to develop, scale and secure serverless apps on Kubernetes
 - [awslabs/amazon-ecs-local-container-endpoints](https://github.com/awslabs/amazon-ecs-local-container-endpoints) - A container that provides local versions of the ECS Task Metadata Endpoint and ECS Task IAM Roles Endpoint.
 - [google/crfs](https://github.com/google/crfs) - CRFS: Container Registry Filesystem
-- [crawlab-team/crawlab](https://github.com/crawlab-team/crawlab) - Distributed web crawler admin platform for spiders management regardless of languages and frameworks. 分布式爬虫管理平台，支持任何语言和框架
 - [celicoo/docli](https://github.com/celicoo/docli) - Docli - Command-line interfaces made easy
 - [jpschroeder/pipe-to-me](https://github.com/jpschroeder/pipe-to-me) - Stream data over http using curl.
 - [uber/kraken](https://github.com/uber/kraken) - P2P Docker registry capable of distributing TBs of data in seconds
@@ -5382,6 +5381,7 @@
 - [BinRoot/TensorFlow-Book](https://github.com/BinRoot/TensorFlow-Book) - Accompanying source code for Machine Learning with TensorFlow. Refer to the book for step-by-step explanations.
 - [Mostafa-Samir/DNC-tensorflow](https://github.com/Mostafa-Samir/DNC-tensorflow) - A TensorFlow implementation of DeepMind's Differential Neural Computers (DNC)
 - [QuantEcon/QuantEcon.notebooks](https://github.com/QuantEcon/QuantEcon.notebooks) - Jupyter notebooks contributed by QuantEcon developers, users and the community
+- [probml/pyprobml](https://github.com/probml/pyprobml) - Python code for "Machine learning: a probabilistic perspective" (2nd edition)
 - [yandexdataschool/Practical_DL](https://github.com/yandexdataschool/Practical_DL) - DL course co-developed by YSDA, HSE and Skoltech
 - [dmlc/mxnet-notebooks](https://github.com/dmlc/mxnet-notebooks) - Notebooks for MXNet
 - [udacity/CarND-TensorFlow-Lab](https://github.com/udacity/CarND-TensorFlow-Lab) - TensorFlow Lab for Self-Driving Car ND
@@ -9872,7 +9872,6 @@
 - [pengpaiSH/Kaggle_NCFM](https://github.com/pengpaiSH/Kaggle_NCFM) - Using Keras+TensorFlow to solve NCFM-Leadboard Top 5%
 - [llSourcell/tensorflow_chatbot](https://github.com/llSourcell/tensorflow_chatbot) - Tensorflow chatbot demo by @Sirajology on Youtube
 - [StackStorm/st2](https://github.com/StackStorm/st2) - StackStorm (aka "IFTTT for Ops") is event-driven automation for auto-remediation, security responses, troubleshooting, deployments, and more. Includes rules engine, workflow, 160 integration packs with 6000+ actions (see https://exchange.stackstorm.org) and ChatOps. Installer at https://docs.stackstorm.com/install/index.html. Questions? https://forum.stackstorm.com/.
-- [probml/pyprobml](https://github.com/probml/pyprobml) - Python code for "Machine learning: a probabilistic perspective" (2nd edition)
 - [elfi-dev/elfi](https://github.com/elfi-dev/elfi) - ELFI - Engine for Likelihood-Free Inference
 - [Logicmn/pyx](https://github.com/Logicmn/pyx) - Real-time stock trading program using a basic mean reversion algorithm
 - [PyFilesystem/pyfilesystem2](https://github.com/PyFilesystem/pyfilesystem2) - Python's Filesystem abstraction layer
@@ -11604,7 +11603,7 @@
 - [SylvainDe/DidYouMean-Python](https://github.com/SylvainDe/DidYouMean-Python) - Module to have suggestions in case of errors (NameError, AttributeError, etc).
 - [marcusbuffett/command-line-chess](https://github.com/marcusbuffett/command-line-chess) - A python program to play chess against an AI in the terminal.
 - [yhat/db.py](https://github.com/yhat/db.py) - db.py is an easier way to interact with your databases
-- [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation and energy management that puts local control and privacy first.
+- [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [google/timesketch](https://github.com/google/timesketch) - Collaborative forensic timeline analysis
 - [shoyer/cyordereddict](https://github.com/shoyer/cyordereddict) - Cython implementation of OrderedDict
 - [ReactiveX/RxPY](https://github.com/ReactiveX/RxPY) - Reactive Extensions for Python, https://rxpy.rtfd.io
@@ -13767,6 +13766,7 @@
 - [adamwathan/vue-tailwind-examples](https://github.com/adamwathan/vue-tailwind-examples) - 
 - [arkokoley/pdfvuer](https://github.com/arkokoley/pdfvuer) - A PDF viewer for Vue using Mozilla's PDF.js that supports both Vue2 and Vue3
 - [egoist/video2gif](https://github.com/egoist/video2gif) - Convert Video (MP4/OGG/WEBM) to GIF.
+- [crawlab-team/crawlab](https://github.com/crawlab-team/crawlab) - Distributed web crawler admin platform for spiders management regardless of languages and frameworks. 分布式爬虫管理平台，支持任何语言和框架
 - [Akryum/vue-9-perf-secrets](https://github.com/Akryum/vue-9-perf-secrets) - Demos from my talk "9 performance secrets revealed"
 - [open-source-labs/PreVue](https://github.com/open-source-labs/PreVue) - 🎨 All in One Prototyping Tool For Vue Developers.
 - [creativetimofficial/vuetify-material-dashboard](https://github.com/creativetimofficial/vuetify-material-dashboard) - Vuetify Material Dashboard - Open Source Material Design Admin by Creative Tim
