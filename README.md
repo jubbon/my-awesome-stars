@@ -497,6 +497,8 @@
 
 ## C++ 
 
+- [alex-petrenko/megaverse](https://github.com/alex-petrenko/megaverse) - High-throughput simulation platform for Artificial Intelligence reseach
+- [vcmi/vcmi](https://github.com/vcmi/vcmi) - Open-source engine for Heroes of Might and Magic III
 - [sberdevices/smartspeech](https://github.com/sberdevices/smartspeech) - 
 - [qgis/QGIS](https://github.com/qgis/QGIS) - QGIS is a free, open source, cross platform (lin/win/mac) geographical information system (GIS)
 - [drogonframework/drogon](https://github.com/drogonframework/drogon) - Drogon: A C++14/17 based HTTP web application framework running on Linux/macOS/Unix/Windows
@@ -1055,7 +1057,7 @@
 - [creativetimofficial/argon-design-system](https://github.com/creativetimofficial/argon-design-system) - Argon - Design System for Bootstrap 4 by Creative Tim
 - [guisantos/CryptoAwesome](https://github.com/guisantos/CryptoAwesome) - The most complete cryptocurrency image library to be used in your project.
 - [FabianLauer/chrome-vs-code](https://github.com/FabianLauer/chrome-vs-code) - A web browser integrated in VS Code editor tabs. :radioactive: experimental :radioactive:
-- [comehope/front-end-daily-challenges](https://github.com/comehope/front-end-daily-challenges) - As of October 2020, 170+ works have been accomplished, challenge yourself each day!
+- [comehope/front-end-daily-challenges](https://github.com/comehope/front-end-daily-challenges) - As of August 2021, 170+ works have been accomplished, challenge yourself each day!
 - [lmgonzalves/momentum-slider](https://github.com/lmgonzalves/momentum-slider) - Create sliders with momentum!
 - [tamino-martinius/ui-snippets-menu-animations](https://github.com/tamino-martinius/ui-snippets-menu-animations) - Four different menu animations for menu button toggle between hamburger, cross and back icon.
 - [jonasschmedtmann/advanced-css-course](https://github.com/jonasschmedtmann/advanced-css-course) - Starter files, final projects and FAQ for my Advanced CSS course
@@ -1636,7 +1638,7 @@
 - [uber/aresdb](https://github.com/uber/aresdb) - A GPU-powered real-time analytics storage and query engine.
 - [amazon-archives/aws-lambda-container-image-converter](https://github.com/amazon-archives/aws-lambda-container-image-converter) - The AWS Lambda container image converter tool (img2lambda) repackages container images (such as Docker images) into AWS Lambda function deployment packages and Lambda layers.
 - [gunk/gunk](https://github.com/gunk/gunk) - Modern frontend and syntax for Protocol Buffers
-- [liamg/darktile](https://github.com/liamg/darktile) - Darktile is a GPU rendered terminal emulator designed for tiling window managers.
+- [liamg/darktile](https://github.com/liamg/darktile) - :waning_crescent_moon: Darktile is a GPU rendered terminal emulator designed for tiling window managers.
 - [sourcegraph/sourcegraph](https://github.com/sourcegraph/sourcegraph) - Universal code search (self-hosted)
 - [crossplane/crossplane](https://github.com/crossplane/crossplane) - Manage any infrastructure your applications need directly from Kubernetes
 - [dreadl0ck/netcap](https://github.com/dreadl0ck/netcap) - A framework for secure and scalable network traffic analysis - https://netcap.io
@@ -5096,6 +5098,7 @@
 - [llSourcell/7_Research_Directions_Deep_Learning](https://github.com/llSourcell/7_Research_Directions_Deep_Learning) - This is the code for "The Future of Deep Learning Research" by Siraj Raval on Youtube
 - [tjwei/GANotebooks](https://github.com/tjwei/GANotebooks) - wgan, wgan2(improved, gp), infogan, and dcgan implementation in  lasagne, keras, pytorch
 - [loudinthecloud/pytorch-ntm](https://github.com/loudinthecloud/pytorch-ntm) - Neural Turing Machines (NTM) - PyTorch Implementation
+- [OpenMined/PySyft](https://github.com/OpenMined/PySyft) - A library for answering questions using data you cannot see
 - [marsauto/europilot](https://github.com/marsauto/europilot) - A toolkit for controlling Euro Truck Simulator 2 with python to develop self-driving algorithms.
 - [zygmuntz/goodbooks-10k](https://github.com/zygmuntz/goodbooks-10k) - Ten thousand books, six million ratings
 - [radekosmulski/dogs_vs_cats](https://github.com/radekosmulski/dogs_vs_cats) - 
@@ -6895,6 +6898,7 @@
 
 ## Python 
 
+- [uber/orbit](https://github.com/uber/orbit) - A Python package for Bayesian forecasting with object-oriented design and probabilistic models under the hood.
 - [facebookresearch/voxpopuli](https://github.com/facebookresearch/voxpopuli) - A large-scale multilingual speech corpus for representation learning, semi-supervised learning and interpretation
 - [rosinality/alias-free-gan-pytorch](https://github.com/rosinality/alias-free-gan-pytorch) - Unofficial implementation of Alias-Free Generative Adversarial Networks. (https://arxiv.org/abs/2106.12423) in PyTorch
 - [iperov/DeepFaceLive](https://github.com/iperov/DeepFaceLive) - 
@@ -9116,7 +9120,6 @@
 - [mingyuliutw/UNIT](https://github.com/mingyuliutw/UNIT) - Unsupervised Image-to-Image Translation
 - [jullrich/pcap2curl](https://github.com/jullrich/pcap2curl) - Read a packet capture, extract HTTP requests and turn them into cURL commands for replay.
 - [RasaHQ/rasa_core](https://github.com/RasaHQ/rasa_core) - Rasa Core is now part of the Rasa repo: An open source machine learning framework to automate text-and voice-based conversations
-- [OpenMined/PySyft](https://github.com/OpenMined/PySyft) - A library for answering questions using data you cannot see
 - [apple/coremltools](https://github.com/apple/coremltools) - Core ML tools contain supporting tools for Core ML model conversion, editing, and validation.
 - [manrajgrover/halo](https://github.com/manrajgrover/halo) - 💫 Beautiful spinners for terminal, IPython and Jupyter
 - [tammoippen/plotille](https://github.com/tammoippen/plotille) - Plot in the terminal using braille dots.
