@@ -21,6 +21,7 @@
   - [Common Lisp](#common-lisp)
   - [Crystal](#crystal)
   - [Cuda](#cuda)
+  - [Cython](#cython)
   - [D](#d)
   - [DIGITAL Command Language](#digital-command-language)
   - [Dart](#dart)
@@ -1357,6 +1358,10 @@
 - [udacity/cs344](https://github.com/udacity/cs344) - Introduction to Parallel Programming class code
 - [TorontoDeepLearning/convnet](https://github.com/TorontoDeepLearning/convnet) - A GPU implementation of Convolutional Neural Nets in C++
 - [akrizhevsky/cuda-convnet2](https://github.com/akrizhevsky/cuda-convnet2) - Automatically exported from code.google.com/p/cuda-convnet2
+
+## Cython 
+
+- [rushter/selectolax](https://github.com/rushter/selectolax) - Python binding to Modest engine (fast HTML5 parser with CSS selectors).
 
 ## D 
 
@@ -4414,6 +4419,8 @@
 
 ## Jupyter Notebook 
 
+- [borisdayma/dalle-mini](https://github.com/borisdayma/dalle-mini) - DALL·E Mini - Generate images from a text prompt
+- [SemyonSinchenko/qmlcourse](https://github.com/SemyonSinchenko/qmlcourse) - Quantum Machine Learning Community Course
 - [ITMO-NSS-team/nas-fedot](https://github.com/ITMO-NSS-team/nas-fedot) - The implementation of the Neural Architecture Search based at the Fedot framework
 - [sail-sg/volo](https://github.com/sail-sg/volo) - VOLO: Vision Outlooker for Visual Recognition
 - [khuyentran1401/Data-science](https://github.com/khuyentran1401/Data-science) - Collection of useful data science topics along with code and articles
@@ -6374,7 +6381,7 @@
 - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
 - [williamFalcon/DeepRLHacks](https://github.com/williamFalcon/DeepRLHacks) - Hacks for training RL systems from John Schulman's lecture at Deep RL Bootcamp  (Aug 2017)
 - [Zheaoli/awesome-coins](https://github.com/Zheaoli/awesome-coins) - ₿ A guide (for humans!) to cryto-currencies and their algos.
-- [matttga/awesome-product-design](https://github.com/matttga/awesome-product-design) - A collection of bookmarks, resources, articles for product designers.
+- [ttt30ga/awesome-product-design](https://github.com/ttt30ga/awesome-product-design) - A collection of bookmarks, resources, articles for product designers.
 - [nikitavoloboev/my-mac-os](https://github.com/nikitavoloboev/my-mac-os) - List of applications and tools that make my macOS experience even more amazing
 - [eon01/DockerCheatSheet](https://github.com/eon01/DockerCheatSheet) - 🐋 Docker Cheat Sheet 🐋
 - [dastergon/awesome-sre](https://github.com/dastergon/awesome-sre) - A curated list of Site Reliability and Production Engineering resources.
@@ -8821,7 +8828,6 @@
 - [grantjenks/free-python-games](https://github.com/grantjenks/free-python-games) - Free Python Games
 - [elehcimd/pynb](https://github.com/elehcimd/pynb) - Jupyter Notebooks as plain Python code with embedded Markdown text
 - [cclabsInc/RFCrack](https://github.com/cclabsInc/RFCrack) - A Software Defined Radio Attack Tool
-- [rushter/selectolax](https://github.com/rushter/selectolax) - Python binding to Modest engine (fast HTML5 parser with CSS selectors).
 - [dbcli/mssql-cli](https://github.com/dbcli/mssql-cli) - A command-line client for SQL Server with auto-completion and syntax highlighting
 - [locuslab/lcp-physics](https://github.com/locuslab/lcp-physics) - A differentiable LCP physics engine in PyTorch.
 - [IOActive/XDiFF](https://github.com/IOActive/XDiFF) - Extended Differential Fuzzing Framework
@@ -14010,7 +14016,7 @@
 - [nguyenvanduocit/vue-loading-spinner](https://github.com/nguyenvanduocit/vue-loading-spinner) - Just another collection of loading spinners with Vue.js, alot of spinners
 - [salomonelli/best-resume-ever](https://github.com/salomonelli/best-resume-ever) - :necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
 - [ChiChou/vue-pano](https://github.com/ChiChou/vue-pano) - A WebGL driven panorama vue.js component
-- [javaSwing/NeteaseCloudWebApp](https://github.com/javaSwing/NeteaseCloudWebApp) - This is a vue for NeteaseCloud projects!
+- [javaswing/NeteaseCloudWebApp](https://github.com/javaswing/NeteaseCloudWebApp) - This is a vue for NeteaseCloud projects!
 - [wclimb/vue-video](https://github.com/wclimb/vue-video) - vue + vue-router + vuex + (fetch-&gt;axios)
 - [nuxt-community/starter-template](https://github.com/nuxt-community/starter-template) - DEPRECATED: use create-nuxt-app instead
 - [artiely/vue-admin-iview](https://github.com/artiely/vue-admin-iview) - vue后端管理系统界面 基于ui组件iview
