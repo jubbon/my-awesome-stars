@@ -1362,6 +1362,7 @@
 ## Cython 
 
 - [rushter/selectolax](https://github.com/rushter/selectolax) - Python binding to Modest engine (fast HTML5 parser with CSS selectors).
+- [MagicStack/uvloop](https://github.com/MagicStack/uvloop) - Ultra fast asyncio event loop.
 
 ## D 
 
@@ -2590,7 +2591,6 @@
 - [StartBootstrap/startbootstrap-sb-admin-2](https://github.com/StartBootstrap/startbootstrap-sb-admin-2) - A free, open source, Bootstrap admin theme created by Start Bootstrap
 - [igrigorik/hpbn.co](https://github.com/igrigorik/hpbn.co) - High Performance Browser Networking (O'Reilly)
 - [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io) - :blue_book: Home Assistant User documentation
-- [topocm/topocm_content](https://github.com/topocm/topocm_content) - Course on topology in condensed matter
 - [KennethWangDotDev/TypographyHandbook](https://github.com/KennethWangDotDev/TypographyHandbook) - A concise, referential guide on best web typographic practices.
 - [Link-/uber_data](https://github.com/Link-/uber_data) - Uber web interface crawler / scraper - Convert the trips table into a CSV file
 - [Azure-Samples/Azure-MachineLearning-DataScience](https://github.com/Azure-Samples/Azure-MachineLearning-DataScience) - 
@@ -4419,6 +4419,7 @@
 
 ## Jupyter Notebook 
 
+- [google/brax](https://github.com/google/brax) - Massively parallel rigidbody physics simulation on accelerator hardware.
 - [borisdayma/dalle-mini](https://github.com/borisdayma/dalle-mini) - DALL·E Mini - Generate images from a text prompt
 - [SemyonSinchenko/qmlcourse](https://github.com/SemyonSinchenko/qmlcourse) - Quantum Machine Learning Community Course
 - [ITMO-NSS-team/nas-fedot](https://github.com/ITMO-NSS-team/nas-fedot) - The implementation of the Neural Architecture Search based at the Fedot framework
@@ -7167,7 +7168,7 @@
 - [project-aslan/Aslan](https://github.com/project-aslan/Aslan) - Open source self-driving software for low speed environments
 - [pschwllr/MolecularTransformer](https://github.com/pschwllr/MolecularTransformer) - 
 - [machine-intelligence-laboratory/TopicNet](https://github.com/machine-intelligence-laboratory/TopicNet) - Interface for easier topic modelling.
-- [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use NLP datasets for ML models with fast, easy-to-use and efficient data manipulation tools
+- [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools
 - [TensorSpeech/TensorFlowTTS](https://github.com/TensorSpeech/TensorFlowTTS) - :stuck_out_tongue_closed_eyes: TensorFlowTTS: Real-Time State-of-the-art Speech Synthesis for Tensorflow 2 (supported including English, Korean, Chinese, German and Easy to adapt for other languages)
 - [ct-Open-Source/tuya-convert](https://github.com/ct-Open-Source/tuya-convert) - A collection of scripts to flash Tuya IoT devices to alternative firmwares
 - [willmcgugan/rich](https://github.com/willmcgugan/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
@@ -10284,6 +10285,7 @@
 - [dpk/wsgiwatch](https://github.com/dpk/wsgiwatch) - build tasks which block WSGI requests until complete
 - [spurin/xmldataset](https://github.com/spurin/xmldataset) - xmldataset: xml parsing made easy 🗃️
 - [madisonmay/BlackWidow](https://github.com/madisonmay/BlackWidow) - Visualizing Python Project Import Graphs
+- [topocm/topocm_content](https://github.com/topocm/topocm_content) - Course on topology in condensed matter
 - [matrix-org/synapse](https://github.com/matrix-org/synapse) - Synapse: Matrix reference homeserver
 - [phodal/awesome-iot](https://github.com/phodal/awesome-iot) - Awesome IoT. A collaborative list of great resources about IoT Framework, Library,  OS, Platform
 - [bcicen/wikitables](https://github.com/bcicen/wikitables) - Import tables from any Wikipedia article as a dataset in Python
@@ -10465,7 +10467,6 @@
 - [matthewearl/deep-anpr](https://github.com/matthewearl/deep-anpr) - Using neural networks to build an automatic number plate recognition system
 - [Miserlou/Zappa](https://github.com/Miserlou/Zappa) - Serverless Python
 - [pyGrowler/Growler](https://github.com/pyGrowler/Growler) - A micro web-framework using asyncio coroutines and chained middleware.
-- [MagicStack/uvloop](https://github.com/MagicStack/uvloop) - Ultra fast asyncio event loop.
 - [nytimes/ingredient-phrase-tagger](https://github.com/nytimes/ingredient-phrase-tagger) - Extract structured data from ingredient phrases using conditional random fields
 - [isocpp/CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines) - The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++
 - [Yelp/venv-update](https://github.com/Yelp/venv-update) - Synchronize your virtualenv quickly and exactly.
