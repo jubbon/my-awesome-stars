@@ -2565,6 +2565,7 @@
 - [workshopper/learnyounode](https://github.com/workshopper/learnyounode) - Learn You The Node.js For Much Win! An intro to Node.js via a set of self-guided workshops.
 - [foundation/foundation-emails](https://github.com/foundation/foundation-emails) - Quickly create responsive HTML emails that work on any device and client. Even Outlook.
 - [elendirx/web2web](https://github.com/elendirx/web2web) - P2P web powered by torrents and blockchain.
+- [raspberrypi/documentation](https://github.com/raspberrypi/documentation) - Official documentation for the Raspberry Pi
 - [jhu-ep-coursera/fullstack-course5](https://github.com/jhu-ep-coursera/fullstack-course5) - All of the source code for the Single Page Web Applications with AngularJS course.
 - [amazon-archives/aws-week-in-review](https://github.com/amazon-archives/aws-week-in-review) - ARCHIVED: These files are used to produce the AWS Week in Review.
 - [jlord/essential-electron](https://github.com/jlord/essential-electron) - Concise plain-speak about Electron
@@ -3580,7 +3581,7 @@
 - [yishn/tikzcd-editor](https://github.com/yishn/tikzcd-editor) - A simple visual editor for creating commutative diagrams.
 - [franciscop/server](https://github.com/franciscop/server) - :desktop_computer: Simple and powerful server for Node.js
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2021)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (August 2021)
 - [frappe/charts](https://github.com/frappe/charts) - Simple, responsive, modern SVG Charts with zero dependencies
 - [elesdoar/leaflet-control-orderlayers](https://github.com/elesdoar/leaflet-control-orderlayers) - Leaflet control with order functionality
 - [google/bottery](https://github.com/google/bottery) - 
@@ -6595,7 +6596,6 @@
 - [speaking-for-hackers/speaking-for-hackers-book](https://github.com/speaking-for-hackers/speaking-for-hackers-book) - Tips for giving good conference talks by Ben Orenstein
 - [datasciencemasters/go](https://github.com/datasciencemasters/go) - The Open Source Data Science Masters
 - [firefox-devtools/debugger](https://github.com/firefox-devtools/debugger) - The faster and smarter Debugger for Firefox DevTools 🔥🦊🛠
-- [raspberrypi/documentation](https://github.com/raspberrypi/documentation) - Official documentation for the Raspberry Pi
 - [valignatev/ddd-dynamic](https://github.com/valignatev/ddd-dynamic) - Domain Driven Design in Python, Ruby and other dynamic languages resources
 - [kjw0612/awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision) - A curated list of deep learning resources for computer vision
 - [mgechev/angular-performance-checklist](https://github.com/mgechev/angular-performance-checklist) - ⚡ Cheatsheet for developing lightning fast progressive Angular applications
@@ -6909,6 +6909,7 @@
 
 ## Python 
 
+- [Qiskit/qiskit-machine-learning](https://github.com/Qiskit/qiskit-machine-learning) - Quantum Machine Learning
 - [uber/orbit](https://github.com/uber/orbit) - A Python package for Bayesian forecasting with object-oriented design and probabilistic models under the hood.
 - [facebookresearch/voxpopuli](https://github.com/facebookresearch/voxpopuli) - A large-scale multilingual speech corpus for representation learning, semi-supervised learning and interpretation
 - [rosinality/alias-free-gan-pytorch](https://github.com/rosinality/alias-free-gan-pytorch) - Unofficial implementation of Alias-Free Generative Adversarial Networks. (https://arxiv.org/abs/2106.12423) in PyTorch
@@ -8603,7 +8604,7 @@
 - [CarsonScott/expresol](https://github.com/CarsonScott/expresol) - Library for executing customizable script-languages in python
 - [bennorth/pyawssfn](https://github.com/bennorth/pyawssfn) - Tools for converting Python code to AWS Step Function json
 - [tensorflow/model-analysis](https://github.com/tensorflow/model-analysis) - Model analysis tools for TensorFlow
-- [ansleliu/LightNet](https://github.com/ansleliu/LightNet) - LightNet: Light-weight Networks for Semantic Image Segmentation (Cityscapes and Mapillary Vistas Dataset)
+- [linksense/LightNet](https://github.com/linksense/LightNet) - LightNet: Light-weight Networks for Semantic Image Segmentation (Cityscapes and Mapillary Vistas Dataset)
 - [nh2/strace-pipes-presentation](https://github.com/nh2/strace-pipes-presentation) - Presentation: Debugging across pipes and sockets with strace
 - [salesforce/matchbox](https://github.com/salesforce/matchbox) - Write PyTorch code at the level of individual examples, then run it efficiently on minibatches.
 - [statham-stone/MultiRunner](https://github.com/statham-stone/MultiRunner) - This is a python package for multi-process running.
