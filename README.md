@@ -57,7 +57,6 @@
   - [Lua](#lua)
   - [M4](#m4)
   - [MATLAB](#matlab)
-  - [MLIR](#mlir)
   - [Makefile](#makefile)
   - [Markdown](#markdown)
   - [Matlab](#matlab)
@@ -519,6 +518,7 @@
 - [borglab/gtsam](https://github.com/borglab/gtsam) - GTSAM is a library of C++ classes that implement smoothing and mapping (SAM) in robotics and vision, using factor graphs and Bayes networks as the underlying computing paradigm rather than sparse matrices.
 - [cyang-kth/fmm](https://github.com/cyang-kth/fmm) - Fast map matching, an open source framework in C++
 - [neoml-lib/neoml](https://github.com/neoml-lib/neoml) - Machine learning framework for both deep learning and traditional algorithms
+- [tensorflow/runtime](https://github.com/tensorflow/runtime) - A performant and modular runtime for TensorFlow
 - [jupyter-xeus/xeus-python](https://github.com/jupyter-xeus/xeus-python) - Jupyter kernel for the Python programming language
 - [jupyter-xeus/xeus](https://github.com/jupyter-xeus/xeus) - Implementation of the Jupyter kernel protocol in C++
 - [s3fs-fuse/s3fs-fuse](https://github.com/s3fs-fuse/s3fs-fuse) - FUSE-based file system backed by Amazon S3
@@ -558,7 +558,7 @@
 - [loco-3d/crocoddyl](https://github.com/loco-3d/crocoddyl) - Crocoddyl is an optimal control library for robot control under contact sequence. Its solver is based on various efficient Differential Dynamic Programming (DDP)-like algorithms
 - [joeycastillo/The-Open-Book](https://github.com/joeycastillo/The-Open-Book) - 
 - [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA) - Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world.
-- [1technophile/OpenMQTTGateway](https://github.com/1technophile/OpenMQTTGateway) - MQTT gateway for ESP8266, ESP32, Sonoff RF Bridge or Arduino with bidirectional 433mhz/315mhz/868mhz, Infrared communications, BLE, beacons detection, mi flora, mi jia, LYWSD02, LYWSD03MMC, Mi Scale compatibility, SMS & LORA.
+- [1technophile/OpenMQTTGateway](https://github.com/1technophile/OpenMQTTGateway) - MQTT gateway for ESP8266, ESP32, Sonoff RF Bridge or Arduino with bidirectional 433mhz/315mhz/868mhz, Infrared communications, BLE, Bluetooth, beacons detection, mi flora, mi jia, LYWSD02, LYWSD03MMC, Mi Scale, TPMS, BBQ thermometer compatibility, SMS & LORA.
 - [endless-sky/endless-sky](https://github.com/endless-sky/endless-sky) - Space exploration, trading, and combat game.
 - [Hopson97/open-builder](https://github.com/Hopson97/open-builder) - Open  "Minecraft-like" game with multiplayer support and Lua scripting support for the both client and server
 - [Tencent/Hippy](https://github.com/Tencent/Hippy) - Hippy is designed for Web developer to easily build cross-platform and high-performance awesome apps. 👏
@@ -4615,7 +4615,7 @@
 - [MrGeislinger/UdacityNLPND_MiniProject_AttentionBasics](https://github.com/MrGeislinger/UdacityNLPND_MiniProject_AttentionBasics) - Optional Mini-Project for Udacity's NLPND about attention learning
 - [MrinmoiHossain/Udacity-Deep-Learning-Nanodegree](https://github.com/MrinmoiHossain/Udacity-Deep-Learning-Nanodegree) - The course is contained knowledge that are useful to work on deep learning as an engineer. Simple neural networks & training, CNN, Autoencoders and feature extraction, Transfer learning, RNN, LSTM, NLP, Data augmentation, GANs, Hyperparameter tuning, Model deployment and serving are included in the course.
 - [joanby/masters-desarrollo-udemy](https://github.com/joanby/masters-desarrollo-udemy) - 
-- [onnx/tensorflow-onnx](https://github.com/onnx/tensorflow-onnx) - Convert TensorFlow, Keras and Tflite models to ONNX
+- [onnx/tensorflow-onnx](https://github.com/onnx/tensorflow-onnx) - Convert TensorFlow, Keras, Tensorflow.js and Tflite models to ONNX
 - [flow-project/ITSC2018_Workshop](https://github.com/flow-project/ITSC2018_Workshop) - 
 - [KyleBanks/conways-gol-cnn](https://github.com/KyleBanks/conways-gol-cnn) - A convolutional neural network that plays Conway's Game of Life.
 - [criteo-research/reco-gym](https://github.com/criteo-research/reco-gym) - Code for reco-gym: A Reinforcement Learning Environment for the problem of Product Recommendation in Online Advertising
@@ -5751,10 +5751,6 @@
 - [TimChinenov/FarmPlotter](https://github.com/TimChinenov/FarmPlotter) - The following is a Matlab script that uses image processing to determine the number of farm plots in an image and print their area in pixels
 - [AaronJackson/vrn](https://github.com/AaronJackson/vrn) - :man:  Code for "Large Pose 3D Face Reconstruction from a Single Image via Direct Volumetric CNN Regression"
 - [TadasBaltrusaitis/OpenFace](https://github.com/TadasBaltrusaitis/OpenFace) - OpenFace – a state-of-the art tool intended for facial landmark detection, head pose estimation, facial action unit recognition, and eye-gaze estimation.
-
-## MLIR 
-
-- [tensorflow/runtime](https://github.com/tensorflow/runtime) - A performant and modular runtime for TensorFlow
 
 ## Makefile 
 
