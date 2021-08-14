@@ -853,7 +853,7 @@
 - [IntelLabs/pWord2Vec](https://github.com/IntelLabs/pWord2Vec) - Parallelizing word2vec in shared and distributed memory
 - [facebookarchive/beringei](https://github.com/facebookarchive/beringei) - Beringei is a high performance, in-memory storage engine for time series data.
 - [fanout/zurl](https://github.com/fanout/zurl) - HTTP and WebSocket client worker with ZeroMQ interface
-- [fanout/pushpin](https://github.com/fanout/pushpin) - Reverse proxy for realtime web services
+- [fanout/pushpin](https://github.com/fanout/pushpin) - Proxy server for adding push to your API
 - [Kiroeko/Visually-Algorithm](https://github.com/Kiroeko/Visually-Algorithm) - This is a A* Algorithm Visually Display Demo that shows Us How Computer Deal With Pathfinding。
 - [mozilla/DeepSpeech](https://github.com/mozilla/DeepSpeech) - DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.
 - [tensorflow/deepmath](https://github.com/tensorflow/deepmath) - Experiments towards neural network theorem proving
@@ -1779,7 +1779,7 @@
 - [tomnomnom/gron](https://github.com/tomnomnom/gron) - Make JSON greppable!
 - [coreos/vault-operator](https://github.com/coreos/vault-operator) - Run and manage Vault on Kubernetes simply and securely
 - [yunabe/lgo](https://github.com/yunabe/lgo) - Interactive Go programming with Jupyter
-- [centrifugal/centrifugo](https://github.com/centrifugal/centrifugo) - Scalable real-time messaging server in language-agnostic way. Set up once and forever.
+- [centrifugal/centrifugo](https://github.com/centrifugal/centrifugo) - Scalable real-time messaging server in a language-agnostic way. Set up once and forever.
 - [heroiclabs/nakama](https://github.com/heroiclabs/nakama) - Distributed server for social and realtime games and apps.
 - [schollz/find3](https://github.com/schollz/find3) - High-precision indoor positioning framework, version 3.
 - [jenkins-x/jx](https://github.com/jenkins-x/jx) - Jenkins X provides automated CI+CD for Kubernetes with Preview Environments on Pull Requests using Cloud Native pipelines from Tekton
@@ -2592,6 +2592,7 @@
 - [StartBootstrap/startbootstrap-sb-admin-2](https://github.com/StartBootstrap/startbootstrap-sb-admin-2) - A free, open source, Bootstrap admin theme created by Start Bootstrap
 - [igrigorik/hpbn.co](https://github.com/igrigorik/hpbn.co) - High Performance Browser Networking (O'Reilly)
 - [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io) - :blue_book: Home Assistant User documentation
+- [GitAlias/gitalias](https://github.com/GitAlias/gitalias) - Git alias commands for faster easier version control
 - [KennethWangDotDev/TypographyHandbook](https://github.com/KennethWangDotDev/TypographyHandbook) - A concise, referential guide on best web typographic practices.
 - [Link-/uber_data](https://github.com/Link-/uber_data) - Uber web interface crawler / scraper - Convert the trips table into a CSV file
 - [Azure-Samples/Azure-MachineLearning-DataScience](https://github.com/Azure-Samples/Azure-MachineLearning-DataScience) - 
@@ -4225,7 +4226,7 @@
 - [CSNW/d3.compose](https://github.com/CSNW/d3.compose) - Compose complex, data-driven visualizations from reusable charts and components with d3
 - [nefe/You-Dont-Need-jQuery](https://github.com/nefe/You-Dont-Need-jQuery) - Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript.
 - [babel/babel](https://github.com/babel/babel) - 🐠 Babel is a compiler for writing next generation JavaScript.
-- [ReactTraining/react-router](https://github.com/ReactTraining/react-router) - Declarative routing for React
+- [remix-run/react-router](https://github.com/remix-run/react-router) - Declarative routing for React
 - [callmecavs/jump.js](https://github.com/callmecavs/jump.js) - A modern smooth scrolling library.
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 - [vuejs/vue](https://github.com/vuejs/vue) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
@@ -6654,7 +6655,6 @@
 - [alanjames1987/Node.js-Best-Practices](https://github.com/alanjames1987/Node.js-Best-Practices) - If you want to improve these best practices in any way please don't hesitate to create a pull request.
 - [toddmotto/angularjs-styleguide](https://github.com/toddmotto/angularjs-styleguide) - AngularJS styleguide for teams
 - [hemanth/awesome-pwa](https://github.com/hemanth/awesome-pwa) - Awesome list of progressive web apps! (PR welcomed ;))
-- [GitAlias/gitalias](https://github.com/GitAlias/gitalias) - Git alias commands for faster easier version control
 - [nayafia/lemonade-stand](https://github.com/nayafia/lemonade-stand) - A handy guide to financial support for open source
 - [kjw0612/awesome-rnn](https://github.com/kjw0612/awesome-rnn) - Recurrent Neural Network - A curated list of resources dedicated to RNN
 - [memo/ai-resources](https://github.com/memo/ai-resources) - Selection of resources to learn Artificial Intelligence / Machine Learning / Statistical Inference / Deep Learning / Reinforcement Learning
@@ -6954,7 +6954,7 @@
 - [open-mmlab/mmgeneration](https://github.com/open-mmlab/mmgeneration) - MMGeneration is a powerful toolkit for generative models, based on PyTorch and MMCV.
 - [nalgeon/dataviz](https://github.com/nalgeon/dataviz) - Data visualization guide for presentations, reports, and dashboards
 - [mikey96/reflection-public](https://github.com/mikey96/reflection-public) - 
-- [yuval-alaluf/restyle-encoder](https://github.com/yuval-alaluf/restyle-encoder) - Official Implementation for "ReStyle: A Residual-Based StyleGAN Encoder via Iterative Refinement" https://arxiv.org/abs/2104.02699
+- [yuval-alaluf/restyle-encoder](https://github.com/yuval-alaluf/restyle-encoder) - Official Implementation for "ReStyle: A Residual-Based StyleGAN Encoder via Iterative Refinement" (ICCV 2021) https://arxiv.org/abs/2104.02699
 - [textflint/textflint](https://github.com/textflint/textflint) - Unified Multilingual Robustness Evaluation Toolkit for Natural Language Processing
 - [open-mmlab/mmocr](https://github.com/open-mmlab/mmocr) - OpenMMLab Text Detection, Recognition and Understanding Toolbox
 - [berniwal/swin-transformer-pytorch](https://github.com/berniwal/swin-transformer-pytorch) - Implementation of the Swin Transformer in PyTorch.
@@ -7491,7 +7491,7 @@
 - [great-expectations/great_expectations](https://github.com/great-expectations/great_expectations) - Always know what to expect from your data.
 - [visionml/pytracking](https://github.com/visionml/pytracking) - Visual tracking library based on PyTorch.
 - [google-research/fixmatch](https://github.com/google-research/fixmatch) - A simple method to perform semi-supervised learning with limited data.
-- [ProtonVPN/linux-cli-community](https://github.com/ProtonVPN/linux-cli-community) - Linux command-line client for ProtonVPN. Written in Python.
+- [Rafficer/linux-cli-community](https://github.com/Rafficer/linux-cli-community) - Linux command-line client for ProtonVPN. Written in Python.
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [apprenticeharper/DeDRM_tools](https://github.com/apprenticeharper/DeDRM_tools) - DeDRM tools for ebooks
 - [kkroening/ffmpeg-python](https://github.com/kkroening/ffmpeg-python) - Python bindings for FFmpeg - with complex filtering support
@@ -11901,7 +11901,7 @@
 - [bcambel/pythonhackers](https://github.com/bcambel/pythonhackers) - http://pythonhackers.com
 - [stormpath/stormpath-flask](https://github.com/stormpath/stormpath-flask) - Build simple, secure web applications with Stormpath and Flask!
 - [debugger22/Jarvis](https://github.com/debugger22/Jarvis) - As the name suggests
-- [micahflee/onionshare](https://github.com/micahflee/onionshare) - Securely and anonymously share files, host websites, and chat with friends using the Tor network
+- [onionshare/onionshare](https://github.com/onionshare/onionshare) - Securely and anonymously share files, host websites, and chat with friends using the Tor network
 - [kuujo/yuppy](https://github.com/kuujo/yuppy) - Python Programming for the Privileged Class
 - [zmt0516/changeTorrent](https://github.com/zmt0516/changeTorrent) - 
 - [rochacbruno-archive/scrapy_model](https://github.com/rochacbruno-archive/scrapy_model) - A helper to create web scrapers using scrapy selector in a Model based structure
