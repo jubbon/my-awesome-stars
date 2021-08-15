@@ -1361,8 +1361,9 @@
 
 ## Cython 
 
-- [rushter/selectolax](https://github.com/rushter/selectolax) - Python binding to Modest engine (fast HTML5 parser with CSS selectors).
+- [rushter/selectolax](https://github.com/rushter/selectolax) - Python binding to Modest and Lexbor engines (fast HTML5 parser with CSS selectors).
 - [MagicStack/uvloop](https://github.com/MagicStack/uvloop) - Ultra fast asyncio event loop.
+- [wbolster/plyvel](https://github.com/wbolster/plyvel) - Plyvel, a fast and feature-rich Python interface to LevelDB
 
 ## D 
 
@@ -4457,7 +4458,7 @@
 - [CompVis/taming-transformers](https://github.com/CompVis/taming-transformers) - Taming Transformers for High-Resolution Image Synthesis
 - [gaih/introduction-to-python](https://github.com/gaih/introduction-to-python) - 
 - [AI4Finance-LLC/FinRL](https://github.com/AI4Finance-LLC/FinRL) - A Deep Reinforcement Learning Framework for Automated Trading in Quantitative Finance. NeurIPS 2020. 🔥
-- [orpatashnik/StyleCLIP](https://github.com/orpatashnik/StyleCLIP) - 
+- [orpatashnik/StyleCLIP](https://github.com/orpatashnik/StyleCLIP) - Official Implementation for "StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery" (ICCV 2021 Oral)
 - [karpathy/deep-vector-quantization](https://github.com/karpathy/deep-vector-quantization) - VQVAEs, GumbelSoftmaxes and friends
 - [jackroos/VL-BERT](https://github.com/jackroos/VL-BERT) - Code for ICLR 2020 paper "VL-BERT: Pre-training of Generic Visual-Linguistic Representations".
 - [github/CodeSearchNet](https://github.com/github/CodeSearchNet) - Datasets, tools, and benchmarks for representation learning of code.
@@ -12370,7 +12371,6 @@
 - [rossp/djangosites.org](https://github.com/rossp/djangosites.org) - Source code for djangosites.org.
 - [sloria/PythonORMSleepy](https://github.com/sloria/PythonORMSleepy) - Python ORM/ODM Examples, For The Sleepy
 - [aromanovich/flask-webtest](https://github.com/aromanovich/flask-webtest) - Utilities for testing Flask applications with WebTest
-- [wbolster/plyvel](https://github.com/wbolster/plyvel) - Plyvel, a fast and feature-rich Python interface to LevelDB
 - [davidcrawford/chronic](https://github.com/davidcrawford/chronic) - Half profiler, half timer, 100% fun.
 - [Ceasar/twosheds](https://github.com/Ceasar/twosheds) - Python library for making POSIX shells
 - [crateio/crate.pypi](https://github.com/crateio/crate.pypi) - 
