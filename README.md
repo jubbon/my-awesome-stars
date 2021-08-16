@@ -2962,7 +2962,7 @@
 - [heremaps/maps-api-for-javascript-examples](https://github.com/heremaps/maps-api-for-javascript-examples) - Self-contained examples for Maps API for JavaScript v3.
 - [heremaps/developer-blog](https://github.com/heremaps/developer-blog) - Examples and projects featured on the HERE developer blog.
 - [heremaps/here-cli](https://github.com/heremaps/here-cli) - A command-line interface to work with HERE XYZ Hub and other HERE APIs
-- [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (June 2021)
+- [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (August 2021)
 - [aws/aws-sdk-js](https://github.com/aws/aws-sdk-js) - AWS SDK for JavaScript in the browser and Node.js
 - [google/blockly](https://github.com/google/blockly) - The web-based visual programming editor.
 - [iantheearl/mc.js](https://github.com/iantheearl/mc.js) - Open source Minecraft clone built with ThreeJS, ReactJS, GraphQL, and NodeJS.
