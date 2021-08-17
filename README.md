@@ -1502,7 +1502,6 @@
 
 ## GLSL 
 
-- [bloc97/Anime4K](https://github.com/bloc97/Anime4K) - A High-Quality Real Time Upscaler for Anime Video
 - [SaschaWillems/Vulkan](https://github.com/SaschaWillems/Vulkan) - Examples and demos for the new Vulkan API
 
 ## Game Maker Language 
@@ -2813,7 +2812,7 @@
 - [mendhak/gpslogger](https://github.com/mendhak/gpslogger) - :satellite: Lightweight GPS Logging Application For Android.
 - [gshevtsov/TroikaDumper](https://github.com/gshevtsov/TroikaDumper) - Дампер и парсер памяти карты Тройка
 - [apache/incubator-heron](https://github.com/apache/incubator-heron) - Apache Heron (Incubating) is a realtime, distributed, fault-tolerant stream processing engine from Twitter
-- [orientechnologies/orientdb](https://github.com/orientechnologies/orientdb) - OrientDB is the most versatile DBMS supporting Graph, Document, Reactive, Full-Text, Geospatial and Key-Value models in one Multi-Model product. OrientDB can run distributed (Multi-Master), supports SQL, ACID Transactions, Full-Text indexing and Reactive Queries. OrientDB Community Edition is Open Source using a liberal Apache 2 license.
+- [orientechnologies/orientdb](https://github.com/orientechnologies/orientdb) - OrientDB is the most versatile DBMS supporting Graph, Document, Reactive, Full-Text and Geospatial models in one Multi-Model product. OrientDB can run distributed (Multi-Master), supports SQL, ACID Transactions, Full-Text indexing and Reactive Queries. OrientDB Community Edition is Open Source using a liberal Apache 2 license.
 - [DrKLO/Telegram](https://github.com/DrKLO/Telegram) - Telegram for Android source
 - [google/gson](https://github.com/google/gson) - A Java serialization/deserialization library to convert Java Objects into JSON and back
 - [apache/flink](https://github.com/apache/flink) - Apache Flink
@@ -4558,6 +4557,7 @@
 - [PacktWorkshops/The-Python-Workshop](https://github.com/PacktWorkshops/The-Python-Workshop) - A New, Interactive Approach to Learning Python
 - [microsoft/Reactors](https://github.com/microsoft/Reactors) - Content for Microsoft Reactor Workshops
 - [Samsung-IT-Academy/stepik-dl-nlp](https://github.com/Samsung-IT-Academy/stepik-dl-nlp) - Материалы мини-курса на Stepik "Нейронные сети и обработка текста"
+- [bloc97/Anime4K](https://github.com/bloc97/Anime4K) - A High-Quality Real Time Upscaler for Anime Video
 - [analytics-club-iitm/weekly-sessions](https://github.com/analytics-club-iitm/weekly-sessions) - 
 - [deepmipt/deepPavlovEval](https://github.com/deepmipt/deepPavlovEval) - Sentence embeddings evaluation for russian tasks
 - [deepmipt/dp_notebooks](https://github.com/deepmipt/dp_notebooks) - 
@@ -11682,7 +11682,7 @@
 - [GetStream/stream-django](https://github.com/GetStream/stream-django) - Django Client - Build Activity Feeds & Streams with GetStream.io
 - [pymc-devs/pymc3](https://github.com/pymc-devs/pymc3) - Probabilistic Programming in Python: Bayesian Modeling and Probabilistic Machine Learning with Aesara
 - [statsmodels/statsmodels](https://github.com/statsmodels/statsmodels) - Statsmodels: statistical modeling and econometrics in Python
-- [scipy/scipy](https://github.com/scipy/scipy) - Scipy library main repository
+- [scipy/scipy](https://github.com/scipy/scipy) - SciPy library main repository
 - [mwaskom/seaborn](https://github.com/mwaskom/seaborn) - Statistical data visualization in Python
 - [maxcountryman/atomos](https://github.com/maxcountryman/atomos) - Atomic primitives for Python.
 - [rspeer/langcodes](https://github.com/rspeer/langcodes) - A Python library for working with and comparing language codes.
@@ -13557,7 +13557,6 @@
 - [ducksoupdev/vue-webpack-typescript](https://github.com/ducksoupdev/vue-webpack-typescript) - A Vue, Webpack, Typescript, Bootstrap setup with hot reload, dynamic imports, unit testing, code coverage, sass, uncss and bundling/minification.
 - [vue-styleguidist/vue-styleguidist](https://github.com/vue-styleguidist/vue-styleguidist) - Created from react styleguidist for Vue Components with a living style guide
 - [doodyparizada/word2vec-spam-filter](https://github.com/doodyparizada/word2vec-spam-filter) - Using word vectors to classify spam messages
-- [scaccogatto/vue-waypoint](https://github.com/scaccogatto/vue-waypoint) - trigger functions and events based on the element position on the screen
 - [prettier/prettier-vscode](https://github.com/prettier/prettier-vscode) - Visual Studio Code extension for Prettier
 - [snyk/snyk](https://github.com/snyk/snyk) - CLI and build-time tool to find & fix known vulnerabilities in open-source dependencies
 - [PaddlePaddle/VisualDL](https://github.com/PaddlePaddle/VisualDL) - Deep Learning Visualization Toolkit（『飞桨』深度学习可视化工具 ）
@@ -13963,6 +13962,7 @@
 - [szafran89/nuxt-blog](https://github.com/szafran89/nuxt-blog) - A Nuxt.js server side rendered blog app
 - [khriztianmoreno/gist-blog-ssr](https://github.com/khriztianmoreno/gist-blog-ssr) - Build a server rendered Vue.js blog with Nuxt and Vuex using API Gist as backend
 - [sdras/sample-vue-shop](https://github.com/sdras/sample-vue-shop) - See readme for newer repo details! A sample shop that shows how to manage payments with Vue, Stripe, and Serverless Functions
+- [scaccogatto/vue-waypoint](https://github.com/scaccogatto/vue-waypoint) - trigger functions and events based on the element position on the screen
 - [goweiwen/vue-swing](https://github.com/goweiwen/vue-swing) - Vue.js wrapper for Swing
 - [jecovier/vue-json-excel](https://github.com/jecovier/vue-json-excel) - 
 - [halower/vue-tree](https://github.com/halower/vue-tree) - tree and multi-select component based on Vue.js 2.0
