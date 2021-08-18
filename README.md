@@ -1685,7 +1685,7 @@
 - [syncsynchalt/illustrated-tls](https://github.com/syncsynchalt/illustrated-tls) - The Illustrated TLS Connection: Every byte explained
 - [yinheli/sshw](https://github.com/yinheli/sshw) - 🐝  ssh client wrapper for automatic login
 - [cloudflare/tableflip](https://github.com/cloudflare/tableflip) - Graceful process restarts in Go
-- [photoprism/photoprism](https://github.com/photoprism/photoprism) - Open-Source Photo Management powered by Go and Google TensorFlow
+- [photoprism/photoprism](https://github.com/photoprism/photoprism) - Privately browse, organize, and share your photo collection. Free & Open Source. 🌈
 - [davrodpin/mole](https://github.com/davrodpin/mole) - CLI application to create ssh tunnels focused on resiliency and user experience.
 - [sipt/shuttle](https://github.com/sipt/shuttle) - A web proxy in Golang with amazing features.
 - [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation
@@ -5397,7 +5397,6 @@
 - [BinRoot/TensorFlow-Book](https://github.com/BinRoot/TensorFlow-Book) - Accompanying source code for Machine Learning with TensorFlow. Refer to the book for step-by-step explanations.
 - [Mostafa-Samir/DNC-tensorflow](https://github.com/Mostafa-Samir/DNC-tensorflow) - A TensorFlow implementation of DeepMind's Differential Neural Computers (DNC)
 - [QuantEcon/QuantEcon.notebooks](https://github.com/QuantEcon/QuantEcon.notebooks) - Jupyter notebooks contributed by QuantEcon developers, users and the community
-- [probml/pyprobml](https://github.com/probml/pyprobml) - Python code for "Machine learning: a probabilistic perspective" (2nd edition)
 - [yandexdataschool/Practical_DL](https://github.com/yandexdataschool/Practical_DL) - DL course co-developed by YSDA, HSE and Skoltech
 - [dmlc/mxnet-notebooks](https://github.com/dmlc/mxnet-notebooks) - Notebooks for MXNet
 - [udacity/CarND-TensorFlow-Lab](https://github.com/udacity/CarND-TensorFlow-Lab) - TensorFlow Lab for Self-Driving Car ND
@@ -6906,6 +6905,7 @@
 
 ## Python 
 
+- [probcomp/sppl](https://github.com/probcomp/sppl) - Sum-Product Probabilistic Language
 - [SenHe/DLFS](https://github.com/SenHe/DLFS) - 
 - [facebookresearch/DONERF](https://github.com/facebookresearch/DONERF) - Code for "DONeRF Towards Real-Time Rendering of Compact Neural Radiance Fields using Depth Oracle Networks"
 - [Qiskit/qiskit-machine-learning](https://github.com/Qiskit/qiskit-machine-learning) - Quantum Machine Learning
@@ -7302,7 +7302,7 @@
 - [marshmallow-code/marshmallow-jsonapi](https://github.com/marshmallow-code/marshmallow-jsonapi) - JSON API 1.0 (https://jsonapi.org/) formatting with marshmallow
 - [osmr/imgclsmob](https://github.com/osmr/imgclsmob) - Sandbox for training deep learning networks
 - [Hyperparticle/udify](https://github.com/Hyperparticle/udify) - A single model that parses Universal Dependencies across 75 languages. Given a sentence, jointly predicts part-of-speech tags, morphology tags, lemmas, and dependency trees.
-- [PKSHATechnology-Research/camphr](https://github.com/PKSHATechnology-Research/camphr) - spaCy plugin for  Transformers , Udify, ELmo, etc.
+- [PKSHATechnology-Research/camphr](https://github.com/PKSHATechnology-Research/camphr) - Camphr - NLP libary for creating pipeline components
 - [araffin/rl-baselines-zoo](https://github.com/araffin/rl-baselines-zoo) - A collection of 100+ pre-trained RL agents using Stable Baselines, training and hyperparameter optimization included.
 - [SwapneelM/Protobot](https://github.com/SwapneelM/Protobot) - Prototyping a Chatbot using Jack the Reader
 - [hugochan/GraphFlow](https://github.com/hugochan/GraphFlow) - Code & data accompanying the IJCAI 2020 paper "GraphFlow: Exploiting Conversation Flow with Graph Neural Networks for Conversational Machine Comprehension"
@@ -9884,6 +9884,7 @@
 - [pengpaiSH/Kaggle_NCFM](https://github.com/pengpaiSH/Kaggle_NCFM) - Using Keras+TensorFlow to solve NCFM-Leadboard Top 5%
 - [llSourcell/tensorflow_chatbot](https://github.com/llSourcell/tensorflow_chatbot) - Tensorflow chatbot demo by @Sirajology on Youtube
 - [StackStorm/st2](https://github.com/StackStorm/st2) - StackStorm (aka "IFTTT for Ops") is event-driven automation for auto-remediation, security responses, troubleshooting, deployments, and more. Includes rules engine, workflow, 160 integration packs with 6000+ actions (see https://exchange.stackstorm.org) and ChatOps. Installer at https://docs.stackstorm.com/install/index.html. Questions? https://forum.stackstorm.com/.
+- [probml/pyprobml](https://github.com/probml/pyprobml) - Python code for "Machine learning: a probabilistic perspective" (2nd edition)
 - [elfi-dev/elfi](https://github.com/elfi-dev/elfi) - ELFI - Engine for Likelihood-Free Inference
 - [Logicmn/pyx](https://github.com/Logicmn/pyx) - Real-time stock trading program using a basic mean reversion algorithm
 - [PyFilesystem/pyfilesystem2](https://github.com/PyFilesystem/pyfilesystem2) - Python's Filesystem abstraction layer
@@ -11480,7 +11481,7 @@
 - [AlexMathew/scrapple](https://github.com/AlexMathew/scrapple) - A framework for creating semi-automatic web content extractors
 - [krisfields/django-baker](https://github.com/krisfields/django-baker) - Adds a management command that generates views, forms, urls, admin, and templates based off the contents of models.py
 - [dmchoull/cdeploy](https://github.com/dmchoull/cdeploy) - Simple python program for managing Cassandra schema migrations
-- [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) - SpiderFoot automates OSINT so you can focus on analysis.
+- [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) - SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
 - [jazzband/django-defender](https://github.com/jazzband/django-defender) - A simple super fast django reusable app that blocks people from brute forcing login attempts
 - [klen/muffin](https://github.com/klen/muffin) - Muffin is a fast, simple and asyncronous web-framework for Python 3
 - [django-hijack/django-hijack](https://github.com/django-hijack/django-hijack) - With Django Hijack, admins can log in and work on behalf of other users without having to know their credentials.
@@ -12382,7 +12383,7 @@
 - [9miao/Firefly](https://github.com/9miao/Firefly) - Distributed Game Server Framework
 - [ateska/ramona](https://github.com/ateska/ramona) - Enterprise-grade runtime supervisor
 - [getsentry/responses](https://github.com/getsentry/responses) - A utility for mocking out the Python Requests library.
-- [flask-extensions/Flask-GoogleMaps](https://github.com/flask-extensions/Flask-GoogleMaps) - Easy way to add GoogleMaps to Flask applications. maintainer: @RiverFount
+- [flask-extensions/Flask-GoogleMaps](https://github.com/flask-extensions/Flask-GoogleMaps) - Easy way to add GoogleMaps to Flask applications. maintainer: @getcake
 - [crossbario/crossbar](https://github.com/crossbario/crossbar) - Crossbar.io - WAMP application router
 - [infoculture/mosopendata](https://github.com/infoculture/mosopendata) - Parser and data from data.mos.ru. / Парсер и данные для портала открытых данных Москвы data.mos.ru
 - [philippbosch/django-geoposition](https://github.com/philippbosch/django-geoposition) - Django model field that can hold a geoposition, and corresponding widget
