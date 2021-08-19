@@ -2473,7 +2473,7 @@
 - [pkozul/ha-floorplan](https://github.com/pkozul/ha-floorplan) - Floorplan for Home Assistant
 - [dwyl/learn-to-send-email-via-google-script-html-no-server](https://github.com/dwyl/learn-to-send-email-via-google-script-html-no-server) - :email: An Example of using an HTML form (e.g: "Contact Us" on a website) to send Email without a Backend Server (using a Google Script) perfect for static websites that need to collect data.
 - [ethen8181/machine-learning](https://github.com/ethen8181/machine-learning) - :earth_americas: machine learning tutorials (mainly in Python3)
-- [ft-interactive/chart-doctor](https://github.com/ft-interactive/chart-doctor) - Sample files to accompany the FT's Chart Doctor column
+- [Financial-Times/chart-doctor](https://github.com/Financial-Times/chart-doctor) - Sample files to accompany the FT's Chart Doctor column
 - [vUdav/flexbox-cheatsheet](https://github.com/vUdav/flexbox-cheatsheet) - Cheatsheet FlexBox
 - [javascript-tutorial/en.javascript.info](https://github.com/javascript-tutorial/en.javascript.info) - Modern JavaScript Tutorial
 - [crazychicken/t-scroll](https://github.com/crazychicken/t-scroll) - A modern reveal-on-scroll library with useful options and animations. (Animate Elements On Reveal)
@@ -2495,7 +2495,6 @@
 - [greenelab/deep-review](https://github.com/greenelab/deep-review) - A collaboratively written review paper on deep learning, genomics, and precision medicine
 - [khan4019/angular-interview-questions](https://github.com/khan4019/angular-interview-questions) - Most extensive Angular interview questions based on your level.
 - [ElemeFE/node-interview](https://github.com/ElemeFE/node-interview) - How to pass the Node.js interview of ElemeFE.
-- [geerlingguy/ansible-role-nodejs](https://github.com/geerlingguy/ansible-role-nodejs) - Ansible Role - Node.js
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [chromium/badssl.com](https://github.com/chromium/badssl.com) - :lock: Memorable site for testing clients against bad SSL configs.
 - [google/tacotron](https://github.com/google/tacotron) - Audio samples accompanying publications related to Tacotron, an end-to-end speech synthesis model.
@@ -4398,6 +4397,7 @@
 - [ANXS/postgresql](https://github.com/ANXS/postgresql) - Fairly full featured Ansible role for Postgresql.
 - [dev-sec/ansible-collection-hardening](https://github.com/dev-sec/ansible-collection-hardening) - This Ansible collection provides battle tested hardening for Linux, SSH, nginx, MySQL
 - [Stouts/Stouts.openvpn](https://github.com/Stouts/Stouts.openvpn) - Ansible role to install and configure OpenVPN server
+- [geerlingguy/ansible-role-nodejs](https://github.com/geerlingguy/ansible-role-nodejs) - Ansible Role - Node.js
 - [jcalazan/ansible-django-stack](https://github.com/jcalazan/ansible-django-stack) - Ansible Playbook for setting up a Django app with Nginx, Gunicorn, PostgreSQL, Celery, RabbitMQ, Supervisor, Virtualenv, and Memcached. A Vagrantfile for provisioning a VirtualBox virtual machine is included as well.
 - [galaxyproject/ansible-galaxy](https://github.com/galaxyproject/ansible-galaxy) - An Ansible role for managing a Galaxy server
 
@@ -4421,6 +4421,7 @@
 
 ## Jupyter Notebook 
 
+- [labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) - 🧑‍🏫 Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit), optimizers (adam, radam, adabelief), gans(dcgan, cyclegan, stylegan2), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, etc. 🧠
 - [project-codeflare/codeflare](https://github.com/project-codeflare/codeflare) - Simplifying the definition and execution, scaling and deployment of pipelines on the cloud.
 - [yandex-research/shifts](https://github.com/yandex-research/shifts) - This repository contains data readers and examples for the three tracks of the Shifts Dataset and the Shifts Challenge.
 - [google/brax](https://github.com/google/brax) - Massively parallel rigidbody physics simulation on accelerator hardware.
@@ -6031,7 +6032,7 @@
 - [SkullTech/aws-solutions-architect-associate-notes](https://github.com/SkullTech/aws-solutions-architect-associate-notes) - My notes for AWS Solutions Architect Associate.
 - [weblancaster/awesome-IoT-hybrid](https://github.com/weblancaster/awesome-IoT-hybrid) - The missing awesome list - collection of awesome IoT and Hybrid Apps frameworks, tools, resources, videos and shiny things.
 - [intel/llvm](https://github.com/intel/llvm) - Intel staging area for llvm.org contribution. Home for Intel LLVM-based projects.
-- [gregsramblings/google-cloud-4-words](https://github.com/gregsramblings/google-cloud-4-words) - The Google Cloud Developer's Cheat Sheet
+- [priyankavergadia/google-cloud-4-words](https://github.com/priyankavergadia/google-cloud-4-words) - The Google Cloud Developer's Cheat Sheet
 - [MobilityData/gtfs-flex](https://github.com/MobilityData/gtfs-flex) - A data format that models flexible public transportation services as an extension to GTFS
 - [heremaps/xyz-documentation](https://github.com/heremaps/xyz-documentation) - This repository contains the Open Documentation for HERE XYZ.
 - [jdauphant/awesome-ansible](https://github.com/jdauphant/awesome-ansible) - A collaborative curated list of awesome Ansible resources
@@ -6905,6 +6906,11 @@
 
 ## Python 
 
+- [easton-cau/SOTR](https://github.com/easton-cau/SOTR) - SOTR: Segmenting Objects with Transformers
+- [sovaai/sova-tts](https://github.com/sovaai/sova-tts) - 
+- [vlomme/Multi-Tacotron-Voice-Cloning](https://github.com/vlomme/Multi-Tacotron-Voice-Cloning) - Phoneme multilingual(Russian-English) voice cloning based on
+- [BaguaSys/examples](https://github.com/BaguaSys/examples) - Bagua examples.
+- [BaguaSys/bagua](https://github.com/BaguaSys/bagua) - Bagua is a flexible and performant distributed training algorithm development framework.
 - [probcomp/sppl](https://github.com/probcomp/sppl) - Sum-Product Probabilistic Language
 - [SenHe/DLFS](https://github.com/SenHe/DLFS) - 
 - [facebookresearch/DONERF](https://github.com/facebookresearch/DONERF) - Code for "DONeRF Towards Real-Time Rendering of Compact Neural Radiance Fields using Depth Oracle Networks"
@@ -7939,7 +7945,7 @@
 - [Accenture/AmpliGraph](https://github.com/Accenture/AmpliGraph) - Python library for Representation Learning on Knowledge Graphs https://docs.ampligraph.org
 - [docker/docker-py](https://github.com/docker/docker-py) - A Python library for the Docker Engine API
 - [facebookresearch/PyTorch-BigGraph](https://github.com/facebookresearch/PyTorch-BigGraph) - Generate embeddings from large-scale graph-structured data.
-- [whai362/PSENet](https://github.com/whai362/PSENet) - 
+- [whai362/PSENet](https://github.com/whai362/PSENet) - Official Pytorch implementations of PSENet.
 - [plotly/plotly_express](https://github.com/plotly/plotly_express) - Plotly Express - Simple syntax for complex charts. Now integrated into plotly.py!
 - [idealo/image-super-resolution](https://github.com/idealo/image-super-resolution) - 🔎 Super-scale your images and run experiments with Residual Dense and Adversarial Networks.
 - [yampelo/beagle](https://github.com/yampelo/beagle) - Beagle is an incident response and digital forensics tool which transforms security logs and data into graphs.
@@ -10726,7 +10732,7 @@
 - [tqdm/tqdm](https://github.com/tqdm/tqdm) - A Fast, Extensible Progress Bar for Python and CLI
 - [ofa/connect](https://github.com/ofa/connect) - Archived Project - Please reference 3rd party forks listed in README
 - [vokal/pg-table-markdown](https://github.com/vokal/pg-table-markdown) - A command line tool that generates markdown documentation for Postgres tables in a given schema
-- [lord63/py-spin](https://github.com/lord63/py-spin) - Terminal spinner package for Python.
+- [lord63/py-spin](https://github.com/lord63/py-spin) - Terminal spinner package for Python. (This library is not the one from FLIR)
 - [v1k45/django-notify-x](https://github.com/v1k45/django-notify-x) - Notification system for Django
 - [JaredMHall/reline](https://github.com/JaredMHall/reline) - Python CLI tool to reformat a text into a specified number of words per line/characters per line.
 - [dddomodossola/remi](https://github.com/dddomodossola/remi) - Python REMote Interface library. Platform independent. In about 100 Kbytes, perfect for your diet.
@@ -13862,7 +13868,6 @@
 - [mbj36/vue-burger-menu](https://github.com/mbj36/vue-burger-menu) - 🍔 An off-canvas sidebar Vue component - https://vue-burger-menu.netlify.com/
 - [TerryZ/v-uploader](https://github.com/TerryZ/v-uploader) - A Vue2 plugin make files upload simple and easier, single file upload with image preview, multiple upload with drag and drop
 - [DesignRevision/shards-vue](https://github.com/DesignRevision/shards-vue) - 🌟Shards Vue is a free, beautiful and modern Vue.js UI kit based on Shards.
-- [christiannwamba/vue-auth-vuex](https://github.com/christiannwamba/vue-auth-vuex) - 
 - [popstas/yandex-dialogs-client](https://github.com/popstas/yandex-dialogs-client) - Тестирование навыков Яндекс.Диалогов Алисы с автотестами
 - [Tucsky/SignificantTrades](https://github.com/Tucsky/SignificantTrades) - better than 1 min chart
 - [forestryio/portfolio-vuepress](https://github.com/forestryio/portfolio-vuepress) - Vuepress portfolio
