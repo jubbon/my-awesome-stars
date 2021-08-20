@@ -1405,7 +1405,6 @@
 - [JideGuru/FlutterFoodybite](https://github.com/JideGuru/FlutterFoodybite) - Flutter representation of a Restaurant app UI.
 - [zubairehman/flutter-boilerplate-project](https://github.com/zubairehman/flutter-boilerplate-project) - A boilerplate project created in flutter using MobX and Provider.
 - [aloisdeniel/flutter_device_preview](https://github.com/aloisdeniel/flutter_device_preview) - Approximate how your app looks and performs on another device.
-- [flutter/flutter_web](https://github.com/flutter/flutter_web) - Bring your Flutter code to web browsers
 - [MarcioQuimbundo/uber_clone](https://github.com/MarcioQuimbundo/uber_clone) - 
 - [dengyin2000/dynamic_widget](https://github.com/dengyin2000/dynamic_widget) - A Backend-Driven UI toolkit, build your dynamic UI with json, and the json format is very similar with flutter widget code.
 - [alibaba/flutter_boost](https://github.com/alibaba/flutter_boost) - FlutterBoost is a Flutter plugin which enables hybrid integration of Flutter for your existing native apps with minimum efforts
@@ -1685,7 +1684,7 @@
 - [syncsynchalt/illustrated-tls](https://github.com/syncsynchalt/illustrated-tls) - The Illustrated TLS Connection: Every byte explained
 - [yinheli/sshw](https://github.com/yinheli/sshw) - 🐝  ssh client wrapper for automatic login
 - [cloudflare/tableflip](https://github.com/cloudflare/tableflip) - Graceful process restarts in Go
-- [photoprism/photoprism](https://github.com/photoprism/photoprism) - Privately browse, organize, and share your photo collection. Free & Open Source. 🌈
+- [photoprism/photoprism](https://github.com/photoprism/photoprism) - Privately hosted app for browsing, organizing, and sharing your photo collection. Say goodbye to uploading your visual memories to the cloud! 🌈
 - [davrodpin/mole](https://github.com/davrodpin/mole) - CLI application to create ssh tunnels focused on resiliency and user experience.
 - [sipt/shuttle](https://github.com/sipt/shuttle) - A web proxy in Golang with amazing features.
 - [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation
@@ -6906,6 +6905,7 @@
 
 ## Python 
 
+- [onnx/optimizer](https://github.com/onnx/optimizer) - Actively maintained ONNX Optimizer
 - [easton-cau/SOTR](https://github.com/easton-cau/SOTR) - SOTR: Segmenting Objects with Transformers
 - [sovaai/sova-tts](https://github.com/sovaai/sova-tts) - 
 - [vlomme/Multi-Tacotron-Voice-Cloning](https://github.com/vlomme/Multi-Tacotron-Voice-Cloning) - Phoneme multilingual(Russian-English) voice cloning based on
@@ -7895,7 +7895,7 @@
 - [itsKindred/procSpy](https://github.com/itsKindred/procSpy) - Python tool that monitors and logs user-run commands on a Linux system for either offensive or defensive purposes..
 - [geekylax/pytorch-tutorial](https://github.com/geekylax/pytorch-tutorial) - PyTorch Tutorial for Deep Learning Researchers
 - [ranahanocka/MeshCNN](https://github.com/ranahanocka/MeshCNN) - Convolutional Neural Network for 3D meshes in PyTorch
-- [TDAmeritrade/stumpy](https://github.com/TDAmeritrade/stumpy) - STUMPY is a powerful and scalable Python library for computing a Matrix Profile, which can be used for a variety of time series data mining tasks
+- [TDAmeritrade/stumpy](https://github.com/TDAmeritrade/stumpy) - STUMPY is a powerful and scalable Python library for modern time series analysis
 - [instillai/machine-learning-course](https://github.com/instillai/machine-learning-course) - :speech_balloon: Machine Learning Course with Python:
 - [NVlabs/FUNIT](https://github.com/NVlabs/FUNIT) - Translate images to unseen domains in the test time with few example images.
 - [BloodAxe/pytorch-toolbelt](https://github.com/BloodAxe/pytorch-toolbelt) - PyTorch extensions for fast R&D prototyping and Kaggle farming
@@ -9912,7 +9912,7 @@
 - [xdavidhu/mitmAP](https://github.com/xdavidhu/mitmAP) - 📡 A python program to create a fake AP and sniff data.
 - [mail-in-a-box/mailinabox](https://github.com/mail-in-a-box/mailinabox) - Mail-in-a-Box helps individuals take back control of their email by defining a one-click, easy-to-deploy SMTP+everything else server: a mail server in a box.
 - [christopherjenness/NBA-prediction](https://github.com/christopherjenness/NBA-prediction) - Predict scores of NBA games using regularized matrix completion
-- [JacobLandau/FilmTrackr](https://github.com/JacobLandau/FilmTrackr) - Analysis engine for movie watching habits
+- [jakelandau/FilmTrackr](https://github.com/jakelandau/FilmTrackr) - Analysis engine for movie watching habits
 - [pirate/gzint](https://github.com/pirate/gzint) - :scissors: A python3 library for efficiently storing massive integers (stands for gzipped-integer).
 - [ParthS007/pip-purge](https://github.com/ParthS007/pip-purge) - Uninstall all the packages!
 - [vcs-python/vcspull](https://github.com/vcs-python/vcspull) - :arrows_counterclockwise: synchronize projects via yaml/json manifest. built on libvcs
@@ -12943,7 +12943,6 @@
 - [Udzu/pudzu](https://github.com/Udzu/pudzu) - Various python scripts, mostly geared towards dataviz.
 - [jarv/cmdchallenge](https://github.com/jarv/cmdchallenge) - This repo is mirror of https://gitlab.com/jarv/cmdchallenge
 - [matiasinsaurralde/facebook-tunnel](https://github.com/matiasinsaurralde/facebook-tunnel) - Tunneling Internet traffic over Facebook chat.
-- [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 - [barmalei/scalpel](https://github.com/barmalei/scalpel) - 
 
 ## Ruby 
@@ -13294,6 +13293,7 @@
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [astrostl/aws](https://github.com/astrostl/aws) - Eases SSH management of Linux EC2 Hosts.  Supports multiple accounts.
 - [bilelmsekni/OpenStack-Grizzly-Install-Guide](https://github.com/bilelmsekni/OpenStack-Grizzly-Install-Guide) - A full install guide for OpenStack Grizzly
+- [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 
 ## Smarty 
 
