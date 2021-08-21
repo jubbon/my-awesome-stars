@@ -4237,7 +4237,7 @@
 - [enzymejs/enzyme](https://github.com/enzymejs/enzyme) - JavaScript Testing utilities for React
 - [jgonera/webspecter](https://github.com/jgonera/webspecter) - BDD-style acceptance test framework for web applications based on PhantomJS.
 - [StanAngeloff/lotte](https://github.com/StanAngeloff/lotte) - Automated, headless browser testing (using PhantomJS).
-- [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native apps with React.
+- [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 - [Polymer/polymer-starter-kit](https://github.com/Polymer/polymer-starter-kit) - A starting point for Polymer apps
 - [pure-css/pure](https://github.com/pure-css/pure) - A set of small, responsive CSS modules that you can use in every web project.
@@ -5831,6 +5831,7 @@
 
 ## Others 
 
+- [pyannote/pyannote-audio-hub](https://github.com/pyannote/pyannote-audio-hub) - Pretrained models for pyannote-audio
 - [sberbank-ai/model-zoo](https://github.com/sberbank-ai/model-zoo) - NLP model zoo for Russian
 - [markusschanta/awesome-jupyter](https://github.com/markusschanta/awesome-jupyter) - A curated list of awesome Jupyter projects, libraries and resources
 - [benthecoder/yt-channels-DS-AI-ML-CS](https://github.com/benthecoder/yt-channels-DS-AI-ML-CS) - A comprehensive list of 180+ YouTube Channels for Data Science,  Data Engineering, Machine Learning, Deep learning, Computer Science, programming, software engineering, etc.
@@ -5984,7 +5985,6 @@
 - [alirezadir/Production-Level-Deep-Learning](https://github.com/alirezadir/Production-Level-Deep-Learning) - A guideline for building practical production-level deep learning systems to be deployed in real world applications.
 - [deepmind/tvt](https://github.com/deepmind/tvt) - 
 - [shashank88/system_design](https://github.com/shashank88/system_design) - Preparation links and resources for system design questions
-- [zero-to-mastery/start-here-guidelines](https://github.com/zero-to-mastery/start-here-guidelines) - Lets Git started in the world of opensource, starting in the Zero To Mastery's opensource playground. Especially designed for education and practical experience purposes.
 - [oam-dev/spec](https://github.com/oam-dev/spec) - The Open Application Model (OAM)
 - [Niraj-Lunavat/Artificial-Intelligence](https://github.com/Niraj-Lunavat/Artificial-Intelligence) - Awesome AI Learning with +100 AI Cheat-Sheets, Free online Books, Top Courses, Best Videos and Lectures, Papers, Tutorials, +99 Researchers, Premium Websites, +121 Datasets, Conferences, Frameworks, Tools
 - [palash25/best-practices-checklist](https://github.com/palash25/best-practices-checklist) - A list of awesome idiomatic code resources. Rust:crab:, Go, Ruby:gem:, Pony :horse:, Ocaml :camel:, Erlang and more
@@ -6905,6 +6905,7 @@
 
 ## Python 
 
+- [speechbrain/speechbrain](https://github.com/speechbrain/speechbrain) - A PyTorch-based Speech Toolkit
 - [onnx/optimizer](https://github.com/onnx/optimizer) - Actively maintained ONNX Optimizer
 - [easton-cau/SOTR](https://github.com/easton-cau/SOTR) - SOTR: Segmenting Objects with Transformers
 - [sovaai/sova-tts](https://github.com/sovaai/sova-tts) - 
@@ -7628,6 +7629,7 @@
 - [ddbourgin/numpy-ml](https://github.com/ddbourgin/numpy-ml) - Machine learning, in numpy
 - [PaddlePaddle/models](https://github.com/PaddlePaddle/models) - Pre-trained and Reproduced Deep Learning Models （『飞桨』官方模型库，包含多种学术前沿和工业场景验证的深度学习模型）
 - [facebookresearch/SlowFast](https://github.com/facebookresearch/SlowFast) - PySlowFast: video understanding codebase from FAIR for reproducing state-of-the-art video models.
+- [zero-to-mastery/start-here-guidelines](https://github.com/zero-to-mastery/start-here-guidelines) - Lets Git started in the world of opensource, starting in the Zero To Mastery's opensource playground. Especially designed for education and practical experience purposes.
 - [NVlabs/few-shot-vid2vid](https://github.com/NVlabs/few-shot-vid2vid) - Pytorch implementation for few-shot photorealistic video-to-video translation.
 - [shenweichen/DeepCTR](https://github.com/shenweichen/DeepCTR) - Easy-to-use,Modular and Extendible package of deep-learning based CTR models .
 - [tamarott/SinGAN](https://github.com/tamarott/SinGAN) - Official pytorch implementation of the paper: "SinGAN: Learning a Generative Model from a Single Natural Image"
