@@ -497,6 +497,7 @@
 
 ## C++ 
 
+- [microsoft/onnxruntime-inference-examples](https://github.com/microsoft/onnxruntime-inference-examples) - Examples for using ONNX Runtime for machine learning inferencing.
 - [alex-petrenko/megaverse](https://github.com/alex-petrenko/megaverse) - High-throughput simulation platform for Artificial Intelligence reseach
 - [vcmi/vcmi](https://github.com/vcmi/vcmi) - Open-source engine for Heroes of Might and Magic III
 - [sberdevices/smartspeech](https://github.com/sberdevices/smartspeech) - 
@@ -1651,7 +1652,7 @@
 - [caddyserver/certmagic](https://github.com/caddyserver/certmagic) - Automatic HTTPS for any Go program: fully-managed TLS certificate issuance and renewal
 - [smallstep/certificates](https://github.com/smallstep/certificates) - 🛡️ A private certificate authority (X.509 & SSH) & ACME server for secure automated certificate management, so you can use TLS everywhere & SSO for SSH.
 - [fluxcd/flux](https://github.com/fluxcd/flux) - The GitOps Kubernetes operator
-- [thecodingmachine/gotenberg](https://github.com/thecodingmachine/gotenberg) - A Docker-powered stateless API for converting HTML, Markdown and Office documents to PDF
+- [gotenberg/gotenberg](https://github.com/gotenberg/gotenberg) - A Docker-powered stateless API for PDF files.
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
 - [yeasy/docker_practice](https://github.com/yeasy/docker_practice) - Learn and understand Docker technologies, with real DevOps practice!
 - [solo-io/unik](https://github.com/solo-io/unik) - The Unikernel & MicroVM Compilation and Deployment Platform
@@ -2851,6 +2852,7 @@
 
 ## JavaScript 
 
+- [Jelmerro/Vieb](https://github.com/Jelmerro/Vieb) - Vim Inspired Electron Browser - Vim bindings for the web by design
 - [node-fetch/node-fetch](https://github.com/node-fetch/node-fetch) - A light-weight module that brings the Fetch API to Node.js
 - [loopbackio/strong-soap](https://github.com/loopbackio/strong-soap) - SOAP driver for Node.js (A complete rewrite of node-soap)
 - [vpulim/node-soap](https://github.com/vpulim/node-soap) - A SOAP client and server for node.js.
@@ -13287,7 +13289,7 @@
 - [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [tryolabs/metamon](https://github.com/tryolabs/metamon) - Collection of Ansible playbooks to quickly start your Django Application
 - [delacruz-dev/rapid.py](https://github.com/delacruz-dev/rapid.py) - A template built on python and bootstrap for rapid prototyping
-- [inishchith/autoenv](https://github.com/inishchith/autoenv) - Directory-based environments. [Author @ken-reitz]
+- [hyperupcall/autoenv](https://github.com/hyperupcall/autoenv) - Directory-based environments. [Author @ken-reitz]
 - [jimeh/tmuxifier](https://github.com/jimeh/tmuxifier) - Tmuxify your Tmux. Powerful session, window & pane management for Tmux.
 - [Nyr/openvpn-install](https://github.com/Nyr/openvpn-install) - OpenVPN road warrior installer for Ubuntu, Debian, CentOS and Fedora
 - [phusion/baseimage-docker](https://github.com/phusion/baseimage-docker) - A minimal Ubuntu base image modified for Docker-friendliness
