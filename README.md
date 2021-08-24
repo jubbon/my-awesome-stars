@@ -2347,7 +2347,6 @@
 - [switchablenorms/Switchable-Normalization](https://github.com/switchablenorms/Switchable-Normalization) - Code for Switchable Normalization from "Differentiable Learning-to-Normalize via Switchable Normalization", https://arxiv.org/abs/1806.10779
 - [aozorabunko/aozorabunko](https://github.com/aozorabunko/aozorabunko) - 
 - [f/dom-wait](https://github.com/f/dom-wait) - Complex Loader and Progress Management for Vanilla JS
-- [geerlingguy/ansible-role-security](https://github.com/geerlingguy/ansible-role-security) - Ansible Role - Security
 - [bigskysoftware/intercooler-js](https://github.com/bigskysoftware/intercooler-js) - Making AJAX as easy as anchor tags
 - [lex111/react-from-zero](https://github.com/lex111/react-from-zero) - Простое (не менее 99% ES2015) руководство по React
 - [kay-is/react-from-zero](https://github.com/kay-is/react-from-zero) - A simple (99% ES2015 less) tutorial for React
@@ -2698,7 +2697,7 @@
 
 ## Handlebars 
 
-- [MaedahBatool/pudl](https://github.com/MaedahBatool/pudl) - 🐶 A JavaScript-based Static Site Generator — for quick static site prototyping.
+- [MaedahBatool/pudl](https://github.com/MaedahBatool/pudl) - 🐶 A JavaScript-based Static Site Generator — for quick static site prototyping. Jamstack with Gulp.
 - [bloomberg/foml](https://github.com/bloomberg/foml) - Foundations of Machine Learning
 - [flatlogic/sing-app](https://github.com/flatlogic/sing-app) - 💥Free and open-source admin dashboard template built with Bootstrap 4.5 💥
 
@@ -4394,6 +4393,7 @@
 
 - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
 - [ansible/workshops](https://github.com/ansible/workshops) - Training Course for Ansible Automation Platform
+- [geerlingguy/ansible-role-security](https://github.com/geerlingguy/ansible-role-security) - Ansible Role - Security
 - [geerlingguy/ansible-role-nginx](https://github.com/geerlingguy/ansible-role-nginx) - Ansible Role - Nginx
 - [ANXS/postgresql](https://github.com/ANXS/postgresql) - Fairly full featured Ansible role for Postgresql.
 - [dev-sec/ansible-collection-hardening](https://github.com/dev-sec/ansible-collection-hardening) - This Ansible collection provides battle tested hardening for Linux, SSH, nginx, MySQL
@@ -4422,6 +4422,7 @@
 
 ## Jupyter Notebook 
 
+- [truera/trulens](https://github.com/truera/trulens) - Library containing attribution and interpretation methods for deep nets.
 - [labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) - 🧑‍🏫 Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit), optimizers (adam, radam, adabelief), gans(dcgan, cyclegan, stylegan2), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, etc. 🧠
 - [project-codeflare/codeflare](https://github.com/project-codeflare/codeflare) - Simplifying the definition and execution, scaling and deployment of pipelines on the cloud.
 - [yandex-research/shifts](https://github.com/yandex-research/shifts) - This repository contains data readers and examples for the three tracks of the Shifts Dataset and the Shifts Challenge.
@@ -5833,6 +5834,7 @@
 
 ## Others 
 
+- [m-bain/webvid](https://github.com/m-bain/webvid) - Large-scale text-video dataset.
 - [pyannote/pyannote-audio-hub](https://github.com/pyannote/pyannote-audio-hub) - Pretrained models for pyannote-audio
 - [sberbank-ai/model-zoo](https://github.com/sberbank-ai/model-zoo) - NLP model zoo for Russian
 - [markusschanta/awesome-jupyter](https://github.com/markusschanta/awesome-jupyter) - A curated list of awesome Jupyter projects, libraries and resources
@@ -6134,7 +6136,7 @@
 - [jonatasbaldin/awesome-awesome-awesome](https://github.com/jonatasbaldin/awesome-awesome-awesome) - Awesome list of repositories of awesome lists 🤷‍♀️
 - [EBWi11/AgentSmith-HIDS](https://github.com/EBWi11/AgentSmith-HIDS) - By Kprobe technology Open Source Host-based Intrusion Detection System(HIDS), from E_Bwill.
 - [vasilakisfil/Introspected-REST](https://github.com/vasilakisfil/Introspected-REST) - An alternative to REST and GraphQL
-- [tuvtran/project-based-learning](https://github.com/tuvtran/project-based-learning) - Curated list of project-based tutorials
+- [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [guardrailsio/awesome-golang-security](https://github.com/guardrailsio/awesome-golang-security) - Awesome Golang Security resources 🕶🔐
 - [ulid/spec](https://github.com/ulid/spec) - The canonical spec for ulid
 - [thunlp/GNNPapers](https://github.com/thunlp/GNNPapers) - Must-read papers on graph neural networks (GNN)
@@ -7698,7 +7700,7 @@
 - [sgrvinod/a-PyTorch-Tutorial-to-Object-Detection](https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Object-Detection) - SSD: Single Shot MultiBox Detector | a PyTorch Tutorial to Object Detection
 - [CSAILVision/places365](https://github.com/CSAILVision/places365) - The Places365-CNNs for Scene Classification
 - [5vision/uct_atari](https://github.com/5vision/uct_atari) - uct tree search + supervised lerning for atari games
-- [huawei-noah/Data-Efficient-Model-Compression](https://github.com/huawei-noah/Data-Efficient-Model-Compression) - Data Efficient Model Compression
+- [huawei-noah/Efficient-Computing](https://github.com/huawei-noah/Efficient-Computing) - Efficient-Computing
 - [fireeye/stringsifter](https://github.com/fireeye/stringsifter) - A machine learning tool that ranks strings based on their relevance for malware analysis.
 - [pypiserver/pypiserver](https://github.com/pypiserver/pypiserver) - Minimal PyPI server for uploading & downloading packages with pip/easy_install
 - [graykode/distribution-is-all-you-need](https://github.com/graykode/distribution-is-all-you-need) - The basic distribution probability Tutorial for Deep Learning Researchers
@@ -9192,7 +9194,7 @@
 - [LonamiWebs/Telethon](https://github.com/LonamiWebs/Telethon) - Pure Python 3 MTProto API Telegram client library, for bots too!
 - [RussellLuo/pyprof-timer](https://github.com/RussellLuo/pyprof-timer) - A timer for profiling a Python function or snippet.
 - [sjvasquez/web-traffic-forecasting](https://github.com/sjvasquez/web-traffic-forecasting) - Kaggle | Web Traffic Forecasting 📈
-- [frankyjuang/Octomender](https://github.com/frankyjuang/Octomender) - Get repo recommendation based on your GitHub star history. (EoS)
+- [yilinjuang/Octomender](https://github.com/yilinjuang/Octomender) - Get repo recommendation based on your GitHub star history. (EoS)
 - [ankane/s3tk](https://github.com/ankane/s3tk) - A security toolkit for Amazon S3
 - [mrschyte/socksmon](https://github.com/mrschyte/socksmon) - Monitor arbitrary TCP traffic using your HTTP interception proxy of choice
 - [ccxtechnologies/adbus](https://github.com/ccxtechnologies/adbus) - D-Bus Binding​ for Python that supports coroutines (asyncio)
@@ -11576,7 +11578,7 @@
 - [mitsuhiko/pipsi](https://github.com/mitsuhiko/pipsi) - pip script installer
 - [lmacken/pyrasite](https://github.com/lmacken/pyrasite) - Inject code into running Python processes
 - [DanMcInerney/xsscrapy](https://github.com/DanMcInerney/xsscrapy) - XSS spider - 66/66 wavsep XSS detected
-- [LuminosoInsight/python-ftfy](https://github.com/LuminosoInsight/python-ftfy) - Fixes mojibake and other glitches in Unicode text, after the fact.
+- [rspeer/python-ftfy](https://github.com/rspeer/python-ftfy) - Fixes mojibake and other glitches in Unicode text, after the fact.
 - [OffensivePython/Pinject](https://github.com/OffensivePython/Pinject) - Raw Packet Injection tool
 - [veusz/veusz](https://github.com/veusz/veusz) - Veusz scientific plotting application
 - [usablica/liaar](https://github.com/usablica/liaar) - Create fake REST API in a minute
@@ -13106,7 +13108,7 @@
 - [TheHive-Project/TheHive](https://github.com/TheHive-Project/TheHive) - TheHive: a Scalable, Open Source and Free Security Incident Response Platform
 - [delta-io/delta](https://github.com/delta-io/delta) - An open-source storage layer that brings scalable, ACID transactions to Apache Spark™ and big data workloads.
 - [salesforce/TransmogrifAI](https://github.com/salesforce/TransmogrifAI) - TransmogrifAI (pronounced trăns-mŏgˈrə-fī) is an AutoML library for building modular, reusable, strongly typed machine learning workflows on Apache Spark with minimal hand-tuning
-- [Azure/mmlspark](https://github.com/Azure/mmlspark) - Microsoft Machine Learning for Apache Spark
+- [microsoft/SynapseML](https://github.com/microsoft/SynapseML) - Microsoft Machine Learning for Apache Spark
 - [rcoh/toyregex](https://github.com/rcoh/toyregex) - A Toy Regex Engine In Scala
 - [prisma/prisma1](https://github.com/prisma/prisma1) - 💾 Database Tools incl. ORM, Migrations and Admin UI (Postgres, MySQL & MongoDB)
 - [intel-analytics/BigDL](https://github.com/intel-analytics/BigDL) - BigDL: Distributed Deep Learning Framework for Apache Spark
@@ -13746,7 +13748,7 @@
 - [johnpapa/vue-getting-started](https://github.com/johnpapa/vue-getting-started) - This project is seen in demos including the Pluralsight course "Vue: Getting Started" to help represent a fundamental app written with Vue. The heroes and villains theme is used throughout the app.
 - [coreui/coreui-vue](https://github.com/coreui/coreui-vue) - Over 90 Bootstrap based Vue.js components and directives. CoreUI React.js UI Components. CoreUI for Vue.js replaces and extends the Bootstrap javascript. Components have been built from scratch as true Vue components, without jQuery and unneeded dependencies.
 - [yeyan1996/file-upload](https://github.com/yeyan1996/file-upload) - 
-- [fiction-com/factor](https://github.com/fiction-com/factor) - 100% JavaScript framework for marketing sites and application dashboards.
+- [FactorJS/factor](https://github.com/FactorJS/factor) - 100% JavaScript framework for marketing sites and application dashboards.
 - [antonreshetov/massCode](https://github.com/antonreshetov/massCode) - A free and open source code snippets manager for developers.
 - [chronotruck/vue-ctk-date-time-picker](https://github.com/chronotruck/vue-ctk-date-time-picker) - VueJS component to select dates & time, including a range mode
 - [mudin/vue-indoor](https://github.com/mudin/vue-indoor) - VueJS wrapper for indoorjs
