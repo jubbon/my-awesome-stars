@@ -497,6 +497,7 @@
 
 ## C++ 
 
+- [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne) - A Smart Ethernet Switch for Earth
 - [microsoft/onnxruntime-inference-examples](https://github.com/microsoft/onnxruntime-inference-examples) - Examples for using ONNX Runtime for machine learning inferencing.
 - [alex-petrenko/megaverse](https://github.com/alex-petrenko/megaverse) - High-throughput simulation platform for Artificial Intelligence reseach
 - [vcmi/vcmi](https://github.com/vcmi/vcmi) - Open-source engine for Heroes of Might and Magic III
@@ -1363,6 +1364,7 @@
 ## Cython 
 
 - [rushter/selectolax](https://github.com/rushter/selectolax) - Python binding to Modest and Lexbor engines (fast HTML5 parser with CSS selectors).
+- [mosquito/cysystemd](https://github.com/mosquito/cysystemd) - SystemD wrapper on Cython
 - [MagicStack/uvloop](https://github.com/MagicStack/uvloop) - Ultra fast asyncio event loop.
 - [wbolster/plyvel](https://github.com/wbolster/plyvel) - Plyvel, a fast and feature-rich Python interface to LevelDB
 
@@ -3064,7 +3066,7 @@
 - [translation-gang/ru.vuejs.org](https://github.com/translation-gang/ru.vuejs.org) - Русская версия документации VueJS.org
 - [amazon-archives/aws-mobile-react-sample](https://github.com/amazon-archives/aws-mobile-react-sample) - A React Starter App that displays how web developers can integrate their front end with AWS on the backend. The App interacts with AWS Cognito, API Gateway, Lambda and DynamoDB on the backend.
 - [peterlamar/vue-examples](https://github.com/peterlamar/vue-examples) - Collection of Vue examples for beginner front end developers
-- [alexmacarthur/typeit](https://github.com/alexmacarthur/typeit) - The most versatile JavaScript animated typing utility on the planet.
+- [alexmacarthur/typeit](https://github.com/alexmacarthur/typeit) - The most versatile JavaScript animated typewriter utility on the planet.
 - [postlight/mercury-parser](https://github.com/postlight/mercury-parser) - 📜 Extract meaningful content from the chaos of a web page
 - [ProtoSchool/protoschool.github.io](https://github.com/ProtoSchool/protoschool.github.io) - The code that runs the ProtoSchool website. Visit https://proto.school for interactive tutorials on decentralized web protocols. Explore IPFS and Filecoin through code challenges, code-free lessons, and local events.
 - [TaleLin/lin-cms-vue](https://github.com/TaleLin/lin-cms-vue) - 🔆 Vue+ElementPlus构建的CMS开发框架
@@ -3266,7 +3268,7 @@
 - [klaussinani/taskbook](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat
 - [redxtech/vue-plyr](https://github.com/redxtech/vue-plyr) - A Vue component for the plyr (https://github.com/sampotts/plyr) video & audio player.
 - [ais-one/cookbook](https://github.com/ais-one/cookbook) - VueJS + NodeJS Evergreen Cookbook
-- [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - 👻 The #1 headless Node.js CMS for professional publishing
+- [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Turn your audience into a business. Publishing, memberships, subscriptions and newsletters.
 - [mattdesl/canvas-sketch](https://github.com/mattdesl/canvas-sketch) - [beta] A framework for making generative artwork in JavaScript and the browser.
 - [github/fetch](https://github.com/github/fetch) - A window.fetch JavaScript polyfill.
 - [natergj/excel4node](https://github.com/natergj/excel4node) - Node module to allow for easy Excel file creation
@@ -3788,7 +3790,7 @@
 - [lorenwest/node-config](https://github.com/lorenwest/node-config) - Node.js Application Configuration
 - [BUPT-HJM/vue-blog](https://github.com/BUPT-HJM/vue-blog) - A single-user blog built with vue2, koa2 and mongodb which supports Server-Side Rendering
 - [hunterloftis/awaiting](https://github.com/hunterloftis/awaiting) - The async/await utility for browsers and Node.js.
-- [BoostIO/Boostnote](https://github.com/BoostIO/Boostnote) - A markdown editor for developers on Mac, Windows and Linux.
+- [BoostIO/BoostNote-Legacy](https://github.com/BoostIO/BoostNote-Legacy) - A markdown editor for developers on Mac, Windows and Linux.
 - [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
 - [stevebest/passport-vkontakte](https://github.com/stevebest/passport-vkontakte) - VK.com authentication strategy for Passport and Node.js
 - [segmentio/nightmare](https://github.com/segmentio/nightmare) - A high-level browser automation library.
@@ -4422,6 +4424,7 @@
 
 ## Jupyter Notebook 
 
+- [marceloprates/prettymaps](https://github.com/marceloprates/prettymaps) - A small set of Python functions to draw pretty maps from OpenStreetMap data. Based on osmnx, matplotlib and shapely libraries.
 - [capitanov/dsp-theory](https://github.com/capitanov/dsp-theory) - Theory of digital signal processing (DSP): signals, filtration (IIR, FIR, CIC, MAF), transforms (FFT, DFT, Hilbert, Z-transform) etc.
 - [truera/trulens](https://github.com/truera/trulens) - Library containing attribution and interpretation methods for deep nets.
 - [labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) - 🧑‍🏫 Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit), optimizers (adam, radam, adabelief), gans(dcgan, cyclegan, stylegan2), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, etc. 🧠
@@ -6910,6 +6913,7 @@
 
 ## Python 
 
+- [tiangolo/sqlmodel](https://github.com/tiangolo/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
 - [speechbrain/speechbrain](https://github.com/speechbrain/speechbrain) - A PyTorch-based Speech Toolkit
 - [onnx/optimizer](https://github.com/onnx/optimizer) - Actively maintained ONNX Optimizer
 - [easton-cau/SOTR](https://github.com/easton-cau/SOTR) - SOTR: Segmenting Objects with Transformers
@@ -10124,7 +10128,6 @@
 - [shekkizh/TensorflowProjects](https://github.com/shekkizh/TensorflowProjects) - Deep learning using tensorflow
 - [paarthneekhara/neural-vqa-tensorflow](https://github.com/paarthneekhara/neural-vqa-tensorflow) - Visual Question Answering in Tensorflow.
 - [golemfactory/clay](https://github.com/golemfactory/clay) - Golem is creating a global market for computing power.
-- [mosquito/cysystemd](https://github.com/mosquito/cysystemd) - SystemD wrapper on Cython
 - [thunlp/NSC](https://github.com/thunlp/NSC) - Neural Sentiment Classification
 - [aizvorski/vgg-benchmarks](https://github.com/aizvorski/vgg-benchmarks) - Simple benchmark of deep learning frameworks on VGG-16
 - [mdamien/lys](https://github.com/mdamien/lys) - :hibiscus: Simple HTML templating for Python
@@ -13067,7 +13070,7 @@
 - [bradtraversy/modern_portfolio](https://github.com/bradtraversy/modern_portfolio) - Responsive portfolio website
 - [2factorauth/twofactorauth](https://github.com/2factorauth/twofactorauth) - List of sites with two factor auth support which includes SMS, email, phone calls, hardware, and software.
 - [fortrabbit/teutonic-css](https://github.com/fortrabbit/teutonic-css) - A modern CSS framework — versatile, well documented.
-- [nzbin/three-dots](https://github.com/nzbin/three-dots) - 🔮 CSS loading animations made by single element.
+- [nzbin/three-dots](https://github.com/nzbin/three-dots) - 🔮 CSS loading animations made with single element.
 - [Spiderpig86/Cirrus](https://github.com/Spiderpig86/Cirrus) - :cloud: The SCSS framework for the modern web.
 - [kylelogue/mustard-ui](https://github.com/kylelogue/mustard-ui) - A starter CSS framework that actually looks good.
 - [Hacker0x01/hacker101](https://github.com/Hacker0x01/hacker101) - Source code for Hacker101.com - a free online web and mobile security class.
