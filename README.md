@@ -1555,7 +1555,7 @@
 - [cucumber/godog](https://github.com/cucumber/godog) - Cucumber for golang
 - [99designs/aws-vault](https://github.com/99designs/aws-vault) - A vault for securely storing and accessing AWS credentials in development environments
 - [xanzy/go-gitlab](https://github.com/xanzy/go-gitlab) - GitLab Go SDK
-- [micro/micro](https://github.com/micro/micro) - Micro is a cloud platform for API development
+- [micro/micro](https://github.com/micro/micro) - Micro is a platform for API development
 - [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub API
 - [slackhq/nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
 - [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
@@ -2262,6 +2262,7 @@
 - [CodingTrain/Intro-to-Data-APIs-JS](https://github.com/CodingTrain/Intro-to-Data-APIs-JS) - Working with Data and APIs in JavaScript
 - [ehmatthes/pcc_2e](https://github.com/ehmatthes/pcc_2e) - Online resources for Python Crash Course (Second Edition), from No Starch Press
 - [boostorg/boost](https://github.com/boostorg/boost) - Super-project for modularized Boost
+- [design-tokens/community-group](https://github.com/design-tokens/community-group) - This is the official DTCG repository for the design tokens specification.
 - [mGalarnyk/datasciencecoursera](https://github.com/mGalarnyk/datasciencecoursera) - Data Science Repo and blog for John Hopkins Coursera Courses. Please let me know if you have any questions.
 - [ClickHouse/clickhouse-presentations](https://github.com/ClickHouse/clickhouse-presentations) - Presentations, meetups and talks about ClickHouse
 - [compsocialscience/summer-institute](https://github.com/compsocialscience/summer-institute) - Summer Institutes in Computational Social Science
@@ -3066,7 +3067,7 @@
 - [translation-gang/ru.vuejs.org](https://github.com/translation-gang/ru.vuejs.org) - Русская версия документации VueJS.org
 - [amazon-archives/aws-mobile-react-sample](https://github.com/amazon-archives/aws-mobile-react-sample) - A React Starter App that displays how web developers can integrate their front end with AWS on the backend. The App interacts with AWS Cognito, API Gateway, Lambda and DynamoDB on the backend.
 - [peterlamar/vue-examples](https://github.com/peterlamar/vue-examples) - Collection of Vue examples for beginner front end developers
-- [alexmacarthur/typeit](https://github.com/alexmacarthur/typeit) - The most versatile JavaScript animated typewriter utility on the planet.
+- [alexmacarthur/typeit](https://github.com/alexmacarthur/typeit) - The most versatile JavaScript typewriter effect library on the planet.
 - [postlight/mercury-parser](https://github.com/postlight/mercury-parser) - 📜 Extract meaningful content from the chaos of a web page
 - [ProtoSchool/protoschool.github.io](https://github.com/ProtoSchool/protoschool.github.io) - The code that runs the ProtoSchool website. Visit https://proto.school for interactive tutorials on decentralized web protocols. Explore IPFS and Filecoin through code challenges, code-free lessons, and local events.
 - [TaleLin/lin-cms-vue](https://github.com/TaleLin/lin-cms-vue) - 🔆 Vue+ElementPlus构建的CMS开发框架
@@ -6052,7 +6053,6 @@
 - [cutenode/1x.engineer](https://github.com/cutenode/1x.engineer) - The official website of 1x Engineers around the world
 - [CollabCodeTech/backend-challenges](https://github.com/CollabCodeTech/backend-challenges) - A public list of open-source challenges from jobs around the world
 - [darshanime/notes](https://github.com/darshanime/notes) - detailed notes on computer science topics, in one page
-- [design-tokens/community-group](https://github.com/design-tokens/community-group) - This is the official DTCG repository for the design tokens specification.
 - [Pungyeon/clean-go-article](https://github.com/Pungyeon/clean-go-article) - A reference for the Go community that covers the fundamentals of writing clean code and discusses concrete refactoring examples specific to Go.
 - [sudharsan13296/Awesome-Meta-Learning](https://github.com/sudharsan13296/Awesome-Meta-Learning) - A curated list of Meta Learning papers, code, books, blogs, videos, datasets and other resources.
 - [thunlp/TAADpapers](https://github.com/thunlp/TAADpapers) - Must-read Papers on Textual Adversarial Attack and Defense
@@ -6913,6 +6913,7 @@
 
 ## Python 
 
+- [deepmipt/dp-agent](https://github.com/deepmipt/dp-agent) - DeepPavlov Agent
 - [tiangolo/sqlmodel](https://github.com/tiangolo/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
 - [speechbrain/speechbrain](https://github.com/speechbrain/speechbrain) - A PyTorch-based Speech Toolkit
 - [onnx/optimizer](https://github.com/onnx/optimizer) - Actively maintained ONNX Optimizer
@@ -7427,7 +7428,7 @@
 - [Kaggle/docker-python](https://github.com/Kaggle/docker-python) - Kaggle Python docker image
 - [werner-duvaud/muzero-general](https://github.com/werner-duvaud/muzero-general) - MuZero
 - [cosmicpython/book](https://github.com/cosmicpython/book) - A Book about Pythonic Application Architecture Patterns for Managing Complexity.  Cosmos is the Opposite of Chaos you see. O'R. wouldn't actually let us call it "Cosmic Python" tho.
-- [polakowo/vectorbt](https://github.com/polakowo/vectorbt) - Ultimate Python library for time series analysis and backtesting at speed and scale
+- [polakowo/vectorbt](https://github.com/polakowo/vectorbt) - Supercharged backtesting and technical analysis for quants
 - [ayooshkathuria/pytorch-yolo-v3](https://github.com/ayooshkathuria/pytorch-yolo-v3) - A PyTorch implementation of the YOLO v3 object detection algorithm
 - [kotartemiy/newscatcher](https://github.com/kotartemiy/newscatcher) - Programmatically collect normalized news from (almost) any website.
 - [Mukosame/Zooming-Slow-Mo-CVPR-2020](https://github.com/Mukosame/Zooming-Slow-Mo-CVPR-2020) - Fast and Accurate One-Stage Space-Time Video Super-Resolution (accepted in CVPR 2020)
