@@ -1149,7 +1149,7 @@
 - [progit/progit2](https://github.com/progit/progit2) - Pro Git 2nd Edition
 - [DennisSnijder/MakeGithubGreatAgain](https://github.com/DennisSnijder/MakeGithubGreatAgain) - Extension for making GitHub great again
 - [OYsun/VueStar](https://github.com/OYsun/VueStar) - :sparkles:A like button with delightful star animation powered by Vue.js
-- [understrap/understrap](https://github.com/understrap/understrap) - :couple: Combines Automattic´s Underscores Starter Theme and Bootstrap 4 - Visit:
+- [understrap/understrap](https://github.com/understrap/understrap) - Underscores + Bootstrap = Understrap, the renowned open-source WordPress starter theme.
 - [FinancialMarkets/5MinuteFinance](https://github.com/FinancialMarkets/5MinuteFinance) - Interactive Presentations for Financial Education using R/Shiny.  See full list of presentations (with links) below.
 - [dunovank/jupyter-themes](https://github.com/dunovank/jupyter-themes) - Custom Jupyter Notebook Themes
 - [Daemonite/material](https://github.com/Daemonite/material) - Material Design for Bootstrap 4
@@ -5997,7 +5997,7 @@
 - [oam-dev/spec](https://github.com/oam-dev/spec) - The Open Application Model (OAM)
 - [Niraj-Lunavat/Artificial-Intelligence](https://github.com/Niraj-Lunavat/Artificial-Intelligence) - Awesome AI Learning with +100 AI Cheat-Sheets, Free online Books, Top Courses, Best Videos and Lectures, Papers, Tutorials, +99 Researchers, Premium Websites, +121 Datasets, Conferences, Frameworks, Tools
 - [palash25/best-practices-checklist](https://github.com/palash25/best-practices-checklist) - A list of awesome idiomatic code resources. Rust:crab:, Go, Ruby:gem:, Pony :horse:, Ocaml :camel:, Erlang and more
-- [yizhen20133868/MIT-Linear-Algebra-Notes](https://github.com/yizhen20133868/MIT-Linear-Algebra-Notes) - Notes for MIT-Linear-Algebra
+- [ML-NLPChina/MIT-Linear-Algebra-Notes](https://github.com/ML-NLPChina/MIT-Linear-Algebra-Notes) - Notes for MIT-Linear-Algebra
 - [andkret/Cookbook](https://github.com/andkret/Cookbook) - The Data Engineering Cookbook
 - [tomlockwood/dn](https://github.com/tomlockwood/dn) - Daily notes command line tool
 - [protontypes/awesome-robotic-tooling](https://github.com/protontypes/awesome-robotic-tooling) - Tooling for professional robotic development in C++ and Python with a touch of ROS, autonomous driving and aerospace: https://freerobotics.tools/
@@ -6913,6 +6913,7 @@
 
 ## Python 
 
+- [sberdevices/smart_app_framework](https://github.com/sberdevices/smart_app_framework) - SmartApp Framework для создания навыков семейства Виртуальных Ассистентов "Салют" на языке Python
 - [deepmipt/dp-agent](https://github.com/deepmipt/dp-agent) - DeepPavlov Agent
 - [tiangolo/sqlmodel](https://github.com/tiangolo/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
 - [speechbrain/speechbrain](https://github.com/speechbrain/speechbrain) - A PyTorch-based Speech Toolkit
