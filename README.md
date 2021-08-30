@@ -2339,7 +2339,7 @@
 - [sayazamurai/python-vs-javascript](https://github.com/sayazamurai/python-vs-javascript) - 
 - [dhongu/deltatech](https://github.com/dhongu/deltatech) - Terrabit addons for Odoo
 - [firebase/quickstart-js](https://github.com/firebase/quickstart-js) - Firebase Quickstart Samples for Web
-- [wowchemy/wowchemy-hugo-modules](https://github.com/wowchemy/wowchemy-hugo-modules) - 🔥 The website builder for Hugo. No code, build with widgets! 创建在线课程，学术简历或初创网站。
+- [wowchemy/wowchemy-hugo-themes](https://github.com/wowchemy/wowchemy-hugo-themes) - 🔥 Hugo website builder, Hugo themes & Hugo CMS. No code, build with widgets! 创建在线课程，学术简历或初创网站。
 - [MatrixAINetwork/MATRIX_Etherscan](https://github.com/MatrixAINetwork/MATRIX_Etherscan) - This is a crawler used to visit Ehterscan and obtain smartcontract related info
 - [chekromul/uikit-ecommerce-template](https://github.com/chekromul/uikit-ecommerce-template) - E-commerce template built with UIKIt
 - [alexa/alexa-auto-sdk](https://github.com/alexa/alexa-auto-sdk) - The Alexa Auto SDK is for automotive OEMs to integrate Alexa directly into vehicles.
