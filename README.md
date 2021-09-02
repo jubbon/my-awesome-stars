@@ -2963,7 +2963,6 @@
 - [heremaps/developer-blog](https://github.com/heremaps/developer-blog) - Examples and projects featured on the HERE developer blog.
 - [heremaps/here-cli](https://github.com/heremaps/here-cli) - A command-line interface to work with HERE XYZ Hub and other HERE APIs
 - [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (August 2021)
-- [aws/aws-sdk-js](https://github.com/aws/aws-sdk-js) - AWS SDK for JavaScript in the browser and Node.js
 - [google/blockly](https://github.com/google/blockly) - The web-based visual programming editor.
 - [iantheearl/mc.js](https://github.com/iantheearl/mc.js) - Open source Minecraft clone built with ThreeJS, ReactJS, GraphQL, and NodeJS.
 - [MichMich/MagicMirror](https://github.com/MichMich/MagicMirror) - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant.
@@ -3619,6 +3618,7 @@
 - [aarondfrancis/vue-model](https://github.com/aarondfrancis/vue-model) - Model component for Vue.js
 - [davidroyer/vue2-editor](https://github.com/davidroyer/vue2-editor) - A text editor using Vue.js and Quill
 - [tralves/groceries-ns-vue](https://github.com/tralves/groceries-ns-vue) - 🍏 🍍 🍓 A NativeScript+Vue iOS and Android app for managing grocery lists
+- [thousandetherhomepage/ketherhomepage](https://github.com/thousandetherhomepage/ketherhomepage) - Own a piece of blockchain history!
 - [johndatserakis/file-upload-with-preview](https://github.com/johndatserakis/file-upload-with-preview) - 🖼 A simple file-upload utility that shows a preview of the uploaded image. Written in pure JavaScript. No dependencies. Works well with Bootstrap 4 or without a framework.
 - [ChainSafe/web3.js](https://github.com/ChainSafe/web3.js) - Ethereum JavaScript API
 - [akxcv/vuera](https://github.com/akxcv/vuera) - :eyes: Vue in React, React in Vue. Seamless integration of the two. :dancers:
@@ -3666,7 +3666,6 @@
 - [google-ar/three.ar.js](https://github.com/google-ar/three.ar.js) - A helper three.js library for building AR web experiences that run in WebARonARKit and WebARonARCore
 - [nteract/semiotic](https://github.com/nteract/semiotic) - A data visualization framework combining React & D3
 - [mikeal/r2](https://github.com/mikeal/r2) - HTTP client. Spiritual successor to request.
-- [plouc/nivo](https://github.com/plouc/nivo) - nivo provides a rich set of dataviz components, built on top of the awesome d3 and Reactjs libraries
 - [esbenp/pdf-bot](https://github.com/esbenp/pdf-bot) - 🤖 A Node queue API for generating PDFs using headless Chrome. Comes with a CLI, S3 storage and webhooks for notifying subscribers about generated PDFs
 - [ayojs/ayo](https://github.com/ayojs/ayo) - A fork of Node.js. Humans before technology.
 - [trufflesuite/truffle](https://github.com/trufflesuite/truffle) - A tool for developing smart contracts. Crafted with the finest cacaos.
@@ -3791,7 +3790,7 @@
 - [lorenwest/node-config](https://github.com/lorenwest/node-config) - Node.js Application Configuration
 - [BUPT-HJM/vue-blog](https://github.com/BUPT-HJM/vue-blog) - A single-user blog built with vue2, koa2 and mongodb which supports Server-Side Rendering
 - [hunterloftis/awaiting](https://github.com/hunterloftis/awaiting) - The async/await utility for browsers and Node.js.
-- [BoostIO/BoostNote-Legacy](https://github.com/BoostIO/BoostNote-Legacy) - A markdown editor for developers on Mac, Windows and Linux.
+- [BoostIO/BoostNote-Legacy](https://github.com/BoostIO/BoostNote-Legacy) - This repository is outdated and new Boost Note app is available! We've launched a new Boost Note app which supports real-time collaborative writing. https://github.com/BoostIO/BoostNote-App
 - [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
 - [stevebest/passport-vkontakte](https://github.com/stevebest/passport-vkontakte) - VK.com authentication strategy for Passport and Node.js
 - [segmentio/nightmare](https://github.com/segmentio/nightmare) - A high-level browser automation library.
@@ -6764,6 +6763,7 @@
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [youngwookim/awesome-hadoop](https://github.com/youngwookim/awesome-hadoop) - A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources
 - [arslanbilal/git-cheat-sheet](https://github.com/arslanbilal/git-cheat-sheet) - :octocat: git and git flow cheat sheet
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [chrisalbon/theme_wmf](https://github.com/chrisalbon/theme_wmf) - A customized color theme for SublimeText 2 designed to help writing prose in markdown easier and more effective.
 - [swagger-api/swagger.io](https://github.com/swagger-api/swagger.io) - The content of swagger.io
 - [hangtwenty/dive-into-machine-learning](https://github.com/hangtwenty/dive-into-machine-learning) - Dive into Machine Learning with Python Jupyter notebook and scikit-learn!
@@ -6912,6 +6912,8 @@
 
 ## Python 
 
+- [mugheesahmad/BigEarthNet-pytorch](https://github.com/mugheesahmad/BigEarthNet-pytorch) - Pytorch Implementation of BigEarthNet Toolkit
+- [mwshinn/paranoidscientist](https://github.com/mwshinn/paranoidscientist) - Runtime software verification and automated testing for scientific software in Python
 - [sberdevices/smart_app_framework](https://github.com/sberdevices/smart_app_framework) - SmartApp Framework для создания навыков семейства Виртуальных Ассистентов "Салют" на языке Python
 - [deepmipt/dp-agent](https://github.com/deepmipt/dp-agent) - DeepPavlov Agent
 - [tiangolo/sqlmodel](https://github.com/tiangolo/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
@@ -6967,7 +6969,7 @@
 - [ternaus/kaggle_dstl_submission](https://github.com/ternaus/kaggle_dstl_submission) - Code for a winning model (3 out of 419) in a Dstl Satellite Imagery Feature Detection challenge
 - [GaParmar/clean-fid](https://github.com/GaParmar/clean-fid) - PyTorch - FID calculation with proper image resizing and quantization steps
 - [microsoft/ProphetNet](https://github.com/microsoft/ProphetNet) - Code for EMNLP20 paper: "ProphetNet: Predicting Future N-gram for Sequence-to-Sequence Pre-training"
-- [princeton-nlp/SimCSE](https://github.com/princeton-nlp/SimCSE) - (EMNLP'2021) SimCSE: Simple Contrastive Learning of Sentence Embeddings
+- [princeton-nlp/SimCSE](https://github.com/princeton-nlp/SimCSE) - EMNLP'2021: SimCSE: Simple Contrastive Learning of Sentence Embeddings
 - [jorgehpo/notebookJS](https://github.com/jorgehpo/notebookJS) - notebookJS: seamless JavaScript integration in Python Notebooks
 - [open-mmlab/mmgeneration](https://github.com/open-mmlab/mmgeneration) - MMGeneration is a powerful toolkit for generative models, based on PyTorch and MMCV.
 - [nalgeon/dataviz](https://github.com/nalgeon/dataviz) - Data visualization guide for presentations, reports, and dashboards
@@ -7812,6 +7814,7 @@
 - [Igoorx/PyRoyale](https://github.com/Igoorx/PyRoyale) - A open-source server emulator for Mario Royale browser game.
 - [googleapis/oauth2client](https://github.com/googleapis/oauth2client) - This is a Python library for accessing resources protected by OAuth 2.0.
 - [tensorflow/tfx](https://github.com/tensorflow/tfx) - TFX is an end-to-end platform for deploying production ML pipelines
+- [oppia/oppia](https://github.com/oppia/oppia) - A free, online learning platform to make quality education accessible for all.
 - [rytilahti/python-miio](https://github.com/rytilahti/python-miio) - Python library & console tool for controlling Xiaomi smart appliances
 - [holoviz/panel](https://github.com/holoviz/panel) - A high-level app and dashboarding solution for Python
 - [awslabs/gluon-ts](https://github.com/awslabs/gluon-ts) - Probabilistic time series modeling in Python
@@ -7973,7 +7976,7 @@
 - [huggingface/pytorch-pretrained-BigGAN](https://github.com/huggingface/pytorch-pretrained-BigGAN) - 🦋A PyTorch implementation of BigGAN with pretrained weights and conversion scripts.
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [Wookai/paper-tips-and-tricks](https://github.com/Wookai/paper-tips-and-tricks) - Best practice and tips & tricks to write scientific papers in LaTeX, with figures generated in Python or Matlab.
-- [SharpAI/DeepCamera](https://github.com/SharpAI/DeepCamera) - Privacy is the most important issue for the AI face recognition camera. Open source and BYOD is the only way to solve privacy issue. SharpAI DeepCamera provides private deployment architecture to save all your information on your own devices.
+- [SharpAI/DeepCamera](https://github.com/SharpAI/DeepCamera) - Open Source Face Recognition AI NVR
 - [singh-shreya6/Navigation-Assistant](https://github.com/singh-shreya6/Navigation-Assistant) - A Navigation Assistant for the visually impaired using Speech to Text, Object Detection and Text to Speech in python
 - [sharif1093/digideep](https://github.com/sharif1093/digideep) - A Deep Reinforcement Learning (DeepRL) package for RL algorithm developers.
 - [zjhuang22/maskscoring_rcnn](https://github.com/zjhuang22/maskscoring_rcnn) - Codes for paper "Mask Scoring R-CNN".
@@ -10219,7 +10222,7 @@
 - [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - A list of awesome applications, software, tools and other materials for Linux distros.
 - [aymericdamien/TopDeepLearning](https://github.com/aymericdamien/TopDeepLearning) - A list of popular github projects related to deep learning
 - [atareao/pomodoro-indicator](https://github.com/atareao/pomodoro-indicator) - A simple app to do the pomodoro technique in Ubuntu
-- [theupdateframework/tuf](https://github.com/theupdateframework/tuf) - A framework for securing software update systems
+- [theupdateframework/python-tuf](https://github.com/theupdateframework/python-tuf) - A framework for securing software update systems
 - [Yenthe666/Odoo_Samples](https://github.com/Yenthe666/Odoo_Samples) - This repository contains samples with Odoo code
 - [odoo-russia/odoo-russia](https://github.com/odoo-russia/odoo-russia) - Главный репозиторий с официальными модулями русскоязычного сообщества Odoo
 - [freach/udatetime](https://github.com/freach/udatetime) - Fast RFC3339 compliant Python date-time library
@@ -10378,7 +10381,7 @@
 - [oxidane/tmuxomatic](https://github.com/oxidane/tmuxomatic) - Intelligent tmux session management
 - [azat-co/you-dont-know-node](https://github.com/azat-co/you-dont-know-node) - You Don't Know Node.js
 - [facebookresearch/pysparnn](https://github.com/facebookresearch/pysparnn) - Approximate Nearest Neighbor Search for Sparse Data in Python!
-- [frictionlessdata/datapackage-pipelines-pandas-driver](https://github.com/frictionlessdata/datapackage-pipelines-pandas-driver) - Generate Pandas frames, load and extract data, based on JSON Table Schema descriptors.
+- [frictionlessdata/tableschema-pandas-py](https://github.com/frictionlessdata/tableschema-pandas-py) - Generate Pandas frames, load and extract data, based on JSON Table Schema descriptors.
 - [EricsonWillians/Open-Browser](https://github.com/EricsonWillians/Open-Browser) - A web browser designed to be open, minimal and fast.
 - [SykoTheKiD/DockerDjangoRest](https://github.com/SykoTheKiD/DockerDjangoRest) - A Docker setup for a Django REST API with Travis CI support
 - [cedricbonhomme/Stegano](https://github.com/cedricbonhomme/Stegano) - A pure Python steganography module.
@@ -12959,6 +12962,7 @@
 
 - [microsoft/code-with-engineering-playbook](https://github.com/microsoft/code-with-engineering-playbook) - This is the playbook for "code-with" customer or partner engagements
 - [tompng/air_hockey_quine](https://github.com/tompng/air_hockey_quine) - Network Battle Air Hockey Quine
+- [aws/aws-sdk-js](https://github.com/aws/aws-sdk-js) - AWS SDK for JavaScript in the browser and Node.js
 - [brotandgames/ciao](https://github.com/brotandgames/ciao) - HTTP checks & tests (private & public) monitoring - check the status of your URL
 - [erikwiffin/0.30000000000000004](https://github.com/erikwiffin/0.30000000000000004) - Floating Point Math Examples
 - [SteveLTN/https-portal](https://github.com/SteveLTN/https-portal) - A fully automated HTTPS server powered by Nginx, Let's Encrypt and Docker.
@@ -13280,7 +13284,6 @@
 - [ftao/vpn-deploy-playbook](https://github.com/ftao/vpn-deploy-playbook) - A Collection of Ansible Playbook for deploy vpn services
 - [lexrus/vpn-deploy-playbook](https://github.com/lexrus/vpn-deploy-playbook) - A collection of Ansible Playbooks to deploy VPN and proxy services.
 - [donnemartin/gitflow](https://github.com/donnemartin/gitflow) - Gitflow sandbox clone.
-- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [ChrisBeaumont/conda-pyside-tools](https://github.com/ChrisBeaumont/conda-pyside-tools) - Conda build recipe for pyside-tools
 - [botez/docker-transmission](https://github.com/botez/docker-transmission) - 
 - [kylemanna/docker-openvpn](https://github.com/kylemanna/docker-openvpn) - 🔒 OpenVPN server in a Docker container complete with an EasyRSA PKI CA
@@ -13438,7 +13441,6 @@
 - [directus/directus](https://github.com/directus/directus) - Open-Source Data Platform 🐰  — Directus wraps any SQL database with a real-time GraphQL+REST API and an intuitive app for non-technical users.
 - [heremaps/harp.gl](https://github.com/heremaps/harp.gl) - 3D web map rendering engine written in TypeScript using three.js
 - [openmobilityfoundation/mds-core](https://github.com/openmobilityfoundation/mds-core) - An implementation of an MDS Agency Server written in Typescript
-- [oppia/oppia](https://github.com/oppia/oppia) - A free, online learning platform to make quality education accessible for all.
 - [vuejs/composition-api](https://github.com/vuejs/composition-api) - Composition API plugin for Vue 2
 - [umijs/umi](https://github.com/umijs/umi) - 🌋 Pluggable enterprise-level react application framework.
 - [system-ui/theme-ui](https://github.com/system-ui/theme-ui) - Build consistent, themeable React apps based on constraint-based design principles
@@ -13611,6 +13613,7 @@
 - [fabiospampinato/cliflix](https://github.com/fabiospampinato/cliflix) - Watch anything instantaneously, just write its name.
 - [GoogleChrome/rendertron](https://github.com/GoogleChrome/rendertron) - A Headless Chrome rendering solution
 - [AsyncAlgoTrading/algo-coin](https://github.com/AsyncAlgoTrading/algo-coin) - Python library for algorithmic trading cryptocurrencies across multiple exchanges
+- [plouc/nivo](https://github.com/plouc/nivo) - nivo provides a rich set of dataviz components, built on top of the awesome d3 and Reactjs libraries
 - [onivim/oni](https://github.com/onivim/oni) - Oni: Modern Modal Editing - powered by Neovim
 - [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
 - [jiayihu/pretty-algorithms](https://github.com/jiayihu/pretty-algorithms) - 🌊 Pretty, common and useful algorithms with modern JS and beautiful tests
@@ -14022,7 +14025,6 @@
 - [krystalcampioni/vue-hotel-datepicker](https://github.com/krystalcampioni/vue-hotel-datepicker) - Vue date range picker component
 - [visma-meglerfront/sweet-modal-vue](https://github.com/visma-meglerfront/sweet-modal-vue) - The sweetest library to happen to modals.
 - [fuse-box/fuse-box-vue-seed](https://github.com/fuse-box/fuse-box-vue-seed) - Get started with Vue.js using FuseBox module loader and bundler
-- [thousandetherhomepage/ketherhomepage](https://github.com/thousandetherhomepage/ketherhomepage) - Own a piece of blockchain history!
 - [odranoelBR/vue-quasar-admin-example](https://github.com/odranoelBR/vue-quasar-admin-example) - Example of quasar admin
 - [yTakkar/Vue-Mini-Social-Network](https://github.com/yTakkar/Vue-Mini-Social-Network) - A reactive mini-social-network created with Vue!! 🏳️‍🌈🤞 - No longer maintained.
 - [Requarks/wiki](https://github.com/Requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
