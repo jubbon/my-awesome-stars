@@ -1553,7 +1553,7 @@
 - [cucumber/godog](https://github.com/cucumber/godog) - Cucumber for golang
 - [99designs/aws-vault](https://github.com/99designs/aws-vault) - A vault for securely storing and accessing AWS credentials in development environments
 - [xanzy/go-gitlab](https://github.com/xanzy/go-gitlab) - GitLab Go SDK
-- [micro/micro](https://github.com/micro/micro) - Micro is a platform for API development
+- [micro/micro](https://github.com/micro/micro) - Micro is a cloud operating system
 - [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub API
 - [slackhq/nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
 - [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
@@ -2709,6 +2709,7 @@
 - [github/semantic](https://github.com/github/semantic) - Parsing, analyzing, and comparing source code across many languages
 - [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
 - [def-/time.gif](https://github.com/def-/time.gif) - GIF that always shows the current time in UTC
+- [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects written in C, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala, etc.
 - [jaspervdj/patat](https://github.com/jaspervdj/patat) - Terminal-based presentations using Pandoc
 - [bjpop/blip](https://github.com/bjpop/blip) - A bytecode compiler for Python 3
 
@@ -2867,7 +2868,6 @@
 - [upgundecha/howtheysre](https://github.com/upgundecha/howtheysre) - A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)
 - [victordibia/neuralqa](https://github.com/victordibia/neuralqa) - NeuralQA: A Usable Library for Question Answering on Large Datasets with BERT
 - [shaoxiongji/knowledge-graphs](https://github.com/shaoxiongji/knowledge-graphs) - A collection of research on knowledge graphs
-- [maplibre/maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) - The open-source fork of Mapbox GL JS: Interactive maps in the browser, powered by vector tiles and WebGL.
 - [AMAI-GmbH/AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) - Roadmap to becoming an Artificial Intelligence Expert in 2021
 - [shreyashankar/gpt3-sandbox](https://github.com/shreyashankar/gpt3-sandbox) - The goal of this project is to enable users to create cool web demos using the newly released OpenAI GPT-3 API with just a few lines of Python.
 - [github/docs](https://github.com/github/docs) - The open-source repo for docs.github.com
@@ -4463,7 +4463,7 @@
 - [robertmartin8/PyPortfolioOpt](https://github.com/robertmartin8/PyPortfolioOpt) - Financial portfolio optimisation in python, including classical efficient frontier, Black-Litterman, Hierarchical Risk Parity
 - [CompVis/taming-transformers](https://github.com/CompVis/taming-transformers) - Taming Transformers for High-Resolution Image Synthesis
 - [gaih/introduction-to-python](https://github.com/gaih/introduction-to-python) - 
-- [AI4Finance-LLC/FinRL](https://github.com/AI4Finance-LLC/FinRL) - A Deep Reinforcement Learning Framework for Automated Trading in Quantitative Finance. NeurIPS 2020. 🔥
+- [AI4Finance-Foundation/FinRL](https://github.com/AI4Finance-Foundation/FinRL) - A Deep Reinforcement Learning Framework for Automated Trading in Quantitative Finance. NeurIPS 2020. 🔥
 - [orpatashnik/StyleCLIP](https://github.com/orpatashnik/StyleCLIP) - Official Implementation for "StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery" (ICCV 2021 Oral)
 - [karpathy/deep-vector-quantization](https://github.com/karpathy/deep-vector-quantization) - VQVAEs, GumbelSoftmaxes and friends
 - [jackroos/VL-BERT](https://github.com/jackroos/VL-BERT) - Code for ICLR 2020 paper "VL-BERT: Pre-training of Generic Visual-Linguistic Representations".
@@ -4491,7 +4491,7 @@
 - [plotly/dash-sample-apps](https://github.com/plotly/dash-sample-apps) - Open-source demos hosted on Dash Gallery
 - [epfl-ada/2020](https://github.com/epfl-ada/2020) - Materials for Applied Data Analysis CS-401, fall 2020
 - [eladrich/pixel2style2pixel](https://github.com/eladrich/pixel2style2pixel) - Official Implementation for "Encoding in Style: a StyleGAN Encoder for Image-to-Image Translation" (CVPR 2021) presenting the pixel2style2pixel (pSp) framework
-- [AI4Finance-LLC/Deep-Reinforcement-Learning-for-Automated-Stock-Trading-Ensemble-Strategy-ICAIF-2020](https://github.com/AI4Finance-LLC/Deep-Reinforcement-Learning-for-Automated-Stock-Trading-Ensemble-Strategy-ICAIF-2020) - Deep Reinforcement Learning for Automated Stock Trading: An Ensemble Strategy. ICAIF 2020. Please star.
+- [AI4Finance-Foundation/Deep-Reinforcement-Learning-for-Automated-Stock-Trading-Ensemble-Strategy-ICAIF-2020](https://github.com/AI4Finance-Foundation/Deep-Reinforcement-Learning-for-Automated-Stock-Trading-Ensemble-Strategy-ICAIF-2020) - Deep Reinforcement Learning for Automated Stock Trading: An Ensemble Strategy. ICAIF 2020. Please star.
 - [neomatrix369/nlp_profiler](https://github.com/neomatrix369/nlp_profiler) - A simple NLP library allows profiling datasets with one or more text columns. When given a dataset and a column name containing text data, NLP Profiler will return either high-level insights or low-level/granular statistical information about the text in that column.
 - [domokane/FinancePy](https://github.com/domokane/FinancePy) - A Python Finance Library that focuses on the pricing and risk-management of Financial Derivatives, including fixed-income, equity, FX and credit derivatives.
 - [JohnSnowLabs/spark-nlp-workshop](https://github.com/JohnSnowLabs/spark-nlp-workshop) - Public runnable examples of using John Snow Labs' NLP for Apache Spark.
@@ -5837,6 +5837,7 @@
 
 ## Others 
 
+- [cedrickchee/awesome-ml-model-compression](https://github.com/cedrickchee/awesome-ml-model-compression) - Awesome machine learning model compression research papers, tools, and learning material.
 - [m-bain/webvid](https://github.com/m-bain/webvid) - Large-scale text-video dataset.
 - [pyannote/pyannote-audio-hub](https://github.com/pyannote/pyannote-audio-hub) - Pretrained models for pyannote-audio
 - [sberbank-ai/model-zoo](https://github.com/sberbank-ai/model-zoo) - NLP model zoo for Russian
@@ -5992,7 +5993,7 @@
 - [alirezadir/Production-Level-Deep-Learning](https://github.com/alirezadir/Production-Level-Deep-Learning) - A guideline for building practical production-level deep learning systems to be deployed in real world applications.
 - [deepmind/tvt](https://github.com/deepmind/tvt) - 
 - [shashank88/system_design](https://github.com/shashank88/system_design) - Preparation links and resources for system design questions
-- [oam-dev/spec](https://github.com/oam-dev/spec) - The Open Application Model (OAM)
+- [oam-dev/spec](https://github.com/oam-dev/spec) - The Open Application Model (OAM) documentations.
 - [Niraj-Lunavat/Artificial-Intelligence](https://github.com/Niraj-Lunavat/Artificial-Intelligence) - Awesome AI Learning with +100 AI Cheat-Sheets, Free online Books, Top Courses, Best Videos and Lectures, Papers, Tutorials, +99 Researchers, Premium Websites, +121 Datasets, Conferences, Frameworks, Tools
 - [palash25/best-practices-checklist](https://github.com/palash25/best-practices-checklist) - A list of awesome idiomatic code resources. Rust:crab:, Go, Ruby:gem:, Pony :horse:, Ocaml :camel:, Erlang and more
 - [ML-NLPChina/MIT-Linear-Algebra-Notes](https://github.com/ML-NLPChina/MIT-Linear-Algebra-Notes) - Notes for MIT-Linear-Algebra
@@ -8499,7 +8500,7 @@
 - [jeffzh3ng/fuxi](https://github.com/jeffzh3ng/fuxi) - Penetration Testing Platform
 - [romanz/amodem](https://github.com/romanz/amodem) - Audio MODEM Communication Library in Python
 - [baidu-research/NCRF](https://github.com/baidu-research/NCRF) - Cancer metastasis detection with neural conditional random field (NCRF)
-- [rusty1s/pytorch_geometric](https://github.com/rusty1s/pytorch_geometric) - Geometric Deep Learning Extension Library for PyTorch
+- [rusty1s/pytorch_geometric](https://github.com/rusty1s/pytorch_geometric) - Graph Neural Network Library for PyTorch
 - [salesforce/decaNLP](https://github.com/salesforce/decaNLP) - The Natural Language Decathlon: A Multitask Challenge for NLP
 - [llSourcell/learn_math_fast](https://github.com/llSourcell/learn_math_fast) - This is the Curriculum for "How to Learn Mathematics Fast" By Siraj Raval on Youtube
 - [vibora-io/vibora](https://github.com/vibora-io/vibora) - Fast, asynchronous and elegant Python web framework.
@@ -9855,7 +9856,6 @@
 - [udacity/CarND-Term1-Starter-Kit](https://github.com/udacity/CarND-Term1-Starter-Kit) - 
 - [TheAbhiKumar/tensorflow-value-iteration-networks](https://github.com/TheAbhiKumar/tensorflow-value-iteration-networks) - TensorFlow implementation of the Value Iteration Networks (NIPS '16) paper
 - [megvii-research/neural-painter](https://github.com/megvii-research/neural-painter) - Paint artistic patterns using random neural network
-- [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects written in C, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala, etc.
 - [python273/telegraph](https://github.com/python273/telegraph) - Telegraph API wrapper | Telegra.ph
 - [kootenpv/TwitterQA](https://github.com/kootenpv/TwitterQA) - Deep learning based Twitter Imposter Chatbot
 - [uclnlp/pycodesuggest](https://github.com/uclnlp/pycodesuggest) - Learning to Auto-Complete using RNN Language Models
@@ -10222,7 +10222,7 @@
 - [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - A list of awesome applications, software, tools and other materials for Linux distros.
 - [aymericdamien/TopDeepLearning](https://github.com/aymericdamien/TopDeepLearning) - A list of popular github projects related to deep learning
 - [atareao/pomodoro-indicator](https://github.com/atareao/pomodoro-indicator) - A simple app to do the pomodoro technique in Ubuntu
-- [theupdateframework/python-tuf](https://github.com/theupdateframework/python-tuf) - A framework for securing software update systems
+- [theupdateframework/python-tuf](https://github.com/theupdateframework/python-tuf) - Python reference implementation of The Update Framework (TUF)
 - [Yenthe666/Odoo_Samples](https://github.com/Yenthe666/Odoo_Samples) - This repository contains samples with Odoo code
 - [odoo-russia/odoo-russia](https://github.com/odoo-russia/odoo-russia) - Главный репозиторий с официальными модулями русскоязычного сообщества Odoo
 - [freach/udatetime](https://github.com/freach/udatetime) - Fast RFC3339 compliant Python date-time library
@@ -13399,6 +13399,7 @@
 - [jevakallio/git-notify](https://github.com/jevakallio/git-notify) - 🙉 📣 Communicate important updates to your team via git commit messages
 - [jevakallio/vscode-live-frame](https://github.com/jevakallio/vscode-live-frame) - Run your web app inside VS Code
 - [andfanilo/streamlit-drawable-canvas](https://github.com/andfanilo/streamlit-drawable-canvas) - Do you like Quick, Draw? Well what if you could train/predict doodles drawn inside Streamlit? Also draws lines, circles and boxes over background images for annotation.
+- [maplibre/maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) - The open-source fork of Mapbox GL JS: Interactive maps in the browser, powered by vector tiles and WebGL.
 - [actionsflow/actionsflow](https://github.com/actionsflow/actionsflow) - The free Zapier/IFTTT alternative for developers to automate your workflows based on Github actions
 - [jef/streetmerchant](https://github.com/jef/streetmerchant) - 🤖 The world's easiest, most powerful stock checker
 - [desktop/desktop](https://github.com/desktop/desktop) - Simple collaboration from your desktop
@@ -13755,7 +13756,7 @@
 - [cohki0305/SlackCloneApp](https://github.com/cohki0305/SlackCloneApp) - 
 - [view-design/ViewUI](https://github.com/view-design/ViewUI) - A high quality UI Toolkit built on Vue.js 2.0
 - [johnpapa/vue-getting-started](https://github.com/johnpapa/vue-getting-started) - This project is seen in demos including the Pluralsight course "Vue: Getting Started" to help represent a fundamental app written with Vue. The heroes and villains theme is used throughout the app.
-- [coreui/coreui-vue](https://github.com/coreui/coreui-vue) - Over 90 Bootstrap based Vue.js components and directives. CoreUI React.js UI Components. CoreUI for Vue.js replaces and extends the Bootstrap javascript. Components have been built from scratch as true Vue components, without jQuery and unneeded dependencies.
+- [coreui/coreui-vue](https://github.com/coreui/coreui-vue) - Over 90 Bootstrap based Vue.js components and directives. CoreUI Vue.js UI Components. CoreUI for Vue.js replaces and extends the Bootstrap javascript. Components have been built from scratch as true Vue components, without jQuery and unneeded dependencies.
 - [yeyan1996/file-upload](https://github.com/yeyan1996/file-upload) - 
 - [FactorJS/factor](https://github.com/FactorJS/factor) - Next-generation JavaScript framework for JAMStack blogs, sites & apps.
 - [antonreshetov/massCode](https://github.com/antonreshetov/massCode) - A free and open source code snippets manager for developers.
