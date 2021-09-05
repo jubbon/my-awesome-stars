@@ -2854,6 +2854,7 @@
 
 ## JavaScript 
 
+- [sberbank-ai-lab/lightautoml-datafest-workshop](https://github.com/sberbank-ai-lab/lightautoml-datafest-workshop) - Materials for LightAutoML workshop (DataFest 2021)
 - [Jelmerro/Vieb](https://github.com/Jelmerro/Vieb) - Vim Inspired Electron Browser - Vim bindings for the web by design
 - [node-fetch/node-fetch](https://github.com/node-fetch/node-fetch) - A light-weight module that brings the Fetch API to Node.js
 - [loopbackio/strong-soap](https://github.com/loopbackio/strong-soap) - SOAP driver for Node.js (A complete rewrite of node-soap)
@@ -4423,6 +4424,9 @@
 
 ## Jupyter Notebook 
 
+- [upb-lea/reinforcement_learning_course_materials](https://github.com/upb-lea/reinforcement_learning_course_materials) - Lecture notes, tutorial tasks including solutions as well as online videos for the reinforcement learning course hosted by Paderborn University
+- [sberbank-ai-lab/RePlay](https://github.com/sberbank-ai-lab/RePlay) - RecSys Library
+- [sberbank-ai-lab/LightAutoML](https://github.com/sberbank-ai-lab/LightAutoML) - LAMA - automatic model creation framework
 - [marceloprates/prettymaps](https://github.com/marceloprates/prettymaps) - A small set of Python functions to draw pretty maps from OpenStreetMap data. Based on osmnx, matplotlib and shapely libraries.
 - [capitanov/dsp-theory](https://github.com/capitanov/dsp-theory) - Theory of digital signal processing (DSP): signals, filtration (IIR, FIR, CIC, MAF), transforms (FFT, DFT, Hilbert, Z-transform) etc.
 - [truera/trulens](https://github.com/truera/trulens) - Library containing attribution and interpretation methods for deep nets.
@@ -6912,6 +6916,7 @@
 
 ## Python 
 
+- [sberbank-ai-lab/torchvggish](https://github.com/sberbank-ai-lab/torchvggish) - Pytorch port of Google Research's VGGish model used for extracting audio features.
 - [csuhan/ReDet](https://github.com/csuhan/ReDet) - Official code of the paper "ReDet: A Rotation-equivariant Detector for Aerial Object Detection" (CVPR 2021)
 - [PaddlePaddle/PaddleClas](https://github.com/PaddlePaddle/PaddleClas) - A treasure chest for visual recognition powered by PaddlePaddle
 - [fbdesignpro/sweetviz](https://github.com/fbdesignpro/sweetviz) - Visualize and compare datasets, target values and associations, with one line of code.
