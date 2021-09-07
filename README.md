@@ -1534,7 +1534,7 @@
 - [yolossn/Prometheus-Basics](https://github.com/yolossn/Prometheus-Basics) - A beginner friendly introduction to prometheus 🔥
 - [prometheus/client_golang](https://github.com/prometheus/client_golang) - Prometheus instrumentation library for Go applications
 - [elastic/cloud-on-k8s](https://github.com/elastic/cloud-on-k8s) - Elastic Cloud on Kubernetes
-- [gardener/gardener](https://github.com/gardener/gardener) - Kubernetes-native system managing the full lifecycle of conformant Kubernetes clusters as a service on Alicloud, AWS, Azure, GCP, OpenStack, Packet, vSphere, MetalStack, and Kubevirt with minimal TCO.
+- [gardener/gardener](https://github.com/gardener/gardener) - Kubernetes-native system managing the full lifecycle of conformant Kubernetes clusters as a service on Alicloud, AWS, Azure, GCP, OpenStack, EquinixMetal, vSphere, MetalStack, and Kubevirt with minimal TCO.
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative continuous deployment for Kubernetes.
 - [rook/rook](https://github.com/rook/rook) - Storage Orchestration for Kubernetes
 - [cortexproject/cortex](https://github.com/cortexproject/cortex) - A horizontally scalable, highly available, multi-tenant, long term Prometheus.
@@ -4426,7 +4426,6 @@
 
 - [upb-lea/reinforcement_learning_course_materials](https://github.com/upb-lea/reinforcement_learning_course_materials) - Lecture notes, tutorial tasks including solutions as well as online videos for the reinforcement learning course hosted by Paderborn University
 - [sberbank-ai-lab/RePlay](https://github.com/sberbank-ai-lab/RePlay) - RecSys Library
-- [sberbank-ai-lab/LightAutoML](https://github.com/sberbank-ai-lab/LightAutoML) - LAMA - automatic model creation framework
 - [marceloprates/prettymaps](https://github.com/marceloprates/prettymaps) - A small set of Python functions to draw pretty maps from OpenStreetMap data. Based on osmnx, matplotlib and shapely libraries.
 - [capitanov/dsp-theory](https://github.com/capitanov/dsp-theory) - Theory of digital signal processing (DSP): signals, filtration (IIR, FIR, CIC, MAF), transforms (FFT, DFT, Hilbert, Z-transform) etc.
 - [truera/trulens](https://github.com/truera/trulens) - Library containing attribution and interpretation methods for deep nets.
@@ -6916,7 +6915,9 @@
 
 ## Python 
 
+- [HIPS/autograd](https://github.com/HIPS/autograd) - Efficiently computes derivatives of numpy code.
 - [sberbank-ai-lab/torchvggish](https://github.com/sberbank-ai-lab/torchvggish) - Pytorch port of Google Research's VGGish model used for extracting audio features.
+- [sberbank-ai-lab/LightAutoML](https://github.com/sberbank-ai-lab/LightAutoML) - LAMA - automatic model creation framework
 - [csuhan/ReDet](https://github.com/csuhan/ReDet) - Official code of the paper "ReDet: A Rotation-equivariant Detector for Aerial Object Detection" (CVPR 2021)
 - [PaddlePaddle/PaddleClas](https://github.com/PaddlePaddle/PaddleClas) - A treasure chest for visual recognition powered by PaddlePaddle
 - [fbdesignpro/sweetviz](https://github.com/fbdesignpro/sweetviz) - Visualize and compare datasets, target values and associations, with one line of code.
@@ -7141,7 +7142,7 @@
 - [cleardusk/3DDFA_V2](https://github.com/cleardusk/3DDFA_V2) - The official PyTorch implementation of Towards Fast, Accurate and Stable 3D Dense Face Alignment, ECCV 2020.
 - [vchoutas/expose](https://github.com/vchoutas/expose) - ExPose - EXpressive POse and Shape rEgression
 - [nolar/kopf](https://github.com/nolar/kopf) - A Python framework to write Kubernetes operators in just a few lines of code
-- [neuml/txtai](https://github.com/neuml/txtai) - AI-powered search engine
+- [neuml/txtai](https://github.com/neuml/txtai) - Build AI-powered semantic search applications
 - [TachibanaYoshino/AnimeGANv2](https://github.com/TachibanaYoshino/AnimeGANv2) - [Open Source].  The improved version of AnimeGAN. Landscape photos/videos to anime
 - [KhoaDauTay/learn-python](https://github.com/KhoaDauTay/learn-python) - 
 - [Separius/awesome-fast-attention](https://github.com/Separius/awesome-fast-attention) - list of efficient attention modules
@@ -10105,7 +10106,7 @@
 - [ctuning/ck-tensorflow](https://github.com/ctuning/ck-tensorflow) - Collective Knowledge components for TensorFlow (code, data sets, models, packages, workflows):
 - [romanvm/python-web-pdb](https://github.com/romanvm/python-web-pdb) - Web-based remote UI for Python's PDB debugger
 - [ctuning/ck-autotuning](https://github.com/ctuning/ck-autotuning) - CK automation actions to let users implement portable, customizable and reusable program workflows for reproducible, collaborative and multi-objective benchmarking, optimization and SW/HW co-design:
-- [ctuning/ck](https://github.com/ctuning/ck) - Collective Knowledge framework (CK) helps to organize software projects as a database of reusable components, automation recipes and portable workflows with common APIs and extensible meta descriptions based on FAIR principles. See the real-world use cases to support reproducible MLSys R&D, enable portable MLOps and automate ML/SW/HW co-design:
+- [mlcommons/ck](https://github.com/mlcommons/ck) - Collective Knowledge framework (CK) helps to organize software projects as a database of reusable components, automation recipes and portable workflows with common APIs and extensible meta descriptions based on FAIR principles. See the real-world use cases to support reproducible MLSys R&D, enable portable MLOps and automate ML/SW/HW co-design:
 - [somewacko/deconvfaces](https://github.com/somewacko/deconvfaces) - Generating faces with deconvolution networks
 - [kootenpv/whereami](https://github.com/kootenpv/whereami) - Uses WiFi signals :signal_strength: and machine learning to predict where you are
 - [openimages/dataset](https://github.com/openimages/dataset) - The Open Images dataset
@@ -10856,7 +10857,7 @@
 - [jupyterhub/sudospawner](https://github.com/jupyterhub/sudospawner) - Spawn JupyterHub single-user servers with sudo
 - [jupyter/qtconsole](https://github.com/jupyter/qtconsole) - Jupyter Qt Console
 - [jupyter/jupyter_kernel_test](https://github.com/jupyter/jupyter_kernel_test) - A tool for testing Jupyter kernels
-- [ipython/ipyparallel](https://github.com/ipython/ipyparallel) - Interactive Parallel Computing in Python
+- [ipython/ipyparallel](https://github.com/ipython/ipyparallel) - IPython Parallel: Interactive Parallel Computing in Python
 - [rossant/ipymd](https://github.com/rossant/ipymd) - Use the IPython notebook as an interactive Markdown editor
 - [jaysw/ipydb](https://github.com/jaysw/ipydb) - Turn your IPython console into a cross-database SQL client
 - [damiendr/callipy](https://github.com/damiendr/callipy) - Call IPython notebooks with arguments
