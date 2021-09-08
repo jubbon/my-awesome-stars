@@ -601,7 +601,7 @@
 - [VKCOM/YouTokenToMe](https://github.com/VKCOM/YouTokenToMe) - Unsupervised text tokenizer focused on computational efficiency
 - [griddb/griddb](https://github.com/griddb/griddb) - GridDB is a next-generation open source database that makes time series IoT and big data fast,and easy.
 - [triton-inference-server/server](https://github.com/triton-inference-server/server) - The Triton Inference Server provides an optimized cloud and edge inferencing solution.
-- [taichi-dev/taichi](https://github.com/taichi-dev/taichi) - Productive & portable programming language for high-performance, sparse & differentiable computing on CPUs & GPUs
+- [taichi-dev/taichi](https://github.com/taichi-dev/taichi) - Parallel programming for everyone.
 - [hellochick/FICM](https://github.com/hellochick/FICM) - :video_game: [IJCAI'20][ICLR'19 Workshop] Flow-based Intrinsic Curiosity Module. Playing SuperMario with RL agent and FICM!
 - [gibsjose/cpp-cheat-sheet](https://github.com/gibsjose/cpp-cheat-sheet) - C++ Syntax, Data Structures, and Algorithms Cheat Sheet
 - [google/earthenterprise](https://github.com/google/earthenterprise) - Google Earth Enterprise - Open Source
@@ -4785,7 +4785,7 @@
 - [bentrevett/pytorch-seq2seq](https://github.com/bentrevett/pytorch-seq2seq) - Tutorials on implementing a few sequence-to-sequence (seq2seq) models with PyTorch and TorchText.
 - [tensorflow/swift](https://github.com/tensorflow/swift) - Swift for TensorFlow
 - [Jezzamonn/fourier](https://github.com/Jezzamonn/fourier) - An Interactive Introduction to Fourier Transforms
-- [ml-dafe/ml_mipt_dafe_major](https://github.com/ml-dafe/ml_mipt_dafe_major) - Курс "Машинное обучение" на ФАЛТ МФТИ
+- [ml-dafe/ml_mipt_dafe_old](https://github.com/ml-dafe/ml_mipt_dafe_old) - Курс "Машинное обучение" на ФАЛТ МФТИ
 - [ml-dafe/ml_mipt_dafe_minor](https://github.com/ml-dafe/ml_mipt_dafe_minor) - Факультатив "Введение в машинное обучение" на ФАЛТ МФТИ
 - [graykode/nlp-tutorial](https://github.com/graykode/nlp-tutorial) - Natural Language Processing Tutorial for Deep Learning Researchers
 - [danielkunin/Regularized-Linear-Autoencoders](https://github.com/danielkunin/Regularized-Linear-Autoencoders) - Loss Landscapes of Regularized Linear Autoencoders
@@ -6915,6 +6915,7 @@
 
 ## Python 
 
+- [saltudelft/type4py](https://github.com/saltudelft/type4py) - Type4Py: Deep Similarity Learning-Based Type Inference for Python
 - [HIPS/autograd](https://github.com/HIPS/autograd) - Efficiently computes derivatives of numpy code.
 - [sberbank-ai-lab/torchvggish](https://github.com/sberbank-ai-lab/torchvggish) - Pytorch port of Google Research's VGGish model used for extracting audio features.
 - [sberbank-ai-lab/LightAutoML](https://github.com/sberbank-ai-lab/LightAutoML) - LAMA - automatic model creation framework
@@ -8229,7 +8230,7 @@
 - [tonysyu/logquacious](https://github.com/tonysyu/logquacious) - Logquacious is a set of simple logging utilities to help you over-communicate.
 - [driving-behavior/DBNet](https://github.com/driving-behavior/DBNet) - DBNet: A Large-Scale Dataset for Driving Behavior Learning, CVPR 2018
 - [tonybaloney/wily](https://github.com/tonybaloney/wily) - A Python application for tracking, reporting on timing and complexity in Python code
-- [kornia/kornia](https://github.com/kornia/kornia) - Open Source Differentiable Computer Vision Library for PyTorch
+- [kornia/kornia](https://github.com/kornia/kornia) - Open Source Differentiable Computer Vision Library
 - [arviz-devs/arviz](https://github.com/arviz-devs/arviz) - Exploratory analysis of Bayesian models with Python
 - [peter-woyzbun/rests](https://github.com/peter-woyzbun/rests) - 
 - [autonomio/talos](https://github.com/autonomio/talos) - Hyperparameter Optimization for TensorFlow, Keras and PyTorch
@@ -12336,7 +12337,7 @@
 - [joshmarshall/testnado](https://github.com/joshmarshall/testnado) - Testing helpers for Tornado and Selenium browser testing using Tornado local server.
 - [cakebread/yolk](https://github.com/cakebread/yolk) - Command-line tool for querying PyPI and Python packages installed on your system.
 - [myint/yolk](https://github.com/myint/yolk) - Command-line tool for querying PyPI and Python packages installed on your system (with Python 3 support)
-- [condemil/Gist](https://github.com/condemil/Gist) - Sublime Text plugin for creating new Gists from selected text
+- [condemil/gist](https://github.com/condemil/gist) - Sublime Text plugin for creating new Gists from selected text
 - [kemayo/sublime-text-git](https://github.com/kemayo/sublime-text-git) - Plugin for some git integration into sublime text
 - [rossant/galry](https://github.com/rossant/galry) - [deprecated] High-performance interactive visualization in Python
 - [rossant/ipython-minibook](https://github.com/rossant/ipython-minibook) - UPDATE (2015): This is an old repo, go here for the new edition
@@ -13853,7 +13854,7 @@
 - [janiskelemen/formvuelar](https://github.com/janiskelemen/formvuelar) - Vue form components with server-side validation in mind
 - [redtubelabs/vue](https://github.com/redtubelabs/vue) - Touch yourself on the Vue way.
 - [leofle/d3vue](https://github.com/leofle/d3vue) - Vue app with D3 graph
-- [mtorromeo/vue-patternfly](https://github.com/mtorromeo/vue-patternfly) - PatternFly components for Vue 2
+- [mtorromeo/vue-patternfly](https://github.com/mtorromeo/vue-patternfly) - PatternFly 3 components for Vue 3
 - [sanity-io/example-frontend-vue-js](https://github.com/sanity-io/example-frontend-vue-js) - An example of a Sanity powered frontend using Vue.js
 - [euvl/vue-js-toggle-button](https://github.com/euvl/vue-js-toggle-button) - :fish_cake: Vue.js 2 toggle / switch button - simple, pretty, customizable
 - [apache/skywalking-rocketbot-ui](https://github.com/apache/skywalking-rocketbot-ui) - SkyWalking RocketBot UI
