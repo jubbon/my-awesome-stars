@@ -2854,6 +2854,7 @@
 
 ## JavaScript 
 
+- [deepnote/notebook](https://github.com/deepnote/notebook) - Modified version of jupyter notebook to enable replay of messages.
 - [sberbank-ai-lab/lightautoml-datafest-workshop](https://github.com/sberbank-ai-lab/lightautoml-datafest-workshop) - Materials for LightAutoML workshop (DataFest 2021)
 - [Jelmerro/Vieb](https://github.com/Jelmerro/Vieb) - Vim Inspired Electron Browser - Vim bindings for the web by design
 - [node-fetch/node-fetch](https://github.com/node-fetch/node-fetch) - A light-weight module that brings the Fetch API to Node.js
@@ -6915,6 +6916,8 @@
 
 ## Python 
 
+- [facebookresearch/pytorchvideo](https://github.com/facebookresearch/pytorchvideo) - A deep learning library for video understanding research.
+- [iceye-ltd/icecube](https://github.com/iceye-ltd/icecube) - Create time-series datacubes for supervised machine learning with ICEYE SAR images.
 - [saltudelft/type4py](https://github.com/saltudelft/type4py) - Type4Py: Deep Similarity Learning-Based Type Inference for Python
 - [HIPS/autograd](https://github.com/HIPS/autograd) - Efficiently computes derivatives of numpy code.
 - [sberbank-ai-lab/torchvggish](https://github.com/sberbank-ai-lab/torchvggish) - Pytorch port of Google Research's VGGish model used for extracting audio features.
@@ -7546,7 +7549,7 @@
 - [facebookresearch/meta_seq2seq](https://github.com/facebookresearch/meta_seq2seq) - Compositional generalization through meta sequence-to-sequence learning
 - [H-Liu1997/2004P_Pytorch-Networks](https://github.com/H-Liu1997/2004P_Pytorch-Networks) - 
 - [tczhangzhi/pytorch-distributed](https://github.com/tczhangzhi/pytorch-distributed) - A quickstart and benchmark for pytorch distributed training.
-- [cszn/KAIR](https://github.com/cszn/KAIR) - Image Restoration Toolbox (PyTorch). Training and testing codes for DPIR, USRNet, DnCNN, FFDNet, SRMD, DPSR, BSRGAN
+- [cszn/KAIR](https://github.com/cszn/KAIR) - Image Restoration Toolbox (PyTorch). Training and testing codes for DPIR, USRNet, DnCNN, FFDNet, SRMD, DPSR, BSRGAN, SwinIR
 - [manicman1999/StyleGAN2-Tensorflow-2.0](https://github.com/manicman1999/StyleGAN2-Tensorflow-2.0) - StyleGAN 2 in Tensorflow 2.0
 - [BMW-InnovationLab/BMW-TensorFlow-Inference-API-GPU](https://github.com/BMW-InnovationLab/BMW-TensorFlow-Inference-API-GPU) - This is a repository for an object detection inference API using the Tensorflow framework.
 - [BMW-InnovationLab/BMW-TensorFlow-Training-GUI](https://github.com/BMW-InnovationLab/BMW-TensorFlow-Training-GUI) - This repository allows you to get started with a gui based training a State-of-the-art Deep Learning model with little to no configuration needed! NoCode training with TensorFlow has never been so easy.
@@ -13590,7 +13593,7 @@
 - [vue-styleguidist/vue-styleguidist](https://github.com/vue-styleguidist/vue-styleguidist) - Created from react styleguidist for Vue Components with a living style guide
 - [doodyparizada/word2vec-spam-filter](https://github.com/doodyparizada/word2vec-spam-filter) - Using word vectors to classify spam messages
 - [prettier/prettier-vscode](https://github.com/prettier/prettier-vscode) - Visual Studio Code extension for Prettier
-- [snyk/snyk](https://github.com/snyk/snyk) - Scans and monitors your projects for security vulnerabilities.
+- [snyk/snyk](https://github.com/snyk/snyk) - Snyk CLI scans and monitors your projects for security vulnerabilities.
 - [PaddlePaddle/VisualDL](https://github.com/PaddlePaddle/VisualDL) - Deep Learning Visualization Toolkit（『飞桨』深度学习可视化工具 ）
 - [nhn/tui.editor](https://github.com/nhn/tui.editor) - 🍞📝 Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.
 - [Sammons/pluggable-autocomplete](https://github.com/Sammons/pluggable-autocomplete) - Allows writing simple extensions to get suggestions for values from external data sources
