@@ -2189,6 +2189,7 @@
 
 ## HTML 
 
+- [yueureka/WildFireDetection](https://github.com/yueureka/WildFireDetection) - Using U-Net Model to Detect Wildfire from Satellite Imagery
 - [isl-org/PhotorealismEnhancement](https://github.com/isl-org/PhotorealismEnhancement) - Code & Data for Enhancing Photorealism Enhancement
 - [SuperKogito/SER-datasets](https://github.com/SuperKogito/SER-datasets) - A collection of datasets for the purpose of emotion recognition/detection in speech.
 - [codesONLY/JavaScriptONLY](https://github.com/codesONLY/JavaScriptONLY) - Knowledge Resource of core fundamentals of JavaScript explained in simple way!
@@ -2604,7 +2605,6 @@
 - [elbamos/largeVis](https://github.com/elbamos/largeVis) - An implementation of the largeVis algorithm for visualizing large, high-dimensional datasets, for R
 - [google/ioweb2016](https://github.com/google/ioweb2016) - I/O web app 2016
 - [eliangcs/pystock-data](https://github.com/eliangcs/pystock-data) - (UNMAINTAINED) US stock market data since 2009
-- [jlord/patchwork](https://github.com/jlord/patchwork) - All the Git-it Workshop completers!
 - [electron/electron-api-demos](https://github.com/electron/electron-api-demos) - Explore the Electron APIs
 - [akoumjian/datefinder](https://github.com/akoumjian/datefinder) - Find dates inside text using Python and get back datetime objects
 - [wcember/pypub](https://github.com/wcember/pypub) - Python library to programatically create epub files
@@ -4425,6 +4425,11 @@
 
 ## Jupyter Notebook 
 
+- [TarunKumar1995-glitch/land_cover_classification_unet](https://github.com/TarunKumar1995-glitch/land_cover_classification_unet) - This repository contains code for implementing multi class semantic segmentation (specifically applied to satellite image classification) with PyTorch implementation of UNet.
+- [mnpinto/FireHR](https://github.com/mnpinto/FireHR) - 
+- [shakasom/multilabel-landcover-deeplearning](https://github.com/shakasom/multilabel-landcover-deeplearning) - Multi-label Land Cover Classification with Deep Learning
+- [schmitt-muc/SEN12MS](https://github.com/schmitt-muc/SEN12MS) - Repository for SEN12MS related codes and utilities
+- [satvik-venkatesh/you-only-hear-once](https://github.com/satvik-venkatesh/you-only-hear-once) - 
 - [upb-lea/reinforcement_learning_course_materials](https://github.com/upb-lea/reinforcement_learning_course_materials) - Lecture notes, tutorial tasks including solutions as well as online videos for the reinforcement learning course hosted by Paderborn University
 - [sberbank-ai-lab/RePlay](https://github.com/sberbank-ai-lab/RePlay) - RecSys Library
 - [marceloprates/prettymaps](https://github.com/marceloprates/prettymaps) - A small set of Python functions to draw pretty maps from OpenStreetMap data. Based on osmnx, matplotlib and shapely libraries.
@@ -5840,6 +5845,7 @@
 
 ## Others 
 
+- [chrieke/awesome-satellite-imagery-datasets](https://github.com/chrieke/awesome-satellite-imagery-datasets) - 🛰️ List of satellite image training datasets with annotations for computer vision and deep learning
 - [cedrickchee/awesome-ml-model-compression](https://github.com/cedrickchee/awesome-ml-model-compression) - Awesome machine learning model compression research papers, tools, and learning material.
 - [m-bain/webvid](https://github.com/m-bain/webvid) - Large-scale text-video dataset.
 - [pyannote/pyannote-audio-hub](https://github.com/pyannote/pyannote-audio-hub) - Pretrained models for pyannote-audio
@@ -6916,6 +6922,7 @@
 
 ## Python 
 
+- [lukasliebel/dfc2020_baseline](https://github.com/lukasliebel/dfc2020_baseline) - Simple Baseline for the IEEE GRSS Data Fusion Contest 2020
 - [facebookresearch/pytorchvideo](https://github.com/facebookresearch/pytorchvideo) - A deep learning library for video understanding research.
 - [iceye-ltd/icecube](https://github.com/iceye-ltd/icecube) - Create time-series datacubes for supervised machine learning with ICEYE SAR images.
 - [saltudelft/type4py](https://github.com/saltudelft/type4py) - Type4Py: Deep Similarity Learning-Based Type Inference for Python
@@ -6944,7 +6951,7 @@
 - [uber/orbit](https://github.com/uber/orbit) - A Python package for Bayesian forecasting with object-oriented design and probabilistic models under the hood.
 - [facebookresearch/voxpopuli](https://github.com/facebookresearch/voxpopuli) - A large-scale multilingual speech corpus for representation learning, semi-supervised learning and interpretation
 - [rosinality/alias-free-gan-pytorch](https://github.com/rosinality/alias-free-gan-pytorch) - Unofficial implementation of Alias-Free Generative Adversarial Networks. (https://arxiv.org/abs/2106.12423) in PyTorch
-- [iperov/DeepFaceLive](https://github.com/iperov/DeepFaceLive) - 
+- [iperov/DeepFaceLive](https://github.com/iperov/DeepFaceLive) - Real-time face swap for PC streaming or video calls
 - [deepmind/alphafold](https://github.com/deepmind/alphafold) - Open source code for AlphaFold.
 - [facebookresearch/covid19_spread](https://github.com/facebookresearch/covid19_spread) - Modeling the spread of COVID-19
 - [instadeepai/Mava](https://github.com/instadeepai/Mava) - A library of multi-agent reinforcement learning components and systems
@@ -10100,7 +10107,7 @@
 - [Azure/azure-cli](https://github.com/Azure/azure-cli) - Azure Command-Line Interface
 - [posener/mock-import](https://github.com/posener/mock-import) - A helper mocking function to mask ImportErrors
 - [anfederico/clairvoyant](https://github.com/anfederico/clairvoyant) - Software designed to identify and monitor social/historical cues for short term stock movement
-- [frappe/erpnext](https://github.com/frappe/erpnext) - World's best free and open source ERP.
+- [frappe/erpnext](https://github.com/frappe/erpnext) - Free and Open Source Enterprise Resource Planning (ERP)
 - [vimalloc/flask-jwt-extended](https://github.com/vimalloc/flask-jwt-extended) - An open source Flask extension that provides JWT support (with batteries included)!
 - [streamlink/streamlink](https://github.com/streamlink/streamlink) - Streamlink is a CLI utility which pipes video streams from various services into a video player
 - [numpy/numpy](https://github.com/numpy/numpy) - The fundamental package for scientific computing with Python.
@@ -12962,6 +12969,7 @@
 ## Rich Text Format 
 
 - [github/dmca](https://github.com/github/dmca) - Repository with text of DMCA takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices. Users identified in the notices are presumed innocent until proven guilty. Additional information about our DMCA policy can be found at
+- [jlord/patchwork](https://github.com/jlord/patchwork) - All the Git-it Workshop completers!
 
 ## Roff 
 
@@ -13367,6 +13375,7 @@
 
 ## TeX 
 
+- [awni/future_speech](https://github.com/awni/future_speech) - The History of Speech Recognition to the Year 2030
 - [corona-warn-app/cwa-documentation](https://github.com/corona-warn-app/cwa-documentation) - Project overview, general documentation, and white papers.
 - [Just-A-Visitor/Algorithmic-Pseudocode](https://github.com/Just-A-Visitor/Algorithmic-Pseudocode) - This repository contains the pseudocode(pdf) of various algorithms and data structures necessary for Interview Preparation and Competitive Coding
 - [facebookresearch/craftassist](https://github.com/facebookresearch/craftassist) - A virtual assistant bot in Minecraft
@@ -14068,7 +14077,7 @@
 - [BinarCode/vue-form-wizard](https://github.com/BinarCode/vue-form-wizard) - Vue.js 2 wizard
 - [djirdehh/crypto_vue](https://github.com/djirdehh/crypto_vue) - 💠 A Vue.js based real-time dashboard of the top 10 cryptocurrencies
 - [dalphyx/vue-headroom](https://github.com/dalphyx/vue-headroom) - Headroom for Vuejs
-- [epicmaxco/vuestic-admin](https://github.com/epicmaxco/vuestic-admin) - Free and Beautiful Vue.js Admin Template
+- [epicmaxco/vuestic-admin](https://github.com/epicmaxco/vuestic-admin) - Free and Beautiful Vue 3 Admin Template
 - [zhanziyang/vue-croppa](https://github.com/zhanziyang/vue-croppa) - A simple straightforward customizable mobile-friendly image cropper for Vue 2.0.
 - [cngu/vue-typer](https://github.com/cngu/vue-typer) - Vue component that simulates a user typing, selecting, and erasing text.
 - [uikit/uikit-site](https://github.com/uikit/uikit-site) - 🌎 Website and Documentation
