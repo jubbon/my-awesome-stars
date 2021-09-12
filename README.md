@@ -1520,6 +1520,7 @@
 
 ## Go 
 
+- [semi-technologies/weaviate](https://github.com/semi-technologies/weaviate) - Weaviate is a cloud-native, modular, real-time vector search engine
 - [onepanelio/onepanel](https://github.com/onepanelio/onepanel) - The open source, end-to-end computer vision platform. Label, build, train, tune, deploy and automate in a unified platform that runs on any cloud and on-premises.
 - [george-e-shaw-iv/integration-tests-example](https://github.com/george-e-shaw-iv/integration-tests-example) - An example project showcasing how Ardan Labs writes integration tests
 - [mattermost/mattermost-server](https://github.com/mattermost/mattermost-server) - Open source Slack-alternative in Golang and React - Mattermost
@@ -2605,7 +2606,6 @@
 - [elbamos/largeVis](https://github.com/elbamos/largeVis) - An implementation of the largeVis algorithm for visualizing large, high-dimensional datasets, for R
 - [google/ioweb2016](https://github.com/google/ioweb2016) - I/O web app 2016
 - [eliangcs/pystock-data](https://github.com/eliangcs/pystock-data) - (UNMAINTAINED) US stock market data since 2009
-- [jlord/patchwork](https://github.com/jlord/patchwork) - All the Git-it Workshop completers!
 - [electron/electron-api-demos](https://github.com/electron/electron-api-demos) - Explore the Electron APIs
 - [akoumjian/datefinder](https://github.com/akoumjian/datefinder) - Find dates inside text using Python and get back datetime objects
 - [wcember/pypub](https://github.com/wcember/pypub) - Python library to programatically create epub files
@@ -3620,7 +3620,6 @@
 - [aarondfrancis/vue-model](https://github.com/aarondfrancis/vue-model) - Model component for Vue.js
 - [davidroyer/vue2-editor](https://github.com/davidroyer/vue2-editor) - A text editor using Vue.js and Quill
 - [tralves/groceries-ns-vue](https://github.com/tralves/groceries-ns-vue) - 🍏 🍍 🍓 A NativeScript+Vue iOS and Android app for managing grocery lists
-- [thousandetherhomepage/ketherhomepage](https://github.com/thousandetherhomepage/ketherhomepage) - Own a piece of blockchain history!
 - [johndatserakis/file-upload-with-preview](https://github.com/johndatserakis/file-upload-with-preview) - 🖼 A simple file-upload utility that shows a preview of the uploaded image. Written in pure JavaScript. No dependencies. Works well with Bootstrap 4 or without a framework.
 - [ChainSafe/web3.js](https://github.com/ChainSafe/web3.js) - Ethereum JavaScript API
 - [akxcv/vuera](https://github.com/akxcv/vuera) - :eyes: Vue in React, React in Vue. Seamless integration of the two. :dancers:
@@ -5457,6 +5456,7 @@
 - [atriumlts/subpixel](https://github.com/atriumlts/subpixel) - subpixel: A subpixel convnet for super resolution with Tensorflow
 - [dennybritz/reinforcement-learning](https://github.com/dennybritz/reinforcement-learning) - Implementation of Reinforcement Learning Algorithms. Python, OpenAI Gym, Tensorflow. Exercises and Solutions to accompany Sutton's Book and David Silver's course.
 - [udacity/self-driving-car](https://github.com/udacity/self-driving-car) - The Udacity open source self-driving car project
+- [dempfi/ayu](https://github.com/dempfi/ayu) - 🎨🖌 Modern Sublime Text theme
 - [cleverhans-lab/cleverhans](https://github.com/cleverhans-lab/cleverhans) - An adversarial example library for constructing attacks, building defenses, and benchmarking both
 - [parsing-science/pymc3_quickstart_guide](https://github.com/parsing-science/pymc3_quickstart_guide) - 
 - [random-forests/tensorflow-workshop](https://github.com/random-forests/tensorflow-workshop) - Slides and code from our TensorFlow workshop.
@@ -8521,7 +8521,7 @@
 - [jeffzh3ng/fuxi](https://github.com/jeffzh3ng/fuxi) - Penetration Testing Platform
 - [romanz/amodem](https://github.com/romanz/amodem) - Audio MODEM Communication Library in Python
 - [baidu-research/NCRF](https://github.com/baidu-research/NCRF) - Cancer metastasis detection with neural conditional random field (NCRF)
-- [rusty1s/pytorch_geometric](https://github.com/rusty1s/pytorch_geometric) - Graph Neural Network Library for PyTorch
+- [pyg-team/pytorch_geometric](https://github.com/pyg-team/pytorch_geometric) - Graph Neural Network Library for PyTorch
 - [salesforce/decaNLP](https://github.com/salesforce/decaNLP) - The Natural Language Decathlon: A Multitask Challenge for NLP
 - [llSourcell/learn_math_fast](https://github.com/llSourcell/learn_math_fast) - This is the Curriculum for "How to Learn Mathematics Fast" By Siraj Raval on Youtube
 - [vibora-io/vibora](https://github.com/vibora-io/vibora) - Fast, asynchronous and elegant Python web framework.
@@ -12033,7 +12033,6 @@
 - [pferate/python_ping](https://github.com/pferate/python_ping) - A pure python ICMP ping implementation using raw sockets.
 - [scalative/haas](https://github.com/scalative/haas) - Python Test Runner
 - [autotest/autotest](https://github.com/autotest/autotest) - Autotest - Fully automated tests on Linux
-- [zcdziura/leprechaun](https://github.com/zcdziura/leprechaun) - A simple rainbow table generator written in Python.
 - [samuelinsf/lazytable](https://github.com/samuelinsf/lazytable) - Python class to keep records in an sqlite table. Tries to be fast, thin and easy to use. No need to predefine a schema.
 - [celery/celery](https://github.com/celery/celery) - Distributed Task Queue (development branch)
 - [DataDog/dogstatsd-python](https://github.com/DataDog/dogstatsd-python) - DEPRECATED - A DogStatsd Python client
@@ -12791,7 +12790,7 @@
 - [getlogbook/logbook](https://github.com/getlogbook/logbook) - A cool logging replacement for Python.
 - [joblib/pyreport](https://github.com/joblib/pyreport) - Generate reports out of python scripts
 - [python-pillow/Pillow](https://github.com/python-pillow/Pillow) - The friendly PIL fork (Python Imaging Library)
-- [mathics/Mathics](https://github.com/mathics/Mathics) - A general-purpose computer algebra system.
+- [mathics/Mathics](https://github.com/mathics/Mathics) - This repository if for archival. Please see https://Mathics3/mathics-core
 - [NahimNasser/django-unchained](https://github.com/NahimNasser/django-unchained) - Introduction to Python and Django
 - [DVS-devtools/Reding](https://github.com/DVS-devtools/Reding) - Rating on Redis - REST API on Flask
 - [alonho/pql](https://github.com/alonho/pql) - A python expression to MongoDB query translator
@@ -12971,6 +12970,7 @@
 ## Rich Text Format 
 
 - [github/dmca](https://github.com/github/dmca) - Repository with text of DMCA takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices. Users identified in the notices are presumed innocent until proven guilty. Additional information about our DMCA policy can be found at
+- [jlord/patchwork](https://github.com/jlord/patchwork) - All the Git-it Workshop completers!
 
 ## Roff 
 
@@ -13687,7 +13687,6 @@
 - [peers/peerjs](https://github.com/peers/peerjs) - Simple peer-to-peer with WebRTC
 - [mobxjs/mobx](https://github.com/mobxjs/mobx) - Simple, scalable state management.
 - [styled-components/styled-components](https://github.com/styled-components/styled-components) - Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅
-- [dempfi/ayu](https://github.com/dempfi/ayu) - 🎨🖌 Modern Sublime Text theme
 - [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
 - [snabbdom/snabbdom](https://github.com/snabbdom/snabbdom) - A virtual DOM library with focus on simplicity, modularity, powerful features and performance.
 - [reduxjs/redux](https://github.com/reduxjs/redux) - Predictable state container for JavaScript apps
@@ -14049,6 +14048,7 @@
 - [krystalcampioni/vue-hotel-datepicker](https://github.com/krystalcampioni/vue-hotel-datepicker) - Vue date range picker component
 - [visma-meglerfront/sweet-modal-vue](https://github.com/visma-meglerfront/sweet-modal-vue) - The sweetest library to happen to modals.
 - [fuse-box/fuse-box-vue-seed](https://github.com/fuse-box/fuse-box-vue-seed) - Get started with Vue.js using FuseBox module loader and bundler
+- [thousandetherhomepage/ketherhomepage](https://github.com/thousandetherhomepage/ketherhomepage) - Own a piece of blockchain history!
 - [odranoelBR/vue-quasar-admin-example](https://github.com/odranoelBR/vue-quasar-admin-example) - Example of quasar admin
 - [yTakkar/Vue-Mini-Social-Network](https://github.com/yTakkar/Vue-Mini-Social-Network) - A reactive mini-social-network created with Vue!! 🏳️‍🌈🤞 - No longer maintained.
 - [Requarks/wiki](https://github.com/Requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
