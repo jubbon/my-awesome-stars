@@ -241,7 +241,6 @@
 - [yandex/odyssey](https://github.com/yandex/odyssey) - Scalable PostgreSQL connection pooler
 - [SoftEtherVPN/SoftEtherVPN](https://github.com/SoftEtherVPN/SoftEtherVPN) - Cross-platform multi-protocol VPN software. Pull requests are welcome. The stable version is available at https://github.com/SoftEtherVPN/SoftEtherVPN_Stable.
 - [openai/retro](https://github.com/openai/retro) - Retro Games in Gym
-- [transmission/transmission](https://github.com/transmission/transmission) - Official Transmission BitTorrent client repository
 - [libnet/nemesis](https://github.com/libnet/nemesis) - A command-line network packet crafting and injection utility
 - [hasura/skor](https://github.com/hasura/skor) - Now part of Hasura GraphQL Engine. Listen to postgres events and forward them as JSON payloads to a webhook
 - [canonical/dqlite](https://github.com/canonical/dqlite) - Embeddable, replicated and fault tolerant SQL engine.
@@ -698,6 +697,7 @@
 - [facebookincubator/katran](https://github.com/facebookincubator/katran) - A high performance layer 4 load balancer
 - [Tencent/FeatherCNN](https://github.com/Tencent/FeatherCNN) - FeatherCNN is a high performance inference engine for convolutional neural networks.
 - [Tencent/PhoenixGo](https://github.com/Tencent/PhoenixGo) - Go AI program which implements the AlphaGo Zero paper
+- [transmission/transmission](https://github.com/transmission/transmission) - Official Transmission BitTorrent client repository
 - [google/asylo](https://github.com/google/asylo) - An open and flexible framework for developing enclave applications
 - [pytorch/glow](https://github.com/pytorch/glow) - Compiler for Neural Network hardware accelerators
 - [apache/arrow](https://github.com/apache/arrow) - Apache Arrow is a multi-language toolbox for accelerated data interchange and in-memory processing
@@ -1365,6 +1365,7 @@
 - [rushter/selectolax](https://github.com/rushter/selectolax) - Python binding to Modest and Lexbor engines (fast HTML5 parser with CSS selectors).
 - [mosquito/cysystemd](https://github.com/mosquito/cysystemd) - SystemD wrapper on Cython
 - [MagicStack/uvloop](https://github.com/MagicStack/uvloop) - Ultra fast asyncio event loop.
+- [scikit-sparse/scikit-sparse](https://github.com/scikit-sparse/scikit-sparse) - Sparse matrix tools extending scipy.sparse, but with incompatible licenses
 - [wbolster/plyvel](https://github.com/wbolster/plyvel) - Plyvel, a fast and feature-rich Python interface to LevelDB
 
 ## D 
@@ -2014,7 +2015,7 @@
 - [owenthereal/godzilla](https://github.com/owenthereal/godzilla) - Godzilla is a ES2015 to Go source code transpiler and runtime
 - [shunfei/cronsun](https://github.com/shunfei/cronsun) - A Distributed, Fault-Tolerant Cron-Style Job System.
 - [lovoo/goka](https://github.com/lovoo/goka) - Goka is a compact yet powerful distributed stream processing library for Apache Kafka written in Go.
-- [kashav/fsql](https://github.com/kashav/fsql) - Find files with SQL
+- [kashav/fsql](https://github.com/kashav/fsql) - Find files with SQL.
 - [42wim/dt](https://github.com/42wim/dt) - DNS tool - display information about your domain
 - [golang/dep](https://github.com/golang/dep) - Go dependency management tool experiment (deprecated)
 - [qvl/sleepto](https://github.com/qvl/sleepto) - An alternative to traditional task schedulers
@@ -2300,7 +2301,6 @@
 - [Show-Me-the-Code/python](https://github.com/Show-Me-the-Code/python) - Show Me the Code Python version.
 - [hjacobs/kubernetes-failure-stories](https://github.com/hjacobs/kubernetes-failure-stories) - Compilation of public failure/horror stories related to Kubernetes
 - [yyx990803/build-your-own-mint](https://github.com/yyx990803/build-your-own-mint) - Build your own personal finance analytics using Plaid, Google Sheets and CircleCI.
-- [apidoc/apidoc](https://github.com/apidoc/apidoc) - RESTful web API Documentation Generator.
 - [flutter/website](https://github.com/flutter/website) - Flutter web site
 - [haoking/opencvjs](https://github.com/haoking/opencvjs) - Complete opencvjs (With the lastest OpenCV 4.0.0+)
 - [tc39/proposal-built-in-modules](https://github.com/tc39/proposal-built-in-modules) - 
@@ -2606,6 +2606,7 @@
 - [elbamos/largeVis](https://github.com/elbamos/largeVis) - An implementation of the largeVis algorithm for visualizing large, high-dimensional datasets, for R
 - [google/ioweb2016](https://github.com/google/ioweb2016) - I/O web app 2016
 - [eliangcs/pystock-data](https://github.com/eliangcs/pystock-data) - (UNMAINTAINED) US stock market data since 2009
+- [jlord/patchwork](https://github.com/jlord/patchwork) - All the Git-it Workshop completers!
 - [electron/electron-api-demos](https://github.com/electron/electron-api-demos) - Explore the Electron APIs
 - [akoumjian/datefinder](https://github.com/akoumjian/datefinder) - Find dates inside text using Python and get back datetime objects
 - [wcember/pypub](https://github.com/wcember/pypub) - Python library to programatically create epub files
@@ -3098,6 +3099,7 @@
 - [ericalli/static-site-boilerplate](https://github.com/ericalli/static-site-boilerplate) - A better workflow for building modern static websites.
 - [zadam/trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
 - [jsdf/little-virtual-computer](https://github.com/jsdf/little-virtual-computer) - Learn how computers work by simulating them in Javascript
+- [apidoc/apidoc](https://github.com/apidoc/apidoc) - RESTful web API Documentation Generator.
 - [lexfridman/deeptraffic](https://github.com/lexfridman/deeptraffic) - DeepTraffic is a deep reinforcement learning competition, part of the MIT Deep Learning series.
 - [facebook/fbt](https://github.com/facebook/fbt) - A JavaScript Internationalization Framework
 - [dwyl/learn-json-web-tokens](https://github.com/dwyl/learn-json-web-tokens) - :closed_lock_with_key: Learn how to use JSON Web Token (JWT) to secure your next Web App! (Tutorial/Example with Tests!!)
@@ -6923,6 +6925,7 @@
 
 ## Python 
 
+- [khuyentran1401/kedro_demo](https://github.com/khuyentran1401/kedro_demo) - A demo of a data science project using Kedro
 - [akandykeller/TopographicVAE](https://github.com/akandykeller/TopographicVAE) - Official implementation of the paper "Topographic VAEs learn Equivariant Capsules"
 - [lukasliebel/dfc2020_baseline](https://github.com/lukasliebel/dfc2020_baseline) - Simple Baseline for the IEEE GRSS Data Fusion Contest 2020
 - [facebookresearch/pytorchvideo](https://github.com/facebookresearch/pytorchvideo) - A deep learning library for video understanding research.
@@ -10906,7 +10909,6 @@
 - [luispedro/BuildingMachineLearningSystemsWithPython](https://github.com/luispedro/BuildingMachineLearningSystemsWithPython) - Source Code for the book Building Machine Learning Systems with Python
 - [codematician/study](https://github.com/codematician/study) - A study of interesting algorithms
 - [sklearn-theano/sklearn-theano](https://github.com/sklearn-theano/sklearn-theano) - Scikit-learn compatible tools using theano
-- [scikit-sparse/scikit-sparse](https://github.com/scikit-sparse/scikit-sparse) - Sparse matrix tools extending scipy.sparse, but with incompatible licenses
 - [amueller/scipy_2015_sklearn_tutorial](https://github.com/amueller/scipy_2015_sklearn_tutorial) - Scikit-Learn tutorial material for Scipy 2015
 - [jakevdp/klsh](https://github.com/jakevdp/klsh) - Python implementation of Kernelized Locality Sensitive Hashing
 - [dohmatob/pyHANSO](https://github.com/dohmatob/pyHANSO) - pyHANSO: Python Implementation of Michael Overton's HANSO (Hybrid Algorithm for Non-Smooth Optimization)
@@ -12970,7 +12972,6 @@
 ## Rich Text Format 
 
 - [github/dmca](https://github.com/github/dmca) - Repository with text of DMCA takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices. Users identified in the notices are presumed innocent until proven guilty. Additional information about our DMCA policy can be found at
-- [jlord/patchwork](https://github.com/jlord/patchwork) - All the Git-it Workshop completers!
 
 ## Roff 
 
