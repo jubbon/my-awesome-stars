@@ -1521,6 +1521,7 @@
 
 ## Go 
 
+- [jonaslu/ain](https://github.com/jonaslu/ain) - An HTTP API client for the terminal
 - [semi-technologies/weaviate](https://github.com/semi-technologies/weaviate) - Weaviate is a cloud-native, modular, real-time vector search engine
 - [onepanelio/onepanel](https://github.com/onepanelio/onepanel) - The open source, end-to-end computer vision platform. Label, build, train, tune, deploy and automate in a unified platform that runs on any cloud and on-premises.
 - [george-e-shaw-iv/integration-tests-example](https://github.com/george-e-shaw-iv/integration-tests-example) - An example project showcasing how Ardan Labs writes integration tests
@@ -1555,7 +1556,7 @@
 - [cucumber/godog](https://github.com/cucumber/godog) - Cucumber for golang
 - [99designs/aws-vault](https://github.com/99designs/aws-vault) - A vault for securely storing and accessing AWS credentials in development environments
 - [xanzy/go-gitlab](https://github.com/xanzy/go-gitlab) - GitLab Go SDK
-- [micro/micro](https://github.com/micro/micro) - Micro is a cloud operating system
+- [micro/micro](https://github.com/micro/micro) - Micro is an operating system for the Metaverse
 - [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub API
 - [slackhq/nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
 - [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
@@ -2967,6 +2968,7 @@
 - [heremaps/developer-blog](https://github.com/heremaps/developer-blog) - Examples and projects featured on the HERE developer blog.
 - [heremaps/here-cli](https://github.com/heremaps/here-cli) - A command-line interface to work with HERE XYZ Hub and other HERE APIs
 - [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (August 2021)
+- [aws/aws-sdk-js](https://github.com/aws/aws-sdk-js) - AWS SDK for JavaScript in the browser and Node.js
 - [google/blockly](https://github.com/google/blockly) - The web-based visual programming editor.
 - [iantheearl/mc.js](https://github.com/iantheearl/mc.js) - Open source Minecraft clone built with ThreeJS, ReactJS, GraphQL, and NodeJS.
 - [MichMich/MagicMirror](https://github.com/MichMich/MagicMirror) - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant.
@@ -3322,6 +3324,7 @@
 - [d2-projects/d2-admin](https://github.com/d2-projects/d2-admin) - An elegant dashboard
 - [GoogleChromeLabs/critters](https://github.com/GoogleChromeLabs/critters) - 🦔 A Webpack plugin to inline your critical CSS and lazy-load the rest.
 - [sodium-friends/learntocrypto](https://github.com/sodium-friends/learntocrypto) - Learn to crypto workshop
+- [keplergl/kepler.gl](https://github.com/keplergl/kepler.gl) - Kepler.gl is a powerful open source geospatial analysis tool for large-scale data sets.
 - [GoogleChromeLabs/prerender-loader](https://github.com/GoogleChromeLabs/prerender-loader) - 📰 Painless universal pre-rendering for Webpack.
 - [30-seconds/30-seconds-of-interviews](https://github.com/30-seconds/30-seconds-of-interviews) - A curated collection of common interview questions to help you prepare for your next interview.
 - [egoist/maid](https://github.com/egoist/maid) - Markdown driven task runner.
@@ -4976,7 +4979,6 @@
 - [axu2/improved-seam-carving](https://github.com/axu2/improved-seam-carving) - A numpy implementation of forward energy from the paper “Improved Seam Carving for Video Retargeting" (2008)
 - [Schlumberger/joint-vae](https://github.com/Schlumberger/joint-vae) - Pytorch implementation of JointVAE, a framework for disentangling continuous and discrete factors of variation :star2:
 - [higgsfield/RL-Adventure-2](https://github.com/higgsfield/RL-Adventure-2) - PyTorch0.4 implementation of: actor critic / proximal policy optimization / acer / ddpg / twin dueling ddpg / soft actor critic / generative adversarial imitation learning / hindsight experience replay
-- [keplergl/kepler.gl](https://github.com/keplergl/kepler.gl) - Kepler.gl is a powerful open source geospatial analysis tool for large-scale data sets.
 - [mml-book/mml-book.github.io](https://github.com/mml-book/mml-book.github.io) - Companion webpage to the book "Mathematics For Machine Learning"
 - [uber-research/intrinsic-dimension](https://github.com/uber-research/intrinsic-dimension) - 
 - [NVIDIA/tacotron2](https://github.com/NVIDIA/tacotron2) - Tacotron 2 - PyTorch implementation with faster-than-realtime inference
@@ -5351,7 +5353,6 @@
 - [nyu-dl/Intro_to_ML_Lecture_Note](https://github.com/nyu-dl/Intro_to_ML_Lecture_Note) - 
 - [udacity/deep-learning](https://github.com/udacity/deep-learning) - Repo for the Deep Learning Nanodegree Foundations program.
 - [nfmcclure/tensorflow_cookbook](https://github.com/nfmcclure/tensorflow_cookbook) - Code for Tensorflow Machine Learning Cookbook
-- [ResidentMario/geoplot](https://github.com/ResidentMario/geoplot) - High-level geospatial data visualization library for Python.
 - [pfnet/PaintsChainer](https://github.com/pfnet/PaintsChainer) - line drawing colorization using chainer
 - [ageron/handson-ml](https://github.com/ageron/handson-ml) - A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in python using Scikit-Learn and TensorFlow.
 - [awjuliani/Meta-RL](https://github.com/awjuliani/Meta-RL) - Implementation of Meta-RL A3C algorithm
@@ -6925,6 +6926,7 @@
 
 ## Python 
 
+- [autonomousvision/neat](https://github.com/autonomousvision/neat) - [ICCV'21] NEAT: Neural Attention Fields for End-to-End Autonomous Driving
 - [khuyentran1401/kedro_demo](https://github.com/khuyentran1401/kedro_demo) - A demo of a data science project using Kedro
 - [akandykeller/TopographicVAE](https://github.com/akandykeller/TopographicVAE) - Official implementation of the paper "Topographic VAEs learn Equivariant Capsules"
 - [lukasliebel/dfc2020_baseline](https://github.com/lukasliebel/dfc2020_baseline) - Simple Baseline for the IEEE GRSS Data Fusion Contest 2020
@@ -7722,6 +7724,7 @@
 - [Zhongdao/Towards-Realtime-MOT](https://github.com/Zhongdao/Towards-Realtime-MOT) - Joint Detection and Embedding for fast multi-object tracking
 - [stepjam/RLBench](https://github.com/stepjam/RLBench) - A large-scale benchmark and learning environment.
 - [RUB-SysSec/redqueen](https://github.com/RUB-SysSec/redqueen) - 
+- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — The fastest way to build data apps in Python
 - [ryansb/serverless-cat-facts](https://github.com/ryansb/serverless-cat-facts) - Distribute facts about cats without needing to run your own infrastructure
 - [phith0n/realworldctf](https://github.com/phith0n/realworldctf) - My Real World CTF challenges
 - [learnables/learn2learn](https://github.com/learnables/learn2learn) - A PyTorch Library for Meta-learning Research
@@ -9787,6 +9790,7 @@
 - [Edinburgh-Genome-Foundry/Flametree](https://github.com/Edinburgh-Genome-Foundry/Flametree) - :fire: Python file and zip operations made easy
 - [bamos/densenet.pytorch](https://github.com/bamos/densenet.pytorch) - A PyTorch implementation of DenseNet.
 - [csurfer/pyheat](https://github.com/csurfer/pyheat) - pprofile + matplotlib = Python program profiled as an awesome heatmap!
+- [ResidentMario/geoplot](https://github.com/ResidentMario/geoplot) - High-level geospatial data visualization library for Python.
 - [tensorflow/fold](https://github.com/tensorflow/fold) - Deep learning with dynamic computation graphs in TensorFlow
 - [jcjohnson/pytorch-examples](https://github.com/jcjohnson/pytorch-examples) - Simple examples to introduce PyTorch
 - [hunkim/DeepLearningStars](https://github.com/hunkim/DeepLearningStars) - Top Deep Learning Projects based on their Stars!
@@ -12985,7 +12989,6 @@
 
 - [microsoft/code-with-engineering-playbook](https://github.com/microsoft/code-with-engineering-playbook) - This is the playbook for "code-with" customer or partner engagements
 - [tompng/air_hockey_quine](https://github.com/tompng/air_hockey_quine) - Network Battle Air Hockey Quine
-- [aws/aws-sdk-js](https://github.com/aws/aws-sdk-js) - AWS SDK for JavaScript in the browser and Node.js
 - [brotandgames/ciao](https://github.com/brotandgames/ciao) - HTTP checks & tests (private & public) monitoring - check the status of your URL
 - [erikwiffin/0.30000000000000004](https://github.com/erikwiffin/0.30000000000000004) - Floating Point Math Examples
 - [SteveLTN/https-portal](https://github.com/SteveLTN/https-portal) - A fully automated HTTPS server powered by Nginx, Let's Encrypt and Docker.
@@ -13451,7 +13454,6 @@
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [hygieia/hygieia](https://github.com/hygieia/hygieia) - CapitalOne  DevOps Dashboard
 - [vuejs/vue-next](https://github.com/vuejs/vue-next) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
-- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — The fastest way to build data apps in Python
 - [AzureAD/microsoft-authentication-library-for-js](https://github.com/AzureAD/microsoft-authentication-library-for-js) - Microsoft Authentication Library (MSAL) for JS
 - [typeorm/typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
 - [apollographql/apollo-server](https://github.com/apollographql/apollo-server) - 🌍  Spec-compliant and production ready JavaScript GraphQL server that lets you develop in a schema-first way. Built for Express, Connect, Hapi, Koa, and more.
