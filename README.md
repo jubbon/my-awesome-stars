@@ -2607,7 +2607,6 @@
 - [elbamos/largeVis](https://github.com/elbamos/largeVis) - An implementation of the largeVis algorithm for visualizing large, high-dimensional datasets, for R
 - [google/ioweb2016](https://github.com/google/ioweb2016) - I/O web app 2016
 - [eliangcs/pystock-data](https://github.com/eliangcs/pystock-data) - (UNMAINTAINED) US stock market data since 2009
-- [jlord/patchwork](https://github.com/jlord/patchwork) - All the Git-it Workshop completers!
 - [electron/electron-api-demos](https://github.com/electron/electron-api-demos) - Explore the Electron APIs
 - [akoumjian/datefinder](https://github.com/akoumjian/datefinder) - Find dates inside text using Python and get back datetime objects
 - [wcember/pypub](https://github.com/wcember/pypub) - Python library to programatically create epub files
@@ -4475,7 +4474,6 @@
 - [facebookresearch/vissl](https://github.com/facebookresearch/vissl) - VISSL is FAIR's library of extensible, modular and scalable components for SOTA Self-Supervised Learning with images.
 - [robertmartin8/PyPortfolioOpt](https://github.com/robertmartin8/PyPortfolioOpt) - Financial portfolio optimisation in python, including classical efficient frontier, Black-Litterman, Hierarchical Risk Parity
 - [CompVis/taming-transformers](https://github.com/CompVis/taming-transformers) - Taming Transformers for High-Resolution Image Synthesis
-- [gaih/introduction-to-python](https://github.com/gaih/introduction-to-python) - 
 - [AI4Finance-Foundation/FinRL](https://github.com/AI4Finance-Foundation/FinRL) - A Deep Reinforcement Learning Framework for Automated Trading in Quantitative Finance. NeurIPS 2020. 🔥
 - [orpatashnik/StyleCLIP](https://github.com/orpatashnik/StyleCLIP) - Official Implementation for "StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery" (ICCV 2021 Oral)
 - [karpathy/deep-vector-quantization](https://github.com/karpathy/deep-vector-quantization) - VQVAEs, GumbelSoftmaxes and friends
@@ -5849,6 +5847,7 @@
 
 ## Others 
 
+- [khangich/machine-learning-interview](https://github.com/khangich/machine-learning-interview) - Machine Learning Interviews from FAAG, Snapchat, LinkedIn. I have offers from Snapchat, Coupang, Stitchfix etc. Blog: mlengineer.io.
 - [chrieke/awesome-satellite-imagery-datasets](https://github.com/chrieke/awesome-satellite-imagery-datasets) - 🛰️ List of satellite image training datasets with annotations for computer vision and deep learning
 - [cedrickchee/awesome-ml-model-compression](https://github.com/cedrickchee/awesome-ml-model-compression) - Awesome machine learning model compression research papers, tools, and learning material.
 - [m-bain/webvid](https://github.com/m-bain/webvid) - Large-scale text-video dataset.
@@ -6926,6 +6925,8 @@
 
 ## Python 
 
+- [alibaba/AliceMind](https://github.com/alibaba/AliceMind) - 
+- [mlpack/benchmarks](https://github.com/mlpack/benchmarks) - Machine Learning Benchmark Scripts
 - [autonomousvision/neat](https://github.com/autonomousvision/neat) - [ICCV'21] NEAT: Neural Attention Fields for End-to-End Autonomous Driving
 - [khuyentran1401/kedro_demo](https://github.com/khuyentran1401/kedro_demo) - A demo of a data science project using Kedro
 - [akandykeller/TopographicVAE](https://github.com/akandykeller/TopographicVAE) - Official implementation of the paper "Topographic VAEs learn Equivariant Capsules"
@@ -7077,7 +7078,7 @@
 - [abhimishra91/insight](https://github.com/abhimishra91/insight) - Repository for Project Insight: NLP as a Service
 - [wemake-services/wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) - The strictest and most opinionated python linter ever!
 - [PaddlePaddle/PaddleNLP](https://github.com/PaddlePaddle/PaddleNLP) - An NLP library with Awesome pre-trained Transformer models and easy-to-use interface,  supporting wide-range of NLP tasks from research to industrial applications.
-- [PyTorchLightning/lightning-flash](https://github.com/PyTorchLightning/lightning-flash) - Collection of tasks for fast prototyping, baselining, finetuning and solving problems with deep learning.
+- [PyTorchLightning/lightning-flash](https://github.com/PyTorchLightning/lightning-flash) - Your PyTorch AI Factory - Flash enables you to easily configure and run complex AI recipes for over 15 tasks across 7 data domains
 - [kakaobrain/pororo](https://github.com/kakaobrain/pororo) - PORORO: Platform Of neuRal mOdels for natuRal language prOcessing
 - [LAMDA-NJU/Deep-Forest](https://github.com/LAMDA-NJU/Deep-Forest) - An Efficient, Scalable and Optimized Python Framework for Deep Forest (2021.2.1)
 - [mportesi/sorting_algo_visualizer](https://github.com/mportesi/sorting_algo_visualizer) - Python script to generate a visualization of various sorting algorithms, image or video.
@@ -7649,7 +7650,7 @@
 - [kamalkraj/BERT-NER](https://github.com/kamalkraj/BERT-NER) - Pytorch-Named-Entity-Recognition-with-BERT
 - [milesial/Pytorch-UNet](https://github.com/milesial/Pytorch-UNet) - PyTorch implementation of the U-Net for image semantic segmentation with high quality images
 - [keithito/tacotron](https://github.com/keithito/tacotron) - A TensorFlow implementation of Google's Tacotron speech synthesis with pre-trained model (unofficial)
-- [cgnorthcutt/cleanlab](https://github.com/cgnorthcutt/cleanlab) - The standard package for machine learning with noisy labels and finding mislabeled data. Works with most datasets and models.
+- [cleanlab/cleanlab](https://github.com/cleanlab/cleanlab) - The standard package for machine learning with noisy labels and finding mislabeled data. Works with most datasets and models.
 - [ticarpi/jwt_tool](https://github.com/ticarpi/jwt_tool) - :snake: A toolkit for testing, tweaking and cracking JSON Web Tokens
 - [Kayzaks/HackingNeuralNetworks](https://github.com/Kayzaks/HackingNeuralNetworks) - A small course on exploiting and defending neural networks
 - [sniklaus/3d-ken-burns](https://github.com/sniklaus/3d-ken-burns) - an implementation of 3D Ken Burns Effect from a Single Image using PyTorch
@@ -12976,6 +12977,7 @@
 ## Rich Text Format 
 
 - [github/dmca](https://github.com/github/dmca) - Repository with text of DMCA takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices. Users identified in the notices are presumed innocent until proven guilty. Additional information about our DMCA policy can be found at
+- [jlord/patchwork](https://github.com/jlord/patchwork) - All the Git-it Workshop completers!
 
 ## Roff 
 
@@ -13268,7 +13270,7 @@
 - [k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 - [ashishb/android-security-awesome](https://github.com/ashishb/android-security-awesome) - A collection of android security related resources
 - [Fakerr/git-recall](https://github.com/Fakerr/git-recall) - An interactive way to peruse your git history from the terminal
-- [eustasy/bubbly](https://github.com/eustasy/bubbly) - Better SSL in Nginx in 10 minutes. Configuration files and setup scripts for Certbot.
+- [eustasy/Bubbly](https://github.com/eustasy/Bubbly) - Better SSL in Nginx in 10 minutes. Configuration files and setup scripts for Certbot.
 - [arzzen/git-quick-stats](https://github.com/arzzen/git-quick-stats) - ▁▅▆▃▅ Git quick statistics is a simple and efficient way to access various statistics in git repository.
 - [ttlequals0/autovpn](https://github.com/ttlequals0/autovpn) - Create On Demand Disposable OpenVPN Endpoints on AWS.
 - [docker-library/redmine](https://github.com/docker-library/redmine) - Docker Official Image packaging for Redmine
@@ -13764,6 +13766,7 @@
 
 ## Vue 
 
+- [averkij/a-studio](https://github.com/averkij/a-studio) - Lingtrain Alignment Studio is an ML based app for texts alignment on different languages. It can produce parallel corpora and parallel books.
 - [cdqa-suite/cdQA-annotator](https://github.com/cdqa-suite/cdQA-annotator) - ⛔ [NOT MAINTAINED] A web-based annotator for closed-domain question answering datasets with SQuAD format.
 - [emqx/MQTTX](https://github.com/emqx/MQTTX) - MQTT X - Elegant Cross-platform MQTT 5.0 Desktop Client
 - [tiangolo/flask-frontend-docker](https://github.com/tiangolo/flask-frontend-docker) - Minimal project generator with a Flask backend, a modern frontend (Vue, React or Angular), a Traefik load balancer with HTTPS, all based on Docker.
