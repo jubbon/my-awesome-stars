@@ -344,6 +344,7 @@
 - [deepmind/lab](https://github.com/deepmind/lab) - A customisable 3D platform for agent-based AI research
 - [fail0verflow/hbc](https://github.com/fail0verflow/hbc) - The Homebrew Channel - open source edition
 - [blacksphere/blackmagic](https://github.com/blacksphere/blackmagic) - In application debugger for ARM Cortex microcontrollers.
+- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 100 supported car makes and models.
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [go-vgo/robotgo](https://github.com/go-vgo/robotgo) - RobotGo, Go Native cross-platform GUI automation  @vcaesar
 - [RedBeardLab/rediSQL](https://github.com/RedBeardLab/rediSQL) - Redis module that provides a completely functional SQL database
@@ -862,7 +863,6 @@
 - [leegao/float-hacks](https://github.com/leegao/float-hacks) - Floating Point Hacks
 - [baidu/tera](https://github.com/baidu/tera) - An Internet-Scale Database.
 - [phaistos-networks/TANK](https://github.com/phaistos-networks/TANK) - A very high performance distributed log service
-- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 100 supported car makes and models.
 - [NVIDIA/nccl](https://github.com/NVIDIA/nccl) - Optimized primitives for collective multi-GPU communication
 - [weiliu89/caffe](https://github.com/weiliu89/caffe) - Caffe: a fast open framework for deep learning.
 - [nadavbh12/Retro-Learning-Environment](https://github.com/nadavbh12/Retro-Learning-Environment) - The Retro Learning Environment (RLE) -- a learning framework for AI
@@ -1366,6 +1366,7 @@
 - [mosquito/cysystemd](https://github.com/mosquito/cysystemd) - SystemD wrapper on Cython
 - [MagicStack/uvloop](https://github.com/MagicStack/uvloop) - Ultra fast asyncio event loop.
 - [scikit-sparse/scikit-sparse](https://github.com/scikit-sparse/scikit-sparse) - Sparse matrix tools extending scipy.sparse, but with incompatible licenses
+- [Unidata/netcdf4-python](https://github.com/Unidata/netcdf4-python) - netcdf4-python: python/numpy interface to the netCDF C library
 - [wbolster/plyvel](https://github.com/wbolster/plyvel) - Plyvel, a fast and feature-rich Python interface to LevelDB
 
 ## D 
@@ -1556,7 +1557,7 @@
 - [cucumber/godog](https://github.com/cucumber/godog) - Cucumber for golang
 - [99designs/aws-vault](https://github.com/99designs/aws-vault) - A vault for securely storing and accessing AWS credentials in development environments
 - [xanzy/go-gitlab](https://github.com/xanzy/go-gitlab) - GitLab Go SDK
-- [micro/micro](https://github.com/micro/micro) - Micro is an operating system for the Metaverse
+- [micro/micro](https://github.com/micro/micro) - Micro is an operating system for the cloud
 - [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub API
 - [slackhq/nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
 - [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
@@ -2512,6 +2513,7 @@
 - [digicorp/propeller](https://github.com/digicorp/propeller) - Propeller - Develop more, Code less. Propeller is a front-end responsive framework based on Google's Material Design Standards & Bootstrap.
 - [jeromeetienne/AR.js](https://github.com/jeromeetienne/AR.js) - Efficient Augmented Reality for the Web - 60fps on mobile!
 - [jgthms/html-reference](https://github.com/jgthms/html-reference) - HTML Reference: a free guide to all HTML5 elements and attributes
+- [github/opensource.guide](https://github.com/github/opensource.guide) - 📚 Community guides for open source creators
 - [github/training-kit](https://github.com/github/training-kit) - Open source courseware for Git and GitHub
 - [Kurento/doc-kurento-readthedocs](https://github.com/Kurento/doc-kurento-readthedocs) - [READ-ONLY] Auto-generated documentation sources for ReadTheDocs
 - [samdutton/simpl](https://github.com/samdutton/simpl) - Simplest possible examples of HTML, CSS and Javascript:
@@ -3827,7 +3829,6 @@
 - [d4t4x/data-selfie](https://github.com/d4t4x/data-selfie) - Data Selfie - a browser extension to track yourself on Facebook and analyze your data.
 - [littlstar/s3-lambda](https://github.com/littlstar/s3-lambda) - Lambda functions over S3 objects with concurrency control (each, map, reduce, filter)
 - [oliver-moran/jimp](https://github.com/oliver-moran/jimp) - An image processing library written entirely in JavaScript for Node, with zero external or native dependencies.
-- [github/opensource.guide](https://github.com/github/opensource.guide) - 📚 Community guides for open source creators
 - [romannurik/SlidesCodeHighlighter](https://github.com/romannurik/SlidesCodeHighlighter) - A little web app that helps you copy+paste syntax-highlighted code into slide decks.
 - [mxstbr/micro-github](https://github.com/mxstbr/micro-github) - A tiny microservice that makes adding authentication with GitHub to your application easy.
 - [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - :bathtub: Clean Code concepts adapted for JavaScript
@@ -4447,6 +4448,7 @@
 - [SemyonSinchenko/qmlcourse](https://github.com/SemyonSinchenko/qmlcourse) - Quantum Machine Learning Community Course
 - [ITMO-NSS-team/nas-fedot](https://github.com/ITMO-NSS-team/nas-fedot) - The implementation of the Neural Architecture Search based at the Fedot framework
 - [sail-sg/volo](https://github.com/sail-sg/volo) - VOLO: Vision Outlooker for Visual Recognition
+- [nccr-itmo/FEDOT](https://github.com/nccr-itmo/FEDOT) - Automated modeling and machine learning framework FEDOT
 - [khuyentran1401/Data-science](https://github.com/khuyentran1401/Data-science) - Collection of useful data science topics along with code and articles
 - [sentinel-hub/multi-temporal-super-resolution](https://github.com/sentinel-hub/multi-temporal-super-resolution) - Multi-temporal Super-Resolution on Sentinel-2 Imagery using Deimos
 - [czaloumi/transformers](https://github.com/czaloumi/transformers) - A lecture-style exploration of transformers.
@@ -6969,7 +6971,6 @@
 - [couler-proj/couler](https://github.com/couler-proj/couler) - Unified Interface for Constructing and Managing Workflows on different workflow engines, such as Argo Workflows, Tekton Pipelines, and Apache Airflow.
 - [google-research/deeplab2](https://github.com/google-research/deeplab2) - DeepLab2 is a TensorFlow library for deep labeling, aiming to provide a unified and state-of-the-art TensorFlow codebase for dense pixel labeling tasks.
 - [Sentdex/GANTheftAuto](https://github.com/Sentdex/GANTheftAuto) - 
-- [nccr-itmo/FEDOT](https://github.com/nccr-itmo/FEDOT) - Automated modeling and machine learning framework FEDOT
 - [deep-nlp-spring-2020/bert-distillation](https://github.com/deep-nlp-spring-2020/bert-distillation) - Proposal is to try to distill DeepPavlov RuBERT. Main paper is from huggingface https://arxiv.org/pdf/1910.01108.pdf
 - [andreasveit/densenet-pytorch](https://github.com/andreasveit/densenet-pytorch) - A PyTorch Implementation for Densely Connected Convolutional Networks (DenseNets)
 - [IBM/pytorchpipe](https://github.com/IBM/pytorchpipe) - PyTorchPipe (PTP) is a component-oriented framework for rapid prototyping and training of computational pipelines combining vision and language
@@ -10256,7 +10257,7 @@
 - [Yenthe666/Odoo_Samples](https://github.com/Yenthe666/Odoo_Samples) - This repository contains samples with Odoo code
 - [odoo-russia/odoo-russia](https://github.com/odoo-russia/odoo-russia) - Главный репозиторий с официальными модулями русскоязычного сообщества Odoo
 - [freach/udatetime](https://github.com/freach/udatetime) - Fast RFC3339 compliant Python date-time library
-- [fireeye/flare-fakenet-ng](https://github.com/fireeye/flare-fakenet-ng) - [Suspended] FakeNet-NG - Next Generation Dynamic Network Analysis Tool
+- [mandiant/flare-fakenet-ng](https://github.com/mandiant/flare-fakenet-ng) - [Suspended] FakeNet-NG - Next Generation Dynamic Network Analysis Tool
 - [fchollet/deep-learning-models](https://github.com/fchollet/deep-learning-models) - Keras code and weights files for popular deep learning models.
 - [boramalper/himawaripy](https://github.com/boramalper/himawaripy) - Set near-realtime picture of Earth as your desktop background
 - [keras-rl/keras-rl](https://github.com/keras-rl/keras-rl) - Deep Reinforcement Learning for Keras.
@@ -10928,7 +10929,6 @@
 - [nils-werner/pymf](https://github.com/nils-werner/pymf) - Python Matrix Factorization Module
 - [graphistry/pygraphistry](https://github.com/graphistry/pygraphistry) - PyGraphistry is a Python library to quickly load, shape, embed, and explore big graphs with the GPU-accelerated Graphistry visual graph analyzer
 - [lucastx/propagator.py](https://github.com/lucastx/propagator.py) - A propagator network in Python, inspired by Radul & Sussman's The Art of the Propagator
-- [Unidata/netcdf4-python](https://github.com/Unidata/netcdf4-python) - netcdf4-python: python/numpy interface to the netCDF C library
 - [kwgoodman/la](https://github.com/kwgoodman/la) - Meet larry, the labeled numpy array
 - [BIDS/datarray](https://github.com/BIDS/datarray) - Prototyping numpy arrays with named axes for data management.
 - [TehMillhouse/PyMarkovChain](https://github.com/TehMillhouse/PyMarkovChain) - Simple markov chain implementation in python
@@ -13114,7 +13114,6 @@
 - [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - My cheatsheets
 - [elixirschool/elixirschool](https://github.com/elixirschool/elixirschool) - Premier destination to learn and master the Elixir programming language
 - [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
-- [codeship/documentation](https://github.com/codeship/documentation) - Documentation for Codeship CI & CD service
 - [Slicejack/bojler](https://github.com/Slicejack/bojler) - Bojler is an email framework
 - [Kikobeats/js-mythbusters](https://github.com/Kikobeats/js-mythbusters) - :ghost: STHAP js, where is my perfomance?
 - [microsoft/TypeScript-Node-Starter](https://github.com/microsoft/TypeScript-Node-Starter) - A reference example for TypeScript and Node with a detailed README describing how to use the two together.
@@ -14143,7 +14142,7 @@
 - [Akryum/vue-virtual-scroller](https://github.com/Akryum/vue-virtual-scroller) - ⚡️ Blazing fast scrolling for any amount of data
 - [rowanwins/vue-dropzone](https://github.com/rowanwins/vue-dropzone) - A Vue.js component for Dropzone.js - a drag’n’drop file uploads utility with image previews
 - [fritx/vue-at](https://github.com/fritx/vue-at) - At.js for Vue.
-- [nuxt/nuxtjs.org](https://github.com/nuxt/nuxtjs.org) - Nuxt.js Documentation Website (Universal Vue.js Application built with Nuxt.js)
+- [nuxt/nuxtjs.org](https://github.com/nuxt/nuxtjs.org) - NuxtJS Documentation Website
 - [Sopamo/vue-online](https://github.com/Sopamo/vue-online) - A reactive offline indicator component for vue.js
 - [TIGERB/easy-vue](https://github.com/TIGERB/easy-vue) - Learn vueJS Easily :ghost:
 - [axibase/atsd-use-cases](https://github.com/axibase/atsd-use-cases) - Axibase Time Series Database: Usage Examples and Research Articles
