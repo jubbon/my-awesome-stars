@@ -2901,6 +2901,7 @@
 - [jsdoc/jsdoc](https://github.com/jsdoc/jsdoc) - An API documentation generator for JavaScript.
 - [kiteco/vscode-plugin](https://github.com/kiteco/vscode-plugin) - Kite Autocomplete Plugin for Visual Studio Code
 - [expressjs/express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
+- [jitsi/docker-jitsi-meet](https://github.com/jitsi/docker-jitsi-meet) - Jitsi Meet on Docker
 - [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 1250 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [marcotcr/lime](https://github.com/marcotcr/lime) - Lime: Explaining the predictions of any machine learning classifier
 - [microsoft/botframework-sdk](https://github.com/microsoft/botframework-sdk) - Bot Framework provides the most comprehensive experience for building conversation applications.
@@ -3218,7 +3219,7 @@
 - [phoboslab/underrun](https://github.com/phoboslab/underrun) - Twin stick shooter game in 13kb of JavaScript/WebGL
 - [bokub/lyo](https://github.com/bokub/lyo) - 📦 Node.js to browser - The easy way
 - [GoogleChromeLabs/worker-plugin](https://github.com/GoogleChromeLabs/worker-plugin) - 👩‍🏭 Adds native Web Worker bundling support to Webpack.
-- [checkly/headless-recorder](https://github.com/checkly/headless-recorder) - 🎥 Headless recorder is a Chrome extension that records your browser interactions and generates a Playwright or Puppeteer script.
+- [checkly/headless-recorder](https://github.com/checkly/headless-recorder) - Chrome extension that records your browser interactions and generates a Playwright or Puppeteer script.
 - [google/wwwbasic](https://github.com/google/wwwbasic) - wwwBASIC is an implementation of BASIC that runs on Node.js and the Web.
 - [GoogleChromeLabs/idlize](https://github.com/GoogleChromeLabs/idlize) - Helper classes and methods for implementing the idle-until-urgent pattern
 - [rawilk/vue-context](https://github.com/rawilk/vue-context) - A simple vue context menu component.
@@ -4430,6 +4431,7 @@
 
 ## Jupyter Notebook 
 
+- [NeuralPushkin/Usefull](https://github.com/NeuralPushkin/Usefull) - Usefull papers, repos, tg chats etc
 - [TarunKumar1995-glitch/land_cover_classification_unet](https://github.com/TarunKumar1995-glitch/land_cover_classification_unet) - This repository contains code for implementing multi class semantic segmentation (specifically applied to satellite image classification) with PyTorch implementation of UNet.
 - [mnpinto/FireHR](https://github.com/mnpinto/FireHR) - 
 - [shakasom/multilabel-landcover-deeplearning](https://github.com/shakasom/multilabel-landcover-deeplearning) - Multi-label Land Cover Classification with Deep Learning
@@ -5732,7 +5734,6 @@
 - [jcjohnson/torch-rnn](https://github.com/jcjohnson/torch-rnn) - Efficient, reusable RNNs and LSTMs for torch
 - [facebookarchive/bAbI-tasks](https://github.com/facebookarchive/bAbI-tasks) - Task generation for testing text understanding and reasoning
 - [sunprinceS/Hierarchical-Attention-Model](https://github.com/sunprinceS/Hierarchical-Attention-Model) - :page_facing_up: HierAttModel for Question Answering
-- [jitsi/docker-jitsi-meet](https://github.com/jitsi/docker-jitsi-meet) - Jitsi Meet on Docker
 - [garythung/trashnet](https://github.com/garythung/trashnet) - Dataset of images of trash; Torch-based CNN for garbage image classification
 - [apache/apisix](https://github.com/apache/apisix) - The Cloud-Native API Gateway
 - [facebookarchive/MazeBase](https://github.com/facebookarchive/MazeBase) - Simple environment for creating very simple 2D games and training neural network models to perform tasks within them
@@ -6170,7 +6171,7 @@
 - [Mybridge/web-development-articles](https://github.com/Mybridge/web-development-articles) - Monthly Series - Top 10 Web Development Articles
 - [Mybridge/machine-learning-articles](https://github.com/Mybridge/machine-learning-articles) - Monthly Series - Top 10 Machine Learning Articles
 - [yeyintminthuhtut/Awesome-Red-Teaming](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming) - List of Awesome Red Teaming Resources
-- [mthenw/awesome-layers](https://github.com/mthenw/awesome-layers) - λ A curated list of awesome AWS Lambda Layers.
+- [mthenw/awesome-layers](https://github.com/mthenw/awesome-layers) - λ A curated list of awesome AWS Lambda Layers. Sponsored by https://cloudash.dev
 - [webpro/programming-principles](https://github.com/webpro/programming-principles) - Categorized overview of programming principles & design patterns
 - [FAQGURU/FAQGURU](https://github.com/FAQGURU/FAQGURU) - :school_satchel: :rocket: :tada: A list of interview questions. This repository is everything you need to prepare for your technical interview.
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
@@ -6927,6 +6928,9 @@
 
 ## Python 
 
+- [princeton-nlp/DensePhrases](https://github.com/princeton-nlp/DensePhrases) - ACL'2021: Learning Dense Representations of Phrases at Scale
+- [salesforce/CodeT5](https://github.com/salesforce/CodeT5) - 
+- [google-research/FLAN](https://github.com/google-research/FLAN) - 
 - [alibaba/AliceMind](https://github.com/alibaba/AliceMind) - 
 - [mlpack/benchmarks](https://github.com/mlpack/benchmarks) - Machine Learning Benchmark Scripts
 - [autonomousvision/neat](https://github.com/autonomousvision/neat) - [ICCV'21] NEAT: Neural Attention Fields for End-to-End Autonomous Driving
@@ -14142,7 +14146,7 @@
 - [Akryum/vue-virtual-scroller](https://github.com/Akryum/vue-virtual-scroller) - ⚡️ Blazing fast scrolling for any amount of data
 - [rowanwins/vue-dropzone](https://github.com/rowanwins/vue-dropzone) - A Vue.js component for Dropzone.js - a drag’n’drop file uploads utility with image previews
 - [fritx/vue-at](https://github.com/fritx/vue-at) - At.js for Vue.
-- [nuxt/nuxtjs.org](https://github.com/nuxt/nuxtjs.org) - NuxtJS Documentation Website
+- [nuxt/nuxtjs.org](https://github.com/nuxt/nuxtjs.org) - Nuxt Documentation Website
 - [Sopamo/vue-online](https://github.com/Sopamo/vue-online) - A reactive offline indicator component for vue.js
 - [TIGERB/easy-vue](https://github.com/TIGERB/easy-vue) - Learn vueJS Easily :ghost:
 - [axibase/atsd-use-cases](https://github.com/axibase/atsd-use-cases) - Axibase Time Series Database: Usage Examples and Research Articles
