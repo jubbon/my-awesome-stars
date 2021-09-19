@@ -2299,6 +2299,7 @@
 - [tc39/proposal-promise-any](https://github.com/tc39/proposal-promise-any) - ECMAScript proposal: Promise.any
 - [tc39/proposal-promise-allSettled](https://github.com/tc39/proposal-promise-allSettled) - ECMAScript Proposal, specs, and reference implementation for Promise.allSettled
 - [tc39/proposal-optional-catch-binding](https://github.com/tc39/proposal-optional-catch-binding) - proposal for ECMAScript to allow omission of the catch binding
+- [kmario23/deep-learning-drizzle](https://github.com/kmario23/deep-learning-drizzle) - Drench yourself in Deep Learning, Reinforcement Learning, Machine Learning, Computer Vision, and NLP by learning from these exciting lectures!!
 - [DankNeon/vscode](https://github.com/DankNeon/vscode) - A danker, more neon theme for VS Code
 - [Show-Me-the-Code/python](https://github.com/Show-Me-the-Code/python) - Show Me the Code Python version.
 - [hjacobs/kubernetes-failure-stories](https://github.com/hjacobs/kubernetes-failure-stories) - Compilation of public failure/horror stories related to Kubernetes
@@ -2609,6 +2610,7 @@
 - [elbamos/largeVis](https://github.com/elbamos/largeVis) - An implementation of the largeVis algorithm for visualizing large, high-dimensional datasets, for R
 - [google/ioweb2016](https://github.com/google/ioweb2016) - I/O web app 2016
 - [eliangcs/pystock-data](https://github.com/eliangcs/pystock-data) - (UNMAINTAINED) US stock market data since 2009
+- [jlord/patchwork](https://github.com/jlord/patchwork) - All the Git-it Workshop completers!
 - [electron/electron-api-demos](https://github.com/electron/electron-api-demos) - Explore the Electron APIs
 - [akoumjian/datefinder](https://github.com/akoumjian/datefinder) - Find dates inside text using Python and get back datetime objects
 - [wcember/pypub](https://github.com/wcember/pypub) - Python library to programatically create epub files
@@ -3436,7 +3438,7 @@
 - [Vincit/objection.js](https://github.com/Vincit/objection.js) - An SQL-friendly ORM for Node.js
 - [bradley/Blotter](https://github.com/bradley/Blotter) - A JavaScript API for drawing unconventional text effects on the web.
 - [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2) - A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies.
-- [yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) - 🕸  No-bullshit answers to the famous h5bp "Front-end Job Interview Questions"
+- [yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) - ⚡️ Front End interview preparation materials for busy engineers
 - [octref/polacode](https://github.com/octref/polacode) - 📸 Polaroid for your code
 - [threepointone/freezus](https://github.com/threepointone/freezus) - magic component for transitions between screens
 - [truedread/netflix-1080p](https://github.com/truedread/netflix-1080p) - Chrome extension to play Netflix in 1080p and 5.1
@@ -4623,7 +4625,7 @@
 - [tiepvupsu/ebookMLCB](https://github.com/tiepvupsu/ebookMLCB) - ebook Machine Learning cơ bản
 - [giswqs/earthengine-py-notebooks](https://github.com/giswqs/earthengine-py-notebooks) - A collection of 360+ Jupyter Python notebook examples for using Google Earth Engine with interactive mapping
 - [h2oai/h2o-3](https://github.com/h2oai/h2o-3) - H2O is an Open Source, Distributed, Fast & Scalable Machine Learning Platform: Deep Learning, Gradient Boosting (GBM) & XGBoost, Random Forest, Generalized Linear Modeling (GLM with Elastic Net), K-Means, PCA, Generalized Additive Models (GAM), RuleFit, Support Vector Machine (SVM), Stacked Ensembles, Automatic Machine Learning (AutoML), etc.
-- [DLSchool/deep_learning_2018-19](https://github.com/DLSchool/deep_learning_2018-19) - Официальный репозиторий курса Deep Learning (2018-2019) от Deep Learning School при ФПМИ МФТИ
+- [DLSchool/deep-learning-school](https://github.com/DLSchool/deep-learning-school) - Официальный репозиторий курса Deep Learning (2018-2019) от Deep Learning School при ФПМИ МФТИ
 - [liyin2015/Hands-on-Algorithmic-Problem-Solving](https://github.com/liyin2015/Hands-on-Algorithmic-Problem-Solving) - A middle-to-high level algorithm book designed with coding interview at heart!
 - [microsoft/c9-python-getting-started](https://github.com/microsoft/c9-python-getting-started) - Sample code for Channel 9 Python for Beginners course
 - [rasbt/stat453-deep-learning-ss20](https://github.com/rasbt/stat453-deep-learning-ss20) - STAT 453: Intro to Deep Learning @ UW-Madison (Spring 2020)
@@ -6135,7 +6137,6 @@
 - [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
 - [trimstray/technical-whitepapers](https://github.com/trimstray/technical-whitepapers) - Collection of IT whitepapers, presentations, pdfs; hacking, web app security, db, reverse engineering and more; EN/PL.
 - [myshov/awesome-mobile-web-development](https://github.com/myshov/awesome-mobile-web-development) - All that you need to create a great mobile web experience
-- [kmario23/deep-learning-drizzle](https://github.com/kmario23/deep-learning-drizzle) - Drench yourself in Deep Learning, Reinforcement Learning, Machine Learning, Computer Vision, and NLP by learning from these exciting lectures!!
 - [joelparkerhenderson/queueing-theory](https://github.com/joelparkerhenderson/queueing-theory) - Queueing theory: an introduction for software development
 - [trimstray/the-practical-linux-hardening-guide](https://github.com/trimstray/the-practical-linux-hardening-guide) - This guide details creating a secure Linux production system. OpenSCAP (C2S/CIS, STIG).
 - [opentraffic/architecture](https://github.com/opentraffic/architecture) - OTv1 overview
@@ -6928,7 +6929,7 @@
 
 ## Python 
 
-- [princeton-nlp/DensePhrases](https://github.com/princeton-nlp/DensePhrases) - ACL'2021: Learning Dense Representations of Phrases at Scale
+- [princeton-nlp/DensePhrases](https://github.com/princeton-nlp/DensePhrases) - ACL'2021: Learning Dense Representations of Phrases at Scale; EMNLP'2021: Phrase Retrieval Learns Passage Retrieval, Too
 - [salesforce/CodeT5](https://github.com/salesforce/CodeT5) - 
 - [google-research/FLAN](https://github.com/google-research/FLAN) - 
 - [alibaba/AliceMind](https://github.com/alibaba/AliceMind) - 
@@ -8898,7 +8899,7 @@
 - [pytorch/ignite](https://github.com/pytorch/ignite) - High-level library to help with training and evaluating neural networks in PyTorch flexibly and transparently.
 - [raghakot/keras-text](https://github.com/raghakot/keras-text) - Text Classification Library in Keras
 - [pgjones/quart](https://github.com/pgjones/quart) - Official mirror of https://gitlab.com/pgjones/quart
-- [AsynkronIT/protoactor-python](https://github.com/AsynkronIT/protoactor-python) - Proto Actor - Ultra fast distributed actors
+- [asynkron/protoactor-python](https://github.com/asynkron/protoactor-python) - Proto Actor - Ultra fast distributed actors
 - [chakki-works/sumeval](https://github.com/chakki-works/sumeval) - Well tested & Multi-language evaluation framework for text summarization.
 - [victordibia/handtracking](https://github.com/victordibia/handtracking) - Building a Real-time Hand-Detector using Neural Networks (SSD) on Tensorflow
 - [tf-coreml/tf-coreml](https://github.com/tf-coreml/tf-coreml) - TensorFlow to CoreML Converter
@@ -12981,7 +12982,6 @@
 ## Rich Text Format 
 
 - [github/dmca](https://github.com/github/dmca) - Repository with text of DMCA takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices. Users identified in the notices are presumed innocent until proven guilty. Additional information about our DMCA policy can be found at
-- [jlord/patchwork](https://github.com/jlord/patchwork) - All the Git-it Workshop completers!
 
 ## Roff 
 
