@@ -711,7 +711,7 @@
 - [aras-p/ToyPathTracer](https://github.com/aras-p/ToyPathTracer) - Toy path tracer for my own learning purposes (CPU/GPU, C++/C#, Win/Mac/Wasm, DX11/Metal, also Unity)
 - [OSGeo/gdal](https://github.com/OSGeo/gdal) - GDAL is an open source X/MIT licensed translator library for raster and vector geospatial data formats.
 - [NervanaSystems/ngraph](https://github.com/NervanaSystems/ngraph) - nGraph has moved to OpenVINO
-- [cheadaq/timer-benchmarks](https://github.com/cheadaq/timer-benchmarks) - Benchmark of different timer queue implementation(min-heap, red-black tree, timer vector)
+- [qchencd/timer-benchmarks](https://github.com/qchencd/timer-benchmarks) - Benchmark of different timer queue implementation(min-heap, red-black tree, timer vector)
 - [microsoft/service-fabric](https://github.com/microsoft/service-fabric) - Service Fabric is a distributed systems platform for packaging, deploying, and managing stateless and stateful distributed applications and containers at large scale.
 - [jacobdufault/cquery](https://github.com/jacobdufault/cquery) - C/C++ language server supporting multi-million line code base, powered by libclang. Emacs, Vim, VSCode, and others with language server protocol support. Cross references, completion, diagnostics, semantic highlighting and more
 - [malja/zroya](https://github.com/malja/zroya) - [Partialy working][Stale] Python extension for creating native Windows notifications.
@@ -2610,7 +2610,6 @@
 - [elbamos/largeVis](https://github.com/elbamos/largeVis) - An implementation of the largeVis algorithm for visualizing large, high-dimensional datasets, for R
 - [google/ioweb2016](https://github.com/google/ioweb2016) - I/O web app 2016
 - [eliangcs/pystock-data](https://github.com/eliangcs/pystock-data) - (UNMAINTAINED) US stock market data since 2009
-- [jlord/patchwork](https://github.com/jlord/patchwork) - All the Git-it Workshop completers!
 - [electron/electron-api-demos](https://github.com/electron/electron-api-demos) - Explore the Electron APIs
 - [akoumjian/datefinder](https://github.com/akoumjian/datefinder) - Find dates inside text using Python and get back datetime objects
 - [wcember/pypub](https://github.com/wcember/pypub) - Python library to programatically create epub files
@@ -2725,6 +2724,7 @@
 
 ## Java 
 
+- [aleksey52/key-value-storage](https://github.com/aleksey52/key-value-storage) - Key-value storage with thread operations for deleting entries on a schedule
 - [azkaban/azkaban](https://github.com/azkaban/azkaban) - Azkaban workflow manager.
 - [codelibs/fess](https://github.com/codelibs/fess) - Fess is very powerful and easily deployable Enterprise Search Server.
 - [vespa-engine/vespa](https://github.com/vespa-engine/vespa) - The open big data serving engine. https://vespa.ai
@@ -6448,7 +6448,7 @@
 - [berzerk0/Probable-Wordlists](https://github.com/berzerk0/Probable-Wordlists) - Version 2 is live! Wordlists sorted by probability originally created for password generation and testing - make sure your passwords aren't popular!
 - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
 - [alexpate/awesome-design-systems](https://github.com/alexpate/awesome-design-systems) - 💅🏻 ⚒ A collection of awesome design systems
-- [shirosaidev/diskover](https://github.com/shirosaidev/diskover) - File system crawler, disk space usage, file search engine and file system analytics powered by Elasticsearch
+- [diskoverdata/diskover-community](https://github.com/diskoverdata/diskover-community) - Diskover Community Edition - Open source file indexer, file search engine and data management and analytics powered by Elasticsearch
 - [iliakan/javascript-tutorial](https://github.com/iliakan/javascript-tutorial) - The Modern JavaScript Tutorial
 - [kallaway/100-days-of-code](https://github.com/kallaway/100-days-of-code) - Fork this template for the 100 days journal - to keep yourself accountable (multiple languages available)
 - [kailashahirwar/cheatsheets-ai](https://github.com/kailashahirwar/cheatsheets-ai) - Essential Cheat Sheets for deep learning and machine learning researchers https://medium.com/@kailashahirwar/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5
@@ -6929,6 +6929,7 @@
 
 ## Python 
 
+- [lehaifeng/SCAttNet](https://github.com/lehaifeng/SCAttNet) - Semantic Segmentation Network with Spatial and Channel Attention Mechanism for High-Resolution Remote Sensing Images
 - [princeton-nlp/DensePhrases](https://github.com/princeton-nlp/DensePhrases) - ACL'2021: Learning Dense Representations of Phrases at Scale; EMNLP'2021: Phrase Retrieval Learns Passage Retrieval, Too
 - [salesforce/CodeT5](https://github.com/salesforce/CodeT5) - 
 - [google-research/FLAN](https://github.com/google-research/FLAN) - 
@@ -12982,6 +12983,7 @@
 ## Rich Text Format 
 
 - [github/dmca](https://github.com/github/dmca) - Repository with text of DMCA takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices. Users identified in the notices are presumed innocent until proven guilty. Additional information about our DMCA policy can be found at
+- [jlord/patchwork](https://github.com/jlord/patchwork) - All the Git-it Workshop completers!
 
 ## Roff 
 
@@ -13662,7 +13664,7 @@
 - [ForbesLindesay/taxi-rank](https://github.com/ForbesLindesay/taxi-rank) - A JSDom based Selenium Webdriver API
 - [mil-tokyo/webdnn](https://github.com/mil-tokyo/webdnn) - The Fastest DNN Running Framework on Web Browser
 - [vuejs/devtools](https://github.com/vuejs/devtools) - ⚙️ Browser devtools extension for debugging Vue.js applications.
-- [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - NativeScript empowers you to access native api's from JavaScript directly. Angular, Capacitor, Ionic, React, Svelte, Vue and you name it compatible.
+- [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - NativeScript empowers you to access native platform APIs from JavaScript directly. Angular, Capacitor, Ionic, React, Svelte, Vue and you name it compatible.
 - [sindresorhus/caprine](https://github.com/sindresorhus/caprine) - Elegant Facebook Messenger desktop app
 - [airbnb/visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components
 - [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
