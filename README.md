@@ -76,6 +76,7 @@
   - [PostScript](#postscript)
   - [PowerShell](#powershell)
   - [Processing](#processing)
+  - [Prolog](#prolog)
   - [Protocol Buffer](#protocol-buffer)
   - [Pug](#pug)
   - [Puppet](#puppet)
@@ -1650,7 +1651,7 @@
 - [gunk/gunk](https://github.com/gunk/gunk) - Modern frontend and syntax for Protocol Buffers
 - [liamg/darktile](https://github.com/liamg/darktile) - :waning_crescent_moon: Darktile is a GPU rendered terminal emulator designed for tiling window managers.
 - [sourcegraph/sourcegraph](https://github.com/sourcegraph/sourcegraph) - Universal code search (self-hosted)
-- [crossplane/crossplane](https://github.com/crossplane/crossplane) - Manage any infrastructure your applications need directly from Kubernetes
+- [crossplane/crossplane](https://github.com/crossplane/crossplane) - Your Universal Control Plane
 - [dreadl0ck/netcap](https://github.com/dreadl0ck/netcap) - A framework for secure and scalable network traffic analysis - https://netcap.io
 - [isacikgoz/gitbatch](https://github.com/isacikgoz/gitbatch) - manage your git repositories in one place
 - [caddyserver/certmagic](https://github.com/caddyserver/certmagic) - Automatic HTTPS for any Go program: fully-managed TLS certificate issuance and renewal
@@ -2339,7 +2340,6 @@
 - [mciastek/sal](https://github.com/mciastek/sal) - 🚀 Performance focused, lightweight scroll animation library 🚀
 - [radareorg/r2con2018](https://github.com/radareorg/r2con2018) - 
 - [pythonindia/inpycon2018](https://github.com/pythonindia/inpycon2018) - PyCon India 2018 site
-- [guardian/frontend](https://github.com/guardian/frontend) - The Guardian DotCom.
 - [sayazamurai/python-vs-javascript](https://github.com/sayazamurai/python-vs-javascript) - 
 - [dhongu/deltatech](https://github.com/dhongu/deltatech) - Terrabit addons for Odoo
 - [firebase/quickstart-js](https://github.com/firebase/quickstart-js) - Firebase Quickstart Samples for Web
@@ -2946,7 +2946,7 @@
 - [activescott/serverless-aws-static-file-handler](https://github.com/activescott/serverless-aws-static-file-handler) - Easily serve static files with the Serverless Framework on AWS Lambda.
 - [jjimenezshaw/Leaflet.Control.Layers.Tree](https://github.com/jjimenezshaw/Leaflet.Control.Layers.Tree) - a Tree Layers Control for Leaflet
 - [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt) - Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨
-- [formium/tsdx](https://github.com/formium/tsdx) - Zero-config CLI for TypeScript package development
+- [jaredpalmer/tsdx](https://github.com/jaredpalmer/tsdx) - Zero-config CLI for TypeScript package development
 - [typescript-cheatsheets/react](https://github.com/typescript-cheatsheets/react) - Cheatsheets for experienced React developers getting started with TypeScript
 - [noahlevenson/stealing-ur-feelings](https://github.com/noahlevenson/stealing-ur-feelings) - Winner of Mozilla's $50,000 prize for art and advocacy exploring AI
 - [knrt10/kubernetes-basicLearning](https://github.com/knrt10/kubernetes-basicLearning) - Understand kubernetes step by step. A simple repo for beginners :fire:
@@ -3225,6 +3225,7 @@
 - [google/wwwbasic](https://github.com/google/wwwbasic) - wwwBASIC is an implementation of BASIC that runs on Node.js and the Web.
 - [GoogleChromeLabs/idlize](https://github.com/GoogleChromeLabs/idlize) - Helper classes and methods for implementing the idle-until-urgent pattern
 - [rawilk/vue-context](https://github.com/rawilk/vue-context) - A simple vue context menu component.
+- [guardian/frontend](https://github.com/guardian/frontend) - The Guardian DotCom.
 - [getgauge/taiko](https://github.com/getgauge/taiko) - A node.js library for testing modern web applications
 - [Dogstudio/Highway](https://github.com/Dogstudio/Highway) - Highway - A Modern Javascript Transitions Manager
 - [sqorn/sqorn](https://github.com/sqorn/sqorn) - A Javascript library for building SQL queries
@@ -5453,7 +5454,7 @@
 - [jakevdp/altair-examples](https://github.com/jakevdp/altair-examples) - Some examples of Altair plots
 - [jimfleming/numerai](https://github.com/jimfleming/numerai) - Code from my experiments on Numerai
 - [craffel/theano-tutorial](https://github.com/craffel/theano-tutorial) - A collection of tutorials on neural networks, using Theano
-- [epfml/ML_course](https://github.com/epfml/ML_course) - EPFL Machine Learning Course, Fall 2019
+- [epfml/ML_course](https://github.com/epfml/ML_course) - EPFL Machine Learning Course, Fall 2021
 - [hyh21521038/ssd-plate_detection](https://github.com/hyh21521038/ssd-plate_detection) - SSD-based  plate detection
 - [vkantor/MIPT_Data_Mining_In_Action_2016](https://github.com/vkantor/MIPT_Data_Mining_In_Action_2016) - "Data Mining in Action Course", Moscow Institute of Physics and Technologies
 - [AmazaspShumik/sklearn-bayes](https://github.com/AmazaspShumik/sklearn-bayes) - Python package for Bayesian Machine Learning with scikit-learn API
@@ -6628,7 +6629,7 @@
 - [raganwald/presentations](https://github.com/raganwald/presentations) - Conference Talks and Proposals
 - [Autoware-AI/autoware.ai](https://github.com/Autoware-AI/autoware.ai) - Open-source software for self-driving vehicles
 - [avevlad/russia-it-podcast](https://github.com/avevlad/russia-it-podcast) - Список русскоязычных подкастов на тему информационных технологий
-- [pstadler/keybase-gpg-github](https://github.com/pstadler/keybase-gpg-github) - Step-by-step guide on how to create a GPG key on keybase.io, adding it to a local GPG setup and use it with Git and GitHub.
+- [pstadler/keybase-gpg-github](https://github.com/pstadler/keybase-gpg-github) - Step-by-step guide on how to create a GPG key on keybase.io, adding it to a local GPG setup and using it with Git and GitHub.
 - [danklammer/bytesize-icons](https://github.com/danklammer/bytesize-icons) - Tiny style-controlled SVG iconset (101 icons, 12kb)
 - [vhpoet/react-native-styling-cheat-sheet](https://github.com/vhpoet/react-native-styling-cheat-sheet) - Most of the React Native styling material in one page
 - [hedengcheng/tech](https://github.com/hedengcheng/tech) - programming, database, distributed system
@@ -6899,6 +6900,10 @@
 - [shiffman/LearningProcessing](https://github.com/shiffman/LearningProcessing) - A repo for examples from the book Learning Processing
 - [processing-js/processing-js](https://github.com/processing-js/processing-js) - A port of the Processing visualization language to JavaScript.
 
+## Prolog 
+
+- [abeer-dyoub/EthicalEvalMAS](https://github.com/abeer-dyoub/EthicalEvalMAS) - A MAS system for ethical monitoring and evaluation of dialog systems
+
 ## Protocol Buffer 
 
 - [opentraffic/traffic-data-exchange-format](https://github.com/opentraffic/traffic-data-exchange-format) - OTv1: Binary location referencing format for exchanging traffic speed data
@@ -6929,6 +6934,10 @@
 
 ## Python 
 
+- [princeton-nlp/EntityQuestions](https://github.com/princeton-nlp/EntityQuestions) - EMNLP'2021: Simple Entity-centric Questions Challenge Dense Retrievers
+- [pyensemble/wildwood](https://github.com/pyensemble/wildwood) - Advanced random forest methods in Python
+- [facebookresearch/CompilerGym](https://github.com/facebookresearch/CompilerGym) - A reinforcement learning toolkit for compiler optimizations
+- [elblogbruno/NotionAI-MyMind](https://github.com/elblogbruno/NotionAI-MyMind) - This repo uses AI and the wonderful Notion to enable you to add anything on the web to your "Mind" and forget about everything else.
 - [lehaifeng/SCAttNet](https://github.com/lehaifeng/SCAttNet) - Semantic Segmentation Network with Spatial and Channel Attention Mechanism for High-Resolution Remote Sensing Images
 - [princeton-nlp/DensePhrases](https://github.com/princeton-nlp/DensePhrases) - ACL'2021: Learning Dense Representations of Phrases at Scale; EMNLP'2021: Phrase Retrieval Learns Passage Retrieval, Too
 - [salesforce/CodeT5](https://github.com/salesforce/CodeT5) - 
@@ -8314,7 +8323,7 @@
 - [wemake-services/flake8-eradicate](https://github.com/wemake-services/flake8-eradicate) - Flake8 plugin to find commented out or dead code
 - [HunterMcGushion/hyperparameter_hunter](https://github.com/HunterMcGushion/hyperparameter_hunter) - Easy hyperparameter optimization and automatic result saving across machine learning algorithms and libraries
 - [alicevision/meshroom](https://github.com/alicevision/meshroom) - 3D Reconstruction Software
-- [hi-primus/optimus](https://github.com/hi-primus/optimus) - :truck: Agile Data Preparation Workflows made easy with Pandas, Dask, cuDF, Dask-cuDF and PySpark
+- [hi-primus/optimus](https://github.com/hi-primus/optimus) - :truck: Agile Data Preparation Workflows made easy with Pandas, Dask, cuDF, Dask-cuDF, Vaex and PySpark
 - [tortoise/tortoise-orm](https://github.com/tortoise/tortoise-orm) - Familiar asyncio ORM for python, built with relations in mind
 - [asyml/texar](https://github.com/asyml/texar) - Toolkit for Machine Learning, Natural Language Processing, and Text Generation, in TensorFlow.  This is part of the CASL project: http://casl-project.ai/
 - [python-trio/trio-asyncio](https://github.com/python-trio/trio-asyncio) - a re-implementation of the asyncio mainloop on top of Trio
