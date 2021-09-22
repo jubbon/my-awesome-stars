@@ -499,7 +499,6 @@
 ## C++ 
 
 - [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne) - A Smart Ethernet Switch for Earth
-- [microsoft/onnxruntime-inference-examples](https://github.com/microsoft/onnxruntime-inference-examples) - Examples for using ONNX Runtime for machine learning inferencing.
 - [alex-petrenko/megaverse](https://github.com/alex-petrenko/megaverse) - High-throughput simulation platform for Artificial Intelligence reseach
 - [vcmi/vcmi](https://github.com/vcmi/vcmi) - Open-source engine for Heroes of Might and Magic III
 - [sberdevices/smartspeech](https://github.com/sberdevices/smartspeech) - 
@@ -542,7 +541,7 @@
 - [MultiMC/MultiMC5](https://github.com/MultiMC/MultiMC5) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once
 - [zealdocs/zeal](https://github.com/zealdocs/zeal) - Offline documentation browser inspired by Dash
 - [google/tink](https://github.com/google/tink) - Tink is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.
-- [wangyu-/udp2raw-tunnel](https://github.com/wangyu-/udp2raw-tunnel) - A Tunnel which Turns UDP Traffic into Encrypted UDP/FakeTCP/ICMP Traffic by using Raw Socket,helps you Bypass UDP FireWalls(or Unstable UDP Environment)
+- [wangyu-/udp2raw](https://github.com/wangyu-/udp2raw) - A Tunnel which Turns UDP Traffic into Encrypted UDP/FakeTCP/ICMP Traffic by using Raw Socket,helps you Bypass UDP FireWalls(or Unstable UDP Environment)
 - [google/re2](https://github.com/google/re2) - RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.
 - [erincatto/box2d](https://github.com/erincatto/box2d) - Box2D is a 2D physics engine for games
 - [Tencent/mars](https://github.com/Tencent/mars) - Mars is a cross-platform network component  developed by WeChat.
@@ -1898,7 +1897,7 @@
 - [projectcontour/contour](https://github.com/projectcontour/contour) - Contour is a Kubernetes ingress controller using Envoy proxy.
 - [neugram/ng](https://github.com/neugram/ng) - scripting language integrated with Go
 - [yudai/gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
-- [fireeye/gocrack](https://github.com/fireeye/gocrack) - GoCrack is a management frontend for password cracking tools written in Go
+- [mandiant/gocrack](https://github.com/mandiant/gocrack) - GoCrack is a management frontend for password cracking tools written in Go
 - [marcusolsson/tui-go](https://github.com/marcusolsson/tui-go) - A UI library for terminal applications.
 - [vedhavyas/cuckoo-filter](https://github.com/vedhavyas/cuckoo-filter) - Cuckoo Filter: Practically better than bloom filter
 - [brigadecore/brigade](https://github.com/brigadecore/brigade) - Event-driven scripting for Kubernetes
@@ -2911,6 +2910,7 @@
 - [David-Else/modern-typescript-with-examples-cheat-sheet](https://github.com/David-Else/modern-typescript-with-examples-cheat-sheet) - Fully printable summary of modern TypeScript language features with extensive examples to help you learn
 - [dillonzq/LoveIt](https://github.com/dillonzq/LoveIt) - ❤️A clean, elegant but advanced blog theme for Hugo 一个简洁、优雅且高效的 Hugo 主题
 - [eduardolundgren/tracking.js](https://github.com/eduardolundgren/tracking.js) - A modern approach for Computer Vision on the web
+- [rome/tools](https://github.com/rome/tools) - The Rome Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.
 - [vivekratnavel/omniboard](https://github.com/vivekratnavel/omniboard) - Web-based dashboard for Sacred
 - [jasonmayes/Real-Time-Person-Removal](https://github.com/jasonmayes/Real-Time-Person-Removal) - Removing people from complex backgrounds in real time using TensorFlow.js in the web browser
 - [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
@@ -3594,7 +3594,7 @@
 - [yishn/tikzcd-editor](https://github.com/yishn/tikzcd-editor) - A simple visual editor for creating commutative diagrams.
 - [franciscop/server](https://github.com/franciscop/server) - :desktop_computer: Simple and powerful server for Node.js
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (August 2021)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (September 2021)
 - [frappe/charts](https://github.com/frappe/charts) - Simple, responsive, modern SVG Charts with zero dependencies
 - [elesdoar/leaflet-control-orderlayers](https://github.com/elesdoar/leaflet-control-orderlayers) - Leaflet control with order functionality
 - [google/bottery](https://github.com/google/bottery) - 
@@ -4260,7 +4260,7 @@
 - [UDST/vizicities](https://github.com/UDST/vizicities) - A framework for 3D geospatial visualization in the browser
 - [jasmine/jasmine](https://github.com/jasmine/jasmine) - Simple JavaScript testing framework for browsers and node.js
 - [caolan/highland](https://github.com/caolan/highland) - High-level streams library for Node.js and the browser
-- [MrRio/jsPDF](https://github.com/MrRio/jsPDF) - Client-side JavaScript PDF generation for everyone.
+- [parallax/jsPDF](https://github.com/parallax/jsPDF) - Client-side JavaScript PDF generation for everyone.
 - [angular/angular.js](https://github.com/angular/angular.js) - AngularJS - HTML enhanced for web apps!
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
 - [Pylons/deform](https://github.com/Pylons/deform) - A Python HTML form library.
@@ -4305,7 +4305,6 @@
 - [kamalmarhubi/one-second](https://github.com/kamalmarhubi/one-second) - Fun performance game!
 - [datproject/dat](https://github.com/datproject/dat) - :floppy_disk: peer-to-peer sharing & live syncronization of files via command line
 - [ITLibertas/odoo-public-addons](https://github.com/ITLibertas/odoo-public-addons) - Addons for OpenERP (Odoo) by IT Libertas
-- [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
 - [beeware/batavia](https://github.com/beeware/batavia) - A JavaScript implementation of the Python virtual machine.
 - [blindmotion/dashboard](https://github.com/blindmotion/dashboard) - A tool for displaying both video and charts with data
 - [pinterest/pinball](https://github.com/pinterest/pinball) - Pinball is a scalable workflow manager
@@ -6934,6 +6933,7 @@
 
 ## Python 
 
+- [daeken/kdl-py](https://github.com/daeken/kdl-py) - Python implementation of the KDL Document Language
 - [princeton-nlp/EntityQuestions](https://github.com/princeton-nlp/EntityQuestions) - EMNLP'2021: Simple Entity-centric Questions Challenge Dense Retrievers
 - [pyensemble/wildwood](https://github.com/pyensemble/wildwood) - Advanced random forest methods in Python
 - [facebookresearch/CompilerGym](https://github.com/facebookresearch/CompilerGym) - A reinforcement learning toolkit for compiler optimizations
@@ -6962,6 +6962,7 @@
 - [sberdevices/smart_app_framework](https://github.com/sberdevices/smart_app_framework) - SmartApp Framework для создания навыков семейства Виртуальных Ассистентов "Салют" на языке Python
 - [deepmipt/dp-agent](https://github.com/deepmipt/dp-agent) - DeepPavlov Agent
 - [tiangolo/sqlmodel](https://github.com/tiangolo/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
+- [microsoft/onnxruntime-inference-examples](https://github.com/microsoft/onnxruntime-inference-examples) - Examples for using ONNX Runtime for machine learning inferencing.
 - [speechbrain/speechbrain](https://github.com/speechbrain/speechbrain) - A PyTorch-based Speech Toolkit
 - [onnx/optimizer](https://github.com/onnx/optimizer) - Actively maintained ONNX Optimizer
 - [easton-cau/SOTR](https://github.com/easton-cau/SOTR) - SOTR: Segmenting Objects with Transformers
@@ -7481,7 +7482,7 @@
 - [Mukosame/Zooming-Slow-Mo-CVPR-2020](https://github.com/Mukosame/Zooming-Slow-Mo-CVPR-2020) - Fast and Accurate One-Stage Space-Time Video Super-Resolution (accepted in CVPR 2020)
 - [mherrmann/selenium-python-helium](https://github.com/mherrmann/selenium-python-helium) - Selenium-python but lighter: Helium is the best Python library for web automation.
 - [shunsukesaito/PIFu](https://github.com/shunsukesaito/PIFu) - This repository contains the code for the paper "PIFu: Pixel-Aligned Implicit Function for High-Resolution Clothed Human Digitization"
-- [jindaxiang/akshare](https://github.com/jindaxiang/akshare) - AKShare is an elegant and simple financial data interface library for Python, built for human beings! 开源财经数据接口库
+- [akfamily/akshare](https://github.com/akfamily/akshare) - AKShare is an elegant and simple financial data interface library for Python, built for human beings! 开源财经数据接口库
 - [microsoft/tf-gnn-samples](https://github.com/microsoft/tf-gnn-samples) - TensorFlow implementations of Graph Neural Networks
 - [microsoft/tf2-gnn](https://github.com/microsoft/tf2-gnn) - TensorFlow 2 library implementing Graph Neural Networks
 - [oborchers/Fast_Sentence_Embeddings](https://github.com/oborchers/Fast_Sentence_Embeddings) - Compute Sentence Embeddings Fast!
@@ -7643,7 +7644,7 @@
 - [johnbywater/eventsourcing](https://github.com/johnbywater/eventsourcing) - A library for event sourcing in Python.
 - [dovpanda-dev/dovpanda](https://github.com/dovpanda-dev/dovpanda) - Directions overlay for working with pandas in an analysis environment
 - [facebookresearch/ClassyVision](https://github.com/facebookresearch/ClassyVision) - An end-to-end PyTorch framework for image and video classification
-- [Netflix/metaflow](https://github.com/Netflix/metaflow) - Build and manage real-life data science projects with ease.
+- [Netflix/metaflow](https://github.com/Netflix/metaflow) - Build and manage real-life data science projects with ease :rocket:
 - [gsurma/cartpole](https://github.com/gsurma/cartpole) - OpenAI's cartpole env solver.
 - [SantoshPattar/ConvNet-OOP](https://github.com/SantoshPattar/ConvNet-OOP) - ConvNet Implementation: An Object Oriented Approach using Keras API.
 - [philipperemy/keras-seq2seq-example](https://github.com/philipperemy/keras-seq2seq-example) - Toy Keras implementation of a seq2seq model with examples.
@@ -7755,7 +7756,7 @@
 - [CSAILVision/places365](https://github.com/CSAILVision/places365) - The Places365-CNNs for Scene Classification
 - [5vision/uct_atari](https://github.com/5vision/uct_atari) - uct tree search + supervised lerning for atari games
 - [huawei-noah/Efficient-Computing](https://github.com/huawei-noah/Efficient-Computing) - Efficient-Computing
-- [fireeye/stringsifter](https://github.com/fireeye/stringsifter) - A machine learning tool that ranks strings based on their relevance for malware analysis.
+- [mandiant/stringsifter](https://github.com/mandiant/stringsifter) - A machine learning tool that ranks strings based on their relevance for malware analysis.
 - [pypiserver/pypiserver](https://github.com/pypiserver/pypiserver) - Minimal PyPI server for uploading & downloading packages with pip/easy_install
 - [graykode/distribution-is-all-you-need](https://github.com/graykode/distribution-is-all-you-need) - The basic distribution probability Tutorial for Deep Learning Researchers
 - [nuno-faria/tiler](https://github.com/nuno-faria/tiler) - 👷 Build images with images
@@ -8822,7 +8823,7 @@
 - [MVIG-SJTU/AlphaPose](https://github.com/MVIG-SJTU/AlphaPose) - Real-Time and Accurate Full-Body Multi-Person Pose Estimation&Tracking System
 - [openai/deeptype](https://github.com/openai/deeptype) - Code for the paper "DeepType: Multilingual Entity Linking by Neural Type System Evolution"
 - [geek-ai/Texygen](https://github.com/geek-ai/Texygen) - A text generation benchmarking platform
-- [fireeye/ReelPhish](https://github.com/fireeye/ReelPhish) - 
+- [mandiant/ReelPhish](https://github.com/mandiant/ReelPhish) - 
 - [EyreFree/EFPodsAnalyzer](https://github.com/EyreFree/EFPodsAnalyzer) - CocoaPods dependency analysis tool.
 - [intoli/exodus](https://github.com/intoli/exodus) - Painless relocation of Linux binaries–and all of their dependencies–without containers.
 - [lukalabs/cakechat](https://github.com/lukalabs/cakechat) - CakeChat: Emotional Generative Dialog System
@@ -11361,6 +11362,7 @@
 - [gawel/pyquery](https://github.com/gawel/pyquery) - A jquery-like library for python
 - [yaolubrain/ULNNO](https://github.com/yaolubrain/ULNNO) - Unsupervised Learning on Neural Network Outputs
 - [casperkaae/parmesan](https://github.com/casperkaae/parmesan) - Variational and semi-supervised neural network toppings for Lasagne
+- [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
 - [satanas/Turpial](https://github.com/satanas/Turpial) - Twitter client written in Python. Light, fast, fully functional and integrated to the user desktop
 - [scikit-learn-contrib/metric-learn](https://github.com/scikit-learn-contrib/metric-learn) - Metric learning algorithms in Python
 - [itdxer/neupy](https://github.com/itdxer/neupy) - NeuPy is a Tensorflow based python library for prototyping and building neural networks
@@ -13460,7 +13462,6 @@
 - [lensapp/lens](https://github.com/lensapp/lens) - Lens - The Kubernetes IDE
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals
 - [pulumi/examples](https://github.com/pulumi/examples) - Infrastructure, containers, and serverless apps to AWS, Azure, GCP, and Kubernetes... all deployed with Pulumi
-- [rome/tools](https://github.com/rome/tools) - The Rome Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.
 - [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - Browser fingerprinting library with the highest accuracy and stability.
 - [facebookresearch/hiplot](https://github.com/facebookresearch/hiplot) - HiPlot makes understanding high dimensional data easy
 - [lostintangent/gistpad](https://github.com/lostintangent/gistpad) - VS Code extension for managing and sharing code snippets, notes and interactive samples using GitHub Gists
