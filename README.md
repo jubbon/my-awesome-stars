@@ -3630,6 +3630,7 @@
 - [aarondfrancis/vue-model](https://github.com/aarondfrancis/vue-model) - Model component for Vue.js
 - [davidroyer/vue2-editor](https://github.com/davidroyer/vue2-editor) - A text editor using Vue.js and Quill
 - [tralves/groceries-ns-vue](https://github.com/tralves/groceries-ns-vue) - 🍏 🍍 🍓 A NativeScript+Vue iOS and Android app for managing grocery lists
+- [thousandetherhomepage/ketherhomepage](https://github.com/thousandetherhomepage/ketherhomepage) - Own a piece of blockchain history!
 - [johndatserakis/file-upload-with-preview](https://github.com/johndatserakis/file-upload-with-preview) - 🖼 A simple file-upload utility that shows a preview of the uploaded image. Written in pure JavaScript. No dependencies. Works well with Bootstrap 4 or without a framework.
 - [ChainSafe/web3.js](https://github.com/ChainSafe/web3.js) - Ethereum JavaScript API
 - [akxcv/vuera](https://github.com/akxcv/vuera) - :eyes: Vue in React, React in Vue. Seamless integration of the two. :dancers:
@@ -4305,6 +4306,7 @@
 - [kamalmarhubi/one-second](https://github.com/kamalmarhubi/one-second) - Fun performance game!
 - [datproject/dat](https://github.com/datproject/dat) - :floppy_disk: peer-to-peer sharing & live syncronization of files via command line
 - [ITLibertas/odoo-public-addons](https://github.com/ITLibertas/odoo-public-addons) - Addons for OpenERP (Odoo) by IT Libertas
+- [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
 - [beeware/batavia](https://github.com/beeware/batavia) - A JavaScript implementation of the Python virtual machine.
 - [blindmotion/dashboard](https://github.com/blindmotion/dashboard) - A tool for displaying both video and charts with data
 - [pinterest/pinball](https://github.com/pinterest/pinball) - Pinball is a scalable workflow manager
@@ -4433,6 +4435,7 @@
 
 ## Jupyter Notebook 
 
+- [machine-learning-helpers/induction-python](https://github.com/machine-learning-helpers/induction-python) - Python source code derived from books about Machine Learning (ML)
 - [NeuralPushkin/Usefull](https://github.com/NeuralPushkin/Usefull) - Usefull papers, repos, tg chats etc
 - [TarunKumar1995-glitch/land_cover_classification_unet](https://github.com/TarunKumar1995-glitch/land_cover_classification_unet) - This repository contains code for implementing multi class semantic segmentation (specifically applied to satellite image classification) with PyTorch implementation of UNet.
 - [mnpinto/FireHR](https://github.com/mnpinto/FireHR) - 
@@ -5852,6 +5855,7 @@
 
 ## Others 
 
+- [Dyakonov/DL](https://github.com/Dyakonov/DL) - Курс "Глубокое обучение (Deep Learning)" (ВМК, МГУ имени М.В. Ломоносова)
 - [khangich/machine-learning-interview](https://github.com/khangich/machine-learning-interview) - Machine Learning Interviews from FAAG, Snapchat, LinkedIn. I have offers from Snapchat, Coupang, Stitchfix etc. Blog: mlengineer.io.
 - [chrieke/awesome-satellite-imagery-datasets](https://github.com/chrieke/awesome-satellite-imagery-datasets) - 🛰️ List of satellite image training datasets with annotations for computer vision and deep learning
 - [cedrickchee/awesome-ml-model-compression](https://github.com/cedrickchee/awesome-ml-model-compression) - Awesome machine learning model compression research papers, tools, and learning material.
@@ -6933,6 +6937,8 @@
 
 ## Python 
 
+- [snakers4/silero-vad](https://github.com/snakers4/silero-vad) - Silero VAD: pre-trained enterprise-grade Voice Activity and Number Detector
+- [wonjongg/StyleCariGAN](https://github.com/wonjongg/StyleCariGAN) - Official implementation of "StyleCariGAN: Caricature Generation via StyleGAN Feature Map Modulation" (SIGGRAPH 2021)
 - [daeken/kdl-py](https://github.com/daeken/kdl-py) - Python implementation of the KDL Document Language
 - [princeton-nlp/EntityQuestions](https://github.com/princeton-nlp/EntityQuestions) - EMNLP'2021: Simple Entity-centric Questions Challenge Dense Retrievers
 - [pyensemble/wildwood](https://github.com/pyensemble/wildwood) - Advanced random forest methods in Python
@@ -8022,7 +8028,7 @@
 - [huggingface/pytorch-pretrained-BigGAN](https://github.com/huggingface/pytorch-pretrained-BigGAN) - 🦋A PyTorch implementation of BigGAN with pretrained weights and conversion scripts.
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [Wookai/paper-tips-and-tricks](https://github.com/Wookai/paper-tips-and-tricks) - Best practice and tips & tricks to write scientific papers in LaTeX, with figures generated in Python or Matlab.
-- [SharpAI/DeepCamera](https://github.com/SharpAI/DeepCamera) - Open Source Face Recognition AI NVR
+- [SharpAI/DeepCamera](https://github.com/SharpAI/DeepCamera) - Machine Learning On The Edge, turn your Camera into AI-powered with Jetson Nano
 - [singh-shreya6/Navigation-Assistant](https://github.com/singh-shreya6/Navigation-Assistant) - A Navigation Assistant for the visually impaired using Speech to Text, Object Detection and Text to Speech in python
 - [sharif1093/digideep](https://github.com/sharif1093/digideep) - A Deep Reinforcement Learning (DeepRL) package for RL algorithm developers.
 - [zjhuang22/maskscoring_rcnn](https://github.com/zjhuang22/maskscoring_rcnn) - Codes for paper "Mask Scoring R-CNN".
@@ -10144,7 +10150,7 @@
 - [ctuning/ck-tensorflow](https://github.com/ctuning/ck-tensorflow) - Collective Knowledge components for TensorFlow (code, data sets, models, packages, workflows):
 - [romanvm/python-web-pdb](https://github.com/romanvm/python-web-pdb) - Web-based remote UI for Python's PDB debugger
 - [ctuning/ck-autotuning](https://github.com/ctuning/ck-autotuning) - CK automation actions to let users implement portable, customizable and reusable program workflows for reproducible, collaborative and multi-objective benchmarking, optimization and SW/HW co-design:
-- [mlcommons/ck](https://github.com/mlcommons/ck) - Collective Knowledge framework (CK) helps to organize software projects as a database of reusable components, automation recipes and portable workflows with common APIs and extensible meta descriptions based on FAIR principles. See the real-world use cases to support reproducible MLSys R&D, enable portable MLOps and automate ML/SW/HW co-design:
+- [mlcommons/ck](https://github.com/mlcommons/ck) - The Collective Knowledge project (CK) aims at making it easier to design, benchmark, optimize and deploy Machine Learning Systems in the real world across continuously evolving software, hardware and data sets with the help of the community. See MLPerf inference benchmark automation use case powered by CK:
 - [somewacko/deconvfaces](https://github.com/somewacko/deconvfaces) - Generating faces with deconvolution networks
 - [kootenpv/whereami](https://github.com/kootenpv/whereami) - Uses WiFi signals :signal_strength: and machine learning to predict where you are
 - [openimages/dataset](https://github.com/openimages/dataset) - The Open Images dataset
@@ -11362,7 +11368,6 @@
 - [gawel/pyquery](https://github.com/gawel/pyquery) - A jquery-like library for python
 - [yaolubrain/ULNNO](https://github.com/yaolubrain/ULNNO) - Unsupervised Learning on Neural Network Outputs
 - [casperkaae/parmesan](https://github.com/casperkaae/parmesan) - Variational and semi-supervised neural network toppings for Lasagne
-- [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
 - [satanas/Turpial](https://github.com/satanas/Turpial) - Twitter client written in Python. Light, fast, fully functional and integrated to the user desktop
 - [scikit-learn-contrib/metric-learn](https://github.com/scikit-learn-contrib/metric-learn) - Metric learning algorithms in Python
 - [itdxer/neupy](https://github.com/itdxer/neupy) - NeuPy is a Tensorflow based python library for prototyping and building neural networks
@@ -14069,7 +14074,6 @@
 - [krystalcampioni/vue-hotel-datepicker](https://github.com/krystalcampioni/vue-hotel-datepicker) - Vue date range picker component
 - [visma-meglerfront/sweet-modal-vue](https://github.com/visma-meglerfront/sweet-modal-vue) - The sweetest library to happen to modals.
 - [fuse-box/fuse-box-vue-seed](https://github.com/fuse-box/fuse-box-vue-seed) - Get started with Vue.js using FuseBox module loader and bundler
-- [thousandetherhomepage/ketherhomepage](https://github.com/thousandetherhomepage/ketherhomepage) - Own a piece of blockchain history!
 - [odranoelBR/vue-quasar-admin-example](https://github.com/odranoelBR/vue-quasar-admin-example) - Example of quasar admin
 - [yTakkar/Vue-Mini-Social-Network](https://github.com/yTakkar/Vue-Mini-Social-Network) - A reactive mini-social-network created with Vue!! 🏳️‍🌈🤞 - No longer maintained.
 - [Requarks/wiki](https://github.com/Requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
