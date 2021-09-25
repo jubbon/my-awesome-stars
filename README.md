@@ -498,6 +498,7 @@
 
 ## C++ 
 
+- [GTAmodding/re3](https://github.com/GTAmodding/re3) - GTA III, Vice City
 - [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne) - A Smart Ethernet Switch for Earth
 - [alex-petrenko/megaverse](https://github.com/alex-petrenko/megaverse) - High-throughput simulation platform for Artificial Intelligence reseach
 - [vcmi/vcmi](https://github.com/vcmi/vcmi) - Open-source engine for Heroes of Might and Magic III
@@ -1497,7 +1498,7 @@
 
 ## Fortran 
 
-- [pymc-devs/pymc](https://github.com/pymc-devs/pymc) - THIS IS THE **OLD** PYMC PROJECT. PLEASE USE PYMC3 INSTEAD:
+- [pymc-devs/pymc2](https://github.com/pymc-devs/pymc2) - THIS IS THE **OLD** PYMC PROJECT. PLEASE USE PYMC3 INSTEAD:
 
 ## FreeMarker 
 
@@ -2187,6 +2188,7 @@
 
 ## HCL 
 
+- [wandb/local](https://github.com/wandb/local) - W&B Local is the self hosted version of Weights & Biases
 - [jcolemorrison/vault-on-aws](https://github.com/jcolemorrison/vault-on-aws) - A secure Vault for secrets, tokens, keys,  passwords, and more.  Automated deployment with Terraform on AWS.  Configurable options for security and scalability.  Usable with any applications and services hosted anywhere.
 - [antonbabenko/terraform-best-practices](https://github.com/antonbabenko/terraform-best-practices) - Terraform best practices (constantly updating)
 - [hashicorp/best-practices](https://github.com/hashicorp/best-practices) - 
@@ -2910,7 +2912,6 @@
 - [David-Else/modern-typescript-with-examples-cheat-sheet](https://github.com/David-Else/modern-typescript-with-examples-cheat-sheet) - Fully printable summary of modern TypeScript language features with extensive examples to help you learn
 - [dillonzq/LoveIt](https://github.com/dillonzq/LoveIt) - ❤️A clean, elegant but advanced blog theme for Hugo 一个简洁、优雅且高效的 Hugo 主题
 - [eduardolundgren/tracking.js](https://github.com/eduardolundgren/tracking.js) - A modern approach for Computer Vision on the web
-- [rome/tools](https://github.com/rome/tools) - The Rome Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.
 - [vivekratnavel/omniboard](https://github.com/vivekratnavel/omniboard) - Web-based dashboard for Sacred
 - [jasonmayes/Real-Time-Person-Removal](https://github.com/jasonmayes/Real-Time-Person-Removal) - Removing people from complex backgrounds in real time using TensorFlow.js in the web browser
 - [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
@@ -3749,7 +3750,7 @@
 - [vuejs/vue-router](https://github.com/vuejs/vue-router) - 🚦 The official router for Vue.js.
 - [vuejs/vue-touch](https://github.com/vuejs/vue-touch) - Hammer.js wrapper for Vue.js
 - [SimulatedGREG/electron-vue](https://github.com/SimulatedGREG/electron-vue) - An Electron & Vue.js quick start boilerplate with vue-cli scaffolding, common Vue plugins, electron-packager/electron-builder, unit/e2e testing, vue-devtools, and webpack.
-- [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies in tech.
+- [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies (jobs) in tech.
 - [datproject/docs](https://github.com/datproject/docs) - Documentation resources for dat and the surrounding ecosystem
 - [rhiokim/flybook](https://github.com/rhiokim/flybook) - :airplane: FlyBook is a simple utility to generate static website such as gh-pages, manual of you projects
 - [odoo/documentation](https://github.com/odoo/documentation) - Odoo documentation sources
@@ -3896,7 +3897,7 @@
 - [FGRibreau/gron](https://github.com/FGRibreau/gron) - gron - Make JSON greppable!
 - [WhitestormJS/whs.js](https://github.com/WhitestormJS/whs.js) - :rocket: 🌪 Super-fast 3D framework for Web Applications 🥇 & Games 🎮. Based on Three.js
 - [JoneXiong/DjangoX](https://github.com/JoneXiong/DjangoX) - A web GUI suite for Django ORM data or API data management
-- [visgl/deck.gl](https://github.com/visgl/deck.gl) - WebGL2 powered geospatial visualization layers
+- [visgl/deck.gl](https://github.com/visgl/deck.gl) - WebGL2 powered visualization framework
 - [GetStream/Winds](https://github.com/GetStream/Winds) - A Beautiful Open Source RSS & Podcast App Powered by Getstream.io
 - [xviniette/FlappyLearning](https://github.com/xviniette/FlappyLearning) - Program learning to play Flappy Bird by machine learning (Neuroevolution)
 - [muaz-khan/RTCMultiConnection](https://github.com/muaz-khan/RTCMultiConnection) - RTCMultiConnection is a WebRTC JavaScript library for peer-to-peer applications (screen sharing, audio/video conferencing, file sharing, media streaming etc.)
@@ -4306,7 +4307,6 @@
 - [kamalmarhubi/one-second](https://github.com/kamalmarhubi/one-second) - Fun performance game!
 - [datproject/dat](https://github.com/datproject/dat) - :floppy_disk: peer-to-peer sharing & live syncronization of files via command line
 - [ITLibertas/odoo-public-addons](https://github.com/ITLibertas/odoo-public-addons) - Addons for OpenERP (Odoo) by IT Libertas
-- [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
 - [beeware/batavia](https://github.com/beeware/batavia) - A JavaScript implementation of the Python virtual machine.
 - [blindmotion/dashboard](https://github.com/blindmotion/dashboard) - A tool for displaying both video and charts with data
 - [pinterest/pinball](https://github.com/pinterest/pinball) - Pinball is a scalable workflow manager
@@ -5164,7 +5164,6 @@
 - [fnielsen/afinn](https://github.com/fnielsen/afinn) - AFINN sentiment analysis in Python
 - [MIT-LCP/mimic-code](https://github.com/MIT-LCP/mimic-code) - MIMIC Code Repository: Code shared by the research community for the MIMIC-III database
 - [authman/DAT210x](https://github.com/authman/DAT210x) - Programming with Python for Data Science Microsoft
-- [QuantScientist/Deep-Learning-Boot-Camp](https://github.com/QuantScientist/Deep-Learning-Boot-Camp) - A  community run, 5-day PyTorch Deep Learning Bootcamp
 - [fchollet/deep-learning-with-python-notebooks](https://github.com/fchollet/deep-learning-with-python-notebooks) - Jupyter notebooks for the code samples of the book "Deep Learning with Python"
 - [exacity/simplified-deeplearning](https://github.com/exacity/simplified-deeplearning) - Simplified implementations of deep learning related works
 - [leotac/joypy](https://github.com/leotac/joypy) - Joyplots in Python with matplotlib & pandas :chart_with_upwards_trend:
@@ -5252,7 +5251,6 @@
 - [jonbruner/generative-adversarial-networks](https://github.com/jonbruner/generative-adversarial-networks) - Introduction to generative adversarial networks, with code to accompany the O'Reilly tutorial on GANs
 - [j-min/tf_tutorial_plus](https://github.com/j-min/tf_tutorial_plus) - Tutorials for TensorFlow APIs the official documentation doesn't cover
 - [imalikshake/StyleNet](https://github.com/imalikshake/StyleNet) - A cute multi-layer LSTM that can perform like a human  🎶
-- [QuantScientist/deep-ml-meetups](https://github.com/QuantScientist/deep-ml-meetups) - A central repository for all my projects
 - [bioinf-jku/SNNs](https://github.com/bioinf-jku/SNNs) - Tutorials and implementations for "Self-normalizing networks"
 - [mdeff/fma](https://github.com/mdeff/fma) - FMA: A Dataset For Music Analysis
 - [deepmind/dsprites-dataset](https://github.com/deepmind/dsprites-dataset) - Dataset to assess the disentanglement properties of unsupervised learning methods
@@ -5855,6 +5853,7 @@
 
 ## Others 
 
+- [huawei-university/nlp-course-projects](https://github.com/huawei-university/nlp-course-projects) - Projects from students of NLP Course
 - [Dyakonov/DL](https://github.com/Dyakonov/DL) - Курс "Глубокое обучение (Deep Learning)" (ВМК, МГУ имени М.В. Ломоносова)
 - [khangich/machine-learning-interview](https://github.com/khangich/machine-learning-interview) - Machine Learning Interviews from FAAG, Snapchat, LinkedIn. I have offers from Snapchat, Coupang, Stitchfix etc. Blog: mlengineer.io.
 - [chrieke/awesome-satellite-imagery-datasets](https://github.com/chrieke/awesome-satellite-imagery-datasets) - 🛰️ List of satellite image training datasets with annotations for computer vision and deep learning
@@ -6257,7 +6256,7 @@
 - [ConsenSys/ethereum-developer-tools-list](https://github.com/ConsenSys/ethereum-developer-tools-list) - A guide to available tools and platforms for developing on Ethereum.
 - [kimond/awesome-statusbars](https://github.com/kimond/awesome-statusbars) - A curated list of awesome statusbars.
 - [roscom-hvatit/dovolno](https://github.com/roscom-hvatit/dovolno) - Российские разработчики Роскомнадзору
-- [infosecn1nja/Red-Teaming-Toolkit](https://github.com/infosecn1nja/Red-Teaming-Toolkit) - A collection of open source and commercial tools that aid in red team operations.
+- [infosecn1nja/Red-Teaming-Toolkit](https://github.com/infosecn1nja/Red-Teaming-Toolkit) - This repository contains cutting-edge open-source security tools (OST) for red teamer.
 - [wtsxDev/Penetration-Testing](https://github.com/wtsxDev/Penetration-Testing) - List of awesome penetration testing resources, tools and other shiny things
 - [styfle/awesome-online-ide](https://github.com/styfle/awesome-online-ide) - 🌩️ A list of awesome online development environments
 - [gitpitch/templates](https://github.com/gitpitch/templates) - [DEPRECATED] GitPitch Markdown Presentation Templates
@@ -6937,6 +6936,8 @@
 
 ## Python 
 
+- [salesforce/Merlion](https://github.com/salesforce/Merlion) - Merlion: A Machine Learning Framework for Time Series Intelligence
+- [chakki-works/seqeval](https://github.com/chakki-works/seqeval) - A Python framework for sequence labeling evaluation(named-entity recognition, pos tagging, etc...)
 - [snakers4/silero-vad](https://github.com/snakers4/silero-vad) - Silero VAD: pre-trained enterprise-grade Voice Activity and Number Detector
 - [wonjongg/StyleCariGAN](https://github.com/wonjongg/StyleCariGAN) - Official implementation of "StyleCariGAN: Caricature Generation via StyleGAN Feature Map Modulation" (SIGGRAPH 2021)
 - [daeken/kdl-py](https://github.com/daeken/kdl-py) - Python implementation of the KDL Document Language
@@ -8028,7 +8029,7 @@
 - [huggingface/pytorch-pretrained-BigGAN](https://github.com/huggingface/pytorch-pretrained-BigGAN) - 🦋A PyTorch implementation of BigGAN with pretrained weights and conversion scripts.
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [Wookai/paper-tips-and-tricks](https://github.com/Wookai/paper-tips-and-tricks) - Best practice and tips & tricks to write scientific papers in LaTeX, with figures generated in Python or Matlab.
-- [SharpAI/DeepCamera](https://github.com/SharpAI/DeepCamera) - Machine Learning On The Edge, turn your Camera into AI-powered with Jetson Nano
+- [SharpAI/DeepCamera](https://github.com/SharpAI/DeepCamera) - AI Face Recognition NVR. Machine Learning On The Edge, turn your Camera into AI-powered with Jetson Nano
 - [singh-shreya6/Navigation-Assistant](https://github.com/singh-shreya6/Navigation-Assistant) - A Navigation Assistant for the visually impaired using Speech to Text, Object Detection and Text to Speech in python
 - [sharif1093/digideep](https://github.com/sharif1093/digideep) - A Deep Reinforcement Learning (DeepRL) package for RL algorithm developers.
 - [zjhuang22/maskscoring_rcnn](https://github.com/zjhuang22/maskscoring_rcnn) - Codes for paper "Mask Scoring R-CNN".
@@ -10150,7 +10151,7 @@
 - [ctuning/ck-tensorflow](https://github.com/ctuning/ck-tensorflow) - Collective Knowledge components for TensorFlow (code, data sets, models, packages, workflows):
 - [romanvm/python-web-pdb](https://github.com/romanvm/python-web-pdb) - Web-based remote UI for Python's PDB debugger
 - [ctuning/ck-autotuning](https://github.com/ctuning/ck-autotuning) - CK automation actions to let users implement portable, customizable and reusable program workflows for reproducible, collaborative and multi-objective benchmarking, optimization and SW/HW co-design:
-- [mlcommons/ck](https://github.com/mlcommons/ck) - The Collective Knowledge project (CK) aims at making it easier to design, benchmark, optimize and deploy Machine Learning Systems in the real world across continuously evolving software, hardware and data sets with the help of the community. See MLPerf inference benchmark automation use case powered by CK:
+- [mlcommons/ck](https://github.com/mlcommons/ck) - The Collective Knowledge framework (CK) aims at making it easier to design, benchmark, optimize and deploy Machine Learning Systems in the real world across continuously evolving software, hardware and data sets with the help of the community. See MLPerf inference benchmark automation use case powered by CK:
 - [somewacko/deconvfaces](https://github.com/somewacko/deconvfaces) - Generating faces with deconvolution networks
 - [kootenpv/whereami](https://github.com/kootenpv/whereami) - Uses WiFi signals :signal_strength: and machine learning to predict where you are
 - [openimages/dataset](https://github.com/openimages/dataset) - The Open Images dataset
@@ -11110,7 +11111,7 @@
 - [stephenmcd/cartridge](https://github.com/stephenmcd/cartridge) - Ecommerce for Mezzanine
 - [stephenmcd/mezzanine](https://github.com/stephenmcd/mezzanine) - CMS framework for Django
 - [feincms/feincms](https://github.com/feincms/feincms) - A Django-based CMS with a focus on extensibility and concise code
-- [django-cms/django-cms](https://github.com/django-cms/django-cms) - The easy-to-use and developer-friendly CMS
+- [django-cms/django-cms](https://github.com/django-cms/django-cms) - The easy-to-use and developer-friendly enterprise CMS powered by Django
 - [django-guardian/django-guardian](https://github.com/django-guardian/django-guardian) - Per object permissions for Django
 - [neuman/python-carteblanche](https://github.com/neuman/python-carteblanche) - Module to align code with thoughts of users and designers.  Also magically handles navigation and permissions.
 - [webpy/webpy](https://github.com/webpy/webpy) - web.py is a web framework for python that is as simple as it is powerful.
@@ -11368,6 +11369,7 @@
 - [gawel/pyquery](https://github.com/gawel/pyquery) - A jquery-like library for python
 - [yaolubrain/ULNNO](https://github.com/yaolubrain/ULNNO) - Unsupervised Learning on Neural Network Outputs
 - [casperkaae/parmesan](https://github.com/casperkaae/parmesan) - Variational and semi-supervised neural network toppings for Lasagne
+- [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
 - [satanas/Turpial](https://github.com/satanas/Turpial) - Twitter client written in Python. Light, fast, fully functional and integrated to the user desktop
 - [scikit-learn-contrib/metric-learn](https://github.com/scikit-learn-contrib/metric-learn) - Metric learning algorithms in Python
 - [itdxer/neupy](https://github.com/itdxer/neupy) - NeuPy is a Tensorflow based python library for prototyping and building neural networks
@@ -12819,7 +12821,7 @@
 - [getlogbook/logbook](https://github.com/getlogbook/logbook) - A cool logging replacement for Python.
 - [joblib/pyreport](https://github.com/joblib/pyreport) - Generate reports out of python scripts
 - [python-pillow/Pillow](https://github.com/python-pillow/Pillow) - The friendly PIL fork (Python Imaging Library)
-- [mathics/Mathics](https://github.com/mathics/Mathics) - This repository if for archival. Please see https://Mathics3/mathics-core
+- [mathics/Mathics](https://github.com/mathics/Mathics) - This repository if for archival. Please see https://github.com/Mathics3/mathics-core
 - [NahimNasser/django-unchained](https://github.com/NahimNasser/django-unchained) - Introduction to Python and Django
 - [DVS-devtools/Reding](https://github.com/DVS-devtools/Reding) - Rating on Redis - REST API on Flask
 - [alonho/pql](https://github.com/alonho/pql) - A python expression to MongoDB query translator
@@ -13088,6 +13090,7 @@
 - [yaa110/nomino](https://github.com/yaa110/nomino) - Batch rename utility for developers
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
+- [rome/tools](https://github.com/rome/tools) - The Rome Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.
 - [huggingface/tokenizers](https://github.com/huggingface/tokenizers) - 💥 Fast State-of-the-Art Tokenizers optimized for Research and Production
 - [MailRuChamps/raic-2019](https://github.com/MailRuChamps/raic-2019) - Russian AI Cup — artificial intelligence programming contest. Official website: http://russianaicup.ru
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
@@ -13134,7 +13137,7 @@
 - [creativetimofficial/vue-light-bootstrap-dashboard](https://github.com/creativetimofficial/vue-light-bootstrap-dashboard) - Vue Light Bootstrap Dashboard - FREE BOOTSTRAP 4 VUEJS ADMIN TEMPLATE
 - [papercss/papercss](https://github.com/papercss/papercss) - The Less Formal CSS Framework
 - [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - My cheatsheets
-- [elixirschool/elixirschool](https://github.com/elixirschool/elixirschool) - Premier destination to learn and master the Elixir programming language
+- [elixirschool/elixirschool](https://github.com/elixirschool/elixirschool) - The content behind Elixir School
 - [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 - [Slicejack/bojler](https://github.com/Slicejack/bojler) - Bojler is an email framework
 - [Kikobeats/js-mythbusters](https://github.com/Kikobeats/js-mythbusters) - :ghost: STHAP js, where is my perfomance?
@@ -13440,6 +13443,7 @@
 
 ## TypeScript 
 
+- [aimhubio/aim](https://github.com/aimhubio/aim) - Aim — a super-easy way to record, search and compare 1000s of ML training runs
 - [microsoft/VoTT](https://github.com/microsoft/VoTT) - Visual Object Tagging Tool: An electron app for building end to end Object Detection Models from Images and Videos.
 - [mrjackphil/obsidian-note-uid](https://github.com/mrjackphil/obsidian-note-uid) - 
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
