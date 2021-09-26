@@ -6256,7 +6256,7 @@
 - [ConsenSys/ethereum-developer-tools-list](https://github.com/ConsenSys/ethereum-developer-tools-list) - A guide to available tools and platforms for developing on Ethereum.
 - [kimond/awesome-statusbars](https://github.com/kimond/awesome-statusbars) - A curated list of awesome statusbars.
 - [roscom-hvatit/dovolno](https://github.com/roscom-hvatit/dovolno) - Российские разработчики Роскомнадзору
-- [infosecn1nja/Red-Teaming-Toolkit](https://github.com/infosecn1nja/Red-Teaming-Toolkit) - This repository contains cutting-edge open-source security tools (OST) for red teamer.
+- [infosecn1nja/Red-Teaming-Toolkit](https://github.com/infosecn1nja/Red-Teaming-Toolkit) - This repository contains cutting-edge open-source security tools (OST) for a red teamer and threat hunter.
 - [wtsxDev/Penetration-Testing](https://github.com/wtsxDev/Penetration-Testing) - List of awesome penetration testing resources, tools and other shiny things
 - [styfle/awesome-online-ide](https://github.com/styfle/awesome-online-ide) - 🌩️ A list of awesome online development environments
 - [gitpitch/templates](https://github.com/gitpitch/templates) - [DEPRECATED] GitPitch Markdown Presentation Templates
@@ -6423,6 +6423,7 @@
 - [FuzzySecurity/DefCon25](https://github.com/FuzzySecurity/DefCon25) - UAC 0day, all day!
 - [learn-anything/books](https://github.com/learn-anything/books) - Awesome Books
 - [bahlo/go-styleguide](https://github.com/bahlo/go-styleguide) - 🏆 Opinionated Styleguide for the Go language
+- [elixirschool/elixirschool](https://github.com/elixirschool/elixirschool) - The content behind Elixir School
 - [brannondorsey/wifi-cracking](https://github.com/brannondorsey/wifi-cracking) - Crack WPA/WPA2 Wi-Fi Routers with Airodump-ng and Aircrack-ng/Hashcat
 - [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
 - [thejsway/thejsway](https://github.com/thejsway/thejsway) - The JavaScript Way book
@@ -7177,7 +7178,7 @@
 - [AllenInstitute/deepinterpolation](https://github.com/AllenInstitute/deepinterpolation) - 
 - [facebookresearch/SentAugment](https://github.com/facebookresearch/SentAugment) - SentAugment is a data augmentation technique for NLP that retrieves similar sentences from a large bank of sentences. It can be used in combination with self-training and knowledge-distillation, or for retrieving paraphrases.
 - [LeeDoYup/FixMatch-pytorch](https://github.com/LeeDoYup/FixMatch-pytorch) - Unofficial Pytorch code for  "FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence" in NeurIPS'20. This repo contains reproduced checkpoints.
-- [cool-RR/grid_royale](https://github.com/cool-RR/grid_royale) - A life simulation for exploring social dynamics
+- [cool-RR/marley](https://github.com/cool-RR/marley) - A framework for multi-agent reinforcement learning.
 - [psinger/kaggle-landmark-recognition-2020-1st-place](https://github.com/psinger/kaggle-landmark-recognition-2020-1st-place) - 
 - [lucidrains/vit-pytorch](https://github.com/lucidrains/vit-pytorch) - Implementation of Vision Transformer, a simple way to achieve SOTA in vision classification with only a single transformer encoder, in Pytorch
 - [genforce/genforce](https://github.com/genforce/genforce) - GenForce: an efficient PyTorch library for deep generative modeling (StyleGANv1v2, PGGAN, etc)
@@ -13137,7 +13138,6 @@
 - [creativetimofficial/vue-light-bootstrap-dashboard](https://github.com/creativetimofficial/vue-light-bootstrap-dashboard) - Vue Light Bootstrap Dashboard - FREE BOOTSTRAP 4 VUEJS ADMIN TEMPLATE
 - [papercss/papercss](https://github.com/papercss/papercss) - The Less Formal CSS Framework
 - [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - My cheatsheets
-- [elixirschool/elixirschool](https://github.com/elixirschool/elixirschool) - The content behind Elixir School
 - [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 - [Slicejack/bojler](https://github.com/Slicejack/bojler) - Bojler is an email framework
 - [Kikobeats/js-mythbusters](https://github.com/Kikobeats/js-mythbusters) - :ghost: STHAP js, where is my perfomance?
