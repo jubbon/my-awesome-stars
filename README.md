@@ -2611,6 +2611,7 @@
 - [elbamos/largeVis](https://github.com/elbamos/largeVis) - An implementation of the largeVis algorithm for visualizing large, high-dimensional datasets, for R
 - [google/ioweb2016](https://github.com/google/ioweb2016) - I/O web app 2016
 - [eliangcs/pystock-data](https://github.com/eliangcs/pystock-data) - (UNMAINTAINED) US stock market data since 2009
+- [jlord/patchwork](https://github.com/jlord/patchwork) - All the Git-it Workshop completers!
 - [electron/electron-api-demos](https://github.com/electron/electron-api-demos) - Explore the Electron APIs
 - [akoumjian/datefinder](https://github.com/akoumjian/datefinder) - Find dates inside text using Python and get back datetime objects
 - [wcember/pypub](https://github.com/wcember/pypub) - Python library to programatically create epub files
@@ -3542,7 +3543,7 @@
 - [justadudewhohacks/face-recognition.js](https://github.com/justadudewhohacks/face-recognition.js) - Simple Node.js package for robust face detection and face recognition. JavaScript and TypeScript API.
 - [developit/workerize-loader](https://github.com/developit/workerize-loader) - 🏗️ Automatically move a module into a Web Worker (Webpack loader)
 - [checkly/puppeteer-examples](https://github.com/checkly/puppeteer-examples) - Puppeteer example scripts for running Headless Chrome from Node.
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 120 bitcoin/altcoin exchanges
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
 - [developit/workerize](https://github.com/developit/workerize) - 🏗️ Run a module in a Web Worker.
 - [baidu/san](https://github.com/baidu/san) - A fast, portable, flexible JavaScript component framework
 - [kwk/docker-registry-frontend](https://github.com/kwk/docker-registry-frontend) - Browse and modify your Docker registry in a browser.
@@ -4435,6 +4436,7 @@
 
 ## Jupyter Notebook 
 
+- [svenkreiss/socialforce](https://github.com/svenkreiss/socialforce) - Differentiable Social Force simulation with universal interaction potentials.
 - [machine-learning-helpers/induction-python](https://github.com/machine-learning-helpers/induction-python) - Python source code derived from books about Machine Learning (ML)
 - [NeuralPushkin/Usefull](https://github.com/NeuralPushkin/Usefull) - Usefull papers, repos, tg chats etc
 - [TarunKumar1995-glitch/land_cover_classification_unet](https://github.com/TarunKumar1995-glitch/land_cover_classification_unet) - This repository contains code for implementing multi class semantic segmentation (specifically applied to satellite image classification) with PyTorch implementation of UNet.
@@ -6977,7 +6979,7 @@
 - [sovaai/sova-tts](https://github.com/sovaai/sova-tts) - 
 - [vlomme/Multi-Tacotron-Voice-Cloning](https://github.com/vlomme/Multi-Tacotron-Voice-Cloning) - Phoneme multilingual(Russian-English) voice cloning based on
 - [BaguaSys/examples](https://github.com/BaguaSys/examples) - Bagua examples.
-- [BaguaSys/bagua](https://github.com/BaguaSys/bagua) - Bagua is a performant and flexible distributed training framework for PyTorch, providing a faster alternative to PyTorch DDP and Horovod, with support for advanced distributed training algorithms such as quantization and decentralization.
+- [BaguaSys/bagua](https://github.com/BaguaSys/bagua) - Bagua is a deep learning training acceleration framework for PyTorch. It provides a one-stop training acceleration solution, including faster distributed training compared to PyTorch DDP, faster dataloader, kernel fusion, and more.
 - [probcomp/sppl](https://github.com/probcomp/sppl) - Sum-Product Probabilistic Language
 - [SenHe/DLFS](https://github.com/SenHe/DLFS) - 
 - [facebookresearch/DONERF](https://github.com/facebookresearch/DONERF) - Code for "DONeRF Towards Real-Time Rendering of Compact Neural Radiance Fields using Depth Oracle Networks"
@@ -7924,7 +7926,7 @@
 - [JaeDukSeo/reinforcement-learning-an-introduction](https://github.com/JaeDukSeo/reinforcement-learning-an-introduction) - Python Implementation of Reinforcement Learning: An Introduction
 - [zake7749/CIKM-AnalytiCup-2018](https://github.com/zake7749/CIKM-AnalytiCup-2018) - [ACM-CIKM] 2nd place solution at CIKM AnalytiCup 2018, a task for determining short text similarities.
 - [lukemelas/EfficientNet-PyTorch](https://github.com/lukemelas/EfficientNet-PyTorch) - A PyTorch implementation of EfficientNet and EfficientNetV2 (coming soon!)
-- [ctf-wiki/ctf-wiki](https://github.com/ctf-wiki/ctf-wiki) - A new start for CTF Wiki! Come and join us, we need you!
+- [ctf-wiki/ctf-wiki](https://github.com/ctf-wiki/ctf-wiki) - Come and join us, we need you!
 - [chineseocr/chineseocr](https://github.com/chineseocr/chineseocr) - yolo3+ocr
 - [locuslab/SATNet](https://github.com/locuslab/SATNet) - Bridging deep learning and logical reasoning using a differentiable satisfiability solver.
 - [RedisGears/EdgeRealtimeVideoAnalytics](https://github.com/RedisGears/EdgeRealtimeVideoAnalytics) - An example of using Redis Streams, RedisGears, RedisAI and RedisTimeSeries for Realtime Video Analytics (i.e. counting people)
@@ -13002,7 +13004,6 @@
 ## Rich Text Format 
 
 - [github/dmca](https://github.com/github/dmca) - Repository with text of DMCA takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices. Users identified in the notices are presumed innocent until proven guilty. Additional information about our DMCA policy can be found at
-- [jlord/patchwork](https://github.com/jlord/patchwork) - All the Git-it Workshop completers!
 
 ## Roff 
 
