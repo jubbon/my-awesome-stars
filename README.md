@@ -29,6 +29,7 @@
   - [Dockerfile](#dockerfile)
   - [EJS](#ejs)
   - [Elixir](#elixir)
+  - [Elm](#elm)
   - [Emacs Lisp](#emacs-lisp)
   - [Erlang](#erlang)
   - [Fortran](#fortran)
@@ -536,6 +537,7 @@
 - [google/snappy](https://github.com/google/snappy) - A fast compressor/decompressor
 - [neuroprod/InsectRobotSimulation](https://github.com/neuroprod/InsectRobotSimulation) - hexapod
 - [seetafaceengine/SeetaFace6](https://github.com/seetafaceengine/SeetaFace6) - SeetaFace 6: Newest open and free, full stack face recognization toolkit.
+- [domoticz/domoticz](https://github.com/domoticz/domoticz) - Open source Home Automation System
 - [tindy2013/subconverter](https://github.com/tindy2013/subconverter) - Utility to convert between various subscription format
 - [minetest/minetest](https://github.com/minetest/minetest) - Minetest is an open source voxel game engine with easy modding and game creation
 - [Haivision/srt](https://github.com/Haivision/srt) - Secure, Reliable, Transport
@@ -1483,6 +1485,10 @@
 
 - [plausible/analytics](https://github.com/plausible/analytics) - Simple, open-source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
 - [awesomerank/rank](https://github.com/awesomerank/rank) - awesomerank.github.io builder
+
+## Elm 
+
+- [erkal/kite](https://github.com/erkal/kite) - An interactive visualization tool for graph theory
 
 ## Emacs Lisp 
 
@@ -2611,7 +2617,6 @@
 - [elbamos/largeVis](https://github.com/elbamos/largeVis) - An implementation of the largeVis algorithm for visualizing large, high-dimensional datasets, for R
 - [google/ioweb2016](https://github.com/google/ioweb2016) - I/O web app 2016
 - [eliangcs/pystock-data](https://github.com/eliangcs/pystock-data) - (UNMAINTAINED) US stock market data since 2009
-- [jlord/patchwork](https://github.com/jlord/patchwork) - All the Git-it Workshop completers!
 - [electron/electron-api-demos](https://github.com/electron/electron-api-demos) - Explore the Electron APIs
 - [akoumjian/datefinder](https://github.com/akoumjian/datefinder) - Find dates inside text using Python and get back datetime objects
 - [wcember/pypub](https://github.com/wcember/pypub) - Python library to programatically create epub files
@@ -2899,7 +2904,6 @@
 - [andreasbm/web-skills](https://github.com/andreasbm/web-skills) - A visual overview of useful skills to learn as a web developer
 - [paulirish/headless-cat-n-mouse](https://github.com/paulirish/headless-cat-n-mouse) - Is headless chrome currently detectable? Let's pit the detections and detection evasions against eachother.
 - [cruise-automation/webviz](https://github.com/cruise-automation/webviz) - web-based visualization libraries
-- [domoticz/domoticz](https://github.com/domoticz/domoticz) - Open source Home Automation System
 - [wiwikuan/fast-srt-subtitle](https://github.com/wiwikuan/fast-srt-subtitle) - Make SRT Caption Fast!!!!
 - [jhu-ep-coursera/fullstack-course4](https://github.com/jhu-ep-coursera/fullstack-course4) - Example code for HTML, CSS, and Javascript for Web Developers Coursera Course
 - [jsdoc/jsdoc](https://github.com/jsdoc/jsdoc) - An API documentation generator for JavaScript.
@@ -11252,7 +11256,7 @@
 - [ryankiros/neural-storyteller](https://github.com/ryankiros/neural-storyteller) - A recurrent neural network for generating little stories about images
 - [Mindwerks/worldengine](https://github.com/Mindwerks/worldengine) - World generator using simulation of plates, rain shadow, erosion, etc.
 - [lyft/confidant](https://github.com/lyft/confidant) - Confidant: your secret keeper. https://lyft.github.io/confidant
-- [dabeaz/curio](https://github.com/dabeaz/curio) - Get that harness ready and hold on tight--Curio is gonna take YOU for a walk.
+- [dabeaz/curio](https://github.com/dabeaz/curio) - Good Curio!
 - [daviddrysdale/python-phonenumbers](https://github.com/daviddrysdale/python-phonenumbers) - Python port of Google's libphonenumber
 - [harshasrinivas/cli-github](https://github.com/harshasrinivas/cli-github) - Github within the CLI :computer:
 - [jmcarp/nplusone](https://github.com/jmcarp/nplusone) - Auto-detecting the n+1 queries problem in Python
@@ -13004,6 +13008,7 @@
 ## Rich Text Format 
 
 - [github/dmca](https://github.com/github/dmca) - Repository with text of DMCA takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices. Users identified in the notices are presumed innocent until proven guilty. Additional information about our DMCA policy can be found at
+- [jlord/patchwork](https://github.com/jlord/patchwork) - All the Git-it Workshop completers!
 
 ## Roff 
 
