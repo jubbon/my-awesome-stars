@@ -726,6 +726,7 @@
 - [facebookresearch/TensorComprehensions](https://github.com/facebookresearch/TensorComprehensions) - A domain specific language to express machine learning workloads.
 - [baidu/braft](https://github.com/baidu/braft) - An industrial-grade C++ implementation of RAFT consensus algorithm based on brpc,  widely used inside Baidu to build highly-available distributed systems.
 - [OpenBoard-org/OpenBoard](https://github.com/OpenBoard-org/OpenBoard) - OpenBoard is a cross-platform interactive whiteboard application intended for use in a classroom setting.
+- [finos/perspective](https://github.com/finos/perspective) - Streaming pivot visualization via WebAssembly
 - [isl-org/Open3D](https://github.com/isl-org/Open3D) - Open3D: A Modern Library for 3D Data Processing
 - [LordNoteworthy/al-khaser](https://github.com/LordNoteworthy/al-khaser) - Public malware techniques used in the wild: Virtual Machine, Emulation, Debuggers, Sandbox detection.
 - [tensorflow/minigo](https://github.com/tensorflow/minigo) - An open-source implementation of the AlphaGoZero algorithm
@@ -1479,6 +1480,7 @@
 
 ## EJS 
 
+- [heroku/node-js-getting-started](https://github.com/heroku/node-js-getting-started) - Getting Started with Node on Heroku
 - [Gioni06/terminal.css](https://github.com/Gioni06/terminal.css) - Modern and minimalistic CSS framework for terminal enthusiasts
 
 ## Elixir 
@@ -2184,6 +2186,7 @@
 - [hashicorp/consul](https://github.com/hashicorp/consul) - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
 - [badges/buckler](https://github.com/badges/buckler) - Go library and CLI for making Shields-style badges (PNG)
 - [moby/moby](https://github.com/moby/moby) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+- [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
 - [buger/goreplay](https://github.com/buger/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes.
 - [bitly/forgettable](https://github.com/bitly/forgettable) - Various implementations of the forget table: a distributional database that forgets data
 
@@ -2264,7 +2267,6 @@
 - [ganlanyuan/tiny-slider](https://github.com/ganlanyuan/tiny-slider) - Vanilla javascript slider for all purposes.
 - [bigcommerce/cornerstone](https://github.com/bigcommerce/cornerstone) - The BigCommerce Cornerstone theme
 - [chanan/BlazorStrap](https://github.com/chanan/BlazorStrap) - Bootstrap 4 Components for Blazor Framework
-- [heroku/node-js-getting-started](https://github.com/heroku/node-js-getting-started) - Getting Started with Node on Heroku
 - [shd101wyy/markdown-preview-enhanced](https://github.com/shd101wyy/markdown-preview-enhanced) - One of the 'BEST' markdown preview extensions for Atom editor!
 - [wildbit/postmark-templates](https://github.com/wildbit/postmark-templates) - Rock-solid transactional email templates for applications.
 - [letsencrypt/website](https://github.com/letsencrypt/website) - Let's Encrypt Website and Documentation
@@ -3460,7 +3462,6 @@
 - [sequelize/sequelize](https://github.com/sequelize/sequelize) - An easy-to-use multi SQL dialect ORM tool for Node.js
 - [timarney/react-app-rewired](https://github.com/timarney/react-app-rewired) - Override create-react-app webpack configs without ejecting
 - [brrd/abricotine](https://github.com/brrd/abricotine) - Markdown editor with inline preview
-- [finos/perspective](https://github.com/finos/perspective) - Streaming pivot visualization via WebAssembly
 - [jondot/hygen](https://github.com/jondot/hygen) - The simple, fast, and scalable code generator that lives in your project.
 - [automerge/automerge](https://github.com/automerge/automerge) - A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
@@ -5979,7 +5980,7 @@
 - [amzn/computer-vision-basics-in-microsoft-excel](https://github.com/amzn/computer-vision-basics-in-microsoft-excel) - Computer Vision Basics in Microsoft Excel (using just formulas)
 - [hibayesian/awesome-automl-papers](https://github.com/hibayesian/awesome-automl-papers) - A curated list of automated machine learning papers, articles, tutorials, slides and projects
 - [windmaple/awesome-AutoML](https://github.com/windmaple/awesome-AutoML) - Curating a list of AutoML-related research, tools, projects and other resources
-- [margaretmz/awesome-tensorflow-lite](https://github.com/margaretmz/awesome-tensorflow-lite) - TensorFlow Lite models, samples, tutorials, tools and learning resources.
+- [margaretmz/awesome-tensorflow-lite](https://github.com/margaretmz/awesome-tensorflow-lite) - An awesome list of TensorFlow Lite models, samples, tutorials, tools and learning resources.
 - [gskinnerTeam/flutter_vignettes](https://github.com/gskinnerTeam/flutter_vignettes) - A collection of fun Flutter experiments, created by gskinner, in partnership with Google.
 - [roshanlam/ReadMeTemplate](https://github.com/roshanlam/ReadMeTemplate) - Done with your project but having a hard time writing a ReadMe? Check Out This Repo I created. If you like it then use it
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
@@ -6019,7 +6020,7 @@
 - [alirezadir/Production-Level-Deep-Learning](https://github.com/alirezadir/Production-Level-Deep-Learning) - A guideline for building practical production-level deep learning systems to be deployed in real world applications.
 - [deepmind/tvt](https://github.com/deepmind/tvt) - 
 - [shashank88/system_design](https://github.com/shashank88/system_design) - Preparation links and resources for system design questions
-- [oam-dev/spec](https://github.com/oam-dev/spec) - The Open Application Model (OAM) documentations.
+- [oam-dev/spec](https://github.com/oam-dev/spec) - Learning Open Application Model (OAM).
 - [Niraj-Lunavat/Artificial-Intelligence](https://github.com/Niraj-Lunavat/Artificial-Intelligence) - Awesome AI Learning with +100 AI Cheat-Sheets, Free online Books, Top Courses, Best Videos and Lectures, Papers, Tutorials, +99 Researchers, Premium Websites, +121 Datasets, Conferences, Frameworks, Tools
 - [palash25/best-practices-checklist](https://github.com/palash25/best-practices-checklist) - A list of awesome idiomatic code resources. Rust:crab:, Go, Ruby:gem:, Pony :horse:, Ocaml :camel:, Erlang and more
 - [ML-NLPChina/MIT-Linear-Algebra-Notes](https://github.com/ML-NLPChina/MIT-Linear-Algebra-Notes) - Notes for MIT-Linear-Algebra
@@ -10158,7 +10159,7 @@
 - [ctuning/ck-tensorflow](https://github.com/ctuning/ck-tensorflow) - Collective Knowledge components for TensorFlow (code, data sets, models, packages, workflows):
 - [romanvm/python-web-pdb](https://github.com/romanvm/python-web-pdb) - Web-based remote UI for Python's PDB debugger
 - [ctuning/ck-autotuning](https://github.com/ctuning/ck-autotuning) - CK automation actions to let users implement portable, customizable and reusable program workflows for reproducible, collaborative and multi-objective benchmarking, optimization and SW/HW co-design:
-- [mlcommons/ck](https://github.com/mlcommons/ck) - The Collective Knowledge framework (CK) aims at making it easier to design, benchmark, optimize and deploy Machine Learning Systems in the real world across continuously evolving software, hardware and data sets with the help of the community. See MLPerf inference benchmark automation use case powered by CK:
+- [mlcommons/ck](https://github.com/mlcommons/ck) - Collective Knowledge framework (CK) aims at enabling collaborative, reproducible and unified benchmarking and optimization of ML Systems across continuously changing models, data sets, software and hardware:
 - [somewacko/deconvfaces](https://github.com/somewacko/deconvfaces) - Generating faces with deconvolution networks
 - [kootenpv/whereami](https://github.com/kootenpv/whereami) - Uses WiFi signals :signal_strength: and machine learning to predict where you are
 - [openimages/dataset](https://github.com/openimages/dataset) - The Open Images dataset
@@ -12264,7 +12265,6 @@
 - [Nekroze/drydock](https://github.com/Nekroze/drydock) - A Docker cluster construction utility.
 - [not-kennethreitz/osx-gcc-installer](https://github.com/not-kennethreitz/osx-gcc-installer) - GCC Installer for OSX! Without Xcode!
 - [pwaller/pyfiglet](https://github.com/pwaller/pyfiglet) - An implementation of figlet written in Python
-- [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
 - [codelucas/shorten.tv](https://github.com/codelucas/shorten.tv) - Python video summarization. Visit the public API at -- www.shorten.tv (EDIT: The domain expired and youtube blocked it ..)
 - [thearn/game-of-life](https://github.com/thearn/game-of-life) - Simple Python implementation of Conway's game of life and other cellular automata, computed using numpy.fft
 - [flask-api/flask-api](https://github.com/flask-api/flask-api) - Browsable web APIs for Flask.
@@ -12981,7 +12981,7 @@
 - [hadley/r4ds](https://github.com/hadley/r4ds) - R for data science: a book
 - [qinwf/awesome-R](https://github.com/qinwf/awesome-R) - A curated list of awesome R packages, frameworks and software.
 - [tidyverse/dplyr](https://github.com/tidyverse/dplyr) - dplyr: A grammar of data manipulation
-- [ropensci/plotly](https://github.com/ropensci/plotly) - An interactive graphing library for R
+- [plotly/plotly.R](https://github.com/plotly/plotly.R) - An interactive graphing library for R
 - [ujjwalkarn/DataScienceR](https://github.com/ujjwalkarn/DataScienceR) - a curated list of R tutorials for Data Science, NLP and Machine Learning
 - [rdpeng/ProgrammingAssignment2](https://github.com/rdpeng/ProgrammingAssignment2) - Repository for Programming Assignment 2 for R Programming on Coursera
 - [donnemartin/r-snippets](https://github.com/donnemartin/r-snippets) - Various R snippets for reading, subsetting, summarizing, reshaping, merging, and cleaning data
@@ -13118,7 +13118,7 @@
 - [sit-fyi/sit](https://github.com/sit-fyi/sit) - Serverless (offline-first, merge-friendly) Information Tracker
 - [openethereum/parity-ethereum](https://github.com/openethereum/parity-ethereum) - The fast, light, and robust client for Ethereum-like networks.
 - [PyO3/pyo3](https://github.com/PyO3/pyo3) - Rust bindings for the Python interpreter
-- [analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis) - A curated list of static analysis (SAST) tools for all programming languages, config files, build tools, and more.
+- [analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis) - ⚙️ A curated list of static analysis (SAST) tools for all programming languages, config files, build tools, and more.
 - [exonum/exonum](https://github.com/exonum/exonum) - An extensible open-source framework for creating private/permissioned blockchain applications
 - [imazen/imageflow](https://github.com/imazen/imageflow) - High-performance image manipulation for web servers. Includes imageflow_server, imageflow_tool, and libimageflow
 - [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
