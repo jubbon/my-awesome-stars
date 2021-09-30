@@ -2417,7 +2417,7 @@
 - [avinassh/gg-flip](https://github.com/avinassh/gg-flip) - Highly performant Javascript library to flip the signs
 - [foundation/foundation-sites](https://github.com/foundation/foundation-sites) - The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device.
 - [NetSPI/SQLInjectionWiki](https://github.com/NetSPI/SQLInjectionWiki) - A wiki focusing on aggregating and documenting various SQL injection methods
-- [tc39/proposal-pipeline-operator](https://github.com/tc39/proposal-pipeline-operator) - A proposal for adding the simple-but-useful pipeline operator to JavaScript.
+- [tc39/proposal-pipeline-operator](https://github.com/tc39/proposal-pipeline-operator) - A proposal for adding a useful pipe operator to JavaScript.
 - [EdOverflow/proof-of-concepts](https://github.com/EdOverflow/proof-of-concepts) - A little collection of fun and creative proof of concepts to demonstrate the potential impact of a security vulnerability.
 - [froala/design-blocks](https://github.com/froala/design-blocks) - A set of 170+ Bootstrap based design blocks ready to be used to create clean modern websites.
 - [gfxfundamentals/webgl2-fundamentals](https://github.com/gfxfundamentals/webgl2-fundamentals) - WebGL 2 lessons starting from the basics
@@ -6026,7 +6026,7 @@
 - [ML-NLPChina/MIT-Linear-Algebra-Notes](https://github.com/ML-NLPChina/MIT-Linear-Algebra-Notes) - Notes for MIT-Linear-Algebra
 - [andkret/Cookbook](https://github.com/andkret/Cookbook) - The Data Engineering Cookbook
 - [tomlockwood/dn](https://github.com/tomlockwood/dn) - Daily notes command line tool
-- [protontypes/awesome-robotic-tooling](https://github.com/protontypes/awesome-robotic-tooling) - Tooling for professional robotic development in C++ and Python with a touch of ROS, autonomous driving and aerospace: https://freerobotics.tools/
+- [protontypes/awesome-robotic-tooling](https://github.com/protontypes/awesome-robotic-tooling) - Tooling for professional robotic development in C++ and Python with a touch of ROS, autonomous driving and aerospace.
 - [jbmusso/awesome-graph](https://github.com/jbmusso/awesome-graph) - A curated list of resources for graph databases and graph computing tools
 - [amrrs/For-Data-Science-Beginners](https://github.com/amrrs/For-Data-Science-Beginners) - Set of 📝 with 🔗 to help those who are Data Science beginners 🤖
 - [reed-hong/awesome-libra](https://github.com/reed-hong/awesome-libra) - A Curated List of Awesome Facebook Libra Resources
@@ -6944,6 +6944,7 @@
 
 ## Python 
 
+- [DevashishPrasad/CascadeTabNet](https://github.com/DevashishPrasad/CascadeTabNet) - This repository contains the code and implementation details of the CascadeTabNet paper "CascadeTabNet: An approach for end to end table detection and structure recognition from image-based documents"
 - [salesforce/Merlion](https://github.com/salesforce/Merlion) - Merlion: A Machine Learning Framework for Time Series Intelligence
 - [chakki-works/seqeval](https://github.com/chakki-works/seqeval) - A Python framework for sequence labeling evaluation(named-entity recognition, pos tagging, etc...)
 - [snakers4/silero-vad](https://github.com/snakers4/silero-vad) - Silero VAD: pre-trained enterprise-grade Voice Activity and Number Detector
@@ -8700,7 +8701,7 @@
 - [wsvincent/djangox](https://github.com/wsvincent/djangox) - Django starter project with 🔋
 - [gyoisamurai/GyoiThon](https://github.com/gyoisamurai/GyoiThon) - GyoiThon is a growing penetration test tool using Machine Learning.
 - [stared/livelossplot](https://github.com/stared/livelossplot) - Live training loss plot in Jupyter Notebook for Keras, PyTorch and others
-- [google/upvote](https://github.com/google/upvote) - A multi-platform binary whitelisting solution
+- [google/upvote_py2](https://github.com/google/upvote_py2) - A multi-platform binary whitelisting solution
 - [shinseung428/gan_numpy](https://github.com/shinseung428/gan_numpy) - 
 - [sunainapai/makesite](https://github.com/sunainapai/makesite) - Simple, lightweight, and magic-free static site/blog generator for Python coders
 - [mm-mansour/Fast-Pandas](https://github.com/mm-mansour/Fast-Pandas) - Benchmark for different operations in pandas against various dataframe sizes.
@@ -11762,7 +11763,7 @@
 - [changhiskhan/poseidon](https://github.com/changhiskhan/poseidon) - Python CLI for Digital Ocean API v2
 - [Yelp/pyleus](https://github.com/Yelp/pyleus) - Pyleus is a Python framework for developing and launching Storm topologies.
 - [GetStream/stream-django](https://github.com/GetStream/stream-django) - Django Client - Build Activity Feeds & Streams with GetStream.io
-- [pymc-devs/pymc3](https://github.com/pymc-devs/pymc3) - Probabilistic Programming in Python: Bayesian Modeling and Probabilistic Machine Learning with Aesara
+- [pymc-devs/pymc](https://github.com/pymc-devs/pymc) - Probabilistic Programming in Python: Bayesian Modeling and Probabilistic Machine Learning with Aesara
 - [statsmodels/statsmodels](https://github.com/statsmodels/statsmodels) - Statsmodels: statistical modeling and econometrics in Python
 - [scipy/scipy](https://github.com/scipy/scipy) - SciPy library main repository
 - [mwaskom/seaborn](https://github.com/mwaskom/seaborn) - Statistical data visualization in Python
@@ -13358,7 +13359,7 @@
 - [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [tryolabs/metamon](https://github.com/tryolabs/metamon) - Collection of Ansible playbooks to quickly start your Django Application
 - [delacruz-dev/rapid.py](https://github.com/delacruz-dev/rapid.py) - A template built on python and bootstrap for rapid prototyping
-- [hyperupcall/autoenv](https://github.com/hyperupcall/autoenv) - Directory-based environments. [Author @ken-reitz]
+- [hyperupcall/autoenv](https://github.com/hyperupcall/autoenv) - Directory-based environments
 - [jimeh/tmuxifier](https://github.com/jimeh/tmuxifier) - Tmuxify your Tmux. Powerful session, window & pane management for Tmux.
 - [Nyr/openvpn-install](https://github.com/Nyr/openvpn-install) - OpenVPN road warrior installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS and Fedora
 - [phusion/baseimage-docker](https://github.com/phusion/baseimage-docker) - A minimal Ubuntu base image modified for Docker-friendliness
