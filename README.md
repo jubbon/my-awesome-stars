@@ -304,7 +304,7 @@
 - [pramsey/pgsql-ogr-fdw](https://github.com/pramsey/pgsql-ogr-fdw) - PostgreSQL foreign data wrapper for OGR
 - [catboost/catboost](https://github.com/catboost/catboost) - A fast, scalable, high performance Gradient Boosting on Decision Trees library, used for ranking, classification, regression and other machine learning tasks for Python, R, Java, C++. Supports computation on CPU and GPU.
 - [videolan/vlc](https://github.com/videolan/vlc) - VLC media player - All pull requests are ignored, please follow https://wiki.videolan.org/Sending_Patches_VLC/
-- [lua/lua](https://github.com/lua/lua) - The Lua repo, as seen by the Lua team. Mirrored irregularly. Please DO NOT send pull requests. Send any issue to the Lua mailing list https://www.lua.org/lua-l.html
+- [lua/lua](https://github.com/lua/lua) - The Lua development repository, as seen by the Lua team. Mirrored irregularly. Please DO NOT send pull requests. Report issues in the Lua mailing list https://www.lua.org/lua-l.html
 - [commaai/panda](https://github.com/commaai/panda) - code powering the comma.ai panda
 - [systemd/casync](https://github.com/systemd/casync) - Content-Addressable Data Synchronization Tool
 - [huggingface/neuralcoref](https://github.com/huggingface/neuralcoref) - ✨Fast Coreference Resolution in spaCy with Neural Networks
@@ -390,7 +390,6 @@
 - [x893/CarTracker](https://github.com/x893/CarTracker) - CarTracker
 - [radareorg/radare2](https://github.com/radareorg/radare2) - UNIX-like reverse engineering framework and command-line toolset
 - [lunixbochs/patchkit](https://github.com/lunixbochs/patchkit) - binary patching from Python
-- [librevault/librevault](https://github.com/librevault/librevault) - Librevault - Peer-to-peer, decentralized and open source file sync.
 - [ctfs/write-ups-2016](https://github.com/ctfs/write-ups-2016) - Wiki-like CTF write-ups repository, maintained by the community. 2016
 - [arut/nginx-rtmp-module](https://github.com/arut/nginx-rtmp-module) - NGINX-based Media Streaming Server
 - [vitasdk/vita-toolchain](https://github.com/vitasdk/vita-toolchain) - 
@@ -920,6 +919,7 @@
 - [jarro2783/cxxopts](https://github.com/jarro2783/cxxopts) - Lightweight C++ command line option parser
 - [stagadish/NNplusplus](https://github.com/stagadish/NNplusplus) - A small and easy to use neural net implementation for C++. Just download and #include!
 - [jainaman224/Algo_Ds_Notes](https://github.com/jainaman224/Algo_Ds_Notes) - It is a repository that is a collection of algorithms and data structures with implementation in various languages.
+- [librevault/librevault](https://github.com/librevault/librevault) - Librevault - Peer-to-peer, decentralized and open source file sync.
 - [davheld/GOTURN](https://github.com/davheld/GOTURN) - Source code for paper: Learning to Track at 100 FPS with Deep Regression Networks, Held, et al. ECCV 2016
 - [fastio/1store](https://github.com/fastio/1store) - NoSQL data store using the SEASTAR framework, compatible with Redis
 - [manuelruder/artistic-videos](https://github.com/manuelruder/artistic-videos) - Torch implementation for the paper "Artistic style transfer for videos"
@@ -2625,6 +2625,7 @@
 - [elbamos/largeVis](https://github.com/elbamos/largeVis) - An implementation of the largeVis algorithm for visualizing large, high-dimensional datasets, for R
 - [google/ioweb2016](https://github.com/google/ioweb2016) - I/O web app 2016
 - [eliangcs/pystock-data](https://github.com/eliangcs/pystock-data) - (UNMAINTAINED) US stock market data since 2009
+- [jlord/patchwork](https://github.com/jlord/patchwork) - All the Git-it Workshop completers!
 - [electron/electron-api-demos](https://github.com/electron/electron-api-demos) - Explore the Electron APIs
 - [akoumjian/datefinder](https://github.com/akoumjian/datefinder) - Find dates inside text using Python and get back datetime objects
 - [wcember/pypub](https://github.com/wcember/pypub) - Python library to programatically create epub files
@@ -3932,7 +3933,7 @@
 - [r0r1/vuejs-AdminLTE](https://github.com/r0r1/vuejs-AdminLTE) - Admin LTE Starter for Vue JS
 - [ecomfe/vue-echarts](https://github.com/ecomfe/vue-echarts) - Apache ECharts component for Vue.js.
 - [egoist/vue-mugen-scroll](https://github.com/egoist/vue-mugen-scroll) - Infinite scroll component for Vue.js 2
-- [SortableJS/Sortable](https://github.com/SortableJS/Sortable) - Reorderable drag-and-drop lists for modern browsers and touch devices. No jQuery required.
+- [SortableJS/Sortable](https://github.com/SortableJS/Sortable) - Reorderable drag-and-drop lists for modern browsers and touch devices. No jQuery or framework required.
 - [Seedstars/django-react-redux-base](https://github.com/Seedstars/django-react-redux-base) - Seedstars Labs Base Django React Redux Project
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [bilibili/flv.js](https://github.com/bilibili/flv.js) - HTML5 FLV Player
@@ -4108,7 +4109,7 @@
 - [cezaraugusto/You-Dont-Know-JS](https://github.com/cezaraugusto/You-Dont-Know-JS) - 📗📒 (PT-Br translation) JS Book Series.
 - [flickr/yakbak](https://github.com/flickr/yakbak) - Record and playback HTTP responses
 - [ericholiveira/studio](https://github.com/ericholiveira/studio) - A nodejs framework to create decoupled and scalable applications
-- [mui-org/material-ui](https://github.com/mui-org/material-ui) - MUI is a simple and customizable component library to build faster, beautiful, and more accessible React applications. Follow your own design system or start with Material Design.
+- [mui-org/material-ui](https://github.com/mui-org/material-ui) - MUI (formerly Material-UI) is the React UI library you always wanted. Follow your own design system, or start with Material Design.
 - [parse-community/parse-server](https://github.com/parse-community/parse-server) - API server module for Node/Express
 - [OmniDB/OmniDB](https://github.com/OmniDB/OmniDB) - Web tool for database management
 - [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
@@ -4913,7 +4914,7 @@
 - [Santosh-Gupta/Research2Vec](https://github.com/Santosh-Gupta/Research2Vec) - Representing research papers as vectors / latent representations.
 - [Paperspace/DataAugmentationForObjectDetection](https://github.com/Paperspace/DataAugmentationForObjectDetection) - Data Augmentation For Object Detection
 - [dibgerge/ml-coursera-python-assignments](https://github.com/dibgerge/ml-coursera-python-assignments) - Python assignments for the machine learning class by andrew ng on coursera with complete submission for grading capability and re-written instructions.
-- [danielhanchen/hyperlearn](https://github.com/danielhanchen/hyperlearn) - Waiting hours for a future prediction is unacceptable. You would rather wait for the future to come. Hyperlearn aims to make machine learning faster and greener.
+- [danielhanchen/hyperlearn](https://github.com/danielhanchen/hyperlearn) - Waiting hours for a future prediction is unacceptable. Hyperlearn makes AI and ML algorithms 50% faster, use 90% less memory and doesn't require you to use new hardware! ML Algorithms like PCA, Linear Regression, NMF are all faster!
 - [llSourcell/Kaggle_Challenge_LIVE](https://github.com/llSourcell/Kaggle_Challenge_LIVE) - This is the code for "Kaggle Challenge (LIVE)" by Siraj Raval on Youtube
 - [nlpjoe/daguan-classify-2018](https://github.com/nlpjoe/daguan-classify-2018) - 2018达观杯长文本分类智能处理挑战赛 18解决方案
 - [Murgio/Food-Recipe-CNN](https://github.com/Murgio/Food-Recipe-CNN) - food image to recipe with deep convolutional neural networks.
@@ -5305,7 +5306,7 @@
 - [uclaacmai/Generative-Adversarial-Network-Tutorial](https://github.com/uclaacmai/Generative-Adversarial-Network-Tutorial) - Tutorial on creating your own GAN in Tensorflow
 - [bharatsingh430/soft-nms](https://github.com/bharatsingh430/soft-nms) - Object Detection
 - [mhamilton723/tseries](https://github.com/mhamilton723/tseries) - A library for time series analysis with sklearn.
-- [skipgram/modern-nlp-in-python](https://github.com/skipgram/modern-nlp-in-python) - 
+- [pwharrison/modern-nlp-in-python](https://github.com/pwharrison/modern-nlp-in-python) - 
 - [sjchoi86/advanced-tensorflow](https://github.com/sjchoi86/advanced-tensorflow) - Little More Advanced TensorFlow Implementations
 - [uclaacmai/tf-workshop-series](https://github.com/uclaacmai/tf-workshop-series) - Code, Slides, & Materials for our Tensorflow Workshop Series for Spring Quarter 2017
 - [bfortuner/pytorch-cheatsheet](https://github.com/bfortuner/pytorch-cheatsheet) - Check out improved:
@@ -5790,6 +5791,7 @@
 
 - [w3c/webappsec-change-password-url](https://github.com/w3c/webappsec-change-password-url) - A Well-Known URL for Changing Passwords
 - [oracle/graphpipe](https://github.com/oracle/graphpipe) - Machine Learning Model Deployment Made Simple
+- [sharanda/manrope](https://github.com/sharanda/manrope) - Manrope font – modern geometric sans-serif
 - [gifford-lab/jupyter-docker-stacks](https://github.com/gifford-lab/jupyter-docker-stacks) - Opinionated stacks of ready-to-run Jupyter applications in Docker.  Forked to add GPU capabilities.
 - [joaoventura/full-speed-python](https://github.com/joaoventura/full-speed-python) - Full Speed Python: a book for self-learners
 - [eddiejaoude/book-open-source-tips](https://github.com/eddiejaoude/book-open-source-tips) - Open Source book on Open Source Tips
@@ -8554,7 +8556,7 @@
 - [quark0/darts](https://github.com/quark0/darts) - Differentiable architecture search for convolutional and recurrent networks
 - [sebastianruder/NLP-progress](https://github.com/sebastianruder/NLP-progress) - Repository to track the progress in Natural Language Processing (NLP), including the datasets and the current state-of-the-art for the most common NLP tasks.
 - [mikeyy/nonoCAPTCHA](https://github.com/mikeyy/nonoCAPTCHA) - An asynchronized Python library to automate solving ReCAPTCHA v2 using audio
-- [yzhao062/pyod](https://github.com/yzhao062/pyod) - (JMLR'19) A Python Toolbox for Scalable Outlier Detection (Anomaly Detection)
+- [yzhao062/pyod](https://github.com/yzhao062/pyod) - A Python Toolbox for Scalable Outlier Detection (Anomaly Detection)
 - [dizballanze/m00dbot](https://github.com/dizballanze/m00dbot) - Telegram bot for self-testing of anxiety and depression
 - [facebookresearch/supervision-by-registration](https://github.com/facebookresearch/supervision-by-registration) - Supervision-by-Registration: An Unsupervised Approach to Improve the Precision of Facial Landmark Detectors
 - [MasoniteFramework/masonite](https://github.com/MasoniteFramework/masonite) - The Modern And Developer Centric Python Web Framework. Be sure to read the documentation and join the Slack channel questions: http://slack.masoniteproject.com
@@ -13011,7 +13013,6 @@
 ## Rich Text Format 
 
 - [github/dmca](https://github.com/github/dmca) - Repository with text of DMCA takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices. Users identified in the notices are presumed innocent until proven guilty. Additional information about our DMCA policy can be found at
-- [jlord/patchwork](https://github.com/jlord/patchwork) - All the Git-it Workshop completers!
 
 ## Roff 
 
@@ -13095,7 +13096,7 @@
 
 - [Synerise/cleora](https://github.com/Synerise/cleora) - Cleora AI is a general-purpose model for efficient, scalable learning of stable and inductive entity embeddings for heterogeneous relational data.
 - [meilisearch/MeiliSearch](https://github.com/meilisearch/MeiliSearch) - Powerful, fast, and an easy to use search engine
-- [adam-mcdaniel/chess-engine](https://github.com/adam-mcdaniel/chess-engine) - A dependency-free chess engine library built to run anywhere.
+- [adam-mcdaniel/chess-engine](https://github.com/adam-mcdaniel/chess-engine) - A dependency-free chess engine♟️ library built to run anywhere.
 - [SoptikHa2/desed](https://github.com/SoptikHa2/desed) - Debugger for Sed: demystify and debug your sed scripts, from comfort of your terminal.
 - [yaa110/nomino](https://github.com/yaa110/nomino) - Batch rename utility for developers
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
@@ -13243,7 +13244,6 @@
 - [pubnub/eon](https://github.com/pubnub/eon) - An open-source chart and map framework for realtime data.
 - [toniblyx/my-arsenal-of-aws-security-tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools) - List of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc.
 - [senorsmile/ansible-yaml-inventory](https://github.com/senorsmile/ansible-yaml-inventory) - example yaml based inventory for ansible
-- [sharanda/manrope](https://github.com/sharanda/manrope) - Manrope font – modern geometric sans-serif
 - [Paperspace/jupyter-docker-stacks](https://github.com/Paperspace/jupyter-docker-stacks) - Opinionated stacks of ready-to-run Jupyter applications in Docker.
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [freetonik/ansible-tuto-rus](https://github.com/freetonik/ansible-tuto-rus) - Ansible tutorial (Russian)
