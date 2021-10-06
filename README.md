@@ -8041,7 +8041,7 @@
 - [huggingface/pytorch-pretrained-BigGAN](https://github.com/huggingface/pytorch-pretrained-BigGAN) - 🦋A PyTorch implementation of BigGAN with pretrained weights and conversion scripts.
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [Wookai/paper-tips-and-tricks](https://github.com/Wookai/paper-tips-and-tricks) - Best practice and tips & tricks to write scientific papers in LaTeX, with figures generated in Python or Matlab.
-- [SharpAI/DeepCamera](https://github.com/SharpAI/DeepCamera) - AI Face Recognition NVR. Machine Learning On The Edge, turn your Camera into AI-powered with Jetson Nano
+- [SharpAI/DeepCamera](https://github.com/SharpAI/DeepCamera) - AI Face Recognition/Person Detection NVR. Machine Learning On The Edge, turn your Camera into AI-powered with Jetson Nano and telegram to protect your privacy.
 - [singh-shreya6/Navigation-Assistant](https://github.com/singh-shreya6/Navigation-Assistant) - A Navigation Assistant for the visually impaired using Speech to Text, Object Detection and Text to Speech in python
 - [sharif1093/digideep](https://github.com/sharif1093/digideep) - A Deep Reinforcement Learning (DeepRL) package for RL algorithm developers.
 - [zjhuang22/maskscoring_rcnn](https://github.com/zjhuang22/maskscoring_rcnn) - Codes for paper "Mask Scoring R-CNN".
@@ -10374,7 +10374,7 @@
 - [spurin/xmldataset](https://github.com/spurin/xmldataset) - xmldataset: xml parsing made easy 🗃️
 - [madisonmay/BlackWidow](https://github.com/madisonmay/BlackWidow) - Visualizing Python Project Import Graphs
 - [topocm/topocm_content](https://github.com/topocm/topocm_content) - Course on topology in condensed matter
-- [matrix-org/synapse](https://github.com/matrix-org/synapse) - Synapse: Matrix reference homeserver
+- [matrix-org/synapse](https://github.com/matrix-org/synapse) - Synapse: Matrix homeserver written in Python 3/Twisted.
 - [phodal/awesome-iot](https://github.com/phodal/awesome-iot) - Awesome IoT. A collaborative list of great resources about IoT Framework, Library,  OS, Platform
 - [bcicen/wikitables](https://github.com/bcicen/wikitables) - Import tables from any Wikipedia article as a dataset in Python
 - [biolab/orange3](https://github.com/biolab/orange3) - 🍊 :bar_chart: :bulb: Orange: Interactive data analysis
@@ -13325,7 +13325,7 @@
 - [bufferapp/android-guidelines](https://github.com/bufferapp/android-guidelines) - Project Guidelines for the Android Buffer App
 - [RyanAmos/rethinkdb-vagrant](https://github.com/RyanAmos/rethinkdb-vagrant) - Install RethinkDB using Vagrant.
 - [octoai/octo.ai](https://github.com/octoai/octo.ai) - The analytics hypervisor, an operating system to manage all your analytics needs and licensed under Apache 2.0 License.
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 1800+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, OSX, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 1900+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, OSX, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [OCA/ansible-odoo](https://github.com/OCA/ansible-odoo) - Ansible role for Odoo
 - [MichaelAquilina/zsh-autoswitch-virtualenv](https://github.com/MichaelAquilina/zsh-autoswitch-virtualenv) - 🐍 ZSH plugin to automatically switch python virtualenvs (including pipenv and poetry) as you move between directories
 - [rgcr/m-cli](https://github.com/rgcr/m-cli) -  Swiss Army Knife for macOS
@@ -13473,7 +13473,7 @@
 - [hediet/vscode-drawio](https://github.com/hediet/vscode-drawio) - This unofficial extension integrates Draw.io (also known as diagrams.net) into VS Code.
 - [labmlai/dashboard](https://github.com/labmlai/dashboard) - Experiments dashboard for LabML
 - [0xGG/vscode-crossnote](https://github.com/0xGG/vscode-crossnote) - (WIP) Turn your VSCode into a decent markdown note taking platform
-- [sindresorhus/refined-github](https://github.com/sindresorhus/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
+- [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [Redocly/redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation
 - [microsoft/BotFramework-Composer](https://github.com/microsoft/BotFramework-Composer) - Dialog creation and management for Microsoft Bot Framework Applications
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
