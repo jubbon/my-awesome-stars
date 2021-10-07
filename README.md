@@ -3576,7 +3576,7 @@
 - [fpass/fpass](https://github.com/fpass/fpass) - FPASS · 密码安全管理工具
 - [Popmotion/popmotion](https://github.com/Popmotion/popmotion) - Simple animation libraries for delightful user interfaces
 - [typicode/tlapse](https://github.com/typicode/tlapse) - 📷 Create a timelapse of your web development... or just automatically take screenshots of your hard work ;)
-- [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - 📦🚀 Blazing fast, zero configuration web application bundler
+- [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web. 📦🚀
 - [sdras/array-explorer](https://github.com/sdras/array-explorer) - ⚡️ A resource to help figure out what JavaScript array method would be best to use at any given time
 - [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short JavaScript code snippets for all your development needs
 - [baianat/vuse](https://github.com/baianat/vuse) - 🚧 Build web pages with Vuse, the next-gen interactive page builder powered with Vue.js.
@@ -4494,7 +4494,7 @@
 - [facebookresearch/vissl](https://github.com/facebookresearch/vissl) - VISSL is FAIR's library of extensible, modular and scalable components for SOTA Self-Supervised Learning with images.
 - [robertmartin8/PyPortfolioOpt](https://github.com/robertmartin8/PyPortfolioOpt) - Financial portfolio optimisation in python, including classical efficient frontier, Black-Litterman, Hierarchical Risk Parity
 - [CompVis/taming-transformers](https://github.com/CompVis/taming-transformers) - Taming Transformers for High-Resolution Image Synthesis
-- [AI4Finance-Foundation/FinRL](https://github.com/AI4Finance-Foundation/FinRL) - A Deep Reinforcement Learning Framework for Automated Trading in Quantitative Finance. NeurIPS 2020 & ICAIF 2021. 🔥
+- [AI4Finance-Foundation/FinRL](https://github.com/AI4Finance-Foundation/FinRL) - Deep Reinforcement Learning Framework to Automate Trading in Quantitative Finance. NeurIPS 2020 & ICAIF 2021. 🔥
 - [orpatashnik/StyleCLIP](https://github.com/orpatashnik/StyleCLIP) - Official Implementation for "StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery" (ICCV 2021 Oral)
 - [karpathy/deep-vector-quantization](https://github.com/karpathy/deep-vector-quantization) - VQVAEs, GumbelSoftmaxes and friends
 - [jackroos/VL-BERT](https://github.com/jackroos/VL-BERT) - Code for ICLR 2020 paper "VL-BERT: Pre-training of Generic Visual-Linguistic Representations".
@@ -4502,7 +4502,7 @@
 - [MLWhiz/data_science_blogs](https://github.com/MLWhiz/data_science_blogs) - A repository to keep track of all the code that I end up writing for my blog posts.
 - [yitu-opensource/T2T-ViT](https://github.com/yitu-opensource/T2T-ViT) - ICCV2021, Tokens-to-Token ViT: Training Vision Transformers from Scratch on ImageNet
 - [Pzoom522/HistSumm](https://github.com/Pzoom522/HistSumm) - Code and data for "Summarising Historical Text in Modern Languages" (EACL 2021)
-- [snakers4/silero-models](https://github.com/snakers4/silero-models) - Silero Models: pre-trained speech-to-text, text-to-speech models and benchmarks made embarrassingly simple
+- [snakers4/silero-models](https://github.com/snakers4/silero-models) - Silero Models: pre-trained speech-to-text, text-to-speech and text-enhancement models made embarrassingly simple
 - [grib0ed0v/kaldi-for-russian](https://github.com/grib0ed0v/kaldi-for-russian) - 
 - [yh1008/speech-to-text](https://github.com/yh1008/speech-to-text) - mixlingual speech recognition system; hybrid (GMM+NNet) model; Kaldi + Keras
 - [dwromero/wavelet_networks](https://github.com/dwromero/wavelet_networks) - Code repository of the paper "Wavelet Networks: Scale Equivariant Learning From Raw Waveforms"  https://arxiv.org/abs/2006.05259
@@ -6625,7 +6625,7 @@
 - [wbkd/awesome-d3](https://github.com/wbkd/awesome-d3) - A list of D3 libraries, plugins and utilities
 - [luciotato/golang-notes](https://github.com/luciotato/golang-notes) - Notes to understand golang
 - [DiegoRBaquero/awesome-webtorrent-clones](https://github.com/DiegoRBaquero/awesome-webtorrent-clones) - 👥 Product clones using WebTorrent/WebRTC
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL & Relay
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL
 - [speaking-for-hackers/speaking-for-hackers-book](https://github.com/speaking-for-hackers/speaking-for-hackers-book) - Tips for giving good conference talks by Ben Orenstein
 - [datasciencemasters/go](https://github.com/datasciencemasters/go) - The Open Source Data Science Masters
 - [firefox-devtools/debugger](https://github.com/firefox-devtools/debugger) - The faster and smarter Debugger for Firefox DevTools 🔥🦊🛠
@@ -10043,7 +10043,7 @@
 - [Shir0kamii/pyhooks](https://github.com/Shir0kamii/pyhooks) - Python hooks for methods
 - [arpitbbhayani/flasksr](https://github.com/arpitbbhayani/flasksr) - Make flask pages load faster and better by streaming partial HTTP Responses :boom:
 - [jiamings/fast-weights](https://github.com/jiamings/fast-weights) - Implementation of the paper [Using Fast Weights to Attend to the Recent Past](https://arxiv.org/abs/1610.06258)
-- [mirumee/saleor](https://github.com/mirumee/saleor) - A modular, high performance, headless e-commerce platform built with Python, GraphQL, Django, and React.
+- [saleor/saleor](https://github.com/saleor/saleor) - A modular, high performance, headless e-commerce platform built with Python, GraphQL, Django, and React.
 - [inejc/painters](https://github.com/inejc/painters) - :art: Winning solution for the Painter by Numbers competition on Kaggle.
 - [pywren/pywren](https://github.com/pywren/pywren) - Teraflops and microservices
 - [mseclab/nathan](https://github.com/mseclab/nathan) - Android Emulator for mobile security testing
@@ -13483,6 +13483,7 @@
 - [pulumi/examples](https://github.com/pulumi/examples) - Infrastructure, containers, and serverless apps to AWS, Azure, GCP, and Kubernetes... all deployed with Pulumi
 - [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - Browser fingerprinting library with the highest accuracy and stability.
 - [facebookresearch/hiplot](https://github.com/facebookresearch/hiplot) - HiPlot makes understanding high dimensional data easy
+- [coreui/coreui-vue](https://github.com/coreui/coreui-vue) - Over 90 Bootstrap based Vue.js components and directives. CoreUI Vue.js UI Components. CoreUI for Vue.js replaces and extends the Bootstrap javascript. Components have been built from scratch as true Vue components, without jQuery and unneeded dependencies.
 - [lostintangent/gistpad](https://github.com/lostintangent/gistpad) - VS Code extension for managing and sharing code snippets, notes and interactive samples using GitHub Gists
 - [RocketChat/docs](https://github.com/RocketChat/docs) - Rocket.Chat's user documentation.
 - [openvinotoolkit/cvat](https://github.com/openvinotoolkit/cvat) - Powerful and efficient Computer Vision Annotation Tool (CVAT)
@@ -13818,7 +13819,6 @@
 - [cohki0305/SlackCloneApp](https://github.com/cohki0305/SlackCloneApp) - 
 - [view-design/ViewUI](https://github.com/view-design/ViewUI) - A high quality UI Toolkit built on Vue.js 2.0
 - [johnpapa/vue-getting-started](https://github.com/johnpapa/vue-getting-started) - This project is seen in demos including the Pluralsight course "Vue: Getting Started" to help represent a fundamental app written with Vue. The heroes and villains theme is used throughout the app.
-- [coreui/coreui-vue](https://github.com/coreui/coreui-vue) - Over 90 Bootstrap based Vue.js components and directives. CoreUI Vue.js UI Components. CoreUI for Vue.js replaces and extends the Bootstrap javascript. Components have been built from scratch as true Vue components, without jQuery and unneeded dependencies.
 - [yeyan1996/file-upload](https://github.com/yeyan1996/file-upload) - 
 - [FactorJS/factor](https://github.com/FactorJS/factor) - Next-generation JavaScript framework for JAMStack blogs, sites & apps.
 - [antonreshetov/massCode](https://github.com/antonreshetov/massCode) - A free and open source code snippets manager for developers.
