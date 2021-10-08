@@ -351,7 +351,6 @@
 - [deepmind/lab](https://github.com/deepmind/lab) - A customisable 3D platform for agent-based AI research
 - [fail0verflow/hbc](https://github.com/fail0verflow/hbc) - The Homebrew Channel - open source edition
 - [blacksphere/blackmagic](https://github.com/blacksphere/blackmagic) - In application debugger for ARM Cortex microcontrollers.
-- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 100 supported car makes and models.
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [go-vgo/robotgo](https://github.com/go-vgo/robotgo) - RobotGo, Go Native cross-platform GUI automation  @vcaesar
 - [RedBeardLab/rediSQL](https://github.com/RedBeardLab/rediSQL) - Redis module that provides a completely functional SQL database
@@ -718,7 +717,7 @@
 - [aras-p/ToyPathTracer](https://github.com/aras-p/ToyPathTracer) - Toy path tracer for my own learning purposes (CPU/GPU, C++/C#, Win/Mac/Wasm, DX11/Metal, also Unity)
 - [OSGeo/gdal](https://github.com/OSGeo/gdal) - GDAL is an open source X/MIT licensed translator library for raster and vector geospatial data formats.
 - [NervanaSystems/ngraph](https://github.com/NervanaSystems/ngraph) - nGraph has moved to OpenVINO
-- [qchencd/timer-benchmarks](https://github.com/qchencd/timer-benchmarks) - Benchmark of different timer queue implementation(min-heap, red-black tree, timer vector)
+- [qchencc/timer-benchmarks](https://github.com/qchencc/timer-benchmarks) - Benchmark of different timer queue implementation(min-heap, red-black tree, timer vector)
 - [microsoft/service-fabric](https://github.com/microsoft/service-fabric) - Service Fabric is a distributed systems platform for packaging, deploying, and managing stateless and stateful distributed applications and containers at large scale.
 - [jacobdufault/cquery](https://github.com/jacobdufault/cquery) - C/C++ language server supporting multi-million line code base, powered by libclang. Emacs, Vim, VSCode, and others with language server protocol support. Cross references, completion, diagnostics, semantic highlighting and more
 - [malja/zroya](https://github.com/malja/zroya) - [Partialy working][Stale] Python extension for creating native Windows notifications.
@@ -1211,7 +1210,6 @@
 - [Openworx/themes](https://github.com/Openworx/themes) - 
 - [CodeByZach/pace](https://github.com/CodeByZach/pace) - Automatically add a progress bar to your site.
 - [HubPress/hubpress.io](https://github.com/HubPress/hubpress.io) - A web application to build your blog on GitHub
-- [creativetimofficial/material-kit](https://github.com/creativetimofficial/material-kit) - Free and Open Source UI Kit for Bootstrap 4, React, Vue.js, React Native and Sketch based on Google's Material Design
 - [yeoman/yeoman.io](https://github.com/yeoman/yeoman.io) - Yeoman website
 - [DataScienceSpecialization/DataScienceSpecialization.github.io](https://github.com/DataScienceSpecialization/DataScienceSpecialization.github.io) - http://DataScienceSpecialization.github.io
 - [you-dont-need/You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) - CSS is powerful, you can do a lot of things without JS.
@@ -1535,6 +1533,7 @@
 
 ## Go 
 
+- [umputun/reproxy](https://github.com/umputun/reproxy) - Simple edge server / reverse proxy
 - [jonaslu/ain](https://github.com/jonaslu/ain) - An HTTP API client for the terminal
 - [semi-technologies/weaviate](https://github.com/semi-technologies/weaviate) - Weaviate is a cloud-native, modular, real-time vector search engine
 - [onepanelio/onepanel](https://github.com/onepanelio/onepanel) - The open source, end-to-end computer vision platform. Label, build, train, tune, deploy and automate in a unified platform that runs on any cloud and on-premises.
@@ -1727,7 +1726,7 @@
 - [uber-go/zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go.
 - [benhoyt/goawk](https://github.com/benhoyt/goawk) - A POSIX-compliant AWK interpreter written in Go
 - [OpenObservability/OpenMetrics](https://github.com/OpenObservability/OpenMetrics) - Evolving the Prometheus exposition format into a standard.
-- [Jeffail/benthos](https://github.com/Jeffail/benthos) - Declarative stream processing for mundane tasks and data engineering
+- [Jeffail/benthos](https://github.com/Jeffail/benthos) - A declarative stream processor for lean data engineering
 - [MichaelMure/git-bug](https://github.com/MichaelMure/git-bug) - Distributed, offline-first bug tracker embedded in git, with bridges
 - [douban/gobeansdb](https://github.com/douban/gobeansdb) - Distributed object storage server from Douban Inc.
 - [runatlantis/atlantis](https://github.com/runatlantis/atlantis) - Terraform Pull Request Automation
@@ -2606,6 +2605,7 @@
 - [jgthms/web-design-in-4-minutes](https://github.com/jgthms/web-design-in-4-minutes) - Learn the basics of web design in 4 minutes
 - [arogozhnikov/arogozhnikov.github.io](https://github.com/arogozhnikov/arogozhnikov.github.io) - 'Brilliantly wrong' blog, Machine Learning visualizations live here
 - [fivethirtyeight/d3-pre](https://github.com/fivethirtyeight/d3-pre) - Pre-render d3 visualizations
+- [creativetimofficial/material-kit](https://github.com/creativetimofficial/material-kit) - Free and Open Source UI Kit for Bootstrap 4, React, Vue.js, React Native and Sketch based on Google's Material Design
 - [w3c/ServiceWorker](https://github.com/w3c/ServiceWorker) - Service Workers
 - [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
 - [GetStream/stream-react-example](https://github.com/GetStream/stream-react-example) - Use React and Redux to build your own feature-rich and scalable social network app! Visit cabin.getstream.io for an overview of all 8 tutorials and a live demo.
@@ -4408,7 +4408,6 @@
 - [dropzone/dropzone](https://github.com/dropzone/dropzone) - Dropzone is an easy to use drag'n'drop library. It supports image previews and shows nice progress bars.
 - [co-meeting/crowy](https://github.com/co-meeting/crowy) - Crowy is a communication dashboard supports multiple group communications services, incluging Twitter (with hashtag support), Facebook profile/page/group, Yammer, LinkedIn, Cybozu Live and youRoom.
 - [pydata/compilers-webpage](https://github.com/pydata/compilers-webpage) - Webpage source for compilers-webpage
-- [jacomyal/sigma.js](https://github.com/jacomyal/sigma.js) - A JavaScript library dedicated to graph drawing
 - [Parallels/rq-dashboard](https://github.com/Parallels/rq-dashboard) - Flask-based web front-end for monitoring RQ queues
 - [fzaninotto/uptime](https://github.com/fzaninotto/uptime) - A remote monitoring application using Node.js, MongoDB, and Twitter Bootstrap.
 
@@ -6462,7 +6461,6 @@
 - [berzerk0/Probable-Wordlists](https://github.com/berzerk0/Probable-Wordlists) - Version 2 is live! Wordlists sorted by probability originally created for password generation and testing - make sure your passwords aren't popular!
 - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
 - [alexpate/awesome-design-systems](https://github.com/alexpate/awesome-design-systems) - 💅🏻 ⚒ A collection of awesome design systems
-- [diskoverdata/diskover-community](https://github.com/diskoverdata/diskover-community) - Diskover Community Edition - Open source file indexer, file search engine and data management and analytics powered by Elasticsearch
 - [iliakan/javascript-tutorial](https://github.com/iliakan/javascript-tutorial) - The Modern JavaScript Tutorial
 - [kallaway/100-days-of-code](https://github.com/kallaway/100-days-of-code) - Fork this template for the 100 days journal - to keep yourself accountable (multiple languages available)
 - [kailashahirwar/cheatsheets-ai](https://github.com/kailashahirwar/cheatsheets-ai) - Essential Cheat Sheets for deep learning and machine learning researchers https://medium.com/@kailashahirwar/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5
@@ -6861,6 +6859,7 @@
 - [romkavt/yandex-money-kassa-example](https://github.com/romkavt/yandex-money-kassa-example) - 
 - [laravel-enso/enso](https://github.com/laravel-enso/enso) - Laravel Vue SPA, Bulma themed. For demo login use `admin@laravel-enso.com` & `password` -
 - [LasseRafn/ui-avatars](https://github.com/LasseRafn/ui-avatars) - 
+- [diskoverdata/diskover-community](https://github.com/diskoverdata/diskover-community) - Diskover Community Edition - Open source file indexer, file search engine and data management and analytics powered by Elasticsearch
 - [ClickMeeting/DevZone](https://github.com/ClickMeeting/DevZone) - Code related to DevZone on ClickMeeting
 - [phpmyadmin/docker](https://github.com/phpmyadmin/docker) - Docker container for phpMyAdmin
 - [HaliteChallenge/Halite](https://github.com/HaliteChallenge/Halite) - @twosigma's first artificial intelligence programming challenge
@@ -6959,7 +6958,7 @@
 - [elblogbruno/NotionAI-MyMind](https://github.com/elblogbruno/NotionAI-MyMind) - This repo uses AI and the wonderful Notion to enable you to add anything on the web to your "Mind" and forget about everything else.
 - [lehaifeng/SCAttNet](https://github.com/lehaifeng/SCAttNet) - Semantic Segmentation Network with Spatial and Channel Attention Mechanism for High-Resolution Remote Sensing Images
 - [princeton-nlp/DensePhrases](https://github.com/princeton-nlp/DensePhrases) - ACL'2021: Learning Dense Representations of Phrases at Scale; EMNLP'2021: Phrase Retrieval Learns Passage Retrieval, Too
-- [salesforce/CodeT5](https://github.com/salesforce/CodeT5) - 
+- [salesforce/CodeT5](https://github.com/salesforce/CodeT5) - Code for CodeT5: a new code-aware pre-trained encoder-decoder model.
 - [google-research/FLAN](https://github.com/google-research/FLAN) - 
 - [alibaba/AliceMind](https://github.com/alibaba/AliceMind) - 
 - [mlpack/benchmarks](https://github.com/mlpack/benchmarks) - Machine Learning Benchmark Scripts
@@ -9987,6 +9986,7 @@
 - [deepjets/deepjets](https://github.com/deepjets/deepjets) - Main repository for image generation and CNN training https://arxiv.org/abs/1609.00607
 - [sihaelov/harser](https://github.com/sihaelov/harser) - Easy way for HTML parsing and building XPath
 - [despoisj/DeepAudioClassification](https://github.com/despoisj/DeepAudioClassification) - Finding the genre of a song with Deep Learning
+- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 100 supported car makes and models.
 - [openeducat/openeducat_erp](https://github.com/openeducat/openeducat_erp) - Comprehensive Open Source ERP for Educational Institutes
 - [MatthewClarkMay/geoip-attack-map](https://github.com/MatthewClarkMay/geoip-attack-map) - Cyber security geoip attack map that follows syslog and parses IPs/port numbers to visualize attackers in real time.
 - [jimfleming/recurrent-entity-networks](https://github.com/jimfleming/recurrent-entity-networks) - TensorFlow implementation of "Tracking the World State with Recurrent Entity Networks".
@@ -13771,6 +13771,7 @@
 - [googledatalab/datalab](https://github.com/googledatalab/datalab) - Interactive tools and developer experiences for Big Data on Google Cloud Platform.
 - [elastic/kibana](https://github.com/elastic/kibana) - Your window into the Elastic Stack
 - [blockstack/stacks.js](https://github.com/blockstack/stacks.js) - JavaScript libraries for identity, auth, storage and transactions on the Stacks blockchain.
+- [jacomyal/sigma.js](https://github.com/jacomyal/sigma.js) - A JavaScript library dedicated to graph drawing
 
 ## Vala 
 
