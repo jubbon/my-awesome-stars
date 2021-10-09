@@ -4317,6 +4317,7 @@
 - [kamalmarhubi/one-second](https://github.com/kamalmarhubi/one-second) - Fun performance game!
 - [datproject/dat](https://github.com/datproject/dat) - :floppy_disk: peer-to-peer sharing & live syncronization of files via command line
 - [ITLibertas/odoo-public-addons](https://github.com/ITLibertas/odoo-public-addons) - Addons for OpenERP (Odoo) by IT Libertas
+- [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
 - [beeware/batavia](https://github.com/beeware/batavia) - A JavaScript implementation of the Python virtual machine.
 - [blindmotion/dashboard](https://github.com/blindmotion/dashboard) - A tool for displaying both video and charts with data
 - [pinterest/pinball](https://github.com/pinterest/pinball) - Pinball is a scalable workflow manager
@@ -4444,6 +4445,7 @@
 
 ## Jupyter Notebook 
 
+- [sberbank-ai/sber-vq-gan](https://github.com/sberbank-ai/sber-vq-gan) - 
 - [svenkreiss/socialforce](https://github.com/svenkreiss/socialforce) - Differentiable Social Force simulation with universal interaction potentials.
 - [machine-learning-helpers/induction-python](https://github.com/machine-learning-helpers/induction-python) - Python source code derived from books about Machine Learning (ML)
 - [NeuralPushkin/Usefull](https://github.com/NeuralPushkin/Usefull) - Usefull papers, repos, tg chats etc
@@ -8394,7 +8396,7 @@
 - [man-group/arctic](https://github.com/man-group/arctic) - High performance datastore for time series and tick data
 - [bbli/ml_board](https://github.com/bbli/ml_board) - a machine learning dashboard that displays hyperparameter settings alongside visualizations, and logs the scientist's thoughts throughout the training process
 - [rootVIII/proxy_requests](https://github.com/rootVIII/proxy_requests) - a class that uses scraped proxies to make http GET/POST requests (Python requests)
-- [dbt-labs/dbt](https://github.com/dbt-labs/dbt) - dbt (data build tool) enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.
+- [dbt-labs/dbt](https://github.com/dbt-labs/dbt) - dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.
 - [foolwood/DaSiamRPN](https://github.com/foolwood/DaSiamRPN) - [ECCV2018] Distractor-aware Siamese Networks for Visual Object Tracking
 - [awesto/cookiecutter-django-shop](https://github.com/awesto/cookiecutter-django-shop) - Cookiecutter django-SHOP is a blueprint for an e-commerce site based on django-CMS.
 - [loisaidasam/csv-position-reader](https://github.com/loisaidasam/csv-position-reader) - A custom CSV reader implementation with direct file access
@@ -11381,7 +11383,6 @@
 - [gawel/pyquery](https://github.com/gawel/pyquery) - A jquery-like library for python
 - [yaolubrain/ULNNO](https://github.com/yaolubrain/ULNNO) - Unsupervised Learning on Neural Network Outputs
 - [casperkaae/parmesan](https://github.com/casperkaae/parmesan) - Variational and semi-supervised neural network toppings for Lasagne
-- [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
 - [satanas/Turpial](https://github.com/satanas/Turpial) - Twitter client written in Python. Light, fast, fully functional and integrated to the user desktop
 - [scikit-learn-contrib/metric-learn](https://github.com/scikit-learn-contrib/metric-learn) - Metric learning algorithms in Python
 - [itdxer/neupy](https://github.com/itdxer/neupy) - NeuPy is a Tensorflow based python library for prototyping and building neural networks
@@ -13543,7 +13544,7 @@
 - [auchenberg/vscode-browser-preview](https://github.com/auchenberg/vscode-browser-preview) - A real browser preview inside your editor that you can debug.
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [TypeStrong/typedoc](https://github.com/TypeStrong/typedoc) - Documentation generator for TypeScript projects.
-- [eamodio/vscode-gitlens](https://github.com/eamodio/vscode-gitlens) - Supercharge the Git capabilities built into Visual Studio Code — Visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more
+- [Axosoft/vscode-gitlens](https://github.com/Axosoft/vscode-gitlens) - Supercharge the Git capabilities built into Visual Studio Code — Visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more
 - [fabiospampinato/noty](https://github.com/fabiospampinato/noty) - Autosaving sticky note with support for multiple notes without needing multiple windows.
 - [rrweb-io/rrweb](https://github.com/rrweb-io/rrweb) - record and replay the web
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
