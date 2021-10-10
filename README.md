@@ -73,6 +73,7 @@
   - [Others](#others)
   - [PHP](#php)
   - [PLpgSQL](#plpgsql)
+  - [Pascal](#pascal)
   - [Perl](#perl)
   - [Pony](#pony)
   - [PostScript](#postscript)
@@ -321,6 +322,7 @@
 - [tectonic-typesetting/tectonic](https://github.com/tectonic-typesetting/tectonic) - A modernized, complete, self-contained TeX/LaTeX engine, powered by XeTeX and TeXLive.
 - [mnurzia/even-better-ls](https://github.com/mnurzia/even-better-ls) - LS + Icons + Formatting
 - [bitnine-oss/agensgraph](https://github.com/bitnine-oss/agensgraph) - AgensGraph, a transactional graph database based on PostgreSQL
+- [electroly/sqlnotebook](https://github.com/electroly/sqlnotebook) - Tabular data exploration and manipulation tool powered by SQLite.
 - [micropython/micropython-unicorn](https://github.com/micropython/micropython-unicorn) - MicroPython on Unicorn
 - [wolfgangfengel/GPUZen](https://github.com/wolfgangfengel/GPUZen) - contains the source code accompanying the book GPU Zen.
 - [taviso/loadlibrary](https://github.com/taviso/loadlibrary) - Porting Windows Dynamic Link Libraries to Linux
@@ -487,7 +489,6 @@
 - [MLJejuCamp2017/DRL_based_SelfDrivingCarControl](https://github.com/MLJejuCamp2017/DRL_based_SelfDrivingCarControl) - Deep Reinforcement Learning (DQN) based Self Driving Car Control with Vehicle Simulator
 - [dvf/blockchain](https://github.com/dvf/blockchain) - A simple Blockchain in Python
 - [Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents) - Unity Machine Learning Agents Toolkit
-- [electroly/sqlnotebook](https://github.com/electroly/sqlnotebook) - Tabular data exploration and manipulation tool powered by SQLite.
 - [migueldeicaza/TensorFlowSharp](https://github.com/migueldeicaza/TensorFlowSharp) - TensorFlow API for .NET languages
 - [pojala/electrino](https://github.com/pojala/electrino) - Desktop runtime for apps built on web technologies, using the system's own web browser engine
 - [udacity/self-driving-car-sim](https://github.com/udacity/self-driving-car-sim) - A self-driving car simulator built with Unity
@@ -729,7 +730,7 @@
 - [facebookresearch/TensorComprehensions](https://github.com/facebookresearch/TensorComprehensions) - A domain specific language to express machine learning workloads.
 - [baidu/braft](https://github.com/baidu/braft) - An industrial-grade C++ implementation of RAFT consensus algorithm based on brpc,  widely used inside Baidu to build highly-available distributed systems.
 - [OpenBoard-org/OpenBoard](https://github.com/OpenBoard-org/OpenBoard) - OpenBoard is a cross-platform interactive whiteboard application intended for use in a classroom setting.
-- [finos/perspective](https://github.com/finos/perspective) - Streaming pivot visualization via WebAssembly
+- [finos/perspective](https://github.com/finos/perspective) - A data visualization and analytics component, especially well-suited for large and/or streaming datasets.
 - [isl-org/Open3D](https://github.com/isl-org/Open3D) - Open3D: A Modern Library for 3D Data Processing
 - [LordNoteworthy/al-khaser](https://github.com/LordNoteworthy/al-khaser) - Public malware techniques used in the wild: Virtual Machine, Emulation, Debuggers, Sandbox detection.
 - [tensorflow/minigo](https://github.com/tensorflow/minigo) - An open-source implementation of the AlphaGoZero algorithm
@@ -2624,6 +2625,7 @@
 - [elbamos/largeVis](https://github.com/elbamos/largeVis) - An implementation of the largeVis algorithm for visualizing large, high-dimensional datasets, for R
 - [google/ioweb2016](https://github.com/google/ioweb2016) - I/O web app 2016
 - [eliangcs/pystock-data](https://github.com/eliangcs/pystock-data) - (UNMAINTAINED) US stock market data since 2009
+- [jlord/patchwork](https://github.com/jlord/patchwork) - All the Git-it Workshop completers!
 - [electron/electron-api-demos](https://github.com/electron/electron-api-demos) - Explore the Electron APIs
 - [akoumjian/datefinder](https://github.com/akoumjian/datefinder) - Find dates inside text using Python and get back datetime objects
 - [wcember/pypub](https://github.com/wcember/pypub) - Python library to programatically create epub files
@@ -5085,6 +5087,7 @@
 - [charlieturner/square-sum-sequences](https://github.com/charlieturner/square-sum-sequences) - To check whether runs of numbers can be organised into sequences where every consecutive pair of numbers adds to a square. And plot the results!
 - [SauceCat/pydqc](https://github.com/SauceCat/pydqc) - python automatic data quality check toolkit
 - [Zeta36/chess-alpha-zero](https://github.com/Zeta36/chess-alpha-zero) - Chess reinforcement learning by AlphaGo Zero methods.
+- [skorch-dev/skorch](https://github.com/skorch-dev/skorch) - A scikit-learn compatible neural network library that wraps PyTorch
 - [julienr/ipynb_playground](https://github.com/julienr/ipynb_playground) - Various ipython notebooks
 - [vincentherrmann/pytorch-wavenet](https://github.com/vincentherrmann/pytorch-wavenet) - An implementation of WaveNet with fast generation
 - [hse-aml/intro-to-dl](https://github.com/hse-aml/intro-to-dl) - Resources for "Introduction to Deep Learning" course.
@@ -5737,7 +5740,6 @@
 - [ForkAwesome/Fork-Awesome](https://github.com/ForkAwesome/Fork-Awesome) - A fork of the iconic font and CSS toolkit
 - [fossasia/codeheat.org](https://github.com/fossasia/codeheat.org) - Codeheat Coding Contest Website https://codeheat.org
 - [ng-alain/ng-alain](https://github.com/ng-alain/ng-alain) - NG-ZORRO admin panel front-end framework (surge mirror https://ng-alain-doc.surge.sh)
-- [qgis/QGIS-Website](https://github.com/qgis/QGIS-Website) - QGIS-Website
 - [kevinsawicki/monokai](https://github.com/kevinsawicki/monokai) - Monokai Atom Syntax theme
 - [jesseweed/seti-ui](https://github.com/jesseweed/seti-ui) - A subtle dark colored UI theme for Atom.
 - [Tencent/weui](https://github.com/Tencent/weui) - A UI library by WeChat official design team, includes the most useful widgets/modules in mobile web applications.
@@ -6582,7 +6584,7 @@
 - [sbrugman/deep-learning-papers](https://github.com/sbrugman/deep-learning-papers) - Papers about deep learning ordered by task, date. Current state-of-the-art papers are labelled.
 - [dhamaniasad/HeadlessBrowsers](https://github.com/dhamaniasad/HeadlessBrowsers) - A list of (almost) all headless web browsers in existence
 - [AnthonyCalandra/modern-cpp-features](https://github.com/AnthonyCalandra/modern-cpp-features) - A cheatsheet of modern C++ language and library features.
-- [Templarian/MaterialDesign](https://github.com/Templarian/MaterialDesign) - ✒6100+ Material Design Icons from the Community
+- [Templarian/MaterialDesign](https://github.com/Templarian/MaterialDesign) - ✒6200+ Material Design Icons from the Community
 - [Miej/GoDeeper](https://github.com/Miej/GoDeeper) - 
 - [markerikson/react-redux-links](https://github.com/markerikson/react-redux-links) - Curated tutorial and resource links I've collected on React, Redux, ES6, and more
 - [sqreen/awesome-nodejs-projects](https://github.com/sqreen/awesome-nodejs-projects) - Curated list of awesome open-source applications made with Node.js
@@ -6878,6 +6880,10 @@
 - [openmaptiles/openmaptiles](https://github.com/openmaptiles/openmaptiles) - OpenMapTiles Vector Tile Schema Implementation
 - [pgRouting/pgrouting](https://github.com/pgRouting/pgrouting) - Repository contains pgRouting library. Development branch is "develop", stable branch is "master"
 
+## Pascal 
+
+- [qgis/QGIS-Website](https://github.com/qgis/QGIS-Website) - QGIS-Website
+
 ## Perl 
 
 - [mravanelli/pytorch_MLP_for_ASR](https://github.com/mravanelli/pytorch_MLP_for_ASR) - This code implements a basic MLP for speech recognition. The MLP  is trained  with pytorch, while feature extraction, alignments, and decoding are performed with Kaldi.  The current implementation supports dropout and batch normalization. An example for phoneme recognition using the standard TIMIT dataset is provided.
@@ -6962,7 +6968,7 @@
 - [princeton-nlp/DensePhrases](https://github.com/princeton-nlp/DensePhrases) - ACL'2021: Learning Dense Representations of Phrases at Scale; EMNLP'2021: Phrase Retrieval Learns Passage Retrieval, Too
 - [salesforce/CodeT5](https://github.com/salesforce/CodeT5) - Code for CodeT5: a new code-aware pre-trained encoder-decoder model.
 - [google-research/FLAN](https://github.com/google-research/FLAN) - 
-- [alibaba/AliceMind](https://github.com/alibaba/AliceMind) - 
+- [alibaba/AliceMind](https://github.com/alibaba/AliceMind) - ALIbaba's Collection of Encoder-decoders from MinD (Machine IntelligeNce of Damo) Lab
 - [mlpack/benchmarks](https://github.com/mlpack/benchmarks) - Machine Learning Benchmark Scripts
 - [autonomousvision/neat](https://github.com/autonomousvision/neat) - [ICCV'21] NEAT: Neural Attention Fields for End-to-End Autonomous Driving
 - [khuyentran1401/kedro_demo](https://github.com/khuyentran1401/kedro_demo) - A demo of a data science project using Kedro
@@ -9028,12 +9034,11 @@
 - [NVIDIA/sentiment-discovery](https://github.com/NVIDIA/sentiment-discovery) - Unsupervised Language Modeling at scale for robust sentiment classification
 - [NTMC-Community/MatchZoo](https://github.com/NTMC-Community/MatchZoo) - Facilitating the design, comparison and sharing of deep text matching models.
 - [NVIDIA/pix2pixHD](https://github.com/NVIDIA/pix2pixHD) - Synthesizing and manipulating 2048x1024 images with conditional GANs
-- [skorch-dev/skorch](https://github.com/skorch-dev/skorch) - A scikit-learn compatible neural network library that wraps PyTorch
 - [tommikaikkonen/prettyprinter](https://github.com/tommikaikkonen/prettyprinter) - Syntax-highlighting, declarative and composable pretty printer for Python 3.5+
 - [mehdidc/pomodoro](https://github.com/mehdidc/pomodoro) - simple command line pomodoro app with visualization of statistics
 - [chainer/chainer-chemistry](https://github.com/chainer/chainer-chemistry) - Chainer Chemistry: A Library for Deep Learning in Biology and Chemistry
 - [joshua-wu/deepfakes_faceswap](https://github.com/joshua-wu/deepfakes_faceswap) - from deekfakes' faceswap: https://www.reddit.com/user/deepfakes/
-- [Julian/jsonschema](https://github.com/Julian/jsonschema) - An(other) implementation of JSON Schema for Python
+- [Julian/jsonschema](https://github.com/Julian/jsonschema) - An implementation of the JSON Schema specification for Python
 - [AnalogJ/gitmask](https://github.com/AnalogJ/gitmask) - Contribute Code Anonymously
 - [zuoxingdong/mazelab](https://github.com/zuoxingdong/mazelab) - A customizable framework to create maze and gridworld environments
 - [microsoft/MMdnn](https://github.com/microsoft/MMdnn) - MMdnn is a set of tools to help users inter-operate among different deep learning frameworks. E.g. model conversion and visualization. Convert models between Caffe, Keras, MXNet, Tensorflow, CNTK, PyTorch Onnx and CoreML.
@@ -12878,7 +12883,7 @@
 - [tendenci/tendenci](https://github.com/tendenci/tendenci) - Tendenci - The Open Source Association Management System (AMS)
 - [readthedocs/readthedocs.org](https://github.com/readthedocs/readthedocs.org) - The source code that powers readthedocs.org
 - [quantmind/pulsar](https://github.com/quantmind/pulsar) - Event driven concurrent framework for Python
-- [psf/requests](https://github.com/psf/requests) - A simple, yet elegant HTTP library.
+- [psf/requests](https://github.com/psf/requests) - A simple, yet elegant, HTTP library.
 - [clips/pattern](https://github.com/clips/pattern) - Web mining module for Python, with tools for scraping, natural language processing, machine learning, network analysis and visualization.
 
 ## QML 
@@ -13012,7 +13017,6 @@
 ## Rich Text Format 
 
 - [github/dmca](https://github.com/github/dmca) - Repository with text of DMCA takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices. Users identified in the notices are presumed innocent until proven guilty. Additional information about our DMCA policy can be found at
-- [jlord/patchwork](https://github.com/jlord/patchwork) - All the Git-it Workshop completers!
 
 ## Roff 
 
