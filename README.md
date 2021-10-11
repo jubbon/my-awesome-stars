@@ -135,7 +135,6 @@
 
 - [nanochess/Invaders](https://github.com/nanochess/Invaders) - Invaders game in 512 bytes (boot sector)
 - [algorithm-archivists/algorithm-archive](https://github.com/algorithm-archivists/algorithm-archive) - A collaborative book on algorithms
-- [versatica/mediasoup](https://github.com/versatica/mediasoup) - Cutting Edge WebRTC Video Conferencing
 - [ROCmSoftwarePlatform/MIOpen](https://github.com/ROCmSoftwarePlatform/MIOpen) - AMD's Machine Intelligence Library
 
 ## Awk 
@@ -785,6 +784,7 @@
 - [yue/yue](https://github.com/yue/yue) - A library for creating native cross-platform GUI apps
 - [codilime/veles](https://github.com/codilime/veles) - Binary data analysis and visualization tool
 - [onnx/onnx](https://github.com/onnx/onnx) - Open standard for machine learning interoperability
+- [versatica/mediasoup](https://github.com/versatica/mediasoup) - Cutting Edge WebRTC Video Conferencing
 - [numworks/epsilon](https://github.com/numworks/epsilon) - Modern graphing calculator operating system.
 - [warmspringwinds/pytorch-cpp](https://github.com/warmspringwinds/pytorch-cpp) - Pytorch C++ Library
 - [Tencent/paxosstore](https://github.com/Tencent/paxosstore) - PaxosStore has been deployed in WeChat production for more than two years, providing storage services for the core businesses of WeChat backend. Now PaxosStore is running on thousands of machines, and is able to afford billions of peak TPS.
@@ -2625,7 +2625,6 @@
 - [elbamos/largeVis](https://github.com/elbamos/largeVis) - An implementation of the largeVis algorithm for visualizing large, high-dimensional datasets, for R
 - [google/ioweb2016](https://github.com/google/ioweb2016) - I/O web app 2016
 - [eliangcs/pystock-data](https://github.com/eliangcs/pystock-data) - (UNMAINTAINED) US stock market data since 2009
-- [jlord/patchwork](https://github.com/jlord/patchwork) - All the Git-it Workshop completers!
 - [electron/electron-api-demos](https://github.com/electron/electron-api-demos) - Explore the Electron APIs
 - [akoumjian/datefinder](https://github.com/akoumjian/datefinder) - Find dates inside text using Python and get back datetime objects
 - [wcember/pypub](https://github.com/wcember/pypub) - Python library to programatically create epub files
@@ -5637,6 +5636,7 @@
 - [yidao620c/python3-cookbook](https://github.com/yidao620c/python3-cookbook) - 《Python Cookbook》 3rd Edition Translation
 - [uwescience/shablona](https://github.com/uwescience/shablona) - A template for small scientific python projects
 - [tritemio/jupyter_notebook_beginner_guide](https://github.com/tritemio/jupyter_notebook_beginner_guide) - A brief guide to install and run Jupyter/IPython notebooks
+- [ipython/ipyparallel](https://github.com/ipython/ipyparallel) - IPython Parallel: Interactive Parallel Computing in Python
 - [flexxui/flexx-notebooks](https://github.com/flexxui/flexx-notebooks) - Jupyter notebooks with Flexx examples.
 - [rcompton/ml_cheat_sheet](https://github.com/rcompton/ml_cheat_sheet) - My notes and superstitions about common machine learning algorithms
 - [GaelVaroquaux/sklearn_europython_2014](https://github.com/GaelVaroquaux/sklearn_europython_2014) - Scikit-learn Tutorial at EuroPython 2014
@@ -10921,7 +10921,6 @@
 - [jupyterhub/sudospawner](https://github.com/jupyterhub/sudospawner) - Spawn JupyterHub single-user servers with sudo
 - [jupyter/qtconsole](https://github.com/jupyter/qtconsole) - Jupyter Qt Console
 - [jupyter/jupyter_kernel_test](https://github.com/jupyter/jupyter_kernel_test) - A tool for testing Jupyter kernels
-- [ipython/ipyparallel](https://github.com/ipython/ipyparallel) - IPython Parallel: Interactive Parallel Computing in Python
 - [rossant/ipymd](https://github.com/rossant/ipymd) - Use the IPython notebook as an interactive Markdown editor
 - [jaysw/ipydb](https://github.com/jaysw/ipydb) - Turn your IPython console into a cross-database SQL client
 - [damiendr/callipy](https://github.com/damiendr/callipy) - Call IPython notebooks with arguments
@@ -13017,6 +13016,7 @@
 ## Rich Text Format 
 
 - [github/dmca](https://github.com/github/dmca) - Repository with text of DMCA takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices. Users identified in the notices are presumed innocent until proven guilty. Additional information about our DMCA policy can be found at
+- [jlord/patchwork](https://github.com/jlord/patchwork) - All the Git-it Workshop completers!
 
 ## Roff 
 
