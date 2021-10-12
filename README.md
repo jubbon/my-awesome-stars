@@ -795,7 +795,7 @@
 - [Blizzard/s2client-api](https://github.com/Blizzard/s2client-api) - StarCraft II Client - C++ library supported on Windows, Linux and Mac designed for building scripted bots and research using the SC2API.
 - [argman/EAST](https://github.com/argman/EAST) - A tensorflow implementation of EAST text detector
 - [moderngl/moderngl](https://github.com/moderngl/moderngl) - Modern OpenGL binding for python
-- [materialx/MaterialX](https://github.com/materialx/MaterialX) - MaterialX is an open standard for transfer of rich material and look-development content between applications and renderers.
+- [materialx/MaterialX](https://github.com/materialx/MaterialX) - MaterialX is an open standard for representing rich material and look-development content in computer graphics.
 - [samhocevar/lolremez](https://github.com/samhocevar/lolremez) - 📈 Polynomial Approximations using the Remez Algorithm
 - [ApolloAuto/apollo-platform](https://github.com/ApolloAuto/apollo-platform) - Collections of Apollo Platform Software
 - [EOSIO/eos](https://github.com/EOSIO/eos) - An open source smart contract platform
@@ -1727,7 +1727,7 @@
 - [uber-go/zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go.
 - [benhoyt/goawk](https://github.com/benhoyt/goawk) - A POSIX-compliant AWK interpreter written in Go
 - [OpenObservability/OpenMetrics](https://github.com/OpenObservability/OpenMetrics) - Evolving the Prometheus exposition format into a standard.
-- [Jeffail/benthos](https://github.com/Jeffail/benthos) - A declarative stream processor for lean data engineering
+- [Jeffail/benthos](https://github.com/Jeffail/benthos) - Fancy stream processing made operationally mundane
 - [MichaelMure/git-bug](https://github.com/MichaelMure/git-bug) - Distributed, offline-first bug tracker embedded in git, with bridges
 - [douban/gobeansdb](https://github.com/douban/gobeansdb) - Distributed object storage server from Douban Inc.
 - [runatlantis/atlantis](https://github.com/runatlantis/atlantis) - Terraform Pull Request Automation
@@ -3661,6 +3661,7 @@
 - [littlstar/hivemind](https://github.com/littlstar/hivemind) - For creating distributed jobs using AWS Lambda functions
 - [carbon-app/carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
 - [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated interview preparation materials for busy engineers
+- [tamiat/tamiat](https://github.com/tamiat/tamiat) - :sailboat:  Vuejs and Golang based CMS
 - [elbywan/bosket](https://github.com/elbywan/bosket) - Collection of tree view components for front-end frameworks. :deciduous_tree:
 - [cazala/coin-hive](https://github.com/cazala/coin-hive) - CoinHive cryptocurrency miner for node.js
 - [trazyn/weweChat](https://github.com/trazyn/weweChat) - 💬 Unofficial WeChat client built with React, MobX and Electron.
@@ -5958,6 +5959,7 @@
 - [ngalongc/bug-bounty-reference](https://github.com/ngalongc/bug-bounty-reference) - Inspired by https://github.com/djadmin/awesome-bug-bounty, a list of bug bounty write-up that is categorized by the bug nature
 - [harvardinformatics/learning-bioinformatics-at-home](https://github.com/harvardinformatics/learning-bioinformatics-at-home) - resources for learning bioinformatics
 - [mrgloom/awesome-semantic-segmentation](https://github.com/mrgloom/awesome-semantic-segmentation) - :metal: awesome-semantic-segmentation
+- [github/dmca](https://github.com/github/dmca) - Repository with text of DMCA takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices. Users identified in the notices are presumed innocent until proven guilty. Additional information about our DMCA policy can be found at
 - [mikesprague/udacity-nanodegrees](https://github.com/mikesprague/udacity-nanodegrees) - :mortar_board: List of Udacity Nanodegree programs with links to the free courses in their curricula
 - [felipefialho/frontend-challenges](https://github.com/felipefialho/frontend-challenges) - :boom: Listing some playful open-source's challenges of companies to test your knowledge
 - [thomasp85/ggplot2_workshop](https://github.com/thomasp85/ggplot2_workshop) - Material for "Drawing Anything with ggplot2" workshop
@@ -7069,7 +7071,7 @@
 - [xingyizhou/CenterNet2](https://github.com/xingyizhou/CenterNet2) - Two-stage CenterNet
 - [TheAtticusProject/cuad](https://github.com/TheAtticusProject/cuad) - CUAD
 - [Epiphqny/VisTR](https://github.com/Epiphqny/VisTR) - [CVPR2021 Oral] End-to-End Video Instance Segmentation with Transformers
-- [gitx-io/ActionServerless](https://github.com/gitx-io/ActionServerless) - Use GitHub Actions to create a serverless service.
+- [gitx-io/ActionServerless](https://github.com/gitx-io/ActionServerless) - Use GitHub Actions to create a Serverless service.
 - [datasaur-ai/api-client-example](https://github.com/datasaur-ai/api-client-example) - Sample Script for Datasaur Integration
 - [lumaku/ctc-segmentation](https://github.com/lumaku/ctc-segmentation) - Segment an audio file and obtain utterance alignments. (Python package)
 - [dddzg/up-detr](https://github.com/dddzg/up-detr) - [CVPR2021 Oral] UP-DETR: Unsupervised Pre-training for Object Detection with Transformers
@@ -7101,7 +7103,7 @@
 - [google/model_search](https://github.com/google/model_search) - 
 - [yongxinw/GSDT](https://github.com/yongxinw/GSDT) - Official PyTorch implementation of "Joint Object Detection and Multi-Object Tracking with Graph Neural Networks"
 - [vballoli/nfnets-pytorch](https://github.com/vballoli/nfnets-pytorch) - NFNets and Adaptive Gradient Clipping for SGD implemented in PyTorch. Find explanation at tourdeml.github.io/blog/
-- [VITA-Group/TransGAN](https://github.com/VITA-Group/TransGAN) - [Preprint] "TransGAN: Two Pure Transformers Can Make One Strong GAN, and That Can Scale Up", Yifan Jiang, Shiyu Chang, Zhangyang Wang
+- [VITA-Group/TransGAN](https://github.com/VITA-Group/TransGAN) - [NeurIPS‘2021] "TransGAN: Two Pure Transformers Can Make One Strong GAN, and That Can Scale Up", Yifan Jiang, Shiyu Chang, Zhangyang Wang
 - [uvipen/SSD-pytorch](https://github.com/uvipen/SSD-pytorch) - SSD: Single Shot MultiBox Detector pytorch implementation focusing on simplicity
 - [yuval-alaluf/SAM](https://github.com/yuval-alaluf/SAM) - Official Implementation for "Only a Matter of Style: Age Transformation Using a Style-Based Regression Model" (SIGGRAPH 2021) https://arxiv.org/abs/2102.02754
 - [iamyuanchung/Autoregressive-Predictive-Coding](https://github.com/iamyuanchung/Autoregressive-Predictive-Coding) - Autoregressive Predictive Coding: An unsupervised autoregressive model for speech representation learning
@@ -11141,7 +11143,7 @@
 - [dahlia/awesome-sqlalchemy](https://github.com/dahlia/awesome-sqlalchemy) - A curated list of awesome tools for SQLAlchemy
 - [deldotdr/txRedis](https://github.com/deldotdr/txRedis) - A Redis client library for Twisted Python
 - [driftx/Telephus](https://github.com/driftx/Telephus) - Telephus is a connection pooled, low-level client API for Cassandra in Twisted python.
-- [andymccurdy/redis-py](https://github.com/andymccurdy/redis-py) - Redis Python Client
+- [redis/redis-py](https://github.com/redis/redis-py) - Redis Python Client
 - [pycassa/pycassa](https://github.com/pycassa/pycassa) - Python Thrift driver for Apache Cassandra
 - [python-happybase/happybase](https://github.com/python-happybase/happybase) - A developer-friendly Python library to interact with Apache HBase
 - [datastax/python-driver](https://github.com/datastax/python-driver) - DataStax Python Driver for Apache Cassandra
@@ -13015,7 +13017,6 @@
 
 ## Rich Text Format 
 
-- [github/dmca](https://github.com/github/dmca) - Repository with text of DMCA takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices. Users identified in the notices are presumed innocent until proven guilty. Additional information about our DMCA policy can be found at
 - [jlord/patchwork](https://github.com/jlord/patchwork) - All the Git-it Workshop completers!
 
 ## Roff 
@@ -14089,7 +14090,7 @@
 - [dongweiming/wechat-admin](https://github.com/dongweiming/wechat-admin) - Wechat Management System
 - [Dafrok/vue-baidu-map](https://github.com/Dafrok/vue-baidu-map) - Baidu Map components for Vue 2.x
 - [iview/iview-admin](https://github.com/iview/iview-admin) - Vue 2.0 admin management system template based on iView
-- [OneWayTech/vue2-datatable](https://github.com/OneWayTech/vue2-datatable) - The best Datatable for Vue.js 2.x which never sucks. Give us a star 🌟 if you like it! (DEPRECATED. As I, @kenberkeley, the only maintainer, no longer works for OneWay. Bugs may be fixed but new features or breaking changes might not be merged. However, it's still the best in my mind because of its extremely flexible usage of dynamic components)
+- [OneWayTech/vue2-datatable](https://github.com/OneWayTech/vue2-datatable) - (DEPRECATED) The best Datatable for Vue.js 2.x which never sucks. Give us a star 🌟 if you like it!
 - [vue-bulma/tabs](https://github.com/vue-bulma/tabs) - Tabs Component for Vue Bulma
 - [krystalcampioni/vue-hotel-datepicker](https://github.com/krystalcampioni/vue-hotel-datepicker) - Vue date range picker component
 - [visma-meglerfront/sweet-modal-vue](https://github.com/visma-meglerfront/sweet-modal-vue) - The sweetest library to happen to modals.
@@ -14103,7 +14104,6 @@
 - [euvl/vue-js-grid](https://github.com/euvl/vue-js-grid) - :bento:  Vue.js 2.x responsive grid system with smooth sorting, drag-n-drop and reordering
 - [alexsasharegan/vue-transmit](https://github.com/alexsasharegan/vue-transmit) - Vue.js drag & drop uploader based on Dropzone.js
 - [mariomka/vue-checkbox-radio](https://github.com/mariomka/vue-checkbox-radio) - Checkbox and radio component for Vue.js
-- [tamiat/tamiat](https://github.com/tamiat/tamiat) - :sailboat:  Vuejs and Firebase based CMS
 - [dzwillia/vue-simple-spinner](https://github.com/dzwillia/vue-simple-spinner) - A simple, flexible spinner for Vue.js
 - [nguyenvanduocit/vue-loading-spinner](https://github.com/nguyenvanduocit/vue-loading-spinner) - Just another collection of loading spinners with Vue.js, alot of spinners
 - [salomonelli/best-resume-ever](https://github.com/salomonelli/best-resume-ever) - :necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
