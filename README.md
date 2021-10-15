@@ -795,7 +795,7 @@
 - [Blizzard/s2client-api](https://github.com/Blizzard/s2client-api) - StarCraft II Client - C++ library supported on Windows, Linux and Mac designed for building scripted bots and research using the SC2API.
 - [argman/EAST](https://github.com/argman/EAST) - A tensorflow implementation of EAST text detector
 - [moderngl/moderngl](https://github.com/moderngl/moderngl) - Modern OpenGL binding for python
-- [materialx/MaterialX](https://github.com/materialx/MaterialX) - MaterialX is an open standard for representing rich material and look-development content in computer graphics, enabling its exchange between applications and renderers.
+- [materialx/MaterialX](https://github.com/materialx/MaterialX) - MaterialX is an open standard for the exchange of rich material and look-development content across applications and renderers.
 - [samhocevar/lolremez](https://github.com/samhocevar/lolremez) - 📈 Polynomial Approximations using the Remez Algorithm
 - [ApolloAuto/apollo-platform](https://github.com/ApolloAuto/apollo-platform) - Collections of Apollo Platform Software
 - [EOSIO/eos](https://github.com/EOSIO/eos) - An open source smart contract platform
@@ -1571,7 +1571,7 @@
 - [cucumber/godog](https://github.com/cucumber/godog) - Cucumber for golang
 - [99designs/aws-vault](https://github.com/99designs/aws-vault) - A vault for securely storing and accessing AWS credentials in development environments
 - [xanzy/go-gitlab](https://github.com/xanzy/go-gitlab) - GitLab Go SDK
-- [micro/micro](https://github.com/micro/micro) - Micro is an operating system for the cloud
+- [micro/micro](https://github.com/micro/micro) - Micro is an open source distributed cloud OS
 - [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub API
 - [slackhq/nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
 - [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
@@ -2323,6 +2323,7 @@
 - [haoking/opencvjs](https://github.com/haoking/opencvjs) - Complete opencvjs (With the lastest OpenCV 4.0.0+)
 - [tc39/proposal-built-in-modules](https://github.com/tc39/proposal-built-in-modules) - 
 - [alienzhou/frontend-tech-list](https://github.com/alienzhou/frontend-tech-list) - 📝 Frontend Tech List for Developers 💡
+- [robotframework/robotframework.github.com](https://github.com/robotframework/robotframework.github.com) - Robot Framework ecosystem from page
 - [Benjamin-Lee/deep-rules](https://github.com/Benjamin-Lee/deep-rules) - Ten Quick Tips for Deep Learning in Biology
 - [camelot-dev/excalibur](https://github.com/camelot-dev/excalibur) - A web interface to extract tabular data from PDFs
 - [pmeenan/http2priorities](https://github.com/pmeenan/http2priorities) - Test Page for HTTP/2 prioritization (server and browser)
@@ -4056,7 +4057,6 @@
 - [facebook/create-react-app](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
 - [uber-archive/image-diff](https://github.com/uber-archive/image-diff) - Create image differential between two images
 - [microsoft/AzureUsageAndBillingPortal](https://github.com/microsoft/AzureUsageAndBillingPortal) - This web application solution enables you to monitor the usage and billing for any Azure subscriptions you have access to.
-- [socketio/socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
 - [PatMartin/Dex](https://github.com/PatMartin/Dex) - Dex : The Data Explorer -- A data visualization tool written in Java/Groovy/JavaFX capable of powerful ETL and publishing web visualizations.
 - [gophercon/2016-talks](https://github.com/gophercon/2016-talks) - Slides and Links to slides for 2016 talks
 - [auduno/clmtrackr](https://github.com/auduno/clmtrackr) - Javascript library for precise tracking of facial features via Constrained Local Models
@@ -4461,7 +4461,7 @@
 - [marceloprates/prettymaps](https://github.com/marceloprates/prettymaps) - A small set of Python functions to draw pretty maps from OpenStreetMap data. Based on osmnx, matplotlib and shapely libraries.
 - [capitanov/dsp-theory](https://github.com/capitanov/dsp-theory) - Theory of digital signal processing (DSP): signals, filtration (IIR, FIR, CIC, MAF), transforms (FFT, DFT, Hilbert, Z-transform) etc.
 - [truera/trulens](https://github.com/truera/trulens) - Library containing attribution and interpretation methods for deep nets.
-- [labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) - 🧑‍🏫 47 Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠
+- [labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) - 🧑‍🏫 50! Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠
 - [project-codeflare/codeflare](https://github.com/project-codeflare/codeflare) - Simplifying the definition and execution, scaling and deployment of pipelines on the cloud.
 - [yandex-research/shifts](https://github.com/yandex-research/shifts) - This repository contains data readers and examples for the three tracks of the Shifts Dataset and the Shifts Challenge.
 - [google/brax](https://github.com/google/brax) - Massively parallel rigidbody physics simulation on accelerator hardware.
@@ -4483,7 +4483,7 @@
 - [vijishmadhavan/SkinDeep](https://github.com/vijishmadhavan/SkinDeep) - Get Deinked!!
 - [qiskit-community/qiskit-community-tutorials](https://github.com/qiskit-community/qiskit-community-tutorials) - A collection of Jupyter notebooks developed by the community showing how to use Qiskit
 - [ShapeAI/PYTHON-AND-DATA-ANALYTICS-7-DAYS](https://github.com/ShapeAI/PYTHON-AND-DATA-ANALYTICS-7-DAYS) - 
-- [gaih/introduction-to-machine-learning](https://github.com/gaih/introduction-to-machine-learning) - 
+- [gaih/introduction-to-machine-learning-archived](https://github.com/gaih/introduction-to-machine-learning-archived) - 
 - [MarcSkovMadsen/awesome-analytics-apps](https://github.com/MarcSkovMadsen/awesome-analytics-apps) - A repository for sharing knowledge and resources on awesome analytics apps in python
 - [TorchDrift/TorchDrift](https://github.com/TorchDrift/TorchDrift) - Drift Detection for your PyTorch Models
 - [dialogue-evaluation/SemSketches](https://github.com/dialogue-evaluation/SemSketches) - SemSketches 2021
@@ -5027,7 +5027,6 @@
 - [Wei1234c/Broccoli](https://github.com/Wei1234c/Broccoli) - Broccoli - distributed task queues for ESP32 cluster
 - [Dju999/ivi_bds](https://github.com/Dju999/ivi_bds) - ivi_bds
 - [cuttlefishh/python-for-data-analysis](https://github.com/cuttlefishh/python-for-data-analysis) - An introduction to data science using Python and Pandas with Jupyter notebooks
-- [mdbloice/Augmentor](https://github.com/mdbloice/Augmentor) - Image augmentation library in Python for machine learning.
 - [scikit-learn-contrib/skope-rules](https://github.com/scikit-learn-contrib/skope-rules) - machine learning with logical rules in Python
 - [llSourcell/math_of_machine_learning](https://github.com/llSourcell/math_of_machine_learning) - This is the code for "Mathematcs of Machine Learning" by Siraj Raval on Youtube
 - [talkpython/100daysofcode-with-python-course](https://github.com/talkpython/100daysofcode-with-python-course) - Course materials and handouts for #100DaysOfCode in Python course
@@ -7035,7 +7034,7 @@
 - [isl-org/DPT](https://github.com/isl-org/DPT) - Dense Prediction Transformers
 - [isl-org/Open3D-ML](https://github.com/isl-org/Open3D-ML) - An extension of Open3D to address 3D Machine Learning tasks
 - [lightly-ai/lightly](https://github.com/lightly-ai/lightly) - A python library for self-supervised learning on images.
-- [ourownstory/neural_prophet](https://github.com/ourownstory/neural_prophet) - NeuralProphet - A simple forecasting model based on Neural Networks in PyTorch
+- [ourownstory/neural_prophet](https://github.com/ourownstory/neural_prophet) - NeuralProphet: A simple forecasting package
 - [Lesha17/Punctuation](https://github.com/Lesha17/Punctuation) - Training BERT for punctuation task
 - [xxxsssyyy/DeepNER](https://github.com/xxxsssyyy/DeepNER) - An Easy-to-use, Modular and Prolongable package of deep-learning based Named Entity Recognition Models.
 - [sentinelsat/sentinelsat](https://github.com/sentinelsat/sentinelsat) - Search and download Copernicus Sentinel satellite images
@@ -8704,6 +8703,7 @@
 - [salesforce/matchbox](https://github.com/salesforce/matchbox) - Write PyTorch code at the level of individual examples, then run it efficiently on minibatches.
 - [statham-stone/MultiRunner](https://github.com/statham-stone/MultiRunner) - This is a python package for multi-process running.
 - [life4/textdistance](https://github.com/life4/textdistance) - Compute distance between sequences. 30+ algorithms, pure python implementation, common interface, optional external libs usage.
+- [mdbloice/Augmentor](https://github.com/mdbloice/Augmentor) - Image augmentation library in Python for machine learning.
 - [minimaxir/person-blocker](https://github.com/minimaxir/person-blocker) - Automatically "block" people in images (like Black Mirror) using a pretrained neural network.
 - [Eyepea/cookiecutter-API-Hour](https://github.com/Eyepea/cookiecutter-API-Hour) - A Starter Kit to create an API-Hour daemon with cookiecutter
 - [asyncio-docs/asyncio-doc](https://github.com/asyncio-docs/asyncio-doc) - Asyncio documentation
@@ -13749,6 +13749,7 @@
 - [googlemaps/google-maps-services-js](https://github.com/googlemaps/google-maps-services-js) - Node.js client library for Google Maps API Web Services
 - [recharts/recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
 - [phosphorjs/phosphor](https://github.com/phosphorjs/phosphor) - The PhosphorJS Library
+- [socketio/socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
 - [ianstormtaylor/slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors. (Currently in beta.)
 - [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab) - JupyterLab computational environment.
 - [nteract/hydrogen](https://github.com/nteract/hydrogen) - :atom: Run code interactively, inspect data, and plot. All the power of Jupyter kernels, inside your favorite text editor.
@@ -13910,7 +13911,6 @@
 - [ajb413/vue-support-chat](https://github.com/ajb413/vue-support-chat) - A website support chat interface example using Vue Beautiful Chat and PubNub ChatEngine
 - [yariksav/vuetify-confirm](https://github.com/yariksav/vuetify-confirm) - Extends vuetify.js confirm dialog
 - [dendoink/Align](https://github.com/dendoink/Align) - a single static blog generater use vue components and markdown files
-- [robotframework/robotframework.github.com](https://github.com/robotframework/robotframework.github.com) - Robot Framework ecosystem from page
 - [timoschwarzer/gitlab-monitor](https://github.com/timoschwarzer/gitlab-monitor) - A web-based monitor dashboard for GitLab CI
 - [Justineo/vue-clamp](https://github.com/Justineo/vue-clamp) - Clamping multiline text with ease.
 - [janiskelemen/formvuelar](https://github.com/janiskelemen/formvuelar) - Vue form components with server-side validation in mind
