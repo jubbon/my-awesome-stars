@@ -2210,6 +2210,7 @@
 
 - [bayesoptbook/bayesoptbook.github.io](https://github.com/bayesoptbook/bayesoptbook.github.io) - Companion webpage for the book "Bayesian Optimization" by Roman Garnett
 - [yueureka/WildFireDetection](https://github.com/yueureka/WildFireDetection) - Using U-Net Model to Detect Wildfire from Satellite Imagery
+- [capitanov/dsp-theory](https://github.com/capitanov/dsp-theory) - Theory of digital signal processing (DSP): signals, filtration (IIR, FIR, CIC, MAF), transforms (FFT, DFT, Hilbert, Z-transform) etc.
 - [isl-org/PhotorealismEnhancement](https://github.com/isl-org/PhotorealismEnhancement) - Code & Data for Enhancing Photorealism Enhancement
 - [SuperKogito/SER-datasets](https://github.com/SuperKogito/SER-datasets) - A collection of datasets for the purpose of emotion recognition/detection in speech.
 - [codesONLY/JavaScriptONLY](https://github.com/codesONLY/JavaScriptONLY) - Knowledge Resource of core fundamentals of JavaScript explained in simple way!
@@ -4459,7 +4460,6 @@
 - [upb-lea/reinforcement_learning_course_materials](https://github.com/upb-lea/reinforcement_learning_course_materials) - Lecture notes, tutorial tasks including solutions as well as online videos for the reinforcement learning course hosted by Paderborn University
 - [sberbank-ai-lab/RePlay](https://github.com/sberbank-ai-lab/RePlay) - RecSys Library
 - [marceloprates/prettymaps](https://github.com/marceloprates/prettymaps) - A small set of Python functions to draw pretty maps from OpenStreetMap data. Based on osmnx, matplotlib and shapely libraries.
-- [capitanov/dsp-theory](https://github.com/capitanov/dsp-theory) - Theory of digital signal processing (DSP): signals, filtration (IIR, FIR, CIC, MAF), transforms (FFT, DFT, Hilbert, Z-transform) etc.
 - [truera/trulens](https://github.com/truera/trulens) - Library containing attribution and interpretation methods for deep nets.
 - [labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) - 🧑‍🏫 50! Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠
 - [project-codeflare/codeflare](https://github.com/project-codeflare/codeflare) - Simplifying the definition and execution, scaling and deployment of pipelines on the cloud.
@@ -6953,6 +6953,7 @@
 
 ## Python 
 
+- [recognai/rubrix](https://github.com/recognai/rubrix) - ✨A Python framework to explore, label, and monitor data for NLP projects
 - [NVIDIA/Megatron-LM](https://github.com/NVIDIA/Megatron-LM) - Ongoing research training transformer language models at scale, including: BERT & GPT-2
 - [dry-python/returns](https://github.com/dry-python/returns) - Make your functions return something meaningful, typed, and safe!
 - [laixintao/iredis](https://github.com/laixintao/iredis) - Interactive Redis: A Terminal Client for Redis with AutoCompletion and Syntax Highlighting.
@@ -7674,7 +7675,7 @@
 - [johnbywater/eventsourcing](https://github.com/johnbywater/eventsourcing) - A library for event sourcing in Python.
 - [dovpanda-dev/dovpanda](https://github.com/dovpanda-dev/dovpanda) - Directions overlay for working with pandas in an analysis environment
 - [facebookresearch/ClassyVision](https://github.com/facebookresearch/ClassyVision) - An end-to-end PyTorch framework for image and video classification
-- [Netflix/metaflow](https://github.com/Netflix/metaflow) - :rocket: Build and manage real-life data science projects with ease
+- [Netflix/metaflow](https://github.com/Netflix/metaflow) - :rocket: Build and manage real-life data science projects with ease!
 - [gsurma/cartpole](https://github.com/gsurma/cartpole) - OpenAI's cartpole env solver.
 - [SantoshPattar/ConvNet-OOP](https://github.com/SantoshPattar/ConvNet-OOP) - ConvNet Implementation: An Object Oriented Approach using Keras API.
 - [philipperemy/keras-seq2seq-example](https://github.com/philipperemy/keras-seq2seq-example) - Toy Keras implementation of a seq2seq model with examples.
