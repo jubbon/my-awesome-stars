@@ -6962,7 +6962,7 @@
 - [DevashishPrasad/CascadeTabNet](https://github.com/DevashishPrasad/CascadeTabNet) - This repository contains the code and implementation details of the CascadeTabNet paper "CascadeTabNet: An approach for end to end table detection and structure recognition from image-based documents"
 - [salesforce/Merlion](https://github.com/salesforce/Merlion) - Merlion: A Machine Learning Framework for Time Series Intelligence
 - [chakki-works/seqeval](https://github.com/chakki-works/seqeval) - A Python framework for sequence labeling evaluation(named-entity recognition, pos tagging, etc...)
-- [snakers4/silero-vad](https://github.com/snakers4/silero-vad) - Silero VAD: pre-trained enterprise-grade Voice Activity and Number Detector
+- [snakers4/silero-vad](https://github.com/snakers4/silero-vad) - Silero VAD: pre-trained enterprise-grade Voice Activity Detector, Language Classifier and Spoken Number Detector
 - [wonjongg/StyleCariGAN](https://github.com/wonjongg/StyleCariGAN) - Official implementation of "StyleCariGAN: Caricature Generation via StyleGAN Feature Map Modulation" (SIGGRAPH 2021)
 - [daeken/kdl-py](https://github.com/daeken/kdl-py) - Python implementation of the KDL Document Language
 - [princeton-nlp/EntityQuestions](https://github.com/princeton-nlp/EntityQuestions) - EMNLP'2021: Simple Entity-centric Questions Challenge Dense Retrievers
