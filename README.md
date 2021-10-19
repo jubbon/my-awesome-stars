@@ -153,6 +153,7 @@
 
 ## C 
 
+- [deepmind/mujoco](https://github.com/deepmind/mujoco) - Multi-Joint dynamics with Contact. A general purpose physics simulator.
 - [cair/pyTsetlinMachine](https://github.com/cair/pyTsetlinMachine) - Implements the Tsetlin Machine, Convolutional Tsetlin Machine, Regression Tsetlin Machine, Weighted Tsetlin Machine, and Embedding Tsetlin Machine, with support for continuous features, multigranularity, and clause indexing
 - [marmarelis/rolling-quantiles](https://github.com/marmarelis/rolling-quantiles) - Blazing fast, composable, Pythonic quantile filters.
 - [julius-speech/julius](https://github.com/julius-speech/julius) - Open-Source Large Vocabulary Continuous Speech Recognition Engine
@@ -2208,6 +2209,7 @@
 
 ## HTML 
 
+- [snakemake/snakemake](https://github.com/snakemake/snakemake) - This is the development home of the workflow management system Snakemake. For general information, see
 - [bayesoptbook/bayesoptbook.github.io](https://github.com/bayesoptbook/bayesoptbook.github.io) - Companion webpage for the book "Bayesian Optimization" by Roman Garnett
 - [yueureka/WildFireDetection](https://github.com/yueureka/WildFireDetection) - Using U-Net Model to Detect Wildfire from Satellite Imagery
 - [capitanov/dsp-theory](https://github.com/capitanov/dsp-theory) - Theory of digital signal processing (DSP): signals, filtration (IIR, FIR, CIC, MAF), transforms (FFT, DFT, Hilbert, Z-transform) etc.
@@ -4992,6 +4994,7 @@
 - [higgsfield/RL-Adventure](https://github.com/higgsfield/RL-Adventure) - Pytorch Implementation of DQN / DDQN / Prioritized replay/ noisy networks/ distributional values/ Rainbow/ hierarchical RL
 - [ternaus/TernausNetV2](https://github.com/ternaus/TernausNetV2) - TernausNetV2: Fully Convolutional Network for Instance Segmentation
 - [Pulkit-Khandelwal/Reinforcement-Learning-Notebooks](https://github.com/Pulkit-Khandelwal/Reinforcement-Learning-Notebooks) - A collection of Reinforcement Learning algorithms from Sutton and Barto's book and other research papers implemented in Python.
+- [The-Art-of-Hacking/h4cker](https://github.com/The-Art-of-Hacking/h4cker) - This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more.
 - [Robert-JunWang/Pelee](https://github.com/Robert-JunWang/Pelee) - Pelee: A Real-Time Object Detection System on Mobile Devices
 - [GoogleCloudPlatform/tensorflow-without-a-phd](https://github.com/GoogleCloudPlatform/tensorflow-without-a-phd) - A crash course in six episodes for software developers who want to become machine learning practitioners.
 - [Paperspace/DinoRunTutorial](https://github.com/Paperspace/DinoRunTutorial) - Accompanying code for Paperspace tutorial "Build an AI to play Dino Run"
@@ -7468,7 +7471,7 @@
 - [PrashantRanjan09/WordEmbeddings-Elmo-Fasttext-Word2Vec](https://github.com/PrashantRanjan09/WordEmbeddings-Elmo-Fasttext-Word2Vec) - Using pre trained word embeddings (Fasttext, Word2Vec)
 - [NVIDIA-AI-IOT/torch2trt](https://github.com/NVIDIA-AI-IOT/torch2trt) - An easy to use PyTorch to TensorRT converter
 - [rougier/matplotlib-tutorial](https://github.com/rougier/matplotlib-tutorial) - Matplotlib tutorial for beginner
-- [ZitongYu/CDCN](https://github.com/ZitongYu/CDCN) - Central Difference Convolutional Networks
+- [ZitongYu/CDCN](https://github.com/ZitongYu/CDCN) - Central Difference Convolutional Networks (CVPR'20)
 - [fengxinjie/Transformer-OCR](https://github.com/fengxinjie/Transformer-OCR) - 
 - [aim-uofa/AdelaiDet](https://github.com/aim-uofa/AdelaiDet) - AdelaiDet is an open source toolbox for multiple instance-level detection and recognition tasks.
 - [CharlesPikachu/Games](https://github.com/CharlesPikachu/Games) - Create interesting games by pure python.
@@ -8622,7 +8625,6 @@
 - [gitpitch/in-60-seconds](https://github.com/gitpitch/in-60-seconds) - GitPitch In 60 Seconds - A Very Short Tutorial
 - [sberbank-ai/holdem-challenge](https://github.com/sberbank-ai/holdem-challenge) - Материалы к соревнованию Sberbank Holdem Challenge http://sberbank.ai
 - [deepmind/pycolab](https://github.com/deepmind/pycolab) - A highly-customisable gridworld game engine with some batteries included. Make your own gridworld games to test reinforcement learning agents!
-- [The-Art-of-Hacking/h4cker](https://github.com/The-Art-of-Hacking/h4cker) - This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more.
 - [s0md3v/XSStrike](https://github.com/s0md3v/XSStrike) - Most advanced XSS scanner.
 - [kaxap/arl](https://github.com/kaxap/arl) - lists of most popular repositories for most favoured programming languages (according to StackOverflow)
 - [mlflow/mlflow](https://github.com/mlflow/mlflow) - Open source platform for the machine learning lifecycle
@@ -9135,7 +9137,7 @@
 - [kodsnack/advent_of_code_2017](https://github.com/kodsnack/advent_of_code_2017) - Contribute your solutions to Advent of Code 2017 and be inspired by others.
 - [natanielruiz/deep-head-pose](https://github.com/natanielruiz/deep-head-pose) - :fire::fire: Deep Learning Head Pose Estimation using PyTorch.
 - [payatu/Tiredful-API](https://github.com/payatu/Tiredful-API) - An intentionally designed broken web application based on REST API.
-- [mitre/caldera](https://github.com/mitre/caldera) - Scalable Automated Adversary Emulation Platform
+- [mitre/caldera](https://github.com/mitre/caldera) - Automated Adversary Emulation Platform
 - [intohole/moodstyle](https://github.com/intohole/moodstyle) - machine learning alg write with pure python ／ 机器学习
 - [sharkdp/shell-functools](https://github.com/sharkdp/shell-functools) - Functional programming tools for the shell
 - [tryolabs/requestium](https://github.com/tryolabs/requestium) - Integration layer between Requests and Selenium for automation of web actions.
