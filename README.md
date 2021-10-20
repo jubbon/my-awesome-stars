@@ -1162,7 +1162,7 @@
 - [FinancialMarkets/5MinuteFinance](https://github.com/FinancialMarkets/5MinuteFinance) - Interactive Presentations for Financial Education using R/Shiny.  See full list of presentations (with links) below.
 - [dunovank/jupyter-themes](https://github.com/dunovank/jupyter-themes) - Custom Jupyter Notebook Themes
 - [Daemonite/material](https://github.com/Daemonite/material) - Material Design for Bootstrap 4
-- [creativetimofficial/material-dashboard](https://github.com/creativetimofficial/material-dashboard) - Material Dashboard - Open Source Bootstrap 4 Material Design Admin
+- [creativetimofficial/material-dashboard](https://github.com/creativetimofficial/material-dashboard) - Material Dashboard - Open Source Bootstrap 5 Material Design Admin
 - [wookayin/TensorFlowKR-2017-talk-bestpractice](https://github.com/wookayin/TensorFlowKR-2017-talk-bestpractice) - 💬 Slides and Tutorial Codes for the talk 'Toward Best Practices of TensorFlow Code Patterns' (2017)
 - [littleosbook/littleosbook](https://github.com/littleosbook/littleosbook) - Source for the little book about OS development
 - [OYsun/VueCircleMenu](https://github.com/OYsun/VueCircleMenu) - :rabbit:A beautiful circle menu powered by Vue.js
@@ -1535,6 +1535,7 @@
 
 ## Go 
 
+- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - Gitpod automates the provisioning of ready-to-code development environments.
 - [umputun/reproxy](https://github.com/umputun/reproxy) - Simple edge server / reverse proxy
 - [jonaslu/ain](https://github.com/jonaslu/ain) - An HTTP API client for the terminal
 - [semi-technologies/weaviate](https://github.com/semi-technologies/weaviate) - Weaviate is a cloud-native, modular, real-time vector search engine
@@ -1571,7 +1572,7 @@
 - [cucumber/godog](https://github.com/cucumber/godog) - Cucumber for golang
 - [99designs/aws-vault](https://github.com/99designs/aws-vault) - A vault for securely storing and accessing AWS credentials in development environments
 - [xanzy/go-gitlab](https://github.com/xanzy/go-gitlab) - GitLab Go SDK
-- [micro/micro](https://github.com/micro/micro) - Micro is an open source distributed cloud OS
+- [micro/micro](https://github.com/micro/micro) - Micro is a distributed cloud operating system
 - [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub API
 - [slackhq/nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
 - [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
@@ -1703,7 +1704,7 @@
 - [syncsynchalt/illustrated-tls](https://github.com/syncsynchalt/illustrated-tls) - The Illustrated TLS Connection: Every byte explained
 - [yinheli/sshw](https://github.com/yinheli/sshw) - 🐝  ssh client wrapper for automatic login
 - [cloudflare/tableflip](https://github.com/cloudflare/tableflip) - Graceful process restarts in Go
-- [photoprism/photoprism](https://github.com/photoprism/photoprism) - Open-Source Photo Management powered by Go and Google TensorFlow 🌈
+- [photoprism/photoprism](https://github.com/photoprism/photoprism) - Open Source Photos App powered by Go and Google TensorFlow 🌈
 - [davrodpin/mole](https://github.com/davrodpin/mole) - CLI application to create ssh tunnels focused on resiliency and user experience.
 - [sipt/shuttle](https://github.com/sipt/shuttle) - A web proxy in Golang with amazing features.
 - [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation
@@ -5412,6 +5413,7 @@
 - [rasbt/deep-learning-book](https://github.com/rasbt/deep-learning-book) - Repository for "Introduction to Artificial Neural Networks and Deep Learning: A Practical Guide with Applications in Python"
 - [rajathkmp/Python-Lectures](https://github.com/rajathkmp/Python-Lectures) - IPython Notebooks to learn Python
 - [GoogleCloudPlatform/training-data-analyst](https://github.com/GoogleCloudPlatform/training-data-analyst) - Labs and demos for courses for GCP Training (http://cloud.google.com/training).
+- [intel-analytics/BigDL](https://github.com/intel-analytics/BigDL) - BigDL: Distributed Deep Learning Framework for Apache Spark
 - [yunjey/show-attend-and-tell](https://github.com/yunjey/show-attend-and-tell) - TensorFlow Implementation of "Show, Attend and Tell"
 - [tianzhi0549/CTPN](https://github.com/tianzhi0549/CTPN) - Detecting Text in Natural Image with Connectionist Text Proposal Network (ECCV'16)
 - [RuiShu/vae-clustering](https://github.com/RuiShu/vae-clustering) - Unsupervised clustering with (Gaussian mixture) VAEs
@@ -6603,7 +6605,7 @@
 - [meetfranz/franz-app-legacy](https://github.com/meetfranz/franz-app-legacy) - 
 - [python/asyncio](https://github.com/python/asyncio) - asyncio historical repository
 - [jareware/css-architecture](https://github.com/jareware/css-architecture) - 8 simple rules for a robust, scalable CSS architecture
-- [open-source-ideas/open-source-ideas](https://github.com/open-source-ideas/open-source-ideas) - 💡Ever had a cool idea for an Open Source project but didn't have the time to implement it yourself? Let someone else give it a try!
+- [open-source-ideas/ideas](https://github.com/open-source-ideas/ideas) - 💡 Looking for inspiration for your next open source project? Or perhaps you've got a brilliant idea you can't wait to share with others? Open Source Ideas is a community built specifically for this! 👋
 - [lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
 - [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - 😱 Falsehoods Programmers Believe in
 - [Xel/Blockchain-stuff](https://github.com/Xel/Blockchain-stuff) - Blockchain and Crytocurrency Resources
@@ -13196,7 +13198,6 @@
 - [microsoft/SynapseML](https://github.com/microsoft/SynapseML) - Microsoft Machine Learning for Apache Spark
 - [rcoh/toyregex](https://github.com/rcoh/toyregex) - A Toy Regex Engine In Scala
 - [prisma/prisma1](https://github.com/prisma/prisma1) - 💾 Database Tools incl. ORM, Migrations and Admin UI (Postgres, MySQL & MongoDB)
-- [intel-analytics/BigDL](https://github.com/intel-analytics/BigDL) - BigDL: Distributed Deep Learning Framework for Apache Spark
 - [airbnb/aerosolve](https://github.com/airbnb/aerosolve) - A machine learning package built for humans.
 - [gitbucket/gitbucket](https://github.com/gitbucket/gitbucket) - A Git platform powered by Scala with easy installation, high extensibility & GitHub API compatibility
 - [helgeho/ArchiveSpark](https://github.com/helgeho/ArchiveSpark) - An Apache Spark framework for easy data processing, extraction as well as derivation for web archives and archival collections, developed at Internet Archive.
@@ -13339,7 +13340,7 @@
 - [bufferapp/android-guidelines](https://github.com/bufferapp/android-guidelines) - Project Guidelines for the Android Buffer App
 - [RyanAmos/rethinkdb-vagrant](https://github.com/RyanAmos/rethinkdb-vagrant) - Install RethinkDB using Vagrant.
 - [octoai/octo.ai](https://github.com/octoai/octo.ai) - The analytics hypervisor, an operating system to manage all your analytics needs and licensed under Apache 2.0 License.
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 1900+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, OSX, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 1900+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [OCA/ansible-odoo](https://github.com/OCA/ansible-odoo) - Ansible role for Odoo
 - [MichaelAquilina/zsh-autoswitch-virtualenv](https://github.com/MichaelAquilina/zsh-autoswitch-virtualenv) - 🐍 ZSH plugin to automatically switch python virtualenvs (including pipenv and poetry) as you move between directories
 - [rgcr/m-cli](https://github.com/rgcr/m-cli) -  Swiss Army Knife for macOS
@@ -13788,7 +13789,7 @@
 - [googledatalab/datalab](https://github.com/googledatalab/datalab) - Interactive tools and developer experiences for Big Data on Google Cloud Platform.
 - [elastic/kibana](https://github.com/elastic/kibana) - Your window into the Elastic Stack
 - [blockstack/stacks.js](https://github.com/blockstack/stacks.js) - JavaScript libraries for identity, auth, storage and transactions on the Stacks blockchain.
-- [jacomyal/sigma.js](https://github.com/jacomyal/sigma.js) - A JavaScript library dedicated to graph drawing
+- [jacomyal/sigma.js](https://github.com/jacomyal/sigma.js) - A JavaScript library aimed at visualizing graphs of thousands of nodes and edges
 
 ## Vala 
 
