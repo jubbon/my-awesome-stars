@@ -1450,6 +1450,7 @@
 
 ## Dockerfile 
 
+- [TaskeHAMANO/PyomoContainer](https://github.com/TaskeHAMANO/PyomoContainer) - Docker container for optimization with pyomo and some of MINLP solvers.
 - [selenecodes/GPU-jupyterhub](https://github.com/selenecodes/GPU-jupyterhub) - A basic jupyterhub with Nvidia GPU accessibility.
 - [jcsilva/docker-kaldi-gstreamer-server](https://github.com/jcsilva/docker-kaldi-gstreamer-server) - Dockerfile for kaldi-gstreamer-server.
 - [deepmipt/stand_kubernetes_cluster](https://github.com/deepmipt/stand_kubernetes_cluster) - 
@@ -4452,6 +4453,9 @@
 
 ## Jupyter Notebook 
 
+- [saic-mdal/lama](https://github.com/saic-mdal/lama) - 🦙  LaMa Image Inpainting, Resolution-robust Large Mask Inpainting with Fourier Convolutions, WACV 2022
+- [planetlabs/notebooks](https://github.com/planetlabs/notebooks) - interactive notebooks from Planet Engineering
+- [Pyomo/PyomoGallery](https://github.com/Pyomo/PyomoGallery) - A collection of Pyomo examples
 - [Kaggle/learntools](https://github.com/Kaggle/learntools) - Tools and tests used in Kaggle Learn exercises
 - [sberbank-ai/sber-vq-gan](https://github.com/sberbank-ai/sber-vq-gan) - 
 - [svenkreiss/socialforce](https://github.com/svenkreiss/socialforce) - Differentiable Social Force simulation with universal interaction potentials.
@@ -6961,6 +6965,10 @@
 
 ## Python 
 
+- [NVlabs/stylegan3](https://github.com/NVlabs/stylegan3) - Official PyTorch implementation of StyleGAN3
+- [up42/image-similarity-measures](https://github.com/up42/image-similarity-measures) - :chart_with_upwards_trend: Implementation of eight evaluation metrics to access the similarity between two images. The eight metrics are as follows: RMSE, PSNR, SSIM, ISSM, FSIM, SRE, SAM, and UIQ.
+- [jhrcook/streamlit-sudoku](https://github.com/jhrcook/streamlit-sudoku) - A Streamlit web application for solving Sudoku.
+- [sandialabs/chama](https://github.com/sandialabs/chama) - Python package for sensor placement optimization
 - [pytorch/text](https://github.com/pytorch/text) - Data loaders and abstractions for text and NLP
 - [snakemake/snakemake-wrappers](https://github.com/snakemake/snakemake-wrappers) - This is the development home of the Snakemake wrapper repository, see
 - [andi611/Mockingjay-Speech-Representation](https://github.com/andi611/Mockingjay-Speech-Representation) - Official Implementation of Mockingjay in Pytorch
@@ -7086,7 +7094,7 @@
 - [JialianW/TraDeS](https://github.com/JialianW/TraDeS) - Track to Detect and Segment: An Online Multi-Object Tracker (CVPR 2021)
 - [megvii-model/YOLOF](https://github.com/megvii-model/YOLOF) - 
 - [xingyizhou/CenterNet2](https://github.com/xingyizhou/CenterNet2) - Two-stage CenterNet
-- [TheAtticusProject/cuad](https://github.com/TheAtticusProject/cuad) - CUAD
+- [TheAtticusProject/cuad](https://github.com/TheAtticusProject/cuad) - CUAD (NeurIPS 2021)
 - [Epiphqny/VisTR](https://github.com/Epiphqny/VisTR) - [CVPR2021 Oral] End-to-End Video Instance Segmentation with Transformers
 - [gitx-io/ActionServerless](https://github.com/gitx-io/ActionServerless) - Use GitHub Actions to create a Serverless service.
 - [datasaur-ai/api-client-example](https://github.com/datasaur-ai/api-client-example) - Sample Script for Datasaur Integration
@@ -10675,7 +10683,6 @@
 - [django/channels](https://github.com/django/channels) - Developer-friendly asynchrony for Django
 - [pseudo-lang/pseudo](https://github.com/pseudo-lang/pseudo) - transpile algorithms/libs to idiomatic JS, Go, C#, Ruby
 - [LoyaltyNZ/alchemy-framework](https://github.com/LoyaltyNZ/alchemy-framework) - Alchemy is a framework for creating highly available systems that are built from micro-services
-- [Rochester-NRT/RocAlphaGo](https://github.com/Rochester-NRT/RocAlphaGo) - An independent, student-led replication of DeepMind's 2016 Nature publication, "Mastering the game of Go with deep neural networks and tree search" (Nature 529, 484-489, 28 Jan 2016), details of which can be found on their website https://deepmind.com/publications.html.
 - [yenchenlin/DeepLearningFlappyBird](https://github.com/yenchenlin/DeepLearningFlappyBird) - Flappy Bird hack using Deep Reinforcement Learning (Deep Q-learning).
 - [Stouts/Stouts.python](https://github.com/Stouts/Stouts.python) - Ansible role which manage python (pip, virtualenv)
 - [sensepost/DET](https://github.com/sensepost/DET) - (extensible) Data Exfiltration Toolkit (DET)
@@ -11444,7 +11451,7 @@
 - [EliFinkelshteyn/alphabet-detector](https://github.com/EliFinkelshteyn/alphabet-detector) - A library to detect what alphabet something is written in.
 - [adamhajari/spyre](https://github.com/adamhajari/spyre) - a web application framework for python
 - [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered, cross-platform, Unix-gazing shell
-- [facelessuser/ColorHelper](https://github.com/facelessuser/ColorHelper) - Sublime plugin that provides helpful color tooltips
+- [facelessuser/ColorHelper](https://github.com/facelessuser/ColorHelper) - Sublime plugin that provides helpful color previews and tooltips
 - [rtluckie/seria](https://github.com/rtluckie/seria) - 
 - [barosl/homu](https://github.com/barosl/homu) - A bot that integrates with GitHub and your favorite continuous integration service
 - [holoviz/param](https://github.com/holoviz/param) - Param: Make your Python code clearer and more reliable by declaring Parameters
@@ -12484,7 +12491,7 @@
 - [django-money/django-money](https://github.com/django-money/django-money) - Money fields for Django forms and models.
 - [Mimino666/django-admin-autoregister](https://github.com/Mimino666/django-admin-autoregister) - Snippet to automatically create and register admin classes for models.
 - [xiaoxu193/PyTeaser](https://github.com/xiaoxu193/PyTeaser) - Summarizes news articles
-- [mapbox/rasterio](https://github.com/mapbox/rasterio) - Rasterio reads and writes geospatial raster datasets
+- [rasterio/rasterio](https://github.com/rasterio/rasterio) - Rasterio reads and writes geospatial raster datasets
 - [9miao/Firefly](https://github.com/9miao/Firefly) - Distributed Game Server Framework
 - [ateska/ramona](https://github.com/ateska/ramona) - Enterprise-grade runtime supervisor
 - [getsentry/responses](https://github.com/getsentry/responses) - A utility for mocking out the Python Requests library.
@@ -13132,6 +13139,7 @@
 - [diem/diem](https://github.com/diem/diem) - Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world.
 - [calebwin/emu](https://github.com/calebwin/emu) - The write-once-run-anywhere GPGPU library for Rust
 - [wasmerio/wasmer-python](https://github.com/wasmerio/wasmer-python) - 🐍🕸 WebAssembly runtime for Python
+- [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊  Cube.js — Open-Source Analytics API for Building Data Apps
 - [fluencelabs/fluence](https://github.com/fluencelabs/fluence) - Peer-to-peer computing protocol and licensing system
 - [cantino/mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott!
 - [atlasr-org/atlasr](https://github.com/atlasr-org/atlasr) - Atlasr is a truly open-source and free map browser.
@@ -13477,6 +13485,7 @@
 
 ## TypeScript 
 
+- [redis/node-redis](https://github.com/redis/node-redis) - A high performance Node.js Redis client.
 - [aimhubio/aim](https://github.com/aimhubio/aim) - Aim — an easy-to-use and performant open-source experiment tracker.
 - [microsoft/VoTT](https://github.com/microsoft/VoTT) - Visual Object Tagging Tool: An electron app for building end to end Object Detection Models from Images and Videos.
 - [mrjackphil/obsidian-note-uid](https://github.com/mrjackphil/obsidian-note-uid) - 
@@ -13554,7 +13563,6 @@
 - [vuejs/vue-dev-server](https://github.com/vuejs/vue-dev-server) - A POC dev server that allows you to import `*.vue` files via native ES modules imports.
 - [nodejs/nodejs.dev](https://github.com/nodejs/nodejs.dev) - A new Node.js resource built using Gatsby.js with React.js, TypeScript, and Remark.
 - [microsoft/frontend-bootcamp](https://github.com/microsoft/frontend-bootcamp) - Frontend Workshop from HTML/CSS/JS to TypeScript/React/Redux
-- [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊  Cube.js — Open-Source Analytics API for Building Data Apps
 - [LeetCode-OpenSource/vscode-leetcode](https://github.com/LeetCode-OpenSource/vscode-leetcode) - Solve LeetCode problems in VS Code
 - [callstack/linaria](https://github.com/callstack/linaria) - Zero-runtime CSS in JS library
 - [pwa-builder/PWABuilder](https://github.com/pwa-builder/PWABuilder) - The front-end for PWABuilder!
