@@ -502,6 +502,7 @@
 
 ## C++ 
 
+- [coin-or/Cbc](https://github.com/coin-or/Cbc) - COIN-OR Branch-and-Cut solver
 - [kpu/kenlm](https://github.com/kpu/kenlm) - KenLM: Faster and Smaller Language Model Queries
 - [GTAmodding/re3](https://github.com/GTAmodding/re3) - GTA III, Vice City
 - [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne) - A Smart Ethernet Switch for Earth
@@ -1235,6 +1236,7 @@
 - [madmalik/mononoki](https://github.com/madmalik/mononoki) - a programming typeface
 - [picturepan2/spectre](https://github.com/picturepan2/spectre) - Spectre.css - A Lightweight, Responsive and Modern CSS Framework
 - [cjcenizal/flexbox-patterns](https://github.com/cjcenizal/flexbox-patterns) - Patterns for using flexbox CSS to build awesome UI components.
+- [lipis/flag-icons](https://github.com/lipis/flag-icons) - :flags: A collection of all country flags in SVG — plus the CSS for easier integration
 - [tobiasahlin/SpinKit](https://github.com/tobiasahlin/SpinKit) - A collection of loading indicators animated with CSS
 - [dhg/Skeleton](https://github.com/dhg/Skeleton) - Skeleton: A Dead Simple, Responsive Boilerplate for Mobile-Friendly Development
 - [ProgrammingFonts/ProgrammingFonts](https://github.com/ProgrammingFonts/ProgrammingFonts) - This is a collection of programming fonts,just share this with the programmers.Now there are 103 kinds of fantastic fonts!
@@ -2637,7 +2639,6 @@
 - [akoumjian/datefinder](https://github.com/akoumjian/datefinder) - Find dates inside text using Python and get back datetime objects
 - [wcember/pypub](https://github.com/wcember/pypub) - Python library to programatically create epub files
 - [una/diffee](https://github.com/una/diffee) - Instant visual diffing in the browser
-- [lipis/flag-icon-css](https://github.com/lipis/flag-icon-css) - :flags: A collection of all country flags in SVG — plus the CSS for easier integration
 - [w3c/html](https://github.com/w3c/html) - Deliverables of the HTML Working Group until October 2018
 - [hjson/hjson](https://github.com/hjson/hjson) - Hjson, a user interface for JSON
 - [larsbrinkhoff/awesome-cpus](https://github.com/larsbrinkhoff/awesome-cpus) - All CPU and MCU documentation in one place
@@ -5878,6 +5879,7 @@
 
 ## Others 
 
+- [MiniZinc/specialization-examples](https://github.com/MiniZinc/specialization-examples) - 
 - [huawei-university/nlp-course-projects](https://github.com/huawei-university/nlp-course-projects) - Projects from students of NLP Course
 - [Dyakonov/DL](https://github.com/Dyakonov/DL) - Курс "Глубокое обучение (Deep Learning)" (ВМК, МГУ имени М.В. Ломоносова)
 - [khangich/machine-learning-interview](https://github.com/khangich/machine-learning-interview) - Machine Learning Interviews from FAAG, Snapchat, LinkedIn. I have offers from Snapchat, Coupang, Stitchfix etc. Blog: mlengineer.io.
@@ -6965,6 +6967,9 @@
 
 ## Python 
 
+- [gradio-app/gradio](https://github.com/gradio-app/gradio) - Create UIs for your machine learning model in Python in 3 minutes
+- [coin-or/python-mip](https://github.com/coin-or/python-mip) - Python-MIP: collection of Python tools for the modeling and solution of Mixed-Integer Linear programs
+- [MiniZinc/minizinc-python](https://github.com/MiniZinc/minizinc-python) - Access to all MiniZinc functionality directly from Python
 - [NVlabs/stylegan3](https://github.com/NVlabs/stylegan3) - Official PyTorch implementation of StyleGAN3
 - [up42/image-similarity-measures](https://github.com/up42/image-similarity-measures) - :chart_with_upwards_trend: Implementation of eight evaluation metrics to access the similarity between two images. The eight metrics are as follows: RMSE, PSNR, SSIM, ISSM, FSIM, SRE, SAM, and UIQ.
 - [jhrcook/streamlit-sudoku](https://github.com/jhrcook/streamlit-sudoku) - A Streamlit web application for solving Sudoku.
@@ -7943,7 +7948,7 @@
 - [facebookresearch/pyrobot](https://github.com/facebookresearch/pyrobot) - PyRobot: An Open Source Robotics Research Platform
 - [open-mmlab/mmaction](https://github.com/open-mmlab/mmaction) - An open-source toolbox for action understanding based on PyTorch
 - [notadamking/RLTrader](https://github.com/notadamking/RLTrader) - A cryptocurrency trading environment using deep reinforcement learning and OpenAI's gym
-- [allegroai/clearml](https://github.com/allegroai/clearml) - ClearML - Auto-Magical Suite of tools to streamline your ML workflow. Experiment Manager, ML-Ops and Data-Management
+- [allegroai/clearml](https://github.com/allegroai/clearml) - ClearML - Auto-Magical Suite of tools to streamline your ML workflow. Experiment Manager, MLOps and Data-Management
 - [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [x6b726173/alice-word-by-word](https://github.com/x6b726173/alice-word-by-word) - 
 - [uber/doubles](https://github.com/uber/doubles) - Test doubles for Python.
@@ -10298,7 +10303,7 @@
 - [mzucker/page_dewarp](https://github.com/mzucker/page_dewarp) - Text page dewarping using a "cubic sheet" model
 - [nextma/addons_nextma](https://github.com/nextma/addons_nextma) - Odoo Customs Addons and tools from NEXTMA, HORIYASOFT
 - [thcipriani/stdgif](https://github.com/thcipriani/stdgif) - Standard output for gifs
-- [sqreen/PyMiniRacer](https://github.com/sqreen/PyMiniRacer) - PyMiniRacer
+- [sqreen/PyMiniRacer](https://github.com/sqreen/PyMiniRacer) - PyMiniRacer is a V8 bridge in Python.
 - [pytest-dev/pytest-qt](https://github.com/pytest-dev/pytest-qt) - pytest plugin for Qt (PyQt4, PyQt5 and PySide) application testing
 - [ayush1997/visualize_ML](https://github.com/ayush1997/visualize_ML) - Python package for consolidated and extensive Univariate,Bivariate Data Analysis and Visualization catering to both categorical and continuous datasets.
 - [kirankoduru/arachne](https://github.com/kirankoduru/arachne) - A flask API for running your scrapy spiders
