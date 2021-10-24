@@ -6967,6 +6967,7 @@
 
 ## Python 
 
+- [buildingnet/buildingnet_dataset](https://github.com/buildingnet/buildingnet_dataset) - 
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Create UIs for your machine learning model in Python in 3 minutes
 - [coin-or/python-mip](https://github.com/coin-or/python-mip) - Python-MIP: collection of Python tools for the modeling and solution of Mixed-Integer Linear programs
 - [MiniZinc/minizinc-python](https://github.com/MiniZinc/minizinc-python) - Access to all MiniZinc functionality directly from Python
@@ -7192,7 +7193,7 @@
 - [r9y9/wavenet_vocoder](https://github.com/r9y9/wavenet_vocoder) - WaveNet vocoder
 - [pykaldi/pykaldi](https://github.com/pykaldi/pykaldi) - A Python wrapper for Kaldi
 - [alumae/kaldi-gstreamer-server](https://github.com/alumae/kaldi-gstreamer-server) - Real-time full-duplex speech recognition server, based on the Kaldi toolkit and the GStreamer framwork.
-- [PaddlePaddle/DeepSpeech](https://github.com/PaddlePaddle/DeepSpeech) - A PaddlePaddle Speech toolkit.
+- [PaddlePaddle/DeepSpeech](https://github.com/PaddlePaddle/DeepSpeech) - A Speech Toolkit based on PaddlePaddle.
 - [yanshengjia/ml-road](https://github.com/yanshengjia/ml-road) - Machine Learning Resources, Practice and Research
 - [lucidrains/deep-daze](https://github.com/lucidrains/deep-daze) - Simple command line tool for text to image generation using OpenAI's CLIP and Siren (Implicit neural representation network). Technique was originally created by https://twitter.com/advadnoun
 - [zengarden/momentum2-teacher](https://github.com/zengarden/momentum2-teacher) - Implementation of momentum^2 teacher
@@ -7699,7 +7700,7 @@
 - [benedekrozemberczki/awesome-monte-carlo-tree-search-papers](https://github.com/benedekrozemberczki/awesome-monte-carlo-tree-search-papers) - A curated list of Monte Carlo tree search papers with implementations.
 - [NVlabs/stylegan2](https://github.com/NVlabs/stylegan2) - StyleGAN2 - Official TensorFlow Implementation
 - [Instagram/LibCST](https://github.com/Instagram/LibCST) - A concrete syntax tree parser and serializer library for Python that preserves many aspects of Python's abstract syntax tree
-- [johnbywater/eventsourcing](https://github.com/johnbywater/eventsourcing) - A library for event sourcing in Python.
+- [pyeventsourcing/eventsourcing](https://github.com/pyeventsourcing/eventsourcing) - A library for event sourcing in Python.
 - [dovpanda-dev/dovpanda](https://github.com/dovpanda-dev/dovpanda) - Directions overlay for working with pandas in an analysis environment
 - [facebookresearch/ClassyVision](https://github.com/facebookresearch/ClassyVision) - An end-to-end PyTorch framework for image and video classification
 - [Netflix/metaflow](https://github.com/Netflix/metaflow) - :rocket: Build and manage real-life data science projects with ease!
@@ -9060,7 +9061,7 @@
 - [AllenInstitute/argschema](https://github.com/AllenInstitute/argschema) - This python module simplifies the development of modules that would like to define and check a particular set of input parameters, but be able to flexibly define those inputs in different ways in different contexts.
 - [msudgh/terminator-search](https://github.com/msudgh/terminator-search) - A Google search plugin for Terminator terminal emulator
 - [dibsonthis/SimpleFilter](https://github.com/dibsonthis/SimpleFilter) - Python module for image convolution and ML classification.
-- [PhilipTrauner/cmus-osx](https://github.com/PhilipTrauner/cmus-osx) - Adds track change notifications, and media key support to cmus.
+- [PhilipTrauner/cmus-osx](https://github.com/PhilipTrauner/cmus-osx) - Adds track change notifications and media key support to cmus.
 - [geek-ai/MAgent](https://github.com/geek-ai/MAgent) - A Platform for Many-agent Reinforcement Learning
 - [facebookresearch/FaderNetworks](https://github.com/facebookresearch/FaderNetworks) - Fader Networks: Manipulating Images by Sliding Attributes - NIPS 2017
 - [NVIDIA/sentiment-discovery](https://github.com/NVIDIA/sentiment-discovery) - Unsupervised Language Modeling at scale for robust sentiment classification
