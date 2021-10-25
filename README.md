@@ -2067,7 +2067,7 @@
 - [myntra/pipeline](https://github.com/myntra/pipeline) - Pipeline is a package to build multi-staged concurrent workflows with a centralized logging output.
 - [imroc/req](https://github.com/imroc/req) - a golang http request library for humans
 - [txthinking/brook](https://github.com/txthinking/brook) - Brook is a cross-platform strong encryption and not detectable proxy. Zero-Configuration. Brook 是一个跨平台的强加密无特征的代理软件. 零配置.
-- [gokrazy/gokrazy](https://github.com/gokrazy/gokrazy) - a pure-Go userland for your Raspberry Pi 3 or 4 appliances
+- [gokrazy/gokrazy](https://github.com/gokrazy/gokrazy) - a native Go userland for your Raspberry Pi 3 or 4 appliances (or amd64 PCs!)
 - [ory/ladon](https://github.com/ory/ladon) - A SDK for access control policies: authorization for the microservice and IoT age. Inspired by AWS IAM policies. Written for Go.
 - [fd0/machma](https://github.com/fd0/machma) - Easy parallel execution of commands with live feedback
 - [knqyf263/pet](https://github.com/knqyf263/pet) - Simple command-line snippet manager, written in Go.
@@ -2117,6 +2117,7 @@
 - [jmartin82/mmock](https://github.com/jmartin82/mmock) - Mmock is an HTTP mocking application for testing and fast prototyping
 - [helm/helm](https://github.com/helm/helm) - The Kubernetes Package Manager
 - [iron-io/functions](https://github.com/iron-io/functions) - IronFunctions - the serverless microservices platform by
+- [flyeralarm/onboarding](https://github.com/flyeralarm/onboarding) - A list of resources we at flyeralarm use to get new developers up and running
 - [google/gops](https://github.com/google/gops) - A tool to list and diagnose Go processes currently running on your system
 - [josephyzhou/github-trending](https://github.com/josephyzhou/github-trending) - Tracking the most popular Github repos, updated daily
 - [beego/beego](https://github.com/beego/beego) - beego is an open-source, high-performance web framework for the Go programming language.
@@ -6594,7 +6595,6 @@
 - [angstwad/docker.ubuntu](https://github.com/angstwad/docker.ubuntu) - Docker role for Ansible on Ubuntu 14.04+
 - [googlearchive/FirebaseUI](https://github.com/googlearchive/FirebaseUI) - UI bindings for Firebase
 - [you-dont-need/You-Dont-Need-GUI](https://github.com/you-dont-need/You-Dont-Need-GUI) - Stop relying on GUI; CLI **ROCKS**
-- [flyeralarm/onboarding](https://github.com/flyeralarm/onboarding) - A list of resources we at flyeralarm use to get new developers up and running
 - [sbrugman/deep-learning-papers](https://github.com/sbrugman/deep-learning-papers) - Papers about deep learning ordered by task, date. Current state-of-the-art papers are labelled.
 - [dhamaniasad/HeadlessBrowsers](https://github.com/dhamaniasad/HeadlessBrowsers) - A list of (almost) all headless web browsers in existence
 - [AnthonyCalandra/modern-cpp-features](https://github.com/AnthonyCalandra/modern-cpp-features) - A cheatsheet of modern C++ language and library features.
@@ -6986,7 +6986,7 @@
 - [dry-python/returns](https://github.com/dry-python/returns) - Make your functions return something meaningful, typed, and safe!
 - [laixintao/iredis](https://github.com/laixintao/iredis) - Interactive Redis: A Terminal Client for Redis with AutoCompletion and Syntax Highlighting.
 - [h3lio5/linguistic-style-transfer-pytorch](https://github.com/h3lio5/linguistic-style-transfer-pytorch) - Implementation of "Disentangled Representation Learning for Non-Parallel Text Style Transfer(ACL 2019)" in Pytorch
-- [lux-org/lux](https://github.com/lux-org/lux) - Python API for Intelligent Visual Data Discovery
+- [lux-org/lux](https://github.com/lux-org/lux) - Automatically visualize your pandas dataframe via a single print! 📊 💡
 - [DevashishPrasad/CascadeTabNet](https://github.com/DevashishPrasad/CascadeTabNet) - This repository contains the code and implementation details of the CascadeTabNet paper "CascadeTabNet: An approach for end to end table detection and structure recognition from image-based documents"
 - [salesforce/Merlion](https://github.com/salesforce/Merlion) - Merlion: A Machine Learning Framework for Time Series Intelligence
 - [chakki-works/seqeval](https://github.com/chakki-works/seqeval) - A Python framework for sequence labeling evaluation(named-entity recognition, pos tagging, etc...)
