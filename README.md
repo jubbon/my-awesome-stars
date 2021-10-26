@@ -2208,6 +2208,7 @@
 
 ## HCL 
 
+- [yandex-cloud/yc-solution-library-for-security](https://github.com/yandex-cloud/yc-solution-library-for-security) - 
 - [wandb/local](https://github.com/wandb/local) - W&B Local is the self hosted version of Weights & Biases
 - [jcolemorrison/vault-on-aws](https://github.com/jcolemorrison/vault-on-aws) - A secure Vault for secrets, tokens, keys,  passwords, and more.  Automated deployment with Terraform on AWS.  Configurable options for security and scalability.  Usable with any applications and services hosted anywhere.
 - [antonbabenko/terraform-best-practices](https://github.com/antonbabenko/terraform-best-practices) - Terraform best practices (constantly updating)
@@ -5409,6 +5410,7 @@
 - [booz-allen-hamilton/DSB3Tutorial](https://github.com/booz-allen-hamilton/DSB3Tutorial) - 
 - [szagoruyko/functional-zoo](https://github.com/szagoruyko/functional-zoo) - PyTorch and Tensorflow functional model definitions
 - [davidbrai/deep-learning-traffic-lights](https://github.com/davidbrai/deep-learning-traffic-lights) - Code and files of the deep learning model used to win the Nexar Traffic Light Recognition challenge
+- [davidbrai/deep-learning-traffic-lights](https://github.com/davidbrai/deep-learning-traffic-lights) - Code and files of the deep learning model used to win the Nexar Traffic Light Recognition challenge
 - [thedataincubator/ds30_6](https://github.com/thedataincubator/ds30_6) - Data Science in 30 minutes with Jess from Quantopian
 - [ishank26/nn_from_scratch](https://github.com/ishank26/nn_from_scratch) - Multilayer Neural Network using numpy.
 - [mGalarnyk/Python_Tutorials](https://github.com/mGalarnyk/Python_Tutorials) - Python tutorials in both Jupyter Notebook and youtube format.
@@ -5880,6 +5882,9 @@
 
 ## Others 
 
+- [yandex-cloud/docs](https://github.com/yandex-cloud/docs) - Yandex.Cloud documentation
+- [MinZHANG-WHU/Change-Detection-Review](https://github.com/MinZHANG-WHU/Change-Detection-Review) - A review of change detection methods, including codes and open data sets for deep learning.  From paper: change detection based on artificial intelligence: state-of-the-art and challenges.
+- [wenhwu/awesome-remote-sensing-change-detection](https://github.com/wenhwu/awesome-remote-sensing-change-detection) - List of datasets, codes, and contests related to remote sensing change detection
 - [MiniZinc/specialization-examples](https://github.com/MiniZinc/specialization-examples) - 
 - [huawei-university/nlp-course-projects](https://github.com/huawei-university/nlp-course-projects) - Projects from students of NLP Course
 - [Dyakonov/DL](https://github.com/Dyakonov/DL) - Курс "Глубокое обучение (Deep Learning)" (ВМК, МГУ имени М.В. Ломоносова)
@@ -6967,6 +6972,12 @@
 
 ## Python 
 
+- [eora-ai/inferoxy](https://github.com/eora-ai/inferoxy) - Service for quick deploying and using dockerized Computer Vision models
+- [I-Hope-Peace/SiamCRNN](https://github.com/I-Hope-Peace/SiamCRNN) - [TGRS 2020] Tensorflow implementation for Change Detection in Multisource VHR Images via Deep Siamese Convolutional Multiple-Layers Recurrent Neural Network
+- [I-Hope-Peace/ChangeDetectionRepository](https://github.com/I-Hope-Peace/ChangeDetectionRepository) - This repository contains some python code of some traditional change detection methods or provides their original websites, such as SFA, MAD, and some deep learning-based change detection methods, such as SiamCRNN, DSFA, and some FCN-based methods.
+- [justchenhao/STANet](https://github.com/justchenhao/STANet) - official implementation of the spatial-temporal attention neural network (STANet) for remote sensing image change detection
+- [LiheYoung/SenseEarth2020-ChangeDetection](https://github.com/LiheYoung/SenseEarth2020-ChangeDetection) - 1st place solution to the Satellite Image Change Detection Challenge hosted by SenseTime
+- [microsoft/DirectML](https://github.com/microsoft/DirectML) - DirectML is a high-performance, hardware-accelerated DirectX 12 library for machine learning. DirectML provides GPU acceleration for common machine learning tasks across a broad range of supported hardware and drivers, including all DirectX 12-capable GPUs from vendors such as AMD, Intel, NVIDIA, and Qualcomm.
 - [buildingnet/buildingnet_dataset](https://github.com/buildingnet/buildingnet_dataset) - 
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Create UIs for your machine learning model in Python in 3 minutes
 - [coin-or/python-mip](https://github.com/coin-or/python-mip) - Python-MIP: collection of Python tools for the modeling and solution of Mixed-Integer Linear programs
@@ -13153,7 +13164,7 @@
 - [urbica/martin](https://github.com/urbica/martin) - Blazing fast and lightweight PostGIS vector tiles server
 - [copy/v86](https://github.com/copy/v86) - x86 virtualization in your browser, recompiling x86 to wasm on the fly
 - [benfred/py-spy](https://github.com/benfred/py-spy) - Sampling profiler for Python programs
-- [denoland/deno](https://github.com/denoland/deno) - A secure JavaScript and TypeScript runtime
+- [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [atom-archive/xray](https://github.com/atom-archive/xray) - An experimental next-generation Electron-based text editor
 - [sit-fyi/sit](https://github.com/sit-fyi/sit) - Serverless (offline-first, merge-friendly) Information Tracker
 - [openethereum/parity-ethereum](https://github.com/openethereum/parity-ethereum) - The fast, light, and robust client for Ethereum-like networks.
@@ -13491,6 +13502,8 @@
 
 ## TypeScript 
 
+- [yandex-cloud/yfm-docs](https://github.com/yandex-cloud/yfm-docs) - Создавай документацию с помощью yfm-docs в Markdown и HTML форматах
+- [yandex-cloud/yagr](https://github.com/yandex-cloud/yagr) - Yet another graph renderer
 - [redis/node-redis](https://github.com/redis/node-redis) - A high performance Node.js Redis client.
 - [aimhubio/aim](https://github.com/aimhubio/aim) - Aim — an easy-to-use and performant open-source experiment tracker.
 - [microsoft/VoTT](https://github.com/microsoft/VoTT) - Visual Object Tagging Tool: An electron app for building end to end Object Detection Models from Images and Videos.
