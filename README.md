@@ -487,7 +487,7 @@
 - [MLJejuCamp2017/DRL_based_SelfDrivingCarControl](https://github.com/MLJejuCamp2017/DRL_based_SelfDrivingCarControl) - Deep Reinforcement Learning (DQN) based Self Driving Car Control with Vehicle Simulator
 - [dvf/blockchain](https://github.com/dvf/blockchain) - A simple Blockchain in Python
 - [Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents) - Unity Machine Learning Agents Toolkit
-- [electroly/sqlnotebook](https://github.com/electroly/sqlnotebook) - Tabular data exploration and manipulation tool powered by SQLite.
+- [electroly/sqlnotebook](https://github.com/electroly/sqlnotebook) - Tabular data exploration and manipulation tool powered by SQLite
 - [migueldeicaza/TensorFlowSharp](https://github.com/migueldeicaza/TensorFlowSharp) - TensorFlow API for .NET languages
 - [pojala/electrino](https://github.com/pojala/electrino) - Desktop runtime for apps built on web technologies, using the system's own web browser engine
 - [udacity/self-driving-car-sim](https://github.com/udacity/self-driving-car-sim) - A self-driving car simulator built with Unity
@@ -3618,7 +3618,7 @@
 - [yishn/tikzcd-editor](https://github.com/yishn/tikzcd-editor) - A simple visual editor for creating commutative diagrams.
 - [franciscop/server](https://github.com/franciscop/server) - :desktop_computer: Simple and powerful server for Node.js
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (September 2021)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (October 2021)
 - [frappe/charts](https://github.com/frappe/charts) - Simple, responsive, modern SVG Charts with zero dependencies
 - [elesdoar/leaflet-control-orderlayers](https://github.com/elesdoar/leaflet-control-orderlayers) - Leaflet control with order functionality
 - [google/bottery](https://github.com/google/bottery) - 
@@ -4456,6 +4456,7 @@
 
 ## Jupyter Notebook 
 
+- [CalculatedContent/WeightWatcher](https://github.com/CalculatedContent/WeightWatcher) - The WeightWatcher tool for predicting the accuracy of   Deep Neural Networks
 - [saic-mdal/lama](https://github.com/saic-mdal/lama) - 🦙  LaMa Image Inpainting, Resolution-robust Large Mask Inpainting with Fourier Convolutions, WACV 2022
 - [planetlabs/notebooks](https://github.com/planetlabs/notebooks) - interactive notebooks from Planet Engineering
 - [Pyomo/PyomoGallery](https://github.com/Pyomo/PyomoGallery) - A collection of Pyomo examples
@@ -4875,6 +4876,7 @@
 - [google-research/google-research](https://github.com/google-research/google-research) - Google Research
 - [GokuMohandas/MadeWithML](https://github.com/GokuMohandas/MadeWithML) - Learn how to responsibly deliver value with ML.
 - [Machine-Learning-Tokyo/DL-workshop-series](https://github.com/Machine-Learning-Tokyo/DL-workshop-series) - Material used for Deep Learning related workshops for Machine Learning Tokyo (MLT)
+- [glouppe/info8006-introduction-to-ai](https://github.com/glouppe/info8006-introduction-to-ai) - Lectures for INFO8006 - Introduction to Artificial Intelligence, ULiège
 - [ctgk/PRML](https://github.com/ctgk/PRML) - PRML algorithms implemented in Python
 - [llSourcell/Time_Series_Prediction](https://github.com/llSourcell/Time_Series_Prediction) - This is the code for "Time Series Prediction" By Siraj Raval on Youtube
 - [masa-su/pixyz](https://github.com/masa-su/pixyz) - A library for developing deep generative models in a more concise, intuitive and extendable way
@@ -5409,7 +5411,6 @@
 - [taspinar/siml](https://github.com/taspinar/siml) - Machine Learning algorithms implemented from scratch
 - [booz-allen-hamilton/DSB3Tutorial](https://github.com/booz-allen-hamilton/DSB3Tutorial) - 
 - [szagoruyko/functional-zoo](https://github.com/szagoruyko/functional-zoo) - PyTorch and Tensorflow functional model definitions
-- [davidbrai/deep-learning-traffic-lights](https://github.com/davidbrai/deep-learning-traffic-lights) - Code and files of the deep learning model used to win the Nexar Traffic Light Recognition challenge
 - [davidbrai/deep-learning-traffic-lights](https://github.com/davidbrai/deep-learning-traffic-lights) - Code and files of the deep learning model used to win the Nexar Traffic Light Recognition challenge
 - [thedataincubator/ds30_6](https://github.com/thedataincubator/ds30_6) - Data Science in 30 minutes with Jess from Quantopian
 - [ishank26/nn_from_scratch](https://github.com/ishank26/nn_from_scratch) - Multilayer Neural Network using numpy.
@@ -6020,7 +6021,7 @@
 - [jivoi/awesome-ml-for-cybersecurity](https://github.com/jivoi/awesome-ml-for-cybersecurity) - :octocat: Machine Learning for Cyber Security
 - [sundowndev/hacker-roadmap](https://github.com/sundowndev/hacker-roadmap) - :pushpin: Your beginner pen-testing start guide. A guide for amateur pen testers and a collection of hacking tools, resources and references to practice ethical hacking and web security.
 - [MarkSimos/MicrosoftSecurity](https://github.com/MarkSimos/MicrosoftSecurity) - Microsoft Security Guidance
-- [yuanming-hu/difftaichi](https://github.com/yuanming-hu/difftaichi) - 10 differentiable physical simulators built with Taichi differentiable programming (DiffTaichi, ICLR 2020)
+- [taichi-dev/difftaichi](https://github.com/taichi-dev/difftaichi) - 10 differentiable physical simulators built with Taichi differentiable programming (DiffTaichi, ICLR 2020)
 - [SE-ML/awesome-seml](https://github.com/SE-ML/awesome-seml) - A curated list of articles that cover the software engineering best practices for building machine learning applications.
 - [Pysamlam/Tips-of-Feature-engineering](https://github.com/Pysamlam/Tips-of-Feature-engineering) - A feature engineering kit for each issue, to give you a deeper and deeper understanding of the work of feature engineering!
 - [stefanprodan/dockprom](https://github.com/stefanprodan/dockprom) - Docker hosts and containers monitoring with Prometheus, Grafana, cAdvisor, NodeExporter and AlertManager
@@ -6084,7 +6085,6 @@
 - [hmaverickadams/Beginner-Network-Pentesting](https://github.com/hmaverickadams/Beginner-Network-Pentesting) - Notes for Beginner Network Pentesting Course
 - [mapbox/DEPRECATED-patrol](https://github.com/mapbox/DEPRECATED-patrol) - DEPRECATED - An AWS Lambda powered monitoring framework for security, compliance, and best practices.
 - [michaelliao/learn-python3](https://github.com/michaelliao/learn-python3) - Learn Python 3 Sample Code
-- [tensorflow/community](https://github.com/tensorflow/community) - Stores documents used by the TensorFlow developer community
 - [mlss-2019/slides](https://github.com/mlss-2019/slides) - 
 - [jsbroks/awesome-dataset-tools](https://github.com/jsbroks/awesome-dataset-tools) - 🔧 A curated list of awesome dataset tools
 - [changwookjun/StudyBook](https://github.com/changwookjun/StudyBook) - Study E-Book(ComputerVision DeepLearning MachineLearning Math NLP Python ReinforcementLearning)
@@ -6972,6 +6972,7 @@
 
 ## Python 
 
+- [YuanxunLu/LiveSpeechPortraits](https://github.com/YuanxunLu/LiveSpeechPortraits) - Live Speech Portraits: Real-Time Photorealistic Talking-Head Animation (SIGGRAPH Asia 2021)
 - [eora-ai/inferoxy](https://github.com/eora-ai/inferoxy) - Service for quick deploying and using dockerized Computer Vision models
 - [I-Hope-Peace/SiamCRNN](https://github.com/I-Hope-Peace/SiamCRNN) - [TGRS 2020] Tensorflow implementation for Change Detection in Multisource VHR Images via Deep Siamese Convolutional Multiple-Layers Recurrent Neural Network
 - [I-Hope-Peace/ChangeDetectionRepository](https://github.com/I-Hope-Peace/ChangeDetectionRepository) - This repository contains some python code of some traditional change detection methods or provides their original websites, such as SFA, MAD, and some deep learning-based change detection methods, such as SiamCRNN, DSFA, and some FCN-based methods.
@@ -8257,7 +8258,6 @@
 - [thoppe/pixelhouse](https://github.com/thoppe/pixelhouse) - A minimalist drawing library for making beautiful animations in python
 - [bwasti/cache.py](https://github.com/bwasti/cache.py) - Python memoization across program runs.
 - [qubitron/pydemo](https://github.com/qubitron/pydemo) - Get Productive with Python and Visual Studio Code - slides, video, and demo code
-- [glouppe/info8006-introduction-to-ai](https://github.com/glouppe/info8006-introduction-to-ai) - Lectures for INFO8006 - Introduction to Artificial Intelligence, ULiège
 - [Oros42/IMSI-catcher](https://github.com/Oros42/IMSI-catcher) - This program show you IMSI numbers of cellphones around you.
 - [felipessalvatore/self_driving_pi_car](https://github.com/felipessalvatore/self_driving_pi_car) - A deep neural network based self-driving car, that combines Lego Mindstorms NXT with the computational power of a Raspberry Pi 3.
 - [0xR0/shellver](https://github.com/0xR0/shellver) - Reverse Shell Cheat Sheet TooL
@@ -9624,7 +9624,6 @@
 - [codingo/Reconnoitre](https://github.com/codingo/Reconnoitre) - A security tool for multithreaded information gathering and service enumeration whilst building directory structures to store results, along with writing out recommendations for further testing.
 - [toji/semilive](https://github.com/toji/semilive) - A Sublime Text plugin for "Live" coding
 - [scikit-garden/scikit-garden](https://github.com/scikit-garden/scikit-garden) - A garden for scikit-learn compatible trees
-- [cyphonmdr/cyphon](https://github.com/cyphonmdr/cyphon) - Open source incident management and response platform.
 - [tox-dev/tox-docker](https://github.com/tox-dev/tox-docker) - A tox plugin to run one or more Docker containers during tests
 - [polyaxon/polyaxon](https://github.com/polyaxon/polyaxon) - Machine Learning Platform for Kubernetes (MLOps tools for experimentation and automation)
 - [rakhimov/cppdep](https://github.com/rakhimov/cppdep) - C/C++ Dependency Analyzer: a rewrite of John Lakos' dep_utils (adep/cdep/ldep) from "Large-Scale C++ Software Design"
@@ -13552,6 +13551,7 @@
 - [actions/starter-workflows](https://github.com/actions/starter-workflows) - Accelerating new GitHub Actions workflows
 - [microsoft/WebTemplateStudio](https://github.com/microsoft/WebTemplateStudio) - Microsoft Web Template Studio quickly builds web applications using a wizard-based UI to turn your needs into a foundation of best patterns and practices
 - [heremaps/harp-map-editor](https://github.com/heremaps/harp-map-editor) - Simple map editor for harp.gl map styles
+- [tensorflow/community](https://github.com/tensorflow/community) - Stores documents used by the TensorFlow developer community
 - [aws-amplify/docs](https://github.com/aws-amplify/docs) - AWS Amplify Framework Documentation
 - [marmelab/react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design
 - [directus/directus](https://github.com/directus/directus) - Open-Source Data Platform 🐰  — Directus wraps any SQL database with a real-time GraphQL+REST API and an intuitive app for non-technical users.
@@ -14222,7 +14222,7 @@
 - [AStaroverov/vue-toast](https://github.com/AStaroverov/vue-toast) - toasts for vuejs
 - [NewDadaFE/vue-impression](https://github.com/NewDadaFE/vue-impression) - A Vue.js 2.0 UI elements for mobile.
 - [littlewin-wang/Zhihu_Daily](https://github.com/littlewin-wang/Zhihu_Daily) - :newspaper: A Zhihu_Daily Web demo made by Vue.js
-- [santiblanko/vue-instant](https://github.com/santiblanko/vue-instant) - vue instant allows you to easily create custom search controls with auto suggestions for your vue 2 applications
+- [alainPerez995/vue-instant](https://github.com/alainPerez995/vue-instant) - vue instant allows you to easily create custom search controls with auto suggestions for your vue 2 applications
 - [hifarer/vueditor](https://github.com/hifarer/vueditor) - A wysiwyg editor written in Vue.js and Vuex.js
 - [yeyuqiudeng/vue-lazy-render](https://github.com/yeyuqiudeng/vue-lazy-render) - A vue component for lazy rending vue component
 - [vuwe/vuwe](https://github.com/vuwe/vuwe) - WeUI for Vue2
