@@ -153,6 +153,7 @@
 
 ## C 
 
+- [gmtsar/gmtsar](https://github.com/gmtsar/gmtsar) - GMTSAR
 - [deepmind/mujoco](https://github.com/deepmind/mujoco) - Multi-Joint dynamics with Contact. A general purpose physics simulator.
 - [cair/pyTsetlinMachine](https://github.com/cair/pyTsetlinMachine) - Implements the Tsetlin Machine, Convolutional Tsetlin Machine, Regression Tsetlin Machine, Weighted Tsetlin Machine, and Embedding Tsetlin Machine, with support for continuous features, multigranularity, and clause indexing
 - [marmarelis/rolling-quantiles](https://github.com/marmarelis/rolling-quantiles) - Blazing fast, composable, Pythonic quantile filters.
@@ -1236,7 +1237,7 @@
 - [madmalik/mononoki](https://github.com/madmalik/mononoki) - a programming typeface
 - [picturepan2/spectre](https://github.com/picturepan2/spectre) - Spectre.css - A Lightweight, Responsive and Modern CSS Framework
 - [cjcenizal/flexbox-patterns](https://github.com/cjcenizal/flexbox-patterns) - Patterns for using flexbox CSS to build awesome UI components.
-- [lipis/flag-icons](https://github.com/lipis/flag-icons) - :flags: A collection of all country flags in SVG — plus the CSS for easier integration
+- [lipis/flag-icons](https://github.com/lipis/flag-icons) - :flags: A curated collection of all country flags in SVG — plus the CSS for easier integration
 - [tobiasahlin/SpinKit](https://github.com/tobiasahlin/SpinKit) - A collection of loading indicators animated with CSS
 - [dhg/Skeleton](https://github.com/dhg/Skeleton) - Skeleton: A Dead Simple, Responsive Boilerplate for Mobile-Friendly Development
 - [ProgrammingFonts/ProgrammingFonts](https://github.com/ProgrammingFonts/ProgrammingFonts) - This is a collection of programming fonts,just share this with the programmers.Now there are 103 kinds of fantastic fonts!
@@ -1970,7 +1971,6 @@
 - [openfaas/faas-netes](https://github.com/openfaas/faas-netes) - Serverless on Kubernetes with OpenFaaS
 - [kubeless/kubeless](https://github.com/kubeless/kubeless) - Kubernetes Native Serverless Framework
 - [algolia/sup3rS3cretMes5age](https://github.com/algolia/sup3rS3cretMes5age) - Simple to use, simple to deploy, one time self destruct messaging service, with hashicorp vault as a backend
-- [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) - Workflow engine for Kubernetes
 - [justjanne/powerline-go](https://github.com/justjanne/powerline-go) - A beautiful and useful low-latency prompt for your shell, written in go
 - [google/pprof](https://github.com/google/pprof) - pprof is a tool for visualization and analysis of profiling data
 - [0x09AL/raven](https://github.com/0x09AL/raven) - raven is a Linkedin information gathering tool that  can be used by pentesters to gather information about an organization employees using Linkedin.
@@ -4456,6 +4456,7 @@
 
 ## Jupyter Notebook 
 
+- [mobigroup/gmtsar](https://github.com/mobigroup/gmtsar) - GMTSAR
 - [CalculatedContent/WeightWatcher](https://github.com/CalculatedContent/WeightWatcher) - The WeightWatcher tool for predicting the accuracy of   Deep Neural Networks
 - [saic-mdal/lama](https://github.com/saic-mdal/lama) - 🦙  LaMa Image Inpainting, Resolution-robust Large Mask Inpainting with Fourier Convolutions, WACV 2022
 - [planetlabs/notebooks](https://github.com/planetlabs/notebooks) - interactive notebooks from Planet Engineering
@@ -6972,6 +6973,8 @@
 
 ## Python 
 
+- [larsmans/seqlearn](https://github.com/larsmans/seqlearn) - Sequence learning toolkit for Python
+- [ykasten/layered-neural-atlases](https://github.com/ykasten/layered-neural-atlases) - 
 - [YuanxunLu/LiveSpeechPortraits](https://github.com/YuanxunLu/LiveSpeechPortraits) - Live Speech Portraits: Real-Time Photorealistic Talking-Head Animation (SIGGRAPH Asia 2021)
 - [eora-ai/inferoxy](https://github.com/eora-ai/inferoxy) - Service for quick deploying and using dockerized Computer Vision models
 - [I-Hope-Peace/SiamCRNN](https://github.com/I-Hope-Peace/SiamCRNN) - [TGRS 2020] Tensorflow implementation for Change Detection in Multisource VHR Images via Deep Siamese Convolutional Multiple-Layers Recurrent Neural Network
@@ -9392,6 +9395,7 @@
 - [LouieYang/deep-photo-styletransfer-tf](https://github.com/LouieYang/deep-photo-styletransfer-tf) - Tensorflow (Python API) implementation of Deep Photo Style Transfer
 - [nlml/np-to-tf-embeddings-visualiser](https://github.com/nlml/np-to-tf-embeddings-visualiser) - Quick function to go from a dictionary of sets of (images, labels, feature vectors) to checkpoints that can be opened in Tensorboard
 - [awesometoolbox/awesome-apistar](https://github.com/awesometoolbox/awesome-apistar) - A curated list of awesome packages, articles, and other cool resources from the API Star community.
+- [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) - Workflow engine for Kubernetes
 - [kennethreitz/coinbin.org](https://github.com/kennethreitz/coinbin.org) - ₿ A Human–Friendly API Service for Crypto Currency Information.
 - [Spandan-Madan/Pytorch_fine_tuning_Tutorial](https://github.com/Spandan-Madan/Pytorch_fine_tuning_Tutorial) - A short tutorial on performing fine tuning or transfer learning in PyTorch.
 - [idlesign/uwsgiconf](https://github.com/idlesign/uwsgiconf) - Configure uWSGI from your Python code
@@ -12940,7 +12944,7 @@
 - [statsmaths/cleanNLP](https://github.com/statsmaths/cleanNLP) - R package providing annotators and a normalized data model for natural language processing
 - [business-science/timetk](https://github.com/business-science/timetk) - A toolkit for working with time series in R
 - [lockEF/bidifac](https://github.com/lockEF/bidifac) - Bidimensional matrix factorization
-- [IndrajeetPatil/ggstatsplot](https://github.com/IndrajeetPatil/ggstatsplot) - Enhancing `ggplot2` plots with statistical analysis 📊🎨📣
+- [IndrajeetPatil/ggstatsplot](https://github.com/IndrajeetPatil/ggstatsplot) - Enhancing `{ggplot2}` plots with statistical analysis 📊🎨📣
 - [cloudyr/aws.iam](https://github.com/cloudyr/aws.iam) - AWS IAM Client Package
 - [Quartz/nyc-trips](https://github.com/Quartz/nyc-trips) - Analysis of rideshare trips taken in New York City.
 - [fstpackage/fst](https://github.com/fstpackage/fst) - Lightning Fast Serialization of Data Frames for R
