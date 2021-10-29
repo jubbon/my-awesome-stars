@@ -4472,7 +4472,6 @@
 - [schmitt-muc/SEN12MS](https://github.com/schmitt-muc/SEN12MS) - Repository for SEN12MS related codes and utilities
 - [satvik-venkatesh/you-only-hear-once](https://github.com/satvik-venkatesh/you-only-hear-once) - 
 - [upb-lea/reinforcement_learning_course_materials](https://github.com/upb-lea/reinforcement_learning_course_materials) - Lecture notes, tutorial tasks including solutions as well as online videos for the reinforcement learning course hosted by Paderborn University
-- [sberbank-ai-lab/RePlay](https://github.com/sberbank-ai-lab/RePlay) - RecSys Library
 - [marceloprates/prettymaps](https://github.com/marceloprates/prettymaps) - A small set of Python functions to draw pretty maps from OpenStreetMap data. Based on osmnx, matplotlib and shapely libraries.
 - [truera/trulens](https://github.com/truera/trulens) - Library containing attribution and interpretation methods for deep nets.
 - [labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) - 🧑‍🏫 50! Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠
@@ -6973,6 +6972,7 @@
 
 ## Python 
 
+- [facebookresearch/bitsandbytes](https://github.com/facebookresearch/bitsandbytes) - Library for 8-bit optimizers and quantization routines.
 - [larsmans/seqlearn](https://github.com/larsmans/seqlearn) - Sequence learning toolkit for Python
 - [ykasten/layered-neural-atlases](https://github.com/ykasten/layered-neural-atlases) - 
 - [YuanxunLu/LiveSpeechPortraits](https://github.com/YuanxunLu/LiveSpeechPortraits) - Live Speech Portraits: Real-Time Photorealistic Talking-Head Animation (SIGGRAPH Asia 2021)
@@ -7027,6 +7027,7 @@
 - [saltudelft/type4py](https://github.com/saltudelft/type4py) - Type4Py: Deep Similarity Learning-Based Type Inference for Python
 - [HIPS/autograd](https://github.com/HIPS/autograd) - Efficiently computes derivatives of numpy code.
 - [sberbank-ai-lab/torchvggish](https://github.com/sberbank-ai-lab/torchvggish) - Pytorch port of Google Research's VGGish model used for extracting audio features.
+- [sberbank-ai-lab/RePlay](https://github.com/sberbank-ai-lab/RePlay) - RecSys Library
 - [sberbank-ai-lab/LightAutoML](https://github.com/sberbank-ai-lab/LightAutoML) - LAMA - automatic model creation framework
 - [csuhan/ReDet](https://github.com/csuhan/ReDet) - Official code of the paper "ReDet: A Rotation-equivariant Detector for Aerial Object Detection" (CVPR 2021)
 - [PaddlePaddle/PaddleClas](https://github.com/PaddlePaddle/PaddleClas) - A treasure chest for visual recognition powered by PaddlePaddle
@@ -7239,7 +7240,7 @@
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: End-to-end Python framework for building natural language search interfaces to data. Leverages Transformers and the State-of-the-Art of NLP. Supports DPR, Elasticsearch, Hugging Face’s Hub, and much more!
 - [bentoml/BentoML](https://github.com/bentoml/BentoML) - Model Serving Made Easy
 - [eisen-ai/eisen-core](https://github.com/eisen-ai/eisen-core) - Core functionality of Eisen
-- [vector-ai/vectorhub](https://github.com/vector-ai/vectorhub) - Vector Hub - Library for easy discovery, and consumption of State-of-the-art models to turn data into vectors. (text2vec, image2vec, video2vec, graph2vec, bert, inception, etc)
+- [RelevanceAI/vectorhub](https://github.com/RelevanceAI/vectorhub) - Vector Hub - Library for easy discovery, and consumption of State-of-the-art models to turn data into vectors. (text2vec, image2vec, video2vec, graph2vec, bert, inception, etc)
 - [google-research/multilingual-t5](https://github.com/google-research/multilingual-t5) - 
 - [AllenInstitute/deepinterpolation](https://github.com/AllenInstitute/deepinterpolation) - 
 - [facebookresearch/SentAugment](https://github.com/facebookresearch/SentAugment) - SentAugment is a data augmentation technique for NLP that retrieves similar sentences from a large bank of sentences. It can be used in combination with self-training and knowledge-distillation, or for retrieving paraphrases.
@@ -7853,7 +7854,7 @@
 - [anirudhajith/process-wallpaper](https://github.com/anirudhajith/process-wallpaper) - Shell and python scripts that set the desktop wallpaper to a word cloud of the most resource-hungry processes
 - [eon01/kubernetes-workshop](https://github.com/eon01/kubernetes-workshop) - ⚙️ A Gentle introduction to Kubernetes with more than just the basics. 🌟 Give it a star if you like it.
 - [OTRF/ThreatHunter-Playbook](https://github.com/OTRF/ThreatHunter-Playbook) - A Threat hunter's playbook to aid the development of techniques and hypothesis for hunting campaigns.
-- [dagster-io/dagster](https://github.com/dagster-io/dagster) - A data orchestrator for machine learning, analytics, and ETL.
+- [dagster-io/dagster](https://github.com/dagster-io/dagster) - An orchestration platform for the development, production, and observation of data assets.
 - [pbloem/former](https://github.com/pbloem/former) - Simple transformer implementation from scratch in pytorch.
 - [ShangtongZhang/reinforcement-learning-an-introduction](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction) - Python Implementation of Reinforcement Learning: An Introduction
 - [timgrossmann/InstaPy](https://github.com/timgrossmann/InstaPy) - 📷 Instagram Bot - Tool for automated Instagram interactions
@@ -8188,7 +8189,7 @@
 - [naoto0804/pytorch-AdaIN](https://github.com/naoto0804/pytorch-AdaIN) - Unofficial pytorch implementation of 'Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization' [Huang+, ICCV2017]
 - [flow-project/flow](https://github.com/flow-project/flow) - Computational framework for reinforcement learning in traffic control
 - [devAmoghS/Machine-Learning-with-Python](https://github.com/devAmoghS/Machine-Learning-with-Python) - Small scale machine learning projects to understand the core concepts . Give a Star 🌟If it helps you. BONUS: Interview Bank coming up..!
-- [rockyzhengwu/nsfw](https://github.com/rockyzhengwu/nsfw) - Suitable for Work (NSFW) classification
+- [rockyzhengwu/nsfw](https://github.com/rockyzhengwu/nsfw) - Not Suitable for Work (NSFW) classification
 - [facebookresearch/LASER](https://github.com/facebookresearch/LASER) - Language-Agnostic SEntence Representations
 - [AcademySoftwareFoundation/OpenCue](https://github.com/AcademySoftwareFoundation/OpenCue) - A render management system you can deploy for visual effects and animation productions.
 - [ycszen/TorchSeg](https://github.com/ycszen/TorchSeg) - Fast, modular reference implementation and easy training of Semantic Segmentation algorithms in PyTorch.
