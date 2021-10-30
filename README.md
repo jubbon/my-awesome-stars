@@ -1107,7 +1107,7 @@
 - [heapwolf/scratches](https://github.com/heapwolf/scratches) - A scratchpad with node & browser apis.
 - [ajusa/lit](https://github.com/ajusa/lit) - World's smallest responsive 🔥 css framework (395 bytes)
 - [NigelOToole/direction-reveal](https://github.com/NigelOToole/direction-reveal) - Direction aware content reveals via hover or tab on an element.
-- [UndeadSec/SocialFish](https://github.com/UndeadSec/SocialFish) - Educational Phishing Tool & Information Collector
+- [UndeadSec/SocialFish](https://github.com/UndeadSec/SocialFish) - Phishing Tool & Information Collector
 - [dinkbit/epoch](https://github.com/dinkbit/epoch) - A simple but powerful Epoch converter
 - [webkul/micron](https://github.com/webkul/micron) - a [μ] microInteraction library built with CSS Animations and controlled by JavaScript Power
 - [jbtronics/CrookedStyleSheets](https://github.com/jbtronics/CrookedStyleSheets) - Webpage tracking only using CSS (and no JS)
@@ -1469,7 +1469,6 @@
 - [crazycapivara/docker-kepler.gl](https://github.com/crazycapivara/docker-kepler.gl) - kepler.gl in a box
 - [nodejs/docker-node](https://github.com/nodejs/docker-node) - Official Docker Image for Node.js :whale: :turtle: :rocket:
 - [jessfraz/dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
-- [big-data-europe/docker-spark](https://github.com/big-data-europe/docker-spark) - Apache Spark docker image
 - [kns-it/Docker-GitPitch](https://github.com/kns-it/Docker-GitPitch) - 
 - [joyzoursky/docker-python-chromedriver](https://github.com/joyzoursky/docker-python-chromedriver) - Dockerfile for running Python Selenium in headless Chrome (Python 2.7 / 3.6 / 3.7 / 3.8 / Alpine based Python / Chromedriver / Selenium / Xvfb included in different versions)
 - [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
@@ -4959,6 +4958,7 @@
 - [artix41/AVO-pytorch](https://github.com/artix41/AVO-pytorch) - Implementation of Adversarial Variational Optimization in PyTorch
 - [prakhar21/50-Days-of-ML](https://github.com/prakhar21/50-Days-of-ML) - A day to day plan for this challenge (50 Days of Machine Learning) . Covers both theoretical and practical aspects
 - [MLEveryday/100-Days-Of-ML-Code](https://github.com/MLEveryday/100-Days-Of-ML-Code) - 100-Days-Of-ML-Code中文版
+- [microsoft/TextWorld](https://github.com/microsoft/TextWorld) - ​TextWorld is a sandbox learning environment for the training and evaluation of reinforcement learning (RL) agents on text-based games.
 - [zuoxingdong/lagom](https://github.com/zuoxingdong/lagom) - lagom: A PyTorch infrastructure for rapid prototyping of reinforcement learning algorithms.
 - [llSourcell/Amazon_Training_Video](https://github.com/llSourcell/Amazon_Training_Video) - AWS_Training_Video
 - [wohlert/generative-query-network-pytorch](https://github.com/wohlert/generative-query-network-pytorch) - Generative Query Network (GQN) in PyTorch as described in "Neural Scene Representation and Rendering"
@@ -5165,7 +5165,6 @@
 - [llSourcell/7_Research_Directions_Deep_Learning](https://github.com/llSourcell/7_Research_Directions_Deep_Learning) - This is the code for "The Future of Deep Learning Research" by Siraj Raval on Youtube
 - [tjwei/GANotebooks](https://github.com/tjwei/GANotebooks) - wgan, wgan2(improved, gp), infogan, and dcgan implementation in  lasagne, keras, pytorch
 - [loudinthecloud/pytorch-ntm](https://github.com/loudinthecloud/pytorch-ntm) - Neural Turing Machines (NTM) - PyTorch Implementation
-- [OpenMined/PySyft](https://github.com/OpenMined/PySyft) - A library for answering questions using data you cannot see
 - [marsauto/europilot](https://github.com/marsauto/europilot) - A toolkit for controlling Euro Truck Simulator 2 with python to develop self-driving algorithms.
 - [zygmuntz/goodbooks-10k](https://github.com/zygmuntz/goodbooks-10k) - Ten thousand books, six million ratings
 - [radekosmulski/dogs_vs_cats](https://github.com/radekosmulski/dogs_vs_cats) - 
@@ -6972,6 +6971,7 @@
 
 ## Python 
 
+- [descriptinc/lyrebird-wav2clip](https://github.com/descriptinc/lyrebird-wav2clip) - Official implementation of the paper WAV2CLIP: LEARNING ROBUST AUDIO REPRESENTATIONS FROM CLIP
 - [facebookresearch/bitsandbytes](https://github.com/facebookresearch/bitsandbytes) - Library for 8-bit optimizers and quantization routines.
 - [larsmans/seqlearn](https://github.com/larsmans/seqlearn) - Sequence learning toolkit for Python
 - [ykasten/layered-neural-atlases](https://github.com/ykasten/layered-neural-atlases) - 
@@ -7237,7 +7237,7 @@
 - [alphacep/tn2-wg](https://github.com/alphacep/tn2-wg) - Tacotron2 + Waveglow Russian
 - [sovaai/sova-asr](https://github.com/sovaai/sova-asr) - SOVA ASR (Automatic Speech Recognition)
 - [WongKinYiu/ScaledYOLOv4](https://github.com/WongKinYiu/ScaledYOLOv4) - Scaled-YOLOv4: Scaling Cross Stage Partial Network
-- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: End-to-end Python framework for building natural language search interfaces to data. Leverages Transformers and the State-of-the-Art of NLP. Supports DPR, Elasticsearch, Hugging Face’s Hub, and much more!
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: Haystack is an open source NLP framework that leverages Transformer models. It enables developers to implement production-ready neural search, question answering, semantic document search and summarization for a wide range of applications.
 - [bentoml/BentoML](https://github.com/bentoml/BentoML) - Model Serving Made Easy
 - [eisen-ai/eisen-core](https://github.com/eisen-ai/eisen-core) - Core functionality of Eisen
 - [RelevanceAI/vectorhub](https://github.com/RelevanceAI/vectorhub) - Vector Hub - Library for easy discovery, and consumption of State-of-the-art models to turn data into vectors. (text2vec, image2vec, video2vec, graph2vec, bert, inception, etc)
@@ -8538,7 +8538,6 @@
 - [dn1z/pgn2gif](https://github.com/dn1z/pgn2gif) - A small tool that generates gif of a chess game
 - [marcoeilers/nagini](https://github.com/marcoeilers/nagini) - Nagini is a static verifier for Python 3, based on the Viper verification infrastructure.
 - [ansible/ansible-jupyter-kernel](https://github.com/ansible/ansible-jupyter-kernel) - Jupyter Notebook Kernel for running Ansible Tasks and Playbooks
-- [microsoft/TextWorld](https://github.com/microsoft/TextWorld) - ​TextWorld is a sandbox learning environment for the training and evaluation of reinforcement learning (RL) agents on text-based games.
 - [jupyterhub/repo2docker](https://github.com/jupyterhub/repo2docker) - Turn repositories into Jupyter-enabled Docker images
 - [seddonym/layer_linter](https://github.com/seddonym/layer_linter) - This package is deprecated - use Import Linter instead.
 - [XanaduAI/strawberryfields](https://github.com/XanaduAI/strawberryfields) - Strawberry Fields is a full-stack Python library for designing, simulating, and optimizing continuous variable (CV) quantum optical circuits.
@@ -9269,6 +9268,7 @@
 - [mingyuliutw/UNIT](https://github.com/mingyuliutw/UNIT) - Unsupervised Image-to-Image Translation
 - [jullrich/pcap2curl](https://github.com/jullrich/pcap2curl) - Read a packet capture, extract HTTP requests and turn them into cURL commands for replay.
 - [RasaHQ/rasa_core](https://github.com/RasaHQ/rasa_core) - Rasa Core is now part of the Rasa repo: An open source machine learning framework to automate text-and voice-based conversations
+- [OpenMined/PySyft](https://github.com/OpenMined/PySyft) - A library for answering questions using data you cannot see
 - [apple/coremltools](https://github.com/apple/coremltools) - Core ML tools contain supporting tools for Core ML model conversion, editing, and validation.
 - [manrajgrover/halo](https://github.com/manrajgrover/halo) - 💫 Beautiful spinners for terminal, IPython and Jupyter
 - [tammoippen/plotille](https://github.com/tammoippen/plotille) - Plot in the terminal using braille dots.
@@ -13281,6 +13281,7 @@
 - [wiktorn/Overpass-API](https://github.com/wiktorn/Overpass-API) - Overpass API docker image
 - [mediasuitenz/docker-overpass-api](https://github.com/mediasuitenz/docker-overpass-api) - Docker Overpass API
 - [cdrx/docker-pyinstaller](https://github.com/cdrx/docker-pyinstaller) - PyInstaller for Linux and Windows inside Docker
+- [big-data-europe/docker-spark](https://github.com/big-data-europe/docker-spark) - Apache Spark docker image
 - [pirate/wireguard-docs](https://github.com/pirate/wireguard-docs) - 📖 Unofficial WireGuard Documentation: Setup, Usage, Configuration, and full example setups for VPNs supporting both servers & roaming clients.
 - [dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws) - 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws
 - [trimstray/htrace.sh](https://github.com/trimstray/htrace.sh) - My simple Swiss Army knife for http/https troubleshooting and profiling.
