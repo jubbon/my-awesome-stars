@@ -9257,7 +9257,7 @@
 - [tensorflow/lattice](https://github.com/tensorflow/lattice) - Lattice methods in TensorFlow
 - [openai/multiagent-particle-envs](https://github.com/openai/multiagent-particle-envs) - Code for a multi-agent particle environment used in the paper "Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments"
 - [qutebrowser/qutebrowser](https://github.com/qutebrowser/qutebrowser) - A keyboard-driven, vim-like browser based on PyQt5.
-- [IntelPython/sdc](https://github.com/IntelPython/sdc) - Intel® Scalable Dataframe Compiler for Pandas*
+- [IntelPython/sdc](https://github.com/IntelPython/sdc) - Numba extension for compiling Pandas data frames, Intel® Scalable Dataframe Compiler
 - [ikostrikov/pytorch-a2c-ppo-acktr-gail](https://github.com/ikostrikov/pytorch-a2c-ppo-acktr-gail) - PyTorch implementation of Advantage Actor Critic (A2C), Proximal Policy Optimization (PPO), Scalable trust-region method for deep reinforcement learning using Kronecker-factored approximation (ACKTR) and Generative Adversarial Imitation Learning (GAIL).
 - [salesforce/pytorch-qrnn](https://github.com/salesforce/pytorch-qrnn) - PyTorch implementation of the Quasi-Recurrent Neural Network - up to 16 times faster than NVIDIA's cuDNN LSTM
 - [tryolabs/luminoth](https://github.com/tryolabs/luminoth) - Deep Learning toolkit for Computer Vision.
@@ -10888,7 +10888,7 @@
 - [chrisseto/Agent](https://github.com/chrisseto/Agent) - Async generators for humans
 - [avinassh/slackipy](https://github.com/avinassh/slackipy) - Automate user invites to your Slack channel!
 - [ianozsvald/featherweight_web_api](https://github.com/ianozsvald/featherweight_web_api) - Featherweight web API provider for serving R&D methods as web functions
-- [TomasTomecek/sen](https://github.com/TomasTomecek/sen) - Terminal User Interface for docker engine
+- [TomasTomecek/sen](https://github.com/TomasTomecek/sen) - Terminal User Interface for containers.
 - [nk412/pyfzf](https://github.com/nk412/pyfzf) - A python wrapper for fzf
 - [stefano/pyduktape](https://github.com/stefano/pyduktape) - Embed the Duktape JS interpreter in Python
 - [timbennett/movie-barcodes](https://github.com/timbennett/movie-barcodes) - Turn video files into 'barcodes' where vertical lines represent the average colour of individual frames.
@@ -13943,7 +13943,7 @@
 - [DoritoBandito/vuetify-upload-button](https://github.com/DoritoBandito/vuetify-upload-button) - Vue.js component for adding a file upload button for Vuetify.
 - [pietheinstrengholt/rssmonster](https://github.com/pietheinstrengholt/rssmonster) - Google Reader inspired self-hosted RSS reader written in VueJS with an Express NodeJS backend. RSSMonster is compatible with the Fever API.
 - [yuneco/portfolio](https://github.com/yuneco/portfolio) - My portfolio web site made with Vue & Firebase
-- [coreui/coreui-free-vue-admin-template](https://github.com/coreui/coreui-free-vue-admin-template) - CoreUI Vue is free Vue admin template based on Bootstrap 4
+- [coreui/coreui-free-vue-admin-template](https://github.com/coreui/coreui-free-vue-admin-template) - Open source admin template based on Bootstrap 5 and Vue 3
 - [vuejs/events](https://github.com/vuejs/events) - Source code for the new Vue.js Events page
 - [antonreshetov/vue-unicons](https://github.com/antonreshetov/vue-unicons) - 1000+ Pixel-perfect svg icons for your next project as Vue components
 - [sdras/vue-hooks-foodapp](https://github.com/sdras/vue-hooks-foodapp) - A food app using a few hooks in Vue to show how they can work (experimental)
