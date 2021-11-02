@@ -897,7 +897,7 @@
 - [ugo-nama-kun/gym_torcs](https://github.com/ugo-nama-kun/gym_torcs) - 
 - [ydwen/caffe-face](https://github.com/ydwen/caffe-face) - This branch is developed for deep face recognition
 - [alibaba/AliSQL](https://github.com/alibaba/AliSQL) - AliSQL is a MySQL branch originated from Alibaba Group. Fetch document from Release Notes at bottom.
-- [catchorg/Catch2](https://github.com/catchorg/Catch2) - A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)
+- [catchorg/Catch2](https://github.com/catchorg/Catch2) - A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)
 - [openai/triton](https://github.com/openai/triton) - Development repository for the Triton language and compiler
 - [gzc/CLRS](https://github.com/gzc/CLRS) - :notebook:Solutions to Introduction to Algorithms
 - [cartographer-project/cartographer_ros](https://github.com/cartographer-project/cartographer_ros) - Provides ROS integration for Cartographer.
@@ -1146,7 +1146,6 @@
 - [hemangsk/Gravity](https://github.com/hemangsk/Gravity) - Minimal is the new cool.
 - [OWASP/owasp-summit-2017](https://github.com/OWASP/owasp-summit-2017) - Content for OWASP Summit 2017 site
 - [creativetimofficial/now-ui-kit](https://github.com/creativetimofficial/now-ui-kit) - Now UI Kit Bootstrap 4 - Designed by Invision. Coded by Creative Tim
-- [jdm-contrib/jdm](https://github.com/jdm-contrib/jdm) - A directory of direct links to delete your account from web services.
 - [Chalarangelo/mocka](https://github.com/Chalarangelo/mocka) - Simple, elegant content placeholder
 - [C-JSN/D3-ID3](https://github.com/C-JSN/D3-ID3) - iD3: an Integrated Development Environment for D3.js
 - [wyze/atom-seti-icons](https://github.com/wyze/atom-seti-icons) - The awesome icons provided by Seti UI theme.
@@ -1655,7 +1654,7 @@
 - [jpschroeder/pipe-to-me](https://github.com/jpschroeder/pipe-to-me) - Stream data over http using curl.
 - [uber/kraken](https://github.com/uber/kraken) - P2P Docker registry capable of distributing TBs of data in seconds
 - [uber/astro](https://github.com/uber/astro) - Astro is a tool for managing multiple Terraform executions as a single command
-- [cortexlabs/cortex](https://github.com/cortexlabs/cortex) - Containers as a service on AWS
+- [cortexlabs/cortex](https://github.com/cortexlabs/cortex) - Production infrastructure for machine learning at scale
 - [ovh/cds](https://github.com/ovh/cds) - Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform
 - [k3s-io/k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes
 - [skanehira/docui](https://github.com/skanehira/docui) - TUI Client for Docker
@@ -2322,6 +2321,7 @@
 - [clauswilke/dataviz](https://github.com/clauswilke/dataviz) - A book covering the fundamentals of data visualization
 - [tc39/proposal-promise-any](https://github.com/tc39/proposal-promise-any) - ECMAScript proposal: Promise.any
 - [tc39/proposal-promise-allSettled](https://github.com/tc39/proposal-promise-allSettled) - ECMAScript Proposal, specs, and reference implementation for Promise.allSettled
+- [unit8co/vegans](https://github.com/unit8co/vegans) - A library providing various existing GANs in PyTorch.
 - [tc39/proposal-optional-catch-binding](https://github.com/tc39/proposal-optional-catch-binding) - proposal for ECMAScript to allow omission of the catch binding
 - [kmario23/deep-learning-drizzle](https://github.com/kmario23/deep-learning-drizzle) - Drench yourself in Deep Learning, Reinforcement Learning, Machine Learning, Computer Vision, and NLP by learning from these exciting lectures!!
 - [DankNeon/vscode](https://github.com/DankNeon/vscode) - A danker, more neon theme for VS Code
@@ -2509,6 +2509,7 @@
 - [crazychicken/t-scroll](https://github.com/crazychicken/t-scroll) - A modern reveal-on-scroll library with useful options and animations. (Animate Elements On Reveal)
 - [sclorg/nodejs-ex](https://github.com/sclorg/nodejs-ex) - node.js example
 - [openshift-evangelists/kbe](https://github.com/openshift-evangelists/kbe) - Kubernetes By Example
+- [jdm-contrib/jdm](https://github.com/jdm-contrib/jdm) - A directory of direct links to delete your account from web services.
 - [ropensci/skimr](https://github.com/ropensci/skimr) - A frictionless, pipeable approach to dealing with summary statistics
 - [EliotAndres/kaggle-past-solutions](https://github.com/EliotAndres/kaggle-past-solutions) - A searchable compilation of Kaggle past solutions
 - [modularcode/modular-admin-html](https://github.com/modularcode/modular-admin-html) - ModularAdmin - Free Dashboard Theme Built On Bootstrap 4 | HTML Version
@@ -3287,7 +3288,6 @@
 - [ash47/AiExperiments](https://github.com/ash47/AiExperiments) - Here's a bunch of experimental self learning AIs
 - [uber/h3-js](https://github.com/uber/h3-js) - h3-js provides a JavaScript version of H3, a hexagon-based geospatial indexing system.
 - [uber-common/vis-academy](https://github.com/uber-common/vis-academy) - A set of tutorials on how our frameworks make effective data visualization applications.
-- [visgl/luma.gl](https://github.com/visgl/luma.gl) - High-performance Toolkit for WebGL-based Data Visualization
 - [MarcusGitAccount/traffic-simulation-cluj-napoca](https://github.com/MarcusGitAccount/traffic-simulation-cluj-napoca) - Prototyping a traffic simulator for Cluj-Napoca using html5 canvas and a lot of maths and basic AI.
 - [Wildhoney/Leaflet.FreeDraw](https://github.com/Wildhoney/Leaflet.FreeDraw) - :earth_asia: FreeDraw allows the free-hand drawing of shapes on your Leaflet.js map layer – providing an intuitive and familiar UX for creating geospatial boundaries similar to Zoopla and others. Included out-of-the-box is the concaving of polygons, polygon merging and simplifying, as well as the ability to add edges and modify existing shapes.
 - [OpenDroneMap/WebODM](https://github.com/OpenDroneMap/WebODM) - User-friendly, commercial-grade software for processing aerial imagery. 🛩
@@ -3555,7 +3555,6 @@
 - [electron/electron-packager](https://github.com/electron/electron-packager) - Customize and package your Electron app with OS-specific bundles (.app, .exe, etc.) via JS or CLI
 - [dwqs/v2-datepicker](https://github.com/dwqs/v2-datepicker) - A simple datepicker component based Vue 2.x: https://dwqs.github.io/v2-datepicker/
 - [f/vue-wait](https://github.com/f/vue-wait) - Complex Loader and Progress Management for Vue/Vuex and Nuxt Applications
-- [jaredpalmer/after.js](https://github.com/jaredpalmer/after.js) - Next.js-like framework for server-rendered React apps built with React Router
 - [NervJS/nerv](https://github.com/NervJS/nerv) - A blazing fast React alternative, compatible with IE8 and React 16.
 - [lukeed/polka](https://github.com/lukeed/polka) - A micro web server so fast, it'll make you dance! :dancers:
 - [zouhir/jarvis](https://github.com/zouhir/jarvis) - A very intelligent browser based Webpack dashboard
@@ -4836,7 +4835,6 @@
 - [iArunava/ENet-Real-Time-Semantic-Segmentation](https://github.com/iArunava/ENet-Real-Time-Semantic-Segmentation) - ENet - A Neural Net Architecture for real time Semantic Segmentation
 - [PPPW/deep-learning-random-explore](https://github.com/PPPW/deep-learning-random-explore) - 
 - [llSourcell/Sentiment_Analysis](https://github.com/llSourcell/Sentiment_Analysis) - This is the code for "Sentiment Analysis - Data Lit #1" by Siraj Raval on Youtube
-- [unit8co/vegans](https://github.com/unit8co/vegans) - A library providing various existing GANs in PyTorch.
 - [flow-project/EE290O](https://github.com/flow-project/EE290O) - 
 - [Kyubyong/bert-token-embeddings](https://github.com/Kyubyong/bert-token-embeddings) - 
 - [switchablenorms/DeepFashion2](https://github.com/switchablenorms/DeepFashion2) - DeepFashion2 Dataset https://arxiv.org/pdf/1901.07973.pdf
@@ -13642,6 +13640,7 @@
 - [immutable-js/immutable-js](https://github.com/immutable-js/immutable-js) - Immutable persistent data collections for Javascript which increase efficiency and simplicity.
 - [vega/voyager](https://github.com/vega/voyager) - Visualization Tool for Data Exploration
 - [vuejs/vue-class-component](https://github.com/vuejs/vue-class-component) - ES / TypeScript decorator for class-style Vue components.
+- [visgl/luma.gl](https://github.com/visgl/luma.gl) - High-performance Toolkit for WebGL-based Data Visualization
 - [yinxin630/fiora](https://github.com/yinxin630/fiora) - An interesting open source chat application. Developed with node.js, mongoDB, socket.io and react
 - [michalyao/evermonkey](https://github.com/michalyao/evermonkey) - Evernote Editing. Redefined.  关于 token 的问题请去 https://github.com/michalyao/evermonkey/issues/94 中查看！
 - [reakit/reakit](https://github.com/reakit/reakit) - Toolkit for building accessible rich web apps with React
@@ -13701,6 +13700,7 @@
 - [doodyparizada/word2vec-spam-filter](https://github.com/doodyparizada/word2vec-spam-filter) - Using word vectors to classify spam messages
 - [prettier/prettier-vscode](https://github.com/prettier/prettier-vscode) - Visual Studio Code extension for Prettier
 - [snyk/snyk](https://github.com/snyk/snyk) - Snyk CLI scans and monitors your projects for security vulnerabilities.
+- [jaredpalmer/after.js](https://github.com/jaredpalmer/after.js) - Next.js-like framework for server-rendered React apps built with React Router
 - [PaddlePaddle/VisualDL](https://github.com/PaddlePaddle/VisualDL) - Deep Learning Visualization Toolkit（『飞桨』深度学习可视化工具 ）
 - [nhn/tui.editor](https://github.com/nhn/tui.editor) - 🍞📝 Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.
 - [Sammons/pluggable-autocomplete](https://github.com/Sammons/pluggable-autocomplete) - Allows writing simple extensions to get suggestions for values from external data sources
