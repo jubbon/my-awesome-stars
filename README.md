@@ -475,7 +475,7 @@
 
 ## C# # 
 
-- [kreeben/resin](https://github.com/kreeben/resin) - Hardware-accelerated vector database search engine. Available as a HTTP service or as an embedded library.
+- [kreeben/resin](https://github.com/kreeben/resin) - Hardware-accelerated vector database and search engine. Available as a HTTP service or as an embedded library.
 - [Azure-Samples/acr-tasks](https://github.com/Azure-Samples/acr-tasks) - A collection samples for ACR Tasks, including acr-task.yaml and Dockerfiles.
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [exercism/v3](https://github.com/exercism/v3) - The work-in-progress project for developing v3 tracks
@@ -582,7 +582,7 @@
 - [OpenTTD/OpenTTD](https://github.com/OpenTTD/OpenTTD) - OpenTTD is an open source simulation game based upon Transport Tycoon Deluxe
 - [Errichto/youtube](https://github.com/Errichto/youtube) - codes for my streams and YT videos
 - [openscenegraph/OpenSceneGraph](https://github.com/openscenegraph/OpenSceneGraph) - OpenSceneGraph git repository
-- [ossrs/srs](https://github.com/ossrs/srs) - SRS is a simple, high efficiency and realtime video server, supports RTMP/WebRTC/HLS/HTTP-FLV/SRT/GB28181.
+- [ossrs/srs](https://github.com/ossrs/srs) - SRS is a simple, high efficiency and realtime video server, supports RTMP, WebRTC, HLS, HTTP-FLV, SRT and GB28181.
 - [JoeyDeVries/LearnOpenGL](https://github.com/JoeyDeVries/LearnOpenGL) - Code repository of all OpenGL chapters from the book and its accompanying website https://learnopengl.com
 - [GraphIt-DSL/graphit](https://github.com/GraphIt-DSL/graphit) - GraphIt - A High-Performance Domain Specific Language for Graph Analytics
 - [NVIDIA/TensorRT](https://github.com/NVIDIA/TensorRT) - TensorRT is a C++ library for high performance inference on NVIDIA GPUs and deep learning accelerators.
@@ -1372,6 +1372,7 @@
 
 ## Cython 
 
+- [openai/mujoco-py](https://github.com/openai/mujoco-py) - MuJoCo is a physics engine for detailed, efficient rigid body simulations with contacts. mujoco-py allows using MuJoCo from Python 3.
 - [rushter/selectolax](https://github.com/rushter/selectolax) - Python binding to Modest and Lexbor engines (fast HTML5 parser with CSS selectors).
 - [mosquito/cysystemd](https://github.com/mosquito/cysystemd) - SystemD wrapper on Cython
 - [MagicStack/uvloop](https://github.com/MagicStack/uvloop) - Ultra fast asyncio event loop.
@@ -2328,7 +2329,6 @@
 - [Show-Me-the-Code/python](https://github.com/Show-Me-the-Code/python) - Show Me the Code Python version.
 - [hjacobs/kubernetes-failure-stories](https://github.com/hjacobs/kubernetes-failure-stories) - Compilation of public failure/horror stories related to Kubernetes
 - [yyx990803/build-your-own-mint](https://github.com/yyx990803/build-your-own-mint) - Build your own personal finance analytics using Plaid, Google Sheets and CircleCI.
-- [flutter/website](https://github.com/flutter/website) - Flutter web site
 - [haoking/opencvjs](https://github.com/haoking/opencvjs) - Complete opencvjs (With the lastest OpenCV 4.0.0+)
 - [tc39/proposal-built-in-modules](https://github.com/tc39/proposal-built-in-modules) - 
 - [alienzhou/frontend-tech-list](https://github.com/alienzhou/frontend-tech-list) - 📝 Frontend Tech List for Developers 💡
@@ -2812,7 +2812,7 @@
 - [llSourcell/A_Guide_to_Running_Tensorflow_Models_on_Android](https://github.com/llSourcell/A_Guide_to_Running_Tensorflow_Models_on_Android) - This is the code for"A Guide to Running Tensorflow Models on Android" By SIraj Raval on Youtube
 - [olacabs/jackhammer](https://github.com/olacabs/jackhammer) - Jackhammer - One Security vulnerability assessment/management tool to solve all the security team problems.
 - [ICT-BDA/EasyML](https://github.com/ICT-BDA/EasyML) - Easy Machine Learning is a general-purpose dataflow-based system for easing the process of applying machine learning algorithms to real world tasks.
-- [apache/systemds](https://github.com/apache/systemds) - Apache SystemDS - A versatile system for the end-to-end data science lifecycle
+- [apache/systemds](https://github.com/apache/systemds) - An open source ML system for the end-to-end data science lifecycle
 - [firebase/FirebaseUI-Android](https://github.com/firebase/FirebaseUI-Android) - Optimized UI components for Firebase
 - [MindorksOpenSource/from-java-to-kotlin](https://github.com/MindorksOpenSource/from-java-to-kotlin) - From Java To Kotlin - Your Cheat Sheet For Java To Kotlin
 - [sherxon/AlgoDS](https://github.com/sherxon/AlgoDS) - Implementation of Algorithms and Data Structures, Problems and Solutions
@@ -3475,7 +3475,7 @@
 - [vitaly-t/pg-promise](https://github.com/vitaly-t/pg-promise) - PostgreSQL interface for Node.js
 - [bookshelf/bookshelf](https://github.com/bookshelf/bookshelf) - A simple Node.js ORM for PostgreSQL, MySQL and SQLite3 built on top of Knex.js
 - [knex/knex](https://github.com/knex/knex) - A query builder for PostgreSQL, MySQL, SQL Server, SQLite3 and Oracle, designed to be flexible, portable, and fun to use.
-- [sequelize/sequelize](https://github.com/sequelize/sequelize) - An easy-to-use multi SQL dialect ORM tool for Node.js
+- [sequelize/sequelize](https://github.com/sequelize/sequelize) - An easy-to-use and promise-based multi SQL dialects ORM tool for Node.js
 - [timarney/react-app-rewired](https://github.com/timarney/react-app-rewired) - Override create-react-app webpack configs without ejecting
 - [brrd/abricotine](https://github.com/brrd/abricotine) - Markdown editor with inline preview
 - [jondot/hygen](https://github.com/jondot/hygen) - The simple, fast, and scalable code generator that lives in your project.
@@ -7695,7 +7695,6 @@
 - [jayfk/statuspage](https://github.com/jayfk/statuspage) - A statuspage generator that lets you host your statuspage for free on Github.
 - [kdelrosso/traffic-flow-sim](https://github.com/kdelrosso/traffic-flow-sim) - Python class to simulate the Biham-Middleton-Levine traffic model
 - [kengz/SLM-Lab](https://github.com/kengz/SLM-Lab) - Modular Deep Reinforcement Learning framework in PyTorch. Companion library of the book "Foundations of Deep Reinforcement Learning".
-- [openai/mujoco-py](https://github.com/openai/mujoco-py) - MuJoCo is a physics engine for detailed, efficient rigid body simulations with contacts. mujoco-py allows using MuJoCo from Python 3.
 - [sfujim/TD3](https://github.com/sfujim/TD3) - Author's PyTorch implementation of TD3 for OpenAI gym tasks
 - [rail-berkeley/softlearning](https://github.com/rail-berkeley/softlearning) - Softlearning is a reinforcement learning framework for training maximum entropy policies in continuous domains. Includes the official implementation of the Soft Actor-Critic algorithm.
 - [haarnoja/sac](https://github.com/haarnoja/sac) - Soft Actor-Critic
@@ -7740,7 +7739,7 @@
 - [kamalkraj/BERT-NER](https://github.com/kamalkraj/BERT-NER) - Pytorch-Named-Entity-Recognition-with-BERT
 - [milesial/Pytorch-UNet](https://github.com/milesial/Pytorch-UNet) - PyTorch implementation of the U-Net for image semantic segmentation with high quality images
 - [keithito/tacotron](https://github.com/keithito/tacotron) - A TensorFlow implementation of Google's Tacotron speech synthesis with pre-trained model (unofficial)
-- [cleanlab/cleanlab](https://github.com/cleanlab/cleanlab) - The standard package for machine learning with noisy labels and finding mislabeled data. Works with most datasets and models.
+- [cleanlab/cleanlab](https://github.com/cleanlab/cleanlab) - The standard package for machine learning with noisy labels, finding mislabeled data, and uncertainty quantification. Works with most datasets and models.
 - [ticarpi/jwt_tool](https://github.com/ticarpi/jwt_tool) - :snake: A toolkit for testing, tweaking and cracking JSON Web Tokens
 - [Kayzaks/HackingNeuralNetworks](https://github.com/Kayzaks/HackingNeuralNetworks) - A small course on exploiting and defending neural networks
 - [sniklaus/3d-ken-burns](https://github.com/sniklaus/3d-ken-burns) - an implementation of 3D Ken Burns Effect from a Single Image using PyTorch
@@ -12023,7 +12022,7 @@
 - [predicador37/pyjstat](https://github.com/predicador37/pyjstat) - pyjstat is a python library for JSON-stat formatted data manipulation which allows reading and writing JSON-stat [1] format with python,using the DataFrame structures provided by the widely accepted pandas library
 - [vezzi/NouGAT](https://github.com/vezzi/NouGAT) - 
 - [F-Secure/mittn](https://github.com/F-Secure/mittn) - Mittn: Security test tool runner for test automation in CI
-- [httpie/httpie](https://github.com/httpie/httpie) - 🥧 As easy as /aitch-tee-tee-pie/. Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
+- [httpie/httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
 - [pytoolz/cytoolz](https://github.com/pytoolz/cytoolz) - Cython implementation of Toolz: High performance functional utilities
 - [nitely/Spirit](https://github.com/nitely/Spirit) - Spirit is a modern Python based forum built on top of Django framework
 - [googlearchive/container-agent](https://github.com/googlearchive/container-agent) - Simple agent for running containers based on a declarative manifest.
@@ -13184,6 +13183,7 @@
 - [cobidev/simplefolio](https://github.com/cobidev/simplefolio) - ⚡️ A minimal portfolio template for Developers
 - [emilbaehr/automatic-app-landing-page](https://github.com/emilbaehr/automatic-app-landing-page) - A Jekyll theme for automatically generating and deploying landing page sites for mobile apps.
 - [tr1s/tris-webpack-boilerplate](https://github.com/tr1s/tris-webpack-boilerplate) - A Webpack boilerplate for static websites that has all the necessary modern tools and optimizations built-in. Score a perfect 10/10 on performance.
+- [flutter/website](https://github.com/flutter/website) - Flutter web site
 - [conventional-commits/conventionalcommits.org](https://github.com/conventional-commits/conventionalcommits.org) - The conventional commits specification
 - [vapid/vapid](https://github.com/vapid/vapid) - Vapid is an intentionally simple content management system built on the idea that you can create a custom dashboard without ever leaving the HTML.
 - [bradtraversy/modern_portfolio](https://github.com/bradtraversy/modern_portfolio) - Responsive portfolio website
