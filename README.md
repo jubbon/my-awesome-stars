@@ -87,7 +87,6 @@
   - [PureScript](#purescript)
   - [Python](#python)
   - [QML](#qml)
-  - [QMake](#qmake)
   - [R](#r)
   - [RAML](#raml)
   - [Ren'Py](#ren'py)
@@ -153,6 +152,7 @@
 
 ## C 
 
+- [aporia-ai/TrainInvaders](https://github.com/aporia-ai/TrainInvaders) - 👾 Jupyter Notebook + Space Invaders!?
 - [gmtsar/gmtsar](https://github.com/gmtsar/gmtsar) - GMTSAR
 - [deepmind/mujoco](https://github.com/deepmind/mujoco) - Multi-Joint dynamics with Contact. A general purpose physics simulator.
 - [cair/pyTsetlinMachine](https://github.com/cair/pyTsetlinMachine) - Implements the Tsetlin Machine, Convolutional Tsetlin Machine, Regression Tsetlin Machine, Weighted Tsetlin Machine, and Embedding Tsetlin Machine, with support for continuous features, multigranularity, and clause indexing
@@ -337,7 +337,6 @@
 - [pbatard/rufus](https://github.com/pbatard/rufus) - The Reliable USB Formatting Utility
 - [Cybellum/DoubleAgent](https://github.com/Cybellum/DoubleAgent) - Zero-Day Code Injection and Persistence Technique
 - [nemequ/portable-snippets](https://github.com/nemequ/portable-snippets) - Collection of miscellaneous portable C snippets.
-- [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
 - [aws/s2n-tls](https://github.com/aws/s2n-tls) - s2n : an implementation of the TLS/SSL protocols
 - [cr-marcstevens/sha1collisiondetection](https://github.com/cr-marcstevens/sha1collisiondetection) - Library and command line tool to detect SHA-1 collision in a file
 - [jonas/tig](https://github.com/jonas/tig) - Text-mode interface for git
@@ -495,6 +494,7 @@
 - [microsoft/GraphEngine](https://github.com/microsoft/GraphEngine) - Microsoft Graph Engine
 - [microsoft/VFSForGit](https://github.com/microsoft/VFSForGit) - Virtual File System for Git: Enable Git at Enterprise Scale
 - [Demid-Rakhmatullin/passtobus](https://github.com/Demid-Rakhmatullin/passtobus) - 
+- [ncatlin/rgat](https://github.com/ncatlin/rgat) - An instruction trace visualisation tool for dynamic program analysis
 - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
 - [lambci/docker-lambda](https://github.com/lambci/docker-lambda) - Docker images and test runners that replicate the live AWS Lambda environment
 - [microsoft/PTVS](https://github.com/microsoft/PTVS) - Python Tools for Visual Studio
@@ -503,6 +503,7 @@
 
 ## C++ 
 
+- [darglein/ADOP](https://github.com/darglein/ADOP) - 
 - [coin-or/Cbc](https://github.com/coin-or/Cbc) - COIN-OR Branch-and-Cut solver
 - [kpu/kenlm](https://github.com/kpu/kenlm) - KenLM: Faster and Smaller Language Model Queries
 - [GTAmodding/re3](https://github.com/GTAmodding/re3) - GTA III, Vice City
@@ -1136,6 +1137,7 @@
 - [AlexTatiyants/pev](https://github.com/AlexTatiyants/pev) - Postgres Explain Visualizer
 - [BinarCode/vue-notifyjs](https://github.com/BinarCode/vue-notifyjs) - Minimalist 1kb Notification component
 - [flatlogic/awesome-bootstrap-checkbox](https://github.com/flatlogic/awesome-bootstrap-checkbox) - ✔️Font Awesome Bootstrap Checkboxes & Radios. Pure css way to make inputs look prettier
+- [jashkenas/docco](https://github.com/jashkenas/docco) - Literate Programming can be Quick and Dirty.
 - [dariubs/git](https://github.com/dariubs/git) - Fast git tutorial in farsi
 - [simurai/one-vibrancy](https://github.com/simurai/one-vibrancy) - Vibrancy effect for Atom One themes
 - [mhausenblas/reshifter](https://github.com/mhausenblas/reshifter) - Kubernetes cluster state management
@@ -1538,6 +1540,7 @@
 
 ## Go 
 
+- [ddosify/ddosify](https://github.com/ddosify/ddosify) - High-performance load testing tool, written in Golang.
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - Gitpod automates the provisioning of ready-to-code development environments.
 - [umputun/reproxy](https://github.com/umputun/reproxy) - Simple edge server / reverse proxy
@@ -1970,6 +1973,7 @@
 - [openfaas/faas-netes](https://github.com/openfaas/faas-netes) - Serverless on Kubernetes with OpenFaaS
 - [kubeless/kubeless](https://github.com/kubeless/kubeless) - Kubernetes Native Serverless Framework
 - [algolia/sup3rS3cretMes5age](https://github.com/algolia/sup3rS3cretMes5age) - Simple to use, simple to deploy, one time self destruct messaging service, with hashicorp vault as a backend
+- [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) - Workflow engine for Kubernetes
 - [justjanne/powerline-go](https://github.com/justjanne/powerline-go) - A beautiful and useful low-latency prompt for your shell, written in go
 - [google/pprof](https://github.com/google/pprof) - pprof is a tool for visualization and analysis of profiling data
 - [0x09AL/raven](https://github.com/0x09AL/raven) - raven is a Linkedin information gathering tool that  can be used by pentesters to gather information about an organization employees using Linkedin.
@@ -2070,6 +2074,7 @@
 - [ory/ladon](https://github.com/ory/ladon) - A SDK for access control policies: authorization for the microservice and IoT age. Inspired by AWS IAM policies. Written for Go.
 - [fd0/machma](https://github.com/fd0/machma) - Easy parallel execution of commands with live feedback
 - [knqyf263/pet](https://github.com/knqyf263/pet) - Simple command-line snippet manager, written in Go.
+- [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
 - [qustavo/httplab](https://github.com/qustavo/httplab) - The interactive web server
 - [bcicen/ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics
 - [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go
@@ -2491,7 +2496,6 @@
 - [docker/docker.github.io](https://github.com/docker/docker.github.io) - Source repo for Docker's Documentation
 - [Kasheftin/RoutePlanner](https://github.com/Kasheftin/RoutePlanner) - Simple free and open source tool for planning routes
 - [halhen/viz-pub](https://github.com/halhen/viz-pub) - A place to publish data-vizes
-- [jashkenas/docco](https://github.com/jashkenas/docco) - Literate Programming can be Quick and Dirty.
 - [wangdicoder/angular-material-dashboard](https://github.com/wangdicoder/angular-material-dashboard) - A material-design dashboard by using angular
 - [Spandan-Madan/DeepLearningProject](https://github.com/Spandan-Madan/DeepLearningProject) - An in-depth machine learning tutorial introducing readers to a whole machine learning pipeline from scratch.
 - [chrisallenlane/drek](https://github.com/chrisallenlane/drek) - A static-code-analysis tool for performing security-focused code reviews. It enables an auditor to swiftly map the attack-surface of a large application, with an emphasis on identifying development anti-patterns and footguns.
@@ -3474,7 +3478,7 @@
 - [nuxt-community/axios-module](https://github.com/nuxt-community/axios-module) - Secure and easy axios integration with Nuxt.js
 - [vitaly-t/pg-promise](https://github.com/vitaly-t/pg-promise) - PostgreSQL interface for Node.js
 - [bookshelf/bookshelf](https://github.com/bookshelf/bookshelf) - A simple Node.js ORM for PostgreSQL, MySQL and SQLite3 built on top of Knex.js
-- [knex/knex](https://github.com/knex/knex) - A query builder for PostgreSQL, MySQL, SQL Server, SQLite3 and Oracle, designed to be flexible, portable, and fun to use.
+- [knex/knex](https://github.com/knex/knex) - A query builder for PostgreSQL, MySQL, CockroachDB, SQL Server, SQLite3 and Oracle, designed to be flexible, portable, and fun to use.
 - [sequelize/sequelize](https://github.com/sequelize/sequelize) - An easy-to-use and promise-based multi SQL dialects ORM tool for Node.js
 - [timarney/react-app-rewired](https://github.com/timarney/react-app-rewired) - Override create-react-app webpack configs without ejecting
 - [brrd/abricotine](https://github.com/brrd/abricotine) - Markdown editor with inline preview
@@ -4454,6 +4458,7 @@
 
 ## Jupyter Notebook 
 
+- [sberbank-ai/ru-dalle](https://github.com/sberbank-ai/ru-dalle) - Generate images from texts. In Russian
 - [mobigroup/gmtsar](https://github.com/mobigroup/gmtsar) - GMTSAR
 - [CalculatedContent/WeightWatcher](https://github.com/CalculatedContent/WeightWatcher) - The WeightWatcher tool for predicting the accuracy of   Deep Neural Networks
 - [saic-mdal/lama](https://github.com/saic-mdal/lama) - 🦙  LaMa Image Inpainting, Resolution-robust Large Mask Inpainting with Fourier Convolutions, WACV 2022
@@ -5886,7 +5891,7 @@
 - [MiniZinc/specialization-examples](https://github.com/MiniZinc/specialization-examples) - 
 - [huawei-university/nlp-course-projects](https://github.com/huawei-university/nlp-course-projects) - Projects from students of NLP Course
 - [Dyakonov/DL](https://github.com/Dyakonov/DL) - Курс "Глубокое обучение (Deep Learning)" (ВМК, МГУ имени М.В. Ломоносова)
-- [khangich/machine-learning-interview](https://github.com/khangich/machine-learning-interview) - Machine Learning Interviews from FAAG, Snapchat, LinkedIn. I have offers from Snapchat, Coupang, Stitchfix etc. Blog: mlengineer.io.
+- [khangich/machine-learning-interview](https://github.com/khangich/machine-learning-interview) - Machine Learning Interviews from FAANG, Snapchat, LinkedIn. I have offers from Snapchat, Coupang, Stitchfix etc. Blog: mlengineer.io.
 - [chrieke/awesome-satellite-imagery-datasets](https://github.com/chrieke/awesome-satellite-imagery-datasets) - 🛰️ List of satellite image training datasets with annotations for computer vision and deep learning
 - [cedrickchee/awesome-ml-model-compression](https://github.com/cedrickchee/awesome-ml-model-compression) - Awesome machine learning model compression research papers, tools, and learning material.
 - [m-bain/webvid](https://github.com/m-bain/webvid) - Large-scale text-video dataset.
@@ -6969,6 +6974,7 @@
 
 ## Python 
 
+- [koaning/drawdata](https://github.com/koaning/drawdata) - Draw datasets from within Jupyter.
 - [descriptinc/lyrebird-wav2clip](https://github.com/descriptinc/lyrebird-wav2clip) - Official implementation of the paper WAV2CLIP: LEARNING ROBUST AUDIO REPRESENTATIONS FROM CLIP
 - [facebookresearch/bitsandbytes](https://github.com/facebookresearch/bitsandbytes) - Library for 8-bit optimizers and quantization routines.
 - [larsmans/seqlearn](https://github.com/larsmans/seqlearn) - Sequence learning toolkit for Python
@@ -9393,7 +9399,6 @@
 - [LouieYang/deep-photo-styletransfer-tf](https://github.com/LouieYang/deep-photo-styletransfer-tf) - Tensorflow (Python API) implementation of Deep Photo Style Transfer
 - [nlml/np-to-tf-embeddings-visualiser](https://github.com/nlml/np-to-tf-embeddings-visualiser) - Quick function to go from a dictionary of sets of (images, labels, feature vectors) to checkpoints that can be opened in Tensorboard
 - [awesometoolbox/awesome-apistar](https://github.com/awesometoolbox/awesome-apistar) - A curated list of awesome packages, articles, and other cool resources from the API Star community.
-- [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) - Workflow engine for Kubernetes
 - [kennethreitz/coinbin.org](https://github.com/kennethreitz/coinbin.org) - ₿ A Human–Friendly API Service for Crypto Currency Information.
 - [Spandan-Madan/Pytorch_fine_tuning_Tutorial](https://github.com/Spandan-Madan/Pytorch_fine_tuning_Tutorial) - A short tutorial on performing fine tuning or transfer learning in PyTorch.
 - [idlesign/uwsgiconf](https://github.com/idlesign/uwsgiconf) - Configure uWSGI from your Python code
@@ -12933,10 +12938,6 @@
 
 - [trolleway/osm-mostrans](https://github.com/trolleway/osm-mostrans) - Сервис рендеринга карт общественного транспорта по Москве из Openstreetmap в разных форматах
 
-## QMake 
-
-- [ncatlin/rgat](https://github.com/ncatlin/rgat) - An instruction trace visualisation tool for dynamic program analysis
-
 ## R 
 
 - [statsmaths/cleanNLP](https://github.com/statsmaths/cleanNLP) - R package providing annotators and a normalized data model for natural language processing
@@ -13157,7 +13158,7 @@
 - [diem/diem](https://github.com/diem/diem) - Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world.
 - [calebwin/emu](https://github.com/calebwin/emu) - The write-once-run-anywhere GPGPU library for Rust
 - [wasmerio/wasmer-python](https://github.com/wasmerio/wasmer-python) - 🐍🕸 WebAssembly runtime for Python
-- [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊  Cube.js — Open-Source Analytics API for Building Data Apps
+- [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊  Cube — Open-Source Analytics API for Building Data Apps
 - [fluencelabs/fluence](https://github.com/fluencelabs/fluence) - Peer-to-peer computing protocol and licensing system
 - [cantino/mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott!
 - [atlasr-org/atlasr](https://github.com/atlasr-org/atlasr) - Atlasr is a truly open-source and free map browser.
@@ -13665,7 +13666,6 @@
 - [tensorflow/tfjs](https://github.com/tensorflow/tfjs) - A WebGL accelerated JavaScript library for training and deploying ML models.
 - [Jigsaw-Code/outline-server](https://github.com/Jigsaw-Code/outline-server) - Outline Manager, developed by Jigsaw. The Outline Manager application creates and manages Outline servers, powered by Shadowsocks. It uses the Electron framework to offer support for Windows, macOS and Linux.
 - [oclif/oclif](https://github.com/oclif/oclif) - Node.js Open CLI Framework. Built with 💜 by Heroku.
-- [conveyal/analysis-ui](https://github.com/conveyal/analysis-ui) - Front-end for Conveyal Analysis. Model and analyze transport scenarios.
 - [jkchao/blog-admin](https://github.com/jkchao/blog-admin) - blog-admin @react、@typescript、@apollographql
 - [brunnolou/react-morph](https://github.com/brunnolou/react-morph) - Morphing Ui transitions made simple
 - [BrainJS/brain.js](https://github.com/BrainJS/brain.js) - 🤖 GPU accelerated Neural networks in JavaScript for Browsers and Node.js
