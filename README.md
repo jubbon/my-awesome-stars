@@ -923,7 +923,7 @@
 - [jarro2783/cxxopts](https://github.com/jarro2783/cxxopts) - Lightweight C++ command line option parser
 - [stagadish/NNplusplus](https://github.com/stagadish/NNplusplus) - A small and easy to use neural net implementation for C++. Just download and #include!
 - [jainaman224/Algo_Ds_Notes](https://github.com/jainaman224/Algo_Ds_Notes) - It is a repository that is a collection of algorithms and data structures with implementation in various languages.
-- [librevault/librevault](https://github.com/librevault/librevault) - Librevault - Peer-to-peer, decentralized and open source file sync.
+- [librevault/librevault](https://github.com/librevault/librevault) - Librevault - Peer-to-peer, decentralized and open-source file sync.
 - [davheld/GOTURN](https://github.com/davheld/GOTURN) - Source code for paper: Learning to Track at 100 FPS with Deep Regression Networks, Held, et al. ECCV 2016
 - [fastio/1store](https://github.com/fastio/1store) - NoSQL data store using the SEASTAR framework, compatible with Redis
 - [manuelruder/artistic-videos](https://github.com/manuelruder/artistic-videos) - Torch implementation for the paper "Artistic style transfer for videos"
@@ -1654,7 +1654,7 @@
 - [awslabs/amazon-ecs-local-container-endpoints](https://github.com/awslabs/amazon-ecs-local-container-endpoints) - A container that provides local versions of the ECS Task Metadata Endpoint and ECS Task IAM Roles Endpoint.
 - [google/crfs](https://github.com/google/crfs) - CRFS: Container Registry Filesystem
 - [crawlab-team/crawlab](https://github.com/crawlab-team/crawlab) - Distributed web crawler admin platform for spiders management regardless of languages and frameworks. 分布式爬虫管理平台，支持任何语言和框架
-- [celicoo/docli](https://github.com/celicoo/docli) - Docli - Command-line interfaces made easy
+- [celicoo/docli](https://github.com/celicoo/docli) - Command-line interfaces made easy
 - [jpschroeder/pipe-to-me](https://github.com/jpschroeder/pipe-to-me) - Stream data over http using curl.
 - [uber/kraken](https://github.com/uber/kraken) - P2P Docker registry capable of distributing TBs of data in seconds
 - [uber/astro](https://github.com/uber/astro) - Astro is a tool for managing multiple Terraform executions as a single command
@@ -1711,7 +1711,7 @@
 - [syncsynchalt/illustrated-tls](https://github.com/syncsynchalt/illustrated-tls) - The Illustrated TLS Connection: Every byte explained
 - [yinheli/sshw](https://github.com/yinheli/sshw) - 🐝  ssh client wrapper for automatic login
 - [cloudflare/tableflip](https://github.com/cloudflare/tableflip) - Graceful process restarts in Go
-- [photoprism/photoprism](https://github.com/photoprism/photoprism) - Open Source Photos App powered by Go and Google TensorFlow 🌈
+- [photoprism/photoprism](https://github.com/photoprism/photoprism) - Photos App powered by Go and Google TensorFlow 🌈
 - [davrodpin/mole](https://github.com/davrodpin/mole) - CLI application to create ssh tunnels focused on resiliency and user experience.
 - [sipt/shuttle](https://github.com/sipt/shuttle) - A web proxy in Golang with amazing features.
 - [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation
@@ -10884,7 +10884,7 @@
 - [tadfisher/android-sdk-updater](https://github.com/tadfisher/android-sdk-updater) - [DEPRECATED] A command-line utility for keeping your Android dependencies up-to-date.
 - [awslabs/aws-shell](https://github.com/awslabs/aws-shell) - An integrated shell for working with the AWS CLI.
 - [gstarnberger/uncompyle](https://github.com/gstarnberger/uncompyle) - Python decompiler
-- [python/mypy](https://github.com/python/mypy) - Optional static typing for Python 3 and 2 (PEP 484)
+- [python/mypy](https://github.com/python/mypy) - Optional static typing for Python
 - [ggozad/behaving](https://github.com/ggozad/behaving) - Behavior-Driver-Development for multi-user web/email/sms applications
 - [Kinto/kinto](https://github.com/Kinto/kinto) - A generic JSON document store with sharing and synchronisation capabilities.
 - [chrisseto/Agent](https://github.com/chrisseto/Agent) - Async generators for humans
