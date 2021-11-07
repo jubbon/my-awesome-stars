@@ -4460,6 +4460,8 @@
 
 ## Jupyter Notebook 
 
+- [v-iashin/SpecVQGAN](https://github.com/v-iashin/SpecVQGAN) - Source code for "Taming Visually Guided Sound Generation" (Oral at the BMVC 2021)
+- [sberbank-ai/fusion_brain_aij2021](https://github.com/sberbank-ai/fusion_brain_aij2021) - Creating multimodal multitask models
 - [Alenush/style_transfer_sirius2021summer](https://github.com/Alenush/style_transfer_sirius2021summer) - Style Transfer. Sirius 2021
 - [pysal/pointpats](https://github.com/pysal/pointpats) - Planar Point Pattern Analysis in PySAL
 - [sberbank-ai/ru-dalle](https://github.com/sberbank-ai/ru-dalle) - Generate images from texts. In Russian
@@ -6978,6 +6980,8 @@
 
 ## Python 
 
+- [THUDM/CogView](https://github.com/THUDM/CogView) - Text-to-Image generation. The repo for NeurIPS 2021 paper "CogView: Mastering Text-to-Image Generation via Transformers".
+- [eliahuhorwitz/DeepSIM](https://github.com/eliahuhorwitz/DeepSIM) - Official PyTorch implementation of the paper: "DeepSIM: Image Shape Manipulation from a Single Augmented Training Sample" (ICCV 2021 Oral)
 - [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Colossal-AI: A Unified Deep Learning System for Large-Scale Parallel Training
 - [skoltech-nlp/rudetoxifier](https://github.com/skoltech-nlp/rudetoxifier) - Code and data of "Methods for Detoxification of Texts for the Russian Language" paper
 - [koaning/drawdata](https://github.com/koaning/drawdata) - Draw datasets from within Jupyter.
@@ -9630,7 +9634,7 @@
 - [kengz/openai_lab](https://github.com/kengz/openai_lab) - An experimentation framework for Reinforcement Learning using OpenAI Gym, Tensorflow, and Keras.
 - [octohedron/TouristFriend](https://github.com/octohedron/TouristFriend) - 🌆 TouristFriend API lets you query Google Places, Yelp and Foursquare at the same time, with Bayesian rankings!
 - [danrobinson/taggernews](https://github.com/danrobinson/taggernews) - Hacker News plus topic tags. TechCrunch Disrupt NY Hackathon 2017
-- [shivammathur/IPpy](https://github.com/shivammathur/IPpy) - :rocket: Parallel testing of IP addresses and domains in python to find the accessible and inaccessible ones.
+- [shivammathur/IPpy](https://github.com/shivammathur/IPpy) - :rocket: Ping IP addresses and domains in parallel to find the accessible and inaccessible ones.
 - [AlvarBer/Persimmon](https://github.com/AlvarBer/Persimmon) - A visual dataflow programming language for sklearn
 - [wadetb/tinynumpy](https://github.com/wadetb/tinynumpy) - A lightweight, pure Python, numpy compliant ndarray class.
 - [NVISOsecurity/binsnitch](https://github.com/NVISOsecurity/binsnitch) - Detect silent (unwanted) changes to files on your system
@@ -9822,7 +9826,7 @@
 - [locuslab/qpth](https://github.com/locuslab/qpth) - A fast and differentiable QP solver for PyTorch.
 - [sametmax/devpy](https://github.com/sametmax/devpy) - Devpy is a set of tools to ease Python development, providing automatic logging
 - [algorithmica-repository/datascience](https://github.com/algorithmica-repository/datascience) - It consists of examples, assignments discussed in data science course taken at algorithmica.
-- [ethanchewy/PythonBuddy](https://github.com/ethanchewy/PythonBuddy) - Online Python Editor With Live Syntax Checking and Execution
+- [ethanchewy/PythonBuddy](https://github.com/ethanchewy/PythonBuddy) - 1st Online Python Editor With Live Syntax Checking and Execution
 - [ncullen93/torchsample](https://github.com/ncullen93/torchsample) - High-Level Training, Data Augmentation, and Utilities for Pytorch
 - [jermwatt/machine_learning_refined](https://github.com/jermwatt/machine_learning_refined) - Notes, examples, and Python demos for the textbook "Machine Learning Refined" (published by Cambridge University Press).
 - [Yorko/mlcourse.ai](https://github.com/Yorko/mlcourse.ai) - Open Machine Learning Course
