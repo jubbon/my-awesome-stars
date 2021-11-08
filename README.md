@@ -1511,7 +1511,6 @@
 
 ## Erlang 
 
-- [sublimehq/Packages](https://github.com/sublimehq/Packages) - 
 - [discoproject/disco](https://github.com/discoproject/disco) - a Map/Reduce framework for distributed computing
 - [zack-bitcoin/basiccoin](https://github.com/zack-bitcoin/basiccoin) - The smallest currency I can make
 
@@ -1845,7 +1844,7 @@
 - [fullstorydev/grpcurl](https://github.com/fullstorydev/grpcurl) - Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers
 - [golang/vgo](https://github.com/golang/vgo) - [mirror] Versioned Go Prototype
 - [genuinetools/img](https://github.com/genuinetools/img) - Standalone, daemon-less, unprivileged Dockerfile and OCI compatible container image builder.
-- [werf/werf](https://github.com/werf/werf) - GitOps delivery tool
+- [werf/werf](https://github.com/werf/werf) - The CLI tool glueing Git, Docker, Helm and Kubernetes with any CI system to implement CI/CD and Giterminism
 - [metallb/metallb](https://github.com/metallb/metallb) - A network load-balancer implementation for Kubernetes using standard routing protocols
 - [containers/virtcontainers](https://github.com/containers/virtcontainers) - A Go package for building hardware virtualized container runtimes
 - [zricethezav/gitleaks](https://github.com/zricethezav/gitleaks) - Scan git repos (or files) for secrets using regex and entropy 🔑
@@ -2416,6 +2415,7 @@
 - [WICG/import-maps](https://github.com/WICG/import-maps) - How to control the behavior of JavaScript imports
 - [AirtestProject/Airtest](https://github.com/AirtestProject/Airtest) - UI Automation Framework for Games and Apps
 - [udacity/frontend-nanodegree-styleguide](https://github.com/udacity/frontend-nanodegree-styleguide) - Official FEND style guides
+- [rough-stuff/rough](https://github.com/rough-stuff/rough) - Create graphics with a hand-drawn, sketchy, appearance
 - [govau/design-system-components](https://github.com/govau/design-system-components) - 🛠 Component code and tests for the Australian Government design system
 - [ajinabraham/Droid-Application-Fuzz-Framework](https://github.com/ajinabraham/Droid-Application-Fuzz-Framework) - Android application fuzzing framework with fuzzers and crash monitor.
 - [arthchan2003/AIDL_KB](https://github.com/arthchan2003/AIDL_KB) - A Knowledge Base for the FB Group Artificial Intelligence and Deep Learning (AIDL)
@@ -2856,6 +2856,7 @@
 - [orientechnologies/orientdb](https://github.com/orientechnologies/orientdb) - OrientDB is the most versatile DBMS supporting Graph, Document, Reactive, Full-Text and Geospatial models in one Multi-Model product. OrientDB can run distributed (Multi-Master), supports SQL, ACID Transactions, Full-Text indexing and Reactive Queries. OrientDB Community Edition is Open Source using a liberal Apache 2 license.
 - [DrKLO/Telegram](https://github.com/DrKLO/Telegram) - Telegram for Android source
 - [google/gson](https://github.com/google/gson) - A Java serialization/deserialization library to convert Java Objects into JSON and back
+- [sublimehq/Packages](https://github.com/sublimehq/Packages) - 
 - [apache/flink](https://github.com/apache/flink) - Apache Flink
 - [linkedin/databus](https://github.com/linkedin/databus) - Source-agnostic distributed change data capture system
 - [Netflix/Hystrix](https://github.com/Netflix/Hystrix) - Hystrix is a latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distributed systems where failure is inevitable.
@@ -7935,7 +7936,7 @@
 - [Mjrovai/OpenCV-Face-Recognition](https://github.com/Mjrovai/OpenCV-Face-Recognition) - Real-time face recognition project with OpenCV and Python
 - [tensorpack/tensorpack](https://github.com/tensorpack/tensorpack) - A Neural Net Training Interface on TensorFlow, with focus on speed + flexibility
 - [kubernetes-client/python](https://github.com/kubernetes-client/python) - Official Python client library for kubernetes
-- [PySimpleGUI/PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI) - Launched in 2018 Actively developed & supported. Supports tkinter, Qt, WxPython, Remi (in browser). Create custom GUI Windows simply, trivially with a full set of widgets. Multi-Window applications are also simple. Python 2.7 & 3 Support. 300+ Demo programs & Cookbook for rapid start. Extensive documentation.  Examples using Machine Learning(GUI, OpenCV Integration,  Chatterbot), Desktop Widgets (Rainmeter-like), Matplotlib + Pyplot integration, add GUI to command line scripts, PDF & Image Viewer. For both beginning and advanced programmers. docs -  PySimpleGUI.org GitHub - PySimpleGUI.com. Create complex windows simply.
+- [PySimpleGUI/PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI) - Launched in 2018 Actively developed & supported. Supports tkinter, Qt, WxPython, Remi (in browser). Create custom GUI Windows simply, trivially with a full set of widgets. Multi-Window applications are also simple. Python 2.7 & 3 Support. 325+ Demo programs & Cookbook for rapid start. Extensive documentation.  Examples using Machine Learning(GUI, OpenCV Integration,  Chatterbot), Desktop Widgets (Rainmeter-like), Matplotlib + Pyplot integration, add GUI to command line scripts, PDF & Image Viewer. For both beginning and advanced programmers. docs -  PySimpleGUI.org GitHub - PySimpleGUI.com. Create complex windows simply.
 - [lisa-lab/DeepLearningTutorials](https://github.com/lisa-lab/DeepLearningTutorials) - Deep Learning Tutorial notes and code. See the wiki for more info.
 - [lazyprogrammer/machine_learning_examples](https://github.com/lazyprogrammer/machine_learning_examples) - A collection of machine learning examples and tutorials.
 - [yuanxiaosc/DeepNude-an-Image-to-Image-technology](https://github.com/yuanxiaosc/DeepNude-an-Image-to-Image-technology) - DeepNude's algorithm and general image generation theory and practice research, including pix2pix, CycleGAN, UGATIT, DCGAN, SinGAN, ALAE, mGANprior, StarGAN-v2 and VAE models (TensorFlow2 implementation). DeepNude的算法以及通用生成对抗网络（GAN,Generative Adversarial Network）图像生成的理论与实践研究。
@@ -13628,7 +13629,7 @@
 - [tweenjs/tween.js](https://github.com/tweenjs/tween.js) - JavaScript/TypeScript animation engine
 - [flant/grafana-statusmap](https://github.com/flant/grafana-statusmap) - Grafana panel plugin to visualize status of multiple objects over time
 - [eykrehbein/strest](https://github.com/eykrehbein/strest) - ⚡️ CI-ready tests for REST APIs configured in YAML
-- [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 A interplanetary communication platform 🚀
+- [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 An interplanetary communication platform 🚀
 - [Yancey-Blog/BLOG_DESKTOP](https://github.com/Yancey-Blog/BLOG_DESKTOP) - Yancey Official Blog for PC.
 - [reduxjs/react-redux](https://github.com/reduxjs/react-redux) - Official React bindings for Redux
 - [vscode-org-mode/vscode-org-mode](https://github.com/vscode-org-mode/vscode-org-mode) - Emacs Org Mode for Visual Studio Code
@@ -13681,7 +13682,6 @@
 - [BrainJS/brain.js](https://github.com/BrainJS/brain.js) - 🤖 GPU accelerated Neural networks in JavaScript for Browsers and Node.js
 - [maticzav/emma-cli](https://github.com/maticzav/emma-cli) - 📦 Terminal assistant to find and install node packages.
 - [nhn/tui.chart](https://github.com/nhn/tui.chart) - 🍞📊  Beautiful chart for data visualization.
-- [rough-stuff/rough](https://github.com/rough-stuff/rough) - Create graphics with a hand-drawn, sketchy, appearance
 - [statelyai/xstate](https://github.com/statelyai/xstate) - State machines and statecharts for the modern web.
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Technical documentation that just works
 - [browserless/chrome](https://github.com/browserless/chrome) - Chrome as a service in docker. Run on our cloud, or bring your own
