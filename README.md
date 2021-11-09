@@ -510,7 +510,7 @@
 - [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne) - A Smart Ethernet Switch for Earth
 - [alex-petrenko/megaverse](https://github.com/alex-petrenko/megaverse) - High-throughput simulation platform for Artificial Intelligence reseach
 - [vcmi/vcmi](https://github.com/vcmi/vcmi) - Open-source engine for Heroes of Might and Magic III
-- [sberdevices/smartspeech](https://github.com/sberdevices/smartspeech) - 
+- [sberdevices/smartspeech](https://github.com/sberdevices/smartspeech) - SmartSpeech — это сервис для синтеза и распознавания речи
 - [qgis/QGIS](https://github.com/qgis/QGIS) - QGIS is a free, open source, cross platform (lin/win/mac) geographical information system (GIS)
 - [drogonframework/drogon](https://github.com/drogonframework/drogon) - Drogon: A C++14/17 based HTTP web application framework running on Linux/macOS/Unix/Windows
 - [Tencent/Forward](https://github.com/Tencent/Forward) - A library for high performance deep learning inference on NVIDIA GPUs.
@@ -4608,7 +4608,7 @@
 - [Sshanu/Bidirectional-Attention-Flow-for-Machine-Comprehension](https://github.com/Sshanu/Bidirectional-Attention-Flow-for-Machine-Comprehension) - Machine Comprehension using Squad and Triviqa Data sets
 - [AnatoliiPotapov/squad](https://github.com/AnatoliiPotapov/squad) - 
 - [ryanshin712/nlp_ryan](https://github.com/ryanshin712/nlp_ryan) - Study for Natural Language Processing & Deep Learning Framework
-- [NVIDIA/TRTorch](https://github.com/NVIDIA/TRTorch) - PyTorch/TorchScript compiler for NVIDIA GPUs using TensorRT
+- [NVIDIA/Torch-TensorRT](https://github.com/NVIDIA/Torch-TensorRT) - PyTorch/TorchScript compiler for NVIDIA GPUs using TensorRT
 - [selfteaching/the-craft-of-selfteaching](https://github.com/selfteaching/the-craft-of-selfteaching) - One has no future if one couldn't teach themself.
 - [justmarkham/scikit-learn-tips](https://github.com/justmarkham/scikit-learn-tips) - :robot::zap: 50 scikit-learn tips
 - [mitmath/6S083](https://github.com/mitmath/6S083) - Materials for MIT 6.S083 / 18.S190: Computational thinking with Julia + application to the COVID-19 pandemic
@@ -4784,7 +4784,6 @@
 - [TreB1eN/InsightFace_Pytorch](https://github.com/TreB1eN/InsightFace_Pytorch) - Pytorch0.4.1 codes for InsightFace
 - [computing-intelligence/jupyters_and_slides](https://github.com/computing-intelligence/jupyters_and_slides) - 
 - [hoya012/CVPR-2019-Paper-Statistics](https://github.com/hoya012/CVPR-2019-Paper-Statistics) - Statistics and Visualization of acceptance rate, main keyword of CVPR 2019 accepted papers for the main Computer Vision conference (CVPR)
-- [NVIDIA/DeepLearningExamples](https://github.com/NVIDIA/DeepLearningExamples) - Deep Learning Examples
 - [uber/h3-py-notebooks](https://github.com/uber/h3-py-notebooks) - Jupyter notebooks for h3-py, a hierarchical hexagonal geospatial indexing system
 - [realpython/materials](https://github.com/realpython/materials) - Bonus materials, exercises, and example projects for our Python tutorials
 - [aws-samples/aws-deepracer-workshops](https://github.com/aws-samples/aws-deepracer-workshops) - DeepRacer workshop content
@@ -4860,7 +4859,7 @@
 - [ageron/tf2_course](https://github.com/ageron/tf2_course) - Notebooks for my "Deep Learning with TensorFlow 2 and Keras" course
 - [pytroll/pytroll-examples](https://github.com/pytroll/pytroll-examples) - Collection of examples for pytroll satellite data processing
 - [gautam1858/python-awesome](https://github.com/gautam1858/python-awesome) - Learn Python, Easy to learn, Awesome
-- [YuliangXiu/MobilePose-pytorch](https://github.com/YuliangXiu/MobilePose-pytorch) - Light-weight Single Person Pose Estimator
+- [YuliangXiu/MobilePose](https://github.com/YuliangXiu/MobilePose) - Light-weight Single Person Pose Estimator
 - [tlatlbtle/pose_estimation_CVPR_ECCV_2018](https://github.com/tlatlbtle/pose_estimation_CVPR_ECCV_2018) - 
 - [christophershultz/StaticGIFGen](https://github.com/christophershultz/StaticGIFGen) - A series of steps to generate fully customizable 'static' (or completely random) images.
 - [thunguyen177/Big-data-resources](https://github.com/thunguyen177/Big-data-resources) - 
@@ -5566,7 +5565,7 @@
 - [ledell/useR-machine-learning-tutorial](https://github.com/ledell/useR-machine-learning-tutorial) - useR! 2016 Tutorial: Machine Learning Algorithmic Deep Dive  http://user2016.org/tutorials/10.html
 - [bgeetika/Captcha-Decoder](https://github.com/bgeetika/Captcha-Decoder) - 
 - [antontarasenko/gpq](https://github.com/antontarasenko/gpq) - A collection of tools for mining government data
-- [rmst/ddpg](https://github.com/rmst/ddpg) - Implementation of Deep Deterministic Policy Gradients using TensorFlow and OpenAI Gym
+- [rmst/ddpg](https://github.com/rmst/ddpg) - TensorFlow implementation of the DDPG algorithm from the paper Continuous Control with Deep Reinforcement Learning (ICLR 2016)
 - [chris1610/pbpython](https://github.com/chris1610/pbpython) - Code, Notebooks and Examples from Practical Business Python
 - [gboeing/data-visualization](https://github.com/gboeing/data-visualization) - Misc data visualization projects, examples, and demos: mostly Python (pandas + matplotlib) and JavaScript (leaflet).
 - [justmarkham/pycon-2016-tutorial](https://github.com/justmarkham/pycon-2016-tutorial) - Machine Learning with Text in scikit-learn
@@ -6460,7 +6459,7 @@
 - [Azure/coco-framework](https://github.com/Azure/coco-framework) - The Confidential Consortium Blockchain Framework is an open-source system that enables high-scale, confidential blockchain networks that meet all key enterprise requirements—providing a means to accelerate production enterprise adoption of blockchain technology.
 - [dformoso/deeplearning-mindmap](https://github.com/dformoso/deeplearning-mindmap) - A mindmap summarising Deep Learning concepts.
 - [cncf/landscape](https://github.com/cncf/landscape) - 🌄The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding or market cap, first and last commits, contributor counts, headquarters location, and recent tweets.
-- [portable-cto/side-project-marketing](https://github.com/portable-cto/side-project-marketing) - A checklist of tactics for marketing your side projects.
+- [draftdev/startup-marketing-checklist](https://github.com/draftdev/startup-marketing-checklist) - A checklist of tactics for marketing your startup.
 - [dformoso/machine-learning-mindmap](https://github.com/dformoso/machine-learning-mindmap) - A mindmap summarising Machine Learning concepts, from Data Analysis to Deep Learning.
 - [FuzzySecurity/DefCon25](https://github.com/FuzzySecurity/DefCon25) - UAC 0day, all day!
 - [learn-anything/books](https://github.com/learn-anything/books) - Awesome Books
@@ -6981,6 +6980,8 @@
 
 ## Python 
 
+- [chrieke/streamlit-keplergl](https://github.com/chrieke/streamlit-keplergl) - 🗾 Streamlit Component for rendering kepler.gl maps
+- [planetlabs/planet-client-python](https://github.com/planetlabs/planet-client-python) - Python client for Planet APIs
 - [THUDM/CogView](https://github.com/THUDM/CogView) - Text-to-Image generation. The repo for NeurIPS 2021 paper "CogView: Mastering Text-to-Image Generation via Transformers".
 - [eliahuhorwitz/DeepSIM](https://github.com/eliahuhorwitz/DeepSIM) - Official PyTorch implementation of the paper: "DeepSIM: Image Shape Manipulation from a Single Augmented Training Sample" (ICCV 2021 Oral)
 - [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Colossal-AI: A Unified Deep Learning System for Large-Scale Parallel Training
@@ -7184,7 +7185,7 @@
 - [davidefiocco/streamlit-fastapi-model-serving](https://github.com/davidefiocco/streamlit-fastapi-model-serving) - Simple web app example serving a PyTorch model using streamlit and FastAPI
 - [abhimishra91/insight](https://github.com/abhimishra91/insight) - Repository for Project Insight: NLP as a Service
 - [wemake-services/wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) - The strictest and most opinionated python linter ever!
-- [PaddlePaddle/PaddleNLP](https://github.com/PaddlePaddle/PaddleNLP) - An easy-to-use NLP library with Awesome pre-trained model zoo,  supporting wide-range of NLP tasks from research to industrial applications.
+- [PaddlePaddle/PaddleNLP](https://github.com/PaddlePaddle/PaddleNLP) - Easy-to-use NLP library with Awesome pre-trained model zoo,  supporting wide-range of NLP tasks from research to industrial applications.
 - [PyTorchLightning/lightning-flash](https://github.com/PyTorchLightning/lightning-flash) - Your PyTorch AI Factory - Flash enables you to easily configure and run complex AI recipes for over 15 tasks across 7 data domains
 - [kakaobrain/pororo](https://github.com/kakaobrain/pororo) - PORORO: Platform Of neuRal mOdels for natuRal language prOcessing
 - [LAMDA-NJU/Deep-Forest](https://github.com/LAMDA-NJU/Deep-Forest) - An Efficient, Scalable and Optimized Python Framework for Deep Forest (2021.2.1)
@@ -7294,6 +7295,7 @@
 - [clovaai/rexnet](https://github.com/clovaai/rexnet) - Official Pytorch implementation of ReXNet (Rank eXpansion Network) with pretrained models
 - [tianweiy/CenterPoint](https://github.com/tianweiy/CenterPoint) - 
 - [nshepperd/gpt-2](https://github.com/nshepperd/gpt-2) - Code for the paper "Language Models are Unsupervised Multitask Learners"
+- [PAIR-code/lit](https://github.com/PAIR-code/lit) - The Language Interpretability Tool: Interactively analyze NLP models for model understanding in an extensible and framework agnostic interface.
 - [kyamagu/faiss-wheels](https://github.com/kyamagu/faiss-wheels) - Unofficial faiss wheel builder
 - [Palashio/libra](https://github.com/Palashio/libra) - Ergonomic machine learning for everyone.
 - [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
@@ -7337,7 +7339,7 @@
 - [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) - A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)
 - [dabeaz-course/practical-python](https://github.com/dabeaz-course/practical-python) - Practical Python Programming (course by @dabeaz)
 - [pittcsc/Summer2022-Internships](https://github.com/pittcsc/Summer2022-Internships) - Collection of Summer 2022 tech internships!
-- [GauravSingh9356/J.A.R.V.I.S](https://github.com/GauravSingh9356/J.A.R.V.I.S) - Personal Assistant built using python libraries. It does almost anything which includes sending emails, Dynamic News Reporting at any time with API integration, Todo list generator, Opens any website with just a voice command, Plays Music, Wikipedia searching, Dictionary with Intelligent Sensing i.e. auto spell checking, Weather Reporting i.e. temp, wind speed, humidity, YouTube searching, Google Map searching, Youtube Downloading, etc.
+- [GauravSingh9356/J.A.R.V.I.S](https://github.com/GauravSingh9356/J.A.R.V.I.S) - Personal Assistant built using python libraries. It does almost anything which includes sending emails, Optical Text Recognition, Dynamic News Reporting at any time with API integration, Todo list generator, Opens any website with just a voice command, Plays Music, Wikipedia searching, Dictionary with Intelligent Sensing i.e. auto spell checking, Weather Reporting i.e. temp, wind speed, humidity, YouTube searching, Google Map searching, Youtube Downloading, etc.
 - [ankushshah89/python-docx2txt](https://github.com/ankushshah89/python-docx2txt) - A pure python based utility to extract text and images from docx files.
 - [aqeelanwar/PEDRA](https://github.com/aqeelanwar/PEDRA) - Programmable Engine for Drone Reinforcement Learning Applications
 - [petrovich/pytrovich](https://github.com/petrovich/pytrovich) - Python3 port of Petrovich, an inflector (and gender detector) for Russian anthroponyms
@@ -7971,6 +7973,7 @@
 - [confluentinc/confluent-kafka-python](https://github.com/confluentinc/confluent-kafka-python) - Confluent's Kafka Python Client
 - [awslabs/aws-well-architected-labs](https://github.com/awslabs/aws-well-architected-labs) - Hands on labs and code to help you learn, measure, and build using architectural best practices.
 - [GoogleCloudPlatform/professional-services](https://github.com/GoogleCloudPlatform/professional-services) - Common solutions and tools developed by Google Cloud's Professional Services team
+- [NVIDIA/DeepLearningExamples](https://github.com/NVIDIA/DeepLearningExamples) - Deep Learning Examples
 - [deepinsight/insightface](https://github.com/deepinsight/insightface) - State-of-the-art 2D and 3D Face Analysis Project
 - [fizyr/keras-retinanet](https://github.com/fizyr/keras-retinanet) - Keras implementation of RetinaNet object detection.
 - [IDSIA/sacred](https://github.com/IDSIA/sacred) - Sacred is a tool to help you configure, organize, log and reproduce experiments developed at IDSIA.
@@ -13534,7 +13537,6 @@
 - [actionsflow/actionsflow](https://github.com/actionsflow/actionsflow) - The free Zapier/IFTTT alternative for developers to automate your workflows based on Github actions
 - [jef/streetmerchant](https://github.com/jef/streetmerchant) - 🤖 The world's easiest, most powerful stock checker
 - [desktop/desktop](https://github.com/desktop/desktop) - Simple collaboration from your desktop
-- [PAIR-code/lit](https://github.com/PAIR-code/lit) - The Language Interpretability Tool: Interactively analyze NLP models for model understanding in an extensible and framework agnostic interface.
 - [hediet/vscode-realtime-debugging](https://github.com/hediet/vscode-realtime-debugging) - An extension for VS Code that visualizes how a program is being executed in real time.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
 - [hediet/vscode-drawio](https://github.com/hediet/vscode-drawio) - This unofficial extension integrates Draw.io (also known as diagrams.net) into VS Code.
@@ -14238,7 +14240,7 @@
 - [AStaroverov/vue-toast](https://github.com/AStaroverov/vue-toast) - toasts for vuejs
 - [NewDadaFE/vue-impression](https://github.com/NewDadaFE/vue-impression) - A Vue.js 2.0 UI elements for mobile.
 - [littlewin-wang/Zhihu_Daily](https://github.com/littlewin-wang/Zhihu_Daily) - :newspaper: A Zhihu_Daily Web demo made by Vue.js
-- [alainPerez995/vue-instant](https://github.com/alainPerez995/vue-instant) - vue instant allows you to easily create custom search controls with auto suggestions for your vue 2 applications
+- [fuckPolicia/vue-instant](https://github.com/fuckPolicia/vue-instant) - vue instant allows you to easily create custom search controls with auto suggestions for your vue 2 applications
 - [hifarer/vueditor](https://github.com/hifarer/vueditor) - A wysiwyg editor written in Vue.js and Vuex.js
 - [yeyuqiudeng/vue-lazy-render](https://github.com/yeyuqiudeng/vue-lazy-render) - A vue component for lazy rending vue component
 - [vuwe/vuwe](https://github.com/vuwe/vuwe) - WeUI for Vue2
