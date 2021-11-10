@@ -429,7 +429,7 @@
 - [tmux/tmux](https://github.com/tmux/tmux) - tmux source code
 - [openssl/openssl](https://github.com/openssl/openssl) - TLS/SSL and crypto library
 - [pjreddie/darknet](https://github.com/pjreddie/darknet) - Convolutional Neural Networks
-- [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.
+- [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget. Please follow Documentation/SubmittingPatches procedure for any of your improvements.
 - [jpmens/jo](https://github.com/jpmens/jo) - JSON output from a shell
 - [satori-com/tcpkali](https://github.com/satori-com/tcpkali) - Fast multi-core TCP and WebSockets load generator.
 - [pmwkaa/sophia](https://github.com/pmwkaa/sophia) - Modern transactional key-value/row storage library.
@@ -2895,6 +2895,8 @@
 
 ## JavaScript 
 
+- [prabhuomkar/iris](https://github.com/prabhuomkar/iris) - Open Source Photos Platform Powered by PyTorch. Submission for PyTorch Annual Hackathon 2021.
+- [thunlp/WantWords](https://github.com/thunlp/WantWords) - An open-source online reverse dictionary.
 - [deepnote/notebook](https://github.com/deepnote/notebook) - Modified version of jupyter notebook to enable replay of messages.
 - [sberbank-ai-lab/lightautoml-datafest-workshop](https://github.com/sberbank-ai-lab/lightautoml-datafest-workshop) - Materials for LightAutoML workshop (DataFest 2021)
 - [Jelmerro/Vieb](https://github.com/Jelmerro/Vieb) - Vim Inspired Electron Browser - Vim bindings for the web by design
@@ -4784,6 +4786,7 @@
 - [TreB1eN/InsightFace_Pytorch](https://github.com/TreB1eN/InsightFace_Pytorch) - Pytorch0.4.1 codes for InsightFace
 - [computing-intelligence/jupyters_and_slides](https://github.com/computing-intelligence/jupyters_and_slides) - 
 - [hoya012/CVPR-2019-Paper-Statistics](https://github.com/hoya012/CVPR-2019-Paper-Statistics) - Statistics and Visualization of acceptance rate, main keyword of CVPR 2019 accepted papers for the main Computer Vision conference (CVPR)
+- [NVIDIA/DeepLearningExamples](https://github.com/NVIDIA/DeepLearningExamples) - Deep Learning Examples
 - [uber/h3-py-notebooks](https://github.com/uber/h3-py-notebooks) - Jupyter notebooks for h3-py, a hierarchical hexagonal geospatial indexing system
 - [realpython/materials](https://github.com/realpython/materials) - Bonus materials, exercises, and example projects for our Python tutorials
 - [aws-samples/aws-deepracer-workshops](https://github.com/aws-samples/aws-deepracer-workshops) - DeepRacer workshop content
@@ -6055,7 +6058,7 @@
 - [alirezadir/Production-Level-Deep-Learning](https://github.com/alirezadir/Production-Level-Deep-Learning) - A guideline for building practical production-level deep learning systems to be deployed in real world applications.
 - [deepmind/tvt](https://github.com/deepmind/tvt) - 
 - [shashank88/system_design](https://github.com/shashank88/system_design) - Preparation links and resources for system design questions
-- [oam-dev/spec](https://github.com/oam-dev/spec) - Learning Open Application Model (OAM).
+- [oam-dev/spec](https://github.com/oam-dev/spec) - Open Application Model (OAM).
 - [Niraj-Lunavat/Artificial-Intelligence](https://github.com/Niraj-Lunavat/Artificial-Intelligence) - Awesome AI Learning with +100 AI Cheat-Sheets, Free online Books, Top Courses, Best Videos and Lectures, Papers, Tutorials, +99 Researchers, Premium Websites, +121 Datasets, Conferences, Frameworks, Tools
 - [palash25/best-practices-checklist](https://github.com/palash25/best-practices-checklist) - A list of awesome idiomatic code resources. Rust:crab:, Go, Ruby:gem:, Pony :horse:, Ocaml :camel:, Erlang and more
 - [ML-NLPChina/MIT-Linear-Algebra-Notes](https://github.com/ML-NLPChina/MIT-Linear-Algebra-Notes) - Notes for MIT-Linear-Algebra
@@ -6980,6 +6983,7 @@
 
 ## Python 
 
+- [giswqs/streamlit-geospatial](https://github.com/giswqs/streamlit-geospatial) - A multi-page streamlit app for geospatial
 - [chrieke/streamlit-keplergl](https://github.com/chrieke/streamlit-keplergl) - 🗾 Streamlit Component for rendering kepler.gl maps
 - [planetlabs/planet-client-python](https://github.com/planetlabs/planet-client-python) - Python client for Planet APIs
 - [THUDM/CogView](https://github.com/THUDM/CogView) - Text-to-Image generation. The repo for NeurIPS 2021 paper "CogView: Mastering Text-to-Image Generation via Transformers".
@@ -7225,7 +7229,7 @@
 - [r9y9/wavenet_vocoder](https://github.com/r9y9/wavenet_vocoder) - WaveNet vocoder
 - [pykaldi/pykaldi](https://github.com/pykaldi/pykaldi) - A Python wrapper for Kaldi
 - [alumae/kaldi-gstreamer-server](https://github.com/alumae/kaldi-gstreamer-server) - Real-time full-duplex speech recognition server, based on the Kaldi toolkit and the GStreamer framwork.
-- [PaddlePaddle/DeepSpeech](https://github.com/PaddlePaddle/DeepSpeech) - A Speech Toolkit based on PaddlePaddle.
+- [PaddlePaddle/PaddleSpeech](https://github.com/PaddlePaddle/PaddleSpeech) - A Speech Toolkit based on PaddlePaddle.
 - [yanshengjia/ml-road](https://github.com/yanshengjia/ml-road) - Machine Learning Resources, Practice and Research
 - [lucidrains/deep-daze](https://github.com/lucidrains/deep-daze) - Simple command line tool for text to image generation using OpenAI's CLIP and Siren (Implicit neural representation network). Technique was originally created by https://twitter.com/advadnoun
 - [zengarden/momentum2-teacher](https://github.com/zengarden/momentum2-teacher) - Implementation of momentum^2 teacher
@@ -7973,7 +7977,6 @@
 - [confluentinc/confluent-kafka-python](https://github.com/confluentinc/confluent-kafka-python) - Confluent's Kafka Python Client
 - [awslabs/aws-well-architected-labs](https://github.com/awslabs/aws-well-architected-labs) - Hands on labs and code to help you learn, measure, and build using architectural best practices.
 - [GoogleCloudPlatform/professional-services](https://github.com/GoogleCloudPlatform/professional-services) - Common solutions and tools developed by Google Cloud's Professional Services team
-- [NVIDIA/DeepLearningExamples](https://github.com/NVIDIA/DeepLearningExamples) - Deep Learning Examples
 - [deepinsight/insightface](https://github.com/deepinsight/insightface) - State-of-the-art 2D and 3D Face Analysis Project
 - [fizyr/keras-retinanet](https://github.com/fizyr/keras-retinanet) - Keras implementation of RetinaNet object detection.
 - [IDSIA/sacred](https://github.com/IDSIA/sacred) - Sacred is a tool to help you configure, organize, log and reproduce experiments developed at IDSIA.
