@@ -429,7 +429,7 @@
 - [tmux/tmux](https://github.com/tmux/tmux) - tmux source code
 - [openssl/openssl](https://github.com/openssl/openssl) - TLS/SSL and crypto library
 - [pjreddie/darknet](https://github.com/pjreddie/darknet) - Convolutional Neural Networks
-- [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget. Please follow Documentation/SubmittingPatches procedure for any of your improvements.
+- [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.
 - [jpmens/jo](https://github.com/jpmens/jo) - JSON output from a shell
 - [satori-com/tcpkali](https://github.com/satori-com/tcpkali) - Fast multi-core TCP and WebSockets load generator.
 - [pmwkaa/sophia](https://github.com/pmwkaa/sophia) - Modern transactional key-value/row storage library.
@@ -621,6 +621,7 @@
 - [facebookresearch/habitat-sim](https://github.com/facebookresearch/habitat-sim) - A flexible, high-performance 3D simulator for Embodied AI research.
 - [jupyter-xeus/xleaflet](https://github.com/jupyter-xeus/xleaflet) - C++ backend for the jupyter leaflet widget
 - [pytorch/ELF](https://github.com/pytorch/ELF) - ELF: a platform for game research with AlphaGoZero/AlphaZero reimplementation
+- [tensorflow/text](https://github.com/tensorflow/text) - Making text a first-class citizen in TensorFlow.
 - [BinomialLLC/basis_universal](https://github.com/BinomialLLC/basis_universal) - Basis Universal GPU Texture Codec
 - [SerenityOS/serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞
 - [facebookresearch/ELF](https://github.com/facebookresearch/ELF) - An End-To-End, Lightweight and Flexible Platform for Game Research
@@ -2263,6 +2264,7 @@
 - [SamProf/MatBlazor](https://github.com/SamProf/MatBlazor) - Material Design components for Blazor and Razor Components
 - [daolf/Most-recommended-programming-books](https://github.com/daolf/Most-recommended-programming-books) - The most recommended programming books of all-time.
 - [becauseofAI/HelloFace](https://github.com/becauseofAI/HelloFace) - An awesome face technology repository.
+- [cobidev/simplefolio](https://github.com/cobidev/simplefolio) - ⚡️ A minimal portfolio template for Developers
 - [JordanSchuetz/LearnCS8-Resume](https://github.com/JordanSchuetz/LearnCS8-Resume) - Resume template website for the LearnCS8 Lab 3
 - [allisonhorst/esm244-w2020-lab5](https://github.com/allisonhorst/esm244-w2020-lab5) - Lab week 5: exploring time series data, intro to forecasting
 - [rstudio-conf-2020/intro-to-ml-tidy](https://github.com/rstudio-conf-2020/intro-to-ml-tidy) - Intro to Machine Learning with the Tidyverse
@@ -5177,6 +5179,7 @@
 - [llSourcell/7_Research_Directions_Deep_Learning](https://github.com/llSourcell/7_Research_Directions_Deep_Learning) - This is the code for "The Future of Deep Learning Research" by Siraj Raval on Youtube
 - [tjwei/GANotebooks](https://github.com/tjwei/GANotebooks) - wgan, wgan2(improved, gp), infogan, and dcgan implementation in  lasagne, keras, pytorch
 - [loudinthecloud/pytorch-ntm](https://github.com/loudinthecloud/pytorch-ntm) - Neural Turing Machines (NTM) - PyTorch Implementation
+- [OpenMined/PySyft](https://github.com/OpenMined/PySyft) - A library for answering questions using data you cannot see
 - [marsauto/europilot](https://github.com/marsauto/europilot) - A toolkit for controlling Euro Truck Simulator 2 with python to develop self-driving algorithms.
 - [zygmuntz/goodbooks-10k](https://github.com/zygmuntz/goodbooks-10k) - Ten thousand books, six million ratings
 - [radekosmulski/dogs_vs_cats](https://github.com/radekosmulski/dogs_vs_cats) - 
@@ -6983,6 +6986,8 @@
 
 ## Python 
 
+- [ml-tooling/best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) - 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
+- [minerva-ml/steppy](https://github.com/minerva-ml/steppy) - Lightweight, Python library for fast and reproducible experimentation :microscope:
 - [giswqs/streamlit-geospatial](https://github.com/giswqs/streamlit-geospatial) - A multi-page streamlit app for geospatial
 - [chrieke/streamlit-keplergl](https://github.com/chrieke/streamlit-keplergl) - 🗾 Streamlit Component for rendering kepler.gl maps
 - [planetlabs/planet-client-python](https://github.com/planetlabs/planet-client-python) - Python client for Planet APIs
@@ -7065,7 +7070,7 @@
 - [vlomme/Multi-Tacotron-Voice-Cloning](https://github.com/vlomme/Multi-Tacotron-Voice-Cloning) - Phoneme multilingual(Russian-English) voice cloning based on
 - [BaguaSys/examples](https://github.com/BaguaSys/examples) - Bagua examples.
 - [BaguaSys/bagua](https://github.com/BaguaSys/bagua) - Bagua Speeds up PyTorch
-- [probcomp/sppl](https://github.com/probcomp/sppl) - Sum-Product Probabilistic Language
+- [probcomp/sppl](https://github.com/probcomp/sppl) - Probabilistic programming system for fast and exact symbolic probabilistic inference
 - [SenHe/DLFS](https://github.com/SenHe/DLFS) - 
 - [facebookresearch/DONERF](https://github.com/facebookresearch/DONERF) - Code for "DONeRF Towards Real-Time Rendering of Compact Neural Radiance Fields using Depth Oracle Networks"
 - [Qiskit/qiskit-machine-learning](https://github.com/Qiskit/qiskit-machine-learning) - Quantum Machine Learning
@@ -8002,7 +8007,6 @@
 - [sdushantha/gitdir](https://github.com/sdushantha/gitdir) - Download a single directory/folder from a GitHub repo
 - [fregu856/3DOD_thesis](https://github.com/fregu856/3DOD_thesis) - 3D Object Detection for Autonomous Driving in PyTorch, trained on the KITTI dataset.
 - [ConnorJL/GPT2](https://github.com/ConnorJL/GPT2) - An implementation of training for GPT2, supports TPUs
-- [tensorflow/text](https://github.com/tensorflow/text) - Making text a first-class citizen in TensorFlow.
 - [google-research/football](https://github.com/google-research/football) - Check out the new game server:
 - [google/TensorNetwork](https://github.com/google/TensorNetwork) - A library for easy and efficient manipulation of tensor networks.
 - [quantumblacklabs/kedro](https://github.com/quantumblacklabs/kedro) - A Python framework for creating reproducible, maintainable and modular data science code.
@@ -9288,7 +9292,6 @@
 - [mingyuliutw/UNIT](https://github.com/mingyuliutw/UNIT) - Unsupervised Image-to-Image Translation
 - [jullrich/pcap2curl](https://github.com/jullrich/pcap2curl) - Read a packet capture, extract HTTP requests and turn them into cURL commands for replay.
 - [RasaHQ/rasa_core](https://github.com/RasaHQ/rasa_core) - Rasa Core is now part of the Rasa repo: An open source machine learning framework to automate text-and voice-based conversations
-- [OpenMined/PySyft](https://github.com/OpenMined/PySyft) - A library for answering questions using data you cannot see
 - [apple/coremltools](https://github.com/apple/coremltools) - Core ML tools contain supporting tools for Core ML model conversion, editing, and validation.
 - [manrajgrover/halo](https://github.com/manrajgrover/halo) - 💫 Beautiful spinners for terminal, IPython and Jupyter
 - [tammoippen/plotille](https://github.com/tammoippen/plotille) - Plot in the terminal using braille dots.
@@ -13198,7 +13201,6 @@
 ## SCSS 
 
 - [nicolas-van/bootstrap-4-github-pages](https://github.com/nicolas-van/bootstrap-4-github-pages) - A Bootstrap 4 template project for Github Pages and Jekyll
-- [cobidev/simplefolio](https://github.com/cobidev/simplefolio) - ⚡️ A minimal portfolio template for Developers
 - [emilbaehr/automatic-app-landing-page](https://github.com/emilbaehr/automatic-app-landing-page) - A Jekyll theme for automatically generating and deploying landing page sites for mobile apps.
 - [tr1s/tris-webpack-boilerplate](https://github.com/tr1s/tris-webpack-boilerplate) - A Webpack boilerplate for static websites that has all the necessary modern tools and optimizations built-in. Score a perfect 10/10 on performance.
 - [flutter/website](https://github.com/flutter/website) - Flutter web site
@@ -13367,7 +13369,7 @@
 - [jcsalterego/historian](https://github.com/jcsalterego/historian) - Command-line utility for managing shell history in a SQLite database.
 - [kamranahmedse/git-standup](https://github.com/kamranahmedse/git-standup) - Recall what you did on the last working day. Psst! or be nosy and find what someone else in your team did ;-)
 - [DavidWittman/ansible-redis](https://github.com/DavidWittman/ansible-redis) - Highly-configurable Ansible role to install Redis and Redis Sentinel from source
-- [erikw/tmux-powerline](https://github.com/erikw/tmux-powerline) - Statusbar configuration for tmux that looks like vim-powerline and consist of dynamic segments.
+- [erikw/tmux-powerline](https://github.com/erikw/tmux-powerline) - Statusbar configuration for tmux that looks like vim-powerline and consist of dynamic segments, written purely in bash.
 - [kylemcdonald/ml-notebook](https://github.com/kylemcdonald/ml-notebook) - Dockerfile for multiple machine learning tools.
 - [marcan/takeover.sh](https://github.com/marcan/takeover.sh) - Wipe and reinstall a running Linux system via SSH, without rebooting. You know you want to.
 - [k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
