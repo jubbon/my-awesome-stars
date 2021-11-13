@@ -1720,6 +1720,7 @@
 - [goki/gi](https://github.com/goki/gi) - Native Go (golang) Graphical Interface system (2D and 3D), built on GoKi tree framework
 - [amazon-archives/aws-service-operator](https://github.com/amazon-archives/aws-service-operator) - AWS Service Operator allows you to create AWS resources using kubectl.
 - [MontFerret/ferret](https://github.com/MontFerret/ferret) - Declarative web scraping
+- [polyaxon/mloperator](https://github.com/polyaxon/mloperator) - Kubernetes Machine Learning Operator
 - [meshbird/meshbird](https://github.com/meshbird/meshbird) - Distributed private networking
 - [pulumi/kubespy](https://github.com/pulumi/kubespy) - Tools for observing Kubernetes resources in real time, powered by Pulumi.
 - [TarsCloud/TarsGo](https://github.com/TarsCloud/TarsGo) - A  high performance microservice  framework  in golang. A linux foundation project.
@@ -1824,7 +1825,6 @@
 - [jinzhu/now](https://github.com/jinzhu/now) - Now is a time toolkit for golang
 - [araddon/dateparse](https://github.com/araddon/dateparse) - GoLang Parse many date strings without knowing format in advance.
 - [quii/learn-go-with-tests](https://github.com/quii/learn-go-with-tests) - Learn Go with test-driven development
-- [fossas/fossa-cli](https://github.com/fossas/fossa-cli) - Fast, portable and reliable dependency analysis for any codebase.  Supports license & vulnerability scanning for large monoliths.  Language-agnostic; integrates with 20+ build systems.
 - [hasura/gitkube](https://github.com/hasura/gitkube) - Build and deploy docker images to Kubernetes using git push
 - [rs/jaggr](https://github.com/rs/jaggr) - JSON Aggregation CLI
 - [dearplain/goloader](https://github.com/dearplain/goloader) - load and run golang code at runtime. (WARNING: this repo has not been maintained for a long time, please take a look at https://github.com/pkujhd/goloader)
@@ -2749,6 +2749,7 @@
 - [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
 - [github/semantic](https://github.com/github/semantic) - Parsing, analyzing, and comparing source code across many languages
 - [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
+- [fossas/fossa-cli](https://github.com/fossas/fossa-cli) - Fast, portable and reliable dependency analysis for any codebase.  Supports license & vulnerability scanning for large monoliths.  Language-agnostic; integrates with 20+ build systems.
 - [def-/time.gif](https://github.com/def-/time.gif) - GIF that always shows the current time in UTC
 - [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects written in C, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala, etc.
 - [jaspervdj/patat](https://github.com/jaspervdj/patat) - Terminal-based presentations using Pandoc
@@ -3749,7 +3750,7 @@
 - [azat-co/practicalnode](https://github.com/azat-co/practicalnode) - Practical Node.js, 1st and 2nd Editions [Apress] 📓
 - [nathanpeck/clui](https://github.com/nathanpeck/clui) - Command Line UI toolkit for Node.js
 - [gitterHQ/desktop](https://github.com/gitterHQ/desktop) - Project moved to https://gitlab.com/gitlab-org/gitter/desktop/
-- [uiv-lib/uiv](https://github.com/uiv-lib/uiv) - Bootstrap 3 components implemented by Vue 2.
+- [uiv-lib/uiv](https://github.com/uiv-lib/uiv) - Bootstrap 3 components implemented by Vue.js.
 - [BretFisher/udemy-docker-mastery](https://github.com/BretFisher/udemy-docker-mastery) - Udemy Course to build, compose, deploy, and manage containers from local development to high-availability in the cloud
 - [jpsim/AWSPics](https://github.com/jpsim/AWSPics) - An AWS CloudFormation stack to run a serverless password-protected photo gallery
 - [indutny/webpack-common-shake](https://github.com/indutny/webpack-common-shake) - CommonJS Tree Shaker plugin for WebPack
@@ -6258,7 +6259,6 @@
 - [chartshq/muze](https://github.com/chartshq/muze) - Composable data visualisation library for web with a data-first approach now powered by WebAssembly
 - [OnsenUI/awesome-onsenui](https://github.com/OnsenUI/awesome-onsenui) - A curated list of awesome Onsen UI resources.
 - [kkyon/databot](https://github.com/kkyon/databot) - Databot was renamed to  BotFlow https://github.com/kkyon/botflow
-- [polyaxon/MLOperator](https://github.com/polyaxon/MLOperator) - Kubernetes Machine Learning Operator
 - [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) - 🚀✨ Help beginners to contribute to open source projects
 - [dipakkr/A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - ✅  Curated list of resources for college students
 - [ocean1/awesome-thesis](https://github.com/ocean1/awesome-thesis) - A curated list of practical tips and tricks to help you achieve an awesome CS master thesis [WIP] - contributions are welcome
@@ -6283,7 +6283,7 @@
 - [JsonChao/Awesome-Android-Interview](https://github.com/JsonChao/Awesome-Android-Interview) - :fire: A awesome  android expert interview questions and answers（continuous updating ...）
 - [trimstray/test-your-sysadmin-skills](https://github.com/trimstray/test-your-sysadmin-skills) - A collection of Linux Sysadmin Test Questions and Answers. Test your knowledge and skills in different fields with these Q/A.
 - [minotaura/ru-web-developer-security-checklist](https://github.com/minotaura/ru-web-developer-security-checklist) - 
-- [hypotext/notation](https://github.com/hypotext/notation) - Collection of quotes on notation design & how it affects thought.
+- [k-qy/notation](https://github.com/k-qy/notation) - Collection of quotes on notation design & how it affects thought.
 - [fivethirtyeight/russian-troll-tweets](https://github.com/fivethirtyeight/russian-troll-tweets) - 
 - [MatrixAINetwork/MATRIX_Diary](https://github.com/MatrixAINetwork/MATRIX_Diary) - Matrix Trendings as well as Digests
 - [Avik-Jain/100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) - 100 Days of ML Coding
@@ -7294,7 +7294,7 @@
 - [jsonresume/jsonresume-fake](https://github.com/jsonresume/jsonresume-fake) - Fully generated fake resumes using machine learning models trained off ~6000 JSON resumes.
 - [NVlabs/stylegan2-ada](https://github.com/NVlabs/stylegan2-ada) - StyleGAN2 with adaptive discriminator augmentation (ADA) - Official TensorFlow implementation
 - [MatthiasSchinzel/sysmon](https://github.com/MatthiasSchinzel/sysmon) - Graphical system monitor for linux, including information about CPU, GPU, Memory, HDD/SDD and your network connections. Similar to windows task manager.
-- [NVlabs/imaginaire](https://github.com/NVlabs/imaginaire) - NVIDIA PyTorch GAN library with distributed and mixed precision support
+- [NVlabs/imaginaire](https://github.com/NVlabs/imaginaire) - NVIDIA's Deep Imagination Team's PyTorch Library
 - [MaartenGr/BERTopic](https://github.com/MaartenGr/BERTopic) - Leveraging BERT and c-TF-IDF to create easily interpretable topics.
 - [tvst/st-annotated-text](https://github.com/tvst/st-annotated-text) - A simple component to display annotated text in Streamlit apps.
 - [kyzhouhzau/BERT-NER](https://github.com/kyzhouhzau/BERT-NER) - Use Google's BERT for named entity recognition （CoNLL-2003 as the dataset）.
@@ -13143,8 +13143,8 @@
 - [remi/teamocil](https://github.com/remi/teamocil) - There's no I in Teamocil. At least not where you think. Teamocil is a simple tool used to automatically create windows and panes in tmux with YAML files.
 - [gousiosg/github-mirror](https://github.com/gousiosg/github-mirror) - Scripts to mirror Github in a cloudy fashion
 - [Vimjas/vim-python-pep8-indent](https://github.com/Vimjas/vim-python-pep8-indent) - A nicer Python indentation style for vim.
-- [mispy/ebooks_example](https://github.com/mispy/ebooks_example) - Example of a full twitter_ebooks bot definition
-- [mispy/twitter_ebooks](https://github.com/mispy/twitter_ebooks) - Better twitterbots for all your friends~
+- [mispy-archive/ebooks_example](https://github.com/mispy-archive/ebooks_example) - Example of a full twitter_ebooks bot definition
+- [mispy-archive/twitter_ebooks](https://github.com/mispy-archive/twitter_ebooks) - Better twitterbots for all your friends~
 - [tmuxinator/tmuxinator](https://github.com/tmuxinator/tmuxinator) - Manage complex tmux sessions easily
 - [cucumber/cucumber-ruby](https://github.com/cucumber/cucumber-ruby) - Cucumber for Ruby
 - [devopsgroup-io/vagrant-digitalocean](https://github.com/devopsgroup-io/vagrant-digitalocean) - :droplet: A Vagrant provider plugin that manages DigitalOcean droplets.
