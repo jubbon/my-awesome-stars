@@ -6986,6 +6986,7 @@
 
 ## Python 
 
+- [aqlaboratory/openfold](https://github.com/aqlaboratory/openfold) - Trainable PyTorch reproduction of AlphaFold 2
 - [ml-tooling/best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) - 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
 - [minerva-ml/steppy](https://github.com/minerva-ml/steppy) - Lightweight, Python library for fast and reproducible experimentation :microscope:
 - [giswqs/streamlit-geospatial](https://github.com/giswqs/streamlit-geospatial) - A multi-page streamlit app for geospatial
