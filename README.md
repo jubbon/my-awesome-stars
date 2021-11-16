@@ -2092,7 +2092,7 @@
 - [ro31337/libretaxi](https://github.com/ro31337/libretaxi) - Open source Uber #deleteuber
 - [miaolz123/samaritan](https://github.com/miaolz123/samaritan) - An Algorithmic Trading Framework for Digital Currency.
 - [whalebrew/whalebrew](https://github.com/whalebrew/whalebrew) - Homebrew, but with Docker images
-- [drone/drone](https://github.com/drone/drone) - Drone is a Container-Native, Continuous Delivery Platform
+- [harness/drone](https://github.com/harness/drone) - Drone is a Container-Native, Continuous Delivery Platform
 - [ofabry/go-callvis](https://github.com/ofabry/go-callvis) - Visualize call graph of a Go program using Graphviz
 - [uber-archive/cherami-server](https://github.com/uber-archive/cherami-server) - Distributed, scalable, durable, and highly available message queue system. This project is deprecated and not maintained.
 - [jpillora/chisel](https://github.com/jpillora/chisel) - A fast TCP/UDP tunnel over HTTP
@@ -2801,7 +2801,7 @@
 - [OneBusAway/onebusaway-android](https://github.com/OneBusAway/onebusaway-android) - The official Android/Fire Phone app for OneBusAway
 - [tillnagel/unfolding](https://github.com/tillnagel/unfolding) - A library to create interactive maps and geovisualizations in Processing and Java
 - [CUTR-at-USF/gtfs-osm-sync](https://github.com/CUTR-at-USF/gtfs-osm-sync) - Synchronizes public transportation data in GTFS format with OpenStreetMap.org
-- [allure-framework/allure2](https://github.com/allure-framework/allure2) - Allure Framework is a flexible lightweight multi-language test reporting tool. It provides clear graphical reports and allows everyone involved in the development process extract maximum of information from everyday testing process.
+- [allure-framework/allure2](https://github.com/allure-framework/allure2) - Allure Report is a flexible, lightweight multi-language test reporting tool. It provides clear graphical reports and allows everyone involved in the development process to extract the maximum of information from the everyday testing process
 - [Kyson/AndroidGodEye](https://github.com/Kyson/AndroidGodEye) - An app performance monitor(APM) , like "Android Studio profiler", you can easily monitor the performance of your app real time in browser
 - [macdonst/TelephoneNumberPlugin](https://github.com/macdonst/TelephoneNumberPlugin) - 
 - [oneminutedistraction/phonenumber](https://github.com/oneminutedistraction/phonenumber) - Cordova plugin for getting an Android device's phone number
@@ -4125,6 +4125,7 @@
 - [spencermountain/compromise](https://github.com/spencermountain/compromise) - modest natural-language processing
 - [PiotrDabkowski/Js2Py](https://github.com/PiotrDabkowski/Js2Py) - JavaScript to Python Translator & JavaScript interpreter written in 100% pure Python🚀 Try it online:
 - [dundalek/markmap](https://github.com/dundalek/markmap) - Visualize markdown documents as mindmaps
+- [jupyter-widgets/ipyleaflet](https://github.com/jupyter-widgets/ipyleaflet) - A Jupyter - Leaflet.js bridge
 - [analog-nico/express-print-routes](https://github.com/analog-nico/express-print-routes) - Prints the tree of Express routes and middlewares to a file
 - [cezaraugusto/You-Dont-Know-JS](https://github.com/cezaraugusto/You-Dont-Know-JS) - 📗📒 (PT-Br translation) JS Book Series.
 - [flickr/yakbak](https://github.com/flickr/yakbak) - Record and playback HTTP responses
@@ -5010,7 +5011,7 @@
 - [liyangbit/PyDataRoad](https://github.com/liyangbit/PyDataRoad) - open source for wechat-official-account (ID: PyDataLab)
 - [iamtrask/Grokking-Deep-Learning](https://github.com/iamtrask/Grokking-Deep-Learning) - this repository accompanies the book "Grokking Deep Learning"
 - [navjindervirdee/2048-deep-reinforcement-learning](https://github.com/navjindervirdee/2048-deep-reinforcement-learning) - Trained A Convolutional Neural Network To Play 2048 using Deep-Reinforcement Learning
-- [alpv95/MemeProject](https://github.com/alpv95/MemeProject) - Dank Learning codebase, generate a meme from any image using AI. Uses a modified version of the Show and Tell image captioning network
+- [alpv95/Dank-Learning](https://github.com/alpv95/Dank-Learning) - Dank Learning codebase, generate a meme from any image using AI. Uses a modified version of the Show and Tell image captioning network
 - [apachecn/Interview](https://github.com/apachecn/Interview) - Interview = 简历指南 + LeetCode + Kaggle
 - [lijin-THU/notes-python](https://github.com/lijin-THU/notes-python) - 中文 Python 笔记
 - [hardmaru/WorldModelsExperiments](https://github.com/hardmaru/WorldModelsExperiments) - World Models Experiments
@@ -5948,7 +5949,6 @@
 - [enochkan/awesome-gans-and-deepfakes](https://github.com/enochkan/awesome-gans-and-deepfakes) - A curated list of GAN & Deepfake papers and repositories.
 - [EmotionEngi/EmotionLib](https://github.com/EmotionEngi/EmotionLib) - Simple dynamic library for video sentiment recognition
 - [igoradamenko/awesome-made-by-russians](https://github.com/igoradamenko/awesome-made-by-russians) - 🇷🇺 The best open source projects that were made and mainly contributed by Russian developers
-- [rougier/scientific-visualization-book](https://github.com/rougier/scientific-visualization-book) - An open access book on scientific visualization using python and matplotlib
 - [visenger/awesome-mlops](https://github.com/visenger/awesome-mlops) - A curated list of references for MLOps
 - [mrdbourke/machine-learning-roadmap](https://github.com/mrdbourke/machine-learning-roadmap) - A roadmap connecting many of the most important concepts in machine learning, how to learn them and what tools to use to perform them.
 - [VladislavEremeev/QA_bible](https://github.com/VladislavEremeev/QA_bible) - Библия QA это почти 300 страниц обновляемой смеси ответов на вопросы с реальных собеседований на QA, полезных ресурсов и статей, перевода интересного контента с зарубежных ресурсов и агрегации материала с отечественных.
@@ -6024,7 +6024,7 @@
 - [windmaple/awesome-AutoML](https://github.com/windmaple/awesome-AutoML) - Curating a list of AutoML-related research, tools, projects and other resources
 - [margaretmz/awesome-tensorflow-lite](https://github.com/margaretmz/awesome-tensorflow-lite) - An awesome list of TensorFlow Lite models, samples, tutorials, tools and learning resources.
 - [gskinnerTeam/flutter_vignettes](https://github.com/gskinnerTeam/flutter_vignettes) - A collection of fun Flutter experiments, created by gskinner, in partnership with Google.
-- [roshanlam/ReadMeTemplate](https://github.com/roshanlam/ReadMeTemplate) - Done with your project but having a hard time writing a ReadMe? Check Out This Repo I created. If you like it then use it
+- [roshanlam/ReadMeTemplate](https://github.com/roshanlam/ReadMeTemplate) - Done with your project but having a hard time writing a ReadMe? Check Out This Repo. If you like it then use it
 - [luruke/browser-2020](https://github.com/luruke/browser-2020) - Things you can do with a browser in 2020 ☕️
 - [nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters) - A list of resources for those interested in getting started in bug bounties
 - [justinamiller/SoftwareArchitect](https://github.com/justinamiller/SoftwareArchitect) - Path to a Software Architect
@@ -6986,6 +6986,8 @@
 
 ## Python 
 
+- [NITRO-AI/NitroFE](https://github.com/NITRO-AI/NitroFE) - NitroFE is a Python feature engineering engine which provides a variety of modules designed to internally save past dependent values for providing continuous calculation.
+- [microsoft/varuna](https://github.com/microsoft/varuna) - 
 - [aqlaboratory/openfold](https://github.com/aqlaboratory/openfold) - Trainable PyTorch reproduction of AlphaFold 2
 - [ml-tooling/best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) - 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
 - [minerva-ml/steppy](https://github.com/minerva-ml/steppy) - Lightweight, Python library for fast and reproducible experimentation :microscope:
@@ -7295,6 +7297,7 @@
 - [jsonresume/jsonresume-fake](https://github.com/jsonresume/jsonresume-fake) - Fully generated fake resumes using machine learning models trained off ~6000 JSON resumes.
 - [NVlabs/stylegan2-ada](https://github.com/NVlabs/stylegan2-ada) - StyleGAN2 with adaptive discriminator augmentation (ADA) - Official TensorFlow implementation
 - [MatthiasSchinzel/sysmon](https://github.com/MatthiasSchinzel/sysmon) - Graphical system monitor for linux, including information about CPU, GPU, Memory, HDD/SDD and your network connections. Similar to windows task manager.
+- [rougier/scientific-visualization-book](https://github.com/rougier/scientific-visualization-book) - An open access book on scientific visualization using python and matplotlib
 - [NVlabs/imaginaire](https://github.com/NVlabs/imaginaire) - NVIDIA's Deep Imagination Team's PyTorch Library
 - [MaartenGr/BERTopic](https://github.com/MaartenGr/BERTopic) - Leveraging BERT and c-TF-IDF to create easily interpretable topics.
 - [tvst/st-annotated-text](https://github.com/tvst/st-annotated-text) - A simple component to display annotated text in Streamlit apps.
@@ -8165,7 +8168,7 @@
 - [ustroetz/python-osrm](https://github.com/ustroetz/python-osrm) - A Python wrapper around the OSRM API
 - [servian/aws-step-function-example](https://github.com/servian/aws-step-function-example) - 
 - [danielegrattarola/spektral](https://github.com/danielegrattarola/spektral) - Graph Neural Networks with Keras and Tensorflow 2.
-- [ludwig-ai/ludwig](https://github.com/ludwig-ai/ludwig) - Ludwig is a toolbox that allows to train and evaluate deep learning models without the need to write code.
+- [ludwig-ai/ludwig](https://github.com/ludwig-ai/ludwig) - Data-centric declarative deep learning framework
 - [bjoernkarmann/project_alias](https://github.com/bjoernkarmann/project_alias) - Alias is a teachable “parasite” that is designed to give users more control over their smart assistants, both when it comes to customisation and privacy. Through a simple app the user can train Alias to react on a custom wake-word/sound, and once trained, Alias can take control over your home assistant by activating it for you.
 - [nosarthur/gita](https://github.com/nosarthur/gita) - Manage many git repos with sanity 从容管理多个git库
 - [NVlabs/ffhq-dataset](https://github.com/NVlabs/ffhq-dataset) - Flickr-Faces-HQ Dataset (FFHQ)
@@ -10616,7 +10619,6 @@
 - [mirri66/xgbmagic](https://github.com/mirri66/xgbmagic) - 
 - [eugene-eeo/closurepr](https://github.com/eugene-eeo/closurepr) - a better repr for closures
 - [donnemartin/gitsome](https://github.com/donnemartin/gitsome) - A supercharged Git/GitHub command line interface (CLI).  An official integration for GitHub and GitHub Enterprise: https://github.com/works-with/category/desktop-tools
-- [jupyter-widgets/ipyleaflet](https://github.com/jupyter-widgets/ipyleaflet) - A Jupyter - Leaflet.js bridge
 - [dmlc/mxnet-memonger](https://github.com/dmlc/mxnet-memonger) - Sublinear memory optimization for deep learning, reduce GPU memory cost to train deeper nets
 - [celery/cyanide](https://github.com/celery/cyanide) - Celery stress testing and integration test support
 - [svenkreiss/databench](https://github.com/svenkreiss/databench) - Data analysis tool.
@@ -13528,7 +13530,7 @@
 
 - [yandex-cloud/yfm-docs](https://github.com/yandex-cloud/yfm-docs) - Создавай документацию с помощью yfm-docs в Markdown и HTML форматах
 - [yandex-cloud/yagr](https://github.com/yandex-cloud/yagr) - Yet another graph renderer
-- [redis/node-redis](https://github.com/redis/node-redis) - A high performance Node.js Redis client.
+- [redis/node-redis](https://github.com/redis/node-redis) - A high-performance Node.js Redis client.
 - [aimhubio/aim](https://github.com/aimhubio/aim) - Aim — an easy-to-use and performant open-source experiment tracker.
 - [microsoft/VoTT](https://github.com/microsoft/VoTT) - Visual Object Tagging Tool: An electron app for building end to end Object Detection Models from Images and Videos.
 - [mrjackphil/obsidian-note-uid](https://github.com/mrjackphil/obsidian-note-uid) - 
