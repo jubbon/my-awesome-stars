@@ -901,7 +901,6 @@
 - [alibaba/AliSQL](https://github.com/alibaba/AliSQL) - AliSQL is a MySQL branch originated from Alibaba Group. Fetch document from Release Notes at bottom.
 - [catchorg/Catch2](https://github.com/catchorg/Catch2) - A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)
 - [openai/triton](https://github.com/openai/triton) - Development repository for the Triton language and compiler
-- [arangodb/arangodb](https://github.com/arangodb/arangodb) - 🥑 ArangoDB is a native multi-model database with flexible data models for documents, graphs, and key-values. Build high performance applications using a convenient SQL-like query language or JavaScript extensions.
 - [gzc/CLRS](https://github.com/gzc/CLRS) - :notebook:Solutions to Introduction to Algorithms
 - [cartographer-project/cartographer_ros](https://github.com/cartographer-project/cartographer_ros) - Provides ROS integration for Cartographer.
 - [cartographer-project/cartographer](https://github.com/cartographer-project/cartographer) - Cartographer is a system that provides real-time simultaneous localization and mapping (SLAM) in 2D and 3D across multiple platforms and sensor configurations.
@@ -3998,6 +3997,7 @@
 - [yarnpkg/yarn](https://github.com/yarnpkg/yarn) - The 1.x line is frozen - features and bugfixes now happen on https://github.com/yarnpkg/berry
 - [naptha/tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for more than 100 Languages 📖🎉🖥
 - [erdem/django-map-widgets](https://github.com/erdem/django-map-widgets) - Pluggable map widgets for Django Postgis fields
+- [arangodb/arangodb](https://github.com/arangodb/arangodb) - 🥑 ArangoDB is a native multi-model database with flexible data models for documents, graphs, and key-values. Build high performance applications using a convenient SQL-like query language or JavaScript extensions.
 - [Dogfalo/materialize](https://github.com/Dogfalo/materialize) - Materialize, a CSS Framework based on Material Design
 - [systemjs/systemjs](https://github.com/systemjs/systemjs) - Dynamic ES module loader
 - [bvaughn/react-virtualized](https://github.com/bvaughn/react-virtualized) - React components for efficiently rendering large lists and tabular data
@@ -4467,6 +4467,7 @@
 
 ## Jupyter Notebook 
 
+- [sberbank-ai/htr_datasets](https://github.com/sberbank-ai/htr_datasets) - Repository containing our datasets for HTR (handwritten text recognition) task.
 - [v-iashin/SpecVQGAN](https://github.com/v-iashin/SpecVQGAN) - Source code for "Taming Visually Guided Sound Generation" (Oral at the BMVC 2021)
 - [sberbank-ai/fusion_brain_aij2021](https://github.com/sberbank-ai/fusion_brain_aij2021) - Creating multimodal multitask models
 - [Alenush/style_transfer_sirius2021summer](https://github.com/Alenush/style_transfer_sirius2021summer) - Style Transfer. Sirius 2021
@@ -7582,7 +7583,7 @@
 - [Kaggle/docker-python](https://github.com/Kaggle/docker-python) - Kaggle Python docker image
 - [werner-duvaud/muzero-general](https://github.com/werner-duvaud/muzero-general) - MuZero
 - [cosmicpython/book](https://github.com/cosmicpython/book) - A Book about Pythonic Application Architecture Patterns for Managing Complexity.  Cosmos is the Opposite of Chaos you see. O'R. wouldn't actually let us call it "Cosmic Python" tho.
-- [polakowo/vectorbt](https://github.com/polakowo/vectorbt) - Find your alpha: Supercharged backtesting and technical analysis for quants
+- [polakowo/vectorbt](https://github.com/polakowo/vectorbt) - Supercharged backtesting and technical analysis for quants
 - [ayooshkathuria/pytorch-yolo-v3](https://github.com/ayooshkathuria/pytorch-yolo-v3) - A PyTorch implementation of the YOLO v3 object detection algorithm
 - [kotartemiy/newscatcher](https://github.com/kotartemiy/newscatcher) - Programmatically collect normalized news from (almost) any website.
 - [Mukosame/Zooming-Slow-Mo-CVPR-2020](https://github.com/Mukosame/Zooming-Slow-Mo-CVPR-2020) - Fast and Accurate One-Stage Space-Time Video Super-Resolution (accepted in CVPR 2020)
@@ -8284,7 +8285,7 @@
 - [iopipe/lambda-runtime-pypy3.5](https://github.com/iopipe/lambda-runtime-pypy3.5) - AWS Lambda Runtime for PyPy 3.5
 - [cbsudux/Mumbai-slum-segmentation](https://github.com/cbsudux/Mumbai-slum-segmentation) - Mumbai slum segmentation and change detection on statellite images.
 - [CSAILVision/gandissect](https://github.com/CSAILVision/gandissect) - Pytorch-based tools for visualizing and understanding the neurons of a GAN.  https://gandissect.csail.mit.edu/
-- [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 200 universities.
+- [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 300 universities from 55 countries including Stanford, MIT, Harvard, and Cambridge.
 - [pytroll/satpy](https://github.com/pytroll/satpy) - Python package for earth-observing satellite data processing
 - [jwkvam/celluloid](https://github.com/jwkvam/celluloid) - :movie_camera: Matplotlib animations made easy
 - [guokr/redis-namespace](https://github.com/guokr/redis-namespace) - namespaced subset of your redis keyspace
