@@ -3628,7 +3628,7 @@
 - [yishn/tikzcd-editor](https://github.com/yishn/tikzcd-editor) - A simple visual editor for creating commutative diagrams.
 - [franciscop/server](https://github.com/franciscop/server) - :desktop_computer: Simple and powerful server for Node.js
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (October 2021)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (November 2021)
 - [frappe/charts](https://github.com/frappe/charts) - Simple, responsive, modern SVG Charts with zero dependencies
 - [elesdoar/leaflet-control-orderlayers](https://github.com/elesdoar/leaflet-control-orderlayers) - Leaflet control with order functionality
 - [google/bottery](https://github.com/google/bottery) - 
@@ -4467,6 +4467,7 @@
 
 ## Jupyter Notebook 
 
+- [milaan9/DataScience_Interview_Questions](https://github.com/milaan9/DataScience_Interview_Questions) - My Solutions to 120 commonly asked data science interview questions.
 - [sberbank-ai/htr_datasets](https://github.com/sberbank-ai/htr_datasets) - Repository containing our datasets for HTR (handwritten text recognition) task.
 - [v-iashin/SpecVQGAN](https://github.com/v-iashin/SpecVQGAN) - Source code for "Taming Visually Guided Sound Generation" (Oral at the BMVC 2021)
 - [sberbank-ai/fusion_brain_aij2021](https://github.com/sberbank-ai/fusion_brain_aij2021) - Creating multimodal multitask models
@@ -4527,7 +4528,7 @@
 - [facebookresearch/vissl](https://github.com/facebookresearch/vissl) - VISSL is FAIR's library of extensible, modular and scalable components for SOTA Self-Supervised Learning with images.
 - [robertmartin8/PyPortfolioOpt](https://github.com/robertmartin8/PyPortfolioOpt) - Financial portfolio optimisation in python, including classical efficient frontier, Black-Litterman, Hierarchical Risk Parity
 - [CompVis/taming-transformers](https://github.com/CompVis/taming-transformers) - Taming Transformers for High-Resolution Image Synthesis
-- [AI4Finance-Foundation/FinRL](https://github.com/AI4Finance-Foundation/FinRL) - Deep Reinforcement Learning Framework to Automate Trading in Quantitative Finance. NeurIPS 2020 & ICAIF 2021. 🔥
+- [AI4Finance-Foundation/FinRL](https://github.com/AI4Finance-Foundation/FinRL) - Deep Reinforcement Learning Framework to Automate Trading in Quantitative Finance. NeurIPS 2020 & ICAIF 2021. Please star. 🔥
 - [orpatashnik/StyleCLIP](https://github.com/orpatashnik/StyleCLIP) - Official Implementation for "StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery" (ICCV 2021 Oral)
 - [karpathy/deep-vector-quantization](https://github.com/karpathy/deep-vector-quantization) - VQVAEs, GumbelSoftmaxes and friends
 - [jackroos/VL-BERT](https://github.com/jackroos/VL-BERT) - Code for ICLR 2020 paper "VL-BERT: Pre-training of Generic Visual-Linguistic Representations".
@@ -6986,6 +6987,10 @@
 
 ## Python 
 
+- [Janspiry/Image-Super-Resolution-via-Iterative-Refinement](https://github.com/Janspiry/Image-Super-Resolution-via-Iterative-Refinement) - Unoffical implementation about Image Super-Resolution via Iterative Refinement by Pytorch
+- [jiupinjia/rocket-recycling](https://github.com/jiupinjia/rocket-recycling) - Rocket-recycling with Reinforcement Learning
+- [open-mmlab/mmflow](https://github.com/open-mmlab/mmflow) - OpenMMLab optical flow toolbox and benchmark
+- [PaddlePaddle/PaddleSeg](https://github.com/PaddlePaddle/PaddleSeg) - Easy-to-use image segmentation library with awesome pre-trained model zoo, supporting wide-range of practical tasks from research to industrial applications.
 - [MenghaoGuo/Awesome-Vision-Attentions](https://github.com/MenghaoGuo/Awesome-Vision-Attentions) - Summary of related papers on visual attention
 - [NITRO-AI/NitroFE](https://github.com/NITRO-AI/NitroFE) - NitroFE is a Python feature engineering engine which provides a variety of modules designed to internally save past dependent values for providing continuous calculation.
 - [microsoft/varuna](https://github.com/microsoft/varuna) - 
@@ -7407,7 +7412,7 @@
 - [castorini/hedwig](https://github.com/castorini/hedwig) - PyTorch deep learning models for document classification
 - [wikipedia2vec/wikipedia2vec](https://github.com/wikipedia2vec/wikipedia2vec) - A tool for learning vector representations of words and entities from Wikipedia
 - [yzh119/BPT](https://github.com/yzh119/BPT) - Source code of paper "BP-Transformer: Modelling Long-Range Context via Binary Partitioning"
-- [life4/deal](https://github.com/life4/deal) - Design by contract for Python with static checker and tests' generation.
+- [life4/deal](https://github.com/life4/deal) - Design by contract for Python. Write bug-free code. Add a few decorators, get static analysis and tests for free.
 - [openai/jukebox](https://github.com/openai/jukebox) - Code for the paper "Jukebox: A Generative Model for Music"
 - [Tianxiaomo/pytorch-YOLOv4](https://github.com/Tianxiaomo/pytorch-YOLOv4) - PyTorch ,ONNX and TensorRT implementation of YOLOv4
 - [kotartemiy/extract-news-api](https://github.com/kotartemiy/extract-news-api) - Flask code to deploy an API that pulls structured data from online news articles
@@ -13433,7 +13438,7 @@
 - [cyclestreets/nominatim-install](https://github.com/cyclestreets/nominatim-install) - Bash script to install Nominatim
 - [qw3rtman/p](https://github.com/qw3rtman/p) - :snake: Python Version Management Made Simple
 - [ansible/ansible-examples](https://github.com/ansible/ansible-examples) - A few starter examples of ansible playbooks, to show features and how they work together.  See http://galaxy.ansible.com for example roles from the Ansible community for deploying many popular applications.
-- [conda/conda-recipes](https://github.com/conda/conda-recipes) - build and test recipes for conda
+- [conda-archive/conda-recipes](https://github.com/conda-archive/conda-recipes) - build and test recipes for conda
 - [ahunnargikar/vagrant-mesos](https://github.com/ahunnargikar/vagrant-mesos) - Mesos/Docker/Marathon/Aurora development Vagrant Virtualbox setup
 - [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [tryolabs/metamon](https://github.com/tryolabs/metamon) - Collection of Ansible playbooks to quickly start your Django Application
