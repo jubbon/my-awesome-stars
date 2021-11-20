@@ -2494,7 +2494,7 @@
 - [jgraph/mxgraph](https://github.com/jgraph/mxgraph) - mxGraph is a fully client side JavaScript diagramming library
 - [kennethreitz-archive/awesome-cdn](https://github.com/kennethreitz-archive/awesome-cdn) - CDNjs for Humans.
 - [securitytxt/security-txt](https://github.com/securitytxt/security-txt) - A proposed standard that allows websites to define security policies.
-- [abhshkdz/ai-deadlines](https://github.com/abhshkdz/ai-deadlines) - :alarm_clock: AI conference deadline countdowns
+- [paperswithcode/ai-deadlines](https://github.com/paperswithcode/ai-deadlines) - :alarm_clock: AI conference deadline countdowns
 - [GoogleChrome/samples](https://github.com/GoogleChrome/samples) - A repo containing samples tied to new functionality in each release of Google Chrome.
 - [docker/docker.github.io](https://github.com/docker/docker.github.io) - Source repo for Docker's Documentation
 - [Kasheftin/RoutePlanner](https://github.com/Kasheftin/RoutePlanner) - Simple free and open source tool for planning routes
@@ -3675,7 +3675,6 @@
 - [googlecreativelab/teachable-machine-v1](https://github.com/googlecreativelab/teachable-machine-v1) - Explore how machine learning works, live in the browser. No coding required.
 - [IonicaBizau/made-in-russia](https://github.com/IonicaBizau/made-in-russia) - 🇷🇺 Amazing projects made in Russia.
 - [lllyasviel/style2paints](https://github.com/lllyasviel/style2paints) - sketch + style = paints :art: (TOG2018/SIGGRAPH2018ASIA)
-- [facebook/relay](https://github.com/facebook/relay) - Relay is a JavaScript framework for building data-driven React applications.
 - [kodie/npm-gif](https://github.com/kodie/npm-gif) - Replace NPM install's progress bar with a GIF!
 - [vuejs/vue-test-utils](https://github.com/vuejs/vue-test-utils) - 🔬 Utilities for testing Vue components
 - [eclipsesource/tabris-js](https://github.com/eclipsesource/tabris-js) - Create native mobile apps in JavaScript or TypeScript.
@@ -4500,7 +4499,6 @@
 - [SemyonSinchenko/qmlcourse](https://github.com/SemyonSinchenko/qmlcourse) - Quantum Machine Learning Community Course
 - [ITMO-NSS-team/nas-fedot](https://github.com/ITMO-NSS-team/nas-fedot) - The implementation of the Neural Architecture Search based at the Fedot framework
 - [sail-sg/volo](https://github.com/sail-sg/volo) - VOLO: Vision Outlooker for Visual Recognition
-- [nccr-itmo/FEDOT](https://github.com/nccr-itmo/FEDOT) - Automated modeling and machine learning framework FEDOT
 - [khuyentran1401/Data-science](https://github.com/khuyentran1401/Data-science) - Collection of useful data science topics along with code and articles
 - [sentinel-hub/multi-temporal-super-resolution](https://github.com/sentinel-hub/multi-temporal-super-resolution) - Multi-temporal Super-Resolution on Sentinel-2 Imagery using Deimos
 - [czaloumi/transformers](https://github.com/czaloumi/transformers) - A lecture-style exploration of transformers.
@@ -4791,7 +4789,6 @@
 - [TreB1eN/InsightFace_Pytorch](https://github.com/TreB1eN/InsightFace_Pytorch) - Pytorch0.4.1 codes for InsightFace
 - [computing-intelligence/jupyters_and_slides](https://github.com/computing-intelligence/jupyters_and_slides) - 
 - [hoya012/CVPR-2019-Paper-Statistics](https://github.com/hoya012/CVPR-2019-Paper-Statistics) - Statistics and Visualization of acceptance rate, main keyword of CVPR 2019 accepted papers for the main Computer Vision conference (CVPR)
-- [NVIDIA/DeepLearningExamples](https://github.com/NVIDIA/DeepLearningExamples) - Deep Learning Examples
 - [uber/h3-py-notebooks](https://github.com/uber/h3-py-notebooks) - Jupyter notebooks for h3-py, a hierarchical hexagonal geospatial indexing system
 - [realpython/materials](https://github.com/realpython/materials) - Bonus materials, exercises, and example projects for our Python tutorials
 - [aws-samples/aws-deepracer-workshops](https://github.com/aws-samples/aws-deepracer-workshops) - DeepRacer workshop content
@@ -6832,7 +6829,7 @@
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [chrisalbon/theme_wmf](https://github.com/chrisalbon/theme_wmf) - A customized color theme for SublimeText 2 designed to help writing prose in markdown easier and more effective.
 - [swagger-api/swagger.io](https://github.com/swagger-api/swagger.io) - The content of swagger.io
-- [hangtwenty/dive-into-machine-learning](https://github.com/hangtwenty/dive-into-machine-learning) - Dive into Machine Learning with Python Jupyter notebook and scikit-learn!
+- [hangtwenty/dive-into-machine-learning](https://github.com/hangtwenty/dive-into-machine-learning) - Dive into Machine Learning with Python Jupyter notebook and scikit-learn! First posted in 2016, maintained as of 2021.
 - [binder-project/binder](https://github.com/binder-project/binder) - reproducible executable environments
 - [paul-nechifor/ohmu](https://github.com/paul-nechifor/ohmu) - View space usage in your terminal.
 - [bolshchikov/js-must-watch](https://github.com/bolshchikov/js-must-watch) - Must-watch videos about javascript
@@ -7014,7 +7011,7 @@
 - [I-Hope-Peace/SiamCRNN](https://github.com/I-Hope-Peace/SiamCRNN) - [TGRS 2020] Tensorflow implementation for Change Detection in Multisource VHR Images via Deep Siamese Convolutional Multiple-Layers Recurrent Neural Network
 - [I-Hope-Peace/ChangeDetectionRepository](https://github.com/I-Hope-Peace/ChangeDetectionRepository) - This repository contains some python code of some traditional change detection methods or provides their original websites, such as SFA, MAD, and some deep learning-based change detection methods, such as SiamCRNN, DSFA, and some FCN-based methods.
 - [justchenhao/STANet](https://github.com/justchenhao/STANet) - official implementation of the spatial-temporal attention neural network (STANet) for remote sensing image change detection
-- [LiheYoung/SenseEarth2020-ChangeDetection](https://github.com/LiheYoung/SenseEarth2020-ChangeDetection) - 1st place solution to the Satellite Image Change Detection Challenge hosted by SenseTime
+- [LiheYoung/SenseEarth2020-ChangeDetection](https://github.com/LiheYoung/SenseEarth2020-ChangeDetection) - 1st place solution to the Satellite Remote Sensing Image Change Detection Challenge hosted by SenseTime
 - [microsoft/DirectML](https://github.com/microsoft/DirectML) - DirectML is a high-performance, hardware-accelerated DirectX 12 library for machine learning. DirectML provides GPU acceleration for common machine learning tasks across a broad range of supported hardware and drivers, including all DirectX 12-capable GPUs from vendors such as AMD, Intel, NVIDIA, and Qualcomm.
 - [buildingnet/buildingnet_dataset](https://github.com/buildingnet/buildingnet_dataset) - 
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Create UIs for your machine learning model in Python in 3 minutes
@@ -7096,6 +7093,7 @@
 - [couler-proj/couler](https://github.com/couler-proj/couler) - Unified Interface for Constructing and Managing Workflows on different workflow engines, such as Argo Workflows, Tekton Pipelines, and Apache Airflow.
 - [google-research/deeplab2](https://github.com/google-research/deeplab2) - DeepLab2 is a TensorFlow library for deep labeling, aiming to provide a unified and state-of-the-art TensorFlow codebase for dense pixel labeling tasks.
 - [Sentdex/GANTheftAuto](https://github.com/Sentdex/GANTheftAuto) - 
+- [nccr-itmo/FEDOT](https://github.com/nccr-itmo/FEDOT) - Automated modeling and machine learning framework FEDOT
 - [deep-nlp-spring-2020/bert-distillation](https://github.com/deep-nlp-spring-2020/bert-distillation) - Proposal is to try to distill DeepPavlov RuBERT. Main paper is from huggingface https://arxiv.org/pdf/1910.01108.pdf
 - [andreasveit/densenet-pytorch](https://github.com/andreasveit/densenet-pytorch) - A PyTorch Implementation for Densely Connected Convolutional Networks (DenseNets)
 - [IBM/pytorchpipe](https://github.com/IBM/pytorchpipe) - PyTorchPipe (PTP) is a component-oriented framework for rapid prototyping and training of computational pipelines combining vision and language
@@ -7160,7 +7158,7 @@
 - [PennyLaneAI/pennylane](https://github.com/PennyLaneAI/pennylane) - PennyLane is a cross-platform Python library for differentiable programming of quantum computers.  Train a quantum computer the same way as a neural network.
 - [workingcoder/EDCNN](https://github.com/workingcoder/EDCNN) - EDCNN: Edge enhancement-based Densely Connected Network with Compound Loss for Low-Dose CT Denoising
 - [imlixinyang/HiSD](https://github.com/imlixinyang/HiSD) - Official pytorch implementation of paper "Image-to-image Translation via Hierarchical Style Disentanglement" (CVPR 2021 Oral).
-- [EdisonLeeeee/GraphGallery](https://github.com/EdisonLeeeee/GraphGallery) - GraphGallery is a gallery for benchmarking Graph Neural Networks (GNNs) and Graph Adversarial Learning with TensorFlow 2.x and PyTorch backend.
+- [EdisonLeeeee/GraphGallery](https://github.com/EdisonLeeeee/GraphGallery) - GraphGallery is a gallery for benchmarking Graph Neural Networks (GNNs).
 - [lucidrains/transformer-in-transformer](https://github.com/lucidrains/transformer-in-transformer) - Implementation of Transformer in Transformer, pixel level attention paired with patch level attention for image classification, in Pytorch
 - [xuanjihe/speech-emotion-recognition](https://github.com/xuanjihe/speech-emotion-recognition) - speech emotion recognition using a convolutional recurrent networks based on IEMOCAP
 - [lcswillems/torch-ac](https://github.com/lcswillems/torch-ac) - Recurrent and multi-process PyTorch implementation of deep reinforcement Actor-Critic algorithms A2C and PPO
@@ -7893,7 +7891,7 @@
 - [dagster-io/dagster](https://github.com/dagster-io/dagster) - An orchestration platform for the development, production, and observation of data assets.
 - [pbloem/former](https://github.com/pbloem/former) - Simple transformer implementation from scratch in pytorch.
 - [ShangtongZhang/reinforcement-learning-an-introduction](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction) - Python Implementation of Reinforcement Learning: An Introduction
-- [timgrossmann/InstaPy](https://github.com/timgrossmann/InstaPy) - 📷 Instagram Bot - Tool for automated Instagram interactions
+- [InstaPy/InstaPy](https://github.com/InstaPy/InstaPy) - 📷 Instagram Bot - Tool for automated Instagram interactions
 - [openshift/openshift-ansible](https://github.com/openshift/openshift-ansible) - Install and config an OpenShift 3.x cluster
 - [rougier/matplotlib-cheatsheet](https://github.com/rougier/matplotlib-cheatsheet) - Matplotlib 3.1 cheat sheet.
 - [mravanelli/pytorch-kaldi](https://github.com/mravanelli/pytorch-kaldi) - pytorch-kaldi is a project for developing state-of-the-art DNN/RNN hybrid speech recognition systems. The DNN part is managed by pytorch, while feature extraction, label computation, and decoding are performed with the kaldi toolkit.
@@ -7993,6 +7991,7 @@
 - [confluentinc/confluent-kafka-python](https://github.com/confluentinc/confluent-kafka-python) - Confluent's Kafka Python Client
 - [awslabs/aws-well-architected-labs](https://github.com/awslabs/aws-well-architected-labs) - Hands on labs and code to help you learn, measure, and build using architectural best practices.
 - [GoogleCloudPlatform/professional-services](https://github.com/GoogleCloudPlatform/professional-services) - Common solutions and tools developed by Google Cloud's Professional Services team
+- [NVIDIA/DeepLearningExamples](https://github.com/NVIDIA/DeepLearningExamples) - Deep Learning Examples
 - [deepinsight/insightface](https://github.com/deepinsight/insightface) - State-of-the-art 2D and 3D Face Analysis Project
 - [fizyr/keras-retinanet](https://github.com/fizyr/keras-retinanet) - Keras implementation of RetinaNet object detection.
 - [IDSIA/sacred](https://github.com/IDSIA/sacred) - Sacred is a tool to help you configure, organize, log and reproduce experiments developed at IDSIA.
@@ -10568,7 +10567,7 @@
 - [bersace/libnotify-proxy](https://github.com/bersace/libnotify-proxy) - Moved to https://gitlab.com/bersace/libnotify-proxy
 - [Netflix/bless](https://github.com/Netflix/bless) - Repository for BLESS, an SSH Certificate Authority that runs as a AWS Lambda function
 - [bharadwaj-raju/WeatherDesk](https://github.com/bharadwaj-raju/WeatherDesk) - MOVED: https://gitlab.com/bharadwaj-raju/WeatherDesk
-- [mozilla/OpenWPM](https://github.com/mozilla/OpenWPM) - A web privacy measurement framework
+- [openwpm/OpenWPM](https://github.com/openwpm/OpenWPM) - A web privacy measurement framework
 - [httpie/http-prompt](https://github.com/httpie/http-prompt) - An interactive command-line HTTP and API testing client built on top of HTTPie featuring autocomplete, syntax highlighting, and more. https://twitter.com/httpie
 - [agermanidis/TranscriptBot](https://github.com/agermanidis/TranscriptBot) - Auto-transcribe your meetings to Slack in real time
 - [shawnbrown/datatest](https://github.com/shawnbrown/datatest) - Tools for test driven data-wrangling and data validation.
@@ -13200,6 +13199,7 @@
 - [atom-archive/xray](https://github.com/atom-archive/xray) - An experimental next-generation Electron-based text editor
 - [sit-fyi/sit](https://github.com/sit-fyi/sit) - Serverless (offline-first, merge-friendly) Information Tracker
 - [openethereum/parity-ethereum](https://github.com/openethereum/parity-ethereum) - The fast, light, and robust client for Ethereum-like networks.
+- [facebook/relay](https://github.com/facebook/relay) - Relay is a JavaScript framework for building data-driven React applications.
 - [PyO3/pyo3](https://github.com/PyO3/pyo3) - Rust bindings for the Python interpreter
 - [analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis) - ⚙️ A curated list of static analysis (SAST) tools for all programming languages, config files, build tools, and more.
 - [exonum/exonum](https://github.com/exonum/exonum) - An extensible open-source framework for creating private/permissioned blockchain applications
@@ -13646,7 +13646,7 @@
 - [tweenjs/tween.js](https://github.com/tweenjs/tween.js) - JavaScript/TypeScript animation engine
 - [flant/grafana-statusmap](https://github.com/flant/grafana-statusmap) - Grafana panel plugin to visualize status of multiple objects over time
 - [eykrehbein/strest](https://github.com/eykrehbein/strest) - ⚡️ CI-ready tests for REST APIs configured in YAML
-- [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 An interplanetary communication platform 🚀
+- [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 An interplanetary microblogging platform 🚀
 - [Yancey-Blog/BLOG_DESKTOP](https://github.com/Yancey-Blog/BLOG_DESKTOP) - Yancey Official Blog for PC.
 - [reduxjs/react-redux](https://github.com/reduxjs/react-redux) - Official React bindings for Redux
 - [vscode-org-mode/vscode-org-mode](https://github.com/vscode-org-mode/vscode-org-mode) - Emacs Org Mode for Visual Studio Code
