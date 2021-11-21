@@ -488,7 +488,7 @@
 - [MLJejuCamp2017/DRL_based_SelfDrivingCarControl](https://github.com/MLJejuCamp2017/DRL_based_SelfDrivingCarControl) - Deep Reinforcement Learning (DQN) based Self Driving Car Control with Vehicle Simulator
 - [dvf/blockchain](https://github.com/dvf/blockchain) - A simple Blockchain in Python
 - [Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents) - Unity Machine Learning Agents Toolkit
-- [electroly/sqlnotebook](https://github.com/electroly/sqlnotebook) - Tabular data exploration and manipulation tool powered by SQLite
+- [electroly/sqlnotebook](https://github.com/electroly/sqlnotebook) - Windows app for casual data exploration
 - [migueldeicaza/TensorFlowSharp](https://github.com/migueldeicaza/TensorFlowSharp) - TensorFlow API for .NET languages
 - [pojala/electrino](https://github.com/pojala/electrino) - Desktop runtime for apps built on web technologies, using the system's own web browser engine
 - [udacity/self-driving-car-sim](https://github.com/udacity/self-driving-car-sim) - A self-driving car simulator built with Unity
@@ -4526,7 +4526,7 @@
 - [facebookresearch/vissl](https://github.com/facebookresearch/vissl) - VISSL is FAIR's library of extensible, modular and scalable components for SOTA Self-Supervised Learning with images.
 - [robertmartin8/PyPortfolioOpt](https://github.com/robertmartin8/PyPortfolioOpt) - Financial portfolio optimisation in python, including classical efficient frontier, Black-Litterman, Hierarchical Risk Parity
 - [CompVis/taming-transformers](https://github.com/CompVis/taming-transformers) - Taming Transformers for High-Resolution Image Synthesis
-- [AI4Finance-Foundation/FinRL](https://github.com/AI4Finance-Foundation/FinRL) - Deep Reinforcement Learning Framework to Automate Trading in Quantitative Finance. NeurIPS 2020 & ICAIF 2021. Please star. 🔥
+- [AI4Finance-Foundation/FinRL](https://github.com/AI4Finance-Foundation/FinRL) - FinRL: Financial Reinforcement Learning Framework.🔥
 - [orpatashnik/StyleCLIP](https://github.com/orpatashnik/StyleCLIP) - Official Implementation for "StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery" (ICCV 2021 Oral)
 - [karpathy/deep-vector-quantization](https://github.com/karpathy/deep-vector-quantization) - VQVAEs, GumbelSoftmaxes and friends
 - [jackroos/VL-BERT](https://github.com/jackroos/VL-BERT) - Code for ICLR 2020 paper "VL-BERT: Pre-training of Generic Visual-Linguistic Representations".
@@ -6829,7 +6829,7 @@
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [chrisalbon/theme_wmf](https://github.com/chrisalbon/theme_wmf) - A customized color theme for SublimeText 2 designed to help writing prose in markdown easier and more effective.
 - [swagger-api/swagger.io](https://github.com/swagger-api/swagger.io) - The content of swagger.io
-- [hangtwenty/dive-into-machine-learning](https://github.com/hangtwenty/dive-into-machine-learning) - Dive into Machine Learning with Python Jupyter notebook and scikit-learn! First posted in 2016, maintained as of 2021.
+- [hangtwenty/dive-into-machine-learning](https://github.com/hangtwenty/dive-into-machine-learning) - Dive into Machine Learning with Python Jupyter notebook and scikit-learn! First posted in 2016, maintained as of 2021. Pull requests welcome.
 - [binder-project/binder](https://github.com/binder-project/binder) - reproducible executable environments
 - [paul-nechifor/ohmu](https://github.com/paul-nechifor/ohmu) - View space usage in your terminal.
 - [bolshchikov/js-must-watch](https://github.com/bolshchikov/js-must-watch) - Must-watch videos about javascript
@@ -6984,6 +6984,7 @@
 
 ## Python 
 
+- [PyAV-Org/PyAV](https://github.com/PyAV-Org/PyAV) - ﻿﻿Pythonic bindings for FFmpeg's libraries.
 - [Janspiry/Image-Super-Resolution-via-Iterative-Refinement](https://github.com/Janspiry/Image-Super-Resolution-via-Iterative-Refinement) - Unoffical implementation about Image Super-Resolution via Iterative Refinement by Pytorch
 - [jiupinjia/rocket-recycling](https://github.com/jiupinjia/rocket-recycling) - Rocket-recycling with Reinforcement Learning
 - [open-mmlab/mmflow](https://github.com/open-mmlab/mmflow) - OpenMMLab optical flow toolbox and benchmark
@@ -13368,7 +13369,7 @@
 - [alexanderepstein/Bash-Snippets](https://github.com/alexanderepstein/Bash-Snippets) - A collection of small bash scripts for heavy terminal users
 - [Langhalsdino/Kubernetes-GPU-Guide](https://github.com/Langhalsdino/Kubernetes-GPU-Guide) - This guide should help fellow researchers and hobbyists to easily automate and accelerate there deep leaning training with their own Kubernetes GPU cluster.
 - [EOSIO/eos-token-distribution](https://github.com/EOSIO/eos-token-distribution) - 
-- [OWASP/owasp-mstg](https://github.com/OWASP/owasp-mstg) - The Mobile Security Testing Guide (MSTG) is a comprehensive manual for mobile app security development, testing and reverse engineering.
+- [OWASP/owasp-mstg](https://github.com/OWASP/owasp-mstg) - The Mobile Security Testing Guide (MSTG) is a comprehensive manual for mobile app security testing and reverse engineering. It describes the technical processes for verifying the controls listed in the OWASP Mobile Application Security Verification Standard (MASVS).
 - [rust-lang-nursery/rust-cookbook](https://github.com/rust-lang-nursery/rust-cookbook) - https://rust-lang-nursery.github.io/rust-cookbook
 - [MichielDerhaeg/build-linux](https://github.com/MichielDerhaeg/build-linux) - A short tutorial about building Linux based operating systems.
 - [OpenVPN/easy-rsa](https://github.com/OpenVPN/easy-rsa) - easy-rsa - Simple shell based CA utility
