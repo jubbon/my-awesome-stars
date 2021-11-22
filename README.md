@@ -301,7 +301,6 @@
 - [kroitor/gjk.c](https://github.com/kroitor/gjk.c) - Gilbert-Johnson-Keerthi (GJK) collision detection algorithm in 200 lines of clean plain C
 - [openresty/openresty](https://github.com/openresty/openresty) - High Performance Web Platform Based on Nginx and LuaJIT
 - [bol-van/zapret](https://github.com/bol-van/zapret) - Обход DPI в linux
-- [Tencent/ncnn](https://github.com/Tencent/ncnn) - ncnn is a high-performance neural network inference framework optimized for the mobile platform
 - [astrofrog/fast-histogram](https://github.com/astrofrog/fast-histogram) - :zap: Fast 1D and 2D histogram functions in Python :zap:
 - [Cisco-Talos/pyrebox](https://github.com/Cisco-Talos/pyrebox) - Python scriptable Reverse Engineering Sandbox, a Virtual Machine instrumentation and inspection framework based on QEMU
 - [pramsey/pgsql-ogr-fdw](https://github.com/pramsey/pgsql-ogr-fdw) - PostgreSQL foreign data wrapper for OGR
@@ -798,6 +797,7 @@
 - [Hopson97/MineCraft-One-Week-Challenge](https://github.com/Hopson97/MineCraft-One-Week-Challenge) - I challenged myself to see if I could create a voxel game (Minecraft-like) in just one week using C++ and OpenGL, and here is the result
 - [jarulraj/sqlcheck](https://github.com/jarulraj/sqlcheck) - Automatically identify anti-patterns in SQL queries
 - [Blizzard/s2client-api](https://github.com/Blizzard/s2client-api) - StarCraft II Client - C++ library supported on Windows, Linux and Mac designed for building scripted bots and research using the SC2API.
+- [Tencent/ncnn](https://github.com/Tencent/ncnn) - ncnn is a high-performance neural network inference framework optimized for the mobile platform
 - [argman/EAST](https://github.com/argman/EAST) - A tensorflow implementation of EAST text detector
 - [moderngl/moderngl](https://github.com/moderngl/moderngl) - Modern OpenGL binding for python
 - [materialx/MaterialX](https://github.com/materialx/MaterialX) - MaterialX is an open standard for the exchange of rich material and look-development content across applications and renderers.
@@ -1113,6 +1113,7 @@
 - [UndeadSec/SocialFish](https://github.com/UndeadSec/SocialFish) - Phishing Tool & Information Collector
 - [dinkbit/epoch](https://github.com/dinkbit/epoch) - A simple but powerful Epoch converter
 - [webkul/micron](https://github.com/webkul/micron) - a [μ] microInteraction library built with CSS Animations and controlled by JavaScript Power
+- [rmusser01/Infosec_Reference](https://github.com/rmusser01/Infosec_Reference) - An Information Security Reference That Doesn't Suck; https://rmusser.net/git/admin-2/Infosec_Reference for non-MS Git hosted version.
 - [jbtronics/CrookedStyleSheets](https://github.com/jbtronics/CrookedStyleSheets) - Webpage tracking only using CSS (and no JS)
 - [rtCamp/VueTheme](https://github.com/rtCamp/VueTheme) - WordPress theme using Rest API and Vue.js
 - [amitmishrg/lib4dev](https://github.com/amitmishrg/lib4dev) - Find awesome libraries and make your development fast.
@@ -4466,6 +4467,7 @@
 
 ## Jupyter Notebook 
 
+- [huggingface/workshops](https://github.com/huggingface/workshops) - Materials for workshops on the Hugging Face ecosystem
 - [milaan9/DataScience_Interview_Questions](https://github.com/milaan9/DataScience_Interview_Questions) - My Solutions to 120 commonly asked data science interview questions.
 - [sberbank-ai/htr_datasets](https://github.com/sberbank-ai/htr_datasets) - Repository containing our datasets for HTR (handwritten text recognition) task.
 - [v-iashin/SpecVQGAN](https://github.com/v-iashin/SpecVQGAN) - Source code for "Taming Visually Guided Sound Generation" (Oral at the BMVC 2021)
@@ -5067,7 +5069,6 @@
 - [ternaus/robot-surgery-segmentation](https://github.com/ternaus/robot-surgery-segmentation) - Wining solution and its improvement for MICCAI 2017 Robotic Instrument Segmentation Sub-Challenge
 - [ignacio-rocco/detectorch](https://github.com/ignacio-rocco/detectorch) - Detectorch - detectron for PyTorch
 - [microsoft/Quantum](https://github.com/microsoft/Quantum) - Microsoft Quantum Development Kit Samples
-- [AtsushiSakai/PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) - Python sample codes for robotics algorithms.
 - [kuk/parallel-cell](https://github.com/kuk/parallel-cell) - 
 - [kodiaklabs/MovieSentimentClassification](https://github.com/kodiaklabs/MovieSentimentClassification) - A brief tutorial on NLP via sentiment classification, Jupyter notebooks, feature creation, and exploritory data analysis.
 - [L1aoXingyu/code-of-learn-deep-learning-with-pytorch](https://github.com/L1aoXingyu/code-of-learn-deep-learning-with-pytorch) - This is code of book "Learn Deep Learning with PyTorch"
@@ -5897,6 +5898,7 @@
 
 ## Others 
 
+- [huggingface/s3prl](https://github.com/huggingface/s3prl) - Self-Supervised Speech Pre-training and Representation Learning Toolkit.
 - [yandex-cloud/docs](https://github.com/yandex-cloud/docs) - Yandex.Cloud documentation
 - [MinZHANG-WHU/Change-Detection-Review](https://github.com/MinZHANG-WHU/Change-Detection-Review) - A review of change detection methods, including codes and open data sets for deep learning.  From paper: change detection based on artificial intelligence: state-of-the-art and challenges.
 - [wenhwu/awesome-remote-sensing-change-detection](https://github.com/wenhwu/awesome-remote-sensing-change-detection) - List of datasets, codes, and contests related to remote sensing change detection
@@ -6383,7 +6385,6 @@
 - [bnb/awesome-developer-streams](https://github.com/bnb/awesome-developer-streams) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻 Awesome Developers, Streaming
 - [Artemmkin/infrastructure-as-code-tutorial](https://github.com/Artemmkin/infrastructure-as-code-tutorial) - Infrastructure As Code Tutorial. Covers Packer, Terraform, Ansible, Vagrant, Docker, Docker Compose, Kubernetes
 - [anu0012/awesome-computer-science-opportunities](https://github.com/anu0012/awesome-computer-science-opportunities) - An awesome list of events and fellowship opportunities for Computer Science students
-- [rmusser01/Infosec_Reference](https://github.com/rmusser01/Infosec_Reference) - An Information Security Reference That Doesn't Suck; https://rmusser.net/git/admin-2/Infosec_Reference for non-MS Git hosted version.
 - [vuejs/roadmap](https://github.com/vuejs/roadmap) - 🗺️ Roadmap for the Vue.js project (archive)
 - [VueMeetups/meetup-help](https://github.com/VueMeetups/meetup-help) - Help for starting up and running a local Vue.js Meetup group
 - [0x4D31/awesome-threat-detection](https://github.com/0x4D31/awesome-threat-detection) - A curated list of awesome threat detection and hunting resources
@@ -6984,6 +6985,7 @@
 
 ## Python 
 
+- [huggingface/optimum](https://github.com/huggingface/optimum) - 
 - [PyAV-Org/PyAV](https://github.com/PyAV-Org/PyAV) - ﻿﻿Pythonic bindings for FFmpeg's libraries.
 - [Janspiry/Image-Super-Resolution-via-Iterative-Refinement](https://github.com/Janspiry/Image-Super-Resolution-via-Iterative-Refinement) - Unoffical implementation about Image Super-Resolution via Iterative Refinement by Pytorch
 - [jiupinjia/rocket-recycling](https://github.com/jiupinjia/rocket-recycling) - Rocket-recycling with Reinforcement Learning
@@ -8824,6 +8826,7 @@
 - [omikun/ForceNap](https://github.com/omikun/ForceNap) - Suspend any one Mac OS apps when not in focus
 - [jaywink/socialhome](https://github.com/jaywink/socialhome) - A federated social home
 - [sa7mon/S3Scanner](https://github.com/sa7mon/S3Scanner) - Scan for open S3 buckets and dump the contents
+- [AtsushiSakai/PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) - Python sample codes for robotics algorithms.
 - [netromdk/vermin](https://github.com/netromdk/vermin) - Concurrently detect the minimum Python versions needed to run code
 - [thonmakerformvp/econ-sim](https://github.com/thonmakerformvp/econ-sim) - An attempt to simulate markets and economies in python.
 - [tomahim/py-image-dataset-generator](https://github.com/tomahim/py-image-dataset-generator) - Get a large image dataset with minimal effort by grabbing image through the web and generate new ones by image augmentation.
