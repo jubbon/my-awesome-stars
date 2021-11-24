@@ -965,7 +965,6 @@
 - [osquery/osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
 - [hrastnik/FaceSwap](https://github.com/hrastnik/FaceSwap) - Real-time FaceSwap application built with OpenCV and dlib
 - [facebook/rocksdb](https://github.com/facebook/rocksdb) - A library that provides an embeddable, persistent key-value store for fast storage.
-- [realm/realm-js](https://github.com/realm/realm-js) - Realm is a mobile database: an alternative to SQLite & key-value stores
 - [tensorflow/serving](https://github.com/tensorflow/serving) - A flexible, high-performance serving system for machine learning models
 - [microsoft/caffe](https://github.com/microsoft/caffe) - Caffe on both Linux and Windows
 - [microsoft/CNTK](https://github.com/microsoft/CNTK) - Microsoft Cognitive Toolkit (CNTK), an open source deep-learning toolkit
@@ -2215,7 +2214,7 @@
 
 - [yandex-cloud/yc-solution-library-for-security](https://github.com/yandex-cloud/yc-solution-library-for-security) - 
 - [wandb/local](https://github.com/wandb/local) - W&B Local is the self hosted version of Weights & Biases
-- [jcolemorrison/vault-on-aws](https://github.com/jcolemorrison/vault-on-aws) - A secure Vault for secrets, tokens, keys,  passwords, and more.  Automated deployment with Terraform on AWS.  Configurable options for security and scalability.  Usable with any applications and services hosted anywhere.
+- [jcolemorrison/vault-on-aws](https://github.com/jcolemorrison/vault-on-aws) - A secure HashiCorp Vault for secrets, tokens, keys,  passwords, and more.  Automated deployment with Terraform on AWS.  Configurable options for security and scalability.  Usable with any applications and services hosted anywhere.
 - [antonbabenko/terraform-best-practices](https://github.com/antonbabenko/terraform-best-practices) - Terraform best practices (constantly updating)
 - [hashicorp/best-practices](https://github.com/hashicorp/best-practices) - 
 
@@ -4163,6 +4162,7 @@
 - [viart/grunt-connect-rewrite](https://github.com/viart/grunt-connect-rewrite) - Provides RewriteRules middleware for the grunt connect / express.
 - [elesdoar/ui-leaflet-layers](https://github.com/elesdoar/ui-leaflet-layers) - Angular UI Leaflet Layers Plugin
 - [apiguy/flask-classy](https://github.com/apiguy/flask-classy) - Class based views for Flask
+- [realm/realm-js](https://github.com/realm/realm-js) - Realm is a mobile database: an alternative to SQLite & key-value stores
 - [angular/quickstart](https://github.com/angular/quickstart) - Angular QuickStart - source from the documentation
 - [germanattanasio/visual-recognition-nodejs](https://github.com/germanattanasio/visual-recognition-nodejs) - DEPRECATED: this repo is no longer actively maintained
 - [thomaspark/bootswatch](https://github.com/thomaspark/bootswatch) - Themes for Bootstrap
@@ -6985,6 +6985,8 @@
 
 ## Python 
 
+- [github/copilot-docs](https://github.com/github/copilot-docs) - Documentation for GitHub Copilot
+- [seatgeek/thefuzz](https://github.com/seatgeek/thefuzz) - Fuzzy String Matching in Python
 - [huggingface/optimum](https://github.com/huggingface/optimum) - 
 - [PyAV-Org/PyAV](https://github.com/PyAV-Org/PyAV) - ﻿﻿Pythonic bindings for FFmpeg's libraries.
 - [Janspiry/Image-Super-Resolution-via-Iterative-Refinement](https://github.com/Janspiry/Image-Super-Resolution-via-Iterative-Refinement) - Unoffical implementation about Image Super-Resolution via Iterative Refinement by Pytorch
@@ -7388,7 +7390,7 @@
 - [Garfinkel/GithubDataVisTool](https://github.com/Garfinkel/GithubDataVisTool) - 
 - [as-ideas/TransformerTTS](https://github.com/as-ideas/TransformerTTS) - 🤖💬 Transformer TTS: Implementation of a non-autoregressive Transformer based neural network for text to speech.
 - [nccgroup/ScoutSuite](https://github.com/nccgroup/ScoutSuite) - Multi-Cloud Security Auditing Tool
-- [Azure/azure-sdk-for-python](https://github.com/Azure/azure-sdk-for-python) - This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/en-us/python/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-python.
+- [Azure/azure-sdk-for-python](https://github.com/Azure/azure-sdk-for-python) - This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/python/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-python.
 - [hunglc007/tensorflow-yolov4-tflite](https://github.com/hunglc007/tensorflow-yolov4-tflite) - YOLOv4, YOLOv4-tiny, YOLOv3, YOLOv3-tiny Implemented in Tensorflow 2.0, Android. Convert YOLO v4 .weights tensorflow, tensorrt and tflite
 - [senguptaumd/Background-Matting](https://github.com/senguptaumd/Background-Matting) - Background Matting: The World is Your Green Screen
 - [florimondmanca/awesome-asgi](https://github.com/florimondmanca/awesome-asgi) - A curated list of awesome ASGI servers, frameworks, apps, libraries, and other resources
@@ -12591,7 +12593,7 @@
 - [openfaux/openfaux-server](https://github.com/openfaux/openfaux-server) - Browser add-on for encrypting and masking internet traffic.
 - [ecdavis/pants](https://github.com/ecdavis/pants) - A lightweight framework for writing asynchronous network applications in Python.
 - [imtapps/django-request-signer](https://github.com/imtapps/django-request-signer) - 
-- [yourlabs/django-autocomplete-light](https://github.com/yourlabs/django-autocomplete-light) - A fresh approach to autocomplete implementations, specially for Django. Status: v3 stable, 2.x.x stable, 1.x.x deprecated. Please DO regularely ping us with your link at #yourlabs IRC channel
+- [yourlabs/django-autocomplete-light](https://github.com/yourlabs/django-autocomplete-light) - A fresh approach to autocomplete implementations, specially for Django. Status: v4 alpha, v3 stable, v2 & v1 deprecated.
 - [andychase/pipeless](https://github.com/andychase/pipeless) - Simple pipeline building framework
 - [regosen/gallery_get](https://github.com/regosen/gallery_get) - Python suite for batch-downloading images from galleries
 - [NYUCCL/psiTurk](https://github.com/NYUCCL/psiTurk) - An open platform for science on Amazon Mechanical Turk.
@@ -13357,7 +13359,7 @@
 - [moscow-technologies/ag-blockchain](https://github.com/moscow-technologies/ag-blockchain) - 
 - [sb2nov/mac-setup](https://github.com/sb2nov/mac-setup) - Installing Development environment on macOS
 - [geo-data/openstreetmap-tiles-docker](https://github.com/geo-data/openstreetmap-tiles-docker) - The OpenStreetMap Tile Server in a Docker container
-- [getsentry/self-hosted](https://github.com/getsentry/self-hosted) - Sentry, feature-complete and packaged up for low-volume deployments and proofs-of-concept 👍
+- [getsentry/self-hosted](https://github.com/getsentry/self-hosted) - Sentry, feature-complete and packaged up for low-volume deployments and proofs-of-concept
 - [docker-library/docs](https://github.com/docker-library/docs) - Documentation for Docker Official Images in docker-library
 - [awslabs/git-secrets](https://github.com/awslabs/git-secrets) - Prevents you from committing secrets and credentials into git repositories
 - [learnbyexample/Command-line-text-processing](https://github.com/learnbyexample/Command-line-text-processing) - :zap: From finding text to search and replace, from sorting to beautifying text and more :art:
@@ -13755,7 +13757,7 @@
 - [vuestorefront/vue-storefront](https://github.com/vuestorefront/vue-storefront) - The open-source frontend for any eCommerce. Built with a PWA and headless approach, using a modern JS stack. We have custom integrations with Magento, commercetools, Shopware and Shopify and total coverage is just a matter of time. The API approach also allows you to merge VSF with any third-party tool like CMS, payment gateways or analytics. Newest updates: https://blog.vuestorefront.io. Always Open Source, MIT license.
 - [clintonwoo/hackernews-react-graphql](https://github.com/clintonwoo/hackernews-react-graphql) - Hacker News clone rewritten with universal JavaScript, using React and GraphQL.
 - [reiinakano/fast-style-transfer-deeplearnjs](https://github.com/reiinakano/fast-style-transfer-deeplearnjs) - Demo of in-browser Fast Neural Style Transfer with deeplearn.js library
-- [Azure/autorest](https://github.com/Azure/autorest) - OpenAPI (f.k.a Swagger) Specification code generator. Supports C#, PowerShell, Go, Java, Node.js, TypeScript, Python, Ruby
+- [Azure/autorest](https://github.com/Azure/autorest) - OpenAPI (f.k.a Swagger) Specification code generator. Supports C#, PowerShell, Go, Java, Node.js, TypeScript, Python
 - [graphql/graphql-js](https://github.com/graphql/graphql-js) - A reference implementation of GraphQL for JavaScript
 - [graphql/graphql-playground](https://github.com/graphql/graphql-playground) - 🎮  GraphQL IDE for better development workflows (GraphQL Subscriptions, interactive docs & collaboration)
 - [youzan/vant](https://github.com/youzan/vant) - Lightweight Mobile UI Components built on Vue
