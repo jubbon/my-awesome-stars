@@ -2899,7 +2899,6 @@
 
 - [prabhuomkar/iris](https://github.com/prabhuomkar/iris) - Open Source Photos Platform Powered by PyTorch. Submission for PyTorch Annual Hackathon 2021.
 - [thunlp/WantWords](https://github.com/thunlp/WantWords) - An open-source online reverse dictionary.
-- [deepnote/notebook](https://github.com/deepnote/notebook) - Modified version of jupyter notebook to enable replay of messages.
 - [sberbank-ai-lab/lightautoml-datafest-workshop](https://github.com/sberbank-ai-lab/lightautoml-datafest-workshop) - Materials for LightAutoML workshop (DataFest 2021)
 - [Jelmerro/Vieb](https://github.com/Jelmerro/Vieb) - Vim Inspired Electron Browser - Vim bindings for the web by design
 - [node-fetch/node-fetch](https://github.com/node-fetch/node-fetch) - A light-weight module that brings the Fetch API to Node.js
@@ -6985,6 +6984,7 @@
 
 ## Python 
 
+- [abhishekkrthakur/mlspace](https://github.com/abhishekkrthakur/mlspace) - MLSpace: Hassle-free machine learning & deep learning development
 - [github/copilot-docs](https://github.com/github/copilot-docs) - Documentation for GitHub Copilot
 - [seatgeek/thefuzz](https://github.com/seatgeek/thefuzz) - Fuzzy String Matching in Python
 - [huggingface/optimum](https://github.com/huggingface/optimum) - 
@@ -10034,7 +10034,7 @@
 - [hanzhanggit/StackGAN](https://github.com/hanzhanggit/StackGAN) - 
 - [rougier/from-python-to-numpy](https://github.com/rougier/from-python-to-numpy) - An open-access book on numpy vectorization techniques, Nicolas P. Rougier, 2017
 - [abalkin/pytest-leaks](https://github.com/abalkin/pytest-leaks) - A pytest plugin to trace resource leaks.
-- [h2non/pook](https://github.com/h2non/pook) - HTTP traffic mocking and testing made simple in Python
+- [h2non/pook](https://github.com/h2non/pook) - HTTP traffic mocking and testing made easy in Python
 - [openai/universe-starter-agent](https://github.com/openai/universe-starter-agent) - A starter agent that can solve a number of universe environments.
 - [heynemann/octopus](https://github.com/heynemann/octopus) - octopus is a library to concurrently retrieve and report on the completion of http requests.
 - [SpectoLabs/hoverpy](https://github.com/SpectoLabs/hoverpy) - Python library for Hoverfly (now obsolete)
