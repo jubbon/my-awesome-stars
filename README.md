@@ -3716,7 +3716,6 @@
 - [trufflesuite/truffle](https://github.com/trufflesuite/truffle) - A tool for developing smart contracts. Crafted with the finest cacaos.
 - [ectoflow/vue-stripe-elements](https://github.com/ectoflow/vue-stripe-elements) - A Vue 2 component collection for Stripe.js
 - [standard-things/esm](https://github.com/standard-things/esm) - Tomorrow's ECMAScript modules today!
-- [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of diagrams.net
 - [luosijie/vue-resume](https://github.com/luosijie/vue-resume) - Resume template based on Vue
 - [notifme/notifme-sdk](https://github.com/notifme/notifme-sdk) - A Node.js library to send all kinds of transactional notifications.
 - [ncase/trust](https://github.com/ncase/trust) - An interactive guide to the game theory of cooperation
@@ -4270,7 +4269,6 @@
 - [d3/d3-shape](https://github.com/d3/d3-shape) - Graphical primitives for visualization, such as lines and areas.
 - [CSNW/d3.compose](https://github.com/CSNW/d3.compose) - Compose complex, data-driven visualizations from reusable charts and components with d3
 - [nefe/You-Dont-Need-jQuery](https://github.com/nefe/You-Dont-Need-jQuery) - Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript.
-- [babel/babel](https://github.com/babel/babel) - 🐠 Babel is a compiler for writing next generation JavaScript.
 - [callmecavs/jump.js](https://github.com/callmecavs/jump.js) - A modern smooth scrolling library.
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 - [vuejs/vue](https://github.com/vuejs/vue) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
@@ -4572,7 +4570,7 @@
 - [ibrahimjelliti/Deeplearning.ai-Natural-Language-Processing-Specialization](https://github.com/ibrahimjelliti/Deeplearning.ai-Natural-Language-Processing-Specialization) - This repository contains my full work and notes on Coursera's NLP Specialization (Natural Language Processing) taught by the instructor Younes Bensouda Mourri and Łukasz Kaiser offered by deeplearning.ai
 - [curiousily/Getting-Things-Done-with-Pytorch](https://github.com/curiousily/Getting-Things-Done-with-Pytorch) - Jupyter Notebook tutorials on solving real-world problems with Machine Learning & Deep Learning using PyTorch. Topics: Face detection with Detectron 2, Time Series anomaly detection with LSTM Autoencoders, Object Detection with YOLO v5, Build your first Neural Network, Time Series forecasting for Coronavirus daily cases, Sentiment Analysis with BERT.
 - [stefan-jansen/machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading) - Code for Machine Learning for Algorithmic Trading, 2nd edition.
-- [data-science-on-aws/workshop](https://github.com/data-science-on-aws/workshop) - AI and Machine Learning with Kubeflow, Amazon EKS, and SageMaker
+- [data-science-on-aws/oreilly_book](https://github.com/data-science-on-aws/oreilly_book) - AI and Machine Learning with Kubeflow, Amazon EKS, and SageMaker
 - [LetsUpgrade/Python-Essentials](https://github.com/LetsUpgrade/Python-Essentials) - 
 - [tg-bomze/Style-Transfer-Collection](https://github.com/tg-bomze/Style-Transfer-Collection) - Colabs Collection of style transfer in photo and video
 - [iot-salzburg/gpu-jupyter](https://github.com/iot-salzburg/gpu-jupyter) - Leverage the flexibility of Jupyterlab through the power of your NVIDIA GPU to run your code from Tensorflow and Pytorch in collaborative notebooks on the GPU.
@@ -7538,7 +7536,7 @@
 - [PaddlePaddle/PaddleHub](https://github.com/PaddlePaddle/PaddleHub) - Awesome pre-trained models toolkit based on PaddlePaddle.(300+ models including Image, Text, Audio and Video with Easy Inference & Serving deployment)
 - [ihmeuw-msca/CurveFit](https://github.com/ihmeuw-msca/CurveFit) - Generic curve fitting package with nonlinear mixed effects model
 - [allenai/aristo-mini](https://github.com/allenai/aristo-mini) - Aristo mini is a light-weight question answering system that can quickly evaluate Aristo science questions with an evaluation web server and the provided baseline solvers.
-- [microsoft/Microsoft-Rocketbox](https://github.com/microsoft/Microsoft-Rocketbox) - Microsoft Rocketbox is now available with MIT license! The library of 115 rigged avatars offers flexibility, enabling the easy use of facial animations across characters and the mixing and matching of texture elements.
+- [microsoft/Microsoft-Rocketbox](https://github.com/microsoft/Microsoft-Rocketbox) - Microsoft Rocketbox is now available with MIT license! The library of 115 rigged avatars offers flexibility, enabling the easy use of animations across characters and the mixing and matching of texture elements.
 - [xinleipan/gym-gridworld](https://github.com/xinleipan/gym-gridworld) - Simple grid-world environment compatible with OpenAI-gym
 - [asteroid-team/asteroid](https://github.com/asteroid-team/asteroid) - The PyTorch-based audio source separation toolkit for researchers
 - [DEAP/deap](https://github.com/DEAP/deap) - Distributed Evolutionary Algorithms in Python
@@ -10658,7 +10656,7 @@
 - [mjtamlyn/django-adapters](https://github.com/mjtamlyn/django-adapters) - Constructible, introspectable serializers and forms
 - [threat9/routersploit](https://github.com/threat9/routersploit) - Exploitation Framework for Embedded Devices
 - [nficano/python-lambda](https://github.com/nficano/python-lambda) - A toolkit for developing and deploying serverless Python code in AWS Lambda.
-- [mouradmourafiq/pandas-summary](https://github.com/mouradmourafiq/pandas-summary) - An extension to pandas dataframes describe function.
+- [mouradmourafiq/datatile](https://github.com/mouradmourafiq/datatile) - A library for managing, summarizing, and visualizing data.
 - [mvantellingen/python-zeep](https://github.com/mvantellingen/python-zeep) - A modern/fast python SOAP client based on lxml / requests
 - [ianmiell/shutit](https://github.com/ianmiell/shutit) - Automation framework for programmers
 - [facebook/fbtftp](https://github.com/facebook/fbtftp) - fbtftp is Facebook's implementation of a dynamic TFTP server framework.
@@ -13161,7 +13159,7 @@
 - [mispy-archive/ebooks_example](https://github.com/mispy-archive/ebooks_example) - Example of a full twitter_ebooks bot definition
 - [mispy-archive/twitter_ebooks](https://github.com/mispy-archive/twitter_ebooks) - Better twitterbots for all your friends~
 - [tmuxinator/tmuxinator](https://github.com/tmuxinator/tmuxinator) - Manage complex tmux sessions easily
-- [cucumber/cucumber-ruby](https://github.com/cucumber/cucumber-ruby) - Cucumber for Ruby
+- [cucumber/cucumber-ruby](https://github.com/cucumber/cucumber-ruby) - Cucumber for Ruby. It's amazing!
 - [devopsgroup-io/vagrant-digitalocean](https://github.com/devopsgroup-io/vagrant-digitalocean) - :droplet: A Vagrant provider plugin that manages DigitalOcean droplets.
 - [sensepost/heartbleed-poc](https://github.com/sensepost/heartbleed-poc) - Test for SSL heartbeat vulnerability (CVE-2014-0160)
 - [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
@@ -13367,6 +13365,7 @@
 - [vincentchu/eth-private-net](https://github.com/vincentchu/eth-private-net) - Create your own Ethereum private net
 - [kaldi-asr/kaldi](https://github.com/kaldi-asr/kaldi) - kaldi-asr/kaldi is the official location of the Kaldi project.
 - [serverless/guide](https://github.com/serverless/guide) - Serverless Guide - An open-source definitive guide to serverless architectures.
+- [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of diagrams.net
 - [Miserlou/lambda-packages](https://github.com/Miserlou/lambda-packages) - Various popular python libraries, pre-compiled to be compatible with AWS Lambda
 - [ApolloAuto/apollo-kernel](https://github.com/ApolloAuto/apollo-kernel) - Collections of Apollo Kernels
 - [JasonRivers/Docker-nginx-rtmp](https://github.com/JasonRivers/Docker-nginx-rtmp) - Docker Image for RTMP streams using Nginx
@@ -13856,6 +13855,7 @@
 - [n3-charts/line-chart](https://github.com/n3-charts/line-chart) - Awesome charts for AngularJS.
 - [howdyai/botkit](https://github.com/howdyai/botkit) - Botkit is an open source developer tool for building chat bots, apps and custom integrations for major messaging platforms.
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
+- [babel/babel](https://github.com/babel/babel) - 🐠 Babel is a compiler for writing next generation JavaScript.
 - [remix-run/react-router](https://github.com/remix-run/react-router) - Declarative routing for React
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [highcharts/highcharts](https://github.com/highcharts/highcharts) - Highcharts JS, the JavaScript charting framework
