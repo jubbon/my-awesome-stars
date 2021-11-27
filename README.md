@@ -3046,7 +3046,7 @@
 - [kefranabg/readme-md-generator](https://github.com/kefranabg/readme-md-generator) - 📄 CLI that generates beautiful README.md files
 - [Janglee123/eplee](https://github.com/Janglee123/eplee) - Sweet, simple epub reader
 - [traffordDataLab/leaflet.reachability](https://github.com/traffordDataLab/leaflet.reachability) - Plugin for the Leaflet JavaScript library to show areas of reachability based on time or distance for different modes of travel using the openrouteservice isochrones API.
-- [timqian/star-history](https://github.com/timqian/star-history) - The missing star history graph of github repos
+- [bytebase/star-history](https://github.com/bytebase/star-history) - The missing star history graph of github repos
 - [metafizzy/zdog](https://github.com/metafizzy/zdog) - Flat, round, designer-friendly pseudo-3D engine for canvas & SVG
 - [mathieudutour/medium-to-own-blog](https://github.com/mathieudutour/medium-to-own-blog) - Switch from Medium to your own blog in a few minutes
 - [QingWei-Li/laue](https://github.com/QingWei-Li/laue) - 🖖📈 Modern charts for Vue 2.0
@@ -10714,7 +10714,6 @@
 - [dodger487/dplython](https://github.com/dodger487/dplython) - dplyr for python
 - [owocki/pytrader](https://github.com/owocki/pytrader) - cryptocurrency trading robot
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
-- [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [dparlevliet/rwrapper](https://github.com/dparlevliet/rwrapper) - A python wrapper class for RethinkDB
 - [JackStouffer/cookiecutter-Flask-Foundation](https://github.com/JackStouffer/cookiecutter-Flask-Foundation) - Cookiecutter fork of Flask Foundation
 - [danielmagnussons/orgmode](https://github.com/danielmagnussons/orgmode) - orgmode is for keeping notes, maintaining TODO lists, planning projects, and authoring documents with a fast and effective plain-text system.
@@ -13848,6 +13847,7 @@
 - [graphile/postgraphile](https://github.com/graphile/postgraphile) - Execute one command (or mount one Node.js middleware) and get an instant high-performance GraphQL API for your PostgreSQL database!
 - [feathersjs/feathers](https://github.com/feathersjs/feathers) - A framework for real-time applications and REST APIs with JavaScript and TypeScript
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - 📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!
+- [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [phodal/growth-ionic](https://github.com/phodal/growth-ionic) - [v2.0 DEPRECATED, please update to Growth 3.0] Growth - App to help you Be Awesome Developer & Awesome Hacker
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
