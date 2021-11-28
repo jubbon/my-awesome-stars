@@ -9394,7 +9394,7 @@
 - [requests/requests-threads](https://github.com/requests/requests-threads) - 🎭 Twisted Deferred Thread backend for Requests.
 - [ParthS007/background](https://github.com/ParthS007/background) - Runs things in the background.
 - [yeraydiazdiaz/asyncio-ftwpd](https://github.com/yeraydiazdiaz/asyncio-ftwpd) - Code for the examples on my article in Medium AsyncIO for the Working Python Developer
-- [pshah123/console-logging](https://github.com/pshah123/console-logging) - Better, prettier commandline logging for Python--with colors! :ghost:
+- [cuuupid/console-logging](https://github.com/cuuupid/console-logging) - Better, prettier commandline logging for Python--with colors! :ghost:
 - [smythtech/sdnpwn](https://github.com/smythtech/sdnpwn) - An SDN penetration testing toolkit
 - [emeryberger/CSrankings](https://github.com/emeryberger/CSrankings) - A web app for ranking computer science departments according to their research output in selective venues, and for finding active faculty across a wide range of areas.
 - [astorfi/speechpy](https://github.com/astorfi/speechpy) - :speech_balloon: SpeechPy - A Library for Speech Processing and Recognition: http://speechpy.readthedocs.io/en/latest/
