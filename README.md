@@ -2262,7 +2262,7 @@
 - [SamProf/MatBlazor](https://github.com/SamProf/MatBlazor) - Material Design components for Blazor and Razor Components
 - [daolf/Most-recommended-programming-books](https://github.com/daolf/Most-recommended-programming-books) - The most recommended programming books of all-time.
 - [becauseofAI/HelloFace](https://github.com/becauseofAI/HelloFace) - An awesome face technology repository.
-- [cobidev/simplefolio](https://github.com/cobidev/simplefolio) - ⚡️ A minimal portfolio template for Developers
+- [C0B1T0/simplefolio](https://github.com/C0B1T0/simplefolio) - ⚡️ A minimal portfolio template for Developers
 - [JordanSchuetz/LearnCS8-Resume](https://github.com/JordanSchuetz/LearnCS8-Resume) - Resume template website for the LearnCS8 Lab 3
 - [allisonhorst/esm244-w2020-lab5](https://github.com/allisonhorst/esm244-w2020-lab5) - Lab week 5: exploring time series data, intro to forecasting
 - [rstudio-conf-2020/intro-to-ml-tidy](https://github.com/rstudio-conf-2020/intro-to-ml-tidy) - Intro to Machine Learning with the Tidyverse
@@ -6155,7 +6155,6 @@
 - [lorin/resilience-engineering](https://github.com/lorin/resilience-engineering) - Resilience engineering papers
 - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
 - [RomuloOliveira/commit-messages-guide](https://github.com/RomuloOliveira/commit-messages-guide) - A guide to understand the importance of commit messages and how to write them well
-- [fritzlabs/Awesome-Mobile-Machine-Learning](https://github.com/fritzlabs/Awesome-Mobile-Machine-Learning) - A curated list of awesome mobile machine learning resources for iOS, Android, and edge devices.
 - [tensorflow/mlir](https://github.com/tensorflow/mlir) - "Multi-Level Intermediate Representation" Compiler Infrastructure
 - [joe-siyuan-qiao/WeightStandardization](https://github.com/joe-siyuan-qiao/WeightStandardization) - Standardizing weights to accelerate micro-batch training
 - [OsamaElzero/Frontend-Tools](https://github.com/OsamaElzero/Frontend-Tools) - All Tools and Technologies Needed for Front-End Developers
@@ -6982,6 +6981,7 @@
 
 ## Python 
 
+- [airctic/icevision](https://github.com/airctic/icevision) - An Agnostic Computer Vision Framework - Pluggable to any Training Library: Fastai, Pytorch-Lightning with more to come
 - [abhishekkrthakur/mlspace](https://github.com/abhishekkrthakur/mlspace) - MLSpace: Hassle-free machine learning & deep learning development
 - [github/copilot-docs](https://github.com/github/copilot-docs) - Documentation for GitHub Copilot
 - [seatgeek/thefuzz](https://github.com/seatgeek/thefuzz) - Fuzzy String Matching in Python
@@ -7589,7 +7589,7 @@
 - [Kaggle/docker-python](https://github.com/Kaggle/docker-python) - Kaggle Python docker image
 - [werner-duvaud/muzero-general](https://github.com/werner-duvaud/muzero-general) - MuZero
 - [cosmicpython/book](https://github.com/cosmicpython/book) - A Book about Pythonic Application Architecture Patterns for Managing Complexity.  Cosmos is the Opposite of Chaos you see. O'R. wouldn't actually let us call it "Cosmic Python" tho.
-- [polakowo/vectorbt](https://github.com/polakowo/vectorbt) - Supercharged backtesting and technical analysis for quants
+- [polakowo/vectorbt](https://github.com/polakowo/vectorbt) - Next-gen framework for backtesting, algorithmic trading, and research. Blazingly fast. Flexible. Pandas friendly.
 - [ayooshkathuria/pytorch-yolo-v3](https://github.com/ayooshkathuria/pytorch-yolo-v3) - A PyTorch implementation of the YOLO v3 object detection algorithm
 - [kotartemiy/newscatcher](https://github.com/kotartemiy/newscatcher) - Programmatically collect normalized news from (almost) any website.
 - [Mukosame/Zooming-Slow-Mo-CVPR-2020](https://github.com/Mukosame/Zooming-Slow-Mo-CVPR-2020) - Fast and Accurate One-Stage Space-Time Video Super-Resolution (accepted in CVPR 2020)
@@ -7832,7 +7832,7 @@
 - [machrisaa/tensorflow-vgg](https://github.com/machrisaa/tensorflow-vgg) - VGG19 and VGG16 on Tensorflow
 - [google-research/text-to-text-transfer-transformer](https://github.com/google-research/text-to-text-transfer-transformer) - Code for the paper "Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer"
 - [yzhao062/anomaly-detection-resources](https://github.com/yzhao062/anomaly-detection-resources) - Anomaly detection related books, papers, videos, and toolboxes
-- [facebookresearch/detectron2](https://github.com/facebookresearch/detectron2) - Detectron2 is FAIR's next-generation platform for object detection, segmentation and other visual recognition tasks.
+- [facebookresearch/detectron2](https://github.com/facebookresearch/detectron2) - Detectron2 is a platform for object detection, segmentation and other visual recognition tasks.
 - [tensortrade-org/tensortrade](https://github.com/tensortrade-org/tensortrade) - An open source reinforcement learning framework for training, evaluating, and deploying robust trading agents.
 - [adl1995/trip-planner](https://github.com/adl1995/trip-planner) - A CLI tool for planning trip itinerary.
 - [sepandhaghighi/pyrgg](https://github.com/sepandhaghighi/pyrgg) - 🔧 Python Random Graph Generator
@@ -8267,7 +8267,6 @@
 - [lufficc/SSD](https://github.com/lufficc/SSD) - High quality, fast, modular reference implementation of SSD in PyTorch
 - [DHI-GRAS/terracotta](https://github.com/DHI-GRAS/terracotta) - A light-weight, versatile XYZ tile server, built with Flask and Rasterio :earth_africa:
 - [MIC-DKFZ/trixi](https://github.com/MIC-DKFZ/trixi) - Manage your machine learning experiments with trixi - modular, reproducible, high fashion. An experiment infrastructure optimized for PyTorch, but flexible enough to work for your framework and your tastes.
-- [fritzlabs/fritz-models](https://github.com/fritzlabs/fritz-models) - Train and deploy machine learning models for mobile apps with Fritz AI.
 - [optuna/optuna](https://github.com/optuna/optuna) - A hyperparameter optimization framework
 - [micah5/sneaker-generator](https://github.com/micah5/sneaker-generator) - 👟 DCGAN that generates shoes
 - [facebookresearch/VideoPose3D](https://github.com/facebookresearch/VideoPose3D) - Efficient 3D human pose estimation in video using 2D keypoint trajectories
@@ -10656,7 +10655,7 @@
 - [mjtamlyn/django-adapters](https://github.com/mjtamlyn/django-adapters) - Constructible, introspectable serializers and forms
 - [threat9/routersploit](https://github.com/threat9/routersploit) - Exploitation Framework for Embedded Devices
 - [nficano/python-lambda](https://github.com/nficano/python-lambda) - A toolkit for developing and deploying serverless Python code in AWS Lambda.
-- [mouradmourafiq/datatile](https://github.com/mouradmourafiq/datatile) - A library for managing, summarizing, and visualizing data.
+- [polyaxon/datatile](https://github.com/polyaxon/datatile) - A library for managing, summarizing, and visualizing data.
 - [mvantellingen/python-zeep](https://github.com/mvantellingen/python-zeep) - A modern/fast python SOAP client based on lxml / requests
 - [ianmiell/shutit](https://github.com/ianmiell/shutit) - Automation framework for programmers
 - [facebook/fbtftp](https://github.com/facebook/fbtftp) - fbtftp is Facebook's implementation of a dynamic TFTP server framework.
@@ -13563,6 +13562,7 @@
 - [0xGG/vscode-crossnote](https://github.com/0xGG/vscode-crossnote) - (WIP) Turn your VSCode into a decent markdown note taking platform
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [Redocly/redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation
+- [emqx/MQTTX](https://github.com/emqx/MQTTX) - MQTT X - Elegant Cross-platform MQTT 5.0 Desktop Client
 - [microsoft/BotFramework-Composer](https://github.com/microsoft/BotFramework-Composer) - Dialog creation and management for Microsoft Bot Framework Applications
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [explosion/jupyterlab-prodigy](https://github.com/explosion/jupyterlab-prodigy) - 🧬 A JupyterLab extension for annotating data with Prodigy
@@ -13897,7 +13897,6 @@
 
 - [averkij/a-studio](https://github.com/averkij/a-studio) - Lingtrain Alignment Studio is an ML based app for texts alignment on different languages. It can produce parallel corpora and parallel books.
 - [cdqa-suite/cdQA-annotator](https://github.com/cdqa-suite/cdQA-annotator) - ⛔ [NOT MAINTAINED] A web-based annotator for closed-domain question answering datasets with SQuAD format.
-- [emqx/MQTTX](https://github.com/emqx/MQTTX) - MQTT X - Elegant Cross-platform MQTT 5.0 Desktop Client
 - [tiangolo/flask-frontend-docker](https://github.com/tiangolo/flask-frontend-docker) - Minimal project generator with a Flask backend, a modern frontend (Vue, React or Angular), a Traefik load balancer with HTTPS, all based on Docker.
 - [vuepress-reco/vuepress-theme-reco](https://github.com/vuepress-reco/vuepress-theme-reco) - 💥 A simple and beautiful vuepress Blog & Doc theme.
 - [CareyWang/sub-web](https://github.com/CareyWang/sub-web) - 
@@ -14061,7 +14060,7 @@
 - [ClickerMonkey/dayspan-vuetify](https://github.com/ClickerMonkey/dayspan-vuetify) - A collection of components that visualizes DaySpan Calendars and Schedules using Vuetify
 - [vueComponent/ant-design-vue](https://github.com/vueComponent/ant-design-vue) - 🌈  An enterprise-class UI components based on Ant Design and Vue. 🐜
 - [BlackMix/vue-genesis-forms](https://github.com/BlackMix/vue-genesis-forms) - 📚 Easily create forms in Vue.js
-- [ulivz/vue-foldable](https://github.com/ulivz/vue-foldable) - 🌗 Highly customizable foldable component for Vue.js
+- [aamayamaa/vue-foldable](https://github.com/aamayamaa/vue-foldable) - 🌗 Highly customizable foldable component for Vue.js
 - [ademilter/Frame](https://github.com/ademilter/Frame) - New-tab extension for Chrome and Firefox
 - [mgbq/nx-admin](https://github.com/mgbq/nx-admin) - 👍 A magical   🐮  ⚔  vue admin，记得star
 - [konaraddi/web-riimote](https://github.com/konaraddi/web-riimote) - :tada: Turn your smartphone into a 3D controller with a web app
