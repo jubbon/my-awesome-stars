@@ -1480,6 +1480,7 @@
 - [postgis/docker-postgis](https://github.com/postgis/docker-postgis) - Docker image for PostGIS
 - [badtuxx/giropops-monitoring](https://github.com/badtuxx/giropops-monitoring) - Full stack tools for monitoring containers and other stuff. ;)
 - [BioContainers/containers](https://github.com/BioContainers/containers) - Bioinformatics containers
+- [dimmg/dockselpy](https://github.com/dimmg/dockselpy) - Dockerized Selenium and Python with support for Chrome, Firefox and PhantomJS
 - [linuxserver/docker-letsencrypt](https://github.com/linuxserver/docker-letsencrypt) - DEPRECATED: Please use linuxserver/swag instead
 - [bohanyang/onemirror](https://github.com/bohanyang/onemirror) - Docker image for nginx with already configured Google Search proxy
 - [PagerDuty/incident-response-docs](https://github.com/PagerDuty/incident-response-docs) - PagerDuty's Incident Response Documentation.
@@ -2808,7 +2809,7 @@
 - [pbakondy/cordova-plugin-sim](https://github.com/pbakondy/cordova-plugin-sim) - :cherries: A cordova plugin to get the device's SIM data (carrier name, mcc mnc, country code, telephonenumber, etc)
 - [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle) - Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.
 - [CameraKit/camerakit-android](https://github.com/CameraKit/camerakit-android) - Library for Android Camera 1 and 2 APIs. Massively increase stability and reliability of photo and video capture on all Android devices.
-- [graphhopper/graphhopper](https://github.com/graphhopper/graphhopper) - Open source routing engine for OpenStreetMap. Use it as Java library or server.
+- [graphhopper/graphhopper](https://github.com/graphhopper/graphhopper) - Open source routing engine for OpenStreetMap. Use it as Java library or standalone web server.
 - [gocd/gocd](https://github.com/gocd/gocd) - Main repository for GoCD - Continuous Delivery server
 - [tomthecarrot/arcore-for-all](https://github.com/tomthecarrot/arcore-for-all) - Google ARCore (dev preview 1) for "unsupported" Android devices
 - [apache/incubator-doris](https://github.com/apache/incubator-doris) - Apache Doris (Incubating)
@@ -3018,7 +3019,6 @@
 - [ricklamers/gridstudio](https://github.com/ricklamers/gridstudio) - Grid studio is a web-based application for data science with full integration of open source data science frameworks and languages.
 - [UsulPro/js-stack-from-scratch](https://github.com/UsulPro/js-stack-from-scratch) - 🌺 Russian translation of "JavaScript Stack from Scratch" from the React-Theming developers https://github.com/sm-react/react-theming
 - [Tencent/weui.js](https://github.com/Tencent/weui.js) - A lightweight javascript library for WeUI.
-- [outline/outline](https://github.com/outline/outline) - The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, and markdown compatible.
 - [aws-solutions/serverless-image-handler](https://github.com/aws-solutions/serverless-image-handler) - A solution to dynamically handle images on the fly, utilizing SharpJS
 - [NetEase/pomelo](https://github.com/NetEase/pomelo) - A fast,scalable,distributed game server framework for Node.js.
 - [PanJiaChen/vue-admin-template](https://github.com/PanJiaChen/vue-admin-template) - a vue2.0 minimal admin template
@@ -5955,7 +5955,7 @@
 - [balavenkatesh3322/NLP-pretrained-model](https://github.com/balavenkatesh3322/NLP-pretrained-model) - A collection of Natural language processing pre-trained models.
 - [balavenkatesh3322/CV-pretrained-model](https://github.com/balavenkatesh3322/CV-pretrained-model) - A collection of computer vision pre-trained models.
 - [ugurkanates/awesome-real-world-rl](https://github.com/ugurkanates/awesome-real-world-rl) - Great resources for making Reinforcement Learning work in Real Life situations. Papers,projects and more.
-- [MLNLP-World/NLP-Conferences-Code](https://github.com/MLNLP-World/NLP-Conferences-Code) - NLP-Conferences-Papers-with-Code (ACL、EMNL、NAACL、COLING、AAAI、IJCAI)
+- [MLNLP-World/Top-Conferences-Paper-with-Code](https://github.com/MLNLP-World/Top-Conferences-Paper-with-Code) - Top-Conferences-Paper-with-Code (ACL、EMNLP、NAACL、COLING、AAAI、IJCAI、NeurIPS、ICLR and etc)
 - [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
 - [elyase/awesome-gpt3](https://github.com/elyase/awesome-gpt3) - 
 - [cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications) - Curated list of free courses & certifications
@@ -6981,6 +6981,8 @@
 
 ## Python 
 
+- [shtechair/vqa-sva](https://github.com/shtechair/vqa-sva) - Structured Attentions for Visual Question Answering
+- [zhuchen03/gradinit](https://github.com/zhuchen03/gradinit) - Learning to Initialize Neural Networks for Stable and Efficient Training
 - [airctic/icevision](https://github.com/airctic/icevision) - An Agnostic Computer Vision Framework - Pluggable to any Training Library: Fastai, Pytorch-Lightning with more to come
 - [abhishekkrthakur/mlspace](https://github.com/abhishekkrthakur/mlspace) - MLSpace: Hassle-free machine learning & deep learning development
 - [github/copilot-docs](https://github.com/github/copilot-docs) - Documentation for GitHub Copilot
@@ -7589,7 +7591,7 @@
 - [Kaggle/docker-python](https://github.com/Kaggle/docker-python) - Kaggle Python docker image
 - [werner-duvaud/muzero-general](https://github.com/werner-duvaud/muzero-general) - MuZero
 - [cosmicpython/book](https://github.com/cosmicpython/book) - A Book about Pythonic Application Architecture Patterns for Managing Complexity.  Cosmos is the Opposite of Chaos you see. O'R. wouldn't actually let us call it "Cosmic Python" tho.
-- [polakowo/vectorbt](https://github.com/polakowo/vectorbt) - Next-gen framework for backtesting, algorithmic trading, and research. Blazingly fast. Flexible. Pandas friendly.
+- [polakowo/vectorbt](https://github.com/polakowo/vectorbt) - Next-gen framework for backtesting, algorithmic trading, and research. Blazingly fast. Super accurate. Pandas friendly.
 - [ayooshkathuria/pytorch-yolo-v3](https://github.com/ayooshkathuria/pytorch-yolo-v3) - A PyTorch implementation of the YOLO v3 object detection algorithm
 - [kotartemiy/newscatcher](https://github.com/kotartemiy/newscatcher) - Programmatically collect normalized news from (almost) any website.
 - [Mukosame/Zooming-Slow-Mo-CVPR-2020](https://github.com/Mukosame/Zooming-Slow-Mo-CVPR-2020) - Fast and Accurate One-Stage Space-Time Video Super-Resolution (accepted in CVPR 2020)
@@ -9267,7 +9269,6 @@
 - [chenyuntc/scene-baseline](https://github.com/chenyuntc/scene-baseline) - PyTorch baseline for AI challenger Scene classification
 - [cusiman7/Static-Fire](https://github.com/cusiman7/Static-Fire) - Static Fire is an engine for creating static websites, primarily blogs.
 - [dyike/CTEmail](https://github.com/dyike/CTEmail) - Chart and text in Email
-- [dimmg/dockselpy](https://github.com/dimmg/dockselpy) - Dockerized Selenium and Python with support for Chrome, Firefox and PhantomJS
 - [SlugocM/bayesfit](https://github.com/SlugocM/bayesfit) - Bayesian Psychometric Curve Fitting Tool
 - [nickromano/product-release-notes](https://github.com/nickromano/product-release-notes) - Release notes page for your product that follows iTunes and Google Play
 - [citusdata/django-multitenant](https://github.com/citusdata/django-multitenant) - Python/Django support for distributed multi-tenant databases like Postgres+Citus
@@ -12990,7 +12991,7 @@
 - [ndphillips/FFTrees](https://github.com/ndphillips/FFTrees) - An R package to create and visualise fast-and-frugal decision trees (FFTs)
 - [tidyverse/stringr](https://github.com/tidyverse/stringr) - A fresh approach to string manipulation in R
 - [jdblischak/workflowr](https://github.com/jdblischak/workflowr) - Organize your project into a research website
-- [jimhester/lintr](https://github.com/jimhester/lintr) - Static Code Analysis for R
+- [r-lib/lintr](https://github.com/r-lib/lintr) - Static Code Analysis for R
 - [r-lib/testthat](https://github.com/r-lib/testthat) - An R 📦 to make testing 😀
 - [ropensci/osmplotr](https://github.com/ropensci/osmplotr) - Data visualisation using OpenStreetMap objects
 - [hafen/geofacet](https://github.com/hafen/geofacet) - R package for geographical faceting with ggplot2
@@ -13592,6 +13593,7 @@
 - [aws-amplify/docs](https://github.com/aws-amplify/docs) - AWS Amplify Framework Documentation
 - [marmelab/react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design
 - [directus/directus](https://github.com/directus/directus) - Open-Source Data Platform 🐰  — Directus wraps any SQL database with a real-time GraphQL+REST API and an intuitive app for non-technical users.
+- [outline/outline](https://github.com/outline/outline) - The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, and markdown compatible.
 - [heremaps/harp.gl](https://github.com/heremaps/harp.gl) - 3D web map rendering engine written in TypeScript using three.js
 - [openmobilityfoundation/mds-core](https://github.com/openmobilityfoundation/mds-core) - An implementation of an MDS Agency Server written in Typescript
 - [vuejs/composition-api](https://github.com/vuejs/composition-api) - Composition API plugin for Vue 2
@@ -14260,7 +14262,7 @@
 - [AStaroverov/vue-toast](https://github.com/AStaroverov/vue-toast) - toasts for vuejs
 - [NewDadaFE/vue-impression](https://github.com/NewDadaFE/vue-impression) - A Vue.js 2.0 UI elements for mobile.
 - [littlewin-wang/Zhihu_Daily](https://github.com/littlewin-wang/Zhihu_Daily) - :newspaper: A Zhihu_Daily Web demo made by Vue.js
-- [fuckPolicia/vue-instant](https://github.com/fuckPolicia/vue-instant) - vue instant allows you to easily create custom search controls with auto suggestions for your vue 2 applications
+- [santiblanko/vue-instant](https://github.com/santiblanko/vue-instant) - vue instant allows you to easily create custom search controls with auto suggestions for your vue 2 applications
 - [hifarer/vueditor](https://github.com/hifarer/vueditor) - A wysiwyg editor written in Vue.js and Vuex.js
 - [yeyuqiudeng/vue-lazy-render](https://github.com/yeyuqiudeng/vue-lazy-render) - A vue component for lazy rending vue component
 - [vuwe/vuwe](https://github.com/vuwe/vuwe) - WeUI for Vue2
