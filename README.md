@@ -1468,7 +1468,6 @@
 - [odoo/docker](https://github.com/odoo/docker) - 
 - [amaysim-au/docker-serverless](https://github.com/amaysim-au/docker-serverless) - Docker image containing NodeJS, Serverless Framework and Yarn.
 - [mapsme/dockerfiles](https://github.com/mapsme/dockerfiles) - 
-- [mediagis/nominatim-docker](https://github.com/mediagis/nominatim-docker) - 100% working container for Nominatim
 - [crazycapivara/docker-kepler.gl](https://github.com/crazycapivara/docker-kepler.gl) - kepler.gl in a box
 - [nodejs/docker-node](https://github.com/nodejs/docker-node) - Official Docker Image for Node.js :whale: :turtle: :rocket:
 - [jessfraz/dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
@@ -1557,7 +1556,7 @@
 - [hoanhan101/ultimate-go](https://github.com/hoanhan101/ultimate-go) - The Ultimate Go Study Guide
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [opencontainers/runc](https://github.com/opencontainers/runc) - CLI tool for spawning and running containers according to the OCI specification
-- [didi/nightingale](https://github.com/didi/nightingale) - 💡 A Distributed and High-Performance Monitoring System.  The next generation of Open-Falcon
+- [didi/nightingale](https://github.com/didi/nightingale) - 💡 A Distributed and High-Performance Monitoring System.  Prometheus enterprise edition
 - [yolossn/Prometheus-Basics](https://github.com/yolossn/Prometheus-Basics) - A beginner friendly introduction to prometheus 🔥
 - [prometheus/client_golang](https://github.com/prometheus/client_golang) - Prometheus instrumentation library for Go applications
 - [elastic/cloud-on-k8s](https://github.com/elastic/cloud-on-k8s) - Elastic Cloud on Kubernetes
@@ -3627,7 +3626,7 @@
 - [yishn/tikzcd-editor](https://github.com/yishn/tikzcd-editor) - A simple visual editor for creating commutative diagrams.
 - [franciscop/server](https://github.com/franciscop/server) - :desktop_computer: Simple and powerful server for Node.js
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (November 2021)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (December 2021)
 - [frappe/charts](https://github.com/frappe/charts) - Simple, responsive, modern SVG Charts with zero dependencies
 - [elesdoar/leaflet-control-orderlayers](https://github.com/elesdoar/leaflet-control-orderlayers) - Leaflet control with order functionality
 - [google/bottery](https://github.com/google/bottery) - 
@@ -4464,6 +4463,7 @@
 
 ## Jupyter Notebook 
 
+- [vespa-engine/sample-apps](https://github.com/vespa-engine/sample-apps) - Repository of sample applications
 - [huggingface/workshops](https://github.com/huggingface/workshops) - Materials for workshops on the Hugging Face ecosystem
 - [milaan9/DataScience_Interview_Questions](https://github.com/milaan9/DataScience_Interview_Questions) - My Solutions to 120 commonly asked data science interview questions.
 - [sberbank-ai/htr_datasets](https://github.com/sberbank-ai/htr_datasets) - Repository containing our datasets for HTR (handwritten text recognition) task.
@@ -4788,6 +4788,7 @@
 - [TreB1eN/InsightFace_Pytorch](https://github.com/TreB1eN/InsightFace_Pytorch) - Pytorch0.4.1 codes for InsightFace
 - [computing-intelligence/jupyters_and_slides](https://github.com/computing-intelligence/jupyters_and_slides) - 
 - [hoya012/CVPR-2019-Paper-Statistics](https://github.com/hoya012/CVPR-2019-Paper-Statistics) - Statistics and Visualization of acceptance rate, main keyword of CVPR 2019 accepted papers for the main Computer Vision conference (CVPR)
+- [NVIDIA/DeepLearningExamples](https://github.com/NVIDIA/DeepLearningExamples) - Deep Learning Examples
 - [uber/h3-py-notebooks](https://github.com/uber/h3-py-notebooks) - Jupyter notebooks for h3-py, a hierarchical hexagonal geospatial indexing system
 - [realpython/materials](https://github.com/realpython/materials) - Bonus materials, exercises, and example projects for our Python tutorials
 - [aws-samples/aws-deepracer-workshops](https://github.com/aws-samples/aws-deepracer-workshops) - DeepRacer workshop content
@@ -7323,7 +7324,7 @@
 - [Palashio/libra](https://github.com/Palashio/libra) - Ergonomic machine learning for everyone.
 - [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [Rapptz/discord.py](https://github.com/Rapptz/discord.py) - An API wrapper for Discord written in Python.
-- [PaddlePaddle/PaddleDetection](https://github.com/PaddlePaddle/PaddleDetection) - Object detection and instance segmentation toolkit based on PaddlePaddle.
+- [PaddlePaddle/PaddleDetection](https://github.com/PaddlePaddle/PaddleDetection) - Object Detection toolkit based on PaddlePaddle. It supports object detection, instance segmentation, multiple object tracking and real-time multi-person keypoint detection.
 - [ankitects/anki](https://github.com/ankitects/anki) - Anki for desktop computers
 - [vinayak-mehta/present](https://github.com/vinayak-mehta/present) - A terminal-based presentation tool with colors and effects.
 - [lyft/l5kit](https://github.com/lyft/l5kit) - L5Kit - level5.lyft.com
@@ -7996,7 +7997,6 @@
 - [confluentinc/confluent-kafka-python](https://github.com/confluentinc/confluent-kafka-python) - Confluent's Kafka Python Client
 - [awslabs/aws-well-architected-labs](https://github.com/awslabs/aws-well-architected-labs) - Hands on labs and code to help you learn, measure, and build using architectural best practices.
 - [GoogleCloudPlatform/professional-services](https://github.com/GoogleCloudPlatform/professional-services) - Common solutions and tools developed by Google Cloud's Professional Services team
-- [NVIDIA/DeepLearningExamples](https://github.com/NVIDIA/DeepLearningExamples) - Deep Learning Examples
 - [deepinsight/insightface](https://github.com/deepinsight/insightface) - State-of-the-art 2D and 3D Face Analysis Project
 - [fizyr/keras-retinanet](https://github.com/fizyr/keras-retinanet) - Keras implementation of RetinaNet object detection.
 - [IDSIA/sacred](https://github.com/IDSIA/sacred) - Sacred is a tool to help you configure, organize, log and reproduce experiments developed at IDSIA.
@@ -13308,6 +13308,7 @@
 - [pi-hole/docker-pi-hole](https://github.com/pi-hole/docker-pi-hole) - Pi-hole in a docker container
 - [lakshayg/tensorflow-build-archived](https://github.com/lakshayg/tensorflow-build-archived) - TensorFlow binaries supporting AVX, FMA, SSE
 - [redcode-labs/Revssl](https://github.com/redcode-labs/Revssl) - A script that automates generation of OpenSSL reverse shells
+- [mediagis/nominatim-docker](https://github.com/mediagis/nominatim-docker) - 100% working container for Nominatim
 - [wiktorn/Overpass-API](https://github.com/wiktorn/Overpass-API) - Overpass API docker image
 - [mediasuitenz/docker-overpass-api](https://github.com/mediasuitenz/docker-overpass-api) - Docker Overpass API
 - [cdrx/docker-pyinstaller](https://github.com/cdrx/docker-pyinstaller) - PyInstaller for Linux and Windows inside Docker
@@ -13572,7 +13573,7 @@
 - [pulumi/examples](https://github.com/pulumi/examples) - Infrastructure, containers, and serverless apps to AWS, Azure, GCP, and Kubernetes... all deployed with Pulumi
 - [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - Browser fingerprinting library with the highest accuracy and stability.
 - [facebookresearch/hiplot](https://github.com/facebookresearch/hiplot) - HiPlot makes understanding high dimensional data easy
-- [coreui/coreui-vue](https://github.com/coreui/coreui-vue) - Over 90 Bootstrap based Vue.js components and directives. CoreUI Vue.js UI Components. CoreUI for Vue.js replaces and extends the Bootstrap javascript. Components have been built from scratch as true Vue components, without jQuery and unneeded dependencies.
+- [coreui/coreui-vue](https://github.com/coreui/coreui-vue) - Bootstrap 5 based Vue 3 components and directives. CoreUI for Vue.js replaces and extends the Bootstrap 5 javascript. Components have been built from scratch as true Vue 3 components.
 - [lostintangent/gistpad](https://github.com/lostintangent/gistpad) - VS Code extension for managing and sharing code snippets, notes and interactive samples using GitHub Gists
 - [RocketChat/docs](https://github.com/RocketChat/docs) - Rocket.Chat's user documentation.
 - [openvinotoolkit/cvat](https://github.com/openvinotoolkit/cvat) - Powerful and efficient Computer Vision Annotation Tool (CVAT)
