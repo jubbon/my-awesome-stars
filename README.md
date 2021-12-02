@@ -3045,7 +3045,7 @@
 - [kefranabg/readme-md-generator](https://github.com/kefranabg/readme-md-generator) - 📄 CLI that generates beautiful README.md files
 - [Janglee123/eplee](https://github.com/Janglee123/eplee) - Sweet, simple epub reader
 - [traffordDataLab/leaflet.reachability](https://github.com/traffordDataLab/leaflet.reachability) - Plugin for the Leaflet JavaScript library to show areas of reachability based on time or distance for different modes of travel using the openrouteservice isochrones API.
-- [bytebase/star-history](https://github.com/bytebase/star-history) - The missing star history graph of github repos
+- [bytebase/star-history](https://github.com/bytebase/star-history) - The missing star history graph of GitHub repos www.star-history.com
 - [metafizzy/zdog](https://github.com/metafizzy/zdog) - Flat, round, designer-friendly pseudo-3D engine for canvas & SVG
 - [mathieudutour/medium-to-own-blog](https://github.com/mathieudutour/medium-to-own-blog) - Switch from Medium to your own blog in a few minutes
 - [QingWei-Li/laue](https://github.com/QingWei-Li/laue) - 🖖📈 Modern charts for Vue 2.0
@@ -6994,7 +6994,7 @@
 - [jiupinjia/rocket-recycling](https://github.com/jiupinjia/rocket-recycling) - Rocket-recycling with Reinforcement Learning
 - [open-mmlab/mmflow](https://github.com/open-mmlab/mmflow) - OpenMMLab optical flow toolbox and benchmark
 - [PaddlePaddle/PaddleSeg](https://github.com/PaddlePaddle/PaddleSeg) - Easy-to-use image segmentation library with awesome pre-trained model zoo, supporting wide-range of practical tasks from research to industrial applications.
-- [MenghaoGuo/Awesome-Vision-Attentions](https://github.com/MenghaoGuo/Awesome-Vision-Attentions) - Summary of related papers on visual attention
+- [MenghaoGuo/Awesome-Vision-Attentions](https://github.com/MenghaoGuo/Awesome-Vision-Attentions) - Summary of related papers on visual attention. Related code will be released based on Jittor gradually.
 - [NITRO-AI/NitroFE](https://github.com/NITRO-AI/NitroFE) - NitroFE is a Python feature engineering engine which provides a variety of modules designed to internally save past dependent values for providing continuous calculation.
 - [microsoft/varuna](https://github.com/microsoft/varuna) - 
 - [aqlaboratory/openfold](https://github.com/aqlaboratory/openfold) - Trainable PyTorch reproduction of AlphaFold 2
@@ -7777,7 +7777,7 @@
 - [AbsoZed/DockerPwn.py](https://github.com/AbsoZed/DockerPwn.py) - Python automation of Docker.sock abuse
 - [s0md3v/Corsy](https://github.com/s0md3v/Corsy) - CORS Misconfiguration Scanner
 - [gumroad/gumroad-v1](https://github.com/gumroad/gumroad-v1) - 
-- [ruinmessi/ASFF](https://github.com/ruinmessi/ASFF) - yolov3 with mobilenet v2 and ASFF
+- [GOATmessi7/ASFF](https://github.com/GOATmessi7/ASFF) - yolov3 with mobilenet v2 and ASFF
 - [TNThieding/exif](https://github.com/TNThieding/exif) - Read and modify image EXIF metadata using Python.
 - [kamalkraj/BERT-NER](https://github.com/kamalkraj/BERT-NER) - Pytorch-Named-Entity-Recognition-with-BERT
 - [milesial/Pytorch-UNet](https://github.com/milesial/Pytorch-UNet) - PyTorch implementation of the U-Net for image semantic segmentation with high quality images
@@ -10077,7 +10077,7 @@
 - [deepjets/deepjets](https://github.com/deepjets/deepjets) - Main repository for image generation and CNN training https://arxiv.org/abs/1609.00607
 - [sihaelov/harser](https://github.com/sihaelov/harser) - Easy way for HTML parsing and building XPath
 - [despoisj/DeepAudioClassification](https://github.com/despoisj/DeepAudioClassification) - Finding the genre of a song with Deep Learning
-- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 100 supported car makes and models.
+- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 150 supported car makes and models.
 - [openeducat/openeducat_erp](https://github.com/openeducat/openeducat_erp) - Comprehensive Open Source ERP for Educational Institutes
 - [MatthewClarkMay/geoip-attack-map](https://github.com/MatthewClarkMay/geoip-attack-map) - Cyber security geoip attack map that follows syslog and parses IPs/port numbers to visualize attackers in real time.
 - [jimfleming/recurrent-entity-networks](https://github.com/jimfleming/recurrent-entity-networks) - TensorFlow implementation of "Tracking the World State with Recurrent Entity Networks".
@@ -10656,7 +10656,7 @@
 - [mjtamlyn/django-adapters](https://github.com/mjtamlyn/django-adapters) - Constructible, introspectable serializers and forms
 - [threat9/routersploit](https://github.com/threat9/routersploit) - Exploitation Framework for Embedded Devices
 - [nficano/python-lambda](https://github.com/nficano/python-lambda) - A toolkit for developing and deploying serverless Python code in AWS Lambda.
-- [polyaxon/datatile](https://github.com/polyaxon/datatile) - A library for managing, summarizing, and visualizing data.
+- [polyaxon/datatile](https://github.com/polyaxon/datatile) - A library for managing, validating, summarizing, and visualizing data.
 - [mvantellingen/python-zeep](https://github.com/mvantellingen/python-zeep) - A modern/fast python SOAP client based on lxml / requests
 - [ianmiell/shutit](https://github.com/ianmiell/shutit) - Automation framework for programmers
 - [facebook/fbtftp](https://github.com/facebook/fbtftp) - fbtftp is Facebook's implementation of a dynamic TFTP server framework.
@@ -11600,7 +11600,7 @@
 - [richrd/suplemon](https://github.com/richrd/suplemon) - :lemon: Console (CLI) text editor with multi cursor support. Suplemon replicates Sublime Text like functionality in the terminal. Try it out, give feedback, fork it!
 - [commixproject/commix](https://github.com/commixproject/commix) - Automated All-in-One OS Command Injection Exploitation Tool.
 - [adamchalmers/carroll](https://github.com/adamchalmers/carroll) - Carroll is a command-line tool for classical logic.
-- [takluyver/flit](https://github.com/takluyver/flit) - Simplified packaging of Python modules
+- [pypa/flit](https://github.com/pypa/flit) - Simplified packaging of Python modules
 - [oTree-org/oTree](https://github.com/oTree-org/oTree) - Python framework for multiplayer decision games, behavioral experiments, and surveys
 - [ottogroup/palladium](https://github.com/ottogroup/palladium) - Framework for setting up predictive analytics services
 - [adamhub/nebri](https://github.com/adamhub/nebri) - New home for examples scripts is here:  https://github.com/nebri-scripts/nebri-general
@@ -13805,7 +13805,7 @@
 - [botpress/botpress](https://github.com/botpress/botpress) - 🤖 Dev tools to reliably understand text and automate conversations. Built-in NLU.  Connect & deploy on any messaging channel (Slack, MS Teams, website, Telegram, etc).
 - [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify) - 🐉 Material Component Framework for Vue
 - [material-components/material-components-web](https://github.com/material-components/material-components-web) - Modular and customizable Material Design UI components for the web
-- [pubkey/rxdb](https://github.com/pubkey/rxdb) - 🔄 A realtime Database for JavaScript Applications
+- [pubkey/rxdb](https://github.com/pubkey/rxdb) - 🔄 A client side, offline-first, reactive database for JavaScript Applications
 - [kis/chartify](https://github.com/kis/chartify) - 📊 📈 📉 React.js plugin for building charts using CSS
 - [samgozman/YoptaScript](https://github.com/samgozman/YoptaScript) - Скриптовый язык программирования для гопников и реальных пацанов
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
