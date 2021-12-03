@@ -1043,7 +1043,6 @@
 - [gadson/Autoradar](https://github.com/gadson/Autoradar) - 
 - [Volmarg/personal-management-system](https://github.com/Volmarg/personal-management-system) - Your web application for managing personal data. &lt;personal.management.system.pms@gmail.com&gt;
 - [microsoft/azuredevopslabs](https://github.com/microsoft/azuredevopslabs) - Learn how you can plan smartly, collaborate better, and ship faster with a set of modern development services with Azure DevOps.
-- [azouaoui-med/pro-sidebar-template](https://github.com/azouaoui-med/pro-sidebar-template) - Responsive sidebar template based on bootstrap
 - [steshaw/plt](https://github.com/steshaw/plt) - λΠ Programming Language Theory
 - [tapaswenipathak/Open-Source-Programs](https://github.com/tapaswenipathak/Open-Source-Programs) - A list of open source programs.
 - [noamross/gams-in-r-course](https://github.com/noamross/gams-in-r-course) - Generalized Additive Models in R: A Free Interactive Course
@@ -2292,6 +2291,7 @@
 - [wildbit/postmark-templates](https://github.com/wildbit/postmark-templates) - Rock-solid transactional email templates for applications.
 - [letsencrypt/website](https://github.com/letsencrypt/website) - Let's Encrypt Website and Documentation
 - [jenyraval/Phishing-Simulation](https://github.com/jenyraval/Phishing-Simulation) - Phishing Simulation mainly aims to increase phishing awareness by providing an intuitive tutorial and customized assessment
+- [azouaoui-med/pro-sidebar-template](https://github.com/azouaoui-med/pro-sidebar-template) - Responsive layout with advanced sidebar menu built with SCSS and vanilla Javascript
 - [stripe/elements-examples](https://github.com/stripe/elements-examples) - Stripe Elements examples.
 - [nax3t/webdevbootcamp](https://github.com/nax3t/webdevbootcamp) - All source code for back-end projects from the Web Developer Bootcamp
 - [CodingTrain/Intro-to-Data-APIs-JS](https://github.com/CodingTrain/Intro-to-Data-APIs-JS) - Working with Data and APIs in JavaScript
@@ -2961,7 +2961,7 @@
 - [nus-cs2030/1920-s2](https://github.com/nus-cs2030/1920-s2) - The website of CS2030, 19/20 Sem 2.
 - [pinojs/pino](https://github.com/pinojs/pino) - 🌲 super fast, all natural json logger
 - [Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace.
-- [microsoft/playwright](https://github.com/microsoft/playwright) - Node.js library to automate Chromium, Firefox and WebKit with a single API
+- [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [anvaka/city-roads](https://github.com/anvaka/city-roads) - Visualization of all roads within any city
 - [poloclub/ganlab](https://github.com/poloclub/ganlab) - GAN Lab: An Interactive, Visual Experimentation Tool for Generative Adversarial Networks
 - [uber/manifold](https://github.com/uber/manifold) - A model-agnostic visual debugging tool for machine learning
@@ -3936,7 +3936,7 @@
 - [turbo/js](https://github.com/turbo/js) - turbo.js - perform massive parallel computations in your browser with GPGPU.
 - [stamen/modestmaps-js](https://github.com/stamen/modestmaps-js) - Modest Maps javascript port
 - [keen/keen-dataviz.js](https://github.com/keen/keen-dataviz.js) - Data Visualization Charting Library
-- [gocanto/google-autocomplete](https://github.com/gocanto/google-autocomplete) - Google Autocomplete Vue Componet
+- [gocanto/google-autocomplete](https://github.com/gocanto/google-autocomplete) - Google Autocomplete Vue Component
 - [kdzwinel/progress-bar-animation](https://github.com/kdzwinel/progress-bar-animation) - Making a Doughnut Progress Bar - research notes
 - [awslabs/lambda-refarch-mapreduce](https://github.com/awslabs/lambda-refarch-mapreduce) - This repo presents a reference architecture for running serverless MapReduce jobs. This has been implemented using AWS Lambda and Amazon S3.
 - [brijeshb42/medium-draft](https://github.com/brijeshb42/medium-draft) - 📝 A medium like Rich Text Editor built on draft-js with a focus on keyboard shortcuts.
@@ -5966,7 +5966,6 @@
 - [ignis-sec/Pwdb-Public](https://github.com/ignis-sec/Pwdb-Public) - A collection of all the data i could extract from 1 billion leaked credentials from internet.
 - [openai/gpt-3](https://github.com/openai/gpt-3) - GPT-3: Language Models are Few-Shot Learners
 - [Rolstenhouse/unofficial-apis](https://github.com/Rolstenhouse/unofficial-apis) - A collection of unofficial apis. Designed to inspire your next Friday night hack
-- [jupyter/enhancement-proposals](https://github.com/jupyter/enhancement-proposals) - Enhancement proposals for the Jupyter Ecosystem
 - [KaiyuanGao/awesome-deeplearning-nlp-papers](https://github.com/KaiyuanGao/awesome-deeplearning-nlp-papers) - A curated list of Deep learning and NLP must read papers
 - [sshkhr/awesome-mlss](https://github.com/sshkhr/awesome-mlss) - List of summer schools in machine learning + related fields across the globe
 - [mmihaltz/word2vec-GoogleNews-vectors](https://github.com/mmihaltz/word2vec-GoogleNews-vectors) - word2vec Google News model
@@ -6547,7 +6546,6 @@
 - [endymecy/awesome-deeplearning-resources](https://github.com/endymecy/awesome-deeplearning-resources) - Deep Learning and deep reinforcement learning research papers and some codes
 - [gopherdata/resources](https://github.com/gopherdata/resources) - Resources for Go-based data analysis, visualization, machine learning, etc.
 - [joelparkerhenderson/git-commit-message](https://github.com/joelparkerhenderson/git-commit-message) - Git commit message: how to write a great git commit message and commit template for version control
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2021
 - [bmorelli25/Become-A-Full-Stack-Web-Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer) - Free resources for learning Full Stack Web Development
 - [cassidoo/scrapers](https://github.com/cassidoo/scrapers) - A list of scrapers from around the web.
 - [thomasj02/DeepLearningProjectWorkflow](https://github.com/thomasj02/DeepLearningProjectWorkflow) - Machine Learning Workflow, from Andrew Ng's lecture at Deep Learning Summer School 2016
@@ -6982,6 +6980,7 @@
 
 ## Python 
 
+- [bmcfee/pyrubberband](https://github.com/bmcfee/pyrubberband) - python wrapper for rubberband
 - [shtechair/vqa-sva](https://github.com/shtechair/vqa-sva) - Structured Attentions for Visual Question Answering
 - [zhuchen03/gradinit](https://github.com/zhuchen03/gradinit) - Learning to Initialize Neural Networks for Stable and Efficient Training
 - [airctic/icevision](https://github.com/airctic/icevision) - An Agnostic Computer Vision Framework - Pluggable to any Training Library: Fastai, Pytorch-Lightning with more to come
@@ -7399,6 +7398,7 @@
 - [dmontagu/fastapi-utils](https://github.com/dmontagu/fastapi-utils) - Reusable utilities for FastAPI
 - [tiangolo/awesome-python](https://github.com/tiangolo/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
 - [tiangolo/spacy-course](https://github.com/tiangolo/spacy-course) - 👩‍🏫 Advanced NLP with spaCy: A free online course
+- [jupyter/enhancement-proposals](https://github.com/jupyter/enhancement-proposals) - Enhancement proposals for the Jupyter Ecosystem
 - [aboSamoor/polyglot](https://github.com/aboSamoor/polyglot) - Multilingual text (NLP) processing toolkit
 - [opensemanticsearch/open-semantic-entity-search-api](https://github.com/opensemanticsearch/open-semantic-entity-search-api) - Open Source REST API for named entity extraction, named entity linking, named entity disambiguation, recommendation & reconciliation of entities like persons, organizations and places for (semi)automatic semantic tagging & analysis of documents by linked data knowledge graph like SKOS thesaurus, RDF ontology, database(s) or list(s) of names
 - [online-ml/river](https://github.com/online-ml/river) - 🌊 Online machine learning in Python
@@ -10406,7 +10406,7 @@
 - [CENSUS/choronzon](https://github.com/CENSUS/choronzon) - An evolutionary knowledge-based fuzzer
 - [jisaacso/DeepHeart](https://github.com/jisaacso/DeepHeart) - Neural networks for monitoring cardiac data
 - [nerevu/riko](https://github.com/nerevu/riko) - A Python stream processing engine modeled after Yahoo! Pipes
-- [tensorlayer/tensorlayer](https://github.com/tensorlayer/tensorlayer) - Deep Learning and Reinforcement Learning Library for Scientists and Engineers 🔥
+- [tensorlayer/TensorLayer](https://github.com/tensorlayer/TensorLayer) - Deep Learning and Reinforcement Learning Library for Scientists and Engineers 🔥
 - [corbett/QuantumComputing](https://github.com/corbett/QuantumComputing) - This is an implementation of IBM's Quantum Experience in simulation; a 5-qubit quantum computer with a limited set of gates. Please cite me if you end up using this academically.
 - [vintasoftware/tapioca-wrapper](https://github.com/vintasoftware/tapioca-wrapper) - Python API client generator
 - [blankwall/MacHeap](https://github.com/blankwall/MacHeap) - OS X malloc introspection tool
@@ -13383,7 +13383,7 @@
 - [jcsalterego/historian](https://github.com/jcsalterego/historian) - Command-line utility for managing shell history in a SQLite database.
 - [kamranahmedse/git-standup](https://github.com/kamranahmedse/git-standup) - Recall what you did on the last working day. Psst! or be nosy and find what someone else in your team did ;-)
 - [DavidWittman/ansible-redis](https://github.com/DavidWittman/ansible-redis) - Highly-configurable Ansible role to install Redis and Redis Sentinel from source
-- [erikw/tmux-powerline](https://github.com/erikw/tmux-powerline) - Statusbar configuration for tmux that looks like vim-powerline and consist of dynamic segments, written purely in bash.
+- [erikw/tmux-powerline](https://github.com/erikw/tmux-powerline) - A hackable statusbar for tmux consisting of dynamic & beautiful looking segments, inspired by vim-powerlline, written purely in bash.
 - [kylemcdonald/ml-notebook](https://github.com/kylemcdonald/ml-notebook) - Dockerfile for multiple machine learning tools.
 - [marcan/takeover.sh](https://github.com/marcan/takeover.sh) - Wipe and reinstall a running Linux system via SSH, without rebooting. You know you want to.
 - [k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
@@ -13793,6 +13793,7 @@
 - [google/tamperchrome](https://github.com/google/tamperchrome) - Tamper Dev is an extension that allows you to intercept and edit HTTP/HTTPS requests and responses as they happen without the need of a proxy. Works across all operating systems (including Chrome OS).
 - [electron-userland/electron-forge](https://github.com/electron-userland/electron-forge) - A complete tool for creating, publishing, and installing modern Electron applications
 - [DonJayamanne/vscodeJupyter](https://github.com/DonJayamanne/vscodeJupyter) - Jupyter for Visual Studio Code
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2021
 - [bhollis/jsonview](https://github.com/bhollis/jsonview) - A web extension that helps you view JSON documents in the browser.
 - [mattallty/Caporal.js](https://github.com/mattallty/Caporal.js) - A full-featured framework for building command line applications (cli) with node.js
 - [jupyter-widgets/ipywidgets](https://github.com/jupyter-widgets/ipywidgets) - Interactive Widgets for the Jupyter Notebook
