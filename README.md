@@ -3047,7 +3047,7 @@
 - [kefranabg/readme-md-generator](https://github.com/kefranabg/readme-md-generator) - 📄 CLI that generates beautiful README.md files
 - [Janglee123/eplee](https://github.com/Janglee123/eplee) - Sweet, simple epub reader
 - [traffordDataLab/leaflet.reachability](https://github.com/traffordDataLab/leaflet.reachability) - Plugin for the Leaflet JavaScript library to show areas of reachability based on time or distance for different modes of travel using the openrouteservice isochrones API.
-- [bytebase/star-history](https://github.com/bytebase/star-history) - The missing star history graph of GitHub repos www.star-history.com
+- [bytebase/star-history](https://github.com/bytebase/star-history) - The missing star history graph of GitHub repos. Visit https://star-history.com.
 - [metafizzy/zdog](https://github.com/metafizzy/zdog) - Flat, round, designer-friendly pseudo-3D engine for canvas & SVG
 - [mathieudutour/medium-to-own-blog](https://github.com/mathieudutour/medium-to-own-blog) - Switch from Medium to your own blog in a few minutes
 - [QingWei-Li/laue](https://github.com/QingWei-Li/laue) - 🖖📈 Modern charts for Vue 2.0
@@ -4298,7 +4298,7 @@
 - [flask-debugtoolbar/flask-debugtoolbar](https://github.com/flask-debugtoolbar/flask-debugtoolbar) - A toolbar overlay for debugging Flask applications
 - [moment/moment](https://github.com/moment/moment) - Parse, validate, manipulate, and display dates in javascript.
 - [Lab41/Dendrite](https://github.com/Lab41/Dendrite) - People. Places. Things. Graphs.
-- [handlebars-lang/handlebars.js](https://github.com/handlebars-lang/handlebars.js) - 
+- [handlebars-lang/handlebars.js](https://github.com/handlebars-lang/handlebars.js) - Minimal templating on steroids.
 - [pure/pure](https://github.com/pure/pure) - PURE Unobtrusive Rendering Engine for HTML
 - [leonidas/transparency](https://github.com/leonidas/transparency) - Transparency is a semantic template engine for the browser. It maps JSON objects to DOM elements by id, class and data-bind attributes.
 - [codeforamerica/NeighborDiff](https://github.com/codeforamerica/NeighborDiff) - NeighborDiff is a simple site for citizens to update and detail their neighborhood map through CartoDB.
@@ -4464,6 +4464,7 @@
 
 ## Jupyter Notebook 
 
+- [deepmind/mathematics_conjectures](https://github.com/deepmind/mathematics_conjectures) - 
 - [vektonn/vektonn-examples](https://github.com/vektonn/vektonn-examples) - Vektonn usage examples
 - [vespa-engine/sample-apps](https://github.com/vespa-engine/sample-apps) - Repository of sample applications
 - [huggingface/workshops](https://github.com/huggingface/workshops) - Materials for workshops on the Hugging Face ecosystem
