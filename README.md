@@ -475,6 +475,7 @@
 ## C# # 
 
 - [vektonn/vektonn](https://github.com/vektonn/vektonn) - 
+- [vektonn/vektonn-examples](https://github.com/vektonn/vektonn-examples) - Vektonn usage examples
 - [kreeben/resin](https://github.com/kreeben/resin) - Hardware-accelerated vector database and search engine. Available as a HTTP service or as an embedded library.
 - [Azure-Samples/acr-tasks](https://github.com/Azure-Samples/acr-tasks) - A collection samples for ACR Tasks, including acr-task.yaml and Dockerfiles.
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
@@ -1023,7 +1024,6 @@
 - [google/lmctfy](https://github.com/google/lmctfy) - lmctfy is the open source version of Google’s container stack, which provides Linux application containers.
 - [omniscale/imposm-parser](https://github.com/omniscale/imposm-parser) - Deprecated: Python parser for OpenStreetMap data
 - [rjpower/falcon](https://github.com/rjpower/falcon) - C Python, made faster.
-- [matplotlib/basemap](https://github.com/matplotlib/basemap) - 
 - [facebookarchive/scribe](https://github.com/facebookarchive/scribe) - Scribe is a server for aggregating log data streamed in real time from a large number of servers.
 
 ## CMake 
@@ -2225,7 +2225,7 @@
 - [snakemake/snakemake](https://github.com/snakemake/snakemake) - This is the development home of the workflow management system Snakemake. For general information, see
 - [bayesoptbook/bayesoptbook.github.io](https://github.com/bayesoptbook/bayesoptbook.github.io) - Companion webpage for the book "Bayesian Optimization" by Roman Garnett
 - [yueureka/WildFireDetection](https://github.com/yueureka/WildFireDetection) - Using U-Net Model to Detect Wildfire from Satellite Imagery
-- [capitanov/dsp-theory](https://github.com/capitanov/dsp-theory) - Theory of digital signal processing (DSP): signals, filtration (IIR, FIR, CIC, MAF), transforms (FFT, DFT, Hilbert, Z-transform) etc.
+- [hukenovs/dsp-theory](https://github.com/hukenovs/dsp-theory) - Theory of digital signal processing (DSP): signals, filtration (IIR, FIR, CIC, MAF), transforms (FFT, DFT, Hilbert, Z-transform) etc.
 - [isl-org/PhotorealismEnhancement](https://github.com/isl-org/PhotorealismEnhancement) - Code & Data for Enhancing Photorealism Enhancement
 - [SuperKogito/SER-datasets](https://github.com/SuperKogito/SER-datasets) - A collection of datasets for the purpose of emotion recognition/detection in speech.
 - [codesONLY/JavaScriptONLY](https://github.com/codesONLY/JavaScriptONLY) - Knowledge Resource of core fundamentals of JavaScript explained in simple way!
@@ -2899,7 +2899,7 @@
 
 ## JavaScript 
 
-- [prabhuomkar/iris](https://github.com/prabhuomkar/iris) - Open Source Photos Platform Powered by PyTorch. Submission for PyTorch Annual Hackathon 2021.
+- [prabhuomkar/iris](https://github.com/prabhuomkar/iris) - Open Source Photos Platform Powered by PyTorch
 - [thunlp/WantWords](https://github.com/thunlp/WantWords) - An open-source online reverse dictionary.
 - [sberbank-ai-lab/lightautoml-datafest-workshop](https://github.com/sberbank-ai-lab/lightautoml-datafest-workshop) - Materials for LightAutoML workshop (DataFest 2021)
 - [Jelmerro/Vieb](https://github.com/Jelmerro/Vieb) - Vim Inspired Electron Browser - Vim bindings for the web by design
@@ -3047,7 +3047,7 @@
 - [kefranabg/readme-md-generator](https://github.com/kefranabg/readme-md-generator) - 📄 CLI that generates beautiful README.md files
 - [Janglee123/eplee](https://github.com/Janglee123/eplee) - Sweet, simple epub reader
 - [traffordDataLab/leaflet.reachability](https://github.com/traffordDataLab/leaflet.reachability) - Plugin for the Leaflet JavaScript library to show areas of reachability based on time or distance for different modes of travel using the openrouteservice isochrones API.
-- [bytebase/star-history](https://github.com/bytebase/star-history) - The missing star history graph of GitHub repos. Visit https://star-history.com.
+- [bytebase/star-history](https://github.com/bytebase/star-history) - The missing star history graph of GitHub repos - https://star-history.com
 - [metafizzy/zdog](https://github.com/metafizzy/zdog) - Flat, round, designer-friendly pseudo-3D engine for canvas & SVG
 - [mathieudutour/medium-to-own-blog](https://github.com/mathieudutour/medium-to-own-blog) - Switch from Medium to your own blog in a few minutes
 - [QingWei-Li/laue](https://github.com/QingWei-Li/laue) - 🖖📈 Modern charts for Vue 2.0
@@ -4464,8 +4464,9 @@
 
 ## Jupyter Notebook 
 
+- [atoti/notebooks](https://github.com/atoti/notebooks) - atoti notebooks gallery
+- [microsoft/Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners) - 10 Weeks, 20 Lessons, Data Science for All!
 - [deepmind/mathematics_conjectures](https://github.com/deepmind/mathematics_conjectures) - 
-- [vektonn/vektonn-examples](https://github.com/vektonn/vektonn-examples) - Vektonn usage examples
 - [vespa-engine/sample-apps](https://github.com/vespa-engine/sample-apps) - Repository of sample applications
 - [huggingface/workshops](https://github.com/huggingface/workshops) - Materials for workshops on the Hugging Face ecosystem
 - [milaan9/DataScience_Interview_Questions](https://github.com/milaan9/DataScience_Interview_Questions) - My Solutions to 120 commonly asked data science interview questions.
@@ -4527,7 +4528,7 @@
 - [facebookresearch/vissl](https://github.com/facebookresearch/vissl) - VISSL is FAIR's library of extensible, modular and scalable components for SOTA Self-Supervised Learning with images.
 - [robertmartin8/PyPortfolioOpt](https://github.com/robertmartin8/PyPortfolioOpt) - Financial portfolio optimisation in python, including classical efficient frontier, Black-Litterman, Hierarchical Risk Parity
 - [CompVis/taming-transformers](https://github.com/CompVis/taming-transformers) - Taming Transformers for High-Resolution Image Synthesis
-- [AI4Finance-Foundation/FinRL](https://github.com/AI4Finance-Foundation/FinRL) - FinRL: Financial Reinforcement Learning Framework.🔥
+- [AI4Finance-Foundation/FinRL](https://github.com/AI4Finance-Foundation/FinRL) - FinRL: Financial Reinforcement Learning Framework. Please star. 🔥
 - [orpatashnik/StyleCLIP](https://github.com/orpatashnik/StyleCLIP) - Official Implementation for "StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery" (ICCV 2021 Oral)
 - [karpathy/deep-vector-quantization](https://github.com/karpathy/deep-vector-quantization) - VQVAEs, GumbelSoftmaxes and friends
 - [jackroos/VL-BERT](https://github.com/jackroos/VL-BERT) - Code for ICLR 2020 paper "VL-BERT: Pre-training of Generic Visual-Linguistic Representations".
@@ -6982,6 +6983,10 @@
 
 ## Python 
 
+- [Chia-Network/chia-blockchain](https://github.com/Chia-Network/chia-blockchain) - Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet)
+- [dbiir/UER-py](https://github.com/dbiir/UER-py) - Open Source Pre-training Model Framework in PyTorch & Pre-trained Model Zoo
+- [huggingface/tune](https://github.com/huggingface/tune) - 
+- [huggingface/accelerate](https://github.com/huggingface/accelerate) - 🚀 A simple way to train and use PyTorch models with multi-GPU, TPU, mixed-precision
 - [vektonn/vektonn-client-python](https://github.com/vektonn/vektonn-client-python) - Python client for Vektonn
 - [MaxStrange/AudioSegment](https://github.com/MaxStrange/AudioSegment) - Wrapper for pydub AudioSegment objects
 - [bmcfee/pyrubberband](https://github.com/bmcfee/pyrubberband) - python wrapper for rubberband
@@ -10029,7 +10034,7 @@
 - [Viralmaniar/Wifi-Dumper](https://github.com/Viralmaniar/Wifi-Dumper) - This is an open source tool to dump the wifi profiles and cleartext passwords of the connected access points on the Windows machine. This tool will help you in a Wifi penetration testing. Furthermore, it is useful while performing red team or an internal infrastructure engagements.
 - [danielewworrall/harmonicConvolutions](https://github.com/danielewworrall/harmonicConvolutions) - Deep Translation and Rotation Equivariance
 - [YogurtTheHorse/RogueBot](https://github.com/YogurtTheHorse/RogueBot) - My simple rogue-like game for Telegram
-- [tmrowco/electricitymap-contrib](https://github.com/tmrowco/electricitymap-contrib) - A real-time visualisation of the CO2 emissions of electricity consumption
+- [electricityMap/electricitymap-contrib](https://github.com/electricityMap/electricitymap-contrib) - A real-time visualisation of the CO2 emissions of electricity consumption
 - [johnnadratowski/git-reviewers](https://github.com/johnnadratowski/git-reviewers) - 
 - [tgyg-jegli/tf_texture_net](https://github.com/tgyg-jegli/tf_texture_net) - TensorFlow implementation of DmitryUlyanov/texture_nets
 - [jmoiron/humanize](https://github.com/jmoiron/humanize) - python humanize functions
@@ -12802,6 +12807,7 @@
 - [kevinschaul/binify](https://github.com/kevinschaul/binify) - A command-line tool to better visualize crowded dot density maps.
 - [popen2/djangopypi2](https://github.com/popen2/djangopypi2) - Simple PyPI server written in django.
 - [kartograph/kartograph.py](https://github.com/kartograph/kartograph.py) - UNMAINTAINED! Renders beautiful SVG maps in Python.
+- [matplotlib/basemap](https://github.com/matplotlib/basemap) - 
 - [ubd-frog/frog](https://github.com/ubd-frog/frog) - A server and client solution to viewing and filtering large image and video collections
 - [kz26/PyExcelerate](https://github.com/kz26/PyExcelerate) - Accelerated Excel XLSX Writing Library for Python 2/3
 - [areski/python-nvd3](https://github.com/areski/python-nvd3) - Python Wrapper for NVD3 - It's time for beautiful charts
