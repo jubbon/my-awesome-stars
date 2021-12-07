@@ -2263,7 +2263,7 @@
 - [SamProf/MatBlazor](https://github.com/SamProf/MatBlazor) - Material Design components for Blazor and Razor Components
 - [daolf/Most-recommended-programming-books](https://github.com/daolf/Most-recommended-programming-books) - The most recommended programming books of all-time.
 - [becauseofAI/HelloFace](https://github.com/becauseofAI/HelloFace) - An awesome face technology repository.
-- [C0B1T0/simplefolio](https://github.com/C0B1T0/simplefolio) - ⚡️ A minimal portfolio template for Developers
+- [cobiwave/simplefolio](https://github.com/cobiwave/simplefolio) - ⚡️ A minimal portfolio template for Developers
 - [JordanSchuetz/LearnCS8-Resume](https://github.com/JordanSchuetz/LearnCS8-Resume) - Resume template website for the LearnCS8 Lab 3
 - [allisonhorst/esm244-w2020-lab5](https://github.com/allisonhorst/esm244-w2020-lab5) - Lab week 5: exploring time series data, intro to forecasting
 - [rstudio-conf-2020/intro-to-ml-tidy](https://github.com/rstudio-conf-2020/intro-to-ml-tidy) - Intro to Machine Learning with the Tidyverse
@@ -4564,7 +4564,6 @@
 - [koaning/human-learn](https://github.com/koaning/human-learn) - Natural Intelligence is still a pretty good idea.
 - [natasha/natasha-usage](https://github.com/natasha/natasha-usage) - 
 - [aliannejadi/ClariQ](https://github.com/aliannejadi/ClariQ) - ClariQ: SCAI Workshop data challenge on conversational search clarification.
-- [open-mmlab/mmclassification](https://github.com/open-mmlab/mmclassification) - OpenMMLab Image Classification Toolbox and Benchmark
 - [krishnaik06/Feature-Engineering-Live-sessions](https://github.com/krishnaik06/Feature-Engineering-Live-sessions) - 
 - [maratonadev-br/desafio-6-2020](https://github.com/maratonadev-br/desafio-6-2020) - 
 - [fastai/course20](https://github.com/fastai/course20) - Deep Learning for Coders, 2020, the website
@@ -5142,7 +5141,7 @@
 - [erhwenkuo/deep-learning-with-keras-notebooks](https://github.com/erhwenkuo/deep-learning-with-keras-notebooks) - Jupyter notebooks for using & learning Keras
 - [aws/amazon-sagemaker-examples](https://github.com/aws/amazon-sagemaker-examples) - Example 📓 Jupyter notebooks that demonstrate how to build, train, and deploy machine learning models using 🧠 Amazon SageMaker.
 - [Arturus/kaggle-web-traffic](https://github.com/Arturus/kaggle-web-traffic) - 1st place solution
-- [fornaxai/receptivefield](https://github.com/fornaxai/receptivefield) - Gradient based receptive field estimation for Convolutional Neural Networks
+- [shelfwise/receptivefield](https://github.com/shelfwise/receptivefield) - Gradient based receptive field estimation for Convolutional Neural Networks
 - [anagabandi/nn_dynamics](https://github.com/anagabandi/nn_dynamics) - 
 - [DmitryUlyanov/deep-image-prior](https://github.com/DmitryUlyanov/deep-image-prior) - Image restoration with neural networks but without learning.
 - [hardmaru/estool](https://github.com/hardmaru/estool) - Evolution Strategies Tool
@@ -7322,6 +7321,7 @@
 - [kyzhouhzau/BERT-NER](https://github.com/kyzhouhzau/BERT-NER) - Use Google's BERT for named entity recognition （CoNLL-2003 as the dataset）.
 - [deepset-ai/FARM](https://github.com/deepset-ai/FARM) - :house_with_garden: Fast & easy transfer learning for NLP. Harvesting language models for the industry. Focus on Question Answering.
 - [guillaumegenthial/sequence_tagging](https://github.com/guillaumegenthial/sequence_tagging) - Named Entity Recognition (LSTM + CRF) - Tensorflow
+- [open-mmlab/mmclassification](https://github.com/open-mmlab/mmclassification) - OpenMMLab Image Classification Toolbox and Benchmark
 - [open-mmlab/mmdetection3d](https://github.com/open-mmlab/mmdetection3d) - OpenMMLab's next-generation platform for general 3D object detection.
 - [google-research/torchsde](https://github.com/google-research/torchsde) - Differentiable SDE solvers with GPU support and efficient sensitivity analysis.
 - [clovaai/rexnet](https://github.com/clovaai/rexnet) - Official Pytorch implementation of ReXNet (Rank eXpansion Network) with pretrained models
@@ -11324,7 +11324,6 @@
 - [fengsp/rc](https://github.com/fengsp/rc) - Redis cache cluster system in Python
 - [sdispater/orator](https://github.com/sdispater/orator) - The Orator ORM provides a simple yet beautiful ActiveRecord implementation.
 - [GoogleCloudPlatform/flask-talisman](https://github.com/GoogleCloudPlatform/flask-talisman) - HTTP security headers for Flask
-- [jjyr/zerotest](https://github.com/jjyr/zerotest) - Lazy guy's testing tool. Capture HTTP traffic and generate python integration test for your API server.
 - [ryanmcdermott/birdseed](https://github.com/ryanmcdermott/birdseed) - :bird: :game_die: Use Twitter's Search API to get random numbers
 - [Yelp/elastalert](https://github.com/Yelp/elastalert) - Easy & Flexible Alerting With ElasticSearch
 - [bmtgoncalves/Mining-Georeferenced-Data](https://github.com/bmtgoncalves/Mining-Georeferenced-Data) - 
@@ -12807,7 +12806,7 @@
 - [kevinschaul/binify](https://github.com/kevinschaul/binify) - A command-line tool to better visualize crowded dot density maps.
 - [popen2/djangopypi2](https://github.com/popen2/djangopypi2) - Simple PyPI server written in django.
 - [kartograph/kartograph.py](https://github.com/kartograph/kartograph.py) - UNMAINTAINED! Renders beautiful SVG maps in Python.
-- [matplotlib/basemap](https://github.com/matplotlib/basemap) - 
+- [matplotlib/basemap](https://github.com/matplotlib/basemap) - Plot on map projections (with coastlines and political boundaries) using matplotlib
 - [ubd-frog/frog](https://github.com/ubd-frog/frog) - A server and client solution to viewing and filtering large image and video collections
 - [kz26/PyExcelerate](https://github.com/kz26/PyExcelerate) - Accelerated Excel XLSX Writing Library for Python 2/3
 - [areski/python-nvd3](https://github.com/areski/python-nvd3) - Python Wrapper for NVD3 - It's time for beautiful charts
