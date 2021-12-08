@@ -1051,7 +1051,6 @@
 - [robb0wen/synthwave-vscode](https://github.com/robb0wen/synthwave-vscode) - Synthwave inspired colour theme for VS Code 🌅🕶
 - [oleg-koval/counter-interview.dev](https://github.com/oleg-koval/counter-interview.dev) - a collaborative collection of interview questions collected from both sides of the game: Interviewer(s) and Interviewee.
 - [ines/course-starter-python](https://github.com/ines/course-starter-python) - 👩‍🏫🐍 Starter repo for building interactive Python courses
-- [Remix-Design/RemixIcon](https://github.com/Remix-Design/RemixIcon) - Open source neutral style icon system
 - [hiromis/notes](https://github.com/hiromis/notes) - 
 - [iann0036/AWSConsoleRecorder](https://github.com/iann0036/AWSConsoleRecorder) - Records actions made in the AWS Management Console and outputs the equivalent CLI/SDK commands and CloudFormation/Terraform templates.
 - [realLiangshiwei/LogDashboard](https://github.com/realLiangshiwei/LogDashboard) - Log Dashboard
@@ -2655,6 +2654,7 @@
 - [hjson/hjson](https://github.com/hjson/hjson) - Hjson, a user interface for JSON
 - [larsbrinkhoff/awesome-cpus](https://github.com/larsbrinkhoff/awesome-cpus) - All CPU and MCU documentation in one place
 - [rigtorp/awesome-modern-cpp](https://github.com/rigtorp/awesome-modern-cpp) - A collection of resources on modern C++
+- [Tencent/weui](https://github.com/Tencent/weui) - A UI library by WeChat official design team, includes the most useful widgets/modules in mobile web applications.
 - [1000ch/grd](https://github.com/1000ch/grd) - A CSS grid framework using Flexbox. Only 321 bytes (Gzipped).
 - [tc39/ecma262](https://github.com/tc39/ecma262) - Status, process, and documents for ECMA-262
 - [awesome-br/awesome-br.github.io](https://github.com/awesome-br/awesome-br.github.io) - 
@@ -5769,12 +5769,12 @@
 ## Less 
 
 - [influxdata/docs.influxdata.com-ARCHIVE](https://github.com/influxdata/docs.influxdata.com-ARCHIVE) - ARCHIVE - 1.x docs for InfluxData
+- [Remix-Design/RemixIcon](https://github.com/Remix-Design/RemixIcon) - Open source neutral style icon system
 - [ForkAwesome/Fork-Awesome](https://github.com/ForkAwesome/Fork-Awesome) - A fork of the iconic font and CSS toolkit
 - [fossasia/codeheat.org](https://github.com/fossasia/codeheat.org) - Codeheat Coding Contest Website https://codeheat.org
 - [ng-alain/ng-alain](https://github.com/ng-alain/ng-alain) - NG-ZORRO admin panel front-end framework (surge mirror https://ng-alain-doc.surge.sh)
 - [kevinsawicki/monokai](https://github.com/kevinsawicki/monokai) - Monokai Atom Syntax theme
 - [jesseweed/seti-ui](https://github.com/jesseweed/seti-ui) - A subtle dark colored UI theme for Atom.
-- [Tencent/weui](https://github.com/Tencent/weui) - A UI library by WeChat official design team, includes the most useful widgets/modules in mobile web applications.
 
 ## Lua 
 
@@ -6896,7 +6896,7 @@
 - [ClickMeeting/DevZone](https://github.com/ClickMeeting/DevZone) - Code related to DevZone on ClickMeeting
 - [phpmyadmin/docker](https://github.com/phpmyadmin/docker) - Docker container for phpMyAdmin
 - [HaliteChallenge/Halite](https://github.com/HaliteChallenge/Halite) - @twosigma's first artificial intelligence programming challenge
-- [getgrav/grav](https://github.com/getgrav/grav) - Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS
+- [getgrav/grav](https://github.com/getgrav/grav) - Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS powered by PHP, Markdown, Twig, and Symfony
 - [paragonie/awesome-appsec](https://github.com/paragonie/awesome-appsec) - A curated list of resources for learning about application security
 - [Graphite-Tattle/Tattle](https://github.com/Graphite-Tattle/Tattle) - Tattle is a lightweight self-service dashboards web-application for Graphite and Ganglia monitoring tools
 - [garakh/kladrapi](https://github.com/garakh/kladrapi) - Проект переведен в прориетарный статус. Дальнейшее его развитие будет осуществляться компанией-разработчиком, исходные коды не будут выкладываться на github
@@ -11983,7 +11983,7 @@
 - [salty-salty-studios/twofold](https://github.com/salty-salty-studios/twofold) - A visual novel chronicling the struggles of a young man in community college.
 - [antiboredom/videogrep](https://github.com/antiboredom/videogrep) - automatic video supercuts with python
 - [klen/atmark](https://github.com/klen/atmark) - Awk+Sed for humans
-- [pantsbuild/pants](https://github.com/pantsbuild/pants) - The Pants Build System
+- [pantsbuild/pants](https://github.com/pantsbuild/pants) - The Pantsbuild developer workflow system
 - [iSECPartners/sslyze](https://github.com/iSECPartners/sslyze) - Current development of SSLyze now takes place on a separate repository
 - [torque59/Nosql-Exploitation-Framework](https://github.com/torque59/Nosql-Exploitation-Framework) - A Python Framework For NoSQL Scanning and Exploitation
 - [esc/rst2ipynb](https://github.com/esc/rst2ipynb) - A restructured text to IPython notebook converter.
