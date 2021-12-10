@@ -1459,6 +1459,7 @@
 - [jcsilva/docker-kaldi-gstreamer-server](https://github.com/jcsilva/docker-kaldi-gstreamer-server) - Dockerfile for kaldi-gstreamer-server.
 - [deepmipt/stand_kubernetes_cluster](https://github.com/deepmipt/stand_kubernetes_cluster) - 
 - [osrf/docker_images](https://github.com/osrf/docker_images) - A repository to hold definitions of docker images maintained by OSRF
+- [microsoft/code-with-engineering-playbook](https://github.com/microsoft/code-with-engineering-playbook) - This is the playbook for "code-with" customer or partner engagements
 - [docker-library/python](https://github.com/docker-library/python) - Docker Official Image packaging for Python
 - [microsoft/mssql-docker](https://github.com/microsoft/mssql-docker) - Official Microsoft repository for SQL Server in Docker resources
 - [appleboy/ssh-action](https://github.com/appleboy/ssh-action) - GitHub Actions for executing remote ssh commands.
@@ -3371,7 +3372,7 @@
 - [sallar/github-contributions-chart](https://github.com/sallar/github-contributions-chart) - :octocat: Generate an image of all your Github contributions
 - [sym233/core-values-encoder](https://github.com/sym233/core-values-encoder) - Translating text to core values and back
 - [isomorphic-git/isomorphic-git](https://github.com/isomorphic-git/isomorphic-git) - A pure JavaScript implementation of git for node and browsers!
-- [hybridsjs/hybrids](https://github.com/hybridsjs/hybrids) - Extraordinary JavaScript framework for creating fully-featured web applications
+- [hybridsjs/hybrids](https://github.com/hybridsjs/hybrids) - Extraordinary JavaScript framework with unique declarative and functional architecture
 - [saberland/saber](https://github.com/saberland/saber) - ()==[:::::::::::::&gt; Build static sites in Vue.js, without the hassle
 - [ElemeFE/v-charts](https://github.com/ElemeFE/v-charts) - 基于 Vue2.0 和 ECharts 封装的图表组件📈📊
 - [klaussinani/signale](https://github.com/klaussinani/signale) - Highly configurable logging utility
@@ -3920,7 +3921,7 @@
 - [keplr-io/quiver](https://github.com/keplr-io/quiver) - Interactive convnet features visualization for Keras
 - [CSSLint/csslint](https://github.com/CSSLint/csslint) - Automated linting of Cascading Stylesheets
 - [postmanlabs/newman](https://github.com/postmanlabs/newman) - Newman is a command-line collection runner for Postman
-- [nuxt/nuxt.js](https://github.com/nuxt/nuxt.js) - The Intuitive Vue Framework
+- [nuxt/nuxt.js](https://github.com/nuxt/nuxt.js) - The Intuitive Vue(2) Framework
 - [samyk/poisontap](https://github.com/samyk/poisontap) - Exploits locked/password protected computers over USB, drops persistent WebSocket-based backdoor, exposes internal router, and siphons cookies using Raspberry Pi Zero & Node.js.
 - [mebibou/mdl-selectfield](https://github.com/mebibou/mdl-selectfield) - Material Design Lite selectfield component (https://github.com/google/material-design-lite)
 - [firebase/firebaseui-web](https://github.com/firebase/firebaseui-web) - FirebaseUI is an open-source JavaScript library for Web that provides simple, customizable UI bindings on top of Firebase SDKs to eliminate boilerplate code and promote best practices.
@@ -6980,6 +6981,7 @@
 
 ## Python 
 
+- [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [deepmind/xmanager](https://github.com/deepmind/xmanager) - 
 - [Chia-Network/chia-blockchain](https://github.com/Chia-Network/chia-blockchain) - Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet)
 - [dbiir/UER-py](https://github.com/dbiir/UER-py) - Open Source Pre-training Model Framework in PyTorch & Pre-trained Model Zoo
@@ -10020,7 +10022,7 @@
 - [humphd/have-fun-with-machine-learning](https://github.com/humphd/have-fun-with-machine-learning) - An absolute beginner's guide to Machine Learning and Image Classification with Neural Networks
 - [udacity/CarND-Term1-Starter-Kit](https://github.com/udacity/CarND-Term1-Starter-Kit) - 
 - [TheAbhiKumar/tensorflow-value-iteration-networks](https://github.com/TheAbhiKumar/tensorflow-value-iteration-networks) - TensorFlow implementation of the Value Iteration Networks (NIPS '16) paper
-- [megvii-research/neural-painter](https://github.com/megvii-research/neural-painter) - Paint artistic patterns using random neural network
+- [megvii-research/neural-painter](https://github.com/megvii-research/neural-painter) - Paint artistic patterns using random neural network.
 - [python273/telegraph](https://github.com/python273/telegraph) - Telegraph API wrapper | Telegra.ph
 - [kootenpv/TwitterQA](https://github.com/kootenpv/TwitterQA) - Deep learning based Twitter Imposter Chatbot
 - [uclnlp/pycodesuggest](https://github.com/uclnlp/pycodesuggest) - Learning to Auto-Complete using RNN Language Models
@@ -10723,7 +10725,6 @@
 - [tweekmonster/tmux2html](https://github.com/tweekmonster/tmux2html) - :cat2: Render full tmux windows or individual panes as HTML
 - [dodger487/dplython](https://github.com/dodger487/dplython) - dplyr for python
 - [owocki/pytrader](https://github.com/owocki/pytrader) - cryptocurrency trading robot
-- [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [dparlevliet/rwrapper](https://github.com/dparlevliet/rwrapper) - A python wrapper class for RethinkDB
 - [JackStouffer/cookiecutter-Flask-Foundation](https://github.com/JackStouffer/cookiecutter-Flask-Foundation) - Cookiecutter fork of Flask Foundation
 - [danielmagnussons/orgmode](https://github.com/danielmagnussons/orgmode) - orgmode is for keeping notes, maintaining TODO lists, planning projects, and authoring documents with a fast and effective plain-text system.
@@ -13115,7 +13116,6 @@
 
 ## Ruby 
 
-- [microsoft/code-with-engineering-playbook](https://github.com/microsoft/code-with-engineering-playbook) - This is the playbook for "code-with" customer or partner engagements
 - [tompng/air_hockey_quine](https://github.com/tompng/air_hockey_quine) - Network Battle Air Hockey Quine
 - [brotandgames/ciao](https://github.com/brotandgames/ciao) - HTTP checks & tests (private & public) monitoring - check the status of your URL
 - [erikwiffin/0.30000000000000004](https://github.com/erikwiffin/0.30000000000000004) - Floating Point Math Examples
