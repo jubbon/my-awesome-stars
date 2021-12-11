@@ -691,7 +691,6 @@
 - [doxygen/doxygen](https://github.com/doxygen/doxygen) - Official doxygen git repository
 - [panda3d/panda3d](https://github.com/panda3d/panda3d) - Powerful, mature open-source cross-platform game engine for Python and C++, developed by Disney and CMU
 - [vacancy/PreciseRoIPooling](https://github.com/vacancy/PreciseRoIPooling) - Precise RoI Pooling with coordinate gradient support, proposed in the paper "Acquisition of Localization Confidence for Accurate Object Detection" (https://arxiv.org/abs/1807.11590).
-- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [baidu/AnyQ](https://github.com/baidu/AnyQ) - FAQ-based Question Answering System
 - [zhubenfu/License-Plate-Detect-Recognition-via-Deep-Neural-Networks-accuracy-up-to-99.9](https://github.com/zhubenfu/License-Plate-Detect-Recognition-via-Deep-Neural-Networks-accuracy-up-to-99.9) - works in real-time with detection and recognition accuracy up to 99.8% for Chinese license plates: 100 ms/plate
 - [facebookincubator/oomd](https://github.com/facebookincubator/oomd) - A userspace out-of-memory killer
@@ -1539,12 +1538,12 @@
 
 ## Go 
 
+- [semi-technologies/weaviate](https://github.com/semi-technologies/weaviate) - Weaviate is a cloud-native, modular, real-time vector search engine
 - [ddosify/ddosify](https://github.com/ddosify/ddosify) - High-performance load testing tool, written in Golang.
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - Gitpod automates the provisioning of ready-to-code development environments.
 - [umputun/reproxy](https://github.com/umputun/reproxy) - Simple edge server / reverse proxy
 - [jonaslu/ain](https://github.com/jonaslu/ain) - An HTTP API client for the terminal
-- [semi-technologies/weaviate](https://github.com/semi-technologies/weaviate) - Weaviate is a cloud-native, modular, real-time vector search engine
 - [onepanelio/onepanel](https://github.com/onepanelio/onepanel) - The open source, end-to-end computer vision platform. Label, build, train, tune, deploy and automate in a unified platform that runs on any cloud and on-premises.
 - [george-e-shaw-iv/integration-tests-example](https://github.com/george-e-shaw-iv/integration-tests-example) - An example project showcasing how Ardan Labs writes integration tests
 - [mattermost/mattermost-server](https://github.com/mattermost/mattermost-server) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.
@@ -5898,6 +5897,7 @@
 
 ## Others 
 
+- [semi-technologies/awesome-weaviate](https://github.com/semi-technologies/awesome-weaviate) - Awesome Weaviate
 - [huggingface/s3prl](https://github.com/huggingface/s3prl) - Self-Supervised Speech Pre-training and Representation Learning Toolkit.
 - [yandex-cloud/docs](https://github.com/yandex-cloud/docs) - Yandex.Cloud documentation
 - [MinZHANG-WHU/Change-Detection-Review](https://github.com/MinZHANG-WHU/Change-Detection-Review) - A review of change detection methods, including codes and open data sets for deep learning.  From paper: change detection based on artificial intelligence: state-of-the-art and challenges.
@@ -9259,7 +9259,7 @@
 - [andabi/deep-voice-conversion](https://github.com/andabi/deep-voice-conversion) - Deep neural networks for voice conversion (voice style transfer) in Tensorflow
 - [naturomics/CapsNet-Tensorflow](https://github.com/naturomics/CapsNet-Tensorflow) - A Tensorflow implementation of CapsNet(Capsules Net) in paper Dynamic Routing Between Capsules
 - [tkarras/progressive_growing_of_gans](https://github.com/tkarras/progressive_growing_of_gans) - Progressive Growing of GANs for Improved Quality, Stability, and Variation
-- [ufoym/deepo](https://github.com/ufoym/deepo) - Set up deep learning environment in a single command line.
+- [ufoym/deepo](https://github.com/ufoym/deepo) - Setup and customize deep learning environment in seconds.
 - [matterport/Mask_RCNN](https://github.com/matterport/Mask_RCNN) - Mask R-CNN for object detection and instance segmentation on Keras and TensorFlow
 - [pyro-ppl/pyro](https://github.com/pyro-ppl/pyro) - Deep universal probabilistic programming with Python and PyTorch
 - [vicariousinc/science_rcn](https://github.com/vicariousinc/science_rcn) - Reference implementation of a two-level RCN model
@@ -11681,7 +11681,7 @@
 - [sunscrapers/djoser](https://github.com/sunscrapers/djoser) - REST implementation of Django authentication system.
 - [0xAX/linux-insides](https://github.com/0xAX/linux-insides) - A little bit about a linux kernel
 - [masinoa/machine_learning](https://github.com/masinoa/machine_learning) - Python coded examples and documentation of machine learning algorithms.
-- [Toblerity/Shapely](https://github.com/Toblerity/Shapely) - Manipulation and analysis of geometric objects
+- [shapely/shapely](https://github.com/shapely/shapely) - Manipulation and analysis of geometric objects
 - [pdxmele/python-geodata-bffs](https://github.com/pdxmele/python-geodata-bffs) - Repo for my PyCon 2014 talk
 - [ska-sa/scikits.fitting](https://github.com/ska-sa/scikits.fitting) - 
 - [LettError/MutatorMath](https://github.com/LettError/MutatorMath) - Python library for piecewise linear interpolation in multiple dimensions with multiple, arbitrarily placed, masters.
@@ -13209,6 +13209,7 @@
 - [urbica/martin](https://github.com/urbica/martin) - Blazing fast and lightweight PostGIS vector tiles server
 - [copy/v86](https://github.com/copy/v86) - x86 virtualization in your browser, recompiling x86 to wasm on the fly
 - [benfred/py-spy](https://github.com/benfred/py-spy) - Sampling profiler for Python programs
+- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [atom-archive/xray](https://github.com/atom-archive/xray) - An experimental next-generation Electron-based text editor
 - [sit-fyi/sit](https://github.com/sit-fyi/sit) - Serverless (offline-first, merge-friendly) Information Tracker
@@ -13804,7 +13805,7 @@
 - [google/tamperchrome](https://github.com/google/tamperchrome) - Tamper Dev is an extension that allows you to intercept and edit HTTP/HTTPS requests and responses as they happen without the need of a proxy. Works across all operating systems (including Chrome OS).
 - [electron-userland/electron-forge](https://github.com/electron-userland/electron-forge) - A complete tool for creating, publishing, and installing modern Electron applications
 - [DonJayamanne/vscodeJupyter](https://github.com/DonJayamanne/vscodeJupyter) - Jupyter for Visual Studio Code
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2021
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a developer in 2021
 - [bhollis/jsonview](https://github.com/bhollis/jsonview) - A web extension that helps you view JSON documents in the browser.
 - [mattallty/Caporal.js](https://github.com/mattallty/Caporal.js) - A full-featured framework for building command line applications (cli) with node.js
 - [jupyter-widgets/ipywidgets](https://github.com/jupyter-widgets/ipywidgets) - Interactive Widgets for the Jupyter Notebook
