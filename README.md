@@ -3382,7 +3382,6 @@
 - [tmcw/big](https://github.com/tmcw/big) - presentations for busy messy hackers
 - [layerJS/layerJS](https://github.com/layerJS/layerJS) - layerJS: Javascript UI composition framework
 - [iphysresearch/DataSciComp](https://github.com/iphysresearch/DataSciComp) - A collection of popular Data Science Challenges/Competitions || Countdown timers to keep track of the entry deadlines.
-- [vuejs/vue-loader](https://github.com/vuejs/vue-loader) - 📦 Webpack loader for Vue.js components
 - [iqiyi/LiteApp](https://github.com/iqiyi/LiteApp) - LiteApp is a high performance mobile cross-platform implementation, The realization of cross-platform functionality is base on webview and provides different ideas and solutions for improve webview performance.
 - [nhn/tui.calendar](https://github.com/nhn/tui.calendar) - 🍞📅A JavaScript calendar that has everything you need.
 - [iamkun/dayjs](https://github.com/iamkun/dayjs) - ⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API
@@ -6805,7 +6804,7 @@
 - [enjalot/algovis](https://github.com/enjalot/algovis) - collection of projects and links about algorithm visualization
 - [0xnr/awesome-analytics](https://github.com/0xnr/awesome-analytics) - A curated list of analytics frameworks, software and other tools.
 - [jnv/lists](https://github.com/jnv/lists) - The definitive list of lists (of lists) curated on GitHub and elsewhere
-- [fasouto/awesome-dataviz](https://github.com/fasouto/awesome-dataviz) - :chart_with_upwards_trend:  A curated list of awesome data visualization libraries and resources.
+- [javierluraschi/awesome-dataviz](https://github.com/javierluraschi/awesome-dataviz) - :chart_with_upwards_trend:  A curated list of awesome data visualization libraries and resources.
 - [checkcheckzz/python-github-projects](https://github.com/checkcheckzz/python-github-projects) - Collect and classify python projects on Github (deprecated)
 - [kirang89/pycrumbs](https://github.com/kirang89/pycrumbs) - Bits and bytes of Python from the Internet
 - [neutraltone/awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources) - :city_sunrise: A collection of links for free stock photography, video and Illustration websites
@@ -7602,7 +7601,7 @@
 - [Kaggle/docker-python](https://github.com/Kaggle/docker-python) - Kaggle Python docker image
 - [werner-duvaud/muzero-general](https://github.com/werner-duvaud/muzero-general) - MuZero
 - [cosmicpython/book](https://github.com/cosmicpython/book) - A Book about Pythonic Application Architecture Patterns for Managing Complexity.  Cosmos is the Opposite of Chaos you see. O'R. wouldn't actually let us call it "Cosmic Python" tho.
-- [polakowo/vectorbt](https://github.com/polakowo/vectorbt) - Next-gen framework for backtesting, algorithmic trading, and research. Blazingly fast. Super accurate. Pandas friendly.
+- [polakowo/vectorbt](https://github.com/polakowo/vectorbt) - Find your trading edge, using the most powerful toolkit for backtesting, algorithmic trading, and research.
 - [ayooshkathuria/pytorch-yolo-v3](https://github.com/ayooshkathuria/pytorch-yolo-v3) - A PyTorch implementation of the YOLO v3 object detection algorithm
 - [kotartemiy/newscatcher](https://github.com/kotartemiy/newscatcher) - Programmatically collect normalized news from (almost) any website.
 - [Mukosame/Zooming-Slow-Mo-CVPR-2020](https://github.com/Mukosame/Zooming-Slow-Mo-CVPR-2020) - Fast and Accurate One-Stage Space-Time Video Super-Resolution (accepted in CVPR 2020)
@@ -7810,7 +7809,6 @@
 - [aws-samples/aws-cdk-examples](https://github.com/aws-samples/aws-cdk-examples) - Example projects using the AWS CDK
 - [open-mmlab/mmfashion](https://github.com/open-mmlab/mmfashion) - Open-source toolbox for visual fashion analysis based on PyTorch
 - [ddbourgin/numpy-ml](https://github.com/ddbourgin/numpy-ml) - Machine learning, in numpy
-- [PaddlePaddle/models](https://github.com/PaddlePaddle/models) - Pre-trained and Reproduced Deep Learning Models （『飞桨』官方模型库，包含多种学术前沿和工业场景验证的深度学习模型）
 - [facebookresearch/SlowFast](https://github.com/facebookresearch/SlowFast) - PySlowFast: video understanding codebase from FAIR for reproducing state-of-the-art video models.
 - [zero-to-mastery/start-here-guidelines](https://github.com/zero-to-mastery/start-here-guidelines) - Lets Git started in the world of opensource, starting in the Zero To Mastery's opensource playground. Especially designed for education and practical experience purposes.
 - [NVlabs/few-shot-vid2vid](https://github.com/NVlabs/few-shot-vid2vid) - Pytorch implementation for few-shot photorealistic video-to-video translation.
@@ -8015,7 +8013,7 @@
 - [facebookresearch/pyrobot](https://github.com/facebookresearch/pyrobot) - PyRobot: An Open Source Robotics Research Platform
 - [open-mmlab/mmaction](https://github.com/open-mmlab/mmaction) - An open-source toolbox for action understanding based on PyTorch
 - [notadamking/RLTrader](https://github.com/notadamking/RLTrader) - A cryptocurrency trading environment using deep reinforcement learning and OpenAI's gym
-- [allegroai/clearml](https://github.com/allegroai/clearml) - ClearML - Auto-Magical Suite of tools to streamline your ML workflow. Experiment Manager, MLOps and Data-Management
+- [allegroai/clearml](https://github.com/allegroai/clearml) - ClearML - Auto-Magical CI/CD to streamline your ML workflow. Experiment Manager, MLOps and Data-Management
 - [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [x6b726173/alice-word-by-word](https://github.com/x6b726173/alice-word-by-word) - 
 - [uber/doubles](https://github.com/uber/doubles) - Test doubles for Python.
@@ -11386,7 +11384,7 @@
 - [bolt-project/bolt](https://github.com/bolt-project/bolt) - Unified interface for local and distributed ndarrays
 - [agateblue/django-dynamic-preferences](https://github.com/agateblue/django-dynamic-preferences) - Dynamic global and instance settings for your django project
 - [GedRap/xs-vm](https://github.com/GedRap/xs-vm) - eXtremely small virtual machine -- for educational purposes :)
-- [california-civic-data-coalition/django-postgres-copy](https://github.com/california-civic-data-coalition/django-postgres-copy) - Quickly import and export delimited data with Django support for PostgreSQL's COPY command
+- [palewire/django-postgres-copy](https://github.com/palewire/django-postgres-copy) - Quickly import and export delimited data with Django support for PostgreSQL's COPY command
 - [ibis-project/ibis](https://github.com/ibis-project/ibis) - A pandas-like deferred expression system, with first-class SQL support
 - [ekampf/pymaybe](https://github.com/ekampf/pymaybe) - A Python implementation of the Maybe pattern
 - [facebookarchive/codemod](https://github.com/facebookarchive/codemod) - Codemod is a tool/library to assist you with large-scale codebase refactors that can be partially automated but still require human oversight and occasional intervention. Codemod was developed at Facebook and released as open source.
@@ -13315,6 +13313,7 @@
 - [microsoft/vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) - A repository of development container definitions for the VS Code Remote - Containers extension and GitHub Codespaces
 - [icyphox/shlide](https://github.com/icyphox/shlide) - :framed_picture: a slide deck presentation tool written in pure bash
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
+- [PaddlePaddle/models](https://github.com/PaddlePaddle/models) - Pre-trained and Reproduced Deep Learning Models （『飞桨』官方模型库，包含多种学术前沿和工业场景验证的深度学习模型）
 - [bitnami/bitnami-docker-kafka](https://github.com/bitnami/bitnami-docker-kafka) - Bitnami Docker Image for Kafka
 - [camptocamp/docker-odoo-project](https://github.com/camptocamp/docker-odoo-project) - Base images for Odoo projects
 - [pi-hole/docker-pi-hole](https://github.com/pi-hole/docker-pi-hole) - Pi-hole in a docker container
@@ -13708,6 +13707,7 @@
 - [linkedin/css-blocks](https://github.com/linkedin/css-blocks) - High performance, maintainable stylesheets.
 - [sindresorhus/ow](https://github.com/sindresorhus/ow) - Function argument validation for humans
 - [youzan/zan-proxy](https://github.com/youzan/zan-proxy) - An extensible proxy for PC/Mobile/APP developer
+- [vuejs/vue-loader](https://github.com/vuejs/vue-loader) - 📦 Webpack loader for Vue.js components
 - [wasdk/WebAssemblyStudio](https://github.com/wasdk/WebAssemblyStudio) - Learn, Teach, Work and Play in the WebAssembly Studio
 - [dinerojs/dinero.js](https://github.com/dinerojs/dinero.js) - Create, calculate, and format money in JavaScript and TypeScript.
 - [tensorflow/tfjs](https://github.com/tensorflow/tfjs) - A WebGL accelerated JavaScript library for training and deploying ML models.
