@@ -488,7 +488,7 @@
 - [MLJejuCamp2017/DRL_based_SelfDrivingCarControl](https://github.com/MLJejuCamp2017/DRL_based_SelfDrivingCarControl) - Deep Reinforcement Learning (DQN) based Self Driving Car Control with Vehicle Simulator
 - [dvf/blockchain](https://github.com/dvf/blockchain) - A simple Blockchain in Python
 - [Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents) - Unity Machine Learning Agents Toolkit
-- [electroly/sqlnotebook](https://github.com/electroly/sqlnotebook) - Windows app for casual data exploration
+- [electroly/sqlnotebook](https://github.com/electroly/sqlnotebook) - Casual data exploration in SQL
 - [migueldeicaza/TensorFlowSharp](https://github.com/migueldeicaza/TensorFlowSharp) - TensorFlow API for .NET languages
 - [pojala/electrino](https://github.com/pojala/electrino) - Desktop runtime for apps built on web technologies, using the system's own web browser engine
 - [udacity/self-driving-car-sim](https://github.com/udacity/self-driving-car-sim) - A self-driving car simulator built with Unity
@@ -900,7 +900,6 @@
 - [alibaba/AliSQL](https://github.com/alibaba/AliSQL) - AliSQL is a MySQL branch originated from Alibaba Group. Fetch document from Release Notes at bottom.
 - [catchorg/Catch2](https://github.com/catchorg/Catch2) - A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)
 - [openai/triton](https://github.com/openai/triton) - Development repository for the Triton language and compiler
-- [arangodb/arangodb](https://github.com/arangodb/arangodb) - 🥑 ArangoDB is a native multi-model database with flexible data models for documents, graphs, and key-values. Build high performance applications using a convenient SQL-like query language or JavaScript extensions.
 - [gzc/CLRS](https://github.com/gzc/CLRS) - :notebook:Solutions to Introduction to Algorithms
 - [cartographer-project/cartographer_ros](https://github.com/cartographer-project/cartographer_ros) - Provides ROS integration for Cartographer.
 - [cartographer-project/cartographer](https://github.com/cartographer-project/cartographer) - Cartographer is a system that provides real-time simultaneous localization and mapping (SLAM) in 2D and 3D across multiple platforms and sensor configurations.
@@ -3992,6 +3991,7 @@
 - [yarnpkg/yarn](https://github.com/yarnpkg/yarn) - The 1.x line is frozen - features and bugfixes now happen on https://github.com/yarnpkg/berry
 - [naptha/tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for more than 100 Languages 📖🎉🖥
 - [erdem/django-map-widgets](https://github.com/erdem/django-map-widgets) - Pluggable map widgets for Django Postgis fields
+- [arangodb/arangodb](https://github.com/arangodb/arangodb) - 🥑 ArangoDB is a native multi-model database with flexible data models for documents, graphs, and key-values. Build high performance applications using a convenient SQL-like query language or JavaScript extensions.
 - [Dogfalo/materialize](https://github.com/Dogfalo/materialize) - Materialize, a CSS Framework based on Material Design
 - [systemjs/systemjs](https://github.com/systemjs/systemjs) - Dynamic ES module loader
 - [bvaughn/react-virtualized](https://github.com/bvaughn/react-virtualized) - React components for efficiently rendering large lists and tabular data
@@ -4580,7 +4580,7 @@
 - [DanielDaCosta/RNN-Keras](https://github.com/DanielDaCosta/RNN-Keras) - Building a Multi-Label Classifier doesn't seem a difficult task using Keras, but when you are dealing with a highly imbalanced dataset with more than 30 different labels and with multiple losses it can become quite tricky.
 - [deepmipt/dp_tutorials](https://github.com/deepmipt/dp_tutorials) - 
 - [denisyarats/drq](https://github.com/denisyarats/drq) - DrQ: Data regularized Q
-- [DiffEqML/torchdyn](https://github.com/DiffEqML/torchdyn) - A PyTorch based library for all things neural differential equations and implicit neural models.
+- [DiffEqML/torchdyn](https://github.com/DiffEqML/torchdyn) - A PyTorch library entirely dedicated to neural differential equations, implicit models and related numerical methods.
 - [NVIDIA/flowtron](https://github.com/NVIDIA/flowtron) - Flowtron is an auto-regressive flow-based generative network for text to speech synthesis with control over speech variation and style transfer
 - [codenation-dev/Data-Science-Online](https://github.com/codenation-dev/Data-Science-Online) - 
 - [christophM/interpretable-ml-book](https://github.com/christophM/interpretable-ml-book) - Book about interpretable machine learning
@@ -5957,7 +5957,7 @@
 - [balavenkatesh3322/NLP-pretrained-model](https://github.com/balavenkatesh3322/NLP-pretrained-model) - A collection of Natural language processing pre-trained models.
 - [balavenkatesh3322/CV-pretrained-model](https://github.com/balavenkatesh3322/CV-pretrained-model) - A collection of computer vision pre-trained models.
 - [ugurkanates/awesome-real-world-rl](https://github.com/ugurkanates/awesome-real-world-rl) - Great resources for making Reinforcement Learning work in Real Life situations. Papers,projects and more.
-- [MLNLP-World/Top-Conferences-Paper-with-Code](https://github.com/MLNLP-World/Top-Conferences-Paper-with-Code) - Top-Conferences-Paper-with-Code (ACL、EMNLP、NAACL、COLING、AAAI、IJCAI、NeurIPS、ICLR and etc)
+- [MLNLP-World/Top-AI-Conferences-Paper-with-Code](https://github.com/MLNLP-World/Top-AI-Conferences-Paper-with-Code) - Top-Conferences-Paper-with-Code (ACL、EMNLP、NAACL、COLING、AAAI、IJCAI、NeurIPS、ICLR and etc)
 - [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
 - [elyase/awesome-gpt3](https://github.com/elyase/awesome-gpt3) - 
 - [cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications) - Curated list of free courses & certifications
@@ -7021,7 +7021,7 @@
 - [ykasten/layered-neural-atlases](https://github.com/ykasten/layered-neural-atlases) - 
 - [YuanxunLu/LiveSpeechPortraits](https://github.com/YuanxunLu/LiveSpeechPortraits) - Live Speech Portraits: Real-Time Photorealistic Talking-Head Animation (SIGGRAPH Asia 2021)
 - [eora-ai/inferoxy](https://github.com/eora-ai/inferoxy) - Service for quick deploying and using dockerized Computer Vision models
-- [I-Hope-Peace/SiamCRNN](https://github.com/I-Hope-Peace/SiamCRNN) - [TGRS 2020] Tensorflow implementation for Change Detection in Multisource VHR Images via Deep Siamese Convolutional Multiple-Layers Recurrent Neural Network
+- [I-Hope-Peace/SiamCRNN](https://github.com/I-Hope-Peace/SiamCRNN) - [TGRS 2020] Official Tensorflow implementation for Change Detection in Multisource VHR Images via Deep Siamese Convolutional Multiple-Layers Recurrent Neural Network
 - [I-Hope-Peace/ChangeDetectionRepository](https://github.com/I-Hope-Peace/ChangeDetectionRepository) - This repository contains some python code of some traditional change detection methods or provides their original websites, such as SFA, MAD, and some deep learning-based change detection methods, such as SiamCRNN, DSFA, and some FCN-based methods.
 - [justchenhao/STANet](https://github.com/justchenhao/STANet) - official implementation of the spatial-temporal attention neural network (STANet) for remote sensing image change detection
 - [LiheYoung/SenseEarth2020-ChangeDetection](https://github.com/LiheYoung/SenseEarth2020-ChangeDetection) - 1st place solution to the Satellite Remote Sensing Image Change Detection Challenge hosted by SenseTime
