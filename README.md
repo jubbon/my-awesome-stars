@@ -297,7 +297,7 @@
 - [galkahana/HummusJS](https://github.com/galkahana/HummusJS) - Node.js module for high performance creation, modification and parsing of PDF files and streams
 - [reactos/reactos](https://github.com/reactos/reactos) - A free Windows-compatible Operating System
 - [cstack/db_tutorial](https://github.com/cstack/db_tutorial) - Writing a sqlite clone from scratch in C
-- [nginx/unit](https://github.com/nginx/unit) - An official read-only mirror of http://hg.nginx.org/unit/
+- [nginx/unit](https://github.com/nginx/unit) - An official mirror of https://hg.nginx.org/unit/
 - [kroitor/gjk.c](https://github.com/kroitor/gjk.c) - Gilbert-Johnson-Keerthi (GJK) collision detection algorithm in 200 lines of clean plain C
 - [openresty/openresty](https://github.com/openresty/openresty) - High Performance Web Platform Based on Nginx and LuaJIT
 - [bol-van/zapret](https://github.com/bol-van/zapret) - Обход DPI в linux
@@ -2046,7 +2046,7 @@
 - [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
 - [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB - the open source, cloud-native distributed SQL database.
 - [speijnik/go-errortree](https://github.com/speijnik/go-errortree) - Go library for handling errors organized as a tree
-- [joshbetz/config](https://github.com/joshbetz/config) - 🛠 A configuration library for Go that parses environment variables, JSON files, and reloads automatically on SIGHUP
+- [joshbetz/config](https://github.com/joshbetz/config) - 🛠 A configuration library for Go that parses environment variables, JSON files, and reloads automatically on SIGHUP.
 - [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) - Official Go implementation of the Ethereum protocol
 - [qax-os/goreporter](https://github.com/qax-os/goreporter) - A Golang tool that does static analysis, unit testing, code review and generate code quality report.
 - [rancher/os](https://github.com/rancher/os) - Tiny Linux distro that runs the entire OS as Docker containers
@@ -2108,7 +2108,7 @@
 - [oelmekki/pgrebase](https://github.com/oelmekki/pgrebase) - Easy postgres codebase injection - aka postgres non data live reload
 - [qieangel2013/livego](https://github.com/qieangel2013/livego) - go Implementation of live streaming services
 - [Qihoo360/poseidon](https://github.com/Qihoo360/poseidon) - A search engine which can hold 100 trillion lines of log data.
-- [prest/prest](https://github.com/prest/prest) - pREST (PostgreSQL REST), low-code, simplify and accelerate development, ⚡ instant, realtime, high-performance on any Postgres application, existing or new
+- [prest/prest](https://github.com/prest/prest) - PostgreSQL ➕ REST, low-code, simplify and accelerate development, ⚡ instant, realtime, high-performance on any Postgres application, existing or new
 - [maddevsio/ariadna](https://github.com/maddevsio/ariadna) - Geocoder Ariadna on ElasticSearch with OpenStreetMap
 - [mholt/archiver](https://github.com/mholt/archiver) - Easily create & extract archives, and compress & decompress files of various formats
 - [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
@@ -3532,7 +3532,7 @@
 - [ktquez/vue2-sentry](https://github.com/ktquez/vue2-sentry) - Plugin Vue.js for error tracking with Sentry
 - [BrockReece/vue-heatmapjs](https://github.com/BrockReece/vue-heatmapjs) - Heatmap directive for tracking user activity
 - [sahibalejandro/form-object](https://github.com/sahibalejandro/form-object) - Form object to use with Vue components for sending data to a Laravel application using axios.
-- [vuejs/vue-apollo](https://github.com/vuejs/vue-apollo) - 🚀 Apollo/GraphQL integration for VueJS
+- [vuejs/apollo](https://github.com/vuejs/apollo) - 🚀 Apollo/GraphQL integration for VueJS
 - [jeweltheme/basix-admin](https://github.com/jeweltheme/basix-admin) - Get Free and Premium Vue.js Bootstrap v4 Admin Dashboard Templates
 - [SabatinoMasala/vue-text-glitch](https://github.com/SabatinoMasala/vue-text-glitch) - Vue text glitch component
 - [znck/prop-types](https://github.com/znck/prop-types) - Fluent prop validation for Vue
@@ -7299,7 +7299,7 @@
 - [cleardusk/3DDFA_V2](https://github.com/cleardusk/3DDFA_V2) - The official PyTorch implementation of Towards Fast, Accurate and Stable 3D Dense Face Alignment, ECCV 2020.
 - [vchoutas/expose](https://github.com/vchoutas/expose) - ExPose - EXpressive POse and Shape rEgression
 - [nolar/kopf](https://github.com/nolar/kopf) - A Python framework to write Kubernetes operators in just a few lines of code
-- [neuml/txtai](https://github.com/neuml/txtai) - Build AI-powered semantic search applications
+- [neuml/txtai](https://github.com/neuml/txtai) - 💡 Build AI-powered semantic search applications
 - [TachibanaYoshino/AnimeGANv2](https://github.com/TachibanaYoshino/AnimeGANv2) - [Open Source].  The improved version of AnimeGAN. Landscape photos/videos to anime
 - [KhoaDauTay/learn-python](https://github.com/KhoaDauTay/learn-python) - 
 - [Separius/awesome-fast-attention](https://github.com/Separius/awesome-fast-attention) - list of efficient attention modules
@@ -12984,7 +12984,7 @@
 ## R 
 
 - [statsmaths/cleanNLP](https://github.com/statsmaths/cleanNLP) - R package providing annotators and a normalized data model for natural language processing
-- [business-science/timetk](https://github.com/business-science/timetk) - A toolkit for working with time series in R
+- [business-science/timetk](https://github.com/business-science/timetk) - Time series analysis in the `tidyverse`
 - [lockEF/bidifac](https://github.com/lockEF/bidifac) - Bidimensional matrix factorization
 - [IndrajeetPatil/ggstatsplot](https://github.com/IndrajeetPatil/ggstatsplot) - Enhancing `{ggplot2}` plots with statistical analysis 📊🎨📣
 - [cloudyr/aws.iam](https://github.com/cloudyr/aws.iam) - AWS IAM Client Package
@@ -13514,7 +13514,7 @@
 ## TeX 
 
 - [awni/future_speech](https://github.com/awni/future_speech) - The History of Speech Recognition to the Year 2030
-- [SemyonSinchenko/qmlcourse](https://github.com/SemyonSinchenko/qmlcourse) - Quantum Machine Learning Community Course
+- [quantum-ods/qmlcourse](https://github.com/quantum-ods/qmlcourse) - Quantum Machine Learning Community Course
 - [corona-warn-app/cwa-documentation](https://github.com/corona-warn-app/cwa-documentation) - Project overview, general documentation, and white papers.
 - [Just-A-Visitor/Algorithmic-Pseudocode](https://github.com/Just-A-Visitor/Algorithmic-Pseudocode) - This repository contains the pseudocode(pdf) of various algorithms and data structures necessary for Interview Preparation and Competitive Coding
 - [facebookresearch/craftassist](https://github.com/facebookresearch/craftassist) - A virtual assistant bot in Minecraft
@@ -13782,7 +13782,7 @@
 - [fabiospampinato/cliflix](https://github.com/fabiospampinato/cliflix) - Watch anything instantaneously, just write its name.
 - [GoogleChrome/rendertron](https://github.com/GoogleChrome/rendertron) - A Headless Chrome rendering solution
 - [AsyncAlgoTrading/algo-coin](https://github.com/AsyncAlgoTrading/algo-coin) - Python library for algorithmic trading cryptocurrencies across multiple exchanges
-- [plouc/nivo](https://github.com/plouc/nivo) - nivo provides a rich set of dataviz components, built on top of the awesome d3 and Reactjs libraries
+- [plouc/nivo](https://github.com/plouc/nivo) - nivo provides a rich set of dataviz components, built on top of the awesome d3 and React libraries
 - [onivim/oni](https://github.com/onivim/oni) - Oni: Modern Modal Editing - powered by Neovim
 - [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
 - [jiayihu/pretty-algorithms](https://github.com/jiayihu/pretty-algorithms) - 🌊 Pretty, common and useful algorithms with modern JS and beautiful tests
