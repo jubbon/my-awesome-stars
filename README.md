@@ -4012,6 +4012,7 @@
 - [kimchi-project/kimchi](https://github.com/kimchi-project/kimchi) - An HTML5 management interface for KVM guests
 - [finom/seemple](https://github.com/finom/seemple) - Seemple.js framework
 - [ebidel/appmetrics.js](https://github.com/ebidel/appmetrics.js) - A small (&lt; 1kb) library for measuring things in your web app and reporting the results to Google Analytics.
+- [speaking-for-hackers/speaking-for-hackers-book](https://github.com/speaking-for-hackers/speaking-for-hackers-book) - Tips for giving good conference talks by Ben Orenstein
 - [lengstrom/falcon](https://github.com/lengstrom/falcon) - Chrome extension for full text history search!
 - [sivasamyk/logtrail](https://github.com/sivasamyk/logtrail) - Kibana plugin to view, search & live tail log events
 - [samccone/coverage-ext](https://github.com/samccone/coverage-ext) - Generate code coverage for any webpage
@@ -6654,7 +6655,6 @@
 - [luciotato/golang-notes](https://github.com/luciotato/golang-notes) - Notes to understand golang
 - [DiegoRBaquero/awesome-webtorrent-clones](https://github.com/DiegoRBaquero/awesome-webtorrent-clones) - 👥 Product clones using WebTorrent/WebRTC
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL
-- [speaking-for-hackers/speaking-for-hackers-book](https://github.com/speaking-for-hackers/speaking-for-hackers-book) - Tips for giving good conference talks by Ben Orenstein
 - [datasciencemasters/go](https://github.com/datasciencemasters/go) - The Open Source Data Science Masters
 - [firefox-devtools/debugger](https://github.com/firefox-devtools/debugger) - The faster and smarter Debugger for Firefox DevTools 🔥🦊🛠
 - [valignatev/ddd-dynamic](https://github.com/valignatev/ddd-dynamic) - Domain Driven Design in Python, Ruby and other dynamic languages resources
@@ -7215,7 +7215,7 @@
 - [davidefiocco/streamlit-fastapi-model-serving](https://github.com/davidefiocco/streamlit-fastapi-model-serving) - Simple web app example serving a PyTorch model using streamlit and FastAPI
 - [abhimishra91/insight](https://github.com/abhimishra91/insight) - Repository for Project Insight: NLP as a Service
 - [wemake-services/wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) - The strictest and most opinionated python linter ever!
-- [PaddlePaddle/PaddleNLP](https://github.com/PaddlePaddle/PaddleNLP) - Easy-to-use NLP library with Awesome pre-trained model zoo,  supporting wide-range of NLP tasks from research to industrial applications.
+- [PaddlePaddle/PaddleNLP](https://github.com/PaddlePaddle/PaddleNLP) - Easy-to-use and Fast NLP library with awesome model zoo,  supporting wide-range of NLP tasks from research to industrial applications.
 - [PyTorchLightning/lightning-flash](https://github.com/PyTorchLightning/lightning-flash) - Your PyTorch AI Factory - Flash enables you to easily configure and run complex AI recipes for over 15 tasks across 7 data domains
 - [kakaobrain/pororo](https://github.com/kakaobrain/pororo) - PORORO: Platform Of neuRal mOdels for natuRal language prOcessing
 - [LAMDA-NJU/Deep-Forest](https://github.com/LAMDA-NJU/Deep-Forest) - An Efficient, Scalable and Optimized Python Framework for Deep Forest (2021.2.1)
@@ -13501,7 +13501,7 @@
 - [levantAJ/Measure](https://github.com/levantAJ/Measure) - Using ARKit to make calculate the distance of real-world objects
 - [ProjectDent/ARKit-CoreLocation](https://github.com/ProjectDent/ARKit-CoreLocation) - Combines the high accuracy of AR with the scale of GPS data.
 - [olucurious/Awesome-ARKit](https://github.com/olucurious/Awesome-ARKit) - A curated list of awesome ARKit projects and resources. Feel free to contribute!
-- [relatedcode/GraphQLite](https://github.com/relatedcode/GraphQLite) - GraphQLite is a toolkit to work with GraphQL servers easily. It also provides several other features to make life easier during iOS application development.
+- [relatedcode/GraphQLite](https://github.com/relatedcode/GraphQLite) - Rapid GraphQL prototyping, development, and testing. Core Server, Admin Console, iOS SDK, Web SDK.
 - [ltebean/Live](https://github.com/ltebean/Live) - Demonstrates how to build a live broadcast app(Swift 3)
 - [apple/swift-package-manager](https://github.com/apple/swift-package-manager) - The Package Manager for the Swift Programming Language
 
@@ -14078,7 +14078,7 @@
 - [ClickerMonkey/dayspan-vuetify](https://github.com/ClickerMonkey/dayspan-vuetify) - A collection of components that visualizes DaySpan Calendars and Schedules using Vuetify
 - [vueComponent/ant-design-vue](https://github.com/vueComponent/ant-design-vue) - 🌈  An enterprise-class UI components based on Ant Design and Vue. 🐜
 - [BlackMix/vue-genesis-forms](https://github.com/BlackMix/vue-genesis-forms) - 📚 Easily create forms in Vue.js
-- [aamayamaa/vue-foldable](https://github.com/aamayamaa/vue-foldable) - 🌗 Highly customizable foldable component for Vue.js
+- [ulivz/vue-foldable](https://github.com/ulivz/vue-foldable) - 🌗 Highly customizable foldable component for Vue.js
 - [ademilter/Frame](https://github.com/ademilter/Frame) - New-tab extension for Chrome and Firefox
 - [mgbq/nx-admin](https://github.com/mgbq/nx-admin) - 👍 A magical   🐮  ⚔  vue admin，记得star
 - [konaraddi/web-riimote](https://github.com/konaraddi/web-riimote) - :tada: Turn your smartphone into a 3D controller with a web app
