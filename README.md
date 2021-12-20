@@ -660,6 +660,7 @@
 - [sfzhang15/FaceBoxes](https://github.com/sfzhang15/FaceBoxes) - FaceBoxes: A CPU Real-time Face Detector with High Accuracy, IJCB, 2017
 - [flashlight/flashlight](https://github.com/flashlight/flashlight) - A C++ standalone library for machine learning
 - [huxingyi/dust3d](https://github.com/huxingyi/dust3d) - :dromedary_camel: Dust3D is a cross-platform open-source 3D modeling software. Auto UV unwrapping, auto rigging with PBR Material support, pose and motion authoring all in one.
+- [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [PX4/PX4-Autopilot](https://github.com/PX4/PX4-Autopilot) - PX4 Autopilot Software
 - [ucbrise/confluo](https://github.com/ucbrise/confluo) - Real-time Monitoring and Analysis of Data Streams
 - [NVIDIAGameWorks/PhysX-3.4](https://github.com/NVIDIAGameWorks/PhysX-3.4) - NVIDIA PhysX SDK 3.4
@@ -2810,7 +2811,7 @@
 - [graphhopper/graphhopper](https://github.com/graphhopper/graphhopper) - Open source routing engine for OpenStreetMap. Use it as Java library or standalone web server.
 - [gocd/gocd](https://github.com/gocd/gocd) - Main repository for GoCD - Continuous Delivery server
 - [tomthecarrot/arcore-for-all](https://github.com/tomthecarrot/arcore-for-all) - Google ARCore (dev preview 1) for "unsupported" Android devices
-- [apache/incubator-doris](https://github.com/apache/incubator-doris) - Apache Doris (Incubating)
+- [apache/incubator-doris](https://github.com/apache/incubator-doris) - Apache Doris(Incubating) is an MPP-based interactive SQL data warehousing for reporting and analysis.
 - [confluentinc/ksql](https://github.com/confluentinc/ksql) - The database purpose-built for stream processing applications.
 - [andreynovikov/Androzic](https://github.com/andreynovikov/Androzic) - Android navigation application that uses oziexplorer maps (ozf2, ozfx3)
 - [floatinghotpot/cordova-plugin-sms](https://github.com/floatinghotpot/cordova-plugin-sms) - Plugin to operate SMS, send / list / intercept / delete / restore
@@ -2965,7 +2966,7 @@
 - [uber/manifold](https://github.com/uber/manifold) - A model-agnostic visual debugging tool for machine learning
 - [getferdi/ferdi](https://github.com/getferdi/ferdi) - 🧔🏽 Ferdi  helps you organize how you use your favourite apps by combining them into one application
 - [alyssaxuu/flowy](https://github.com/alyssaxuu/flowy) - The minimal javascript library to create flowcharts ✨
-- [SAPDocuments/Tutorials](https://github.com/SAPDocuments/Tutorials) - Tutorials on sap.com
+- [sap-tutorials/Tutorials](https://github.com/sap-tutorials/Tutorials) - Tutorials on sap.com
 - [eth0izzle/shhgit](https://github.com/eth0izzle/shhgit) - Ah shhgit! Find secrets in your code. Secrets detection for your GitHub, GitLab and Bitbucket repositories: www.shhgit.com
 - [hyperledger/fabric-samples](https://github.com/hyperledger/fabric-samples) - 
 - [menzi11/BullshitGenerator](https://github.com/menzi11/BullshitGenerator) - Needs to generate some texts to test if my GUI rendering codes good or not. so I made this.
@@ -3195,7 +3196,7 @@
 - [OptimalBits/redbird](https://github.com/OptimalBits/redbird) - A modern reverse proxy for node
 - [NickPiscitelli/Glider.js](https://github.com/NickPiscitelli/Glider.js) - A fast, lightweight, dependency free, native scrolling carousel alternative!
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Command-line tool and terminal JSON viewer 🔥
-- [enquirer/enquirer](https://github.com/enquirer/enquirer) - Stylish, intuitive and user-friendly prompts, for Node.js. Used by eslint, webpack, Generate, lint-staged, pm2, gluegun, hygen, GitHub Actions Toolkit, @airbnb/nimbus, and many others!
+- [enquirer/enquirer](https://github.com/enquirer/enquirer) - Stylish, intuitive and user-friendly prompts, for Node.js. Used by eslint, webpack, yarn, pm2, pnpm, RedwoodJS, FactorJS, salesforce, Cypress, Google Lighthouse, Generate, tencent cloudbase, lint-staged, gluegun, hygen, hardhat, AWS Amplify, GitHub Actions Toolkit, @airbnb/nimbus, and many others! Please follow Enquirer's author: https://github.com/jonschlinkert
 - [lirantal/dockly](https://github.com/lirantal/dockly) - Immersive terminal interface for managing docker containers and services
 - [marienfeldtom/vue3-tailwind-starter](https://github.com/marienfeldtom/vue3-tailwind-starter) - Vue 3 + Tailwind.css Starter
 - [SeregPie/VueTween](https://github.com/SeregPie/VueTween) - Allows the components to tween their properties.
@@ -5959,7 +5960,7 @@
 - [MLNLP-World/Top-AI-Conferences-Paper-with-Code](https://github.com/MLNLP-World/Top-AI-Conferences-Paper-with-Code) - Top-Conferences-Paper-with-Code (ACL、EMNLP、NAACL、COLING、AAAI、IJCAI、NeurIPS、ICLR and etc)
 - [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
 - [elyase/awesome-gpt3](https://github.com/elyase/awesome-gpt3) - 
-- [cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications) - Curated list of free courses & certifications
+- [cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications) - A curated list of free courses & certifications.
 - [ForrestKnight/open-source-cs-python](https://github.com/ForrestKnight/open-source-cs-python) - Video discussing this curriculum:
 - [microsoft/pylance-release](https://github.com/microsoft/pylance-release) - Documentation and issues for Pylance
 - [loveunk/Deep-learning-books](https://github.com/loveunk/Deep-learning-books) - Books for machine learning, deep learning, math, NLP, CV, RL, etc
@@ -7441,7 +7442,7 @@
 - [podgorskiy/ALAE](https://github.com/podgorskiy/ALAE) - [CVPR2020] Adversarial Latent Autoencoders
 - [natasha/razdel](https://github.com/natasha/razdel) - Rule-based token, sentence segmentation for Russian language
 - [natasha/yargy](https://github.com/natasha/yargy) - Rule-based facts extraction for Russian language
-- [mammothb/symspellpy](https://github.com/mammothb/symspellpy) - Python port of SymSpell
+- [mammothb/symspellpy](https://github.com/mammothb/symspellpy) - Python port of SymSpell: 1 million times faster spelling correction & fuzzy search through Symmetric Delete spelling correction algorithm
 - [open-mmlab/OpenPCDet](https://github.com/open-mmlab/OpenPCDet) - OpenPCDet Toolbox for LiDAR-based 3D Object Detection.
 - [uvipen/Tetris-deep-Q-learning-pytorch](https://github.com/uvipen/Tetris-deep-Q-learning-pytorch) - Deep Q-learning for playing tetris game
 - [xingyizhou/CenterTrack](https://github.com/xingyizhou/CenterTrack) - Simultaneous object detection and tracking using center points.
@@ -11425,7 +11426,7 @@
 - [danrobinson/tracestack](https://github.com/danrobinson/tracestack) - Instantly search your Python error messages on the web.
 - [altair-viz/altair](https://github.com/altair-viz/altair) - Declarative statistical visualization library for Python
 - [n1nj4sec/pupy](https://github.com/n1nj4sec/pupy) - Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python
-- [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe) - Django + Stripe Made Easy
+- [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe) - Dj-stripe automatically syncs your Stripe Data to your local database as pre-implemented Django Models allowing you to use the Django ORM, in your code, to work with the data making it easier and faster.
 - [purelabs/django-bulk-admin](https://github.com/purelabs/django-bulk-admin) - Django bulk admin enables you to bulk add, bulk edit, bulk upload and bulk select in django admin.
 - [asciimoo/memspector](https://github.com/asciimoo/memspector) - Inspect memory usage of python functions
 - [donnemartin/saws](https://github.com/donnemartin/saws) - A supercharged AWS command line interface (CLI).
@@ -13330,7 +13331,6 @@
 - [dockcross/dockcross](https://github.com/dockcross/dockcross) - Cross compiling toolchains in Docker images
 - [kickstartcoding/cheatsheets](https://github.com/kickstartcoding/cheatsheets) - A selection of printable, one-page cheatsheets, generated from Markdown using Pandoc & LaTeX
 - [trimstray/nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook) - How to improve NGINX performance, security, and other important things.
-- [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [aws/containers-roadmap](https://github.com/aws/containers-roadmap) - This is the public roadmap for AWS container services (ECS, ECR, Fargate, and EKS).
 - [nodesource/distributions](https://github.com/nodesource/distributions) - NodeSource Node.js Binary Distributions
 - [kingkool68/generate-ssl-certs-for-local-development](https://github.com/kingkool68/generate-ssl-certs-for-local-development) - A bash script for generating trusted self-signed SSL certs for local development on your Mac
