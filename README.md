@@ -1710,7 +1710,7 @@
 - [syncsynchalt/illustrated-tls](https://github.com/syncsynchalt/illustrated-tls) - The Illustrated TLS Connection: Every byte explained
 - [yinheli/sshw](https://github.com/yinheli/sshw) - 🐝  ssh client wrapper for automatic login
 - [cloudflare/tableflip](https://github.com/cloudflare/tableflip) - Graceful process restarts in Go
-- [photoprism/photoprism](https://github.com/photoprism/photoprism) - Photos App powered by Go and Google TensorFlow 🌈
+- [photoprism/photoprism](https://github.com/photoprism/photoprism) - Photos App powered by Go and Google TensorFlow 🌈 🎄
 - [davrodpin/mole](https://github.com/davrodpin/mole) - CLI application to create ssh tunnels focused on resiliency and user experience.
 - [sipt/shuttle](https://github.com/sipt/shuttle) - A web proxy in Golang with amazing features.
 - [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation
@@ -4113,7 +4113,6 @@
 - [algorithm-visualizer/algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) - :fireworks:Interactive Online Platform that Visualizes Algorithms from Code
 - [decosoftware/deco-ide](https://github.com/decosoftware/deco-ide) - The React Native IDE
 - [rethinkdb/horizon](https://github.com/rethinkdb/horizon) - Horizon is a realtime, open-source backend for JavaScript apps.
-- [date-fns/date-fns](https://github.com/date-fns/date-fns) - ⏳ Modern JavaScript date utility library ⌛️
 - [JoelOtter/kajero](https://github.com/JoelOtter/kajero) - Interactive JavaScript notebooks with clever graphing
 - [spencermountain/compromise](https://github.com/spencermountain/compromise) - modest natural-language processing
 - [PiotrDabkowski/Js2Py](https://github.com/PiotrDabkowski/Js2Py) - JavaScript to Python Translator & JavaScript interpreter written in 100% pure Python🚀 Try it online:
@@ -9213,7 +9212,7 @@
 - [deepmipt/ner](https://github.com/deepmipt/ner) - Named Entity Recognition
 - [junxiaosong/AlphaZero_Gomoku](https://github.com/junxiaosong/AlphaZero_Gomoku) - An implementation of the AlphaZero algorithm for Gomoku (also called Gobang or Five in a Row)
 - [ruiminshen/yolo2-pytorch](https://github.com/ruiminshen/yolo2-pytorch) - PyTorch implementation of the YOLO (You Only Look Once) v2
-- [Instagram/MonkeyType](https://github.com/Instagram/MonkeyType) - A system for Python that generates static type annotations by collecting runtime types
+- [Instagram/MonkeyType](https://github.com/Instagram/MonkeyType) - A Python library that generates static type annotations by collecting runtime types
 - [gaojiuli/toapi](https://github.com/gaojiuli/toapi) - Every web site provides APIs.
 - [zhoubear/open-paperless](https://github.com/zhoubear/open-paperless) - Scan, index, and archive all of your paper documents (acquired by Mayan EDMS)
 - [aio-libs/aiopg](https://github.com/aio-libs/aiopg) - aiopg is a library for accessing a PostgreSQL database from the asyncio
@@ -10217,7 +10216,7 @@
 - [CNKCQ/MacSetup](https://github.com/CNKCQ/MacSetup) - a tool to setup your mac os
 - [firstlookmedia/gpgsync](https://github.com/firstlookmedia/gpgsync) - :lock: GPG Sync is designed to let users always have up-to-date public keys for other members of their organization
 - [arthepsy/ssh-audit](https://github.com/arthepsy/ssh-audit) - SSH server auditing (banner, key exchange, encryption, mac, compression, compatibility, security, etc)
-- [sanic-org/sanic](https://github.com/sanic-org/sanic) - Async Python 3.7+ web server/framework | Build fast. Run fast.
+- [sanic-org/sanic](https://github.com/sanic-org/sanic) - Next generation Python web server/framework | Build fast. Run fast.
 - [gabrieleangeletti/Deep-Learning-TensorFlow](https://github.com/gabrieleangeletti/Deep-Learning-TensorFlow) - Ready to use implementations of various Deep Learning algorithms using TensorFlow.
 - [ansible/galaxy](https://github.com/ansible/galaxy) - Source code behind the Galaxy hub at http://galaxy.ansible.com
 - [ayoungprogrammer/nlquery](https://github.com/ayoungprogrammer/nlquery) - Natural Language Engine on WikiData
@@ -13002,7 +13001,7 @@
 - [rstudio/blogdown](https://github.com/rstudio/blogdown) - Create Blogs and Websites with R Markdown
 - [ndphillips/FFTrees](https://github.com/ndphillips/FFTrees) - An R package to create and visualise fast-and-frugal decision trees (FFTs)
 - [tidyverse/stringr](https://github.com/tidyverse/stringr) - A fresh approach to string manipulation in R
-- [jdblischak/workflowr](https://github.com/jdblischak/workflowr) - Organize your project into a research website
+- [workflowr/workflowr](https://github.com/workflowr/workflowr) - Organize your project into a research website
 - [r-lib/lintr](https://github.com/r-lib/lintr) - Static Code Analysis for R
 - [r-lib/testthat](https://github.com/r-lib/testthat) - An R 📦 to make testing 😀
 - [ropensci/osmplotr](https://github.com/ropensci/osmplotr) - Data visualisation using OpenStreetMap objects
@@ -13112,6 +13111,7 @@
 - [Udzu/pudzu](https://github.com/Udzu/pudzu) - Various python scripts, mostly geared towards dataviz.
 - [jarv/cmdchallenge](https://github.com/jarv/cmdchallenge) - This repo is mirror of https://gitlab.com/jarv/cmdchallenge
 - [matiasinsaurralde/facebook-tunnel](https://github.com/matiasinsaurralde/facebook-tunnel) - Tunneling Internet traffic over Facebook chat.
+- [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 - [barmalei/scalpel](https://github.com/barmalei/scalpel) - 
 
 ## Ruby 
@@ -13466,7 +13466,6 @@
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [astrostl/aws](https://github.com/astrostl/aws) - Eases SSH management of Linux EC2 Hosts.  Supports multiple accounts.
 - [bilelmsekni/OpenStack-Grizzly-Install-Guide](https://github.com/bilelmsekni/OpenStack-Grizzly-Install-Guide) - A full install guide for OpenStack Grizzly
-- [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 
 ## Smarty 
 
@@ -13860,6 +13859,7 @@
 - [akveo/ngx-admin](https://github.com/akveo/ngx-admin) - Customizable admin dashboard template based on Angular 10+
 - [BlazeSoftware/atoms](https://github.com/BlazeSoftware/atoms) - Atoms for Blaze UI
 - [ionic-team/ionicons](https://github.com/ionic-team/ionicons) - Premium hand-crafted icons built by Ionic, for Ionic apps and web apps everywhere 🌎
+- [date-fns/date-fns](https://github.com/date-fns/date-fns) - ⏳ Modern JavaScript date utility library ⌛️
 - [tensorflow/playground](https://github.com/tensorflow/playground) - Play with neural networks!
 - [ademilter/bricklayer](https://github.com/ademilter/bricklayer) - Lightweight and independent Pinterest-like cascading grid layout library
 - [graphile/postgraphile](https://github.com/graphile/postgraphile) - Execute one command (or mount one Node.js middleware) and get an instant high-performance GraphQL API for your PostgreSQL database!
