@@ -1621,7 +1621,7 @@
 - [lindb/lindb](https://github.com/lindb/lindb) - LinDB is a scalable, high performance, high availability distributed time series database.
 - [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
 - [ardanlabs/gotraining](https://github.com/ardanlabs/gotraining) - Go Training Class Material :
-- [asim/go-micro](https://github.com/asim/go-micro) - A pluggable Go framework for distributed systems development
+- [asim/go-micro](https://github.com/asim/go-micro) - A framework for distributed systems development
 - [tektoncd/pipeline](https://github.com/tektoncd/pipeline) - A cloud-native Pipeline resource.
 - [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
 - [ibuildthecloud/k3v](https://github.com/ibuildthecloud/k3v) - Virtual Kubernetes
@@ -3017,7 +3017,6 @@
 - [ricklamers/gridstudio](https://github.com/ricklamers/gridstudio) - Grid studio is a web-based application for data science with full integration of open source data science frameworks and languages.
 - [UsulPro/js-stack-from-scratch](https://github.com/UsulPro/js-stack-from-scratch) - 🌺 Russian translation of "JavaScript Stack from Scratch" from the React-Theming developers https://github.com/sm-react/react-theming
 - [Tencent/weui.js](https://github.com/Tencent/weui.js) - A lightweight javascript library for WeUI.
-- [aws-solutions/serverless-image-handler](https://github.com/aws-solutions/serverless-image-handler) - A solution to dynamically handle images on the fly, utilizing SharpJS
 - [NetEase/pomelo](https://github.com/NetEase/pomelo) - A fast,scalable,distributed game server framework for Node.js.
 - [PanJiaChen/vue-admin-template](https://github.com/PanJiaChen/vue-admin-template) - a vue2.0 minimal admin template
 - [meetfranz/franz](https://github.com/meetfranz/franz) - Franz is a free messaging app for services like WhatsApp, Slack, Messenger and many more.
@@ -3778,7 +3777,7 @@
 - [vuejs/vue-touch](https://github.com/vuejs/vue-touch) - Hammer.js wrapper for Vue.js
 - [SimulatedGREG/electron-vue](https://github.com/SimulatedGREG/electron-vue) - An Electron & Vue.js quick start boilerplate with vue-cli scaffolding, common Vue plugins, electron-packager/electron-builder, unit/e2e testing, vue-devtools, and webpack.
 - [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies (jobs) in tech.
-- [datproject/docs](https://github.com/datproject/docs) - Documentation resources for dat and the surrounding ecosystem
+- [dat-ecosystem-archive/docs](https://github.com/dat-ecosystem-archive/docs) - Documentation resources for dat and the surrounding ecosystem
 - [rhiokim/flybook](https://github.com/rhiokim/flybook) - :airplane: FlyBook is a simple utility to generate static website such as gh-pages, manual of you projects
 - [odoo/documentation](https://github.com/odoo/documentation) - Odoo documentation sources
 - [wavebox/waveboxapp](https://github.com/wavebox/waveboxapp) - Wavebox Classic has been updated to Wavebox 10. Learn more Wavebox.io
@@ -7255,7 +7254,7 @@
 - [r9y9/wavenet_vocoder](https://github.com/r9y9/wavenet_vocoder) - WaveNet vocoder
 - [pykaldi/pykaldi](https://github.com/pykaldi/pykaldi) - A Python wrapper for Kaldi
 - [alumae/kaldi-gstreamer-server](https://github.com/alumae/kaldi-gstreamer-server) - Real-time full-duplex speech recognition server, based on the Kaldi toolkit and the GStreamer framwork.
-- [PaddlePaddle/PaddleSpeech](https://github.com/PaddlePaddle/PaddleSpeech) - A Speech Toolkit based on PaddlePaddle.
+- [PaddlePaddle/PaddleSpeech](https://github.com/PaddlePaddle/PaddleSpeech) - An Easy-to-use Speech Toolkit including SOTA ASR pipeline, influential TTS with text frontend and End-to-End Speech Simultaneous Translation.
 - [yanshengjia/ml-road](https://github.com/yanshengjia/ml-road) - Machine Learning Resources, Practice and Research
 - [lucidrains/deep-daze](https://github.com/lucidrains/deep-daze) - Simple command line tool for text to image generation using OpenAI's CLIP and Siren (Implicit neural representation network). Technique was originally created by https://twitter.com/advadnoun
 - [zengarden/momentum2-teacher](https://github.com/zengarden/momentum2-teacher) - Implementation of momentum^2 teacher
@@ -11425,7 +11424,7 @@
 - [danrobinson/tracestack](https://github.com/danrobinson/tracestack) - Instantly search your Python error messages on the web.
 - [altair-viz/altair](https://github.com/altair-viz/altair) - Declarative statistical visualization library for Python
 - [n1nj4sec/pupy](https://github.com/n1nj4sec/pupy) - Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python
-- [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe) - Dj-stripe automatically syncs your Stripe Data to your local database as pre-implemented Django Models allowing you to use the Django ORM, in your code, to work with the data making it easier and faster.
+- [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe) - dj-stripe automatically syncs your Stripe Data to your local database as pre-implemented Django Models allowing you to use the Django ORM, in your code, to work with the data making it easier and faster.
 - [purelabs/django-bulk-admin](https://github.com/purelabs/django-bulk-admin) - Django bulk admin enables you to bulk add, bulk edit, bulk upload and bulk select in django admin.
 - [asciimoo/memspector](https://github.com/asciimoo/memspector) - Inspect memory usage of python functions
 - [donnemartin/saws](https://github.com/donnemartin/saws) - A supercharged AWS command line interface (CLI).
@@ -13606,6 +13605,7 @@
 - [marmelab/react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design
 - [directus/directus](https://github.com/directus/directus) - Open-Source Data Platform 🐰  — Directus wraps any SQL database with a real-time GraphQL+REST API and an intuitive app for non-technical users.
 - [outline/outline](https://github.com/outline/outline) - The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, and markdown compatible.
+- [aws-solutions/serverless-image-handler](https://github.com/aws-solutions/serverless-image-handler) - A solution to dynamically handle images on the fly, utilizing SharpJS
 - [heremaps/harp.gl](https://github.com/heremaps/harp.gl) - 3D web map rendering engine written in TypeScript using three.js
 - [openmobilityfoundation/mds-core](https://github.com/openmobilityfoundation/mds-core) - An implementation of an MDS Agency Server written in Typescript
 - [vuejs/composition-api](https://github.com/vuejs/composition-api) - Composition API plugin for Vue 2
@@ -14036,7 +14036,7 @@
 - [JorgenVatle/vue-sweetalert-icons](https://github.com/JorgenVatle/vue-sweetalert-icons) - 🎨 Clean animated status icons for your Vue project. Based on SweetAlert's status icons
 - [edisdev/periodic-table](https://github.com/edisdev/periodic-table) - PERIODIC TABLE WITH VUE JS
 - [SaraVieira/make-frontend-shit-again](https://github.com/SaraVieira/make-frontend-shit-again) - 
-- [getcandy/candy-hub](https://github.com/getcandy/candy-hub) - The backend system for your GetCandy API
+- [getcandy/candy-hub](https://github.com/getcandy/candy-hub) - Archived: The backend system for your GetCandy v1 API
 - [iamshaunjp/vuejs-playlist](https://github.com/iamshaunjp/vuejs-playlist) - Course files for the Vue.js 2 playlist on The Net Ninja YouTube channel
 - [SixBytesUnder/infoboard](https://github.com/SixBytesUnder/infoboard) - Infoboard showing time, weather, calendar events, photos from local folder or online sources as background and Transport for London status updates. Intended for Raspberry Pi, but should work on any machine with NodeJS available.
 - [apexcharts/vue-apexcharts](https://github.com/apexcharts/vue-apexcharts) - 📊 Vue.js component for ApexCharts
