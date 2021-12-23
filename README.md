@@ -2751,7 +2751,6 @@
 - [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
 - [fossas/fossa-cli](https://github.com/fossas/fossa-cli) - Fast, portable and reliable dependency analysis for any codebase.  Supports license & vulnerability scanning for large monoliths.  Language-agnostic; integrates with 20+ build systems.
 - [def-/time.gif](https://github.com/def-/time.gif) - GIF that always shows the current time in UTC
-- [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects written in C, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala, etc.
 - [jaspervdj/patat](https://github.com/jaspervdj/patat) - Terminal-based presentations using Pandoc
 - [bjpop/blip](https://github.com/bjpop/blip) - A bytecode compiler for Python 3
 
@@ -3777,7 +3776,7 @@
 - [vuejs/vue-touch](https://github.com/vuejs/vue-touch) - Hammer.js wrapper for Vue.js
 - [SimulatedGREG/electron-vue](https://github.com/SimulatedGREG/electron-vue) - An Electron & Vue.js quick start boilerplate with vue-cli scaffolding, common Vue plugins, electron-packager/electron-builder, unit/e2e testing, vue-devtools, and webpack.
 - [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies (jobs) in tech.
-- [dat-ecosystem-archive/docs](https://github.com/dat-ecosystem-archive/docs) - Documentation resources for dat and the surrounding ecosystem
+- [dat-ecosystem-archive/docs](https://github.com/dat-ecosystem-archive/docs) - Documentation resources for dat and the surrounding ecosystem [ DEPRECATED - see https://github.com/hypercore-protocol/new-website/tree/master/guides for similar functionality. More info on active projects and modules at https://dat-ecosystem.org/ ]
 - [rhiokim/flybook](https://github.com/rhiokim/flybook) - :airplane: FlyBook is a simple utility to generate static website such as gh-pages, manual of you projects
 - [odoo/documentation](https://github.com/odoo/documentation) - Odoo documentation sources
 - [wavebox/waveboxapp](https://github.com/wavebox/waveboxapp) - Wavebox Classic has been updated to Wavebox 10. Learn more Wavebox.io
@@ -5884,6 +5883,7 @@
 ## Open Policy Agent 
 
 - [Azure/azure-policy](https://github.com/Azure/azure-policy) - Repository for Azure Resource Policy built-in definitions and samples
+- [openvinotoolkit/cvat](https://github.com/openvinotoolkit/cvat) - Powerful and efficient Computer Vision Annotation Tool (CVAT)
 
 ## OpenEdge ABL 
 
@@ -10021,6 +10021,7 @@
 - [udacity/CarND-Term1-Starter-Kit](https://github.com/udacity/CarND-Term1-Starter-Kit) - 
 - [TheAbhiKumar/tensorflow-value-iteration-networks](https://github.com/TheAbhiKumar/tensorflow-value-iteration-networks) - TensorFlow implementation of the Value Iteration Networks (NIPS '16) paper
 - [megvii-research/neural-painter](https://github.com/megvii-research/neural-painter) - Paint artistic patterns using random neural network.
+- [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects written in C, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala, etc.
 - [python273/telegraph](https://github.com/python273/telegraph) - Telegraph API wrapper | Telegra.ph
 - [kootenpv/TwitterQA](https://github.com/kootenpv/TwitterQA) - Deep learning based Twitter Imposter Chatbot
 - [uclnlp/pycodesuggest](https://github.com/uclnlp/pycodesuggest) - Learning to Auto-Complete using RNN Language Models
@@ -13586,7 +13587,6 @@
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [lostintangent/gistpad](https://github.com/lostintangent/gistpad) - VS Code extension for managing and sharing code snippets, notes and interactive samples using GitHub Gists
 - [RocketChat/docs](https://github.com/RocketChat/docs) - Rocket.Chat's user documentation.
-- [openvinotoolkit/cvat](https://github.com/openvinotoolkit/cvat) - Powerful and efficient Computer Vision Annotation Tool (CVAT)
 - [tensorflow/tfjs-models](https://github.com/tensorflow/tfjs-models) - Pretrained models for TensorFlow.js
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [hygieia/hygieia](https://github.com/hygieia/hygieia) - CapitalOne  DevOps Dashboard
