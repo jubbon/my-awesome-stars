@@ -453,7 +453,6 @@
 - [postgres/postgres](https://github.com/postgres/postgres) - Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don't work with pull requests on github. To contribute, please see https://wiki.postgresql.org/wiki/Submitting_a_Patch
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [jbenet/nanotime](https://github.com/jbenet/nanotime) - nanosecond-precision 64bit time type
-- [PyTables/PyTables](https://github.com/PyTables/PyTables) - A Python package to manage extremely large amounts of data
 - [swiperproxy/swiperproxy](https://github.com/swiperproxy/swiperproxy) - A Python-based HTTP/HTTPS-proxy.
 - [torch/torch7](https://github.com/torch/torch7) - http://torch.ch
 - [redis/redis](https://github.com/redis/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.
@@ -612,7 +611,7 @@
 - [VKCOM/YouTokenToMe](https://github.com/VKCOM/YouTokenToMe) - Unsupervised text tokenizer focused on computational efficiency
 - [griddb/griddb](https://github.com/griddb/griddb) - GridDB is a next-generation open source database that makes time series IoT and big data fast,and easy.
 - [triton-inference-server/server](https://github.com/triton-inference-server/server) - The Triton Inference Server provides an optimized cloud and edge inferencing solution.
-- [taichi-dev/taichi](https://github.com/taichi-dev/taichi) - Parallel programming for everyone.
+- [taichi-dev/taichi](https://github.com/taichi-dev/taichi) - Productive parallel programming in "Python".
 - [hellochick/FICM](https://github.com/hellochick/FICM) - :video_game: [IJCAI'20][ICLR'19 Workshop] Flow-based Intrinsic Curiosity Module. Playing SuperMario with RL agent and FICM!
 - [gibsjose/cpp-cheat-sheet](https://github.com/gibsjose/cpp-cheat-sheet) - C++ Syntax, Data Structures, and Algorithms Cheat Sheet
 - [google/earthenterprise](https://github.com/google/earthenterprise) - Google Earth Enterprise - Open Source
@@ -3550,7 +3549,6 @@
 - [calirojas506/vue-inspector](https://github.com/calirojas506/vue-inspector) - Vue.js Inspector for Mobile Devices
 - [gajus/swing](https://github.com/gajus/swing) - A swipeable cards interface. The swipe-left/swipe-right for yes/no input. As seen in apps like Jelly and Tinder.
 - [LinusBorg/portal-vue](https://github.com/LinusBorg/portal-vue) - A feature-rich Portal Plugin for Vue 2, for rendering DOM outside of a component, anywhere in your app or the entire document.
-- [egoist/vue-final-form](https://github.com/egoist/vue-final-form) - 🏁 High performance subscription-based form state management for Vue.js.
 - [brunosimon/keppler](https://github.com/brunosimon/keppler) - Real time code sharing for your lectures and presentations.
 - [ankurk91/vue-cleave-component](https://github.com/ankurk91/vue-cleave-component) - Vue.js component for Cleave.js input mask library :keyboard:
 - [vfeskov/vanilla-back-to-top](https://github.com/vfeskov/vanilla-back-to-top) - Simple and smooth Back To Top button
@@ -8659,7 +8657,7 @@
 - [yzhao062/pyod](https://github.com/yzhao062/pyod) - A Python Toolbox for Scalable Outlier Detection (Anomaly Detection)
 - [dizballanze/m00dbot](https://github.com/dizballanze/m00dbot) - Telegram bot for self-testing of anxiety and depression
 - [facebookresearch/supervision-by-registration](https://github.com/facebookresearch/supervision-by-registration) - Supervision-by-Registration: An Unsupervised Approach to Improve the Precision of Facial Landmark Detectors
-- [MasoniteFramework/masonite](https://github.com/MasoniteFramework/masonite) - The Modern And Developer Centric Python Web Framework. Be sure to read the documentation and join the Slack channel questions: http://slack.masoniteproject.com
+- [MasoniteFramework/masonite](https://github.com/MasoniteFramework/masonite) - The Modern And Developer Centric Python Web Framework. Be sure to read the documentation and join the Discord channel for questions: https://discord.gg/TwKeFahmPZ
 - [fabiocarrara/deep-parking](https://github.com/fabiocarrara/deep-parking) - Code to reproduce 'Deep Learning for Decentralized Parking Lot Occupancy Detection' paper.
 - [batra-mlp-lab/visdial-rl](https://github.com/batra-mlp-lab/visdial-rl) - PyTorch code for Learning Cooperative Visual Dialog Agents using Deep Reinforcement Learning
 - [flairNLP/flair](https://github.com/flairNLP/flair) - A very simple framework for state-of-the-art Natural Language Processing (NLP)
@@ -11669,6 +11667,7 @@
 - [jbmouret/matplotlib_for_papers](https://github.com/jbmouret/matplotlib_for_papers) - Handout for the tutorial "Creating publication-quality figures with matplotlib"
 - [Kozea/WeasyPrint](https://github.com/Kozea/WeasyPrint) - The awesome document factory
 - [openstack/pbr](https://github.com/openstack/pbr) - Python Build Reasonableness. Mirror of code maintained at opendev.org.
+- [PyTables/PyTables](https://github.com/PyTables/PyTables) - A Python package to manage extremely large amounts of data
 - [bintoro/overloading.py](https://github.com/bintoro/overloading.py) - Function overloading for Python 3
 - [garyjohnson/pqaut](https://github.com/garyjohnson/pqaut) - UI automation server that runs in PyQt apps and enables BDD style testing.
 - [ayancey/dirmon](https://github.com/ayancey/dirmon) - Cross-platform library to poll directories for changes (added/removed)
@@ -11819,7 +11818,7 @@
 - [postmanlabs/httpbin](https://github.com/postmanlabs/httpbin) - HTTP Request & Response Service, written in Python + Flask.
 - [mewwts/addict](https://github.com/mewwts/addict) - The Python Dict that's better than heroin.
 - [i2y/mochi](https://github.com/i2y/mochi) - Dynamically typed functional programming language
-- [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.3, 3.4, 3.5, 3.6, 3.7, 3.8, and 3.9.  You feed it your Python app, it does a lot of clever things, and spits out an executable or extension module.
+- [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.3, 3.4, 3.5, 3.6, 3.7, 3.8, 3.9, and 3.10.  You feed it your Python app, it does a lot of clever things, and spits out an executable or extension module.
 - [Lasagne/Lasagne](https://github.com/Lasagne/Lasagne) - Lightweight library to build and train neural networks in Theano
 - [quantopian/pgcontents](https://github.com/quantopian/pgcontents) - A Postgres-backed ContentsManager implementation for Jupyter
 - [benjamin-croker/loggy](https://github.com/benjamin-croker/loggy) - 
@@ -14158,6 +14157,7 @@
 - [sdras/sample-vue-shop](https://github.com/sdras/sample-vue-shop) - See readme for newer repo details! A sample shop that shows how to manage payments with Vue, Stripe, and Serverless Functions
 - [scaccogatto/vue-waypoint](https://github.com/scaccogatto/vue-waypoint) - trigger functions and events based on the element position on the screen
 - [goweiwen/vue-swing](https://github.com/goweiwen/vue-swing) - Vue.js wrapper for Swing
+- [egoist/vue-final-form](https://github.com/egoist/vue-final-form) - 🏁 High performance subscription-based form state management for Vue.js.
 - [jecovier/vue-json-excel](https://github.com/jecovier/vue-json-excel) - 
 - [halower/vue-tree](https://github.com/halower/vue-tree) - tree and multi-select component based on Vue.js 2.0
 - [quasarframework/quasar-play](https://github.com/quasarframework/quasar-play) - [&lt;= 0.17] Quasar Framework Showcase App
