@@ -12945,7 +12945,7 @@
 - [bbrodriges/pholcidae](https://github.com/bbrodriges/pholcidae) - Tiny python web crawler
 - [machinalis/quepy](https://github.com/machinalis/quepy) - A python framework to transform natural language questions to queries in a database query language.
 - [aws/aws-cli](https://github.com/aws/aws-cli) - Universal Command Line Interface for Amazon Web Services
-- [arrow-py/arrow](https://github.com/arrow-py/arrow) - Better dates & times for Python
+- [arrow-py/arrow](https://github.com/arrow-py/arrow) - 🏹 Better dates & times for Python
 - [blaze/blaze](https://github.com/blaze/blaze) - NumPy and Pandas interface to Big Data
 - [locationlabs/mockredis](https://github.com/locationlabs/mockredis) - mock for redis-py (NO LONGER SUPPORTED)
 - [quantopian/zipline](https://github.com/quantopian/zipline) - Zipline, a Pythonic Algorithmic Trading Library
