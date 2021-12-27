@@ -1633,7 +1633,7 @@
 - [Phantas0s/devdash](https://github.com/Phantas0s/devdash) - :bento: Highly Configurable Terminal Dashboard for Developers and Creators
 - [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database
 - [callicoder/go-docker-compose](https://github.com/callicoder/go-docker-compose) - Golang Docker Compose Example
-- [txthinking/mr2](https://github.com/txthinking/mr2) - mr2 can help you expose local server to external network. Support both TCP/UDP, of course support HTTP.  Zero-Configuration. mr2 帮助你将本地端口暴露在外网.支持TCP/UDP, 当然也支持HTTP.
+- [txthinking/zoro](https://github.com/txthinking/zoro) - zoro can help you expose local server to external network. Support both TCP/UDP, of course support HTTP.  Zero-Configuration. zoro 帮助你将本地端口暴露在外网.支持TCP/UDP, 当然也支持HTTP. 内网穿透.
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues
 - [ProtonMail/gopenpgp](https://github.com/ProtonMail/gopenpgp) - A high-level OpenPGP library
 - [liamg/tml](https://github.com/liamg/tml) - :rainbow::computer::art: A tiny markup language for terminal output. Makes formatting output in CLI apps easier!
@@ -2612,7 +2612,7 @@
 - [kokes/nbviewer.js](https://github.com/kokes/nbviewer.js) - Client side rendering of Jupyter notebooks
 - [kristoferjoseph/flexboxgrid](https://github.com/kristoferjoseph/flexboxgrid) - Grid based on CSS3 flexbox
 - [w3c/svgwg](https://github.com/w3c/svgwg) - SVG Working Group specifications
-- [coreui/coreui-free-bootstrap-admin-template](https://github.com/coreui/coreui-free-bootstrap-admin-template) - CoreUI is free bootstrap admin template
+- [coreui/coreui-free-bootstrap-admin-template](https://github.com/coreui/coreui-free-bootstrap-admin-template) - Free bootstrap admin template
 - [webpack-contrib/awesome-webpack](https://github.com/webpack-contrib/awesome-webpack) - A curated list of awesome Webpack resources, libraries and tools
 - [madrobby/zepto](https://github.com/madrobby/zepto) - Zepto.js is a minimalist JavaScript library for modern browsers, with a jQuery-compatible API
 - [cqcn1991/Wind-Speed-Analysis](https://github.com/cqcn1991/Wind-Speed-Analysis) - An elegant probability model for the joint distribution of wind speed and direction.
@@ -4455,6 +4455,7 @@
 
 ## Jupyter Notebook 
 
+- [gaih/introduction-to-machine-learning](https://github.com/gaih/introduction-to-machine-learning) - 
 - [atoti/notebooks](https://github.com/atoti/notebooks) - atoti notebooks gallery
 - [microsoft/Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners) - 10 Weeks, 20 Lessons, Data Science for All!
 - [deepmind/mathematics_conjectures](https://github.com/deepmind/mathematics_conjectures) - 
@@ -8250,7 +8251,7 @@
 - [knazeri/edge-connect](https://github.com/knazeri/edge-connect) - EdgeConnect: Structure Guided Image Inpainting using Edge Prediction, ICCV  2019 https://arxiv.org/abs/1901.00212
 - [kimiyoung/transformer-xl](https://github.com/kimiyoung/transformer-xl) - 
 - [aws-samples/cookiecutter-aws-sam-python](https://github.com/aws-samples/cookiecutter-aws-sam-python) - A Cookiecutter template to create a Serverless App based on Serverless Application Model (SAM) and Python 3.6
-- [jessevig/bertviz](https://github.com/jessevig/bertviz) - Tool for visualizing attention in the Transformer model (BERT, GPT-2, Albert, XLNet, RoBERTa, CTRL, etc.)
+- [jessevig/bertviz](https://github.com/jessevig/bertviz) - Tool for visualizing attention in the Transformer model (BERT, GPT-2, RoBERTa, etc.)
 - [ecthros/uncaptcha2](https://github.com/ecthros/uncaptcha2) - defeating the latest version of ReCaptcha with 91% accuracy
 - [hrpan/tetris_mcts](https://github.com/hrpan/tetris_mcts) - MCTS project for Tetris
 - [THUFutureLab/gluon-face](https://github.com/THUFutureLab/gluon-face) - An unofficial Gluon FR Toolkit for face recognition. https://gluon-face.readthedocs.io
