@@ -1239,7 +1239,7 @@
 - [lipis/flag-icons](https://github.com/lipis/flag-icons) - :flags: A curated collection of all country flags in SVG — plus the CSS for easier integration
 - [tobiasahlin/SpinKit](https://github.com/tobiasahlin/SpinKit) - A collection of loading indicators animated with CSS
 - [dhg/Skeleton](https://github.com/dhg/Skeleton) - Skeleton: A Dead Simple, Responsive Boilerplate for Mobile-Friendly Development
-- [ProgrammingFonts/ProgrammingFonts](https://github.com/ProgrammingFonts/ProgrammingFonts) - This is a collection of programming fonts,just share this with the programmers.Now there are 103 kinds of fantastic fonts!
+- [ProgrammingFonts/ProgrammingFonts](https://github.com/ProgrammingFonts/ProgrammingFonts) - This is a collection of programming fonts,just share this with the programmers.Now there are 105 kinds of fantastic fonts!
 - [horst3180/arc-theme](https://github.com/horst3180/arc-theme) - A flat theme with transparent elements
 - [necolas/normalize.css](https://github.com/necolas/normalize.css) - A modern alternative to CSS resets
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
@@ -2938,7 +2938,7 @@
 - [kiteco/vscode-plugin](https://github.com/kiteco/vscode-plugin) - Kite Autocomplete Plugin for Visual Studio Code
 - [expressjs/express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
 - [jitsi/docker-jitsi-meet](https://github.com/jitsi/docker-jitsi-meet) - Jitsi Meet on Docker
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 1400 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 1450 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [marcotcr/lime](https://github.com/marcotcr/lime) - Lime: Explaining the predictions of any machine learning classifier
 - [microsoft/botframework-sdk](https://github.com/microsoft/botframework-sdk) - Bot Framework provides the most comprehensive experience for building conversation applications.
 - [lukeed/uuid](https://github.com/lukeed/uuid) - A tiny (~230B)and fast UUID (V4) generator for Node and the browser
@@ -4455,6 +4455,8 @@
 
 ## Jupyter Notebook 
 
+- [sail-sg/poolformer](https://github.com/sail-sg/poolformer) - PoolFormer: MetaFormer is Actually What You Need for Vision
+- [mrdbourke/tensorflow-deep-learning](https://github.com/mrdbourke/tensorflow-deep-learning) - All course materials for the Zero to Mastery Deep Learning with TensorFlow course.
 - [gaih/introduction-to-machine-learning](https://github.com/gaih/introduction-to-machine-learning) - 
 - [atoti/notebooks](https://github.com/atoti/notebooks) - atoti notebooks gallery
 - [microsoft/Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners) - 10 Weeks, 20 Lessons, Data Science for All!
@@ -6977,6 +6979,7 @@
 
 ## Python 
 
+- [deepmind/meltingpot](https://github.com/deepmind/meltingpot) - 
 - [huggingface/data-measurements-tool](https://github.com/huggingface/data-measurements-tool) - Developing tools to automatically analyze datasets
 - [kensho-technologies/pyctcdecode](https://github.com/kensho-technologies/pyctcdecode) - A fast and lightweight python-based CTC beam search decoder for speech recognition.
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
@@ -8251,7 +8254,7 @@
 - [knazeri/edge-connect](https://github.com/knazeri/edge-connect) - EdgeConnect: Structure Guided Image Inpainting using Edge Prediction, ICCV  2019 https://arxiv.org/abs/1901.00212
 - [kimiyoung/transformer-xl](https://github.com/kimiyoung/transformer-xl) - 
 - [aws-samples/cookiecutter-aws-sam-python](https://github.com/aws-samples/cookiecutter-aws-sam-python) - A Cookiecutter template to create a Serverless App based on Serverless Application Model (SAM) and Python 3.6
-- [jessevig/bertviz](https://github.com/jessevig/bertviz) - Tool for visualizing attention in the Transformer model (BERT, GPT-2, RoBERTa, etc.)
+- [jessevig/bertviz](https://github.com/jessevig/bertviz) - Tool for visualizing attention in Transformer models (BERT, GPT-2, RoBERTa, etc.)
 - [ecthros/uncaptcha2](https://github.com/ecthros/uncaptcha2) - defeating the latest version of ReCaptcha with 91% accuracy
 - [hrpan/tetris_mcts](https://github.com/hrpan/tetris_mcts) - MCTS project for Tetris
 - [THUFutureLab/gluon-face](https://github.com/THUFutureLab/gluon-face) - An unofficial Gluon FR Toolkit for face recognition. https://gluon-face.readthedocs.io
