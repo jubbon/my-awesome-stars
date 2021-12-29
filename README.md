@@ -1968,7 +1968,7 @@
 - [mingrammer/go-web-framework-stars](https://github.com/mingrammer/go-web-framework-stars) - :star: Web frameworks for Go, most starred on GitHub
 - [matryer/is](https://github.com/matryer/is) - Professional lightweight testing mini-framework for Go.
 - [Orientsoft/kubekit](https://github.com/Orientsoft/kubekit) - A Kubernetes deployment toolkit for offline environment.
-- [openfaas/faas-netes](https://github.com/openfaas/faas-netes) - Serverless on Kubernetes with OpenFaaS
+- [openfaas/faas-netes](https://github.com/openfaas/faas-netes) - Serverless Functions For Kubernetes
 - [vmware-archive/kubeless](https://github.com/vmware-archive/kubeless) - Kubernetes Native Serverless Framework
 - [algolia/sup3rS3cretMes5age](https://github.com/algolia/sup3rS3cretMes5age) - Simple to use, simple to deploy, one time self destruct messaging service, with hashicorp vault as a backend
 - [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) - Workflow engine for Kubernetes
@@ -4324,7 +4324,7 @@
 - [MagicStack/MagicPython](https://github.com/MagicStack/MagicPython) - Cutting edge Python syntax highlighter for Sublime Text, Atom and Visual Studio Code. Used by GitHub to highlight your Python code!
 - [Jaza/flask-editablesite](https://github.com/Jaza/flask-editablesite) - A template for building a small marketing web site in Flask where all content is live editable.
 - [kamalmarhubi/one-second](https://github.com/kamalmarhubi/one-second) - Fun performance game!
-- [datproject/dat](https://github.com/datproject/dat) - :floppy_disk: peer-to-peer sharing & live syncronization of files via command line
+- [dat-ecosystem-archive/dat](https://github.com/dat-ecosystem-archive/dat) - :floppy_disk: peer-to-peer sharing & live syncronization of files via command line [ DEPRECATED - More info on active projects and modules at https://dat-ecosystem.org/ ]
 - [ITLibertas/odoo-public-addons](https://github.com/ITLibertas/odoo-public-addons) - Addons for OpenERP (Odoo) by IT Libertas
 - [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
 - [beeware/batavia](https://github.com/beeware/batavia) - A JavaScript implementation of the Python virtual machine.
@@ -4455,6 +4455,9 @@
 
 ## Jupyter Notebook 
 
+- [milaan9/Python_Decision_Tree_and_Random_Forest](https://github.com/milaan9/Python_Decision_Tree_and_Random_Forest) - I've demonstrated the working of the decision tree-based ID3 algorithm. Use an appropriate data set for building the decision tree and apply this knowledge to classify a new sample. All the steps have been explained in detail with graphics for better understanding.
+- [facebookresearch/beanmachine](https://github.com/facebookresearch/beanmachine) - A library that allows for inference on probabilistic models
+- [Atcold/NYU-DLSP21](https://github.com/Atcold/NYU-DLSP21) - NYU Deep Learning Spring 2021
 - [sail-sg/poolformer](https://github.com/sail-sg/poolformer) - PoolFormer: MetaFormer is Actually What You Need for Vision
 - [mrdbourke/tensorflow-deep-learning](https://github.com/mrdbourke/tensorflow-deep-learning) - All course materials for the Zero to Mastery Deep Learning with TensorFlow course.
 - [gaih/introduction-to-machine-learning](https://github.com/gaih/introduction-to-machine-learning) - 
@@ -6979,6 +6982,7 @@
 
 ## Python 
 
+- [cosmic-cortex/fastAPI-ML-quickstart](https://github.com/cosmic-cortex/fastAPI-ML-quickstart) - 
 - [deepmind/meltingpot](https://github.com/deepmind/meltingpot) - 
 - [huggingface/data-measurements-tool](https://github.com/huggingface/data-measurements-tool) - Developing tools to automatically analyze datasets
 - [kensho-technologies/pyctcdecode](https://github.com/kensho-technologies/pyctcdecode) - A fast and lightweight python-based CTC beam search decoder for speech recognition.
@@ -7185,7 +7189,7 @@
 - [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) - Sample cloud-native application with 10 microservices showcasing Kubernetes, Istio, gRPC and OpenCensus.
 - [PeterL1n/BackgroundMattingV2](https://github.com/PeterL1n/BackgroundMattingV2) - Real-Time High-Resolution Background Matting
 - [POSTECH-CVLab/PyTorch-StudioGAN](https://github.com/POSTECH-CVLab/PyTorch-StudioGAN) - StudioGAN is a Pytorch library providing implementations of representative Generative Adversarial Networks (GANs) for conditional/unconditional image generation.
-- [PaddlePaddle/PaddleGAN](https://github.com/PaddlePaddle/PaddleGAN) - PaddlePaddle GAN library, including lots of interesting applications like First-Order motion transfer,  wav2lip, picture repair, image editing, photo2cartoon, image style transfer, and so on.
+- [PaddlePaddle/PaddleGAN](https://github.com/PaddlePaddle/PaddleGAN) - PaddlePaddle GAN library, including lots of interesting applications like First-Order motion transfer,  Wav2Lip, picture repair, image editing, photo2cartoon, image style transfer, GPEN, and so on.
 - [google/BIG-bench](https://github.com/google/BIG-bench) - Beyond the Imitation Game collaborative benchmark for measuring and extrapolating the capabilities of language models
 - [facebookresearch/fairscale](https://github.com/facebookresearch/fairscale) - PyTorch extensions for high performance and large scale training.
 - [hyunwoongko/openchat](https://github.com/hyunwoongko/openchat) - Easy to use opensource chatting framework via neural networks
@@ -8253,7 +8257,7 @@
 - [p-christ/Deep-Reinforcement-Learning-Algorithms-with-PyTorch](https://github.com/p-christ/Deep-Reinforcement-Learning-Algorithms-with-PyTorch) - PyTorch implementations of deep reinforcement learning algorithms and environments
 - [knazeri/edge-connect](https://github.com/knazeri/edge-connect) - EdgeConnect: Structure Guided Image Inpainting using Edge Prediction, ICCV  2019 https://arxiv.org/abs/1901.00212
 - [kimiyoung/transformer-xl](https://github.com/kimiyoung/transformer-xl) - 
-- [aws-samples/cookiecutter-aws-sam-python](https://github.com/aws-samples/cookiecutter-aws-sam-python) - A Cookiecutter template to create a Serverless App based on Serverless Application Model (SAM) and Python 3.6
+- [aws-samples/cookiecutter-aws-sam-python](https://github.com/aws-samples/cookiecutter-aws-sam-python) - A Cookiecutter template to create a Serverless App based on Serverless Application Model (SAM) and Python 3.8
 - [jessevig/bertviz](https://github.com/jessevig/bertviz) - Tool for visualizing attention in Transformer models (BERT, GPT-2, RoBERTa, etc.)
 - [ecthros/uncaptcha2](https://github.com/ecthros/uncaptcha2) - defeating the latest version of ReCaptcha with 91% accuracy
 - [hrpan/tetris_mcts](https://github.com/hrpan/tetris_mcts) - MCTS project for Tetris
@@ -9425,7 +9429,7 @@
 - [xoreaxeaxeax/sandsifter](https://github.com/xoreaxeaxeax/sandsifter) - The x86 processor fuzzer
 - [facebookarchive/loop](https://github.com/facebookarchive/loop) - A method to generate speech across multiple speakers
 - [eldraco/domain_analyzer](https://github.com/eldraco/domain_analyzer) - Analyze the security of any domain by finding all the information possible. Made in python.
-- [ofek/hatch](https://github.com/ofek/hatch) - A modern project, package, and virtual env manager for Python
+- [ofek/hatch](https://github.com/ofek/hatch) - Modern, extensible Python project management
 - [khanrc/tf.gans-comparison](https://github.com/khanrc/tf.gans-comparison) - Implementations of (theoretical) generative adversarial networks and comparison without cherry-picking
 - [ansible/awx](https://github.com/ansible/awx) - AWX Project
 - [lufficc/flask_ishuhui](https://github.com/lufficc/flask_ishuhui) - Comic reading website built by flask.
