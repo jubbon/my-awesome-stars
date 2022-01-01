@@ -1606,6 +1606,7 @@
 - [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
 - [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
 - [jetstack/cert-manager](https://github.com/jetstack/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes
+- [j3ssie/osmedeus](https://github.com/j3ssie/osmedeus) - A Workflow Engine for Offensive Security
 - [dapr/dapr](https://github.com/dapr/dapr) - Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
 - [OWASP/Amass](https://github.com/OWASP/Amass) - In-depth Attack Surface Mapping and Asset Discovery
 - [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) - Git extension for versioning large files
@@ -2231,6 +2232,7 @@
 - [speechbrain/speechbrain.github.io](https://github.com/speechbrain/speechbrain.github.io) - The SpeechBrain project aims to build a novel speech toolkit fully based on PyTorch. With SpeechBrain users can easily create speech processing systems, ranging from speech recognition (both HMM/DNN and end-to-end), speaker recognition, speech enhancement, speech separation, multi-microphone speech processing, and many others.
 - [AnonymousPlanet/thgtoa](https://github.com/AnonymousPlanet/thgtoa) - The Hitchhiker’s Guide to Online Anonymity
 - [bobbyiliev/introduction-to-bash-scripting](https://github.com/bobbyiliev/introduction-to-bash-scripting) - Free Introduction to Bash Scripting eBook
+- [VladislavEremeev/QA_bible](https://github.com/VladislavEremeev/QA_bible) - Библия QA это почти 300 страниц обновляемой смеси ответов на вопросы с реальных собеседований на QA, полезных ресурсов и статей, перевода интересного контента с зарубежных ресурсов и агрегации материала с отечественных.
 - [mixmark-io/turndown](https://github.com/mixmark-io/turndown) - 🛏 An HTML to Markdown converter written in JavaScript
 - [Azure/actions](https://github.com/Azure/actions) - Author and use Azure Actions to automate your GitHub workflows
 - [buriy/nlp_workshop](https://github.com/buriy/nlp_workshop) - nlp workshop at datafest siberia 2019
@@ -5958,7 +5960,6 @@
 - [igoradamenko/awesome-made-by-russians](https://github.com/igoradamenko/awesome-made-by-russians) - 🇷🇺 The best open source projects that were made and mainly contributed by Russian developers
 - [visenger/awesome-mlops](https://github.com/visenger/awesome-mlops) - A curated list of references for MLOps
 - [mrdbourke/machine-learning-roadmap](https://github.com/mrdbourke/machine-learning-roadmap) - A roadmap connecting many of the most important concepts in machine learning, how to learn them and what tools to use to perform them.
-- [VladislavEremeev/QA_bible](https://github.com/VladislavEremeev/QA_bible) - Библия QA это почти 300 страниц обновляемой смеси ответов на вопросы с реальных собеседований на QA, полезных ресурсов и статей, перевода интересного контента с зарубежных ресурсов и агрегации материала с отечественных.
 - [microsoft/sql-server-samples](https://github.com/microsoft/sql-server-samples) - Azure Data SQL Samples - Official Microsoft GitHub Repository containing code samples for SQL Server, Azure SQL, Azure Synapse, and Azure SQL Edge
 - [datastacktv/data-engineer-roadmap](https://github.com/datastacktv/data-engineer-roadmap) - Roadmap to becoming a data engineer in 2021
 - [balavenkatesh3322/NLP-pretrained-model](https://github.com/balavenkatesh3322/NLP-pretrained-model) - A collection of Natural language processing pre-trained models.
@@ -7859,7 +7860,6 @@
 - [astooke/rlpyt](https://github.com/astooke/rlpyt) - Reinforcement Learning in PyTorch
 - [overhangio/tutor](https://github.com/overhangio/tutor) - The docker-based Open edX distribution designed for peace of mind
 - [more-itertools/more-itertools](https://github.com/more-itertools/more-itertools) - More routines for operating on iterables, beyond itertools
-- [j3ssie/Osmedeus](https://github.com/j3ssie/Osmedeus) - Fully automated offensive security framework for reconnaissance and vulnerability scanning
 - [machrisaa/tensorflow-vgg](https://github.com/machrisaa/tensorflow-vgg) - VGG19 and VGG16 on Tensorflow
 - [google-research/text-to-text-transfer-transformer](https://github.com/google-research/text-to-text-transfer-transformer) - Code for the paper "Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer"
 - [yzhao062/anomaly-detection-resources](https://github.com/yzhao062/anomaly-detection-resources) - Anomaly detection related books, papers, videos, and toolboxes
@@ -8271,7 +8271,7 @@
 - [knazeri/edge-connect](https://github.com/knazeri/edge-connect) - EdgeConnect: Structure Guided Image Inpainting using Edge Prediction, ICCV  2019 https://arxiv.org/abs/1901.00212
 - [kimiyoung/transformer-xl](https://github.com/kimiyoung/transformer-xl) - 
 - [aws-samples/cookiecutter-aws-sam-python](https://github.com/aws-samples/cookiecutter-aws-sam-python) - A Cookiecutter template to create a Serverless App based on Serverless Application Model (SAM) and Python 3.8
-- [jessevig/bertviz](https://github.com/jessevig/bertviz) - Tool for visualizing attention in Transformer models (BERT, GPT-2, BART, etc.)
+- [jessevig/bertviz](https://github.com/jessevig/bertviz) - BertViz: Visualize Attention in Transformer Models (BERT, GPT-2, BART, etc.)
 - [ecthros/uncaptcha2](https://github.com/ecthros/uncaptcha2) - defeating the latest version of ReCaptcha with 91% accuracy
 - [hrpan/tetris_mcts](https://github.com/hrpan/tetris_mcts) - MCTS project for Tetris
 - [THUFutureLab/gluon-face](https://github.com/THUFutureLab/gluon-face) - An unofficial Gluon FR Toolkit for face recognition. https://gluon-face.readthedocs.io
@@ -13955,7 +13955,7 @@
 - [antonreshetov/massCode](https://github.com/antonreshetov/massCode) - A free and open source code snippets manager for developers.
 - [chronotruck/vue-ctk-date-time-picker](https://github.com/chronotruck/vue-ctk-date-time-picker) - VueJS component to select dates & time, including a range mode
 - [mudin/vue-indoor](https://github.com/mudin/vue-indoor) - VueJS wrapper for indoorjs
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 🛸 Open source API development ecosystem https://hoppscotch.io
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem https://hoppscotch.io
 - [WeBankFinTech/Scriptis](https://github.com/WeBankFinTech/Scriptis) - Scriptis is for interactive data analysis with script development(SQL, Pyspark, HiveQL), task submission(Spark, Hive), UDF, function, resource management and intelligent diagnosis.
 - [tevora-threat/Scout](https://github.com/tevora-threat/Scout) - Surveillance Detection Scout: Your Lookout on Autopilot
 - [Arattian/DynamoDb-GUI-Client](https://github.com/Arattian/DynamoDb-GUI-Client) - DynamoDb GUI Client
