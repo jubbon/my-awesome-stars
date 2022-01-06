@@ -199,7 +199,6 @@
 - [edenhill/librdkafka](https://github.com/edenhill/librdkafka) - The Apache Kafka C/C++ library
 - [gcc-mirror/gcc](https://github.com/gcc-mirror/gcc) - 
 - [jedisct1/dsvpn](https://github.com/jedisct1/dsvpn) - A Dead Simple VPN.
-- [taosdata/TDengine](https://github.com/taosdata/TDengine) - An open-source big data platform designed and optimized for the Internet of Things (IoT).
 - [metacall/core](https://github.com/metacall/core) - MetaCall: The ultimate polyglot programming experience.
 - [woltapp/blurhash](https://github.com/woltapp/blurhash) - A very compact representation of a placeholder for an image.
 - [uber/h3-go](https://github.com/uber/h3-go) - Go bindings for H3, a hierarchical hexagonal geospatial indexing system
@@ -503,6 +502,7 @@
 
 ## C++ 
 
+- [deepmind/envlogger](https://github.com/deepmind/envlogger) - A tool for recording RL trajectories.
 - [triton-inference-server/backend](https://github.com/triton-inference-server/backend) - Common source, scripts and utilities for creating Triton backends.
 - [kpu/kenlm](https://github.com/kpu/kenlm) - KenLM: Faster and Smaller Language Model Queries
 - [darglein/ADOP](https://github.com/darglein/ADOP) - 
@@ -2898,6 +2898,7 @@
 
 ## JavaScript 
 
+- [google/videotts](https://github.com/google/videotts) - 
 - [prabhuomkar/iris](https://github.com/prabhuomkar/iris) - Open Source Photos Platform Powered by PyTorch
 - [thunlp/WantWords](https://github.com/thunlp/WantWords) - An open-source online reverse dictionary.
 - [sberbank-ai-lab/lightautoml-datafest-workshop](https://github.com/sberbank-ai-lab/lightautoml-datafest-workshop) - Materials for LightAutoML workshop (DataFest 2021)
@@ -4458,6 +4459,8 @@
 
 ## Jupyter Notebook 
 
+- [google/physics-math-tutorials](https://github.com/google/physics-math-tutorials) - 
+- [ShapeAI/Python-and-Machine-Learning](https://github.com/ShapeAI/Python-and-Machine-Learning) - 6th Feb 2021
 - [pymc-devs/resources](https://github.com/pymc-devs/resources) - PyMC3 educational resources
 - [aswintechguy/Machine-Learning-Projects](https://github.com/aswintechguy/Machine-Learning-Projects) - This repository contains mini projects in machine learning with notebook files
 - [PradyumnaKrishna/Colab-Hacks](https://github.com/PradyumnaKrishna/Colab-Hacks) - Simple Hacks for Google Colaboratory to boost your productivity and help you to perform daily tasks.
@@ -5608,7 +5611,7 @@
 - [geffy/tffm](https://github.com/geffy/tffm) - TensorFlow implementation of an arbitrary order Factorization Machine
 - [sjchoi86/Tensorflow-101](https://github.com/sjchoi86/Tensorflow-101) - TensorFlow Tutorials
 - [amygdala/tensorflow-workshop](https://github.com/amygdala/tensorflow-workshop) - This repo contains materials for use in a TensorFlow workshop.
-- [mouradmourafiq/tensorflow-lstm-regression](https://github.com/mouradmourafiq/tensorflow-lstm-regression) - Sequence prediction using recurrent neural networks(LSTM) with TensorFlow
+- [polyaxon/tensorflow-lstm-regression](https://github.com/polyaxon/tensorflow-lstm-regression) - Sequence prediction using recurrent neural networks(LSTM) with TensorFlow
 - [aimacode/aima-python](https://github.com/aimacode/aima-python) - Python implementation of algorithms from Russell And Norvig's "Artificial Intelligence - A Modern Approach"
 - [piiswrong/deep3d](https://github.com/piiswrong/deep3d) - Automatic 2D-to-3D Video Conversion with CNNs
 - [h2oai/h2o-tutorials](https://github.com/h2oai/h2o-tutorials) - Tutorials and training material for the H2O Machine Learning Platform
@@ -5917,7 +5920,6 @@
 - [Dyakonov/DL](https://github.com/Dyakonov/DL) - Курс "Глубокое обучение (Deep Learning)" (ВМК, МГУ имени М.В. Ломоносова)
 - [khangich/machine-learning-interview](https://github.com/khangich/machine-learning-interview) - Machine Learning Interviews from FAANG, Snapchat, LinkedIn. I have offers from Snapchat, Coupang, Stitchfix etc. Blog: mlengineer.io.
 - [chrieke/awesome-satellite-imagery-datasets](https://github.com/chrieke/awesome-satellite-imagery-datasets) - 🛰️ List of satellite image training datasets with annotations for computer vision and deep learning
-- [cedrickchee/awesome-ml-model-compression](https://github.com/cedrickchee/awesome-ml-model-compression) - Awesome machine learning model compression research papers, tools, and learning material.
 - [cedrickchee/awesome-ml-model-compression](https://github.com/cedrickchee/awesome-ml-model-compression) - Awesome machine learning model compression research papers, tools, and learning material.
 - [m-bain/webvid](https://github.com/m-bain/webvid) - Large-scale text-video dataset.
 - [pyannote/pyannote-audio-hub](https://github.com/pyannote/pyannote-audio-hub) - Pretrained models for pyannote-audio
@@ -6991,6 +6993,8 @@
 
 ## Python 
 
+- [google-research/plur](https://github.com/google-research/plur) - PLUR (Programming-Language Understanding and Repair) is a collection of source code datasets suitable for graph-based machine learning. We provide scripts for downloading, processing, and loading the datasets. This is done by offering a unified API and data structures for all datasets.
+- [sberbank-ai/ru-prompts](https://github.com/sberbank-ai/ru-prompts) - 
 - [microsoft/torchgeo](https://github.com/microsoft/torchgeo) - TorchGeo: datasets, transforms, and models for geospatial data
 - [ELS-RD/transformer-deploy](https://github.com/ELS-RD/transformer-deploy) - Efficient, scalable and enterprise-grade CPU/GPU inference server for Hugging Face transformer models 🚀
 - [thunlp/OpenPrompt](https://github.com/thunlp/OpenPrompt) - An Open-Source Framework for Prompt-Learning.
@@ -7388,7 +7392,7 @@
 - [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools
 - [TensorSpeech/TensorFlowTTS](https://github.com/TensorSpeech/TensorFlowTTS) - :stuck_out_tongue_closed_eyes: TensorFlowTTS: Real-Time State-of-the-art Speech Synthesis for Tensorflow 2 (supported including English, French, Korean, Chinese, German and Easy to adapt for other languages)
 - [ct-Open-Source/tuya-convert](https://github.com/ct-Open-Source/tuya-convert) - A collection of scripts to flash Tuya IoT devices to alternative firmwares
-- [willmcgugan/rich](https://github.com/willmcgugan/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
+- [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [eternnoir/pyTelegramBotAPI](https://github.com/eternnoir/pyTelegramBotAPI) - Python Telegram bot api.
 - [huawei-noah/vega](https://github.com/huawei-noah/vega) - AutoML tools chain
 - [mhxion/awesome-discord-communities](https://github.com/mhxion/awesome-discord-communities) - A curated list of awesome Discord communities for programmers
@@ -7419,7 +7423,7 @@
 - [pfnet/pytorch-pfn-extras](https://github.com/pfnet/pytorch-pfn-extras) - Supplementary components to accelerate research and development in PyTorch
 - [graphql-python/graphene-django](https://github.com/graphql-python/graphene-django) - Integrate GraphQL into your Django project.
 - [xuebinqin/U-2-Net](https://github.com/xuebinqin/U-2-Net) - The code for our newly accepted paper in Pattern Recognition 2020: "U^2-Net: Going Deeper with Nested U-Structure for Salient Object Detection."
-- [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) - Prevent cloud misconfigurations during build-time for Terraform, Cloudformation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew.
+- [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) - Prevent cloud misconfigurations during build-time for Terraform, CloudFormation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew.
 - [patrick-kidger/NeuralCDE](https://github.com/patrick-kidger/NeuralCDE) - Code for "Neural Controlled Differential Equations for Irregular Time Series" (Neurips 2020 Spotlight)
 - [Garfinkel/GithubDataVisTool](https://github.com/Garfinkel/GithubDataVisTool) - 
 - [as-ideas/TransformerTTS](https://github.com/as-ideas/TransformerTTS) - 🤖💬 Transformer TTS: Implementation of a non-autoregressive Transformer based neural network for text to speech.
@@ -7983,6 +7987,7 @@
 - [subho406/OmniNet](https://github.com/subho406/OmniNet) - Official Pytorch implementation of "OmniNet: A unified architecture for multi-modal multi-task learning" | Authors: Subhojeet Pramanik, Priyanka Agrawal, Aman Hussain
 - [PhantomInsights/baby-names-analysis](https://github.com/PhantomInsights/baby-names-analysis) - Data ETL & Analysis on the dataset 'Baby Names from Social Security Card Applications - National Data'.
 - [guoday/Tencent2019_Preliminary_Rank1st](https://github.com/guoday/Tencent2019_Preliminary_Rank1st) - The code for 2019 Tencent College Algorithm Contest, and the online result ranks 1st in the preliminary.
+- [taosdata/TDengine](https://github.com/taosdata/TDengine) - An open-source big data platform designed and optimized for the Internet of Things (IoT).
 - [mapsme/subways](https://github.com/mapsme/subways) - Subway Preprocessor and Validator
 - [juntatalor/pycon2019_pytest](https://github.com/juntatalor/pycon2019_pytest) - Pytest masterclass for Pycon2019
 - [m-wrzr/populartimes](https://github.com/m-wrzr/populartimes) - 
