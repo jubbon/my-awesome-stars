@@ -3454,7 +3454,6 @@
 - [mafintosh/turbo-http](https://github.com/mafintosh/turbo-http) - Blazing fast low level http server
 - [terkelg/prompts](https://github.com/terkelg/prompts) - ❯ Lightweight, beautiful and user-friendly interactive prompts
 - [pqina/filepond](https://github.com/pqina/filepond) - 🌊 A flexible and fun JavaScript file upload library
-- [lethexa/leaflet-tracksymbol](https://github.com/lethexa/leaflet-tracksymbol) - A rotatable symbol for leaflet
 - [valentinogagliardi/django-drf-react-quickstart](https://github.com/valentinogagliardi/django-drf-react-quickstart) - Django REST framework/React quickstart
 - [devbridge/Front-End-Toolkit](https://github.com/devbridge/Front-End-Toolkit) - A collection of resources, useful tools and technologies for front-end web development.
 - [bencodezen/vue-enterprise-boilerplate](https://github.com/bencodezen/vue-enterprise-boilerplate) - An ever-evolving, very opinionated architecture and dev environment for new Vue SPA projects using Vue CLI.
@@ -4459,6 +4458,7 @@
 
 ## Jupyter Notebook 
 
+- [yandexdataschool/deep_vision_and_graphics](https://github.com/yandexdataschool/deep_vision_and_graphics) - Course about deep learning for computer vision and graphics co-developed by YSDA and Skoltech.
 - [google/physics-math-tutorials](https://github.com/google/physics-math-tutorials) - 
 - [ShapeAI/Python-and-Machine-Learning](https://github.com/ShapeAI/Python-and-Machine-Learning) - 6th Feb 2021
 - [pymc-devs/resources](https://github.com/pymc-devs/resources) - PyMC3 educational resources
@@ -5611,7 +5611,6 @@
 - [geffy/tffm](https://github.com/geffy/tffm) - TensorFlow implementation of an arbitrary order Factorization Machine
 - [sjchoi86/Tensorflow-101](https://github.com/sjchoi86/Tensorflow-101) - TensorFlow Tutorials
 - [amygdala/tensorflow-workshop](https://github.com/amygdala/tensorflow-workshop) - This repo contains materials for use in a TensorFlow workshop.
-- [polyaxon/tensorflow-lstm-regression](https://github.com/polyaxon/tensorflow-lstm-regression) - Sequence prediction using recurrent neural networks(LSTM) with TensorFlow
 - [aimacode/aima-python](https://github.com/aimacode/aima-python) - Python implementation of algorithms from Russell And Norvig's "Artificial Intelligence - A Modern Approach"
 - [piiswrong/deep3d](https://github.com/piiswrong/deep3d) - Automatic 2D-to-3D Video Conversion with CNNs
 - [h2oai/h2o-tutorials](https://github.com/h2oai/h2o-tutorials) - Tutorials and training material for the H2O Machine Learning Platform
@@ -6993,6 +6992,7 @@
 
 ## Python 
 
+- [NorskRegnesentral/skweak](https://github.com/NorskRegnesentral/skweak) - skweak: A software toolkit for weak supervision applied to NLP tasks
 - [google-research/plur](https://github.com/google-research/plur) - PLUR (Programming-Language Understanding and Repair) is a collection of source code datasets suitable for graph-based machine learning. We provide scripts for downloading, processing, and loading the datasets. This is done by offering a unified API and data structures for all datasets.
 - [sberbank-ai/ru-prompts](https://github.com/sberbank-ai/ru-prompts) - 
 - [microsoft/torchgeo](https://github.com/microsoft/torchgeo) - TorchGeo: datasets, transforms, and models for geospatial data
@@ -9704,7 +9704,7 @@
 - [toji/semilive](https://github.com/toji/semilive) - A Sublime Text plugin for "Live" coding
 - [scikit-garden/scikit-garden](https://github.com/scikit-garden/scikit-garden) - A garden for scikit-learn compatible trees
 - [tox-dev/tox-docker](https://github.com/tox-dev/tox-docker) - A tox plugin to run one or more Docker containers during tests
-- [polyaxon/polyaxon](https://github.com/polyaxon/polyaxon) - Machine Learning Platform for Kubernetes (MLOps tools for experimentation and automation)
+- [polyaxon/polyaxon](https://github.com/polyaxon/polyaxon) - Machine Learning Management & Orchestration Platform (Monorepo for Polyaxon's MLOps Tools)
 - [rakhimov/cppdep](https://github.com/rakhimov/cppdep) - C/C++ Dependency Analyzer: a rewrite of John Lakos' dep_utils (adep/cdep/ldep) from "Large-Scale C++ Software Design"
 - [timmahrt/praatIO](https://github.com/timmahrt/praatIO) - A python library for working with praat, textgrids, time aligned audio transcripts, and audio files. It is primarily used for extracting features from and making manipulations on audio files given hierarchical time-aligned transcriptions (utterance &gt; word &gt; syllable &gt; phone, etc).
 - [dbcli/mycli](https://github.com/dbcli/mycli) - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
@@ -10604,6 +10604,7 @@
 - [luhaofang/tripletloss](https://github.com/luhaofang/tripletloss) - tripletloss in caffe
 - [cuemacro/finmarketpy](https://github.com/cuemacro/finmarketpy) - Python library for backtesting trading strategies & analyzing financial markets (formerly pythalesians)
 - [scikit-learn-contrib/imbalanced-learn](https://github.com/scikit-learn-contrib/imbalanced-learn) - A Python Package to Tackle the Curse of Imbalanced Datasets in Machine Learning
+- [polyaxon/traceml](https://github.com/polyaxon/traceml) - Engine for ML/Data tracking, visualization, dashboards, and model UI for Polyaxon.
 - [devsisters/DQN-tensorflow](https://github.com/devsisters/DQN-tensorflow) - Tensorflow implementation of Human-Level Control through Deep Reinforcement Learning
 - [sirfz/tesserocr](https://github.com/sirfz/tesserocr) - A Python wrapper for the tesseract-ocr API
 - [hkupty/asterix](https://github.com/hkupty/asterix) - Manage python components startup quickly and efficiently
