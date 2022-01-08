@@ -686,7 +686,7 @@
 - [jing-interactive/DancingGaga](https://github.com/jing-interactive/DancingGaga) - AI 尬舞机
 - [funnyzhou/Adaptive_Feeding](https://github.com/funnyzhou/Adaptive_Feeding) - 
 - [hydro-project/fluent](https://github.com/hydro-project/fluent) - A data-driven compute platform
-- [facebookincubator/LogDevice](https://github.com/facebookincubator/LogDevice) - Distributed storage for sequential data
+- [facebookarchive/LogDevice](https://github.com/facebookarchive/LogDevice) - Distributed storage for sequential data
 - [baidu/BaikalDB](https://github.com/baidu/BaikalDB) - BaikalDB, A Distributed HTAP Database.
 - [google/filament](https://github.com/google/filament) - Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2
 - [doxygen/doxygen](https://github.com/doxygen/doxygen) - Official doxygen git repository
@@ -8684,7 +8684,7 @@
 - [quark0/darts](https://github.com/quark0/darts) - Differentiable architecture search for convolutional and recurrent networks
 - [sebastianruder/NLP-progress](https://github.com/sebastianruder/NLP-progress) - Repository to track the progress in Natural Language Processing (NLP), including the datasets and the current state-of-the-art for the most common NLP tasks.
 - [mikeyy/nonoCAPTCHA](https://github.com/mikeyy/nonoCAPTCHA) - An asynchronized Python library to automate solving ReCAPTCHA v2 using audio
-- [yzhao062/pyod](https://github.com/yzhao062/pyod) - A Python Toolbox for Scalable Outlier Detection (Anomaly Detection)
+- [yzhao062/pyod](https://github.com/yzhao062/pyod) - (JMLR' 19) A Python Toolbox for Scalable Outlier Detection (Anomaly Detection)
 - [dizballanze/m00dbot](https://github.com/dizballanze/m00dbot) - Telegram bot for self-testing of anxiety and depression
 - [facebookresearch/supervision-by-registration](https://github.com/facebookresearch/supervision-by-registration) - Supervision-by-Registration: An Unsupervised Approach to Improve the Precision of Facial Landmark Detectors
 - [MasoniteFramework/masonite](https://github.com/MasoniteFramework/masonite) - The Modern And Developer Centric Python Web Framework. Be sure to read the documentation and join the Discord channel for questions: https://discord.gg/TwKeFahmPZ
