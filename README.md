@@ -12228,7 +12228,7 @@
 - [mapbox/vector-tile-py](https://github.com/mapbox/vector-tile-py) - DEPRECATED - Parses vector tiles with Python
 - [andreasvc/readability](https://github.com/andreasvc/readability) - Measure the readability of a given text using surface characteristics
 - [Polyconseil/getconf](https://github.com/Polyconseil/getconf) - Simple Python configuration utilities.
-- [harelba/q](https://github.com/harelba/q) - q - Run SQL directly on CSV or TSV files
+- [harelba/q](https://github.com/harelba/q) - q - Run SQL directly on delimited files and multi-file sqlite databases
 - [scrapinghub/pycon-speakers](https://github.com/scrapinghub/pycon-speakers) - Speakers Spider (PyCon 2014 sprint)
 - [diracdeltas/heartbox](https://github.com/diracdeltas/heartbox) - Fast way to set up and test Heartbleed attack on a FreeBSD 10.0 virtualbox w/ Apache 2.4
 - [OliverSherouse/wbdata](https://github.com/OliverSherouse/wbdata) - A python library for accessing world bank data
