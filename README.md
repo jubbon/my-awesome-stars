@@ -152,6 +152,7 @@
 
 ## C 
 
+- [unispeech/unimrcp](https://github.com/unispeech/unimrcp) - Open source cross-platform implementation of MRCP protocol
 - [aporia-ai/TrainInvaders](https://github.com/aporia-ai/TrainInvaders) - 👾 Jupyter Notebook + Space Invaders!?
 - [gmtsar/gmtsar](https://github.com/gmtsar/gmtsar) - GMTSAR
 - [deepmind/mujoco](https://github.com/deepmind/mujoco) - Multi-Joint dynamics with Contact. A general purpose physics simulator.
@@ -1719,7 +1720,7 @@
 - [goki/gi](https://github.com/goki/gi) - Native Go (golang) Graphical Interface system (2D and 3D), built on GoKi tree framework
 - [amazon-archives/aws-service-operator](https://github.com/amazon-archives/aws-service-operator) - AWS Service Operator allows you to create AWS resources using kubectl.
 - [MontFerret/ferret](https://github.com/MontFerret/ferret) - Declarative web scraping
-- [polyaxon/mloperator](https://github.com/polyaxon/mloperator) - Kubernetes Machine Learning Operator
+- [polyaxon/mloperator](https://github.com/polyaxon/mloperator) - Machine Learning Operator & Controller for Kubernetes
 - [meshbird/meshbird](https://github.com/meshbird/meshbird) - Distributed private networking
 - [pulumi/kubespy](https://github.com/pulumi/kubespy) - Tools for observing Kubernetes resources in real time, powered by Pulumi.
 - [TarsCloud/TarsGo](https://github.com/TarsCloud/TarsGo) - A  high performance microservice  framework  in golang. A linux foundation project.
@@ -2898,6 +2899,7 @@
 
 ## JavaScript 
 
+- [symblai/speech-recognition-evaluation](https://github.com/symblai/speech-recognition-evaluation) - Evaluate results from ASR/Speech-to-Text quickly
 - [google/videotts](https://github.com/google/videotts) - 
 - [prabhuomkar/iris](https://github.com/prabhuomkar/iris) - Open Source Photos Platform Powered by PyTorch
 - [thunlp/WantWords](https://github.com/thunlp/WantWords) - An open-source online reverse dictionary.
@@ -4458,6 +4460,7 @@
 
 ## Jupyter Notebook 
 
+- [google-research/rliable](https://github.com/google-research/rliable) - Library for reliable evaluation on RL and ML benchmarks, as recommended by our NeurIPS 2021 Outstanding Paper.
 - [yandexdataschool/deep_vision_and_graphics](https://github.com/yandexdataschool/deep_vision_and_graphics) - Course about deep learning for computer vision and graphics co-developed by YSDA and Skoltech.
 - [google/physics-math-tutorials](https://github.com/google/physics-math-tutorials) - 
 - [ShapeAI/Python-and-Machine-Learning](https://github.com/ShapeAI/Python-and-Machine-Learning) - 6th Feb 2021
@@ -4606,6 +4609,7 @@
 - [ivi-ru/video-scene-detection](https://github.com/ivi-ru/video-scene-detection) - Video Scene Detection Based on the Optimal Sequential Grouping algorithm
 - [krittikaiitb/tutorials](https://github.com/krittikaiitb/tutorials) - Set of Jupyter Notebooks, along with datafiles, to get started with Scientific Computing in Astronomy
 - [BY571/DQN-Atari-Agents](https://github.com/BY571/DQN-Atari-Agents) - DQN-Atari-Agents:   Modularized & Parallel PyTorch implementation of several DQN Agents, i.a. DDQN, Dueling DQN, Noisy DQN, C51, Rainbow, and DRQN
+- [harskish/ganspace](https://github.com/harskish/ganspace) - Discovering Interpretable GAN Controls [NeurIPS 2020]
 - [harskish/ganspace](https://github.com/harskish/ganspace) - Discovering Interpretable GAN Controls [NeurIPS 2020]
 - [firmai/deltapy](https://github.com/firmai/deltapy) - DeltaPy - Tabular Data Augmentation (by @firmai)
 - [zylo117/Yet-Another-EfficientDet-Pytorch](https://github.com/zylo117/Yet-Another-EfficientDet-Pytorch) - The pytorch re-implement of the official efficientdet with SOTA performance in real time and pretrained weights.
@@ -5909,6 +5913,7 @@
 
 ## Others 
 
+- [DAGsHub/audio-datasets](https://github.com/DAGsHub/audio-datasets) - open-source audio datasets
 - [semi-technologies/awesome-weaviate](https://github.com/semi-technologies/awesome-weaviate) - Awesome Weaviate
 - [huggingface/s3prl](https://github.com/huggingface/s3prl) - Self-Supervised Speech Pre-training and Representation Learning Toolkit.
 - [yandex-cloud/docs](https://github.com/yandex-cloud/docs) - Yandex.Cloud documentation
@@ -6992,6 +6997,14 @@
 
 ## Python 
 
+- [deepmipt/translation-enru](https://github.com/deepmipt/translation-enru) - 
+- [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
+- [jantrienes/nereval](https://github.com/jantrienes/nereval) - Evaluation script for named entity recognition (NER) systems based on entity-level F1 score.
+- [Unbabel/COMET](https://github.com/Unbabel/COMET) - A Neural Framework for MT Evaluation
+- [clovaai/CLEval](https://github.com/clovaai/CLEval) - CLEval: Character-Level Evaluation for Text Detection and Recognition Tasks
+- [davidsbatista/NER-Evaluation](https://github.com/davidsbatista/NER-Evaluation) - An implementation of a full named-entity evaluation metrics based on SemEval'13 Task 9 - not at tag/token level but considering all the tokens that are part of the named-entity
+- [jumon/pywer](https://github.com/jumon/pywer) - A simple Python package to calculate word error rate (WER).
+- [jitsi/jiwer](https://github.com/jitsi/jiwer) - Evaluate your speech-to-text system with similarity measures such as word error rate (WER)
 - [NorskRegnesentral/skweak](https://github.com/NorskRegnesentral/skweak) - skweak: A software toolkit for weak supervision applied to NLP tasks
 - [google-research/plur](https://github.com/google-research/plur) - PLUR (Programming-Language Understanding and Repair) is a collection of source code datasets suitable for graph-based machine learning. We provide scripts for downloading, processing, and loading the datasets. This is done by offering a unified API and data structures for all datasets.
 - [sberbank-ai/ru-prompts](https://github.com/sberbank-ai/ru-prompts) - 
@@ -7364,7 +7377,7 @@
 - [PaddlePaddle/PaddleDetection](https://github.com/PaddlePaddle/PaddleDetection) - Object Detection toolkit based on PaddlePaddle. It supports object detection, instance segmentation, multiple object tracking and real-time multi-person keypoint detection.
 - [ankitects/anki](https://github.com/ankitects/anki) - Anki for desktop computers
 - [vinayak-mehta/present](https://github.com/vinayak-mehta/present) - A terminal-based presentation tool with colors and effects.
-- [woven-planet/l5kit](https://github.com/woven-planet/l5kit) - L5Kit - level5.lyft.com
+- [woven-planet/l5kit](https://github.com/woven-planet/l5kit) - L5Kit - https://level-5.global/
 - [UKPLab/sentence-transformers](https://github.com/UKPLab/sentence-transformers) - Multilingual Sentence & Image Embeddings with BERT
 - [ultralytics/yolov5](https://github.com/ultralytics/yolov5) - YOLOv5 🚀 in PyTorch &gt; ONNX &gt; CoreML &gt; TFLite
 - [aristocratos/bpytop](https://github.com/aristocratos/bpytop) - Linux/OSX/FreeBSD resource monitor
@@ -8062,7 +8075,7 @@
 - [tensorflow/text](https://github.com/tensorflow/text) - Making text a first-class citizen in TensorFlow.
 - [google-research/football](https://github.com/google-research/football) - Check out the new game server:
 - [google/TensorNetwork](https://github.com/google/TensorNetwork) - A library for easy and efficient manipulation of tensor networks.
-- [quantumblacklabs/kedro](https://github.com/quantumblacklabs/kedro) - A Python framework for creating reproducible, maintainable and modular data science code.
+- [kedro-org/kedro](https://github.com/kedro-org/kedro) - A Python framework for creating reproducible, maintainable and modular data science code.
 - [zsef123/EfficientNets-PyTorch](https://github.com/zsef123/EfficientNets-PyTorch) - A PyTorch implementation of " EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks."
 - [defunkt/pystache](https://github.com/defunkt/pystache) - Mustache in Python
 - [JaeDukSeo/reinforcement-learning-an-introduction](https://github.com/JaeDukSeo/reinforcement-learning-an-introduction) - Python Implementation of Reinforcement Learning: An Introduction
@@ -8319,7 +8332,7 @@
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - Predictive AI layer for existing databases.
 - [google/jax](https://github.com/google/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
 - [rtqichen/torchdiffeq](https://github.com/rtqichen/torchdiffeq) - Differentiable ODE solvers with full GPU support and O(1)-memory backpropagation.
-- [vaexio/vaex](https://github.com/vaexio/vaex) - Out-of-Core hybrid Apache Arrow/NumPy DataFrame for Python, ML, visualize and explore big tabular data at a billion rows per second 🚀
+- [vaexio/vaex](https://github.com/vaexio/vaex) - Out-of-Core hybrid Apache Arrow/NumPy DataFrame for Python, ML, visualization and exploration of big tabular data at a billion rows per second 🚀
 - [facebookresearch/pytext](https://github.com/facebookresearch/pytext) - A natural language modeling framework based on PyTorch
 - [benedekrozemberczki/SGCN](https://github.com/benedekrozemberczki/SGCN) - A PyTorch implementation of "Signed Graph Convolutional Network" (ICDM 2018).
 - [dmlc/dgl](https://github.com/dmlc/dgl) - Python package built to ease deep learning on graph, on top of existing DL frameworks.
@@ -10218,7 +10231,6 @@
 - [Pylons/pyramid](https://github.com/Pylons/pyramid) - Pyramid - A Python web framework
 - [fpietka/rds-pgbadger](https://github.com/fpietka/rds-pgbadger) - Fetch logs from RDS instance, and process them with pgBadger
 - [buriburisuri/sugartensor](https://github.com/buriburisuri/sugartensor) - A slim tensorflow wrapper that provides syntactic sugar for tensor variables. This library will be helpful for practical deep learning researchers not beginners.
-- [buriburisuri/ebgan](https://github.com/buriburisuri/ebgan) - A tensorflow implementation of Junbo et al's Energy-based generative adversarial network ( EBGAN ) paper.
 - [tonybaloney/mocker](https://github.com/tonybaloney/mocker) - A Docker-type runtime, written in 100% Python
 - [thp/urlwatch](https://github.com/thp/urlwatch) - urlwatch monitors webpages for you
 - [skorokithakis/jsane](https://github.com/skorokithakis/jsane) - A saner way to traverse JSON in Python
