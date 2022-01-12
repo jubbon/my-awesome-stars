@@ -1241,7 +1241,7 @@
 - [lipis/flag-icons](https://github.com/lipis/flag-icons) - :flags: A curated collection of all country flags in SVG — plus the CSS for easier integration
 - [tobiasahlin/SpinKit](https://github.com/tobiasahlin/SpinKit) - A collection of loading indicators animated with CSS
 - [dhg/Skeleton](https://github.com/dhg/Skeleton) - Skeleton: A Dead Simple, Responsive Boilerplate for Mobile-Friendly Development
-- [ProgrammingFonts/ProgrammingFonts](https://github.com/ProgrammingFonts/ProgrammingFonts) - This is a collection of programming fonts,just share this with the programmers.Now there are 106 kinds of fantastic fonts!
+- [ProgrammingFonts/ProgrammingFonts](https://github.com/ProgrammingFonts/ProgrammingFonts) - This is a collection of programming fonts,just share this with the programmers.Now there are 105 kinds of fantastic fonts!
 - [horst3180/arc-theme](https://github.com/horst3180/arc-theme) - A flat theme with transparent elements
 - [necolas/normalize.css](https://github.com/necolas/normalize.css) - A modern alternative to CSS resets
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
@@ -1537,7 +1537,6 @@
 ## Gnuplot 
 
 - [nasa-jpl/open-source-rover](https://github.com/nasa-jpl/open-source-rover) - A build-it-yourself, 6-wheel rover based on the rovers on Mars!
-- [googlefonts/noto-fonts](https://github.com/googlefonts/noto-fonts) - Noto fonts, except for CJK and emoji
 
 ## Go 
 
@@ -2133,7 +2132,7 @@
 - [IBM-Blockchain-Archive/learn-chaincode](https://github.com/IBM-Blockchain-Archive/learn-chaincode) - Learn how to write chaincode.  (For the latest information, see http://hyperledger-fabric.readthedocs.io/en/latest/chaincode.html)
 - [nim4/DBShield](https://github.com/nim4/DBShield) - Database firewall written in Go
 - [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is an open source distributed HTAP database compatible with the MySQL protocol
-- [ory/hydra](https://github.com/ory/hydra) - OpenID Certified™ OpenID Connect and OAuth Provider written in Go - cloud native, security-first, open source API security for your infrastructure. SDKs for any language. Compatible with MITREid.
+- [ory/hydra](https://github.com/ory/hydra) - OpenID Certified™ OpenID Connect and OAuth Provider written in Go - cloud native, security-first, open source API security for your infrastructure. SDKs for any language. Works with Hardware Security Modules. Compatible with MITREid.
 - [lifadev/archive_aws-lambda-go](https://github.com/lifadev/archive_aws-lambda-go) - A fast and clean way to execute Go on AWS Lambda.
 - [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
 - [therecipe/qt](https://github.com/therecipe/qt) - Qt binding for Go (Golang) with support for Windows / macOS / Linux / FreeBSD / Android / iOS / Sailfish OS / Raspberry Pi / AsteroidOS / Ubuntu Touch / JavaScript / WebAssembly
@@ -2377,7 +2376,6 @@
 - [radareorg/r2con2018](https://github.com/radareorg/r2con2018) - 
 - [pythonindia/inpycon2018](https://github.com/pythonindia/inpycon2018) - PyCon India 2018 site
 - [sayazamurai/python-vs-javascript](https://github.com/sayazamurai/python-vs-javascript) - 
-- [dhongu/deltatech](https://github.com/dhongu/deltatech) - Terrabit addons for Odoo
 - [firebase/quickstart-js](https://github.com/firebase/quickstart-js) - Firebase Quickstart Samples for Web
 - [wowchemy/wowchemy-hugo-themes](https://github.com/wowchemy/wowchemy-hugo-themes) - 🔥 Hugo website builder, Hugo themes & Hugo CMS. No code, build with widgets! 创建在线课程，学术简历或初创网站。
 - [MatrixAINetwork/MATRIX_Etherscan](https://github.com/MatrixAINetwork/MATRIX_Etherscan) - This is a crawler used to visit Ehterscan and obtain smartcontract related info
@@ -4609,7 +4607,6 @@
 - [ivi-ru/video-scene-detection](https://github.com/ivi-ru/video-scene-detection) - Video Scene Detection Based on the Optimal Sequential Grouping algorithm
 - [krittikaiitb/tutorials](https://github.com/krittikaiitb/tutorials) - Set of Jupyter Notebooks, along with datafiles, to get started with Scientific Computing in Astronomy
 - [BY571/DQN-Atari-Agents](https://github.com/BY571/DQN-Atari-Agents) - DQN-Atari-Agents:   Modularized & Parallel PyTorch implementation of several DQN Agents, i.a. DDQN, Dueling DQN, Noisy DQN, C51, Rainbow, and DRQN
-- [harskish/ganspace](https://github.com/harskish/ganspace) - Discovering Interpretable GAN Controls [NeurIPS 2020]
 - [harskish/ganspace](https://github.com/harskish/ganspace) - Discovering Interpretable GAN Controls [NeurIPS 2020]
 - [firmai/deltapy](https://github.com/firmai/deltapy) - DeltaPy - Tabular Data Augmentation (by @firmai)
 - [zylo117/Yet-Another-EfficientDet-Pytorch](https://github.com/zylo117/Yet-Another-EfficientDet-Pytorch) - The pytorch re-implement of the official efficientdet with SOTA performance in real time and pretrained weights.
@@ -6997,6 +6994,8 @@
 
 ## Python 
 
+- [tiangolo/asyncer](https://github.com/tiangolo/asyncer) - Asyncer, async and await, focused on developer experience.
+- [slhck/ffmpeg-normalize](https://github.com/slhck/ffmpeg-normalize) - Audio Normalization for Python/ffmpeg
 - [deepmipt/translation-enru](https://github.com/deepmipt/translation-enru) - 
 - [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
 - [jantrienes/nereval](https://github.com/jantrienes/nereval) - Evaluation script for named entity recognition (NER) systems based on entity-level F1 score.
@@ -10231,6 +10230,8 @@
 - [Pylons/pyramid](https://github.com/Pylons/pyramid) - Pyramid - A Python web framework
 - [fpietka/rds-pgbadger](https://github.com/fpietka/rds-pgbadger) - Fetch logs from RDS instance, and process them with pgBadger
 - [buriburisuri/sugartensor](https://github.com/buriburisuri/sugartensor) - A slim tensorflow wrapper that provides syntactic sugar for tensor variables. This library will be helpful for practical deep learning researchers not beginners.
+- [buriburisuri/ebgan](https://github.com/buriburisuri/ebgan) - A tensorflow implementation of Junbo et al's Energy-based generative adversarial network ( EBGAN ) paper.
+- [googlefonts/noto-fonts](https://github.com/googlefonts/noto-fonts) - Noto fonts, except for CJK and emoji
 - [tonybaloney/mocker](https://github.com/tonybaloney/mocker) - A Docker-type runtime, written in 100% Python
 - [thp/urlwatch](https://github.com/thp/urlwatch) - urlwatch monitors webpages for you
 - [skorokithakis/jsane](https://github.com/skorokithakis/jsane) - A saner way to traverse JSON in Python
