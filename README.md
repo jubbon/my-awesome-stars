@@ -2217,7 +2217,7 @@
 - [yandex-cloud/yc-solution-library-for-security](https://github.com/yandex-cloud/yc-solution-library-for-security) - 
 - [wandb/local](https://github.com/wandb/local) - W&B Local is the self hosted version of Weights & Biases
 - [jcolemorrison/vault-on-aws](https://github.com/jcolemorrison/vault-on-aws) - A secure HashiCorp Vault for secrets, tokens, keys,  passwords, and more.  Automated deployment with Terraform on AWS.  Configurable options for security and scalability.  Usable with any applications and services hosted anywhere.
-- [antonbabenko/terraform-best-practices](https://github.com/antonbabenko/terraform-best-practices) - Terraform best practices (constantly updating)
+- [antonbabenko/terraform-best-practices](https://github.com/antonbabenko/terraform-best-practices) - Terraform best practices (available in multiple languages)
 - [hashicorp/best-practices](https://github.com/hashicorp/best-practices) - 
 
 ## HTML 
@@ -2342,7 +2342,6 @@
 - [haoking/opencvjs](https://github.com/haoking/opencvjs) - Complete opencvjs (With the lastest OpenCV 4.0.0+)
 - [tc39/proposal-built-in-modules](https://github.com/tc39/proposal-built-in-modules) - 
 - [alienzhou/frontend-tech-list](https://github.com/alienzhou/frontend-tech-list) - 📝 Frontend Tech List for Developers 💡
-- [robotframework/robotframework.github.com](https://github.com/robotframework/robotframework.github.com) - Robot Framework ecosystem from page
 - [Benjamin-Lee/deep-rules](https://github.com/Benjamin-Lee/deep-rules) - Ten Quick Tips for Deep Learning in Biology
 - [camelot-dev/excalibur](https://github.com/camelot-dev/excalibur) - A web interface to extract tabular data from PDFs
 - [pmeenan/http2priorities](https://github.com/pmeenan/http2priorities) - Test Page for HTTP/2 prioritization (server and browser)
@@ -6993,6 +6992,7 @@
 
 ## Python 
 
+- [negrinho/deep_architect](https://github.com/negrinho/deep_architect) - A general, modular, and programmable architecture search framework
 - [tiangolo/asyncer](https://github.com/tiangolo/asyncer) - Asyncer, async and await, focused on developer experience.
 - [slhck/ffmpeg-normalize](https://github.com/slhck/ffmpeg-normalize) - Audio Normalization for Python/ffmpeg
 - [deepmipt/translation-enru](https://github.com/deepmipt/translation-enru) - 
@@ -7040,7 +7040,7 @@
 - [Janspiry/Image-Super-Resolution-via-Iterative-Refinement](https://github.com/Janspiry/Image-Super-Resolution-via-Iterative-Refinement) - Unoffical implementation about Image Super-Resolution via Iterative Refinement by Pytorch
 - [jiupinjia/rocket-recycling](https://github.com/jiupinjia/rocket-recycling) - Rocket-recycling with Reinforcement Learning
 - [open-mmlab/mmflow](https://github.com/open-mmlab/mmflow) - OpenMMLab optical flow toolbox and benchmark
-- [PaddlePaddle/PaddleSeg](https://github.com/PaddlePaddle/PaddleSeg) - Easy-to-use image segmentation library with awesome pre-trained model zoo, supporting wide-range of practical tasks in Semantic Segmentation, Interactive Segmentation, Panoptic Segmentation, Image Matting etc.
+- [PaddlePaddle/PaddleSeg](https://github.com/PaddlePaddle/PaddleSeg) - Easy-to-use image segmentation library with awesome pre-trained model zoo, supporting wide-range of practical tasks in Semantic Segmentation, Interactive Segmentation, Panoptic Segmentation, Image Matting, etc.
 - [MenghaoGuo/Awesome-Vision-Attentions](https://github.com/MenghaoGuo/Awesome-Vision-Attentions) - Summary of related papers on visual attention. Related code will be released based on Jittor gradually.
 - [NITRO-AI/NitroFE](https://github.com/NITRO-AI/NitroFE) - NitroFE is a Python feature engineering engine which provides a variety of modules designed to internally save past dependent values for providing continuous calculation.
 - [microsoft/varuna](https://github.com/microsoft/varuna) - 
@@ -7081,7 +7081,7 @@
 - [Alexander-H-Liu/End-to-end-ASR-Pytorch](https://github.com/Alexander-H-Liu/End-to-end-ASR-Pytorch) - This is an open source project (formerly named Listen, Attend and Spell - PyTorch Implementation) for end-to-end ASR implemented with Pytorch, the well known deep learning toolkit.
 - [facebookresearch/salina](https://github.com/facebookresearch/salina) - a Lightweight library for sequential learning agents, including reinforcement learning
 - [recognai/rubrix](https://github.com/recognai/rubrix) - ✨A Python framework to label, refine, and monitor data for NLP projects
-- [NVIDIA/Megatron-LM](https://github.com/NVIDIA/Megatron-LM) - Ongoing research training transformer language models at scale, including: BERT & GPT-2
+- [NVIDIA/Megatron-LM](https://github.com/NVIDIA/Megatron-LM) - Ongoing research training transformer models at scale
 - [dry-python/returns](https://github.com/dry-python/returns) - Make your functions return something meaningful, typed, and safe!
 - [laixintao/iredis](https://github.com/laixintao/iredis) - Interactive Redis: A Terminal Client for Redis with AutoCompletion and Syntax Highlighting.
 - [h3lio5/linguistic-style-transfer-pytorch](https://github.com/h3lio5/linguistic-style-transfer-pytorch) - Implementation of "Disentangled Representation Learning for Non-Parallel Text Style Transfer(ACL 2019)" in Pytorch
@@ -8817,7 +8817,7 @@
 - [KaiyangZhou/deep-person-reid](https://github.com/KaiyangZhou/deep-person-reid) - Torchreid: Deep learning person re-identification in PyTorch.
 - [Viralmaniar/Powershell-RAT](https://github.com/Viralmaniar/Powershell-RAT) - Python based backdoor that uses Gmail to exfiltrate data through attachment. This RAT will help during red team engagements to backdoor any Windows machines. It tracks the user activity using screen capture and sends it to an attacker as an e-mail attachment.
 - [PetrochukM/PyTorch-NLP](https://github.com/PetrochukM/PyTorch-NLP) - Basic Utilities for PyTorch Natural Language Processing (NLP)
-- [tern-tools/tern](https://github.com/tern-tools/tern) - Tern is a software composition analysis tool and Python library that generates a Software Bill of Materials for container images and Dockerfiles. The SBoM that Tern generates will give you a layer-by-layer view of what's inside your container in a variety of formats including human-readable, JSON, HTML, SPDX and more.
+- [tern-tools/tern](https://github.com/tern-tools/tern) - Tern is a software composition analysis tool and Python library that generates a Software Bill of Materials for container images and Dockerfiles. The SBOM that Tern generates will give you a layer-by-layer view of what's inside your container in a variety of formats including human-readable, JSON, HTML, SPDX and more.
 - [ParallelSSH/parallel-ssh](https://github.com/ParallelSSH/parallel-ssh) - Asynchronous parallel SSH client library.
 - [erinxocon/requests-xml](https://github.com/erinxocon/requests-xml) - Requests-XML: XML Parsing for Humans
 - [konradhalas/dacite](https://github.com/konradhalas/dacite) - Simple creation of data classes from dictionaries.
@@ -10458,7 +10458,7 @@
 - [CENSUS/choronzon](https://github.com/CENSUS/choronzon) - An evolutionary knowledge-based fuzzer
 - [jisaacso/DeepHeart](https://github.com/jisaacso/DeepHeart) - Neural networks for monitoring cardiac data
 - [nerevu/riko](https://github.com/nerevu/riko) - A Python stream processing engine modeled after Yahoo! Pipes
-- [tensorlayer/TensorLayer](https://github.com/tensorlayer/TensorLayer) - Deep Learning and Reinforcement Learning Library for Scientists and Engineers 🔥
+- [tensorlayer/TensorLayer](https://github.com/tensorlayer/TensorLayer) - Deep Learning and Reinforcement Learning Library for Scientists and Engineers
 - [corbett/QuantumComputing](https://github.com/corbett/QuantumComputing) - This is an implementation of IBM's Quantum Experience in simulation; a 5-qubit quantum computer with a limited set of gates. Please cite me if you end up using this academically.
 - [vintasoftware/tapioca-wrapper](https://github.com/vintasoftware/tapioca-wrapper) - Python API client generator
 - [blankwall/MacHeap](https://github.com/blankwall/MacHeap) - OS X malloc introspection tool
@@ -11959,7 +11959,7 @@
 - [noplay/python-mysql-replication](https://github.com/noplay/python-mysql-replication) - Pure Python Implementation of MySQL replication protocol build on top of PyMYSQL
 - [miha-stopar/nnets](https://github.com/miha-stopar/nnets) - Python neural network library
 - [menegazzo/travispy](https://github.com/menegazzo/travispy) - LOOKING FOR SOMEONE TO TRANSFER OWNERSHIP - Travis CI API for Python
-- [astropy/astropy](https://github.com/astropy/astropy) - Repository for the Astropy core package
+- [astropy/astropy](https://github.com/astropy/astropy) - Astronomy and astrophysics core library
 - [cloudflare/bpftools](https://github.com/cloudflare/bpftools) - BPF Tools - packet analyst toolkit
 - [rdegges/simpleq](https://github.com/rdegges/simpleq) - A simple, infinitely scalable, SQS based queue.
 - [jtauber/blockchain](https://github.com/jtauber/blockchain) - a bitcoin blockchain parser in Python
@@ -14055,6 +14055,7 @@
 - [ajb413/vue-support-chat](https://github.com/ajb413/vue-support-chat) - A website support chat interface example using Vue Beautiful Chat and PubNub ChatEngine
 - [yariksav/vuetify-confirm](https://github.com/yariksav/vuetify-confirm) - Extends vuetify.js confirm dialog
 - [dendoink/Align](https://github.com/dendoink/Align) - a single static blog generater use vue components and markdown files
+- [robotframework/robotframework.github.com](https://github.com/robotframework/robotframework.github.com) - Robot Framework ecosystem from page
 - [timoschwarzer/gitlab-monitor](https://github.com/timoschwarzer/gitlab-monitor) - A web-based monitor dashboard for GitLab CI
 - [Justineo/vue-clamp](https://github.com/Justineo/vue-clamp) - Clamping multiline text with ease.
 - [janiskelemen/formvuelar](https://github.com/janiskelemen/formvuelar) - Vue form components with server-side validation in mind
