@@ -2634,6 +2634,7 @@
 - [StartBootstrap/startbootstrap-sb-admin-2](https://github.com/StartBootstrap/startbootstrap-sb-admin-2) - A free, open source, Bootstrap admin theme created by Start Bootstrap
 - [igrigorik/hpbn.co](https://github.com/igrigorik/hpbn.co) - High Performance Browser Networking (O'Reilly)
 - [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io) - :blue_book: Home Assistant User documentation
+- [GitAlias/gitalias](https://github.com/GitAlias/gitalias) - Git alias commands for faster easier version control
 - [KennethWangDotDev/TypographyHandbook](https://github.com/KennethWangDotDev/TypographyHandbook) - A concise, referential guide on best web typographic practices.
 - [Link-/uber_data](https://github.com/Link-/uber_data) - Uber web interface crawler / scraper - Convert the trips table into a CSV file
 - [Azure-Samples/Azure-MachineLearning-DataScience](https://github.com/Azure-Samples/Azure-MachineLearning-DataScience) - 
@@ -4456,6 +4457,10 @@
 
 ## Jupyter Notebook 
 
+- [deep-learning-with-pytorch/dlwpt-code](https://github.com/deep-learning-with-pytorch/dlwpt-code) - Code for the book Deep Learning with PyTorch by Eli Stevens, Luca Antiga, and Thomas Viehmann.
+- [irbigdata/data-dockerfiles](https://github.com/irbigdata/data-dockerfiles) - a curated list of docker-compose files prepared for testing  data engineering tools, databases and open source libraries.
+- [mitmedialab/AI-generated-characters](https://github.com/mitmedialab/AI-generated-characters) - AI-generated-character
+- [petewarden/spchcat](https://github.com/petewarden/spchcat) - Speech recognition tool to convert audio to text transcripts, for Linux and Raspberry Pi.
 - [google-research/rliable](https://github.com/google-research/rliable) - Library for reliable evaluation on RL and ML benchmarks, as recommended by our NeurIPS 2021 Outstanding Paper.
 - [yandexdataschool/deep_vision_and_graphics](https://github.com/yandexdataschool/deep_vision_and_graphics) - Course about deep learning for computer vision and graphics co-developed by YSDA and Skoltech.
 - [google/physics-math-tutorials](https://github.com/google/physics-math-tutorials) - 
@@ -4507,7 +4512,6 @@
 - [project-codeflare/codeflare](https://github.com/project-codeflare/codeflare) - Simplifying the definition and execution, scaling and deployment of pipelines on the cloud.
 - [yandex-research/shifts](https://github.com/yandex-research/shifts) - This repository contains data readers and examples for the three tracks of the Shifts Dataset and the Shifts Challenge.
 - [google/brax](https://github.com/google/brax) - Massively parallel rigidbody physics simulation on accelerator hardware.
-- [borisdayma/dalle-mini](https://github.com/borisdayma/dalle-mini) - DALL·E Mini - Generate images from a text prompt
 - [ITMO-NSS-team/nas-fedot](https://github.com/ITMO-NSS-team/nas-fedot) - The implementation of the Neural Architecture Search based at the Fedot framework
 - [sail-sg/volo](https://github.com/sail-sg/volo) - VOLO: Vision Outlooker for Visual Recognition
 - [khuyentran1401/Data-science](https://github.com/khuyentran1401/Data-science) - Collection of useful data science topics along with code and articles
@@ -4681,7 +4685,7 @@
 - [giswqs/earthengine-py-notebooks](https://github.com/giswqs/earthengine-py-notebooks) - A collection of 360+ Jupyter Python notebook examples for using Google Earth Engine with interactive mapping
 - [h2oai/h2o-3](https://github.com/h2oai/h2o-3) - H2O is an Open Source, Distributed, Fast & Scalable Machine Learning Platform: Deep Learning, Gradient Boosting (GBM) & XGBoost, Random Forest, Generalized Linear Modeling (GLM with Elastic Net), K-Means, PCA, Generalized Additive Models (GAM), RuleFit, Support Vector Machine (SVM), Stacked Ensembles, Automatic Machine Learning (AutoML), etc.
 - [DLSchool/deep-learning-school](https://github.com/DLSchool/deep-learning-school) - Официальный репозиторий курса Deep Learning (2018-2021) от Deep Learning School при ФПМИ МФТИ
-- [liyin2015/Hands-on-Algorithmic-Problem-Solving](https://github.com/liyin2015/Hands-on-Algorithmic-Problem-Solving) - A middle-to-high level algorithm book designed with coding interview at heart!
+- [liyin2015/python-coding-interview](https://github.com/liyin2015/python-coding-interview) - A middle-to-high level algorithm book designed with coding interview at heart!
 - [microsoft/c9-python-getting-started](https://github.com/microsoft/c9-python-getting-started) - Sample code for Channel 9 Python for Beginners course
 - [rasbt/stat453-deep-learning-ss20](https://github.com/rasbt/stat453-deep-learning-ss20) - STAT 453: Intro to Deep Learning @ UW-Madison (Spring 2020)
 - [ml-tooling/ml-workspace](https://github.com/ml-tooling/ml-workspace) - 🛠 All-in-one web-based IDE specialized for machine learning and data science.
@@ -6732,7 +6736,6 @@
 - [alanjames1987/Node.js-Best-Practices](https://github.com/alanjames1987/Node.js-Best-Practices) - If you want to improve these best practices in any way please don't hesitate to create a pull request.
 - [toddmotto/angularjs-styleguide](https://github.com/toddmotto/angularjs-styleguide) - AngularJS styleguide for teams
 - [hemanth/awesome-pwa](https://github.com/hemanth/awesome-pwa) - Awesome list of progressive web apps! (PR welcomed ;))
-- [GitAlias/gitalias](https://github.com/GitAlias/gitalias) - Git alias commands for faster easier version control
 - [nayafia/lemonade-stand](https://github.com/nayafia/lemonade-stand) - A handy guide to financial support for open source
 - [kjw0612/awesome-rnn](https://github.com/kjw0612/awesome-rnn) - Recurrent Neural Network - A curated list of resources dedicated to RNN
 - [memo/ai-resources](https://github.com/memo/ai-resources) - Selection of resources to learn Artificial Intelligence / Machine Learning / Statistical Inference / Deep Learning / Reinforcement Learning
@@ -6837,7 +6840,7 @@
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [chrisalbon/theme_wmf](https://github.com/chrisalbon/theme_wmf) - A customized color theme for SublimeText 2 designed to help writing prose in markdown easier and more effective.
 - [swagger-api/swagger.io](https://github.com/swagger-api/swagger.io) - The content of swagger.io
-- [hangtwenty/dive-into-machine-learning](https://github.com/hangtwenty/dive-into-machine-learning) - Dive into Machine Learning with Python Jupyter notebook and scikit-learn! First posted in 2016, maintained as of 2021. Pull requests welcome.
+- [hangtwenty/dive-into-machine-learning](https://github.com/hangtwenty/dive-into-machine-learning) - Dive into Machine Learning with Python Jupyter notebook and scikit-learn! First posted in 2016, maintained as of 2022. Pull requests welcome.
 - [binder-project/binder](https://github.com/binder-project/binder) - reproducible executable environments
 - [paul-nechifor/ohmu](https://github.com/paul-nechifor/ohmu) - View space usage in your terminal.
 - [bolshchikov/js-must-watch](https://github.com/bolshchikov/js-must-watch) - Must-watch videos about javascript
@@ -7133,6 +7136,7 @@
 - [SenHe/DLFS](https://github.com/SenHe/DLFS) - 
 - [facebookresearch/DONERF](https://github.com/facebookresearch/DONERF) - Code for "DONeRF Towards Real-Time Rendering of Compact Neural Radiance Fields using Depth Oracle Networks"
 - [Qiskit/qiskit-machine-learning](https://github.com/Qiskit/qiskit-machine-learning) - Quantum Machine Learning
+- [borisdayma/dalle-mini](https://github.com/borisdayma/dalle-mini) - DALL·E Mini - Generate images from a text prompt
 - [uber/orbit](https://github.com/uber/orbit) - A Python package for Bayesian forecasting with object-oriented design and probabilistic models under the hood.
 - [facebookresearch/voxpopuli](https://github.com/facebookresearch/voxpopuli) - A large-scale multilingual speech corpus for representation learning, semi-supervised learning and interpretation
 - [rosinality/alias-free-gan-pytorch](https://github.com/rosinality/alias-free-gan-pytorch) - Unofficial implementation of Alias-Free Generative Adversarial Networks. (https://arxiv.org/abs/2106.12423) in PyTorch
@@ -8328,7 +8332,7 @@
 - [MinaOTP/MinaOTP-Shell](https://github.com/MinaOTP/MinaOTP-Shell) - TOTP authenticator implement as a terminal tool
 - [Separius/awesome-sentence-embedding](https://github.com/Separius/awesome-sentence-embedding) - A curated list of pretrained sentence and word embedding models
 - [hsddlz/faster-CTPN](https://github.com/hsddlz/faster-CTPN) - very fast CTPN
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - Predictive AI layer for existing databases.
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - In-Database Machine Learning
 - [google/jax](https://github.com/google/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
 - [rtqichen/torchdiffeq](https://github.com/rtqichen/torchdiffeq) - Differentiable ODE solvers with full GPU support and O(1)-memory backpropagation.
 - [vaexio/vaex](https://github.com/vaexio/vaex) - Out-of-Core hybrid Apache Arrow/NumPy DataFrame for Python, ML, visualization and exploration of big tabular data at a billion rows per second 🚀
@@ -14194,7 +14198,7 @@
 - [eddiemf/vue-scrollactive](https://github.com/eddiemf/vue-scrollactive) - Lightweight and simple to use vue component that highlights menu items as you scroll the page, also scrolling to target section when clicked.
 - [emiliorizzo/vue-d3-network](https://github.com/emiliorizzo/vue-d3-network) - Vue component to graph networks using d3-force
 - [voluntadpear/vue-choropleth](https://github.com/voluntadpear/vue-choropleth) - Choropleth Map component for Vue.js
-- [Akryum/v-tooltip](https://github.com/Akryum/v-tooltip) - 💬 Easy tooltips, popovers, dropdown for Vue
+- [Akryum/floating-vue](https://github.com/Akryum/floating-vue) - 💬 Easy tooltips, popovers, dropdown, menus... for Vue
 - [Akryum/vue-apollo-todos](https://github.com/Akryum/vue-apollo-todos) - Vue Apollo GraphQL mutation examples
 - [alziqziq/vue-paginate-al](https://github.com/alziqziq/vue-paginate-al) - Vue paginate with return your data
 - [diegomanjarres/vue-initials-img](https://github.com/diegomanjarres/vue-initials-img) - vue-avatar like module that renders an img tag for easier use with vuetify
