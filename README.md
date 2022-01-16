@@ -3620,7 +3620,7 @@
 - [yishn/tikzcd-editor](https://github.com/yishn/tikzcd-editor) - A simple visual editor for creating commutative diagrams.
 - [franciscop/server](https://github.com/franciscop/server) - :desktop_computer: Simple and powerful server for Node.js
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (December 2021)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (January 2022)
 - [frappe/charts](https://github.com/frappe/charts) - Simple, responsive, modern SVG Charts with zero dependencies
 - [elesdoar/leaflet-control-orderlayers](https://github.com/elesdoar/leaflet-control-orderlayers) - Leaflet control with order functionality
 - [google/bottery](https://github.com/google/bottery) - 
@@ -4457,6 +4457,7 @@
 
 ## Jupyter Notebook 
 
+- [commit-live-students/Data_Science_Masters_Program_2021](https://github.com/commit-live-students/Data_Science_Masters_Program_2021) - 
 - [deep-learning-with-pytorch/dlwpt-code](https://github.com/deep-learning-with-pytorch/dlwpt-code) - Code for the book Deep Learning with PyTorch by Eli Stevens, Luca Antiga, and Thomas Viehmann.
 - [irbigdata/data-dockerfiles](https://github.com/irbigdata/data-dockerfiles) - a curated list of docker-compose files prepared for testing  data engineering tools, databases and open source libraries.
 - [mitmedialab/AI-generated-characters](https://github.com/mitmedialab/AI-generated-characters) - AI-generated-character
@@ -8649,7 +8650,7 @@
 - [TianhongDai/reinforcement-learning-algorithms](https://github.com/TianhongDai/reinforcement-learning-algorithms) - This repository contains most of pytorch implementation based classic deep reinforcement learning algorithms, including - DQN, DDQN, Dueling Network, DDPG, SAC, A2C, PPO, TRPO. (More algorithms are still in progress)
 - [evyatarmeged/Raccoon](https://github.com/evyatarmeged/Raccoon) - A high performance offensive security tool for reconnaissance and vulnerability scanning
 - [robinhood/faust](https://github.com/robinhood/faust) - Python Stream Processing
-- [feeluown/FeelUOwn](https://github.com/feeluown/FeelUOwn) - trying to be a user-friendly and hackable music player
+- [feeluown/FeelUOwn](https://github.com/feeluown/FeelUOwn) - trying to be a robust, user-friendly and hackable music player
 - [keras-team/autokeras](https://github.com/keras-team/autokeras) - AutoML library for deep learning
 - [giannisnik/cnn-graph-classification](https://github.com/giannisnik/cnn-graph-classification) - A convolutional neural network for graph classification in PyTorch
 - [facebookresearch/mmf](https://github.com/facebookresearch/mmf) - A modular framework for vision & language multimodal research from Facebook AI Research (FAIR)
