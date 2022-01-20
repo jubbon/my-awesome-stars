@@ -503,7 +503,6 @@
 
 ## C++ 
 
-- [deepmind/envlogger](https://github.com/deepmind/envlogger) - A tool for recording RL trajectories.
 - [triton-inference-server/backend](https://github.com/triton-inference-server/backend) - Common source, scripts and utilities for creating Triton backends.
 - [kpu/kenlm](https://github.com/kpu/kenlm) - KenLM: Faster and Smaller Language Model Queries
 - [darglein/ADOP](https://github.com/darglein/ADOP) - 
@@ -2279,7 +2278,7 @@
 - [Harvard-IACS/2020-ComputeFest](https://github.com/Harvard-IACS/2020-ComputeFest) - 
 - [overnote/awesome-kubernetes-notes](https://github.com/overnote/awesome-kubernetes-notes) - awesome-kubernetes-notes  🎉
 - [coreui/coreui-free-angular-admin-template](https://github.com/coreui/coreui-free-angular-admin-template) - CoreUI Angular is free Angular 2+ admin template based on Bootstrap 4
-- [chiphuyen/machine-learning-systems-design](https://github.com/chiphuyen/machine-learning-systems-design) - A booklet on machine learning systems design with exercises
+- [chiphuyen/machine-learning-systems-design](https://github.com/chiphuyen/machine-learning-systems-design) - A booklet on machine learning systems design with exercises: https://huyenchip.com/machine-learning-systems-design/toc.html
 - [MarcSkovMadsen/awesome-streamlit](https://github.com/MarcSkovMadsen/awesome-streamlit) - The purpose of this project is to share knowledge on how awesome Streamlit is and can be
 - [mapbox/storytelling](https://github.com/mapbox/storytelling) - Storytelling with maps template
 - [akashyap2013/PortFolio_Website](https://github.com/akashyap2013/PortFolio_Website) - Complete Portfolio Website with Bootstrap - HTML/CSS In this project, we are going to learn and build how to create a complete portfolio website with bootstrap using HTML and CSS. We will understand everything from scratch.
@@ -6842,7 +6841,7 @@
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [chrisalbon/theme_wmf](https://github.com/chrisalbon/theme_wmf) - A customized color theme for SublimeText 2 designed to help writing prose in markdown easier and more effective.
 - [swagger-api/swagger.io](https://github.com/swagger-api/swagger.io) - The content of swagger.io
-- [hangtwenty/dive-into-machine-learning](https://github.com/hangtwenty/dive-into-machine-learning) - Dive into Machine Learning with Python Jupyter notebook and scikit-learn! First posted in 2016, maintained as of 2022. Pull requests welcome.
+- [hangtwenty/dive-into-machine-learning](https://github.com/hangtwenty/dive-into-machine-learning) - Free ways to dive into machine learning with Python and Jupyter Notebook. Notebooks, courses, and other links. First posted in 2016, maintained as of 2022. Pull requests welcome!
 - [binder-project/binder](https://github.com/binder-project/binder) - reproducible executable environments
 - [paul-nechifor/ohmu](https://github.com/paul-nechifor/ohmu) - View space usage in your terminal.
 - [bolshchikov/js-must-watch](https://github.com/bolshchikov/js-must-watch) - Must-watch videos about javascript
@@ -7011,6 +7010,7 @@
 - [NorskRegnesentral/skweak](https://github.com/NorskRegnesentral/skweak) - skweak: A software toolkit for weak supervision applied to NLP tasks
 - [google-research/plur](https://github.com/google-research/plur) - PLUR (Programming-Language Understanding and Repair) is a collection of source code datasets suitable for graph-based machine learning. We provide scripts for downloading, processing, and loading the datasets. This is done by offering a unified API and data structures for all datasets.
 - [sberbank-ai/ru-prompts](https://github.com/sberbank-ai/ru-prompts) - 
+- [deepmind/envlogger](https://github.com/deepmind/envlogger) - A tool for recording RL trajectories.
 - [microsoft/torchgeo](https://github.com/microsoft/torchgeo) - TorchGeo: datasets, transforms, and models for geospatial data
 - [ELS-RD/transformer-deploy](https://github.com/ELS-RD/transformer-deploy) - Efficient, scalable and enterprise-grade CPU/GPU inference server for Hugging Face transformer models 🚀
 - [thunlp/OpenPrompt](https://github.com/thunlp/OpenPrompt) - An Open-Source Framework for Prompt-Learning.
@@ -7331,7 +7331,7 @@
 - [sovaai/sova-asr](https://github.com/sovaai/sova-asr) - SOVA ASR (Automatic Speech Recognition)
 - [WongKinYiu/ScaledYOLOv4](https://github.com/WongKinYiu/ScaledYOLOv4) - Scaled-YOLOv4: Scaling Cross Stage Partial Network
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: Haystack is an open source NLP framework that leverages Transformer models. It enables developers to implement production-ready neural search, question answering, semantic document search and summarization for a wide range of applications.
-- [bentoml/BentoML](https://github.com/bentoml/BentoML) - Model Serving Made Easy
+- [bentoml/BentoML](https://github.com/bentoml/BentoML) - The Unified Model Serving Framework 🍱
 - [eisen-ai/eisen-core](https://github.com/eisen-ai/eisen-core) - Core functionality of Eisen
 - [RelevanceAI/vectorhub](https://github.com/RelevanceAI/vectorhub) - Vector Hub - Library for easy discovery, and consumption of State-of-the-art models to turn data into vectors. (text2vec, image2vec, video2vec, graph2vec, bert, inception, etc)
 - [google-research/multilingual-t5](https://github.com/google-research/multilingual-t5) - 
@@ -9745,6 +9745,7 @@
 - [joeddav/devol](https://github.com/joeddav/devol) - Genetic neural architecture search with Keras
 - [XX-net/XX-Net](https://github.com/XX-net/XX-Net) - A proxy tool to bypass GFW.
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
+- [OWASP/owasp-mstg](https://github.com/OWASP/owasp-mstg) - The Mobile Security Testing Guide (MSTG) is a comprehensive manual for mobile app security testing and reverse engineering. It describes the technical processes for verifying the controls listed in the OWASP Mobile Application Security Verification Standard (MASVS).
 - [oarriaga/face_classification](https://github.com/oarriaga/face_classification) - Real-time face detection and emotion/gender classification using fer2013/imdb datasets with a keras CNN model and openCV.
 - [Chaosthebot/Chaos](https://github.com/Chaosthebot/Chaos) - A social coding experiment that updates its own code democratically.
 - [openai/baselines](https://github.com/openai/baselines) - OpenAI Baselines: high-quality implementations of reinforcement learning algorithms
@@ -13433,7 +13434,6 @@
 - [alexanderepstein/Bash-Snippets](https://github.com/alexanderepstein/Bash-Snippets) - A collection of small bash scripts for heavy terminal users
 - [Langhalsdino/Kubernetes-GPU-Guide](https://github.com/Langhalsdino/Kubernetes-GPU-Guide) - This guide should help fellow researchers and hobbyists to easily automate and accelerate there deep leaning training with their own Kubernetes GPU cluster.
 - [EOSIO/eos-token-distribution](https://github.com/EOSIO/eos-token-distribution) - 
-- [OWASP/owasp-mstg](https://github.com/OWASP/owasp-mstg) - The Mobile Security Testing Guide (MSTG) is a comprehensive manual for mobile app security testing and reverse engineering. It describes the technical processes for verifying the controls listed in the OWASP Mobile Application Security Verification Standard (MASVS).
 - [rust-lang-nursery/rust-cookbook](https://github.com/rust-lang-nursery/rust-cookbook) - https://rust-lang-nursery.github.io/rust-cookbook
 - [MichielDerhaeg/build-linux](https://github.com/MichielDerhaeg/build-linux) - A short tutorial about building Linux based operating systems.
 - [OpenVPN/easy-rsa](https://github.com/OpenVPN/easy-rsa) - easy-rsa - Simple shell based CA utility
@@ -14036,7 +14036,7 @@
 - [ovanta/vue-cloudfront](https://github.com/ovanta/vue-cloudfront) - vue-cloudfront - PWA for cloud storage with focus on design and performance. Made especially for self-hosting purposes. Build with vuejs2 and vuex. Always Open Source, MIT license.
 - [translation-gang/ru.vee-validate-docs](https://github.com/translation-gang/ru.vee-validate-docs) - Russian translation of vee-validate documentation
 - [Shreerang/Vue-Nuggets](https://github.com/Shreerang/Vue-Nuggets) - E-commerce UI Nuggets based on Vue
-- [FatGe/UI-Library](https://github.com/FatGe/UI-Library) - Fat Ge UI-Library
+- [naumari/UI-Library](https://github.com/naumari/UI-Library) - Fat Ge UI-Library
 - [Akryum/meteor-vue-example](https://github.com/Akryum/meteor-vue-example) - Simple meteor example with vue
 - [finspin/gotodevops.org](https://github.com/finspin/gotodevops.org) - Source code for gotodevops.org.
 - [alexurquhart/vue-bootstrap-typeahead](https://github.com/alexurquhart/vue-bootstrap-typeahead) - An autocomplete/typeahead component for Vue 2 and Bootstrap 4
