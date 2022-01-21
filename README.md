@@ -351,7 +351,7 @@
 - [openai/openai-gemm](https://github.com/openai/openai-gemm) - Open single and half precision gemm implementations
 - [deepmind/lab](https://github.com/deepmind/lab) - A customisable 3D platform for agent-based AI research
 - [fail0verflow/hbc](https://github.com/fail0verflow/hbc) - The Homebrew Channel - open source edition
-- [blacksphere/blackmagic](https://github.com/blacksphere/blackmagic) - In application debugger for ARM Cortex microcontrollers.
+- [blackmagic-debug/blackmagic](https://github.com/blackmagic-debug/blackmagic) - In application debugger for ARM Cortex microcontrollers.
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [go-vgo/robotgo](https://github.com/go-vgo/robotgo) - RobotGo, Go Native cross-platform GUI automation  @vcaesar
 - [RedBeardLab/rediSQL](https://github.com/RedBeardLab/rediSQL) - Redis module that provides a completely functional SQL database
@@ -1938,7 +1938,6 @@
 - [gen2brain/cam2ip](https://github.com/gen2brain/cam2ip) - Turn any webcam into an IP camera
 - [integrii/headlessChrome](https://github.com/integrii/headlessChrome) - A Go package for working with headless Chrome.  Run interactive JavaScript commands on web pages with Go and Chrome.
 - [ssimunic/gossm](https://github.com/ssimunic/gossm) - Server status monitor written in Go
-- [GoogleContainerTools/distroless](https://github.com/GoogleContainerTools/distroless) - 🥑  Language focused docker images, minus the operating system.
 - [fnproject/fn](https://github.com/fnproject/fn) - The container native, cloud agnostic serverless platform.
 - [twitchyliquid64/subnet](https://github.com/twitchyliquid64/subnet) - Simple, auditable & elegant VPN, built with TLS mutual authentication and TUN.
 - [gocolly/colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
@@ -2307,7 +2306,6 @@
 - [compsocialscience/summer-institute](https://github.com/compsocialscience/summer-institute) - Summer Institutes in Computational Social Science
 - [KhronosGroup/glTF](https://github.com/KhronosGroup/glTF) - glTF – Runtime 3D Asset Delivery
 - [istio/istio.io](https://github.com/istio/istio.io) - Source for the istio.io site
-- [andrewrothstein/ansible-conda-env](https://github.com/andrewrothstein/ansible-conda-env) - 
 - [amueller/ml-workshop-2-of-4](https://github.com/amueller/ml-workshop-2-of-4) - Intermediate Machine Learning with Scikit-learn, 4h interactive workshop
 - [Syknapse/My-Learning-Tracker](https://github.com/Syknapse/My-Learning-Tracker) - Keeping track of my web development skills and learning in one place along with resources, highlights, interests, and everything to do with my learning.
 - [amueller/ml-workshop-4-of-4](https://github.com/amueller/ml-workshop-4-of-4) - Advanced Machine Learning with Scikit-learn part II
@@ -2424,7 +2422,6 @@
 - [ConsenSys/smart-contract-best-practices](https://github.com/ConsenSys/smart-contract-best-practices) - A guide to smart contract security best practices
 - [SeldonIO/seldon-core](https://github.com/SeldonIO/seldon-core) - An MLOps framework to package, deploy, monitor and manage thousands of production machine learning models
 - [google/fonts](https://github.com/google/fonts) - Font files available from Google Fonts, and a public issue tracker for all things Google Fonts
-- [stackblitz/core](https://github.com/stackblitz/core) - Online IDE powered by Visual Studio Code ⚡️
 - [tc39/proposal-optional-chaining](https://github.com/tc39/proposal-optional-chaining) - 
 - [vitalets/github-trending-repos](https://github.com/vitalets/github-trending-repos) - Track GitHub trending repositories in your favorite programming language by native GitHub notifications!
 - [WICG/kv-storage](https://github.com/WICG/kv-storage) - A proposal for an async key/value storage API for the web
@@ -3447,6 +3444,7 @@
 - [heelhook/chardin.js](https://github.com/heelhook/chardin.js) - Simple overlay instructions for your apps.
 - [styled-components/vue-styled-components](https://github.com/styled-components/vue-styled-components) - Visual primitives for the component age. A simple port for Vue of styled-components 💅
 - [agragregra/OptimizedHTML-4](https://github.com/agragregra/OptimizedHTML-4) - OptimizedHTML 4: Startup HTML template based on Gulp & Bootstrap 4
+- [stackblitz/core](https://github.com/stackblitz/core) - Online IDE powered by Visual Studio Code ⚡️
 - [vraa/gitflowanimated](https://github.com/vraa/gitflowanimated) - Git flow - Animated : Visualization of Gitflow workflow, built in React
 - [tsayen/dom-to-image](https://github.com/tsayen/dom-to-image) - Generates an image from a DOM node using HTML5 canvas
 - [photonstorm/phaser](https://github.com/photonstorm/phaser) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
@@ -4426,6 +4424,7 @@
 ## Jinja 
 
 - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
+- [andrewrothstein/ansible-conda-env](https://github.com/andrewrothstein/ansible-conda-env) - 
 - [ansible/workshops](https://github.com/ansible/workshops) - Training Course for Ansible Automation Platform
 - [geerlingguy/ansible-role-security](https://github.com/geerlingguy/ansible-role-security) - Ansible Role - Security
 - [geerlingguy/ansible-role-nginx](https://github.com/geerlingguy/ansible-role-nginx) - Ansible Role - Nginx
@@ -4457,6 +4456,7 @@
 
 ## Jupyter Notebook 
 
+- [huggingface/notebooks](https://github.com/huggingface/notebooks) - Notebooks using the Hugging Face libraries 🤗
 - [DataTalksClub/data-engineering-zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) - Code for Data Engineer Zoomcamp course
 - [commit-live-students/Data_Science_Masters_Program_2021](https://github.com/commit-live-students/Data_Science_Masters_Program_2021) - 
 - [deep-learning-with-pytorch/dlwpt-code](https://github.com/deep-learning-with-pytorch/dlwpt-code) - Code for the book Deep Learning with PyTorch by Eli Stevens, Luca Antiga, and Thomas Viehmann.
@@ -8967,7 +8967,7 @@
 - [pavdmyt/git-ctm](https://github.com/pavdmyt/git-ctm) - ⏳ git Commit Time Machine ⌛
 - [chris-belcher/electrum-personal-server](https://github.com/chris-belcher/electrum-personal-server) - Maximally lightweight electrum server for a single user
 - [dashee87/cryptory](https://github.com/dashee87/cryptory) - Retrieve historical crpytocurrency data
-- [Boerderij/Varken](https://github.com/Boerderij/Varken) - Standalone application to aggregate data from the Plex ecosystem into InfluxDB using Grafana for a frontend
+- [Boerderij/Varken](https://github.com/Boerderij/Varken) - Standalone application to aggregate data from the Plex ecosystem into InfluxDB using Grafana as a frontend
 - [drdrsh/vc-crypt](https://github.com/drdrsh/vc-crypt) - A simple python script with zero dependencies that can be used to encrypt/decrypt secret credentials (API secret keys, HTTP passwords, etc.) using a password to be able to safely put them under version control.
 - [conroy-cheers/django_binance_trader](https://github.com/conroy-cheers/django_binance_trader) - Automated trading bot for Binance
 - [devmanorg/django_social_pill](https://github.com/devmanorg/django_social_pill) - 
@@ -9137,7 +9137,7 @@
 - [morten1982/crossviper](https://github.com/morten1982/crossviper) - Tkinter Python IDE
 - [jremillard/images-to-osm](https://github.com/jremillard/images-to-osm) - Use Mask R-CNN/Keras/TensorFlow and OSM to find features in satellite images for fun.
 - [Jiramew/spoon](https://github.com/Jiramew/spoon) - 🥄 A package for building  specific Proxy Pool for different Sites.
-- [opentracing/opentracing-python](https://github.com/opentracing/opentracing-python) - OpenTracing API for Python
+- [opentracing/opentracing-python](https://github.com/opentracing/opentracing-python) - OpenTracing API for Python. 🛑 This library is DEPRECATED!
 - [hchasestevens/tracing](https://github.com/hchasestevens/tracing) - Utilities for tracing program execution line-by-line
 - [ARMmbed/mbed-cli](https://github.com/ARMmbed/mbed-cli) - Arm Mbed Command Line Interface
 - [ellimilial/sqs-s3-logger](https://github.com/ellimilial/sqs-s3-logger) - Automated serverless logging to S3 via SQS.
@@ -10160,7 +10160,7 @@
 - [boppreh/keyboard](https://github.com/boppreh/keyboard) - Hook and simulate global keyboard events on Windows and Linux.
 - [saulpw/visidata](https://github.com/saulpw/visidata) - A terminal spreadsheet multitool for discovering and arranging data
 - [py2neo-org/py2neo](https://github.com/py2neo-org/py2neo) - Py2neo is a comprehensive Neo4j driver library and toolkit for Python.
-- [jay0lee/got-your-back](https://github.com/jay0lee/got-your-back) - Got Your Back (GYB) is a command line tool for backing up your Gmail messages to your computer using Gmail's API over HTTPS.
+- [GAM-team/got-your-back](https://github.com/GAM-team/got-your-back) - Got Your Back (GYB) is a command line tool for backing up your Gmail messages to your computer using Gmail's API over HTTPS.
 - [bharadwaj-raju/cligenerator](https://github.com/bharadwaj-raju/cligenerator) - MOVED: https://gitlab.com/bharadwaj-raju/cligenerator
 - [holoviz/colorcet](https://github.com/holoviz/colorcet) - A set of useful perceptually uniform colormaps for plotting scientific data
 - [JoergFranke/recnet](https://github.com/JoergFranke/recnet) - RecNet - Recurrent Neural Network Framework
@@ -13271,7 +13271,7 @@
 - [exonum/exonum](https://github.com/exonum/exonum) - An extensible open-source framework for creating private/permissioned blockchain applications
 - [imazen/imageflow](https://github.com/imazen/imageflow) - High-performance image manipulation for web servers. Includes imageflow_server, imageflow_tool, and libimageflow
 - [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
-- [blockstack/stacks-blockchain](https://github.com/blockstack/stacks-blockchain) - The Stacks 2.0 blockchain implementation
+- [stacks-network/stacks-blockchain](https://github.com/stacks-network/stacks-blockchain) - The Stacks 2.0 blockchain implementation
 - [tailhook/vagga](https://github.com/tailhook/vagga) - Vagga is a containerization tool without daemons
 
 ## SCSS 
@@ -13530,6 +13530,7 @@
 
 - [googleapis/googleapis](https://github.com/googleapis/googleapis) - Public interface definitions of Google APIs.
 - [lucperkins/colossus](https://github.com/lucperkins/colossus) - Colossus — An example microservice architecture for Kubernetes using Bazel, Go, Java, Docker, Kubernetes, Minikube, Gazelle, gRPC, Prometheus, Grafana, and more
+- [GoogleContainerTools/distroless](https://github.com/GoogleContainerTools/distroless) - 🥑  Language focused docker images, minus the operating system.
 
 ## Stylus 
 
