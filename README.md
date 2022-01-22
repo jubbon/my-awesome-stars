@@ -2276,7 +2276,7 @@
 - [rstudio-conf-2020/applied-ml](https://github.com/rstudio-conf-2020/applied-ml) - Code and Resources for "Applied Machine Learning"
 - [Harvard-IACS/2020-ComputeFest](https://github.com/Harvard-IACS/2020-ComputeFest) - 
 - [overnote/awesome-kubernetes-notes](https://github.com/overnote/awesome-kubernetes-notes) - awesome-kubernetes-notes  🎉
-- [coreui/coreui-free-angular-admin-template](https://github.com/coreui/coreui-free-angular-admin-template) - CoreUI Angular is free Angular 2+ admin template based on Bootstrap 4
+- [coreui/coreui-free-angular-admin-template](https://github.com/coreui/coreui-free-angular-admin-template) - CoreUI Angular is free Angular 13 admin template based on Bootstrap 5
 - [chiphuyen/machine-learning-systems-design](https://github.com/chiphuyen/machine-learning-systems-design) - A booklet on machine learning systems design with exercises: https://huyenchip.com/machine-learning-systems-design/toc.html
 - [MarcSkovMadsen/awesome-streamlit](https://github.com/MarcSkovMadsen/awesome-streamlit) - The purpose of this project is to share knowledge on how awesome Streamlit is and can be
 - [mapbox/storytelling](https://github.com/mapbox/storytelling) - Storytelling with maps template
@@ -4032,7 +4032,7 @@
 - [jamiebuilds/itsy-bitsy-data-structures](https://github.com/jamiebuilds/itsy-bitsy-data-structures) - :european_castle: All the things you didn't know you wanted to know about data structures
 - [getify/Functional-Light-JS](https://github.com/getify/Functional-Light-JS) - Pragmatic, balanced FP in JavaScript. @FLJSBook on twitter.
 - [JamesTheHacker/Neuron](https://github.com/JamesTheHacker/Neuron) - Neuron - Electron, ES6, React, PouchDB, Sass, Webpack
-- [airbnb/react-dates](https://github.com/airbnb/react-dates) - An easily internationalizable, mobile-friendly datepicker library for the web
+- [react-dates/react-dates](https://github.com/react-dates/react-dates) - An easily internationalizable, mobile-friendly datepicker library for the web
 - [FormidableLabs/webpack-dashboard](https://github.com/FormidableLabs/webpack-dashboard) - A CLI dashboard for webpack dev server
 - [voximplant/react-native-voximplant](https://github.com/voximplant/react-native-voximplant) - Voximplant mobile SDK for React Native (iOS/Android)
 - [CesiumGS/cesium](https://github.com/CesiumGS/cesium) - An open-source JavaScript library for world-class 3D globes and maps :earth_americas:
@@ -4456,6 +4456,7 @@
 
 ## Jupyter Notebook 
 
+- [facebookresearch/omnivore](https://github.com/facebookresearch/omnivore) - Omnivore: A Single Model for Many Visual Modalities
 - [huggingface/notebooks](https://github.com/huggingface/notebooks) - Notebooks using the Hugging Face libraries 🤗
 - [DataTalksClub/data-engineering-zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) - Code for Data Engineer Zoomcamp course
 - [commit-live-students/Data_Science_Masters_Program_2021](https://github.com/commit-live-students/Data_Science_Masters_Program_2021) - 
@@ -6996,6 +6997,12 @@
 
 ## Python 
 
+- [feast-dev/feast](https://github.com/feast-dev/feast) - Feature Store for Machine Learning
+- [facebookresearch/demucs](https://github.com/facebookresearch/demucs) - Code for the paper Hybrid Spectrogram and Waveform Source Separation
+- [cvzone/cvzone](https://github.com/cvzone/cvzone) - This is a Computer vision package that makes its easy to run Image processing and AI functions. At the core it uses OpenCV and Mediapipe libraries.
+- [bytedance/Elkeid-HUB](https://github.com/bytedance/Elkeid-HUB) - Elkeid HUB is a rule/event processing engine maintained by the Elkeid Team that supports streaming/offline (not yet supported by the community edition) data processing. The original intention is to solve complex data/event processing and external system linkage requirements through standardized rules.
+- [bczsalba/pytermgui](https://github.com/bczsalba/pytermgui) - A simple yet powerful TUI framework for your Python (3.7+) applications
+- [facebookresearch/contriever](https://github.com/facebookresearch/contriever) - Contriever Towards Unsupervised Dense Information Retrieval with Contrastive Learning
 - [negrinho/deep_architect](https://github.com/negrinho/deep_architect) - A general, modular, and programmable architecture search framework
 - [tiangolo/asyncer](https://github.com/tiangolo/asyncer) - Asyncer, async and await, focused on developer experience.
 - [slhck/ffmpeg-normalize](https://github.com/slhck/ffmpeg-normalize) - Audio Normalization for Python/ffmpeg
