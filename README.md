@@ -2217,7 +2217,7 @@
 - [yandex-cloud/yc-solution-library-for-security](https://github.com/yandex-cloud/yc-solution-library-for-security) - 
 - [wandb/local](https://github.com/wandb/local) - W&B Local is the self hosted version of Weights & Biases
 - [jcolemorrison/vault-on-aws](https://github.com/jcolemorrison/vault-on-aws) - A secure HashiCorp Vault for secrets, tokens, keys,  passwords, and more.  Automated deployment with Terraform on AWS.  Configurable options for security and scalability.  Usable with any applications and services hosted anywhere.
-- [antonbabenko/terraform-best-practices](https://github.com/antonbabenko/terraform-best-practices) - Terraform best practices (available in multiple languages)
+- [antonbabenko/terraform-best-practices](https://github.com/antonbabenko/terraform-best-practices) - Terraform best practices (available in en, fr, es, id, and other languages)
 - [hashicorp/best-practices](https://github.com/hashicorp/best-practices) - 
 
 ## HTML 
@@ -4154,6 +4154,7 @@
 - [angular/quickstart](https://github.com/angular/quickstart) - Angular QuickStart - source from the documentation
 - [germanattanasio/visual-recognition-nodejs](https://github.com/germanattanasio/visual-recognition-nodejs) - DEPRECATED: this repo is no longer actively maintained
 - [thomaspark/bootswatch](https://github.com/thomaspark/bootswatch) - Themes for Bootstrap
+- [MobSF/Mobile-Security-Framework-MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) - Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis.
 - [victorb/trymodule](https://github.com/victorb/trymodule) - ➰ It's never been easier to try nodejs modules!
 - [square/crossfilter](https://github.com/square/crossfilter) - Fast n-dimensional filtering and grouping of records.
 - [ipython-contrib/jupyter_contrib_nbextensions](https://github.com/ipython-contrib/jupyter_contrib_nbextensions) - A collection of various notebook extensions for Jupyter
@@ -10802,7 +10803,6 @@
 - [qtfkwk/kron](https://github.com/qtfkwk/kron) - Uniform interface for dates and times in Python
 - [samjabrahams/tensorflow-on-raspberry-pi](https://github.com/samjabrahams/tensorflow-on-raspberry-pi) - TensorFlow for Raspberry Pi
 - [grandrew/plotti.co](https://github.com/grandrew/plotti.co) - plottico - live plot micorservice that just works
-- [MobSF/Mobile-Security-Framework-MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) - Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis.
 - [erevus-cn/pocscan](https://github.com/erevus-cn/pocscan) - Will to be a niubility scan-framework
 - [django/channels](https://github.com/django/channels) - Developer-friendly asynchrony for Django
 - [pseudo-lang/pseudo](https://github.com/pseudo-lang/pseudo) - transpile algorithms/libs to idiomatic JS, Go, C#, Ruby
