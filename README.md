@@ -2420,7 +2420,6 @@
 - [govau/design-system-components](https://github.com/govau/design-system-components) - 🛠 Component code and tests for the Australian Government design system
 - [ajinabraham/Droid-Application-Fuzz-Framework](https://github.com/ajinabraham/Droid-Application-Fuzz-Framework) - Android application fuzzing framework with fuzzers and crash monitor.
 - [arthchan2003/AIDL_KB](https://github.com/arthchan2003/AIDL_KB) - A Knowledge Base for the FB Group Artificial Intelligence and Deep Learning (AIDL)
-- [ConsenSys/smart-contract-best-practices](https://github.com/ConsenSys/smart-contract-best-practices) - A guide to smart contract security best practices
 - [SeldonIO/seldon-core](https://github.com/SeldonIO/seldon-core) - An MLOps framework to package, deploy, monitor and manage thousands of production machine learning models
 - [google/fonts](https://github.com/google/fonts) - Font files available from Google Fonts, and a public issue tracker for all things Google Fonts
 - [tc39/proposal-optional-chaining](https://github.com/tc39/proposal-optional-chaining) - 
@@ -4457,6 +4456,7 @@
 
 ## Jupyter Notebook 
 
+- [deepmind/multimodal_transformers](https://github.com/deepmind/multimodal_transformers) - 
 - [facebookresearch/omnivore](https://github.com/facebookresearch/omnivore) - Omnivore: A Single Model for Many Visual Modalities
 - [huggingface/notebooks](https://github.com/huggingface/notebooks) - Notebooks using the Hugging Face libraries 🤗
 - [DataTalksClub/data-engineering-zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) - Code for Data Engineer Zoomcamp course
@@ -6368,6 +6368,7 @@
 - [dgryski/awesome-consensus](https://github.com/dgryski/awesome-consensus) - Awesome list for Paxos and friends
 - [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
 - [addyosmani/predictive-fetching](https://github.com/addyosmani/predictive-fetching) - Improve performance by predictively fetching pages a user is likely to need
+- [ConsenSys/smart-contract-best-practices](https://github.com/ConsenSys/smart-contract-best-practices) - A guide to smart contract security best practices
 - [llSourcell/Learn_Machine_Learning_in_3_Months](https://github.com/llSourcell/Learn_Machine_Learning_in_3_Months) - This is the code for "Learn Machine Learning in 3 Months" by Siraj Raval on Youtube
 - [EvilPort2/Sign-Language](https://github.com/EvilPort2/Sign-Language) - A very simple CNN project.
 - [NirantK/awesome-project-ideas](https://github.com/NirantK/awesome-project-ideas) - Curated list of Machine Learning, NLP, Vision, Recommender Systems Project Ideas
@@ -6999,6 +7000,8 @@
 
 ## Python 
 
+- [berkeley-dsep-infra/datahub](https://github.com/berkeley-dsep-infra/datahub) - JupyterHubs for use by Berkeley enrolled students
+- [google/rax](https://github.com/google/rax) - 
 - [sberbank-ai/sber-swap](https://github.com/sberbank-ai/sber-swap) - 
 - [malhotra5/Manim-Tutorial](https://github.com/malhotra5/Manim-Tutorial) - A tutorial for manim, a mathematical animation engine made by 3b1b
 - [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.
@@ -7133,7 +7136,7 @@
 - [csuhan/ReDet](https://github.com/csuhan/ReDet) - Official code of the paper "ReDet: A Rotation-equivariant Detector for Aerial Object Detection" (CVPR 2021)
 - [PaddlePaddle/PaddleClas](https://github.com/PaddlePaddle/PaddleClas) - A treasure chest for visual recognition powered by PaddlePaddle
 - [fbdesignpro/sweetviz](https://github.com/fbdesignpro/sweetviz) - Visualize and compare datasets, target values and associations, with one line of code.
-- [mugheesahmad/BigEarthNet-pytorch](https://github.com/mugheesahmad/BigEarthNet-pytorch) - Pytorch Implementation of BigEarthNet Toolkit
+- [ahmadmughees/BigEarthNet-pytorch](https://github.com/ahmadmughees/BigEarthNet-pytorch) - Pytorch Implementation of BigEarthNet Toolkit
 - [mwshinn/paranoidscientist](https://github.com/mwshinn/paranoidscientist) - Runtime software verification and automated testing for scientific software in Python
 - [sberdevices/smart_app_framework](https://github.com/sberdevices/smart_app_framework) - SmartApp Framework для создания навыков семейства Виртуальных Ассистентов "Салют" на языке Python
 - [deepmipt/dp-agent](https://github.com/deepmipt/dp-agent) - DeepPavlov Agent
