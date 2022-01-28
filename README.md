@@ -507,6 +507,7 @@
 - [triton-inference-server/backend](https://github.com/triton-inference-server/backend) - Common source, scripts and utilities for creating Triton backends.
 - [kpu/kenlm](https://github.com/kpu/kenlm) - KenLM: Faster and Smaller Language Model Queries
 - [darglein/ADOP](https://github.com/darglein/ADOP) - 
+- [microsoft/DirectML](https://github.com/microsoft/DirectML) - DirectML is a high-performance, hardware-accelerated DirectX 12 library for machine learning. DirectML provides GPU acceleration for common machine learning tasks across a broad range of supported hardware and drivers, including all DirectX 12-capable GPUs from vendors such as AMD, Intel, NVIDIA, and Qualcomm.
 - [coin-or/Cbc](https://github.com/coin-or/Cbc) - COIN-OR Branch-and-Cut solver
 - [GTAmodding/re3](https://github.com/GTAmodding/re3) - GTA III, Vice City
 - [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne) - A Smart Ethernet Switch for Earth
@@ -777,7 +778,7 @@
 - [kosenko/ui](https://github.com/kosenko/ui) - Boost.UI library
 - [niessner/Matterport](https://github.com/niessner/Matterport) - Matterport3D is a pretty awesome dataset for RGB-D machine learning tasks :)
 - [codeplaysoftware/visioncpp](https://github.com/codeplaysoftware/visioncpp) - A machine vision library written in SYCL and C++ that shows performance-portable implementation of graph algorithms
-- [PaddlePaddle/Paddle-Lite](https://github.com/PaddlePaddle/Paddle-Lite) - Multi-platform high performance  deep learning inference engine (『飞桨』多平台高性能深度学习预测引擎）
+- [PaddlePaddle/Paddle-Lite](https://github.com/PaddlePaddle/Paddle-Lite) - Multi-platform high performance  deep learning inference engine (飞桨多端多平台高性能深度学习推理引擎）
 - [Sigil-Ebook/Sigil](https://github.com/Sigil-Ebook/Sigil) - Sigil is a multi-platform EPUB ebook editor
 - [grpc/grpc](https://github.com/grpc/grpc) - The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
 - [mikesart/gpuvis](https://github.com/mikesart/gpuvis) - GPU Trace Visualizer
@@ -1558,7 +1559,7 @@
 - [hoanhan101/ultimate-go](https://github.com/hoanhan101/ultimate-go) - The Ultimate Go Study Guide
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [opencontainers/runc](https://github.com/opencontainers/runc) - CLI tool for spawning and running containers according to the OCI specification
-- [didi/nightingale](https://github.com/didi/nightingale) - 💡 A Distributed and High-Performance Monitoring System.  Prometheus enterprise UI
+- [didi/nightingale](https://github.com/didi/nightingale) - An enterprise-level cloud-native monitoring system, which can be used as drop-in replacement of Prometheus for alerting and management.
 - [yolossn/Prometheus-Basics](https://github.com/yolossn/Prometheus-Basics) - A beginner friendly introduction to prometheus 🔥
 - [prometheus/client_golang](https://github.com/prometheus/client_golang) - Prometheus instrumentation library for Go applications
 - [elastic/cloud-on-k8s](https://github.com/elastic/cloud-on-k8s) - Elastic Cloud on Kubernetes
@@ -7086,7 +7087,6 @@
 - [I-Hope-Peace/ChangeDetectionRepository](https://github.com/I-Hope-Peace/ChangeDetectionRepository) - This repository contains some python code of some traditional change detection methods or provides their original websites, such as SFA, MAD, and some deep learning-based change detection methods, such as SiamCRNN, DSFA, and some FCN-based methods.
 - [justchenhao/STANet](https://github.com/justchenhao/STANet) - official implementation of the spatial-temporal attention neural network (STANet) for remote sensing image change detection
 - [LiheYoung/SenseEarth2020-ChangeDetection](https://github.com/LiheYoung/SenseEarth2020-ChangeDetection) - 1st place solution to the Satellite Remote Sensing Image Change Detection Challenge hosted by SenseTime
-- [microsoft/DirectML](https://github.com/microsoft/DirectML) - DirectML is a high-performance, hardware-accelerated DirectX 12 library for machine learning. DirectML provides GPU acceleration for common machine learning tasks across a broad range of supported hardware and drivers, including all DirectX 12-capable GPUs from vendors such as AMD, Intel, NVIDIA, and Qualcomm.
 - [buildingnet/buildingnet_dataset](https://github.com/buildingnet/buildingnet_dataset) - 
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Create UIs for your machine learning model in Python in 3 minutes
 - [coin-or/python-mip](https://github.com/coin-or/python-mip) - Python-MIP: collection of Python tools for the modeling and solution of Mixed-Integer Linear programs
