@@ -1582,7 +1582,7 @@
 - [cucumber/godog](https://github.com/cucumber/godog) - Cucumber for golang
 - [99designs/aws-vault](https://github.com/99designs/aws-vault) - A vault for securely storing and accessing AWS credentials in development environments
 - [xanzy/go-gitlab](https://github.com/xanzy/go-gitlab) - GitLab Go SDK
-- [micro/micro](https://github.com/micro/micro) - A distributed cloud platform
+- [micro/micro](https://github.com/micro/micro) - A distributed cloud operating system
 - [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub API
 - [slackhq/nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
 - [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
@@ -5032,7 +5032,7 @@
 - [iamtrask/Grokking-Deep-Learning](https://github.com/iamtrask/Grokking-Deep-Learning) - this repository accompanies the book "Grokking Deep Learning"
 - [navjindervirdee/2048-deep-reinforcement-learning](https://github.com/navjindervirdee/2048-deep-reinforcement-learning) - Trained A Convolutional Neural Network To Play 2048 using Deep-Reinforcement Learning
 - [alpv95/Dank-Learning](https://github.com/alpv95/Dank-Learning) - Dank Learning codebase, generate a meme from any image using AI. Uses a modified version of the Show and Tell image captioning network
-- [apachecn/Interview](https://github.com/apachecn/Interview) - Interview = 简历指南 + LeetCode + Kaggle
+- [apachecn/Interview](https://github.com/apachecn/Interview) - Interview = 简历指南 + 算法题 + 八股文 + 源码分析
 - [lijin-THU/notes-python](https://github.com/lijin-THU/notes-python) - 中文 Python 笔记
 - [hardmaru/WorldModelsExperiments](https://github.com/hardmaru/WorldModelsExperiments) - World Models Experiments
 - [terryum/Data-Augmentation-For-Wearable-Sensor-Data](https://github.com/terryum/Data-Augmentation-For-Wearable-Sensor-Data) - A sample code of data augmentation methods for wearable sensor data (time-series data)
@@ -7002,6 +7002,7 @@
 
 ## Python 
 
+- [libffcv/ffcv](https://github.com/libffcv/ffcv) - FFCV: Fast Forward Computer Vision (and other ML workloads!)
 - [bigscience-workshop/Megatron-DeepSpeed](https://github.com/bigscience-workshop/Megatron-DeepSpeed) - Ongoing research training transformer language models at scale, including: BERT & GPT-2
 - [berkeley-dsep-infra/datahub](https://github.com/berkeley-dsep-infra/datahub) - JupyterHubs for use by Berkeley enrolled students
 - [google/rax](https://github.com/google/rax) - 
@@ -7012,7 +7013,7 @@
 - [facebookresearch/demucs](https://github.com/facebookresearch/demucs) - Code for the paper Hybrid Spectrogram and Waveform Source Separation
 - [cvzone/cvzone](https://github.com/cvzone/cvzone) - This is a Computer vision package that makes its easy to run Image processing and AI functions. At the core it uses OpenCV and Mediapipe libraries.
 - [bytedance/Elkeid-HUB](https://github.com/bytedance/Elkeid-HUB) - Elkeid HUB is a rule/event processing engine maintained by the Elkeid Team that supports streaming/offline (not yet supported by the community edition) data processing. The original intention is to solve complex data/event processing and external system linkage requirements through standardized rules.
-- [bczsalba/pytermgui](https://github.com/bczsalba/pytermgui) - A simple yet powerful TUI framework for your Python (3.7+) applications.
+- [bczsalba/PyTermGUI](https://github.com/bczsalba/PyTermGUI) - A simple yet powerful TUI framework for your Python (3.7+) applications.
 - [facebookresearch/contriever](https://github.com/facebookresearch/contriever) - Contriever Towards Unsupervised Dense Information Retrieval with Contrastive Learning
 - [negrinho/deep_architect](https://github.com/negrinho/deep_architect) - A general, modular, and programmable architecture search framework
 - [tiangolo/asyncer](https://github.com/tiangolo/asyncer) - Asyncer, async and await, focused on developer experience.
@@ -7321,7 +7322,7 @@
 - [yanshengjia/ml-road](https://github.com/yanshengjia/ml-road) - Machine Learning Resources, Practice and Research
 - [lucidrains/deep-daze](https://github.com/lucidrains/deep-daze) - Simple command line tool for text to image generation using OpenAI's CLIP and Siren (Implicit neural representation network). Technique was originally created by https://twitter.com/advadnoun
 - [zengarden/momentum2-teacher](https://github.com/zengarden/momentum2-teacher) - Implementation of momentum^2 teacher
-- [evidentlyai/evidently](https://github.com/evidentlyai/evidently) - Interactive reports to analyze machine learning models during validation or production monitoring.
+- [evidentlyai/evidently](https://github.com/evidentlyai/evidently) - Evaluate and monitor ML models from validation to production. Join our Discord: https://discord.com/invite/xZjKRaNp8b
 - [zju3dv/EasyMocap](https://github.com/zju3dv/EasyMocap) - Make human motion capture easier.
 - [ml-tooling/best-of-python](https://github.com/ml-tooling/best-of-python) - 🏆 A ranked list of awesome Python open-source libraries and tools. Updated weekly.
 - [nlp-uoregon/trankit](https://github.com/nlp-uoregon/trankit) - Trankit is a Light-Weight Transformer-based Python Toolkit for Multilingual Natural Language Processing
@@ -8225,7 +8226,7 @@
 - [Wizaron/coord-conv-pytorch](https://github.com/Wizaron/coord-conv-pytorch) - An intriguing failing of convolutional neural networks and the CoordConv solution in PyTorch
 - [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book) - Create beautiful, publication-quality books and documents from computational content.
 - [GauravBh1010tt/DL-Seq2Seq](https://github.com/GauravBh1010tt/DL-Seq2Seq) - Implementation of papers on Deep Seq2seq learning using Pytorch.
-- [aiven/pghoard](https://github.com/aiven/pghoard) - PostgreSQL backup and restore service
+- [aiven/pghoard](https://github.com/aiven/pghoard) - PostgreSQL® backup and restore service
 - [smacke/ffsubsync](https://github.com/smacke/ffsubsync) - Automagically synchronize subtitles with video.
 - [microsoft/nni](https://github.com/microsoft/nni) - An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.
 - [chiphuyen/lazynlp](https://github.com/chiphuyen/lazynlp) - Library to scrape and clean web pages to create massive datasets.
