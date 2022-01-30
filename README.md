@@ -1188,7 +1188,7 @@
 - [Vauxoo/odoo-material](https://github.com/Vauxoo/odoo-material) - FrontEnd Theme using material design
 - [tabulapdf/tabula](https://github.com/tabulapdf/tabula) - Tabula is a tool for liberating data tables trapped inside PDF files
 - [qieguo2016/iconoo](https://github.com/qieguo2016/iconoo) - A Flexible Pure CSS Icon Pack! One Tag One Icon! https://qieguo2016.github.io/iconoo/
-- [schm1ty1/monokai-seti](https://github.com/schm1ty1/monokai-seti) - This theme is no longer maintained. If you want to make any changes please fork
+- [schmty/monokai-seti](https://github.com/schmty/monokai-seti) - This theme is no longer maintained. If you want to make any changes please fork
 - [chriskempson/tomorrow-theme](https://github.com/chriskempson/tomorrow-theme) - Tomorrow Theme now lives on at https://github.com/chriskempson/base16
 - [tmoreton/useful.ly](https://github.com/tmoreton/useful.ly) - useful.ly Flexbox-Based CSS Framework
 - [mike-schultz/materialette](https://github.com/mike-schultz/materialette) - Materialette - A material design color palette
@@ -3175,7 +3175,7 @@
 - [harijoe/serverless-boilerplate](https://github.com/harijoe/serverless-boilerplate) - Minimal yet super-functional serverless boilerplate
 - [imba/imba](https://github.com/imba/imba) - 🐤 The friendly full-stack language
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
-- [vgshenoy/vue-scrollama](https://github.com/vgshenoy/vue-scrollama) - Vue component to easily setup scroll-driven interactions (aka scrollytelling)
+- [vgshenoy/vue-scrollama](https://github.com/vgshenoy/vue-scrollama) - Vue component to setup scroll-driven interactions (aka scrollytelling)
 - [chrisvfritz/vue-monolith-example](https://github.com/chrisvfritz/vue-monolith-example) - Simple example of how to structure a monolithic Vue application
 - [pagekit/vue-resource](https://github.com/pagekit/vue-resource) - The HTTP client for Vue.js
 - [dawson-org/dawson-cli](https://github.com/dawson-org/dawson-cli) - A serverless web framework for Node.js on AWS (CloudFormation, CloudFront, API Gateway, Lambda)
@@ -4461,7 +4461,7 @@
 - [deepmind/multimodal_transformers](https://github.com/deepmind/multimodal_transformers) - 
 - [facebookresearch/omnivore](https://github.com/facebookresearch/omnivore) - Omnivore: A Single Model for Many Visual Modalities
 - [huggingface/notebooks](https://github.com/huggingface/notebooks) - Notebooks using the Hugging Face libraries 🤗
-- [DataTalksClub/data-engineering-zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) - Code for Data Engineer Zoomcamp course
+- [DataTalksClub/data-engineering-zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) - Free Data Engineering course!
 - [commit-live-students/Data_Science_Masters_Program_2021](https://github.com/commit-live-students/Data_Science_Masters_Program_2021) - 
 - [deep-learning-with-pytorch/dlwpt-code](https://github.com/deep-learning-with-pytorch/dlwpt-code) - Code for the book Deep Learning with PyTorch by Eli Stevens, Luca Antiga, and Thomas Viehmann.
 - [irbigdata/data-dockerfiles](https://github.com/irbigdata/data-dockerfiles) - a curated list of docker-compose files prepared for testing  data engineering tools, databases and open source libraries.
