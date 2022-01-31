@@ -2985,7 +2985,7 @@
 - [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt) - Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨
 - [jaredpalmer/tsdx](https://github.com/jaredpalmer/tsdx) - Zero-config CLI for TypeScript package development
 - [typescript-cheatsheets/react](https://github.com/typescript-cheatsheets/react) - Cheatsheets for experienced React developers getting started with TypeScript
-- [noahlevenson/stealing-ur-feelings](https://github.com/noahlevenson/stealing-ur-feelings) - Winner of Mozilla's $50,000 prize for art and advocacy exploring AI
+- [noahlevenson/stealing-ur-feelings](https://github.com/noahlevenson/stealing-ur-feelings) - Winner of Mozilla's $50,000 prize for AI
 - [knrt10/kubernetes-basicLearning](https://github.com/knrt10/kubernetes-basicLearning) - Understand kubernetes step by step. A simple repo for beginners :fire:
 - [sideway/joi](https://github.com/sideway/joi) - The most powerful data validation library for JS
 - [node-red/node-red](https://github.com/node-red/node-red) - Low-code programming for event-driven applications
@@ -3625,7 +3625,6 @@
 - [elesdoar/leaflet-control-orderlayers](https://github.com/elesdoar/leaflet-control-orderlayers) - Leaflet control with order functionality
 - [google/bottery](https://github.com/google/bottery) - 
 - [ankane/vue-chartkick](https://github.com/ankane/vue-chartkick) - Create beautiful JavaScript charts with one line of Vue
-- [apertureless/vue-chartjs](https://github.com/apertureless/vue-chartjs) - 📊  Vue.js wrapper for Chart.js
 - [dpa99c/cordova-custom-config](https://github.com/dpa99c/cordova-custom-config) - Cordova/Phonegap plugin to update platform configuration files based on preferences and config-file data defined in config.xml
 - [dattn/vue-map](https://github.com/dattn/vue-map) - A vue map component using leaflet
 - [brandonxiang/vue-leaflet-mobile](https://github.com/brandonxiang/vue-leaflet-mobile) - A vue mobile webapp for leaflet.js
@@ -14257,6 +14256,7 @@
 - [egoist/aimer](https://github.com/egoist/aimer) - The UI Development Framework
 - [KamilOcean/vue-sticker](https://github.com/KamilOcean/vue-sticker) - Vue component, that helps to make sticky effects
 - [zircleUI/zircleUI](https://github.com/zircleUI/zircleUI) - 🚀 zircle-ui is a frontend library to develop zoomable user interfaces.
+- [apertureless/vue-chartjs](https://github.com/apertureless/vue-chartjs) - 📊  Vue.js wrapper for Chart.js
 - [framework7io/framework7-vue](https://github.com/framework7io/framework7-vue) - Deprecated! Build full featured iOS & Android apps using Framework7 & Vue
 - [ElemeFE/vue-swipe](https://github.com/ElemeFE/vue-swipe) - A touch slider for vue.js.
 - [phoenixwong/vue2-timepicker](https://github.com/phoenixwong/vue2-timepicker) - A dropdown time picker (hour|minute|second) for Vue 2.x, with flexible time format support
