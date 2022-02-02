@@ -2225,6 +2225,7 @@
 
 ## HTML 
 
+- [discobot/ml-handbook](https://github.com/discobot/ml-handbook) - draft of ml handbook for ysda
 - [doka-guide/content](https://github.com/doka-guide/content) - Контент Доки: статьи, картинки, демки и документация для авторов
 - [snakemake/snakemake](https://github.com/snakemake/snakemake) - This is the development home of the workflow management system Snakemake. For general information, see
 - [bayesoptbook/bayesoptbook.github.io](https://github.com/bayesoptbook/bayesoptbook.github.io) - Companion webpage for the book "Bayesian Optimization" by Roman Garnett
@@ -4457,6 +4458,14 @@
 
 ## Jupyter Notebook 
 
+- [BayesianModelingandComputationInPython/BookCode_Edition1](https://github.com/BayesianModelingandComputationInPython/BookCode_Edition1) - 
+- [GnuriaN/Python-Roadmap](https://github.com/GnuriaN/Python-Roadmap) - Дорожная карта по изучению Python
+- [ImperialCollegeLondon/Computer_Vision_2022](https://github.com/ImperialCollegeLondon/Computer_Vision_2022) - 
+- [jalammar/ecco](https://github.com/jalammar/ecco) - Explain, analyze, and visualize NLP language models. Ecco creates interactive visualizations directly in Jupyter notebooks explaining the behavior of Transformer-based language models (like GPT2, BERT, RoBERTA, T5, and T0).
+- [khuyentran1401/Efficient_Python_tricks_and_tools_for_data_scientists](https://github.com/khuyentran1401/Efficient_Python_tricks_and_tools_for_data_scientists) - Efficient Python Tricks and Tools for Data Scientists
+- [mcmahon-lab/Physics-Aware-Training](https://github.com/mcmahon-lab/Physics-Aware-Training) - Instructional implementation of Physics-Aware Training (PAT) with demonstrations on simulated experiments.
+- [pliugithub/MachineLearning](https://github.com/pliugithub/MachineLearning) - NYU ECE GY-6143
+- [sokrypton/ColabFold](https://github.com/sokrypton/ColabFold) - Making Protein folding accessible to all via Google Colab!
 - [deepmind/multimodal_transformers](https://github.com/deepmind/multimodal_transformers) - 
 - [facebookresearch/omnivore](https://github.com/facebookresearch/omnivore) - Omnivore: A Single Model for Many Visual Modalities
 - [huggingface/notebooks](https://github.com/huggingface/notebooks) - Notebooks using the Hugging Face libraries 🤗
@@ -5916,6 +5925,7 @@
 
 ## Others 
 
+- [microsoft/dev-container-spec](https://github.com/microsoft/dev-container-spec) - Development Containers: Use a Docker container as a full-featured development environment.
 - [darigovresearch/Hugging-Face-Transformers-Glossary-Flashcards](https://github.com/darigovresearch/Hugging-Face-Transformers-Glossary-Flashcards) - Repository containing Anki Flashcards & source code to revise Hugging Face's transformers terms
 - [DAGsHub/audio-datasets](https://github.com/DAGsHub/audio-datasets) - open-source audio datasets
 - [semi-technologies/awesome-weaviate](https://github.com/semi-technologies/awesome-weaviate) - Awesome Weaviate
@@ -7001,6 +7011,8 @@
 
 ## Python 
 
+- [tunib-ai/parallelformers](https://github.com/tunib-ai/parallelformers) - Parallelformers: An Efficient Model Parallelization Toolkit for Deployment
+- [tunib-ai/oslo](https://github.com/tunib-ai/oslo) - OSLO: Open Source framework for Large-scale transformer Optimization
 - [libffcv/ffcv](https://github.com/libffcv/ffcv) - FFCV: Fast Forward Computer Vision (and other ML workloads!)
 - [bigscience-workshop/Megatron-DeepSpeed](https://github.com/bigscience-workshop/Megatron-DeepSpeed) - Ongoing research training transformer language models at scale, including: BERT & GPT-2
 - [berkeley-dsep-infra/datahub](https://github.com/berkeley-dsep-infra/datahub) - JupyterHubs for use by Berkeley enrolled students
@@ -10020,7 +10032,7 @@
 - [willkg/everett](https://github.com/willkg/everett) - configuration library for python projects
 - [autorope/donkeycar](https://github.com/autorope/donkeycar) - Open source hardware and software platform to build a small scale self driving car.
 - [adtac/exterminate](https://github.com/adtac/exterminate) - Break Python programs with a single import
-- [xlwings/xlwings](https://github.com/xlwings/xlwings) - xlwings is a BSD-licensed Python library that makes it easy to call Python from Excel and vice versa. It works with Microsoft Excel on Windows and macOS.
+- [xlwings/xlwings](https://github.com/xlwings/xlwings) - xlwings is a Python library that makes it easy to call Python from Excel and vice versa. It works with Excel on Windows and macOS as well as with Google Sheets and Excel on the web.
 - [number5/cloud-init](https://github.com/number5/cloud-init) - unofficial mirror of Ubuntu's  cloud-init
 - [jpetrucciani/bucketstore](https://github.com/jpetrucciani/bucketstore) - A simple library for interacting with Amazon S3.
 - [yunjey/domain-transfer-network](https://github.com/yunjey/domain-transfer-network) - TensorFlow Implementation of Unsupervised Cross-Domain Image Generation
