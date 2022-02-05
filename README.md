@@ -151,6 +151,7 @@
 
 ## C 
 
+- [petewarden/spchcat](https://github.com/petewarden/spchcat) - Speech recognition tool to convert audio to text transcripts, for Linux and Raspberry Pi.
 - [unispeech/unimrcp](https://github.com/unispeech/unimrcp) - Open source cross-platform implementation of MRCP protocol
 - [activeloopai/Hub](https://github.com/activeloopai/Hub) - Dataset format for AI. Build, manage, & visualize datasets for deep learning. Stream data real-time to PyTorch/TensorFlow & version-control it. https://activeloop.ai
 - [aporia-ai/TrainInvaders](https://github.com/aporia-ai/TrainInvaders) - 👾 Jupyter Notebook + Space Invaders!?
@@ -502,7 +503,6 @@
 
 ## C++ 
 
-- [petewarden/spchcat](https://github.com/petewarden/spchcat) - Speech recognition tool to convert audio to text transcripts, for Linux and Raspberry Pi.
 - [triton-inference-server/backend](https://github.com/triton-inference-server/backend) - Common source, scripts and utilities for creating Triton backends.
 - [kpu/kenlm](https://github.com/kpu/kenlm) - KenLM: Faster and Smaller Language Model Queries
 - [darglein/ADOP](https://github.com/darglein/ADOP) - 
@@ -4636,7 +4636,7 @@
 - [kunalj101/Data-Science-Hacks](https://github.com/kunalj101/Data-Science-Hacks) - Data Science Hacks consists of tips, tricks to help you become a better data scientist. Data science hacks are for all - beginner to advanced. Data science hacks consist of python, jupyter notebook, pandas hacks and so on.
 - [Sshanu/Bidirectional-Attention-Flow-for-Machine-Comprehension](https://github.com/Sshanu/Bidirectional-Attention-Flow-for-Machine-Comprehension) - Machine Comprehension using Squad and Triviqa Data sets
 - [AnatoliiPotapov/squad](https://github.com/AnatoliiPotapov/squad) - 
-- [ryanshin712/nlp_ryan](https://github.com/ryanshin712/nlp_ryan) - Study for Natural Language Processing & Deep Learning Framework
+- [rainmaker712/nlp_ryan](https://github.com/rainmaker712/nlp_ryan) - Study for Natural Language Processing & Deep Learning Framework
 - [NVIDIA/Torch-TensorRT](https://github.com/NVIDIA/Torch-TensorRT) - PyTorch/TorchScript compiler for NVIDIA GPUs using TensorRT
 - [selfteaching/the-craft-of-selfteaching](https://github.com/selfteaching/the-craft-of-selfteaching) - One has no future if one couldn't teach themself.
 - [justmarkham/scikit-learn-tips](https://github.com/justmarkham/scikit-learn-tips) - :robot::zap: 50 scikit-learn tips
@@ -7047,7 +7047,7 @@
 - [sberbank-ai/ru-prompts](https://github.com/sberbank-ai/ru-prompts) - 
 - [deepmind/envlogger](https://github.com/deepmind/envlogger) - A tool for recording RL trajectories.
 - [microsoft/torchgeo](https://github.com/microsoft/torchgeo) - TorchGeo: datasets, transforms, and models for geospatial data
-- [ELS-RD/transformer-deploy](https://github.com/ELS-RD/transformer-deploy) - Efficient, scalable and enterprise-grade CPU/GPU inference server for Hugging Face transformer models 🚀
+- [ELS-RD/transformer-deploy](https://github.com/ELS-RD/transformer-deploy) - Efficient, scalable and enterprise-grade CPU/GPU inference server for 🤗 Hugging Face transformer models 🚀
 - [thunlp/OpenPrompt](https://github.com/thunlp/OpenPrompt) - An Open-Source Framework for Prompt-Learning.
 - [pywebio/PyWebIO](https://github.com/pywebio/PyWebIO) - Write interactive web app in script way.
 - [neuralchen/SimSwap](https://github.com/neuralchen/SimSwap) - An arbitrary face-swapping framework on images and videos with one single trained model!
@@ -7132,7 +7132,7 @@
 - [daeken/kdl-py](https://github.com/daeken/kdl-py) - Python implementation of the KDL Document Language
 - [princeton-nlp/EntityQuestions](https://github.com/princeton-nlp/EntityQuestions) - EMNLP'2021: Simple Entity-centric Questions Challenge Dense Retrievers
 - [pyensemble/wildwood](https://github.com/pyensemble/wildwood) - Advanced random forest methods in Python
-- [facebookresearch/CompilerGym](https://github.com/facebookresearch/CompilerGym) - A reinforcement learning toolkit for compiler optimizations
+- [facebookresearch/CompilerGym](https://github.com/facebookresearch/CompilerGym) - Reinforcement learning environments for compiler and program optimization tasks
 - [elblogbruno/NotionAI-MyMind](https://github.com/elblogbruno/NotionAI-MyMind) - This repo uses AI and the wonderful Notion to enable you to add anything on the web to your "Mind" and forget about everything else.
 - [lehaifeng/SCAttNet](https://github.com/lehaifeng/SCAttNet) - Semantic Segmentation Network with Spatial and Channel Attention Mechanism for High-Resolution Remote Sensing Images
 - [princeton-nlp/DensePhrases](https://github.com/princeton-nlp/DensePhrases) - ACL'2021: Learning Dense Representations of Phrases at Scale; EMNLP'2021: Phrase Retrieval Learns Passage Retrieval, Too
@@ -8518,7 +8518,7 @@
 - [Calysto/nbplayer](https://github.com/Calysto/nbplayer) - A console notebook player
 - [kenmoini/ansible_modules](https://github.com/kenmoini/ansible_modules) - A collection of Ansible modules
 - [ultralytics/yolov3](https://github.com/ultralytics/yolov3) - YOLOv3 in PyTorch &gt; ONNX &gt; CoreML &gt; TFLite
-- [lunarwings/haps](https://github.com/lunarwings/haps) - Pure Python dependency injection library
+- [ekiro/haps](https://github.com/ekiro/haps) - Pure Python dependency injection library
 - [Twangist/prelogging](https://github.com/Twangist/prelogging) - A streamlined, consistent API for configuring logging
 - [fperazzi-zz/proSR](https://github.com/fperazzi-zz/proSR) - Repository containing an independent implementation of the paper: "A Fully Progressive Approach to Single-Image Super-Resolution"
 - [catalyst-team/catalyst](https://github.com/catalyst-team/catalyst) - Accelerated deep learning R&D
@@ -12791,7 +12791,7 @@
 - [sindresorhus/sublime-autoprefixer](https://github.com/sindresorhus/sublime-autoprefixer) - Sublime plugin to prefix your CSS
 - [cigroup-ol/windml](https://github.com/cigroup-ol/windml) - The windML framework provides an easy-to-use access to wind data sources within the Python world, building upon numpy, scipy, sklearn, and matplotlib. Renewable Wind Energy, Forecasting, Prediction
 - [avelino/nacho](https://github.com/avelino/nacho) - Python micro web-framework and asynchronous networking library tulip, support Python &gt;= 3.3
-- [dulwich/dulwich](https://github.com/dulwich/dulwich) - Pure-Python Git implementation
+- [jelmer/dulwich](https://github.com/jelmer/dulwich) - Pure-Python Git implementation
 - [DataBrewery/expressions](https://github.com/DataBrewery/expressions) - Simple arithmetic expression parser
 - [vgel/summarize.py](https://github.com/vgel/summarize.py) - A python script for summarizing articles using nltk
 - [tomekwojcik/envelopes](https://github.com/tomekwojcik/envelopes) - Mailing for human beings
