@@ -3666,7 +3666,7 @@
 - [IonicaBizau/made-in-russia](https://github.com/IonicaBizau/made-in-russia) - 🇷🇺 Amazing projects made in Russia.
 - [lllyasviel/style2paints](https://github.com/lllyasviel/style2paints) - sketch + style = paints :art: (TOG2018/SIGGRAPH2018ASIA)
 - [kodie/npm-gif](https://github.com/kodie/npm-gif) - Replace NPM install's progress bar with a GIF!
-- [vuejs/vue-test-utils](https://github.com/vuejs/vue-test-utils) - 🔬 Utilities for testing Vue components
+- [vuejs/vue-test-utils](https://github.com/vuejs/vue-test-utils) - Component Test Utils for Vue 2
 - [eclipsesource/tabris-js](https://github.com/eclipsesource/tabris-js) - Create native mobile apps in JavaScript or TypeScript.
 - [IBM/vue-a11y-calendar](https://github.com/IBM/vue-a11y-calendar) - Accessible, internationalized Vue calendar
 - [littlstar/hivemind](https://github.com/littlstar/hivemind) - For creating distributed jobs using AWS Lambda functions
@@ -4117,7 +4117,7 @@
 - [cezaraugusto/You-Dont-Know-JS](https://github.com/cezaraugusto/You-Dont-Know-JS) - 📗📒 (PT-Br translation) JS Book Series.
 - [flickr/yakbak](https://github.com/flickr/yakbak) - Record and playback HTTP responses
 - [ericholiveira/studio](https://github.com/ericholiveira/studio) - A nodejs framework to create decoupled and scalable applications
-- [mui-org/material-ui](https://github.com/mui-org/material-ui) - MUI (formerly Material-UI) is the React UI library you always wanted. Follow your own design system, or start with Material Design.
+- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core (formerly Material UI) is the React UI library you always wanted. Follow your own design system, or start with Material Design.
 - [parse-community/parse-server](https://github.com/parse-community/parse-server) - API server module for Node/Express
 - [OmniDB/OmniDB](https://github.com/OmniDB/OmniDB) - Web tool for database management
 - [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
@@ -4695,7 +4695,6 @@
 - [giswqs/earthengine-py-notebooks](https://github.com/giswqs/earthengine-py-notebooks) - A collection of 360+ Jupyter Python notebook examples for using Google Earth Engine with interactive mapping
 - [h2oai/h2o-3](https://github.com/h2oai/h2o-3) - H2O is an Open Source, Distributed, Fast & Scalable Machine Learning Platform: Deep Learning, Gradient Boosting (GBM) & XGBoost, Random Forest, Generalized Linear Modeling (GLM with Elastic Net), K-Means, PCA, Generalized Additive Models (GAM), RuleFit, Support Vector Machine (SVM), Stacked Ensembles, Automatic Machine Learning (AutoML), etc.
 - [DLSchool/deep-learning-school](https://github.com/DLSchool/deep-learning-school) - Официальный репозиторий курса Deep Learning (2018-2021) от Deep Learning School при ФПМИ МФТИ
-- [liyin2015/python-coding-interview](https://github.com/liyin2015/python-coding-interview) - A middle-to-high level algorithm book designed with coding interview at heart!
 - [microsoft/c9-python-getting-started](https://github.com/microsoft/c9-python-getting-started) - Sample code for Channel 9 Python for Beginners course
 - [rasbt/stat453-deep-learning-ss20](https://github.com/rasbt/stat453-deep-learning-ss20) - STAT 453: Intro to Deep Learning @ UW-Madison (Spring 2020)
 - [ml-tooling/ml-workspace](https://github.com/ml-tooling/ml-workspace) - 🛠 All-in-one web-based IDE specialized for machine learning and data science.
@@ -6065,7 +6064,7 @@
 - [junhyukoh/deep-reinforcement-learning-papers](https://github.com/junhyukoh/deep-reinforcement-learning-papers) - A list of recent papers regarding deep reinforcement learning
 - [0nn0/terminal-mac-cheatsheet](https://github.com/0nn0/terminal-mac-cheatsheet) - List of my most used commands and shortcuts in the terminal for Mac
 - [jivoi/awesome-ml-for-cybersecurity](https://github.com/jivoi/awesome-ml-for-cybersecurity) - :octocat: Machine Learning for Cyber Security
-- [sundowndev/hacker-roadmap](https://github.com/sundowndev/hacker-roadmap) - :pushpin: Penetration testing for beginners. A guide for amateur pentesters and a collection of hacking tools, resources and references to practice ethical hacking.
+- [sundowndev/hacker-roadmap](https://github.com/sundowndev/hacker-roadmap) - A collection of hacking tools, resources and references to practice ethical hacking.
 - [MarkSimos/MicrosoftSecurity](https://github.com/MarkSimos/MicrosoftSecurity) - Microsoft Security Guidance
 - [taichi-dev/difftaichi](https://github.com/taichi-dev/difftaichi) - 10 differentiable physical simulators built with Taichi differentiable programming (DiffTaichi, ICLR 2020)
 - [SE-ML/awesome-seml](https://github.com/SE-ML/awesome-seml) - A curated list of articles that cover the software engineering best practices for building machine learning applications.
@@ -13603,6 +13602,7 @@
 - [awni/future_speech](https://github.com/awni/future_speech) - The History of Speech Recognition to the Year 2030
 - [quantum-ods/qmlcourse](https://github.com/quantum-ods/qmlcourse) - Quantum Machine Learning Community Course
 - [corona-warn-app/cwa-documentation](https://github.com/corona-warn-app/cwa-documentation) - Project overview, general documentation, and white papers.
+- [liyin2015/python-coding-interview](https://github.com/liyin2015/python-coding-interview) - A middle-to-high level algorithm open source book designed with coding interview at heart!
 - [Just-A-Visitor/Algorithmic-Pseudocode](https://github.com/Just-A-Visitor/Algorithmic-Pseudocode) - This repository contains the pseudocode(pdf) of various algorithms and data structures necessary for Interview Preparation and Competitive Coding
 - [facebookresearch/craftassist](https://github.com/facebookresearch/craftassist) - A virtual assistant bot in Minecraft
 - [datasciencescoop/Data-Science--Cheat-Sheet](https://github.com/datasciencescoop/Data-Science--Cheat-Sheet) - Cheat Sheets
@@ -14216,7 +14216,7 @@
 - [RobinCK/vue-gallery](https://github.com/RobinCK/vue-gallery) - :camera: Responsive and customizable image and video gallery, carousel and lightbox, optimized for both mobile and desktop web browsers.
 - [harryho/vue-crm](https://github.com/harryho/vue-crm) - Simple reusable CRM built on Vue 2 PWA template and Vuetify UI
 - [devjin0617/vue2-admin-lte](https://github.com/devjin0617/vue2-admin-lte) - :bar_chart: adminLTE to vuejs v2.x converting project
-- [heyui/heyui](https://github.com/heyui/heyui) - 🎉UI Toolkit for Web, Vue2.0 http://www.heyui.top
+- [heyui/heyui](https://github.com/heyui/heyui) - 🎉UI Toolkit for Web, Vue3.0
 - [byteboomers/vue-prom](https://github.com/byteboomers/vue-prom) - Vue promise wrapper component
 - [mattrothenberg/vue-overdrive](https://github.com/mattrothenberg/vue-overdrive) - Super easy magic-move transitions for Vue apps
 - [ais-one/vue2-leaflet-tracksymbol](https://github.com/ais-one/vue2-leaflet-tracksymbol) - tracksymbol plugin extension for vue2-leaflet (Updated to use vue2-leaflet v2.x.x)
