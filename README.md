@@ -153,11 +153,11 @@
 
 - [petewarden/spchcat](https://github.com/petewarden/spchcat) - Speech recognition tool to convert audio to text transcripts, for Linux and Raspberry Pi.
 - [unispeech/unimrcp](https://github.com/unispeech/unimrcp) - Open source cross-platform implementation of MRCP protocol
-- [activeloopai/Hub](https://github.com/activeloopai/Hub) - Dataset format for AI. Build, manage, & visualize datasets for deep learning. Stream data real-time to PyTorch/TensorFlow & version-control it. https://activeloop.ai
 - [aporia-ai/TrainInvaders](https://github.com/aporia-ai/TrainInvaders) - 👾 Jupyter Notebook + Space Invaders!?
 - [gmtsar/gmtsar](https://github.com/gmtsar/gmtsar) - GMTSAR
 - [cair/pyTsetlinMachine](https://github.com/cair/pyTsetlinMachine) - Implements the Tsetlin Machine, Convolutional Tsetlin Machine, Regression Tsetlin Machine, Weighted Tsetlin Machine, and Embedding Tsetlin Machine, with support for continuous features, multigranularity, and clause indexing
 - [marmarelis/rolling-quantiles](https://github.com/marmarelis/rolling-quantiles) - Blazing fast, composable, Pythonic quantile filters.
+- [Picovoice/cheetah](https://github.com/Picovoice/cheetah) - On-device streaming speech-to-text engine powered by deep learning
 - [julius-speech/julius](https://github.com/julius-speech/julius) - Open-Source Large Vocabulary Continuous Speech Recognition Engine
 - [cmusphinx/pocketsphinx](https://github.com/cmusphinx/pocketsphinx) - PocketSphinx is a lightweight speech recognition engine, specifically tuned for handheld and mobile devices, though it works equally well on the desktop
 - [openvenues/pypostal](https://github.com/openvenues/pypostal) - Python bindings to libpostal for fast international address parsing/normalization
@@ -1261,7 +1261,6 @@
 - [jondot/graphene](https://github.com/jondot/graphene) - Graphene is a realtime dashboard & graphing toolkit based on D3 and Backbone.
 - [ripienaar/gdash](https://github.com/ripienaar/gdash) - A dashboard for Graphite
 - [5monkeys/djedi-cms](https://github.com/5monkeys/djedi-cms) - Django content management as it should be
-- [araastat/PyWorkshop2](https://github.com/araastat/PyWorkshop2) - 
 - [ekalinin/nodeguide.ru](https://github.com/ekalinin/nodeguide.ru) - nodeguide.ru
 - [ChrisBeaumont/crime](https://github.com/ChrisBeaumont/crime) - Demo exploration of FBI crime statistics using Glue and plotly
 - [adrn/d3po](https://github.com/adrn/d3po) - 
@@ -2680,6 +2679,7 @@
 - [michaelhelmick/lassie](https://github.com/michaelhelmick/lassie) - Web Content Retrieval for Humans™
 - [rdkit/rdkit](https://github.com/rdkit/rdkit) - The official sources for the RDKit library
 - [chrisalbon/mlai](https://github.com/chrisalbon/mlai) - Notes on machine learning and artificial intelligence.
+- [araastat/PyWorkshop2](https://github.com/araastat/PyWorkshop2) - 
 - [brandomr/dataviz-course](https://github.com/brandomr/dataviz-course) - A course on data visualization
 - [brandomr/nyc_taxis](https://github.com/brandomr/nyc_taxis) - 
 - [WinVector/zmPDSwR](https://github.com/WinVector/zmPDSwR) - Example R scripts and data for "Practical Data Science with R" 1st edition by Nina Zumel and John Mount (Manning Publications)
@@ -7057,6 +7057,7 @@
 - [pywebio/PyWebIO](https://github.com/pywebio/PyWebIO) - Write interactive web app in script way.
 - [neuralchen/SimSwap](https://github.com/neuralchen/SimSwap) - An arbitrary face-swapping framework on images and videos with one single trained model!
 - [jasonreisman/Timeline](https://github.com/jasonreisman/Timeline) - A tool for creating SVG timelines from simple JSON input.
+- [activeloopai/Hub](https://github.com/activeloopai/Hub) - Dataset format for AI. Build, manage, & visualize datasets for deep learning. Stream data real-time to PyTorch/TensorFlow & version-control it. https://activeloop.ai
 - [microsoft/FLAML](https://github.com/microsoft/FLAML) - A fast library for AutoML and tuning.
 - [murraylab/PsychRNN](https://github.com/murraylab/PsychRNN) - 
 - [ISGNeuroTeam/CoAuthor](https://github.com/ISGNeuroTeam/CoAuthor) - NLP project that works with news (NER, context generation, news trend analytics)
@@ -7329,7 +7330,6 @@
 - [alphacep/vosk-server](https://github.com/alphacep/vosk-server) - WebSocket, gRPC and WebRTC speech recognition server based on Vosk and Kaldi libraries
 - [hirofumi0810/tensorflow_end2end_speech_recognition](https://github.com/hirofumi0810/tensorflow_end2end_speech_recognition) - End-to-End speech recognition implementation base on TensorFlow (CTC, Attention, and MTL training)
 - [gooofy/zamia-speech](https://github.com/gooofy/zamia-speech) - Open tools and data for cloudless automatic speech recognition
-- [Picovoice/cheetah](https://github.com/Picovoice/cheetah) - On-device streaming speech-to-text engine powered by deep learning
 - [kaituoxu/Speech-Transformer](https://github.com/kaituoxu/Speech-Transformer) - A PyTorch implementation of Speech Transformer, an End-to-End ASR with Transformer network on Mandarin Chinese.
 - [iceychris/LibreASR](https://github.com/iceychris/LibreASR) - :speech_balloon: An On-Premises, Streaming Speech Recognition System
 - [mravanelli/SincNet](https://github.com/mravanelli/SincNet) - SincNet is a neural architecture for efficiently processing raw audio samples.
@@ -7885,7 +7885,7 @@
 - [NVIDIAGameWorks/kaolin](https://github.com/NVIDIAGameWorks/kaolin) - A PyTorch Library for Accelerating 3D Deep Learning Research
 - [deepjyoti30/downloader-cli](https://github.com/deepjyoti30/downloader-cli) - A simple downloader written in Python with an awesome customizable progressbar.
 - [quay/quay](https://github.com/quay/quay) - Build, Store, and Distribute your Applications and Containers
-- [Softwarepark/exercises](https://github.com/Softwarepark/exercises) - SoftwarePark exercises and dojos
+- [Softwarepark/exercises](https://github.com/Softwarepark/exercises) - Trustbit (Softwarepark) exercises and dojos for DDD and Data Science 💖
 - [altsoph/wcw_bot](https://github.com/altsoph/wcw_bot) - WebCamWatcher bot and pipeline
 - [BloodAxe/Kaggle-Salt](https://github.com/BloodAxe/Kaggle-Salt) - 
 - [MicroPyramid/Django-CRM](https://github.com/MicroPyramid/Django-CRM) - Open Source CRM based on Django
@@ -9734,7 +9734,7 @@
 - [csujedihy/lc-all-solutions](https://github.com/csujedihy/lc-all-solutions) - My own leetcode solutions by python
 - [devicons/devicon](https://github.com/devicons/devicon) - Set of icons representing programming languages, designing & development tools
 - [qgis/QGIS-Documentation](https://github.com/qgis/QGIS-Documentation) - 
-- [encode/uvicorn](https://github.com/encode/uvicorn) - The lightning-fast ASGI server. 🦄
+- [encode/uvicorn](https://github.com/encode/uvicorn) - An ASGI web server, for Python. 🦄
 - [ShangtongZhang/DeepRL](https://github.com/ShangtongZhang/DeepRL) - Modularized Implementation of Deep RL Algorithms in PyTorch
 - [scikit-video/scikit-video](https://github.com/scikit-video/scikit-video) - Video Processing in Python
 - [jd/tenacity](https://github.com/jd/tenacity) - Retrying library for Python
@@ -10962,7 +10962,7 @@
 - [PyAna/PyAna](https://github.com/PyAna/PyAna) - PyAna - Analyzing the Windows shellcode
 - [probcomp/crosscat](https://github.com/probcomp/crosscat) - A domain-general, Bayesian method for analyzing high-dimensional data tables
 - [tobegit3hub/lambda-docker](https://github.com/tobegit3hub/lambda-docker) - Event-driven code runtime like AWS Lambda service
-- [zalando/connexion](https://github.com/zalando/connexion) - Swagger/OpenAPI First framework for Python on top of Flask with automatic endpoint validation & OAuth2 support
+- [spec-first/connexion](https://github.com/spec-first/connexion) - Swagger/OpenAPI First framework for Python on top of Flask with automatic endpoint validation & OAuth2 support
 - [rossgoodwin/neuralsnap](https://github.com/rossgoodwin/neuralsnap) - Generates poetry from images using convolutional and recurrent neural networks
 - [vinhkhuc/MemN2N-babi-python](https://github.com/vinhkhuc/MemN2N-babi-python) - End-To-End Memory Networks for bAbI question-answering tasks
 - [bit-team/backintime](https://github.com/bit-team/backintime) - Back In Time - A simple backup tool for Linux
