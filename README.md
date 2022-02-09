@@ -205,7 +205,6 @@
 - [uber/h3-go](https://github.com/uber/h3-go) - Go bindings for H3, a hierarchical hexagonal geospatial indexing system
 - [cloudwu/skynet](https://github.com/cloudwu/skynet) - A lightweight online game framework
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
-- [NVIDIA-AI-IOT/deepstream_reference_apps](https://github.com/NVIDIA-AI-IOT/deepstream_reference_apps) - Samples for TensorRT/Deepstream for Tesla & Jetson
 - [BazkieBumpercar/Blunted2](https://github.com/BazkieBumpercar/Blunted2) - Multithreaded game engine, deprecated
 - [BazkieBumpercar/GameplayFootball](https://github.com/BazkieBumpercar/GameplayFootball) - Football game, discontinued
 - [chrismaltby/gb-studio](https://github.com/chrismaltby/gb-studio) - A quick and easy to use drag and drop retro game creator for your favourite handheld video game system
@@ -618,6 +617,7 @@
 - [gibsjose/cpp-cheat-sheet](https://github.com/gibsjose/cpp-cheat-sheet) - C++ Syntax, Data Structures, and Algorithms Cheat Sheet
 - [google/earthenterprise](https://github.com/google/earthenterprise) - Google Earth Enterprise - Open Source
 - [google/mediapipe](https://github.com/google/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
+- [NVIDIA-AI-IOT/deepstream_reference_apps](https://github.com/NVIDIA-AI-IOT/deepstream_reference_apps) - Samples for TensorRT/Deepstream for Tesla & Jetson
 - [open-source-parsers/jsoncpp](https://github.com/open-source-parsers/jsoncpp) - A C++ library for interacting with JSON.
 - [google/or-tools](https://github.com/google/or-tools) - Google's Operations Research tools:
 - [facebookresearch/habitat-sim](https://github.com/facebookresearch/habitat-sim) - A flexible, high-performance 3D simulator for Embodied AI research.
@@ -1035,6 +1035,7 @@
 
 ## CSS 
 
+- [openai/openai-quickstart-python](https://github.com/openai/openai-quickstart-python) - Python example app from the OpenAI API quickstart tutorial
 - [doka-guide/platform](https://github.com/doka-guide/platform) - Платформа Доки: шаблоны, стили, скрипты и всё для сборки сайта
 - [dataflowr/website](https://github.com/dataflowr/website) - code for the website
 - [clementmihailescu/Pathfinding-Visualizer](https://github.com/clementmihailescu/Pathfinding-Visualizer) - A visualization tool for various pathfinding algorithms.
@@ -4456,6 +4457,9 @@
 
 ## Jupyter Notebook 
 
+- [yandexdataschool/MLatImperial2018](https://github.com/yandexdataschool/MLatImperial2018) - ML at Imperial College
+- [yandexdataschool/mlhep2019](https://github.com/yandexdataschool/mlhep2019) - MLHEP'19 slides and notebooks
+- [yandexdataschool/speech_course](https://github.com/yandexdataschool/speech_course) - YSDA course in Speech Processing.
 - [BayesianModelingandComputationInPython/BookCode_Edition1](https://github.com/BayesianModelingandComputationInPython/BookCode_Edition1) - 
 - [GnuriaN/Python-Roadmap](https://github.com/GnuriaN/Python-Roadmap) - Дорожная карта по изучению Python
 - [ImperialCollegeLondon/Computer_Vision_2022](https://github.com/ImperialCollegeLondon/Computer_Vision_2022) - 
@@ -7012,6 +7016,8 @@
 
 ## Python 
 
+- [google-research/growneuron](https://github.com/google-research/growneuron) - 
+- [facebookresearch/directclr](https://github.com/facebookresearch/directclr) - DirectCLR is a simple contrastive learning model for visual representation learning. It does not require a trainable projector as SimCLR. It is able to prevent dimensional collapse and outperform SimCLR with a linear projector.
 - [KurtBestor/Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - :cake: Desktop utility to download images/videos/music/text from various websites, and more.
 - [sdv-dev/SDV](https://github.com/sdv-dev/SDV) - Synthetic Data Generation for tabular, relational and time series data.
 - [ranger/ranger](https://github.com/ranger/ranger) - A VIM-inspired filemanager for the console
@@ -7379,7 +7385,7 @@
 - [cool-RR/marley](https://github.com/cool-RR/marley) - A framework for multi-agent reinforcement learning.
 - [psinger/kaggle-landmark-recognition-2020-1st-place](https://github.com/psinger/kaggle-landmark-recognition-2020-1st-place) - 
 - [lucidrains/vit-pytorch](https://github.com/lucidrains/vit-pytorch) - Implementation of Vision Transformer, a simple way to achieve SOTA in vision classification with only a single transformer encoder, in Pytorch
-- [genforce/genforce](https://github.com/genforce/genforce) - GenForce: an efficient PyTorch library for deep generative modeling (StyleGANv1v2, PGGAN, etc)
+- [genforce/genforce](https://github.com/genforce/genforce) - An efficient PyTorch library for deep generative modeling.
 - [abhishekkrthakur/colabcode](https://github.com/abhishekkrthakur/colabcode) - Run VSCode (codeserver) on Google Colab or Kaggle Notebooks
 - [cleardusk/3DDFA_V2](https://github.com/cleardusk/3DDFA_V2) - The official PyTorch implementation of Towards Fast, Accurate and Stable 3D Dense Face Alignment, ECCV 2020.
 - [vchoutas/expose](https://github.com/vchoutas/expose) - ExPose - EXpressive POse and Shape rEgression
@@ -7395,7 +7401,7 @@
 - [sberbank-ai/ru-gpts](https://github.com/sberbank-ai/ru-gpts) - Russian GPT3 models.
 - [neomatrix369/nlp_profiler](https://github.com/neomatrix369/nlp_profiler) - A simple NLP library allows profiling datasets with one or more text columns. When given a dataset and a column name containing text data, NLP Profiler will return either high-level insights or low-level/granular statistical information about the text in that column.
 - [Python-World/Python_and_the_Web](https://github.com/Python-World/Python_and_the_Web) - Build Bots, Scrape a website or use an API to solve a problem.
-- [trumpowen/All-Programming-E-Books-PDF](https://github.com/trumpowen/All-Programming-E-Books-PDF) - A Curated List Of Programming Books For C, C++ , Python, JavaScript, NodeJs, ReactJs, Web, JQuery, Flask, Dom, Angular, CSS, HTML for beginners, intermediate, advanced and experts
+- [kobbyowen/All-Programming-E-Books-PDF](https://github.com/kobbyowen/All-Programming-E-Books-PDF) - A Curated List Of Programming Books For C, C++ , Python, JavaScript, NodeJs, ReactJs, Web, JQuery, Flask, Dom, Angular, CSS, HTML for beginners, intermediate, advanced and experts
 - [timoschick/pet](https://github.com/timoschick/pet) - This repository contains the code for "Exploiting Cloze Questions for Few-Shot Text Classification and Natural Language Inference"
 - [jsonresume/jsonresume-fake](https://github.com/jsonresume/jsonresume-fake) - Fully generated fake resumes using machine learning models trained off ~6000 JSON resumes.
 - [NVlabs/stylegan2-ada](https://github.com/NVlabs/stylegan2-ada) - StyleGAN2 with adaptive discriminator augmentation (ADA) - Official TensorFlow implementation
@@ -13599,6 +13605,7 @@
 
 ## TeX 
 
+- [facebookresearch/amortized-optimization-tutorial](https://github.com/facebookresearch/amortized-optimization-tutorial) - Tutorial on amortized optimization for learning to optimize over continuous domains
 - [awni/future_speech](https://github.com/awni/future_speech) - The History of Speech Recognition to the Year 2030
 - [quantum-ods/qmlcourse](https://github.com/quantum-ods/qmlcourse) - Quantum Machine Learning Community Course
 - [corona-warn-app/cwa-documentation](https://github.com/corona-warn-app/cwa-documentation) - Project overview, general documentation, and white papers.
