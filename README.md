@@ -200,6 +200,7 @@
 - [edenhill/librdkafka](https://github.com/edenhill/librdkafka) - The Apache Kafka C/C++ library
 - [gcc-mirror/gcc](https://github.com/gcc-mirror/gcc) - 
 - [jedisct1/dsvpn](https://github.com/jedisct1/dsvpn) - A Dead Simple VPN.
+- [taosdata/TDengine](https://github.com/taosdata/TDengine) - An open-source big data platform designed and optimized for the Internet of Things (IoT).
 - [metacall/core](https://github.com/metacall/core) - MetaCall: The ultimate polyglot programming experience.
 - [woltapp/blurhash](https://github.com/woltapp/blurhash) - A very compact representation of a placeholder for an image.
 - [uber/h3-go](https://github.com/uber/h3-go) - Go bindings for H3, a hierarchical hexagonal geospatial indexing system
@@ -394,7 +395,7 @@
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
 - [twitter/twemproxy](https://github.com/twitter/twemproxy) - A fast, light-weight proxy for memcached and redis
 - [bilibili/ijkplayer](https://github.com/bilibili/ijkplayer) - Android/iOS video player based on FFmpeg n3.4, with MediaCodec, VideoToolbox support.
-- [openwrt/openwrt](https://github.com/openwrt/openwrt) - This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins or for reporting issues.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git. All issues should be reported at: https://bugs.openwrt.org
+- [openwrt/openwrt](https://github.com/openwrt/openwrt) - This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.
 - [cossacklabs/themis](https://github.com/cossacklabs/themis) - Easy to use cryptographic framework for data protection: secure messaging with forward secrecy and secure data storage. Has unified APIs across 14 platforms.
 - [blechschmidt/massdns](https://github.com/blechschmidt/massdns) - A high-performance DNS stub resolver for bulk lookups and reconnaissance (subdomain enumeration)
 - [hashcat/hashcat](https://github.com/hashcat/hashcat) - World's fastest and most advanced password recovery utility
@@ -1598,7 +1599,7 @@
 - [vitessio/vitess](https://github.com/vitessio/vitess) - Vitess is a database clustering system for horizontal scaling of MySQL.
 - [kedacore/keda](https://github.com/kedacore/keda) - KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes
 - [housepower/clickhouse_sinker](https://github.com/housepower/clickhouse_sinker) - Easily load data  from kafka to ClickHouse
-- [milvus-io/milvus](https://github.com/milvus-io/milvus) - An open-source vector database for embedding similarity search and AI applications.
+- [milvus-io/milvus](https://github.com/milvus-io/milvus) - An open-source vector database for scalable similarity search and AI applications.
 - [go-pg/pg](https://github.com/go-pg/pg) - Golang ORM with focus on PostgreSQL features and performance
 - [grpc-ecosystem/grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway) - gRPC to JSON proxy generator following the gRPC HTTP spec
 - [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo) - Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.
@@ -4460,6 +4461,7 @@
 - [yandexdataschool/MLatImperial2018](https://github.com/yandexdataschool/MLatImperial2018) - ML at Imperial College
 - [yandexdataschool/mlhep2019](https://github.com/yandexdataschool/mlhep2019) - MLHEP'19 slides and notebooks
 - [yandexdataschool/speech_course](https://github.com/yandexdataschool/speech_course) - YSDA course in Speech Processing.
+- [google-research/growneuron](https://github.com/google-research/growneuron) - 
 - [BayesianModelingandComputationInPython/BookCode_Edition1](https://github.com/BayesianModelingandComputationInPython/BookCode_Edition1) - 
 - [GnuriaN/Python-Roadmap](https://github.com/GnuriaN/Python-Roadmap) - Дорожная карта по изучению Python
 - [ImperialCollegeLondon/Computer_Vision_2022](https://github.com/ImperialCollegeLondon/Computer_Vision_2022) - 
@@ -7016,7 +7018,6 @@
 
 ## Python 
 
-- [google-research/growneuron](https://github.com/google-research/growneuron) - 
 - [facebookresearch/directclr](https://github.com/facebookresearch/directclr) - DirectCLR is a simple contrastive learning model for visual representation learning. It does not require a trainable projector as SimCLR. It is able to prevent dimensional collapse and outperform SimCLR with a linear projector.
 - [KurtBestor/Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - :cake: Desktop utility to download images/videos/music/text from various websites, and more.
 - [sdv-dev/SDV](https://github.com/sdv-dev/SDV) - Synthetic Data Generation for tabular, relational and time series data.
@@ -8050,7 +8051,6 @@
 - [subho406/OmniNet](https://github.com/subho406/OmniNet) - Official Pytorch implementation of "OmniNet: A unified architecture for multi-modal multi-task learning" | Authors: Subhojeet Pramanik, Priyanka Agrawal, Aman Hussain
 - [PhantomInsights/baby-names-analysis](https://github.com/PhantomInsights/baby-names-analysis) - Data ETL & Analysis on the dataset 'Baby Names from Social Security Card Applications - National Data'.
 - [guoday/Tencent2019_Preliminary_Rank1st](https://github.com/guoday/Tencent2019_Preliminary_Rank1st) - The code for 2019 Tencent College Algorithm Contest, and the online result ranks 1st in the preliminary.
-- [taosdata/TDengine](https://github.com/taosdata/TDengine) - An open-source big data platform designed and optimized for the Internet of Things (IoT).
 - [mapsme/subways](https://github.com/mapsme/subways) - Subway Preprocessor and Validator
 - [juntatalor/pycon2019_pytest](https://github.com/juntatalor/pycon2019_pytest) - Pytest masterclass for Pycon2019
 - [m-wrzr/populartimes](https://github.com/m-wrzr/populartimes) - 
@@ -11455,7 +11455,7 @@
 - [daviddrysdale/python-phonenumbers](https://github.com/daviddrysdale/python-phonenumbers) - Python port of Google's libphonenumber
 - [harshasrinivas/cli-github](https://github.com/harshasrinivas/cli-github) - Github within the CLI :computer:
 - [jmcarp/nplusone](https://github.com/jmcarp/nplusone) - Auto-detecting the n+1 queries problem in Python
-- [matplotlib/pytest-mpl](https://github.com/matplotlib/pytest-mpl) - A pytest plugin to faciliate image comparison for Matplotlib figures
+- [matplotlib/pytest-mpl](https://github.com/matplotlib/pytest-mpl) - A pytest plugin to facilitate image comparison for Matplotlib figures
 - [yukuku/telebot](https://github.com/yukuku/telebot) - Telegram Bot starter kit. Very easy to install with Google App Engine.
 - [alehander92/Airtight](https://github.com/alehander92/Airtight) - a python-like language with hindley-milner-like type system, which is compiled to c
 - [rpp0/aggr-inject](https://github.com/rpp0/aggr-inject) - Remote frame injection PoC by exploiting a standard compliant A-MPDU aggregation vulnerability in 802.11n networks.
@@ -12163,7 +12163,6 @@
 - [predicador37/pyjstat](https://github.com/predicador37/pyjstat) - pyjstat is a python library for JSON-stat formatted data manipulation which allows reading and writing JSON-stat [1] format with python,using the DataFrame structures provided by the widely accepted pandas library
 - [vezzi/NouGAT](https://github.com/vezzi/NouGAT) - 
 - [F-Secure/mittn](https://github.com/F-Secure/mittn) - Mittn: Security test tool runner for test automation in CI
-- [httpie/httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
 - [pytoolz/cytoolz](https://github.com/pytoolz/cytoolz) - Cython implementation of Toolz: High performance functional utilities
 - [nitely/Spirit](https://github.com/nitely/Spirit) - Spirit is a modern Python based forum built on top of Django framework
 - [googlearchive/container-agent](https://github.com/googlearchive/container-agent) - Simple agent for running containers based on a declarative manifest.
