@@ -2225,6 +2225,7 @@
 
 ## HTML 
 
+- [SciML/SciMLBook](https://github.com/SciML/SciMLBook) - Parallel Computing and Scientific Machine Learning (SciML): Methods and Applications (MIT 18.337J/6.338J)
 - [discobot/ml-handbook](https://github.com/discobot/ml-handbook) - draft of ml handbook for ysda
 - [doka-guide/content](https://github.com/doka-guide/content) - Контент Доки: статьи, картинки, демки и документация для авторов
 - [snakemake/snakemake](https://github.com/snakemake/snakemake) - This is the development home of the workflow management system Snakemake. For general information, see
@@ -4459,6 +4460,16 @@
 
 ## Jupyter Notebook 
 
+- [UMich-CURLY-teaching/UMich-ROB-530-public](https://github.com/UMich-CURLY-teaching/UMich-ROB-530-public) - UMich 500-Level Mobile Robotics Course
+- [txoof/epd_display](https://github.com/txoof/epd_display) - E Paper Display Loop
+- [rolling-scopes-school/ml-intro](https://github.com/rolling-scopes-school/ml-intro) - RS School Machine Learning course
+- [rasbt/machine-learning-book](https://github.com/rasbt/machine-learning-book) - Code Repository for Machine Learning with PyTorch and Scikit-Learn
+- [priiyaanjaalii0611/ASL_to_English](https://github.com/priiyaanjaalii0611/ASL_to_English) - Reads your hand signs and translates them to English words using Tensorflow object detection API
+- [nlp-with-transformers/notebooks](https://github.com/nlp-with-transformers/notebooks) - Jupyter notebooks for the Natural Language Processing with Transformers book
+- [nish03/FunFuseAn](https://github.com/nish03/FunFuseAn) - Structural Similarity based Anatomical and Functional Brain Imaging Fusion
+- [mitmath/18337](https://github.com/mitmath/18337) - 18.337 - Parallel Computing and Scientific Machine Learning
+- [mitmath/1806](https://github.com/mitmath/1806) - 18.06 course at MIT
+- [boschresearch/HYM_notebook](https://github.com/boschresearch/HYM_notebook) - The Hybrid Modeling Notebook
 - [yandexdataschool/MLatImperial2018](https://github.com/yandexdataschool/MLatImperial2018) - ML at Imperial College
 - [yandexdataschool/mlhep2019](https://github.com/yandexdataschool/mlhep2019) - MLHEP'19 slides and notebooks
 - [yandexdataschool/speech_course](https://github.com/yandexdataschool/speech_course) - YSDA course in Speech Processing.
@@ -5928,6 +5939,7 @@
 
 ## Others 
 
+- [Zeyad-Azima/Offensive-Resources](https://github.com/Zeyad-Azima/Offensive-Resources) - A Huge Learning Resources with Labs For Offensive Security Players
 - [rafamadriz/friendly-snippets](https://github.com/rafamadriz/friendly-snippets) - Set of preconfigured snippets for different languages.
 - [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template) - An awesome README template to jumpstart your projects!
 - [BoltzmannEntropy/interviews.ai](https://github.com/BoltzmannEntropy/interviews.ai) - It is my belief that you, the postgraduate students and job-seekers for whom the book is primarily meant will benefit from reading it; however, it is my hope that even the most experienced researchers will find it fascinating as well.
@@ -7023,6 +7035,15 @@
 
 ## Python 
 
+- [janvarev/Irene-Voice-Assistant](https://github.com/janvarev/Irene-Voice-Assistant) - Ирина - русский голосовой ассистент для работы оффлайн. Поддерживает скиллы через плагины.
+- [EleutherAI/gpt-neox](https://github.com/EleutherAI/gpt-neox) - An implementation of model parallel autoregressive transformers on GPUs, based on the DeepSpeed library.
+- [cl2333/Leetcode](https://github.com/cl2333/Leetcode) - 
+- [cl2333/Grokking-the-Coding-Interview-Patterns-for-Coding-Questions](https://github.com/cl2333/Grokking-the-Coding-Interview-Patterns-for-Coding-Questions) - 
+- [Bluefog-Lib/bluefog](https://github.com/Bluefog-Lib/bluefog) - Distributed and decentralized training framework for PyTorch over graph
+- [bilibili/ailab](https://github.com/bilibili/ailab) - 
+- [beancount/beancount](https://github.com/beancount/beancount) - Beancount: Double-Entry Accounting from Text Files.
+- [3b1b/videos](https://github.com/3b1b/videos) - Code for the manim-generated scenes used in 3blue1brown videos
+- [PyTorchLightning/metrics](https://github.com/PyTorchLightning/metrics) - Machine learning metrics for distributed, scalable PyTorch applications.
 - [microsoft/distribution-shift-latent-representations](https://github.com/microsoft/distribution-shift-latent-representations) - 
 - [microsoft/ATAC](https://github.com/microsoft/ATAC) - Code accompanying the paper Adversarially Trained Actor Critic for Offline Reinforcement Learning by Ching-An Cheng*, Tengyang Xie*, Nan Jiang, and Alekh Agarwal.
 - [facebookresearch/MetaBalance](https://github.com/facebookresearch/MetaBalance) - MetaBalance algorithm for multi-task learning
@@ -14024,7 +14045,7 @@
 - [averkij/a-studio](https://github.com/averkij/a-studio) - Lingtrain Alignment Studio is an ML based app for texts alignment on different languages. It can produce parallel corpora and parallel books.
 - [cdqa-suite/cdQA-annotator](https://github.com/cdqa-suite/cdQA-annotator) - ⛔ [NOT MAINTAINED] A web-based annotator for closed-domain question answering datasets with SQuAD format.
 - [tiangolo/flask-frontend-docker](https://github.com/tiangolo/flask-frontend-docker) - Minimal project generator with a Flask backend, a modern frontend (Vue, React or Angular), a Traefik load balancer with HTTPS, all based on Docker.
-- [vuepress-reco/vuepress-theme-reco](https://github.com/vuepress-reco/vuepress-theme-reco) - 💥 A simple and beautiful vuepress Blog & Doc theme.
+- [vuepress-reco/vuepress-theme-reco-1.x](https://github.com/vuepress-reco/vuepress-theme-reco-1.x) - 💥 A simple and beautiful vuepress Blog & Doc theme.
 - [CareyWang/sub-web](https://github.com/CareyWang/sub-web) - 
 - [zmts/beauty-vuejs-boilerplate](https://github.com/zmts/beauty-vuejs-boilerplate) - ❤️ Real world base Vue.js app. Access/refresh tokens auth, api services, http client, vuex modules
 - [oslokommune/hackathon-app-template](https://github.com/oslokommune/hackathon-app-template) - 
