@@ -538,6 +538,7 @@
 - [s3fs-fuse/s3fs-fuse](https://github.com/s3fs-fuse/s3fs-fuse) - FUSE-based file system backed by Amazon S3
 - [Tencent/TurboTransformers](https://github.com/Tencent/TurboTransformers) - a fast and user-friendly runtime for transformer inference (Bert, Albert, GPT2, Decoders, etc) on CPU and GPU.
 - [mindspore-ai/mindspore](https://github.com/mindspore-ai/mindspore) - MindSpore is a new open source deep learning training/inference framework that could be used for mobile, edge and cloud scenarios.
+- [NVIDIA/Torch-TensorRT](https://github.com/NVIDIA/Torch-TensorRT) - PyTorch/TorchScript compiler for NVIDIA GPUs using TensorRT
 - [google/benchmark](https://github.com/google/benchmark) - A microbenchmark support library
 - [alphacep/vosk-api](https://github.com/alphacep/vosk-api) - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
 - [RPCS3/rpcs3](https://github.com/RPCS3/rpcs3) - PS3 emulator/debugger
@@ -3238,7 +3239,7 @@
 - [jsonmc/jsonmc](https://github.com/jsonmc/jsonmc) - JSON Movie Collection
 - [danburzo/percollate](https://github.com/danburzo/percollate) - A command-line tool to turn web pages into beautiful, readable PDF, EPUB, or HTML docs.
 - [glennreyes/graphpack](https://github.com/glennreyes/graphpack) - ☄️ A minimalistic zero-config GraphQL server.
-- [Tencent/omi](https://github.com/Tencent/omi) - Front End Cross-Frameworks Framework - 前端跨框架跨平台框架
+- [Tencent/omi](https://github.com/Tencent/omi) - Front End Cross-Frameworks Framework - 前端跨框架框架
 - [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
 - [gilyes/docker-nginx-letsencrypt-sample](https://github.com/gilyes/docker-nginx-letsencrypt-sample) - Dockerized Nginx + Let's Encrypt sample
 - [alexkim205/G-Desktop-Suite](https://github.com/alexkim205/G-Desktop-Suite) - Google Suite as a desktop app. Made possible with Electron.
@@ -4655,7 +4656,6 @@
 - [Sshanu/Bidirectional-Attention-Flow-for-Machine-Comprehension](https://github.com/Sshanu/Bidirectional-Attention-Flow-for-Machine-Comprehension) - Machine Comprehension using Squad and Triviqa Data sets
 - [AnatoliiPotapov/squad](https://github.com/AnatoliiPotapov/squad) - 
 - [rainmaker712/nlp_ryan](https://github.com/rainmaker712/nlp_ryan) - Study for Natural Language Processing & Deep Learning Framework
-- [NVIDIA/Torch-TensorRT](https://github.com/NVIDIA/Torch-TensorRT) - PyTorch/TorchScript compiler for NVIDIA GPUs using TensorRT
 - [selfteaching/the-craft-of-selfteaching](https://github.com/selfteaching/the-craft-of-selfteaching) - One has no future if one couldn't teach themself.
 - [justmarkham/scikit-learn-tips](https://github.com/justmarkham/scikit-learn-tips) - :robot::zap: 50 scikit-learn tips
 - [mitmath/6S083](https://github.com/mitmath/6S083) - Materials for MIT 6.S083 / 18.S190: Computational thinking with Julia + application to the COVID-19 pandemic
@@ -7261,7 +7261,6 @@
 - [jorgehpo/notebookJS](https://github.com/jorgehpo/notebookJS) - notebookJS: seamless JavaScript integration in Python Notebooks
 - [open-mmlab/mmgeneration](https://github.com/open-mmlab/mmgeneration) - MMGeneration is a powerful toolkit for generative models, based on PyTorch and MMCV.
 - [nalgeon/dataviz](https://github.com/nalgeon/dataviz) - Data visualization guide for presentations, reports, and dashboards
-- [mikey96/reflection-public](https://github.com/mikey96/reflection-public) - 
 - [yuval-alaluf/restyle-encoder](https://github.com/yuval-alaluf/restyle-encoder) - Official Implementation for "ReStyle: A Residual-Based StyleGAN Encoder via Iterative Refinement" (ICCV 2021) https://arxiv.org/abs/2104.02699
 - [textflint/textflint](https://github.com/textflint/textflint) - Unified Multilingual Robustness Evaluation Toolkit for Natural Language Processing
 - [open-mmlab/mmocr](https://github.com/open-mmlab/mmocr) - OpenMMLab Text Detection, Recognition and Understanding Toolbox
@@ -9211,7 +9210,7 @@
 - [morten1982/crossviper](https://github.com/morten1982/crossviper) - Tkinter Python IDE
 - [jremillard/images-to-osm](https://github.com/jremillard/images-to-osm) - Use Mask R-CNN/Keras/TensorFlow and OSM to find features in satellite images for fun.
 - [Jiramew/spoon](https://github.com/Jiramew/spoon) - 🥄 A package for building  specific Proxy Pool for different Sites.
-- [opentracing/opentracing-python](https://github.com/opentracing/opentracing-python) - OpenTracing API for Python. 🛑 This library is DEPRECATED!
+- [opentracing/opentracing-python](https://github.com/opentracing/opentracing-python) - OpenTracing API for Python. 🛑 This library is DEPRECATED! https://github.com/opentracing/specification/issues/163
 - [hchasestevens/tracing](https://github.com/hchasestevens/tracing) - Utilities for tracing program execution line-by-line
 - [ARMmbed/mbed-cli](https://github.com/ARMmbed/mbed-cli) - Arm Mbed Command Line Interface
 - [ellimilial/sqs-s3-logger](https://github.com/ellimilial/sqs-s3-logger) - Automated serverless logging to S3 via SQS.
