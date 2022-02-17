@@ -7034,6 +7034,8 @@
 
 ## Python 
 
+- [facebookresearch/textlesslib](https://github.com/facebookresearch/textlesslib) - Library for Textless Spoken Language Processing
+- [MIND-Lab/OCTIS](https://github.com/MIND-Lab/OCTIS) - OCTIS: Comparing Topic Models is Simple! A python package to optimize and evaluate topic models (accepted at EACL2021 demo track)
 - [janvarev/Irene-Voice-Assistant](https://github.com/janvarev/Irene-Voice-Assistant) - Ирина - русский голосовой ассистент для работы оффлайн. Поддерживает скиллы через плагины.
 - [EleutherAI/gpt-neox](https://github.com/EleutherAI/gpt-neox) - An implementation of model parallel autoregressive transformers on GPUs, based on the DeepSpeed library.
 - [cl2333/Leetcode](https://github.com/cl2333/Leetcode) - 
@@ -13250,7 +13252,7 @@
 - [Lackoftactics/facebook_data_analyzer](https://github.com/Lackoftactics/facebook_data_analyzer) - Analyze facebook copy of your data with ruby language. Download zip file from facebook and get info about friends ranking by message, vocabulary,  contacts, friends added statistics and more
 - [chef/omnibus](https://github.com/chef/omnibus) - Easily create full-stack installers for your project across a variety of platforms.
 - [vasile/GTFS-viz](https://github.com/vasile/GTFS-viz) - Converts a GTFS dataset into a SQLite DB + GeoJSONs / KMLs
-- [transitland/transitland-datastore](https://github.com/transitland/transitland-datastore) - Transitland's centralized web service API for both querying and editing aggregated transit data from around the world
+- [transitland/transitland-datastore](https://github.com/transitland/transitland-datastore) - Transitland v1 core components. Deprecated and only maintained occasionally. See Transitland v2.
 - [elastic/ansible-elasticsearch](https://github.com/elastic/ansible-elasticsearch) - Ansible playbook for Elasticsearch
 - [flant/loghouse](https://github.com/flant/loghouse) - Ready to use log management solution for Kubernetes storing data in ClickHouse and providing web UI.
 - [jpmckinney/tf-idf-similarity](https://github.com/jpmckinney/tf-idf-similarity) - Ruby gem to calculate the similarity between texts using tf*idf
