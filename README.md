@@ -3014,7 +3014,7 @@
 - [heremaps/maps-api-for-javascript-examples](https://github.com/heremaps/maps-api-for-javascript-examples) - Self-contained examples for Maps API for JavaScript v3.
 - [heremaps/developer-blog](https://github.com/heremaps/developer-blog) - Examples and projects featured on the HERE developer blog.
 - [heremaps/here-cli](https://github.com/heremaps/here-cli) - A command-line interface to work with HERE XYZ Hub and other HERE APIs
-- [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (August 2021)
+- [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (February 2022)
 - [aws/aws-sdk-js](https://github.com/aws/aws-sdk-js) - AWS SDK for JavaScript in the browser and Node.js
 - [google/blockly](https://github.com/google/blockly) - The web-based visual programming editor.
 - [iantheearl/mc.js](https://github.com/iantheearl/mc.js) - Open source Minecraft clone built with ThreeJS, ReactJS, GraphQL, and NodeJS.
@@ -4464,6 +4464,7 @@
 
 ## Jupyter Notebook 
 
+- [krishnaik06/5-Days-Live-EDA-and-Feature-Engineering](https://github.com/krishnaik06/5-Days-Live-EDA-and-Feature-Engineering) - 
 - [algorithmica-org/algorithmica](https://github.com/algorithmica-org/algorithmica) - New version of the website
 - [VSainteuf/pastis-benchmark](https://github.com/VSainteuf/pastis-benchmark) - 
 - [UMich-CURLY-teaching/UMich-ROB-530-public](https://github.com/UMich-CURLY-teaching/UMich-ROB-530-public) - UMich 500-Level Mobile Robotics Course
@@ -4496,7 +4497,7 @@
 - [deep-learning-with-pytorch/dlwpt-code](https://github.com/deep-learning-with-pytorch/dlwpt-code) - Code for the book Deep Learning with PyTorch by Eli Stevens, Luca Antiga, and Thomas Viehmann.
 - [irbigdata/data-dockerfiles](https://github.com/irbigdata/data-dockerfiles) - a curated list of docker-compose files prepared for testing  data engineering tools, databases and open source libraries.
 - [mitmedialab/AI-generated-characters](https://github.com/mitmedialab/AI-generated-characters) - AI-generated-character
-- [google-research/rliable](https://github.com/google-research/rliable) - Library for reliable evaluation on RL and ML benchmarks, as recommended by our NeurIPS 2021 Outstanding Paper.
+- [google-research/rliable](https://github.com/google-research/rliable) - [NeurIPS'21 Outstanding Paper] Library for reliable evaluation on RL and ML benchmarks.
 - [yandexdataschool/deep_vision_and_graphics](https://github.com/yandexdataschool/deep_vision_and_graphics) - Course about deep learning for computer vision and graphics co-developed by YSDA and Skoltech.
 - [google/physics-math-tutorials](https://github.com/google/physics-math-tutorials) - 
 - [ShapeAI/Python-and-Machine-Learning](https://github.com/ShapeAI/Python-and-Machine-Learning) - 6th Feb 2021
@@ -5942,6 +5943,8 @@
 
 ## Others 
 
+- [yanirs/established-remote](https://github.com/yanirs/established-remote) - A list of established remote companies
+- [christianversloot/machine-learning-articles](https://github.com/christianversloot/machine-learning-articles) - 🧠💬 Articles I wrote about machine learning, archived from MachineCurve.com.
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
 - [cncf/mentoring](https://github.com/cncf/mentoring) - 👩🏿‍🎓👨🏽‍🎓👩🏻‍🎓CNCF Mentoring + LFX Mentorship + Summer of Code + Season of Docs
 - [Zeyad-Azima/Offensive-Resources](https://github.com/Zeyad-Azima/Offensive-Resources) - A Huge Learning Resources with Labs For Offensive Security Players
@@ -7038,6 +7041,7 @@
 
 ## Python 
 
+- [JDAI-CV/fast-reid](https://github.com/JDAI-CV/fast-reid) - SOTA Re-identification Methods and Toolbox
 - [NATSpeech/NATSpeech](https://github.com/NATSpeech/NATSpeech) - A Non-Autoregressive Text-to-Speech (NAR-TTS) framework, including official PyTorch implementation of PortaSpeech (NeurIPS 2021) and DiffSpeech (AAAI 2022)
 - [MontrealCorpusTools/Montreal-Forced-Aligner](https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner) - Command line utility for forced alignment using Kaldi
 - [google-research/jax-influence](https://github.com/google-research/jax-influence) - 
@@ -7079,7 +7083,7 @@
 - [facebookresearch/demucs](https://github.com/facebookresearch/demucs) - Code for the paper Hybrid Spectrogram and Waveform Source Separation
 - [cvzone/cvzone](https://github.com/cvzone/cvzone) - This is a Computer vision package that makes its easy to run Image processing and AI functions. At the core it uses OpenCV and Mediapipe libraries.
 - [bytedance/Elkeid-HUB](https://github.com/bytedance/Elkeid-HUB) - Elkeid HUB is a rule/event processing engine maintained by the Elkeid Team that supports streaming/offline (not yet supported by the community edition) data processing. The original intention is to solve complex data/event processing and external system linkage requirements through standardized rules.
-- [bczsalba/PyTermGUI](https://github.com/bczsalba/PyTermGUI) - A simple yet powerful TUI framework for your Python (3.7+) applications.
+- [bczsalba/pytermgui](https://github.com/bczsalba/pytermgui) - A simple yet powerful TUI framework for your Python (3.7+) applications.
 - [facebookresearch/contriever](https://github.com/facebookresearch/contriever) - Contriever Towards Unsupervised Dense Information Retrieval with Contrastive Learning
 - [negrinho/deep_architect](https://github.com/negrinho/deep_architect) - A general, modular, and programmable architecture search framework
 - [tiangolo/asyncer](https://github.com/tiangolo/asyncer) - Asyncer, async and await, focused on developer experience.
@@ -11519,7 +11523,7 @@
 - [agateblue/django-dynamic-preferences](https://github.com/agateblue/django-dynamic-preferences) - Dynamic global and instance settings for your django project
 - [GedRap/xs-vm](https://github.com/GedRap/xs-vm) - eXtremely small virtual machine -- for educational purposes :)
 - [palewire/django-postgres-copy](https://github.com/palewire/django-postgres-copy) - Quickly import and export delimited data with Django support for PostgreSQL's COPY command
-- [ibis-project/ibis](https://github.com/ibis-project/ibis) - A pandas-like deferred expression system, with first-class SQL support
+- [ibis-project/ibis](https://github.com/ibis-project/ibis) - Expressive analytics in Python, whatever the scale.
 - [ekampf/pymaybe](https://github.com/ekampf/pymaybe) - A Python implementation of the Maybe pattern
 - [facebookarchive/codemod](https://github.com/facebookarchive/codemod) - Codemod is a tool/library to assist you with large-scale codebase refactors that can be partially automated but still require human oversight and occasional intervention. Codemod was developed at Facebook and released as open source.
 - [nexB/scancode-toolkit](https://github.com/nexB/scancode-toolkit) - :mag_right: ScanCode detects licenses, copyrights, package manifests & dependencies and more by scanning code ... to discover and inventory open source and third-party packages used in your code.
@@ -12389,7 +12393,7 @@
 - [google/pyringe](https://github.com/google/pyringe) - Debugger capable of attaching to and injecting code into python processes.
 - [dadadel/pyment](https://github.com/dadadel/pyment) - Format and convert Python docstrings and generates patches
 - [pypa/packaging.python.org](https://github.com/pypa/packaging.python.org) - Python Packaging User Guide
-- [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter) - A command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, VueJS projects.
+- [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter) - A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.
 - [bitprophet/botox](https://github.com/bitprophet/botox) - High level AWS API wrapper. Gives boto a facelift!
 - [matplotlib/matplotlib](https://github.com/matplotlib/matplotlib) - matplotlib: plotting with Python
 - [pjkundert/cpppo](https://github.com/pjkundert/cpppo) - Communications Protocol Python Parser and Originator -- EtherNet/IP CIP
@@ -13643,6 +13647,7 @@
 
 ## TeX 
 
+- [aaronwangy/Data-Science-Cheatsheet](https://github.com/aaronwangy/Data-Science-Cheatsheet) - A helpful 5-page machine learning cheatsheet to assist with exam reviews, interview prep, and anything in-between.
 - [facebookresearch/amortized-optimization-tutorial](https://github.com/facebookresearch/amortized-optimization-tutorial) - Tutorial on amortized optimization for learning to optimize over continuous domains
 - [awni/future_speech](https://github.com/awni/future_speech) - The History of Speech Recognition to the Year 2030
 - [quantum-ods/qmlcourse](https://github.com/quantum-ods/qmlcourse) - Quantum Machine Learning Community Course
@@ -13827,6 +13832,7 @@
 - [vuejs/vue-class-component](https://github.com/vuejs/vue-class-component) - ES / TypeScript decorator for class-style Vue components.
 - [visgl/luma.gl](https://github.com/visgl/luma.gl) - High-performance Toolkit for WebGL-based Data Visualization
 - [yinxin630/fiora](https://github.com/yinxin630/fiora) - An interesting open source chat application. Developed with node.js, mongoDB, socket.io and react
+- [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) - :rocket:A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder
 - [michalyao/evermonkey](https://github.com/michalyao/evermonkey) - Evernote Editing. Redefined.  关于 token 的问题请去 https://github.com/michalyao/evermonkey/issues/94 中查看！
 - [ariakit/ariakit](https://github.com/ariakit/ariakit) - Toolkit for building accessible web apps with React
 - [uwdata/draco](https://github.com/uwdata/draco) - Visualization Constraints and Weight Learning
@@ -14212,7 +14218,6 @@
 - [sunil-sandhu/vue-todo](https://github.com/sunil-sandhu/vue-todo) - A simple Vue ToDo app created as a comparison piece for a React vs Vue article I posted at https://medium.com/javascript-in-plain-english
 - [jperelli/vue2-leaflet-googlemutant](https://github.com/jperelli/vue2-leaflet-googlemutant) - GoogleMutant plugin extension for vue2-leaflet package
 - [apertureless/npm-stats](https://github.com/apertureless/npm-stats) - 📈 npm package statistics dashboard build with vue
-- [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) - :rocket:A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder
 - [ClickerMonkey/dayspan-vuetify](https://github.com/ClickerMonkey/dayspan-vuetify) - A collection of components that visualizes DaySpan Calendars and Schedules using Vuetify
 - [vueComponent/ant-design-vue](https://github.com/vueComponent/ant-design-vue) - 🌈  An enterprise-class UI components based on Ant Design and Vue. 🐜
 - [BlackMix/vue-genesis-forms](https://github.com/BlackMix/vue-genesis-forms) - 📚 Easily create forms in Vue.js
