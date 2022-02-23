@@ -1600,7 +1600,6 @@
 - [valyala/fasthttp](https://github.com/valyala/fasthttp) - Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http
 - [vitessio/vitess](https://github.com/vitessio/vitess) - Vitess is a database clustering system for horizontal scaling of MySQL.
 - [kedacore/keda](https://github.com/kedacore/keda) - KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes
-- [hyperledger/fabric-samples](https://github.com/hyperledger/fabric-samples) - 
 - [housepower/clickhouse_sinker](https://github.com/housepower/clickhouse_sinker) - Easily load data  from kafka to ClickHouse
 - [milvus-io/milvus](https://github.com/milvus-io/milvus) - An open-source vector database for scalable similarity search and AI applications.
 - [go-pg/pg](https://github.com/go-pg/pg) - Golang ORM with focus on PostgreSQL features and performance
@@ -2976,6 +2975,7 @@
 - [alyssaxuu/flowy](https://github.com/alyssaxuu/flowy) - The minimal javascript library to create flowcharts ✨
 - [sap-tutorials/Tutorials](https://github.com/sap-tutorials/Tutorials) - Tutorials on sap.com
 - [eth0izzle/shhgit](https://github.com/eth0izzle/shhgit) - Ah shhgit! Find secrets in your code. Secrets detection for your GitHub, GitLab and Bitbucket repositories: www.shhgit.com
+- [hyperledger/fabric-samples](https://github.com/hyperledger/fabric-samples) - 
 - [menzi11/BullshitGenerator](https://github.com/menzi11/BullshitGenerator) - Needs to generate some texts to test if my GUI rendering codes good or not. so I made this.
 - [moment/moment-timezone](https://github.com/moment/moment-timezone) - Timezone support for moment.js
 - [WebDevSimplified/Face-Detection-JavaScript](https://github.com/WebDevSimplified/Face-Detection-JavaScript) - 
@@ -3022,7 +3022,7 @@
 - [ampproject/amphtml](https://github.com/ampproject/amphtml) - The AMP web component framework.
 - [swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui) - Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
 - [ricklamers/gridstudio](https://github.com/ricklamers/gridstudio) - Grid studio is a web-based application for data science with full integration of open source data science frameworks and languages.
-- [UsulPro/js-stack-from-scratch](https://github.com/UsulPro/js-stack-from-scratch) - 🌺 Russian translation of "JavaScript Stack from Scratch" from the React-Theming developers https://github.com/sm-react/react-theming
+- [usulpro/js-stack-from-scratch](https://github.com/usulpro/js-stack-from-scratch) - 🌺 Russian translation of "JavaScript Stack from Scratch" from the React-Theming developers https://github.com/sm-react/react-theming
 - [Tencent/weui.js](https://github.com/Tencent/weui.js) - A lightweight javascript library for WeUI.
 - [NetEase/pomelo](https://github.com/NetEase/pomelo) - A fast,scalable,distributed game server framework for Node.js.
 - [PanJiaChen/vue-admin-template](https://github.com/PanJiaChen/vue-admin-template) - a vue2.0 minimal admin template
@@ -3782,7 +3782,6 @@
 - [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies (jobs) in tech.
 - [dat-ecosystem-archive/docs](https://github.com/dat-ecosystem-archive/docs) - Documentation resources for dat and the surrounding ecosystem [ DEPRECATED - see https://github.com/hypercore-protocol/new-website/tree/master/guides for similar functionality. More info on active projects and modules at https://dat-ecosystem.org/ ]
 - [rhiokim/flybook](https://github.com/rhiokim/flybook) - :airplane: FlyBook is a simple utility to generate static website such as gh-pages, manual of you projects
-- [odoo/documentation](https://github.com/odoo/documentation) - Odoo documentation sources
 - [wavebox/waveboxapp](https://github.com/wavebox/waveboxapp) - Wavebox Classic has been updated to Wavebox 10. Learn more Wavebox.io
 - [medatc/vuet](https://github.com/medatc/vuet) - 允许你定义飙车过程的集中式状态管理模式
 - [intercellular/cell](https://github.com/intercellular/cell) - A self-driving web app framework
@@ -4496,7 +4495,7 @@
 - [deep-learning-with-pytorch/dlwpt-code](https://github.com/deep-learning-with-pytorch/dlwpt-code) - Code for the book Deep Learning with PyTorch by Eli Stevens, Luca Antiga, and Thomas Viehmann.
 - [irbigdata/data-dockerfiles](https://github.com/irbigdata/data-dockerfiles) - a curated list of docker-compose files prepared for testing  data engineering tools, databases and open source libraries.
 - [mitmedialab/AI-generated-characters](https://github.com/mitmedialab/AI-generated-characters) - AI-generated-character
-- [google-research/rliable](https://github.com/google-research/rliable) - [NeurIPS'21 Outstanding Paper] Library for reliable evaluation on RL and ML benchmarks, even with only a handful of seeds..
+- [google-research/rliable](https://github.com/google-research/rliable) - [NeurIPS'21 Outstanding Paper] Library for reliable evaluation on RL and ML benchmarks, even with only a handful of seeds.
 - [yandexdataschool/deep_vision_and_graphics](https://github.com/yandexdataschool/deep_vision_and_graphics) - Course about deep learning for computer vision and graphics co-developed by YSDA and Skoltech.
 - [google/physics-math-tutorials](https://github.com/google/physics-math-tutorials) - 
 - [ShapeAI/Python-and-Machine-Learning](https://github.com/ShapeAI/Python-and-Machine-Learning) - 6th Feb 2021
@@ -5706,7 +5705,7 @@
 - [jmportilla/Udemy---Machine-Learning](https://github.com/jmportilla/Udemy---Machine-Learning) - Notebooks for Course
 - [pkmital/tensorflow_tutorials](https://github.com/pkmital/tensorflow_tutorials) - From the basics to slightly more interesting applications of Tensorflow
 - [esokolov/ml-course-msu](https://github.com/esokolov/ml-course-msu) - Lecture notes and code for Machine Learning practical course on CMC MSU
-- [pandas-profiling/pandas-profiling](https://github.com/pandas-profiling/pandas-profiling) - Create HTML profiling reports from pandas DataFrame objects
+- [ydataai/pandas-profiling](https://github.com/ydataai/pandas-profiling) - Create HTML profiling reports from pandas DataFrame objects
 - [ocefpaf/folium_notebooks](https://github.com/ocefpaf/folium_notebooks) - Folium maps examples
 - [yidao620c/python3-cookbook](https://github.com/yidao620c/python3-cookbook) - 《Python Cookbook》 3rd Edition Translation
 - [uwescience/shablona](https://github.com/uwescience/shablona) - A template for small scientific python projects
@@ -8035,7 +8034,7 @@
 - [ypeleg/HungaBunga](https://github.com/ypeleg/HungaBunga) - HungaBunga: Brute-Force all sklearn models with all parameters using .fit .predict!
 - [anirudhajith/process-wallpaper](https://github.com/anirudhajith/process-wallpaper) - Shell and python scripts that set the desktop wallpaper to a word cloud of the most resource-hungry processes
 - [eon01/kubernetes-workshop](https://github.com/eon01/kubernetes-workshop) - ⚙️ A Gentle introduction to Kubernetes with more than just the basics. 🌟 Give it a star if you like it.
-- [OTRF/ThreatHunter-Playbook](https://github.com/OTRF/ThreatHunter-Playbook) - A Threat hunter's playbook to aid the development of techniques and hypothesis for hunting campaigns.
+- [OTRF/ThreatHunter-Playbook](https://github.com/OTRF/ThreatHunter-Playbook) - A community-driven, open-source project to share detection logic, adversary tradecraft and resources to make detection development more efficient.
 - [dagster-io/dagster](https://github.com/dagster-io/dagster) - An orchestration platform for the development, production, and observation of data assets.
 - [pbloem/former](https://github.com/pbloem/former) - Simple transformer implementation from scratch in pytorch.
 - [ShangtongZhang/reinforcement-learning-an-introduction](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction) - Python Implementation of Reinforcement Learning: An Introduction
@@ -13380,6 +13379,7 @@
 - [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - My cheatsheets
 - [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 - [Slicejack/bojler](https://github.com/Slicejack/bojler) - Bojler is an email framework
+- [odoo/documentation](https://github.com/odoo/documentation) - Odoo documentation sources
 - [Kikobeats/js-mythbusters](https://github.com/Kikobeats/js-mythbusters) - :ghost: STHAP js, where is my perfomance?
 - [microsoft/TypeScript-Node-Starter](https://github.com/microsoft/TypeScript-Node-Starter) - A reference example for TypeScript and Node with a detailed README describing how to use the two together.
 - [AnomalyInnovations/serverless-stack-com](https://github.com/AnomalyInnovations/serverless-stack-com) - An open source guide for building and deploying full-stack apps using Serverless and React on AWS.
