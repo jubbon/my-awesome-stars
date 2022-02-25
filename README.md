@@ -157,7 +157,6 @@
 - [gmtsar/gmtsar](https://github.com/gmtsar/gmtsar) - GMTSAR
 - [cair/pyTsetlinMachine](https://github.com/cair/pyTsetlinMachine) - Implements the Tsetlin Machine, Convolutional Tsetlin Machine, Regression Tsetlin Machine, Weighted Tsetlin Machine, and Embedding Tsetlin Machine, with support for continuous features, multigranularity, and clause indexing
 - [marmarelis/rolling-quantiles](https://github.com/marmarelis/rolling-quantiles) - Blazing fast, composable, Pythonic quantile filters.
-- [Picovoice/cheetah](https://github.com/Picovoice/cheetah) - On-device streaming speech-to-text engine powered by deep learning
 - [julius-speech/julius](https://github.com/julius-speech/julius) - Open-Source Large Vocabulary Continuous Speech Recognition Engine
 - [cmusphinx/pocketsphinx](https://github.com/cmusphinx/pocketsphinx) - PocketSphinx is a lightweight speech recognition engine, specifically tuned for handheld and mobile devices, though it works equally well on the desktop
 - [openvenues/pypostal](https://github.com/openvenues/pypostal) - Python bindings to libpostal for fast international address parsing/normalization
@@ -200,7 +199,7 @@
 - [edenhill/librdkafka](https://github.com/edenhill/librdkafka) - The Apache Kafka C/C++ library
 - [gcc-mirror/gcc](https://github.com/gcc-mirror/gcc) - 
 - [jedisct1/dsvpn](https://github.com/jedisct1/dsvpn) - A Dead Simple VPN.
-- [taosdata/TDengine](https://github.com/taosdata/TDengine) - An open-source big data platform designed and optimized for the Internet of Things (IoT).
+- [taosdata/TDengine](https://github.com/taosdata/TDengine) - An open-source time-series database with high-performance, scalability and SQL support. It can be widely used in IoT, Connected Vehicles, DevOps, Energy, Finance and other fields
 - [metacall/core](https://github.com/metacall/core) - MetaCall: The ultimate polyglot programming experience.
 - [woltapp/blurhash](https://github.com/woltapp/blurhash) - A very compact representation of a placeholder for an image.
 - [uber/h3-go](https://github.com/uber/h3-go) - Go bindings for H3, a hierarchical hexagonal geospatial indexing system
@@ -1050,7 +1049,7 @@
 - [gadson/Autoradar](https://github.com/gadson/Autoradar) - 
 - [Volmarg/personal-management-system](https://github.com/Volmarg/personal-management-system) - Your web application for managing personal data. &lt;personal.management.system.pms@gmail.com&gt;
 - [microsoft/azuredevopslabs](https://github.com/microsoft/azuredevopslabs) - Learn how you can plan smartly, collaborate better, and ship faster with a set of modern development services with Azure DevOps.
-- [steshaw/plt](https://github.com/steshaw/plt) - λΠ Programming Language Theory
+- [steshaw/plt](https://github.com/steshaw/plt) - Programming Language Theory λΠ
 - [tapaswenipathak/Open-Source-Programs](https://github.com/tapaswenipathak/Open-Source-Programs) - A list of open source programs.
 - [noamross/gams-in-r-course](https://github.com/noamross/gams-in-r-course) - Generalized Additive Models in R: A Free Interactive Course
 - [robb0wen/synthwave-vscode](https://github.com/robb0wen/synthwave-vscode) - Synthwave inspired colour theme for VS Code 🌅🕶
@@ -2768,6 +2767,7 @@
 - [azkaban/azkaban](https://github.com/azkaban/azkaban) - Azkaban workflow manager.
 - [codelibs/fess](https://github.com/codelibs/fess) - Fess is very powerful and easily deployable Enterprise Search Server.
 - [vespa-engine/vespa](https://github.com/vespa-engine/vespa) - The open big data serving engine. https://vespa.ai
+- [Picovoice/cheetah](https://github.com/Picovoice/cheetah) - On-device streaming speech-to-text engine powered by deep learning
 - [DataStax-Academy/cassandra-workshop-series](https://github.com/DataStax-Academy/cassandra-workshop-series) - All materials for the Cassandra Workshop Series in a single place
 - [alibaba/spring-cloud-alibaba](https://github.com/alibaba/spring-cloud-alibaba) - Spring Cloud Alibaba provides a one-stop solution for application development for the distributed solutions of Alibaba middleware.
 - [uber/piranha](https://github.com/uber/piranha) - A tool for refactoring code related to feature flag APIs
@@ -4618,7 +4618,7 @@
 - [ibrahimjelliti/Deeplearning.ai-Natural-Language-Processing-Specialization](https://github.com/ibrahimjelliti/Deeplearning.ai-Natural-Language-Processing-Specialization) - This repository contains my full work and notes on Coursera's NLP Specialization (Natural Language Processing) taught by the instructor Younes Bensouda Mourri and Łukasz Kaiser offered by deeplearning.ai
 - [curiousily/Getting-Things-Done-with-Pytorch](https://github.com/curiousily/Getting-Things-Done-with-Pytorch) - Jupyter Notebook tutorials on solving real-world problems with Machine Learning & Deep Learning using PyTorch. Topics: Face detection with Detectron 2, Time Series anomaly detection with LSTM Autoencoders, Object Detection with YOLO v5, Build your first Neural Network, Time Series forecasting for Coronavirus daily cases, Sentiment Analysis with BERT.
 - [stefan-jansen/machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading) - Code for Machine Learning for Algorithmic Trading, 2nd edition.
-- [data-science-on-aws/oreilly_book](https://github.com/data-science-on-aws/oreilly_book) - AI and Machine Learning with Kubeflow, Amazon EKS, and SageMaker
+- [data-science-on-aws/data-science-on-aws](https://github.com/data-science-on-aws/data-science-on-aws) - AI and Machine Learning with Kubeflow, Amazon EKS, and SageMaker
 - [LetsUpgrade/Python-Essentials](https://github.com/LetsUpgrade/Python-Essentials) - 
 - [tg-bomze/Style-Transfer-Collection](https://github.com/tg-bomze/Style-Transfer-Collection) - Colabs Collection of style transfer in photo and video
 - [iot-salzburg/gpu-jupyter](https://github.com/iot-salzburg/gpu-jupyter) - Leverage the flexibility of Jupyterlab through the power of your NVIDIA GPU to run your code from Tensorflow and Pytorch in collaborative notebooks on the GPU.
@@ -7128,7 +7128,7 @@
 - [abhishekkrthakur/mlspace](https://github.com/abhishekkrthakur/mlspace) - MLSpace: Hassle-free machine learning & deep learning development
 - [github/copilot-docs](https://github.com/github/copilot-docs) - Documentation for GitHub Copilot
 - [seatgeek/thefuzz](https://github.com/seatgeek/thefuzz) - Fuzzy String Matching in Python
-- [huggingface/optimum](https://github.com/huggingface/optimum) - 🏎️ Accelerate Transformer models for training and inference on targeted hardware
+- [huggingface/optimum](https://github.com/huggingface/optimum) - 🏎️ Accelerate training and inference of 🤗 Transformers with easy to use hardware optimization tools
 - [Janspiry/Image-Super-Resolution-via-Iterative-Refinement](https://github.com/Janspiry/Image-Super-Resolution-via-Iterative-Refinement) - Unoffical implementation about Image Super-Resolution via Iterative Refinement by Pytorch
 - [jiupinjia/rocket-recycling](https://github.com/jiupinjia/rocket-recycling) - Rocket-recycling with Reinforcement Learning
 - [open-mmlab/mmflow](https://github.com/open-mmlab/mmflow) - OpenMMLab optical flow toolbox and benchmark
@@ -14362,7 +14362,7 @@
 - [answershuto/H5](https://github.com/answershuto/H5) - 📃an app which automatically generates HTML5 files.
 - [luosijie/vm-editor](https://github.com/luosijie/vm-editor) - Editor for Vue
 - [simple-uploader/vue-uploader](https://github.com/simple-uploader/vue-uploader) - A Vue.js upload component powered by simple-uploader.js
-- [github1586/nuxt-bnhcp](https://github.com/github1586/nuxt-bnhcp) - nuxt、express、vue、mysql、redis、nginx、socket.io (实战商城)
+- [github1586/nuxt-bnhcp](https://github.com/github1586/nuxt-bnhcp) - nuxt、node/express、vue、mysql、redis、socket.io (全栈-实战商城)～
 - [AT-UI/at-ui](https://github.com/AT-UI/at-ui) - A fresh and flat UI-Kit specially for desktop application, made with ♥ by Vue.js 2.0 (DEPRECATED)
 - [dangvanthanh/vue-ckeditor2](https://github.com/dangvanthanh/vue-ckeditor2) - CKEditor 4 wrapper by Vue.js
 - [vue-bulma/lory](https://github.com/vue-bulma/lory) - Vue Slider Component is based on lory
