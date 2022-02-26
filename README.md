@@ -3749,7 +3749,7 @@
 - [indutny/webpack-common-shake](https://github.com/indutny/webpack-common-shake) - CommonJS Tree Shaker plugin for WebPack
 - [asfktz/autodll-webpack-plugin](https://github.com/asfktz/autodll-webpack-plugin) - Webpack's DllPlugin without the boilerplate
 - [lipp/login-with](https://github.com/lipp/login-with) - Stateless login-with microservice for OAuth
-- [Manuel83/craftbeerpi](https://github.com/Manuel83/craftbeerpi) - Brew Controller
+- [craftbeerpi/craftbeerpi](https://github.com/craftbeerpi/craftbeerpi) - Brew Controller
 - [elsewhencode/project-guidelines](https://github.com/elsewhencode/project-guidelines) - A set of best practices for JavaScript projects
 - [pinterest/esprint](https://github.com/pinterest/esprint) - Fast eslint runner
 - [git-school/visualizing-git](https://github.com/git-school/visualizing-git) - :framed_picture: Visualize how common Git operations affect the commit graph
@@ -4030,7 +4030,7 @@
 - [aframevr/aframe](https://github.com/aframevr/aframe) - :a: web framework for building virtual reality experiences.
 - [hackmdio/codimd](https://github.com/hackmdio/codimd) - CodiMD - Realtime collaborative markdown notes on all platforms.
 - [toddmotto/angular-1-5-components-app](https://github.com/toddmotto/angular-1-5-components-app) - A Contacts Manager application built on Angular 1.5 components, ui-router 1.0.0, Firebase.
-- [RafalWilinski/express-status-monitor](https://github.com/RafalWilinski/express-status-monitor) - 🚀 Realtime Monitoring solution for Node.js/Express.js apps, inspired by status.github.com, sponsored by https://dynobase.dev
+- [RafalWilinski/express-status-monitor](https://github.com/RafalWilinski/express-status-monitor) - 🚀 Realtime Monitoring solution for Node.js/Express.js apps, inspired by status.github.com, sponsored by https://dynobase.com
 - [infinitered/reactotron](https://github.com/infinitered/reactotron) - A desktop app for inspecting your React JS and React Native projects. macOS, Linux, and Windows.
 - [VictorTaelin/WebMonkeys](https://github.com/VictorTaelin/WebMonkeys) - Massively parallel GPU programming on JavaScript, simple and clean.
 - [nasa/openmct](https://github.com/nasa/openmct) - A web based mission control framework.
@@ -4461,6 +4461,9 @@
 
 ## Jupyter Notebook 
 
+- [csinva/imodels](https://github.com/csinva/imodels) - Interpretable ML package 🔍 for concise, transparent, and accurate predictive modeling (sklearn-compatible).
+- [ageron/handson-ml3](https://github.com/ageron/handson-ml3) - A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.
+- [huggingface/education-toolkit](https://github.com/huggingface/education-toolkit) - Educational materials for universities
 - [krishnaik06/5-Days-Live-EDA-and-Feature-Engineering](https://github.com/krishnaik06/5-Days-Live-EDA-and-Feature-Engineering) - 
 - [algorithmica-org/algorithmica](https://github.com/algorithmica-org/algorithmica) - New version of the website
 - [VSainteuf/pastis-benchmark](https://github.com/VSainteuf/pastis-benchmark) - 
@@ -5940,10 +5943,11 @@
 
 ## Others 
 
+- [sberdevices/qtacotron](https://github.com/sberdevices/qtacotron) - Tacotron 2 - PyTorch implementation with faster-than-realtime inference
 - [yanirs/established-remote](https://github.com/yanirs/established-remote) - A list of established remote companies
 - [christianversloot/machine-learning-articles](https://github.com/christianversloot/machine-learning-articles) - 🧠💬 Articles I wrote about machine learning, archived from MachineCurve.com.
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
-- [cncf/mentoring](https://github.com/cncf/mentoring) - 👩🏿‍🎓👨🏽‍🎓👩🏻‍🎓CNCF Mentoring + LFX Mentorship + Summer of Code + Season of Docs
+- [cncf/mentoring](https://github.com/cncf/mentoring) - 👩🏿‍🎓👨🏽‍🎓👩🏻‍🎓CNCF Mentoring + CommunityBridge + Summer of Code
 - [Zeyad-Azima/Offensive-Resources](https://github.com/Zeyad-Azima/Offensive-Resources) - A Huge Learning Resources with Labs For Offensive Security Players
 - [rafamadriz/friendly-snippets](https://github.com/rafamadriz/friendly-snippets) - Set of preconfigured snippets for different languages.
 - [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template) - An awesome README template to jumpstart your projects!
@@ -7038,6 +7042,9 @@
 
 ## Python 
 
+- [coqui-ai/Trainer](https://github.com/coqui-ai/Trainer) - 🐸  - A general purpose model trainer, as flexible as it gets
+- [intel/neural-compressor](https://github.com/intel/neural-compressor) - Intel® Neural Compressor (formerly known as Intel® Low Precision Optimization Tool), targeting to provide unified APIs for network compression technologies, such as low precision quantization, sparsity, pruning, knowledge distillation, across different deep learning frameworks to pursue optimal inference performance.
+- [sberbank-ai/DetIE](https://github.com/sberbank-ai/DetIE) - The code for the paper 'DetIE: Multilingual Open Information Extraction Inspired by Object Detection' by Vasilkovsky et al.
 - [allegroai/clearml-server](https://github.com/allegroai/clearml-server) - ClearML - Auto-Magical Suite of tools to streamline your ML workflow. Experiment Manager, ML-Ops and Data-Management
 - [JDAI-CV/fast-reid](https://github.com/JDAI-CV/fast-reid) - SOTA Re-identification Methods and Toolbox
 - [NATSpeech/NATSpeech](https://github.com/NATSpeech/NATSpeech) - A Non-Autoregressive Text-to-Speech (NAR-TTS) framework, including official PyTorch implementation of PortaSpeech (NeurIPS 2021) and DiffSpeech (AAAI 2022)
@@ -7073,7 +7080,7 @@
 - [libffcv/ffcv](https://github.com/libffcv/ffcv) - FFCV: Fast Forward Computer Vision (and other ML workloads!)
 - [bigscience-workshop/Megatron-DeepSpeed](https://github.com/bigscience-workshop/Megatron-DeepSpeed) - Ongoing research training transformer language models at scale, including: BERT & GPT-2
 - [berkeley-dsep-infra/datahub](https://github.com/berkeley-dsep-infra/datahub) - JupyterHubs for use by Berkeley enrolled students
-- [google/rax](https://github.com/google/rax) - 
+- [google/rax](https://github.com/google/rax) - Rax is a Learning-to-Rank library written in JAX.
 - [sberbank-ai/sber-swap](https://github.com/sberbank-ai/sber-swap) - 
 - [malhotra5/Manim-Tutorial](https://github.com/malhotra5/Manim-Tutorial) - A tutorial for manim, a mathematical animation engine made by 3b1b
 - [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.
@@ -14328,7 +14335,7 @@
 - [bmfe/eros](https://github.com/bmfe/eros) - 📱 一套 Vue 代码，两端原生应用 ，或许可以叫我 weex-native。
 - [vuetwo/vuetron](https://github.com/vuetwo/vuetron) - A tool for testing and debugging your Vue + Vuex applications. 是一個可以幫助您 Vue.js 的項目測試及偵錯的工具, 也同時支持 Vuex及 Vue-Router.
 - [ratiw/vuetable-2](https://github.com/ratiw/vuetable-2) - data table simplify! -- datatable component for Vue 2.x. See documentation at
-- [egoist/aimer](https://github.com/egoist/aimer) - The UI Development Framework
+- [egoist/aimer-deprecated](https://github.com/egoist/aimer-deprecated) - The UI Development Framework
 - [KamilOcean/vue-sticker](https://github.com/KamilOcean/vue-sticker) - Vue component, that helps to make sticky effects
 - [zircleUI/zircleUI](https://github.com/zircleUI/zircleUI) - 🚀 zircle-ui is a frontend library to develop zoomable user interfaces.
 - [apertureless/vue-chartjs](https://github.com/apertureless/vue-chartjs) - 📊  Vue.js wrapper for Chart.js
