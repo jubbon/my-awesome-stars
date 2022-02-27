@@ -5943,6 +5943,18 @@
 
 ## Others 
 
+- [NielsRogge/Vision-Transformer-papers](https://github.com/NielsRogge/Vision-Transformer-papers) - This repository contains an overview of important follow-up works based on the original Vision Transformer (ViT) by Google.
+- [Sxela/ArcaneGAN](https://github.com/Sxela/ArcaneGAN) - ArcaneGAN
+- [riti2409/Git-GitHub](https://github.com/riti2409/Git-GitHub) - 
+- [riti2409/Dynamic-Programming-Notes](https://github.com/riti2409/Dynamic-Programming-Notes) - Dynamic Programming Notes
+- [riti2409/DBMS_SQL-Notes](https://github.com/riti2409/DBMS_SQL-Notes) - DBMS_SQL Notes
+- [prasadgujar/low-level-design-primer](https://github.com/prasadgujar/low-level-design-primer) - Dedicated Resources for the Low-Level System Design. Learn how to design and implement large-scale systems. Prep for the system design interview.
+- [myugan/awesome-docker-security](https://github.com/myugan/awesome-docker-security) - 📚 A curated list of awesome Docker security resources
+- [myugan/awesome-cicd-security](https://github.com/myugan/awesome-cicd-security) - :books: A curated list of awesome CI CD security resources
+- [DataWithDanny/sql-masterclass](https://github.com/DataWithDanny/sql-masterclass) - 
+- [buildspace/buildspace-projects](https://github.com/buildspace/buildspace-projects) - The home of our open-source projects.
+- [bryanhpchiang/protocol-reading-list](https://github.com/bryanhpchiang/protocol-reading-list) - 
+- [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok alternatives and other ngrok-like tunneling software and services. Focus on self-hosting.
 - [sberdevices/qtacotron](https://github.com/sberdevices/qtacotron) - Tacotron 2 - PyTorch implementation with faster-than-realtime inference
 - [yanirs/established-remote](https://github.com/yanirs/established-remote) - A list of established remote companies
 - [christianversloot/machine-learning-articles](https://github.com/christianversloot/machine-learning-articles) - 🧠💬 Articles I wrote about machine learning, archived from MachineCurve.com.
@@ -7042,6 +7054,12 @@
 
 ## Python 
 
+- [Visual-Attention-Network/VAN-Classification](https://github.com/Visual-Attention-Network/VAN-Classification) - 
+- [rotemtzaban/STIT](https://github.com/rotemtzaban/STIT) - 
+- [openvinotoolkit/anomalib](https://github.com/openvinotoolkit/anomalib) - An anomaly detection library comprising state-of-the-art algorithms and features such as experiment management, hyper-parameter optimization, and edge inference.
+- [nebuly-ai/nebullvm](https://github.com/nebuly-ai/nebullvm) - Easy-to-use library to boost AI inference leveraging multiple DL compilers
+- [MIC-DKFZ/nnUNet](https://github.com/MIC-DKFZ/nnUNet) - 
+- [datastaxdevs/workshop-ai-as-api](https://github.com/datastaxdevs/workshop-ai-as-api) - 
 - [coqui-ai/Trainer](https://github.com/coqui-ai/Trainer) - 🐸  - A general purpose model trainer, as flexible as it gets
 - [intel/neural-compressor](https://github.com/intel/neural-compressor) - Intel® Neural Compressor (formerly known as Intel® Low Precision Optimization Tool), targeting to provide unified APIs for network compression technologies, such as low precision quantization, sparsity, pruning, knowledge distillation, across different deep learning frameworks to pursue optimal inference performance.
 - [sberbank-ai/DetIE](https://github.com/sberbank-ai/DetIE) - The code for the paper 'DetIE: Multilingual Open Information Extraction Inspired by Object Detection' by Vasilkovsky et al.
