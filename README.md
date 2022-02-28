@@ -446,7 +446,6 @@
 - [pipelinedb/pipelinedb](https://github.com/pipelinedb/pipelinedb) - High-performance time-series aggregation for PostgreSQL
 - [maxmind/geoip-api-python](https://github.com/maxmind/geoip-api-python) - GeoIP Legacy Python API
 - [miohtama/python-Levenshtein](https://github.com/miohtama/python-Levenshtein) - The Levenshtein Python C extension module contains functions for fast computation of Levenshtein distance and string similarity
-- [borgbackup/borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption.
 - [yandex/tomita-parser](https://github.com/yandex/tomita-parser) - 
 - [postgres/postgres](https://github.com/postgres/postgres) - Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don't work with pull requests on github. To contribute, please see https://wiki.postgresql.org/wiki/Submitting_a_Patch
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
@@ -637,6 +636,7 @@
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [alibaba/MNN](https://github.com/alibaba/MNN) - MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba
 - [supertuxkart/stk-code](https://github.com/supertuxkart/stk-code) - The code base of supertuxkart
+- [microsoft/BosqueLanguage](https://github.com/microsoft/BosqueLanguage) - The Bosque programming language is an experiment in regularized design for a machine assisted rapid and reliable software development lifecycle.
 - [EQ-Alpha/KeyDB](https://github.com/EQ-Alpha/KeyDB) - A Multithreaded Fork of Redis
 - [fede-vaccaro/TerrainEngine-OpenGL](https://github.com/fede-vaccaro/TerrainEngine-OpenGL) - An OpenGL 4 and C++ program which renders a procedural scene.
 - [ShiqiYu/libfacedetection](https://github.com/ShiqiYu/libfacedetection) - An open source library for face detection in images. The face detection speed can reach 1000FPS.
@@ -10411,7 +10411,7 @@
 - [jbrambleDC/simulacrum](https://github.com/jbrambleDC/simulacrum) - 
 - [plecto/motorway](https://github.com/plecto/motorway) - Cloud ready pure-python streaming data pipeline library
 - [jliljebl/flowblade](https://github.com/jliljebl/flowblade) - Video Editor for Linux
-- [lk-geimfari/mimesis](https://github.com/lk-geimfari/mimesis) - Mimesis is a high-performance fake data generator for Python.
+- [lk-geimfari/mimesis](https://github.com/lk-geimfari/mimesis) - Mimesis is a high-performance fake data generator for Python, which provides data for a variety of purposes in a variety of languages.
 - [Azure/azure-cli](https://github.com/Azure/azure-cli) - Azure Command-Line Interface
 - [posener/mock-import](https://github.com/posener/mock-import) - A helper mocking function to mask ImportErrors
 - [anfederico/clairvoyant](https://github.com/anfederico/clairvoyant) - Software designed to identify and monitor social/historical cues for short term stock movement
@@ -10975,7 +10975,6 @@
 - [imwilsonxu/fbone](https://github.com/imwilsonxu/fbone) - Fbone (Flask bone) is a Flask (Python microframework) starter/template/bootstrap/boilerplate application.
 - [cookiecutter-flask/cookiecutter-flask](https://github.com/cookiecutter-flask/cookiecutter-flask) - A flask template with Bootstrap 4, asset bundling+minification with webpack, starter templates, and registration/authentication. For use with cookiecutter.
 - [mdipierro/nlib](https://github.com/mdipierro/nlib) - The book "Annotated Algorithms in Python" and the nlib.py library
-- [fschr/simpletcp](https://github.com/fschr/simpletcp) - A minimal non-blocking TCP server written for Python 3.
 - [ncrocfer/whatportis](https://github.com/ncrocfer/whatportis) - Whatportis : explore IANA's list of ports
 - [emdaniels/what-the-classics-know-of-blue](https://github.com/emdaniels/what-the-classics-know-of-blue) - Analysis of classic works describing the color blue.
 - [peterbe/hashin](https://github.com/peterbe/hashin) - Helping you write hashed entries for packages in your requirements.txt
@@ -11619,6 +11618,7 @@
 - [dask/dask](https://github.com/dask/dask) - Parallel computing with task scheduling
 - [zalando/spilo](https://github.com/zalando/spilo) - Highly available elephant herd: HA PostgreSQL cluster using Docker
 - [metachris/pdfx](https://github.com/metachris/pdfx) - Extract text, metadata and references (pdf, url, doi, arxiv) from PDF. Optionally download all referenced PDFs.
+- [borgbackup/borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption.
 - [cslarsen/dna-traits](https://github.com/cslarsen/dna-traits) - A fast 23andMe genome text file parser, now superseded by arv
 - [n1nj4sec/memorpy](https://github.com/n1nj4sec/memorpy) - Python library using ctypes to search/edit windows / linux / macOS / SunOS programs memory
 - [harshulj/tweetlake](https://github.com/harshulj/tweetlake) - Tweet Lake is a commandline interface to Twitter Streaming API and big data project that extracts interesting stats out of tweet corpus.
@@ -13554,7 +13554,7 @@
 - [jcsalterego/historian](https://github.com/jcsalterego/historian) - Command-line utility for managing shell history in a SQLite database.
 - [kamranahmedse/git-standup](https://github.com/kamranahmedse/git-standup) - Recall what you did on the last working day. Psst! or be nosy and find what someone else in your team did ;-)
 - [DavidWittman/ansible-redis](https://github.com/DavidWittman/ansible-redis) - Highly-configurable Ansible role to install Redis and Redis Sentinel from source
-- [erikw/tmux-powerline](https://github.com/erikw/tmux-powerline) - A hackable statusbar for tmux consisting of dynamic & beautiful looking segments, inspired by vim-powerlline, written purely in bash.
+- [erikw/tmux-powerline](https://github.com/erikw/tmux-powerline) - A hackable statusbar for tmux consisting of dynamic & beautiful looking segments, inspired by vim-powerline, written purely in bash.
 - [kylemcdonald/ml-notebook](https://github.com/kylemcdonald/ml-notebook) - Dockerfile for multiple machine learning tools.
 - [marcan/takeover.sh](https://github.com/marcan/takeover.sh) - Wipe and reinstall a running Linux system via SSH, without rebooting. You know you want to.
 - [k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
@@ -13787,7 +13787,6 @@
 - [microsoft/TypeScript-New-Handbook](https://github.com/microsoft/TypeScript-New-Handbook) - Incubation repository for the new TypeScript handbook 🐣
 - [faastjs/faast.js](https://github.com/faastjs/faast.js) - Serverless batch computing made simple.
 - [Novvum/graphql-birdseye](https://github.com/Novvum/graphql-birdseye) - View any GraphQL schema as a dynamic and interactive graph. 🦅
-- [microsoft/BosqueLanguage](https://github.com/microsoft/BosqueLanguage) - The Bosque programming language is an experiment in regularized design for a machine assisted rapid and reliable software development lifecycle.
 - [santiq/bulletproof-nodejs](https://github.com/santiq/bulletproof-nodejs) - Implementation of a bulletproof node.js API 🛡️
 - [aerogear/offix](https://github.com/aerogear/offix) - GraphQL Offline Client and Server
 - [GoogleCloudPlatform/functions-framework-nodejs](https://github.com/GoogleCloudPlatform/functions-framework-nodejs) - FaaS (Function as a service) framework for writing portable Node.js functions
