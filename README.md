@@ -469,7 +469,7 @@
 
 ## C# # 
 
-- [Azure/AlwaysOn-Foundational-Online](https://github.com/Azure/AlwaysOn-Foundational-Online) - AlwaysOn is an open source project that provides a prescriptive architectural approach to building highly-reliable cloud-native applications on Microsoft Azure for mission-critical workloads. This repository contains the foundational online AlwaysOn reference implementation a Fully Functional Production-Ready AlwaysOn Reference Implementation.
+- [Azure/Mission-Critical-Online](https://github.com/Azure/Mission-Critical-Online) - This repository is part of the Azure Mission-Critical open source project that provides a prescriptive architectural approach to building highly-reliable cloud-native applications on Microsoft Azure for mission-critical workloads. This repository contains the online reference implementation a fully functional production-grade reference Implementation.
 - [vektonn/vektonn](https://github.com/vektonn/vektonn) - 
 - [vektonn/vektonn-examples](https://github.com/vektonn/vektonn-examples) - Vektonn usage examples
 - [deepmind/mujoco](https://github.com/deepmind/mujoco) - Multi-Joint dynamics with Contact. A general purpose physics simulator.
@@ -2946,7 +2946,6 @@
 - [jsdoc/jsdoc](https://github.com/jsdoc/jsdoc) - An API documentation generator for JavaScript.
 - [kiteco/vscode-plugin](https://github.com/kiteco/vscode-plugin) - Kite Autocomplete Plugin for Visual Studio Code
 - [expressjs/express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
-- [jitsi/docker-jitsi-meet](https://github.com/jitsi/docker-jitsi-meet) - Jitsi Meet on Docker
 - [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 1500 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [marcotcr/lime](https://github.com/marcotcr/lime) - Lime: Explaining the predictions of any machine learning classifier
 - [microsoft/botframework-sdk](https://github.com/microsoft/botframework-sdk) - Bot Framework provides the most comprehensive experience for building conversation applications.
@@ -5826,6 +5825,7 @@
 - [jcjohnson/torch-rnn](https://github.com/jcjohnson/torch-rnn) - Efficient, reusable RNNs and LSTMs for torch
 - [facebookarchive/bAbI-tasks](https://github.com/facebookarchive/bAbI-tasks) - Task generation for testing text understanding and reasoning
 - [sunprinceS/Hierarchical-Attention-Model](https://github.com/sunprinceS/Hierarchical-Attention-Model) - :page_facing_up: HierAttModel for Question Answering
+- [jitsi/docker-jitsi-meet](https://github.com/jitsi/docker-jitsi-meet) - Jitsi Meet on Docker
 - [garythung/trashnet](https://github.com/garythung/trashnet) - Dataset of images of trash; Torch-based CNN for garbage image classification
 - [apache/apisix](https://github.com/apache/apisix) - The Cloud-Native API Gateway
 - [facebookarchive/MazeBase](https://github.com/facebookarchive/MazeBase) - Simple environment for creating very simple 2D games and training neural network models to perform tasks within them
@@ -7054,6 +7054,7 @@
 
 ## Python 
 
+- [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub) - Typed interactions with the GitHub API v3
 - [Erlemar/pytorch_tempest](https://github.com/Erlemar/pytorch_tempest) - My repo for training neural nets using pytorch-lightning and hydra
 - [Visual-Attention-Network/VAN-Classification](https://github.com/Visual-Attention-Network/VAN-Classification) - 
 - [rotemtzaban/STIT](https://github.com/rotemtzaban/STIT) - 
@@ -7291,7 +7292,7 @@
 - [sentinelsat/sentinelsat](https://github.com/sentinelsat/sentinelsat) - Search and download Copernicus Sentinel satellite images
 - [sentinel-hub/sentinelhub-py](https://github.com/sentinel-hub/sentinelhub-py) - Download and process satellite imagery in Python using Sentinel Hub services.
 - [ternaus/kaggle_dstl_submission](https://github.com/ternaus/kaggle_dstl_submission) - Code for a winning model (3 out of 419) in a Dstl Satellite Imagery Feature Detection challenge
-- [GaParmar/clean-fid](https://github.com/GaParmar/clean-fid) - PyTorch - FID calculation with proper image resizing and quantization steps
+- [GaParmar/clean-fid](https://github.com/GaParmar/clean-fid) - PyTorch - FID calculation with proper image resizing and quantization steps [CVPR 2022]
 - [microsoft/ProphetNet](https://github.com/microsoft/ProphetNet) - Code for EMNLP20 paper: "ProphetNet: Predicting Future N-gram for Sequence-to-Sequence Pre-training"
 - [princeton-nlp/SimCSE](https://github.com/princeton-nlp/SimCSE) - EMNLP'2021: SimCSE: Simple Contrastive Learning of Sentence Embeddings
 - [jorgehpo/notebookJS](https://github.com/jorgehpo/notebookJS) - notebookJS: seamless JavaScript integration in Python Notebooks
@@ -7798,7 +7799,7 @@
 - [HyoungsungKim/Pytorch-tensorboard_tutorial](https://github.com/HyoungsungKim/Pytorch-tensorboard_tutorial) - Pytorch-tensorboard simple tutorial and example for a beginner
 - [robotlearn/pyrobolearn](https://github.com/robotlearn/pyrobolearn) - PyRoboLearn: a Python framework for Robot Learning
 - [facebookresearch/habitat-lab](https://github.com/facebookresearch/habitat-lab) - A modular high-level library to train embodied AI agents across a variety of tasks, environments, and simulators.
-- [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training easy, efficient, and effective.
+- [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
 - [jkoutsikakis/pytorch-wrapper](https://github.com/jkoutsikakis/pytorch-wrapper) - Provides a systematic and extensible way to build, train, evaluate, and tune deep learning models using PyTorch.
 - [ajhamdi/SADA](https://github.com/ajhamdi/SADA) - SADA: Semantic Adversarial Diagnostic Attacks for Autonomous Applications (AAAI 2020)
 - [joelgrus/data-science-from-scratch](https://github.com/joelgrus/data-science-from-scratch) - code for Data Science From Scratch book
@@ -8908,7 +8909,7 @@
 - [skorokithakis/catt](https://github.com/skorokithakis/catt) - Cast All The Things allows you to send videos from many, many online sources to your Chromecast.
 - [CSAILVision/semantic-segmentation-pytorch](https://github.com/CSAILVision/semantic-segmentation-pytorch) - Pytorch implementation for Semantic Segmentation/Scene Parsing on MIT ADE20K dataset
 - [guardicore/monkey](https://github.com/guardicore/monkey) - Infection Monkey - An automated pentest tool
-- [YosefLab/scvi-tools](https://github.com/YosefLab/scvi-tools) - Deep probabilistic analysis of single-cell omics data
+- [scverse/scvi-tools](https://github.com/scverse/scvi-tools) - Deep probabilistic analysis of single-cell omics data
 - [dmlc/gluon-nlp](https://github.com/dmlc/gluon-nlp) - NLP made easy
 - [giovanifss/Gitmails](https://github.com/giovanifss/Gitmails) - An information gathering tool to collect git commit emails in version control host services
 - [qqwweee/keras-yolo3](https://github.com/qqwweee/keras-yolo3) - A Keras implementation of YOLOv3 (Tensorflow backend)
@@ -13361,7 +13362,7 @@
 - [diem/diem](https://github.com/diem/diem) - Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world.
 - [calebwin/emu](https://github.com/calebwin/emu) - The write-once-run-anywhere GPGPU library for Rust
 - [wasmerio/wasmer-python](https://github.com/wasmerio/wasmer-python) - 🐍🕸 WebAssembly runtime for Python
-- [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊  Cube — Open-Source Analytics API for Building Data Apps
+- [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊  Cube — Headless Business Intelligence
 - [fluencelabs/fluence](https://github.com/fluencelabs/fluence) - Peer-to-peer computing protocol and licensing system
 - [cantino/mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott!
 - [atlasr-org/atlasr](https://github.com/atlasr-org/atlasr) - Atlasr is a truly open-source and free map browser.
