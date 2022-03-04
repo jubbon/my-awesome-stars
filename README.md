@@ -1624,7 +1624,7 @@
 - [lindb/lindb](https://github.com/lindb/lindb) - LinDB is a scalable, high performance, high availability distributed time series database.
 - [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
 - [ardanlabs/gotraining](https://github.com/ardanlabs/gotraining) - Go Training Class Material :
-- [asim/go-micro](https://github.com/asim/go-micro) - A distributed systems framework
+- [asim/go-micro](https://github.com/asim/go-micro) - A Go microservices framework
 - [tektoncd/pipeline](https://github.com/tektoncd/pipeline) - A cloud-native Pipeline resource.
 - [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
 - [ibuildthecloud/k3v](https://github.com/ibuildthecloud/k3v) - Virtual Kubernetes
@@ -5924,7 +5924,7 @@
 
 - [transistorsoft/cordova-background-geolocation-lt](https://github.com/transistorsoft/cordova-background-geolocation-lt) - The most sophisticated background location-tracking & geofencing module with battery-conscious motion-detection intelligence for iOS and Android.
 - [KrauseFx/detect.location](https://github.com/KrauseFx/detect.location) - An easy way to access the user's iOS location data without actually having access
-- [appcelerator/titanium_mobile](https://github.com/appcelerator/titanium_mobile) - 🚀 Native iOS- and Android- Apps with JavaScript
+- [tidev/titanium_mobile](https://github.com/tidev/titanium_mobile) - 🚀 Native iOS and Android Apps with JavaScript
 - [git-up/GitUp](https://github.com/git-up/GitUp) - The Git interface you've been missing all your life has finally arrived.
 - [bububa/MongoHub-Mac](https://github.com/bububa/MongoHub-Mac) - MongoHub mac native version.
 - [samuelclay/NewsBlur](https://github.com/samuelclay/NewsBlur) - NewsBlur is a personal news reader that brings people together to talk about the world. A new sound of an old instrument.
@@ -7329,7 +7329,7 @@
 - [replicate/keepsake](https://github.com/replicate/keepsake) - Version control for machine learning
 - [PennyLaneAI/pennylane](https://github.com/PennyLaneAI/pennylane) - PennyLane is a cross-platform Python library for differentiable programming of quantum computers.  Train a quantum computer the same way as a neural network.
 - [workingcoder/EDCNN](https://github.com/workingcoder/EDCNN) - EDCNN: Edge enhancement-based Densely Connected Network with Compound Loss for Low-Dose CT Denoising
-- [imlixinyang/HiSD](https://github.com/imlixinyang/HiSD) - Official pytorch implementation of paper "Image-to-image Translation via Hierarchical Style Disentanglement" (CVPR 2021 Oral).
+- [imlixinyang/HiSD](https://github.com/imlixinyang/HiSD) - Official pytorch implementation of paper "Image-to-image Translation via Hierarchical Style Disentanglement" (CVPR2021 Oral).
 - [EdisonLeeeee/GraphGallery](https://github.com/EdisonLeeeee/GraphGallery) - GraphGallery is a gallery for benchmarking Graph Neural Networks (GNNs).
 - [lucidrains/transformer-in-transformer](https://github.com/lucidrains/transformer-in-transformer) - Implementation of Transformer in Transformer, pixel level attention paired with patch level attention for image classification, in Pytorch
 - [xuanjihe/speech-emotion-recognition](https://github.com/xuanjihe/speech-emotion-recognition) - speech emotion recognition using a convolutional recurrent networks based on IEMOCAP
@@ -7379,7 +7379,7 @@
 - [LAMDA-NJU/Deep-Forest](https://github.com/LAMDA-NJU/Deep-Forest) - An Efficient, Scalable and Optimized Python Framework for Deep Forest (2021.2.1)
 - [mportesi/sorting_algo_visualizer](https://github.com/mportesi/sorting_algo_visualizer) - Python script to generate a visualization of various sorting algorithms, image or video.
 - [bkane1/gpt3-instruct-sandbox](https://github.com/bkane1/gpt3-instruct-sandbox) - Interactive Jupyter Notebook Environment for using the GPT-3 Instruct API
-- [willi-menapace/PlayableVideoGeneration](https://github.com/willi-menapace/PlayableVideoGeneration) - Official Pytorch implementation of "Playable Video Generation"
+- [willi-menapace/PlayableVideoGeneration](https://github.com/willi-menapace/PlayableVideoGeneration) - Official Pytorch implementation of "Playable Video Generation", CVPR 2022 (Oral)
 - [microsoft/DeBERTa](https://github.com/microsoft/DeBERTa) - The implementation of DeBERTa
 - [lucidrains/bottleneck-transformer-pytorch](https://github.com/lucidrains/bottleneck-transformer-pytorch) - Implementation of Bottleneck Transformer in Pytorch
 - [sdushantha/wifi-password](https://github.com/sdushantha/wifi-password) - Quickly fetch your WiFi password and if needed, generate a QR code of your WiFi to allow phones to easily connect
