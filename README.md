@@ -502,6 +502,8 @@
 
 ## C++ 
 
+- [anyks/alm](https://github.com/anyks/alm) - Smart Language Model
+- [vchahun/kenlm](https://github.com/vchahun/kenlm) - KenLM: Faster and Smaller Language Model Queries
 - [triton-inference-server/backend](https://github.com/triton-inference-server/backend) - Common source, scripts and utilities for creating Triton backends.
 - [kpu/kenlm](https://github.com/kpu/kenlm) - KenLM: Faster and Smaller Language Model Queries
 - [darglein/ADOP](https://github.com/darglein/ADOP) - 
@@ -970,7 +972,6 @@
 - [osquery/osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
 - [hrastnik/FaceSwap](https://github.com/hrastnik/FaceSwap) - Real-time FaceSwap application built with OpenCV and dlib
 - [facebook/rocksdb](https://github.com/facebook/rocksdb) - A library that provides an embeddable, persistent key-value store for fast storage.
-- [realm/realm-js](https://github.com/realm/realm-js) - Realm is a mobile database: an alternative to SQLite & key-value stores
 - [tensorflow/serving](https://github.com/tensorflow/serving) - A flexible, high-performance serving system for machine learning models
 - [microsoft/caffe](https://github.com/microsoft/caffe) - Caffe on both Linux and Windows
 - [microsoft/CNTK](https://github.com/microsoft/CNTK) - Microsoft Cognitive Toolkit (CNTK), an open source deep-learning toolkit
@@ -1037,6 +1038,7 @@
 
 ## CSS 
 
+- [TatianaShavrina/taiga_site](https://github.com/TatianaShavrina/taiga_site) - 
 - [openai/openai-quickstart-python](https://github.com/openai/openai-quickstart-python) - Python example app from the OpenAI API quickstart tutorial
 - [doka-guide/platform](https://github.com/doka-guide/platform) - Платформа Доки: шаблоны, стили, скрипты и всё для сборки сайта
 - [dataflowr/website](https://github.com/dataflowr/website) - code for the website
@@ -4154,6 +4156,7 @@
 - [viart/grunt-connect-rewrite](https://github.com/viart/grunt-connect-rewrite) - Provides RewriteRules middleware for the grunt connect / express.
 - [elesdoar/ui-leaflet-layers](https://github.com/elesdoar/ui-leaflet-layers) - Angular UI Leaflet Layers Plugin
 - [apiguy/flask-classy](https://github.com/apiguy/flask-classy) - Class based views for Flask
+- [realm/realm-js](https://github.com/realm/realm-js) - Realm is a mobile database: an alternative to SQLite & key-value stores
 - [angular/quickstart](https://github.com/angular/quickstart) - Angular QuickStart - source from the documentation
 - [germanattanasio/visual-recognition-nodejs](https://github.com/germanattanasio/visual-recognition-nodejs) - DEPRECATED: this repo is no longer actively maintained
 - [thomaspark/bootswatch](https://github.com/thomaspark/bootswatch) - Themes for Bootstrap
@@ -5943,6 +5946,7 @@
 
 ## Others 
 
+- [kmario23/KenLM-training](https://github.com/kmario23/KenLM-training) - Training an n-gram based Language Model using KenLM toolkit for Deep Speech 2
 - [NielsRogge/Vision-Transformer-papers](https://github.com/NielsRogge/Vision-Transformer-papers) - This repository contains an overview of important follow-up works based on the original Vision Transformer (ViT) by Google.
 - [Sxela/ArcaneGAN](https://github.com/Sxela/ArcaneGAN) - ArcaneGAN
 - [riti2409/Git-GitHub](https://github.com/riti2409/Git-GitHub) - 
@@ -7054,6 +7058,12 @@
 
 ## Python 
 
+- [librosa/librosa](https://github.com/librosa/librosa) - Python library for audio and music analysis
+- [msgpack/msgpack-python](https://github.com/msgpack/msgpack-python) - MessagePack serializer implementation for Python msgpack.org[Python]
+- [patrickvonplaten/Wav2Vec2_PyCTCDecode](https://github.com/patrickvonplaten/Wav2Vec2_PyCTCDecode) - Small repo describing how to use Hugging Face's Wav2Vec2 with PyCTCDecode
+- [Edresson/VoiceSplit](https://github.com/Edresson/VoiceSplit) - VoiceSplit: Targeted Voice Separation by Speaker-Conditioned Spectrogram
+- [Edresson/Wav2Vec-Wrapper](https://github.com/Edresson/Wav2Vec-Wrapper) - An easy way to fine-tune Wav2Vec 2.0 for low-resource languages.
+- [dredwardhyde/speech-recognition-examples](https://github.com/dredwardhyde/speech-recognition-examples) - Simple Guide How To Build Your Own End-To-End Automatic Speech Recognition System Written In PyTorch
 - [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub) - Typed interactions with the GitHub API v3
 - [Erlemar/pytorch_tempest](https://github.com/Erlemar/pytorch_tempest) - My repo for training neural nets using pytorch-lightning and hydra
 - [Visual-Attention-Network/VAN-Classification](https://github.com/Visual-Attention-Network/VAN-Classification) - 
@@ -11963,7 +11973,7 @@
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [google/timesketch](https://github.com/google/timesketch) - Collaborative forensic timeline analysis
 - [shoyer/cyordereddict](https://github.com/shoyer/cyordereddict) - Cython implementation of OrderedDict
-- [ReactiveX/RxPY](https://github.com/ReactiveX/RxPY) - Reactive Extensions for Python, https://rxpy.rtfd.io
+- [ReactiveX/RxPY](https://github.com/ReactiveX/RxPY) - ReactiveX for Python, https://rxpy.rtfd.io
 - [gnarea/pyrecord](https://github.com/gnarea/pyrecord) - Pythonic Record Types.
 - [VitaliyRodnenko/geeknote](https://github.com/VitaliyRodnenko/geeknote) - Console client for Evernote.
 - [cool-RR/combi](https://github.com/cool-RR/combi) - Pythonic package for combinatorics
@@ -13863,7 +13873,7 @@
 - [michalyao/evermonkey](https://github.com/michalyao/evermonkey) - Evernote Editing. Redefined.  关于 token 的问题请去 https://github.com/michalyao/evermonkey/issues/94 中查看！
 - [ariakit/ariakit](https://github.com/ariakit/ariakit) - Toolkit for building accessible web apps with React
 - [uwdata/draco](https://github.com/uwdata/draco) - Visualization Constraints and Weight Learning
-- [retejs/rete](https://github.com/retejs/rete) - JavaScript framework for visual programming and creating node editor
+- [retejs/rete](https://github.com/retejs/rete) - JavaScript framework for visual programming and creating node editor #StandWithUkraine
 - [vaneenige/phenomenon](https://github.com/vaneenige/phenomenon) - ⚡️ A fast 2kB low-level WebGL API.
 - [teambit/bit](https://github.com/teambit/bit) - A tool for component-driven application development.
 - [justadudewhohacks/face-api.js](https://github.com/justadudewhohacks/face-api.js) - JavaScript API for face detection and face recognition in the browser and nodejs with tensorflow.js
