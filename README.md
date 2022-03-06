@@ -11973,7 +11973,7 @@
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [google/timesketch](https://github.com/google/timesketch) - Collaborative forensic timeline analysis
 - [shoyer/cyordereddict](https://github.com/shoyer/cyordereddict) - Cython implementation of OrderedDict
-- [ReactiveX/RxPY](https://github.com/ReactiveX/RxPY) - ReactiveX for Python, https://rxpy.rtfd.io
+- [ReactiveX/RxPY](https://github.com/ReactiveX/RxPY) - ReactiveX for Python
 - [gnarea/pyrecord](https://github.com/gnarea/pyrecord) - Pythonic Record Types.
 - [VitaliyRodnenko/geeknote](https://github.com/VitaliyRodnenko/geeknote) - Console client for Evernote.
 - [cool-RR/combi](https://github.com/cool-RR/combi) - Pythonic package for combinatorics
