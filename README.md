@@ -4579,7 +4579,7 @@
 - [facebookresearch/vissl](https://github.com/facebookresearch/vissl) - VISSL is FAIR's library of extensible, modular and scalable components for SOTA Self-Supervised Learning with images.
 - [robertmartin8/PyPortfolioOpt](https://github.com/robertmartin8/PyPortfolioOpt) - Financial portfolio optimisation in python, including classical efficient frontier, Black-Litterman, Hierarchical Risk Parity
 - [CompVis/taming-transformers](https://github.com/CompVis/taming-transformers) - Taming Transformers for High-Resolution Image Synthesis
-- [AI4Finance-Foundation/FinRL](https://github.com/AI4Finance-Foundation/FinRL) - FinRL: Financial Reinforcement Learning Framework. Please star. 🔥
+- [AI4Finance-Foundation/FinRL](https://github.com/AI4Finance-Foundation/FinRL) - FinRL: The first open-source project for financial reinforcement learning. Please star. 🔥
 - [orpatashnik/StyleCLIP](https://github.com/orpatashnik/StyleCLIP) - Official Implementation for "StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery" (ICCV 2021 Oral)
 - [karpathy/deep-vector-quantization](https://github.com/karpathy/deep-vector-quantization) - VQVAEs, GumbelSoftmaxes and friends
 - [jackroos/VL-BERT](https://github.com/jackroos/VL-BERT) - Code for ICLR 2020 paper "VL-BERT: Pre-training of Generic Visual-Linguistic Representations".
@@ -6370,6 +6370,7 @@
 - [thedaviddias/Front-End-Performance-Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist) - 🎮 The only Front-End Performance Checklist that runs faster than the others
 - [joelparkerhenderson/architecture-decision-record](https://github.com/joelparkerhenderson/architecture-decision-record) - Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation
 - [llSourcell/How-to-Use-GitHub](https://github.com/llSourcell/How-to-Use-GitHub) - This is the supplementary material for "How to Use GitHub" By Siraj Raval on Youtube
+- [toml-lang/toml](https://github.com/toml-lang/toml) - Tom's Obvious, Minimal Language
 - [amolood/Uber-map-style](https://github.com/amolood/Uber-map-style) - This is uber map style
 - [llSourcell/AI_Freelancing](https://github.com/llSourcell/AI_Freelancing) - This is the code for "How to Do Freelance AI Programming" By Siraj Raval on Youtube
 - [learn-vuejs/vue-patterns](https://github.com/learn-vuejs/vue-patterns) - Useful Vue patterns, techniques, tips and tricks and helpful curated links.
@@ -8808,7 +8809,6 @@
 - [facebookincubator/xar](https://github.com/facebookincubator/xar) - executable archive format
 - [tkrajina/gpxpy](https://github.com/tkrajina/gpxpy) - gpx-py is a python GPX parser. GPX (GPS eXchange Format) is an XML based file format for GPS tracks.
 - [XiaoMi/mace-models](https://github.com/XiaoMi/mace-models) - Mobile AI Compute Engine Model Zoo
-- [toml-lang/toml](https://github.com/toml-lang/toml) - Tom's Obvious, Minimal Language
 - [0xInfection/TIDoS-Framework](https://github.com/0xInfection/TIDoS-Framework) - The Offensive Manual Web Application Penetration Testing Framework.
 - [CJWorkbench/cjworkbench](https://github.com/CJWorkbench/cjworkbench) - The data journalism platform with built in training
 - [RobotLocomotion/pytorch-dense-correspondence](https://github.com/RobotLocomotion/pytorch-dense-correspondence) - Code for "Dense Object Nets:  Learning Dense Visual Object Descriptors By and For Robotic Manipulation"
@@ -12421,7 +12421,7 @@
 - [mwarkentin/django-watchman](https://github.com/mwarkentin/django-watchman) - django-watchman exposes a status endpoint for your backing services like databases, caches, etc.
 - [jsvine/envplus](https://github.com/jsvine/envplus) - Combine your Python virtualenvs.
 - [miguelgrinberg/Flask-SocketIO](https://github.com/miguelgrinberg/Flask-SocketIO) - Socket.IO integration for Flask applications.
-- [agile-geoscience/modelr](https://github.com/agile-geoscience/modelr) - Google charts like API for Geoscience
+- [agilescientific/modelr](https://github.com/agilescientific/modelr) - Google charts like API for Geoscience
 - [wolever/pprintpp](https://github.com/wolever/pprintpp) - pprint++: a drop-in replacement for pprint that's actually pretty
 - [GrahamDumpleton/wrapt](https://github.com/GrahamDumpleton/wrapt) - A Python module for decorators, wrappers and monkey patching.
 - [Jahaja/psdash](https://github.com/Jahaja/psdash) - A linux system information web dashboard using psutils and flask
