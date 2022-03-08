@@ -1172,7 +1172,6 @@
 - [FinancialMarkets/5MinuteFinance](https://github.com/FinancialMarkets/5MinuteFinance) - Interactive Presentations for Financial Education using R/Shiny.  See full list of presentations (with links) below.
 - [dunovank/jupyter-themes](https://github.com/dunovank/jupyter-themes) - Custom Jupyter Notebook Themes
 - [Daemonite/material](https://github.com/Daemonite/material) - Material Design for Bootstrap 4
-- [creativetimofficial/material-dashboard](https://github.com/creativetimofficial/material-dashboard) - Material Dashboard - Open Source Bootstrap 5 Material Design Admin
 - [wookayin/TensorFlowKR-2017-talk-bestpractice](https://github.com/wookayin/TensorFlowKR-2017-talk-bestpractice) - 💬 Slides and Tutorial Codes for the talk 'Toward Best Practices of TensorFlow Code Patterns' (2017)
 - [littleosbook/littleosbook](https://github.com/littleosbook/littleosbook) - Source for the little book about OS development
 - [OYsun/VueCircleMenu](https://github.com/OYsun/VueCircleMenu) - :rabbit:A beautiful circle menu powered by Vue.js
@@ -2239,7 +2238,6 @@
 - [codesONLY/JavaScriptONLY](https://github.com/codesONLY/JavaScriptONLY) - Knowledge Resource of core fundamentals of JavaScript explained in simple way!
 - [shower/shower](https://github.com/shower/shower) - Shower HTML presentation engine
 - [speechbrain/speechbrain.github.io](https://github.com/speechbrain/speechbrain.github.io) - The SpeechBrain project aims to build a novel speech toolkit fully based on PyTorch. With SpeechBrain users can easily create speech processing systems, ranging from speech recognition (both HMM/DNN and end-to-end), speaker recognition, speech enhancement, speech separation, multi-microphone speech processing, and many others.
-- [AnonymousPlanet/thgtoa](https://github.com/AnonymousPlanet/thgtoa) - The Hitchhiker’s Guide to Online Anonymity
 - [bobbyiliev/introduction-to-bash-scripting](https://github.com/bobbyiliev/introduction-to-bash-scripting) - Free Introduction to Bash Scripting eBook
 - [VladislavEremeev/QA_bible](https://github.com/VladislavEremeev/QA_bible) - “Библия QA” - это копилка полезностей объемом 370+ страниц
 - [mixmark-io/turndown](https://github.com/mixmark-io/turndown) - 🛏 An HTML to Markdown converter written in JavaScript
@@ -3004,7 +3002,6 @@
 - [joeldenning/coexisting-vue-microfrontends](https://github.com/joeldenning/coexisting-vue-microfrontends) - A repo showing separate vue apps coexisting as microfrontends with single-spa
 - [brix/crypto-js](https://github.com/brix/crypto-js) - JavaScript library of crypto standards.
 - [vasanthv/jsonbox](https://github.com/vasanthv/jsonbox) - HTTP-based JSON storage.
-- [jupyter/notebook](https://github.com/jupyter/notebook) - Jupyter Interactive Notebook
 - [gxtrobot/bustag](https://github.com/gxtrobot/bustag) - a tag and recommend system for old bus driver 给老司机用的一个番号推荐系统
 - [flow-typed/flow-typed](https://github.com/flow-typed/flow-typed) - A central repository for Flow library definitions
 - [jhuckaby/wperf](https://github.com/jhuckaby/wperf) - A simple HTTP load testing utility with detailed performance metrics.
@@ -4479,6 +4476,7 @@
 - [mitmath/18337](https://github.com/mitmath/18337) - 18.337 - Parallel Computing and Scientific Machine Learning
 - [mitmath/1806](https://github.com/mitmath/1806) - 18.06 course at MIT
 - [boschresearch/HYM_notebook](https://github.com/boschresearch/HYM_notebook) - The Hybrid Modeling Notebook
+- [google/evojax](https://github.com/google/evojax) - 
 - [yandexdataschool/MLatImperial2018](https://github.com/yandexdataschool/MLatImperial2018) - ML at Imperial College
 - [yandexdataschool/mlhep2019](https://github.com/yandexdataschool/mlhep2019) - MLHEP'19 slides and notebooks
 - [yandexdataschool/speech_course](https://github.com/yandexdataschool/speech_course) - YSDA course in Speech Processing.
@@ -4792,6 +4790,7 @@
 - [lyft/nuscenes-devkit](https://github.com/lyft/nuscenes-devkit) - Devkit for the public 2019 Lyft Level 5 AV Dataset (fork of https://github.com/nutonomy/nuscenes-devkit)
 - [tcapelle/timeseries_fastai](https://github.com/tcapelle/timeseries_fastai) - fastai V2 implementation of Timeseries classification papers.
 - [mapbox/kepler.gl](https://github.com/mapbox/kepler.gl) - Fork of Kepler.gl - a powerful open source geospatial analysis tool for large-scale data sets.
+- [jupyter/notebook](https://github.com/jupyter/notebook) - Jupyter Interactive Notebook
 - [colearninglounge/co-learning-lounge](https://github.com/colearninglounge/co-learning-lounge) - Welcome to the one point community-driven encyclopedia for anything in technology.
 - [fastai/fastai_dev](https://github.com/fastai/fastai_dev) - fast.ai early development experiments
 - [quantum-challenge/2019](https://github.com/quantum-challenge/2019) - 
@@ -6904,7 +6903,7 @@
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [chrisalbon/theme_wmf](https://github.com/chrisalbon/theme_wmf) - A customized color theme for SublimeText 2 designed to help writing prose in markdown easier and more effective.
 - [swagger-api/swagger.io](https://github.com/swagger-api/swagger.io) - The content of swagger.io
-- [hangtwenty/dive-into-machine-learning](https://github.com/hangtwenty/dive-into-machine-learning) - Free ways to dive into machine learning with Python and Jupyter Notebook. Notebooks, courses, and other links. First posted in 2016. Pull requests welcome!
+- [hangtwenty/dive-into-machine-learning](https://github.com/hangtwenty/dive-into-machine-learning) - Free ways to dive into machine learning with Python and Jupyter Notebook. Notebooks, courses, and other links. (First posted in 2016.)
 - [binder-project/binder](https://github.com/binder-project/binder) - reproducible executable environments
 - [paul-nechifor/ohmu](https://github.com/paul-nechifor/ohmu) - View space usage in your terminal.
 - [bolshchikov/js-must-watch](https://github.com/bolshchikov/js-must-watch) - Must-watch videos about javascript
@@ -7095,7 +7094,6 @@
 - [microsoft/distribution-shift-latent-representations](https://github.com/microsoft/distribution-shift-latent-representations) - 
 - [microsoft/ATAC](https://github.com/microsoft/ATAC) - Code accompanying the paper Adversarially Trained Actor Critic for Offline Reinforcement Learning by Ching-An Cheng*, Tengyang Xie*, Nan Jiang, and Alekh Agarwal.
 - [facebookresearch/MetaBalance](https://github.com/facebookresearch/MetaBalance) - MetaBalance algorithm for multi-task learning
-- [google/evojax](https://github.com/google/evojax) - 
 - [facebookresearch/directclr](https://github.com/facebookresearch/directclr) - DirectCLR is a simple contrastive learning model for visual representation learning. It does not require a trainable projector as SimCLR. It is able to prevent dimensional collapse and outperform SimCLR with a linear projector.
 - [KurtBestor/Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - :cake: Desktop utility to download images/videos/music/text from various websites, and more.
 - [sdv-dev/SDV](https://github.com/sdv-dev/SDV) - Synthetic Data Generation for tabular, relational and time series data.
@@ -10405,7 +10403,7 @@
 - [tobgu/qcache](https://github.com/tobgu/qcache) - In memory cache server with query capabilities
 - [ellisonbg/altair](https://github.com/ellisonbg/altair) - Declarative statistical visualization library for Python
 - [SullyChen/Autopilot-TensorFlow](https://github.com/SullyChen/Autopilot-TensorFlow) - A TensorFlow implementation of this Nvidia paper: https://arxiv.org/pdf/1604.07316.pdf with some changes
-- [DerwenAI/pytextrank](https://github.com/DerwenAI/pytextrank) - Python implementation of TextRank for phrase extraction and summarization of text documents
+- [DerwenAI/pytextrank](https://github.com/DerwenAI/pytextrank) - Python implementation of TextRank algorithms ("textgraphs") for phrase extraction
 - [yandex/pgmigrate](https://github.com/yandex/pgmigrate) - Simple tool to evolve PostgreSQL schema easily.
 - [maxpoletaev/django-micro](https://github.com/maxpoletaev/django-micro) - Django as a microframework
 - [prashnts/hues](https://github.com/prashnts/hues) - Colored terminal text made easy for Python and happiness.
@@ -13423,6 +13421,7 @@
 - [ermongroup/cs228-notes](https://github.com/ermongroup/cs228-notes) - Course notes for CS228: Probabilistic Graphical Models.
 - [RyanFitzgerald/devportfolio](https://github.com/RyanFitzgerald/devportfolio) - A lightweight, customizable single-page personal portfolio website template built with JavaScript and Sass
 - [shagunsodhani/papers-I-read](https://github.com/shagunsodhani/papers-I-read) - A-Paper-A-Week
+- [creativetimofficial/material-dashboard](https://github.com/creativetimofficial/material-dashboard) - Material Dashboard - Open Source Bootstrap 5 Material Design Admin
 - [prometheus/docs](https://github.com/prometheus/docs) - Prometheus documentation: content and static site generator
 - [jessepollak/card](https://github.com/jessepollak/card) - :credit_card: make your credit card form better in one line of code
 - [OfficeDev/office-ui-fabric-core](https://github.com/OfficeDev/office-ui-fabric-core) - The front-end CSS framework for building experiences for Office and Microsoft 365.
@@ -13926,7 +13925,7 @@
 - [vue-styleguidist/vue-styleguidist](https://github.com/vue-styleguidist/vue-styleguidist) - Created from react styleguidist for Vue Components with a living style guide
 - [doodyparizada/word2vec-spam-filter](https://github.com/doodyparizada/word2vec-spam-filter) - Using word vectors to classify spam messages
 - [prettier/prettier-vscode](https://github.com/prettier/prettier-vscode) - Visual Studio Code extension for Prettier
-- [snyk/snyk](https://github.com/snyk/snyk) - Snyk CLI scans and monitors your projects for security vulnerabilities.
+- [snyk/cli](https://github.com/snyk/cli) - Snyk CLI scans and monitors your projects for security vulnerabilities.
 - [jaredpalmer/after.js](https://github.com/jaredpalmer/after.js) - Next.js-like framework for server-rendered React apps built with React Router
 - [PaddlePaddle/VisualDL](https://github.com/PaddlePaddle/VisualDL) - Deep Learning Visualization Toolkit（『飞桨』深度学习可视化工具 ）
 - [nhn/tui.editor](https://github.com/nhn/tui.editor) - 🍞📝 Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.
