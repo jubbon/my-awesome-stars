@@ -1600,6 +1600,7 @@
 - [valyala/fasthttp](https://github.com/valyala/fasthttp) - Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http
 - [vitessio/vitess](https://github.com/vitessio/vitess) - Vitess is a database clustering system for horizontal scaling of MySQL.
 - [kedacore/keda](https://github.com/kedacore/keda) - KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes
+- [hyperledger/fabric-samples](https://github.com/hyperledger/fabric-samples) - 
 - [housepower/clickhouse_sinker](https://github.com/housepower/clickhouse_sinker) - Easily load data  from kafka to ClickHouse
 - [milvus-io/milvus](https://github.com/milvus-io/milvus) - An open-source vector database for scalable similarity search and AI applications.
 - [go-pg/pg](https://github.com/go-pg/pg) - Golang ORM with focus on PostgreSQL features and performance
@@ -2973,7 +2974,6 @@
 - [alyssaxuu/flowy](https://github.com/alyssaxuu/flowy) - The minimal javascript library to create flowcharts ✨
 - [sap-tutorials/Tutorials](https://github.com/sap-tutorials/Tutorials) - Tutorials on sap.com
 - [eth0izzle/shhgit](https://github.com/eth0izzle/shhgit) - Ah shhgit! Find secrets in your code. Secrets detection for your GitHub, GitLab and Bitbucket repositories: www.shhgit.com
-- [hyperledger/fabric-samples](https://github.com/hyperledger/fabric-samples) - 
 - [menzi11/BullshitGenerator](https://github.com/menzi11/BullshitGenerator) - Needs to generate some texts to test if my GUI rendering codes good or not. so I made this.
 - [moment/moment-timezone](https://github.com/moment/moment-timezone) - Timezone support for moment.js
 - [WebDevSimplified/Face-Detection-JavaScript](https://github.com/WebDevSimplified/Face-Detection-JavaScript) - 
@@ -4506,6 +4506,7 @@
 - [PradyumnaKrishna/Colab-Hacks](https://github.com/PradyumnaKrishna/Colab-Hacks) - Simple Hacks for Google Colaboratory to boost your productivity and help you to perform daily tasks.
 - [jeonsworld/ViT-pytorch](https://github.com/jeonsworld/ViT-pytorch) - Pytorch reimplementation of the Vision Transformer (An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale)
 - [khanhnamle1994/cracking-the-data-science-interview](https://github.com/khanhnamle1994/cracking-the-data-science-interview) - A Collection of Cheatsheets, Books, Questions, and Portfolio For DS/ML Interview Prep
+- [microsoft/FLAML](https://github.com/microsoft/FLAML) - A fast library for AutoML and tuning.
 - [The-AI-Summer/Deep-Learning-In-Production](https://github.com/The-AI-Summer/Deep-Learning-In-Production) - Build, train, deploy, scale and maintain deep learning models. Understand ML infrastructure and MLOps using hands-on examples.
 - [uberduck-ai/uberduck-ml-dev](https://github.com/uberduck-ai/uberduck-ml-dev) - ML models for Uberduck
 - [milaan9/Python_Decision_Tree_and_Random_Forest](https://github.com/milaan9/Python_Decision_Tree_and_Random_Forest) - I've demonstrated the working of the decision tree-based ID3 algorithm. Use an appropriate data set for building the decision tree and apply this knowledge to classify a new sample. All the steps have been explained in detail with graphics for better understanding.
@@ -7141,7 +7142,6 @@
 - [neuralchen/SimSwap](https://github.com/neuralchen/SimSwap) - An arbitrary face-swapping framework on images and videos with one single trained model!
 - [jasonreisman/Timeline](https://github.com/jasonreisman/Timeline) - A tool for creating SVG timelines from simple JSON input.
 - [activeloopai/Hub](https://github.com/activeloopai/Hub) - Dataset format for AI. Build, manage, query & visualize datasets for deep learning. Stream data real-time to PyTorch/TensorFlow & version-control it. https://activeloop.ai
-- [microsoft/FLAML](https://github.com/microsoft/FLAML) - A fast library for AutoML and tuning.
 - [murraylab/PsychRNN](https://github.com/murraylab/PsychRNN) - 
 - [ISGNeuroTeam/CoAuthor](https://github.com/ISGNeuroTeam/CoAuthor) - NLP project that works with news (NER, context generation, news trend analytics)
 - [pengzhiliang/MAE-pytorch](https://github.com/pengzhiliang/MAE-pytorch) - Unofficial PyTorch implementation of Masked Autoencoders Are Scalable Vision Learners
