@@ -171,6 +171,7 @@
 - [cesanta/mongoose](https://github.com/cesanta/mongoose) - Embedded Web Server
 - [unicorn-engine/unicorn](https://github.com/unicorn-engine/unicorn) - Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, PowerPC, RiscV, S390x, X86)
 - [bvschaik/julius](https://github.com/bvschaik/julius) - An open source re-implementation of Caesar III
+- [Inori/GPCS4](https://github.com/Inori/GPCS4) - A Playstation 4 emulator just begin
 - [libretro/RetroArch](https://github.com/libretro/RetroArch) - Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.
 - [pawelsalawa/sqlitestudio](https://github.com/pawelsalawa/sqlitestudio) - A free, open source, multi-platform SQLite database manager.
 - [openzfs/zfs](https://github.com/openzfs/zfs) - OpenZFS on Linux and FreeBSD
@@ -568,7 +569,6 @@
 - [MADEAPPS/newton-dynamics](https://github.com/MADEAPPS/newton-dynamics) - Newton Dynamics is an integrated solution for real time simulation of physics environments.
 - [TigerVNC/tigervnc](https://github.com/TigerVNC/tigervnc) - High performance, multi-platform VNC client and server
 - [opencv/opencv_contrib](https://github.com/opencv/opencv_contrib) - Repository for OpenCV's extra modules
-- [Inori/GPCS4](https://github.com/Inori/GPCS4) - A Playstation 4 emulator just begin
 - [rpng/open_vins](https://github.com/rpng/open_vins) - An open source platform for visual-inertial navigation research.
 - [skriegman/reconfigurable_organisms](https://github.com/skriegman/reconfigurable_organisms) - A scalable pipeline for designing reconfigurable organisms
 - [loco-3d/crocoddyl](https://github.com/loco-3d/crocoddyl) - Crocoddyl is an optimal control library for robot control under contact sequence. Its solver is based on various efficient Differential Dynamic Programming (DDP)-like algorithms
@@ -1741,7 +1741,7 @@
 - [uber-go/zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go.
 - [benhoyt/goawk](https://github.com/benhoyt/goawk) - A POSIX-compliant AWK interpreter written in Go
 - [OpenObservability/OpenMetrics](https://github.com/OpenObservability/OpenMetrics) - Evolving the Prometheus exposition format into a standard.
-- [Jeffail/benthos](https://github.com/Jeffail/benthos) - Fancy stream processing made operationally mundane
+- [benthosdev/benthos](https://github.com/benthosdev/benthos) - Fancy stream processing made operationally mundane
 - [MichaelMure/git-bug](https://github.com/MichaelMure/git-bug) - Distributed, offline-first bug tracker embedded in git, with bridges
 - [douban/gobeansdb](https://github.com/douban/gobeansdb) - Distributed object storage server from Douban Inc.
 - [runatlantis/atlantis](https://github.com/runatlantis/atlantis) - Terraform Pull Request Automation
@@ -4672,7 +4672,7 @@
 - [KeithGalli/Pandas-Data-Science-Tasks](https://github.com/KeithGalli/Pandas-Data-Science-Tasks) - Set of real world data science tasks completed using the Python Pandas library
 - [jcl5m1/ventilator](https://github.com/jcl5m1/ventilator) - Low-Cost Open Source Ventilator or PAPR
 - [PacktWorkshops/The-Python-Workshop](https://github.com/PacktWorkshops/The-Python-Workshop) - A New, Interactive Approach to Learning Python
-- [microsoft/Reactors](https://github.com/microsoft/Reactors) - Content for Microsoft Reactor Workshops
+- [microsoft/Reactors](https://github.com/microsoft/Reactors) - 🌱 Whether you’re building your career or the next great idea, Microsoft Reactor connects you with the developers and startups that share your goals. Learn new skills, meet new peers, and find career mentorship. Virtual events are running around the clock so join us anytime, anywhere!
 - [Samsung-IT-Academy/stepik-dl-nlp](https://github.com/Samsung-IT-Academy/stepik-dl-nlp) - Материалы мини-курса на Stepik "Нейронные сети и обработка текста"
 - [bloc97/Anime4K](https://github.com/bloc97/Anime4K) - A High-Quality Real Time Upscaler for Anime Video
 - [analytics-club-iitm/weekly-sessions](https://github.com/analytics-club-iitm/weekly-sessions) - 
@@ -8306,6 +8306,7 @@
 - [akanimax/BMSG-GAN](https://github.com/akanimax/BMSG-GAN) - [MSG-GAN] Any body can GAN! Highly stable and robust architecture. Requires little to no hyperparameter tuning. Pytorch Implementation
 - [SoftwareGift/FeatherNets_Face-Anti-spoofing-Attack-Detection-Challenge-CVPR2019](https://github.com/SoftwareGift/FeatherNets_Face-Anti-spoofing-Attack-Detection-Challenge-CVPR2019) - Code for 3rd Place Solution in Face Anti-spoofing Attack Detection Challenge @ CVPR2019,model only 0.35M!!! 1.88ms(CPU)
 - [lyft/cartography](https://github.com/lyft/cartography) - Cartography is a Python tool that consolidates infrastructure assets and the relationships between them in an intuitive graph view powered by a Neo4j database.
+- [microsoft/pyright](https://github.com/microsoft/pyright) - Static type checker for Python
 - [minimaxir/automl-gs](https://github.com/minimaxir/automl-gs) - Provide an input CSV and a target field to predict, generate a model + code to run it.
 - [OpenDroneMap/ODM](https://github.com/OpenDroneMap/ODM) - A command line toolkit to generate maps, point clouds, 3D models and DEMs from drone, balloon or kite images. 📷
 - [google/pytype](https://github.com/google/pytype) - A static type analyzer for Python code
@@ -11082,7 +11083,7 @@
 - [lord63/py-spin](https://github.com/lord63/py-spin) - Terminal spinner package for Python. (This library is not the one from FLIR)
 - [v1k45/django-notify-x](https://github.com/v1k45/django-notify-x) - Notification system for Django
 - [JaredMHall/reline](https://github.com/JaredMHall/reline) - Python CLI tool to reformat a text into a specified number of words per line/characters per line.
-- [dddomodossola/remi](https://github.com/dddomodossola/remi) - Python REMote Interface library. Platform independent. In about 100 Kbytes, perfect for your diet.
+- [rawpython/remi](https://github.com/rawpython/remi) - Python REMote Interface library. Platform independent. In about 100 Kbytes, perfect for your diet.
 - [aantonop/wifiportal21](https://github.com/aantonop/wifiportal21) - A bitcoin-payable wifi captive portal
 - [arrayfire/arrayfire-python](https://github.com/arrayfire/arrayfire-python) - Python bindings for ArrayFire: A general purpose GPU library.
 - [leerob/Guesstimator](https://github.com/leerob/Guesstimator) - 🍻Uses Google, Yelp, and Foursquare APIs to retrieve and rank bars
@@ -13802,7 +13803,6 @@
 - [aerogear/offix](https://github.com/aerogear/offix) - GraphQL Offline Client and Server
 - [GoogleCloudPlatform/functions-framework-nodejs](https://github.com/GoogleCloudPlatform/functions-framework-nodejs) - FaaS (Function as a service) framework for writing portable Node.js functions
 - [Tonejs/Tone.js](https://github.com/Tonejs/Tone.js) - A Web Audio framework for making interactive music in the browser.
-- [microsoft/pyright](https://github.com/microsoft/pyright) - Static type checker for Python
 - [Authman2/Mosaic](https://github.com/Authman2/Mosaic) - 🎨 A front-end JavaScript library for building user interfaces!
 - [sindresorhus/type-fest](https://github.com/sindresorhus/type-fest) - A collection of essential TypeScript types
 - [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
