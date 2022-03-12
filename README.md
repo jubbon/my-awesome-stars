@@ -966,6 +966,7 @@
 - [falcosecurity/falco](https://github.com/falcosecurity/falco) - Cloud Native Runtime Security
 - [sqlitebrowser/sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at:
 - [amazon-archives/amazon-dsstne](https://github.com/amazon-archives/amazon-dsstne) - Deep Scalable Sparse Tensor Network Engine (DSSTNE) is an Amazon developed library for building Deep Learning (DL) machine learning (ML) models
+- [DrKLO/Telegram](https://github.com/DrKLO/Telegram) - Telegram for Android source
 - [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
 - [haptork/easyLambda](https://github.com/haptork/easyLambda) - distributed dataflows with functional list operations for data processing with C++14
 - [moderngpu/moderngpu](https://github.com/moderngpu/moderngpu) - Patterns and behaviors for GPU computing
@@ -2227,6 +2228,7 @@
 
 ## HTML 
 
+- [UMich-CURLY-teaching/UMich-ROB-530-public](https://github.com/UMich-CURLY-teaching/UMich-ROB-530-public) - UMich 500-Level Mobile Robotics Course
 - [SciML/SciMLBook](https://github.com/SciML/SciMLBook) - Parallel Computing and Scientific Machine Learning (SciML): Methods and Applications (MIT 18.337J/6.338J)
 - [randyzwitch/streamlit-folium](https://github.com/randyzwitch/streamlit-folium) - Streamlit Component for rendering Folium maps
 - [discobot/ml-handbook](https://github.com/discobot/ml-handbook) - draft of ml handbook for ysda
@@ -2859,7 +2861,6 @@
 - [gshevtsov/TroikaDumper](https://github.com/gshevtsov/TroikaDumper) - Дампер и парсер памяти карты Тройка
 - [apache/incubator-heron](https://github.com/apache/incubator-heron) - Apache Heron (Incubating) is a realtime, distributed, fault-tolerant stream processing engine from Twitter
 - [orientechnologies/orientdb](https://github.com/orientechnologies/orientdb) - OrientDB is the most versatile DBMS supporting Graph, Document, Reactive, Full-Text and Geospatial models in one Multi-Model product. OrientDB can run distributed (Multi-Master), supports SQL, ACID Transactions, Full-Text indexing and Reactive Queries.
-- [DrKLO/Telegram](https://github.com/DrKLO/Telegram) - Telegram for Android source
 - [google/gson](https://github.com/google/gson) - A Java serialization/deserialization library to convert Java Objects into JSON and back
 - [sublimehq/Packages](https://github.com/sublimehq/Packages) - 
 - [apache/flink](https://github.com/apache/flink) - Apache Flink
@@ -3542,7 +3543,6 @@
 - [SeregPie/VueStorage](https://github.com/SeregPie/VueStorage) - Allows the components to save and load their data across the browser sessions.
 - [jofftiquez/v-img-fallback](https://github.com/jofftiquez/v-img-fallback) - Vue Image Fallback
 - [bliblidotcom/vue-rangedate-picker](https://github.com/bliblidotcom/vue-rangedate-picker) - Range date picker with simple usage
-- [shentao/vue-global-events](https://github.com/shentao/vue-global-events) - ⌨️ Register global events as a component
 - [vouill/vuex-api](https://github.com/vouill/vuex-api) - Deprecated - Effortlessly handle api calls with vuex without repeating yourself.
 - [hjkcai/vue-modal-dialogs](https://github.com/hjkcai/vue-modal-dialogs) - Promisify dialogs in Vue!
 - [skadimoolam/vue-podcast-player](https://github.com/skadimoolam/vue-podcast-player) - Vue based simple podcast player
@@ -4466,7 +4466,6 @@
 - [krishnaik06/5-Days-Live-EDA-and-Feature-Engineering](https://github.com/krishnaik06/5-Days-Live-EDA-and-Feature-Engineering) - 
 - [algorithmica-org/algorithmica](https://github.com/algorithmica-org/algorithmica) - New version of the website
 - [VSainteuf/pastis-benchmark](https://github.com/VSainteuf/pastis-benchmark) - 
-- [UMich-CURLY-teaching/UMich-ROB-530-public](https://github.com/UMich-CURLY-teaching/UMich-ROB-530-public) - UMich 500-Level Mobile Robotics Course
 - [txoof/epd_display](https://github.com/txoof/epd_display) - E Paper Display Loop
 - [rolling-scopes-school/ml-intro](https://github.com/rolling-scopes-school/ml-intro) - RS School Machine Learning course
 - [rasbt/machine-learning-book](https://github.com/rasbt/machine-learning-book) - Code Repository for Machine Learning with PyTorch and Scikit-Learn
@@ -13923,6 +13922,7 @@
 - [formschema/native](https://github.com/formschema/native) - Generate a form using JSON Schema and Vue.js
 - [ducksoupdev/vue-webpack-typescript](https://github.com/ducksoupdev/vue-webpack-typescript) - A Vue, Webpack, Typescript, Bootstrap setup with hot reload, dynamic imports, unit testing, code coverage, sass, uncss and bundling/minification.
 - [vue-styleguidist/vue-styleguidist](https://github.com/vue-styleguidist/vue-styleguidist) - Created from react styleguidist for Vue Components with a living style guide
+- [shentao/vue-global-events](https://github.com/shentao/vue-global-events) - ⌨️ Register global events as a component
 - [doodyparizada/word2vec-spam-filter](https://github.com/doodyparizada/word2vec-spam-filter) - Using word vectors to classify spam messages
 - [prettier/prettier-vscode](https://github.com/prettier/prettier-vscode) - Visual Studio Code extension for Prettier
 - [snyk/cli](https://github.com/snyk/cli) - Snyk CLI scans and monitors your projects for security vulnerabilities.
