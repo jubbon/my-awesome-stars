@@ -614,7 +614,6 @@
 - [taskflow/taskflow](https://github.com/taskflow/taskflow) - A General-purpose Parallel and Heterogeneous Task Programming System
 - [VKCOM/YouTokenToMe](https://github.com/VKCOM/YouTokenToMe) - Unsupervised text tokenizer focused on computational efficiency
 - [griddb/griddb](https://github.com/griddb/griddb) - GridDB is a next-generation open source database that makes time series IoT and big data fast,and easy.
-- [triton-inference-server/server](https://github.com/triton-inference-server/server) - The Triton Inference Server provides an optimized cloud and edge inferencing solution.
 - [taichi-dev/taichi](https://github.com/taichi-dev/taichi) - Productive & portable high-performance programming in Python.
 - [hellochick/FICM](https://github.com/hellochick/FICM) - :video_game: [IJCAI'20][ICLR'19 Workshop] Flow-based Intrinsic Curiosity Module. Playing SuperMario with RL agent and FICM!
 - [gibsjose/cpp-cheat-sheet](https://github.com/gibsjose/cpp-cheat-sheet) - C++ Syntax, Data Structures, and Algorithms Cheat Sheet
@@ -4460,6 +4459,7 @@
 - [csinva/imodels](https://github.com/csinva/imodels) - Interpretable ML package 🔍 for concise, transparent, and accurate predictive modeling (sklearn-compatible).
 - [ageron/handson-ml3](https://github.com/ageron/handson-ml3) - A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.
 - [huggingface/education-toolkit](https://github.com/huggingface/education-toolkit) - Educational materials for universities
+- [sberdevices/qtacotron](https://github.com/sberdevices/qtacotron) - Tacotron 2 - PyTorch implementation with faster-than-realtime inference
 - [krishnaik06/5-Days-Live-EDA-and-Feature-Engineering](https://github.com/krishnaik06/5-Days-Live-EDA-and-Feature-Engineering) - 
 - [algorithmica-org/algorithmica](https://github.com/algorithmica-org/algorithmica) - New version of the website
 - [VSainteuf/pastis-benchmark](https://github.com/VSainteuf/pastis-benchmark) - 
@@ -5671,7 +5671,6 @@
 - [frnsys/ai_notes](https://github.com/frnsys/ai_notes) - machine learning/artificial intelligence notes
 - [torch/tutorials](https://github.com/torch/tutorials) - A series of machine learning tutorials for Torch7
 - [microsoft/ProjectOxford-ClientSDK](https://github.com/microsoft/ProjectOxford-ClientSDK) - This repo has moved :house: Visit our website for the latest SDKs & Samples
-- [miptgirl/udacity_engagement_analysis](https://github.com/miptgirl/udacity_engagement_analysis) - Analysis of Udacity engagement data
 - [Lab41/sunny-side-up](https://github.com/Lab41/sunny-side-up) - Sentiment Analysis Challenge
 - [mGalarnyk/DSE210_Probability_Statistics_Python](https://github.com/mGalarnyk/DSE210_Probability_Statistics_Python) - Probability and Statistics Using Python Data Science Masters Course at UCSD (DSE 210)
 - [ebenolson/pydata2015](https://github.com/ebenolson/pydata2015) - 
@@ -5958,7 +5957,6 @@
 - [buildspace/buildspace-projects](https://github.com/buildspace/buildspace-projects) - The home of our open-source projects.
 - [bryanhpchiang/protocol-reading-list](https://github.com/bryanhpchiang/protocol-reading-list) - 
 - [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok alternatives and other ngrok-like tunneling software and services. Focus on self-hosting.
-- [sberdevices/qtacotron](https://github.com/sberdevices/qtacotron) - Tacotron 2 - PyTorch implementation with faster-than-realtime inference
 - [yanirs/established-remote](https://github.com/yanirs/established-remote) - A list of established remote companies
 - [christianversloot/machine-learning-articles](https://github.com/christianversloot/machine-learning-articles) - 🧠💬 Articles I wrote about machine learning, archived from MachineCurve.com.
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
@@ -7207,7 +7205,7 @@
 - [awslabs/speech-representations](https://github.com/awslabs/speech-representations) - Code for DeCoAR (ICASSP 2020) and BERTphone (Odyssey 2020)
 - [Alexander-H-Liu/End-to-end-ASR-Pytorch](https://github.com/Alexander-H-Liu/End-to-end-ASR-Pytorch) - This is an open source project (formerly named Listen, Attend and Spell - PyTorch Implementation) for end-to-end ASR implemented with Pytorch, the well known deep learning toolkit.
 - [facebookresearch/salina](https://github.com/facebookresearch/salina) - a Lightweight library for sequential learning agents, including reinforcement learning
-- [recognai/rubrix](https://github.com/recognai/rubrix) - ✨ Python framework for data-centric NLP
+- [recognai/rubrix](https://github.com/recognai/rubrix) - ✨ Rubrix, open-source framework for data-centric NLP. Data annotation and monitoring for enterprise NLP
 - [NVIDIA/Megatron-LM](https://github.com/NVIDIA/Megatron-LM) - Ongoing research training transformer models at scale
 - [dry-python/returns](https://github.com/dry-python/returns) - Make your functions return something meaningful, typed, and safe!
 - [laixintao/iredis](https://github.com/laixintao/iredis) - Interactive Redis: A Terminal Client for Redis with AutoCompletion and Syntax Highlighting.
@@ -8132,6 +8130,7 @@
 - [vpj/python_autocomplete](https://github.com/vpj/python_autocomplete) - A simple neural network for python autocompletion
 - [microsoft/MASS](https://github.com/microsoft/MASS) - MASS: Masked Sequence to Sequence Pre-training for Language Generation
 - [getsentry/sentry-python](https://github.com/getsentry/sentry-python) - The official Python SDK for Sentry.io
+- [triton-inference-server/server](https://github.com/triton-inference-server/server) - The Triton Inference Server provides an optimized cloud and edge inferencing solution.
 - [Trusted-AI/adversarial-robustness-toolbox](https://github.com/Trusted-AI/adversarial-robustness-toolbox) - Adversarial Robustness Toolbox (ART) - Python Library for Machine Learning Security - Evasion, Poisoning, Extraction, Inference - Red and Blue Teams
 - [Mjrovai/OpenCV-Face-Recognition](https://github.com/Mjrovai/OpenCV-Face-Recognition) - Real-time face recognition project with OpenCV and Python
 - [tensorpack/tensorpack](https://github.com/tensorpack/tensorpack) - A Neural Net Training Interface on TensorFlow, with focus on speed + flexibility
@@ -12983,7 +12982,7 @@
 - [areski/python-nvd3](https://github.com/areski/python-nvd3) - Python Wrapper for NVD3 - It's time for beautiful charts
 - [bryancatanzaro/copperhead](https://github.com/bryancatanzaro/copperhead) - Data Parallel Python
 - [skulpt/skulpt](https://github.com/skulpt/skulpt) - Skulpt is a Javascript implementation of the Python programming language
-- [falconry/falcon](https://github.com/falconry/falcon) - The no-nonsense REST API and microservices framework for Python developers, with a focus on reliability, correctness, and performance at scale.
+- [falconry/falcon](https://github.com/falconry/falcon) - The no-nonsense data plane REST API and microservices framework for Python developers, with a focus on reliability, correctness, and performance at scale.
 - [thomst/logscan](https://github.com/thomst/logscan) - logscan is a command-line-tool to get time-specific access to logfiles. It can handle rotated and gzipped logfiles or reads from stdin. The log   is automatically checked for different timecodes.
 - [thomst/timeparser](https://github.com/thomst/timeparser) - Parse strings to objects of the datetime-module.  This module intends to make string-parsing to objects of the datetime-module as easy as possible while allowing a fine configuration about which kind of formats are supported.
 - [thomst/timeparse](https://github.com/thomst/timeparse) - An argparse-extension for parsing command-line arguments as time-, date-, datetime-, or timedelta-objects.
@@ -13949,6 +13948,7 @@
 - [cs01/gdbgui](https://github.com/cs01/gdbgui) - Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will open in your browser.
 - [ant-design/ant-design-pro](https://github.com/ant-design/ant-design-pro) - 👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!
 - [Yoctol/bottender](https://github.com/Yoctol/bottender) - ⚡️ A framework for building conversational user interfaces.
+- [apertureless/vue-chartjs](https://github.com/apertureless/vue-chartjs) - 📊  Vue.js wrapper for Chart.js
 - [webhintio/hint](https://github.com/webhintio/hint) - 💡 A hinting engine for the web
 - [vuestorefront/vue-storefront](https://github.com/vuestorefront/vue-storefront) - The open-source frontend for any eCommerce. Built with a PWA and headless approach, using a modern JS stack. We have custom integrations with Magento, commercetools, Shopware and Shopify and total coverage is just a matter of time. The API approach also allows you to merge VSF with any third-party tool like CMS, payment gateways or analytics. Newest updates: https://blog.vuestorefront.io. Always Open Source, MIT license.
 - [clintonwoo/hackernews-react-graphql](https://github.com/clintonwoo/hackernews-react-graphql) - Hacker News clone rewritten with universal JavaScript, using React and GraphQL.
@@ -14370,7 +14370,6 @@
 - [egoist/aimer-deprecated](https://github.com/egoist/aimer-deprecated) - The UI Development Framework
 - [KamilOcean/vue-sticker](https://github.com/KamilOcean/vue-sticker) - Vue component, that helps to make sticky effects
 - [zircleUI/zircleUI](https://github.com/zircleUI/zircleUI) - 🚀 zircle-ui is a frontend library to develop zoomable user interfaces.
-- [apertureless/vue-chartjs](https://github.com/apertureless/vue-chartjs) - 📊  Vue.js wrapper for Chart.js
 - [framework7io/framework7-vue](https://github.com/framework7io/framework7-vue) - Deprecated! Build full featured iOS & Android apps using Framework7 & Vue
 - [ElemeFE/vue-swipe](https://github.com/ElemeFE/vue-swipe) - A touch slider for vue.js.
 - [phoenixwong/vue2-timepicker](https://github.com/phoenixwong/vue2-timepicker) - A dropdown time picker (hour|minute|second) for Vue 2.x, with flexible time format support
