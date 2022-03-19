@@ -715,7 +715,7 @@
 - [google/asylo](https://github.com/google/asylo) - An open and flexible framework for developing enclave applications
 - [pytorch/glow](https://github.com/pytorch/glow) - Compiler for Neural Network hardware accelerators
 - [apache/arrow](https://github.com/apache/arrow) - Apache Arrow is a multi-language toolbox for accelerated data interchange and in-memory processing
-- [Rock-100/FaceKit](https://github.com/Rock-100/FaceKit) - Implementations of PCN (an accurate real-time rotation-invariant face detector) and other face-related algorithms
+- [Rock-100/FaceKit](https://github.com/Rock-100/FaceKit) - [CVPR 2018] Real-Time Rotation-Invariant Face Detection with Progressive Calibration Networks
 - [changkun/modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial) - 📚 Modern C++ Tutorial: C++11/14/17/20 On the Fly | https://changkun.de/modern-cpp/
 - [apple/foundationdb](https://github.com/apple/foundationdb) - FoundationDB - the open source, distributed, transactional key-value store
 - [nucleic/kiwi](https://github.com/nucleic/kiwi) - Efficient C++ implementation of the Cassowary constraint solving algorithm
@@ -926,6 +926,7 @@
 - [seetaface/SeetaFaceEngine](https://github.com/seetaface/SeetaFaceEngine) - 
 - [nghttp2/nghttp2](https://github.com/nghttp2/nghttp2) - nghttp2 - HTTP/2 C Library and tools
 - [dmlc/nnvm](https://github.com/dmlc/nnvm) - 
+- [PaddlePaddle/Paddle](https://github.com/PaddlePaddle/Paddle) - PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）
 - [jarro2783/cxxopts](https://github.com/jarro2783/cxxopts) - Lightweight C++ command line option parser
 - [stagadish/NNplusplus](https://github.com/stagadish/NNplusplus) - A small and easy to use neural net implementation for C++. Just download and #include!
 - [jainaman224/Algo_Ds_Notes](https://github.com/jainaman224/Algo_Ds_Notes) - It is a repository that is a collection of algorithms and data structures with implementation in various languages.
@@ -2910,7 +2911,7 @@
 - [loopbackio/strong-soap](https://github.com/loopbackio/strong-soap) - SOAP driver for Node.js (A complete rewrite of node-soap)
 - [vpulim/node-soap](https://github.com/vpulim/node-soap) - A SOAP client and server for node.js.
 - [olivierloverde/minutes-of-javascript](https://github.com/olivierloverde/minutes-of-javascript) - ⭐ Collection of Javascript snippets to make you discover new exciting features, useful tips or anything that will give you a better understanding of the subtleties of JS.
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite is a secure end-to-end backend server for Web, Mobile, and Flutter developers that is packaged as a set of Docker containers for easy deployment 🚀
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Open-Source Backend Server for Web, Mobile & Flutter Developers 🚀
 - [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
 - [ines/juniper](https://github.com/ines/juniper) - 🍇 Edit and execute code snippets in the browser using Jupyter kernels
 - [wandb/gitbook](https://github.com/wandb/gitbook) - Documentation synced with GitBook. For all issues with the wandb library, please use https://github.com/wandb/client/issues
@@ -3756,6 +3757,7 @@
 - [evolus/pencil](https://github.com/evolus/pencil) - The Pencil Project's unique mission is to build a free and opensource tool for making diagrams and GUI prototyping that everyone can use.
 - [plasticine/inject-loader](https://github.com/plasticine/inject-loader) - 💉📦 A Webpack loader for injecting code into modules via their dependencies.
 - [vuejs/vueify](https://github.com/vuejs/vueify) - Browserify transform for single-file Vue components
+- [surmon-china/vue-awesome-swiper](https://github.com/surmon-china/vue-awesome-swiper) - 🏆 Swiper component for @vuejs
 - [paulsonnentag/swip](https://github.com/paulsonnentag/swip) - a library to create multi device experiments
 - [patrickmoffitt/python-example](https://github.com/patrickmoffitt/python-example) - How to Build an Electron GUI for a Python Module
 - [damianavila/RISE](https://github.com/damianavila/RISE) - RISE: "Live" Reveal.js Jupyter/IPython Slideshow Extension
@@ -10519,7 +10521,6 @@
 - [reorx/httpstat](https://github.com/reorx/httpstat) - curl statistics made simple
 - [mozilla/http-observatory](https://github.com/mozilla/http-observatory) - Mozilla HTTP Observatory
 - [jlsutherland/doc2text](https://github.com/jlsutherland/doc2text) - Detect text blocks and OCR poorly scanned PDFs in bulk. Python module available via pip.
-- [PaddlePaddle/Paddle](https://github.com/PaddlePaddle/Paddle) - PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）
 - [david-gpu/srez](https://github.com/david-gpu/srez) - Image super-resolution through deep learning
 - [pfalcon/picotui](https://github.com/pfalcon/picotui) - Lightweight, pure-Python Text User Interface (TUI) widget toolkit with minimal dependencies. Dedicated to the Pycopy project.
 - [dschep/ntfy](https://github.com/dschep/ntfy) - 🖥️📱🔔 A utility for sending notifications, on demand and when commands finish.
@@ -13974,7 +13975,6 @@
 - [howtographql/howtographql](https://github.com/howtographql/howtographql) - The Fullstack Tutorial for GraphQL
 - [apollographql/apollo-fetch](https://github.com/apollographql/apollo-fetch) - :dog: Lightweight GraphQL client that supports middleware and afterware
 - [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
-- [surmon-china/vue-awesome-swiper](https://github.com/surmon-china/vue-awesome-swiper) - 🏆 Swiper component for @vuejs
 - [brakmic/BlockchainStore](https://github.com/brakmic/BlockchainStore) - :moneybag: Retail Store that runs on Ethereum
 - [vue-typed/vue-typed](https://github.com/vue-typed/vue-typed) - Sets of ECMAScript / Typescript decorators that helps you write Vue component easily.
 - [naver/billboard.js](https://github.com/naver/billboard.js) - :bar_chart: Re-usable, easy interface JavaScript chart library based on D3.js
