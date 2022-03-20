@@ -2074,7 +2074,7 @@
 - [myntra/pipeline](https://github.com/myntra/pipeline) - Pipeline is a package to build multi-staged concurrent workflows with a centralized logging output.
 - [imroc/req](https://github.com/imroc/req) - Simple Go HTTP client with Black Magic
 - [txthinking/brook](https://github.com/txthinking/brook) - Brook is a cross-platform strong encryption and not detectable proxy. Zero-Configuration. Brook 是一个跨平台的强加密无特征的代理软件. 零配置.
-- [gokrazy/gokrazy](https://github.com/gokrazy/gokrazy) - a native Go userland for your Raspberry Pi 3 or 4 appliances (or amd64 PCs!)
+- [gokrazy/gokrazy](https://github.com/gokrazy/gokrazy) - turn your Go program(s) into an appliance running on the Raspberry Pi 3 or 4 (or on amd64 PCs!)
 - [ory/ladon](https://github.com/ory/ladon) - A SDK for access control policies: authorization for the microservice and IoT age. Inspired by AWS IAM policies. Written for Go.
 - [fd0/machma](https://github.com/fd0/machma) - Easy parallel execution of commands with live feedback
 - [knqyf263/pet](https://github.com/knqyf263/pet) - Simple command-line snippet manager, written in Go.
@@ -2900,6 +2900,8 @@
 
 ## JavaScript 
 
+- [QuantStack/leaflet-splitmap](https://github.com/QuantStack/leaflet-splitmap) - A Leaflet control to compare two map layers
+- [QuantStack/jupyterlab-drawio](https://github.com/QuantStack/jupyterlab-drawio) - A standalone embedding of the FOSS drawio / mxgraph package into jupyterlab
 - [jperelli/osm-static-maps](https://github.com/jperelli/osm-static-maps) - Openstreetmap static maps is a nodejs lib, CLI and server open source inspired on google static map service
 - [symblai/speech-recognition-evaluation](https://github.com/symblai/speech-recognition-evaluation) - Evaluate results from ASR/Speech-to-Text quickly
 - [google/videotts](https://github.com/google/videotts) - 
@@ -4458,6 +4460,14 @@
 
 ## Jupyter Notebook 
 
+- [Vinohith/Self_Driving_Car_specialization](https://github.com/Vinohith/Self_Driving_Car_specialization) - Assignments and notes for the Self Driving Cars course offered by University of Toronto on Coursera
+- [Niketkumardheeryan/ML-CaPsule](https://github.com/Niketkumardheeryan/ML-CaPsule) - ML-capsule is a Project for beginners and experienced data science Enthusiasts who don't have a mentor or guidance and wish to learn Machine learning. Using our repo they can learn ML, DL, and many related technologies with different real-world projects and become Interview ready.
+- [nicknochnack/RealTimeObjectDetection](https://github.com/nicknochnack/RealTimeObjectDetection) - 
+- [launchcode01dl/mathematics-for-machine-learning-coursera](https://github.com/launchcode01dl/mathematics-for-machine-learning-coursera) - quizzes/assignments for mathematics for machine learning specialization on coursera
+- [krishnaik06/Live-Time-Series](https://github.com/krishnaik06/Live-Time-Series) - 
+- [karpathy/lecun1989-repro](https://github.com/karpathy/lecun1989-repro) - Reproducing Yann LeCun 1989 paper "Backpropagation Applied to Handwritten Zip Code Recognition", to my knowledge the earliest real-world application of a neural net trained with backpropagation.
+- [clam004/intro_continual_learning](https://github.com/clam004/intro_continual_learning) - This is a tutorial to connect the fundamental mathematics to a practical implementation addressing the continual learning problem of artificial intelligence
+- [cerlymarco/MEDIUM_NoteBook](https://github.com/cerlymarco/MEDIUM_NoteBook) - Repository containing notebooks of my posts on Medium
 - [csinva/imodels](https://github.com/csinva/imodels) - Interpretable ML package 🔍 for concise, transparent, and accurate predictive modeling (sklearn-compatible).
 - [ageron/handson-ml3](https://github.com/ageron/handson-ml3) - A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.
 - [huggingface/education-toolkit](https://github.com/huggingface/education-toolkit) - Educational materials for universities
@@ -5943,6 +5953,36 @@
 
 ## Others 
 
+- [ventali/awesome-zk](https://github.com/ventali/awesome-zk) - A curated list of awesome ZK resources, libraries, tools and more.
+- [riti2409/Resources_for_Web_Development](https://github.com/riti2409/Resources_for_Web_Development) - All resources for web development
+- [protofire/blockchain-learning-path](https://github.com/protofire/blockchain-learning-path) - A suggested learning path for blockchain development
+- [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) - A curated list of awesome articles, videos, and other resources to learn and practice about software architecture, patterns, and principles.
+- [matiassingers/awesome-readme](https://github.com/matiassingers/awesome-readme) - A curated list of awesome READMEs
+- [kleiton0x00/Advanced-SQL-Injection-Cheatsheet](https://github.com/kleiton0x00/Advanced-SQL-Injection-Cheatsheet) - A cheat sheet that contains advanced queries for SQL Injection of all types.
+- [JuanCrg90/Clean-Code-Notes](https://github.com/JuanCrg90/Clean-Code-Notes) - My notes of Clean Code book
+- [JetBrains/intellij-community](https://github.com/JetBrains/intellij-community) - IntelliJ IDEA Community Edition & IntelliJ Platform
+- [IDEACVR/DINO](https://github.com/IDEACVR/DINO) - Official implementation of the paper "DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection"
+- [IDEACVR/awesome-detection-transformer](https://github.com/IDEACVR/awesome-detection-transformer) - Collect some papers about transformer for detection and segmentation. Awesome Detection Transformer for Computer Vision (CV)
+- [HHHMHA/django-roadmap](https://github.com/HHHMHA/django-roadmap) - A complete roadmap for learning django backend
+- [heidihoward/distributed-consensus-reading-list](https://github.com/heidihoward/distributed-consensus-reading-list) - A list of papers about distributed consensus.
+- [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) - 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
+- [github/advisory-database](https://github.com/github/advisory-database) - Security vulnerability database inclusive of CVEs and GitHub originated security advisories from the world of open source software.
+- [gayanvoice/top-github-users](https://github.com/gayanvoice/top-github-users) - Check your ranking in GitHub! Don't forget to star ⭐ this repository.
+- [gaurangsaini/sipser-computation-3rd-solutions](https://github.com/gaurangsaini/sipser-computation-3rd-solutions) - Solutions to all questions of the book Introduction to the Theory of Computation, 3rd edition by Michael Sipser
+- [deepa314/JAVASCRIPT_NOTES](https://github.com/deepa314/JAVASCRIPT_NOTES) - JAVASCRIPT NOTES SHORT AND UNDERSTANDABLE
+- [dcbuild3r/blockchain-development-guide](https://github.com/dcbuild3r/blockchain-development-guide) - Devpill.me - A Public Good Blockchain Development Guide
+- [danieldurnea/FBI-tools](https://github.com/danieldurnea/FBI-tools) - Tools for gathering information and actions forensic
+- [dair-ai/ML-YouTube-Courses](https://github.com/dair-ai/ML-YouTube-Courses) - 📺  A repository to index and organize the latest machine learning courses found on YouTube.
+- [dair-ai/ml-visuals](https://github.com/dair-ai/ml-visuals) - 🎨 ML Visuals contains figures and templates which you can reuse and customize to improve your scientific writing.
+- [cyprosecurity/API-SecurityEmpire](https://github.com/cyprosecurity/API-SecurityEmpire) - API Security Project aims to present unique attack & defense methods in API Security field
+- [codez0mb1e/resistance](https://github.com/codez0mb1e/resistance) - Pre-crisis Risk Management for Personal Finance
+- [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr) - 
+- [cider-security-research/top-10-cicd-security-risks](https://github.com/cider-security-research/top-10-cicd-security-risks) - 
+- [bromite/bromite](https://github.com/bromite/bromite) - Bromite a Chromium fork with ad blocking and privacy enhancements; take back your browser!
+- [apptension/developer-handbook](https://github.com/apptension/developer-handbook) - An opinionated guide on how to become a professional Web/Mobile App Developer.
+- [antfu/vscode-settings](https://github.com/antfu/vscode-settings) - My VS Code settings and extensions
+- [Akshaya-Amar/Free-Programming-Books](https://github.com/Akshaya-Amar/Free-Programming-Books) - Free Programming eBooks
+- [6mile/DevSecOps-Playbook](https://github.com/6mile/DevSecOps-Playbook) - 
 - [omnia-russica/omnia-russica.github.io](https://github.com/omnia-russica/omnia-russica.github.io) - corpus project website
 - [omnia-russica/pipeline](https://github.com/omnia-russica/pipeline) - text processing scripts
 - [Atmyre/it-job-search](https://github.com/Atmyre/it-job-search) - 
@@ -8061,7 +8101,7 @@
 - [spragunr/deep_q_rl](https://github.com/spragunr/deep_q_rl) - Theano-based implementation of Deep Q-learning
 - [corywalker/deep_q_rl](https://github.com/corywalker/deep_q_rl) - Theano-based implementation of Deep Q-learning
 - [kakao/buffalo](https://github.com/kakao/buffalo) - TOROS Buffalo: A fast and scalable production-ready open source project for recommender systems
-- [open-mmlab/mmediting](https://github.com/open-mmlab/mmediting) - OpenMMLab Image and Video Editing Toolbox
+- [open-mmlab/mmediting](https://github.com/open-mmlab/mmediting) - MMEditing is a low-level vision toolbox based on PyTorch, supporting super-resolution, inpainting, matting, video interpolation, etc.
 - [timothycrosley/portray](https://github.com/timothycrosley/portray) - Your Project with Great Documentation.
 - [davidchua/pymessenger](https://github.com/davidchua/pymessenger) - A Python Wrapper for the FB Messenger Bot API (Send/Receive API)
 - [tcstewar/ccmsuite](https://github.com/tcstewar/ccmsuite) - Python cognitive modelling suite
