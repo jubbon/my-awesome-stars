@@ -503,6 +503,7 @@
 
 ## C++ 
 
+- [open-mmlab/mmdeploy](https://github.com/open-mmlab/mmdeploy) - OpenMMLab Model Deployment Framework
 - [anyks/alm](https://github.com/anyks/alm) - Smart Language Model
 - [vchahun/kenlm](https://github.com/vchahun/kenlm) - KenLM: Faster and Smaller Language Model Queries
 - [triton-inference-server/backend](https://github.com/triton-inference-server/backend) - Common source, scripts and utilities for creating Triton backends.
@@ -1581,7 +1582,7 @@
 - [cucumber/godog](https://github.com/cucumber/godog) - Cucumber for golang
 - [99designs/aws-vault](https://github.com/99designs/aws-vault) - A vault for securely storing and accessing AWS credentials in development environments
 - [xanzy/go-gitlab](https://github.com/xanzy/go-gitlab) - GitLab Go SDK
-- [micro/micro](https://github.com/micro/micro) - API first development platform
+- [micro/micro](https://github.com/micro/micro) - API first cloud platform
 - [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub API
 - [slackhq/nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
 - [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
@@ -4460,6 +4461,8 @@
 
 ## Jupyter Notebook 
 
+- [Nyandwi/ModernConvNets](https://github.com/Nyandwi/ModernConvNets) - Revisions and implementations of modern Convolutional Neural Networks architectures in TensorFlow and Keras
+- [LyWangPX/Reinforcement-Learning-2nd-Edition-by-Sutton-Exercise-Solutions](https://github.com/LyWangPX/Reinforcement-Learning-2nd-Edition-by-Sutton-Exercise-Solutions) - Solutions of Reinforcement Learning, An Introduction
 - [Vinohith/Self_Driving_Car_specialization](https://github.com/Vinohith/Self_Driving_Car_specialization) - Assignments and notes for the Self Driving Cars course offered by University of Toronto on Coursera
 - [Niketkumardheeryan/ML-CaPsule](https://github.com/Niketkumardheeryan/ML-CaPsule) - ML-capsule is a Project for beginners and experienced data science Enthusiasts who don't have a mentor or guidance and wish to learn Machine learning. Using our repo they can learn ML, DL, and many related technologies with different real-world projects and become Interview ready.
 - [nicknochnack/RealTimeObjectDetection](https://github.com/nicknochnack/RealTimeObjectDetection) - 
@@ -5953,6 +5956,9 @@
 
 ## Others 
 
+- [stravnik/toxic-repos](https://github.com/stravnik/toxic-repos) - 
+- [krishnadey30/LeetCode-Questions-CompanyWise](https://github.com/krishnadey30/LeetCode-Questions-CompanyWise) - Contains Company Wise Questions sorted based on Frequency and all time
+- [dair-ai/ML-Course-Notes](https://github.com/dair-ai/ML-Course-Notes) - 🎓 Sharing course notes on all topics related to machine learning, NLP, and AI
 - [ventali/awesome-zk](https://github.com/ventali/awesome-zk) - A curated list of awesome ZK resources, libraries, tools and more.
 - [riti2409/Resources_for_Web_Development](https://github.com/riti2409/Resources_for_Web_Development) - All resources for web development
 - [protofire/blockchain-learning-path](https://github.com/protofire/blockchain-learning-path) - A suggested learning path for blockchain development
@@ -7098,6 +7104,31 @@
 
 ## Python 
 
+- [YuliangXiu/ICON](https://github.com/YuliangXiu/ICON) - ICON: Implicit Clothed humans Obtained from Normals (CVPR 2022)
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
+- [VHellendoorn/Code-LMs](https://github.com/VHellendoorn/Code-LMs) - Guide to using pre-trained large language models of source code
+- [ultrafunkamsterdam/undetected-chromedriver](https://github.com/ultrafunkamsterdam/undetected-chromedriver) - Custom Selenium Chromedriver | Zero-Config | Passes ALL bot mitigation systems (like Distil / Imperva/ Datadadome / CloudFlare IUAM)
+- [tzutalin/labelImg](https://github.com/tzutalin/labelImg) - 🖍️ LabelImg is a graphical image annotation tool and label object bounding boxes in images
+- [TheScienceElf/Video-to-Text](https://github.com/TheScienceElf/Video-to-Text) - Tools to convert video files into ASCII art, and make self-contained playback executables.
+- [SigmaHQ/sigma](https://github.com/SigmaHQ/sigma) - Generic Signature Format for SIEM Systems
+- [rrazvd/bbb-face-recognizer](https://github.com/rrazvd/bbb-face-recognizer) - Face recognition system using MTCNN, FACENET, SVM and FAST API to track participants of Big Brother Brasil in real time.
+- [royorel/StyleSDF](https://github.com/royorel/StyleSDF) - 
+- [remzi-arpacidusseau/ostep-homework](https://github.com/remzi-arpacidusseau/ostep-homework) - 
+- [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A supercharged version of paperless: scan, index and archive all your physical documents
+- [mxrch/GHunt](https://github.com/mxrch/GHunt) - 🕵️‍♂️ Offensive Google framework.
+- [mttr2021/MTTR](https://github.com/mttr2021/MTTR) - 
+- [microsoft/playwright-python](https://github.com/microsoft/playwright-python) - Python version of the Playwright testing and automation library.
+- [layumi/Person_reID_baseline_pytorch](https://github.com/layumi/Person_reID_baseline_pytorch) - Pytorch ReID: A tiny, friendly, strong pytorch implement of object re-identification baseline. Tutorial 👉https://github.com/layumi/Person_reID_baseline_pytorch/tree/master/tutorial
+- [jadore801120/attention-is-all-you-need-pytorch](https://github.com/jadore801120/attention-is-all-you-need-pytorch) - A PyTorch implementation of the Transformer model in "Attention is All You Need".
+- [GuardianWang/LeetCode](https://github.com/GuardianWang/LeetCode) - 
+- [elastic/elasticsearch-py](https://github.com/elastic/elasticsearch-py) - Official Elasticsearch client library for Python
+- [deepcam-cn/yolov5-face](https://github.com/deepcam-cn/yolov5-face) - YOLO5Face: Why Reinventing a Face Detector (https://arxiv.org/abs/2105.12931)
+- [ckkelvinchan/RealBasicVSR](https://github.com/ckkelvinchan/RealBasicVSR) - Official repository of "RealBasicVSR: Investigating Tradeoffs in Real-World Video Super-Resolution"
+- [axnsan12/drf-yasg](https://github.com/axnsan12/drf-yasg) - Automated generation of real Swagger/OpenAPI 2.0 schemas from Django REST Framework code.
+- [AstraZeneca/chemicalx](https://github.com/AstraZeneca/chemicalx) - A PyTorch and TorchDrug based deep learning library for drug pair scoring.
+- [asottile/pyupgrade](https://github.com/asottile/pyupgrade) - A tool (and pre-commit hook) to automatically upgrade syntax for newer versions of the language.
+- [Aleph-Alpha/magma](https://github.com/Aleph-Alpha/magma) - MAGMA - a GPT-style multimodal model that can understand any combination of images and language
+- [aladdinpersson/Machine-Learning-Collection](https://github.com/aladdinpersson/Machine-Learning-Collection) - A resource for learning about ML, DL, PyTorch and TensorFlow. Feedback always appreciated :)
 - [quodlibet/mutagen](https://github.com/quodlibet/mutagen) - Python module for handling audio metadata
 - [librosa/librosa](https://github.com/librosa/librosa) - Python library for audio and music analysis
 - [msgpack/msgpack-python](https://github.com/msgpack/msgpack-python) - MessagePack serializer implementation for Python msgpack.org[Python]
