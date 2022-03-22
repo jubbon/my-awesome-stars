@@ -47,6 +47,7 @@
   - [Handlebars](#handlebars)
   - [Haskell](#haskell)
   - [Hy](#hy)
+  - [JSON](#json)
   - [Java](#java)
   - [JavaScript](#javascript)
   - [Jinja](#jinja)
@@ -540,7 +541,6 @@
 - [s3fs-fuse/s3fs-fuse](https://github.com/s3fs-fuse/s3fs-fuse) - FUSE-based file system backed by Amazon S3
 - [Tencent/TurboTransformers](https://github.com/Tencent/TurboTransformers) - a fast and user-friendly runtime for transformer inference (Bert, Albert, GPT2, Decoders, etc) on CPU and GPU.
 - [mindspore-ai/mindspore](https://github.com/mindspore-ai/mindspore) - MindSpore is a new open source deep learning training/inference framework that could be used for mobile, edge and cloud scenarios.
-- [NVIDIA/Torch-TensorRT](https://github.com/NVIDIA/Torch-TensorRT) - PyTorch/TorchScript compiler for NVIDIA GPUs using TensorRT
 - [google/benchmark](https://github.com/google/benchmark) - A microbenchmark support library
 - [alphacep/vosk-api](https://github.com/alphacep/vosk-api) - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
 - [RPCS3/rpcs3](https://github.com/RPCS3/rpcs3) - PS3 emulator/debugger
@@ -2763,6 +2763,10 @@
 
 - [h2non/siringa](https://github.com/h2non/siringa) - Minimalist dependency injection library for Python that embraces type annotations syntax
 
+## JSON 
+
+- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) - This repository contains compatibility data for Web technologies as displayed on MDN
+
 ## Java 
 
 - [aleksey52/key-value-storage](https://github.com/aleksey52/key-value-storage) - Key-value storage with thread operations for deleting entries on a schedule
@@ -2914,7 +2918,7 @@
 - [loopbackio/strong-soap](https://github.com/loopbackio/strong-soap) - SOAP driver for Node.js (A complete rewrite of node-soap)
 - [vpulim/node-soap](https://github.com/vpulim/node-soap) - A SOAP client and server for node.js.
 - [olivierloverde/minutes-of-javascript](https://github.com/olivierloverde/minutes-of-javascript) - ⭐ Collection of Javascript snippets to make you discover new exciting features, useful tips or anything that will give you a better understanding of the subtleties of JS.
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Open-Source Backend Server for Web, Mobile & Flutter Developers 🚀
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
 - [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
 - [ines/juniper](https://github.com/ines/juniper) - 🍇 Edit and execute code snippets in the browser using Jupyter kernels
 - [wandb/gitbook](https://github.com/wandb/gitbook) - Documentation synced with GitBook. For all issues with the wandb library, please use https://github.com/wandb/client/issues
@@ -3663,7 +3667,6 @@
 - [johndatserakis/file-upload-with-preview](https://github.com/johndatserakis/file-upload-with-preview) - 🖼 A simple file-upload utility that shows a preview of the uploaded image. Written in pure JavaScript. No dependencies. Works well with Bootstrap 4 or without a framework.
 - [ChainSafe/web3.js](https://github.com/ChainSafe/web3.js) - Ethereum JavaScript API
 - [akxcv/vuera](https://github.com/akxcv/vuera) - :eyes: Vue in React, React in Vue. Seamless integration of the two. :dancers:
-- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) - This repository contains compatibility data for Web technologies as displayed on MDN
 - [nodejs/node-chakracore](https://github.com/nodejs/node-chakracore) - Node.js on ChakraCore :sparkles::turtle::rocket::sparkles:
 - [JaneaSystems/nodejs-mobile](https://github.com/JaneaSystems/nodejs-mobile) - Full-fledged Node.js on Android and iOS
 - [hackerkid/Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books) - :books: Books everyone should read!
@@ -4674,6 +4677,7 @@
 - [Sshanu/Bidirectional-Attention-Flow-for-Machine-Comprehension](https://github.com/Sshanu/Bidirectional-Attention-Flow-for-Machine-Comprehension) - Machine Comprehension using Squad and Triviqa Data sets
 - [AnatoliiPotapov/squad](https://github.com/AnatoliiPotapov/squad) - 
 - [rainmaker712/nlp_ryan](https://github.com/rainmaker712/nlp_ryan) - Study for Natural Language Processing & Deep Learning Framework
+- [NVIDIA/Torch-TensorRT](https://github.com/NVIDIA/Torch-TensorRT) - PyTorch/TorchScript compiler for NVIDIA GPUs using TensorRT
 - [selfteaching/the-craft-of-selfteaching](https://github.com/selfteaching/the-craft-of-selfteaching) - One has no future if one couldn't teach themself.
 - [justmarkham/scikit-learn-tips](https://github.com/justmarkham/scikit-learn-tips) - :robot::zap: 50 scikit-learn tips
 - [mitmath/6S083](https://github.com/mitmath/6S083) - Materials for MIT 6.S083 / 18.S190: Computational thinking with Julia + application to the COVID-19 pandemic
@@ -5068,7 +5072,7 @@
 - [bethke/tutorial_examples](https://github.com/bethke/tutorial_examples) - A repository for various Jupyter notebooks and other tutorial material
 - [NikolasEnt/Lyft-Perception-Challenge](https://github.com/NikolasEnt/Lyft-Perception-Challenge) - The 4th place and the fastest solution of the Lyft Perception Challenge (Image semantic segmentation with PyTorch)
 - [nearai/program_synthesis](https://github.com/nearai/program_synthesis) - Program Synthesis
-- [liyangbit/PyDataRoad](https://github.com/liyangbit/PyDataRoad) - open source for wechat-official-account (ID: PyDataLab)
+- [liyangbit/PyDataLab](https://github.com/liyangbit/PyDataLab) - open source for wechat-official-account (ID: PyDataLab)
 - [iamtrask/Grokking-Deep-Learning](https://github.com/iamtrask/Grokking-Deep-Learning) - this repository accompanies the book "Grokking Deep Learning"
 - [navjindervirdee/2048-deep-reinforcement-learning](https://github.com/navjindervirdee/2048-deep-reinforcement-learning) - Trained A Convolutional Neural Network To Play 2048 using Deep-Reinforcement Learning
 - [alpv95/Dank-Learning](https://github.com/alpv95/Dank-Learning) - Dank Learning codebase, generate a meme from any image using AI. Uses a modified version of the Show and Tell image captioning network
@@ -7104,6 +7108,7 @@
 
 ## Python 
 
+- [snakers4/russian_stt_text_normalization](https://github.com/snakers4/russian_stt_text_normalization) - Russian text normalization pipeline for speech-to-text and other applications based on tagging s2s networks
 - [YuliangXiu/ICON](https://github.com/YuliangXiu/ICON) - ICON: Implicit Clothed humans Obtained from Normals (CVPR 2022)
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
 - [VHellendoorn/Code-LMs](https://github.com/VHellendoorn/Code-LMs) - Guide to using pre-trained large language models of source code
@@ -7625,7 +7630,7 @@
 - [utkusen/shotlooter](https://github.com/utkusen/shotlooter) - a recon tool that finds sensitive data inside the screenshots uploaded to prnt.sc
 - [fastnlp/TENER](https://github.com/fastnlp/TENER) - Codes for "TENER: Adapting Transformer Encoder for Named Entity Recognition"
 - [aiXander/Realtime_PyAudio_FFT](https://github.com/aiXander/Realtime_PyAudio_FFT) - Realtime audio analysis in Python, using PyAudio and Numpy to extract and visualize FFT features from streaming audio.
-- [google-research/motion_imitation](https://github.com/google-research/motion_imitation) - Code accompanying the paper "Learning Agile Robotic Locomotion Skills by Imitating Animals"
+- [erwincoumans/motion_imitation](https://github.com/erwincoumans/motion_imitation) - Code accompanying the paper "Learning Agile Robotic Locomotion Skills by Imitating Animals"
 - [Ousret/kiss-headers](https://github.com/Ousret/kiss-headers) - 💡Python package for HTTP/1.1 style headers. Parse headers to objects. Most advanced available structure for http headers.
 - [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh.
 - [econchick/interrogate](https://github.com/econchick/interrogate) - Explain yourself! Interrogate a codebase for docstring coverage.
@@ -8522,7 +8527,7 @@
 - [micah5/sneaker-generator](https://github.com/micah5/sneaker-generator) - 👟 DCGAN that generates shoes
 - [facebookresearch/VideoPose3D](https://github.com/facebookresearch/VideoPose3D) - Efficient 3D human pose estimation in video using 2D keypoint trajectories
 - [Refefer/Dampr](https://github.com/Refefer/Dampr) - Python Data Processing library
-- [TypeError/secure](https://github.com/TypeError/secure) - Secure 🔒  headers for Python web frameworks
+- [cak/secure](https://github.com/cak/secure) - Secure 🔒  headers for Python web frameworks
 - [decentfox/nginxpy](https://github.com/decentfox/nginxpy) - Embed Python in NGINX.
 - [MinaOTP/MinaOTP-Shell](https://github.com/MinaOTP/MinaOTP-Shell) - TOTP authenticator implement as a terminal tool
 - [Separius/awesome-sentence-embedding](https://github.com/Separius/awesome-sentence-embedding) - A curated list of pretrained sentence and word embedding models
@@ -9373,7 +9378,7 @@
 - [mehdidc/pomodoro](https://github.com/mehdidc/pomodoro) - simple command line pomodoro app with visualization of statistics
 - [chainer/chainer-chemistry](https://github.com/chainer/chainer-chemistry) - Chainer Chemistry: A Library for Deep Learning in Biology and Chemistry
 - [joshua-wu/deepfakes_faceswap](https://github.com/joshua-wu/deepfakes_faceswap) - from deekfakes' faceswap: https://www.reddit.com/user/deepfakes/
-- [Julian/jsonschema](https://github.com/Julian/jsonschema) - An implementation of the JSON Schema specification for Python
+- [python-jsonschema/jsonschema](https://github.com/python-jsonschema/jsonschema) - An implementation of the JSON Schema specification for Python
 - [AnalogJ/gitmask](https://github.com/AnalogJ/gitmask) - Contribute Code Anonymously
 - [zuoxingdong/mazelab](https://github.com/zuoxingdong/mazelab) - A customizable framework to create maze and gridworld environments
 - [microsoft/MMdnn](https://github.com/microsoft/MMdnn) - MMdnn is a set of tools to help users inter-operate among different deep learning frameworks. E.g. model conversion and visualization. Convert models between Caffe, Keras, MXNet, Tensorflow, CNTK, PyTorch Onnx and CoreML.
@@ -13823,7 +13828,7 @@
 - [0xGG/vscode-crossnote](https://github.com/0xGG/vscode-crossnote) - (WIP) Turn your VSCode into a decent markdown note taking platform
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [Redocly/redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation
-- [emqx/MQTTX](https://github.com/emqx/MQTTX) - MQTT X - Elegant Cross-platform MQTT 5.0 Desktop Client
+- [emqx/MQTTX](https://github.com/emqx/MQTTX) - MQTT X: Elegant Cross-platform MQTT 5.0 Desktop Client
 - [microsoft/BotFramework-Composer](https://github.com/microsoft/BotFramework-Composer) - Dialog creation and management for Microsoft Bot Framework Applications
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [explosion/jupyterlab-prodigy](https://github.com/explosion/jupyterlab-prodigy) - 🧬 A JupyterLab extension for annotating data with Prodigy
