@@ -626,6 +626,7 @@
 - [facebookresearch/habitat-sim](https://github.com/facebookresearch/habitat-sim) - A flexible, high-performance 3D simulator for Embodied AI research.
 - [jupyter-xeus/xleaflet](https://github.com/jupyter-xeus/xleaflet) - C++ backend for the jupyter leaflet widget
 - [pytorch/ELF](https://github.com/pytorch/ELF) - ELF: a platform for game research with AlphaGoZero/AlphaZero reimplementation
+- [tensorflow/text](https://github.com/tensorflow/text) - Making text a first-class citizen in TensorFlow.
 - [BinomialLLC/basis_universal](https://github.com/BinomialLLC/basis_universal) - Basis Universal GPU Texture Codec
 - [SerenityOS/serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞
 - [facebookresearch/ELF](https://github.com/facebookresearch/ELF) - An End-To-End, Lightweight and Flexible Platform for Game Research
@@ -3411,7 +3412,6 @@
 - [tensorflow/tfjs-examples](https://github.com/tensorflow/tfjs-examples) - Examples built with TensorFlow.js
 - [jezen/is-thirteen](https://github.com/jezen/is-thirteen) - Check if a number is equal to 13.
 - [Braised-Cakes/myh5](https://github.com/Braised-Cakes/myh5) - h5制作平台😊😊😊😊😊😊
-- [Picovoice/porcupine](https://github.com/Picovoice/porcupine) - On-device wake word detection powered by deep learning.
 - [s0md3v/AwesomeXSS](https://github.com/s0md3v/AwesomeXSS) - Awesome XSS stuff
 - [braposo/graphql-css](https://github.com/braposo/graphql-css) - A blazing fast CSS-in-GQL™ library.
 - [mrpandey/d3graphTheory](https://github.com/mrpandey/d3graphTheory) - :boom: Interactive and colorful :art: graph theory tutorials made using d3.js :zap:
@@ -4464,6 +4464,7 @@
 
 ## Jupyter Notebook 
 
+- [alirezadir/machine-learning-interview-enlightener](https://github.com/alirezadir/machine-learning-interview-enlightener) - This repo is meant to serve as a guide for Machine Learning/AI technical interviews.
 - [Nyandwi/ModernConvNets](https://github.com/Nyandwi/ModernConvNets) - Revisions and implementations of modern Convolutional Neural Networks architectures in TensorFlow and Keras
 - [LyWangPX/Reinforcement-Learning-2nd-Edition-by-Sutton-Exercise-Solutions](https://github.com/LyWangPX/Reinforcement-Learning-2nd-Edition-by-Sutton-Exercise-Solutions) - Solutions of Reinforcement Learning, An Introduction
 - [Vinohith/Self_Driving_Car_specialization](https://github.com/Vinohith/Self_Driving_Car_specialization) - Assignments and notes for the Self Driving Cars course offered by University of Toronto on Coursera
@@ -4920,7 +4921,6 @@
 - [Kyubyong/bert-token-embeddings](https://github.com/Kyubyong/bert-token-embeddings) - 
 - [switchablenorms/DeepFashion2](https://github.com/switchablenorms/DeepFashion2) - DeepFashion2 Dataset https://arxiv.org/pdf/1901.07973.pdf
 - [inoryy/tensorflow2-deep-reinforcement-learning](https://github.com/inoryy/tensorflow2-deep-reinforcement-learning) - Code accompanying the blog post "Deep Reinforcement Learning with TensorFlow 2.1"
-- [ria-com/nomeroff-net](https://github.com/ria-com/nomeroff-net) - Nomeroff Net. Automatic numberplate recognition system.
 - [dbamman/anlp19](https://github.com/dbamman/anlp19) - Course repo for Applied Natural Language Processing (Spring 2019)
 - [omerbsezer/Generative_Models_Tutorial_with_Demo](https://github.com/omerbsezer/Generative_Models_Tutorial_with_Demo) - Generative Models Tutorial with Demo: Bayesian Classifier Sampling, Variational Auto Encoder (VAE), Generative Adversial Networks (GANs), Popular GANs Architectures, Auto-Regressive Models, Important Generative Model Papers, Courses, etc..
 - [d2l-ai/berkeley-stat-157](https://github.com/d2l-ai/berkeley-stat-157) - Homepage for STAT 157 at UC Berkeley
@@ -7108,6 +7108,7 @@
 
 ## Python 
 
+- [jupyterlite/jupyterlite](https://github.com/jupyterlite/jupyterlite) - Wasm powered Jupyter running in the browser 💡
 - [snakers4/russian_stt_text_normalization](https://github.com/snakers4/russian_stt_text_normalization) - Russian text normalization pipeline for speech-to-text and other applications based on tagging s2s networks
 - [YuliangXiu/ICON](https://github.com/YuliangXiu/ICON) - ICON: Implicit Clothed humans Obtained from Normals (CVPR 2022)
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
@@ -7128,7 +7129,7 @@
 - [GuardianWang/LeetCode](https://github.com/GuardianWang/LeetCode) - 
 - [elastic/elasticsearch-py](https://github.com/elastic/elasticsearch-py) - Official Elasticsearch client library for Python
 - [deepcam-cn/yolov5-face](https://github.com/deepcam-cn/yolov5-face) - YOLO5Face: Why Reinventing a Face Detector (https://arxiv.org/abs/2105.12931)
-- [ckkelvinchan/RealBasicVSR](https://github.com/ckkelvinchan/RealBasicVSR) - Official repository of "RealBasicVSR: Investigating Tradeoffs in Real-World Video Super-Resolution"
+- [ckkelvinchan/RealBasicVSR](https://github.com/ckkelvinchan/RealBasicVSR) - Official repository of "Investigating Tradeoffs in Real-World Video Super-Resolution"
 - [axnsan12/drf-yasg](https://github.com/axnsan12/drf-yasg) - Automated generation of real Swagger/OpenAPI 2.0 schemas from Django REST Framework code.
 - [AstraZeneca/chemicalx](https://github.com/AstraZeneca/chemicalx) - A PyTorch and TorchDrug based deep learning library for drug pair scoring.
 - [asottile/pyupgrade](https://github.com/asottile/pyupgrade) - A tool (and pre-commit hook) to automatically upgrade syntax for newer versions of the language.
@@ -8274,7 +8275,6 @@
 - [sdushantha/gitdir](https://github.com/sdushantha/gitdir) - Download a single directory/folder from a GitHub repo
 - [fregu856/3DOD_thesis](https://github.com/fregu856/3DOD_thesis) - 3D Object Detection for Autonomous Driving in PyTorch, trained on the KITTI dataset.
 - [ConnorJL/GPT2](https://github.com/ConnorJL/GPT2) - An implementation of training for GPT2, supports TPUs
-- [tensorflow/text](https://github.com/tensorflow/text) - Making text a first-class citizen in TensorFlow.
 - [google-research/football](https://github.com/google-research/football) - Check out the new game server:
 - [google/TensorNetwork](https://github.com/google/TensorNetwork) - A library for easy and efficient manipulation of tensor networks.
 - [kedro-org/kedro](https://github.com/kedro-org/kedro) - A Python framework for creating reproducible, maintainable and modular data science code.
@@ -8481,6 +8481,7 @@
 - [elleryqueenhomels/arbitrary_style_transfer](https://github.com/elleryqueenhomels/arbitrary_style_transfer) - Fast Neural Style Transfer with Arbitrary Style using AdaIN Layer - Based on Huang et al. "Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization"
 - [naoto0804/pytorch-AdaIN](https://github.com/naoto0804/pytorch-AdaIN) - Unofficial pytorch implementation of 'Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization' [Huang+, ICCV2017]
 - [flow-project/flow](https://github.com/flow-project/flow) - Computational framework for reinforcement learning in traffic control
+- [ria-com/nomeroff-net](https://github.com/ria-com/nomeroff-net) - Nomeroff Net. Automatic numberplate recognition system.
 - [devAmoghS/Machine-Learning-with-Python](https://github.com/devAmoghS/Machine-Learning-with-Python) - Small scale machine learning projects to understand the core concepts . Give a Star 🌟If it helps you. BONUS: Interview Bank coming up..!
 - [rockyzhengwu/nsfw](https://github.com/rockyzhengwu/nsfw) - Not Suitable for Work (NSFW) classification
 - [facebookresearch/LASER](https://github.com/facebookresearch/LASER) - Language-Agnostic SEntence Representations
@@ -12160,7 +12161,7 @@
 - [myusuf3/chain-python](https://github.com/myusuf3/chain-python) - The Unofficial Python SDK for Chain's Bitcoin API
 - [ambitioninc/django-query-builder](https://github.com/ambitioninc/django-query-builder) - Build complex queries for Django
 - [jabbalaci/django-show_urls-formatter](https://github.com/jabbalaci/django-show_urls-formatter) - Beautify the output of `manage.py show_urls`.
-- [noplay/python-mysql-replication](https://github.com/noplay/python-mysql-replication) - Pure Python Implementation of MySQL replication protocol build on top of PyMYSQL
+- [duponchelle/python-mysql-replication](https://github.com/duponchelle/python-mysql-replication) - Pure Python Implementation of MySQL replication protocol build on top of PyMYSQL
 - [miha-stopar/nnets](https://github.com/miha-stopar/nnets) - Python neural network library
 - [menegazzo/travispy](https://github.com/menegazzo/travispy) - LOOKING FOR SOMEONE TO TRANSFER OWNERSHIP - Travis CI API for Python
 - [astropy/astropy](https://github.com/astropy/astropy) - Astronomy and astrophysics core library
@@ -13969,6 +13970,7 @@
 - [wasdk/WebAssemblyStudio](https://github.com/wasdk/WebAssemblyStudio) - Learn, Teach, Work and Play in the WebAssembly Studio
 - [dinerojs/dinero.js](https://github.com/dinerojs/dinero.js) - Create, calculate, and format money in JavaScript and TypeScript.
 - [tensorflow/tfjs](https://github.com/tensorflow/tfjs) - A WebGL accelerated JavaScript library for training and deploying ML models.
+- [Picovoice/porcupine](https://github.com/Picovoice/porcupine) - On-device wake word detection powered by deep learning.
 - [Jigsaw-Code/outline-server](https://github.com/Jigsaw-Code/outline-server) - Outline Manager, developed by Jigsaw. The Outline Manager application creates and manages Outline servers, powered by Shadowsocks. It uses the Electron framework to offer support for Windows, macOS and Linux.
 - [oclif/oclif](https://github.com/oclif/oclif) - Node.js Open CLI Framework. Built by Salesforce.
 - [jkchao/blog-admin](https://github.com/jkchao/blog-admin) - blog-admin @react、@typescript、@apollographql
