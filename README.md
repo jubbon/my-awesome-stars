@@ -1055,6 +1055,7 @@
 - [steshaw/plt](https://github.com/steshaw/plt) - Programming Language Theory λΠ
 - [tapaswenipathak/Open-Source-Programs](https://github.com/tapaswenipathak/Open-Source-Programs) - A list of open source programs.
 - [noamross/gams-in-r-course](https://github.com/noamross/gams-in-r-course) - Generalized Additive Models in R: A Free Interactive Course
+- [erikwiffin/0.30000000000000004](https://github.com/erikwiffin/0.30000000000000004) - Floating Point Math Examples
 - [robb0wen/synthwave-vscode](https://github.com/robb0wen/synthwave-vscode) - Synthwave inspired colour theme for VS Code 🌅🕶
 - [oleg-koval/counter-interview.dev](https://github.com/oleg-koval/counter-interview.dev) - a collaborative collection of interview questions collected from both sides of the game: Interviewer(s) and Interviewee.
 - [ines/course-starter-python](https://github.com/ines/course-starter-python) - 👩‍🏫🐍 Starter repo for building interactive Python courses
@@ -1346,6 +1347,7 @@
 
 ## Cuda 
 
+- [NVIDIA/warp](https://github.com/NVIDIA/warp) - A Python framework for high performance GPU simulation and graphics
 - [flexflow/FlexFlow](https://github.com/flexflow/FlexFlow) - A distributed deep learning framework that supports flexible parallelization strategies.
 - [NVIDIA/nv-wavenet](https://github.com/NVIDIA/nv-wavenet) - Reference implementation of real-time autoregressive wavenet inference
 - [leoxiaobin/deep-high-resolution-net.pytorch](https://github.com/leoxiaobin/deep-high-resolution-net.pytorch) - The project is an official implementation of our CVPR2019 paper "Deep High-Resolution Representation Learning for Human Pose Estimation"
@@ -1353,7 +1355,6 @@
 - [CannyLab/tsne-cuda](https://github.com/CannyLab/tsne-cuda) - GPU Accelerated t-SNE for CUDA with Python bindings
 - [luanfujun/deep-painterly-harmonization](https://github.com/luanfujun/deep-painterly-harmonization) - Code and data for paper "Deep Painterly Harmonization": https://arxiv.org/abs/1804.03189
 - [LitLeo/OpenCUDA](https://github.com/LitLeo/OpenCUDA) - 
-- [Liusifei/pytorch_spn](https://github.com/Liusifei/pytorch_spn) - Extension package for spatial propagation network in pytorch.
 - [NervanaSystems/deepspeech](https://github.com/NervanaSystems/deepspeech) - DeepSpeech neon implementation
 - [FlyElephantNet/CUDA-example](https://github.com/FlyElephantNet/CUDA-example) - Matrix Multiplication (GPU & CPU)
 - [NVlabs/nvbio-gpl](https://github.com/NVlabs/nvbio-gpl) - NVBIO is a library of reusable components designed to accelerate bioinformatics applications using CUDA.
@@ -1403,7 +1404,7 @@
 - [TheAlphamerc/flutter_ecommerce_app](https://github.com/TheAlphamerc/flutter_ecommerce_app) - E-Commerce App built in flutter
 - [TheAlphamerc/flutter_smart_course](https://github.com/TheAlphamerc/flutter_smart_course) - Smart course app built in flutter.
 - [olayemii/chyker-foods](https://github.com/olayemii/chyker-foods) - A food ordering app built with flutter and firebase
-- [FirebaseExtended/flutterfire](https://github.com/FirebaseExtended/flutterfire) - 🔥 A collection of Firebase plugins for Flutter apps.
+- [firebase/flutterfire](https://github.com/firebase/flutterfire) - 🔥 A collection of Firebase plugins for Flutter apps.
 - [janoodleFTW/timy-messenger](https://github.com/janoodleFTW/timy-messenger) - Timy - open source mobile app for groups to communicate and organize themselves. Built with flutter.
 - [LiveLikeCounter/Flutter-Todolist](https://github.com/LiveLikeCounter/Flutter-Todolist) - A Flutter based to do list app (yes, another to do list... but... this time based on a beautiful design)
 - [mitesh77/Best-Flutter-UI-Templates](https://github.com/mitesh77/Best-Flutter-UI-Templates) - completely free for everyone. Its build-in Flutter Dart.
@@ -1555,7 +1556,7 @@
 - [mattermost/mattermost-server](https://github.com/mattermost/mattermost-server) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.
 - [ory/kratos](https://github.com/ory/kratos) - Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, profile management, identity schemas, social sign in, registration, account recovery, and IoT auth. Golang, headless, API-only - without templating or theming headaches.
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – It's Git for Data
-- [dstotijn/hetty](https://github.com/dstotijn/hetty) - Hetty is an HTTP toolkit for security research.
+- [dstotijn/hetty](https://github.com/dstotijn/hetty) - An HTTP toolkit for security research.
 - [nakabonne/ali](https://github.com/nakabonne/ali) - Generate HTTP load and plot the results in real-time
 - [hoanhan101/ultimate-go](https://github.com/hoanhan101/ultimate-go) - The Ultimate Go Study Guide
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
@@ -4525,7 +4526,6 @@
 - [The-AI-Summer/Deep-Learning-In-Production](https://github.com/The-AI-Summer/Deep-Learning-In-Production) - Build, train, deploy, scale and maintain deep learning models. Understand ML infrastructure and MLOps using hands-on examples.
 - [uberduck-ai/uberduck-ml-dev](https://github.com/uberduck-ai/uberduck-ml-dev) - ML models for Uberduck
 - [milaan9/Python_Decision_Tree_and_Random_Forest](https://github.com/milaan9/Python_Decision_Tree_and_Random_Forest) - I've demonstrated the working of the decision tree-based ID3 algorithm. Use an appropriate data set for building the decision tree and apply this knowledge to classify a new sample. All the steps have been explained in detail with graphics for better understanding.
-- [facebookresearch/beanmachine](https://github.com/facebookresearch/beanmachine) - A library that allows for inference on probabilistic models
 - [Atcold/NYU-DLSP21](https://github.com/Atcold/NYU-DLSP21) - NYU Deep Learning Spring 2021
 - [sail-sg/poolformer](https://github.com/sail-sg/poolformer) - PoolFormer: MetaFormer is Actually What You Need for Vision (CVPR 2022)
 - [mrdbourke/tensorflow-deep-learning](https://github.com/mrdbourke/tensorflow-deep-learning) - All course materials for the Zero to Mastery Deep Learning with TensorFlow course.
@@ -6570,7 +6570,6 @@
 - [ShahariarRabby/deeplearning.ai](https://github.com/ShahariarRabby/deeplearning.ai) - deeplearning.ai , By Andrew Ng, All video link
 - [evilsocket/bleah](https://github.com/evilsocket/bleah) - This repository is DEPRECATED, please use bettercap as this tool has been ported to its BLE modules.
 - [goabstract/Marketing-for-Engineers](https://github.com/goabstract/Marketing-for-Engineers) - A curated collection of marketing articles & tools to grow your product.
-- [paypal/api-standards](https://github.com/paypal/api-standards) - 
 - [Hexlet/ru-test-assignments](https://github.com/Hexlet/ru-test-assignments) - Тестовые задания для самостоятельного выполнения от разных it компаний
 - [mbeaudru/modern-js-cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet) - Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects.
 - [MaxBenChrist/awesome_time_series_in_python](https://github.com/MaxBenChrist/awesome_time_series_in_python) - This curated list contains  python packages for time series analysis
@@ -7223,6 +7222,7 @@
 - [ISGNeuroTeam/CoAuthor](https://github.com/ISGNeuroTeam/CoAuthor) - NLP project that works with news (NER, context generation, news trend analytics)
 - [pengzhiliang/MAE-pytorch](https://github.com/pengzhiliang/MAE-pytorch) - Unofficial PyTorch implementation of Masked Autoencoders Are Scalable Vision Learners
 - [cosmic-cortex/fastAPI-ML-quickstart](https://github.com/cosmic-cortex/fastAPI-ML-quickstart) - 
+- [facebookresearch/beanmachine](https://github.com/facebookresearch/beanmachine) - A library that allows for inference on probabilistic models
 - [deepmind/meltingpot](https://github.com/deepmind/meltingpot) - A suite of test scenarios for multi-agent reinforcement learning.
 - [huggingface/data-measurements-tool](https://github.com/huggingface/data-measurements-tool) - Developing tools to automatically analyze datasets
 - [kensho-technologies/pyctcdecode](https://github.com/kensho-technologies/pyctcdecode) - A fast and lightweight python-based CTC beam search decoder for speech recognition.
@@ -8560,7 +8560,7 @@
 - [0xR0/shellver](https://github.com/0xR0/shellver) - Reverse Shell Cheat Sheet TooL
 - [MIC-DKFZ/medicaldetectiontoolkit](https://github.com/MIC-DKFZ/medicaldetectiontoolkit) - The Medical Detection Toolkit contains 2D + 3D implementations of prevalent object detectors such as Mask R-CNN, Retina Net, Retina U-Net, as well as a training and inference framework focused on dealing with medical images.
 - [YoongiKim/AutoCrawler](https://github.com/YoongiKim/AutoCrawler) - Google, Naver multiprocess image web crawler (Selenium)
-- [hanxiao/bert-as-service](https://github.com/hanxiao/bert-as-service) - Mapping a variable-length sentence to a fixed-length vector using BERT model
+- [jina-ai/clip-as-service](https://github.com/jina-ai/clip-as-service) - Embedding image and sentence into fixed-length vectors via CLIP
 - [john-smith-19/Base](https://github.com/john-smith-19/Base) - Base python library
 - [funnyzhou/FPN-Pytorch](https://github.com/funnyzhou/FPN-Pytorch) - 
 - [cleardusk/3DDFA](https://github.com/cleardusk/3DDFA) - The PyTorch improved version of TPAMI 2017 paper: Face Alignment in Full Pose Range: A 3D Total Solution.
@@ -9282,7 +9282,7 @@
 - [victordibia/handtracking](https://github.com/victordibia/handtracking) - Building a Real-time Hand-Detector using Neural Networks (SSD) on Tensorflow
 - [tf-coreml/tf-coreml](https://github.com/tf-coreml/tf-coreml) - TensorFlow to CoreML Converter
 - [aio-libs/aiozipkin](https://github.com/aio-libs/aiozipkin) - Distributed tracing instrumentation for asyncio with zipkin
-- [flaggo/pydu](https://github.com/flaggo/pydu) - Useful data structures and utils for Python
+- [flaggo/pydu](https://github.com/flaggo/pydu) - Useful data structures and utils for Python.
 - [cls1991/ng](https://github.com/cls1991/ng) - Get password of the wifi you're connected, and your current ip address.
 - [tensorlang/tensorlang](https://github.com/tensorlang/tensorlang) - Tensorlang, a differentiable programming language based on TensorFlow
 - [developmentseed/label-maker](https://github.com/developmentseed/label-maker) - Data Preparation for Satellite Machine Learning
@@ -13364,7 +13364,6 @@
 
 - [tompng/air_hockey_quine](https://github.com/tompng/air_hockey_quine) - Network Battle Air Hockey Quine
 - [brotandgames/ciao](https://github.com/brotandgames/ciao) - HTTP checks & tests (private & public) monitoring - check the status of your URL
-- [erikwiffin/0.30000000000000004](https://github.com/erikwiffin/0.30000000000000004) - Floating Point Math Examples
 - [SteveLTN/https-portal](https://github.com/SteveLTN/https-portal) - A fully automated HTTPS server powered by Nginx, Let's Encrypt and Docker.
 - [sinclairtarget/um](https://github.com/sinclairtarget/um) - Create and maintain your own man pages so you can remember how to do stuff
 - [forem/forem](https://github.com/forem/forem) - For empowering community 🌱
