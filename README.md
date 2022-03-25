@@ -2652,6 +2652,7 @@
 - [elbamos/largeVis](https://github.com/elbamos/largeVis) - An implementation of the largeVis algorithm for visualizing large, high-dimensional datasets, for R
 - [google/ioweb2016](https://github.com/google/ioweb2016) - I/O web app 2016
 - [eliangcs/pystock-data](https://github.com/eliangcs/pystock-data) - (UNMAINTAINED) US stock market data since 2009
+- [brownhci/WebGazer](https://github.com/brownhci/WebGazer) - WebGazer.js: Scalable Webcam EyeTracking Using User Interactions
 - [electron/electron-api-demos](https://github.com/electron/electron-api-demos) - Explore the Electron APIs
 - [akoumjian/datefinder](https://github.com/akoumjian/datefinder) - Find dates inside text using Python and get back datetime objects
 - [wcember/pypub](https://github.com/wcember/pypub) - Python library to programatically create epub files
@@ -2907,6 +2908,7 @@
 
 ## JavaScript 
 
+- [facebookresearch/speech_translation](https://github.com/facebookresearch/speech_translation) - Demo and samples for universal speech translator
 - [QuantStack/leaflet-splitmap](https://github.com/QuantStack/leaflet-splitmap) - A Leaflet control to compare two map layers
 - [QuantStack/jupyterlab-drawio](https://github.com/QuantStack/jupyterlab-drawio) - A standalone embedding of the FOSS drawio / mxgraph package into jupyterlab
 - [jperelli/osm-static-maps](https://github.com/jperelli/osm-static-maps) - Openstreetmap static maps is a nodejs lib, CLI and server open source inspired on google static map service
@@ -4113,7 +4115,6 @@
 - [sampotts/plyr](https://github.com/sampotts/plyr) - A simple HTML5, YouTube and Vimeo player
 - [secgroundzero/warberry](https://github.com/secgroundzero/warberry) - WarBerryPi - Tactical Exploitation
 - [Nickersoft/push.js](https://github.com/Nickersoft/push.js) - The world's most versatile desktop notifications framework :earth_americas:
-- [brownhci/WebGazer](https://github.com/brownhci/WebGazer) - WebGazer.js: Scalable Webcam EyeTracking Using User Interactions
 - [algorithm-visualizer/algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) - :fireworks:Interactive Online Platform that Visualizes Algorithms from Code
 - [decosoftware/deco-ide](https://github.com/decosoftware/deco-ide) - The React Native IDE
 - [rethinkdb/horizon](https://github.com/rethinkdb/horizon) - Horizon is a realtime, open-source backend for JavaScript apps.
@@ -5960,7 +5961,6 @@
 
 ## Others 
 
-- [stravnik/toxic-repos](https://github.com/stravnik/toxic-repos) - 
 - [krishnadey30/LeetCode-Questions-CompanyWise](https://github.com/krishnadey30/LeetCode-Questions-CompanyWise) - Contains Company Wise Questions sorted based on Frequency and all time
 - [dair-ai/ML-Course-Notes](https://github.com/dair-ai/ML-Course-Notes) - 🎓 Sharing course notes on all topics related to machine learning, NLP, and AI
 - [ventali/awesome-zk](https://github.com/ventali/awesome-zk) - A curated list of awesome ZK resources, libraries, tools and more.
@@ -7107,8 +7107,11 @@
 
 ## Python 
 
+- [google/vizier](https://github.com/google/vizier) - Python-based interface for blackbox optimization and research, based on Google's internal Vizier.
+- [huggingface/community-events](https://github.com/huggingface/community-events) - Place where folks can contribute to 🤗 community events
 - [jupyterlite/jupyterlite](https://github.com/jupyterlite/jupyterlite) - Wasm powered Jupyter running in the browser 💡
 - [snakers4/russian_stt_text_normalization](https://github.com/snakers4/russian_stt_text_normalization) - Russian text normalization pipeline for speech-to-text and other applications based on tagging s2s networks
+- [stravnik/toxic-repos](https://github.com/stravnik/toxic-repos) - Мы против дискредитации свободного программного обеспечения
 - [YuliangXiu/ICON](https://github.com/YuliangXiu/ICON) - ICON: Implicit Clothed humans Obtained from Normals (CVPR 2022)
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
 - [VHellendoorn/Code-LMs](https://github.com/VHellendoorn/Code-LMs) - Guide to using pre-trained large language models of source code
@@ -8560,7 +8563,7 @@
 - [0xR0/shellver](https://github.com/0xR0/shellver) - Reverse Shell Cheat Sheet TooL
 - [MIC-DKFZ/medicaldetectiontoolkit](https://github.com/MIC-DKFZ/medicaldetectiontoolkit) - The Medical Detection Toolkit contains 2D + 3D implementations of prevalent object detectors such as Mask R-CNN, Retina Net, Retina U-Net, as well as a training and inference framework focused on dealing with medical images.
 - [YoongiKim/AutoCrawler](https://github.com/YoongiKim/AutoCrawler) - Google, Naver multiprocess image web crawler (Selenium)
-- [jina-ai/clip-as-service](https://github.com/jina-ai/clip-as-service) - Embedding image and sentence into fixed-length vectors via CLIP
+- [jina-ai/clip-as-service](https://github.com/jina-ai/clip-as-service) - Embed images and sentences into fixed-length vectors with CLIP
 - [john-smith-19/Base](https://github.com/john-smith-19/Base) - Base python library
 - [funnyzhou/FPN-Pytorch](https://github.com/funnyzhou/FPN-Pytorch) - 
 - [cleardusk/3DDFA](https://github.com/cleardusk/3DDFA) - The PyTorch improved version of TPAMI 2017 paper: Face Alignment in Full Pose Range: A 3D Total Solution.
@@ -12576,7 +12579,7 @@
 - [5monkeys/content-io](https://github.com/5monkeys/content-io) - Content flushed through cache, plugins and storage pipeline
 - [infoxchange/docker-forklift](https://github.com/infoxchange/docker-forklift) - A utility for loading Docker containers
 - [ajtulloch/sklearn-compiledtrees](https://github.com/ajtulloch/sklearn-compiledtrees) - Compiled Decision Trees for scikit-learn
-- [todddeluca/python-vagrant](https://github.com/todddeluca/python-vagrant) - Python bindings for interacting with Vagrant virtual machines.
+- [pycontribs/python-vagrant](https://github.com/pycontribs/python-vagrant) - Python bindings for interacting with Vagrant virtual machines.
 - [phonkee/easyfab](https://github.com/phonkee/easyfab) - Small wrapper of fabric for django deployments
 - [magicknight/Purgatory](https://github.com/magicknight/Purgatory) - Purgatory is a deep generation machine learning tool set
 - [NoxArt/SublimeText2-LinkOpener](https://github.com/NoxArt/SublimeText2-LinkOpener) - Tiny plugin for opening links and web searching
@@ -12738,7 +12741,7 @@
 - [rossant/ipython-minibook](https://github.com/rossant/ipython-minibook) - UPDATE (2015): This is an old repo, go here for the new edition
 - [hylang/hy](https://github.com/hylang/hy) - A dialect of Lisp that's embedded in Python
 - [stackstrap/stackstrap](https://github.com/stackstrap/stackstrap) - The template parsing command line tool.
-- [saltstack/halite](https://github.com/saltstack/halite) - DEPRECATED: A client-side web application interface to a running Salt infrastructure
+- [vmware-archive/halite](https://github.com/vmware-archive/halite) - DEPRECATED: A client-side web application interface to a running Salt infrastructure
 - [saltstack/salt](https://github.com/saltstack/salt) - Software to automate the management and configuration of any infrastructure or application at scale. Get access to the Salt software package repository here:
 - [skibblenybbles/django-commando](https://github.com/skibblenybbles/django-commando) - A declarative API for writing, overriding and sequencing Django management commands
 - [quantum13/django-cryptocoin](https://github.com/quantum13/django-cryptocoin) - 
@@ -13802,6 +13805,12 @@
 
 ## TypeScript 
 
+- [blacksmithgu/obsidian-dataview](https://github.com/blacksmithgu/obsidian-dataview) - A high-performance data index and query language over Markdown files, for https://obsidian.md/.
+- [Darakah/obsidian-comments-plugin](https://github.com/Darakah/obsidian-comments-plugin) - Simple plugin to add inline comment tooltips as well as a side panel which lists the comments on the current active leaf.
+- [pyrochlore/obsidian-tracker](https://github.com/pyrochlore/obsidian-tracker) - A plugin tracks occurrences and numbers in your notes
+- [mgmeyers/obsidian-kanban](https://github.com/mgmeyers/obsidian-kanban) - Create markdown-backed Kanban boards in Obsidian.
+- [denolehov/obsidian-git](https://github.com/denolehov/obsidian-git) - Backup your Obsidian.md vault with git
+- [liamcain/obsidian-calendar-plugin](https://github.com/liamcain/obsidian-calendar-plugin) - Simple calendar widget for Obsidian.
 - [microsoft/vscode-python-installer](https://github.com/microsoft/vscode-python-installer) - Code for running pip and conda installs from a VS Code extension
 - [yandex-cloud/yfm-docs](https://github.com/yandex-cloud/yfm-docs) - Создавай документацию с помощью yfm-docs в Markdown и HTML форматах
 - [yandex-cloud/yagr](https://github.com/yandex-cloud/yagr) - Yet another graph renderer
