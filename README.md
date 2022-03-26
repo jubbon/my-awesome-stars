@@ -86,6 +86,7 @@
   - [PureBasic](#purebasic)
   - [PureScript](#purescript)
   - [Python](#python)
+  - [Q#](#q#)
   - [QML](#qml)
   - [R](#r)
   - [RAML](#raml)
@@ -4466,6 +4467,12 @@
 
 ## Jupyter Notebook 
 
+- [williamyang1991/DualStyleGAN](https://github.com/williamyang1991/DualStyleGAN) - [CVPR 2022] Pastiche Master: Exemplar-Based High-Resolution Portrait Style Transfer
+- [microsoft/mutransformers](https://github.com/microsoft/mutransformers) - some common Huggingface transformers in maximal update parametrization (µP)
+- [microsoft/responsible-ai-workshop](https://github.com/microsoft/responsible-ai-workshop) - Responsible AI Workshop: a series of tutorials & walkthroughs to illustrate how put responsible AI into practice
+- [google/responsible-innovation](https://github.com/google/responsible-innovation) - 
+- [lixin4ever/Conference-Acceptance-Rate](https://github.com/lixin4ever/Conference-Acceptance-Rate) - Acceptance rates for the major AI conferences
+- [jupyter-naas/awesome-notebooks](https://github.com/jupyter-naas/awesome-notebooks) - Ready to use data science templates, organized by tools to jumpstart your projects in minutes. 😎  published by the Naas community.
 - [alirezadir/machine-learning-interview-enlightener](https://github.com/alirezadir/machine-learning-interview-enlightener) - This repo is meant to serve as a guide for Machine Learning/AI technical interviews.
 - [Nyandwi/ModernConvNets](https://github.com/Nyandwi/ModernConvNets) - Revisions and implementations of modern Convolutional Neural Networks architectures in TensorFlow and Keras
 - [LyWangPX/Reinforcement-Learning-2nd-Edition-by-Sutton-Exercise-Solutions](https://github.com/LyWangPX/Reinforcement-Learning-2nd-Edition-by-Sutton-Exercise-Solutions) - Solutions of Reinforcement Learning, An Introduction
@@ -4518,7 +4525,7 @@
 - [yandexdataschool/deep_vision_and_graphics](https://github.com/yandexdataschool/deep_vision_and_graphics) - Course about deep learning for computer vision and graphics co-developed by YSDA and Skoltech.
 - [google/physics-math-tutorials](https://github.com/google/physics-math-tutorials) - 
 - [ShapeAI/Python-and-Machine-Learning](https://github.com/ShapeAI/Python-and-Machine-Learning) - 6th Feb 2021
-- [pymc-devs/resources](https://github.com/pymc-devs/resources) - PyMC3 educational resources
+- [pymc-devs/pymc_resources](https://github.com/pymc-devs/pymc_resources) - PyMC3 educational resources
 - [aswintechguy/Machine-Learning-Projects](https://github.com/aswintechguy/Machine-Learning-Projects) - This repository contains mini projects in machine learning with notebook files
 - [PradyumnaKrishna/Colab-Hacks](https://github.com/PradyumnaKrishna/Colab-Hacks) - Simple Hacks for Google Colaboratory to boost your productivity and help you to perform daily tasks.
 - [jeonsworld/ViT-pytorch](https://github.com/jeonsworld/ViT-pytorch) - Pytorch reimplementation of the Vision Transformer (An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale)
@@ -5961,6 +5968,16 @@
 
 ## Others 
 
+- [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
+- [microsoft/vscode-embedded-tools](https://github.com/microsoft/vscode-embedded-tools) - Official issue tracking repository for Microsoft's Embedded Tools VS Code extension.
+- [microsoft/rise](https://github.com/microsoft/rise) - Research in Software Engineering Tools
+- [microsoft/Multilingual-App-Toolkit](https://github.com/microsoft/Multilingual-App-Toolkit) - This repo contains samples that demonstrate the localization workflow for users of the Multilingual Application Toolkit Visual Studio extension.  You can also use GitHub Issues to submit feedback, report bugs, or ask questions.
+- [TJU-DRL-LAB/API-MARL](https://github.com/TJU-DRL-LAB/API-MARL) - Open-source code for paper "API: Boosting Multi-Agent Reinforcement Learning via Agent-Permutation-Invariant Networks"
+- [matter-labs/awesome-zero-knowledge-proofs](https://github.com/matter-labs/awesome-zero-knowledge-proofs) - A curated list of awesome things related to learning Zero-Knowledge Proofs (ZKP).
+- [gnulinuxpro/infra](https://github.com/gnulinuxpro/infra) - Курс по администрированию инфраструктуры
+- [chaharnishant11/PlacementPrepGuide](https://github.com/chaharnishant11/PlacementPrepGuide) - Includes all the resources for Core CS fundamentals
+- [AndrewStetsenko/tech-jobs-with-relocation](https://github.com/AndrewStetsenko/tech-jobs-with-relocation) - All-in-one guide to getting a tech job abroad 🌎
+- [abhishekkrthakur/approachingalmost](https://github.com/abhishekkrthakur/approachingalmost) - Approaching (Almost) Any Machine Learning Problem
 - [krishnadey30/LeetCode-Questions-CompanyWise](https://github.com/krishnadey30/LeetCode-Questions-CompanyWise) - Contains Company Wise Questions sorted based on Frequency and all time
 - [dair-ai/ML-Course-Notes](https://github.com/dair-ai/ML-Course-Notes) - 🎓 Sharing course notes on all topics related to machine learning, NLP, and AI
 - [ventali/awesome-zk](https://github.com/ventali/awesome-zk) - A curated list of awesome ZK resources, libraries, tools and more.
@@ -7107,6 +7124,28 @@
 
 ## Python 
 
+- [stefan-jansen/python-algorithms](https://github.com/stefan-jansen/python-algorithms) - Collection of algorithm implementations from various sources plus own creations.
+- [microsoft/NeuralSpeech](https://github.com/microsoft/NeuralSpeech) - 
+- [facebookresearch/mae](https://github.com/facebookresearch/mae) - PyTorch implementation of MAE https//arxiv.org/abs/2111.06377
+- [cookiecutter/cookiecutter-django](https://github.com/cookiecutter/cookiecutter-django) - Cookiecutter Django is a framework for jumpstarting production-ready Django projects quickly.
+- [canonical/cloud-init](https://github.com/canonical/cloud-init) - Official upstream for the cloud-init: cloud instance initialization
+- [microsoft/BiDR](https://github.com/microsoft/BiDR) - Repo for WWW 2022 paper: Progressively Optimized Bi-Granular Document Representation for Scalable Embedding Based Retrieval
+- [microsoft/linux-package-repositories](https://github.com/microsoft/linux-package-repositories) - 
+- [microsoft/KID](https://github.com/microsoft/KID) - Knowledge Infused Decoding
+- [microsoft/FocalNet](https://github.com/microsoft/FocalNet) - Code for Focal Modulation Networks
+- [facebookresearch/distributed-faiss](https://github.com/facebookresearch/distributed-faiss) - A library for building and serving multi-node distributed faiss indices.
+- [facebookresearch/multimodal](https://github.com/facebookresearch/multimodal) - TorchMultimodal is a PyTorch library for training state-of-the-art multimodal multi-task models at scale.
+- [google/wide_bnn_sampling](https://github.com/google/wide_bnn_sampling) - 
+- [TJU-DRL-LAB/Multiagent-RL](https://github.com/TJU-DRL-LAB/Multiagent-RL) - The official code releasement of publications in MARL field of TJU RL lab.
+- [TJU-DRL-LAB/AI-Optimizer](https://github.com/TJU-DRL-LAB/AI-Optimizer) - The next generation deep reinforcement learning framework
+- [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid) - Advanced Multi-Featured Telegram UserBot, Built in Python Using Telethon lib.
+- [orchest/orchest](https://github.com/orchest/orchest) - Build data pipelines, the easy way 🛠️
+- [NVIDIA-Omniverse/IsaacGymEnvs](https://github.com/NVIDIA-Omniverse/IsaacGymEnvs) - Isaac Gym Reinforcement Learning Environments
+- [linkedin/FastTreeSHAP](https://github.com/linkedin/FastTreeSHAP) - Fast SHAP value computation for interpreting tree-based models
+- [elastic/helm-charts](https://github.com/elastic/helm-charts) - You know, for Kubernetes
+- [edilgin/DeepForSpeed](https://github.com/edilgin/DeepForSpeed) - ConvNet learns to play Need For Speed
+- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - changedetection.io - The best and simplest self-hosted free open source website change detection monitoring and notification service. An alternative to Visualping, Watchtower etc. Designed for simplicity - the main goal is to simply monitor which websites had a text change for free. Free Open source web page change detection
+- [datvuthanh/HybridNets](https://github.com/datvuthanh/HybridNets) - HybridNets: End-to-End Perception Network
 - [google/vizier](https://github.com/google/vizier) - Python-based interface for blackbox optimization and research, based on Google's internal Vizier.
 - [huggingface/community-events](https://github.com/huggingface/community-events) - Place where folks can contribute to 🤗 community events
 - [jupyterlite/jupyterlite](https://github.com/jupyterlite/jupyterlite) - Wasm powered Jupyter running in the browser 💡
@@ -8904,7 +8943,7 @@
 - [quark0/darts](https://github.com/quark0/darts) - Differentiable architecture search for convolutional and recurrent networks
 - [sebastianruder/NLP-progress](https://github.com/sebastianruder/NLP-progress) - Repository to track the progress in Natural Language Processing (NLP), including the datasets and the current state-of-the-art for the most common NLP tasks.
 - [mikeyy/nonoCAPTCHA](https://github.com/mikeyy/nonoCAPTCHA) - An asynchronized Python library to automate solving ReCAPTCHA v2 using audio
-- [yzhao062/pyod](https://github.com/yzhao062/pyod) - (JMLR' 19) A Python Toolbox for Scalable Outlier Detection (Anomaly Detection)
+- [yzhao062/pyod](https://github.com/yzhao062/pyod) - A Comprehensive and Scalable Python Library for Outlier Detection (Anomaly Detection)
 - [dizballanze/m00dbot](https://github.com/dizballanze/m00dbot) - Telegram bot for self-testing of anxiety and depression
 - [facebookresearch/supervision-by-registration](https://github.com/facebookresearch/supervision-by-registration) - Supervision-by-Registration: An Unsupervised Approach to Improve the Precision of Facial Landmark Detectors
 - [MasoniteFramework/masonite](https://github.com/MasoniteFramework/masonite) - The Modern And Developer Centric Python Web Framework. Be sure to read the documentation and join the Discord channel for questions: https://discord.gg/TwKeFahmPZ
@@ -10192,7 +10231,7 @@
 - [martinarjovsky/WassersteinGAN](https://github.com/martinarjovsky/WassersteinGAN) - 
 - [x0rz/tweets_analyzer](https://github.com/x0rz/tweets_analyzer) - Tweets metadata scraper & activity analyzer
 - [kylemcdonald/FreeWifi](https://github.com/kylemcdonald/FreeWifi) - How to get free wifi.
-- [readthedocs/commonmark.py](https://github.com/readthedocs/commonmark.py) - Python CommonMark parser
+- [readthedocs/commonmark.py](https://github.com/readthedocs/commonmark.py) - DEPRECATED: Python CommonMark parser
 - [jdh2358/py4science](https://github.com/jdh2358/py4science) - 
 - [asrp/pyzdb](https://github.com/asrp/pyzdb) - A lightweight database with Python syntax queries, using ZeroMQ
 - [intel/Theano](https://github.com/intel/Theano) - This fork of Theano/Theano is dedicated to improve its performance on CPU device, in particular Intel® Xeon® processors and Intel® Xeon Phi™ processors.
@@ -13063,7 +13102,7 @@
 - [areski/python-nvd3](https://github.com/areski/python-nvd3) - Python Wrapper for NVD3 - It's time for beautiful charts
 - [bryancatanzaro/copperhead](https://github.com/bryancatanzaro/copperhead) - Data Parallel Python
 - [skulpt/skulpt](https://github.com/skulpt/skulpt) - Skulpt is a Javascript implementation of the Python programming language
-- [falconry/falcon](https://github.com/falconry/falcon) - The no-nonsense data plane REST API and microservices framework for Python developers, with a focus on reliability, correctness, and performance at scale.
+- [falconry/falcon](https://github.com/falconry/falcon) - The no-nonsense data plane API and microservices framework for Python developers, with a focus on reliability, correctness, and performance at scale.
 - [thomst/logscan](https://github.com/thomst/logscan) - logscan is a command-line-tool to get time-specific access to logfiles. It can handle rotated and gzipped logfiles or reads from stdin. The log   is automatically checked for different timecodes.
 - [thomst/timeparser](https://github.com/thomst/timeparser) - Parse strings to objects of the datetime-module.  This module intends to make string-parsing to objects of the datetime-module as easy as possible while allowing a fine configuration about which kind of formats are supported.
 - [thomst/timeparse](https://github.com/thomst/timeparse) - An argparse-extension for parsing command-line arguments as time-, date-, datetime-, or timedelta-objects.
@@ -13226,6 +13265,10 @@
 - [quantmind/pulsar](https://github.com/quantmind/pulsar) - Event driven concurrent framework for Python
 - [psf/requests](https://github.com/psf/requests) - A simple, yet elegant, HTTP library.
 - [clips/pattern](https://github.com/clips/pattern) - Web mining module for Python, with tools for scraping, natural language processing, machine learning, network analysis and visualization.
+
+## Q# # 
+
+- [microsoft/quantum-curriculum-preview](https://github.com/microsoft/quantum-curriculum-preview) - A preview set of materials from the Microsoft-developed quantum computing curriculum
 
 ## QML 
 
@@ -13805,6 +13848,8 @@
 
 ## TypeScript 
 
+- [microsoft/pwa-toolkit](https://github.com/microsoft/pwa-toolkit) - pwa-toolkit
+- [microsoft/vscode-jupyter-ipywidgets](https://github.com/microsoft/vscode-jupyter-ipywidgets) - NPM module for supporting ipywidgets in vscode-jupyter extension
 - [blacksmithgu/obsidian-dataview](https://github.com/blacksmithgu/obsidian-dataview) - A high-performance data index and query language over Markdown files, for https://obsidian.md/.
 - [Darakah/obsidian-comments-plugin](https://github.com/Darakah/obsidian-comments-plugin) - Simple plugin to add inline comment tooltips as well as a side panel which lists the comments on the current active leaf.
 - [pyrochlore/obsidian-tracker](https://github.com/pyrochlore/obsidian-tracker) - A plugin tracks occurrences and numbers in your notes
