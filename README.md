@@ -2959,7 +2959,7 @@
 - [jsdoc/jsdoc](https://github.com/jsdoc/jsdoc) - An API documentation generator for JavaScript.
 - [kiteco/vscode-plugin](https://github.com/kiteco/vscode-plugin) - Kite Autocomplete Plugin for Visual Studio Code
 - [expressjs/express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 1500 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 1600 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [marcotcr/lime](https://github.com/marcotcr/lime) - Lime: Explaining the predictions of any machine learning classifier
 - [microsoft/botframework-sdk](https://github.com/microsoft/botframework-sdk) - Bot Framework provides the most comprehensive experience for building conversation applications.
 - [lukeed/uuid](https://github.com/lukeed/uuid) - A tiny (~230B)and fast UUID (V4) generator for Node and the browser
@@ -3632,7 +3632,7 @@
 - [yishn/tikzcd-editor](https://github.com/yishn/tikzcd-editor) - A simple visual editor for creating commutative diagrams.
 - [franciscop/server](https://github.com/franciscop/server) - :desktop_computer: Simple and powerful server for Node.js
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (February 2022)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (March 2022)
 - [frappe/charts](https://github.com/frappe/charts) - Simple, responsive, modern SVG Charts with zero dependencies
 - [elesdoar/leaflet-control-orderlayers](https://github.com/elesdoar/leaflet-control-orderlayers) - Leaflet control with order functionality
 - [google/bottery](https://github.com/google/bottery) - 
@@ -4525,7 +4525,7 @@
 - [yandexdataschool/deep_vision_and_graphics](https://github.com/yandexdataschool/deep_vision_and_graphics) - Course about deep learning for computer vision and graphics co-developed by YSDA and Skoltech.
 - [google/physics-math-tutorials](https://github.com/google/physics-math-tutorials) - 
 - [ShapeAI/Python-and-Machine-Learning](https://github.com/ShapeAI/Python-and-Machine-Learning) - 6th Feb 2021
-- [pymc-devs/pymc_resources](https://github.com/pymc-devs/pymc_resources) - PyMC3 educational resources
+- [pymc-devs/pymc-resources](https://github.com/pymc-devs/pymc-resources) - PyMC3 educational resources
 - [aswintechguy/Machine-Learning-Projects](https://github.com/aswintechguy/Machine-Learning-Projects) - This repository contains mini projects in machine learning with notebook files
 - [PradyumnaKrishna/Colab-Hacks](https://github.com/PradyumnaKrishna/Colab-Hacks) - Simple Hacks for Google Colaboratory to boost your productivity and help you to perform daily tasks.
 - [jeonsworld/ViT-pytorch](https://github.com/jeonsworld/ViT-pytorch) - Pytorch reimplementation of the Vision Transformer (An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale)
@@ -12697,7 +12697,7 @@
 - [rasbt/pyprind](https://github.com/rasbt/pyprind) - PyPrind - Python Progress Indicator Utility
 - [jminardi/syncnet](https://github.com/jminardi/syncnet) - A decentralized browser
 - [chrissimpkins/naked](https://github.com/chrissimpkins/naked) - A Python command line application framework
-- [apache/libcloud](https://github.com/apache/libcloud) - Apache Libcloud is a Python library which hides differences between different cloud provider APIs and allows you to manage different cloud resources through a unified and easy to use API
+- [apache/libcloud](https://github.com/apache/libcloud) - Apache Libcloud is a Python library which hides differences between different cloud provider APIs and allows you to manage different cloud resources through a unified and easy to use API.
 - [mking/flask-uwsgi](https://github.com/mking/flask-uwsgi) - Tutorial for setting up Flask with uWSGI + Nginx
 - [pimutils/khal](https://github.com/pimutils/khal) - :calendar: CLI calendar application
 - [devsnd/tinytag](https://github.com/devsnd/tinytag) - Read audio and music meta data and duration of MP3, OGG, OPUS, MP4, M4A, FLAC, WMA, Wave and AIFF files with python 2 or 3
@@ -13807,6 +13807,7 @@
 
 ## TeX 
 
+- [cnlinxi/book-text-to-speech](https://github.com/cnlinxi/book-text-to-speech) - A book about Text-to-Speech (TTS) in Chinese.
 - [aaronwangy/Data-Science-Cheatsheet](https://github.com/aaronwangy/Data-Science-Cheatsheet) - A helpful 5-page machine learning cheatsheet to assist with exam reviews, interview prep, and anything in-between.
 - [facebookresearch/amortized-optimization-tutorial](https://github.com/facebookresearch/amortized-optimization-tutorial) - Tutorial on amortized optimization for learning to optimize over continuous domains
 - [awni/future_speech](https://github.com/awni/future_speech) - The History of Speech Recognition to the Year 2030
