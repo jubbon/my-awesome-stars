@@ -2909,6 +2909,7 @@
 
 ## JavaScript 
 
+- [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible
 - [facebookresearch/speech_translation](https://github.com/facebookresearch/speech_translation) - Demo and samples for universal speech translator
 - [QuantStack/leaflet-splitmap](https://github.com/QuantStack/leaflet-splitmap) - A Leaflet control to compare two map layers
 - [QuantStack/jupyterlab-drawio](https://github.com/QuantStack/jupyterlab-drawio) - A standalone embedding of the FOSS drawio / mxgraph package into jupyterlab
@@ -5968,6 +5969,7 @@
 
 ## Others 
 
+- [microsoft/XPretrain](https://github.com/microsoft/XPretrain) - Multi-modality pre-training
 - [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
 - [microsoft/vscode-embedded-tools](https://github.com/microsoft/vscode-embedded-tools) - Official issue tracking repository for Microsoft's Embedded Tools VS Code extension.
 - [microsoft/rise](https://github.com/microsoft/rise) - Research in Software Engineering Tools
@@ -7124,6 +7126,9 @@
 
 ## Python 
 
+- [VSainteuf/pytorch-psetae](https://github.com/VSainteuf/pytorch-psetae) - PyTorch implementation of the model presented in "Satellite Image Time Series Classification with Pixel-Set Encoders and Temporal Self-Attention"
+- [alexeykosh/lingcorpora.py](https://github.com/alexeykosh/lingcorpora.py) - API for corpora
+- [lingcorpora/lingcorpora.py](https://github.com/lingcorpora/lingcorpora.py) - API for corpora
 - [stefan-jansen/python-algorithms](https://github.com/stefan-jansen/python-algorithms) - Collection of algorithm implementations from various sources plus own creations.
 - [microsoft/NeuralSpeech](https://github.com/microsoft/NeuralSpeech) - 
 - [facebookresearch/mae](https://github.com/facebookresearch/mae) - PyTorch implementation of MAE https//arxiv.org/abs/2111.06377
@@ -12203,7 +12208,7 @@
 - [myusuf3/chain-python](https://github.com/myusuf3/chain-python) - The Unofficial Python SDK for Chain's Bitcoin API
 - [ambitioninc/django-query-builder](https://github.com/ambitioninc/django-query-builder) - Build complex queries for Django
 - [jabbalaci/django-show_urls-formatter](https://github.com/jabbalaci/django-show_urls-formatter) - Beautify the output of `manage.py show_urls`.
-- [duponchelle/python-mysql-replication](https://github.com/duponchelle/python-mysql-replication) - Pure Python Implementation of MySQL replication protocol build on top of PyMYSQL
+- [julien-duponchelle/python-mysql-replication](https://github.com/julien-duponchelle/python-mysql-replication) - Pure Python Implementation of MySQL replication protocol build on top of PyMYSQL
 - [miha-stopar/nnets](https://github.com/miha-stopar/nnets) - Python neural network library
 - [menegazzo/travispy](https://github.com/menegazzo/travispy) - LOOKING FOR SOMEONE TO TRANSFER OWNERSHIP - Travis CI API for Python
 - [astropy/astropy](https://github.com/astropy/astropy) - Astronomy and astrophysics core library
