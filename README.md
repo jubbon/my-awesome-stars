@@ -4248,7 +4248,6 @@
 - [plouc/mozaik](https://github.com/plouc/mozaik) - Mozaïk is a tool based on nodejs / react / redux / nivo / d3 to easily craft beautiful dashboards
 - [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - 📝 Modern documentation format and toolchain using Git and Markdown
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
-- [aurelia/framework](https://github.com/aurelia/framework) - The Aurelia 1 framework entry point, bringing together all the required sub-modules of Aurelia.
 - [OnsenUI/OnsenUI](https://github.com/OnsenUI/OnsenUI) - Mobile app development framework and SDK using HTML5 and JavaScript. Create beautiful and performant cross-platform mobile apps. Based on Web Components, and provides bindings for Angular 1, 2, React and Vue.js.
 - [angular-ui/ui-map](https://github.com/angular-ui/ui-map) - Google Maps
 - [Semantic-Org/Semantic-UI](https://github.com/Semantic-Org/Semantic-UI) - Semantic is a UI component framework based around useful principles from natural language.
@@ -4468,6 +4467,7 @@
 
 ## Jupyter Notebook 
 
+- [AndreyBocharnikov/FastSpeech_Seminar](https://github.com/AndreyBocharnikov/FastSpeech_Seminar) - 
 - [williamyang1991/DualStyleGAN](https://github.com/williamyang1991/DualStyleGAN) - [CVPR 2022] Pastiche Master: Exemplar-Based High-Resolution Portrait Style Transfer
 - [microsoft/mutransformers](https://github.com/microsoft/mutransformers) - some common Huggingface transformers in maximal update parametrization (µP)
 - [microsoft/responsible-ai-workshop](https://github.com/microsoft/responsible-ai-workshop) - Responsible AI Workshop: a series of tutorials & walkthroughs to illustrate how put responsible AI into practice
@@ -6001,7 +6001,7 @@
 - [deepa314/JAVASCRIPT_NOTES](https://github.com/deepa314/JAVASCRIPT_NOTES) - JAVASCRIPT NOTES SHORT AND UNDERSTANDABLE
 - [dcbuild3r/blockchain-development-guide](https://github.com/dcbuild3r/blockchain-development-guide) - Devpill.me - A Public Good Blockchain Development Guide
 - [danieldurnea/FBI-tools](https://github.com/danieldurnea/FBI-tools) - Tools for gathering information and actions forensic
-- [dair-ai/ML-YouTube-Courses](https://github.com/dair-ai/ML-YouTube-Courses) - 📺  A repository to index and organize the latest machine learning courses found on YouTube.
+- [dair-ai/ML-YouTube-Courses](https://github.com/dair-ai/ML-YouTube-Courses) - 📺  A place to discover the latest machine learning courses on YouTube.
 - [dair-ai/ml-visuals](https://github.com/dair-ai/ml-visuals) - 🎨 ML Visuals contains figures and templates which you can reuse and customize to improve your scientific writing.
 - [cyprosecurity/API-SecurityEmpire](https://github.com/cyprosecurity/API-SecurityEmpire) - API Security Project aims to present unique attack & defense methods in API Security field
 - [codez0mb1e/resistance](https://github.com/codez0mb1e/resistance) - Pre-crisis Risk Management for Personal Finance
@@ -7126,6 +7126,7 @@
 
 ## Python 
 
+- [lkiesow/python-feedgen](https://github.com/lkiesow/python-feedgen) - Python module to generate ATOM feeds, RSS feeds and Podcasts.
 - [VSainteuf/pytorch-psetae](https://github.com/VSainteuf/pytorch-psetae) - PyTorch implementation of the model presented in "Satellite Image Time Series Classification with Pixel-Set Encoders and Temporal Self-Attention"
 - [alexeykosh/lingcorpora.py](https://github.com/alexeykosh/lingcorpora.py) - API for corpora
 - [lingcorpora/lingcorpora.py](https://github.com/lingcorpora/lingcorpora.py) - API for corpora
@@ -14191,6 +14192,7 @@
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 - [PaulLeCam/react-leaflet](https://github.com/PaulLeCam/react-leaflet) - React components for Leaflet maps
 - [n3-charts/line-chart](https://github.com/n3-charts/line-chart) - Awesome charts for AngularJS.
+- [aurelia/framework](https://github.com/aurelia/framework) - The Aurelia 1 framework entry point, bringing together all the required sub-modules of Aurelia.
 - [howdyai/botkit](https://github.com/howdyai/botkit) - Botkit is an open source developer tool for building chat bots, apps and custom integrations for major messaging platforms.
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [babel/babel](https://github.com/babel/babel) - 🐠 Babel is a compiler for writing next generation JavaScript.
