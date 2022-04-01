@@ -2502,7 +2502,6 @@
 - [jgraph/mxgraph](https://github.com/jgraph/mxgraph) - mxGraph is a fully client side JavaScript diagramming library
 - [kennethreitz-archive/awesome-cdn](https://github.com/kennethreitz-archive/awesome-cdn) - CDNjs for Humans.
 - [securitytxt/security-txt](https://github.com/securitytxt/security-txt) - A proposed standard that allows websites to define security policies.
-- [paperswithcode/ai-deadlines](https://github.com/paperswithcode/ai-deadlines) - :alarm_clock: AI conference deadline countdowns
 - [GoogleChrome/samples](https://github.com/GoogleChrome/samples) - A repo containing samples tied to new functionality in each release of Google Chrome.
 - [docker/docker.github.io](https://github.com/docker/docker.github.io) - Source repo for Docker's Documentation
 - [Kasheftin/RoutePlanner](https://github.com/Kasheftin/RoutePlanner) - Simple free and open source tool for planning routes
@@ -2697,7 +2696,7 @@
 - [gkamradt/ryd.io](https://github.com/gkamradt/ryd.io) - 
 - [kdheepak/c3.py](https://github.com/kdheepak/c3.py) - Commit Counter Chart is a Python Flask app to view git history using D3.js
 - [tambetm/simple_dqn](https://github.com/tambetm/simple_dqn) - Simple deep Q-learning agent.
-- [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) - DefectDojo is an open-source application vulnerability correlation and security orchestration tool.
+- [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) - DefectDojo is an open-source DevSecOps and vulnerability management tool.
 - [ben-albrecht/PythonWorkshop2015](https://github.com/ben-albrecht/PythonWorkshop2015) - This is the repository for the Simulations and Modeling (SaM) Python Workshop, Spring 2015.
 - [moyaproject/moya](https://github.com/moyaproject/moya) - Web development platform
 - [chrisalbon/code_py](https://github.com/chrisalbon/code_py) - A collection of well-commented code snippets for data science
@@ -2828,7 +2827,6 @@
 - [floatinghotpot/cordova-plugin-sms](https://github.com/floatinghotpot/cordova-plugin-sms) - Plugin to operate SMS, send / list / intercept / delete / restore
 - [cordova-sms/cordova-sms-plugin](https://github.com/cordova-sms/cordova-sms-plugin) - Cross-platform plugin for Cordova / PhoneGap to send SMS. Available for Android, iOS, and Windows Phone 8.
 - [stfalcon-studio/SmsVerifyCatcher](https://github.com/stfalcon-studio/SmsVerifyCatcher) - Android library for phone number verification feature in your app. Automatically copies verification code from SMS right into the app. Made by Stfalcon
-- [GoogleCloudPlatform/community](https://github.com/GoogleCloudPlatform/community) - This repository holds the content submitted to https://cloud.google.com/community. Files added to the tutorials/ directory will appear at https://cloud.google.com/community/tutorials.
 - [llSourcell/A_Guide_to_Running_Tensorflow_Models_on_Android](https://github.com/llSourcell/A_Guide_to_Running_Tensorflow_Models_on_Android) - This is the code for"A Guide to Running Tensorflow Models on Android" By SIraj Raval on Youtube
 - [olacabs/jackhammer](https://github.com/olacabs/jackhammer) - Jackhammer - One Security vulnerability assessment/management tool to solve all the security team problems.
 - [ICT-BDA/EasyML](https://github.com/ICT-BDA/EasyML) - Easy Machine Learning is a general-purpose dataflow-based system for easing the process of applying machine learning algorithms to real world tasks.
@@ -3719,6 +3717,7 @@
 - [esbenp/pdf-bot](https://github.com/esbenp/pdf-bot) - 🤖 A Node queue API for generating PDFs using headless Chrome. Comes with a CLI, S3 storage and webhooks for notifying subscribers about generated PDFs
 - [ayojs/ayo](https://github.com/ayojs/ayo) - A fork of Node.js. Humans before technology.
 - [ectoflow/vue-stripe-elements](https://github.com/ectoflow/vue-stripe-elements) - A Vue 2 component collection for Stripe.js
+- [paperswithcode/ai-deadlines](https://github.com/paperswithcode/ai-deadlines) - :alarm_clock: AI conference deadline countdowns
 - [standard-things/esm](https://github.com/standard-things/esm) - Tomorrow's ECMAScript modules today!
 - [luosijie/vue-resume](https://github.com/luosijie/vue-resume) - Resume template based on Vue
 - [notifme/notifme-sdk](https://github.com/notifme/notifme-sdk) - A Node.js library to send all kinds of transactional notifications.
@@ -7127,6 +7126,10 @@
 
 ## Python 
 
+- [itlab-vision/satellite_images_processing](https://github.com/itlab-vision/satellite_images_processing) - 
+- [itlab-vision/CV-SUMMER-CAMP-2021](https://github.com/itlab-vision/CV-SUMMER-CAMP-2021) - 
+- [sns-sdks/python-youtube](https://github.com/sns-sdks/python-youtube) - A simple Python wrapper around for YouTube Data API :sparkles: :cake: :sparkles: .
+- [huggingface/course](https://github.com/huggingface/course) - The Hugging Face course
 - [lkiesow/python-feedgen](https://github.com/lkiesow/python-feedgen) - Python module to generate ATOM feeds, RSS feeds and Podcasts.
 - [VSainteuf/pytorch-psetae](https://github.com/VSainteuf/pytorch-psetae) - PyTorch implementation of the model presented in "Satellite Image Time Series Classification with Pixel-Set Encoders and Temporal Self-Attention"
 - [alexeykosh/lingcorpora.py](https://github.com/alexeykosh/lingcorpora.py) - API for corpora
@@ -8405,7 +8408,7 @@
 - [princeton-vl/CornerNet-Lite](https://github.com/princeton-vl/CornerNet-Lite) - 
 - [kennethreitz-archive/requests3](https://github.com/kennethreitz-archive/requests3) - Requests 3.0, for Humans and Machines, alike. 🤖
 - [lxtGH/OctaveConv_pytorch](https://github.com/lxtGH/OctaveConv_pytorch) - Pytorch implementation of newly added convolution
-- [ines/spacy-course](https://github.com/ines/spacy-course) - 👩‍🏫 Advanced NLP with spaCy: A free online course
+- [explosion/spacy-course](https://github.com/explosion/spacy-course) - 👩‍🏫 Advanced NLP with spaCy: A free online course
 - [terrychenism/OctaveConv](https://github.com/terrychenism/OctaveConv) - A MXNet Implementation for Drop an Octave
 - [HKUST-Aerial-Robotics/Stereo-RCNN](https://github.com/HKUST-Aerial-Robotics/Stereo-RCNN) - Code for 'Stereo R-CNN based 3D Object Detection for Autonomous Driving' (CVPR 2019)
 - [tianzhi0549/FCOS](https://github.com/tianzhi0549/FCOS) - FCOS: Fully Convolutional One-Stage Object Detection (ICCV'19)
@@ -9877,6 +9880,7 @@
 - [benfred/implicit](https://github.com/benfred/implicit) - Fast Python Collaborative Filtering for Implicit Feedback Datasets
 - [drvinceknight/Nashpy](https://github.com/drvinceknight/Nashpy) - A library for the computation of Nash equilibria in two player games
 - [dizballanze/django-admin-env-notice](https://github.com/dizballanze/django-admin-env-notice) - Visually distinguish environments in Django Admin
+- [GoogleCloudPlatform/community](https://github.com/GoogleCloudPlatform/community) - This repository holds the content submitted to https://cloud.google.com/community. Files added to the tutorials/ directory will appear at https://cloud.google.com/community/tutorials.
 - [raghakot/keras-vis](https://github.com/raghakot/keras-vis) - Neural network visualization toolkit for keras
 - [linkedin/iris](https://github.com/linkedin/iris) - Iris is a highly configurable and flexible service for paging and messaging.
 - [JianGoForIt/YellowFin_Pytorch](https://github.com/JianGoForIt/YellowFin_Pytorch) - auto-tuning momentum SGD optimizer
