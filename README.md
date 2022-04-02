@@ -505,7 +505,6 @@
 
 ## C++ 
 
-- [open-mmlab/mmdeploy](https://github.com/open-mmlab/mmdeploy) - OpenMMLab Model Deployment Framework
 - [anyks/alm](https://github.com/anyks/alm) - Smart Language Model
 - [vchahun/kenlm](https://github.com/vchahun/kenlm) - KenLM: Faster and Smaller Language Model Queries
 - [triton-inference-server/backend](https://github.com/triton-inference-server/backend) - Common source, scripts and utilities for creating Triton backends.
@@ -2244,7 +2243,6 @@
 - [shower/shower](https://github.com/shower/shower) - Shower HTML presentation engine
 - [speechbrain/speechbrain.github.io](https://github.com/speechbrain/speechbrain.github.io) - The SpeechBrain project aims to build a novel speech toolkit fully based on PyTorch. With SpeechBrain users can easily create speech processing systems, ranging from speech recognition (both HMM/DNN and end-to-end), speaker recognition, speech enhancement, speech separation, multi-microphone speech processing, and many others.
 - [bobbyiliev/introduction-to-bash-scripting](https://github.com/bobbyiliev/introduction-to-bash-scripting) - Free Introduction to Bash Scripting eBook
-- [VladislavEremeev/QA_bible](https://github.com/VladislavEremeev/QA_bible) - “Библия QA” - это копилка полезностей объемом 370+ страниц
 - [mixmark-io/turndown](https://github.com/mixmark-io/turndown) - 🛏 An HTML to Markdown converter written in JavaScript
 - [Azure/actions](https://github.com/Azure/actions) - Author and use Azure Actions to automate your GitHub workflows
 - [buriy/nlp_workshop](https://github.com/buriy/nlp_workshop) - nlp workshop at datafest siberia 2019
@@ -6100,6 +6098,7 @@
 - [igoradamenko/awesome-made-by-russians](https://github.com/igoradamenko/awesome-made-by-russians) - 🇷🇺 The best open source projects that were made and mainly contributed by Russian developers
 - [visenger/awesome-mlops](https://github.com/visenger/awesome-mlops) - A curated list of references for MLOps
 - [mrdbourke/machine-learning-roadmap](https://github.com/mrdbourke/machine-learning-roadmap) - A roadmap connecting many of the most important concepts in machine learning, how to learn them and what tools to use to perform them.
+- [VladislavEremeev/QA_bible](https://github.com/VladislavEremeev/QA_bible) - “Библия QA” - это обновляемая база знаний объемом 560+ страниц
 - [microsoft/sql-server-samples](https://github.com/microsoft/sql-server-samples) - Azure Data SQL Samples - Official Microsoft GitHub Repository containing code samples for SQL Server, Azure SQL, Azure Synapse, and Azure SQL Edge
 - [datastacktv/data-engineer-roadmap](https://github.com/datastacktv/data-engineer-roadmap) - Roadmap to becoming a data engineer in 2021
 - [balavenkatesh3322/NLP-pretrained-model](https://github.com/balavenkatesh3322/NLP-pretrained-model) - A collection of Natural language processing pre-trained models.
@@ -7147,7 +7146,7 @@
 - [facebookresearch/multimodal](https://github.com/facebookresearch/multimodal) - TorchMultimodal is a PyTorch library for training state-of-the-art multimodal multi-task models at scale.
 - [google/wide_bnn_sampling](https://github.com/google/wide_bnn_sampling) - 
 - [TJU-DRL-LAB/Multiagent-RL](https://github.com/TJU-DRL-LAB/Multiagent-RL) - The official code releasement of publications in MARL field of TJU RL lab.
-- [TJU-DRL-LAB/AI-Optimizer](https://github.com/TJU-DRL-LAB/AI-Optimizer) - The next generation deep reinforcement learning framework
+- [TJU-DRL-LAB/AI-Optimizer](https://github.com/TJU-DRL-LAB/AI-Optimizer) - The next generation deep reinforcement learning tookit
 - [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid) - Advanced Multi-Featured Telegram UserBot, Built in Python Using Telethon lib.
 - [orchest/orchest](https://github.com/orchest/orchest) - Build data pipelines, the easy way 🛠️
 - [NVIDIA-Omniverse/IsaacGymEnvs](https://github.com/NVIDIA-Omniverse/IsaacGymEnvs) - Isaac Gym Reinforcement Learning Environments
@@ -7172,6 +7171,7 @@
 - [royorel/StyleSDF](https://github.com/royorel/StyleSDF) - 
 - [remzi-arpacidusseau/ostep-homework](https://github.com/remzi-arpacidusseau/ostep-homework) - 
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A supercharged version of paperless: scan, index and archive all your physical documents
+- [open-mmlab/mmdeploy](https://github.com/open-mmlab/mmdeploy) - OpenMMLab Model Deployment Framework
 - [mxrch/GHunt](https://github.com/mxrch/GHunt) - 🕵️‍♂️ Offensive Google framework.
 - [mttr2021/MTTR](https://github.com/mttr2021/MTTR) - 
 - [microsoft/playwright-python](https://github.com/microsoft/playwright-python) - Python version of the Playwright testing and automation library.
@@ -7397,7 +7397,7 @@
 - [deepmind/alphafold](https://github.com/deepmind/alphafold) - Open source code for AlphaFold.
 - [facebookresearch/covid19_spread](https://github.com/facebookresearch/covid19_spread) - Modeling the spread of COVID-19
 - [instadeepai/Mava](https://github.com/instadeepai/Mava) - A library of multi-agent reinforcement learning components and systems
-- [jacobgil/pytorch-grad-cam](https://github.com/jacobgil/pytorch-grad-cam) - Many Class Activation Map methods implemented in Pytorch for CNNs and Vision Transformers. Including Grad-CAM, Grad-CAM++, Score-CAM, Ablation-CAM and XGrad-CAM
+- [jacobgil/pytorch-grad-cam](https://github.com/jacobgil/pytorch-grad-cam) - Many Class Activation Map methods implemented in Pytorch for CNNs and Vision Transformers. Examples for classification, object detection, segmentation, embedding networks and more. Including Grad-CAM, Grad-CAM++, Score-CAM, Ablation-CAM and XGrad-CAM
 - [jupyterhub/jupyterhub-deploy-docker](https://github.com/jupyterhub/jupyterhub-deploy-docker) - Reference deployment of JupyterHub with docker
 - [alexmojaki/snoop](https://github.com/alexmojaki/snoop) - A powerful set of Python debugging tools, based on PySnooper
 - [couler-proj/couler](https://github.com/couler-proj/couler) - Unified Interface for Constructing and Managing Workflows on different workflow engines, such as Argo Workflows, Tekton Pipelines, and Apache Airflow.
@@ -11686,7 +11686,7 @@
 - [agateblue/django-dynamic-preferences](https://github.com/agateblue/django-dynamic-preferences) - Dynamic global and instance settings for your django project
 - [GedRap/xs-vm](https://github.com/GedRap/xs-vm) - eXtremely small virtual machine -- for educational purposes :)
 - [palewire/django-postgres-copy](https://github.com/palewire/django-postgres-copy) - Quickly import and export delimited data with Django support for PostgreSQL's COPY command
-- [ibis-project/ibis](https://github.com/ibis-project/ibis) - Expressive analytics in Python, whatever the scale.
+- [ibis-project/ibis](https://github.com/ibis-project/ibis) - Expressive analytics in Python at any scale.
 - [ekampf/pymaybe](https://github.com/ekampf/pymaybe) - A Python implementation of the Maybe pattern
 - [facebookarchive/codemod](https://github.com/facebookarchive/codemod) - Codemod is a tool/library to assist you with large-scale codebase refactors that can be partially automated but still require human oversight and occasional intervention. Codemod was developed at Facebook and released as open source.
 - [nexB/scancode-toolkit](https://github.com/nexB/scancode-toolkit) - :mag_right: ScanCode detects licenses, copyrights, package manifests & dependencies and more by scanning code ... to discover and inventory open source and third-party packages used in your code.
@@ -14528,7 +14528,7 @@
 - [fuse-box/fuse-box-vue-seed](https://github.com/fuse-box/fuse-box-vue-seed) - Get started with Vue.js using FuseBox module loader and bundler
 - [odranoelBR/vue-quasar-admin-example](https://github.com/odranoelBR/vue-quasar-admin-example) - Example of quasar admin
 - [yTakkar/Vue-Mini-Social-Network](https://github.com/yTakkar/Vue-Mini-Social-Network) - A reactive mini-social-network created with Vue!! 🏳️‍🌈🤞 - No longer maintained.
-- [Requarks/wiki](https://github.com/Requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
+- [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
 - [GeoffZhu/vue-event-calendar](https://github.com/GeoffZhu/vue-event-calendar) - A simple events calendar for Vue2, no dependencies except Vue2.
 - [euvl/vue-js-grid](https://github.com/euvl/vue-js-grid) - :bento:  Vue.js 2.x responsive grid system with smooth sorting, drag-n-drop and reordering
 - [alexsasharegan/vue-transmit](https://github.com/alexsasharegan/vue-transmit) - Vue.js drag & drop uploader based on Dropzone.js
