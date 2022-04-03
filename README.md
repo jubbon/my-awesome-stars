@@ -173,7 +173,7 @@
 - [cesanta/mongoose](https://github.com/cesanta/mongoose) - Embedded Web Server
 - [unicorn-engine/unicorn](https://github.com/unicorn-engine/unicorn) - Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, PowerPC, RiscV, S390x, X86)
 - [bvschaik/julius](https://github.com/bvschaik/julius) - An open source re-implementation of Caesar III
-- [Inori/GPCS4](https://github.com/Inori/GPCS4) - A Playstation 4 emulator just begin
+- [Inori/GPCS4](https://github.com/Inori/GPCS4) - A work-in-progress PlayStation 4 emulator.
 - [libretro/RetroArch](https://github.com/libretro/RetroArch) - Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.
 - [pawelsalawa/sqlitestudio](https://github.com/pawelsalawa/sqlitestudio) - A free, open source, multi-platform SQLite database manager.
 - [openzfs/zfs](https://github.com/openzfs/zfs) - OpenZFS on Linux and FreeBSD
@@ -1553,7 +1553,7 @@
 - [onepanelio/onepanel](https://github.com/onepanelio/onepanel) - The open source, end-to-end computer vision platform. Label, build, train, tune, deploy and automate in a unified platform that runs on any cloud and on-premises.
 - [george-e-shaw-iv/integration-tests-example](https://github.com/george-e-shaw-iv/integration-tests-example) - An example project showcasing how Ardan Labs writes integration tests
 - [mattermost/mattermost-server](https://github.com/mattermost/mattermost-server) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.
-- [ory/kratos](https://github.com/ory/kratos) - Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, profile management, identity schemas, social sign in, registration, account recovery, and IoT auth. Golang, headless, API-only - without templating or theming headaches.
+- [ory/kratos](https://github.com/ory/kratos) - Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, profile management, identity schemas, social sign in, registration, account recovery, passwordless. Golang, headless, API-only - without templating or theming headaches.
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – It's Git for Data
 - [dstotijn/hetty](https://github.com/dstotijn/hetty) - An HTTP toolkit for security research.
 - [nakabonne/ali](https://github.com/nakabonne/ali) - Generate HTTP load and plot the results in real-time
@@ -4464,6 +4464,13 @@
 
 ## Jupyter Notebook 
 
+- [orlandpm/Math-for-Programmers](https://github.com/orlandpm/Math-for-Programmers) - Source code for the book, Math for Programmers
+- [nathanhubens/fasterai](https://github.com/nathanhubens/fasterai) - FasterAI: Prune and Distill your models with FastAI and PyTorch
+- [ziritrion/dataeng-zoomcamp](https://github.com/ziritrion/dataeng-zoomcamp) - 
+- [kakaobrain/rq-vae-transformer](https://github.com/kakaobrain/rq-vae-transformer) - The official implementation of Autoregressive Image Generation using Residual Quantization (CVPR '22)
+- [alembics/disco-diffusion](https://github.com/alembics/disco-diffusion) - 
+- [AbdullahO/tspdb](https://github.com/AbdullahO/tspdb) - tspdb: Time Series Predict DB
+- [AammarTufail/machinelearning_ka_chilla](https://github.com/AammarTufail/machinelearning_ka_chilla) - 
 - [marcotcr/checklist](https://github.com/marcotcr/checklist) - Beyond Accuracy: Behavioral Testing of NLP models with CheckList
 - [AndreyBocharnikov/FastSpeech_Seminar](https://github.com/AndreyBocharnikov/FastSpeech_Seminar) - 
 - [williamyang1991/DualStyleGAN](https://github.com/williamyang1991/DualStyleGAN) - [CVPR 2022] Pastiche Master: Exemplar-Based High-Resolution Portrait Style Transfer
@@ -6037,7 +6044,7 @@
 - [ABZ-Aaron/CheatSheets](https://github.com/ABZ-Aaron/CheatSheets) - Just a place to store cheatsheets
 - [codebasics/roadmaps](https://github.com/codebasics/roadmaps) - This repo is to add pages on various career paths and roadmaps such as data scientist, software engineer etc.
 - [weeeBox/mobile-system-design](https://github.com/weeeBox/mobile-system-design) - A simple framework for mobile system design interviews
-- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ Uptime monitor and status page powered by GitHub Actions, Issues, and Pages
+- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ Free uptime monitor and status page powered by GitHub
 - [github/feedback](https://github.com/github/feedback) - Public feedback discussions for: GitHub for Mobile, GitHub Discussions, GitHub Codespaces, GitHub Sponsors, GitHub Issues and more!
 - [Chanda-Abdul/Grokking-the-Coding-Interview-Patterns](https://github.com/Chanda-Abdul/Grokking-the-Coding-Interview-Patterns) - This course categorizes coding interview problems into a set of 16 patterns. Each pattern will be a complete tool - consisting of data structures, algorithms, and analysis techniques - to solve a specific category of problems. The goal is to develop an understanding of the underlying pattern, so that, we can apply that pattern to solve other problems.
 - [microsoft/dev-container-spec](https://github.com/microsoft/dev-container-spec) - Development Containers: Use a Docker container as a full-featured development environment.
