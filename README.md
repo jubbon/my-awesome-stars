@@ -4739,7 +4739,7 @@
 - [fastai/book_nbs](https://github.com/fastai/book_nbs) - Notebooks for upcoming fastai book (draft / incomplete)
 - [microsoft/tigertoolbox](https://github.com/microsoft/tigertoolbox) - Toolbox repository for Tiger team
 - [IBM/claimed](https://github.com/IBM/claimed) - 
-- [MouseLand/cellpose](https://github.com/MouseLand/cellpose) - a generalist algorithm for cellular segmentation
+- [MouseLand/cellpose](https://github.com/MouseLand/cellpose) - a generalist algorithm for cellular segmentation with human-in-the-loop capabilities
 - [Yorko/dl_in_nlp_deeppavlov_cs224n_spring2020](https://github.com/Yorko/dl_in_nlp_deeppavlov_cs224n_spring2020) - "Deep Learning in Natural Language Processing" - a course by DeepPavlov built on top of Stanford's cs224n
 - [harvardnlp/pytorch-struct](https://github.com/harvardnlp/pytorch-struct) - Fast, general, and tested differentiable structured prediction in PyTorch
 - [areed1192/sigma_coding_youtube](https://github.com/areed1192/sigma_coding_youtube) - This is a collection of all the code that can be found on my YouTube channel Sigma Coding.
@@ -6016,7 +6016,7 @@
 - [apptension/developer-handbook](https://github.com/apptension/developer-handbook) - An opinionated guide on how to become a professional Web/Mobile App Developer.
 - [antfu/vscode-settings](https://github.com/antfu/vscode-settings) - My VS Code settings and extensions
 - [Akshaya-Amar/Free-Programming-Books](https://github.com/Akshaya-Amar/Free-Programming-Books) - Free Programming eBooks
-- [6mile/DevSecOps-Playbook](https://github.com/6mile/DevSecOps-Playbook) - 
+- [6mile/DevSecOps-Playbook](https://github.com/6mile/DevSecOps-Playbook) - This is a step-by-step guide to implementing a DevSecOps program for any size organization
 - [omnia-russica/omnia-russica.github.io](https://github.com/omnia-russica/omnia-russica.github.io) - corpus project website
 - [omnia-russica/pipeline](https://github.com/omnia-russica/pipeline) - text processing scripts
 - [Atmyre/it-job-search](https://github.com/Atmyre/it-job-search) - 
@@ -10322,7 +10322,7 @@
 - [pender/chatbot-rnn](https://github.com/pender/chatbot-rnn) - A toy chatbot powered by deep learning and trained on data from Reddit
 - [YearOfProgramming/2017Challenges](https://github.com/YearOfProgramming/2017Challenges) - Join our slack channel
 - [jekil/awesome-hacking](https://github.com/jekil/awesome-hacking) - Awesome hacking is an awesome collection of hacking tools.
-- [trufflesecurity/truffleHog](https://github.com/trufflesecurity/truffleHog) - Searches through git repositories for high entropy strings and secrets, digging deep into commit history
+- [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find credentials all over the place
 - [kevinhughes27/TensorKart](https://github.com/kevinhughes27/TensorKart) - self-driving MarioKart with TensorFlow
 - [humphd/have-fun-with-machine-learning](https://github.com/humphd/have-fun-with-machine-learning) - An absolute beginner's guide to Machine Learning and Image Classification with Neural Networks
 - [udacity/CarND-Term1-Starter-Kit](https://github.com/udacity/CarND-Term1-Starter-Kit) - 
