@@ -2104,6 +2104,7 @@
 - [olebedev/when](https://github.com/olebedev/when) - A natural language date/time parser with pluggable rules
 - [gobuffalo/buffalo](https://github.com/gobuffalo/buffalo) - Rapid Web Development w/ Go
 - [google/keytransparency](https://github.com/google/keytransparency) - A transparent and secure way to look up public keys.
+- [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find credentials all over the place
 - [tidwall/tile38](https://github.com/tidwall/tile38) - Real-time Geospatial and Geofencing
 - [google/grumpy](https://github.com/google/grumpy) - Grumpy is a Python to Go source code transcompiler and runtime.
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service
@@ -2955,7 +2956,7 @@
 - [jsdoc/jsdoc](https://github.com/jsdoc/jsdoc) - An API documentation generator for JavaScript.
 - [kiteco/vscode-plugin](https://github.com/kiteco/vscode-plugin) - Kite Autocomplete Plugin for Visual Studio Code
 - [expressjs/express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 1600 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 1700 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [marcotcr/lime](https://github.com/marcotcr/lime) - Lime: Explaining the predictions of any machine learning classifier
 - [microsoft/botframework-sdk](https://github.com/microsoft/botframework-sdk) - Bot Framework provides the most comprehensive experience for building conversation applications.
 - [lukeed/uuid](https://github.com/lukeed/uuid) - A tiny (~230B)and fast UUID (V4) generator for Node and the browser
@@ -3490,7 +3491,7 @@
 - [vitaly-t/pg-promise](https://github.com/vitaly-t/pg-promise) - PostgreSQL interface for Node.js
 - [bookshelf/bookshelf](https://github.com/bookshelf/bookshelf) - A simple Node.js ORM for PostgreSQL, MySQL and SQLite3 built on top of Knex.js
 - [knex/knex](https://github.com/knex/knex) - A query builder for PostgreSQL, MySQL, CockroachDB, SQL Server, SQLite3 and Oracle, designed to be flexible, portable, and fun to use.
-- [sequelize/sequelize](https://github.com/sequelize/sequelize) - An easy-to-use and promise-based multi SQL dialects ORM tool for Node.js | Postgres, MySQL, MariaDB, SQLite, Microsoft SQL Server & DB2
+- [sequelize/sequelize](https://github.com/sequelize/sequelize) - An easy-to-use and promise-based multi SQL dialects ORM tool for Node.js | Postgres, MySQL, MariaDB, SQLite, MSSQL, Snowflake & DB2
 - [timarney/react-app-rewired](https://github.com/timarney/react-app-rewired) - Override create-react-app webpack configs without ejecting
 - [brrd/abricotine](https://github.com/brrd/abricotine) - Markdown editor with inline preview
 - [jondot/hygen](https://github.com/jondot/hygen) - The simple, fast, and scalable code generator that lives in your project.
@@ -4035,7 +4036,7 @@
 - [aframevr/aframe](https://github.com/aframevr/aframe) - :a: web framework for building virtual reality experiences.
 - [hackmdio/codimd](https://github.com/hackmdio/codimd) - CodiMD - Realtime collaborative markdown notes on all platforms.
 - [toddmotto/angular-1-5-components-app](https://github.com/toddmotto/angular-1-5-components-app) - A Contacts Manager application built on Angular 1.5 components, ui-router 1.0.0, Firebase.
-- [RafalWilinski/express-status-monitor](https://github.com/RafalWilinski/express-status-monitor) - 🚀 Realtime Monitoring solution for Node.js/Express.js apps, inspired by status.github.com, sponsored by https://dynobase.com
+- [RafalWilinski/express-status-monitor](https://github.com/RafalWilinski/express-status-monitor) - 🚀 Realtime Monitoring solution for Node.js/Express.js apps, inspired by status.github.com, sponsored by https://dynobase.dev
 - [infinitered/reactotron](https://github.com/infinitered/reactotron) - A desktop app for inspecting your React JS and React Native projects. macOS, Linux, and Windows.
 - [VictorTaelin/WebMonkeys](https://github.com/VictorTaelin/WebMonkeys) - Massively parallel GPU programming on JavaScript, simple and clean.
 - [nasa/openmct](https://github.com/nasa/openmct) - A web based mission control framework.
@@ -4482,6 +4483,7 @@
 - [alirezadir/machine-learning-interview-enlightener](https://github.com/alirezadir/machine-learning-interview-enlightener) - This repo is meant to serve as a guide for Machine Learning/AI technical interviews.
 - [Nyandwi/ModernConvNets](https://github.com/Nyandwi/ModernConvNets) - Revisions and implementations of modern Convolutional Neural Networks architectures in TensorFlow and Keras
 - [LyWangPX/Reinforcement-Learning-2nd-Edition-by-Sutton-Exercise-Solutions](https://github.com/LyWangPX/Reinforcement-Learning-2nd-Edition-by-Sutton-Exercise-Solutions) - Solutions of Reinforcement Learning, An Introduction
+- [codez0mb1e/resistance](https://github.com/codez0mb1e/resistance) - Pre-crisis Risk Management for Personal Finance
 - [Vinohith/Self_Driving_Car_specialization](https://github.com/Vinohith/Self_Driving_Car_specialization) - Assignments and notes for the Self Driving Cars course offered by University of Toronto on Coursera
 - [Niketkumardheeryan/ML-CaPsule](https://github.com/Niketkumardheeryan/ML-CaPsule) - ML-capsule is a Project for beginners and experienced data science Enthusiasts who don't have a mentor or guidance and wish to learn Machine learning. Using our repo they can learn ML, DL, and many related technologies with different real-world projects and become Interview ready.
 - [nicknochnack/RealTimeObjectDetection](https://github.com/nicknochnack/RealTimeObjectDetection) - 
@@ -5974,6 +5976,17 @@
 
 ## Others 
 
+- [windowtoolbox/powershell-windows-toolbox](https://github.com/windowtoolbox/powershell-windows-toolbox) - 
+- [ufoym/cpp-core-guidelines-cheatsheet](https://github.com/ufoym/cpp-core-guidelines-cheatsheet) - Cheatsheet for the C++ core guidelines, including a set of tried-and-true guidelines, rules, and best practices about coding in C++.
+- [TheSpeedX/PROXY-List](https://github.com/TheSpeedX/PROXY-List) - Get PROXY List  that gets updated everyday
+- [SwiftOnSecurity/sysmon-config](https://github.com/SwiftOnSecurity/sysmon-config) - Sysmon configuration file template with default high-quality event tracing
+- [pliang279/awesome-phd-advice](https://github.com/pliang279/awesome-phd-advice) - Collection of advice for prospective and current PhD students
+- [P1xt/p1xt-guides](https://github.com/P1xt/p1xt-guides) - Programming curricula
+- [NVlabs/eg3d](https://github.com/NVlabs/eg3d) - 
+- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A curated checklist of 300+ tips for protecting digital security and privacy in 2021
+- [johnthebrit/CertificationMaterials](https://github.com/johnthebrit/CertificationMaterials) - A collection of materials related to my certification videos
+- [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources) - A list of FREE resources to make Web3 accessible to everyone.
+- [AlekseyKorshuk/studying-notes](https://github.com/AlekseyKorshuk/studying-notes) - Studying notes from my learning journey
 - [microsoft/XPretrain](https://github.com/microsoft/XPretrain) - Multi-modality pre-training
 - [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
 - [microsoft/vscode-embedded-tools](https://github.com/microsoft/vscode-embedded-tools) - Official issue tracking repository for Microsoft's Embedded Tools VS Code extension.
@@ -6009,7 +6022,6 @@
 - [dair-ai/ML-YouTube-Courses](https://github.com/dair-ai/ML-YouTube-Courses) - 📺  A place to discover the latest machine learning courses on YouTube.
 - [dair-ai/ml-visuals](https://github.com/dair-ai/ml-visuals) - 🎨 ML Visuals contains figures and templates which you can reuse and customize to improve your scientific writing.
 - [cyprosecurity/API-SecurityEmpire](https://github.com/cyprosecurity/API-SecurityEmpire) - API Security Project aims to present unique attack & defense methods in API Security field
-- [codez0mb1e/resistance](https://github.com/codez0mb1e/resistance) - Pre-crisis Risk Management for Personal Finance
 - [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr) - 
 - [cider-security-research/top-10-cicd-security-risks](https://github.com/cider-security-research/top-10-cicd-security-risks) - 
 - [bromite/bromite](https://github.com/bromite/bromite) - Bromite a Chromium fork with ad blocking and privacy enhancements; take back your browser!
@@ -7132,6 +7144,28 @@
 
 ## Python 
 
+- [weiaicunzai/pytorch-cifar100](https://github.com/weiaicunzai/pytorch-cifar100) - Practice on cifar100(ResNet, DenseNet, VGG, GoogleNet, InceptionV3, InceptionV4, Inception-ResNetv2, Xception, Resnet In Resnet, ResNext,ShuffleNet, ShuffleNetv2, MobileNet, MobileNetv2, SqueezeNet, NasNet, Residual Attention Network, SENet, WideResNet)
+- [ThioJoe/YT-Spammer-Purge](https://github.com/ThioJoe/YT-Spammer-Purge) - Allows you easily scan for and delete scam comments using several methods.
+- [SysCV/transfiner](https://github.com/SysCV/transfiner) - Mask Transfiner for High-Quality Instance Segmentation, CVPR 2022
+- [salesforce/CodeGen](https://github.com/salesforce/CodeGen) - CodeGen is an open-source model for program synthesis. Trained on TPU-v4. Competitive with OpenAI Codex.
+- [python/typeshed](https://github.com/python/typeshed) - Collection of library stubs for Python, with static types
+- [oconnor663/sha256_project](https://github.com/oconnor663/sha256_project) - developed for NYU Tandon's Applied Cryptography course
+- [NVlabs/nvdiffrec](https://github.com/NVlabs/nvdiffrec) - Official code for the CVPR 2022 (oral) paper "Extracting Triangular 3D Models, Materials, and Lighting From Images".
+- [NVlabs/GroupViT](https://github.com/NVlabs/GroupViT) - Official PyTorch implementation of GroupViT: Semantic Segmentation Emerges from Text Supervision, CVPR 2022.
+- [mosaicml/composer](https://github.com/mosaicml/composer) - library of algorithms to speed up neural network training
+- [jina-ai/docarray](https://github.com/jina-ai/docarray) - The data structure for unstructured data
+- [JannisKirschner/SymbolicExecutionDemystified](https://github.com/JannisKirschner/SymbolicExecutionDemystified) - Slides and Material for "SymbolicExecutionDemystified" Presentation @ Insomni'Hack 2022
+- [icyguider/ICMP-TransferTools](https://github.com/icyguider/ICMP-TransferTools) - Transfer files to and from a Windows host via ICMP in restricted network environments.
+- [getmanfred/mac](https://github.com/getmanfred/mac) - Manfred Awesomic CV
+- [flyteorg/flyte](https://github.com/flyteorg/flyte) - Kubernetes-native workflow automation platform for complex, mission-critical data and ML processes at scale. It has been battle-tested at Lyft, Spotify, Freenome, and others and is truly open-source.
+- [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background.
+- [corpnewt/ProperTree](https://github.com/corpnewt/ProperTree) - Cross platform GUI plist editor written in python.
+- [ashutosh1919/explainable-cnn](https://github.com/ashutosh1919/explainable-cnn) - 📦 PyTorch based visualization package for generating layer-wise explanations for CNNs.
+- [AI4Finance-Foundation/ElegantRL](https://github.com/AI4Finance-Foundation/ElegantRL) - Scalable and Elastic Deep Reinforcement Learning Using PyTorch. Please star. 🔥
+- [adap/flower](https://github.com/adap/flower) - Flower - A Friendly Federated Learning Framework
+- [acantril/learn-cantrill-io-labs](https://github.com/acantril/learn-cantrill-io-labs) - Standard and Advanced Demos for learn.cantrill.io courses
+- [AlekseyKorshuk/GymGo](https://github.com/AlekseyKorshuk/GymGo) - 
+- [AlekseyKorshuk/optimum-transformers](https://github.com/AlekseyKorshuk/optimum-transformers) - Accelerated NLP pipelines for fast inference on CPU and GPU. Built with Transformers, Optimum and ONNX Runtime.
 - [itlab-vision/satellite_images_processing](https://github.com/itlab-vision/satellite_images_processing) - 
 - [itlab-vision/CV-SUMMER-CAMP-2021](https://github.com/itlab-vision/CV-SUMMER-CAMP-2021) - 
 - [sns-sdks/python-youtube](https://github.com/sns-sdks/python-youtube) - A simple Python wrapper around for YouTube Data API :sparkles: :cake: :sparkles: .
@@ -9636,7 +9670,6 @@
 - [baverman/flameprof](https://github.com/baverman/flameprof) - Flamegraph generator for cProfile stats
 - [mschwager/memunit](https://github.com/mschwager/memunit) - A testing library for ensuring memory usage levels in Python.
 - [mitogen-hq/mitogen](https://github.com/mitogen-hq/mitogen) - Distributed self-replicating programs in Python
-- [iogf/isnuts](https://github.com/iogf/isnuts) - A naive approach to test python code.
 - [RafayGhafoor/Subscene-Subtitle-Grabber](https://github.com/RafayGhafoor/Subscene-Subtitle-Grabber) - SubGrab is a utility that allows you to automate subtitles downloading for your media files.
 - [epickrram/grav](https://github.com/epickrram/grav) - Performance visualisation tools
 - [astorfi/3D-convolutional-speaker-recognition](https://github.com/astorfi/3D-convolutional-speaker-recognition) - :speaker: Deep Learning & 3D Convolutional Neural Networks for Speaker Verification
@@ -10322,7 +10355,6 @@
 - [pender/chatbot-rnn](https://github.com/pender/chatbot-rnn) - A toy chatbot powered by deep learning and trained on data from Reddit
 - [YearOfProgramming/2017Challenges](https://github.com/YearOfProgramming/2017Challenges) - Join our slack channel
 - [jekil/awesome-hacking](https://github.com/jekil/awesome-hacking) - Awesome hacking is an awesome collection of hacking tools.
-- [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find credentials all over the place
 - [kevinhughes27/TensorKart](https://github.com/kevinhughes27/TensorKart) - self-driving MarioKart with TensorFlow
 - [humphd/have-fun-with-machine-learning](https://github.com/humphd/have-fun-with-machine-learning) - An absolute beginner's guide to Machine Learning and Image Classification with Neural Networks
 - [udacity/CarND-Term1-Starter-Kit](https://github.com/udacity/CarND-Term1-Starter-Kit) - 
@@ -13584,7 +13616,7 @@
 - [JohnSnowLabs/spark-nlp](https://github.com/JohnSnowLabs/spark-nlp) - State of the Art Natural Language Processing
 - [vegas-viz/Vegas](https://github.com/vegas-viz/Vegas) - The missing MatPlotLib for Scala + Spark
 - [TheHive-Project/TheHive](https://github.com/TheHive-Project/TheHive) - TheHive: a Scalable, Open Source and Free Security Incident Response Platform
-- [delta-io/delta](https://github.com/delta-io/delta) - An open-source storage layer that brings scalable, ACID transactions to Apache Spark™ and big data workloads.
+- [delta-io/delta](https://github.com/delta-io/delta) - An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs for Scala, Java, Rust, Ruby, and Python.
 - [guardian/frontend](https://github.com/guardian/frontend) - The Guardian DotCom.
 - [salesforce/TransmogrifAI](https://github.com/salesforce/TransmogrifAI) - TransmogrifAI (pronounced trăns-mŏgˈrə-fī) is an AutoML library for building modular, reusable, strongly typed machine learning workflows on Apache Spark with minimal hand-tuning
 - [microsoft/SynapseML](https://github.com/microsoft/SynapseML) - Simple and Distributed Machine Learning
