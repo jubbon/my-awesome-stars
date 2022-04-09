@@ -634,7 +634,6 @@
 - [facebookresearch/habitat-sim](https://github.com/facebookresearch/habitat-sim) - A flexible, high-performance 3D simulator for Embodied AI research.
 - [jupyter-xeus/xleaflet](https://github.com/jupyter-xeus/xleaflet) - C++ backend for the jupyter leaflet widget
 - [pytorch/ELF](https://github.com/pytorch/ELF) - ELF: a platform for game research with AlphaGoZero/AlphaZero reimplementation
-- [tensorflow/text](https://github.com/tensorflow/text) - Making text a first-class citizen in TensorFlow.
 - [BinomialLLC/basis_universal](https://github.com/BinomialLLC/basis_universal) - Basis Universal GPU Texture Codec
 - [SerenityOS/serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞
 - [facebookresearch/ELF](https://github.com/facebookresearch/ELF) - An End-To-End, Lightweight and Flexible Platform for Game Research
@@ -2245,6 +2244,7 @@
 
 - [jik876/hifi-gan-demo](https://github.com/jik876/hifi-gan-demo) - Audio samples from "HiFi-GAN: Generative Adversarial Networks for Efficient and High Fidelity Speech Synthesis"
 - [mlsystemdesign/mlsystemdesign.github.io](https://github.com/mlsystemdesign/mlsystemdesign.github.io) - 
+- [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources) - A list of FREE resources to make Web3 accessible to everyone.
 - [UMich-CURLY-teaching/UMich-ROB-530-public](https://github.com/UMich-CURLY-teaching/UMich-ROB-530-public) - UMich 500-Level Mobile Robotics Course
 - [SciML/SciMLBook](https://github.com/SciML/SciMLBook) - Parallel Computing and Scientific Machine Learning (SciML): Methods and Applications (MIT 18.337J/6.338J)
 - [randyzwitch/streamlit-folium](https://github.com/randyzwitch/streamlit-folium) - Streamlit Component for rendering Folium maps
@@ -2920,6 +2920,7 @@
 
 ## JavaScript 
 
+- [sberbank-ai-lab/lightautoml-datafest-workshop](https://github.com/sberbank-ai-lab/lightautoml-datafest-workshop) - Materials for LightAutoML workshop (DataFest 2021)
 - [notion-enhancer/desktop](https://github.com/notion-enhancer/desktop) - an enhancer/customiser for the all-in-one productivity workspace notion.so (app)
 - [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 - [kylestetz/slang](https://github.com/kylestetz/slang) - 🎤 a simple audio programming language implemented in JS
@@ -2937,7 +2938,6 @@
 - [google/videotts](https://github.com/google/videotts) - 
 - [prabhuomkar/iris](https://github.com/prabhuomkar/iris) - Open Source Photos Platform Powered by PyTorch
 - [thunlp/WantWords](https://github.com/thunlp/WantWords) - An open-source online reverse dictionary.
-- [sberbank-ai-lab/lightautoml-datafest-workshop](https://github.com/sberbank-ai-lab/lightautoml-datafest-workshop) - Materials for LightAutoML workshop (DataFest 2021)
 - [Jelmerro/Vieb](https://github.com/Jelmerro/Vieb) - Vim Inspired Electron Browser - Vim bindings for the web by design
 - [node-fetch/node-fetch](https://github.com/node-fetch/node-fetch) - A light-weight module that brings the Fetch API to Node.js
 - [loopbackio/strong-soap](https://github.com/loopbackio/strong-soap) - SOAP driver for Node.js (A complete rewrite of node-soap)
@@ -4489,6 +4489,14 @@
 
 ## Jupyter Notebook 
 
+- [google/fiddle](https://github.com/google/fiddle) - 
+- [google-research/maskgit](https://github.com/google-research/maskgit) - Official Jax Implementation of MaskGIT
+- [google-research/pix2seq](https://github.com/google-research/pix2seq) - Pix2Seq - A general framework for turning RGB pixels into semantically meaningful sequences
+- [deepmind/HAI_selective_prediction](https://github.com/deepmind/HAI_selective_prediction) - 
+- [sberbank-ai-lab/automlbenchmark](https://github.com/sberbank-ai-lab/automlbenchmark) - OpenML AutoML Benchmarking Framework
+- [sberbank-ai-lab/pytorch-lifestream-experiments](https://github.com/sberbank-ai-lab/pytorch-lifestream-experiments) - 
+- [TheAlgorithms/Jupyter](https://github.com/TheAlgorithms/Jupyter) - The repository contains script and notebook related to Statistics, Machine learning, Neural network, Deep learning, NLP, Numerical methods, and Automation.
+- [CompVis/latent-diffusion](https://github.com/CompVis/latent-diffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
 - [deepmind/spatial_memory_pipeline](https://github.com/deepmind/spatial_memory_pipeline) - 
 - [orlandpm/Math-for-Programmers](https://github.com/orlandpm/Math-for-Programmers) - Source code for the book, Math for Programmers
 - [nathanhubens/fasterai](https://github.com/nathanhubens/fasterai) - FasterAI: Prune and Distill your models with FastAI and PyTorch
@@ -5316,7 +5324,7 @@
 - [leotac/joypy](https://github.com/leotac/joypy) - Joyplots in Python with matplotlib & pandas :chart_with_upwards_trend:
 - [amitkaps/full-stack-data-science](https://github.com/amitkaps/full-stack-data-science) - Full Stack Data Science in Python
 - [shwars/NeuroWorkshop](https://github.com/shwars/NeuroWorkshop) - Neural Network Workshop Materials
-- [lesley2958/deep-learning-python](https://github.com/lesley2958/deep-learning-python) - Intro to Deep Learning, including recurrent, convolution, and feed forward neural networks.
+- [clesleycode/deep-learning-python](https://github.com/clesleycode/deep-learning-python) - Intro to Deep Learning, including recurrent, convolution, and feed forward neural networks.
 - [bayesgroup/deepbayes2017](https://github.com/bayesgroup/deepbayes2017) - 
 - [AllenDowney/ModSimPy](https://github.com/AllenDowney/ModSimPy) - Text and supporting code for Modeling and Simulation in Python
 - [ilkarman/DeepLearningFrameworks](https://github.com/ilkarman/DeepLearningFrameworks) - Demo of running NNs across different frameworks
@@ -6005,6 +6013,12 @@
 
 ## Others 
 
+- [google/github_workflows_playground](https://github.com/google/github_workflows_playground) - 
+- [microsoft/SceneLandmarkLocalization](https://github.com/microsoft/SceneLandmarkLocalization) - Source code and data for the CVPR 2022 paper "Learning to Detect Scene Landmarks for Camera Localization".
+- [microsoft/DualOctreeGNN](https://github.com/microsoft/DualOctreeGNN) - Dual Octree Graph Networks for Learning Adaptive Volumetric Shape Representations
+- [tchapi/markdown-cheatsheet](https://github.com/tchapi/markdown-cheatsheet) - Markdown Cheatsheet for Github Readme.md
+- [raywzy/Bringing-Old-Films-Back-to-Life](https://github.com/raywzy/Bringing-Old-Films-Back-to-Life) - Bringing Old Films Back to Life (CVPR 2022)
+- [aboelkassem/References_Books](https://github.com/aboelkassem/References_Books) - it's my books that i'm keep readying it and back to them everyday , it's really useful
 - [Louis3797/awesome-readme-template](https://github.com/Louis3797/awesome-readme-template) - An awesome README template for your projects!
 - [zhiqi-li/BEVFormer](https://github.com/zhiqi-li/BEVFormer) - This is the official implementation of BEVFormer, a camera-only framework for autonomous driving perception, e.g., 3D object detection and semantic map segmentation.
 - [tycrek/degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links.
@@ -6016,9 +6030,8 @@
 - [pliang279/awesome-phd-advice](https://github.com/pliang279/awesome-phd-advice) - Collection of advice for prospective and current PhD students
 - [P1xt/p1xt-guides](https://github.com/P1xt/p1xt-guides) - Programming curricula
 - [NVlabs/eg3d](https://github.com/NVlabs/eg3d) - 
-- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A curated checklist of 300+ tips for protecting digital security and privacy in 2021
+- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A curated checklist of 300+ tips for protecting digital security and privacy in 2022
 - [johnthebrit/CertificationMaterials](https://github.com/johnthebrit/CertificationMaterials) - A collection of materials related to my certification videos
-- [FrancescoXX/free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources) - A list of FREE resources to make Web3 accessible to everyone.
 - [AlekseyKorshuk/studying-notes](https://github.com/AlekseyKorshuk/studying-notes) - Studying notes from my learning journey
 - [microsoft/XPretrain](https://github.com/microsoft/XPretrain) - Multi-modality pre-training
 - [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
@@ -7178,6 +7191,27 @@
 
 ## Python 
 
+- [huggingface/evaluate](https://github.com/huggingface/evaluate) - 
+- [google-research/maxim](https://github.com/google-research/maxim) - [CVPR 2022 Oral] Official repository for "MAXIM: Multi-Axis MLP for Image Processing". SOTA for denoising, deblurring, deraining, dehazing, and enhancement.
+- [microsoft/unilm](https://github.com/microsoft/unilm) - Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities
+- [facebookresearch/data2vec_vision](https://github.com/facebookresearch/data2vec_vision) - Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities
+- [facebookresearch/facestar](https://github.com/facebookresearch/facestar) - Facestar dataset. High quality audio-visual recordings of human conversational speech.
+- [facebookresearch/SemanticImageTranslation](https://github.com/facebookresearch/SemanticImageTranslation) - Evaluation benchmark for the task of Semantic Image Translation. Contains code to run FlexIT (CVPR 2022)
+- [facebookresearch/rl](https://github.com/facebookresearch/rl) - A modular, primitive-first, python-first PyTorch library for Reinforcement Learning.
+- [facebookresearch/asym-siam](https://github.com/facebookresearch/asym-siam) - PyTorch implementation of Asymmetric Siamese (https://arxiv.org/abs/2204.00613)
+- [Azure/Azure-Orbital-Analytics-Samples](https://github.com/Azure/Azure-Orbital-Analytics-Samples) - Sample solution that demonstrates how to deploy and analyze spaceborne data using Azure Synapse Analytics
+- [microsoft/vscode-black-formatter](https://github.com/microsoft/vscode-black-formatter) - Formatting support for Python using the Black formatter
+- [deepmind/dm_aux](https://github.com/deepmind/dm_aux) - 
+- [sberbank-ai-lab/AutoMLWhitebox](https://github.com/sberbank-ai-lab/AutoMLWhitebox) - Tool for whitebox (binning + logreg) model development
+- [sberbank-ai-lab/RePlay](https://github.com/sberbank-ai-lab/RePlay) - RecSys Library
+- [sberbank-ai-lab/Py-Boost](https://github.com/sberbank-ai-lab/Py-Boost) - Python based GBDT implementation
+- [neetcode-gh/leetcode](https://github.com/neetcode-gh/leetcode) - Leetcode solutions
+- [mlfoundations/open_clip](https://github.com/mlfoundations/open_clip) - An open source implementation of CLIP.
+- [lukas-blecher/LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR) - pix2tex: Using a ViT to convert images of equations into LaTeX code.
+- [huzongxiang/CrystalNetwork](https://github.com/huzongxiang/CrystalNetwork) - GrysNet is a neural network package that allows researchers to train custom models for crystal modeling tasks. It aims to accelerate the research and application of material science.
+- [geohot/tinygrad](https://github.com/geohot/tinygrad) - You like pytorch? You like micrograd? You love tinygrad! ❤️
+- [DataDog/dd-trace-py](https://github.com/DataDog/dd-trace-py) - Datadog Python APM Client
+- [ankurchavda/streamify](https://github.com/ankurchavda/streamify) - A data engineering project with Kafka, Spark Streaming, dbt, Docker, Airflow, Terraform, GCP and much more!
 - [transform-data/metricflow](https://github.com/transform-data/metricflow) - MetricFlow allows you to define, build, and maintain metrics in code.
 - [keonlee9420/PortaSpeech](https://github.com/keonlee9420/PortaSpeech) - PyTorch Implementation of PortaSpeech: Portable and High-Quality Generative Text-to-Speech
 - [jik876/hifi-gan](https://github.com/jik876/hifi-gan) - HiFi-GAN: Generative Adversarial Networks for Efficient and High Fidelity Speech Synthesis
@@ -7251,7 +7285,7 @@
 - [huggingface/community-events](https://github.com/huggingface/community-events) - Place where folks can contribute to 🤗 community events
 - [jupyterlite/jupyterlite](https://github.com/jupyterlite/jupyterlite) - Wasm powered Jupyter running in the browser 💡
 - [snakers4/russian_stt_text_normalization](https://github.com/snakers4/russian_stt_text_normalization) - Russian text normalization pipeline for speech-to-text and other applications based on tagging s2s networks
-- [stravnik/toxic-repos](https://github.com/stravnik/toxic-repos) - Мы против дискредитации свободного программного обеспечения
+- [stravnik/toxic-repos](https://github.com/stravnik/toxic-repos) - We are against discrediting open source software
 - [YuliangXiu/ICON](https://github.com/YuliangXiu/ICON) - ICON: Implicit Clothed humans Obtained from Normals (CVPR 2022)
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
 - [VHellendoorn/Code-LMs](https://github.com/VHellendoorn/Code-LMs) - Guide to using pre-trained large language models of source code
@@ -7460,7 +7494,6 @@
 - [saltudelft/type4py](https://github.com/saltudelft/type4py) - Type4Py: Deep Similarity Learning-Based Type Inference for Python
 - [HIPS/autograd](https://github.com/HIPS/autograd) - Efficiently computes derivatives of numpy code.
 - [sberbank-ai-lab/torchvggish](https://github.com/sberbank-ai-lab/torchvggish) - Pytorch port of Google Research's VGGish model used for extracting audio features.
-- [sberbank-ai-lab/RePlay](https://github.com/sberbank-ai-lab/RePlay) - RecSys Library
 - [sberbank-ai-lab/LightAutoML](https://github.com/sberbank-ai-lab/LightAutoML) - LAMA - automatic model creation framework
 - [csuhan/ReDet](https://github.com/csuhan/ReDet) - Official code of the paper "ReDet: A Rotation-equivariant Detector for Aerial Object Detection" (CVPR 2021)
 - [PaddlePaddle/PaddleClas](https://github.com/PaddlePaddle/PaddleClas) - A treasure chest for visual recognition powered by PaddlePaddle
@@ -8420,6 +8453,7 @@
 - [sdushantha/gitdir](https://github.com/sdushantha/gitdir) - Download a single directory/folder from a GitHub repo
 - [fregu856/3DOD_thesis](https://github.com/fregu856/3DOD_thesis) - 3D Object Detection for Autonomous Driving in PyTorch, trained on the KITTI dataset.
 - [ConnorJL/GPT2](https://github.com/ConnorJL/GPT2) - An implementation of training for GPT2, supports TPUs
+- [tensorflow/text](https://github.com/tensorflow/text) - Making text a first-class citizen in TensorFlow.
 - [google-research/football](https://github.com/google-research/football) - Check out the new game server:
 - [google/TensorNetwork](https://github.com/google/TensorNetwork) - A library for easy and efficient manipulation of tensor networks.
 - [kedro-org/kedro](https://github.com/kedro-org/kedro) - A Python framework for creating reproducible, maintainable and modular data science code.
@@ -13693,6 +13727,7 @@
 
 ## Shell 
 
+- [google/ekep-analysis](https://github.com/google/ekep-analysis) - 
 - [codota/TabNine](https://github.com/codota/TabNine) - AI Code Completions
 - [puckel/docker-airflow](https://github.com/puckel/docker-airflow) - Docker Apache Airflow
 - [jghoman/awesome-apache-airflow](https://github.com/jghoman/awesome-apache-airflow) - Curated list of resources about Apache Airflow
