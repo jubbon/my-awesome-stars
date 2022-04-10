@@ -533,6 +533,7 @@
 - [izenecloud/sf1r-lite](https://github.com/izenecloud/sf1r-lite) - Search Formula-1——A distributed high performance massive data engine for enterprise/vertical search
 - [uiuc-sst/asr24](https://github.com/uiuc-sst/asr24) - 24-hour Automatic Speech Recognition
 - [srvk/eesen](https://github.com/srvk/eesen) - The official repository of the Eesen project
+- [PaddlePaddle/PaddleSpeech](https://github.com/PaddlePaddle/PaddleSpeech) - Easy-to-use Speech Toolkit including SOTA ASR pipeline, influential TTS with text frontend and End-to-End Speech Simultaneous Translation.
 - [bakwc/JamSpell](https://github.com/bakwc/JamSpell) - Modern spell checking library - accurate, fast, multi-language
 - [sokirko74/aot](https://github.com/sokirko74/aot) - Seman is a set of linguistic tools to analyze Russian or German texts, it contains lexicons and grammars. The project is interesting as a base line for many research projects in computer linguistics area.
 - [UZ-SLAMLab/ORB_SLAM3](https://github.com/UZ-SLAMLab/ORB_SLAM3) - ORB-SLAM3: An Accurate Open-Source Library for Visual, Visual-Inertial and Multi-Map SLAM
@@ -4489,6 +4490,7 @@
 
 ## Jupyter Notebook 
 
+- [facebookresearch/ss3d](https://github.com/facebookresearch/ss3d) - Code release for "Pre-train, Self-train, Distill A simple recipe for Supersizing 3D Reconstruction"
 - [google/fiddle](https://github.com/google/fiddle) - 
 - [google-research/maskgit](https://github.com/google-research/maskgit) - Official Jax Implementation of MaskGIT
 - [google-research/pix2seq](https://github.com/google-research/pix2seq) - Pix2Seq - A general framework for turning RGB pixels into semantically meaningful sequences
@@ -5575,7 +5577,6 @@
 - [BinRoot/TensorFlow-Book](https://github.com/BinRoot/TensorFlow-Book) - Accompanying source code for Machine Learning with TensorFlow. Refer to the book for step-by-step explanations.
 - [Mostafa-Samir/DNC-tensorflow](https://github.com/Mostafa-Samir/DNC-tensorflow) - A TensorFlow implementation of DeepMind's Differential Neural Computers (DNC)
 - [QuantEcon/QuantEcon.notebooks](https://github.com/QuantEcon/QuantEcon.notebooks) - Jupyter notebooks contributed by QuantEcon developers, users and the community
-- [probml/pyprobml](https://github.com/probml/pyprobml) - Python code for "Probabilistic Machine learning" book by Kevin Murphy
 - [yandexdataschool/Practical_DL](https://github.com/yandexdataschool/Practical_DL) - DL course co-developed by YSDA, HSE and Skoltech
 - [dmlc/mxnet-notebooks](https://github.com/dmlc/mxnet-notebooks) - Notebooks for MXNet
 - [udacity/CarND-TensorFlow-Lab](https://github.com/udacity/CarND-TensorFlow-Lab) - TensorFlow Lab for Self-Driving Car ND
@@ -7124,6 +7125,7 @@
 
 ## Perl 
 
+- [mikaku/Monitorix](https://github.com/mikaku/Monitorix) - Monitorix is a free, open source, lightweight system monitoring tool.
 - [mravanelli/pytorch_MLP_for_ASR](https://github.com/mravanelli/pytorch_MLP_for_ASR) - This code implements a basic MLP for speech recognition. The MLP  is trained  with pytorch, while feature extraction, alignments, and decoding are performed with Kaldi.  The current implementation supports dropout and batch normalization. An example for phoneme recognition using the standard TIMIT dataset is provided.
 - [jefflai108/pytorch-kaldi-neural-speaker-embeddings](https://github.com/jefflai108/pytorch-kaldi-neural-speaker-embeddings) - A light weight neural speaker embeddings extraction based on Kaldi and PyTorch.
 - [adrienverge/openfortivpn](https://github.com/adrienverge/openfortivpn) - Client for PPP+SSL VPN tunnel services
@@ -7191,6 +7193,8 @@
 
 ## Python 
 
+- [lucidrains/PaLM-pytorch](https://github.com/lucidrains/PaLM-pytorch) - Implementation of the specific Transformer architecture from PaLM - Scaling Language Modeling with Pathways
+- [lucidrains/DALLE2-pytorch](https://github.com/lucidrains/DALLE2-pytorch) - Implementation of DALL-E 2, OpenAI's updated text-to-image synthesis neural network,  in Pytorch
 - [huggingface/evaluate](https://github.com/huggingface/evaluate) - 
 - [google-research/maxim](https://github.com/google-research/maxim) - [CVPR 2022 Oral] Official repository for "MAXIM: Multi-Axis MLP for Image Processing". SOTA for denoising, deblurring, deraining, dehazing, and enhancement.
 - [microsoft/unilm](https://github.com/microsoft/unilm) - Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities
@@ -7676,7 +7680,6 @@
 - [r9y9/wavenet_vocoder](https://github.com/r9y9/wavenet_vocoder) - WaveNet vocoder
 - [pykaldi/pykaldi](https://github.com/pykaldi/pykaldi) - A Python wrapper for Kaldi
 - [alumae/kaldi-gstreamer-server](https://github.com/alumae/kaldi-gstreamer-server) - Real-time full-duplex speech recognition server, based on the Kaldi toolkit and the GStreamer framwork.
-- [PaddlePaddle/PaddleSpeech](https://github.com/PaddlePaddle/PaddleSpeech) - Easy-to-use Speech Toolkit including SOTA ASR pipeline, influential TTS with text frontend and End-to-End Speech Simultaneous Translation.
 - [yanshengjia/ml-road](https://github.com/yanshengjia/ml-road) - Machine Learning Resources, Practice and Research
 - [lucidrains/deep-daze](https://github.com/lucidrains/deep-daze) - Simple command line tool for text to image generation using OpenAI's CLIP and Siren (Implicit neural representation network). Technique was originally created by https://twitter.com/advadnoun
 - [zengarden/momentum2-teacher](https://github.com/zengarden/momentum2-teacher) - Implementation of momentum^2 teacher
@@ -8214,7 +8217,7 @@
 - [kamalkraj/BERT-NER](https://github.com/kamalkraj/BERT-NER) - Pytorch-Named-Entity-Recognition-with-BERT
 - [milesial/Pytorch-UNet](https://github.com/milesial/Pytorch-UNet) - PyTorch implementation of the U-Net for image semantic segmentation with high quality images
 - [keithito/tacotron](https://github.com/keithito/tacotron) - A TensorFlow implementation of Google's Tacotron speech synthesis with pre-trained model (unofficial)
-- [cleanlab/cleanlab](https://github.com/cleanlab/cleanlab) - The standard package for data-centric AI and machine learning with label errors, finding mislabeled data, and uncertainty quantification. Works with most datasets and models.
+- [cleanlab/cleanlab](https://github.com/cleanlab/cleanlab) - The standard package for data-centric AI and machine learning with messy, real-world data and labels. Works with most datasets and models.
 - [ticarpi/jwt_tool](https://github.com/ticarpi/jwt_tool) - :snake: A toolkit for testing, tweaking and cracking JSON Web Tokens
 - [Kayzaks/HackingNeuralNetworks](https://github.com/Kayzaks/HackingNeuralNetworks) - A small course on exploiting and defending neural networks
 - [sniklaus/3d-ken-burns](https://github.com/sniklaus/3d-ken-burns) - an implementation of 3D Ken Burns Effect from a Single Image using PyTorch
@@ -10496,6 +10499,7 @@
 - [pengpaiSH/Kaggle_NCFM](https://github.com/pengpaiSH/Kaggle_NCFM) - Using Keras+TensorFlow to solve NCFM-Leadboard Top 5%
 - [llSourcell/tensorflow_chatbot](https://github.com/llSourcell/tensorflow_chatbot) - Tensorflow chatbot demo by @Sirajology on Youtube
 - [StackStorm/st2](https://github.com/StackStorm/st2) - StackStorm (aka "IFTTT for Ops") is event-driven automation for auto-remediation, security responses, troubleshooting, deployments, and more. Includes rules engine, workflow, 160 integration packs with 6000+ actions (see https://exchange.stackstorm.org) and ChatOps. Installer at https://docs.stackstorm.com/install/index.html. Questions? https://forum.stackstorm.com/.
+- [probml/pyprobml](https://github.com/probml/pyprobml) - Python code for "Probabilistic Machine learning" book by Kevin Murphy
 - [elfi-dev/elfi](https://github.com/elfi-dev/elfi) - ELFI - Engine for Likelihood-Free Inference
 - [Logicmn/pyx](https://github.com/Logicmn/pyx) - Real-time stock trading program using a basic mean reversion algorithm
 - [PyFilesystem/pyfilesystem2](https://github.com/PyFilesystem/pyfilesystem2) - Python's Filesystem abstraction layer
@@ -14218,7 +14222,7 @@
 - [aws-amplify/amplify-js](https://github.com/aws-amplify/amplify-js) - A declarative JavaScript library for application development using cloud services.
 - [antvis/G2](https://github.com/antvis/G2) - 📊 A highly interactive data-driven visualization grammar for statistical charts.
 - [ianstormtaylor/superstruct](https://github.com/ianstormtaylor/superstruct) - A simple and composable way to validate data in JavaScript (and TypeScript).
-- [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
+- [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS.
 - [cs01/gdbgui](https://github.com/cs01/gdbgui) - Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will open in your browser.
 - [ant-design/ant-design-pro](https://github.com/ant-design/ant-design-pro) - 👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!
 - [Yoctol/bottender](https://github.com/Yoctol/bottender) - ⚡️ A framework for building conversational user interfaces.
@@ -14388,7 +14392,7 @@
 - [view-design/ViewUI](https://github.com/view-design/ViewUI) - A high quality UI Toolkit built on Vue.js 2.0
 - [johnpapa/vue-getting-started](https://github.com/johnpapa/vue-getting-started) - This project is seen in demos including the Pluralsight course "Vue: Getting Started" to help represent a fundamental app written with Vue. The heroes and villains theme is used throughout the app.
 - [yeyan1996/file-upload](https://github.com/yeyan1996/file-upload) - 
-- [FactorJS/factor](https://github.com/FactorJS/factor) - Next-generation JavaScript framework for JAMStack blogs, sites & apps.
+- [FactorJS/factor](https://github.com/FactorJS/factor) - [Alpha] Next-generation JavaScript framework for JAMStack blogs, sites & apps.
 - [antonreshetov/massCode](https://github.com/antonreshetov/massCode) - A free and open source code snippets manager for developers.
 - [chronotruck/vue-ctk-date-time-picker](https://github.com/chronotruck/vue-ctk-date-time-picker) - VueJS component to select dates & time, including a range mode
 - [mudin/vue-indoor](https://github.com/mudin/vue-indoor) - VueJS wrapper for indoorjs
@@ -14666,7 +14670,6 @@
 - [dzwillia/vue-simple-spinner](https://github.com/dzwillia/vue-simple-spinner) - A simple, flexible spinner for Vue.js
 - [nguyenvanduocit/vue-loading-spinner](https://github.com/nguyenvanduocit/vue-loading-spinner) - Just another collection of loading spinners with Vue.js, alot of spinners
 - [salomonelli/best-resume-ever](https://github.com/salomonelli/best-resume-ever) - :necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
-- [ChiChou/vue-pano](https://github.com/ChiChou/vue-pano) - A WebGL driven panorama vue.js component
 - [javaswing/NeteaseCloudWebApp](https://github.com/javaswing/NeteaseCloudWebApp) - This is a vue for NeteaseCloud projects!
 - [wclimb/vue-video](https://github.com/wclimb/vue-video) - vue + vue-router + vuex + (fetch-&gt;axios)
 - [nuxt-community/starter-template](https://github.com/nuxt-community/starter-template) - DEPRECATED: use create-nuxt-app instead
