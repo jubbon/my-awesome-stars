@@ -4760,6 +4760,7 @@
 - [cezannec/capsule_net_pytorch](https://github.com/cezannec/capsule_net_pytorch) - Readable implementation of a Capsule Network as described in "Dynamic Routing Between Capsules" [Hinton et. al.]
 - [malrev/ABD](https://github.com/malrev/ABD) - Course materials for Advanced Binary Deobfuscation by NTT Secure Platform Laboratories
 - [dsgiitr/graph_nets](https://github.com/dsgiitr/graph_nets) - PyTorch Implementation and Explanation of Graph Representation Learning papers: DeepWalk, GCN, GraphSAGE, ChebNet & GAT.
+- [oborchers/Fast_Sentence_Embeddings](https://github.com/oborchers/Fast_Sentence_Embeddings) - Compute Sentence Embeddings Fast!
 - [ShT3ch/public_workshop](https://github.com/ShT3ch/public_workshop) - Это репозиторий, куда я складываю материалы с разных своих докладов. Тут пока грязновато, но я приберусь.
 - [soumyadip007/Data-Structure-and-Algorithm-Using-Python](https://github.com/soumyadip007/Data-Structure-and-Algorithm-Using-Python) - In computer science, a data structure is a data organization, management, and storage format that enables efficient access and modification. More precisely, a data structure is a collection of data values, the relationships among them, and the functions or operations that can be applied to the data. (Using Python 3)
 - [soumyadip007/Object-Oriented-Programming-Using-Python](https://github.com/soumyadip007/Object-Oriented-Programming-Using-Python) - Python is a multi-paradigm programming language. Meaning, it supports different programming approach. One of the popular approach to solve a programming problem is by creating objects. This is known as Object-Oriented Programming (OOP).
@@ -6024,7 +6025,6 @@
 - [zhiqi-li/BEVFormer](https://github.com/zhiqi-li/BEVFormer) - This is the official implementation of BEVFormer, a camera-only framework for autonomous driving perception, e.g., 3D object detection and semantic map segmentation.
 - [tycrek/degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links.
 - [khangich/mlsystemdesign.github.io](https://github.com/khangich/mlsystemdesign.github.io) - 
-- [windowtoolbox/powershell-windows-toolbox](https://github.com/windowtoolbox/powershell-windows-toolbox) - 
 - [ufoym/cpp-core-guidelines-cheatsheet](https://github.com/ufoym/cpp-core-guidelines-cheatsheet) - Cheatsheet for the C++ core guidelines, including a set of tried-and-true guidelines, rules, and best practices about coding in C++.
 - [TheSpeedX/PROXY-List](https://github.com/TheSpeedX/PROXY-List) - Get PROXY List  that gets updated everyday
 - [SwiftOnSecurity/sysmon-config](https://github.com/SwiftOnSecurity/sysmon-config) - Sysmon configuration file template with default high-quality event tracing
@@ -8036,7 +8036,6 @@
 - [akfamily/akshare](https://github.com/akfamily/akshare) - AKShare is an elegant and simple financial data interface library for Python, built for human beings! 开源财经数据接口库
 - [microsoft/tf-gnn-samples](https://github.com/microsoft/tf-gnn-samples) - TensorFlow implementations of Graph Neural Networks
 - [microsoft/tf2-gnn](https://github.com/microsoft/tf2-gnn) - TensorFlow 2 library implementing Graph Neural Networks
-- [oborchers/Fast_Sentence_Embeddings](https://github.com/oborchers/Fast_Sentence_Embeddings) - Compute Sentence Embeddings Fast!
 - [mseitzer/neurips2019-disentanglement-challenge](https://github.com/mseitzer/neurips2019-disentanglement-challenge) - 
 - [karinemiras/evoman_framework](https://github.com/karinemiras/evoman_framework) - 
 - [deepmind/dm-haiku](https://github.com/deepmind/dm-haiku) - JAX-based neural network library
@@ -14748,7 +14747,6 @@
 - [nuxt/nuxtjs.org](https://github.com/nuxt/nuxtjs.org) - Nuxt Documentation Website
 - [Sopamo/vue-online](https://github.com/Sopamo/vue-online) - A reactive offline indicator component for vue.js
 - [TIGERB/easy-vue](https://github.com/TIGERB/easy-vue) - Learn vueJS Easily :ghost:
-- [axibase/atsd-use-cases](https://github.com/axibase/atsd-use-cases) - Axibase Time Series Database: Usage Examples and Research Articles
 - [hsuehic/vue-kit](https://github.com/hsuehic/vue-kit) - [Deprecated]A Vue.js project, base on vue-webpack template(vue 2.x and vue-router 2.x), with bulma, chart.js, font awesome, Weui. Aims to be a quick start for building demo applications or product prototypes.
 - [taylorchen709/vue-admin](https://github.com/taylorchen709/vue-admin) - admin template based on vuejs2 and element.
 - [lavyun/vue-demo-kugou](https://github.com/lavyun/vue-demo-kugou) - 酷狗webapp demo(vue2.0+vue-router+vuex)
