@@ -1862,7 +1862,7 @@
 - [fullstorydev/grpcurl](https://github.com/fullstorydev/grpcurl) - Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers
 - [golang/vgo](https://github.com/golang/vgo) - [mirror] Versioned Go Prototype
 - [genuinetools/img](https://github.com/genuinetools/img) - Standalone, daemon-less, unprivileged Dockerfile and OCI compatible container image builder.
-- [werf/werf](https://github.com/werf/werf) - The CLI tool gluing Git, Docker, Helm, and Kubernetes with any CI system to implement CI/CD and Giterminism
+- [werf/werf](https://github.com/werf/werf) - A solution for implementing efficient and consistent software delivery to Kubernetes facilitating best practices.
 - [metallb/metallb](https://github.com/metallb/metallb) - A network load-balancer implementation for Kubernetes using standard routing protocols
 - [containers/virtcontainers](https://github.com/containers/virtcontainers) - A Go package for building hardware virtualized container runtimes
 - [zricethezav/gitleaks](https://github.com/zricethezav/gitleaks) - Scan git repos (or files) for secrets using regex and entropy 🔑
@@ -10796,7 +10796,7 @@
 - [sqreen/PyMiniRacer](https://github.com/sqreen/PyMiniRacer) - PyMiniRacer is a V8 bridge in Python.
 - [pytest-dev/pytest-qt](https://github.com/pytest-dev/pytest-qt) - pytest plugin for Qt (PyQt4, PyQt5 and PySide) application testing
 - [ayush1997/visualize_ML](https://github.com/ayush1997/visualize_ML) - Python package for consolidated and extensive Univariate,Bivariate Data Analysis and Visualization catering to both categorical and continuous datasets.
-- [kirankoduru/arachne](https://github.com/kirankoduru/arachne) - A flask API for running your scrapy spiders
+- [eventuallyc0nsistent/arachne](https://github.com/eventuallyc0nsistent/arachne) - A flask API for running your scrapy spiders
 - [kespindler/albatross](https://github.com/kespindler/albatross) - A modern, fast, simple async python3 web framework
 - [jay-johnson/sci-pype](https://github.com/jay-johnson/sci-pype) - A Machine Learning API with native redis caching and export + import using S3. Analyze entire datasets using an API for building, training, testing, analyzing, extracting, importing, and archiving. This repository can run from a docker container or from the repository.
 - [janivanecky/Artistic-Style](https://github.com/janivanecky/Artistic-Style) - 
@@ -13526,7 +13526,7 @@
 
 ## RAML 
 
-- [spotify/ramlfications](https://github.com/spotify/ramlfications) - Python parser for RAML
+- [perploug/ramlfications](https://github.com/perploug/ramlfications) - Python parser for RAML
 
 ## Ren'Py 
 
