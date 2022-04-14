@@ -154,6 +154,7 @@
 
 ## C 
 
+- [NVIDIA/edk2](https://github.com/NVIDIA/edk2) - NVIDIA fork of tianocore/edk2
 - [jubalh/nudoku](https://github.com/jubalh/nudoku) - ncurses based sudoku game
 - [google/brotli](https://github.com/google/brotli) - Brotli compression format
 - [allanrbo/filesremote](https://github.com/allanrbo/filesremote) - An SSH file manager that lets you edit files like they are local
@@ -509,6 +510,7 @@
 
 ## C++ 
 
+- [NVIDIA/nvbandwidth](https://github.com/NVIDIA/nvbandwidth) - A tool for bandwidth measurements on NVIDIA GPUs.
 - [mmorise/World](https://github.com/mmorise/World) - A high-quality speech analysis, manipulation and synthesis system
 - [Ethereal-Developers-Inc/OpenScan](https://github.com/Ethereal-Developers-Inc/OpenScan) - A privacy-friendly Document Scanner app
 - [ggerganov/kbd-audio](https://github.com/ggerganov/kbd-audio) - Tools for capturing and analysing keyboard input paired with microphone capture  🎤⌨️
@@ -1123,7 +1125,7 @@
 - [maxchehab/CSS-Keylogging](https://github.com/maxchehab/CSS-Keylogging) - Chrome extension and Express server that exploits keylogging abilities of CSS.
 - [heapwolf/scratches](https://github.com/heapwolf/scratches) - A scratchpad with node & browser apis.
 - [ajusa/lit](https://github.com/ajusa/lit) - World's smallest responsive 🔥 css framework (395 bytes)
-- [NigelOToole/direction-reveal](https://github.com/NigelOToole/direction-reveal) - Direction aware content reveals via hover or tab on an element.
+- [NigelOToole/direction-reveal](https://github.com/NigelOToole/direction-reveal) - Detects the direction a user enters or leaves an element allowing you to reveal or hide content based on this direction.
 - [UndeadSec/SocialFish](https://github.com/UndeadSec/SocialFish) - Phishing Tool & Information Collector
 - [dinkbit/epoch](https://github.com/dinkbit/epoch) - A simple but powerful Epoch converter
 - [webkul/micron](https://github.com/webkul/micron) - a [μ] microInteraction library built with CSS Animations and controlled by JavaScript Power
@@ -3003,7 +3005,6 @@
 - [anvaka/city-roads](https://github.com/anvaka/city-roads) - Visualization of all roads within any city
 - [poloclub/ganlab](https://github.com/poloclub/ganlab) - GAN Lab: An Interactive, Visual Experimentation Tool for Generative Adversarial Networks
 - [uber/manifold](https://github.com/uber/manifold) - A model-agnostic visual debugging tool for machine learning
-- [getferdi/ferdi](https://github.com/getferdi/ferdi) - 🧔🏽 Ferdi  helps you organize how you use your favourite apps by combining them into one application
 - [alyssaxuu/flowy](https://github.com/alyssaxuu/flowy) - The minimal javascript library to create flowcharts ✨
 - [sap-tutorials/Tutorials](https://github.com/sap-tutorials/Tutorials) - Tutorials on sap.com
 - [eth0izzle/shhgit](https://github.com/eth0izzle/shhgit) - Ah shhgit! Find secrets in your code. Secrets detection for your GitHub, GitLab and Bitbucket repositories: www.shhgit.com
@@ -4587,17 +4588,17 @@
 - [milaan9/DataScience_Interview_Questions](https://github.com/milaan9/DataScience_Interview_Questions) - My Solutions to 120 commonly asked data science interview questions.
 - [sberbank-ai/htr_datasets](https://github.com/sberbank-ai/htr_datasets) - Repository containing our datasets for HTR (handwritten text recognition) task.
 - [v-iashin/SpecVQGAN](https://github.com/v-iashin/SpecVQGAN) - Source code for "Taming Visually Guided Sound Generation" (Oral at the BMVC 2021)
-- [sberbank-ai/fusion_brain_aij2021](https://github.com/sberbank-ai/fusion_brain_aij2021) - Creating multimodal multitask models
+- [ai-forever/fusion_brain_aij2021](https://github.com/ai-forever/fusion_brain_aij2021) - Creating multimodal multitask models
 - [Alenush/style_transfer_sirius2021summer](https://github.com/Alenush/style_transfer_sirius2021summer) - Style Transfer. Sirius 2021
 - [pysal/pointpats](https://github.com/pysal/pointpats) - Planar Point Pattern Analysis in PySAL
-- [sberbank-ai/ru-dalle](https://github.com/sberbank-ai/ru-dalle) - Generate images from texts. In Russian
+- [ai-forever/ru-dalle](https://github.com/ai-forever/ru-dalle) - Generate images from texts. In Russian
 - [mobigroup/gmtsar](https://github.com/mobigroup/gmtsar) - GMTSAR
 - [CalculatedContent/WeightWatcher](https://github.com/CalculatedContent/WeightWatcher) - The WeightWatcher tool for predicting the accuracy of   Deep Neural Networks
 - [saic-mdal/lama](https://github.com/saic-mdal/lama) - 🦙  LaMa Image Inpainting, Resolution-robust Large Mask Inpainting with Fourier Convolutions, WACV 2022
 - [planetlabs/notebooks](https://github.com/planetlabs/notebooks) - interactive notebooks from Planet Engineering
 - [Pyomo/PyomoGallery](https://github.com/Pyomo/PyomoGallery) - A collection of Pyomo examples
 - [Kaggle/learntools](https://github.com/Kaggle/learntools) - Tools and tests used in Kaggle Learn exercises
-- [sberbank-ai/sber-vq-gan](https://github.com/sberbank-ai/sber-vq-gan) - 
+- [ai-forever/tuned-vq-gan](https://github.com/ai-forever/tuned-vq-gan) - 
 - [svenkreiss/socialforce](https://github.com/svenkreiss/socialforce) - Differentiable Social Force simulation with universal interaction potentials.
 - [machine-learning-helpers/induction-python](https://github.com/machine-learning-helpers/induction-python) - Python source code derived from books about Machine Learning (ML)
 - [NeuralPushkin/Usefull](https://github.com/NeuralPushkin/Usefull) - Usefull papers, repos, tg chats etc
@@ -4611,7 +4612,7 @@
 - [truera/trulens](https://github.com/truera/trulens) - Library containing attribution and interpretation methods for deep nets.
 - [labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) - 🧑‍🏫 50! Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠
 - [project-codeflare/codeflare](https://github.com/project-codeflare/codeflare) - Simplifying the definition and execution, scaling and deployment of pipelines on the cloud.
-- [yandex-research/shifts](https://github.com/yandex-research/shifts) - This repository contains data readers and examples for the three tracks of the Shifts Dataset and the Shifts Challenge.
+- [Shifts-Project/shifts](https://github.com/Shifts-Project/shifts) - This repository contains data readers and examples for the three tracks of the Shifts Dataset and the Shifts Challenge.
 - [google/brax](https://github.com/google/brax) - Massively parallel rigidbody physics simulation on accelerator hardware.
 - [ITMO-NSS-team/nas-fedot](https://github.com/ITMO-NSS-team/nas-fedot) - The implementation of the Neural Architecture Search based at the Fedot framework
 - [sail-sg/volo](https://github.com/sail-sg/volo) - VOLO: Vision Outlooker for Visual Recognition
@@ -4645,6 +4646,7 @@
 - [AI4Finance-Foundation/FinRL](https://github.com/AI4Finance-Foundation/FinRL) - FinRL: The first open-source project for financial reinforcement learning. Please star. 🔥
 - [orpatashnik/StyleCLIP](https://github.com/orpatashnik/StyleCLIP) - Official Implementation for "StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery" (ICCV 2021 Oral)
 - [karpathy/deep-vector-quantization](https://github.com/karpathy/deep-vector-quantization) - VQVAEs, GumbelSoftmaxes and friends
+- [Synerise/cleora](https://github.com/Synerise/cleora) - Cleora AI is a general-purpose model for efficient, scalable learning of stable and inductive entity embeddings for heterogeneous relational data.
 - [jackroos/VL-BERT](https://github.com/jackroos/VL-BERT) - Code for ICLR 2020 paper "VL-BERT: Pre-training of Generic Visual-Linguistic Representations".
 - [github/CodeSearchNet](https://github.com/github/CodeSearchNet) - Datasets, tools, and benchmarks for representation learning of code.
 - [MLWhiz/data_science_blogs](https://github.com/MLWhiz/data_science_blogs) - A repository to keep track of all the code that I end up writing for my blog posts.
@@ -6013,6 +6015,7 @@
 
 ## Others 
 
+- [google/travel-impact-model](https://github.com/google/travel-impact-model) - 
 - [google/github_workflows_playground](https://github.com/google/github_workflows_playground) - 
 - [microsoft/SceneLandmarkLocalization](https://github.com/microsoft/SceneLandmarkLocalization) - Source code and data for the CVPR 2022 paper "Learning to Detect Scene Landmarks for Camera Localization".
 - [microsoft/DualOctreeGNN](https://github.com/microsoft/DualOctreeGNN) - Dual Octree Graph Networks for Learning Adaptive Volumetric Shape Representations
@@ -6120,7 +6123,7 @@
 - [cedrickchee/awesome-ml-model-compression](https://github.com/cedrickchee/awesome-ml-model-compression) - Awesome machine learning model compression research papers, tools, and learning material.
 - [m-bain/webvid](https://github.com/m-bain/webvid) - Large-scale text-video dataset.
 - [pyannote/pyannote-audio-hub](https://github.com/pyannote/pyannote-audio-hub) - Pretrained models for pyannote-audio
-- [sberbank-ai/model-zoo](https://github.com/sberbank-ai/model-zoo) - NLP model zoo for Russian
+- [ai-forever/model-zoo](https://github.com/ai-forever/model-zoo) - NLP model zoo for Russian
 - [markusschanta/awesome-jupyter](https://github.com/markusschanta/awesome-jupyter) - A curated list of awesome Jupyter projects, libraries and resources
 - [benthecoder/yt-channels-DS-AI-ML-CS](https://github.com/benthecoder/yt-channels-DS-AI-ML-CS) - A comprehensive list of 180+ YouTube Channels for Data Science,  Data Engineering, Machine Learning, Deep learning, Computer Science, programming, software engineering, etc.
 - [sberdevices/golos](https://github.com/sberdevices/golos) - 
@@ -7191,6 +7194,10 @@
 
 ## Python 
 
+- [DLR-RM/rl-baselines3-zoo](https://github.com/DLR-RM/rl-baselines3-zoo) - A training framework for Stable Baselines3 reinforcement learning agents, with hyperparameter optimization and pre-trained agents included.
+- [huggingface/autoevaluate](https://github.com/huggingface/autoevaluate) - The Space to submit evaluation jobs from the Hub
+- [facebookresearch/Generic-Grouping](https://github.com/facebookresearch/Generic-Grouping) - Open-source code for Generic Grouping Network (GGN, CVPR 2022)
+- [google-research/slot-attention-video](https://github.com/google-research/slot-attention-video) - 
 - [lucidrains/PaLM-pytorch](https://github.com/lucidrains/PaLM-pytorch) - Implementation of the specific Transformer architecture from PaLM - Scaling Language Modeling with Pathways
 - [lucidrains/DALLE2-pytorch](https://github.com/lucidrains/DALLE2-pytorch) - Implementation of DALL-E 2, OpenAI's updated text-to-image synthesis neural network,  in Pytorch
 - [huggingface/evaluate](https://github.com/huggingface/evaluate) - 
@@ -7367,7 +7374,7 @@
 - [bigscience-workshop/Megatron-DeepSpeed](https://github.com/bigscience-workshop/Megatron-DeepSpeed) - Ongoing research training transformer language models at scale, including: BERT & GPT-2
 - [berkeley-dsep-infra/datahub](https://github.com/berkeley-dsep-infra/datahub) - JupyterHubs for use by Berkeley enrolled students
 - [google/rax](https://github.com/google/rax) - Rax is a Learning-to-Rank library written in JAX.
-- [sberbank-ai/sber-swap](https://github.com/sberbank-ai/sber-swap) - 
+- [ai-forever/sber-swap](https://github.com/ai-forever/sber-swap) - New faceswap approach for image and video domains
 - [malhotra5/Manim-Tutorial](https://github.com/malhotra5/Manim-Tutorial) - A tutorial for manim, a mathematical animation engine made by 3b1b
 - [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.
 - [feast-dev/feast](https://github.com/feast-dev/feast) - Feature Store for Machine Learning
@@ -7389,7 +7396,7 @@
 - [jitsi/jiwer](https://github.com/jitsi/jiwer) - Evaluate your speech-to-text system with similarity measures such as word error rate (WER)
 - [NorskRegnesentral/skweak](https://github.com/NorskRegnesentral/skweak) - skweak: A software toolkit for weak supervision applied to NLP tasks
 - [google-research/plur](https://github.com/google-research/plur) - PLUR (Programming-Language Understanding and Repair) is a collection of source code datasets suitable for graph-based machine learning. We provide scripts for downloading, processing, and loading the datasets. This is done by offering a unified API and data structures for all datasets.
-- [sberbank-ai/ru-prompts](https://github.com/sberbank-ai/ru-prompts) - 
+- [ai-forever/ru-prompts](https://github.com/ai-forever/ru-prompts) - 
 - [deepmind/envlogger](https://github.com/deepmind/envlogger) - A tool for recording RL trajectories.
 - [microsoft/torchgeo](https://github.com/microsoft/torchgeo) - TorchGeo: datasets, transforms, and models for geospatial data
 - [ELS-RD/transformer-deploy](https://github.com/ELS-RD/transformer-deploy) - Efficient, scalable and enterprise-grade CPU/GPU inference server for 🤗 Hugging Face transformer models 🚀
@@ -7730,7 +7737,7 @@
 - [maraoz/gpt-scrolls](https://github.com/maraoz/gpt-scrolls) - A collaborative collection of open-source safe GPT-3 prompts that work well
 - [Adityaojas/sudoku-solver](https://github.com/Adityaojas/sudoku-solver) - Solves sudoku in a real time webcam feed
 - [facebookresearch/swav](https://github.com/facebookresearch/swav) - PyTorch implementation of SwAV https//arxiv.org/abs/2006.09882
-- [sberbank-ai/ru-gpts](https://github.com/sberbank-ai/ru-gpts) - Russian GPT3 models.
+- [ai-forever/ru-gpts](https://github.com/ai-forever/ru-gpts) - Russian GPT3 models.
 - [neomatrix369/nlp_profiler](https://github.com/neomatrix369/nlp_profiler) - A simple NLP library allows profiling datasets with one or more text columns. When given a dataset and a column name containing text data, NLP Profiler will return either high-level insights or low-level/granular statistical information about the text in that column.
 - [Python-World/Python_and_the_Web](https://github.com/Python-World/Python_and_the_Web) - Build Bots, Scrape a website or use an API to solve a problem.
 - [kobbyowen/All-Programming-E-Books-PDF](https://github.com/kobbyowen/All-Programming-E-Books-PDF) - A Curated List Of Programming Books For C, C++ , Python, JavaScript, NodeJs, ReactJs, Web, JQuery, Flask, Dom, Angular, CSS, HTML for beginners, intermediate, advanced and experts
@@ -13613,7 +13620,6 @@
 ## Rust 
 
 - [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - vector similarity search  engine with extended filtering support
-- [Synerise/cleora](https://github.com/Synerise/cleora) - Cleora AI is a general-purpose model for efficient, scalable learning of stable and inductive entity embeddings for heterogeneous relational data.
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - Powerful, fast, and an easy to use search engine
 - [adam-mcdaniel/chess-engine](https://github.com/adam-mcdaniel/chess-engine) - A dependency-free chess engine♟️ library built to run anywhere.
 - [SoptikHa2/desed](https://github.com/SoptikHa2/desed) - Debugger for Sed: demystify and debug your sed scripts, from comfort of your terminal.
