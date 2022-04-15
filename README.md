@@ -1394,7 +1394,7 @@
 - [PyAV-Org/PyAV](https://github.com/PyAV-Org/PyAV) - ﻿﻿Pythonic bindings for FFmpeg's libraries.
 - [openai/mujoco-py](https://github.com/openai/mujoco-py) - MuJoCo is a physics engine for detailed, efficient rigid body simulations with contacts. mujoco-py allows using MuJoCo from Python 3.
 - [rushter/selectolax](https://github.com/rushter/selectolax) - Python binding to Modest and Lexbor engines (fast HTML5 parser with CSS selectors).
-- [mosquito/cysystemd](https://github.com/mosquito/cysystemd) - SystemD wrapper on Cython
+- [mosquito/cysystemd](https://github.com/mosquito/cysystemd) - systemd wrapper on Cython
 - [MagicStack/uvloop](https://github.com/MagicStack/uvloop) - Ultra fast asyncio event loop.
 - [scikit-sparse/scikit-sparse](https://github.com/scikit-sparse/scikit-sparse) - Sparse matrix tools extending scipy.sparse, but with incompatible licenses
 - [Unidata/netcdf4-python](https://github.com/Unidata/netcdf4-python) - netcdf4-python: python/numpy interface to the netCDF C library
@@ -2310,7 +2310,6 @@
 - [mapbox/storytelling](https://github.com/mapbox/storytelling) - Storytelling with maps template
 - [akashyap2013/PortFolio_Website](https://github.com/akashyap2013/PortFolio_Website) - Complete Portfolio Website with Bootstrap - HTML/CSS In this project, we are going to learn and build how to create a complete portfolio website with bootstrap using HTML and CSS. We will understand everything from scratch.
 - [Tikam02/DevOps-Guide](https://github.com/Tikam02/DevOps-Guide) - DevOps Guide - Development to Production all configurations with basic notes to debug efficiently.
-- [WestHealth/pyvis](https://github.com/WestHealth/pyvis) - Python package for creating and visualizing interactive network graphs.
 - [ros-planning/moveit_tutorials](https://github.com/ros-planning/moveit_tutorials) - A sphinx-based centralized documentation repo for MoveIt
 - [jdorn/sql-formatter](https://github.com/jdorn/sql-formatter) - A lightweight php class for formatting sql statements. Handles automatic indentation and syntax highlighting.
 - [telegraf/microgames](https://github.com/telegraf/microgames) - 🎮 Telegram game platform example
@@ -5578,6 +5577,7 @@
 - [BinRoot/TensorFlow-Book](https://github.com/BinRoot/TensorFlow-Book) - Accompanying source code for Machine Learning with TensorFlow. Refer to the book for step-by-step explanations.
 - [Mostafa-Samir/DNC-tensorflow](https://github.com/Mostafa-Samir/DNC-tensorflow) - A TensorFlow implementation of DeepMind's Differential Neural Computers (DNC)
 - [QuantEcon/QuantEcon.notebooks](https://github.com/QuantEcon/QuantEcon.notebooks) - Jupyter notebooks contributed by QuantEcon developers, users and the community
+- [probml/pyprobml](https://github.com/probml/pyprobml) - Python code for "Probabilistic Machine learning" book by Kevin Murphy
 - [yandexdataschool/Practical_DL](https://github.com/yandexdataschool/Practical_DL) - DL course co-developed by YSDA, HSE and Skoltech
 - [dmlc/mxnet-notebooks](https://github.com/dmlc/mxnet-notebooks) - Notebooks for MXNet
 - [udacity/CarND-TensorFlow-Lab](https://github.com/udacity/CarND-TensorFlow-Lab) - TensorFlow Lab for Self-Driving Car ND
@@ -8278,6 +8278,7 @@
 - [adl1995/trip-planner](https://github.com/adl1995/trip-planner) - A CLI tool for planning trip itinerary.
 - [sepandhaghighi/pyrgg](https://github.com/sepandhaghighi/pyrgg) - 🔧 Python Random Graph Generator
 - [plotly/dash-cytoscape](https://github.com/plotly/dash-cytoscape) - Interactive network visualization in Python and Dash, powered by Cytoscape.js
+- [WestHealth/pyvis](https://github.com/WestHealth/pyvis) - Python package for creating and visualizing interactive network graphs.
 - [harvard-edge/source-seeking](https://github.com/harvard-edge/source-seeking) - Public Source Seeking Repository
 - [appian42/kaggle-rsna-intracranial-hemorrhage](https://github.com/appian42/kaggle-rsna-intracranial-hemorrhage) - 
 - [bhoov/exbert](https://github.com/bhoov/exbert) - A Visual Analysis Tool to Explore Learned Representations in Transformers Models
@@ -10503,7 +10504,6 @@
 - [pengpaiSH/Kaggle_NCFM](https://github.com/pengpaiSH/Kaggle_NCFM) - Using Keras+TensorFlow to solve NCFM-Leadboard Top 5%
 - [llSourcell/tensorflow_chatbot](https://github.com/llSourcell/tensorflow_chatbot) - Tensorflow chatbot demo by @Sirajology on Youtube
 - [StackStorm/st2](https://github.com/StackStorm/st2) - StackStorm (aka "IFTTT for Ops") is event-driven automation for auto-remediation, security responses, troubleshooting, deployments, and more. Includes rules engine, workflow, 160 integration packs with 6000+ actions (see https://exchange.stackstorm.org) and ChatOps. Installer at https://docs.stackstorm.com/install/index.html. Questions? https://forum.stackstorm.com/.
-- [probml/pyprobml](https://github.com/probml/pyprobml) - Python code for "Probabilistic Machine learning" book by Kevin Murphy
 - [elfi-dev/elfi](https://github.com/elfi-dev/elfi) - ELFI - Engine for Likelihood-Free Inference
 - [Logicmn/pyx](https://github.com/Logicmn/pyx) - Real-time stock trading program using a basic mean reversion algorithm
 - [PyFilesystem/pyfilesystem2](https://github.com/PyFilesystem/pyfilesystem2) - Python's Filesystem abstraction layer
@@ -11703,7 +11703,7 @@
 - [mitsuhiko/unp](https://github.com/mitsuhiko/unp) - Unpacks things.
 - [Python-Markdown/markdown](https://github.com/Python-Markdown/markdown) - A Python implementation of John Gruber’s Markdown with Extension support.
 - [colemana/PyPDF2](https://github.com/colemana/PyPDF2) - A utility to read and write pdfs with Python. Superseded: see https://github.com/knowah/PyPDF2
-- [py-pdf/PyPDF2](https://github.com/py-pdf/PyPDF2) - A utility to read and write PDFs with Python
+- [py-pdf/PyPDF2](https://github.com/py-pdf/PyPDF2) - A pure-python PDF library capable of splitting, merging, cropping, and transforming the pages of PDF files
 - [unoconv/unoconv](https://github.com/unoconv/unoconv) - Universal Office Converter - Convert between any document format supported by LibreOffice/OpenOffice.
 - [python-openxml/python-docx](https://github.com/python-openxml/python-docx) - Create and modify Word documents with Python
 - [brianray/mm](https://github.com/brianray/mm) - Python powered spreadsheets
@@ -11735,6 +11735,7 @@
 - [scikit-image/scikit-image](https://github.com/scikit-image/scikit-image) - Image processing in Python
 - [atpy/atpy](https://github.com/atpy/atpy) - Astronomical Tables in Python
 - [ChrisBeaumont/joblog](https://github.com/ChrisBeaumont/joblog) - Job management for scikit learn classifiers
+- [scipy-conference/scipy_proceedings](https://github.com/scipy-conference/scipy_proceedings) - Tools used to generate the SciPy conference proceedings
 - [astrofrog/wcsaxes](https://github.com/astrofrog/wcsaxes) - wcsaxes has been merged into astropy!
 - [ChrisBeaumont/mplfacet](https://github.com/ChrisBeaumont/mplfacet) - Faceted plots in matplotlib. Because nature abhors boilerplate code.
 - [dendrograms/astrodendro](https://github.com/dendrograms/astrodendro) - Generate a dendrogram from a dataset
@@ -13980,7 +13981,6 @@
 - [csgillespie/efficientR](https://github.com/csgillespie/efficientR) - Efficient R programming: a book
 - [ourresearch/depsy-research](https://github.com/ourresearch/depsy-research) - Documentation and research output for Depsy (see https://github.com/impactstory/depsy for source of Depsy itself)
 - [davidwhogg/DataAnalysisRecipes](https://github.com/davidwhogg/DataAnalysisRecipes) - chapters of a book Hogg will never write
-- [scipy-conference/scipy_proceedings](https://github.com/scipy-conference/scipy_proceedings) - Tools used to generate the SciPy conference proceedings
 - [lintool/MapReduceAlgorithms](https://github.com/lintool/MapReduceAlgorithms) - Data-Intensive Text Processing with MapReduce
 - [s9w/preTeX](https://github.com/s9w/preTeX) - LaTeX preprocessor to simplify math typesetting
 - [bamos/latex-templates](https://github.com/bamos/latex-templates) - Website for personal collection and previewing of LaTeX templates. Presented with Python/Jinja2.
@@ -14397,7 +14397,7 @@
 - [johnpapa/vue-getting-started](https://github.com/johnpapa/vue-getting-started) - This project is seen in demos including the Pluralsight course "Vue: Getting Started" to help represent a fundamental app written with Vue. The heroes and villains theme is used throughout the app.
 - [yeyan1996/file-upload](https://github.com/yeyan1996/file-upload) - 
 - [FactorJS/factor](https://github.com/FactorJS/factor) - [Alpha] Next-generation JavaScript framework for JAMStack blogs, sites & apps.
-- [antonreshetov/massCode](https://github.com/antonreshetov/massCode) - This repository is outdated and new version of massCode is available in beta! https://github.com/massCodeIO/massCode. A free and open source code snippets manager for developers.
+- [antonreshetov/massCode](https://github.com/antonreshetov/massCode) - This repository is outdated and new version of massCode is available! https://github.com/massCodeIO/massCode. A free and open source code snippets manager for developers.
 - [chronotruck/vue-ctk-date-time-picker](https://github.com/chronotruck/vue-ctk-date-time-picker) - VueJS component to select dates & time, including a range mode
 - [mudin/vue-indoor](https://github.com/mudin/vue-indoor) - VueJS wrapper for indoorjs
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
