@@ -134,6 +134,7 @@
 
 ## Assembly 
 
+- [jmechner/Prince-of-Persia-Apple-II](https://github.com/jmechner/Prince-of-Persia-Apple-II) - A running-jumping-swordfighting game I made on the Apple II from 1985-89
 - [nanochess/Invaders](https://github.com/nanochess/Invaders) - Invaders game in 512 bytes (boot sector)
 - [algorithm-archivists/algorithm-archive](https://github.com/algorithm-archivists/algorithm-archive) - A collaborative book on algorithms
 - [ROCmSoftwarePlatform/MIOpen](https://github.com/ROCmSoftwarePlatform/MIOpen) - AMD's Machine Intelligence Library
@@ -535,7 +536,7 @@
 - [izenecloud/sf1r-lite](https://github.com/izenecloud/sf1r-lite) - Search Formula-1——A distributed high performance massive data engine for enterprise/vertical search
 - [uiuc-sst/asr24](https://github.com/uiuc-sst/asr24) - 24-hour Automatic Speech Recognition
 - [srvk/eesen](https://github.com/srvk/eesen) - The official repository of the Eesen project
-- [PaddlePaddle/PaddleSpeech](https://github.com/PaddlePaddle/PaddleSpeech) - Easy-to-use Speech Toolkit including SOTA ASR pipeline, influential TTS with text frontend and End-to-End Speech Simultaneous Translation.
+- [PaddlePaddle/PaddleSpeech](https://github.com/PaddlePaddle/PaddleSpeech) - Easy-to-use Speech Toolkit including SOTA/Streaming ASR pipeline, influential TTS with text frontend, Speaker Verification System and End-to-End Speech Simultaneous Translation.
 - [bakwc/JamSpell](https://github.com/bakwc/JamSpell) - Modern spell checking library - accurate, fast, multi-language
 - [sokirko74/aot](https://github.com/sokirko74/aot) - Seman is a set of linguistic tools to analyze Russian or German texts, it contains lexicons and grammars. The project is interesting as a base line for many research projects in computer linguistics area.
 - [UZ-SLAMLab/ORB_SLAM3](https://github.com/UZ-SLAMLab/ORB_SLAM3) - ORB-SLAM3: An Accurate Open-Source Library for Visual, Visual-Inertial and Multi-Map SLAM
@@ -3279,7 +3280,7 @@
 - [radonjs/Radon](https://github.com/radonjs/Radon) - Object oriented state management solution for front-end development.
 - [wesbos/Advanced-React](https://github.com/wesbos/Advanced-React) - Starter Files and Solutions for Full Stack Advanced React and GraphQL
 - [ballercat/walt](https://github.com/ballercat/walt) - :zap: Walt is a JavaScript-like syntax for WebAssembly text format :zap:
-- [FortAwesome/vue-fontawesome](https://github.com/FortAwesome/vue-fontawesome) - Font Awesome 5 Vue component
+- [FortAwesome/vue-fontawesome](https://github.com/FortAwesome/vue-fontawesome) - Font Awesome Vue component
 - [kineticadb/kinetica-kickbox-mapbox-gl](https://github.com/kineticadb/kinetica-kickbox-mapbox-gl) - A code-acceleration and interoperability library for Kinetica and Mapbox
 - [OnsenUI/vue-cordova-webpack](https://github.com/OnsenUI/vue-cordova-webpack) - A full-featured Webpack + vue-loader setup with hot reload, linting, testing & css extraction.
 - [edisdev/vue-i18n-service](https://github.com/edisdev/vue-i18n-service) - vue-i18n single file component exporter/importer
@@ -6047,7 +6048,7 @@
 - [AndrewStetsenko/tech-jobs-with-relocation](https://github.com/AndrewStetsenko/tech-jobs-with-relocation) - All-in-one guide to getting a tech job abroad 🌎
 - [abhishekkrthakur/approachingalmost](https://github.com/abhishekkrthakur/approachingalmost) - Approaching (Almost) Any Machine Learning Problem
 - [krishnadey30/LeetCode-Questions-CompanyWise](https://github.com/krishnadey30/LeetCode-Questions-CompanyWise) - Contains Company Wise Questions sorted based on Frequency and all time
-- [dair-ai/ML-Course-Notes](https://github.com/dair-ai/ML-Course-Notes) - 🎓 Sharing course notes on all topics related to machine learning, NLP, and AI
+- [dair-ai/ML-Course-Notes](https://github.com/dair-ai/ML-Course-Notes) - 🎓 Sharing course notes on all topics related to machine learning, NLP, and AI.
 - [ventali/awesome-zk](https://github.com/ventali/awesome-zk) - A curated list of awesome ZK resources, libraries, tools and more.
 - [riti2409/Resources_for_Web_Development](https://github.com/riti2409/Resources_for_Web_Development) - All resources for web development
 - [protofire/blockchain-learning-path](https://github.com/protofire/blockchain-learning-path) - A suggested learning path for blockchain development
@@ -7194,6 +7195,7 @@
 
 ## Python 
 
+- [facebookresearch/msn](https://github.com/facebookresearch/msn) - Masked Siamese Networks for Label-Efficient Learning
 - [DLR-RM/rl-baselines3-zoo](https://github.com/DLR-RM/rl-baselines3-zoo) - A training framework for Stable Baselines3 reinforcement learning agents, with hyperparameter optimization and pre-trained agents included.
 - [huggingface/autoevaluate](https://github.com/huggingface/autoevaluate) - The Space to submit evaluation jobs from the Hub
 - [facebookresearch/Generic-Grouping](https://github.com/facebookresearch/Generic-Grouping) - Open-source code for Generic Grouping Network (GGN, CVPR 2022)
@@ -7818,7 +7820,7 @@
 - [fastnlp/TENER](https://github.com/fastnlp/TENER) - Codes for "TENER: Adapting Transformer Encoder for Named Entity Recognition"
 - [aiXander/Realtime_PyAudio_FFT](https://github.com/aiXander/Realtime_PyAudio_FFT) - Realtime audio analysis in Python, using PyAudio and Numpy to extract and visualize FFT features from streaming audio.
 - [erwincoumans/motion_imitation](https://github.com/erwincoumans/motion_imitation) - Code accompanying the paper "Learning Agile Robotic Locomotion Skills by Imitating Animals"
-- [Ousret/kiss-headers](https://github.com/Ousret/kiss-headers) - 💡Python package for HTTP/1.1 style headers. Parse headers to objects. Most advanced available structure for http headers.
+- [Ousret/kiss-headers](https://github.com/Ousret/kiss-headers) - Python package for HTTP/1.1 style headers. Parse headers to objects. Most advanced available structure for http headers.
 - [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh.
 - [econchick/interrogate](https://github.com/econchick/interrogate) - Explain yourself! Interrogate a codebase for docstring coverage.
 - [r9y9/nnsvs](https://github.com/r9y9/nnsvs) - Neural network-based singing voice synthesis library for research
@@ -13663,7 +13665,7 @@
 - [nicolas-van/bootstrap-4-github-pages](https://github.com/nicolas-van/bootstrap-4-github-pages) - A Bootstrap 4 template project for Github Pages and Jekyll
 - [emilbaehr/automatic-app-landing-page](https://github.com/emilbaehr/automatic-app-landing-page) - A Jekyll theme for automatically generating and deploying landing page sites for mobile apps.
 - [tr1s/tris-webpack-boilerplate](https://github.com/tr1s/tris-webpack-boilerplate) - A Webpack boilerplate for static websites that has all the necessary modern tools and optimizations built-in. Score a perfect 10/10 on performance.
-- [flutter/website](https://github.com/flutter/website) - Flutter web site
+- [flutter/website](https://github.com/flutter/website) - Flutter documentation web site
 - [conventional-commits/conventionalcommits.org](https://github.com/conventional-commits/conventionalcommits.org) - The conventional commits specification
 - [vapid/vapid](https://github.com/vapid/vapid) - Vapid is an intentionally simple content management system built on the idea that you can create a custom dashboard without ever leaving the HTML.
 - [wowchemy/wowchemy-hugo-themes](https://github.com/wowchemy/wowchemy-hugo-themes) - 🔥 Hugo website builder, Hugo themes & Hugo CMS. No code, build with widgets! 创建在线课程，学术简历或初创网站。
