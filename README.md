@@ -1715,6 +1715,7 @@
 - [karldoenitz/Tigo](https://github.com/karldoenitz/Tigo) - Tigo is an HTTP web framework written in Go (Golang).It features a Tornado-like API with better performance.  Tigo是一款用Go语言开发的web应用框架，API特性类似于Tornado并且拥有比Tornado更好的性能。
 - [txn2/kubefwd](https://github.com/txn2/kubefwd) - Bulk port forwarding Kubernetes services for local development.
 - [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
+- [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer
 - [xujiajun/gorouter](https://github.com/xujiajun/gorouter) - xujiajun/gorouter is a simple and fast HTTP router for Go. It is easy to build RESTful APIs and your web framework.
 - [ehazlett/stellar](https://github.com/ehazlett/stellar) - Simplified Container System
 - [gravitational/gravity](https://github.com/gravitational/gravity) - Kubernetes application deployments for restricted, regulated or remote environments.
@@ -3232,7 +3233,6 @@
 - [owncloud/web](https://github.com/owncloud/web) - :dragon_face: Next generation frontend for ownCloud X and Infinite Scale
 - [OptimalBits/redbird](https://github.com/OptimalBits/redbird) - A modern reverse proxy for node
 - [NickPiscitelli/Glider.js](https://github.com/NickPiscitelli/Glider.js) - A fast, lightweight, dependency free, native scrolling carousel alternative!
-- [antonmedv/fx](https://github.com/antonmedv/fx) - Command-line tool and terminal JSON viewer 🔥
 - [enquirer/enquirer](https://github.com/enquirer/enquirer) - Stylish, intuitive and user-friendly prompts, for Node.js. Used by eslint, webpack, yarn, pm2, pnpm, RedwoodJS, FactorJS, salesforce, Cypress, Google Lighthouse, Generate, tencent cloudbase, lint-staged, gluegun, hygen, hardhat, AWS Amplify, GitHub Actions Toolkit, @airbnb/nimbus, and many others! Please follow Enquirer's author: https://github.com/jonschlinkert
 - [lirantal/dockly](https://github.com/lirantal/dockly) - Immersive terminal interface for managing docker containers and services
 - [marienfeldtom/vue3-tailwind-starter](https://github.com/marienfeldtom/vue3-tailwind-starter) - Vue 3 + Tailwind.css Starter
@@ -4489,6 +4489,15 @@
 
 ## Jupyter Notebook 
 
+- [xbresson/CS4243_2022](https://github.com/xbresson/CS4243_2022) - Computer Vision and Pattern Recognition, NUS CS4243, 2022
+- [PaddlePaddle/PaddleSpatial](https://github.com/PaddlePaddle/PaddleSpatial) - PaddleSpatial is an open-source spatial-temporal computing tool based on PaddlePaddle.
+- [Nyandwi/machine_learning_complete](https://github.com/Nyandwi/machine_learning_complete) - A comprehensive repository containing 30+ notebooks on learning machine learning!
+- [numerai/example-scripts](https://github.com/numerai/example-scripts) - The official example scripts for the Numerai Data Science Tournament
+- [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) - 12 Weeks, 24 Lessons, AI for All!
+- [https-deeplearning-ai/GANs-Public](https://github.com/https-deeplearning-ai/GANs-Public) - Course notebooks for GANs specializations
+- [https-deeplearning-ai/machine-learning-engineering-for-production-public](https://github.com/https-deeplearning-ai/machine-learning-engineering-for-production-public) - Public repo for DeepLearning.AI MLEP Specialization
+- [google-research/kubric](https://github.com/google-research/kubric) - A data generation pipeline for creating semi-realistic synthetic multi-object videos with rich annotations such as instance segmentation masks, depth maps, and optical flow.
+- [4paradigm/AutoX](https://github.com/4paradigm/AutoX) - AutoX is an efficient automl tool, which is mainly aimed at data mining tasks with tabular data.
 - [facebookresearch/ss3d](https://github.com/facebookresearch/ss3d) - Code release for "Pre-train, Self-train, Distill A simple recipe for Supersizing 3D Reconstruction"
 - [google/fiddle](https://github.com/google/fiddle) - 
 - [google-research/maskgit](https://github.com/google-research/maskgit) - Official Jax Implementation of MaskGIT
@@ -5246,6 +5255,7 @@
 - [chenyuntc/simple-faster-rcnn-pytorch](https://github.com/chenyuntc/simple-faster-rcnn-pytorch) - A simplified implemention of Faster R-CNN that replicate performance from origin paper
 - [experiencor/keras-yolo2](https://github.com/experiencor/keras-yolo2) - Easy training on custom dataset. Various backends (MobileNet and SqueezeNet) supported. A YOLO demo to detect raccoon run entirely in brower is accessible at https://git.io/vF7vI (not on Windows).
 - [andrewgordonwilson/bayesgan](https://github.com/andrewgordonwilson/bayesgan) - Tensorflow code for the Bayesian GAN (https://arxiv.org/abs/1705.09558) (NIPS 2017)
+- [TomAugspurger/pydata-nyc-ph2t](https://github.com/TomAugspurger/pydata-nyc-ph2t) - PyData NYC 2017: Pandas Head to Tail
 - [TomAugspurger/pydata-nyc-ph2t](https://github.com/TomAugspurger/pydata-nyc-ph2t) - PyData NYC 2017: Pandas Head to Tail
 - [sdrangan/introml](https://github.com/sdrangan/introml) - Python tutorials for introduction to machine learning
 - [dragonfly90/mxnet_Realtime_Multi-Person_Pose_Estimation](https://github.com/dragonfly90/mxnet_Realtime_Multi-Person_Pose_Estimation) - This is a mxnet version of Realtime_Multi-Person_Pose_Estimation, origin code is here https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation
@@ -6016,6 +6026,9 @@
 
 ## Others 
 
+- [aolofsson/awesome-hardware-tools](https://github.com/aolofsson/awesome-hardware-tools) - List of awesome open source hardware tools
+- [alex-xu-system/bytebytego](https://github.com/alex-xu-system/bytebytego) - 
+- [a8m/golang-cheat-sheet](https://github.com/a8m/golang-cheat-sheet) - An overview of Go syntax and features.
 - [google/travel-impact-model](https://github.com/google/travel-impact-model) - 
 - [google/github_workflows_playground](https://github.com/google/github_workflows_playground) - 
 - [microsoft/SceneLandmarkLocalization](https://github.com/microsoft/SceneLandmarkLocalization) - Source code and data for the CVPR 2022 paper "Learning to Detect Scene Landmarks for Camera Localization".
