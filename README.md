@@ -425,7 +425,7 @@
 - [micropython/micropython](https://github.com/micropython/micropython) - MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems
 - [libuv/libuv](https://github.com/libuv/libuv) - Cross-platform asynchronous I/O
 - [martanne/vis](https://github.com/martanne/vis) - A vi-like editor based on Plan 9's structural regular expressions
-- [quick2wire/quick2wire-gpio-admin](https://github.com/quick2wire/quick2wire-gpio-admin) - Use the GPIO pins on the Raspberry Pi without running as root
+- [romilly/quick2wire-gpio-admin](https://github.com/romilly/quick2wire-gpio-admin) - Use the GPIO pins on the Raspberry Pi without running as root
 - [edent/BMW-OpenSource](https://github.com/edent/BMW-OpenSource) - All the Open Source Software provided by BMW for their i3
 - [citusdata/citus](https://github.com/citusdata/citus) - Distributed PostgreSQL as an extension
 - [srdja/Collections-C](https://github.com/srdja/Collections-C) - A library of generic data structures.
@@ -511,6 +511,7 @@
 
 ## C++ 
 
+- [jermp/data_compression_course](https://github.com/jermp/data_compression_course) - A Crash Course on Data Compression.
 - [NVIDIA/nvbandwidth](https://github.com/NVIDIA/nvbandwidth) - A tool for bandwidth measurements on NVIDIA GPUs.
 - [mmorise/World](https://github.com/mmorise/World) - A high-quality speech analysis, manipulation and synthesis system
 - [Ethereal-Developers-Inc/OpenScan](https://github.com/Ethereal-Developers-Inc/OpenScan) - A privacy-friendly Document Scanner app
@@ -1322,6 +1323,7 @@
 
 ## Clojure 
 
+- [cnuernber/charred](https://github.com/cnuernber/charred) - zero dependency efficient read/write of json and csv data.
 - [tonsky/FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures
 - [riemann/riemann](https://github.com/riemann/riemann) - A network event stream processing system, in Clojure.
 - [bcambel/oss.io](https://github.com/bcambel/oss.io) - Developers gathering up
@@ -4489,6 +4491,7 @@
 
 ## Jupyter Notebook 
 
+- [espnet/interspeech2019-tutorial](https://github.com/espnet/interspeech2019-tutorial) - INTERSPEECH 2019 Tutorial Materials
 - [xbresson/CS4243_2022](https://github.com/xbresson/CS4243_2022) - Computer Vision and Pattern Recognition, NUS CS4243, 2022
 - [PaddlePaddle/PaddleSpatial](https://github.com/PaddlePaddle/PaddleSpatial) - PaddleSpatial is an open-source spatial-temporal computing tool based on PaddlePaddle.
 - [Nyandwi/machine_learning_complete](https://github.com/Nyandwi/machine_learning_complete) - A comprehensive repository containing 30+ notebooks on learning machine learning!
@@ -5255,7 +5258,6 @@
 - [chenyuntc/simple-faster-rcnn-pytorch](https://github.com/chenyuntc/simple-faster-rcnn-pytorch) - A simplified implemention of Faster R-CNN that replicate performance from origin paper
 - [experiencor/keras-yolo2](https://github.com/experiencor/keras-yolo2) - Easy training on custom dataset. Various backends (MobileNet and SqueezeNet) supported. A YOLO demo to detect raccoon run entirely in brower is accessible at https://git.io/vF7vI (not on Windows).
 - [andrewgordonwilson/bayesgan](https://github.com/andrewgordonwilson/bayesgan) - Tensorflow code for the Bayesian GAN (https://arxiv.org/abs/1705.09558) (NIPS 2017)
-- [TomAugspurger/pydata-nyc-ph2t](https://github.com/TomAugspurger/pydata-nyc-ph2t) - PyData NYC 2017: Pandas Head to Tail
 - [TomAugspurger/pydata-nyc-ph2t](https://github.com/TomAugspurger/pydata-nyc-ph2t) - PyData NYC 2017: Pandas Head to Tail
 - [sdrangan/introml](https://github.com/sdrangan/introml) - Python tutorials for introduction to machine learning
 - [dragonfly90/mxnet_Realtime_Multi-Person_Pose_Estimation](https://github.com/dragonfly90/mxnet_Realtime_Multi-Person_Pose_Estimation) - This is a mxnet version of Realtime_Multi-Person_Pose_Estimation, origin code is here https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation
@@ -6026,6 +6028,10 @@
 
 ## Others 
 
+- [Azure/DataEngineering](https://github.com/Azure/DataEngineering) - Repo to share Data Engineering, ML OPS, Data Analyst best practices
+- [espnet/icassp2022-tts](https://github.com/espnet/icassp2022-tts) - ICASSP2022 TTS demo HP
+- [psiinon/open-source-web-scanners](https://github.com/psiinon/open-source-web-scanners) - A list of open source web security scanners
+- [joebew42/study-path](https://github.com/joebew42/study-path) - An organized learning path on Clean Code, Test-Driven Development, Legacy Code, Refactoring, Domain-Driven Design and Microservice Architecture
 - [aolofsson/awesome-hardware-tools](https://github.com/aolofsson/awesome-hardware-tools) - List of awesome open source hardware tools
 - [alex-xu-system/bytebytego](https://github.com/alex-xu-system/bytebytego) - 
 - [a8m/golang-cheat-sheet](https://github.com/a8m/golang-cheat-sheet) - An overview of Go syntax and features.
@@ -7208,7 +7214,23 @@
 
 ## Python 
 
-- [facebookresearch/msn](https://github.com/facebookresearch/msn) - Masked Siamese Networks for Label-Efficient Learning
+- [Azure/mlops-templates](https://github.com/Azure/mlops-templates) - 
+- [lucidrains/video-diffusion-pytorch](https://github.com/lucidrains/video-diffusion-pytorch) - Implementation of Video Diffusion Models, Jonathan Ho's new paper extending DDPMs to Video Generation - in Pytorch
+- [wasi-master/fastero](https://github.com/wasi-master/fastero) - Python timeit CLI for the 21st century! colored output, multi-line input with syntax highlighting and autocompletion and much more!
+- [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) - A SQL linter and auto-formatter for Humans
+- [python-engineer/pytorchTutorial](https://github.com/python-engineer/pytorchTutorial) - PyTorch Tutorials from my YouTube channel
+- [pygod-team/pygod](https://github.com/pygod-team/pygod) - A Python Library for Graph Outlier Detection (Anomaly Detection)
+- [open-mmlab/mmsegmentation](https://github.com/open-mmlab/mmsegmentation) - OpenMMLab Semantic Segmentation Toolbox and Benchmark.
+- [mlcommons/inference](https://github.com/mlcommons/inference) - Reference implementations of MLPerf™ inference benchmarks
+- [kathrinse/TabSurvey](https://github.com/kathrinse/TabSurvey) - Experiments on Tabular Data Models
+- [JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.
+- [interviewstreet/ghs](https://github.com/interviewstreet/ghs) - Cross-platform CLI tool to generate your Github profile's stats and summary.
+- [internetarchive/openlibrary](https://github.com/internetarchive/openlibrary) - One webpage for every book ever published!
+- [Fredtoby/trajectoryprediction](https://github.com/Fredtoby/trajectoryprediction) - 
+- [emacs-eaf/emacs-application-framework](https://github.com/emacs-eaf/emacs-application-framework) - A free/libre and open-source extensible framework that revolutionizes the graphical capabilities of Emacs, the key to ultimately Live in Emacs
+- [cloudnloud/interview-questions](https://github.com/cloudnloud/interview-questions) - 
+- [amidaware/tacticalrmm](https://github.com/amidaware/tacticalrmm) - A remote monitoring & management tool, built with Django, Vue and Go.
+- [facebookresearch/msn](https://github.com/facebookresearch/msn) - Masked Siamese Networks for Label-Efficient Learning (https://arxiv.org/abs/2204.07141)
 - [DLR-RM/rl-baselines3-zoo](https://github.com/DLR-RM/rl-baselines3-zoo) - A training framework for Stable Baselines3 reinforcement learning agents, with hyperparameter optimization and pre-trained agents included.
 - [huggingface/autoevaluate](https://github.com/huggingface/autoevaluate) - The Space to submit evaluation jobs from the Hub
 - [facebookresearch/Generic-Grouping](https://github.com/facebookresearch/Generic-Grouping) - Open-source code for Generic Grouping Network (GGN, CVPR 2022)
