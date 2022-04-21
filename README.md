@@ -2812,7 +2812,7 @@
 - [yandexmobile/yandexmapkit-android](https://github.com/yandexmobile/yandexmapkit-android) - Yandex Map Kit for Android
 - [fission/fission-workflow-sample](https://github.com/fission/fission-workflow-sample) - A simple carpool application built using Fission Workflows
 - [amazon-archives/dynamodb-janusgraph-storage-backend](https://github.com/amazon-archives/dynamodb-janusgraph-storage-backend) - The Amazon DynamoDB Storage Backend for JanusGraph
-- [CUTR-at-USF/gtfs-realtime-validator](https://github.com/CUTR-at-USF/gtfs-realtime-validator) - Java-based tool that validates General Transit Feed Specification (GTFS)-realtime feeds
+- [CUTR-at-USF/gtfs-realtime-validator](https://github.com/CUTR-at-USF/gtfs-realtime-validator) - Java-based tool that validates General Transit Feed Specification (GTFS)-realtime feeds. See https://github.com/MobilityData/gtfs-realtime-validator for the latest!
 - [aws-samples/aws-sam-java-rest](https://github.com/aws-samples/aws-sam-java-rest) - A sample REST application built on SAM and DynamoDB that demonstrates testing with DynamoDB Local.
 - [amazon-archives/dynamodb-geo](https://github.com/amazon-archives/dynamodb-geo) - 
 - [google/open-location-code](https://github.com/google/open-location-code) - Open Location Code is a library to generate short codes, called "plus codes", that can be used as digital addresses where street addresses don't exist.
@@ -4491,6 +4491,7 @@
 
 ## Jupyter Notebook 
 
+- [facebookresearch/UniK-QA](https://github.com/facebookresearch/UniK-QA) - Unified Representations of Structured and Unstructured Knowledge for Open-Domain Question Answering
 - [espnet/interspeech2019-tutorial](https://github.com/espnet/interspeech2019-tutorial) - INTERSPEECH 2019 Tutorial Materials
 - [xbresson/CS4243_2022](https://github.com/xbresson/CS4243_2022) - Computer Vision and Pattern Recognition, NUS CS4243, 2022
 - [PaddlePaddle/PaddleSpatial](https://github.com/PaddlePaddle/PaddleSpatial) - PaddleSpatial is an open-source spatial-temporal computing tool based on PaddlePaddle.
@@ -9469,7 +9470,7 @@
 - [will8211/unimatrix](https://github.com/will8211/unimatrix) - Python script to simulate the display from "The Matrix" in terminal. Uses half-width katakana unicode characters by default, but can use custom character sets. Accepts keyboard controls while running. Based on CMatrix.
 - [facebookresearch/poincare-embeddings](https://github.com/facebookresearch/poincare-embeddings) - PyTorch implementation of the NIPS-17 paper "Poincaré Embeddings for Learning Hierarchical Representations"
 - [NicolasLM/bplustree](https://github.com/NicolasLM/bplustree) - An on-disk B+tree for Python 3
-- [DiegoVicen/som-tsp](https://github.com/DiegoVicen/som-tsp) - Solving the Traveling Salesman Problem using Self-Organizing Maps
+- [diego-vicente/som-tsp](https://github.com/diego-vicente/som-tsp) - Solving the Traveling Salesman Problem using Self-Organizing Maps
 - [littlecodersh/trip](https://github.com/littlecodersh/trip) - Async HTTP for Humans, coroutine Requests :tent:
 - [jostbr/pymaze](https://github.com/jostbr/pymaze) - A maze generator, solver and visualizer for Python
 - [shagunsodhani/pregel](https://github.com/shagunsodhani/pregel) - Tensorflow implementation of Graph Convolutional Network
