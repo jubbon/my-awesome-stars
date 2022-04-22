@@ -579,7 +579,7 @@
 - [silentnox/CodeSide](https://github.com/silentnox/CodeSide) - RAIC 2019
 - [ros-planning/moveit](https://github.com/ros-planning/moveit) - :robot: The MoveIt motion planning framework
 - [facebookarchive/Polygames](https://github.com/facebookarchive/Polygames) - The project is a platform of zero learning with a library of games.
-- [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler. Issues are managed on our own bug tracker at https://www.freecadweb.org/tracker
+- [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
 - [MADEAPPS/newton-dynamics](https://github.com/MADEAPPS/newton-dynamics) - Newton Dynamics is an integrated solution for real time simulation of physics environments.
 - [TigerVNC/tigervnc](https://github.com/TigerVNC/tigervnc) - High performance, multi-platform VNC client and server
 - [opencv/opencv_contrib](https://github.com/opencv/opencv_contrib) - Repository for OpenCV's extra modules
@@ -1525,6 +1525,7 @@
 
 ## Emacs Lisp 
 
+- [emacs-eaf/emacs-application-framework](https://github.com/emacs-eaf/emacs-application-framework) - A free/libre and open-source extensible framework that revolutionizes the graphical capabilities of Emacs, the key to ultimately Live in Emacs
 - [dangom/org-thesis](https://github.com/dangom/org-thesis) - Writing a Ph.D. thesis with Org Mode
 - [pythonic-emacs/anaconda-mode](https://github.com/pythonic-emacs/anaconda-mode) - Code navigation, documentation lookup and completion for Python.
 - [gregsexton/ob-ipython](https://github.com/gregsexton/ob-ipython) - org-babel integration with Jupyter for evaluation of (Python by default) code blocks
@@ -3783,6 +3784,7 @@
 - [lipp/login-with](https://github.com/lipp/login-with) - Stateless login-with microservice for OAuth
 - [craftbeerpi/craftbeerpi](https://github.com/craftbeerpi/craftbeerpi) - Brew Controller
 - [elsewhencode/project-guidelines](https://github.com/elsewhencode/project-guidelines) - A set of best practices for JavaScript projects
+- [ecomfe/veui](https://github.com/ecomfe/veui) - Enterprise UI for Vue.js.
 - [pinterest/esprint](https://github.com/pinterest/esprint) - Fast eslint runner
 - [git-school/visualizing-git](https://github.com/git-school/visualizing-git) - :framed_picture: Visualize how common Git operations affect the commit graph
 - [chalk/chalk](https://github.com/chalk/chalk) - 🖍 Terminal string styling done right
@@ -4544,7 +4546,7 @@
 - [huggingface/education-toolkit](https://github.com/huggingface/education-toolkit) - Educational materials for universities
 - [sberdevices/qtacotron](https://github.com/sberdevices/qtacotron) - Tacotron 2 - PyTorch implementation with faster-than-realtime inference
 - [krishnaik06/5-Days-Live-EDA-and-Feature-Engineering](https://github.com/krishnaik06/5-Days-Live-EDA-and-Feature-Engineering) - 
-- [algorithmica-org/algorithmica](https://github.com/algorithmica-org/algorithmica) - New version of the website
+- [algorithmica-org/algorithmica](https://github.com/algorithmica-org/algorithmica) - A computer science textbook
 - [VSainteuf/pastis-benchmark](https://github.com/VSainteuf/pastis-benchmark) - 
 - [txoof/epd_display](https://github.com/txoof/epd_display) - E Paper Display Loop
 - [rolling-scopes-school/ml-intro](https://github.com/rolling-scopes-school/ml-intro) - RS School Machine Learning course
@@ -7226,7 +7228,6 @@
 - [interviewstreet/ghs](https://github.com/interviewstreet/ghs) - Cross-platform CLI tool to generate your Github profile's stats and summary.
 - [internetarchive/openlibrary](https://github.com/internetarchive/openlibrary) - One webpage for every book ever published!
 - [Fredtoby/trajectoryprediction](https://github.com/Fredtoby/trajectoryprediction) - 
-- [emacs-eaf/emacs-application-framework](https://github.com/emacs-eaf/emacs-application-framework) - A free/libre and open-source extensible framework that revolutionizes the graphical capabilities of Emacs, the key to ultimately Live in Emacs
 - [cloudnloud/interview-questions](https://github.com/cloudnloud/interview-questions) - 
 - [amidaware/tacticalrmm](https://github.com/amidaware/tacticalrmm) - A remote monitoring & management tool, built with Django, Vue and Go.
 - [facebookresearch/msn](https://github.com/facebookresearch/msn) - Masked Siamese Networks for Label-Efficient Learning (https://arxiv.org/abs/2204.07141)
@@ -7540,7 +7541,7 @@
 - [HIPS/autograd](https://github.com/HIPS/autograd) - Efficiently computes derivatives of numpy code.
 - [sberbank-ai-lab/torchvggish](https://github.com/sberbank-ai-lab/torchvggish) - Pytorch port of Google Research's VGGish model used for extracting audio features.
 - [sberbank-ai-lab/LightAutoML](https://github.com/sberbank-ai-lab/LightAutoML) - LAMA - automatic model creation framework
-- [csuhan/ReDet](https://github.com/csuhan/ReDet) - Official code of the paper "ReDet: A Rotation-equivariant Detector for Aerial Object Detection" (CVPR 2021)
+- [csuhan/ReDet](https://github.com/csuhan/ReDet) - Official code of the paper "ReDet: A Rotation-Equivariant Detector for Aerial Object Detection" (CVPR 2021)
 - [PaddlePaddle/PaddleClas](https://github.com/PaddlePaddle/PaddleClas) - A treasure chest for visual recognition powered by PaddlePaddle
 - [fbdesignpro/sweetviz](https://github.com/fbdesignpro/sweetviz) - Visualize and compare datasets, target values and associations, with one line of code.
 - [ahmadmughees/BigEarthNet-pytorch](https://github.com/ahmadmughees/BigEarthNet-pytorch) - Pytorch Implementation of BigEarthNet Toolkit
@@ -8265,7 +8266,7 @@
 - [NVIDIAGameWorks/kaolin](https://github.com/NVIDIAGameWorks/kaolin) - A PyTorch Library for Accelerating 3D Deep Learning Research
 - [deepjyoti30/downloader-cli](https://github.com/deepjyoti30/downloader-cli) - A simple downloader written in Python with an awesome customizable progressbar.
 - [quay/quay](https://github.com/quay/quay) - Build, Store, and Distribute your Applications and Containers
-- [Softwarepark/exercises](https://github.com/Softwarepark/exercises) - Trustbit (Softwarepark) exercises and dojos for DDD and Data Science 💖
+- [trustbit/exercises](https://github.com/trustbit/exercises) - Trustbit (Softwarepark) exercises and dojos for DDD and Data Science 💖
 - [altsoph/wcw_bot](https://github.com/altsoph/wcw_bot) - WebCamWatcher bot and pipeline
 - [BloodAxe/Kaggle-Salt](https://github.com/BloodAxe/Kaggle-Salt) - 
 - [MicroPyramid/Django-CRM](https://github.com/MicroPyramid/Django-CRM) - Open Source CRM based on Django
@@ -8332,6 +8333,7 @@
 - [Zhongdao/Towards-Realtime-MOT](https://github.com/Zhongdao/Towards-Realtime-MOT) - Joint Detection and Embedding for fast multi-object tracking
 - [stepjam/RLBench](https://github.com/stepjam/RLBench) - A large-scale benchmark and learning environment.
 - [RUB-SysSec/redqueen](https://github.com/RUB-SysSec/redqueen) - 
+- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — The fastest way to build data apps in Python
 - [ryansb/serverless-cat-facts](https://github.com/ryansb/serverless-cat-facts) - Distribute facts about cats without needing to run your own infrastructure
 - [phith0n/realworldctf](https://github.com/phith0n/realworldctf) - My Real World CTF challenges
 - [learnables/learn2learn](https://github.com/learnables/learn2learn) - A PyTorch Library for Meta-learning Research
@@ -10144,7 +10146,7 @@
 - [toji/semilive](https://github.com/toji/semilive) - A Sublime Text plugin for "Live" coding
 - [scikit-garden/scikit-garden](https://github.com/scikit-garden/scikit-garden) - A garden for scikit-learn compatible trees
 - [tox-dev/tox-docker](https://github.com/tox-dev/tox-docker) - A tox plugin to run one or more Docker containers during tests
-- [polyaxon/polyaxon](https://github.com/polyaxon/polyaxon) - Machine Learning Management & Orchestration Platform (Monorepo for Polyaxon's MLOps Tools)
+- [polyaxon/polyaxon](https://github.com/polyaxon/polyaxon) - MLOps Tools For Managing & Orchestrating The Machine Learning LifeCycle
 - [rakhimov/cppdep](https://github.com/rakhimov/cppdep) - C/C++ Dependency Analyzer: a rewrite of John Lakos' dep_utils (adep/cdep/ldep) from "Large-Scale C++ Software Design"
 - [timmahrt/praatIO](https://github.com/timmahrt/praatIO) - A python library for working with praat, textgrids, time aligned audio transcripts, and audio files. It is primarily used for extracting features from and making manipulations on audio files given hierarchical time-aligned transcriptions (utterance &gt; word &gt; syllable &gt; phone, etc).
 - [dbcli/mycli](https://github.com/dbcli/mycli) - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
@@ -13588,7 +13590,7 @@
 
 ## Ruby 
 
-- [gusztavvargadr/workstations](https://github.com/gusztavvargadr/workstations) - Vagrant virtual workstations and development environments with Visual Studio, Docker, IIS and SQL Server on Windows for .NET development
+- [gusztavvargadr/workstations](https://github.com/gusztavvargadr/workstations) - Vagrant samples of virtual workstations and development environments
 - [tompng/air_hockey_quine](https://github.com/tompng/air_hockey_quine) - Network Battle Air Hockey Quine
 - [brotandgames/ciao](https://github.com/brotandgames/ciao) - HTTP checks & tests (private & public) monitoring - check the status of your URL
 - [SteveLTN/https-portal](https://github.com/SteveLTN/https-portal) - A fully automated HTTPS server powered by Nginx, Let's Encrypt and Docker.
@@ -14087,7 +14089,6 @@
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [hygieia/hygieia](https://github.com/hygieia/hygieia) - CapitalOne  DevOps Dashboard
 - [vuejs/core](https://github.com/vuejs/core) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
-- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — The fastest way to build data apps in Python
 - [AzureAD/microsoft-authentication-library-for-js](https://github.com/AzureAD/microsoft-authentication-library-for-js) - Microsoft Authentication Library (MSAL) for JS
 - [typeorm/typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
 - [apollographql/apollo-server](https://github.com/apollographql/apollo-server) - 🌍  Spec-compliant and production ready JavaScript GraphQL server that lets you develop in a schema-first way. Built for Express, Connect, Hapi, Koa, and more.
@@ -14741,7 +14742,6 @@
 - [lss5270/vue-admin-spa](https://github.com/lss5270/vue-admin-spa) - 基于vue2.0生态的后台管理系统模板（spa）。 a vue management system template based on ：vue2.0 + vue-router + vuex + element-ui +ES6+ webpack + npm。
 - [sdras/intro-to-vue](https://github.com/sdras/intro-to-vue) - Workshop Materials for my Introduction to Vue.js Workshop
 - [luosijie/vue-manager](https://github.com/luosijie/vue-manager) - A panel framework based on Vue 2.0, iView and ECharts.
-- [ecomfe/veui](https://github.com/ecomfe/veui) - Enterprise UI for Vue.js.
 - [Akryum/vueconf-2017-demo](https://github.com/Akryum/vueconf-2017-demo) - VueConf 2017 GraphQL client demo
 - [tmm/notational](https://github.com/tmm/notational) - Real-time notes app built with Vue.js
 - [boylegu/SanicCRUD-vue](https://github.com/boylegu/SanicCRUD-vue) - A example demo base Sanic with vueJS2.x + webpack2.x as  new python full stack web practice
