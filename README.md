@@ -179,7 +179,6 @@
 - [cesanta/mongoose](https://github.com/cesanta/mongoose) - Embedded Web Server
 - [unicorn-engine/unicorn](https://github.com/unicorn-engine/unicorn) - Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, PowerPC, RiscV, S390x, X86)
 - [bvschaik/julius](https://github.com/bvschaik/julius) - An open source re-implementation of Caesar III
-- [Inori/GPCS4](https://github.com/Inori/GPCS4) - A work-in-progress PlayStation 4 emulator.
 - [libretro/RetroArch](https://github.com/libretro/RetroArch) - Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.
 - [pawelsalawa/sqlitestudio](https://github.com/pawelsalawa/sqlitestudio) - A free, open source, multi-platform SQLite database manager.
 - [openzfs/zfs](https://github.com/openzfs/zfs) - OpenZFS on Linux and FreeBSD
@@ -583,6 +582,7 @@
 - [MADEAPPS/newton-dynamics](https://github.com/MADEAPPS/newton-dynamics) - Newton Dynamics is an integrated solution for real time simulation of physics environments.
 - [TigerVNC/tigervnc](https://github.com/TigerVNC/tigervnc) - High performance, multi-platform VNC client and server
 - [opencv/opencv_contrib](https://github.com/opencv/opencv_contrib) - Repository for OpenCV's extra modules
+- [Inori/GPCS4](https://github.com/Inori/GPCS4) - A work-in-progress PlayStation 4 emulator.
 - [rpng/open_vins](https://github.com/rpng/open_vins) - An open source platform for visual-inertial navigation research.
 - [skriegman/reconfigurable_organisms](https://github.com/skriegman/reconfigurable_organisms) - A scalable pipeline for designing reconfigurable organisms
 - [loco-3d/crocoddyl](https://github.com/loco-3d/crocoddyl) - Crocoddyl is an optimal control library for robot control under contact sequence. Its solver is based on various efficient Differential Dynamic Programming (DDP)-like algorithms
@@ -1525,7 +1525,6 @@
 
 ## Emacs Lisp 
 
-- [emacs-eaf/emacs-application-framework](https://github.com/emacs-eaf/emacs-application-framework) - A free/libre and open-source extensible framework that revolutionizes the graphical capabilities of Emacs, the key to ultimately Live in Emacs
 - [dangom/org-thesis](https://github.com/dangom/org-thesis) - Writing a Ph.D. thesis with Org Mode
 - [pythonic-emacs/anaconda-mode](https://github.com/pythonic-emacs/anaconda-mode) - Code navigation, documentation lookup and completion for Python.
 - [gregsexton/ob-ipython](https://github.com/gregsexton/ob-ipython) - org-babel integration with Jupyter for evaluation of (Python by default) code blocks
@@ -3201,6 +3200,7 @@
 - [AWSinAction/code2](https://github.com/AWSinAction/code2) - Code of Amazon Web Services in Action, Second Edition
 - [vladocar/screenshoteer](https://github.com/vladocar/screenshoteer) - Make website screenshots and mobile emulations from the command line.
 - [oussamahamdaoui/forgJs](https://github.com/oussamahamdaoui/forgJs) - ForgJs is a javascript lightweight object validator. Go check the Quick start section and start coding with love
+- [janiskelemen/formvuelar](https://github.com/janiskelemen/formvuelar) - Vue form components with server-side validation in mind
 - [lovell/sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.
 - [anubhavsrivastava/awesome-ui-component-library](https://github.com/anubhavsrivastava/awesome-ui-component-library) - Curated list of framework component libraries for UI styles/toolkit
 - [didi/mpx](https://github.com/didi/mpx) - Mpx，一款具有优秀开发体验和深度性能优化的增强型跨端小程序框架
@@ -5874,7 +5874,7 @@
 
 ## Kotlin 
 
-- [JetBrains/KotlinDL](https://github.com/JetBrains/KotlinDL) - High-level Deep Learning Framework written in Kotlin and inspired by Keras
+- [Kotlin/kotlindl](https://github.com/Kotlin/kotlindl) - High-level Deep Learning Framework written in Kotlin and inspired by Keras
 - [just-ai/jaicf-kotlin](https://github.com/just-ai/jaicf-kotlin) - Kotlin framework for conversational voice assistants and chatbots development
 - [MindorksOpenSource/ridesharing-uber-lyft-app](https://github.com/MindorksOpenSource/ridesharing-uber-lyft-app) - Ride-Sharing Uber Lyft Android App - Learn to build a ride-sharing Android Taxi Clone App like Uber, Lyft - Open-Source Project By MindOrks
 - [mozilla-mobile/fenix](https://github.com/mozilla-mobile/fenix) - Firefox for Android
@@ -7228,6 +7228,7 @@
 - [interviewstreet/ghs](https://github.com/interviewstreet/ghs) - Cross-platform CLI tool to generate your Github profile's stats and summary.
 - [internetarchive/openlibrary](https://github.com/internetarchive/openlibrary) - One webpage for every book ever published!
 - [Fredtoby/trajectoryprediction](https://github.com/Fredtoby/trajectoryprediction) - 
+- [emacs-eaf/emacs-application-framework](https://github.com/emacs-eaf/emacs-application-framework) - A free/libre and open-source extensible framework that revolutionizes the graphical capabilities of Emacs, the key to ultimately Live in Emacs
 - [cloudnloud/interview-questions](https://github.com/cloudnloud/interview-questions) - 
 - [amidaware/tacticalrmm](https://github.com/amidaware/tacticalrmm) - A remote monitoring & management tool, built with Django, Vue and Go.
 - [facebookresearch/msn](https://github.com/facebookresearch/msn) - Masked Siamese Networks for Label-Efficient Learning (https://arxiv.org/abs/2204.07141)
@@ -7399,7 +7400,7 @@
 - [KurtBestor/Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - :cake: Desktop utility to download images/videos/music/text from various websites, and more.
 - [sdv-dev/SDV](https://github.com/sdv-dev/SDV) - Synthetic Data Generation for tabular, relational and time series data.
 - [ranger/ranger](https://github.com/ranger/ranger) - A VIM-inspired filemanager for the console
-- [PINTO0309/PINTO_model_zoo](https://github.com/PINTO0309/PINTO_model_zoo) - A repository for storing models that have been inter-converted between various frameworks. Supported frameworks are TensorFlow, PyTorch, ONNX, OpenVINO, TFJS, TFTRT, TensorFlowLite (Float32/16/8), EdgeTPU, CoreML.
+- [PINTO0309/PINTO_model_zoo](https://github.com/PINTO0309/PINTO_model_zoo) - A repository for storing models that have been inter-converted between various frameworks. Supported frameworks are TensorFlow, PyTorch, ONNX, OpenVINO, TFJS, TFTRT, TensorFlowLite (Float32/16/INT8), EdgeTPU, CoreML.
 - [GeospatialPython/pyshp](https://github.com/GeospatialPython/pyshp) - This library reads and writes ESRI Shapefiles in pure Python.
 - [python-visualization/branca](https://github.com/python-visualization/branca) - This library is a spinoff from folium, that would host the non-map-specific features.
 - [rlan/mlmt](https://github.com/rlan/mlmt) - Machine Learning Multi-Tool: A collection of loosely organized code to assist machine learning research.
@@ -14518,7 +14519,6 @@
 - [robotframework/robotframework.github.com](https://github.com/robotframework/robotframework.github.com) - Robot Framework ecosystem from page
 - [timoschwarzer/gitlab-monitor](https://github.com/timoschwarzer/gitlab-monitor) - A web-based monitor dashboard for GitLab CI
 - [Justineo/vue-clamp](https://github.com/Justineo/vue-clamp) - Clamping multiline text with ease.
-- [janiskelemen/formvuelar](https://github.com/janiskelemen/formvuelar) - Vue form components with server-side validation in mind
 - [redtubelabs/vue](https://github.com/redtubelabs/vue) - Touch yourself on the Vue way.
 - [leofle/d3vue](https://github.com/leofle/d3vue) - Vue app with D3 graph
 - [mtorromeo/vue-patternfly](https://github.com/mtorromeo/vue-patternfly) - PatternFly 3 components for Vue 3
