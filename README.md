@@ -557,7 +557,7 @@
 - [alphacep/vosk-api](https://github.com/alphacep/vosk-api) - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
 - [RPCS3/rpcs3](https://github.com/RPCS3/rpcs3) - PS3 emulator/debugger
 - [onnx/onnx-tensorrt](https://github.com/onnx/onnx-tensorrt) - ONNX-TensorRT: TensorRT backend for ONNX
-- [xbmc/xbmc](https://github.com/xbmc/xbmc) - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS and Windows.
+- [xbmc/xbmc](https://github.com/xbmc/xbmc) - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS, tvOS and Windows.
 - [alibaba/graph-learn](https://github.com/alibaba/graph-learn) - An Industrial Graph Neural Network Framework
 - [google/snappy](https://github.com/google/snappy) - A fast compressor/decompressor
 - [neuroprod/InsectRobotSimulation](https://github.com/neuroprod/InsectRobotSimulation) - hexapod
@@ -1560,6 +1560,7 @@
 
 ## Go 
 
+- [maaslalani/draw](https://github.com/maaslalani/draw) - Draw in your terminal
 - [peak/s5cmd](https://github.com/peak/s5cmd) - Parallel S3 and local filesystem execution tool.
 - [NVIDIA/container-canary](https://github.com/NVIDIA/container-canary) - A tool for validating container requirements against versioned manifests
 - [teslamotors/ansible_puller](https://github.com/teslamotors/ansible_puller) - Ansible daemon for massively-scaleable Ansible
@@ -2926,6 +2927,7 @@
 
 ## JavaScript 
 
+- [kedro-org/kedro-viz](https://github.com/kedro-org/kedro-viz) - Visualise your Kedro data and machine-learning pipelines and track your experiments.
 - [sberbank-ai-lab/lightautoml-datafest-workshop](https://github.com/sberbank-ai-lab/lightautoml-datafest-workshop) - Materials for LightAutoML workshop (DataFest 2021)
 - [notion-enhancer/desktop](https://github.com/notion-enhancer/desktop) - an enhancer/customiser for the all-in-one productivity workspace notion.so (app)
 - [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
@@ -3695,7 +3697,6 @@
 - [davidroyer/vue2-editor](https://github.com/davidroyer/vue2-editor) - A text editor using Vue.js and Quill
 - [tralves/groceries-ns-vue](https://github.com/tralves/groceries-ns-vue) - 🍏 🍍 🍓 A NativeScript+Vue iOS and Android app for managing grocery lists
 - [thousandetherhomepage/ketherhomepage](https://github.com/thousandetherhomepage/ketherhomepage) - Own a piece of blockchain history!
-- [johndatserakis/file-upload-with-preview](https://github.com/johndatserakis/file-upload-with-preview) - 🖼 A simple file-upload utility that shows a preview of the uploaded image. Written in pure JavaScript. No dependencies. Works well with Bootstrap 4 or without a framework.
 - [ChainSafe/web3.js](https://github.com/ChainSafe/web3.js) - Ethereum JavaScript API
 - [akxcv/vuera](https://github.com/akxcv/vuera) - :eyes: Vue in React, React in Vue. Seamless integration of the two. :dancers:
 - [nodejs/node-chakracore](https://github.com/nodejs/node-chakracore) - Node.js on ChakraCore :sparkles::turtle::rocket::sparkles:
@@ -4493,6 +4494,12 @@
 
 ## Jupyter Notebook 
 
+- [zju3dv/LoFTR](https://github.com/zju3dv/LoFTR) - Code for "LoFTR: Detector-Free Local Feature Matching with Transformers", CVPR 2021
+- [vivekhsridhar/GODM](https://github.com/vivekhsridhar/GODM) - 
+- [srush/Tensor-Puzzles](https://github.com/srush/Tensor-Puzzles) - 
+- [practiceprobs/problemsets](https://github.com/practiceprobs/problemsets) - Problem sets from practiceprobs.com
+- [eddwebster/football_analytics](https://github.com/eddwebster/football_analytics) - ⚽📊  A collection of football analytics projects, data, and analysis by Edd Webster (@eddwebster), including a curated list of publicly available resources published by the football analytics community.
+- [a-paxton/living-documents](https://github.com/a-paxton/living-documents) - How to use Jupyter notebooks and R markdown to create living documents and reproducible reports.
 - [facebookresearch/UniK-QA](https://github.com/facebookresearch/UniK-QA) - Unified Representations of Structured and Unstructured Knowledge for Open-Domain Question Answering
 - [espnet/interspeech2019-tutorial](https://github.com/espnet/interspeech2019-tutorial) - INTERSPEECH 2019 Tutorial Materials
 - [xbresson/CS4243_2022](https://github.com/xbresson/CS4243_2022) - Computer Vision and Pattern Recognition, NUS CS4243, 2022
@@ -6030,6 +6037,14 @@
 
 ## Others 
 
+- [joseadanof/awesome-cloudnative-trainings](https://github.com/joseadanof/awesome-cloudnative-trainings) - Awesome Trainings from Cloud Native Computing Foundation Projects and Kubernetes related software
+- [withfig/fig](https://github.com/withfig/fig) - Public issue tracker for Fig.
+- [sadanandpai/frontend-learning-kit](https://github.com/sadanandpai/frontend-learning-kit) - Frontend tech guide and curated collection of frontend materials
+- [riramar/Web-Attack-Cheat-Sheet](https://github.com/riramar/Web-Attack-Cheat-Sheet) - Web Attack Cheat Sheet
+- [nirajkharel/AD-Pentesting-Notes](https://github.com/nirajkharel/AD-Pentesting-Notes) - 
+- [github/dev](https://github.com/github/dev) - Press the . key on any repo
+- [bkrem/awesome-solidity](https://github.com/bkrem/awesome-solidity) - ⟠ A curated list of awesome Solidity resources, libraries, tools and more
+- [ashishpatel26/365-Days-Computer-Vision-Learning-Linkedin-Post](https://github.com/ashishpatel26/365-Days-Computer-Vision-Learning-Linkedin-Post) - 365 Days Computer Vision Learning Linkedin Post
 - [Azure/DataEngineering](https://github.com/Azure/DataEngineering) - Repo to share Data Engineering, ML OPS, Data Analyst best practices
 - [espnet/icassp2022-tts](https://github.com/espnet/icassp2022-tts) - ICASSP2022 TTS demo HP
 - [psiinon/open-source-web-scanners](https://github.com/psiinon/open-source-web-scanners) - A list of open source web security scanners
@@ -7215,6 +7230,20 @@
 
 ## Python 
 
+- [megvii-research/NAFNet](https://github.com/megvii-research/NAFNet) - The state-of-the-art image restoration model without nonlinear activation functions.
+- [SHI-Labs/Neighborhood-Attention-Transformer](https://github.com/SHI-Labs/Neighborhood-Attention-Transformer) - [Preprint] Neighborhood Attention Transformer, 2022
+- [ViTAE-Transformer/ViTDet](https://github.com/ViTAE-Transformer/ViTDet) - Unofficial implementation of Exploring Plain Vision Transformer Backbones for Object Detection
+- [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
+- [nv-tlabs/editGAN_release](https://github.com/nv-tlabs/editGAN_release) - 
+- [hustvl/TeViT](https://github.com/hustvl/TeViT) - Temporally Efficient Vision Transformer for Video Instance Segmentation, CVPR 2022 Oral
+- [help-iq/telethon](https://github.com/help-iq/telethon) - 
+- [googleapis/python-speech](https://github.com/googleapis/python-speech) - 
+- [facebookresearch/ConvNeXt](https://github.com/facebookresearch/ConvNeXt) - Code release for ConvNeXt model
+- [eth-brownie/brownie](https://github.com/eth-brownie/brownie) - A Python-based development and testing framework for smart contracts targeting the Ethereum Virtual Machine.
+- [bloomberg/memray](https://github.com/bloomberg/memray) - Memray is a memory profiler for Python
+- [AzizKpln/Moriarty-Project](https://github.com/AzizKpln/Moriarty-Project) - This tool gives information about the phone number that you entered.
+- [alexa/massive](https://github.com/alexa/massive) - Tools and Modeling Code for the MASSIVE dataset
+- [aiogram/aiogram](https://github.com/aiogram/aiogram) - Is a pretty simple and fully asynchronous framework for Telegram Bot API written in Python 3.7 with asyncio and aiohttp.
 - [Azure/mlops-templates](https://github.com/Azure/mlops-templates) - 
 - [lucidrains/video-diffusion-pytorch](https://github.com/lucidrains/video-diffusion-pytorch) - Implementation of Video Diffusion Models, Jonathan Ho's new paper extending DDPMs to Video Generation - in Pytorch
 - [wasi-master/fastero](https://github.com/wasi-master/fastero) - Python timeit CLI for the 21st century! colored output, multi-line input with syntax highlighting and autocompletion and much more!
@@ -7328,7 +7357,7 @@
 - [edilgin/DeepForSpeed](https://github.com/edilgin/DeepForSpeed) - ConvNet learns to play Need For Speed
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - changedetection.io - The best and simplest self-hosted free open source website change detection monitoring and notification service. An alternative to Visualping, Watchtower etc. Designed for simplicity - the main goal is to simply monitor which websites had a text change for free. Free Open source web page change detection
 - [datvuthanh/HybridNets](https://github.com/datvuthanh/HybridNets) - HybridNets: End-to-End Perception Network
-- [google/vizier](https://github.com/google/vizier) - Python-based interface for blackbox optimization and research, based on Google's internal Vizier.
+- [google/vizier](https://github.com/google/vizier) - Python-based interface for blackbox optimization and research, based on Google's internal Vizier Service.
 - [huggingface/community-events](https://github.com/huggingface/community-events) - Place where folks can contribute to 🤗 community events
 - [jupyterlite/jupyterlite](https://github.com/jupyterlite/jupyterlite) - Wasm powered Jupyter running in the browser 💡
 - [snakers4/russian_stt_text_normalization](https://github.com/snakers4/russian_stt_text_normalization) - Russian text normalization pipeline for speech-to-text and other applications based on tagging s2s networks
@@ -11552,7 +11581,7 @@
 - [davidhalter/jedi](https://github.com/davidhalter/jedi) - Awesome autocompletion, static analysis and refactoring library for python
 - [srusskih/SublimeJEDI](https://github.com/srusskih/SublimeJEDI) - awesome Python autocompletion with SublimeText
 - [PacketPerception/pychievements](https://github.com/PacketPerception/pychievements) - The Python Achievements Framework!
-- [jek/blinker](https://github.com/jek/blinker) - A fast Python in-process signal/event dispatching system.
+- [pallets-eco/blinker](https://github.com/pallets-eco/blinker) - A fast Python in-process signal/event dispatching system.
 - [mitsuhiko/python-modernize](https://github.com/mitsuhiko/python-modernize) - Modernizes Python code for eventual Python 3 migration. Build on top of 2to3
 - [rockymeza/wifi](https://github.com/rockymeza/wifi) - [unmaintained] WiFi tools for linux
 - [SavinaRoja/PyUserInput](https://github.com/SavinaRoja/PyUserInput) - A module for cross-platform control of the mouse and keyboard in python that is simple to install and use.
@@ -14273,6 +14302,7 @@
 - [apertureless/vue-chartjs](https://github.com/apertureless/vue-chartjs) - 📊  Vue.js wrapper for Chart.js
 - [webhintio/hint](https://github.com/webhintio/hint) - 💡 A hinting engine for the web
 - [vuestorefront/vue-storefront](https://github.com/vuestorefront/vue-storefront) - The open-source frontend for any eCommerce. Built with a PWA and headless approach, using a modern JS stack. We have custom integrations with Magento, commercetools, Shopware and Shopify and total coverage is just a matter of time. The API approach also allows you to merge VSF with any third-party tool like CMS, payment gateways or analytics. Newest updates: https://blog.vuestorefront.io. Always Open Source, MIT license.
+- [johndatserakis/file-upload-with-preview](https://github.com/johndatserakis/file-upload-with-preview) - 🖼 Simple file-upload utility that shows a preview of the uploaded image. Written in TypeScript. No dependencies. Works well with or without a framework.
 - [clintonwoo/hackernews-react-graphql](https://github.com/clintonwoo/hackernews-react-graphql) - Hacker News clone rewritten with universal JavaScript, using React and GraphQL.
 - [reiinakano/fast-style-transfer-deeplearnjs](https://github.com/reiinakano/fast-style-transfer-deeplearnjs) - Demo of in-browser Fast Neural Style Transfer with deeplearn.js library
 - [Azure/autorest](https://github.com/Azure/autorest) - OpenAPI (f.k.a Swagger) Specification code generator. Supports C#, PowerShell, Go, Java, Node.js, TypeScript, Python
