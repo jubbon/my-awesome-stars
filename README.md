@@ -536,7 +536,7 @@
 - [izenecloud/sf1r-lite](https://github.com/izenecloud/sf1r-lite) - Search Formula-1——A distributed high performance massive data engine for enterprise/vertical search
 - [uiuc-sst/asr24](https://github.com/uiuc-sst/asr24) - 24-hour Automatic Speech Recognition
 - [srvk/eesen](https://github.com/srvk/eesen) - The official repository of the Eesen project
-- [PaddlePaddle/PaddleSpeech](https://github.com/PaddlePaddle/PaddleSpeech) - Easy-to-use Speech Toolkit including SOTA/Streaming ASR pipeline, influential TTS with text frontend, Speaker Verification System and End-to-End Speech Simultaneous Translation.
+- [PaddlePaddle/PaddleSpeech](https://github.com/PaddlePaddle/PaddleSpeech) - Easy-to-use Speech Toolkit including SOTA/Streaming ASR witch punctuation, influential TTS with text frontend, Speaker Verification System and End-to-End Speech Simultaneous Translation.
 - [bakwc/JamSpell](https://github.com/bakwc/JamSpell) - Modern spell checking library - accurate, fast, multi-language
 - [sokirko74/aot](https://github.com/sokirko74/aot) - Seman is a set of linguistic tools to analyze Russian or German texts, it contains lexicons and grammars. The project is interesting as a base line for many research projects in computer linguistics area.
 - [UZ-SLAMLab/ORB_SLAM3](https://github.com/UZ-SLAMLab/ORB_SLAM3) - ORB-SLAM3: An Accurate Open-Source Library for Visual, Visual-Inertial and Multi-Map SLAM
@@ -2988,7 +2988,7 @@
 - [kiteco/vscode-plugin](https://github.com/kiteco/vscode-plugin) - Kite Autocomplete Plugin for Visual Studio Code
 - [expressjs/express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
 - [jitsi/docker-jitsi-meet](https://github.com/jitsi/docker-jitsi-meet) - Jitsi Meet on Docker
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 1700 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 1950 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [marcotcr/lime](https://github.com/marcotcr/lime) - Lime: Explaining the predictions of any machine learning classifier
 - [microsoft/botframework-sdk](https://github.com/microsoft/botframework-sdk) - Bot Framework provides the most comprehensive experience for building conversation applications.
 - [lukeed/uuid](https://github.com/lukeed/uuid) - A tiny (~230B)and fast UUID (V4) generator for Node and the browser
@@ -4496,7 +4496,7 @@
 
 - [zju3dv/LoFTR](https://github.com/zju3dv/LoFTR) - Code for "LoFTR: Detector-Free Local Feature Matching with Transformers", CVPR 2021
 - [vivekhsridhar/GODM](https://github.com/vivekhsridhar/GODM) - 
-- [srush/Tensor-Puzzles](https://github.com/srush/Tensor-Puzzles) - 
+- [srush/Tensor-Puzzles](https://github.com/srush/Tensor-Puzzles) - Solve puzzles. Improve your pytorch.
 - [practiceprobs/problemsets](https://github.com/practiceprobs/problemsets) - Problem sets from practiceprobs.com
 - [eddwebster/football_analytics](https://github.com/eddwebster/football_analytics) - ⚽📊  A collection of football analytics projects, data, and analysis by Edd Webster (@eddwebster), including a curated list of publicly available resources published by the football analytics community.
 - [a-paxton/living-documents](https://github.com/a-paxton/living-documents) - How to use Jupyter notebooks and R markdown to create living documents and reproducible reports.
