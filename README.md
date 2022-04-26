@@ -1525,6 +1525,7 @@
 
 ## Emacs Lisp 
 
+- [emacs-eaf/emacs-application-framework](https://github.com/emacs-eaf/emacs-application-framework) - A free/libre and open-source extensible framework that revolutionizes the graphical capabilities of Emacs, the key to ultimately Live in Emacs
 - [dangom/org-thesis](https://github.com/dangom/org-thesis) - Writing a Ph.D. thesis with Org Mode
 - [pythonic-emacs/anaconda-mode](https://github.com/pythonic-emacs/anaconda-mode) - Code navigation, documentation lookup and completion for Python.
 - [gregsexton/ob-ipython](https://github.com/gregsexton/ob-ipython) - org-babel integration with Jupyter for evaluation of (Python by default) code blocks
@@ -4514,6 +4515,7 @@
 - [facebookresearch/ss3d](https://github.com/facebookresearch/ss3d) - Code release for "Pre-train, Self-train, Distill A simple recipe for Supersizing 3D Reconstruction"
 - [google/fiddle](https://github.com/google/fiddle) - 
 - [google-research/maskgit](https://github.com/google-research/maskgit) - Official Jax Implementation of MaskGIT
+- [google-research/maxim](https://github.com/google-research/maxim) - [CVPR 2022 Oral] Official repository for "MAXIM: Multi-Axis MLP for Image Processing". SOTA for denoising, deblurring, deraining, dehazing, and enhancement.
 - [google-research/pix2seq](https://github.com/google-research/pix2seq) - Pix2Seq - A general framework for turning RGB pixels into semantically meaningful sequences
 - [deepmind/HAI_selective_prediction](https://github.com/deepmind/HAI_selective_prediction) - 
 - [sberbank-ai-lab/automlbenchmark](https://github.com/sberbank-ai-lab/automlbenchmark) - OpenML AutoML Benchmarking Framework
@@ -7000,7 +7002,7 @@
 - [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) - 🎉 A curated list of awesome things related to Vue.js
 - [WICG/webusb](https://github.com/WICG/webusb) - Connecting hardware to the web.
 - [joshbuchea/HEAD](https://github.com/joshbuchea/HEAD) - A simple guide to HTML &lt;head&gt; elements
-- [Junnplus/awesome-python-books](https://github.com/Junnplus/awesome-python-books) - :books: Directory of Python books
+- [junnplus/awesome-python-books](https://github.com/junnplus/awesome-python-books) - :books: Directory of Python books
 - [xgrommx/awesome-redux](https://github.com/xgrommx/awesome-redux) - Awesome list of Redux examples and middlewares
 - [ty4z2008/Qix](https://github.com/ty4z2008/Qix) - Machine Learning、Deep Learning、PostgreSQL、Distributed System、Node.Js、Golang
 - [fcambus/jsemu](https://github.com/fcambus/jsemu) - A list of emulators written in the JavaScript programming language
@@ -7230,6 +7232,8 @@
 
 ## Python 
 
+- [facebookresearch/perfect](https://github.com/facebookresearch/perfect) - PERFECT: Prompt-free and Efficient Few-shot Learning with Language Models
+- [mapbox/snuggs](https://github.com/mapbox/snuggs) - Snuggs are s-expressions for Numpy
 - [megvii-research/NAFNet](https://github.com/megvii-research/NAFNet) - The state-of-the-art image restoration model without nonlinear activation functions.
 - [SHI-Labs/Neighborhood-Attention-Transformer](https://github.com/SHI-Labs/Neighborhood-Attention-Transformer) - [Preprint] Neighborhood Attention Transformer, 2022
 - [ViTAE-Transformer/ViTDet](https://github.com/ViTAE-Transformer/ViTDet) - Unofficial implementation of Exploring Plain Vision Transformer Backbones for Object Detection
@@ -7257,7 +7261,6 @@
 - [interviewstreet/ghs](https://github.com/interviewstreet/ghs) - Cross-platform CLI tool to generate your Github profile's stats and summary.
 - [internetarchive/openlibrary](https://github.com/internetarchive/openlibrary) - One webpage for every book ever published!
 - [Fredtoby/trajectoryprediction](https://github.com/Fredtoby/trajectoryprediction) - 
-- [emacs-eaf/emacs-application-framework](https://github.com/emacs-eaf/emacs-application-framework) - A free/libre and open-source extensible framework that revolutionizes the graphical capabilities of Emacs, the key to ultimately Live in Emacs
 - [cloudnloud/interview-questions](https://github.com/cloudnloud/interview-questions) - 
 - [amidaware/tacticalrmm](https://github.com/amidaware/tacticalrmm) - A remote monitoring & management tool, built with Django, Vue and Go.
 - [facebookresearch/msn](https://github.com/facebookresearch/msn) - Masked Siamese Networks for Label-Efficient Learning (https://arxiv.org/abs/2204.07141)
@@ -7268,7 +7271,6 @@
 - [lucidrains/PaLM-pytorch](https://github.com/lucidrains/PaLM-pytorch) - Implementation of the specific Transformer architecture from PaLM - Scaling Language Modeling with Pathways
 - [lucidrains/DALLE2-pytorch](https://github.com/lucidrains/DALLE2-pytorch) - Implementation of DALL-E 2, OpenAI's updated text-to-image synthesis neural network,  in Pytorch
 - [huggingface/evaluate](https://github.com/huggingface/evaluate) - 
-- [google-research/maxim](https://github.com/google-research/maxim) - [CVPR 2022 Oral] Official repository for "MAXIM: Multi-Axis MLP for Image Processing". SOTA for denoising, deblurring, deraining, dehazing, and enhancement.
 - [microsoft/unilm](https://github.com/microsoft/unilm) - Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities
 - [facebookresearch/data2vec_vision](https://github.com/facebookresearch/data2vec_vision) - Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities
 - [facebookresearch/facestar](https://github.com/facebookresearch/facestar) - Facestar dataset. High quality audio-visual recordings of human conversational speech.
@@ -14131,7 +14133,7 @@
 - [tensorflow/community](https://github.com/tensorflow/community) - Stores documents used by the TensorFlow developer community
 - [aws-amplify/docs](https://github.com/aws-amplify/docs) - AWS Amplify Framework Documentation
 - [marmelab/react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design
-- [directus/directus](https://github.com/directus/directus) - Open-Source Data Platform 🐰  — Directus wraps any SQL database with a real-time GraphQL+REST API and an intuitive app for non-technical users.
+- [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
 - [outline/outline](https://github.com/outline/outline) - The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, and markdown compatible.
 - [aws-solutions/serverless-image-handler](https://github.com/aws-solutions/serverless-image-handler) - A solution to dynamically handle images on the fly, utilizing SharpJS
 - [heremaps/harp.gl](https://github.com/heremaps/harp.gl) - 3D web map rendering engine written in TypeScript using three.js
