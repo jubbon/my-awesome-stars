@@ -738,7 +738,7 @@
 - [aras-p/ToyPathTracer](https://github.com/aras-p/ToyPathTracer) - Toy path tracer for my own learning purposes (CPU/GPU, C++/C#, Win/Mac/Wasm, DX11/Metal, also Unity)
 - [OSGeo/gdal](https://github.com/OSGeo/gdal) - GDAL is an open source X/MIT licensed translator library for raster and vector geospatial data formats.
 - [NervanaSystems/ngraph](https://github.com/NervanaSystems/ngraph) - nGraph has moved to OpenVINO
-- [qchencc/timer-benchmarks](https://github.com/qchencc/timer-benchmarks) - Benchmark of different timer implementations(min-heap, red-black tree, timing wheel)
+- [qchencc/timer-benchmarks](https://github.com/qchencc/timer-benchmarks) - Benchmark of different timer implementations(min-heap, red-black tree, timing wheel) 不同数据结构实现的定时器测试
 - [microsoft/service-fabric](https://github.com/microsoft/service-fabric) - Service Fabric is a distributed systems platform for packaging, deploying, and managing stateless and stateful distributed applications and containers at large scale.
 - [jacobdufault/cquery](https://github.com/jacobdufault/cquery) - C/C++ language server supporting multi-million line code base, powered by libclang. Emacs, Vim, VSCode, and others with language server protocol support. Cross references, completion, diagnostics, semantic highlighting and more
 - [malja/zroya](https://github.com/malja/zroya) - [Partialy working][Stale] Python extension for creating native Windows notifications.
@@ -1657,7 +1657,7 @@
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
 - [olivia-ai/olivia](https://github.com/olivia-ai/olivia) - 💁‍♀️Your new best friend powered by an artificial neural network
 - [GoogleCloudPlatform/cloud-builders-community](https://github.com/GoogleCloudPlatform/cloud-builders-community) - Community-contributed images for Google Cloud Build
-- [geziyor/geziyor](https://github.com/geziyor/geziyor) - Geziyor, a fast web crawling & scraping framework for Go. Supports JS rendering.
+- [geziyor/geziyor](https://github.com/geziyor/geziyor) - Geziyor, blazing fast web crawling & scraping framework for Go. Supports JS rendering.
 - [Phantas0s/devdash](https://github.com/Phantas0s/devdash) - :bento: Highly Configurable Terminal Dashboard for Developers and Creators
 - [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database
 - [callicoder/go-docker-compose](https://github.com/callicoder/go-docker-compose) - Golang Docker Compose Example
@@ -1698,7 +1698,7 @@
 - [gunk/gunk](https://github.com/gunk/gunk) - Modern frontend and syntax for Protocol Buffers
 - [liamg/darktile](https://github.com/liamg/darktile) - :waning_crescent_moon: Darktile is a GPU rendered terminal emulator designed for tiling window managers.
 - [sourcegraph/sourcegraph](https://github.com/sourcegraph/sourcegraph) - Universal code search (self-hosted)
-- [crossplane/crossplane](https://github.com/crossplane/crossplane) - Your Universal Control Plane
+- [crossplane/crossplane](https://github.com/crossplane/crossplane) - Cloud Native Control Planes
 - [dreadl0ck/netcap](https://github.com/dreadl0ck/netcap) - A framework for secure and scalable network traffic analysis - https://netcap.io
 - [isacikgoz/gitbatch](https://github.com/isacikgoz/gitbatch) - manage your git repositories in one place
 - [caddyserver/certmagic](https://github.com/caddyserver/certmagic) - Automatic HTTPS for any Go program: fully-managed TLS certificate issuance and renewal
@@ -2303,7 +2303,7 @@
 - [allisonhorst/esm244-w2020-lab5](https://github.com/allisonhorst/esm244-w2020-lab5) - Lab week 5: exploring time series data, intro to forecasting
 - [rstudio-conf-2020/intro-to-ml-tidy](https://github.com/rstudio-conf-2020/intro-to-ml-tidy) - Intro to Machine Learning with the Tidyverse
 - [alpinejs/alpine](https://github.com/alpinejs/alpine) - A rugged, minimal framework for composing JavaScript behavior in your markup.
-- [microsoft/WhatTheHack](https://github.com/microsoft/WhatTheHack) - A collection of challenge based hack-a-thons including student guide, coach guide, lecture presentations, sample/instructional code and templates.
+- [microsoft/WhatTheHack](https://github.com/microsoft/WhatTheHack) - A collection of challenge based hack-a-thons including student guide, coach guide, lecture presentations, sample/instructional code and templates.  Please visit the What The Hack website at: https://aka.ms/wth
 - [GoogleChromeLabs/samesite-examples](https://github.com/GoogleChromeLabs/samesite-examples) - Examples of using the SameSite cookie attribute in a variety of language, libraries, and frameworks.
 - [haggaishachar/techmap](https://github.com/haggaishachar/techmap) - tech maps
 - [github/government.github.com](https://github.com/github/government.github.com) - Gather, curate, and feature stories of public servants and civic hackers using GitHub as part of their open government innovations
@@ -4311,7 +4311,6 @@
 - [jgonera/webspecter](https://github.com/jgonera/webspecter) - BDD-style acceptance test framework for web applications based on PhantomJS.
 - [StanAngeloff/lotte](https://github.com/StanAngeloff/lotte) - Automated, headless browser testing (using PhantomJS).
 - [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
-- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 - [Polymer/polymer-starter-kit](https://github.com/Polymer/polymer-starter-kit) - A starting point for Polymer apps
 - [pure-css/pure](https://github.com/pure-css/pure) - A set of small, responsive CSS modules that you can use in every web project.
 - [NARKOZ/hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story
@@ -4513,7 +4512,6 @@
 - [google-research/kubric](https://github.com/google-research/kubric) - A data generation pipeline for creating semi-realistic synthetic multi-object videos with rich annotations such as instance segmentation masks, depth maps, and optical flow.
 - [4paradigm/AutoX](https://github.com/4paradigm/AutoX) - AutoX is an efficient automl tool, which is mainly aimed at data mining tasks with tabular data.
 - [facebookresearch/ss3d](https://github.com/facebookresearch/ss3d) - Code release for "Pre-train, Self-train, Distill A simple recipe for Supersizing 3D Reconstruction"
-- [google/fiddle](https://github.com/google/fiddle) - 
 - [google-research/maskgit](https://github.com/google-research/maskgit) - Official Jax Implementation of MaskGIT
 - [google-research/maxim](https://github.com/google-research/maxim) - [CVPR 2022 Oral] Official repository for "MAXIM: Multi-Axis MLP for Image Processing". SOTA for denoising, deblurring, deraining, dehazing, and enhancement.
 - [google-research/pix2seq](https://github.com/google-research/pix2seq) - Pix2Seq - A general framework for turning RGB pixels into semantically meaningful sequences
@@ -4747,6 +4745,7 @@
 - [petersontylerd/mlmachine](https://github.com/petersontylerd/mlmachine) - mlmachine accelerates machine learning experimentation
 - [natasha/ipymarkup](https://github.com/natasha/ipymarkup) - NER, syntax markup visualizations
 - [KristiyanVachev/Question-Generation](https://github.com/KristiyanVachev/Question-Generation) - Generating multiple choice questions from text using Machine Learning.
+- [explosion/prodigy-recipes](https://github.com/explosion/prodigy-recipes) - 🍳 Recipes for the Prodigy, our fully scriptable annotation tool
 - [NirantK/NLP_Quickbook](https://github.com/NirantK/NLP_Quickbook) - NLP in Python with Deep Learning
 - [learn-co-students/dsc-python-operators-functions-and-methods-lab-onl01-dtsc-ft-041320](https://github.com/learn-co-students/dsc-python-operators-functions-and-methods-lab-onl01-dtsc-ft-041320) - 
 - [kunalj101/Data-Science-Hacks](https://github.com/kunalj101/Data-Science-Hacks) - Data Science Hacks consists of tips, tricks to help you become a better data scientist. Data science hacks are for all - beginner to advanced. Data science hacks consist of python, jupyter notebook, pandas hacks and so on.
@@ -7271,6 +7270,7 @@
 - [lucidrains/PaLM-pytorch](https://github.com/lucidrains/PaLM-pytorch) - Implementation of the specific Transformer architecture from PaLM - Scaling Language Modeling with Pathways
 - [lucidrains/DALLE2-pytorch](https://github.com/lucidrains/DALLE2-pytorch) - Implementation of DALL-E 2, OpenAI's updated text-to-image synthesis neural network,  in Pytorch
 - [huggingface/evaluate](https://github.com/huggingface/evaluate) - 
+- [google/fiddle](https://github.com/google/fiddle) - 
 - [microsoft/unilm](https://github.com/microsoft/unilm) - Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities
 - [facebookresearch/data2vec_vision](https://github.com/facebookresearch/data2vec_vision) - Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities
 - [facebookresearch/facestar](https://github.com/facebookresearch/facestar) - Facestar dataset. High quality audio-visual recordings of human conversational speech.
@@ -7483,7 +7483,7 @@
 - [huggingface/data-measurements-tool](https://github.com/huggingface/data-measurements-tool) - Developing tools to automatically analyze datasets
 - [kensho-technologies/pyctcdecode](https://github.com/kensho-technologies/pyctcdecode) - A fast and lightweight python-based CTC beam search decoder for speech recognition.
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
-- [deepmind/xmanager](https://github.com/deepmind/xmanager) - 
+- [deepmind/xmanager](https://github.com/deepmind/xmanager) - A platform for managing machine learning experiments
 - [Chia-Network/chia-blockchain](https://github.com/Chia-Network/chia-blockchain) - Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet)
 - [dbiir/UER-py](https://github.com/dbiir/UER-py) - Open Source Pre-training Model Framework in PyTorch & Pre-trained Model Zoo
 - [huggingface/tune](https://github.com/huggingface/tune) - 
@@ -7498,7 +7498,7 @@
 - [github/copilot-docs](https://github.com/github/copilot-docs) - Documentation for GitHub Copilot
 - [seatgeek/thefuzz](https://github.com/seatgeek/thefuzz) - Fuzzy String Matching in Python
 - [huggingface/optimum](https://github.com/huggingface/optimum) - 🏎️ Accelerate training and inference of 🤗 Transformers with easy to use hardware optimization tools
-- [Janspiry/Image-Super-Resolution-via-Iterative-Refinement](https://github.com/Janspiry/Image-Super-Resolution-via-Iterative-Refinement) - Unoffical implementation about Image Super-Resolution via Iterative Refinement by Pytorch
+- [Janspiry/Image-Super-Resolution-via-Iterative-Refinement](https://github.com/Janspiry/Image-Super-Resolution-via-Iterative-Refinement) - Unofficial implementation of Image Super-Resolution via Iterative Refinement by Pytorch
 - [jiupinjia/rocket-recycling](https://github.com/jiupinjia/rocket-recycling) - Rocket-recycling with Reinforcement Learning
 - [open-mmlab/mmflow](https://github.com/open-mmlab/mmflow) - OpenMMLab optical flow toolbox and benchmark
 - [PaddlePaddle/PaddleSeg](https://github.com/PaddlePaddle/PaddleSeg) - Easy-to-use image segmentation library with awesome pre-trained model zoo, supporting wide-range of practical tasks in Semantic Segmentation, Interactive Segmentation, Panoptic Segmentation, Image Matting, etc.
@@ -7969,7 +7969,6 @@
 - [explosion/spacy-dev-resources](https://github.com/explosion/spacy-dev-resources) - 💫  Scripts, tools and resources for developing spaCy
 - [recognai/spacy-wordnet](https://github.com/recognai/spacy-wordnet) - spacy-wordnet creates annotations that easily allow the use of wordnet and wordnet domains by using the nltk wordnet interface
 - [explosion/projects](https://github.com/explosion/projects) - 🪐 End-to-end NLP workflows from prototype to production
-- [explosion/prodigy-recipes](https://github.com/explosion/prodigy-recipes) - 🍳 Recipes for the Prodigy, our fully scriptable annotation tool
 - [jgontrum/spacy-api-docker](https://github.com/jgontrum/spacy-api-docker) - spaCy REST API, wrapped in a Docker container.
 - [explosion/spacy-services](https://github.com/explosion/spacy-services) - 💫 REST microservices for various spaCy-related tasks
 - [explosion/spacy-stanza](https://github.com/explosion/spacy-stanza) - 💥 Use the latest Stanza (StanfordNLP) research models directly in spaCy
@@ -14414,6 +14413,7 @@
 - [babel/babel](https://github.com/babel/babel) - 🐠 Babel is a compiler for writing next generation JavaScript.
 - [remix-run/react-router](https://github.com/remix-run/react-router) - Declarative routing for React
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
+- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 - [highcharts/highcharts](https://github.com/highcharts/highcharts) - Highcharts JS, the JavaScript charting framework
 - [vega/vega-lite](https://github.com/vega/vega-lite) - A concise grammar of interactive graphics, built on Vega.
 - [bqplot/bqplot](https://github.com/bqplot/bqplot) - Plotting library for IPython/Jupyter notebooks
