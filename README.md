@@ -2066,7 +2066,7 @@
 - [owenthereal/godzilla](https://github.com/owenthereal/godzilla) - Godzilla is a ES2015 to Go source code transpiler and runtime
 - [shunfei/cronsun](https://github.com/shunfei/cronsun) - A Distributed, Fault-Tolerant Cron-Style Job System.
 - [lovoo/goka](https://github.com/lovoo/goka) - Goka is a compact yet powerful distributed stream processing library for Apache Kafka written in Go.
-- [kashav/fsql](https://github.com/kashav/fsql) - Find files with SQL.
+- [kashav/fsql](https://github.com/kashav/fsql) - Search for files using a structured query language
 - [42wim/dt](https://github.com/42wim/dt) - DNS tool - display information about your domain
 - [golang/dep](https://github.com/golang/dep) - Go dependency management tool experiment (deprecated)
 - [qvl/sleepto](https://github.com/qvl/sleepto) - An alternative to traditional task schedulers
@@ -2432,7 +2432,6 @@
 - [nat/hello](https://github.com/nat/hello) - 👋 Hello, GitHub
 - [ftlabs/fastclick](https://github.com/ftlabs/fastclick) - Polyfill to remove click delays on browsers with touch UIs
 - [WebReflection/hyperHTML](https://github.com/WebReflection/hyperHTML) - A Fast & Light Virtual DOM Alternative
-- [start-angular/SB-Admin-BS4-Angular-8](https://github.com/start-angular/SB-Admin-BS4-Angular-8) - Simple Dashboard Admin App built using Angular 8 and Bootstrap 4
 - [GTFOBins/GTFOBins.github.io](https://github.com/GTFOBins/GTFOBins.github.io) - GTFOBins is a curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems
 - [InsightDataScience/Intro_to_ML-FutureLabs](https://github.com/InsightDataScience/Intro_to_ML-FutureLabs) - ML primer workshop @ Future Labs AI Summit
 - [ncase/crowds](https://github.com/ncase/crowds) - The Wisdom and/or Madness of the Crowds
@@ -5180,7 +5179,6 @@
 - [WillKoehrsen/machine-learning-project-walkthrough](https://github.com/WillKoehrsen/machine-learning-project-walkthrough) - An implementation of a complete machine learning solution in Python on a real-world dataset. This project is meant to demonstrate how all the steps of a machine learning pipeline come together to solve a problem!
 - [yongyehuang/Tensorflow-Tutorial](https://github.com/yongyehuang/Tensorflow-Tutorial) - Some interesting TensorFlow tutorials for beginners.
 - [shik3519/machine-learning](https://github.com/shik3519/machine-learning) - Implementation of different machine learning techniques
-- [harvardnlp/annotated-transformer](https://github.com/harvardnlp/annotated-transformer) - http://nlp.seas.harvard.edu/2018/04/03/attention.html
 - [simoninithomas/Deep_reinforcement_learning_Course](https://github.com/simoninithomas/Deep_reinforcement_learning_Course) - Implementations from the free course Deep Reinforcement Learning with Tensorflow and PyTorch
 - [amueller/COMS4995-s18](https://github.com/amueller/COMS4995-s18) - COMS W4995 Applied Machine Learning - Spring 18
 - [llSourcell/AI_for_healthcare](https://github.com/llSourcell/AI_for_healthcare) - This is the code for "AI for Healthcare" By Siraj Raval on Youtube
@@ -7359,7 +7357,7 @@
 - [edilgin/DeepForSpeed](https://github.com/edilgin/DeepForSpeed) - ConvNet learns to play Need For Speed
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - changedetection.io - The best and simplest self-hosted free open source website change detection monitoring and notification service. An alternative to Visualping, Watchtower etc. Designed for simplicity - the main goal is to simply monitor which websites had a text change for free. Free Open source web page change detection
 - [datvuthanh/HybridNets](https://github.com/datvuthanh/HybridNets) - HybridNets: End-to-End Perception Network
-- [google/vizier](https://github.com/google/vizier) - Python-based interface for blackbox optimization and research, based on Google's internal Vizier Service.
+- [google/vizier](https://github.com/google/vizier) - Python-based research interface for blackbox and hyperparameter optimization, based on Google's internal Vizier Service.
 - [huggingface/community-events](https://github.com/huggingface/community-events) - Place where folks can contribute to 🤗 community events
 - [jupyterlite/jupyterlite](https://github.com/jupyterlite/jupyterlite) - Wasm powered Jupyter running in the browser 💡
 - [snakers4/russian_stt_text_normalization](https://github.com/snakers4/russian_stt_text_normalization) - Russian text normalization pipeline for speech-to-text and other applications based on tagging s2s networks
@@ -7501,7 +7499,7 @@
 - [Janspiry/Image-Super-Resolution-via-Iterative-Refinement](https://github.com/Janspiry/Image-Super-Resolution-via-Iterative-Refinement) - Unofficial implementation of Image Super-Resolution via Iterative Refinement by Pytorch
 - [jiupinjia/rocket-recycling](https://github.com/jiupinjia/rocket-recycling) - Rocket-recycling with Reinforcement Learning
 - [open-mmlab/mmflow](https://github.com/open-mmlab/mmflow) - OpenMMLab optical flow toolbox and benchmark
-- [PaddlePaddle/PaddleSeg](https://github.com/PaddlePaddle/PaddleSeg) - Easy-to-use image segmentation library with awesome pre-trained model zoo, supporting wide-range of practical tasks in Semantic Segmentation, Interactive Segmentation, Panoptic Segmentation, Image Matting, etc.
+- [PaddlePaddle/PaddleSeg](https://github.com/PaddlePaddle/PaddleSeg) - Easy-to-use image segmentation library with awesome pre-trained model zoo, supporting wide-range of practical tasks in Semantic Segmentation, Interactive Segmentation, Panoptic Segmentation, Image Matting, 3D Segmentation, etc.
 - [MenghaoGuo/Awesome-Vision-Attentions](https://github.com/MenghaoGuo/Awesome-Vision-Attentions) - Summary of related papers on visual attention. Related code will be released based on Jittor gradually.
 - [NITRO-AI/NitroFE](https://github.com/NITRO-AI/NitroFE) - NitroFE is a Python feature engineering engine which provides a variety of modules designed to internally save past dependent values for providing continuous calculation.
 - [microsoft/varuna](https://github.com/microsoft/varuna) - 
@@ -9251,6 +9249,7 @@
 - [skorokithakis/catt](https://github.com/skorokithakis/catt) - Cast All The Things allows you to send videos from many, many online sources to your Chromecast.
 - [CSAILVision/semantic-segmentation-pytorch](https://github.com/CSAILVision/semantic-segmentation-pytorch) - Pytorch implementation for Semantic Segmentation/Scene Parsing on MIT ADE20K dataset
 - [guardicore/monkey](https://github.com/guardicore/monkey) - Infection Monkey - An automated pentest tool
+- [harvardnlp/annotated-transformer](https://github.com/harvardnlp/annotated-transformer) - http://nlp.seas.harvard.edu/2018/04/03/attention.html
 - [scverse/scvi-tools](https://github.com/scverse/scvi-tools) - Deep probabilistic analysis of single-cell omics data
 - [dmlc/gluon-nlp](https://github.com/dmlc/gluon-nlp) - NLP made easy
 - [giovanifss/Gitmails](https://github.com/giovanifss/Gitmails) - An information gathering tool to collect git commit emails in version control host services
@@ -13742,6 +13741,7 @@
 - [fortrabbit/teutonic-css](https://github.com/fortrabbit/teutonic-css) - A modern CSS framework — versatile, well documented.
 - [nzbin/three-dots](https://github.com/nzbin/three-dots) - 🔮 CSS loading animations made with single element.
 - [Spiderpig86/Cirrus](https://github.com/Spiderpig86/Cirrus) - :cloud: The SCSS framework for the modern web.
+- [start-angular/SB-Admin-BS4-Angular-8](https://github.com/start-angular/SB-Admin-BS4-Angular-8) - Simple Dashboard Admin App built using Angular 8 and Bootstrap 4
 - [kylelogue/mustard-ui](https://github.com/kylelogue/mustard-ui) - A starter CSS framework that actually looks good.
 - [Hacker0x01/hacker101](https://github.com/Hacker0x01/hacker101) - Source code for Hacker101.com - a free online web and mobile security class.
 - [benbrignell/principles.design](https://github.com/benbrignell/principles.design) - An open source collection of design principles and methods.
