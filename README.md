@@ -120,6 +120,7 @@
   - [YARA](#yara)
   - [ZIL](#zil)
   - [q](#q)
+  - [reStructuredText](#restructuredtext)
 
 ## ApacheConf 
 
@@ -222,6 +223,7 @@
 - [google/adiantum](https://github.com/google/adiantum) - Adiantum and HPolyC specification and test vectors
 - [AlexeyAB/darknet](https://github.com/AlexeyAB/darknet) - YOLOv4 / Scaled-YOLOv4 / YOLO - Neural Networks for Object Detection (Windows and Linux version of Darknet )
 - [boazsegev/facil.io](https://github.com/boazsegev/facil.io) - Your high performance web application C framework
+- [ThusWroteNomad/GameNetworkingResources](https://github.com/ThusWroteNomad/GameNetworkingResources) - A Curated List of Game Network Programming Resources
 - [element-protocol/element-protocol](https://github.com/element-protocol/element-protocol) - The decentralized, completely anonymous, lightweight, peer-to-peer network communication protocol.
 - [tidwall/redis-gis](https://github.com/tidwall/redis-gis) - Redis fork with Geospatial support based on Tile38 commands
 - [eclipse/mosquitto](https://github.com/eclipse/mosquitto) - Eclipse Mosquitto - An open source MQTT broker
@@ -663,7 +665,6 @@
 - [uNetworking/uWebSockets.js](https://github.com/uNetworking/uWebSockets.js) - μWebSockets for Node.js back-ends :metal:
 - [asLody/whale](https://github.com/asLody/whale) - Hook Framework for Android/IOS/Linux/MacOS
 - [OpenImageDenoise/oidn](https://github.com/OpenImageDenoise/oidn) - Intel® Open Image Denoise library
-- [ThusWroteNomad/Game-Networking-Resources](https://github.com/ThusWroteNomad/Game-Networking-Resources) - A Curated List of Game Network Programming Resources
 - [ssloy/tinykaboom](https://github.com/ssloy/tinykaboom) - A brief computer graphics / rendering course
 - [ssloy/tinyraytracer](https://github.com/ssloy/tinyraytracer) - A brief computer graphics / rendering course
 - [neo-ai/neo-ai-dlr](https://github.com/neo-ai/neo-ai-dlr) - Neo-AI-DLR is a common runtime for machine learning models compiled by AWS SageMaker Neo, TVM, or TreeLite.
@@ -1109,7 +1110,6 @@
 - [jroper/microservices-architecture](https://github.com/jroper/microservices-architecture) - 
 - [mahmoud/calver](https://github.com/mahmoud/calver) - 📅 The web's go-to resource for Calendar Versioning info.
 - [luodaoyi/CloudFlarePartner](https://github.com/luodaoyi/CloudFlarePartner) - CloudFlare  partner   website with python and flask
-- [gatsbyjs/gatsby-starter-default](https://github.com/gatsbyjs/gatsby-starter-default) - The default Gatsby starter
 - [vuejsdevelopers/vuejs-poster-shop](https://github.com/vuejsdevelopers/vuejs-poster-shop) - Source code for "The Ultimate Vue.js Developers Course"
 - [Terminus2049/Terminus2049.github.io](https://github.com/Terminus2049/Terminus2049.github.io) - No more 404
 - [excalith/git-cheats](https://github.com/excalith/git-cheats) - Git Cheats - Interactive Cheatsheet For Git Commands
@@ -2444,7 +2444,6 @@
 - [jadjoubran/webdash](https://github.com/jadjoubran/webdash) - 🔥 Orchestrate your web project with Webdash the customizable web dashboard
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 - [WICG/import-maps](https://github.com/WICG/import-maps) - How to control the behavior of JavaScript imports
-- [AirtestProject/Airtest](https://github.com/AirtestProject/Airtest) - UI Automation Framework for Games and Apps
 - [udacity/frontend-nanodegree-styleguide](https://github.com/udacity/frontend-nanodegree-styleguide) - Official FEND style guides
 - [rough-stuff/rough](https://github.com/rough-stuff/rough) - Create graphics with a hand-drawn, sketchy, appearance
 - [govau/design-system-components](https://github.com/govau/design-system-components) - 🛠 Component code and tests for the Australian Government design system
@@ -3399,6 +3398,7 @@
 - [HcySunYang/vue-design](https://github.com/HcySunYang/vue-design) - 📖 master分支：《渲染器》
 - [kitze/JSUI](https://github.com/kitze/JSUI) - A powerful UI toolkit for managing JavaScript apps
 - [galvez/plainbudget](https://github.com/galvez/plainbudget) - Minimalist Plain Text Budgeting
+- [gatsbyjs/gatsby-starter-default](https://github.com/gatsbyjs/gatsby-starter-default) - The default Gatsby starter
 - [d2-projects/d2-admin](https://github.com/d2-projects/d2-admin) - An elegant dashboard
 - [GoogleChromeLabs/critters](https://github.com/GoogleChromeLabs/critters) - 🦔 A Webpack plugin to inline your critical CSS and lazy-load the rest.
 - [sodium-friends/learntocrypto](https://github.com/sodium-friends/learntocrypto) - Learn to crypto workshop
@@ -5179,6 +5179,7 @@
 - [WillKoehrsen/machine-learning-project-walkthrough](https://github.com/WillKoehrsen/machine-learning-project-walkthrough) - An implementation of a complete machine learning solution in Python on a real-world dataset. This project is meant to demonstrate how all the steps of a machine learning pipeline come together to solve a problem!
 - [yongyehuang/Tensorflow-Tutorial](https://github.com/yongyehuang/Tensorflow-Tutorial) - Some interesting TensorFlow tutorials for beginners.
 - [shik3519/machine-learning](https://github.com/shik3519/machine-learning) - Implementation of different machine learning techniques
+- [harvardnlp/annotated-transformer](https://github.com/harvardnlp/annotated-transformer) - http://nlp.seas.harvard.edu/2018/04/03/attention.html
 - [simoninithomas/Deep_reinforcement_learning_Course](https://github.com/simoninithomas/Deep_reinforcement_learning_Course) - Implementations from the free course Deep Reinforcement Learning with Tensorflow and PyTorch
 - [amueller/COMS4995-s18](https://github.com/amueller/COMS4995-s18) - COMS W4995 Applied Machine Learning - Spring 18
 - [llSourcell/AI_for_healthcare](https://github.com/llSourcell/AI_for_healthcare) - This is the code for "AI for Healthcare" By Siraj Raval on Youtube
@@ -6186,7 +6187,7 @@
 - [amusi/awesome-ai-awesomeness](https://github.com/amusi/awesome-ai-awesomeness) - A curated list of awesome awesomeness about artificial intelligence
 - [popgenmethods/lecture_notes](https://github.com/popgenmethods/lecture_notes) - Lecture Notes on Computational and Mathematical Population Genetics
 - [chughes29/Cloud-DevSecOps-Learning](https://github.com/chughes29/Cloud-DevSecOps-Learning) - Collection of Cloud and DevSecOps learning resources
-- [rystsov/awesome-distributed-transactions](https://github.com/rystsov/awesome-distributed-transactions) - Awesome list of distributed transactions
+- [redpanda-data/awesome-distributed-transactions](https://github.com/redpanda-data/awesome-distributed-transactions) - Awesome list of distributed transactions
 - [lijiaman/awesome-transformer-for-vision](https://github.com/lijiaman/awesome-transformer-for-vision) - 
 - [ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code) - 500 AI Machine learning Deep learning Computer vision NLP Projects with code
 - [vsitzmann/awesome-implicit-representations](https://github.com/vsitzmann/awesome-implicit-representations) - A curated list of resources on implicit neural representations.
@@ -6219,7 +6220,6 @@
 - [KaiyuanGao/awesome-deeplearning-nlp-papers](https://github.com/KaiyuanGao/awesome-deeplearning-nlp-papers) - A curated list of Deep learning and NLP must read papers
 - [sshkhr/awesome-mlss](https://github.com/sshkhr/awesome-mlss) - List of summer schools in machine learning + related fields across the globe
 - [mmihaltz/word2vec-GoogleNews-vectors](https://github.com/mmihaltz/word2vec-GoogleNews-vectors) - word2vec Google News model
-- [PolyAI-LDN/task-specific-datasets](https://github.com/PolyAI-LDN/task-specific-datasets) - A collection of task-specific NLU datasets
 - [stevemao/awesome-git-addons](https://github.com/stevemao/awesome-git-addons) - :sunglasses: A curated list of add-ons that extend/enhance the git CLI.
 - [vahidk/EffectivePyTorch](https://github.com/vahidk/EffectivePyTorch) - PyTorch tutorials and best practices.
 - [simsieg/awesome-maps](https://github.com/simsieg/awesome-maps) - There is more than google: A collection of great online maps 🌍🗺🌎
@@ -7229,6 +7229,9 @@
 
 ## Python 
 
+- [neonbjb/DL-Art-School](https://github.com/neonbjb/DL-Art-School) - DLAS - A configuration-driven trainer for generative models
+- [neonbjb/ocotillo](https://github.com/neonbjb/ocotillo) - Performant and accurate speech recognition built on Pytorch
+- [neonbjb/tortoise-tts](https://github.com/neonbjb/tortoise-tts) - A multi-voice TTS system trained with an emphasis on quality
 - [facebookresearch/perfect](https://github.com/facebookresearch/perfect) - PERFECT: Prompt-free and Efficient Few-shot Learning with Language Models
 - [mapbox/snuggs](https://github.com/mapbox/snuggs) - Snuggs are s-expressions for Numpy
 - [megvii-research/NAFNet](https://github.com/megvii-research/NAFNet) - The state-of-the-art image restoration model without nonlinear activation functions.
@@ -7448,7 +7451,7 @@
 - [facebookresearch/demucs](https://github.com/facebookresearch/demucs) - Code for the paper Hybrid Spectrogram and Waveform Source Separation
 - [cvzone/cvzone](https://github.com/cvzone/cvzone) - This is a Computer vision package that makes its easy to run Image processing and AI functions. At the core it uses OpenCV and Mediapipe libraries.
 - [bytedance/Elkeid-HUB](https://github.com/bytedance/Elkeid-HUB) - Elkeid HUB is a rule/event processing engine maintained by the Elkeid Team that supports streaming/offline (not yet supported by the community edition) data processing. The original intention is to solve complex data/event processing and external system linkage requirements through standardized rules.
-- [bczsalba/pytermgui](https://github.com/bczsalba/pytermgui) - A simple yet powerful TUI framework for your Python (3.7+) applications.
+- [bczsalba/pytermgui](https://github.com/bczsalba/pytermgui) - A modern TUI library free from the shackles of web development.
 - [facebookresearch/contriever](https://github.com/facebookresearch/contriever) - Contriever Towards Unsupervised Dense Information Retrieval with Contrastive Learning
 - [negrinho/deep_architect](https://github.com/negrinho/deep_architect) - A general, modular, and programmable architecture search framework
 - [tiangolo/asyncer](https://github.com/tiangolo/asyncer) - Asyncer, async and await, focused on developer experience.
@@ -7928,6 +7931,7 @@
 - [Tianxiaomo/pytorch-YOLOv4](https://github.com/Tianxiaomo/pytorch-YOLOv4) - PyTorch ,ONNX and TensorRT implementation of YOLOv4
 - [kotartemiy/extract-news-api](https://github.com/kotartemiy/extract-news-api) - Flask code to deploy an API that pulls structured data from online news articles
 - [PolyAI-LDN/conversational-datasets](https://github.com/PolyAI-LDN/conversational-datasets) - Large datasets for conversational AI
+- [PolyAI-LDN/task-specific-datasets](https://github.com/PolyAI-LDN/task-specific-datasets) - A collection of task-specific NLU datasets
 - [natasha/slovnet](https://github.com/natasha/slovnet) - Deep Learning based NLP modeling for Russian language
 - [HRNet/HRNet-Semantic-Segmentation](https://github.com/HRNet/HRNet-Semantic-Segmentation) - The OCR approach is rephrased as Segmentation Transformer: https://arxiv.org/abs/1909.11065. This is an official implementation of semantic segmentation for HRNet. https://arxiv.org/abs/1908.07919
 - [NVIDIA/apex](https://github.com/NVIDIA/apex) - A PyTorch Extension:  Tools for easy mixed precision and distributed training in Pytorch
@@ -9249,7 +9253,6 @@
 - [skorokithakis/catt](https://github.com/skorokithakis/catt) - Cast All The Things allows you to send videos from many, many online sources to your Chromecast.
 - [CSAILVision/semantic-segmentation-pytorch](https://github.com/CSAILVision/semantic-segmentation-pytorch) - Pytorch implementation for Semantic Segmentation/Scene Parsing on MIT ADE20K dataset
 - [guardicore/monkey](https://github.com/guardicore/monkey) - Infection Monkey - An automated pentest tool
-- [harvardnlp/annotated-transformer](https://github.com/harvardnlp/annotated-transformer) - http://nlp.seas.harvard.edu/2018/04/03/attention.html
 - [scverse/scvi-tools](https://github.com/scverse/scvi-tools) - Deep probabilistic analysis of single-cell omics data
 - [dmlc/gluon-nlp](https://github.com/dmlc/gluon-nlp) - NLP made easy
 - [giovanifss/Gitmails](https://github.com/giovanifss/Gitmails) - An information gathering tool to collect git commit emails in version control host services
@@ -9316,6 +9319,7 @@
 - [Blazemeter/taurus](https://github.com/Blazemeter/taurus) - Automation-friendly framework for Continuous Testing by
 - [nccgroup/tcpprox](https://github.com/nccgroup/tcpprox) - A small command-line TCP proxy utility written in Python
 - [vrntrans/vrnbus](https://github.com/vrntrans/vrnbus) - Прогноз прибытия автобусов в Воронеже. Веб-версия: https://vrnbus.herokuapp.com Телеграм-бот: https://t.me/vrnbusbot
+- [AirtestProject/Airtest](https://github.com/AirtestProject/Airtest) - UI Automation Framework for Games and Apps
 - [typeintandem/tandem](https://github.com/typeintandem/tandem) - Typing in Tandem. Decentralized, cross-editor, collaborative text-editing!
 - [wuhuikai/DeepGuidedFilter](https://github.com/wuhuikai/DeepGuidedFilter) - Official Implementation of Fast End-to-End Trainable Guided Filter, CVPR 2018
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
@@ -13750,7 +13754,6 @@
 - [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - My cheatsheets
 - [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 - [Slicejack/bojler](https://github.com/Slicejack/bojler) - Bojler is an email framework
-- [odoo/documentation](https://github.com/odoo/documentation) - Odoo documentation sources
 - [Kikobeats/js-mythbusters](https://github.com/Kikobeats/js-mythbusters) - :ghost: STHAP js, where is my perfomance?
 - [microsoft/TypeScript-Node-Starter](https://github.com/microsoft/TypeScript-Node-Starter) - A reference example for TypeScript and Node with a detailed README describing how to use the two together.
 - [AnomalyInnovations/serverless-stack-com](https://github.com/AnomalyInnovations/serverless-stack-com) - An open source guide for building and deploying full-stack apps using Serverless and React on AWS.
@@ -14063,6 +14066,7 @@
 
 ## TypeScript 
 
+- [cakechaser/obsidian-release-timeline](https://github.com/cakechaser/obsidian-release-timeline) - 
 - [HEmile/juggl](https://github.com/HEmile/juggl) - An interactive, stylable and expandable graph view for Obsidian. Juggl is designed as an advanced 'local' graph view, where you can juggle all your thoughts with ease.
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges with online judge
@@ -14296,7 +14300,7 @@
 - [aws-amplify/amplify-js](https://github.com/aws-amplify/amplify-js) - A declarative JavaScript library for application development using cloud services.
 - [antvis/G2](https://github.com/antvis/G2) - 📊 A highly interactive data-driven visualization grammar for statistical charts.
 - [ianstormtaylor/superstruct](https://github.com/ianstormtaylor/superstruct) - A simple and composable way to validate data in JavaScript (and TypeScript).
-- [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS.
+- [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
 - [cs01/gdbgui](https://github.com/cs01/gdbgui) - Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will open in your browser.
 - [ant-design/ant-design-pro](https://github.com/ant-design/ant-design-pro) - 👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!
 - [Yoctol/bottender](https://github.com/Yoctol/bottender) - ⚡️ A framework for building conversational user interfaces.
@@ -14876,6 +14880,10 @@
 ## q 
 
 - [dwavesystems/qbsolv](https://github.com/dwavesystems/qbsolv) - Qbsolv,a decomposing solver, finds a minimum value of a large quadratic unconstrained binary optimization (QUBO) problem by splitting it into pieces solved either via a D-Wave system or a classical tabu solver.   (Note that qbsolv by default uses its internal classical solver.  Access to a D-Wave system must be arranged separately.)
+
+## reStructuredText 
+
+- [odoo/documentation](https://github.com/odoo/documentation) - Odoo documentation sources
 
 
 ## License
