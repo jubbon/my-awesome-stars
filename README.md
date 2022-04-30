@@ -178,7 +178,7 @@
 - [RT-Thread/rt-thread](https://github.com/RT-Thread/rt-thread) - RT-Thread is an open source IoT operating system.
 - [id-Software/DOOM](https://github.com/id-Software/DOOM) - DOOM Open Source Release
 - [cesanta/mongoose](https://github.com/cesanta/mongoose) - Embedded Web Server
-- [unicorn-engine/unicorn](https://github.com/unicorn-engine/unicorn) - Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, PowerPC, RiscV, S390x, X86)
+- [unicorn-engine/unicorn](https://github.com/unicorn-engine/unicorn) - Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, PowerPC, RiscV, S390x, TriCore, X86)
 - [bvschaik/julius](https://github.com/bvschaik/julius) - An open source re-implementation of Caesar III
 - [libretro/RetroArch](https://github.com/libretro/RetroArch) - Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.
 - [pawelsalawa/sqlitestudio](https://github.com/pawelsalawa/sqlitestudio) - A free, open source, multi-platform SQLite database manager.
@@ -1549,6 +1549,7 @@
 
 ## GLSL 
 
+- [PaddlePaddle/PaddleSpatial](https://github.com/PaddlePaddle/PaddleSpatial) - PaddleSpatial is an open-source spatial-temporal computing tool based on PaddlePaddle.
 - [SaschaWillems/Vulkan](https://github.com/SaschaWillems/Vulkan) - Examples and demos for the new Vulkan API
 
 ## Game Maker Language 
@@ -1561,6 +1562,7 @@
 
 ## Go 
 
+- [werf/trdl](https://github.com/werf/trdl) - The universal solution for delivering your software updates securely from a trusted The Update Framework (TUF) repository
 - [maaslalani/draw](https://github.com/maaslalani/draw) - Draw in your terminal
 - [peak/s5cmd](https://github.com/peak/s5cmd) - Parallel S3 and local filesystem execution tool.
 - [NVIDIA/container-canary](https://github.com/NVIDIA/container-canary) - A tool for validating container requirements against versioned manifests
@@ -1604,7 +1606,7 @@
 - [99designs/aws-vault](https://github.com/99designs/aws-vault) - A vault for securely storing and accessing AWS credentials in development environments
 - [xanzy/go-gitlab](https://github.com/xanzy/go-gitlab) - GitLab Go SDK
 - [micro/micro](https://github.com/micro/micro) - API first development platform
-- [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub API
+- [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub v3 API
 - [slackhq/nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
 - [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
 - [rebuy-de/aws-nuke](https://github.com/rebuy-de/aws-nuke) - Nuke a whole AWS account and delete all its resources.
@@ -1735,10 +1737,10 @@
 - [XiaoMi/soar](https://github.com/XiaoMi/soar) - SQL Optimizer And Rewriter
 - [XiaoMi/naftis](https://github.com/XiaoMi/naftis) - An awesome dashboard for Istio built with love.
 - [MatrixAINetwork/go-matrix](https://github.com/MatrixAINetwork/go-matrix) - First version of go-MATRIX, especially for TPS optimization and AI
-- [syncsynchalt/illustrated-tls](https://github.com/syncsynchalt/illustrated-tls) - The Illustrated TLS Connection: Every byte explained
+- [syncsynchalt/illustrated-tls](https://github.com/syncsynchalt/illustrated-tls) - The Illustrated TLS 1.2 Connection: Every byte explained
 - [yinheli/sshw](https://github.com/yinheli/sshw) - 🐝  ssh client wrapper for automatic login
 - [cloudflare/tableflip](https://github.com/cloudflare/tableflip) - Graceful process restarts in Go
-- [photoprism/photoprism](https://github.com/photoprism/photoprism) - Photos App powered by Go and Google TensorFlow 🌈 ✨
+- [photoprism/photoprism](https://github.com/photoprism/photoprism) - PhotoPrism® is an AI-powered Photos App for the Decentralized Web 🌈💎✨
 - [davrodpin/mole](https://github.com/davrodpin/mole) - CLI application to create ssh tunnels focused on resiliency and user experience.
 - [sipt/shuttle](https://github.com/sipt/shuttle) - A web proxy in Golang with amazing features.
 - [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation
@@ -4502,7 +4504,6 @@
 - [facebookresearch/UniK-QA](https://github.com/facebookresearch/UniK-QA) - Unified Representations of Structured and Unstructured Knowledge for Open-Domain Question Answering
 - [espnet/interspeech2019-tutorial](https://github.com/espnet/interspeech2019-tutorial) - INTERSPEECH 2019 Tutorial Materials
 - [xbresson/CS4243_2022](https://github.com/xbresson/CS4243_2022) - Computer Vision and Pattern Recognition, NUS CS4243, 2022
-- [PaddlePaddle/PaddleSpatial](https://github.com/PaddlePaddle/PaddleSpatial) - PaddleSpatial is an open-source spatial-temporal computing tool based on PaddlePaddle.
 - [Nyandwi/machine_learning_complete](https://github.com/Nyandwi/machine_learning_complete) - A comprehensive repository containing 30+ notebooks on learning machine learning!
 - [numerai/example-scripts](https://github.com/numerai/example-scripts) - The official example scripts for the Numerai Data Science Tournament
 - [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) - 12 Weeks, 24 Lessons, AI for All!
@@ -6037,6 +6038,7 @@
 
 ## Others 
 
+- [heejkoo/Awesome-Diffusion-Models](https://github.com/heejkoo/Awesome-Diffusion-Models) - A collection of resources and papers on Diffusion Models and Score-based Models, a darkhorse in the field of Generative Models
 - [joseadanof/awesome-cloudnative-trainings](https://github.com/joseadanof/awesome-cloudnative-trainings) - Awesome Trainings from Cloud Native Computing Foundation Projects and Kubernetes related software
 - [withfig/fig](https://github.com/withfig/fig) - Public issue tracker for Fig.
 - [sadanandpai/frontend-learning-kit](https://github.com/sadanandpai/frontend-learning-kit) - Frontend tech guide and curated collection of frontend materials
@@ -7229,6 +7231,7 @@
 
 ## Python 
 
+- [heartexlabs/label-studio-transformers](https://github.com/heartexlabs/label-studio-transformers) - Label data using HuggingFace's transformers and automatically get a prediction service
 - [neonbjb/DL-Art-School](https://github.com/neonbjb/DL-Art-School) - DLAS - A configuration-driven trainer for generative models
 - [neonbjb/ocotillo](https://github.com/neonbjb/ocotillo) - Performant and accurate speech recognition built on Pytorch
 - [neonbjb/tortoise-tts](https://github.com/neonbjb/tortoise-tts) - A multi-voice TTS system trained with an emphasis on quality
@@ -7239,7 +7242,7 @@
 - [ViTAE-Transformer/ViTDet](https://github.com/ViTAE-Transformer/ViTDet) - Unofficial implementation of Exploring Plain Vision Transformer Backbones for Object Detection
 - [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
 - [nv-tlabs/editGAN_release](https://github.com/nv-tlabs/editGAN_release) - 
-- [hustvl/TeViT](https://github.com/hustvl/TeViT) - Temporally Efficient Vision Transformer for Video Instance Segmentation, CVPR 2022 Oral
+- [hustvl/TeViT](https://github.com/hustvl/TeViT) - Temporally Efficient Vision Transformer for Video Instance Segmentation, CVPR 2022, Oral
 - [help-iq/telethon](https://github.com/help-iq/telethon) - 
 - [googleapis/python-speech](https://github.com/googleapis/python-speech) - 
 - [facebookresearch/ConvNeXt](https://github.com/facebookresearch/ConvNeXt) - Code release for ConvNeXt model
@@ -13174,7 +13177,7 @@
 - [mattdennewitz/hash-ring-ctypes](https://github.com/mattdennewitz/hash-ring-ctypes) - Fast ctypes-based wrapper around libhashring
 - [realgam3/pymultitor](https://github.com/realgam3/pymultitor) - PyMultitor - Python Multi Threaded Tor Proxy
 - [pypa/twine](https://github.com/pypa/twine) - Utilities for interacting with PyPI
-- [heroku-python/flask-sockets](https://github.com/heroku-python/flask-sockets) - [DEPRECATED] Elegant WebSockets for your Flask apps.
+- [heroku-python/flask-sockets](https://github.com/heroku-python/flask-sockets) - [DEPRECATED] Alternative: https://github.com/miguelgrinberg/flask-sock
 - [deis/deis](https://github.com/deis/deis) - Deis v1, the CoreOS and Docker PaaS: Your PaaS. Your Rules.
 - [odiroot/license-info](https://github.com/odiroot/license-info) - Show list of installed python packages with version and license info.
 - [darthbear/scrapy-proxynova](https://github.com/darthbear/scrapy-proxynova) - Use scrapy with a list of proxies generated from proxynova.com
