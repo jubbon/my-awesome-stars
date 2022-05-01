@@ -6209,7 +6209,7 @@
 - [balavenkatesh3322/NLP-pretrained-model](https://github.com/balavenkatesh3322/NLP-pretrained-model) - A collection of Natural language processing pre-trained models.
 - [balavenkatesh3322/CV-pretrained-model](https://github.com/balavenkatesh3322/CV-pretrained-model) - A collection of computer vision pre-trained models.
 - [ugurkanates/awesome-real-world-rl](https://github.com/ugurkanates/awesome-real-world-rl) - Great resources for making Reinforcement Learning work in Real Life situations. Papers,projects and more.
-- [MLNLP-World/Top-AI-Conferences-Paper-with-Code](https://github.com/MLNLP-World/Top-AI-Conferences-Paper-with-Code) - Top-Conferences-Paper-with-Code (ACL、EMNLP、NAACL、COLING、AAAI、IJCAI、NeurIPS、ICLR and etc)
+- [MLNLP-World/Top-AI-Conferences-Paper-with-Code](https://github.com/MLNLP-World/Top-AI-Conferences-Paper-with-Code) - This repository is a collection of AI top conferences papers (e.g. ACL, EMNLP, NAACL, COLING, AAAI, IJCAI, ICLR, NeurIPS, and ICML) with open resource code
 - [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
 - [elyase/awesome-gpt3](https://github.com/elyase/awesome-gpt3) - 
 - [cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications) - A curated list of free courses & certifications.
@@ -8721,7 +8721,7 @@
 - [zisianw/FaceBoxes.PyTorch](https://github.com/zisianw/FaceBoxes.PyTorch) - A PyTorch Implementation of FaceBoxes
 - [MorvanZhou/sudoku](https://github.com/MorvanZhou/sudoku) - A simple Sudoku generator and solver. 数独生成器和解题器
 - [asottile/dead](https://github.com/asottile/dead) - dead simple python dead code detection
-- [utkuufuk/weekplot](https://github.com/utkuufuk/weekplot) - Visualize your weekly schedule.
+- [utkuufuk/weekplot](https://github.com/utkuufuk/weekplot) - Visualize your weekly schedule
 - [zheng5yu9/unsupervised_extract_detect_words](https://github.com/zheng5yu9/unsupervised_extract_detect_words) - multiprocess unsupervised  chinese_detect_words  ngram_combination
 - [hccho2/Tacotron-Wavenet-Vocoder-Korean](https://github.com/hccho2/Tacotron-Wavenet-Vocoder-Korean) - Tacotron, Korean, Wavenet-Vocoder, Korean TTS
 - [jadijadi/educational_python_scripts](https://github.com/jadijadi/educational_python_scripts) - Some small sctipts I use while teaching python
