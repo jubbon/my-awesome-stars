@@ -1525,7 +1525,6 @@
 
 ## Emacs Lisp 
 
-- [emacs-eaf/emacs-application-framework](https://github.com/emacs-eaf/emacs-application-framework) - A free/libre and open-source extensible framework that revolutionizes the graphical capabilities of Emacs, the key to ultimately Live in Emacs
 - [dangom/org-thesis](https://github.com/dangom/org-thesis) - Writing a Ph.D. thesis with Org Mode
 - [pythonic-emacs/anaconda-mode](https://github.com/pythonic-emacs/anaconda-mode) - Code navigation, documentation lookup and completion for Python.
 - [gregsexton/ob-ipython](https://github.com/gregsexton/ob-ipython) - org-babel integration with Jupyter for evaluation of (Python by default) code blocks
@@ -5180,7 +5179,7 @@
 - [WillKoehrsen/machine-learning-project-walkthrough](https://github.com/WillKoehrsen/machine-learning-project-walkthrough) - An implementation of a complete machine learning solution in Python on a real-world dataset. This project is meant to demonstrate how all the steps of a machine learning pipeline come together to solve a problem!
 - [yongyehuang/Tensorflow-Tutorial](https://github.com/yongyehuang/Tensorflow-Tutorial) - Some interesting TensorFlow tutorials for beginners.
 - [shik3519/machine-learning](https://github.com/shik3519/machine-learning) - Implementation of different machine learning techniques
-- [harvardnlp/annotated-transformer](https://github.com/harvardnlp/annotated-transformer) - http://nlp.seas.harvard.edu/2018/04/03/attention.html
+- [harvardnlp/annotated-transformer](https://github.com/harvardnlp/annotated-transformer) - An annotated implementation of the Transformer paper.
 - [simoninithomas/Deep_reinforcement_learning_Course](https://github.com/simoninithomas/Deep_reinforcement_learning_Course) - Implementations from the free course Deep Reinforcement Learning with Tensorflow and PyTorch
 - [amueller/COMS4995-s18](https://github.com/amueller/COMS4995-s18) - COMS W4995 Applied Machine Learning - Spring 18
 - [llSourcell/AI_for_healthcare](https://github.com/llSourcell/AI_for_healthcare) - This is the code for "AI for Healthcare" By Siraj Raval on Youtube
@@ -6371,7 +6370,6 @@
 - [darshanime/notes](https://github.com/darshanime/notes) - detailed notes on computer science topics, in one page
 - [Pungyeon/clean-go-article](https://github.com/Pungyeon/clean-go-article) - A reference for the Go community that covers the fundamentals of writing clean code and discusses concrete refactoring examples specific to Go.
 - [sudharsan13296/Awesome-Meta-Learning](https://github.com/sudharsan13296/Awesome-Meta-Learning) - A curated list of Meta Learning papers, code, books, blogs, videos, datasets and other resources.
-- [thunlp/TAADpapers](https://github.com/thunlp/TAADpapers) - Must-read Papers on Textual Adversarial Attack and Defense
 - [zhiwehu/Python-programming-exercises](https://github.com/zhiwehu/Python-programming-exercises) - 100+ Python challenging programming exercises
 - [londonappbrewery/Flutter-Course-Resources](https://github.com/londonappbrewery/Flutter-Course-Resources) - Learn to Code While Building Apps - The Complete Flutter Development Bootcamp
 - [MicrosoftLearning/AZ-300-MicrosoftAzureArchitectTechnologies](https://github.com/MicrosoftLearning/AZ-300-MicrosoftAzureArchitectTechnologies) - 
@@ -7264,6 +7262,7 @@
 - [interviewstreet/ghs](https://github.com/interviewstreet/ghs) - Cross-platform CLI tool to generate your Github profile's stats and summary.
 - [internetarchive/openlibrary](https://github.com/internetarchive/openlibrary) - One webpage for every book ever published!
 - [Fredtoby/trajectoryprediction](https://github.com/Fredtoby/trajectoryprediction) - 
+- [emacs-eaf/emacs-application-framework](https://github.com/emacs-eaf/emacs-application-framework) - A free/libre and open-source extensible framework that revolutionizes the graphical capabilities of Emacs, the key to ultimately Live in Emacs
 - [cloudnloud/interview-questions](https://github.com/cloudnloud/interview-questions) - 
 - [amidaware/tacticalrmm](https://github.com/amidaware/tacticalrmm) - A remote monitoring & management tool, built with Django, Vue and Go.
 - [facebookresearch/msn](https://github.com/facebookresearch/msn) - Masked Siamese Networks for Label-Efficient Learning (https://arxiv.org/abs/2204.07141)
@@ -8503,6 +8502,7 @@
 - [bytedance/byteps](https://github.com/bytedance/byteps) - A high performance and generic framework for distributed DNN training
 - [AI-DI/Brancher](https://github.com/AI-DI/Brancher) - A user-centered Python package for differentiable probabilistic inference
 - [amirassov/kaggle-imaterialist](https://github.com/amirassov/kaggle-imaterialist) - The First Place Solution of Kaggle iMaterialist (Fashion) 2019 at FGVC6
+- [thunlp/TAADpapers](https://github.com/thunlp/TAADpapers) - Must-read Papers on Textual Adversarial Attack and Defense
 - [albertomontesg/keras-model-zoo](https://github.com/albertomontesg/keras-model-zoo) - Keras Model Zoo
 - [PokemonGoF/PokemonGo-Bot](https://github.com/PokemonGoF/PokemonGo-Bot) - The Pokemon Go Bot, baking with community.
 - [antonbabenko/modules.tf-lambda](https://github.com/antonbabenko/modules.tf-lambda) - Infrastructure as code generator - from visual diagrams created with Cloudcraft.co to Terraform
@@ -10874,7 +10874,7 @@
 - [nextma/addons_nextma](https://github.com/nextma/addons_nextma) - Odoo Customs Addons and tools from NEXTMA, HORIYASOFT
 - [thcipriani/stdgif](https://github.com/thcipriani/stdgif) - Standard output for gifs
 - [sqreen/PyMiniRacer](https://github.com/sqreen/PyMiniRacer) - PyMiniRacer is a V8 bridge in Python.
-- [pytest-dev/pytest-qt](https://github.com/pytest-dev/pytest-qt) - pytest plugin for Qt (PyQt4, PyQt5 and PySide) application testing
+- [pytest-dev/pytest-qt](https://github.com/pytest-dev/pytest-qt) - pytest plugin for Qt (PyQt5/PyQt6 and PySide2/PySide6) application testing
 - [ayush1997/visualize_ML](https://github.com/ayush1997/visualize_ML) - Python package for consolidated and extensive Univariate,Bivariate Data Analysis and Visualization catering to both categorical and continuous datasets.
 - [eventuallyc0nsistent/arachne](https://github.com/eventuallyc0nsistent/arachne) - A flask API for running your scrapy spiders
 - [kespindler/albatross](https://github.com/kespindler/albatross) - A modern, fast, simple async python3 web framework
@@ -14484,7 +14484,7 @@
 - [tevora-threat/Scout](https://github.com/tevora-threat/Scout) - Surveillance Detection Scout: Your Lookout on Autopilot
 - [Arattian/DynamoDb-GUI-Client](https://github.com/Arattian/DynamoDb-GUI-Client) - DynamoDb GUI Client
 - [nuxt/example-auth0](https://github.com/nuxt/example-auth0) - A simple example that shows how to use Nuxt.js with Auth0.
-- [ivanlori/Vuemmerce](https://github.com/ivanlori/Vuemmerce) - 👉 Responsive ecommerce template 🛒 built with Vue.js and Nuxt.js
+- [ivanlori/Vuemmerce](https://github.com/ivanlori/Vuemmerce) - Responsive ecommerce template built with Vue.js and Nuxt.js
 - [flatlogic/sing-app-vue-dashboard](https://github.com/flatlogic/sing-app-vue-dashboard) - Vue.js admin dashboard template built with Bootstrap 4.5
 - [flatlogic/light-blue-vue-admin](https://github.com/flatlogic/light-blue-vue-admin) - 🤘Vue admin dashboard template with stylish transparent design
 - [Materialfy/M-Dash](https://github.com/Materialfy/M-Dash) - A Crud Admin Dash made from Vue, Vuex, Vue-Router and Vuetify. Features working Notification system, Login system, JWT system, Store, Data tables
