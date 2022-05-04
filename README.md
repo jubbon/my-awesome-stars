@@ -1561,6 +1561,7 @@
 
 ## Go 
 
+- [zehuamama/tinybalancer](https://github.com/zehuamama/tinybalancer) - 🎉 Fast, stable layer 7 load balancer and failover
 - [werf/trdl](https://github.com/werf/trdl) - The universal solution for delivering your software updates securely from a trusted The Update Framework (TUF) repository
 - [maaslalani/draw](https://github.com/maaslalani/draw) - Draw in your terminal
 - [peak/s5cmd](https://github.com/peak/s5cmd) - Parallel S3 and local filesystem execution tool.
@@ -2097,7 +2098,7 @@
 - [aelsabbahy/goss](https://github.com/aelsabbahy/goss) - Quick and Easy server testing/validation
 - [myntra/pipeline](https://github.com/myntra/pipeline) - Pipeline is a package to build multi-staged concurrent workflows with a centralized logging output.
 - [imroc/req](https://github.com/imroc/req) - Simple Go HTTP client with Black Magic
-- [txthinking/brook](https://github.com/txthinking/brook) - Brook is a cross-platform strong encryption and not detectable proxy. Zero-Configuration. Brook 是一个跨平台的强加密无特征的代理软件. 零配置.
+- [txthinking/brook](https://github.com/txthinking/brook) - Brook is a cross-platform, strong encryption, undetectable protocol, not just proxy. Keep it simple, stupid. Zero-Configuration. Brook 是一个跨平台, 强加密, 无特征协议, 不仅仅是代理. 零配置.
 - [gokrazy/gokrazy](https://github.com/gokrazy/gokrazy) - turn your Go program(s) into an appliance running on the Raspberry Pi 3 or 4 (or on amd64 PCs!)
 - [ory/ladon](https://github.com/ory/ladon) - A SDK for access control policies: authorization for the microservice and IoT age. Inspired by AWS IAM policies. Written for Go.
 - [fd0/machma](https://github.com/fd0/machma) - Easy parallel execution of commands with live feedback
@@ -2160,7 +2161,7 @@
 - [chain/chain](https://github.com/chain/chain) - Chain Core - Open Source Ledger-as-a-Service
 - [IBM-Blockchain-Archive/learn-chaincode](https://github.com/IBM-Blockchain-Archive/learn-chaincode) - Learn how to write chaincode.  (For the latest information, see http://hyperledger-fabric.readthedocs.io/en/latest/chaincode.html)
 - [nim4/DBShield](https://github.com/nim4/DBShield) - Database firewall written in Go
-- [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is an open source distributed HTAP database compatible with the MySQL protocol
+- [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is an open source distributed hybrid transaction/analytical  database compatible with the MySQL protocol
 - [ory/hydra](https://github.com/ory/hydra) - OpenID Certified™ OpenID Connect and OAuth Provider written in Go - cloud native, security-first, open source API security for your infrastructure. SDKs for any language. Works with Hardware Security Modules. Compatible with MITREid.
 - [lifadev/archive_aws-lambda-go](https://github.com/lifadev/archive_aws-lambda-go) - A fast and clean way to execute Go on AWS Lambda.
 - [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
@@ -2244,6 +2245,7 @@
 
 ## HCL 
 
+- [AdminTurnedDevOps/Kubernetes-Quickstart-Environments](https://github.com/AdminTurnedDevOps/Kubernetes-Quickstart-Environments) - Code to bring up and configure Kubernetes environments
 - [yandex-cloud/yc-solution-library-for-security](https://github.com/yandex-cloud/yc-solution-library-for-security) - 
 - [wandb/local](https://github.com/wandb/local) - W&B Local is the self hosted version of Weights & Biases
 - [jcolemorrison/vault-on-aws](https://github.com/jcolemorrison/vault-on-aws) - A secure HashiCorp Vault for secrets, tokens, keys,  passwords, and more.  Automated deployment with Terraform on AWS.  Configurable options for security and scalability.  Usable with any applications and services hosted anywhere.
@@ -2454,7 +2456,6 @@
 - [google/fonts](https://github.com/google/fonts) - Font files available from Google Fonts, and a public issue tracker for all things Google Fonts
 - [tc39/proposal-optional-chaining](https://github.com/tc39/proposal-optional-chaining) - 
 - [vitalets/github-trending-repos](https://github.com/vitalets/github-trending-repos) - Track GitHub trending repositories in your favorite programming language by native GitHub notifications!
-- [WICG/kv-storage](https://github.com/WICG/kv-storage) - A proposal for an async key/value storage API for the web
 - [umpirsky/country-list](https://github.com/umpirsky/country-list) - :globe_with_meridians: List of all countries with names and ISO 3166-1 codes in all languages and data formats.
 - [kubernetes/website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:
 - [rstudio/rstudio-conf](https://github.com/rstudio/rstudio-conf) - Materials for rstudio::conf
@@ -2927,6 +2928,7 @@
 
 ## JavaScript 
 
+- [felippe-regazio/1post](https://github.com/felippe-regazio/1post) - A tiny, fast and fun static site generator for quick blogging
 - [kedro-org/kedro-viz](https://github.com/kedro-org/kedro-viz) - Visualise your Kedro data and machine-learning pipelines and track your experiments.
 - [sberbank-ai-lab/lightautoml-datafest-workshop](https://github.com/sberbank-ai-lab/lightautoml-datafest-workshop) - Materials for LightAutoML workshop (DataFest 2021)
 - [notion-enhancer/desktop](https://github.com/notion-enhancer/desktop) - an enhancer/customiser for the all-in-one productivity workspace notion.so (app)
@@ -3369,6 +3371,7 @@
 - [thefrontside/microstates](https://github.com/thefrontside/microstates) - Composable state primitives for JavaScript
 - [mixn/carbon-now-cli](https://github.com/mixn/carbon-now-cli) - 🎨 Beautiful images of your code — from right inside your terminal.
 - [adam-golab/react-developer-roadmap](https://github.com/adam-golab/react-developer-roadmap) - Roadmap to becoming a React developer
+- [watch-devtube/web](https://github.com/watch-devtube/web) - 🍿 Free and open-source tech video hub.
 - [danielwestendorf/breezy-pdf-lite](https://github.com/danielwestendorf/breezy-pdf-lite) - HTML/CSS/JS in, PDF out, via Chrome
 - [bytedance/xgplayer](https://github.com/bytedance/xgplayer) - A HTML5 video player with a parser that saves traffic
 - [kiranz/just-api](https://github.com/kiranz/just-api) - :boom: Test REST, GraphQL APIs
@@ -4494,6 +4497,13 @@
 
 ## Jupyter Notebook 
 
+- [simongrest/farm-pin-crop-detection-challenge](https://github.com/simongrest/farm-pin-crop-detection-challenge) - 8th place solution to Zindi's FarmPin Crop Detection Challenge
+- [thu-vu92/python-dashboard-panel](https://github.com/thu-vu92/python-dashboard-panel) - Interactive visualization dashboard in Python with Panel
+- [PacktPublishing/The-Kaggle-Book](https://github.com/PacktPublishing/The-Kaggle-Book) - Code Repository for The Kaggle Book, Published by Packt Publishing
+- [IbrahimSobh/Segmentation](https://github.com/IbrahimSobh/Segmentation) - In this tutorial, you will perform inference across 10 well-known pre-trained semantic segmentors and fine-tune on a custom dataset. Design and train your own segmentor.
+- [giacomomiolo/tensorflow-data-and-deployment-specialization](https://github.com/giacomomiolo/tensorflow-data-and-deployment-specialization) - Coursera Specialization TensorFlow Data and Deployment
+- [fastai/course22](https://github.com/fastai/course22) - 
+- [DataTalksClub/mlops-zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp) - Free MLOps course from DataTalks.Club
 - [zju3dv/LoFTR](https://github.com/zju3dv/LoFTR) - Code for "LoFTR: Detector-Free Local Feature Matching with Transformers", CVPR 2021
 - [vivekhsridhar/GODM](https://github.com/vivekhsridhar/GODM) - 
 - [srush/Tensor-Puzzles](https://github.com/srush/Tensor-Puzzles) - Solve puzzles. Improve your pytorch.
@@ -4503,7 +4513,7 @@
 - [facebookresearch/UniK-QA](https://github.com/facebookresearch/UniK-QA) - Unified Representations of Structured and Unstructured Knowledge for Open-Domain Question Answering
 - [espnet/interspeech2019-tutorial](https://github.com/espnet/interspeech2019-tutorial) - INTERSPEECH 2019 Tutorial Materials
 - [xbresson/CS4243_2022](https://github.com/xbresson/CS4243_2022) - Computer Vision and Pattern Recognition, NUS CS4243, 2022
-- [Nyandwi/machine_learning_complete](https://github.com/Nyandwi/machine_learning_complete) - A comprehensive repository containing 30+ notebooks on learning machine learning!
+- [Nyandwi/machine_learning_complete](https://github.com/Nyandwi/machine_learning_complete) - A comprehensive machine learning repository containing 30+ notebooks on different concepts, algorithms and techniques.
 - [numerai/example-scripts](https://github.com/numerai/example-scripts) - The official example scripts for the Numerai Data Science Tournament
 - [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) - 12 Weeks, 24 Lessons, AI for All!
 - [https-deeplearning-ai/GANs-Public](https://github.com/https-deeplearning-ai/GANs-Public) - Course notebooks for GANs specializations
@@ -6037,6 +6047,17 @@
 
 ## Others 
 
+- [huggingface/deep-rl-class](https://github.com/huggingface/deep-rl-class) - This repo contain the syllabus of the Hugging Face Deep Reinforcement Learning Class.
+- [sqlsite/awesome-sqlite](https://github.com/sqlsite/awesome-sqlite) - A curated list of awesome things related to SQLite
+- [theanalyst/awesome-distributed-systems](https://github.com/theanalyst/awesome-distributed-systems) - A curated list to learn about distributed systems
+- [spo0ds/Journey-to-become-a-Blockchain-Engineer](https://github.com/spo0ds/Journey-to-become-a-Blockchain-Engineer) - I'm sharing everything I'm learning to become a Blockchain Engineer
+- [rwaldron/idiomatic.js](https://github.com/rwaldron/idiomatic.js) - Principles of Writing Consistent, Idiomatic JavaScript
+- [ombharatiya/FAANG-Coding-Interview-Questions](https://github.com/ombharatiya/FAANG-Coding-Interview-Questions) - A curated List of Coding Questions Asked in FAANG Interviews
+- [NVlabs/FAN](https://github.com/NVlabs/FAN) - Official PyTorch implementation of Fully Attentional Networks
+- [karunkarthik-git/dsa-notes](https://github.com/karunkarthik-git/dsa-notes) - This repo contains the notes of different data structures and important questions which would help in acing interview rounds.
+- [hamed98/clean-code-slides](https://github.com/hamed98/clean-code-slides) - 
+- [Grasscutters/GrassClipper-X](https://github.com/Grasscutters/GrassClipper-X) - A MiHoYo-like launcher for custom servers, better UI & insensible proxy
+- [gi11es/equal-pay-for-equal-work](https://github.com/gi11es/equal-pay-for-equal-work) - This is a list of organizations that pay remote workers equally regardless of their location
 - [heejkoo/Awesome-Diffusion-Models](https://github.com/heejkoo/Awesome-Diffusion-Models) - A collection of resources and papers on Diffusion Models and Score-based Models, a darkhorse in the field of Generative Models
 - [joseadanof/awesome-cloudnative-trainings](https://github.com/joseadanof/awesome-cloudnative-trainings) - Awesome Trainings from Cloud Native Computing Foundation Projects and Kubernetes related software
 - [withfig/fig](https://github.com/withfig/fig) - Public issue tracker for Fig.
@@ -6611,6 +6632,7 @@
 - [goodrahstar/my-awesome-AI-bookmarks](https://github.com/goodrahstar/my-awesome-AI-bookmarks) - Curated list of my reads, implementations and core concepts of Artificial Intelligence, Deep Learning, Machine Learning by best folk in the world.
 - [tombusby/cypherpunk-research](https://github.com/tombusby/cypherpunk-research) - This repository is essentially for compiling information about Cypherpunks, the history of the movement, and the people/events of note.
 - [jhuangtw/xg2xg](https://github.com/jhuangtw/xg2xg) - by ex-googlers, for ex-googlers - a lookup table of similar tech & services
+- [WICG/kv-storage](https://github.com/WICG/kv-storage) - [On hold] A proposal for an async key/value storage API for the web
 - [atinfo/awesome-test-automation](https://github.com/atinfo/awesome-test-automation) - A curated list of awesome test automation frameworks, tools, libraries, and software for different programming languages. Sponsored by http://sdclabs.com
 - [cmatthewbrooks/r2kit](https://github.com/cmatthewbrooks/r2kit) - A set of scripts for a radare-based malware code analysis workflow
 - [cncf/wg-serverless](https://github.com/cncf/wg-serverless) - CNCF Serverless WG
@@ -7229,6 +7251,14 @@
 
 ## Python 
 
+- [bloomberg/pytest-memray](https://github.com/bloomberg/pytest-memray) - Memray is a memory profiler for Python
+- [lucidrains/flamingo-pytorch](https://github.com/lucidrains/flamingo-pytorch) - Implementation of 🦩 Flamingo, state-of-the-art few-shot visual question answering attention net out of Deepmind, in Pytorch
+- [strawberry-graphql/strawberry](https://github.com/strawberry-graphql/strawberry) - A GraphQL library for Python that leverages type annotations 🍓
+- [project-alice-assistant/ProjectAlice](https://github.com/project-alice-assistant/ProjectAlice) - Main repository of Project Alice, contains main unit source code
+- [mhamilton723/STEGO](https://github.com/mhamilton723/STEGO) - Unsupervised Semantic Segmentation by Distilling Feature Correspondences
+- [dwainscheeren/dwains-lovelace-dashboard](https://github.com/dwainscheeren/dwains-lovelace-dashboard) - An fully auto generating Home Assistant UI dashboard for desktop, tablet and mobile by Dwains for desktop, tablet, mobile
+- [BGU-CS-VIL/DeepDPM](https://github.com/BGU-CS-VIL/DeepDPM) - "DeepDPM: Deep Clustering With An Unknown Number of Clusters" [CVPR 2022]
+- [AdminTurnedDevOps/DevOps-The-Hard-Way-AWS](https://github.com/AdminTurnedDevOps/DevOps-The-Hard-Way-AWS) - This repository contains free labs for setting up an entire workflow and DevOps environment from a real-world perspective in AWS
 - [heartexlabs/label-studio-transformers](https://github.com/heartexlabs/label-studio-transformers) - Label data using HuggingFace's transformers and automatically get a prediction service
 - [neonbjb/DL-Art-School](https://github.com/neonbjb/DL-Art-School) - DLAS - A configuration-driven trainer for generative models
 - [neonbjb/ocotillo](https://github.com/neonbjb/ocotillo) - Performant and accurate speech recognition built on Pytorch
@@ -12485,7 +12515,7 @@
 - [sametmax/django-quicky](https://github.com/sametmax/django-quicky) - A collection of toys to skip the forplay with Django and go straight to the point: url and view decorators.
 - [sb-/OpenExchange](https://github.com/sb-/OpenExchange) - Open source cryptocurrency exchange
 - [skillachie/ark_agent](https://github.com/skillachie/ark_agent) - Distributed Agent Based On Celery Used To Collect End Of Day Stock Data
-- [platformio/platformio-core](https://github.com/platformio/platformio-core) - PlatformIO is a professional collaborative platform for embedded development :alien: A place where Developers and Teams have true Freedom! No more vendor lock-in!
+- [platformio/platformio-core](https://github.com/platformio/platformio-core) - A professional collaborative platform for declarative embedded development :alien:
 - [justinmeister/The-Stolen-Crown-RPG](https://github.com/justinmeister/The-Stolen-Crown-RPG) - A fantasy mini-RPG built with Python and Pygame.
 - [sloria/doitlive](https://github.com/sloria/doitlive) - Because sometimes you need to do it live
 - [blueboxgroup/ursula](https://github.com/blueboxgroup/ursula) - Ansible playbooks for operating OpenStack - Powering Blue Box Cloud.
@@ -13811,6 +13841,7 @@
 
 ## Shell 
 
+- [TheSadError/NIVOS](https://github.com/TheSadError/NIVOS) - NIVOS is a hacking tool that allows you to scan deeply , crack wifi, see people on your network. It applies to all linux operating systems. And it is improving every day, new packages are added. Thank You For Using NIVOS :&gt; [NIVOS Created By NIVO Team]
 - [google/ekep-analysis](https://github.com/google/ekep-analysis) - 
 - [codota/TabNine](https://github.com/codota/TabNine) - AI Code Completions
 - [puckel/docker-airflow](https://github.com/puckel/docker-airflow) - Docker Apache Airflow
@@ -14069,6 +14100,7 @@
 
 ## TypeScript 
 
+- [AkashRajpurohit/howtoprofessionallysay](https://github.com/AkashRajpurohit/howtoprofessionallysay) - A guide for your daily "professional" interactions (not really)
 - [cakechaser/obsidian-release-timeline](https://github.com/cakechaser/obsidian-release-timeline) - 
 - [HEmile/juggl](https://github.com/HEmile/juggl) - An interactive, stylable and expandable graph view for Obsidian. Juggl is designed as an advanced 'local' graph view, where you can juggle all your thoughts with ease.
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
@@ -14119,7 +14151,7 @@
 - [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - Browser fingerprinting library with the highest accuracy and stability.
 - [facebookresearch/hiplot](https://github.com/facebookresearch/hiplot) - HiPlot makes understanding high dimensional data easy
 - [coreui/coreui-vue](https://github.com/coreui/coreui-vue) - Bootstrap 5 based Vue 3 components and directives. CoreUI for Vue.js replaces and extends the Bootstrap 5 javascript. Components have been built from scratch as true Vue 3 components.
-- [FactorJS/factor](https://github.com/FactorJS/factor) - [Alpha] Next-generation JavaScript framework for JAMStack blogs, sites & apps.
+- [FactorJS/factor](https://github.com/FactorJS/factor) - [In development, please wait for updated public release] Next-generation JavaScript framework for JAMStack blogs, sites & apps.
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [lostintangent/gistpad](https://github.com/lostintangent/gistpad) - VS Code extension for managing and sharing code snippets, notes and interactive samples using GitHub Gists
 - [RocketChat/docs](https://github.com/RocketChat/docs) - Rocket.Chat's user documentation.
@@ -14628,7 +14660,6 @@
 - [zdy1988/vue-jstree](https://github.com/zdy1988/vue-jstree) - A Tree Plugin For Vue2.0+
 - [slimkit/plus-small-screen-client](https://github.com/slimkit/plus-small-screen-client) - 本库已经合并进入 https://github.com/slimkit/plus 中，仅提供 2.1 及以前版本下载使用！
 - [stasson/vue-mdc-adapter](https://github.com/stasson/vue-mdc-adapter) - DEPRECATED
-- [watch-devtube/web](https://github.com/watch-devtube/web) - 🍿 Free and open-source tech video hub.
 - [vinz3872/vuejs-tree](https://github.com/vinz3872/vuejs-tree) - A highly customizable and blazing fast Vue tree component ⚡🌲
 - [Edinburgh-Genome-Foundry/CAB](https://github.com/Edinburgh-Genome-Foundry/CAB) - :oncoming_taxi:  The friendly Computational App Boilerplate. Django + Vue.JS + Redis queues + NginX
 - [GeekyAnts/KitchenSink-Vue-Native](https://github.com/GeekyAnts/KitchenSink-Vue-Native) - KitchenSink app for Vue Native (using NativeBase)
